@@ -1,7 +1,157 @@
 window.newsData_2026_06_12 = {
   "date": "2026-06-12",
-  "lastUpdated": "2026-06-12T15:15:44.111320+07:00",
+  "lastUpdated": "2026-06-12T19:49:15.305499+07:00",
   "articles": [
+    {
+      "id": "7d520c578ebed6f8e6c8d3eec68288b5",
+      "title": "Khởi công dự án nhà máy sản xuất, chế tạo vi mạch điện tử, dự kiến thu 530 triệu USD mỗi năm",
+      "link": "https://tuoitre.vn/khoi-cong-du-an-nha-may-san-xuat-che-tao-vi-mach-dien-tu-du-kien-thu-530-trieu-usd-moi-nam-20260612165426862.htm",
+      "summary": "Dự án nhà máy sản xuất, chế tạo vi mạch điện tử Meiko Yên Quang (xã Thịnh Minh, tỉnh Phú Thọ) do Tập đoàn Meiko Nhật Bản đầu tư được kỳ vọng sẽ đạt doanh thu khoảng 530 triệu USD mỗi năm và tạo việc làm cho 1.200 - 2.000 lao động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T19:49:08.850448+07:00",
+      "fetched": "2026-06-12T19:49:08.850559+07:00"
+    },
+    {
+      "id": "7dc7e760004de76f071339d3c1a8712b",
+      "title": "Bộ Công an đề xuất: Người bán thực phẩm trên mạng xã hội phải xác thực danh tính",
+      "link": "https://tuoitre.vn/bo-cong-an-de-xuat-nguoi-ban-thuc-pham-tren-mang-xa-hoi-phai-xac-thuc-danh-tinh-20260612155406267.htm",
+      "summary": "Bộ Công an đề xuất bổ sung nhiều quy định nhằm tăng cường quản lý hoạt động kinh doanh thực phẩm trên không gian mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T19:49:08.850326+07:00",
+      "fetched": "2026-06-12T19:49:08.850436+07:00"
+    },
+    {
+      "id": "0267cafce3b34063434332ce673f7a5f",
+      "title": "'Rùa gián điệp': Kiểu do thám mới khiến Trung Quốc cảnh giác",
+      "link": "https://tuoitre.vn/rua-gian-diep-kieu-do-tham-moi-khien-trung-quoc-canh-giac-20260612171554894.htm",
+      "summary": "Trung Quốc cảnh báo một số cơ quan tình báo đang gắn cảm biến lên rùa và cá để dựng bản đồ dưới nước dọc bờ biển nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T19:49:08.850196+07:00",
+      "fetched": "2026-06-12T19:49:08.850314+07:00"
+    },
+    {
+      "id": "320b0bdfbb293c5e46114a9de8913f9a",
+      "title": "Chủ tịch Hà Nội lý giải việc bỏ đề xuất hỗ trợ 5 triệu đồng/người khi đổi xe máy xăng sang xe điện",
+      "link": "https://tuoitre.vn/chu-tich-ha-noi-ly-giai-viec-bo-de-xuat-ho-tro-5-trieu-dong-nguoi-khi-doi-xe-may-xang-sang-xe-dien-20260612171325086.htm",
+      "summary": "Chiều 12-6, trong khuôn khổ kỳ họp chuyên đề, HĐND TP Hà Nội tiếp tục thảo luận tại tổ để cho ý kiến về các nghị quyết dự kiến sẽ thông qua trong kỳ họp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T19:49:08.850062+07:00",
+      "fetched": "2026-06-12T19:49:08.850184+07:00"
+    },
+    {
+      "id": "9ef47ec84f32bd22e8795440eaa6da46",
+      "title": "Hà Nội sắp đón 370.000m² văn phòng mới, 'cuộc chơi' dồn về phía tây",
+      "link": "https://tuoitre.vn/ha-noi-sap-don-370-000m-van-phong-moi-cuoc-choi-don-ve-phia-tay-20260612165634704.htm",
+      "summary": "Với khoảng 76% nguồn cung tương lai tập trung tại khu vực phía tây, thị trường văn phòng Hà Nội đang chứng kiến một cuộc chuyển dịch mạnh mẽ hướng tới các tiêu chuẩn xanh và bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T19:49:08.849937+07:00",
+      "fetched": "2026-06-12T19:49:08.850050+07:00"
+    },
+    {
+      "id": "12214c812568330d955ee4d18430624d",
+      "title": "Nhà máy Intel Việt Nam đã xuất xưởng 4 tỉ đơn vị sản phẩm, góp 110 tỉ USD xuất khẩu",
+      "link": "https://tuoitre.vn/nha-may-intel-viet-nam-da-xuat-xuong-4-ti-don-vi-san-pham-gop-110-ti-usd-xuat-khau-20260612172359867.htm",
+      "summary": "Nhà máy Intel Việt Nam hiện là cơ sở lắp ráp và kiểm định chip lớn nhất trong mạng lưới toàn cầu của Intel, tạo ra khoảng 6.500 việc làm trong lĩnh vực công nghệ cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T19:49:08.849811+07:00",
+      "fetched": "2026-06-12T19:49:08.849926+07:00"
+    },
+    {
+      "id": "6a13f254313efd1e9f061342a4901d9b",
+      "title": "5 tháng, Tây Ninh đã phát hiện 2.501 vụ vi phạm buôn lậu, gian lận thương mại, hàng giả",
+      "link": "https://tuoitre.vn/5-thang-tay-ninh-da-phat-hien-2-501-vu-vi-pham-buon-lau-gian-lan-thuong-mai-hang-gia-20260612171310532.htm",
+      "summary": "Điển hình trong tháng 5-2026, lực lượng chức năng tỉnh Tây Ninh triệt phá 2 vụ sản xuất phân bón, dầu gió giả các thương hiệu nổi tiếng, khởi tố 5 người về tội xâm phạm quyền sở hữu công nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T19:49:08.849681+07:00",
+      "fetched": "2026-06-12T19:49:08.849799+07:00"
+    },
+    {
+      "id": "3d8506e8cfbd768982c65d0b3242f05f",
+      "title": "Lãnh đạo Triều Tiên chúc mừng Quốc khánh Nga, khẳng định quan hệ bền chặt",
+      "link": "https://tuoitre.vn/lanh-dao-trieu-tien-chuc-mung-quoc-khanh-nga-khang-dinh-quan-he-ben-chat-20260612141543778.htm",
+      "summary": "Nhà lãnh đạo Triều Tiên Kim Jong Un gửi điện chúc mừng Ngày Quốc khánh Nga, trước thềm khánh thành cây cầu nối liền hai nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T19:49:08.849535+07:00",
+      "fetched": "2026-06-12T19:49:08.849668+07:00"
+    },
+    {
+      "id": "a43c2a7191f6db08a33d34d5871ab39a",
+      "title": "Thêm 4 lãnh đạo TV4 bị khởi tố, bắt tạm giam",
+      "link": "https://tuoitre.vn/them-4-lanh-dao-tv4-bi-khoi-to-bat-tam-giam-20260612175741724.htm",
+      "summary": "CTCP Tư vấn Xây dựng Điện 4 (TV4) vừa công bố thông tin bất thường về việc Chủ tịch hội đồng quản trị, Tổng giám đốc cùng hai lãnh đạo khác bị khởi tố, bắt tạm giam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T19:49:08.849412+07:00",
+      "fetched": "2026-06-12T19:49:08.849524+07:00"
+    },
+    {
+      "id": "ef64a0dae0d1ae262452fba49e33e997",
+      "title": "Bộ Nội vụ hướng dẫn 'gỡ nút thắt' nhân sự cấp xã",
+      "link": "https://tuoitre.vn/bo-noi-vu-huong-dan-go-nut-that-nhan-su-cap-xa-20260612173317443.htm",
+      "summary": "Theo Bộ Nội vụ, các địa phương được phép ký hợp đồng lao động đối với một số vị trí chuyên môn, nghiệp vụ ở cấp xã để kịp thời bổ sung nhân lực còn thiếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T19:49:08.849286+07:00",
+      "fetched": "2026-06-12T19:49:08.849401+07:00"
+    },
+    {
+      "id": "a1e7a94d6f958e9a3fb7f8e0ce3dccf5",
+      "title": "Chủ tịch công ty đã bỏ trốn gây thiệt hại 3.000 tỉ cho Ngân hàng Đông Á thế nào?",
+      "link": "https://tuoitre.vn/chu-tich-cong-ty-da-bo-tron-gay-thiet-hai-3-000-ti-cho-ngan-hang-dong-a-the-nao-20260612174027957.htm",
+      "summary": "Từ khoản tài trợ 100 triệu USD của nhà đầu tư nước ngoài, Nguyễn Thiện Nhân bị cáo buộc chỉ đạo hàng loạt doanh nghiệp \"sân sau\" vay vốn, đảo nợ và rút tiền từ Ngân hàng Đông Á, để lại khoản dư nợ hơn 3.000 tỉ đồng không còn khả năng thu hồi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T19:49:08.849158+07:00",
+      "fetched": "2026-06-12T19:49:08.849274+07:00"
+    },
+    {
+      "id": "c84f715eefe19c2da0928c30c5004518",
+      "title": "Thu hồi dự án FLC nhưng 'quên' hủy quyết định thu hồi đất",
+      "link": "https://tuoitre.vn/thu-hoi-du-an-flc-nhung-quen-huy-quyet-dinh-thu-hoi-dat-20260612170819232.htm",
+      "summary": "Chín dự án khu đô thị và khu du lịch sinh thái của Tập đoàn FLC tại Quảng Ngãi đã bị thu hồi, chấm dứt hoạt động từ năm 2022 - 2023. Tuy nhiên nhiều quyết định thu hồi đất được ban hành trước đó vẫn chưa được hủy bỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T19:49:08.849028+07:00",
+      "fetched": "2026-06-12T19:49:08.849146+07:00"
+    },
+    {
+      "id": "7755a812a928d477b245331b476dfaee",
+      "title": "BIDV chia sẻ giải pháp chuẩn hóa thanh toán, cùng hộ kinh doanh chuyển đổi số",
+      "link": "https://tuoitre.vn/bidv-chia-se-giai-phap-chuan-hoa-thanh-toan-cung-ho-kinh-doanh-chuyen-doi-so-20260612171453117.htm",
+      "summary": "Ngày 11-6, tại TP.HCM, trong khuôn khổ Ngày Tài chính số 2026 do Báo Tuổi Trẻ tổ chức, BIDV đã tham gia Hội thảo với chủ đề “Chuẩn hóa thanh toán - Nâng cao hiệu quả kinh doanh”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T19:49:08.848894+07:00",
+      "fetched": "2026-06-12T19:49:08.849016+07:00"
+    },
+    {
+      "id": "6126da059c956836e4abd11cf9d3f68d",
+      "title": "Cho thuê nhà dưới 1 tỉ đồng/năm: Miễn thuế nhưng vẫn phải kê khai",
+      "link": "https://tuoitre.vn/cho-thue-nha-duoi-1-ti-dong-nam-mien-thue-nhung-van-phai-ke-khai-20260612175121193.htm",
+      "summary": "Dù không phải nộp thuế giá trị gia tăng và thuế thu nhập cá nhân, cá nhân có doanh thu từ cho thuê nhà, đất dưới 1 tỉ đồng/năm vẫn phải thông báo doanh thu và tài khoản phục vụ hoạt động kinh doanh với cơ quan thuế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T19:49:08.848749+07:00",
+      "fetched": "2026-06-12T19:49:08.848881+07:00"
+    },
+    {
+      "id": "2e4793cc0914d4cc988d9f2d672bdb1b",
+      "title": "TP.HCM tăng tốc thu hút vốn đầu tư mạo hiểm cho đổi mới sáng tạo",
+      "link": "https://tuoitre.vn/tp-hcm-tang-toc-thu-hut-von-dau-tu-mao-hiem-cho-doi-moi-sang-tao-20260612180504453.htm",
+      "summary": "TP.HCM đã thành lập Quỹ đầu tư mạo hiểm với vốn khởi điểm 500 tỉ đồng, dự kiến nâng lên 5.000 tỉ đồng vào năm 2035.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T19:49:08.848493+07:00",
+      "fetched": "2026-06-12T19:49:08.848733+07:00"
+    },
     {
       "id": "5c1a68e1a8bf0244fe823a06aeeb9d78",
       "title": "Đà Nẵng duyệt 4 khu vực khoáng sản không đấu giá để đảm bảo vật liệu cho dự án trọng điểm",
@@ -151,6 +301,256 @@ window.newsData_2026_06_12 = {
       "category": "Tổng hợp",
       "published": "2026-06-12T15:15:36.574862+07:00",
       "fetched": "2026-06-12T15:15:36.575089+07:00"
+    },
+    {
+      "id": "8a3778c902873d67c263a967b3801e37",
+      "title": "Nhóm tin tặc liên quan đến Iran dọa tấn công World Cup",
+      "link": "https://vnexpress.net/nhom-tin-tac-lien-quan-den-iran-doa-tan-cong-world-cup-5085119.html",
+      "summary": "Handala, nhóm tin tặc có liên quan tới Iran, tuyên bố đã xâm nhập máy bay không người lái của FBI và dọa nhắm mục tiêu vào giải đấu World Cup.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-12T12:34:56+07:00",
+      "fetched": "2026-06-12T19:49:10.018929+07:00"
+    },
+    {
+      "id": "bfcccfb7b119926361198ac5c2c4618d",
+      "title": "Vợ chồng lương 35 triệu sinh hai con - sướng hơn thời độc thân",
+      "link": "https://vnexpress.net/luong-35-trieu-sinh-hai-con-nhung-toi-khong-thay-kho-hon-thoi-doc-than-5085030.html",
+      "summary": "Quyết định lấy chồng và sinh hai con là một trong những lựa chọn đúng đắn nhất của cuộc đời tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T12:00:00+07:00",
+      "fetched": "2026-06-12T19:48:52.895181+07:00"
+    },
+    {
+      "id": "06a8b44b42cc6344eebfec53968375f4",
+      "title": "Giá trị chiến lược khiến đảo Kharg lọt tầm ngắm của ông Trump",
+      "link": "https://vnexpress.net/gia-tri-chien-luoc-khien-dao-kharg-lot-tam-ngam-cua-ong-trump-5084801.html",
+      "summary": "Kiểm soát đảo Kharg có thể giúp Mỹ bóp nghẹt kinh tế Iran và thay đổi cục diện xung đột, nhưng kịch bản này cũng tiềm ẩn nhiều rủi ro cho Washington.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T12:00:00+07:00",
+      "fetched": "2026-06-12T19:48:52.895364+07:00"
+    },
+    {
+      "id": "1517ec326b35d8a5d79a1853199fcd3f",
+      "title": "Máy bay điện pin thể rắn lần đầu thử nghiệm chở người",
+      "link": "https://vnexpress.net/may-bay-dien-pin-the-ran-lan-dau-thu-nghiem-cho-nguoi-5084694.html",
+      "summary": "Tổ chức phi lợi nhuận Helios Horizon tuyên bố hoàn thành chuyến bay có người lái đầu tiên của máy bay điện sử dụng pin thể rắn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T12:00:00+07:00",
+      "fetched": "2026-06-12T19:48:52.895531+07:00"
+    },
+    {
+      "id": "1ceb2c43ccdd9a785a153a3adde8ee43",
+      "title": "Bom tấn 'The Odyssey': Canh bạc lớn của Nolan",
+      "link": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/the-odyssey-905",
+      "summary": "\"The Odyssey\" là một trong những dự án điện ảnh tốn kém nhất của Christopher Nolan với kinh phí 250 triệu USD, ghi hình ở nhiều địa điểm trên thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T12:00:00+07:00",
+      "fetched": "2026-06-12T19:48:52.895719+07:00"
+    },
+    {
+      "id": "a8cf0fdf7f0f813fb1e93fabb8f3b21d",
+      "title": "'Hồng Hạc City hướng đến nhu cầu của cư dân đô thị nhiều thập kỷ tới'",
+      "link": "https://vnexpress.net/hong-hac-city-huong-den-nhu-cau-cua-cu-dan-do-thi-nhieu-thap-ky-toi-5082357.html",
+      "summary": "Hồng Hạc City được quy hoạch theo hướng phát triển dài hạn, liên tục bổ sung hạ tầng, tiện ích và dịch vụ nhằm đáp ứng nhu cầu sống của cư dân trong 10-20 năm tới, theo ông Trương Quốc Hưng, Phó tổng giám đốc Phú Mỹ Hưng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T12:00:00+07:00",
+      "fetched": "2026-06-12T19:48:52.895900+07:00"
+    },
+    {
+      "id": "06a8b44b42cc6344eebfec53968375f4",
+      "title": "Giá trị chiến lược khiến đảo Kharg lọt tầm ngắm của ông Trump",
+      "link": "https://vnexpress.net/gia-tri-chien-luoc-khien-dao-kharg-lot-tam-ngam-cua-ong-trump-5084801.html",
+      "summary": "Kiểm soát đảo Kharg có thể giúp Mỹ bóp nghẹt kinh tế Iran và thay đổi cục diện xung đột, nhưng kịch bản này cũng tiềm ẩn nhiều rủi ro cho Washington.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-12T12:00:00+07:00",
+      "fetched": "2026-06-12T19:49:10.019104+07:00"
+    },
+    {
+      "id": "1517ec326b35d8a5d79a1853199fcd3f",
+      "title": "Máy bay điện pin thể rắn lần đầu thử nghiệm chở người",
+      "link": "https://vnexpress.net/may-bay-dien-pin-the-ran-lan-dau-thu-nghiem-cho-nguoi-5084694.html",
+      "summary": "Tổ chức phi lợi nhuận Helios Horizon tuyên bố hoàn thành chuyến bay có người lái đầu tiên của máy bay điện sử dụng pin thể rắn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-12T12:00:00+07:00",
+      "fetched": "2026-06-12T19:49:13.873339+07:00"
+    },
+    {
+      "id": "8592ec7d86c22bb685cea83107b8b377",
+      "title": "Hoả hoạn thiêu rụi kho hàng y tế rộng 93.000 m2 tại Mỹ",
+      "link": "https://vnexpress.net/hoa-hoan-thieu-rui-kho-hang-y-te-rong-93-000-m2-tai-my-5085128.html",
+      "summary": "Đám cháy lớn bùng phát tại kho chứa sản phẩm y tế ở thành phố Tracy, bang California, tạo khói đen khổng lồ, chính quyền phải ban bố tình trạng khẩn cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T11:29:10+07:00",
+      "fetched": "2026-06-12T19:48:52.896071+07:00"
+    },
+    {
+      "id": "1a445a77e034633a592277b7bd71b7f9",
+      "title": "Dắt chó ra đường không đeo rọ mõm sẽ bị phạt 2 triệu đồng",
+      "link": "https://vnexpress.net/dat-cho-ra-duong-khong-deo-ro-mom-se-bi-phat-2-trieu-dong-5085124.html",
+      "summary": "Từ 1/8, người dắt chó đến nơi công cộng nhưng không đeo rọ mõm hoặc không có xích giữ chó, sẽ bị phạt từ 1 đến 2 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T11:18:28+07:00",
+      "fetched": "2026-06-12T19:48:52.896229+07:00"
+    },
+    {
+      "id": "d3290737b56d39acd9d958fb3b366406",
+      "title": "Người đi xe máy biến mất dưới gầm ôtô",
+      "link": "https://vnexpress.net/nguoi-di-xe-may-bien-mat-duoi-gam-oto-5085004.html",
+      "summary": "Đi phía sau một đoạn bất ngờ ôtô có gắn camera hành trình cuốn mất người đi xe máy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T11:15:25+07:00",
+      "fetched": "2026-06-12T19:48:52.896392+07:00"
+    },
+    {
+      "id": "94365fadd4b909f9d03656acb887afb0",
+      "title": "Chủ tịch CCV Group Mai Hà Trang 'huy động hơn 1.030 tỷ đồng'",
+      "link": "https://vnexpress.net/chu-tich-ccv-group-mai-ha-trang-huy-dong-hon-1-030-ty-dong-5085104.html",
+      "summary": "Chủ tịch CCV Group Mai Hà Trang bị cáo buộc hành vi gian dối, huy động hơn 2.000 hợp đồng góp vốn với tổng số tiền khoảng 1.030 tỷ đồng từ các nhà đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T11:11:26+07:00",
+      "fetched": "2026-06-12T19:48:52.896549+07:00"
+    },
+    {
+      "id": "fe9e8f46f0e12c2e4fc0e5163996e131",
+      "title": "Điểm chuẩn lớp 10 chuyên Khoa học Xã hội và Nhân văn cao nhất 43,31",
+      "link": "https://vnexpress.net/diem-chuan-lop-10-chuyen-khoa-hoc-xa-hoi-va-nhan-van-2026-5085121.html",
+      "summary": "Điểm chuẩn lớp 10 trường chuyên Khoa học Xã hội và Nhân văn từ 41,26 đến 43,31, cao nhất là lớp chuyên Văn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T11:01:19+07:00",
+      "fetched": "2026-06-12T19:48:52.896768+07:00"
+    },
+    {
+      "id": "fda492fe7921ecbbe095d346d0fa1dbd",
+      "title": "Cựu tổng thống Hàn Quốc Yoon Suk-yeol bị tuyên thêm 30 năm tù",
+      "link": "https://vnexpress.net/cuu-tong-thong-han-quoc-yoon-suk-yeol-bi-tuyen-them-30-nam-tu-5085089.html",
+      "summary": "Cựu tổng thống Yoon Suk-yeol, người đang thụ án chung thân, bị tuyên thêm 30 năm tù vì đã chỉ đạo vụ UAV Hàn Quốc xâm nhập Triều Tiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T10:54:00+07:00",
+      "fetched": "2026-06-12T19:48:52.896933+07:00"
+    },
+    {
+      "id": "fda492fe7921ecbbe095d346d0fa1dbd",
+      "title": "Cựu tổng thống Hàn Quốc Yoon Suk-yeol bị tuyên thêm 30 năm tù",
+      "link": "https://vnexpress.net/cuu-tong-thong-han-quoc-yoon-suk-yeol-bi-tuyen-them-30-nam-tu-5085089.html",
+      "summary": "Cựu tổng thống Yoon Suk-yeol, người đang thụ án chung thân, bị tuyên thêm 30 năm tù vì đã chỉ đạo vụ UAV Hàn Quốc xâm nhập Triều Tiên.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-12T10:54:00+07:00",
+      "fetched": "2026-06-12T19:49:10.019266+07:00"
+    },
+    {
+      "id": "dbbfc83743b14889e7cf5e053aee6fa2",
+      "title": "Từ cửa tử đến người hùng trận khai mạc World Cup 2026",
+      "link": "https://vnexpress.net/tu-cua-tu-den-nguoi-hung-tran-khai-mac-world-cup-2026-5085108.html",
+      "summary": "Từng suýt chết vì nứt xương sọ cách đây 6 năm, tiền đạo Mexico Raul Jimenez đánh đầu ghi bàn ấn định thắng lợi 2-0 trước Nam Phi ngày 11/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T10:40:32+07:00",
+      "fetched": "2026-06-12T19:48:52.897095+07:00"
+    },
+    {
+      "id": "dbbfc83743b14889e7cf5e053aee6fa2",
+      "title": "Từ cửa tử đến người hùng trận khai mạc World Cup 2026",
+      "link": "https://vnexpress.net/tu-cua-tu-den-nguoi-hung-tran-khai-mac-world-cup-2026-5085108.html",
+      "summary": "Từng suýt chết vì nứt xương sọ cách đây 6 năm, tiền đạo Mexico Raul Jimenez đánh đầu ghi bàn ấn định thắng lợi 2-0 trước Nam Phi ngày 11/6.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-12T10:40:32+07:00",
+      "fetched": "2026-06-12T19:49:15.296307+07:00"
+    },
+    {
+      "id": "fb24021e7f1c13d15db905a4bb287c49",
+      "title": "Điểm tin 17h: Cảnh sát đột kích bắt 83 người Trung Quốc lập 'đại bản doanh' lừa đảo tại TP HCM | Xác minh một số thí sinh dùng AI giải đề thi tốt nghiệp",
+      "link": "https://vnexpress.net/diem-tin-17h-canh-sat-dot-kich-bat-83-nguoi-trung-quoc-lap-dai-ban-doanh-lua-dao-tai-tp-hcm-xac-minh-mot-so-thi-sinh-dung-ai-giai-de-thi-tot-nghiep-5085120.html",
+      "summary": "Đề xuất xác thực danh tính người bán thực phẩm trên mạng; Mỗi lượng vàng tăng hơn 7 triệu đồng trong ngày;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T10:28:24+07:00",
+      "fetched": "2026-06-12T19:48:52.897258+07:00"
+    },
+    {
+      "id": "8c4ef1eb85808313fc97c2a4f943d1a9",
+      "title": "84% người Mỹ nghi chính phủ giấu thông tin về UFO",
+      "link": "https://vnexpress.net/84-nguoi-my-nghi-chinh-phu-giau-thong-tin-ve-ufo-5085027.html",
+      "summary": "84% người Mỹ cho rằng chính phủ chưa công bố hết thông tin về UFO, 63% tin có sự sống ngoài hành tinh, theo khảo sát mới công bố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T10:16:22+07:00",
+      "fetched": "2026-06-12T19:48:52.897415+07:00"
+    },
+    {
+      "id": "8c4ef1eb85808313fc97c2a4f943d1a9",
+      "title": "84% người Mỹ nghi chính phủ giấu thông tin về UFO",
+      "link": "https://vnexpress.net/84-nguoi-my-nghi-chinh-phu-giau-thong-tin-ve-ufo-5085027.html",
+      "summary": "84% người Mỹ cho rằng chính phủ chưa công bố hết thông tin về UFO, 63% tin có sự sống ngoài hành tinh, theo khảo sát mới công bố.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-12T10:16:22+07:00",
+      "fetched": "2026-06-12T19:49:10.019426+07:00"
+    },
+    {
+      "id": "d6cfa9665437c78363ce684663210d81",
+      "title": "Hành trình SpaceX trở thành công ty công nghệ trị giá 1.770 tỷ USD",
+      "link": "https://vnexpress.net/hanh-trinh-spacex-tro-thanh-cong-ty-cong-nghe-tri-gia-1-770-ty-usd-5084990.html",
+      "summary": "Từ tham vọng phát triển tên lửa riêng, Elon Musk dẫn dắt SpaceX vượt qua nhiều thất bại, vươn lên vị trí công ty vũ trụ hàng đầu thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T10:16:13+07:00",
+      "fetched": "2026-06-12T19:48:52.897578+07:00"
+    },
+    {
+      "id": "d6cfa9665437c78363ce684663210d81",
+      "title": "Hành trình SpaceX trở thành công ty công nghệ trị giá 1.770 tỷ USD",
+      "link": "https://vnexpress.net/hanh-trinh-spacex-tro-thanh-cong-ty-cong-nghe-tri-gia-1-770-ty-usd-5084990.html",
+      "summary": "Từ tham vọng phát triển tên lửa riêng, Elon Musk dẫn dắt SpaceX vượt qua nhiều thất bại, vươn lên vị trí công ty vũ trụ hàng đầu thế giới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-12T10:16:13+07:00",
+      "fetched": "2026-06-12T19:49:13.873003+07:00"
+    },
+    {
+      "id": "d81432bea3351c2d28b3548c1f1413dc",
+      "title": "Phản ứng 'cạn lời' gây sốt của 3 danh thủ Nam Phi sau trận thua Mexico",
+      "link": "https://vnexpress.net/phan-ung-can-loi-gay-sot-cua-3-danh-thu-nam-phi-sau-tran-thua-mexico-5085112.html",
+      "summary": "Các danh thủ bóng đá Nam Phi không nói nên lời sau khi chứng kiến đội nhà thua Mexico 0-2 ở trận mở màn World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-12T10:10:26+07:00",
+      "fetched": "2026-06-12T19:49:15.296481+07:00"
+    },
+    {
+      "id": "24fce0289e95ed9bc32646d1ee22a3c5",
+      "title": "Trung Quốc bắt công dân Mỹ với cáo buộc gián điệp",
+      "link": "https://vnexpress.net/trung-quoc-bat-cong-dan-my-voi-cao-buoc-gian-diep-5085081.html",
+      "summary": "U Min Zin, công dân Mỹ đứng đầu tổ chức nghiên cứu về Myanmar, bị bắt với cáo buộc hoạt động gián điệp và gây nguy hiểm cho Trung Quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-12T10:08:15+07:00",
+      "fetched": "2026-06-12T19:49:10.019580+07:00"
+    },
+    {
+      "id": "cb558c815997b5de9e1d7ad8779207fa",
+      "title": "BIDV khai trương chi nhánh Flagship Private Banking tại TP HCM",
+      "link": "https://vnexpress.net/bidv-khai-truong-chi-nhanh-flagship-private-banking-tai-tp-hcm-5085102.html",
+      "summary": "BIDV khai trương chi nhánh Flagship Private Banking - Trung tâm khách hàng cá nhân cao cấp miền Nam, tại 153 Hai Bà Trưng, phường Xuân Hòa, TP HCM, ngày 11/6.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-12T10:00:00+07:00",
+      "fetched": "2026-06-12T19:49:11.166404+07:00"
     },
     {
       "id": "9199f4e90eab6ec5bf3fe2fabd41560f",
@@ -303,6 +703,66 @@ window.newsData_2026_06_12 = {
       "fetched": "2026-06-12T09:36:57.356299+07:00"
     },
     {
+      "id": "da7517ba34f56f2920b6841fd2a50dbf",
+      "title": "Shakira dự World Cup nhiều hơn Italy trong 20 năm",
+      "link": "https://vnexpress.net/shakira-du-world-cup-nhieu-hon-italy-trong-20-nam-5085085.html",
+      "summary": "Phần biểu diễn tại lễ khai mạc World Cup 2026 là kỳ thứ tư Shakira góp mặt ở ngày hội bóng đá lớn nhất hành tinh trong 20 năm qua, trong khi Italy chỉ dự ba kỳ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-12T09:27:26+07:00",
+      "fetched": "2026-06-12T19:49:15.296666+07:00"
+    },
+    {
+      "id": "bc7d77273e6301ed44638c517c1dfb65",
+      "title": "FIFA: Mọi hợp đồng cầu thủ đều cần điều khoản giải phóng",
+      "link": "https://vnexpress.net/fifa-moi-hop-dong-cau-thu-deu-can-dieu-khoan-giai-phong-5085055.html",
+      "summary": "LĐBĐ Thế giới cải tổ thị trường chuyển nhượng bóng đá, bắt buộc mọi hợp đồng cầu thủ chuyên nghiệp phải có điều khoản giải phóng từ năm 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-12T09:22:43+07:00",
+      "fetched": "2026-06-12T19:49:15.296831+07:00"
+    },
+    {
+      "id": "07005d6db5a627be00a33fd2a6a9684f",
+      "title": "Hơn 50 căn cứ quân sự Iran bị hư hại trong xung đột Trung Đông",
+      "link": "https://vnexpress.net/hon-50-can-cu-quan-su-iran-bi-hu-hai-trong-xung-dot-trung-dong-5084869.html",
+      "summary": "Ảnh vệ tinh cho thấy hơn 50 căn cứ ở Iran, trong đó có trụ sở IRGC, đã bị Mỹ - Israel tập kích gây hư hại trong xung đột.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-12T09:22:30+07:00",
+      "fetched": "2026-06-12T19:49:10.019767+07:00"
+    },
+    {
+      "id": "8f86f787479e59804e2b5f16fff349ca",
+      "title": "Phe cứng rắn ở Iran cáo buộc ông Trump 'đang tung hỏa mù'",
+      "link": "https://vnexpress.net/phe-cung-ran-o-iran-cao-buoc-ong-trump-dang-tung-hoa-mu-5085014.html",
+      "summary": "Các quan chức theo đường lối cứng rắn ở Iran cho rằng tuyên bố sắp đạt thỏa thuận của ông Trump chỉ là chiêu \"tung hỏa mù\" nhằm làm Tehran mất cảnh giác.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-12T09:12:23+07:00",
+      "fetched": "2026-06-12T19:49:10.019933+07:00"
+    },
+    {
+      "id": "8d81d5f54aa3b8643ee1c66a101f4587",
+      "title": "Chứng khoán mất điểm vào cuối phiên",
+      "link": "https://vnexpress.net/chung-khoan-mat-diem-vao-cuoi-phien-5085065.html",
+      "summary": "Giữ sắc xanh liên tục từ khi mở cửa, nhưng dưới áp lực từ nhóm cổ phiếu Vingroup, chứng khoán đảo chiều trong những phút cuối, giảm gần 7 điểm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-12T08:45:37+07:00",
+      "fetched": "2026-06-12T19:49:11.164863+07:00"
+    },
+    {
+      "id": "0c4d274655b9fc53546fe2856687a5f1",
+      "title": "Chiến lược O2O giúp F88 nâng cao hiệu quả kinh doanh",
+      "link": "https://vnexpress.net/chien-luoc-o2o-giup-f88-nang-cao-hieu-qua-kinh-doanh-5085056.html",
+      "summary": "Mô hình O2O (Online-to-Offline) đang giúp F88 mở rộng tệp khách hàng, nâng cao hiệu quả vận hành, kiểm soát rủi ro và tạo nền tảng phát triển thêm các dịch vụ tài chính khác.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-12T08:30:00+07:00",
+      "fetched": "2026-06-12T19:49:11.166564+07:00"
+    },
+    {
       "id": "e961ae65d507dd82f280d81465663cdf",
       "title": "Giải pháp phát hiện sớm bệnh lý đường tiêu hóa",
       "link": "https://thanhnien.vn/giai-phap-phat-hien-som-benh-ly-duong-tieu-hoa-185260612151011108.htm",
@@ -391,6 +851,16 @@ window.newsData_2026_06_12 = {
       "category": "Tổng hợp",
       "published": "2026-06-12T07:52:00+07:00",
       "fetched": "2026-06-12T15:15:35.444468+07:00"
+    },
+    {
+      "id": "ec3f01fa201ca339f3628dc437ec4125",
+      "title": "Hơn 4.400 nhân viên có thể thành triệu phú nhờ SpaceX IPO",
+      "link": "https://vnexpress.net/hon-4-400-nhan-vien-co-the-thanh-trieu-phu-nho-spacex-ipo-5084958.html",
+      "summary": "Hơn 4.400 người đang và từng làm việc cho SpaceX có khả năng trở thành triệu phú nhờ công ty này IPO, theo ước tính của Hill.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-12T07:48:15+07:00",
+      "fetched": "2026-06-12T19:49:11.165039+07:00"
     },
     {
       "id": "43510c489f7d490ee99abe5577d90fd2",
@@ -731,6 +1201,16 @@ window.newsData_2026_06_12 = {
       "category": "Kinh doanh",
       "published": "2026-06-12T05:40:46+07:00",
       "fetched": "2026-06-12T15:15:39.003914+07:00"
+    },
+    {
+      "id": "63ce1a94faf2c3813c37e1f94dcd5090",
+      "title": "Lợi nhuận CC1 không như kỳ vọng",
+      "link": "https://vnexpress.net/loi-nhuan-cc1-khong-nhu-ky-vong-5084952.html",
+      "summary": "Tổng công ty Xây dựng số 1 (CC1) báo lãi năm ngoái gần 270 tỷ đồng, giảm gần 8% so với cùng kỳ năm trước đó.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-12T05:40:46+07:00",
+      "fetched": "2026-06-12T19:49:11.165202+07:00"
     },
     {
       "id": "bf61aa937aa249505c7cc3c22b3cd4d6",
