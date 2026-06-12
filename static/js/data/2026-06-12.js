@@ -1,7 +1,157 @@
 window.newsData_2026_06_12 = {
   "date": "2026-06-12",
-  "lastUpdated": "2026-06-12T19:49:15.305499+07:00",
+  "lastUpdated": "2026-06-12T23:38:26.952657+07:00",
   "articles": [
+    {
+      "id": "51d11f424d05ef55ba908189d39ef96f",
+      "title": "Sỏi mật kéo dài có làm tăng nguy cơ ung thư đường mật?",
+      "link": "https://tuoitre.vn/soi-mat-keo-dai-co-lam-tang-nguy-co-ung-thu-duong-mat-2026061217320885.htm",
+      "summary": "Hiện có nhiều nghiên cứu cho thấy tình trạng viêm mạn tính đường mật, sỏi mật kéo dài, một số bất thường bẩm sinh của đường mật hoặc các biến đổi gene có liên quan đến ung thư đường mật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T23:38:19.011399+07:00",
+      "fetched": "2026-06-12T23:38:19.011511+07:00"
+    },
+    {
+      "id": "ccb1d489fcc0b67c345be884e749afd8",
+      "title": "Quân đội Philippines tuyên bố không chùn bước sau khi Bộ trưởng Quốc phòng bị Trung Quốc trừng phạt",
+      "link": "https://tuoitre.vn/quan-doi-philippines-tuyen-bo-khong-chun-buoc-sau-khi-bo-truong-quoc-phong-bi-trung-quoc-trung-phat-20260612152832379.htm",
+      "summary": "Trước lệnh trừng phạt của Trung Quốc áp cho Bộ trưởng Quốc phòng Philippines Gilberto Teodoro, quân đội Philippines ngày 12-6 tuyên bố ủng hộ ông Teodoro tuyệt đối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T23:38:19.011269+07:00",
+      "fetched": "2026-06-12T23:38:19.011387+07:00"
+    },
+    {
+      "id": "d3c9619c67b50f71865f787731327ec9",
+      "title": "Cầu thủ Mexico được cho tạo ra động đất sau khi ghi bàn đầu tiên của World Cup 2026?",
+      "link": "https://tuoitre.vn/cau-thu-mexico-duoc-cho-tao-ra-dong-dat-sau-khi-ghi-ban-dau-tien-cua-world-cup-2026-20260612200845589.htm",
+      "summary": "Một cơn địa chấn được ghi nhận tại Mexico, vô tình trùng thời điểm tiền đạo Julian Quinones ghi bàn thắng đầu tiên ở World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T23:38:19.011136+07:00",
+      "fetched": "2026-06-12T23:38:19.011256+07:00"
+    },
+    {
+      "id": "fe4b3fca4828153a8e4e32e981b62b1b",
+      "title": "HLV Klopp chê bai 'World Cup mở màn tẻ nhạt'",
+      "link": "https://tuoitre.vn/hlv-klopp-che-bai-world-cup-mo-man-te-nhat-20260612200345788.htm",
+      "summary": "Khi bình luận về trận đấu mở màn World Cup 2026, chiến lược gia nổi tiếng người Đức Jurgen Klopp đã lên tiếng chê bai chất lượng chiến thuật lẫn cách thi đấu của hai đội Mexico và Nam Phi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T23:38:19.011008+07:00",
+      "fetched": "2026-06-12T23:38:19.011125+07:00"
+    },
+    {
+      "id": "d9992f87d7433d91b4f2b27737bcb955",
+      "title": "Khánh Hòa giao thanh tra vào cuộc vụ chậm thi hành án dân thắng kiện chính quyền",
+      "link": "https://tuoitre.vn/khanh-hoa-giao-thanh-tra-vao-cuoc-vu-cham-thi-hanh-an-dan-thang-kien-chinh-quyen-20260612174551315.htm",
+      "summary": "Liên quan đến vụ “Thắng kiện UBND huyện gần 2 năm, dân vẫn mòn mỏi chờ thi hành án đất đai” mà Tuổi Trẻ Online đã phản ánh, Chủ tịch UBND tỉnh Khánh Hòa giao Thanh tra tỉnh này khẩn trương kiểm tra, rà soát để xử lý dứt điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T23:38:19.010855+07:00",
+      "fetched": "2026-06-12T23:38:19.010995+07:00"
+    },
+    {
+      "id": "10bc2dfacc352f4f15c26bfc003c12bd",
+      "title": "CLB Bắc Ninh thăng hạng lên V-League 2026 - 2027",
+      "link": "https://tuoitre.vn/clb-bac-ninh-thang-hang-len-v-league-2026-2027-20260602074235959.htm",
+      "summary": "Đánh bại PVF-CAND ở trận play-off, CLB Bắc Ninh ngạo nghễ lên V-League 2026 - 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T23:38:19.010732+07:00",
+      "fetched": "2026-06-12T23:38:19.010844+07:00"
+    },
+    {
+      "id": "6843e5f461a4ecd889bf6276c3c429c6",
+      "title": "Chưa đá World Cup, người dân Ecuador đã ăn mừng vì... được giảm giá bia",
+      "link": "https://tuoitre.vn/chua-da-world-cup-nguoi-dan-ecuador-da-an-mung-vi-duoc-giam-gia-bia-20260612204346632.htm",
+      "summary": "Tổng thống Ecuador Daniel Noboa đưa ra quyết định mạnh tay khi cắt giảm mạnh... giá bia, để phục vụ người dân suốt mùa World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T23:38:19.010605+07:00",
+      "fetched": "2026-06-12T23:38:19.010721+07:00"
+    },
+    {
+      "id": "ea357c64c4d2c4c31a8cd1e75033ea37",
+      "title": "Tổng giám đốc Vinatex: Đang 'nín thở' chờ câu chuyện thuế quan với Mỹ",
+      "link": "https://tuoitre.vn/tong-giam-doc-vinatex-dang-nin-tho-cho-cau-chuyen-thue-quan-voi-my-20260612174523391.htm",
+      "summary": "Ngày 12-6, Tập đoàn Dệt may Việt Nam (Vinatex) họp thông tin về tình hình sản xuất, kinh doanh và xuất khẩu các tháng đầu năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T23:38:19.010480+07:00",
+      "fetched": "2026-06-12T23:38:19.010593+07:00"
+    },
+    {
+      "id": "35289ee8b6c4240ce8cb478fe9599317",
+      "title": "Trước World tour, Big Bang 'đãi' fan bằng loạt ca khúc mới",
+      "link": "https://tuoitre.vn/truoc-world-tour-big-bang-dai-fan-bang-loat-ca-khuc-moi-20260612201438212.htm",
+      "summary": "Big Bang sẽ trở lại vào tháng 8 với một single vật lý mới, trước khi khởi động World tour kỷ niệm 20 năm ra mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T23:38:19.010351+07:00",
+      "fetched": "2026-06-12T23:38:19.010468+07:00"
+    },
+    {
+      "id": "d21cca6422b2853d1c65f8be728b8c61",
+      "title": "Khánh Hòa yêu cầu khắc phục tình trạng chuyển đơn khiếu nại, tố cáo không đúng thẩm quyền",
+      "link": "https://tuoitre.vn/khanh-hoa-yeu-cau-khac-phuc-tinh-trang-chuyen-don-khieu-nai-to-cao-khong-dung-tham-quyen-20260612193821041.htm",
+      "summary": "Tỉnh Khánh Hòa vừa có kế hoạch tăng cường công tác tiếp công dân và giải quyết khiếu nại, tố cáo, khắc phục tình trạng chuyển đơn không đúng thẩm quyền, chồng chéo giữa các cơ quan, không rõ trách nhiệm trong xử lý, giải quyết vụ việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T23:38:19.010216+07:00",
+      "fetched": "2026-06-12T23:38:19.010339+07:00"
+    },
+    {
+      "id": "72667399af00ed82fd4279f1c0dd392c",
+      "title": "Nhóm tin tặc liên quan đến Iran tuyên bố xâm nhập drone FBI, dọa nhắm tới World Cup",
+      "link": "https://tuoitre.vn/nhom-tin-tac-lien-quan-den-iran-tuyen-bo-xam-nhap-drone-fbi-doa-nham-toi-world-cup-20260612210230146.htm",
+      "summary": "Một nhóm tin tặc có liên hệ với Iran tuyên bố đã xâm nhập các thiết bị bay không người lái (drone) của Cục Điều tra liên bang Mỹ (FBI) và đe dọa nhắm tới World Cup đang diễn ra tại Bắc Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T23:38:19.010089+07:00",
+      "fetched": "2026-06-12T23:38:19.010204+07:00"
+    },
+    {
+      "id": "7e31ea35f2a6f926075c5550137e20ee",
+      "title": "Facebook, Instagram và Messenger đồng loạt 'sập' diện rộng",
+      "link": "https://tuoitre.vn/facebook-instagram-va-messenger-dong-loat-sap-dien-rong-2026061221325524.htm",
+      "summary": "Tối 12-6, nhiều người dùng trên thế giới, trong đó có Việt Nam, đồng loạt không thể truy cập Facebook, Facebook Messenger và Instagram.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T23:38:19.009956+07:00",
+      "fetched": "2026-06-12T23:38:19.010076+07:00"
+    },
+    {
+      "id": "84918e2db610428c20d149458baf6610",
+      "title": "Ông Trump bác tin Iran rò rỉ về thỏa thuận với Mỹ",
+      "link": "https://tuoitre.vn/ong-trump-bac-tin-iran-ro-ri-ve-thoa-thuan-voi-my-20260612212633102.htm",
+      "summary": "Ông Trump vừa lên tiếng bác những thông tin mà phía Iran tiết lộ về thỏa thuận đạt được với Mỹ, trong đó đáp ứng nhiều yêu cầu của Tehran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T23:38:19.009795+07:00",
+      "fetched": "2026-06-12T23:38:19.009942+07:00"
+    },
+    {
+      "id": "cdd0d0f407be46f8ab45d89d9fb220ea",
+      "title": "Dự án khải hoàn môn của ông Trump phải thi công liên tục 20 giờ/ngày",
+      "link": "https://tuoitre.vn/du-an-khai-hoan-mon-cua-ong-trump-phai-thi-cong-lien-tuc-20-gio-ngay-20260612133433093.htm",
+      "summary": "Công trình khải hoàn môn của ông Trump có thể phải thi công 20 tiếng/ngày trong 2-3 năm để kịp tiến độ trước khi ổng rời nhiệm sở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T23:38:19.009655+07:00",
+      "fetched": "2026-06-12T23:38:19.009782+07:00"
+    },
+    {
+      "id": "2bcd6cfa90d8658f106e9760394e7267",
+      "title": "Phát động 'Du lịch xanh - Vì tương lai bền vững' tại đặc khu Phú Quý",
+      "link": "https://tuoitre.vn/phat-dong-du-lich-xanh-vi-tuong-lai-ben-vung-tai-dac-khu-phu-quy-20260612205003622.htm",
+      "summary": "Ngày 12-6, Sở Văn hóa, Thể thao và Du lịch tỉnh Lâm Đồng tổ chức phát động chương trình phát triển “Du lịch xanh - Vì tương lai bền vững” tại đặc khu Phú Quý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T23:38:19.009424+07:00",
+      "fetched": "2026-06-12T23:38:19.009640+07:00"
+    },
     {
       "id": "7d520c578ebed6f8e6c8d3eec68288b5",
       "title": "Khởi công dự án nhà máy sản xuất, chế tạo vi mạch điện tử, dự kiến thu 530 triệu USD mỗi năm",
@@ -151,6 +301,36 @@ window.newsData_2026_06_12 = {
       "category": "Tổng hợp",
       "published": "2026-06-12T19:49:08.848493+07:00",
       "fetched": "2026-06-12T19:49:08.848733+07:00"
+    },
+    {
+      "id": "000c70cc58329b98e8f13288ee02613b",
+      "title": "Rapper Amber Liu cổ vũ Chi Pu ra album",
+      "link": "https://vnexpress.net/rapper-amber-liu-co-vu-chi-pu-ra-album-5085047.html",
+      "summary": "Amber Liu, người Mỹ gốc Đài Loan, đến TP HCM chúc mừng Chi Pu ra album đầu tay, và biểu diễn cùng nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T15:55:02+07:00",
+      "fetched": "2026-06-12T23:37:53.259513+07:00"
+    },
+    {
+      "id": "1a008a5fdbf725e8bc2d708df76e7633",
+      "title": "Mỹ - Iran đưa ra thông điệp mâu thuẫn về thỏa thuận tiềm năng",
+      "link": "https://vnexpress.net/my-iran-dua-ra-thong-diep-mau-thuan-ve-thoa-thuan-tiem-nang-5085161.html",
+      "summary": "Iran tuyên bố dự thảo thỏa thuận đáp ứng phần lớn yêu cầu của nước này, trong khi Tổng thống Trump chỉ trích đó là thông tin sai sự thật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T15:47:00+07:00",
+      "fetched": "2026-06-12T23:37:53.259691+07:00"
+    },
+    {
+      "id": "1a008a5fdbf725e8bc2d708df76e7633",
+      "title": "Mỹ - Iran đưa ra thông điệp mâu thuẫn về thỏa thuận tiềm năng",
+      "link": "https://vnexpress.net/my-iran-dua-ra-thong-diep-mau-thuan-ve-thoa-thuan-tiem-nang-5085161.html",
+      "summary": "Iran tuyên bố dự thảo thỏa thuận đáp ứng phần lớn yêu cầu của nước này, trong khi Tổng thống Trump chỉ trích đó là thông tin sai sự thật.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-12T15:47:00+07:00",
+      "fetched": "2026-06-12T23:38:20.384627+07:00"
     },
     {
       "id": "5c1a68e1a8bf0244fe823a06aeeb9d78",
@@ -303,6 +483,216 @@ window.newsData_2026_06_12 = {
       "fetched": "2026-06-12T15:15:36.575089+07:00"
     },
     {
+      "id": "0850f337258c701316cf54a118120be2",
+      "title": "Ấn Độ phản đối Mỹ sau loạt vụ tấn công tàu ở vùng Vịnh",
+      "link": "https://vnexpress.net/an-do-phan-doi-my-sau-loat-vu-tan-cong-tau-o-vung-vinh-5085141.html",
+      "summary": "New Delhi hai lần triệu tập phó trưởng phái đoàn ngoại giao Mỹ, sau khi các cuộc không kích của Mỹ đánh trúng 3 tàu có thủy thủ Ấn Độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T14:53:11+07:00",
+      "fetched": "2026-06-12T23:37:53.259854+07:00"
+    },
+    {
+      "id": "0850f337258c701316cf54a118120be2",
+      "title": "Ấn Độ phản đối Mỹ sau loạt vụ tấn công tàu ở vùng Vịnh",
+      "link": "https://vnexpress.net/an-do-phan-doi-my-sau-loat-vu-tan-cong-tau-o-vung-vinh-5085141.html",
+      "summary": "New Delhi hai lần triệu tập phó trưởng phái đoàn ngoại giao Mỹ, sau khi các cuộc không kích của Mỹ đánh trúng 3 tàu có thủy thủ Ấn Độ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-12T14:53:11+07:00",
+      "fetched": "2026-06-12T23:38:20.384803+07:00"
+    },
+    {
+      "id": "0e1bec43bb27f181aeacc272a13ed3c7",
+      "title": "Chủ tịch Hà Nội giải thích việc thu hẹp diện hỗ trợ đổi xe máy xăng",
+      "link": "https://vnexpress.net/chu-tich-ha-noi-giai-thich-viec-thu-hep-dien-ho-tro-doi-xe-may-xang-5085151.html",
+      "summary": "Chủ tịch UBND TP Hà Nội Vũ Đại Thắng cho biết thành phố thu hẹp diện hỗ trợ đổi xe máy xăng sang xe điện do nhu cầu kinh phí lớn, trong khi quá trình chuyển đổi phải thực hiện theo lộ trình nhiều năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T14:40:32+07:00",
+      "fetched": "2026-06-12T23:37:53.260067+07:00"
+    },
+    {
+      "id": "10f9be941b05589580e70a2a9cc04b40",
+      "title": "Intel đã sản xuất hơn bốn tỷ đơn vị sản phẩm tại Việt Nam",
+      "link": "https://vnexpress.net/intel-da-san-xuat-hon-bon-ty-don-vi-san-pham-tai-viet-nam-5085129.html",
+      "summary": "Đại diện Intel cho biết nhà máy Intel Products Vietnam (IPV) sau 20 năm đã sản xuất hơn bốn tỷ đơn vị sản phẩm, đóng góp hơn 110 tỷ USD giá trị xuất khẩu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T14:39:41+07:00",
+      "fetched": "2026-06-12T23:37:53.260240+07:00"
+    },
+    {
+      "id": "10f9be941b05589580e70a2a9cc04b40",
+      "title": "Intel đã sản xuất hơn bốn tỷ đơn vị sản phẩm tại Việt Nam",
+      "link": "https://vnexpress.net/intel-da-san-xuat-hon-bon-ty-don-vi-san-pham-tai-viet-nam-5085129.html",
+      "summary": "Đại diện Intel cho biết nhà máy Intel Products Vietnam (IPV) sau 20 năm đã sản xuất hơn bốn tỷ đơn vị sản phẩm, đóng góp hơn 110 tỷ USD giá trị xuất khẩu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-12T14:39:41+07:00",
+      "fetched": "2026-06-12T23:38:25.581386+07:00"
+    },
+    {
+      "id": "9bfe20ab668e492467cc48a5e000d7f4",
+      "title": "Thanh niên bị suy thận cấp vì tập gym quá đà",
+      "link": "https://vnexpress.net/thanh-nien-bi-suy-than-cap-vi-tap-gym-qua-da-5085115.html",
+      "summary": "Sau khi tập thể dục với cường độ quá cao, nam thanh niên 23 tuổi không thể tiểu tiện, nhập viện trong tình trạng suy thận cấp và không thể đi lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T14:28:26+07:00",
+      "fetched": "2026-06-12T23:37:53.260406+07:00"
+    },
+    {
+      "id": "9bfe20ab668e492467cc48a5e000d7f4",
+      "title": "Thanh niên bị suy thận cấp vì tập gym quá đà",
+      "link": "https://vnexpress.net/thanh-nien-bi-suy-than-cap-vi-tap-gym-qua-da-5085115.html",
+      "summary": "Sau khi tập thể dục với cường độ quá cao, nam thanh niên 23 tuổi không thể tiểu tiện, nhập viện trong tình trạng suy thận cấp và không thể đi lại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-12T14:28:26+07:00",
+      "fetched": "2026-06-12T23:38:20.384995+07:00"
+    },
+    {
+      "id": "ecfba855d068d55fab1cd0f560bb989b",
+      "title": "Đội bóng của ông Park Hang-seo thế chỗ PVF-CAND ở V-League",
+      "link": "https://vnexpress.net/doi-bong-cua-ong-park-hang-seo-the-cho-pvf-cand-o-v-league-5085164.html",
+      "summary": "Bắc Ninh hòa PVF-CAND 1-1, rồi thắng luân lưu 5-4 ở trận play-off giành suất chơi tại V-League 2026-2027 vào tối nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T14:11:04+07:00",
+      "fetched": "2026-06-12T23:37:53.260562+07:00"
+    },
+    {
+      "id": "ecfba855d068d55fab1cd0f560bb989b",
+      "title": "Đội bóng của ông Park Hang-seo thế chỗ PVF-CAND ở V-League",
+      "link": "https://vnexpress.net/doi-bong-cua-ong-park-hang-seo-the-cho-pvf-cand-o-v-league-5085164.html",
+      "summary": "Bắc Ninh hòa PVF-CAND 1-1, rồi thắng luân lưu 5-4 ở trận play-off giành suất chơi tại V-League 2026-2027 vào tối nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-12T14:11:04+07:00",
+      "fetched": "2026-06-12T23:38:26.941876+07:00"
+    },
+    {
+      "id": "8c13aa38e5600bd02cf251c53fd51671",
+      "title": "Facebook, Messenger gặp sự cố diện rộng",
+      "link": "https://vnexpress.net/facebook-messenger-gap-su-co-dien-rong-5085162.html",
+      "summary": "Nhiều người dùng tại Việt Nam tối 12/6 phản ánh Facebook và Messenger gặp trục trặc, không xem được nội dung cũng như không gửi, nhận hoặc tải tin nhắn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T14:07:23+07:00",
+      "fetched": "2026-06-12T23:37:53.260730+07:00"
+    },
+    {
+      "id": "8c13aa38e5600bd02cf251c53fd51671",
+      "title": "Facebook, Messenger gặp sự cố diện rộng",
+      "link": "https://vnexpress.net/facebook-messenger-gap-su-co-dien-rong-5085162.html",
+      "summary": "Nhiều người dùng tại Việt Nam tối 12/6 phản ánh Facebook và Messenger gặp trục trặc, không xem được nội dung cũng như không gửi, nhận hoặc tải tin nhắn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-12T14:07:23+07:00",
+      "fetched": "2026-06-12T23:38:25.581559+07:00"
+    },
+    {
+      "id": "3f7bfa250c060abf271f04104d7a23df",
+      "title": "UOB: Nền kinh tế Việt Nam 'bền bỉ'",
+      "link": "https://vnexpress.net/uob-nen-kinh-te-viet-nam-ben-bi-5085146.html",
+      "summary": "Kinh tế Việt Nam bền bỉ trước áp lực chi phí và những căng thẳng bên ngoài, với triển vọng ngắn hạn tích cực đan xen thách thức, theo UOB.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T13:54:33+07:00",
+      "fetched": "2026-06-12T23:37:53.260886+07:00"
+    },
+    {
+      "id": "3f7bfa250c060abf271f04104d7a23df",
+      "title": "UOB: Nền kinh tế Việt Nam 'bền bỉ'",
+      "link": "https://vnexpress.net/uob-nen-kinh-te-viet-nam-ben-bi-5085146.html",
+      "summary": "Kinh tế Việt Nam bền bỉ trước áp lực chi phí và những căng thẳng bên ngoài, với triển vọng ngắn hạn tích cực đan xen thách thức, theo UOB.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-12T13:54:33+07:00",
+      "fetched": "2026-06-12T23:38:22.353560+07:00"
+    },
+    {
+      "id": "044f77d3f78dc43e3e9599e33023c0cf",
+      "title": "Đề Giáo dục Kinh tế và pháp luật thi tốt nghiệp THPT 2026",
+      "link": "https://vnexpress.net/de-va-goi-y-dap-an-giao-duc-kinh-te-va-phap-luat-thi-tot-nghiep-thpt-2026-5084742.html",
+      "summary": "Đề thi Giáo dục Kinh tế và pháp luật gồm 28 câu hỏi, trong đó 24 câu là trắc nghiệm nhiều lựa chọn, còn lại là các câu chọn đúng sai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T13:42:18+07:00",
+      "fetched": "2026-06-12T23:37:53.261078+07:00"
+    },
+    {
+      "id": "4c6379931af70fc544350be2f7eaed01",
+      "title": "Từ chuyện Steve tới 'job' ra đề",
+      "link": "https://vnexpress.net/tu-chuyen-steve-toi-job-ra-de-5085150.html",
+      "summary": "Ở câu hỏi “Làm thế nào để có những ‘Steve Jobs Việt Nam’?”, nếu một học sinh viết ngay ở câu đầu tiên: \"Theo em, Việt Nam không cần những tượng đài công nghệ như Steve Jobs\" và triển khai mạch ý này, em ấy sẽ được bao nhiêu điểm?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T13:39:29+07:00",
+      "fetched": "2026-06-12T23:37:53.261240+07:00"
+    },
+    {
+      "id": "abce2b14b2ebd8104f67a682471c2e68",
+      "title": "VinVentures: Công nghệ mở dư địa tăng trưởng mới cho M&amp;A Việt Nam",
+      "link": "https://vnexpress.net/vinventures-cong-nghe-mo-du-dia-tang-truong-moi-cho-m-a-viet-nam-5085156.html",
+      "summary": "Sự phát triển của công nghệ cùng các chính sách đổi mới sáng tạo mở ra nhiều cơ hội mới, giúp M&A tại Việt Nam có thể đạt 9-16 tỷ USD vào 2030, theo CEO quỹ VinVentures.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T13:30:00+07:00",
+      "fetched": "2026-06-12T23:37:53.261408+07:00"
+    },
+    {
+      "id": "0b9367ca59927c8e3d37555c145e2c78",
+      "title": "Doanh nghiệp đầu tiên được TP HCM chứng nhận 'công nghệ cao'",
+      "link": "https://vnexpress.net/doanh-nghiep-dau-tien-duoc-tp-hcm-chung-nhan-cong-nghe-cao-5085106.html",
+      "summary": "GreenNode - đơn vị cung cấp AI Cloud hiệu suất cao thuộc VNG trở thành doanh nghiệp đầu tiên được cấp chứng nhận doanh nghiệp công nghệ cao tại TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T13:04:24+07:00",
+      "fetched": "2026-06-12T23:37:53.261580+07:00"
+    },
+    {
+      "id": "0b9367ca59927c8e3d37555c145e2c78",
+      "title": "Doanh nghiệp đầu tiên được TP HCM chứng nhận 'công nghệ cao'",
+      "link": "https://vnexpress.net/doanh-nghiep-dau-tien-duoc-tp-hcm-chung-nhan-cong-nghe-cao-5085106.html",
+      "summary": "GreenNode - đơn vị cung cấp AI Cloud hiệu suất cao thuộc VNG trở thành doanh nghiệp đầu tiên được cấp chứng nhận doanh nghiệp công nghệ cao tại TP HCM.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-12T13:04:24+07:00",
+      "fetched": "2026-06-12T23:38:25.582238+07:00"
+    },
+    {
+      "id": "afba29ca1528b9a97fad73a1345cc5dc",
+      "title": "Quyết định bỏ chồng sau khi bị phản bội, tôi giấu luôn chuyện mình có thai",
+      "link": "https://vnexpress.net/quyet-dinh-bo-chong-sau-khi-bi-phan-boi-toi-giau-luon-chuyen-minh-co-thai-5085107.html",
+      "summary": "Chồng cũ dù tệ đến đâu cũng cần được biết anh có một đứa con, phải không; tôi chỉ suy nghĩ chứ thật sự chưa muốn nói với anh về con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T13:00:00+07:00",
+      "fetched": "2026-06-12T23:37:53.261746+07:00"
+    },
+    {
+      "id": "0acb6d42de38d8ea06a35bfc434ea9cb",
+      "title": "Boston rúng động vì vụ nhóm trẻ bán nước chanh bị cướp tiền",
+      "link": "https://vnexpress.net/boston-rung-dong-vi-vu-nhom-tre-ban-nuoc-chanh-bi-cuop-tien-5085066.html",
+      "summary": "Hai nghi phạm dùng súng cướp tiền của nhóm trẻ bán nước chanh gần nhà, khiến dư luận Boston rúng động và cảnh sát vào cuộc điều tra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T13:00:00+07:00",
+      "fetched": "2026-06-12T23:37:53.261922+07:00"
+    },
+    {
+      "id": "0acb6d42de38d8ea06a35bfc434ea9cb",
+      "title": "Boston rúng động vì vụ nhóm trẻ bán nước chanh bị cướp tiền",
+      "link": "https://vnexpress.net/boston-rung-dong-vi-vu-nhom-tre-ban-nuoc-chanh-bi-cuop-tien-5085066.html",
+      "summary": "Hai nghi phạm dùng súng cướp tiền của nhóm trẻ bán nước chanh gần nhà, khiến dư luận Boston rúng động và cảnh sát vào cuộc điều tra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-12T13:00:00+07:00",
+      "fetched": "2026-06-12T23:38:20.385160+07:00"
+    },
+    {
       "id": "8a3778c902873d67c263a967b3801e37",
       "title": "Nhóm tin tặc liên quan đến Iran dọa tấn công World Cup",
       "link": "https://vnexpress.net/nhom-tin-tac-lien-quan-den-iran-doa-tan-cong-world-cup-5085119.html",
@@ -311,6 +701,16 @@ window.newsData_2026_06_12 = {
       "category": "Thế giới",
       "published": "2026-06-12T12:34:56+07:00",
       "fetched": "2026-06-12T19:49:10.018929+07:00"
+    },
+    {
+      "id": "7eda59c6b7025e6729a1ec42b6652519",
+      "title": "Nhóm tin tặc dọa nhắm vào World Cup",
+      "link": "https://vnexpress.net/nhom-tin-tac-doa-nham-vao-world-cup-5085119.html",
+      "summary": "Nhóm tin tặc Handala tuyên bố đã xâm nhập máy bay không người lái của FBI và dọa nhắm mục tiêu vào giải đấu World Cup.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-12T12:34:56+07:00",
+      "fetched": "2026-06-12T23:38:20.385324+07:00"
     },
     {
       "id": "bfcccfb7b119926361198ac5c2c4618d",
