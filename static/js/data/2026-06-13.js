@@ -1,7 +1,27 @@
 window.newsData_2026_06_13 = {
   "date": "2026-06-13",
-  "lastUpdated": "2026-06-13T04:25:00.037958+07:00",
+  "lastUpdated": "2026-06-13T06:08:37.378512+07:00",
   "articles": [
+    {
+      "id": "9ba387b6b8436163a0fe7704bce4a33a",
+      "title": "Chủ nhà Canada vất vả cầm hòa Bosnia và Herzegovina ngày ra quân World Cup 2026",
+      "link": "https://tuoitre.vn/chu-nha-canada-vat-va-cam-hoa-bosnia-va-herzegovina-ngay-ra-quan-world-cup-2026-20260612154017141.htm",
+      "summary": "Rạng sáng 13-6, ở trận ra quân tại bảng B World Cup 2026, chủ nhà Canada chỉ có thể tìm được trận hòa 1-1 trước Bosnia và Herzegovina.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T06:08:30.815718+07:00",
+      "fetched": "2026-06-13T06:08:30.815807+07:00"
+    },
+    {
+      "id": "094183b88fcb03d77ce86764f3e4b15e",
+      "title": "Cựu sao Arsenal bị Canada từ chối nhập cảnh đá World Cup 2026 vì cáo buộc hiếp dâm",
+      "link": "https://tuoitre.vn/cuu-sao-arsenal-bi-canada-tu-choi-nhap-canh-da-world-cup-2026-vi-cao-buoc-hiep-dam-20260613023418121.htm",
+      "summary": "Tiền vệ Thomas Partey của tuyển Ghana không thể nhập cảnh vào Canada để thi đấu trận ra quân World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T06:08:30.814853+07:00",
+      "fetched": "2026-06-13T06:08:30.815136+07:00"
+    },
     {
       "id": "84918e2db610428c20d149458baf6610",
       "title": "Ông Trump bác tin Iran rò rỉ về thỏa thuận với Mỹ",
@@ -151,6 +171,136 @@ window.newsData_2026_06_13 = {
       "category": "Tổng hợp",
       "published": "2026-06-13T02:53:31.003359+07:00",
       "fetched": "2026-06-13T02:53:31.003609+07:00"
+    },
+    {
+      "id": "83d66cbc54dd08029589805cf53d456e",
+      "title": "Trọng tài gây sốc trong trận khai mạc World Cup 2026",
+      "link": "https://vnexpress.net/trong-tai-gay-soc-trong-tran-khai-mac-world-cup-2026-5084868.html",
+      "summary": "Vốn tiếng Anh hạn chế của trọng tài Wilton Sampaio khiến cầu thủ Nam Phi ngơ ngác không hiểu khi nhận thẻ đỏ, trong trận mở màn thua đồng chủ nhà Mexico ngày 11/6.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-12T22:57:11+07:00",
+      "fetched": "2026-06-13T06:08:37.374532+07:00"
+    },
+    {
+      "id": "95e41fe7345cf12a78a4e53a2079672a",
+      "title": "Mbappe giúp tuyển Pháp đạt yêu sách tiền thưởng trước World Cup 2026",
+      "link": "https://vnexpress.net/mbappe-giup-tuyen-phap-dat-yeu-sach-tien-thuong-truoc-world-cup-2026-5085183.html",
+      "summary": "Chủ tịch LĐBĐ Pháp (FFF) Philippe Diallo đã phải chấp thuận các yêu sách của tuyển Pháp liên quan đến mức tiền thưởng tại World Cup 2026, cùng số lượng vé phân phối cho người thân các tuyển thủ ở mỗi trận đấu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-12T22:26:32+07:00",
+      "fetched": "2026-06-13T06:08:37.373980+07:00"
+    },
+    {
+      "id": "57aa651022dbd1c7a724a6f8a2b5132a",
+      "title": "Chủ tịch FIFA: 'World Cup nên tăng lên 64 hoặc 208 đội để Italy có vé'",
+      "link": "https://vnexpress.net/chu-tich-fifa-world-cup-nen-tang-len-64-hoac-208-doi-de-italy-co-ve-5085184.html",
+      "summary": "Chủ tịch FIFA Gianni Infantino chế giễu việc tuyển Italy vắng mặt ở ba World Cup liên tiếp, dẫn tới làn sóng phẫn nộ từ người hâm mộ và vấp phải sự đáp trả từ Nghị sĩ Italy Gaetano Amato.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T22:17:49+07:00",
+      "fetched": "2026-06-13T06:07:25.775151+07:00"
+    },
+    {
+      "id": "57aa651022dbd1c7a724a6f8a2b5132a",
+      "title": "Chủ tịch FIFA: 'World Cup nên tăng lên 64 hoặc 208 đội để Italy có vé'",
+      "link": "https://vnexpress.net/chu-tich-fifa-world-cup-nen-tang-len-64-hoac-208-doi-de-italy-co-ve-5085184.html",
+      "summary": "Chủ tịch FIFA Gianni Infantino chế giễu việc tuyển Italy vắng mặt ở ba World Cup liên tiếp, dẫn tới làn sóng phẫn nộ từ người hâm mộ và vấp phải sự đáp trả từ Nghị sĩ Italy Gaetano Amato.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-12T22:17:49+07:00",
+      "fetched": "2026-06-13T06:08:37.374137+07:00"
+    },
+    {
+      "id": "2960c69b1356e7c3719aa4900300c46e",
+      "title": "Barca tuyên bố kiện Chủ tịch Real tội vu khống",
+      "link": "https://vnexpress.net/barca-tuyen-bo-kien-chu-tich-real-toi-vu-khong-5085185.html",
+      "summary": "Tối 12/6, Barca thông báo sẽ đệ đơn kiện Chủ tịch Real Madrid Florentino Perez nếu không rút lại các phát ngôn, để ngỏ khả năng hai bên sẽ ra tòa trong một vụ kiện hình sự về tội vu khống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T22:10:19+07:00",
+      "fetched": "2026-06-13T06:07:25.775320+07:00"
+    },
+    {
+      "id": "2960c69b1356e7c3719aa4900300c46e",
+      "title": "Barca tuyên bố kiện Chủ tịch Real tội vu khống",
+      "link": "https://vnexpress.net/barca-tuyen-bo-kien-chu-tich-real-toi-vu-khong-5085185.html",
+      "summary": "Tối 12/6, Barca thông báo sẽ đệ đơn kiện Chủ tịch Real Madrid Florentino Perez nếu không rút lại các phát ngôn, để ngỏ khả năng hai bên sẽ ra tòa trong một vụ kiện hình sự về tội vu khống.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-12T22:10:19+07:00",
+      "fetched": "2026-06-13T06:08:37.374275+07:00"
+    },
+    {
+      "id": "97e8547de0c4de247c3882747270ac6e",
+      "title": "Dựng rạp cầu siêu liệt sĩ, đồng bào tại công viên Lê Thị Riêng",
+      "link": "https://vnexpress.net/dung-rap-cau-sieu-liet-si-dong-bao-tai-cong-vien-le-thi-rieng-5085166.html",
+      "summary": "Đông đảo người dân, phật tử dựng rạp, lập bàn thờ, gói bánh, trái... ở công viên Lê Thị Riêng chuẩn bị lễ cầu siêu liệt sĩ, đồng bào trong hai ngày 13 và 14/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T22:00:00+07:00",
+      "fetched": "2026-06-13T06:07:25.775462+07:00"
+    },
+    {
+      "id": "66dd9844e9105b07c90e12c88dc90d65",
+      "title": "Ba tổng thống Mỹ sinh cùng năm",
+      "link": "https://vnexpress.net/ba-tong-thong-my-sinh-cung-nam-5084814.html",
+      "summary": "1946 đi vào lịch sử Mỹ như một cột mốc độc nhất vô nhị, khi là năm duy nhất tới nay sản sinh ra ba tổng thống: Donald Trump, George W. Bush và Bill Clinton.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T22:00:00+07:00",
+      "fetched": "2026-06-13T06:07:25.775597+07:00"
+    },
+    {
+      "id": "3a202412c1718118b2e2a1374cac14a5",
+      "title": "Lợi ích sức khỏe đằng sau dáng 'ngồi xổm kiểu châu Á'",
+      "link": "https://vnexpress.net/loi-ich-suc-khoe-dang-sau-dang-ngoi-xom-kieu-chau-a-5084617.html",
+      "summary": "Động tác ngồi xổm sâu giúp tăng độ dẻo dai và giảm đau lưng hiệu quả, tuy nhiên các chuyên gia vật lý trị liệu khuyến cáo người có bệnh lý khớp không nên cố ép bản thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T22:00:00+07:00",
+      "fetched": "2026-06-13T06:07:25.775725+07:00"
+    },
+    {
+      "id": "2f8ae68e8ec13c8393f262f2c371005a",
+      "title": "Làn sóng nhân tài AI từ Mỹ 'chảy' về Trung Quốc xây AGI",
+      "link": "https://vnexpress.net/lan-song-nhan-tai-ai-tu-my-chay-ve-trung-quoc-xay-agi-5083162.html",
+      "summary": "Trung Quốc được đánh giá đang thay đổi chiến lược từ ứng dụng AI đơn thuần sang AGI và siêu ứng dụng với nguồn nhân tài thu hút từ Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T22:00:00+07:00",
+      "fetched": "2026-06-13T06:07:25.775856+07:00"
+    },
+    {
+      "id": "549e07dbe9cc65022565d47f7734c761",
+      "title": "Texas đe dọa ngôi vương thị trường ôtô của California",
+      "link": "https://vnexpress.net/texas-de-doa-ngoi-vuong-thi-truong-oto-cua-california-5084331.html",
+      "summary": "Về tổng doanh số xe mới, Texas vẫn thấp hơn California, nhưng tỷ lệ khách hàng thanh toán khoản mua ôtô bằng tiền mặt cao hơn nhiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T22:00:00+07:00",
+      "fetched": "2026-06-13T06:07:25.776008+07:00"
+    },
+    {
+      "id": "66dd9844e9105b07c90e12c88dc90d65",
+      "title": "Ba tổng thống Mỹ sinh cùng năm",
+      "link": "https://vnexpress.net/ba-tong-thong-my-sinh-cung-nam-5084814.html",
+      "summary": "1946 đi vào lịch sử Mỹ như một cột mốc độc nhất vô nhị, khi là năm duy nhất tới nay sản sinh ra ba tổng thống: Donald Trump, George W. Bush và Bill Clinton.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-12T22:00:00+07:00",
+      "fetched": "2026-06-13T06:08:32.260587+07:00"
+    },
+    {
+      "id": "2f8ae68e8ec13c8393f262f2c371005a",
+      "title": "Làn sóng nhân tài AI từ Mỹ 'chảy' về Trung Quốc xây AGI",
+      "link": "https://vnexpress.net/lan-song-nhan-tai-ai-tu-my-chay-ve-trung-quoc-xay-agi-5083162.html",
+      "summary": "Trung Quốc được đánh giá đang thay đổi chiến lược từ ứng dụng AI đơn thuần sang AGI và siêu ứng dụng với nguồn nhân tài thu hút từ Mỹ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-12T22:00:00+07:00",
+      "fetched": "2026-06-13T06:08:36.205516+07:00"
     },
     {
       "id": "aaad77fcd1e21beeebb675ae07c41e4c",
