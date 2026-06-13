@@ -1,7 +1,157 @@
 window.newsData_2026_06_13 = {
   "date": "2026-06-13",
-  "lastUpdated": "2026-06-13T17:22:27.578424+07:00",
+  "lastUpdated": "2026-06-13T20:26:30.738460+07:00",
   "articles": [
+    {
+      "id": "d713c76482d8c61231d1dac32e986d6f",
+      "title": "UAE đã chi 20 tỉ USD để Iran ngừng tấn công?",
+      "link": "https://tuoitre.vn/uae-da-chi-20-ti-usd-de-iran-ngung-tan-cong-20260613161606812.htm",
+      "summary": "Các nguồn tin cho biết Các tiểu vương quốc Ả Rập thống nhất (UAE) đã đồng ý giải ngân lên đến 20 tỉ USD cho Iran, đổi lại Tehran phải chấm dứt các cuộc không kích nhắm vào nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T20:26:22.850708+07:00",
+      "fetched": "2026-06-13T20:26:22.850817+07:00"
+    },
+    {
+      "id": "276070ab24acc053c5c340f4da79628f",
+      "title": "Đà Nẵng chấp nhận 3 dự án đầu tư hạ tầng khu thương mại tự do, Phương Trang đầu tư nhiều nhất",
+      "link": "https://tuoitre.vn/da-nang-chap-nhan-3-du-an-dau-tu-ha-tang-khu-thuong-mai-tu-do-phuong-trang-dau-tu-nhieu-nhat-20260613163124811.htm",
+      "summary": "Ba doanh nghiệp được Đà Nẵng chấp thuận đầu tư dự án hạ tầng tại 3 vị trí của Khu thương mại tự do với diện tích khoảng 910ha, tổng vốn đầu tư hơn 15.000 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T20:26:22.850601+07:00",
+      "fetched": "2026-06-13T20:26:22.850699+07:00"
+    },
+    {
+      "id": "dfb6edd2e60993cd0b20dbd16c1093bb",
+      "title": "Trường Sơn cùng hàng loạt cao thủ cờ vua dự giải đồng đội quốc gia",
+      "link": "https://tuoitre.vn/truong-son-cung-hang-loat-cao-thu-co-vua-du-giai-dong-doi-quoc-gia-20260613163628918.htm",
+      "summary": "Giải vô địch Cúp KingViet Education - Cờ vua đồng đội quốc gia năm 2026 chính thức khai mạc tại Ninh Bình với sự góp mặt của nhiều kỳ thủ mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T20:26:22.850486+07:00",
+      "fetched": "2026-06-13T20:26:22.850592+07:00"
+    },
+    {
+      "id": "03555dd844d4ce3da4585425afc11d5c",
+      "title": "Chung kết Cúp quốc gia: Có HLV Chu Đình Nghiêm, Ninh Bình sáng cửa vô địch?",
+      "link": "https://tuoitre.vn/chung-ket-cup-quoc-gia-co-hlv-chu-dinh-nghiem-ninh-binh-sang-cua-vo-dich-20260613165541511.htm",
+      "summary": "Lúc 18h chiều 14-6, CLB Ninh Bình sẽ đá trận chung kết Cúp quốc gia 2025 - 2026 với đội Công An TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T20:26:22.850381+07:00",
+      "fetched": "2026-06-13T20:26:22.850477+07:00"
+    },
+    {
+      "id": "7d2964c078446a2c0dcda115ec9961b1",
+      "title": "Lễ cầu siêu các anh hùng liệt sĩ tại công viên Lê Thị Riêng diễn ra xuyên đêm",
+      "link": "https://tuoitre.vn/le-cau-sieu-cac-anh-hung-liet-si-tai-cong-vien-le-thi-rieng-dien-ra-xuyen-dem-20260613163730351.htm",
+      "summary": "Chiều 13-6, Ban Trị sự Giáo hội Phật giáo Việt Nam TP.HCM thực hiện lễ khai kinh, thỉnh chư anh linh, hương linh các anh hùng liệt sĩ và đồng bào yêu nước tại công viên Lê Thị Riêng (phường Hòa Hưng, TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T20:26:22.850275+07:00",
+      "fetched": "2026-06-13T20:26:22.850372+07:00"
+    },
+    {
+      "id": "5e9c551daee2a55ea16f85fd97d33fd2",
+      "title": "Bcons thâu tóm dự án Thuận An 2 của Phát Đạt bằng thương vụ hơn 3.000 tỉ đồng",
+      "link": "https://tuoitre.vn/bcons-thau-tom-du-an-thuan-an-2-cua-phat-dat-bang-thuong-vu-hon-3-000-ti-dong-20260613132218755.htm",
+      "summary": "Sau tin công bố chuyển nhượng dự án Thuận An 2 của Công ty CP phát triển bất động sản Phát Đạt (HoSE: PDR) tuần qua, bên nhận chuyển nhượng đã được hé lộ là Bcons.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T20:26:22.850171+07:00",
+      "fetched": "2026-06-13T20:26:22.850266+07:00"
+    },
+    {
+      "id": "9d68b957925f3cbe8e9b388b5f681164",
+      "title": "Đi tìm mèo cưng chỗ mấy chú công an phòng hình sự",
+      "link": "https://tuoitre.vn/di-tim-meo-cung-cho-may-chu-cong-an-phong-hinh-su-20260613141147066.htm",
+      "summary": "Sau khi triệt phá đường dây trộm và tiêu thụ mèo liên tỉnh, Phòng Cảnh sát hình sự Công an TP.HCM đã giải cứu hơn 400 con mèo rồi phối hợp cơ quan thú y chăm sóc và tổ chức trao trả cho chủ nuôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T20:26:22.850065+07:00",
+      "fetched": "2026-06-13T20:26:22.850162+07:00"
+    },
+    {
+      "id": "a73c01f34d0f75f31d88f00885900c15",
+      "title": "Vinamilk mang đến những trạm tiếp năng lượng giữa Gala 'Tổ quốc bình yên'",
+      "link": "https://tuoitre.vn/vinamilk-mang-den-nhung-tram-tiep-nang-luong-giua-gala-to-quoc-binh-yen-20260613170809033.htm",
+      "summary": "Chuỗi sự kiện Gala \"Tổ quốc bình yên\" tại phố đi bộ Nguyễn Huệ (TP.HCM) thu hút hàng chục nghìn lượt khách với loạt trải nghiệm sinh động từ triển lãm, công nghệ trình chiếu hiện đại đến các hoạt động tương tác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T20:26:22.849959+07:00",
+      "fetched": "2026-06-13T20:26:22.850056+07:00"
+    },
+    {
+      "id": "671df568649e8cde9c0979a810f88581",
+      "title": "Quyết định gắn bó với hiến máu nhờ 1 bài báo",
+      "link": "https://tuoitre.vn/quyet-dinh-gan-bo-voi-hien-mau-nho-1-bai-bao-20260612201330289.htm",
+      "summary": "Suốt hơn 20 năm, từ khi còn là cán bộ Công an TP.HCM đến lúc nghỉ hưu, ông đã 86 lần trao đi những đơn vị máu của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T20:26:22.849853+07:00",
+      "fetched": "2026-06-13T20:26:22.849950+07:00"
+    },
+    {
+      "id": "9afcae4fdc3070f0ad31e4c95c496743",
+      "title": "'Mất kết nối' được tôn vinh tại Giải thưởng Âm nhạc Nhật Bản 2026",
+      "link": "https://tuoitre.vn/mat-ket-noi-duoc-ton-vinh-tai-giai-thuong-am-nhac-nhat-ban-2026-20260613170612547.htm",
+      "summary": "Bản hit 'Mất kết nối' của nam ca sĩ - nhạc sĩ Dương Domic lọt vào Top 30 vòng bình chọn chung cuộc tại Giải thưởng Âm nhạc Nhật Bản - Music Awards Japan (MAJ) 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T20:26:22.849733+07:00",
+      "fetched": "2026-06-13T20:26:22.849843+07:00"
+    },
+    {
+      "id": "312f18f020d323520ae58867072316d3",
+      "title": "Những 'cái đuôi nhỏ' đáng yêu hơn cả Anh trai",
+      "link": "https://tuoitre.vn/nhung-cai-duoi-nho-dang-yeu-hon-ca-anh-trai-20260613164849389.htm",
+      "summary": "Anh trai và cái đuôi nhỏ gây chú ý với sự góp mặt của 6 'cái đuôi nhỏ' hồn nhiên, ngây ngô và những phản ứng không sắp đặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T20:26:22.849627+07:00",
+      "fetched": "2026-06-13T20:26:22.849723+07:00"
+    },
+    {
+      "id": "f35012145fcb101fdcc2159edef02817",
+      "title": "Tối kỵ khi mất giày như tuyển Anh ở World Cup 2026",
+      "link": "https://tuoitre.vn/toi-ky-khi-mat-giay-nhu-tuyen-anh-o-world-cup-2026-20260613173423731.htm",
+      "summary": "Với các cầu thủ Việt Nam, việc mất giày thi đấu như tuyển Anh ở World Cup 2026 là điều tối kỵ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T20:26:22.849518+07:00",
+      "fetched": "2026-06-13T20:26:22.849617+07:00"
+    },
+    {
+      "id": "d0fa6fd00845ecc23c944a15ae36c053",
+      "title": "Bí quyết phỏng vấn hành vi: Cách xử lý mâu thuẫn khéo léo",
+      "link": "https://tuoitre.vn/bi-quyet-phong-van-hanh-vi-cach-xu-ly-mau-thuan-kheo-leo-20260612132910172.htm",
+      "summary": "Câu hỏi phỏng vấn về cách đối mặt với bất đồng không chỉ là thử thách mà còn là cơ hội vàng để bạn thể hiện bản lĩnh lãnh đạo và sự chuyên nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T20:26:22.849409+07:00",
+      "fetched": "2026-06-13T20:26:22.849509+07:00"
+    },
+    {
+      "id": "d95dd2d4f6a6eec16f5ca63e6b73eb81",
+      "title": "Kiện toàn Ban Chỉ đạo liên ngành Trung ương về thu hồi tài sản trong vụ án Vạn Thịnh Phát",
+      "link": "https://tuoitre.vn/kien-toan-ban-chi-dao-lien-nganh-trung-uong-ve-thu-hoi-tai-san-trong-vu-an-van-thinh-phat-20260613175451968.htm",
+      "summary": "Thủ tướng Lê Minh Hưng vừa ký Quyết định số 1058/QĐ-TTg kiện toàn thành viên Ban Chỉ đạo liên ngành Trung ương về tổ chức thi hành án, thu hồi tài sản bị chiếm đoạt, thất thoát trong các vụ án liên quan đến Tập đoàn Vạn Thịnh Phát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T20:26:22.849289+07:00",
+      "fetched": "2026-06-13T20:26:22.849399+07:00"
+    },
+    {
+      "id": "de62f8a935ec5996c631e00636e5364d",
+      "title": "Bài học đáng đời dẫn đầu Netflix toàn cầu",
+      "link": "https://tuoitre.vn/bai-hoc-dang-doi-dan-dau-netflix-toan-cau-20260613133657474.htm",
+      "summary": "Teach You a Lesson (Bài học đáng đời) chinh phục khán giả bằng những màn trừng phạt 'hả hê' và câu chuyện về sự suy giảm quyền lực của giáo viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T20:26:22.849067+07:00",
+      "fetched": "2026-06-13T20:26:22.849275+07:00"
+    },
     {
       "id": "4e71e13a086ca76b16bd10cf5f2acc26",
       "title": "Ukraine tăng lương gấp ba cho bộ binh, tuyển thêm lính nước ngoài",
@@ -303,6 +453,226 @@ window.newsData_2026_06_13 = {
       "fetched": "2026-06-13T14:39:30.772003+07:00"
     },
     {
+      "id": "41bc5074c5d723959afc516fc92e2aaf",
+      "title": "Cup khổng lồ bị 'xì hơi' ở lễ khai mạc World Cup 2026",
+      "link": "https://vnexpress.net/cup-khong-lo-bi-xi-hoi-o-le-khai-mac-world-cup-2026-5085415.html",
+      "summary": "Sự cố kỹ thuật với mô hình danh hiệu World Cup khổng lồ khiến lễ khai mạc tại Canada trở thành chủ đề tranh luận toàn cầu, ngày 12/6.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-13T13:08:13+07:00",
+      "fetched": "2026-06-13T20:26:30.731229+07:00"
+    },
+    {
+      "id": "6e611c57c95b3df73a6809e68a0d2bee",
+      "title": "Iran có thể đã gài mìn, đánh sập đường hầm chứa uranium",
+      "link": "https://vnexpress.net/iran-co-the-da-gai-min-danh-sap-duong-ham-chua-uranium-5085435.html",
+      "summary": "Iran được cho là đã tăng cường biện pháp bảo vệ kho uranium bằng cách đánh sập các đường hầm và gài mìn cửa vào, đề phòng đặc nhiệm Mỹ xâm nhập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T13:03:03+07:00",
+      "fetched": "2026-06-13T20:25:40.361999+07:00"
+    },
+    {
+      "id": "b9d37638c9e67841bdafa3d167967a55",
+      "title": "CĐV Brazil và Morroco khuấy động Quảng trường Thời đại New York",
+      "link": "https://vnexpress.net/cdv-brazil-va-morroco-khuay-dong-quang-truong-thoi-dai-new-york-5085439.html",
+      "summary": "CĐV Brazil và Morroco khuấy động không khí trên Quảng trường Thời đại New York trước trận mở màn giữa hai đội tại bảng C World Cup 2026, diễn ra lúc 5h sáng 14/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T12:50:59+07:00",
+      "fetched": "2026-06-13T20:25:40.362162+07:00"
+    },
+    {
+      "id": "33110f6628594656bc97ef11f29120a4",
+      "title": "Trung tâm trung chuyển dầu mỏ của Mỹ sắp cạn dầu",
+      "link": "https://vnexpress.net/trung-tam-trung-chuyen-dau-mo-cua-my-sap-can-dau-5085314.html",
+      "summary": "Lượng dầu dự trữ của Cushing, trung tâm lưu trữ và định giá dầu thô WTI của Mỹ, đang tiệm cận mức \"tối thiểu để vận hành\", nguy cơ ảnh hưởng nguồn cung thế giới trong một tháng tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T12:44:15+07:00",
+      "fetched": "2026-06-13T20:25:40.362315+07:00"
+    },
+    {
+      "id": "33110f6628594656bc97ef11f29120a4",
+      "title": "Trung tâm trung chuyển dầu mỏ của Mỹ sắp cạn dầu",
+      "link": "https://vnexpress.net/trung-tam-trung-chuyen-dau-mo-cua-my-sap-can-dau-5085314.html",
+      "summary": "Lượng dầu dự trữ của Cushing, trung tâm lưu trữ và định giá dầu thô WTI của Mỹ, đang tiệm cận mức \"tối thiểu để vận hành\", nguy cơ ảnh hưởng nguồn cung thế giới trong một tháng tới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-13T12:44:15+07:00",
+      "fetched": "2026-06-13T20:26:26.485929+07:00"
+    },
+    {
+      "id": "88c6989dbd2d25f3fbbae72ecd2315de",
+      "title": "Hàng nghìn nhà hàng ở nước giàu thứ hai thế giới đóng cửa vì ế",
+      "link": "https://vnexpress.net/hang-nghin-nha-hang-o-nuoc-giau-thu-hai-the-gioi-dong-cua-vi-e-5085419.html",
+      "summary": "Dù là quốc gia giàu thứ hai thế giới, Singapore đang chứng kiến làn sóng phá sản của hàng nghìn nhà hàng do chi phí đắt đỏ và xu hướng thắt chặt chi tiêu của người dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T12:41:02+07:00",
+      "fetched": "2026-06-13T20:25:40.362453+07:00"
+    },
+    {
+      "id": "e21871eb05d93092a13e1ce6b7002b99",
+      "title": "Đảo Rắn 'tử thần' nằm ở nước nào?",
+      "link": "https://vnexpress.net/dao-ran-tu-than-nam-o-nuoc-nao-5085384.html",
+      "summary": "Đây là nơi trú ngụ của hàng trăm nghìn con rắn, mỗi m2 có một con với nọc độc mạnh hơn đồng loại trong đất liền. Bạn có biết hòn đảo 'tử thần' này ở nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T12:39:06+07:00",
+      "fetched": "2026-06-13T20:25:40.362587+07:00"
+    },
+    {
+      "id": "bb2b6d5f2b9fba6cf93f12a4e8a67006",
+      "title": "Hàng nghìn người dự lễ cầu siêu liệt sĩ ở công viên Lê Thị Riêng",
+      "link": "https://vnexpress.net/hang-nghin-nguoi-du-le-cau-sieu-liet-si-o-cong-vien-le-thi-rieng-5085432.html",
+      "summary": "Hàng nghìn phật tử tập trung tại công viên Lê Thị Riêng, nơi từng là Nghĩa trang Đô Thành, tham dự lễ cầu siêu, tưởng niệm các liệt sĩ và đồng bào yêu nước, chiều 13/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T12:31:47+07:00",
+      "fetched": "2026-06-13T20:25:40.362722+07:00"
+    },
+    {
+      "id": "89754da55c0b11fe773da2b05210e71b",
+      "title": "Phú Mỹ Hưng vận hành nhà mẫu đầu tiên tại Hồng Hạc City",
+      "link": "https://vnexpress.net/phu-my-hung-van-hanh-nha-mau-dau-tien-tai-hong-hac-city-5085424.html",
+      "summary": "Nhà mẫu đầu tiên của dự án Hồng Hạc City được đưa vào vận hành từ ngày 13/6 tại Bắc Ninh, thuộc phân khu Hồng Phát của đại đô thị quy mô gần 198 ha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T12:30:00+07:00",
+      "fetched": "2026-06-13T20:25:40.362888+07:00"
+    },
+    {
+      "id": "d26d350f18e1d74d98ca4439c1c4c626",
+      "title": "Hàng nghìn người mặc đồ đen tưởng niệm Công chúa Thái Lan",
+      "link": "https://vnexpress.net/hang-nghin-nguoi-mac-do-den-tuong-niem-cong-chua-thai-lan-5085430.html",
+      "summary": "Hàng nghìn người mặc đồ đen đứng dọc tuyến đường ở Bangkok để tưởng niệm Công chúa Bajrakitiyabha khi linh cữu bà được đưa từ bệnh viện về hoàng cung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T12:25:20+07:00",
+      "fetched": "2026-06-13T20:25:40.363022+07:00"
+    },
+    {
+      "id": "d26d350f18e1d74d98ca4439c1c4c626",
+      "title": "Hàng nghìn người mặc đồ đen tưởng niệm Công chúa Thái Lan",
+      "link": "https://vnexpress.net/hang-nghin-nguoi-mac-do-den-tuong-niem-cong-chua-thai-lan-5085430.html",
+      "summary": "Hàng nghìn người mặc đồ đen đứng dọc tuyến đường ở Bangkok để tưởng niệm Công chúa Bajrakitiyabha khi linh cữu bà được đưa từ bệnh viện về hoàng cung.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-13T12:25:20+07:00",
+      "fetched": "2026-06-13T20:26:24.644918+07:00"
+    },
+    {
+      "id": "5fe13470ac99155f53110211f06d2eef",
+      "title": "Cha mẹ bối rối khi con tò mò về tình dục",
+      "link": "https://vnexpress.net/cha-me-boi-roi-khi-con-to-mo-ve-tinh-duc-5085315.html",
+      "summary": "Phát hiện con trai thường xuyên đóng cửa phòng, tìm kiếm các thông tin về tình dục trên mạng, chị Minh Hương lo lắng nên đưa con đi tư vấn sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T12:00:00+07:00",
+      "fetched": "2026-06-13T20:25:40.363158+07:00"
+    },
+    {
+      "id": "d678f60d2988650e90e72dae179999e3",
+      "title": "Thủ tướng: Trung ương sẽ giám sát TP HCM tháo gỡ dự án tồn đọng",
+      "link": "https://vnexpress.net/thu-tuong-trung-uong-se-giam-sat-tp-hcm-thao-go-du-an-ton-dong-5085387.html",
+      "summary": "Trung ương sẽ giám sát quá trình tháo gỡ dự án tồn đọng của TP HCM, đảm bảo mục tiêu nhà đầu tư quay lại thực hiện chứ không dừng ở \"đã có phương án\" của chính quyền, theo Thủ tướng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T11:49:49+07:00",
+      "fetched": "2026-06-13T20:25:40.363288+07:00"
+    },
+    {
+      "id": "a76bc258bde7e6c612c2c547c3d92171",
+      "title": "Tập đoàn của Bầu Hiển muốn tăng đầu tư tại Bắc Ninh",
+      "link": "https://vnexpress.net/tap-doan-cua-bau-hien-muon-tang-dau-tu-tai-bac-ninh-5085423.html",
+      "summary": "T&T Group của Bầu Hiển đề xuất đầu tư hai dự án quy mô khoảng 440 ha, bên cạnh 5 dự án đang triển khai tại Bắc Ninh, trong buổi làm việc với tỉnh ngày 12/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T11:20:00+07:00",
+      "fetched": "2026-06-13T20:25:40.363424+07:00"
+    },
+    {
+      "id": "dd0ef27ec076b51cbdbf380937842555",
+      "title": "Ronaldo tin sẽ mang niềm vui cho người dân Bồ Đào Nha tại World Cup 2026",
+      "link": "https://vnexpress.net/ronaldo-tin-se-mang-niem-vui-cho-nguoi-dan-bo-dao-nha-tai-world-cup-2026-5085409.html",
+      "summary": "Ngay khi cùng đồng đội đặt chân tới Mỹ, Ronaldo bày tỏ sự tự tin rằng toàn đội sẽ thi đấu tốt và mang lại niềm vui cho người hâm mộ Bồ Đào Nha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T11:00:43+07:00",
+      "fetched": "2026-06-13T20:25:40.363559+07:00"
+    },
+    {
+      "id": "41193a2a95c839edd994f9a616079d25",
+      "title": "Bạn trai chỉ ăn ngủ và hưởng thụ, không thích đi làm",
+      "link": "https://vnexpress.net/ban-trai-chi-an-ngu-va-huong-thu-khong-thich-di-lam-5085351.html",
+      "summary": "Chúng tôi cứ cãi nhau là im lặng, ở chung một nhà mà như người dưng, thậm chí tôi ốm hay có việc gì, cậu ấy cũng mặc kệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T11:00:00+07:00",
+      "fetched": "2026-06-13T20:25:40.363693+07:00"
+    },
+    {
+      "id": "114e6b395bb2e5045aba30ecebfdaa2b",
+      "title": "Bên trong điện thoại Trump T1 'giống HTC U24 Pro'",
+      "link": "https://vnexpress.net/ben-trong-dien-thoai-trump-t1-giong-htc-u24-pro-5085181.html",
+      "summary": "Kênh iFixit tháo rời điện thoại T1 của Trump Mobile và nhận thấy kết cấu giống mẫu di động tầm trung ra mắt năm 2024 của HTC.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T11:00:00+07:00",
+      "fetched": "2026-06-13T20:25:40.363833+07:00"
+    },
+    {
+      "id": "e4e594f769bab51324fd163d75e610eb",
+      "title": "Các giọng ca nữ đình đám 'đổ bộ' hè 2026",
+      "link": "https://vnexpress.net/cac-giong-ca-nu-dinh-dam-do-bo-he-2026-5084845.html",
+      "summary": "Madonna và các giọng ca trẻ như Olivia Rodrigo, Ariana Grande cùng lúc ra album mới, Taylor Swift gây sốt với nhạc phim \"Toy Story 5\" trong mùa hè này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T11:00:00+07:00",
+      "fetched": "2026-06-13T20:25:40.363964+07:00"
+    },
+    {
+      "id": "114e6b395bb2e5045aba30ecebfdaa2b",
+      "title": "Bên trong điện thoại Trump T1 'giống HTC U24 Pro'",
+      "link": "https://vnexpress.net/ben-trong-dien-thoai-trump-t1-giong-htc-u24-pro-5085181.html",
+      "summary": "Kênh iFixit tháo rời điện thoại T1 của Trump Mobile và nhận thấy kết cấu giống mẫu di động tầm trung ra mắt năm 2024 của HTC.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-13T11:00:00+07:00",
+      "fetched": "2026-06-13T20:26:29.137635+07:00"
+    },
+    {
+      "id": "07176283ffbe781f10bc42d2f27eb928",
+      "title": "Thay đổi bên trong quả bóng World Cup 2026",
+      "link": "https://vnexpress.net/thay-doi-ben-trong-qua-bong-world-cup-2026-5084626.html",
+      "summary": "Một nhóm nghiên cứu độc lập đã tìm hiểu khí động học của quả bóng World Cup 2026 và nhận thấy thay đổi về quỹ đạo bay của bóng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-13T10:56:06+07:00",
+      "fetched": "2026-06-13T20:26:29.137784+07:00"
+    },
+    {
+      "id": "07176283ffbe781f10bc42d2f27eb928",
+      "title": "Thay đổi bên trong quả bóng World Cup 2026",
+      "link": "https://vnexpress.net/thay-doi-ben-trong-qua-bong-world-cup-2026-5084626.html",
+      "summary": "Một nhóm nghiên cứu độc lập đã tìm hiểu khí động học của quả bóng World Cup 2026 và nhận thấy thay đổi về quỹ đạo bay của bóng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-13T10:56:06+07:00",
+      "fetched": "2026-06-13T20:26:30.731386+07:00"
+    },
+    {
+      "id": "a6494d69b0dac738eb285370a0130d60",
+      "title": "Sun Group lần đầu ra mắt chương trình thành viên Sun Signature",
+      "link": "https://vnexpress.net/sun-group-lan-dau-ra-mat-chuong-trinh-thanh-vien-sun-signature-5085398.html",
+      "summary": "Sun Signature gồm 5 hạng thẻ, cho phép khách hàng tích điểm, hưởng nhiều quyền lợi từ hàng không, nghỉ dưỡng, vui chơi giải trí, y tế, bất động sản và tài chính, từ ngày 13/6.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-13T10:15:00+07:00",
+      "fetched": "2026-06-13T20:26:26.487166+07:00"
+    },
+    {
       "id": "412b62bb93c8f2a2815d8ac4626ebe0b",
       "title": "Người hùng tuyển Mỹ từng có quốc tịch một cách tình cờ",
       "link": "https://vnexpress.net/nguoi-hung-tuyen-my-tung-co-quoc-tich-mot-cach-tinh-co-5085396.html",
@@ -311,6 +681,16 @@ window.newsData_2026_06_13 = {
       "category": "Thể thao",
       "published": "2026-06-13T10:14:16+07:00",
       "fetched": "2026-06-13T17:22:27.571397+07:00"
+    },
+    {
+      "id": "3816fb144dfed30603f48be332e4a89d",
+      "title": "Mỹ tuyên bố bắn hạ loạt UAV Iran 'tấn công tàu hàng'",
+      "link": "https://vnexpress.net/my-tuyen-bo-ban-ha-loat-uav-iran-tan-cong-tau-hang-5085370.html",
+      "summary": "Mỹ tuyên bố bắn hạ nhiều UAV Iran đang nhắm vào tàu thương mại tại Hormuz, dù hai bên thông báo tiến gần thỏa thuận hơn bao giờ hết.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-13T09:52:40+07:00",
+      "fetched": "2026-06-13T20:26:24.645076+07:00"
     },
     {
       "id": "df07fac7a4c43de66f1c61a46c96a1cf",
