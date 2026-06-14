@@ -1,7 +1,157 @@
 window.newsData_2026_06_14 = {
   "date": "2026-06-14",
-  "lastUpdated": "2026-06-14T09:41:40.915614+07:00",
+  "lastUpdated": "2026-06-14T15:07:57.084674+07:00",
   "articles": [
+    {
+      "id": "196a1cc170410f43d2c013cfc2601508",
+      "title": "Pha solo đẳng cấp giúp tuyển Úc thắng 2-0 Thổ Nhĩ Kỳ",
+      "link": "https://tuoitre.vn/pha-solo-dang-cap-giup-tuyen-uc-thang-2-0-tho-nhi-ky-2026061413170253.htm",
+      "summary": "Tiền vệ Connor Metcalfe có pha solo ấn tượng trước khi tung cú dứt điểm hiểm hóc, ấn định chiến thắng 2-0 dành cho đội tuyển Úc trước tuyển Thổ Nhĩ Kỳ tại bảng D World Cup 2026 vào trưa ngày 14-6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T15:07:49.075404+07:00",
+      "fetched": "2026-06-14T15:07:49.075503+07:00"
+    },
+    {
+      "id": "5837948621d6bfe6ed51e61ea54074aa",
+      "title": "Sau màn hình gập, smartphone cao cấp sẽ cạnh tranh bằng gì?",
+      "link": "https://tuoitre.vn/sau-man-hinh-gap-smartphone-cao-cap-se-canh-tranh-bang-gi-20260614100255815.htm",
+      "summary": "Khi thiết kế gập và phần cứng dần bớt khác biệt, cuộc cạnh tranh ở phân khúc smartphone cao cấp bắt đầu dịch chuyển sang bảo mật, AI cá nhân hóa và trải nghiệm sử dụng riêng tư hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T15:07:49.075287+07:00",
+      "fetched": "2026-06-14T15:07:49.075387+07:00"
+    },
+    {
+      "id": "fe887112bda5981bf213dfcb590d106f",
+      "title": "Web trực tiếp World Cup 2026 trái phép vẫn ngập tràn trên mạng",
+      "link": "https://tuoitre.vn/web-truc-tiep-world-cup-2026-trai-phep-van-ngap-tran-tren-mang-20260614111021994.htm",
+      "summary": "Dù hệ thống XoilacTV tại Việt Nam đã bị triệt phá, hệ thống trên toàn cầu với hằng hà ‘chân rết’ website vẫn ngang nhiên hoạt động công khai trên mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T15:07:49.075182+07:00",
+      "fetched": "2026-06-14T15:07:49.075278+07:00"
+    },
+    {
+      "id": "d87774dac4ff6ddff95cf7b60d4cdda3",
+      "title": "Rửa xe máy điện bằng vòi nước áp lực cao có thể làm hại xe",
+      "link": "https://tuoitre.vn/rua-xe-may-dien-bang-voi-nuoc-ap-luc-cao-co-the-lam-hai-xe-20260614114643065.htm",
+      "summary": "Xe máy điện có thể được rửa bằng nước như xe máy thông thường. Nhưng việc sử dụng vòi phun áp lực cao sai cách có thể khiến nước xâm nhập vào các linh kiện điện, làm tăng nguy cơ hư hỏng về lâu dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T15:07:49.075076+07:00",
+      "fetched": "2026-06-14T15:07:49.075172+07:00"
+    },
+    {
+      "id": "5efb133cc1529f54efb84643450448ba",
+      "title": "Khi Luật Đô thị đặc biệt được thông qua, người dân TP.HCM được hưởng lợi gì?",
+      "link": "https://tuoitre.vn/khi-luat-do-thi-dac-biet-duoc-thong-qua-nguoi-dan-tp-hcm-duoc-huong-loi-gi-20260614113430987.htm",
+      "summary": "Đó là câu hỏi của cử tri tại chương trình 'Dân hỏi - Chính quyền trả lời' phát sóng trên Đài Phát thanh và Truyền hình TP.HCM số tháng 6-2026, diễn ra ngày 14-6 với chủ đề 'Đột phá về thể chế - Chìa khóa của ổn định và phát triển'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T15:07:49.074968+07:00",
+      "fetched": "2026-06-14T15:07:49.075067+07:00"
+    },
+    {
+      "id": "dfab4c05998b0663b7767136590b9c80",
+      "title": "Chiếc túi thạch giống Hermès Birkin khiến giới trẻ phát cuồng",
+      "link": "https://tuoitre.vn/chiec-tui-thach-giong-hermes-birkin-khien-gioi-tre-phat-cuong-20260613214801417.htm",
+      "summary": "Lấy cảm hứng từ dáng túi Birkin kinh điển của Hermès, những chiếc 'túi thạch' đang gây sốt trong làng thời trang, phủ sóng khắp nơi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T15:07:49.074861+07:00",
+      "fetched": "2026-06-14T15:07:49.074959+07:00"
+    },
+    {
+      "id": "cd19f0f3f404420b9322a0fb55a9b920",
+      "title": "Cocoon hợp tác Duy Tân Recycling dùng nhựa tái chế 100% trong bao bì",
+      "link": "https://tuoitre.vn/cocoon-hop-tac-duy-tan-recycling-dung-nhua-tai-che-100-trong-bao-bi-20260613104236127.htm",
+      "summary": "Ngày 12-6, Cocoon Việt Nam, Nhựa Duy Tân và Duy Tân Recycling vừa ký kết hợp tác chiến lược nhằm triển khai ứng dụng nhựa tái chế 100% trong bao bì mỹ phẩm Cocoon.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T15:07:49.074752+07:00",
+      "fetched": "2026-06-14T15:07:49.074851+07:00"
+    },
+    {
+      "id": "8a3284522bac5c48984e2d7902e9fcce",
+      "title": "Vietjet và Tổng cục Du lịch Thái Lan phối hợp quảng bá hai điểm đến",
+      "link": "https://tuoitre.vn/vietjet-va-tong-cuc-du-lich-thai-lan-phoi-hop-quang-ba-hai-diem-den-20260613185636288.htm",
+      "summary": "Ngày 11-6 tại Hà Nội, Vietjet và Tổng cục Du lịch Thái Lan (TAT) đã ký kết thỏa thuận hợp tác chiến lược nhằm thúc đẩy du lịch, tăng cường kết nối hàng không và giao lưu văn hoá quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T15:07:49.074646+07:00",
+      "fetched": "2026-06-14T15:07:49.074742+07:00"
+    },
+    {
+      "id": "593699c6c36b0b205c39651911a2fff3",
+      "title": "Phú Mỹ Hưng 2.0: Viết tiếp di sản mở đất với Hồng Hạc City Bắc Ninh",
+      "link": "https://tuoitre.vn/phu-my-hung-2-0-viet-tiep-di-san-mo-dat-voi-hong-hac-city-bac-ninh-20260614111639952.htm",
+      "summary": "Chỉ ít ngày sau khi Hồng Hạc City được vinh danh Top 10 Dự án Nhà ở Thương mại Tiềm năng nhất Việt Nam, liên doanh Phú Mỹ Hưng và Nomura tiếp tục khai trương nhà mẫu đầu tiên của dự án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T15:07:49.074538+07:00",
+      "fetched": "2026-06-14T15:07:49.074635+07:00"
+    },
+    {
+      "id": "772e5284124b36ff5e4caa3fe1089cc0",
+      "title": "Bệnh viện Đại học Y Dược TP.HCM và Servier Việt Nam ký kết hợp tác",
+      "link": "https://tuoitre.vn/benh-vien-dai-hoc-y-duoc-tphcm-va-servier-viet-nam-ky-ket-hop-tac-20260614124319363.htm",
+      "summary": "Ngày 12-6, Bệnh viện Đại học Y Dược TP.HCM (BV ĐHYD) và Công ty TNHH Servier Việt Nam (Servier) đã ký kết biên bản ghi nhớ hợp tác nâng cao năng lực truyền thông và quản lý tăng huyết áp, đái tháo đường giai đoạn 2026 - 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T15:07:49.074428+07:00",
+      "fetched": "2026-06-14T15:07:49.074529+07:00"
+    },
+    {
+      "id": "97ddbaee06ba448fd80dba5b815e9379",
+      "title": "Hà Nội ghi nhận ca viêm não Nhật Bản, những cảnh báo của bác sĩ",
+      "link": "https://tuoitre.vn/ha-noi-ghi-nhan-ca-viem-nao-nhat-ban-nhung-canh-bao-cua-bac-si-20260614131217175.htm",
+      "summary": "Theo thông tin từ Trung tâm Kiểm soát bệnh tật (CDC) Hà Nội, trên địa bàn vừa ghi nhận bệnh nhi 13 tuổi ở xã Hưng Đạo, Hà Nội mắc viêm não Nhật Bản. Đây cũng là ca bệnh viêm não Nhật Bản đầu tiên trong năm tại Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T15:07:49.074302+07:00",
+      "fetched": "2026-06-14T15:07:49.074418+07:00"
+    },
+    {
+      "id": "dac971cb602f9ded9aea9e6b0f221300",
+      "title": "Tuyển Morocco lập kỷ lục độc nhất vô nhị tại World Cup sau trận hòa trước Brazil",
+      "link": "https://tuoitre.vn/tuyen-morocco-lap-ky-luc-doc-nhat-vo-nhi-tai-world-cup-sau-tran-hoa-truoc-brazil-20260614135652189.htm",
+      "summary": "Trận hòa quả cảm với tỉ số 1-1 trước Brazil (sáng 14-6) không chỉ mở rộng cánh cửa đi tiếp cho Morocco tại bảng C World Cup 2026, mà còn biến đại diện Bắc Phi có được cột mốc mang tính lịch sử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T15:07:49.074194+07:00",
+      "fetched": "2026-06-14T15:07:49.074292+07:00"
+    },
+    {
+      "id": "43c86cac78e2c98647d931b36755093e",
+      "title": "Hà Nội tính chi hơn 3.500 tỉ để xây hơn 1.100 căn hộ cho thuê",
+      "link": "https://tuoitre.vn/ha-noi-tinh-chi-hon-3-500-ti-de-xay-hon-1-100-can-ho-cho-thue-20260614133031891.htm",
+      "summary": "UBND TP Hà Nội vừa có tờ trình gửi HĐND TP đề nghị phê duyệt chủ trương đầu tư dự án nhà ở cho thuê tại phường Việt Hưng (khu vực quận Long Biên trước đây).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T15:07:49.074082+07:00",
+      "fetched": "2026-06-14T15:07:49.074184+07:00"
+    },
+    {
+      "id": "88a8e6ba1ac73b3bbd3f029dd529e741",
+      "title": "Céline Thanh Nhã: Người phụ nữ Việt Nam đầu tiên chinh phục 7 ngọn núi cao nhất thế giới",
+      "link": "https://tuoitre.vn/celine-thanh-nha-nguoi-phu-nu-viet-nam-dau-tien-chinh-phuc-7-ngon-nui-cao-nhat-the-gioi-20260614135824885.htm",
+      "summary": "Céline Thanh Nhã vừa trở thành người phụ nữ Việt Nam đầu tiên hoàn thành chinh phục “thất đỉnh” - 7 ngọn núi cao nhất thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T15:07:49.073961+07:00",
+      "fetched": "2026-06-14T15:07:49.074072+07:00"
+    },
+    {
+      "id": "534e4ba17ea27e3cb54b26255b67d8ee",
+      "title": "Hồ Tấn Tài chia tay Becamex TP.HCM sau khi đội xuống hạng",
+      "link": "https://tuoitre.vn/ho-tan-tai-chia-tay-becamex-tp-hcm-sau-khi-doi-xuong-hang-20260614135538401.htm",
+      "summary": "Hậu vệ Hồ Tấn Tài sẽ không còn khoác áo CLB Becamex TP.HCM sau khi đội chủ sân Bình Dương rớt hạng V-League mùa giải 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T15:07:49.073738+07:00",
+      "fetched": "2026-06-14T15:07:49.073948+07:00"
+    },
     {
       "id": "9bde8c06776c6cee67ef8cf28e3f67d5",
       "title": "Touliver ngồi xe lăn dự fan meeting, SpaceSpeakers nhìn lại 15 năm đồng hành",
@@ -153,6 +303,296 @@ window.newsData_2026_06_14 = {
       "fetched": "2026-06-14T09:41:35.483447+07:00"
     },
     {
+      "id": "fc49ebc8a2096ffde16fe017093b7bfa",
+      "title": "CSGT TP.HCM xử lý nhóm tụ tập xe phân khối lớn trong khu đô thị",
+      "link": "https://thanhnien.vn/csgt-tphcm-xu-ly-nhom-tu-tap-xe-phan-khoi-lon-trong-khu-do-thi-185260614145010772.htm",
+      "summary": "Lợi dụng các tuyến đường nội khu vắng người trong khu đô thị đang xây dựng để tụ tập, trao đổi kỹ năng điều khiển xe phân khối lớn, 4 người đã bị CSGT TP.HCM kiểm tra, lập biên bản và tạm giữ phương tiện phục vụ xác minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T08:01:00+07:00",
+      "fetched": "2026-06-14T15:07:48.005424+07:00"
+    },
+    {
+      "id": "293da4c646baf429acf7e5f75b28b7ea",
+      "title": "Quan chức Mexico bị sa thải vì phân biệt chủng tộc nữ CĐV Hàn Quốc",
+      "link": "https://vnexpress.net/quan-chuc-mexico-bi-sa-thai-vi-phan-biet-chung-toc-nu-cdv-han-quoc-5085573.html",
+      "summary": "Ulises Bernal, Chủ tịch Hiệp hội Kỹ sư Trắc địa và Địa tin học bang Jalisco, bị cách chức sau khi xuất hiện trong video có hành vi kỳ thị nữ streamer Hàn Quốc Yoon Su-jin tại World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T08:00:00+07:00",
+      "fetched": "2026-06-14T15:07:44.777601+07:00"
+    },
+    {
+      "id": "eeee468ec8d4eb86746b98842b660c7c",
+      "title": "'Đốm lạnh' đi ngược xu hướng ấm lên giữa Đại Tây Dương",
+      "link": "https://vnexpress.net/dom-lanh-di-nguoc-xu-huong-am-len-giua-dai-tay-duong-5085548.html",
+      "summary": "Vùng nước lạnh bất thường ở Đại Tây Dương có thể báo hiệu hệ thống hải lưu quan trọng suy yếu, đẩy thế giới đến gần khủng hoảng khí hậu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T08:00:00+07:00",
+      "fetched": "2026-06-14T15:07:44.777766+07:00"
+    },
+    {
+      "id": "fea3c52305d33668a6da67b427b40649",
+      "title": "Bạn trai hủy buổi gặp hai gia đình dù đã có lời với bố mẹ tôi",
+      "link": "https://vnexpress.net/ban-trai-huy-buoi-gap-hai-gia-dinh-du-da-co-loi-voi-bo-me-toi-5085520.html",
+      "summary": "Gia đình anh gặp trục trặc vì chuyện của chị gái anh, chị muốn bỏ chồng; thế nên anh hoãn luôn việc chúng tôi ra mắt hai bên gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T08:00:00+07:00",
+      "fetched": "2026-06-14T15:07:44.777918+07:00"
+    },
+    {
+      "id": "eeee468ec8d4eb86746b98842b660c7c",
+      "title": "'Đốm lạnh' đi ngược xu hướng ấm lên giữa Đại Tây Dương",
+      "link": "https://vnexpress.net/dom-lanh-di-nguoc-xu-huong-am-len-giua-dai-tay-duong-5085548.html",
+      "summary": "Vùng nước lạnh bất thường ở Đại Tây Dương có thể báo hiệu hệ thống hải lưu quan trọng suy yếu, đẩy thế giới đến gần khủng hoảng khí hậu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-14T08:00:00+07:00",
+      "fetched": "2026-06-14T15:07:56.048061+07:00"
+    },
+    {
+      "id": "91f28fdbf1f622e15619a234920cdea4",
+      "title": "Hàng trăm tấn rác ùn ứ trên nhiều tuyến phố ở Đà Lạt",
+      "link": "https://vnexpress.net/hang-tram-tan-rac-un-u-tren-nhieu-tuyen-pho-o-da-lat-5085581.html",
+      "summary": "Nhà máy xử lý tạm ngừng tiếp nhận khiến hàng trăm tấn rác sinh hoạt tồn đọng trên nhiều tuyến đường Đà Lạt, bốc mùi giữa mùa du lịch hè.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T07:59:17+07:00",
+      "fetched": "2026-06-14T15:07:44.778061+07:00"
+    },
+    {
+      "id": "9a175e41851e2c6a1ac001d8c366c81e",
+      "title": "10 phường ở TP.HCM tăng thêm khu phố sau sắp xếp",
+      "link": "https://thanhnien.vn/10-phuong-o-tphcm-tang-them-khu-pho-sau-sap-xep-185260614144147993.htm",
+      "summary": "Theo phương án tổng thể sắp xếp khu phố, ấp trên địa bàn TP.HCM, có 10 phường tăng số lượng khu phố, phần lớn ở khu vực Bình Dương cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T07:59:00+07:00",
+      "fetched": "2026-06-14T15:07:48.005601+07:00"
+    },
+    {
+      "id": "3cf9fa22a906f03b7f0ea68ddda5c1d3",
+      "title": "Ô tô crossover hạng C dưới 1 tỉ tại Việt Nam đua giảm giá hàng trăm triệu",
+      "link": "https://thanhnien.vn/o-to-crossover-hang-c-duoi-1-ti-tai-viet-nam-dua-giam-gia-hang-tram-trieu-185260609142429268.htm",
+      "summary": "Áp lực cạnh tranh, xả hàng tồn kho khiến một số mẫu xe thuộc phân khúc Crossover hạng C tầm giá dưới 1 tỉ đồng được các nhà sản xuất, phân phối \"đại hạ giá\" với mức giảm từ vài chục đến hàng trăm triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T07:58:00+07:00",
+      "fetched": "2026-06-14T15:07:48.005748+07:00"
+    },
+    {
+      "id": "8b47111a1f6afe555206de002e6e06e1",
+      "title": "Chọn garage sửa chữa ô tô tại TP.HCM: Làm sao để biết nơi nào đáng tin cậy?",
+      "link": "https://thanhnien.vn/chon-garage-sua-chua-o-to-tai-tphcm-lam-sao-de-biet-noi-nao-dang-tin-cay-185260613205909101.htm",
+      "summary": "Số lượng phương tiện giao thông cá nhân không ngừng gia tăng kéo theo nhu cầu bảo dưỡng, sửa chữa ô tô ngày càng cao, tuy nhiên việc chọn garage ô tô nào uy tín, chất lượng để gửi gắm và bắt bệnh \"xế cưng\" là điều đang khiến không ít chủ xe \"đau đầu\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T07:57:00+07:00",
+      "fetched": "2026-06-14T15:07:48.005879+07:00"
+    },
+    {
+      "id": "9927762b56243123c7980fa7c0131168",
+      "title": "Thiết lập quan trọng khi xem bóng đá với loa soundbar",
+      "link": "https://thanhnien.vn/thiet-lap-quan-trong-khi-xem-bong-da-voi-loa-soundbar-185260614095257335.htm",
+      "summary": "Nhiều người sở hữu soundbar nhưng bỏ qua các thiết lập quan trọng, khiến trải nghiệm xem bóng đá chưa đạt chất lượng tốt nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T07:53:00+07:00",
+      "fetched": "2026-06-14T15:07:48.006006+07:00"
+    },
+    {
+      "id": "5ed77767ebd8f385829dc79571d3745a",
+      "title": "Nhà khoa học tên lửa 96 tuổi quyết tìm tình yêu cuối đời",
+      "link": "https://vnexpress.net/nha-khoa-hoc-ten-lua-96-tuoi-quyet-tim-tinh-yeu-cuoi-doi-5085545.html",
+      "summary": "Ông Sol Rosenblatt, 96 tuổi, quyết tìm một mối tình khiến trái tim rung động thật sự, để không phải sống cuối đời trong cô đơn, sau khi vợ mất hai năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T07:38:33+07:00",
+      "fetched": "2026-06-14T15:07:44.778200+07:00"
+    },
+    {
+      "id": "1f195105dd76136fee408fe4bb50764d",
+      "title": "Siêu mẫu Tyra Banks khởi kiện Netflix vì bôi nhọ danh dự",
+      "link": "https://thanhnien.vn/sieu-mau-tyra-banks-khoi-kien-netflix-vi-boi-nho-danh-du-185260614132902229.htm",
+      "summary": "Siêu mẫu Tyra Banks vừa chính thức đệ đơn kiện Netflix, cáo buộc nền tảng này đã dùng các chiêu trò cắt ghép tinh vi để bóp méo hình ảnh của cô trong bộ phim tài liệu vạch trần góc khuất của chương trình 'Next top model'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T07:24:00+07:00",
+      "fetched": "2026-06-14T15:07:48.006132+07:00"
+    },
+    {
+      "id": "de4c8b1ac1ea7c77069b6ec25021338a",
+      "title": "Bồ đề cổ thụ bật gốc đè bẹp cabin xe tải ở TP HCM",
+      "link": "https://vnexpress.net/bo-de-co-thu-bat-goc-de-bep-cabin-xe-tai-o-tp-hcm-5085580.html",
+      "summary": "Cây bồ đề cao hơn chục mét trên đường Trần Xuân Soạn (quận 7 cũ) bất ngờ bật gốc, đè bẹp cabin xe tải đang chạy, tài xế may mắn thoát nạn, trưa 14/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T07:18:15+07:00",
+      "fetched": "2026-06-14T15:07:44.778337+07:00"
+    },
+    {
+      "id": "f1902990cca34ee8fa575cda406ae277",
+      "title": "Người Đồng Tháp xa quê kết nối doanh nghiệp, doanh nhân hướng về quê hương",
+      "link": "https://thanhnien.vn/nguoi-dong-thap-xa-que-ket-noi-doanh-nghiep-doanh-nhan-huong-ve-que-huong-185260614111320385.htm",
+      "summary": "Chương trình họp mặt, giao lưu giữa Hội Liên lạc với người đồng hương tỉnh Đồng Tháp - Cụm 6 với lãnh đạo địa phương và cộng đồng doanh nhân, doanh nghiệp đã trở thành dịp kết nối những người con xa quê, cùng chung tay hướng về quê hương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T07:09:00+07:00",
+      "fetched": "2026-06-14T15:07:48.006260+07:00"
+    },
+    {
+      "id": "ace9892acad304d433a0bf85e146338e",
+      "title": "Lễ tốt nghiệp đặc biệt của nữ thạc sĩ: ngày nhận bằng có thêm người đồng hành",
+      "link": "https://thanhnien.vn/le-tot-nghiep-dac-biet-cua-nu-thac-si-ngay-nhan-bang-co-them-nguoi-dong-hanh-185260614134002203.htm",
+      "summary": "Người đồng hành ấy là một em bé 14 tháng tuổi. Từ ngày nhập học khi đang mang thai đến lúc hoàn thành chương trình thạc sĩ, người mẹ trẻ đã trải qua hành trình vừa làm việc, vừa chăm con và theo đuổi việc học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T07:02:00+07:00",
+      "fetched": "2026-06-14T15:07:48.006395+07:00"
+    },
+    {
+      "id": "49841031b141e967e4b36f08326acb0a",
+      "title": "Cầu thủ Úc lập kỷ lục lịch sử cho bóng đá châu Á tại World Cup 2026",
+      "link": "https://thanhnien.vn/cau-thu-uc-lap-ky-luc-lich-su-cho-bong-da-chau-a-tai-world-cup-2026-185260614135624506.htm",
+      "summary": "Nestory Irankunda đã trở thành cầu thủ trẻ nhất trong lịch sử, ghi bàn cho đội tuyển Úc tại World Cup, và cũng cho bóng đá châu Á khi là đại diện của AFC từ năm 2006, sau trận thắng ngoạn mục Thổ Nhĩ Kỳ tỷ số 2-0 ngày 14.6.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T07:01:00+07:00",
+      "fetched": "2026-06-14T15:07:48.006537+07:00"
+    },
+    {
+      "id": "90c0ffa17e2c777a67fb877929381e86",
+      "title": "Úc phá dớp ngoạn mục tại World Cup, thắng Thổ Nhĩ Kỳ 2-0: Ngôi sao trẻ làm điều cực khó tin",
+      "link": "https://thanhnien.vn/uc-pha-dop-ngoan-muc-tai-world-cup-thang-tho-nhi-ky-2-0-thiet-lap-cot-moc-lich-su-185260614132358728.htm",
+      "summary": "Bất chấp các thống kê trong quá khứ, đội tuyển Úc đã tạo nên cơn địa chấn khi đánh bại 'khắc tinh' Thổ Nhĩ Kỳ 2-0 trong trận ra quân bảng D World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T07:01:00+07:00",
+      "fetched": "2026-06-14T15:07:48.006665+07:00"
+    },
+    {
+      "id": "a6ffb04cbad60df422dab957b7c80fc6",
+      "title": "90% người nhìn mãi vẫn chưa phát hiện con vật bí ẩn trong tranh",
+      "link": "https://vnexpress.net/90-nguoi-nhin-mai-van-chua-phat-hien-con-vat-bi-an-trong-tranh-5083722.html",
+      "summary": "Có người chỉ mất vài giây để tìm ra đáp án, nhưng cũng có người nhìn đi nhìn lại cả phút vẫn chưa phát hiện điều bất thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T07:00:00+07:00",
+      "fetched": "2026-06-14T15:07:44.778491+07:00"
+    },
+    {
+      "id": "4c92cc777dafcec40e595260b665a4ea",
+      "title": "Mặc quần ống rộng sao cho khéo để không bị nuốt dáng?",
+      "link": "https://thanhnien.vn/thoi-trang-tre/mac-quan-ong-rong-sao-cho-kheo-de-khong-bi-nuot-dang-185260613175211927.htm",
+      "summary": "Trong vài mùa mốt gần đây, quần ống rộng đã vượt khỏi vai trò của một xu hướng nhất thời để trở thành món đồ chủ lực trong tủ quần áo của những cô gái yêu phong cách hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T07:00:00+07:00",
+      "fetched": "2026-06-14T15:07:48.006791+07:00"
+    },
+    {
+      "id": "41a7459dae8d4727410b6da83e38274c",
+      "title": "Những chiếc lá non",
+      "link": "https://thanhnien.vn/nhung-chiec-la-non-185260613172926651.htm",
+      "summary": "Hôm trước tôi có đọc bài nghiên cứu khoa học, họ bảo chùm ngây là một trong những loại cây có hàm lượng kẽm, vitamin C và chất chống ô xy hóa tốt nhất thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T07:00:00+07:00",
+      "fetched": "2026-06-14T15:07:48.006919+07:00"
+    },
+    {
+      "id": "56668d26f19b8256e888c6422491dc6f",
+      "title": "El Nino tác động ra sao đến thời tiết Việt Nam những tháng tới?",
+      "link": "https://thanhnien.vn/el-nino-tac-dong-ra-sao-den-thoi-tiet-viet-nam-nhung-thang-toi-185260614133200169.htm",
+      "summary": "Các dự báo hiện nay cho thấy El Nino gần như chắc chắn hình thành và duy trì từ tháng 6 đến cuối năm, có thể kéo dài sang đầu năm 2027 gây ra nhiều tác động đến thời tiết nước ta những tháng tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T06:56:00+07:00",
+      "fetched": "2026-06-14T15:07:48.007047+07:00"
+    },
+    {
+      "id": "17ff37bfa28278f13a2d1d929c7dddb9",
+      "title": "Thanh niên công nhân góp phần vào mục tiêu tăng trưởng 2 con số",
+      "link": "https://thanhnien.vn/thanh-nien-cong-nhan-gop-phan-vao-muc-tieu-tang-truong-2-con-so-185260614112245938.htm",
+      "summary": "Thanh niên công nhân là lực lượng năng động, sáng tạo trong lao động, sản xuất, có vai trò quan trọng góp phần vào mục tiêu tăng trưởng 2 con số của đất nước trong thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T06:53:00+07:00",
+      "fetched": "2026-06-14T15:07:48.007173+07:00"
+    },
+    {
+      "id": "04973ece9577004cc284423497909713",
+      "title": "1.500 người nhặt 2 tấn rác làm sạch bán đảo Sơn Trà",
+      "link": "https://vnexpress.net/1-500-nguoi-nhat-2-tan-rac-lam-sach-ban-dao-son-tra-5085558.html",
+      "summary": "Sáng 14/6, hơn 1.500 tình nguyện viên tại Đà Nẵng đồng loạt ra quân lặn biển vớt lưới ma, gỡ rác bám vào rạn san hô và dọn vệ sinh dưới chân bán đảo Sơn Trà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T06:52:00+07:00",
+      "fetched": "2026-06-14T15:07:44.778627+07:00"
+    },
+    {
+      "id": "26ff675361c88f9aa485a1dc86846d60",
+      "title": "Dự đoán tỷ số Hà Lan - Nhật Bản (3 giờ, 15.6, trực tiếp trên VTV6): Thước đo tham vọng",
+      "link": "https://thanhnien.vn/du-doan-ty-so-ha-lan-nhat-ban-3-gio-156-truc-tiep-tren-vtv6-thuoc-do-tham-vong-185260613222907801.htm",
+      "summary": "Đều sở hữu lối chơi chặt chẽ, có tính tổ chức rất cao, cả Hà Lan và Nhật Bản cùng ấp ủ giấc mơ để lại dấu ấn đậm nét ở kỳ World Cup 2026 này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T06:49:00+07:00",
+      "fetched": "2026-06-14T15:07:48.007301+07:00"
+    },
+    {
+      "id": "5b4ccda7984f674cea1d1611fe87eedc",
+      "title": "Chồng tiêu tiền không tiếc tay cho bản thân, chi ly với vợ con từng nghìn",
+      "link": "https://vnexpress.net/chong-tieu-tien-khong-tiec-tay-cho-ban-than-chi-ly-voi-vo-con-tung-nghin-5085407.html",
+      "summary": "Anh sẵn sàng mua những chai rượu đắt đỏ, chiêu đãi bạn bè, còn đưa tiền cho tôi anh tính từng đồng, bắt tôi ghi chép chi tiêu hàng tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T06:00:00+07:00",
+      "fetched": "2026-06-14T15:07:44.778758+07:00"
+    },
+    {
+      "id": "b90d596c82369ab62dba077c1677f0ff",
+      "title": "4 điều hơi thở tiết lộ về sức khỏe",
+      "link": "https://vnexpress.net/4-dieu-hoi-tho-tiet-lo-ve-suc-khoe-5085163.html",
+      "summary": "Thở bằng mũi giúp bảo vệ đường hô hấp, nhịp thở bất thường có thể là dấu hiệu bệnh lý, trong khi tập thể dục đều đặn góp phần cải thiện chức năng phổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T06:00:00+07:00",
+      "fetched": "2026-06-14T15:07:44.778892+07:00"
+    },
+    {
+      "id": "8a8764c36f6cb13bfda1b610792c0199",
+      "title": "Thủ tướng: Mục tiêu năm 2027 tăng trưởng hai chữ số",
+      "link": "https://vnexpress.net/thu-tuong-muc-tieu-nam-2027-tang-truong-hai-chu-so-5085568.html",
+      "summary": "Định hướng phát triển năm 2027 được xác định là tăng trưởng hai chữ số gắn với ổn định kinh tế vĩ mô, kiểm soát lạm phát, theo chỉ thị của Thủ tướng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T05:57:00+07:00",
+      "fetched": "2026-06-14T15:07:44.779022+07:00"
+    },
+    {
+      "id": "8a8764c36f6cb13bfda1b610792c0199",
+      "title": "Thủ tướng: Mục tiêu năm 2027 tăng trưởng hai chữ số",
+      "link": "https://vnexpress.net/thu-tuong-muc-tieu-nam-2027-tang-truong-hai-chu-so-5085568.html",
+      "summary": "Định hướng phát triển năm 2027 được xác định là tăng trưởng hai chữ số gắn với ổn định kinh tế vĩ mô, kiểm soát lạm phát, theo chỉ thị của Thủ tướng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-14T05:57:00+07:00",
+      "fetched": "2026-06-14T15:07:52.368630+07:00"
+    },
+    {
+      "id": "752dcdae8ff9f3eb502f4a21ad479709",
+      "title": "Biển Sầm Sơn chật kín du khách",
+      "link": "https://vnexpress.net/bien-sam-son-chat-kin-du-khach-5085546.html",
+      "summary": "Hàng chục nghìn người đổ về biển Sầm Sơn vui chơi, tránh nóng vào ngày cuối tuần, các bãi tắm dọc đường Hồ Xuân Hương gần như kín.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T05:56:10+07:00",
+      "fetched": "2026-06-14T15:07:44.779159+07:00"
+    },
+    {
       "id": "d19986f669811afd3ffe47c3e1acf5a9",
       "title": "Thắng Trung Quốc, bóng chuyền Nhật Bản kéo dài kỳ tích",
       "link": "https://tuoitre.vn/thang-trung-quoc-bong-chuyen-nhat-ban-keo-dai-ky-tich-20260614000809146.htm",
@@ -211,6 +651,146 @@ window.newsData_2026_06_14 = {
       "category": "Tổng hợp",
       "published": "2026-06-14T05:55:26.561225+07:00",
       "fetched": "2026-06-14T05:55:26.561439+07:00"
+    },
+    {
+      "id": "407b0ebdabe0369a7aab78db3dca0450",
+      "title": "Mất thêm một tỷ đồng xây nhà vì tin lời thầy phong thủy",
+      "link": "https://vnexpress.net/mat-them-mot-ty-dong-xay-nha-vi-tin-loi-thay-phong-thuy-5085487.html",
+      "summary": "Gia chủ chấp nhận hoãn xây nhà chỉ vì thầy phong thủy phán 'không hợp tuổi', để rồi số tiền tăng thêm chạm mốc một tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T05:38:25+07:00",
+      "fetched": "2026-06-14T15:07:44.779296+07:00"
+    },
+    {
+      "id": "ad9178112ffdb24f2c605883786568a8",
+      "title": "Việt kiều Mỹ bị cáo buộc mua 3 trẻ em để đưa ra nước ngoài",
+      "link": "https://vnexpress.net/viet-kieu-my-bi-cao-buoc-mua-3-tre-em-de-dua-ra-nuoc-ngoai-5085555.html",
+      "summary": "Trần Nhuận Gia bị cáo buộc mua 3 trẻ em qua các hội nhóm \"cho nhận con nuôi\" trên mạng, làm giả giấy khai sinh và kết quả ADN để chuẩn bị hồ sơ đưa các cháu sang Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T05:35:15+07:00",
+      "fetched": "2026-06-14T15:07:44.779441+07:00"
+    },
+    {
+      "id": "4758320c538b66d2c745dbf3373c2b77",
+      "title": "Tiêm kích Mỹ lao vào núi, gây cháy rừng",
+      "link": "https://vnexpress.net/tiem-kich-my-lao-vao-nui-gay-chay-rung-5085550.html",
+      "summary": "Tiêm kích F/A-18 của thủy quân lục chiến Mỹ gặp sự cố khi huấn luyện và rơi tại bang Washington, phi công thoát hiểm an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T05:33:23+07:00",
+      "fetched": "2026-06-14T15:07:44.779576+07:00"
+    },
+    {
+      "id": "4758320c538b66d2c745dbf3373c2b77",
+      "title": "Tiêm kích Mỹ lao vào núi, gây cháy rừng",
+      "link": "https://vnexpress.net/tiem-kich-my-lao-vao-nui-gay-chay-rung-5085550.html",
+      "summary": "Tiêm kích F/A-18 của thủy quân lục chiến Mỹ gặp sự cố khi huấn luyện và rơi tại bang Washington, phi công thoát hiểm an toàn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-14T05:33:23+07:00",
+      "fetched": "2026-06-14T15:07:50.834959+07:00"
+    },
+    {
+      "id": "d6c32ccde96a5f9936e5c4e581dbb206",
+      "title": "Số hóa toàn bộ quy trình thi công mở rộng cao tốc TP HCM về miền Tây",
+      "link": "https://vnexpress.net/cong-nghe-toan-bo-quy-trinh-thi-cong-mo-rong-cao-toc-tp-hcm-ve-mien-tay-5085551.html",
+      "summary": "Quá trình mở rộng cao tốc TP HCM - Mỹ Thuận được quản lý tập trung trên nền tảng số, giúp giảm nhân sự, tiết kiệm 167 tỷ đồng và dự kiến rút ngắn tiến độ 6 tháng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-14T05:03:08+07:00",
+      "fetched": "2026-06-14T15:07:56.048920+07:00"
+    },
+    {
+      "id": "71fff9e963f4a20d02ddb666ad8118aa",
+      "title": "Elon Musk: 'Tương lai tiền sẽ không còn quan trọng'",
+      "link": "https://vnexpress.net/elon-musk-tuong-lai-tien-se-khong-con-quan-trong-5085331.html",
+      "summary": "CEO SpaceX Elon Musk, tỷ phú nghìn tỷ đầu tiên trên thế giới, tin rằng tiền bạc trong tương lai không còn quan trọng do tự động hóa.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-14T05:00:00+07:00",
+      "fetched": "2026-06-14T15:07:56.048216+07:00"
+    },
+    {
+      "id": "941b92f563ed78df6ace7746f4cdf118",
+      "title": "Ronaldo khoe thể hình săn chắc trên bãi biển Mỹ",
+      "link": "https://vnexpress.net/ronaldo-khoe-the-hinh-san-chac-tren-bai-bien-my-5085541.html",
+      "summary": "Tiền đạo 41 tuổi Cristiano Ronaldo thu hút sự chú ý khi xuất hiện trên bãi biển Palm Beach, sau khi cùng đội tuyển Bồ Đào Nha đến Mỹ chuẩn bị cho World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-14T04:21:57+07:00",
+      "fetched": "2026-06-14T15:07:57.078035+07:00"
+    },
+    {
+      "id": "943a0ab7813a8b44677b0d4a323fa7eb",
+      "title": "VAR gây tranh cãi khi Scotland thắng Haiti ở World Cup",
+      "link": "https://vnexpress.net/var-gay-tranh-cai-khi-scotland-thang-haiti-o-world-cup-5085570.html",
+      "summary": "Scotland khởi đầu World Cup 2026 bằng chiến thắng 1-0 trước Haiti, nhưng đại diện châu Âu vài lần thoát khỏi các quyết định bất lợi từ trọng tài.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-14T04:20:39+07:00",
+      "fetched": "2026-06-14T15:07:57.078194+07:00"
+    },
+    {
+      "id": "de1d0d4f3d98d4abdba0479e806141fb",
+      "title": "Ancelotti: 'Không ai vô địch World Cup chỉ sau một trận'",
+      "link": "https://vnexpress.net/ancelotti-khong-ai-vo-dich-world-cup-chi-sau-mot-tran-5085522.html",
+      "summary": "Thừa nhận Brazil chơi không như kế hoạch, nhưng HLV Carlo Ancelotti vẫn hài lòng về kết quả 1-1 trước Morocco ở trận ra quân bảng C World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-14T04:05:19+07:00",
+      "fetched": "2026-06-14T15:07:57.078336+07:00"
+    },
+    {
+      "id": "e7e8657f6caef41132df7a88251def4c",
+      "title": "Vì sao đa số cầu thủ đi giày hồng ở World Cup 2026?",
+      "link": "https://vnexpress.net/vi-sao-da-so-cau-thu-di-giay-hong-o-world-cup-2026-5085523.html",
+      "summary": "Gần như mọi cầu thủ từ các đội tuyển tại World Cup 2026 đi giày hồng, dựa trên tâm lý và xu hướng marketing của các hãng thể thao.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-14T03:33:36+07:00",
+      "fetched": "2026-06-14T15:07:57.078487+07:00"
+    },
+    {
+      "id": "f556ca145c5d7f4d0463699f4633aac8",
+      "title": "Standard Chartered: Mùa đông tiền số đã kết thúc",
+      "link": "https://vnexpress.net/standard-chartered-mua-dong-tien-so-da-ket-thuc-5085512.html",
+      "summary": "Ngân hàng Standard Chartered nói Bitcoin rơi về 59.000 USD, mất hơn một nửa giá kể từ kỷ lục, đánh dấu việc tạo \"đáy\" thành công và thị trường sẽ đi lên.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-14T03:16:57+07:00",
+      "fetched": "2026-06-14T15:07:52.368786+07:00"
+    },
+    {
+      "id": "619b091876a33e5f5e1a5a7fce3f05ef",
+      "title": "Australia thắng trận ra quân World Cup sau 20 năm",
+      "link": "https://vnexpress.net/australia-v-tho-nhi-ky-5085534.html",
+      "summary": "Australia hạ Thổ Nhĩ Kỳ 2-0 dù bị ép sân nghẹt thở ở lượt ra quân bảng D World Cup 2026 trên sân BC Place ở Vancouver.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-14T03:16:04+07:00",
+      "fetched": "2026-06-14T15:07:57.078622+07:00"
+    },
+    {
+      "id": "942a4b282e1b50b8d8d03660285b6ca1",
+      "title": "Ancelotti bị chỉ trích chọn sai đội hình xuất phát Brazil",
+      "link": "https://vnexpress.net/ancelotti-bi-chi-trich-chon-sai-doi-hinh-xuat-phat-brazil-5085521.html",
+      "summary": "Theo cựu tiền vệ Felipe Melo, HLV Carlo Ancelotti mắc sai lầm trong việc lựa chọn đội hình xuất phát, khiến Brazil chơi dưới sức và hòa Morocco 1-1 ở trận ra quân bảng C World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-14T03:06:09+07:00",
+      "fetched": "2026-06-14T15:07:57.078755+07:00"
+    },
+    {
+      "id": "43fce9e5071380d423d7a3e4b25839fd",
+      "title": "Không xác nhận thuê bao do ở nước ngoài liệu có bị khóa SIM?",
+      "link": "https://vnexpress.net/khong-xac-nhan-thue-bao-do-o-nuoc-ngoai-lieu-co-bi-khoa-sim-5085401.html",
+      "summary": "Tôi không thể truy cập VNeID để xác nhận tình trạng sử dụng thuê bao do đang ở nước ngoài, tôi phải làm sao để không bị khóa SIM?",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-14T03:00:00+07:00",
+      "fetched": "2026-06-14T15:07:56.048356+07:00"
     },
     {
       "id": "e50440674f13e39ed49ab08b7d0e2771",
