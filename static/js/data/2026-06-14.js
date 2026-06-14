@@ -1,6 +1,6 @@
 window.newsData_2026_06_14 = {
   "date": "2026-06-14",
-  "lastUpdated": "2026-06-14T18:49:22.092046+07:00",
+  "lastUpdated": "2026-06-14T20:28:30.577888+07:00",
   "articles": [
     {
       "id": "e06706942e1b93b392742f3eabd0e17f",
@@ -301,6 +301,236 @@ window.newsData_2026_06_14 = {
       "category": "Tổng hợp",
       "published": "2026-06-14T15:07:49.073738+07:00",
       "fetched": "2026-06-14T15:07:49.073948+07:00"
+    },
+    {
+      "id": "2eb54c1d4f3d245b36773572c73ebf7e",
+      "title": "Tiền đạo Việt kiều Anh tỏa sáng, CLB Công an TP.HCM thắng sốc Ninh Bình: Vô địch Cúp quốc gia",
+      "link": "https://thanhnien.vn/tien-dao-viet-kieu-anh-toa-sang-clb-cong-an-tphcm-thang-soc-ninh-binh-vo-dich-cup-quoc-gia-185260614194922536.htm",
+      "summary": "CLB Công an TP.HCM đã gây bất ngờ lớn khi đánh bại CLB Ninh Bình ở trận chung kết, qua đó giành chức vô địch Cúp quốc gia mùa giải 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T13:04:00+07:00",
+      "fetched": "2026-06-14T20:28:21.669438+07:00"
+    },
+    {
+      "id": "315b88e45f05653ea319d0a046e3dd5c",
+      "title": "VFF mang Festival bóng đá nữ trẻ 2026 đến Đồng Tháp, ươm mầm thế hệ kế cận",
+      "link": "https://thanhnien.vn/vff-mang-festival-bong-da-nu-tre-2026-den-dong-thap-uom-mam-the-he-ke-can-185260614195154616.htm",
+      "summary": "Chiều 14.6, tại sân Trường ĐH Đồng Tháp, Liên đoàn Bóng đá Việt Nam (VFF) phối hợp cùng các đơn vị liên quan tổ chức Festival bóng đá nữ trẻ 2026 trong khuôn khổ Chiến dịch bóng đá nữ FIFA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T13:03:00+07:00",
+      "fetched": "2026-06-14T20:28:21.669612+07:00"
+    },
+    {
+      "id": "238ab8512e320c1376d7014c725a8020",
+      "title": "4 dấu hiệu khi ngủ cảnh báo thiếu magie",
+      "link": "https://vnexpress.net/4-dau-hieu-khi-ngu-canh-bao-thieu-magie-5085456.html",
+      "summary": "Khó ngủ, thường xuyên thức giấc giữa đêm, chuột rút chân hoặc cảm giác bồn chồn khi nằm ngủ có thể là những dấu hiệu cảnh báo cơ thể thiếu magie.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T13:00:00+07:00",
+      "fetched": "2026-06-14T20:28:14.129254+07:00"
+    },
+    {
+      "id": "aca213cb2d2c0e8dd11678ce75dac238",
+      "title": "Xem nhanh 20h ngày 14.6: Một phó chủ tịch xã đầu thú vì nhận hối lộ | El Nino sẽ gây nắng nóng những tháng tới",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-146-mot-pho-chu-tich-xa-dau-thu-vi-nhan-hoi-lo-el-nino-se-gay-nang-nong-nhung-thang-toi-185260614183018163.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 14.6 có nhiều tin tức đáng chú ý về: El Nino tác động ra sao đến thời tiết Việt Nam những tháng tới; một phó chủ tịch xã đầu thú vì nhận hối lộ;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T13:00:00+07:00",
+      "fetched": "2026-06-14T20:28:21.669773+07:00"
+    },
+    {
+      "id": "eb698410c598b71880af06472cc65e68",
+      "title": "Chung kết hội thi văn nghệ Việt – Trung: Nơi sinh viên kết nối và lan tỏa tình hữu nghị",
+      "link": "https://thanhnien.vn/chung-ket-hoi-thi-van-nghe-viet-trung-noi-sinh-vien-ket-noi-va-lan-toa-tinh-huu-nghi-185260614143005889.htm",
+      "summary": "Chiều ngày 12.6, vòng chung kết Hội thi văn nghệ Việt - Trung các trường đại học khu vực phía Nam lần 3 - 2026 đã diễn ra với 19 tiết mục xuất sắc tham gia tranh tài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T13:00:00+07:00",
+      "fetched": "2026-06-14T20:28:21.669930+07:00"
+    },
+    {
+      "id": "d75a412b051d6f894e5fa47a1efba375",
+      "title": "Thanh xuân rực rỡ tại TDD: Nơi gọt giũa cái tôi, khơi mở ‘nghệ thuật sống’",
+      "link": "https://thanhnien.vn/thanh-xuan-ruc-ro-tai-tdd-noi-got-giua-cai-toi-khoi-mo-nghe-thuat-song-185260613151930525.htm",
+      "summary": "Có một kiểu trưởng thành rất lạ chỉ đến trong những năm đại học. Đó là khi một người từng ngại nói trước đám đông bỗng dám cầm mic hùng biện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T13:00:00+07:00",
+      "fetched": "2026-06-14T20:28:21.670084+07:00"
+    },
+    {
+      "id": "9f59c0b3e91ab86733d6b17eac9a2880",
+      "title": "Chủ tịch Quốc hội và Thủ tướng gặp mặt các cơ quan báo chí",
+      "link": "https://vnexpress.net/chu-tich-quoc-hoi-va-thu-tuong-gap-mat-cac-co-quan-bao-chi-5085640.html",
+      "summary": "Chiều 14/6, tại Nhà Quốc hội, Chủ tịch Quốc hội Trần Thanh Mẫn và Thủ tướng Lê Minh Hưng đồng chủ trì gặp mặt lãnh đạo các cơ quan báo chí nhân kỷ niệm 101 năm ngày Báo chí cách mạng Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T12:42:35+07:00",
+      "fetched": "2026-06-14T20:28:14.129465+07:00"
+    },
+    {
+      "id": "70a926d3d3a287cfe4320dc6bc9808d8",
+      "title": "Kết quả xổ số Vietlott Mega 6/45 tối 14.6, giải độc đắc tăng 14,8 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-mega-6-45-toi-146-giai-doc-dac-tang-148-ti-dong-185260614185148971.htm",
+      "summary": "Tối 14.6, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45 và ghi nhận không có người trúng độc đắc nên số tiền cộng dồn tăng 14,8 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T12:38:00+07:00",
+      "fetched": "2026-06-14T20:28:21.670244+07:00"
+    },
+    {
+      "id": "bbfda874aa1d3b3dddaab67e4a5ef67e",
+      "title": "Đặc nhiệm Anh đổ bộ bắt tàu dầu nghi của Nga",
+      "link": "https://vnexpress.net/dac-nhiem-anh-do-bo-bat-tau-dau-nghi-cua-nga-5085635.html",
+      "summary": "Quân đội Anh điều đặc nhiệm cùng nhiều trực thăng, chiến hạm và máy bay tuần thám để chặn bắt tàu dầu nghi thuộc \"đội tàu bóng tối\" của Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T12:34:12+07:00",
+      "fetched": "2026-06-14T20:28:14.129635+07:00"
+    },
+    {
+      "id": "bbfda874aa1d3b3dddaab67e4a5ef67e",
+      "title": "Đặc nhiệm Anh đổ bộ bắt tàu dầu nghi của Nga",
+      "link": "https://vnexpress.net/dac-nhiem-anh-do-bo-bat-tau-dau-nghi-cua-nga-5085635.html",
+      "summary": "Quân đội Anh điều đặc nhiệm cùng nhiều trực thăng, chiến hạm và máy bay tuần thám để chặn bắt tàu dầu nghi thuộc \"đội tàu bóng tối\" của Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-14T12:34:12+07:00",
+      "fetched": "2026-06-14T20:28:24.669423+07:00"
+    },
+    {
+      "id": "b8c26849f6b37db75224acb46502f4ac",
+      "title": "Mark Zuckerberg: 'Meta mắc sai lầm khi chuyển dịch nhân sự'",
+      "link": "https://vnexpress.net/mark-zuckerberg-meta-mac-sai-lam-khi-chuyen-dich-nhan-su-5085603.html",
+      "summary": "Mark Zuckerberg, CEO Meta, thừa nhận công ty có những quyết định chưa chính xác khi tái cấu trúc nhân sự để phục vụ chiến lược AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T12:33:07+07:00",
+      "fetched": "2026-06-14T20:28:14.129794+07:00"
+    },
+    {
+      "id": "b8c26849f6b37db75224acb46502f4ac",
+      "title": "Mark Zuckerberg: 'Meta mắc sai lầm khi chuyển dịch nhân sự'",
+      "link": "https://vnexpress.net/mark-zuckerberg-meta-mac-sai-lam-khi-chuyen-dich-nhan-su-5085603.html",
+      "summary": "Mark Zuckerberg, CEO Meta, thừa nhận công ty có những quyết định chưa chính xác khi tái cấu trúc nhân sự để phục vụ chiến lược AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-14T12:33:07+07:00",
+      "fetched": "2026-06-14T20:28:29.506975+07:00"
+    },
+    {
+      "id": "464afa676d54750fe3dfd9c935dafdfc",
+      "title": "Hơn 150 golfer chung tay gây quỹ xây nhà tình thương tại Tây Ninh",
+      "link": "https://thanhnien.vn/hon-150-golfer-chung-tay-gay-quy-xay-nha-tinh-thuong-tai-tay-ninh-185260614191728462.htm",
+      "summary": "Golfer Hoàng Văn Nam xuất sắc giành danh hiệu Best Gross với thành tích 78 gậy tại giải golf Doanh Nhân Sài Gòn gây quỹ xây nhà tình thương tỉnh Tây Ninh – Tranh cúp Royal Helmet.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T12:27:00+07:00",
+      "fetched": "2026-06-14T20:28:21.670429+07:00"
+    },
+    {
+      "id": "e15b1e0a18b086176c314a58978746e3",
+      "title": "Dùng flycam truy tìm nghi phạm giết người trốn trong rừng",
+      "link": "https://vnexpress.net/dung-flycam-truy-tim-nghi-pham-giet-nguoi-tron-trong-rung-5085629.html",
+      "summary": "Hù A San, 35 tuổi, sát hại bé trai 12 tuổi thôn Séo Tả 1 rồi bỏ trốn vào rừng, hàng trăm người cùng flycam được huy động để truy tìm nghi phạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T12:24:44+07:00",
+      "fetched": "2026-06-14T20:28:14.129956+07:00"
+    },
+    {
+      "id": "21ce62c46eb0a680a02500b5e6b7d890",
+      "title": "Từ 'siêu El Nino' 10 năm trước đến nguy cơ sắp đối mặt của Việt Nam",
+      "link": "https://thanhnien.vn/tu-sieu-el-nino-10-nam-truoc-den-nguy-co-sap-doi-mat-cua-viet-nam-185260614140307202.htm",
+      "summary": "El Nino cường độ rất mạnh, hay nói đơn giản là 'siêu El Nino', có 65% khả năng sẽ xuất hiện trong những tháng tới. Đối với Việt Nam, siêu El Nino gần nhất là năm 2015 - 2016, ghi nhận nhiều sự kiện thời tiết bất thường, đặc biệt là những chuỗi ngày nắng nóng kéo dài, nhiệt độ cao lịch sử đến 42,7°C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T12:24:00+07:00",
+      "fetched": "2026-06-14T20:28:21.670584+07:00"
+    },
+    {
+      "id": "197fa02f132a173bf1177e4fd40abaee",
+      "title": "Cuộc gặp mặt đặc biệt của Chủ tịch Quốc hội và Thủ tướng với báo chí",
+      "link": "https://thanhnien.vn/cuoc-gap-mat-dac-biet-cua-chu-tich-quoc-hoi-va-thu-tuong-voi-bao-chi-185260614171411742.htm",
+      "summary": "Chiều 14.6, Chủ tịch Quốc hội Trần Thanh Mẫn và Thủ tướng Lê Minh Hưng đã gặp mặt lãnh đạo các cơ quan báo chí nhân kỷ niệm 101 năm ngày Báo chí cách mạng Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T12:21:00+07:00",
+      "fetched": "2026-06-14T20:28:21.670743+07:00"
+    },
+    {
+      "id": "4cc50d75a85d8102162902c7b6f05ba6",
+      "title": "Vì sao con trai ‘Vua bãi rác’ gây sốt trên phim giờ vàng?",
+      "link": "https://thanhnien.vn/vi-sao-con-trai-vua-bai-rac-gay-sot-tren-phim-gio-vang-185260614161948153.htm",
+      "summary": "Võ Hoài Vũ - con trai của 'Vua bãi rác' Võ Hoài Nam - đang trở thành cái tên được chú ý trên sóng giờ vàng với vai chính trong phim 'Phía bên kia thành phố'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T12:09:00+07:00",
+      "fetched": "2026-06-14T20:28:21.670900+07:00"
+    },
+    {
+      "id": "f751dadc340a880e64bc4d210cec1f03",
+      "title": "Nha khoa Kim khai trương phòng khám tại Cần Thơ, top đầu xếp hạng sở y tế",
+      "link": "https://thanhnien.vn/nha-khoa-kim-khai-truong-phong-kham-tai-can-tho-top-dau-xep-hang-so-y-te-185260614190748974.htm",
+      "summary": "Nha Khoa Kim có mặt tại Cần Thơ, đưa mô hình nha khoa số hóa, chuẩn y khoa và minh bạch đến gần hơn với khách hàng miền Tây sau 13 lần Top đầu xếp hạng Sở Y tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T12:03:00+07:00",
+      "fetched": "2026-06-14T20:28:21.671052+07:00"
+    },
+    {
+      "id": "c1c131f171b5694e8eab18de395fd903",
+      "title": "Cầu thủ nhập cư - sức mạnh của Australia ở World Cup 2026",
+      "link": "https://vnexpress.net/cau-thu-nhap-cu-suc-manh-cua-australia-o-world-cup-2026-5085618.html",
+      "summary": "Australia dự World Cup 2026 với những cầu thủ trải qua hành trình khác nhau, từ các khu dân cư tại Sydney, thành phố châu Âu đến trại tị nạn tại Kenya, Guinea và Tanzania.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T12:00:00+07:00",
+      "fetched": "2026-06-14T20:28:14.130166+07:00"
+    },
+    {
+      "id": "51f0fdea4b10d58d8697508d94f5830b",
+      "title": "Sắc vóc cô gái Tày thi The Face Vietnam",
+      "link": "https://vnexpress.net/sac-voc-co-gai-tay-thi-the-face-vietnam-5085586.html",
+      "summary": "Nông Thị Hằng, 24 tuổi, quê Tuyên Quang được giám khảo đánh giá có nhiều tiềm năng làm người mẫu, tại The Face Vietnam 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T12:00:00+07:00",
+      "fetched": "2026-06-14T20:28:14.130351+07:00"
+    },
+    {
+      "id": "66129e60661386e4309625c7df7c2177",
+      "title": "Hoiana Aquaman 2026 mở thêm cự ly mới",
+      "link": "https://vnexpress.net/hoiana-aquaman-2026-mo-them-cu-ly-moi-5084559.html",
+      "summary": "Giải hai môn bơi-chạy Hoiana Aquaman 2026 bổ sung các nội dung phù hợp người mới như bơi 200-300m, chạy 2km đồng thời mở rộng nội dung tiếp sức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T12:00:00+07:00",
+      "fetched": "2026-06-14T20:28:14.130506+07:00"
+    },
+    {
+      "id": "c1c131f171b5694e8eab18de395fd903",
+      "title": "Cầu thủ nhập cư - sức mạnh của Australia ở World Cup 2026",
+      "link": "https://vnexpress.net/cau-thu-nhap-cu-suc-manh-cua-australia-o-world-cup-2026-5085618.html",
+      "summary": "Australia dự World Cup 2026 với những cầu thủ trải qua hành trình khác nhau, từ các khu dân cư tại Sydney, thành phố châu Âu đến trại tị nạn tại Kenya, Guinea và Tanzania.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-14T12:00:00+07:00",
+      "fetched": "2026-06-14T20:28:30.568917+07:00"
+    },
+    {
+      "id": "2197995e568b17bbe64555a7e114f2a1",
+      "title": "Vì sao MacBook vẫn nói không với màn hình cảm ứng?",
+      "link": "https://thanhnien.vn/vi-sao-macbook-van-noi-khong-voi-man-hinh-cam-ung-185260614175312971.htm",
+      "summary": "MacBook đã khẳng định vị thế là lựa chọn hàng đầu cho những người làm công việc sáng tạo nội dung cũng như cho nhu cầu sử dụng hằng ngày tại nhà và văn phòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T11:50:00+07:00",
+      "fetched": "2026-06-14T20:28:21.671210+07:00"
     },
     {
       "id": "00473247e629bcd3d23f783f443b8953",
