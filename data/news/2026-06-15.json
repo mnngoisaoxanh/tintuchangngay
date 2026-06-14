@@ -1,5 +1,15 @@
 [
   {
+    "id": "82ba7a85b035a76dc7207d901fa8c7ff",
+    "title": "Tuyển Đức tái hiện tỉ số 7-1 tại World Cup 2026",
+    "link": "https://tuoitre.vn/tuyen-duc-tai-hien-ti-so-7-1-tai-world-cup-2026-20260614152029158.htm",
+    "summary": "Rạng sáng 15-6, ở trận ra quân bảng E World Cup 2026, đội tuyển Đức giành chiến thắng \"hủy diệt\" với tỉ số 7-1 trước tân bình Curacao.",
+    "source": "Tuổi Trẻ",
+    "category": "Tổng hợp",
+    "published": "2026-06-15T04:00:40.744032+07:00",
+    "fetched": "2026-06-15T04:00:40.744128+07:00"
+  },
+  {
     "id": "bdbb55729cf41aa6f96d028bc6a60026",
     "title": "10.000 người xem mega livestream lúc nửa đêm, kéo dài phiên live sang ngày mới",
     "link": "https://tuoitre.vn/10-000-nguoi-xem-mega-livestream-luc-nua-dem-keo-dai-phien-live-sang-ngay-moi-20260614200224798.htm",
@@ -208,6 +218,66 @@
     "category": "Tổng hợp",
     "published": "2026-06-15T00:08:59.337155+07:00",
     "fetched": "2026-06-15T00:08:59.337363+07:00"
+  },
+  {
+    "id": "40cdd8fb0e2709eae03cf6d0f1df7bc5",
+    "title": "Chờ thỏa thuận Mỹ - Iran",
+    "link": "https://thanhnien.vn/cho-thoa-thuan-my-iran-18526061419301378.htm",
+    "summary": "Cả Mỹ lẫn Iran và bên trung gian hòa giải chính là Pakistan đều thông báo một thỏa thuận khung nhằm kết thúc xung đột sắp được ký kết, nhưng đó có thể không phải là thỏa thuận hòa bình toàn diện.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-06-14T21:00:00+07:00",
+    "fetched": "2026-06-15T04:00:39.615143+07:00"
+  },
+  {
+    "id": "88dc825055d15193b6d478fcec7fe0d1",
+    "title": "Những đội nào dễ xuống sức nhất tại World Cup này ?",
+    "link": "https://thanhnien.vn/nhung-doi-nao-de-xuong-suc-nhat-tai-world-cup-nay-185260614205811454.htm",
+    "summary": "Giải đấu có nhiều lão tướng, FIFA phải cắt trận đấu ra thành 4 phần (có 2 đợt nghỉ \"làm mát\" giữa mỗi hiệp đấu), cho thấy vấn đề thể lực quan trọng như thế nào.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-06-14T20:57:00+07:00",
+    "fetched": "2026-06-15T04:00:39.615311+07:00"
+  },
+  {
+    "id": "8468fc7f98a8f001034f285acb38cbd7",
+    "title": "Vì sao trọng tài trận Ả Rập Xê Út đấu Uruguay mặc áo màu hồng, xem trên những kênh nào?",
+    "link": "https://thanhnien.vn/vi-sao-trong-tai-tran-a-rap-xe-ut-dau-uruguay-mac-ao-mau-hong-xem-tren-nhung-kenh-nao-185260615021537513.htm",
+    "summary": "Tổ trọng tài trận Ả Rập Xê Út - Uruguay mặc áo màu hồng như cách FIFA tôn vinh lòng hiếu khách của thành phố Miami, nơi có chim hồng hạc và CLB Inter Miami của Messi.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-06-14T19:26:00+07:00",
+    "fetched": "2026-06-15T04:00:39.615450+07:00"
+  },
+  {
+    "id": "ec2bee5642b83fe12b7eef9e856d9012",
+    "title": "'Vùi dập' tân binh Curacao, đội tuyển Đức sở hữu trận thắng đậm nhất từ đầu World Cup 2026",
+    "link": "https://thanhnien.vn/vui-dap-tan-binh-curacao-doi-tuyen-duc-so-huu-tran-thang-dam-nhat-tu-dau-world-cup-2026-185260615015937185.htm",
+    "summary": "Rạng sáng 15.6 (giờ Việt Nam) nhờ chất lượng đội hình và kinh nghiệm vượt trội, 'Cỗ xe tăng' Đức dễ dàng giành chiến thắng 7-1 trước Curacao, đội bóng có lần đầu tiên tham dự World Cup.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-06-14T19:16:00+07:00",
+    "fetched": "2026-06-15T04:00:39.615575+07:00"
+  },
+  {
+    "id": "6c607638bc8e8453b3610e941552f8f0",
+    "title": "AI sẽ thúc đẩy nhu cầu văn phòng, kho xưởng và bán lẻ tại Việt Nam",
+    "link": "https://vnexpress.net/ai-se-thuc-day-nhu-cau-van-phong-kho-xuong-va-ban-le-tai-viet-nam-5084661.html",
+    "summary": "Trí tuệ nhân tạo (AI) được dự báo trở thành động lực tăng trưởng mới, thúc đẩy sức cầu với văn phòng, công nghiệp và bán lẻ thay vì làm thu hẹp quy mô sử dụng mặt bằng.",
+    "source": "VnExpress",
+    "category": "Tổng hợp",
+    "published": "2026-06-14T19:12:07+07:00",
+    "fetched": "2026-06-15T04:00:36.493530+07:00"
+  },
+  {
+    "id": "625473679ffbe6e4f9273a55a5e5f81b",
+    "title": "Có 7 tỷ đồng, đầu tư bất động sản nào thời điểm này?",
+    "link": "https://vnexpress.net/co-7-ty-dong-dau-tu-bat-dong-san-nao-thoi-diem-nay-5085473.html",
+    "summary": "Tôi băn khoăn với 7 tỷ đồng có nên đầu tư bất động sản thời điểm này, phân khúc nào phù hợp với khẩu vị an toàn.",
+    "source": "VnExpress",
+    "category": "Tổng hợp",
+    "published": "2026-06-14T18:56:34+07:00",
+    "fetched": "2026-06-15T04:00:36.493700+07:00"
   },
   {
     "id": "bd5b8fd1975a3305b7895513924d4221",
