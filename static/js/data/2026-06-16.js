@@ -1,7 +1,17 @@
 window.newsData_2026_06_16 = {
   "date": "2026-06-16",
-  "lastUpdated": "2026-06-16T02:38:13.129105+07:00",
+  "lastUpdated": "2026-06-16T05:10:36.502450+07:00",
   "articles": [
+    {
+      "id": "52082c8d7e9bc10c3aa57799b70b3a35",
+      "title": "Bỉ - Ai Cập 1-1: Bất phân thắng bại",
+      "link": "https://tuoitre.vn/bi-ai-cap-1-1-bat-phan-thang-bai-20260615164942751.htm",
+      "summary": "Đội tuyển Bỉ đã hòa Ai Cập 1-1 ở trận ra quân bảng G World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T05:10:29.765850+07:00",
+      "fetched": "2026-06-16T05:10:29.765954+07:00"
+    },
     {
       "id": "b6be9f7b6119d907963ada03d77ccf78",
       "title": "Tổng Bí thư, Chủ tịch nước: Xây dựng công tác tư tưởng của Đảng hiện đại, chủ động, hiệu quả",
@@ -151,6 +161,186 @@ window.newsData_2026_06_16 = {
       "category": "Tổng hợp",
       "published": "2026-06-16T02:38:06.675648+07:00",
       "fetched": "2026-06-16T02:38:06.675842+07:00"
+    },
+    {
+      "id": "b9f065bf17b6f8d1bebb9dc3ea190556",
+      "title": "Tìm hài cốt liệt sĩ ở Công viên Lê Thị Riêng:: Dùng radar xuyên đất dò dấu tích",
+      "link": "https://thanhnien.vn/tim-hai-cot-liet-si-o-cong-vien-le-thi-rieng-dung-radar-xuyen-dat-do-dau-tich-185260615183311635.htm",
+      "summary": "Sáng 15.6, Bộ Tư lệnh TP.HCM tổ chức phối hợp khảo sát, thăm dò tìm kiếm mộ liệt sĩ tại Công viên Lê Thị Riêng (P.Hòa Hưng). Đây là bước tiếp theo sau quá trình thu thập, đối chiếu tư liệu lịch sử, ảnh tư liệu, không ảnh cũ, thông tin nhân chứng và khảo sát thực địa liên quan đến khu vực từng là ngh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T22:10:00+07:00",
+      "fetched": "2026-06-16T05:10:28.816277+07:00"
+    },
+    {
+      "id": "2743bad1af9c5992e32c1a175cfeea98",
+      "title": "'Bẫy giải nhiệt’ mùa nóng: Canh chua, nước mát tưởng tốt nhưng có thể ảnh hưởng huyết áp",
+      "link": "https://thanhnien.vn/bay-giai-nhiet-mua-nong-canh-chua-nuoc-mat-tuong-tot-nhung-co-the-anh-huong-huyet-ap-185260615213026993.htm",
+      "summary": "Mùa nóng, nhiều người có thói quen dùng các loại canh, nước mát hoặc thức uống thảo mộc với suy nghĩ ‘càng uống nhiều càng giải nhiệt tốt’. Dưới góc độ y khoa, điều này có thật sự tốt cho sức khỏe?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T22:03:00+07:00",
+      "fetched": "2026-06-16T05:10:28.816426+07:00"
+    },
+    {
+      "id": "46d197273d8f6d05cd27c9d169d27bef",
+      "title": "Thỏa thuận Mỹ - Iran gặp lực cản gì?",
+      "link": "https://thanhnien.vn/thoa-thuan-my-iran-gap-luc-can-gi-185260615222421932.htm",
+      "summary": "Việc Mỹ và Iran đạt được khung cơ bản cho thỏa thuận hòa bình mang lại tín hiệu tích cực với thế giới, nhất là thị trường dầu khí, nhưng những cản lực thì vẫn còn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T22:00:00+07:00",
+      "fetched": "2026-06-16T05:10:28.816564+07:00"
+    },
+    {
+      "id": "1e56a83e96677eabf0ef577ac3d3ddbf",
+      "title": "Bác sĩ ơi: Vì sao ung thư tuyến giáp được chỉ định uống iod-131?",
+      "link": "https://thanhnien.vn/bac-si-oi-vi-sao-ung-thu-tuyen-giap-duoc-chi-dinh-uong-iod-131-185260615214803731.htm",
+      "summary": "Sau khi điều trị ung thư tuyến giáp, nhiều bệnh nhân được bác sĩ chỉ định uống iod phóng xạ iod-131. Không ít người băn khoăn về hiệu quả điều trị ra sao và liệu chất phóng xạ có gây ảnh hưởng lâu dài đến sức khỏe hay không.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T22:00:00+07:00",
+      "fetched": "2026-06-16T05:10:28.816693+07:00"
+    },
+    {
+      "id": "0701c7c477baf192592afa44c9abaa05",
+      "title": "Lịch âm hôm nay là ngày Thiên Môn, dương lịch 16.6 có nhiều ngày đáng chú ý",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-la-ngay-thien-mon-duong-lich-166-co-nhieu-ngay-dang-chu-y-1852606150854188.htm",
+      "summary": "Lịch âm hôm nay là ngày Thiên Môn, dân gian quan niệm đây là ngày đẹp để xuất hành, khởi sự. Dương lịch 16.6 có nhiều ngày kỷ niệm đáng lưu ý ở Việt Nam và thế giới, là ngày gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T22:00:00+07:00",
+      "fetched": "2026-06-16T05:10:28.816820+07:00"
+    },
+    {
+      "id": "4fbb8cb4f229f875710a127324d59cf1",
+      "title": "World Cup 2026, Ả Rập Xê Út 0-0 Uruguay: Đội bóng châu Á tự tin thắng trận",
+      "link": "https://thanhnien.vn/world-cup-2026-a-rap-xe-ut-0-0-uruguay-doi-bong-chau-a-tu-tin-thang-tran-185260615210117822.htm",
+      "summary": "Tấm gương của Nhật Bản, Hàn Quốc, Úc, Qatar xuất quân với thành tích bất bại có thể sẽ tác động tích cực đến Ả Rập Xê Út trong trận gặp Uruguay ở bảng H World Cup 2026, diễn ra lúc 5 giờ ngày 16.6 trên sân Hard Rock, Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T21:54:00+07:00",
+      "fetched": "2026-06-16T05:10:28.816949+07:00"
+    },
+    {
+      "id": "360f2c1e4a1dbc3a144866051dfc6af8",
+      "title": "Khiến đội tuyển Tây Ban Nha 'ôm hận', thủ thành Cabo Verde tăng triệu người theo dõi",
+      "link": "https://thanhnien.vn/khien-doi-tuyen-tay-ban-nha-om-han-thu-thanh-cabo-verde-tang-trieu-nguoi-theo-doi-185260616021647137.htm",
+      "summary": "Sau màn trình diễn xuất thần giúp Cabo Verde cầm hòa đội tuyển Tây Ban Nha ở trận ra quân World Cup 2026, thủ thành Vozinha không chỉ được bầu là cầu thủ xuất sắc nhất trận mà còn trở thành hiện tượng mạng xã hội khi thu hút thêm hơn 1 triệu người theo dõi chỉ trong vài giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T21:45:00+07:00",
+      "fetched": "2026-06-16T05:10:28.817077+07:00"
+    },
+    {
+      "id": "f30fd6aa77057b79ec449cf73452146c",
+      "title": "HLV Tây Ban Nha bênh vực Yamal, nói cứng: 'Đáng ra chúng tôi đã thắng'",
+      "link": "https://thanhnien.vn/hlv-tay-ban-nha-benh-vuc-yamal-noi-cung-dang-ra-chung-toi-da-thang-185260616021809211.htm",
+      "summary": "HLV Luis de la Fuente tiếc nuối khi Tây Ban Nha tạo ra tới... 27 cơ hội trước cầu môn Cabo Verde, nhưng đành chấp nhận chia điểm với trận hòa 0-0 trong ngày ra quân World Cup 2026 (rạng sáng 16.6).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T21:35:00+07:00",
+      "fetched": "2026-06-16T05:10:28.817214+07:00"
+    },
+    {
+      "id": "a04b73636c57427816d32d55b7598269",
+      "title": "Hành động đẹp của chiến sĩ Công an Cửa khẩu Phú Quốc",
+      "link": "https://thanhnien.vn/hanh-dong-dep-cua-chien-si-cong-an-cua-khau-phu-quoc-185260615192632305.htm",
+      "summary": "Nụ cười hiền lành và cử chỉ vỗ về đứa trẻ phụ giúp người mẹ khi qua cổng soi chiếu của người cán bộ làm nhiệm vụ ở Cửa khẩu Cảng hàng không Phú Quốc lan tỏa hình ảnh vô cùng đẹp về lực lượng bảo vệ an ninh hàng không.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T21:33:00+07:00",
+      "fetched": "2026-06-16T05:10:28.817341+07:00"
+    },
+    {
+      "id": "79ead77573c6d8844a6b15a2e54118ed",
+      "title": "Đường kết nối Đồng Nai - Lâm Đồng: Bao giờ hết cảnh 'nắng bụi, mưa lầy'",
+      "link": "https://thanhnien.vn/duong-ket-noi-dong-nai-lam-dong-bao-gio-het-canh-nang-bui-mua-lay-185260615223412037.htm",
+      "summary": "Đường từ xã Đak Nhau đi xã Quảng Tân từ lâu đã được coi là tuyến đường huyết mạch kết nối Đồng Nai và Lâm Đồng nhưng người dân 2 địa phương vẫn đang phải chịu cảnh 'nắng bụi, mưa lầy' suốt nhiều năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T21:31:00+07:00",
+      "fetched": "2026-06-16T05:10:28.817468+07:00"
+    },
+    {
+      "id": "402d0ab79718128f386141f9240134b0",
+      "title": "Thủ môn già bậc nhất World Cup khiến hàng công Tây Ban Nha 'chết lặng', là ai?",
+      "link": "https://thanhnien.vn/thu-mon-gia-bac-nhat-world-cup-khien-hang-cong-tay-ban-nha-chet-lang-la-ai-185260616014619922.htm",
+      "summary": "Ở tuổi 40, Vozinha lần đầu bước đến sân chơi World Cup theo cách không thể... khó tin hơn: khiến hàng tấn công lừng danh của Tây Ban Nha phải bế tắc trong cả trận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T21:30:00+07:00",
+      "fetched": "2026-06-16T05:10:28.817594+07:00"
+    },
+    {
+      "id": "2db567b069ad3d5d48f4cc997300fc83",
+      "title": "Chiến sự Ukraine ngày 1.573: Di sản UNESCO bị tấn công, Nga nói do tên lửa Mỹ",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1573-di-san-unesco-bi-tan-cong-nga-noi-do-ten-lua-my-185260615180617822.htm",
+      "summary": "Chiến sự Ukraine đã làm hư hại tu viện được UNESCO công nhận là di sản thế giới. Ukraine và phương Tây tố cáo Nga gây ra trong khi Moscow nói do tên lửa phòng không Patriot của Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T21:30:00+07:00",
+      "fetched": "2026-06-16T05:10:28.817719+07:00"
+    },
+    {
+      "id": "2152051a30be420538a6ce0c4c6cb486",
+      "title": "Cháy nhà liền kề trong khu đô thị ở Hà Nội",
+      "link": "https://vnexpress.net/chay-nha-lien-ke-trong-khu-do-thi-o-ha-noi-5086129.html",
+      "summary": "Lửa bùng phát từ tầng 4 căn nhà liền kề được sử dụng làm văn phòng cho thuê và kho hàng mẹ, bé tại phường Kiến Hưng, tối 15/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T21:12:36+07:00",
+      "fetched": "2026-06-16T05:10:25.931347+07:00"
+    },
+    {
+      "id": "75da1ed82ce0fc98478a2978bdfdb9b2",
+      "title": "Arab Saudi - Uruguay: Tiếp đà thăng hoa của châu Á",
+      "link": "https://vnexpress.net/arab-saudi-v-uruguay-5086124.html",
+      "summary": "Arab Saudi chạm trán Uruguay ở lượt ra quân bảng H World Cup 2026 trên sân Miami. Bóng lăn lúc 5h00 giờ Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T21:07:47+07:00",
+      "fetched": "2026-06-16T05:10:25.931504+07:00"
+    },
+    {
+      "id": "75da1ed82ce0fc98478a2978bdfdb9b2",
+      "title": "Arab Saudi 0-0 Uruguay (H1): Nhập cuộc thận trọng",
+      "link": "https://vnexpress.net/arab-saudi-v-uruguay-5086124.html",
+      "summary": "Arab Saudi chạm trán Uruguay ở lượt ra quân bảng H World Cup 2026 trên sân Miami. Bóng lăn lúc 5h00 giờ Hà Nội.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-15T21:07:47+07:00",
+      "fetched": "2026-06-16T05:10:36.497830+07:00"
+    },
+    {
+      "id": "bf302d632f342b297a741f63e9ba4d88",
+      "title": "De Bruyne quá đen đủi, Bỉ và Ai Cập chia điểm trong trận 'chung kết' của bảng",
+      "link": "https://thanhnien.vn/de-bruyne-qua-den-dui-bi-va-ai-cap-chia-diem-trong-tran-chung-ket-cua-bang-185260616040040848.htm",
+      "summary": "Rạng sáng 16.6 (giờ Việt Nam), 2 đội bóng mạnh nhất bảng G là Bỉ và Ai Cập thi đấu ngang tài ngang sức, hòa nhau 1-1 ở trận ra quân World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T21:04:00+07:00",
+      "fetched": "2026-06-16T05:10:28.817852+07:00"
+    },
+    {
+      "id": "e118cdfc82dbc2f5380b4559a9ced66f",
+      "title": "Báo châu Âu sửng sốt vì Tây Ban Nha bị Cabo Verde chia điểm: 'Cú sốc lớn!’",
+      "link": "https://thanhnien.vn/bao-chau-au-sung-sot-vi-tay-ban-nha-bi-cabo-verde-chia-diem-cu-soc-lon-185260616014108244.htm",
+      "summary": "Truyền thông châu Âu đã đồng loạt bày tỏ sự sửng sốt sau khi đội tuyển Tây Ban Nha bị Cabo Verde cầm hòa 0-0 ở trận ra quân bảng H World Cup 2026. Từ Anh, Đức đến Pháp, nhiều tờ báo lớn xem đây là một trong những cú sốc lớn nhất kể từ đầu giải đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T21:01:00+07:00",
+      "fetched": "2026-06-16T05:10:28.817992+07:00"
+    },
+    {
+      "id": "7883418af121dc16b84f5ef03e55829a",
+      "title": "Tiền đạo Tây Ban Nha lập kỷ lục tồi tệ nhất World Cup sau 60 năm",
+      "link": "https://thanhnien.vn/tien-dao-tay-ban-nha-lap-ky-luc-toi-te-nhat-world-cup-sau-60-nam-185260616011840948.htm",
+      "summary": "Đương kim vô địch EURO Tây Ban Nha gây thất vọng trong trận ra quân World Cup đêm 15.6, khi để 'hiện tượng' Cabo Verde cầm hòa 0-0.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T20:57:00+07:00",
+      "fetched": "2026-06-16T05:10:28.818117+07:00"
     },
     {
       "id": "1116e6773b8747c25e22954bb6d2d1f8",
