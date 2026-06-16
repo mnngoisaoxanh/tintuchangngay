@@ -1,7 +1,17 @@
 window.newsData_2026_06_17 = {
   "date": "2026-06-17",
-  "lastUpdated": "2026-06-17T02:27:32.425685+07:00",
+  "lastUpdated": "2026-06-17T05:05:07.919418+07:00",
   "articles": [
+    {
+      "id": "98061a997f3cca70fee4f5b83c6e7f4a",
+      "title": "Trực tuyến Iraq - Na Uy (5h ngày 17-6): Haaland sẽ ghi bàn thắng đầu tiên tại World Cup",
+      "link": "https://tuoitre.vn/truc-tuyen-iraq-na-uy-5h-ngay-17-6-cho-ban-thang-dau-tien-cua-haaland-20260616171230923.htm",
+      "summary": "Các chuyên gia bóng đá châu Âu dự đoán Erling Haaland sẽ ghi bàn thắng đầu tiên tại World Cup, giúp Na Uy đánh bại Iraq lúc 5h ngày 17-6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T05:05:00.238892+07:00",
+      "fetched": "2026-06-17T05:05:00.239039+07:00"
+    },
     {
       "id": "06de6d35bafcc48aff3ee888b92f8d85",
       "title": "Chính ủy Sư đoàn Phòng không 375 khen thưởng phóng viên báo Tuổi Trẻ",
@@ -151,6 +161,126 @@ window.newsData_2026_06_17 = {
       "category": "Tổng hợp",
       "published": "2026-06-17T02:27:26.417390+07:00",
       "fetched": "2026-06-17T02:27:26.417525+07:00"
+    },
+    {
+      "id": "b9b6db0a8ae1ca216e5a95d166005cd5",
+      "title": "Nhà Trắng 'giăng lưới' Thống đốc California?",
+      "link": "https://thanhnien.vn/nha-trang-giang-luoi-thong-doc-california-185260616210602089.htm",
+      "summary": "Các nguồn thạo tin nói rằng Thống đốc bang California (Mỹ) Gavin Newsom không phải mục tiêu trực tiếp của cuộc điều tra, song việc nhằm vào những \"vệ tinh\" xung quanh ông Newsom được xem là chiến thuật gây sức ép điển hình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T22:00:00+07:00",
+      "fetched": "2026-06-17T05:04:58.023550+07:00"
+    },
+    {
+      "id": "626a4d90baed3b6f7670ed0a1ab2f1cc",
+      "title": "Lịch âm hôm nay ngày Thiên Đường: Dân gian quan niệm là ngày 'buôn may bán đắt'",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-ngay-thien-duong-dan-gian-quan-niem-la-ngay-buon-may-ban-dat-185260616070126637.htm",
+      "summary": "Lịch âm hôm nay là ngày Thiên Đường, dân gian quan niệm đây là ngày đẹp để xuất hành, khởi sự buôn bán. Dương lịch 17.6 là ngày gì ở Việt Nam và thế giới?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T22:00:00+07:00",
+      "fetched": "2026-06-17T05:04:58.023717+07:00"
+    },
+    {
+      "id": "6157755f88401b910c6ea3f35c8d3d86",
+      "title": "Lăng kính bạn đọc: Chọn cao tốc trên cao cho ĐBSCL",
+      "link": "https://thanhnien.vn/lang-kinh-ban-doc-chon-cao-toc-tren-cao-cho-dbscl-185260616155836032.htm",
+      "summary": "Bạn đọc Thanh Niên đề nghị tăng chi phí đầu tư cho các dự án cao tốc ở ĐBSCL để khắc phục tình trạng nền đất yếu, tăng tốc thi công, nâng cao chất lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T21:39:00+07:00",
+      "fetched": "2026-06-17T05:04:58.023853+07:00"
+    },
+    {
+      "id": "135676630ba0214eac5df89bf1d35e5d",
+      "title": "'Trang mới' của người hoạt động không chuyên trách",
+      "link": "https://thanhnien.vn/trang-moi-cua-nguoi-hoat-dong-khong-chuyen-trach-185260616205302225.htm",
+      "summary": "Các phường, xã ở TP.HCM cơ bản sắp xếp thỏa đáng công việc cho những người hoạt động không chuyên trách, với nhiều nhân sự trở thành công chức chính thức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T21:38:00+07:00",
+      "fetched": "2026-06-17T05:04:58.023979+07:00"
+    },
+    {
+      "id": "6aa0682714d864adcf3febbdbe9570cd",
+      "title": "Mbappe vượt Messi và Pele, áp sát kỷ lục ghi bàn nhiều nhất lịch sử World Cup",
+      "link": "https://thanhnien.vn/mbappe-vuot-messi-va-pele-ap-sat-ky-luc-ghi-ban-nhieu-nhat-lich-su-world-cup-185260617043304256.htm",
+      "summary": "Kylian Mbappe đang trên đường trở thành chân sút vĩ đại nhất lịch sử World Cup, khi đã vươn lên đứng đồng hạng ba với Gerd Muller nhờ cú đúp bàn thắng vào lưới Senegal trong trận ra quân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T21:36:00+07:00",
+      "fetched": "2026-06-17T05:04:58.024103+07:00"
+    },
+    {
+      "id": "5068159291a5a065a4082d7b96ea48c2",
+      "title": "Trí tuệ nhân tạo không thể thay thế bản lĩnh, trách nhiệm của nhà báo",
+      "link": "https://thanhnien.vn/tri-tue-nhan-tao-khong-the-thay-the-ban-linh-trach-nhiem-cua-nha-bao-185260616214439182.htm",
+      "summary": "Chiều 16.6, tại Phủ Chủ tịch, Tổng Bí thư, Chủ tịch nước Tô Lâm gặp mặt 101 nhà báo tiêu biểu nhân kỷ niệm 101 năm Ngày Báo chí Cách mạng VN (21.6.1925 - 21.6.2026).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T21:36:00+07:00",
+      "fetched": "2026-06-17T05:04:58.024223+07:00"
+    },
+    {
+      "id": "8b98c27438d87aa78f04d59e8ddd4295",
+      "title": "Góc nhìn phóng viên: Đuối nước vì chủ quan",
+      "link": "https://thanhnien.vn/goc-nhin-phong-vien-duoi-nuoc-vi-chu-quan-185260616160059006.htm",
+      "summary": "Kỳ nghỉ hè mới bắt đầu chưa lâu nhưng đã xảy ra nhiều vụ tai nạn đuối nước ở các địa phương khiến nhiều học sinh tử vong. Năm nào đuối nước cũng trở thành nỗi đau ám ảnh nhiều gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T21:29:00+07:00",
+      "fetched": "2026-06-17T05:04:58.024344+07:00"
+    },
+    {
+      "id": "91d73f1c5b383e54654e017f1efd5487",
+      "title": "Pháp 3-1 Senegal, bảng I World Cup 2026: Show diễn chói sáng của Mbappe",
+      "link": "https://thanhnien.vn/phap-3-1-senegal-bang-i-world-cup-2026-show-dien-choi-sang-cua-mbappe-185260617031604018.htm",
+      "summary": "Pháp khởi đầu World Cup 2026 khi nhẹ nhàng đánh bại Senegal với tỷ số 3-1 trong trận ra quân bảng I lúc 2 giờ ngày 17.6.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T21:13:00+07:00",
+      "fetched": "2026-06-17T05:04:58.024472+07:00"
+    },
+    {
+      "id": "a0261eec4875fefccc77bd9b6c84d49c",
+      "title": "Iraq - Na Uy: Haaland, Odegaard đá chính",
+      "link": "https://vnexpress.net/iraq-na-uy-haaland-odegaard-da-chinh-5086552.html",
+      "summary": "Hai ngôi sao Ngoại hạng Anh Erling Haaland và Martin Odegaard đá chính, khi Na Uy gặp Iraq ở lượt đầu bảng I World Cup 2026. Bóng lăn lúc 5h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T21:00:00+07:00",
+      "fetched": "2026-06-17T05:04:54.613518+07:00"
+    },
+    {
+      "id": "a0261eec4875fefccc77bd9b6c84d49c",
+      "title": "Iraq - Na Uy: Haaland, Odegaard đá chính",
+      "link": "https://vnexpress.net/iraq-na-uy-haaland-odegaard-da-chinh-5086552.html",
+      "summary": "Hai ngôi sao Ngoại hạng Anh Erling Haaland và Martin Odegaard đá chính, khi Na Uy gặp Iraq ở lượt đầu bảng I World Cup 2026. Bóng lăn lúc 5h.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-16T21:00:00+07:00",
+      "fetched": "2026-06-17T05:05:07.914647+07:00"
+    },
+    {
+      "id": "d0352b0ce93a97dedde4535db9b7c6b9",
+      "title": "Bồ Đào Nha - Congo  (0 giờ ngày 18.6, trực tiếp trên VTV): Chờ mở màn bùng nổ của Ronaldo",
+      "link": "https://thanhnien.vn/bo-dao-nha-congo-0-gio-ngay-186-truc-tiep-tren-vtv-cho-mo-man-bung-no-cua-ronaldo-185260616204037377.htm",
+      "summary": "Cuộc so tài với CHDC Congo rạng sáng 18.6 là cơ hội vàng để Bồ Đào Nha và Cristiano Ronaldo khởi đầu thuận lợi ở World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T20:38:00+07:00",
+      "fetched": "2026-06-17T05:04:58.024736+07:00"
+    },
+    {
+      "id": "fa62332f7b634b0d48875622b0fab7a9",
+      "title": "Chủ tịch FIFA: Cầu thủ Iran truyền đi một thông điệp vô cùng mạnh mẽ",
+      "link": "https://vnexpress.net/chu-tich-fifa-cau-thu-iran-truyen-di-mot-thong-diep-vo-cung-manh-me-5086566.html",
+      "summary": "Chủ tịch FIFA Gianni Infantino đã vào phòng thay đồ tuyển Iran sau trận hòa 2-2 với New Zealand để động viên các cầu thủ, khẳng định họ đang truyền đi một thông điệp mạnh mẽ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T20:02:12+07:00",
+      "fetched": "2026-06-17T05:04:54.613708+07:00"
     },
     {
       "id": "5dae5ce9420c6ad88c434e09e5c88780",
