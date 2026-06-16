@@ -1,7 +1,157 @@
 window.newsData_2026_06_16 = {
   "date": "2026-06-16",
-  "lastUpdated": "2026-06-16T05:10:36.502450+07:00",
+  "lastUpdated": "2026-06-16T09:48:30.847182+07:00",
   "articles": [
+    {
+      "id": "c390ac4b308295b4c76db1ac461f1f9d",
+      "title": "Học cách Jennie BlackPink và dàn sao mặc đẹp ngày mưa",
+      "link": "https://tuoitre.vn/hoc-cach-jennie-blackpink-va-dan-sao-mac-dep-ngay-mua-20260615234927763.htm",
+      "summary": "Mùa mưa đến không làm giảm sức hút thời trang của các ngôi sao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T09:48:23.864162+07:00",
+      "fetched": "2026-06-16T09:48:23.864246+07:00"
+    },
+    {
+      "id": "5519cc1d108cc865a16dd6cc5a9b6f65",
+      "title": "Xe điện tự sạc bằng… cửa kính, chỉ cần đỗ dưới ánh nắng là đủ đi hằng ngày",
+      "link": "https://tuoitre.vn/xe-dien-tu-sac-bang-cua-kinh-chi-can-do-duoi-anh-nang-la-du-di-hang-ngay-20260616015418209.htm",
+      "summary": "Công nghệ pin mặt trời siêu mỏng gần như vô hình do các nhà khoa học Singapore phát triển có thể biến kính ô tô thành nguồn tạo điện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T09:48:23.864070+07:00",
+      "fetched": "2026-06-16T09:48:23.864154+07:00"
+    },
+    {
+      "id": "350e7cfdb030704e4f1c3cb4bfc30975",
+      "title": "Dự đoán tỉ số World Cup 2026: Senegal làm khó tuyển Pháp",
+      "link": "https://tuoitre.vn/du-doan-ti-so-world-cup-2026-senegal-lam-kho-tuyen-phap-20260615003204429.htm",
+      "summary": "Lúc 2h ngày 17-6, tuyển Pháp sẽ đối đầu Senegal ở lượt trận đầu tiên bảng I World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T09:48:23.863974+07:00",
+      "fetched": "2026-06-16T09:48:23.864063+07:00"
+    },
+    {
+      "id": "a0042ba3b0dfc87c9d0145ef4390f85c",
+      "title": "Lịch trực tiếp World Cup 2026 ngày 17-6: Pháp đấu Senegal, Argentina ra quân",
+      "link": "https://tuoitre.vn/lich-truc-tiep-world-cup-2026-ngay-17-6-phap-dau-senegal-argentina-ra-quan-20260615210101737.htm",
+      "summary": "Tâm điểm của ngày thi đấu rạng sáng 17-6 của World Cup 2026 là cuộc đối đầu giữa Pháp với Senegal và Argentina gặp Algeria.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T09:48:23.863863+07:00",
+      "fetched": "2026-06-16T09:48:23.863965+07:00"
+    },
+    {
+      "id": "8c5b70cf6df8026b27cbe2b838c418db",
+      "title": "Ông Netanyahu: Israel đã đạt mục tiêu, ca ngợi chiến dịch với Mỹ",
+      "link": "https://tuoitre.vn/ong-netanyahu-israel-da-dat-muc-tieu-ca-ngoi-chien-dich-voi-my-20260616070818924.htm",
+      "summary": "Thủ tướng Netanyahu có bài phát biểu công khai đầu tiên sau khi Mỹ - Iran thông báo đạt thỏa thuận chấm dứt xung đột.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T09:48:23.863767+07:00",
+      "fetched": "2026-06-16T09:48:23.863854+07:00"
+    },
+    {
+      "id": "3265a88b7fd8c98ae2217e6c024e0d13",
+      "title": "Đội trưởng Tây Ban Nha chỉ trích cách chơi 'tử thủ' của đội bóng tí hon",
+      "link": "https://tuoitre.vn/doi-truong-tay-ban-nha-chi-trich-cach-choi-tu-thu-cua-doi-bong-ti-hon-20260616065029589.htm",
+      "summary": "Trận hòa bất ngờ trước Cape Verde khiến cho đội trưởng tuyển Tây Ban Nha là Rodri cảm thấy khó chịu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T09:48:23.863663+07:00",
+      "fetched": "2026-06-16T09:48:23.863758+07:00"
+    },
+    {
+      "id": "a610341f0c94baea92ed24d38f9b53f4",
+      "title": "Saudi Arabia lại tạo địa chấn ở World Cup",
+      "link": "https://tuoitre.vn/saudi-arabia-lai-tao-dia-chan-o-world-cup-2026061606445344.htm",
+      "summary": "Chỉ vài giờ sau khi Tây Ban Nha bị Cape Verde cầm hòa, một đội bóng lớn khác ở bảng H, World Cup 2026 là Uruguay tiếp tục bị làm khó, khi họ đụng độ Saudi Arabia vào sáng 16-6 (giờ Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T09:48:23.863562+07:00",
+      "fetched": "2026-06-16T09:48:23.863655+07:00"
+    },
+    {
+      "id": "ecc7dedf8c5794a2e06f2b2c7f86ddf3",
+      "title": "Tăng cân thời điểm nào trong đời được xem là nguy hiểm?",
+      "link": "https://tuoitre.vn/tang-can-thoi-diem-nao-trong-doi-duoc-xem-la-nguy-hiem-2026061605191699.htm",
+      "summary": "Một nghiên cứu mới cho thấy việc tăng cân trong giai đoạn đầu của tuổi trưởng thành có liên quan chặt chẽ đến nguy cơ tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T09:48:23.863459+07:00",
+      "fetched": "2026-06-16T09:48:23.863553+07:00"
+    },
+    {
+      "id": "5d87997422dc265b2b0fe7aef2175133",
+      "title": "Doanh nghiệp bán lẻ xăng dầu kêu chiết khấu thấp",
+      "link": "https://tuoitre.vn/doanh-nghiep-ban-le-xang-dau-keu-chiet-khau-thap-20260615234417026.htm",
+      "summary": "Các doanh nghiệp bán lẻ tại TP.HCM vừa có đơn kiến nghị khẩn cấp tới Bộ Công Thương và các bộ, ngành, UBND TP.HCM trước lo ngại suy giảm năng lực hệ thống doanh nghiệp bán lẻ trong giai đoạn triển khai xăng sinh học (E10).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T09:48:23.863360+07:00",
+      "fetched": "2026-06-16T09:48:23.863450+07:00"
+    },
+    {
+      "id": "ef82f4465f0284b961c251c4eb63d287",
+      "title": "Trăn trở của bác sĩ ghép tạng",
+      "link": "https://tuoitre.vn/tran-tro-cua-bac-si-ghep-tang-20260616002056598.htm",
+      "summary": "Sau những ca phẫu thuật ghép gan giành lại sự sống cho bệnh nhi là hành trình đầy trăn trở của các bác sĩ trước tình trạng khan hiếm nguồn tạng hiến, khi phần lớn cha mẹ phải đánh đổi chính sức khỏe của mình để cứu con.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T09:48:23.863262+07:00",
+      "fetched": "2026-06-16T09:48:23.863352+07:00"
+    },
+    {
+      "id": "f1cbfdaa9a2f3c98d5a558ae99fcbbb3",
+      "title": "Mua từ một cú chạm và rước những nỗi lo",
+      "link": "https://tuoitre.vn/mua-tu-mot-cu-cham-va-ruoc-nhung-noi-lo-20260616075756392.htm",
+      "summary": "Má của bạn tôi năm nay ngoài 70 tuổi. Mấy năm trước, bà còn quen đi chợ truyền thống, lựa từng bó rau, từng con cá. Bây giờ, chiếc điện thoại thông minh đã trở thành \"cái chợ\" mới của bà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T09:48:23.863162+07:00",
+      "fetched": "2026-06-16T09:48:23.863253+07:00"
+    },
+    {
+      "id": "7e63018add39d2f7d9a1ce19f0c9b6e5",
+      "title": "Không để lặp lại cảnh Đà Lạt ùn ứ rác",
+      "link": "https://tuoitre.vn/khong-de-lap-lai-canh-da-lat-un-u-rac-20260616075246123.htm",
+      "summary": "Gần 1.000 tấn rác trên hè phố Đà Lạt đang được dọn dẹp sau khi nhà máy xử lý rác Đà Lạt hoạt động trở lại. Trước đó nhà máy đóng cửa hai ngày do một sự vụ liên quan tài khoản ngân hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T09:48:23.863055+07:00",
+      "fetched": "2026-06-16T09:48:23.863153+07:00"
+    },
+    {
+      "id": "09f2c838c45374ec2e6264afc382342f",
+      "title": "Xét học bạ, nhận học bổng 70% từ Trường Đại học CMC",
+      "link": "https://tuoitre.vn/xet-hoc-ba-nhan-hoc-bong-70-tu-truong-dai-hoc-cmc-20260610120511544.htm",
+      "summary": "Trường Đại học CMC (mã trường: CMC) đang triển khai chương trình học bổng ‘CMC - Vì bạn xứng đáng’ trị giá 96 tỉ đồng, tạo điều kiện thuận lợi và hỗ trợ tài chính cho thí sinh trong kỳ tuyển sinh 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T09:48:23.862940+07:00",
+      "fetched": "2026-06-16T09:48:23.863046+07:00"
+    },
+    {
+      "id": "71d013b74543c3d7bf3fb44d0031dd03",
+      "title": "Dự đoán tỉ số World Cup 2026: Con trai Zidane gây khó cho Argentina",
+      "link": "https://tuoitre.vn/du-doan-ti-so-world-cup-2026-con-trai-zidane-gay-kho-cho-argentina-20260615032334959.htm",
+      "summary": "Đương kim vô địch World Cup Argentina sẽ thi đấu trận ra quân bảng J gặp Algeria lúc 8h ngày 17-6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T09:48:23.862797+07:00",
+      "fetched": "2026-06-16T09:48:23.862912+07:00"
+    },
+    {
+      "id": "c0182dd0532429aca9844447f1b5dd94",
+      "title": "Có 15 nguyện vọng, thí sinh cần xây dựng chiến lược đăng ký hiệu quả",
+      "link": "https://tuoitre.vn/co-15-nguyen-vong-thi-sinh-can-xay-dung-chien-luoc-dang-ky-hieu-qua-20260615163838299.htm",
+      "summary": "Kỳ tuyển sinh đại học năm 2026 đang vào giai đoạn cuối, quan trọng đối với thí sinh, phụ huynh. Thí sinh chuẩn bị đăng ký nguyện vọng xét tuyển trên hệ thống của Bộ Giáo dục và Đào tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T09:48:23.862552+07:00",
+      "fetched": "2026-06-16T09:48:23.862784+07:00"
+    },
     {
       "id": "52082c8d7e9bc10c3aa57799b70b3a35",
       "title": "Bỉ - Ai Cập 1-1: Bất phân thắng bại",
@@ -11,6 +161,36 @@ window.newsData_2026_06_16 = {
       "category": "Tổng hợp",
       "published": "2026-06-16T05:10:29.765850+07:00",
       "fetched": "2026-06-16T05:10:29.765954+07:00"
+    },
+    {
+      "id": "87054d3df355f1b2b6059a0d764d7323",
+      "title": "Bắc Kinh bác cảnh báo Trung Quốc nâng cao năng lực đe dọa Úc",
+      "link": "https://thanhnien.vn/bac-kinh-bac-canh-bao-trung-quoc-nang-cao-nang-luc-de-doa-uc-185260616090432259.htm",
+      "summary": "Trung Quốc bác bỏ báo cáo của Viện nghiên cứu chính sách Lowy của Úc, theo đó cáo buộc Bắc Kinh mở rộng kho vũ khí bội siêu thanh và gia tăng năng lực tấn công Úc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T02:46:00+07:00",
+      "fetched": "2026-06-16T09:48:22.722111+07:00"
+    },
+    {
+      "id": "d77d9f1574fc1c04befd388dc1aa13e4",
+      "title": "Ca sĩ Đan Trường dự sự kiện cùng vợ cũ",
+      "link": "https://thanhnien.vn/ca-si-dan-truong-du-su-kien-cung-vo-cu-185260616092459137.htm",
+      "summary": "Tuy bận rộn công việc và phải di chuyển chặng đường dài từ Mỹ về Việt Nam nhưng Đan Trường và doanh nhân Thủy Tiên cùng con trai vẫn dành thời gian đến tham dự sự kiện của Lý Thùy Chang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T02:42:00+07:00",
+      "fetched": "2026-06-16T09:48:22.722268+07:00"
+    },
+    {
+      "id": "96b1e2b8add4639ca3019d123a716e37",
+      "title": "Một người bị sét đánh tử vong ở biển Đồ Sơn",
+      "link": "https://vnexpress.net/mot-nguoi-bi-set-danh-tu-vong-o-bien-do-son-5086205.html",
+      "summary": "Cùng vợ xuống bãi tắm Đoàn 295 vào sáng sớm 16/6 để mò bắt hải sản, người đàn ông 54 tuổi bất ngờ bị sét đánh trúng dẫn đến tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T02:39:50+07:00",
+      "fetched": "2026-06-16T09:48:18.902009+07:00"
     },
     {
       "id": "b6be9f7b6119d907963ada03d77ccf78",
@@ -163,6 +343,476 @@ window.newsData_2026_06_16 = {
       "fetched": "2026-06-16T02:38:06.675842+07:00"
     },
     {
+      "id": "dbe00ecc6d72555c83c2dfe3fdcbecce",
+      "title": "Cape Verde phá kỷ lục tồn tại hơn 50 năm ở World Cup",
+      "link": "https://vnexpress.net/cape-verde-pha-ky-luc-ton-tai-hon-50-nam-o-world-cup-5086174.html",
+      "summary": "Không chỉ hòa Tây Ban Nha 0-0, Cape Verde còn phá kỷ lục đội phạm lỗi ít nhất trong một trận World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T02:37:02+07:00",
+      "fetched": "2026-06-16T09:48:18.902176+07:00"
+    },
+    {
+      "id": "dbe00ecc6d72555c83c2dfe3fdcbecce",
+      "title": "Cape Verde phá kỷ lục tồn tại hơn 50 năm ở World Cup",
+      "link": "https://vnexpress.net/cape-verde-pha-ky-luc-ton-tai-hon-50-nam-o-world-cup-5086174.html",
+      "summary": "Không chỉ hòa Tây Ban Nha 0-0, Cape Verde còn phá kỷ lục đội phạm lỗi ít nhất trong một trận World Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-16T02:37:02+07:00",
+      "fetched": "2026-06-16T09:48:30.804870+07:00"
+    },
+    {
+      "id": "fcd06e3094ec344dbf4c10754de34dfb",
+      "title": "Trọng tài World Cup 2026 được FIFA minh oan sau cáo buộc liên quan biểu tượng thượng đẳng da trắng",
+      "link": "https://thanhnien.vn/trong-tai-world-cup-2026-duoc-fifa-minh-oan-sau-cao-buoc-lien-quan-bieu-tuong-thuong-dang-da-trang-185260616092840044.htm",
+      "summary": "FIFA kết luận không có bằng chứng cho thấy trọng tài VAR Shaun Evans vi phạm quy định đạo đức, sau khi ông bị cáo buộc sử dụng cử chỉ tay liên quan đến tư tưởng thượng đẳng da trắng tại World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T02:37:00+07:00",
+      "fetched": "2026-06-16T09:48:22.722401+07:00"
+    },
+    {
+      "id": "5d515497618e27917deb9d6652a90323",
+      "title": "Kể 3 loài gấu mà trong tên lại có một con vật khác",
+      "link": "https://vnexpress.net/ke-3-loai-gau-ma-trong-ten-lai-co-mot-con-vat-khac-5082869.html",
+      "summary": "Nghe có vẻ lạ nhưng hoàn toàn có thật, có những loài gấu mà ngay trong tên gọi lại xuất hiện tên của một loài vật khác!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T02:31:00+07:00",
+      "fetched": "2026-06-16T09:48:18.902396+07:00"
+    },
+    {
+      "id": "17d7b17eeea63c25ea299308ecf70ac0",
+      "title": "Đan Trường đưa vợ cũ và con trai đi sự kiện",
+      "link": "https://vnexpress.net/dan-truong-dua-vo-cu-va-con-trai-di-su-kien-5086198.html",
+      "summary": "Ca sĩ Đan Trường đưa vợ cũ - doanh nhân Thủy Tiên - và bé Thiên Từ đến sự kiện làm đẹp của doanh nhân Lý Thùy Chang, tối 15/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T02:30:00+07:00",
+      "fetched": "2026-06-16T09:48:18.902535+07:00"
+    },
+    {
+      "id": "8bdae40da49b41cca7fee43bc537e04a",
+      "title": "Hậu vệ Nhật Bản tiếc vì không thể khóa chặt Van Dijk",
+      "link": "https://vnexpress.net/hau-ve-nhat-ban-tiec-vi-khong-the-khoa-chat-van-dijk-5086005.html",
+      "summary": "Trung vệ Tsuyoshi Watanabe trách bản thân vì để Virgil van Dijk ghi bàn mở tỷ số, khi Nhật Bản hòa Hà Lan 2-2 ở lượt đầu bảng F World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T02:26:53+07:00",
+      "fetched": "2026-06-16T09:48:18.902667+07:00"
+    },
+    {
+      "id": "8bdae40da49b41cca7fee43bc537e04a",
+      "title": "Hậu vệ Nhật Bản tiếc vì không thể khóa chặt Van Dijk",
+      "link": "https://vnexpress.net/hau-ve-nhat-ban-tiec-vi-khong-the-khoa-chat-van-dijk-5086005.html",
+      "summary": "Trung vệ Tsuyoshi Watanabe trách bản thân vì để Virgil van Dijk ghi bàn mở tỷ số, khi Nhật Bản hòa Hà Lan 2-2 ở lượt đầu bảng F World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-16T02:26:53+07:00",
+      "fetched": "2026-06-16T09:48:30.805959+07:00"
+    },
+    {
+      "id": "9cd1377654be1da84b3b6caae6d8342e",
+      "title": "Lớp bọt khi hầm xương là dưỡng chất hay tạp chất?",
+      "link": "https://thanhnien.vn/lop-bot-khi-ham-xuong-la-duong-chat-hay-tap-chat-185260615225100664.htm",
+      "summary": "Trong quá trình nấu nước hầm xương, nhiều người cho rằng lớp bọt nổi trên bề mặt là phần dưỡng chất của thịt và xương, nên việc hớt bỏ sẽ làm mất vị ngọt và giá trị dinh dưỡng của nước dùng. Liệu điều này có đúng?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T02:25:00+07:00",
+      "fetched": "2026-06-16T09:48:22.722529+07:00"
+    },
+    {
+      "id": "3fa2657fa77180fe47d0ffd1d5557ffb",
+      "title": "Venezuela ký thỏa thuận với một tập đoàn lớn của Mỹ",
+      "link": "https://thanhnien.vn/venezuela-ky-thoa-thuan-voi-mot-tap-doan-lon-cua-my-185260616080739647.htm",
+      "summary": "Tổng thống lâm thời Venezuela Delcy Rodriguez ngày 15.6 thông báo nước này đã ký một thỏa thuận với tập đoàn điện lực General Electric (GE) của Mỹ để tái thiết lưới điện xuống cấp của quốc gia Nam Mỹ này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T02:23:00+07:00",
+      "fetched": "2026-06-16T09:48:22.722656+07:00"
+    },
+    {
+      "id": "3d0aa0cdcaede7a4d7792caec3bf11c0",
+      "title": "Messi bất ngờ không họp báo trước World Cup 2026, HLV Scaloni nói gì?",
+      "link": "https://thanhnien.vn/messi-bat-ngo-khong-hop-bao-truoc-world-cup-2026-hlv-scaloni-noi-gi-18526061609001438.htm",
+      "summary": "Khác với mọi dự đoán, Messi không dự cuộc họp báo trước trận ra quân của đội tuyển Argentina tại World Cup 2026 như tại Qatar 2022, HLV Scaloni cùng trung vệ Otamendi trả lời các câu hỏi từ báo chí ngày 16.6.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T02:22:00+07:00",
+      "fetched": "2026-06-16T09:48:22.722782+07:00"
+    },
+    {
+      "id": "c31a7b62f042e687eecf47e61952e0cd",
+      "title": "Trung tâm Anh ngữ Magic - Giải pháp học tiếng Anh theo lộ trình bài bản",
+      "link": "https://thanhnien.vn/trung-tam-anh-ngu-magic-giai-phap-hoc-tieng-anh-theo-lo-trinh-bai-ban-185260616092256196.htm",
+      "summary": "Nhiều người học tiếng Anh hiện nay gặp khó khăn trong việc lựa chọn chương trình phù hợp, thiếu định hướng rõ ràng hoặc mất nhiều thời gian ôn luyện nhưng chưa đạt được mục tiêu mong muốn. Hiểu được điều đó, Trung tâm Anh ngữ Magic đã cung cấp các giải pháp đào tạo khoa học, bài bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T02:20:00+07:00",
+      "fetched": "2026-06-16T09:48:22.722905+07:00"
+    },
+    {
+      "id": "63840eff548f72cb84d4c34d3c501d6f",
+      "title": "Dự đoán tỷ số Pháp - Senegal (2 giờ ngày 17.6): Khởi đầu chông gai của đương kim á quân",
+      "link": "https://thanhnien.vn/du-doan-ty-so-phap-senegal-2-gio-ngay-176-khoi-dau-chong-gai-cua-duong-kim-a-quan-18526061518304654.htm",
+      "summary": "Pháp là ông lớn có màn ra quân hứa hẹn gian nan nhất, khi phải đọ sức Senegal ở bảng I vốn giàu sức chiến đấu và có nhiều nhân tố tạo đột biến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T02:19:00+07:00",
+      "fetched": "2026-06-16T09:48:22.723053+07:00"
+    },
+    {
+      "id": "97b00de447a554796a61c6ca35842c86",
+      "title": "Bên trong 'bảo tàng chống Mỹ' ở thủ đô Iran",
+      "link": "https://vnexpress.net/ben-trong-bao-tang-chong-my-o-thu-do-iran-5085994.html",
+      "summary": "Iran biến đại sứ quán cũ của Mỹ ở Tehran thành bảo tàng, bên trong có văn phòng đại sứ cùng nhiều tranh ảnh, hiện vật mang thông điệp chống Washington.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-16T02:13:13+07:00",
+      "fetched": "2026-06-16T09:48:25.478998+07:00"
+    },
+    {
+      "id": "7466be9316d05f3b2c62c3f4924cb909",
+      "title": "CĐV Curacao vẫn ăn mừng sau trận thua Đức 1-7",
+      "link": "https://vnexpress.net/cdv-curacao-van-an-mung-sau-tran-thua-duc-1-7-5086188.html",
+      "summary": "Curacao thua Đức 1-7 trong trận ra quân World Cup, nhưng thất bại không làm giảm niềm tự hào của các CĐV đảo quốc lần đầu góp mặt tại giải đấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T02:02:00+07:00",
+      "fetched": "2026-06-16T09:48:18.902802+07:00"
+    },
+    {
+      "id": "f57b1a8dbc659f901ad2d05444624689",
+      "title": "Đường bay TP.HCM - Vân Đồn kín hơn 90% ghế",
+      "link": "https://thanhnien.vn/duong-bay-tphcm-van-don-kin-hon-90-ghe-185260615211156873.htm",
+      "summary": "Đường bay TP.HCM - Vân Đồn của Sun PhuQuoc Airways chính thức khai thác từ ngày 15.6, ghi nhận tỷ lệ lấp đầy trên 90% ngay chuyến đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T02:02:00+07:00",
+      "fetched": "2026-06-16T09:48:22.723186+07:00"
+    },
+    {
+      "id": "7466be9316d05f3b2c62c3f4924cb909",
+      "title": "CĐV Curacao vẫn ăn mừng sau trận thua Đức 1-7",
+      "link": "https://vnexpress.net/cdv-curacao-van-an-mung-sau-tran-thua-duc-1-7-5086188.html",
+      "summary": "Curacao thua Đức 1-7 trong trận ra quân World Cup, nhưng thất bại không làm giảm niềm tự hào của các CĐV đảo quốc lần đầu góp mặt tại giải đấu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-16T02:02:00+07:00",
+      "fetched": "2026-06-16T09:48:25.479158+07:00"
+    },
+    {
+      "id": "b86484884a501efc53236c1a2e8b9443",
+      "title": "Sun PhuQuoc Airways mở đường bay thẳng TP HCM - Vân Đồn",
+      "link": "https://vnexpress.net/sun-phuquoc-airways-mo-duong-bay-thang-tp-hcm-van-don-5086178.html",
+      "summary": "Các chuyến bay đầu tiên kết nối TP HCM với Quảng Ninh của hãng hàng không Sun PhuQuoc Airways đạt tỷ lệ lấp đầy hơn 90% trong ngày khai trương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T02:00:57+07:00",
+      "fetched": "2026-06-16T09:48:18.902948+07:00"
+    },
+    {
+      "id": "b86484884a501efc53236c1a2e8b9443",
+      "title": "Sun PhuQuoc Airways mở đường bay thẳng TP HCM - Vân Đồn",
+      "link": "https://vnexpress.net/sun-phuquoc-airways-mo-duong-bay-thang-tp-hcm-van-don-5086178.html",
+      "summary": "Các chuyến bay đầu tiên kết nối TP HCM với Quảng Ninh của hãng hàng không Sun PhuQuoc Airways đạt tỷ lệ lấp đầy hơn 90% trong ngày khai trương.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-16T02:00:57+07:00",
+      "fetched": "2026-06-16T09:48:26.649734+07:00"
+    },
+    {
+      "id": "788e429a31e1ef30b84075cd9ed3768a",
+      "title": "10 tháng chiến đấu với sốt xuất huyết",
+      "link": "https://vnexpress.net/10-thang-chien-dau-voi-sot-xuat-huyet-5086084.html",
+      "summary": "Chị Đinh Thị Hoa, 32 tuổi, trong 10 tháng trải qua nhiều lần nguy kịch, hôn mê, sốc và suy gan tối cấp do sốt xuất huyết nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T02:00:00+07:00",
+      "fetched": "2026-06-16T09:48:18.903079+07:00"
+    },
+    {
+      "id": "8f6babcdfbe32c9a588308d6353e2664",
+      "title": "Khi nào bệnh nhân ung thư phải kết hợp hóa xạ trị?",
+      "link": "https://vnexpress.net/khi-nao-benh-nhan-ung-thu-phai-ket-hop-hoa-xa-tri-5086060.html",
+      "summary": "Hóa xạ trị đồng thời được chỉ định trong trường hợp người bệnh có khối ung thư tiến triển tại chỗ và chưa di căn, hỗ trợ phẫu thuật hoặc tăng hiệu quả điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T02:00:00+07:00",
+      "fetched": "2026-06-16T09:48:18.903200+07:00"
+    },
+    {
+      "id": "741061fe9e78b5da3878864bc1f08af0",
+      "title": "Người xứ Thanh gieo hạt giống lành",
+      "link": "https://thanhnien.vn/nguoi-xu-thanh-gieo-hat-giong-lanh-185260605104407968.htm",
+      "summary": "'Mỗi việc làm tử tế hôm nay như gieo một hạt giống lành, có thể chưa thấy ngay kết quả, nhưng đến đúng mùa, nó sẽ nảy nở thành hoa phúc' - đó là status trên trang cá nhân của anh Nguyễn Hữu Toàn, một người xứ Thanh, hiện sinh sống ở Vũng Tàu, TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T02:00:00+07:00",
+      "fetched": "2026-06-16T09:48:22.723317+07:00"
+    },
+    {
+      "id": "8910852662f11724f141e1b329780130",
+      "title": "Giá xăng dầu hôm nay 16.6.2026: Giảm hơn 4 USD một thùng",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-1662026-giam-hon-4-usd-mot-thung-185260616084535171.htm",
+      "summary": "Giá dầu thế giới giảm hơn 4 USD/thùng trong phiên đầu tuần, xuống mức thấp nhất trong 3 tháng sau khi Mỹ và Iran xác nhận đạt thỏa thuận hòa bình, chấm dứt xung đột và mở lại eo biển Hormuz. Trong nước, dự báo giá xăng dầu tuần này giảm mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T01:59:00+07:00",
+      "fetched": "2026-06-16T09:48:22.723438+07:00"
+    },
+    {
+      "id": "16ccf08dda66187ff781e9b4e16eda83",
+      "title": "Vì tình cũ, chồng sẵn sàng chà đạp vợ con và bố mẹ tôi",
+      "link": "https://vnexpress.net/vi-tinh-cu-chong-san-sang-cha-dap-vo-con-va-bo-me-toi-5086044.html",
+      "summary": "Vì người phụ nữ ấy, anh bất chấp tất cả; đánh đập tôi, thậm chí còn có thái độ thiếu tôn trọng bố mẹ vợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T01:57:49+07:00",
+      "fetched": "2026-06-16T09:48:18.903325+07:00"
+    },
+    {
+      "id": "545445d539dcd9f13d041023e98ae372",
+      "title": "Báo Mỹ gọi Việt Nam là 'giấc mơ có thật' với du khách",
+      "link": "https://thanhnien.vn/bao-my-goi-viet-nam-la-giac-mo-co-that-voi-du-khach-185260615143542051.htm",
+      "summary": "Trong bài viết về những điểm đến ở châu Á đang 'trải thảm đỏ' chào đón du khách quốc tế, trang chuyên về khám phá TraveloffPath có trụ sở ở Mỹ đã gọi Việt Nam là 'giấc mơ có thật' với điểm an toàn gần như tuyệt đối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T01:48:00+07:00",
+      "fetched": "2026-06-16T09:48:22.723556+07:00"
+    },
+    {
+      "id": "e01233e7dc5963bc79854e2c6e7cef17",
+      "title": "CĐV Cape Verde bật khóc, ăn mừng sau trận hoà trước Tây Ban Nha",
+      "link": "https://vnexpress.net/cdv-cape-verde-bat-khoc-an-mung-sau-tran-hoa-truoc-tay-ban-nha-5086175.html",
+      "summary": "Trận hòa 0-0 trước Tây Ban Nha ở lượt ra quân World Cup 2026 khiến khán đài Cape Verde vỡ òa, các CĐV đảo quốc Tây Phi ôm nhau khóc sau tiếng còi mãn cuộc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T01:47:11+07:00",
+      "fetched": "2026-06-16T09:48:18.903477+07:00"
+    },
+    {
+      "id": "0ae0dc461b760d8670f246f391c8bbe8",
+      "title": "Giá USD hôm nay 16.6.2026: Đô tự do bật tăng",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-1662026-do-tu-do-bat-tang-18526061608200601.htm",
+      "summary": "Giá USD trong các ngân hàng đứng yên dù thị trường thế giới tăng nhẹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T01:47:00+07:00",
+      "fetched": "2026-06-16T09:48:22.723670+07:00"
+    },
+    {
+      "id": "da3038587d60b0bf07fc77fcf5c6ebb5",
+      "title": "Giá vàng hôm nay 16.6.2026: Dứt mạch tăng, nín thở chờ xu hướng mới?",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-1662026-dut-mach-tang-nin-tho-cho-xu-huong-moi-185260616084045728.htm",
+      "summary": "Giá vàng trong nước ít biến động sau ngày tăng mạnh. Mức đắt đỏ của vàng miếng SJC so với thế giới lên 13 triệu đồng/lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T01:46:00+07:00",
+      "fetched": "2026-06-16T09:48:22.723794+07:00"
+    },
+    {
+      "id": "24df71937ea6fea9dcf4f52302f2a6b6",
+      "title": "Vozinha: Người gác đền 40 tuổi khiến Tây Ban Nha bất lực và viết nên lịch sử cho Cabo Verde",
+      "link": "https://thanhnien.vn/vozinha-nguoi-gac-den-40-tuoi-khien-tay-ban-nha-bat-luc-va-viet-nen-lich-su-cho-cabo-verde-18526061608361365.htm",
+      "summary": "Ở tuổi 40, thủ môn Vozinha trở thành người hùng của Cabo Verde khi liên tiếp cứu thua trước đội tuyển Tây Ban Nha, giúp đội bóng châu Phi giành điểm số lịch sử trong lần đầu tham dự World Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T01:44:00+07:00",
+      "fetched": "2026-06-16T09:48:22.723950+07:00"
+    },
+    {
+      "id": "c2f97a8889caabccd6e90e650f8b12b2",
+      "title": "Tôi mất việc lương 20 triệu vì chăm bố nằm liệt giường",
+      "link": "https://vnexpress.net/cham-soc-nguoi-gia-theo-gio-toi-mat-viec-luong-20-trieu-vi-cham-bo-nam-liet-giuong-5086035.html",
+      "summary": "Từ bỏ công việc ổn định, thu nhập tốt, con nhỏ cũng giao lại cho chồng, tôi dành toàn bộ thời gian để chăm bố gần một năm cuối đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T01:40:49+07:00",
+      "fetched": "2026-06-16T09:48:18.903604+07:00"
+    },
+    {
+      "id": "6d105aba7a9de1941fb7f53cc89a4ce2",
+      "title": "Elon Musk có thêm hơn 160 tỷ USD một ngày",
+      "link": "https://vnexpress.net/elon-musk-co-them-hon-160-ty-usd-mot-ngay-5086173.html",
+      "summary": "Cổ phiếu SpaceX tăng gần 20%, kéo tài sản của người giàu nhất hành tinh tăng 165 tỷ USD chỉ trong một phiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T01:30:00+07:00",
+      "fetched": "2026-06-16T09:48:18.903726+07:00"
+    },
+    {
+      "id": "6d105aba7a9de1941fb7f53cc89a4ce2",
+      "title": "Elon Musk có thêm hơn 160 tỷ USD một ngày",
+      "link": "https://vnexpress.net/elon-musk-co-them-hon-160-ty-usd-mot-ngay-5086173.html",
+      "summary": "Cổ phiếu SpaceX tăng gần 20%, kéo tài sản của người giàu nhất hành tinh tăng 165 tỷ USD chỉ trong một phiên.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-16T01:30:00+07:00",
+      "fetched": "2026-06-16T09:48:26.649308+07:00"
+    },
+    {
+      "id": "109074dc39843612df4762cc4555532b",
+      "title": "Gặp tai nạn vì tránh người đi sai luật, có được bồi thường?",
+      "link": "https://vnexpress.net/gap-tai-nan-vi-tranh-nguoi-di-sai-luat-co-duoc-boi-thuong-5085711.html",
+      "summary": "Mẹ tôi đi xe máy trên đường thẳng, phanh gấp do tránh người đàn ông đi xe máy sang đường không bật xi-nhan nên ngã xuống đường. (Nguyễn Linh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T01:29:27+07:00",
+      "fetched": "2026-06-16T09:48:18.903848+07:00"
+    },
+    {
+      "id": "6b545ea0b11784710c20fb20c2adc671",
+      "title": "Bác sĩ mất 6 tiếng lấy hàng loạt búi tóc trong bụng cô gái 19 tuổi",
+      "link": "https://vnexpress.net/bac-si-mat-6-tieng-lay-hang-loat-bui-toc-trong-bung-co-gai-19-tuoi-5085854.html",
+      "summary": "Các bác sĩ Bệnh viện Ôn Châu mất 6 tiếng phẫu thuật lấy ra lượng tóc lớn trong dạ dày cô gái, do mắc hội chứng Pica (cuồng ăn chất lạ) bắt nguồn từ tình trạng thiếu sắt kéo dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T01:21:09+07:00",
+      "fetched": "2026-06-16T09:48:18.904001+07:00"
+    },
+    {
+      "id": "f5adff8d84f6c5456563eb707f08e769",
+      "title": "Thủ tướng Israel xác nhận bất đồng với ông Trump",
+      "link": "https://vnexpress.net/thu-tuong-israel-xac-nhan-bat-dong-voi-ong-trump-5086149.html",
+      "summary": "Thủ tướng Israel bình luận về thỏa thuận Mỹ - Iran, nói rằng ông và Tổng thống Trump \"không phải lúc nào cũng đồng quan điểm\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-16T01:18:55+07:00",
+      "fetched": "2026-06-16T09:48:25.479299+07:00"
+    },
+    {
+      "id": "db95541be31b77090d563b5f3f2ec048",
+      "title": "Cầu thủ 'vô danh nhất World Cup' thành hiện tượng mạng",
+      "link": "https://vnexpress.net/cau-thu-vo-danh-nhat-world-cup-thanh-hien-tuong-mang-5086130.html",
+      "summary": "Số người theo dõi Instagram của hậu vệ Tim Payne tăng vọt từ 5.000 lên hơn 5 triệu, sau chiến dịch lan truyền kỳ lạ của một nhà sáng tạo nội dung người Argentina.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-16T01:15:54+07:00",
+      "fetched": "2026-06-16T09:48:29.326725+07:00"
+    },
+    {
+      "id": "b71adf4ab0ae3bfbad518e62245be3f6",
+      "title": "Giá vàng thế giới tăng 3 phiên liên tiếp",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tang-3-phien-lien-tiep-5086172.html",
+      "summary": "Mỗi ounce vàng có thời điểm chạm 4.370 USD một ounce trong phiên đầu tuần, nhờ thỏa thuận hòa bình Mỹ - Iran.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-16T01:01:39+07:00",
+      "fetched": "2026-06-16T09:48:26.649470+07:00"
+    },
+    {
+      "id": "5a2f2fda5f3760757c9d03643bd88020",
+      "title": "HLV Tây Ban Nha: 'Cape Verde không để hở khoảng trống nào'",
+      "link": "https://vnexpress.net/hlv-tay-ban-nha-cape-verde-khong-de-ho-khoang-trong-nao-5086135.html",
+      "summary": "HLV tuyển Tây Ban Nha, Luis De La Fuente khen đối thủ sau trận hòa 0-0 trong ngày ra quân bảng H World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-16T00:35:56+07:00",
+      "fetched": "2026-06-16T09:48:30.805050+07:00"
+    },
+    {
+      "id": "84ca096152ff10fb31dcf6c77657a4c9",
+      "title": "Ông Trump: Eo biển Hormuz sẽ mở hoàn toàn vào ngày 19/6",
+      "link": "https://vnexpress.net/ong-trump-eo-bien-hormuz-se-mo-hoan-toan-vao-ngay-19-6-5086141.html",
+      "summary": "Tổng thống Trump tuyên bố tàu thuyền đã bắt đầu di chuyển qua eo biển Hormuz và tuyến hàng hải huyết mạch này sẽ \"mở hoàn toàn\" vào ngày 19/6.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-16T00:23:44+07:00",
+      "fetched": "2026-06-16T09:48:25.479434+07:00"
+    },
+    {
+      "id": "a3d23bca7ac1c938bb489bb4950ce87c",
+      "title": "Iran 2-2 New Zealand (H2): Hai lần gỡ hòa",
+      "link": "https://vnexpress.net/truc-tiep-iran-vs-new-zealand-5086146.html",
+      "summary": "Hai lần bị dẫn trước, Iran đều vùng lên mạnh mẽ để gỡ hòa tại trận đấu bảng G World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-16T00:00:01+07:00",
+      "fetched": "2026-06-16T09:48:30.805190+07:00"
+    },
+    {
+      "id": "75324d798174ebe3aa8d7ed759d0e58a",
+      "title": "Ông Trương Gia Bình: 'Không nên đua về nền tảng, mà đua tạo tài sản từ AI'",
+      "link": "https://vnexpress.net/ong-truong-gia-binh-khong-nen-dua-ve-nen-tang-ma-dua-tao-tai-san-tu-ai-5085882.html",
+      "summary": "Chủ tịch FPT Trương Gia Bình cho rằng Việt Nam không nên đua tạo ra mô hình nền tảng AI với thế giới, mà nên cạnh tranh ở việc sử dụng nền tảng để tạo ra tài sản thực tiễn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-16T00:00:00+07:00",
+      "fetched": "2026-06-16T09:48:29.326887+07:00"
+    },
+    {
+      "id": "51169a30c9c8ae0cdcd4858053791494",
+      "title": "Cầu thủ Thụy Điển xin lỗi vì ghi bàn vào lưới Tunisia",
+      "link": "https://vnexpress.net/cau-thu-thuy-dien-xin-loi-vi-ghi-ban-vao-luoi-tunisia-5086088.html",
+      "summary": "Yasin Ayari ghi hai bàn giúp Thụy Điển thắng Tunisia 5-1 tại World Cup 2026, nhưng từ chối ăn mừng sau khi mở tỷ số vì mang trong mình dòng máu Tunisia.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-15T23:31:10+07:00",
+      "fetched": "2026-06-16T09:48:30.806082+07:00"
+    },
+    {
+      "id": "f0d9016decee77f0872308f23056531e",
+      "title": "Oanh tạc cơ B-52 Mỹ rơi, 8 người thiệt mạng",
+      "link": "https://vnexpress.net/oanh-tac-co-b-52-my-roi-8-nguoi-thiet-mang-5086138.html",
+      "summary": "Oanh tạc cơ B-52 gặp nạn khi cất cánh từ căn cứ Edwards ở bang California, giới chức Mỹ cho biết 8 người trên máy bay khó lòng sống sót.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-15T23:19:58+07:00",
+      "fetched": "2026-06-16T09:48:25.479563+07:00"
+    },
+    {
+      "id": "3b162b026a5d67a073736ba2fb122259",
+      "title": "Trọng tài World Cup bị nghi tạo biểu tượng 'da trắng thượng đẳng'",
+      "link": "https://vnexpress.net/trong-tai-world-cup-bi-nghi-tao-bieu-tuong-da-trang-thuong-dang-5086075.html",
+      "summary": "Tổ chức giám sát phân biệt đối xử của FIFA kêu gọi loại VAR người Australia Shaun Evans khỏi World Cup 2026, sau khi ông tạo cử chỉ tay bị cho là liên quan phong trào \"da trắng thượng đẳng\".",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-15T23:18:44+07:00",
+      "fetched": "2026-06-16T09:48:30.805321+07:00"
+    },
+    {
+      "id": "eafef6fd7f28a9e9c24c9d657ddc21cb",
+      "title": "Võ sĩ Mỹ giành đai hạng nhẹ tại UFC Nhà Trắng",
+      "link": "https://vnexpress.net/vo-si-my-gianh-dai-hang-nhe-tai-ufc-nha-trang-5086050.html",
+      "summary": "Justin Gaethje đánh bại Ilia Topuria sau 4 hiệp tại UFC Freedom 250, qua đó lần đầu trở thành nhà vô địch hạng nhẹ UFC trong sự kiện lịch sử tổ chức tại Nhà Trắng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-15T23:09:58+07:00",
+      "fetched": "2026-06-16T09:48:30.806199+07:00"
+    },
+    {
+      "id": "0ffe9ac270c7338a2b85c353a99c44da",
+      "title": "Tiền đạo Tây Ban Nha lập thông số hiếm ở World Cup",
+      "link": "https://vnexpress.net/tien-dao-tay-ban-nha-lap-thong-so-hiem-o-world-cup-5086131.html",
+      "summary": "Theo hãng thống kê hàng đầu thế giới Opta, Mikel Oyarzabal trở thành cầu thủ đầu tiên không chạm bóng lần nào trong 30 phút đầu ở một trận đấu tại World Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-15T23:01:55+07:00",
+      "fetched": "2026-06-16T09:48:30.805450+07:00"
+    },
+    {
+      "id": "3791a716f821ce0e403af8f8c724dae8",
+      "title": "Thủ môn Cape Verde bật khóc sau trận hòa Tây Ban Nha",
+      "link": "https://vnexpress.net/thu-mon-cape-verde-bat-khoc-sau-tran-hoa-tay-ban-nha-5086133.html",
+      "summary": "Thủ môn 40 tuổi Vozinha vỡ òa cảm xúc sau màn trình diễn ấn tượng, giúp Cape Verde có trận hòa lịch sử 0-0 với Tây Ban Nha ở lượt đầu bảng H World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-15T22:56:27+07:00",
+      "fetched": "2026-06-16T09:48:30.805574+07:00"
+    },
+    {
+      "id": "63a064b97aa934317f9e8c99720db601",
+      "title": "Lukaku góp sức cứu Bỉ ở World Cup 2026",
+      "link": "https://vnexpress.net/lukaku-gop-suc-cuu-bi-o-world-cup-2026-5086132.html",
+      "summary": "Tiền đạo Romelu Lukaku gây áp lực khiến đối phương phản lưới, giúp Bỉ hòa Ai Cập 1-1 ở lượt đầu bảng G World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-15T22:25:19+07:00",
+      "fetched": "2026-06-16T09:48:30.805701+07:00"
+    },
+    {
       "id": "b9f065bf17b6f8d1bebb9dc3ea190556",
       "title": "Tìm hài cốt liệt sĩ ở Công viên Lê Thị Riêng:: Dùng radar xuyên đất dò dấu tích",
       "link": "https://thanhnien.vn/tim-hai-cot-liet-si-o-cong-vien-le-thi-rieng-dung-radar-xuyen-dat-do-dau-tich-185260615183311635.htm",
@@ -211,6 +861,26 @@ window.newsData_2026_06_16 = {
       "category": "Tổng hợp",
       "published": "2026-06-15T22:00:00+07:00",
       "fetched": "2026-06-16T05:10:28.816820+07:00"
+    },
+    {
+      "id": "70499cd11b230547f9b836b15192a113",
+      "title": "Phong cách làm việc thách thức tuổi 80 của ông Trump",
+      "link": "https://vnexpress.net/phong-cach-lam-viec-thach-thuc-tuoi-80-cua-ong-trump-5085726.html",
+      "summary": "Dù đối mặt nhiều nghi vấn sức khỏe ở tuổi 80, ông Trump vẫn duy trì lịch trình dày đặc và phong cách làm việc giàu năng lượng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-15T22:00:00+07:00",
+      "fetched": "2026-06-16T09:48:25.479690+07:00"
+    },
+    {
+      "id": "b0c5710100a259c25a0f3260a2604c83",
+      "title": "Thí nghiệm chậm nhất thế giới",
+      "link": "https://vnexpress.net/thi-nghiem-cham-nhat-the-gioi-5084184.html",
+      "summary": "Thí nghiệm nhỏ giọt nhựa đường chứng minh \"chất rắn có thể chảy\" bước qua năm thứ 99, là thí nghiệm có quãng thời gian dài nhất được thực hiện.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-15T22:00:00+07:00",
+      "fetched": "2026-06-16T09:48:29.327049+07:00"
     },
     {
       "id": "4fbb8cb4f229f875710a127324d59cf1",
@@ -311,6 +981,16 @@ window.newsData_2026_06_16 = {
       "category": "Thể thao",
       "published": "2026-06-15T21:07:47+07:00",
       "fetched": "2026-06-16T05:10:36.497830+07:00"
+    },
+    {
+      "id": "781f797ced815d06b3238b7b3a37e76a",
+      "title": "Arab Saudi cầm hòa cựu vô địch World Cup",
+      "link": "https://vnexpress.net/arab-saudi-v-uruguay-5086124-tong-thuat.html",
+      "summary": "Arab Saudi hòa Uruguay 1-1 sau khi đối mặt gần 30 cú dứt điểm trong trận ra quân bảng H World Cup 2026 trên sân Miami.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-15T21:07:47+07:00",
+      "fetched": "2026-06-16T09:48:30.805824+07:00"
     },
     {
       "id": "bf302d632f342b297a741f63e9ba4d88",
