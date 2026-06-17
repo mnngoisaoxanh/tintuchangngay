@@ -1,7 +1,157 @@
 window.newsData_2026_06_17 = {
   "date": "2026-06-17",
-  "lastUpdated": "2026-06-17T20:35:58.404812+07:00",
+  "lastUpdated": "2026-06-17T23:50:24.771023+07:00",
   "articles": [
+    {
+      "id": "ccb4a8e600b55253f5a672779e7e231d",
+      "title": "Bánh bá trạng lò Kim Anh mùa Tết Đoan ngọ đỏ lửa suốt nhiều đêm",
+      "link": "https://tuoitre.vn/van-hoa/banh-ba-trang-lo-kim-anh-mua-tet-doan-ngo-do-lua-suot-nhieu-dem-100260617192833316.htm",
+      "summary": "Chỉ còn ít ngày nữa là đến Tết Đoan ngọ mùng 5-5, lò bánh bá trạng Kim Anh tại đường Vĩnh Nam, phường Phú Định, TP.HCM tất bật bước vào mùa cao điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T23:50:15.733713+07:00",
+      "fetched": "2026-06-17T23:50:15.733768+07:00"
+    },
+    {
+      "id": "1e7df18e740dc0791185c1e3441aa4b4",
+      "title": "Ba Lan mang công nghệ xanh đến TP.HCM tìm đối tác",
+      "link": "https://tuoitre.vn/ba-lan-mang-cong-nghe-xanh-den-tphcm-tim-doi-tac-100260617184907452.htm",
+      "summary": "Từ xử lý nước thải đến kinh tế tuần hoàn, 12 doanh nghiệp Ba Lan mang nhiều giải pháp xanh đến TP.HCM để tìm cơ hội hợp tác với doanh nghiệp Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T23:50:15.733647+07:00",
+      "fetched": "2026-06-17T23:50:15.733703+07:00"
+    },
+    {
+      "id": "960c12a4b81361f076d99e66185d748d",
+      "title": "Khuyến khích trẻ sống năng động, hạn chế mạng xã hội",
+      "link": "https://tuoitre.vn/khuyen-khich-tre-song-nang-dong-han-che-mang-xa-hoi-100260617201814728.htm",
+      "summary": "Cuộc thi vẽ tranh 'Mắt sáng tự do - Em vẽ rõ nét hè' dành cho thiếu nhi từ 4-15 tuổi trên toàn quốc đã chính thức khởi động chiều 17-6 tại Nhà Thiếu nhi TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T23:50:15.733580+07:00",
+      "fetched": "2026-06-17T23:50:15.733638+07:00"
+    },
+    {
+      "id": "f4cc0661c03d7fcff22462bd4b73763f",
+      "title": "NATO ca ngợi thỏa thuận Mỹ - Iran, nói việc mở lại Hormuz là ‘bước tiến lớn’",
+      "link": "https://tuoitre.vn/nato-ca-ngoi-thoa-thuan-my-iran-noi-viec-mo-lai-hormuz-la-buoc-tien-lon-100260617202425751.htm",
+      "summary": "Ngày 17-6, Tổng thư ký NATO Mark Rutte đã ca ngợi thỏa thuận sắp ký kết giữa Mỹ và Iran nhằm chấm dứt cuộc xung đột tại Trung Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T23:50:15.733514+07:00",
+      "fetched": "2026-06-17T23:50:15.733570+07:00"
+    },
+    {
+      "id": "fba86299e70fc0711ee32481898cdd56",
+      "title": "Báo chí phải gần dân hơn trong tuyên truyền Văn kiện Đại hội XIV của Đảng",
+      "link": "https://tuoitre.vn/bao-chi-phai-gan-dan-hon-trong-tuyen-truyen-van-kien-dai-hoi-xiv-cua-dang-10026061720391797.htm",
+      "summary": "Phó trưởng Ban Tuyên giáo và Dân vận Trung ương Trần Thanh Lâm nêu định hướng báo chí khi tuyên truyền Văn kiện Đại hội XIV của Đảng phải sâu sắc hơn, dễ hiểu hơn, gần dân hơn và có sức thuyết phục cao hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T23:50:15.733446+07:00",
+      "fetched": "2026-06-17T23:50:15.733504+07:00"
+    },
+    {
+      "id": "36eb359f8c91dd6f1e90174259fb073f",
+      "title": "Vụ nghi ngộ độc bánh mì ở Đồng Tháp: 93 ca nhập viện, 1 bệnh nhân chuyển lên TP.HCM",
+      "link": "https://tuoitre.vn/vu-nghi-ngo-doc-banh-mi-o-dong-thap-93-ca-nhap-vien-1-benh-nhan-chuyen-len-tphcm-100260617204416396.htm",
+      "summary": "Số người nhập viện nghi ngộ độc sau khi ăn bánh mì ở Đồng Tháp tăng lên 93, trong đó 1 ca nặng phải chuyển tuyến lên TP.HCM điều trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T23:50:15.733369+07:00",
+      "fetched": "2026-06-17T23:50:15.733435+07:00"
+    },
+    {
+      "id": "c30e72370d2c6c00dd4ce8c48874629a",
+      "title": "Báo New York Times: 'Tỉ phú ấu dâm' Epstein tìm cách tự sát ít nhất 3 lần trong tù",
+      "link": "https://tuoitre.vn/bao-new-york-times-ti-phu-au-dam-epstein-tim-cach-tu-sat-it-nhat-3-lan-trong-tu-100260617211813049.htm",
+      "summary": "Một cuộc điều tra mới cho thấy 'tỉ phú ấu dâm' Jeffrey Epstein đã ít nhất ba lần tìm cách tự sát trước khi qua đời năm 2019.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T23:50:15.733268+07:00",
+      "fetched": "2026-06-17T23:50:15.733357+07:00"
+    },
+    {
+      "id": "d49eefcfece93878b1200d1dadd5ecfc",
+      "title": "Thủ tướng mong doanh nhân người Việt tại Nga trở thành cầu nối cho hai nền kinh tế",
+      "link": "https://tuoitre.vn/thu-tuong-mong-doanh-nhan-nguoi-viet-tai-nga-tro-thanh-cau-noi-cho-hai-nen-kinh-te-100260617210830948.htm",
+      "summary": "Ngày 17-6 tại thành phố Kazan, Thủ tướng Lê Minh Hưng và đoàn đại biểu cấp cao Việt Nam đã gặp gỡ cán bộ, nhân viên các cơ quan đại diện và cộng đồng người Việt Nam đang sinh sống, học tập và làm việc tại Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T23:50:15.733191+07:00",
+      "fetched": "2026-06-17T23:50:15.733257+07:00"
+    },
+    {
+      "id": "9dc5895c98fcdda15daf1cfe4fc26a49",
+      "title": "Tân Tạo của nữ đại gia Đặng Thị Hoàng Yến không bị phá sản",
+      "link": "https://tuoitre.vn/tan-tao-cua-nu-dai-gia-dang-thi-hoang-yen-khong-bi-pha-san-100260617205428893.htm",
+      "summary": "TAND TP.HCM đưa ra phán quyết cuối cùng không mở thủ tục phá sản với Tân Tạo (ITA), thông tin do chính ITA công bố trong báo cáo gửi Ủy ban Chứng khoán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T23:50:15.733122+07:00",
+      "fetched": "2026-06-17T23:50:15.733180+07:00"
+    },
+    {
+      "id": "228f9cabb38f4477a60bc083857e3ca2",
+      "title": "UAE lên kế hoạch chấm dứt hoàn toàn sự phụ thuộc vào eo biển Hormuz",
+      "link": "https://tuoitre.vn/uae-len-ke-hoach-cham-dut-hoan-toan-su-phu-thuoc-vao-eo-bien-hormuz-100260617213503274.htm",
+      "summary": "Các Tiểu vương quốc Ả Rập thống nhất (UAE) đang triển khai một kế hoạch đầy tham vọng nhằm chấm dứt hoàn toàn sự phụ thuộc vào eo biển Hormuz.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T23:50:15.733049+07:00",
+      "fetched": "2026-06-17T23:50:15.733108+07:00"
+    },
+    {
+      "id": "baec0f74deb71dd70663a67220bc0575",
+      "title": "TP.HCM sẽ tái cấu trúc 17 khu công nghiệp theo hướng thông minh",
+      "link": "https://tuoitre.vn/tphcm-se-tai-cau-truc-17-khu-cong-nghiep-theo-huong-thong-minh-100260617204547398.htm",
+      "summary": "Thông tin này được Phó trưởng Ban Quản lý các khu chế xuất và công nghiệp TP.HCM (HEPZA) nêu tại Diễn đàn 'Công nghiệp 4.0 & chuỗi cung ứng thông minh động lực mới cho TP.HCM' do tạp chí Diễn Đàn Doanh Nghiệp tổ chức ngày 17-6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T23:50:15.732966+07:00",
+      "fetched": "2026-06-17T23:50:15.733038+07:00"
+    },
+    {
+      "id": "1aba433a215139989b5ebfeac4b41af3",
+      "title": "Nhật Bản ngược dòng thắng ngoạn mục ở siêu giải bóng chuyền",
+      "link": "https://tuoitre.vn/nhat-ban-nguoc-dong-thang-ngoan-muc-o-sieu-giai-bong-chuyen-100260617212527913.htm",
+      "summary": "Tuyển bóng chuyền nữ Nhật Bản tiếp tục phong độ thăng hoa ở siêu giải đấu FIVB Nations League (VNL) 2026 khi ngược dòng thắng ngoạn mục cựu vô địch thế giới Serbia ở vòng 5 của giải, diễn ra tối 17-6 (giờ Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T23:50:15.732896+07:00",
+      "fetched": "2026-06-17T23:50:15.732956+07:00"
+    },
+    {
+      "id": "0cae8f2d122e9835c64586cccd4c5ab5",
+      "title": "Dân Mỹ phản đối giải thể Bộ Giáo dục",
+      "link": "https://tuoitre.vn/dan-my-phan-doi-giai-the-bo-giao-duc-100260617212722097.htm",
+      "summary": "Chính phủ Mỹ tiếp tục chuyển giao chức năng của Bộ Giáo dục cho nhiều cơ quan khác. Tính hiệu quả của động thái này đang vấp phải sự hoài nghi của giới quản lý giáo dục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T23:50:15.732823+07:00",
+      "fetched": "2026-06-17T23:50:15.732886+07:00"
+    },
+    {
+      "id": "450b95f3ab464522c8dcaccb3c7c9db1",
+      "title": "Mảnh đá rơi từ Mặt trăng hé lộ thời kỳ ‘mưa va chạm’ dữ dội của Hệ Mặt trời",
+      "link": "https://tuoitre.vn/manh-da-roi-tu-mat-trang-he-lo-thoi-ky-mua-va-cham-du-doi-cua-he-mat-troi-100260617204809925.htm",
+      "summary": "Một thiên thạch Mặt trăng được tìm thấy tại tây bắc châu Phi đang cung cấp những bằng chứng hiếm hoi về một vụ va chạm dữ dội xảy ra cách đây khoảng 3,5 tỉ năm - sự kiện có thể đã làm nóng chảy một phần lớn bề mặt Mặt trăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T23:50:15.732741+07:00",
+      "fetched": "2026-06-17T23:50:15.732811+07:00"
+    },
+    {
+      "id": "079c7c4e22601d6199fdae499c2d2ad4",
+      "title": "Thi vẽ giải thưởng Tô Ngọc Vân",
+      "link": "https://tuoitre.vn/thi-ve-giai-thuong-to-ngoc-van-10026061721535326.htm",
+      "summary": "Cuộc thi vẽ và trao giải thưởng Tô Ngọc Vân được tổ chức lần đầu tiên, phát động ngày 17-6 (ngày họa sĩ hy sinh) tại Hà Nội, gây chú ý với quy định tất cả các tác phẩm vào chung khảo sẽ thuộc sở hữu của ban tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T23:50:15.732592+07:00",
+      "fetched": "2026-06-17T23:50:15.732726+07:00"
+    },
     {
       "id": "00846db65fa344f8e6ca00a6d26168e4",
       "title": "FPT Play sở hữu bản quyền AFF ASEAN Cup 2026",
@@ -151,6 +301,96 @@ window.newsData_2026_06_17 = {
       "category": "Tổng hợp",
       "published": "2026-06-17T20:35:50.385746+07:00",
       "fetched": "2026-06-17T20:35:50.385892+07:00"
+    },
+    {
+      "id": "3b666a5f1a91929a9e1d7444c741aa6e",
+      "title": "Nhà báo Argentina bất ngờ tiết lộ bí mật xót xa khiến Messi phải khóc",
+      "link": "https://thanhnien.vn/nha-bao-argentina-bat-ngo-tiet-lo-bi-mat-xot-xa-khien-messi-phai-khoc-185260617232130186.htm",
+      "summary": "Những giọt nước mắt của Lionel Messi sau bàn thắng đầu tiên tại World Cup 2026 khiến người hâm mộ Argentina không khỏi lo lắng. Mới đây, một nhà báo nổi tiếng của xứ tango đã tiết lộ nguyên nhân đặc biệt đằng sau khoảnh khắc xúc động ấy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T16:25:00+07:00",
+      "fetched": "2026-06-17T23:50:13.428302+07:00"
+    },
+    {
+      "id": "e304cbbcac2f110028912e38b2faed23",
+      "title": "Ali Hoàng Dương tiết lộ chuyện cát sê khi mời em gái Trấn Thành đóng MV",
+      "link": "https://thanhnien.vn/ali-hoang-duong-tiet-lo-chuyen-cat-se-khi-moi-em-gai-tran-thanh-dong-mv-185260617210912394.htm",
+      "summary": "Gây chú ý khi mời Uyển Ân đóng MV, Ali Hoàng Dương tiết lộ đến hiện tại, anh vẫn 'năn nỉ' diễn viên 9X nhận cát sê.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T16:12:00+07:00",
+      "fetched": "2026-06-17T23:50:13.428502+07:00"
+    },
+    {
+      "id": "2dadca0a78b13ed0aba0fd78616f610d",
+      "title": "Nợ nuôi con và quyền xem World Cup",
+      "link": "https://vnexpress.net/no-nuoi-con-va-quyen-xem-world-cup-5087001.html",
+      "summary": "Tôi có người chị họ kết thúc cuộc hôn nhân 10 năm với hai đứa con \"chia đôi\" trên giấy tờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T16:10:59+07:00",
+      "fetched": "2026-06-17T23:50:09.757278+07:00"
+    },
+    {
+      "id": "455c7e7ea997bf8dc07acaaefbe8ec92",
+      "title": "Thúy Diễm nói gì khi chồng đóng cảnh nóng cùng Thanh Hằng?",
+      "link": "https://thanhnien.vn/thuy-diem-noi-gi-khi-chong-dong-canh-nong-cung-thanh-hang-185260617213615066.htm",
+      "summary": "Dù đang mang thai, Thúy Diễm vẫn sắp xếp thời gian đến ủng hộ Lương Thế Thành tái xuất màn ảnh. Tại sự kiện, nữ diễn viên ghi điểm bởi vẻ ngoài rạng rỡ, được chồng chăm sóc chu đáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T16:08:00+07:00",
+      "fetched": "2026-06-17T23:50:13.428664+07:00"
+    },
+    {
+      "id": "35a2560a11a2233aee6d2ae158394961",
+      "title": "Bồ Đào Nha - Congo: Ronaldo cân bằng kỷ lục của Messi",
+      "link": "https://vnexpress.net/bo-dao-nha-vs-congo-5086992.html",
+      "summary": "Siêu sao Cristiano Ronaldo cân bằng kỷ lục thi đấu ở 6 kỳ World Cup do Lionel Messi vừa lập, nhờ được đá chính khi Bồ Đào Nha gặp CHDC Congo ở lượt đầu bảng K lúc 0h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T16:00:00+07:00",
+      "fetched": "2026-06-17T23:50:09.757485+07:00"
+    },
+    {
+      "id": "a139b1e06dd0a550a3bcc242d8514ce8",
+      "title": "Nhận định Uzbekistan vs Colombia: Cơ hội nào cho 'bầy sói trắng' châu Á?",
+      "link": "https://thanhnien.vn/nhan-dinh-uzbekistan-vs-colombia-co-hoi-nao-cho-bay-soi-trang-chau-a-185260617225127003.htm",
+      "summary": "Cuộc so tài hấp dẫn giữa Uzbekistan vs Colombia diễn ra lúc 9 giờ ngày 18.6 trên sân vận động huyền thoại Azteca (Mexico). Đây là lần đầu tiên trong lịch sử hai đội bóng này gặp nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T16:00:00+07:00",
+      "fetched": "2026-06-17T23:50:13.428821+07:00"
+    },
+    {
+      "id": "35a2560a11a2233aee6d2ae158394961",
+      "title": "Bồ Đào Nha - Congo: Ronaldo cân bằng kỷ lục của Messi",
+      "link": "https://vnexpress.net/bo-dao-nha-vs-congo-5086992.html",
+      "summary": "Siêu sao Cristiano Ronaldo cân bằng kỷ lục thi đấu ở 6 kỳ World Cup do Lionel Messi vừa lập, nhờ được đá chính khi Bồ Đào Nha gặp CHDC Congo ở lượt đầu bảng K lúc 0h.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-17T16:00:00+07:00",
+      "fetched": "2026-06-17T23:50:24.760997+07:00"
+    },
+    {
+      "id": "385bb839c78c1cd02bca844b1e9e72b6",
+      "title": "Iran sẽ rước linh cữu cố lãnh tụ Ali Khamenei qua Iraq",
+      "link": "https://vnexpress.net/iran-se-ruoc-linh-cuu-co-lanh-tu-ali-khamenei-qua-iraq-5086997.html",
+      "summary": "Thị trưởng Tehran cho biết linh cữu cố lãnh tụ tối cao Ali Khamenei sẽ được rước qua Iraq trước lễ chôn cất tại Iran vào đầu tháng 7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T15:56:47+07:00",
+      "fetched": "2026-06-17T23:50:09.757658+07:00"
+    },
+    {
+      "id": "385bb839c78c1cd02bca844b1e9e72b6",
+      "title": "Iran sẽ rước linh cữu cố lãnh tụ Ali Khamenei qua Iraq",
+      "link": "https://vnexpress.net/iran-se-ruoc-linh-cuu-co-lanh-tu-ali-khamenei-qua-iraq-5086997.html",
+      "summary": "Thị trưởng Tehran cho biết linh cữu cố lãnh tụ tối cao Ali Khamenei sẽ được rước qua Iraq trước lễ chôn cất tại Iran vào đầu tháng 7.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-17T15:56:47+07:00",
+      "fetched": "2026-06-17T23:50:18.198901+07:00"
     },
     {
       "id": "6d67973f61bc9d2994f216a7929f1210",
@@ -303,6 +543,246 @@ window.newsData_2026_06_17 = {
       "fetched": "2026-06-17T15:53:14.808292+07:00"
     },
     {
+      "id": "e8329fabd2443eff2e21b73bbe76cdf9",
+      "title": "Thủ tướng đề nghị doanh nhân Việt tại Nga phát huy vai trò cầu nối kinh tế",
+      "link": "https://vnexpress.net/thu-tuong-de-nghi-doanh-nhan-viet-tai-nga-phat-huy-vai-tro-cau-noi-kinh-te-5086981.html",
+      "summary": "Thủ tướng Lê Minh Hưng gặp kiều bào tại Kazan, kêu gọi các doanh nhân trở thành cầu nối đưa hàng Việt vào thị trường Nga và Liên minh Kinh tế Á - Âu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T15:23:30+07:00",
+      "fetched": "2026-06-17T23:50:09.757818+07:00"
+    },
+    {
+      "id": "e8329fabd2443eff2e21b73bbe76cdf9",
+      "title": "Thủ tướng đề nghị doanh nhân Việt tại Nga phát huy vai trò cầu nối kinh tế",
+      "link": "https://vnexpress.net/thu-tuong-de-nghi-doanh-nhan-viet-tai-nga-phat-huy-vai-tro-cau-noi-kinh-te-5086981.html",
+      "summary": "Thủ tướng Lê Minh Hưng gặp kiều bào tại Kazan, kêu gọi các doanh nhân trở thành cầu nối đưa hàng Việt vào thị trường Nga và Liên minh Kinh tế Á - Âu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-17T15:23:30+07:00",
+      "fetched": "2026-06-17T23:50:18.199080+07:00"
+    },
+    {
+      "id": "1f4ebb2da1ca8d858c936e324f66a23d",
+      "title": "World Cup 2026, Ghana - Panama: Vắng Partey, ‘Những ngôi sao đen’ vẫn mở tiệc?",
+      "link": "https://thanhnien.vn/world-cup-2026-ghana-panama-vang-partey-nhung-ngoi-sao-den-van-mo-tiec-185260617200357011.htm",
+      "summary": "Ghana, đại diện châu Phi với biệt danh 'Những ngôi sao đen', sẽ vắng tiền vệ chủ chốt Thomas Partey vì lý do ngoài bóng đá. Liệu họ có 'mở tiệc' trước đối thủ Panama, ở trận đấu tại bảng L World Cup 2026 lúc 6 giờ ngày 18.6?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T15:18:00+07:00",
+      "fetched": "2026-06-17T23:50:13.428976+07:00"
+    },
+    {
+      "id": "ec18637d67817fb59e62e2ab903dc3b9",
+      "title": "World Cup 2026, Uzbekistan - Colombia: Giấc mộng 'châu chấu đá xe'",
+      "link": "https://thanhnien.vn/world-cup-2026-uzbekistan-colombia-giac-mong-chau-chau-da-xe-185260617190144217.htm",
+      "summary": "Cuộc đối đầu giữa Uzbekistan và Colombia lúc 9 giờ ngày 18.6 là trận đấu chênh lệch bậc nhất lượt mở màn World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T14:59:00+07:00",
+      "fetched": "2026-06-17T23:50:13.429127+07:00"
+    },
+    {
+      "id": "6f0c0403ffa76539e1da36990731e05b",
+      "title": "Chiếm đoạt quyền kiểm soát Iphone, cưỡng đoạt hàng chục tỉ đồng",
+      "link": "https://thanhnien.vn/chiem-doat-quyen-kiem-soat-iphone-cuong-doat-hang-chuc-ti-dong-185260617194017465.htm",
+      "summary": "16 đối tượng đã có hành vi lừa đảo, chiếm quyền kiểm soát điện thoại Iphone của nhiều người dân để cưỡng ép các nạn nhân bỏ tiền chuộc, qua đó chiếm đoạt hàng chục tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T14:39:00+07:00",
+      "fetched": "2026-06-17T23:50:13.429289+07:00"
+    },
+    {
+      "id": "764500d84440c14b16b423f6a4ade201",
+      "title": "Hải Châu vận hành hiệu quả chính quyền 2 cấp",
+      "link": "https://thanhnien.vn/hai-chau-van-hanh-hieu-qua-chinh-quyen-2-cap-185260617211141775.htm",
+      "summary": "Sau 1 năm thực hiện mô hình chính quyền địa phương 2 cấp, P.Hải Châu (TP.Đà Nẵng) đã nhanh chóng ổn định tổ chức bộ máy, đẩy mạnh cải cách hành chính, chuyển đổi số và nâng cao chất lượng phục vụ người dân, doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T14:33:00+07:00",
+      "fetched": "2026-06-17T23:50:13.429466+07:00"
+    },
+    {
+      "id": "f11f662928991c8a78674176fbf3acb0",
+      "title": "TP HCM đẩy nhanh tái cấu trúc các khu công nghiệp",
+      "link": "https://vnexpress.net/tp-hcm-day-nhanh-tai-cau-truc-cac-khu-cong-nghiep-5086842.html",
+      "summary": "TP HCM đang đẩy nhanh tái cấu trúc khu công nghiệp theo hướng thông minh, bền vững, chớp \"thời cơ hiếm có\" tham gia chuỗi giá trị toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T14:15:38+07:00",
+      "fetched": "2026-06-17T23:50:09.757980+07:00"
+    },
+    {
+      "id": "f11f662928991c8a78674176fbf3acb0",
+      "title": "TP HCM đẩy nhanh tái cấu trúc các khu công nghiệp",
+      "link": "https://vnexpress.net/tp-hcm-day-nhanh-tai-cau-truc-cac-khu-cong-nghiep-5086842.html",
+      "summary": "TP HCM đang đẩy nhanh tái cấu trúc khu công nghiệp theo hướng thông minh, bền vững, chớp \"thời cơ hiếm có\" tham gia chuỗi giá trị toàn cầu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-17T14:15:38+07:00",
+      "fetched": "2026-06-17T23:50:19.669100+07:00"
+    },
+    {
+      "id": "b0b5cc5a72941d1435e31d53f9a4607f",
+      "title": "Phía sau kỳ tích của thủ môn Vozinha: Lời tiên đoán của người mẹ từ quê nhà Cabo Verde",
+      "link": "https://thanhnien.vn/phia-sau-ky-tich-cua-thu-mon-vozinha-loi-tien-doan-cua-nguoi-me-tu-que-nha-cabo-verde-185260617211519083.htm",
+      "summary": "Thủ môn Vozinha trở thành người hùng khi giúp đội tuyển Cabo Verde cầm hòa đội tuyển Tây Ban Nha ở trận ra mắt World Cup. Thế nhưng, khoảnh khắc đáng nhớ nhất sự nghiệp của anh lại thiếu đi sự hiện diện của mẹ vì những trở ngại về thị thực và chi phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T14:15:00+07:00",
+      "fetched": "2026-06-17T23:50:13.429616+07:00"
+    },
+    {
+      "id": "61c90006c504e53df34c0065b9382eb7",
+      "title": "World Cup giữa đống đổ nát: Khi bóng đá trở thành niềm vui hiếm hoi ở Gaza",
+      "link": "https://thanhnien.vn/world-cup-giua-dong-do-nat-khi-bong-da-tro-thanh-niem-vui-hiem-hoi-o-gaza-185260617211328566.htm",
+      "summary": "Giữa những khu trú ẩn tạm thời và cuộc sống đầy bất ổn, nhiều người dân Gaza vẫn tìm cách theo dõi World Cup 2026. Với họ, bóng đá là một trong số ít niềm vui còn lại giữa những ngày tháng khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T14:13:00+07:00",
+      "fetched": "2026-06-17T23:50:13.429763+07:00"
+    },
+    {
+      "id": "945957218eb4041b8e5e2319d35d2317",
+      "title": "Nhận định Ghana vs Panama: Cân tài cân sức, buộc thắng để nuôi hy vọng",
+      "link": "https://thanhnien.vn/nhan-dinh-ghana-vs-panama-can-tai-can-suc-buoc-thang-de-nuoi-hy-vong-185260617210056025.htm",
+      "summary": "Cuộc đụng độ giữa Ghana vs Panama diễn ra lúc 6 giờ ngày 18.6. Rơi vào bảng đấu có 2 'ông lớn' châu Âu (Anh và Croatia), cả Ghana và Panama đều hiểu rằng họ buộc phải thắng trận mở màn bảng L để nuôi hy vọng đi tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T14:02:00+07:00",
+      "fetched": "2026-06-17T23:50:13.429912+07:00"
+    },
+    {
+      "id": "f6858781fb0b89e4b3e489da41cff8d5",
+      "title": "Anh mập mờ, không tiến tới với tôi vì sợ cảnh mẹ kế con chồng",
+      "link": "https://vnexpress.net/anh-map-mo-khong-tien-toi-voi-toi-vi-so-canh-me-ke-con-chong-5086888.html",
+      "summary": "Tôi vẫn tỉnh táo để nhận ra rằng mối quan hệ này sẽ chẳng đi đến đâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T14:00:00+07:00",
+      "fetched": "2026-06-17T23:50:09.758145+07:00"
+    },
+    {
+      "id": "9ef0ceadb10f786947fa93e93212120e",
+      "title": "Xe 7 chỗ giá dưới 800 triệu, chọn Mitsubishi Destinator hay Geely Okavango?",
+      "link": "https://thanhnien.vn/xe-7-cho-gia-duoi-800-trieu-chon-mitsubishi-destinator-hay-geely-okavango-185260616172130045.htm",
+      "summary": "Với hầu bao 800 triệu đồng, khách Việt có thể lựa chọn nhiều mẫu xe 7 chỗ gầm cao ở phân khúc hạng C và D, trong đó có hai mẫu xe đáng cân nhắc Mitsubishi Destinator và Geely Okavango.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T13:58:00+07:00",
+      "fetched": "2026-06-17T23:50:13.430057+07:00"
+    },
+    {
+      "id": "54ae6205621d9afd9016498d39ef6c7c",
+      "title": "BIDV có chủ tịch và tổng giám đốc mới",
+      "link": "https://vnexpress.net/bidv-co-chu-tich-va-tong-giam-doc-moi-5086967.html",
+      "summary": "Ông Lê Ngọc Lâm được bầu làm Chủ tịch BIDV, đồng thời nhà băng cũng bổ nhiệm thêm ba thành viên ban điều hành mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T13:52:53+07:00",
+      "fetched": "2026-06-17T23:50:09.758299+07:00"
+    },
+    {
+      "id": "54ae6205621d9afd9016498d39ef6c7c",
+      "title": "BIDV có chủ tịch và tổng giám đốc mới",
+      "link": "https://vnexpress.net/bidv-co-chu-tich-va-tong-giam-doc-moi-5086967.html",
+      "summary": "Ông Lê Ngọc Lâm được bầu làm Chủ tịch BIDV, đồng thời nhà băng cũng bổ nhiệm thêm ba thành viên ban điều hành mới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-17T13:52:53+07:00",
+      "fetched": "2026-06-17T23:50:19.669280+07:00"
+    },
+    {
+      "id": "26002b55b4b539a2a590066b8342daf4",
+      "title": "Đề xuất vị trí ga đường sắt tốc độ cao và metro tại sân bay Long Thành",
+      "link": "https://vnexpress.net/de-xuat-vi-tri-ga-duong-sat-toc-do-cao-va-metro-tai-san-bay-long-thanh-5086978.html",
+      "summary": "UBND TP Đồng Nai đề xuất phương án bố trí nhà ga đường sắt tốc độ cao Bắc Nam và hai ga metro độc lập, so le trước Terminal T1 của Cảng hàng không quốc tế Long Thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T13:48:00+07:00",
+      "fetched": "2026-06-17T23:50:09.758503+07:00"
+    },
+    {
+      "id": "4f0198ef50b0af574c50a375facbb5b5",
+      "title": "Trường đại học tham gia Liên minh thương hiệu Sài Gòn",
+      "link": "https://thanhnien.vn/truong-dai-hoc-tham-gia-lien-minh-thuong-hieu-sai-gon-185260617202359191.htm",
+      "summary": "Một trường đại học (ĐH) lần đầu tiên tham gia Liên minh thương hiệu Sài Gòn, hướng đến phát huy sức mạnh tổng hợp, nâng cao giá trị thương hiệu và đóng góp cho sự phát triển bền vững của TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T13:48:00+07:00",
+      "fetched": "2026-06-17T23:50:13.430203+07:00"
+    },
+    {
+      "id": "33b2660a31280284ae9d0110a0698351",
+      "title": "Sức hút của phim Hàn đề tài báo thù",
+      "link": "https://vnexpress.net/suc-hut-cua-phim-han-de-tai-bao-thu-5086703.html",
+      "summary": "Dòng phim báo thù Hàn Quốc như \"The Glory\", \"Teach You a Lesson\" chinh phục người xem nhờ mang đến cảm giác thỏa mãn khi công lý được thực thi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T13:43:26+07:00",
+      "fetched": "2026-06-17T23:50:09.758664+07:00"
+    },
+    {
+      "id": "2d071f7344f615437b0b89fe9b16c5cd",
+      "title": "Thứ trưởng Tài chính: Dùng ngân sách xây nhà ở cho thuê",
+      "link": "https://vnexpress.net/thu-truong-tai-chinh-dung-ngan-sach-xay-nha-o-cho-thue-5086975.html",
+      "summary": "Chính phủ sẽ đưa dự án nhà ở cho thuê vào kế hoạch đầu tư công, dùng ngân sách để xây nhằm hỗ trợ chỗ ở cho người lao động, theo Thứ trưởng Tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T13:43:13+07:00",
+      "fetched": "2026-06-17T23:50:09.758820+07:00"
+    },
+    {
+      "id": "815b6e9e839dd3f7cc9eab5f1b6a2a9b",
+      "title": "Thành phố Đồng Nai: Phát triển nhà ở xã hội là nhiệm vụ chính trị trọng tâm",
+      "link": "https://thanhnien.vn/thanh-pho-dong-nai-phat-trien-nha-o-xa-hoi-la-nhiem-vu-chinh-tri-trong-tam-185260617201433363.htm",
+      "summary": "Việc phát triển nhà ở xã hội là nhiệm vụ chính trị trọng tâm của thành phố Đồng Nai trong giai đoạn hiện nay, phải quyết tâm hoàn thành và phấn đấu vượt mức các chỉ tiêu được Chính phủ giao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T13:43:00+07:00",
+      "fetched": "2026-06-17T23:50:13.430378+07:00"
+    },
+    {
+      "id": "2e4e73c3f4605e0b66d8e07a68e0171e",
+      "title": "Ông Trump dọa tiếp tục ném bom nếu Iran không 'biết điều'",
+      "link": "https://vnexpress.net/ong-trump-doa-tiep-tuc-nem-bom-neu-iran-khong-biet-dieu-5086970.html",
+      "summary": "Tổng thống Trump tuyên bố sẵn sàng tái khởi động các cuộc không kích nếu Iran không \"biết điều\" sau khi hai nước đạt thỏa thuận sơ bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T13:42:59+07:00",
+      "fetched": "2026-06-17T23:50:09.758975+07:00"
+    },
+    {
+      "id": "2e4e73c3f4605e0b66d8e07a68e0171e",
+      "title": "Ông Trump dọa tiếp tục ném bom nếu Iran không 'biết điều'",
+      "link": "https://vnexpress.net/ong-trump-doa-tiep-tuc-nem-bom-neu-iran-khong-biet-dieu-5086970.html",
+      "summary": "Tổng thống Trump tuyên bố sẵn sàng tái khởi động các cuộc không kích nếu Iran không \"biết điều\" sau khi hai nước đạt thỏa thuận sơ bộ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-17T13:42:59+07:00",
+      "fetched": "2026-06-17T23:50:18.199246+07:00"
+    },
+    {
+      "id": "ca3b800347264b7c7795170e724dfe47",
+      "title": "Thủ tướng tham quan triển lãm công nghiệp tại Tatarstan",
+      "link": "https://vnexpress.net/thu-tuong-tham-quan-trien-lam-cong-nghiep-tai-tatarstan-5086974.html",
+      "summary": "Thủ tướng Lê Minh Hưng đã tham quan khu triển lãm rộng hơn 4.000 m2, nơi trưng bày xe tải KAMAZ, trực thăng Ansat cùng nhiều sản phẩm công nghiệp và công nghệ cao khác tại thành phố Kazan ngày 17/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T13:40:58+07:00",
+      "fetched": "2026-06-17T23:50:09.759134+07:00"
+    },
+    {
+      "id": "1770cbb284ba26c15a86c2ee0a87c698",
+      "title": "Trốn phố về rừng: Xu hướng nghỉ dưỡng xanh hút khách tại Khánh Hòa",
+      "link": "https://thanhnien.vn/tron-pho-ve-rung-xu-huong-nghi-duong-xanh-hut-khach-tai-khanh-hoa-185260616204757723.htm",
+      "summary": "Không còn những khối bê tông khô cứng hay tiếng còi xe xô bồ của đô thị, nhiều du khách khi đến Khánh Hòa đang có xu hướng tìm về các không gian lưu trú thuần tự nhiên để sạc lại năng lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T13:38:00+07:00",
+      "fetched": "2026-06-17T23:50:13.430530+07:00"
+    },
+    {
       "id": "195d7f0e5ceb323a58ab03e04d95c276",
       "title": "Ca sĩ Hòa Minzy và Hà Myo trúng cử Ban Chấp hành T.Ư Hội Liên hiệp Phụ nữ Việt Nam",
       "link": "https://thanhnien.vn/ca-si-hoa-minzy-va-ha-myo-trung-cu-ban-chap-hanh-tu-hoi-lien-hiep-phu-nu-viet-nam-185260617200121223.htm",
@@ -373,6 +853,26 @@ window.newsData_2026_06_17 = {
       "fetched": "2026-06-17T20:35:48.399202+07:00"
     },
     {
+      "id": "6f0568222e6dc923382faaf43d51a675",
+      "title": "Tân Tạo không bị phá sản",
+      "link": "https://vnexpress.net/tan-tao-khong-bi-pha-san-5086917.html",
+      "summary": "TAND TP HCM đưa ra phán quyết cuối cùng không mở thủ tục phá sản với Tân Tạo (ITA), do đánh giá doanh nghiệp \"có điều kiện để trả nợ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T13:15:00+07:00",
+      "fetched": "2026-06-17T23:50:09.759300+07:00"
+    },
+    {
+      "id": "6f0568222e6dc923382faaf43d51a675",
+      "title": "Tân Tạo không bị phá sản",
+      "link": "https://vnexpress.net/tan-tao-khong-bi-pha-san-5086917.html",
+      "summary": "TAND TP HCM đưa ra phán quyết cuối cùng không mở thủ tục phá sản với Tân Tạo (ITA), do đánh giá doanh nghiệp \"có điều kiện để trả nợ\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-17T13:15:00+07:00",
+      "fetched": "2026-06-17T23:50:19.669488+07:00"
+    },
+    {
       "id": "72c9c535aab5b586e78a15b5a9a97188",
       "title": "Phó tổng biên tập Báo Thanh Niên nhận Kỷ niệm chương Bảo vệ an ninh Tổ quốc",
       "link": "https://thanhnien.vn/pho-tong-bien-tap-bao-thanh-nien-nhan-ky-niem-chuong-bao-ve-an-ninh-to-quoc-18526061719402406.htm",
@@ -401,6 +901,16 @@ window.newsData_2026_06_17 = {
       "category": "Thể thao",
       "published": "2026-06-17T13:08:21+07:00",
       "fetched": "2026-06-17T20:35:58.395847+07:00"
+    },
+    {
+      "id": "226029770bc9bbcfd67df41529e2d5a4",
+      "title": "Chiêu lừa hơn 181 tỷ đồng từ gần 500 người 'mua hợp đồng sở hữu kỳ nghỉ'",
+      "link": "https://vnexpress.net/chieu-lua-hon-181-ty-dong-tu-gan-500-nguoi-mua-hop-dong-so-huu-ky-nghi-5086955.html",
+      "summary": "Bằng hai chiêu bán 'sở hữu kỳ nghỉ du lịch' và môi giới chuyển nhượng kỳ nghỉ, 187 bị can đã lừa gần 500 người nộp tiền, đặt cọc với hơn 181 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-17T13:07:43+07:00",
+      "fetched": "2026-06-17T23:50:09.759641+07:00"
     },
     {
       "id": "dc7c59bab12d7e16875b20156a6bc0e5",
