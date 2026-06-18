@@ -1,7 +1,157 @@
 window.newsData_2026_06_18 = {
   "date": "2026-06-18",
-  "lastUpdated": "2026-06-18T19:45:09.760211+07:00",
+  "lastUpdated": "2026-06-18T23:50:38.598678+07:00",
   "articles": [
+    {
+      "id": "2a38f387cee91844dd852e8d7174de48",
+      "title": "23 người nước ngoài lưu trú trái phép, nghi điều hành đường dây lừa đảo qua mạng",
+      "link": "https://tuoitre.vn/23-nguoi-nuoc-ngoai-luu-tru-trai-phep-nghi-dieu-hanh-duong-day-lua-dao-qua-mang-100260618204110246.htm",
+      "summary": "Nhóm 23 người nước ngoài lưu trú trái phép tại Bắc Ninh bị phát hiện sử dụng ứng dụng HelloGPT và hàng loạt tài khoản mạng xã hội để lừa đảo, chiếm đoạt tài sản qua mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:50:30.810426+07:00",
+      "fetched": "2026-06-18T23:50:30.810483+07:00"
+    },
+    {
+      "id": "52ba5008174ec02360c4faf491a6fcb3",
+      "title": "Canada cấm nhập cảnh với tiền đạo Bờ Biển Ngà bị nghi bán độ",
+      "link": "https://tuoitre.vn/canada-cam-nhap-canh-voi-tien-dao-bo-bien-nga-bi-nghi-ban-do-100260618203942224.htm",
+      "summary": "Sau khi thông tin về việc tiền đạo Bờ Biển Ngà - Elye Wahi bị điều tra về hành vi bán độ ở vòng đấu cuối Ligue 1 xuất hiện trên truyền thông, chân sút 23 tuổi bất ngờ bị Canada từ chối cấp visa nhập cảnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:50:30.810358+07:00",
+      "fetched": "2026-06-18T23:50:30.810416+07:00"
+    },
+    {
+      "id": "428756d6a2f64e5714cce99f979be3c3",
+      "title": "VEC hợp tác chiến lược với các đối tác hàng đầu, thúc đẩy chuỗi sự kiện triển lãm quốc tế tại Việt Nam",
+      "link": "https://tuoitre.vn/vec-hop-tac-chien-luoc-voi-cac-doi-tac-hang-dau-thuc-day-chuoi-su-kien-trien-lam-quoc-te-tai-viet-nam-100260618212634086.htm",
+      "summary": "Ngày 18-6, Trung tâm Triển lãm Việt Nam (VEC) ký kết biên bản ghi nhớ hợp tác chiến lược với các đối tác hàng đầu trong lĩnh vực triển lãm, sự kiện và xúc tiến thương mại gồm Informa Markets, NC Network, Exporum, Vinexad, Chaoyu Expo và Hiệp hội Hội chợ Triển lãm Việt Nam (VECA), mở ra cơ hội phát t...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:50:30.810294+07:00",
+      "fetched": "2026-06-18T23:50:30.810348+07:00"
+    },
+    {
+      "id": "1bd2f3fba48620195defad30f30a0f3e",
+      "title": "Đến Bến Ninh Kiều ăn tiệc buffet trái cây và bánh dân gian miễn phí",
+      "link": "https://tuoitre.vn/den-ben-ninh-kieu-an-tiec-buffet-trai-cay-va-banh-dan-gian-mien-phi-100260618204335683.htm",
+      "summary": "Trong khuôn khổ Tuần lễ văn hóa - du lịch thành phố Cần Thơ năm 2026, địa phương đã tổ chức buffet trái cây và bánh dân gian miễn phí cho du khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:50:30.810226+07:00",
+      "fetched": "2026-06-18T23:50:30.810284+07:00"
+    },
+    {
+      "id": "d3ece6a396cded1f361b955311a7f3ff",
+      "title": "Cách tra cứu điểm thi lớp 10 TP.HCM năm 2026",
+      "link": "https://tuoitre.vn/cach-tra-cuu-diem-thi-lop-10-tphcm-nam-2026-10026061817072121.htm",
+      "summary": "Theo lịch dự kiến của Sở GD-ĐT TP.HCM, 9h sáng mai 19-6 sở sẽ công bố điểm thi lớp 10 năm học 2026-2027. Thí sinh, phụ huynh có thể xem điểm thi theo hai cách dưới đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:50:30.810159+07:00",
+      "fetched": "2026-06-18T23:50:30.810216+07:00"
+    },
+    {
+      "id": "5076957fd770290392f780f5b8172b4d",
+      "title": "Israel tuyên bố cắt liên lạc với lãnh đạo đối ngoại EU",
+      "link": "https://tuoitre.vn/israel-tuyen-bo-cat-lien-lac-voi-lanh-dao-doi-ngoai-eu-100260618212055623.htm",
+      "summary": "Ngoại trưởng Israel Gideon Saar tuyên bố cắt đứt mọi liên lạc với Đại diện cấp cao phụ trách chính sách đối ngoại và an ninh của Liên minh châu Âu (EU) Kaja Kallas.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:50:30.810086+07:00",
+      "fetched": "2026-06-18T23:50:30.810149+07:00"
+    },
+    {
+      "id": "ed4dc2dfbaf38c7dabd6bebc1a5e9b94",
+      "title": "ACV lên tiếng vụ loạt lãnh đạo bị bắt: Vi phạm rất tinh vi, vượt khả năng kiểm soát của HĐQT",
+      "link": "https://tuoitre.vn/acv-len-tieng-vu-loat-lanh-dao-bi-bat-vi-pham-rat-tinh-vi-vuot-kha-nang-kiem-soat-cua-hdqt-100260618210616853.htm",
+      "summary": "Theo ACV, vụ việc vi phạm xảy ra ở doanh nghiệp vừa qua được các cơ quan chức năng đánh giá là rất nghiêm trọng, các cá nhân vi phạm là cán bộ lãnh đạo chủ chốt của tổng công ty, hành vi vi phạm rất tinh vi, vượt qua khả năng kiểm soát của HĐQT và nhiều cơ quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:50:30.810025+07:00",
+      "fetched": "2026-06-18T23:50:30.810076+07:00"
+    },
+    {
+      "id": "f9dcd3dfc3be0ccd155d3bf1608e3d91",
+      "title": "ASEAN và Nga đẩy mạnh hợp tác LNG, điện hạt nhân, năng lượng tái tạo",
+      "link": "https://tuoitre.vn/asean-va-nga-day-manh-hop-tac-lng-dien-hat-nhan-nang-luong-tai-tao-100260618211313757.htm",
+      "summary": "Ngoài năng lượng, các nhà lãnh đạo ASEAN và Nga còn thảo luận về các biện pháp thúc đẩy thương mại, logistics và chuỗi cung ứng giữa hai bên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:50:30.809955+07:00",
+      "fetched": "2026-06-18T23:50:30.810015+07:00"
+    },
+    {
+      "id": "300f51e8ae2dcdad56fd27df801f2bc7",
+      "title": "Người hùng tuyển CHDC Congo từng bị bố cấm chơi bóng",
+      "link": "https://tuoitre.vn/nguoi-hung-tuyen-chdc-congo-tung-bi-bo-cam-choi-bong-100260618211924447.htm",
+      "summary": "Trước khi trở thành người hùng ghi bàn vào lưới tuyển Bồ Đào Nha tại World Cup 2026, ít ai biết rằng tiền đạo tuyển CHDC Congo - Yoane Wissa từng khởi đầu ở vị trí thủ môn, và thậm chí bị bố cấm chơi bóng vì học kém.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:50:30.809879+07:00",
+      "fetched": "2026-06-18T23:50:30.809943+07:00"
+    },
+    {
+      "id": "426e3638b5d6cd3bc84fee7baa76c21a",
+      "title": "Thái Lan khôi phục siêu dự án 30 tỉ USD nhằm cạnh tranh với eo biển Malacca",
+      "link": "https://tuoitre.vn/thai-lan-khoi-phuc-sieu-du-an-30-ti-usd-nham-canh-tranh-voi-eo-bien-malacca-10026061821340362.htm",
+      "summary": "Thái Lan khôi phục kế hoạch xây dựng hành lang logistics nối hai bờ bán đảo, kỳ vọng tạo tuyến vận tải thay thế Malacca, rút ngắn thời gian và chi phí vận chuyển khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:50:30.809812+07:00",
+      "fetched": "2026-06-18T23:50:30.809869+07:00"
+    },
+    {
+      "id": "6b28e48d8223764bcec3b285517c9535",
+      "title": "Iran ca ngợi thỏa thuận với Mỹ, coi đây là thông điệp sức mạnh của Tehran",
+      "link": "https://tuoitre.vn/iran-ca-ngoi-thoa-thuan-voi-my-coi-day-la-thong-diep-suc-manh-cua-tehran-100260618220814639.htm",
+      "summary": "Tổng thống Iran ca ngợi thỏa thuận của nước này với Mỹ như một \"văn kiện lịch sử\" và là \"thông điệp từ một Iran mạnh mẽ\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:50:30.809745+07:00",
+      "fetched": "2026-06-18T23:50:30.809802+07:00"
+    },
+    {
+      "id": "e30c66a598532ae85e86de413da2c856",
+      "title": "Chật kín du khách trải nghiệm ẩm thực đêm khai mạc lễ hội sen",
+      "link": "https://tuoitre.vn/chat-kin-du-khach-trai-nghiem-am-thuc-dem-khai-mac-le-hoi-sen-100260618220305573.htm",
+      "summary": "Tối 18-6, tại quảng trường Văn Miếu, phường Cao Lãnh, tỉnh Đồng Tháp đã khai mạc Lễ hội sen Đồng Tháp lần thứ 3 năm 2026 với chủ đề \"Về nghe sen kể chuyện\", thu hút hàng ngàn người dân và du khách về tham quan, trải nghiệm ẩm thực sen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:50:30.809677+07:00",
+      "fetched": "2026-06-18T23:50:30.809735+07:00"
+    },
+    {
+      "id": "fc2bb3dea394eb66aa9a335e32c69222",
+      "title": "Tổng thống Nga Putin: Việt Nam là người bạn keo sơn của Nga",
+      "link": "https://tuoitre.vn/tong-thong-nga-putin-viet-nam-la-nguoi-ban-keo-son-cua-nga-100260618215957564.htm",
+      "summary": "Tổng thống Nga Vladimir Putin nhấn mạnh tình hữu nghị Nga - Việt và cùng Thủ tướng Lê Minh Hưng thảo luận về các biện pháp tạo đột phá cho quan hệ song phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:50:30.809603+07:00",
+      "fetched": "2026-06-18T23:50:30.809666+07:00"
+    },
+    {
+      "id": "df33f213805efeac9017291c18901dbd",
+      "title": "Một phụ nữ thuê taxi vận chuyển 84 hộp pháo lậu để lấy tiền công",
+      "link": "https://tuoitre.vn/mot-phu-nu-thue-taxi-van-chuyen-84-hop-phao-lau-de-lay-tien-cong-100260618222926725.htm",
+      "summary": "Công an tỉnh Quảng Trị vừa bắt giữ một phụ nữ thuê taxi vận chuyển số lượng lớn pháo hoa nổ trái phép từ khu vực biên giới vào nội địa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:50:30.809498+07:00",
+      "fetched": "2026-06-18T23:50:30.809589+07:00"
+    },
+    {
+      "id": "d540c5766e78120dc9a62ad269ea0e55",
+      "title": "Chủ tịch một công ty trên sàn nhận thù lao 5 triệu đồng/tháng, vừa xin từ chức vì 'bận'",
+      "link": "https://tuoitre.vn/chu-tich-mot-cong-ty-tren-san-nhan-thu-lao-5-trieu-dong-thang-vua-xin-tu-chuc-vi-ban-10026061822154993.htm",
+      "summary": "Trong đơn từ nhiệm, ông Nguyễn Hữu Phú - Chủ tịch GKM Holdings (doanh nghiệp sản xuất gạch nung) mong muốn được từ nhiệm do không thể sắp xếp thời gian cá nhân để đảm nhận công việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:50:30.809376+07:00",
+      "fetched": "2026-06-18T23:50:30.809484+07:00"
+    },
     {
       "id": "45dc7414790df262f74b2c13bcafcd30",
       "title": "Doanh nghiệp kêu thủ tục môi trường phức tạp, Bộ Nông nghiệp và Môi trường nói gì?",
@@ -151,6 +301,46 @@ window.newsData_2026_06_18 = {
       "category": "Tổng hợp",
       "published": "2026-06-18T19:45:02.361472+07:00",
       "fetched": "2026-06-18T19:45:02.361637+07:00"
+    },
+    {
+      "id": "83d2c8bc3705bc484c79d70ec80518a3",
+      "title": "Thủ tướng Lê Minh Hưng hội kiến Tổng thống Nga Vladimir Putin",
+      "link": "https://thanhnien.vn/thu-tuong-le-minh-hung-hoi-kien-tong-thong-nga-vladimir-putin-185260618221534549.htm",
+      "summary": "Ngày 18.6, Thủ tướng Lê Minh Hưng đã hội kiến Tổng thống Nga Vladimir Putin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T16:30:00+07:00",
+      "fetched": "2026-06-18T23:50:28.218721+07:00"
+    },
+    {
+      "id": "4f286c22dae251119f8fcaf88a0207bb",
+      "title": "Việt - Nga nhất trí thúc đẩy đàm phán xây dựng nhà máy điện hạt nhân",
+      "link": "https://vnexpress.net/viet-nga-nhat-tri-thuc-day-dam-phan-xay-dung-nha-may-dien-hat-nhan-5087434.html",
+      "summary": "Thủ tướng Lê Minh Hưng và Tổng thống Vladimir Putin nhất trí thúc đẩy đàm phán, sớm triển khai xây dựng nhà máy điện hạt nhân Ninh Thuận 1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T16:21:30+07:00",
+      "fetched": "2026-06-18T23:50:24.821900+07:00"
+    },
+    {
+      "id": "4f286c22dae251119f8fcaf88a0207bb",
+      "title": "Việt - Nga nhất trí thúc đẩy đàm phán xây dựng nhà máy điện hạt nhân",
+      "link": "https://vnexpress.net/viet-nga-nhat-tri-thuc-day-dam-phan-xay-dung-nha-may-dien-hat-nhan-5087434.html",
+      "summary": "Thủ tướng Lê Minh Hưng và Tổng thống Vladimir Putin nhất trí thúc đẩy đàm phán, sớm triển khai xây dựng nhà máy điện hạt nhân Ninh Thuận 1.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-18T16:21:30+07:00",
+      "fetched": "2026-06-18T23:50:32.144892+07:00"
+    },
+    {
+      "id": "bf2be3c94028e4fa0bc92999a25d8d88",
+      "title": "Chiến dịch quảng cáo của Brooklyn Beckham bị nói 'thảm họa'",
+      "link": "https://vnexpress.net/chien-dich-quang-cao-cua-brooklyn-beckham-bi-noi-tham-hoa-5087117.html",
+      "summary": "Brooklyn Beckham khiến nhiều người nghĩ anh ám chỉ mâu thuẫn gia đình trong quảng cáo mới, còn giới truyền thông cho rằng đây là chiến dịch thảm họa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T15:51:03+07:00",
+      "fetched": "2026-06-18T23:50:24.822077+07:00"
     },
     {
       "id": "41c5cc13a3bd057289a4b8472596b27c",
@@ -303,6 +493,286 @@ window.newsData_2026_06_18 = {
       "fetched": "2026-06-18T15:30:07.362708+07:00"
     },
     {
+      "id": "6a0faa7c7dafa2e23c6a92a0747439dc",
+      "title": "Ung thư đại trực tràng: Ai nên tầm soát trước tuổi 45?",
+      "link": "https://thanhnien.vn/ung-thu-dai-truc-trang-ai-nen-tam-soat-truoc-tuoi-45-185260618221130141.htm",
+      "summary": "Hiện nay, các hướng dẫn khuyến cáo nên bắt đầu tầm soát ung thư đại trực tràng từ 45 tuổi. Tuy nhiên, các chuyên gia cho rằng một số người có nguy cơ cao cần được tầm soát sớm hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T15:11:00+07:00",
+      "fetched": "2026-06-18T23:50:28.218888+07:00"
+    },
+    {
+      "id": "832a91031a24163680f6cce36b073dda",
+      "title": "Việt Nam ủng hộ tăng cường vai trò phụ nữ trong xây dựng hòa bình bền vững",
+      "link": "https://vnexpress.net/viet-nam-ung-ho-tang-cuong-vai-tro-phu-nu-trong-xay-dung-hoa-binh-ben-vung-5087422.html",
+      "summary": "Việt Nam kêu gọi quốc tế thúc đẩy sự tham gia đầy đủ, bình đẳng của phụ nữ trong tiến trình hòa bình tại phiên thảo luận mở của Hội đồng Bảo an.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T15:06:51+07:00",
+      "fetched": "2026-06-18T23:50:24.822243+07:00"
+    },
+    {
+      "id": "832a91031a24163680f6cce36b073dda",
+      "title": "Việt Nam ủng hộ tăng cường vai trò phụ nữ trong xây dựng hòa bình bền vững",
+      "link": "https://vnexpress.net/viet-nam-ung-ho-tang-cuong-vai-tro-phu-nu-trong-xay-dung-hoa-binh-ben-vung-5087422.html",
+      "summary": "Việt Nam kêu gọi quốc tế thúc đẩy sự tham gia đầy đủ, bình đẳng của phụ nữ trong tiến trình hòa bình tại phiên thảo luận mở của Hội đồng Bảo an.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-18T15:06:51+07:00",
+      "fetched": "2026-06-18T23:50:32.145062+07:00"
+    },
+    {
+      "id": "70074be9c40f20bd5631c38826715435",
+      "title": "Facebook lại gặp sự cố, hàng nghìn người 'mất kết nối'",
+      "link": "https://thanhnien.vn/facebook-lai-gap-su-co-hang-nghin-nguoi-mat-ket-noi-185260618215127549.htm",
+      "summary": "Facebook bất ngờ gặp sự cố diện rộng khiến nhiều người dùng không thể đăng nhập, tải bảng tin hoặc sử dụng các tính năng quen thuộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T15:02:00+07:00",
+      "fetched": "2026-06-18T23:50:28.219041+07:00"
+    },
+    {
+      "id": "f0ff31fc70fe125598189c1ea22f4923",
+      "title": "Kết quả xổ số Vietlott Power 6/55 tối 18.6, giải độc đắc tăng 52,6 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-power-6-55-toi-186-giai-doc-dac-tang-526-ti-dong-185260618184208858.htm",
+      "summary": "Tối 18.6, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, không tìm thấy người trúng giải độc đắc nên số tiền cộng dồn tăng 52,6 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T14:58:00+07:00",
+      "fetched": "2026-06-18T23:50:28.219191+07:00"
+    },
+    {
+      "id": "ce7b81d6294b8f9895dab7eb09d1b944",
+      "title": "Dùng túi trùm đầu nữ quản lý sòng bạc, cướp túi xách",
+      "link": "https://vnexpress.net/dung-tui-trum-dau-nu-quan-ly-song-bac-cuop-tui-xach-5087424.html",
+      "summary": "Wang Tiejun, 48 tuổi, quốc tịch Trung Quốc, bị bắt với cáo buộc dùng túi trùm đầu một nữ đồng hương tại khách sạn thuộc phường Ngũ Hành Sơn để cướp túi xách chứa tài sản giá trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T14:57:14+07:00",
+      "fetched": "2026-06-18T23:50:24.822404+07:00"
+    },
+    {
+      "id": "fdddb15480f5c0492bd1403156757197",
+      "title": "Phát huy nguồn lực phụ nữ để nâng cao năng lực cạnh tranh quốc gia",
+      "link": "https://thanhnien.vn/phat-huy-nguon-luc-phu-nu-de-nang-cao-nang-luc-canh-tranh-quoc-gia-185260618210935671.htm",
+      "summary": "Tại Đại hội đại biểu Phụ nữ toàn quốc lần thứ XIV, nhiều nữ doanh nhân cho rằng việc phát huy nguồn lực phụ nữ không chỉ là yêu cầu về bình đẳng giới mà còn là động lực quan trọng để thực hiện mục tiêu tăng trưởng kinh tế 2 con số, nâng cao năng lực cạnh tranh quốc gia và phát triển bền vững trong k...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T14:56:00+07:00",
+      "fetched": "2026-06-18T23:50:28.219341+07:00"
+    },
+    {
+      "id": "960deaf51edc763f2de253875d6f4278",
+      "title": "World Cup 2026, Canada - Qatar: Chủ nhà bứt phá ở bảng B",
+      "link": "https://thanhnien.vn/world-cup-2026-canada-qatar-chu-nha-but-pha-o-bang-b-185260618212001395.htm",
+      "summary": "Cục diện bảng B đang ở thế cân bằng sau loạt trận mở màn. Điều này có thể bị phá vỡ sau lượt trận thứ hai. Trong đó, đồng chủ nhà Canada được kỳ vọng sẽ bứt phá khi chạm trán Qatar lúc 5 giờ hôm nay, 19.6.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T14:46:00+07:00",
+      "fetched": "2026-06-18T23:50:28.219493+07:00"
+    },
+    {
+      "id": "ea3b57a18c4d2aa5d8237f21af4eef5c",
+      "title": "One UI 8.5 gây sự cố màn hình một số điện thoại Galaxy?",
+      "link": "https://thanhnien.vn/one-ui-85-gay-su-co-man-hinh-mot-so-dien-thoai-galaxy-185260618211639513.htm",
+      "summary": "Bản cập nhật One UI 8.5 đã được Samsung triển khai cho tất cả thiết bị đủ điều kiện, nhưng không phải mọi thứ đều diễn ra suôn sẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T14:45:00+07:00",
+      "fetched": "2026-06-18T23:50:28.219667+07:00"
+    },
+    {
+      "id": "9c0965beb0625e3cf9d8e94bc55fef0a",
+      "title": "Nhận định Mexico vs Hàn Quốc, World Cup 2026: 'Hổ châu Á' đủ sức tạo bất ngờ",
+      "link": "https://thanhnien.vn/nhan-dinh-mexico-vs-han-quoc-world-cup-2026-ho-chau-a-du-suc-tao-bat-ngo-185260618210119606.htm",
+      "summary": "Trận đấu Mexico vs Hàn Quốc diễn ra lúc 8 giờ ngày 19.6. Chủ nhà được đánh giá cao hơn cho cơ hội giành chiến thắng, nhưng 'hổ châu Á' được kỳ vọng sẽ tiếp tục gây ấn tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T14:40:00+07:00",
+      "fetched": "2026-06-18T23:50:28.219816+07:00"
+    },
+    {
+      "id": "5765ffda5c0c3241304a33494a9af7a9",
+      "title": "Bắt hơn 900 kg chân gà hôi thối, xúc xích không rõ nguồn gốc",
+      "link": "https://thanhnien.vn/bat-hon-900-kg-chan-ga-hoi-thoi-xuc-xich-khong-ro-nguon-goc-185260618205140864.htm",
+      "summary": "Lực lượng hải quan cửa khẩu phát hiện, bắt giữ 910 kg thực phẩm nhập lậu (chân gà đông lạnh; xúc xích, lạp xưởng đông lạnh…), không rõ nguồn gốc tại biên giới phía bắc trong nửa đầu tháng 6.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T14:39:00+07:00",
+      "fetched": "2026-06-18T23:50:28.219965+07:00"
+    },
+    {
+      "id": "a2b51e637636cb96a482248c2423cb9f",
+      "title": "Ông Trump chê những người ‘ghen tỵ, ngu ngốc’ chỉ trích thỏa thuận với Iran",
+      "link": "https://thanhnien.vn/ong-trump-che-nhung-nguoi-ghen-ty-ngu-ngoc-chi-trich-thoa-thuan-voi-iran-185260618193109288.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã đáp trả gay gắt những bên chỉ trích ông về thỏa thuận chấm dứt xung đột với Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T14:31:00+07:00",
+      "fetched": "2026-06-18T23:50:28.220109+07:00"
+    },
+    {
+      "id": "b68ae61a1daa6cdf23937b0eb23d5165",
+      "title": "Thái tử phi Na Uy ghép phổi thành công",
+      "link": "https://vnexpress.net/thai-tu-phi-na-uy-ghep-phoi-thanh-cong-5087412.html",
+      "summary": "Hoàng gia Na Uy thông báo Thái tử phi Mette-Marit phẫu thuật ghép phổi thành công và hiện trong quá trình hồi phục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T14:30:25+07:00",
+      "fetched": "2026-06-18T23:50:24.822589+07:00"
+    },
+    {
+      "id": "8c440d40254572eb21634b55c734c812",
+      "title": "World Cup 2026, đội tuyển Mexico - Hàn Quốc: Quyết đấu vì ngôi đầu",
+      "link": "https://thanhnien.vn/world-cup-2026-doi-tuyen-mexico-han-quoc-quyet-dau-vi-ngoi-dau-185260618191617681.htm",
+      "summary": "Chủ nhà Mexico và đội tuyển Hàn Quốc quyết đấu tranh ngôi đầu bảng A ở lượt trận thứ hai World Cup 2026 diễn ra lúc 8 giờ ngày 19.6 trên sân Akron, trận đấu được trực tiếp trên các kênh sóng VTV3, VTV6...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T14:24:00+07:00",
+      "fetched": "2026-06-18T23:50:28.220261+07:00"
+    },
+    {
+      "id": "ec25279154f34f10f9263fd7fe11ecfa",
+      "title": "Pin mặt trời Trung Quốc đạt hiệu suất vượt xa công nghệ hiện nay",
+      "link": "https://thanhnien.vn/pin-mat-troi-trung-quoc-dat-hieu-suat-vuot-xa-cong-nghe-hien-nay-185260528215054607.htm",
+      "summary": "Pin mặt trời perovskite/silicon mới đạt hiệu suất khoảng 33%, tiến gần hơn tới khả năng ứng dụng thương mại thực tế trên toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T14:20:00+07:00",
+      "fetched": "2026-06-18T23:50:28.220404+07:00"
+    },
+    {
+      "id": "c593dffa57855dabb658f8de67996a73",
+      "title": "Cùng em đi ngắm hoa sen trong mùa hạ này anh nhé",
+      "link": "https://vnexpress.net/cung-em-di-ngam-hoa-sen-trong-mua-ha-nay-anh-nhe-5087296.html",
+      "summary": "Ở độ tuổi 38, em không còn muốn ngắm sen một mình nữa, em muốn được cùng tri kỷ trò chuyện, thưởng trà, ngắm sen.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T14:10:46+07:00",
+      "fetched": "2026-06-18T23:50:24.822767+07:00"
+    },
+    {
+      "id": "043f36cf2915317bfe502978877e870f",
+      "title": "Mong anh điềm đạm, chung thủy",
+      "link": "https://vnexpress.net/mong-anh-diem-dam-chung-thuy-5087297.html",
+      "summary": "Em là cô gái 22 tuổi, làm nhân viên văn phòng, có ý chí và hết mình với công việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T14:10:29+07:00",
+      "fetched": "2026-06-18T23:50:24.822928+07:00"
+    },
+    {
+      "id": "57b250edd97bdd25deecedabe4bff417",
+      "title": "Tìm người đàn ông thích cơm nhà và trà đá Hà Nội",
+      "link": "https://vnexpress.net/tim-nguoi-dan-ong-thich-com-nha-va-tra-da-ha-noi-5087275.html",
+      "summary": "Em sinh năm 1984, xuất thân từ vùng ngoại ô, sống và cống hiến nốt thanh xuân tại Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T14:09:40+07:00",
+      "fetched": "2026-06-18T23:50:24.823080+07:00"
+    },
+    {
+      "id": "c523fb8b3a91d727967331540a699e16",
+      "title": "Ninh Bình xóa tên biển Quất Lâm",
+      "link": "https://vnexpress.net/ninh-binh-xoa-ten-bien-quat-lam-5087384.html",
+      "summary": "Tỉnh Ninh Bình đổi tên khu du lịch Quất Lâm thành Giao Ninh nhằm tái định vị thương hiệu, hướng tới phát triển du lịch biển bền vững gắn với văn hóa, làng nghề và cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T14:08:46+07:00",
+      "fetched": "2026-06-18T23:50:24.823231+07:00"
+    },
+    {
+      "id": "1e3fe3ef925292d32141d3ff864b0eb9",
+      "title": "Khánh Hòa: Báo Thanh Niên đã luôn sát cánh cùng địa phương trên chặng đường xây dựng và phát triển",
+      "link": "https://thanhnien.vn/khanh-hoa-bao-thanh-nien-da-luon-sat-canh-cung-dia-phuong-tren-chang-duong-xay-dung-va-phat-trien-185260618200159222.htm",
+      "summary": "Nhân kỷ niệm 101 năm Ngày Báo chí cách mạng Việt Nam (21.6.1925 - 21.6.2026), Phó bí thư Tỉnh ủy Khánh Hòa đã đến thăm, chúc mừng tập thể cán bộ, phóng viên Văn phòng đại diện Báo Thanh Niên khu vực Nam Trung bộ tại Khánh Hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T14:05:00+07:00",
+      "fetched": "2026-06-18T23:50:28.220572+07:00"
+    },
+    {
+      "id": "59b5a61deb028b2031b4a8f4ff9ff0d4",
+      "title": "Bất ngờ với phong cách của con gái 'nữ hoàng wushu' Thúy Hiền",
+      "link": "https://thanhnien.vn/bat-ngo-voi-phong-cach-cua-con-gai-nu-hoang-wushu-thuy-hien-185260618203812918.htm",
+      "summary": "Trong E.P (album ngắn) đầu tay, ca sĩ LEXXY - con gái của 'nữ hoàng wushu' Thúy Hiền và nhạc sĩ Tú Dưa không chỉ gây ấn tượng bởi chất nhạc bắt tai mà còn nhờ phong cách thời trang táo bạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T14:00:00+07:00",
+      "fetched": "2026-06-18T23:50:28.220732+07:00"
+    },
+    {
+      "id": "ecb0990fbb398ee339aa6967d6f8a225",
+      "title": "Đinh Tuấn Vũ nói lý do chọn Tiểu Vy, trải lòng về doanh thu 'Ốc mượn hồn'",
+      "link": "https://thanhnien.vn/dinh-tuan-vu-noi-ly-do-chon-tieu-vy-trai-long-ve-doanh-thu-oc-muon-hon-185260618200618609.htm",
+      "summary": "Trở lại điện ảnh sau 6 năm, Đinh Tuấn Vũ có những trải lòng về sự thay đổi của thị trường, đồng thời chia sẻ về doanh thu của 'Ốc mượn hồn' sau khi ra rạp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T13:55:00+07:00",
+      "fetched": "2026-06-18T23:50:28.220886+07:00"
+    },
+    {
+      "id": "97defa29db530f26bc50c3576426803c",
+      "title": "Truy nã đặc biệt nghi phạm bắn chết người trong rừng",
+      "link": "https://vnexpress.net/truy-na-dac-biet-nghi-pham-ban-chet-nguoi-trong-rung-5087413.html",
+      "summary": "Dương Quý Hồng, 56 tuổi, bị Công an tỉnh truy nã sau khi dùng súng bắn bạn nhậu tử vong trong chòi rẫy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T13:45:40+07:00",
+      "fetched": "2026-06-18T23:50:24.823386+07:00"
+    },
+    {
+      "id": "d773532e5e69b2378844f04c85a3e752",
+      "title": "Trình diễn khinh khí cầu, diễu hành áo dài tại lễ hội Sen Đồng Tháp",
+      "link": "https://vnexpress.net/trinh-dien-khinh-khi-cau-dieu-hanh-ao-dai-tai-le-hoi-sen-dong-thap-5087400.html",
+      "summary": "Du khách được xem trình diễn khinh khí cầu, diễu hành áo dài, thưởng thức ẩm thực và khám phá các sản phẩm từ sen tại lễ hội kéo dài đến ngày 21/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T13:38:31+07:00",
+      "fetched": "2026-06-18T23:50:24.823535+07:00"
+    },
+    {
+      "id": "1d2f3de450548e16aced8dd2aa1d2b7e",
+      "title": "Việt Nam lần đầu xuất trứng ăn liền sang Nhật",
+      "link": "https://vnexpress.net/viet-nam-lan-dau-xuat-trung-an-lien-sang-nhat-5087348.html",
+      "summary": "VFood vừa xuất khẩu container trứng ăn liền sang Nhật Bản, lần đầu đưa sản phẩm vào thị trường có tiêu chuẩn an toàn thực phẩm thuộc nhóm khắt khe nhất thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T13:20:39+07:00",
+      "fetched": "2026-06-18T23:50:24.823720+07:00"
+    },
+    {
+      "id": "93dbadfd1e44e05388b8312a98014748",
+      "title": "Nhiều học sinh nữ thiếu vận động thể lực",
+      "link": "https://vnexpress.net/nhieu-hoc-sinh-nu-thieu-van-dong-the-luc-5087409.html",
+      "summary": "Nhiều học sinh nữ chưa đạt mức vận động tối thiểu một giờ mỗi ngày theo khuyến nghị của WHO, nữ cũng ít chơi thể thao hơn nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T13:20:00+07:00",
+      "fetched": "2026-06-18T23:50:24.823881+07:00"
+    },
+    {
+      "id": "16718786ec351172974e360f5ab16da8",
+      "title": "Nước châu Á nào sản xuất nhiều sữa nhất thế giới?",
+      "link": "https://vnexpress.net/nuoc-chau-a-nao-san-xuat-nhieu-sua-nhat-the-gioi-5087380.html",
+      "summary": "Sản lượng sữa do nước này sản xuất mỗi năm đạt 245 triệu tấn, gấp hơn hai lần Mỹ. Bạn có biết đó là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T13:02:00+07:00",
+      "fetched": "2026-06-18T23:50:24.824030+07:00"
+    },
+    {
+      "id": "5aa13e86ad4be05100b4a4d75c2b86a3",
+      "title": "Cục máu đông gây đột quỵ thường hình thành ở đâu?",
+      "link": "https://vnexpress.net/cuc-mau-dong-gay-dot-quy-thuong-hinh-thanh-o-dau-5086739.html",
+      "summary": "Nhiều người cho rằng cục máu đông gây đột quỵ hình thành trong não, nhưng thực tế huyết khối có thể từ tim hoặc mạch máu lớn di chuyển lên não gây tắc mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T13:02:00+07:00",
+      "fetched": "2026-06-18T23:50:24.824183+07:00"
+    },
+    {
       "id": "011857dbc7cbcd95bb208a37d11c9a57",
       "title": "Việt Nam coi trọng quan hệ Đối tác chiến lược với Đức",
       "link": "https://thanhnien.vn/viet-nam-coi-trong-quan-he-doi-tac-chien-luoc-voi-duc-185260618192323498.htm",
@@ -341,6 +811,16 @@ window.newsData_2026_06_18 = {
       "category": "Tổng hợp",
       "published": "2026-06-18T12:38:00+07:00",
       "fetched": "2026-06-18T19:45:01.080355+07:00"
+    },
+    {
+      "id": "0c92ee1c3505c99bbefce34bf0fde9d2",
+      "title": "Thủ tướng nêu 3 định hướng thúc đẩy quan hệ ASEAN - Nga",
+      "link": "https://vnexpress.net/thu-tuong-neu-3-dinh-huong-thuc-day-quan-he-asean-nga-5087387.html",
+      "summary": "Thủ tướng Lê Minh Hưng đề xuất 3 định hướng lớn nhằm thúc đẩy quan hệ ASEAN - Nga khi phát biểu tại hội nghị cấp cao ở Kazan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-18T12:37:58+07:00",
+      "fetched": "2026-06-18T23:50:32.145222+07:00"
     },
     {
       "id": "ed1acbd0f22893d61920d7c68afc65ef",
