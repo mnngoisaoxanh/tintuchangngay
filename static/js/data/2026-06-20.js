@@ -1,7 +1,17 @@
 window.newsData_2026_06_20 = {
   "date": "2026-06-20",
-  "lastUpdated": "2026-06-20T04:01:15.669117+07:00",
+  "lastUpdated": "2026-06-20T05:43:39.248138+07:00",
   "articles": [
+    {
+      "id": "44c5e7d053b61adf4badcc971e91c2df",
+      "title": "Algeria kiện Messi vì 'chơi xấu'",
+      "link": "https://tuoitre.vn/algeria-kien-messi-vi-choi-xau-100260620045426771.htm",
+      "summary": "Báo chí quốc tế đưa tin cho biết Liên đoàn bóng đá Algeria (FAF) đã rất tức giận và làm đơn khiếu nại nhắm thẳng vào Lionel Messi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T05:43:33.479729+07:00",
+      "fetched": "2026-06-20T05:43:33.479880+07:00"
+    },
     {
       "id": "919da6bf5f80c3162021580f4cbbd177",
       "title": "Trực tuyến Scotland - Morocco (5h): Hakimi hay McTominay tỏa sáng",
@@ -161,6 +171,226 @@ window.newsData_2026_06_20 = {
       "category": "Tổng hợp",
       "published": "2026-06-20T02:25:35.295932+07:00",
       "fetched": "2026-06-20T02:25:35.296075+07:00"
+    },
+    {
+      "id": "63bb77b945a6902b5af9ad5495489046",
+      "title": "Ca nhiễm Ebola tăng nhanh, hơn 230 người chết ở CHDC Congo",
+      "link": "https://thanhnien.vn/ca-nhiem-ebola-tang-nhanh-hon-230-nguoi-chet-o-chdc-congo-185260619212516956.htm",
+      "summary": "Reuters ngày 19.6 dẫn cập nhật từ chính phủ CHDC Congo cho hay số ca nhiễm Ebola ở nước này đã tăng lên 896, với 232 trường hợp tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T22:43:00+07:00",
+      "fetched": "2026-06-20T05:43:31.822319+07:00"
+    },
+    {
+      "id": "0bec619626dd4dcd87ae0ea434e40aba",
+      "title": "TikToker Nhật Duy, Nhật Hoàng lãnh án 9 năm tù vì ma túy",
+      "link": "https://thanhnien.vn/tiktoker-nhat-duy-nhat-hoang-lanh-an-9-nam-tu-vi-ma-tuy-185260619223445817.htm",
+      "summary": "Theo Viện kiểm sát, bị cáo Nhật Duy, Văn Hoàng là những TikToker có lượng follower lớn, nhưng thay vì các bị cáo lan tỏa giá trị tốt đẹp thì tạo hình ảnh, lối sống lệch lạc cho giới trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T22:36:00+07:00",
+      "fetched": "2026-06-20T05:43:31.822488+07:00"
+    },
+    {
+      "id": "09c1fa81dbf803b0df627856bdc6bdaf",
+      "title": "Tiêu điểm quốc tế 20.6: Lãnh tụ tối cao Iran lên tiếng | ‘Phó tướng’ bảo vệ ông Trump",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-206-lanh-tu-toi-cao-iran-len-tieng-pho-tuong-bao-ve-ong-trump-185260619234945585.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin Tiêu điểm quốc tế ngày 20.6.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T22:30:00+07:00",
+      "fetched": "2026-06-20T05:43:31.822647+07:00"
+    },
+    {
+      "id": "d7d1ffed44f509f49e6297c39da26699",
+      "title": "Phần Lan bãi bỏ lệnh cấm vũ khí hạt nhân",
+      "link": "https://thanhnien.vn/phan-lan-bai-bo-lenh-cam-vu-khi-hat-nhan-185260619173107908.htm",
+      "summary": "Quốc hội Phần Lan đã mở đường cho việc triển khai vũ khí hạt nhân ở nước này, cụ thể là cho phép vũ khí hạt nhân được mang đến, vận chuyển qua và cất giữ trên lãnh thổ Phần Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T22:30:00+07:00",
+      "fetched": "2026-06-20T05:43:31.822800+07:00"
+    },
+    {
+      "id": "d49e50b1e0d121b170b34403820ca30b",
+      "title": "Mua vé số khi ngồi cà phê, tài xế ở TP.HCM trúng 4 tỉ xổ số miền Nam",
+      "link": "https://thanhnien.vn/mua-ve-so-khi-ngoi-ca-phe-tai-xe-o-tphcm-trung-4-ti-xo-so-mien-nam-185260618090956372.htm",
+      "summary": "Một tài xế ở TP.HCM bất ngờ trúng độc đắc 4 tỉ đồng xổ số miền Nam nhờ mua vé số khi đang ngồi cà phê.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T22:30:00+07:00",
+      "fetched": "2026-06-20T05:43:31.822975+07:00"
+    },
+    {
+      "id": "4e2fe4bed413677921caaccc5e97e6c8",
+      "title": "Ông Zelensky gửi thông điệp mới tới Nga, EU",
+      "link": "https://thanhnien.vn/ong-zelensky-gui-thong-diep-moi-toi-nga-eu-185260619213003056.htm",
+      "summary": "Reuters hôm qua (19.6) đưa tin Tổng thống Ukraine Volodymyr Zelensky đã viết trên ứng dụng nhắn tin Telegram rằng Ukraine muốn chấm dứt xung đột với Nga trước mùa đông thông qua ngoại giao và gây áp lực lên Moscow.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T22:25:00+07:00",
+      "fetched": "2026-06-20T05:43:31.823128+07:00"
+    },
+    {
+      "id": "e47a51782271b87ab4abe8ce84fdc2bc",
+      "title": "Mỹ nâng cấp đội chuyên cơ Không lực Một",
+      "link": "https://thanhnien.vn/my-nang-cap-doi-chuyen-co-khong-luc-mot-185260619183358882.htm",
+      "summary": "Đài CNN dẫn lời giới quan sát cho biết đội bay Không lực Một thế hệ kế tiếp được sơn tổ hợp màu đỏ, trắng, vàng và xanh dương đậm theo ý của ông Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T22:18:00+07:00",
+      "fetched": "2026-06-20T05:43:31.823278+07:00"
+    },
+    {
+      "id": "8098df5037d8cfc57aa479a0c3e1aec0",
+      "title": "Đội tuyển Mỹ lập kỳ tích sau 96 năm ở World Cup, HLV Pochettino: 'Tôi hạnh phúc...'",
+      "link": "https://thanhnien.vn/doi-tuyen-my-lap-ky-tich-sau-96-nam-o-world-cup-hlv-pochettino-toi-hanh-phuc-185260620050949665.htm",
+      "summary": "HLV Mauricio Pochettino không giấu nổi niềm vui khi đội tuyển Mỹ đánh bại Úc 2-0 để sớm giành vé vào vòng knock-out World Cup 2026. Chiến thắng tại Seattle không chỉ giúp đội chủ nhà toàn thắng sau hai lượt trận bảng D mà còn đánh dấu cột mốc lịch sử chưa từng xuất hiện suốt gần một thế kỷ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T22:17:00+07:00",
+      "fetched": "2026-06-20T05:43:31.823430+07:00"
+    },
+    {
+      "id": "55950fcaac6fafac94e2b3d0f2346514",
+      "title": "Tử vi ngày 20 tháng 6: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-20-thang-6-con-giap-nao-may-man-hom-nay-185260619074211189.htm",
+      "summary": "Tử vi ngày 20 tháng 6 mang đến những gợi ý tham khảo cho 12 con giáp. Đừng đánh giá thấp sức mạnh của sự tò mò bởi nhiều cơ hội trong cuộc sống không bắt đầu bằng một kế hoạch lớn, mà đến từ việc bạn chịu khó đặt câu hỏi, tìm hiểu một điều mới hoặc bước vào một cuộc trò chuyện tưởng chừng bình thườn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T22:15:00+07:00",
+      "fetched": "2026-06-20T05:43:31.823578+07:00"
+    },
+    {
+      "id": "138a79568d8c14998f0d2d3a8123f405",
+      "title": "Cà Mau lập 13 phường: Phường Trần Văn Thời đa hệ sinh thái sẽ ra sao?",
+      "link": "https://thanhnien.vn/ca-mau-lap-13-phuong-phuong-tran-van-thoi-da-he-sinh-thai-se-ra-sao-185260616094548878.htm",
+      "summary": "HĐND tỉnh Cà Mau thông qua nghị quyết thành lập phường Trần Văn Thời, đánh dấu bước chuyển trong quá trình tái cấu trúc không gian phát triển và định hình đô thị chuyển tiếp ở phía tây của tỉnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T22:02:00+07:00",
+      "fetched": "2026-06-20T05:43:31.823732+07:00"
+    },
+    {
+      "id": "0b3b66957720313346d43687e380e7ee",
+      "title": "Hơn 60% học sinh TP HCM mắc tật khúc xạ",
+      "link": "https://vnexpress.net/hon-60-hoc-sinh-tp-hcm-mac-tat-khuc-xa-5087590.html",
+      "summary": "Hơn 60% học sinh TP HCM mắc tật khúc xạ, tăng gấp đôi so với 6 năm trước, theo dữ liệu khám sức khỏe học đường của ngành y tế thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T22:00:00+07:00",
+      "fetched": "2026-06-20T05:43:28.911939+07:00"
+    },
+    {
+      "id": "e13136b131004159c65493114ac3051d",
+      "title": "Khác biệt giữa thỏa thuận Iran của ông Trump và ông Obama",
+      "link": "https://vnexpress.net/khac-biet-giua-thoa-thuan-iran-cua-ong-trump-va-ong-obama-5087486.html",
+      "summary": "Phần lớn nội dung bản ghi nhớ Tổng thống Trump ký với phía Iran giống với thỏa thuận hạt nhân JCPOA năm 2015, nhưng cũng có một số điểm khác biệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T22:00:00+07:00",
+      "fetched": "2026-06-20T05:43:28.912117+07:00"
+    },
+    {
+      "id": "7502e36e53221fbefbb2c3a7488fc9c1",
+      "title": "Chip điều khiển - 'vũ khí' trong cuộc chiến xe tự lái Trung Quốc",
+      "link": "https://vnexpress.net/chip-dieu-khien-vu-khi-trong-cuoc-chien-xe-tu-lai-trung-quoc-5086662.html",
+      "summary": "Các công ty ôtô Trung Quốc đang chạy đua sản xuất chip điều khiển thông minh cho xe tự lái nhằm giảm sự phụ thuộc Nvidia và Horizon Robotics.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T22:00:00+07:00",
+      "fetched": "2026-06-20T05:43:28.912291+07:00"
+    },
+    {
+      "id": "0fee8ac2d7959f3d979bc5d5b47f92d6",
+      "title": "23 năm giải mã người chỉ huy biệt động Sài Gòn",
+      "link": "https://vnexpress.net/23-nam-giai-ma-nguoi-chi-huy-biet-dong-sai-gon-5080206.html",
+      "summary": "Từ hồ sơ quân đội Mỹ giải mật, cựu điệp báo Hồ Duy Hùng làm rõ vai trò chỉ huy của liệt sĩ Út Nhỏ trong trận đánh Tòa Đại sứ Mỹ dịp Tết Mậu Thân 1968.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T22:00:00+07:00",
+      "fetched": "2026-06-20T05:43:28.912450+07:00"
+    },
+    {
+      "id": "318f9e24a47a76dc4fe76ef383a8e5fa",
+      "title": "Volkswagen Teramont Pro - chất châu Âu tiếp cận người châu Á",
+      "link": "https://vnexpress.net/volkswagen-teramont-pro-chat-chau-au-tiep-can-nguoi-chau-a-5087021.html",
+      "summary": "Cảm giác phấn khích sau tay lái không đậm nét trên Teramont Pro, nhưng khoản chiều chuộng khách bằng tiện nghi, êm ái thì ngược lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T22:00:00+07:00",
+      "fetched": "2026-06-20T05:43:28.912604+07:00"
+    },
+    {
+      "id": "7989987aa66f0c503435bdaaebc41768",
+      "title": "Thế lưỡng nan của Tổng thống Trump trong thỏa thuận với Iran",
+      "link": "https://thanhnien.vn/the-luong-nan-cua-tong-thong-trump-trong-thoa-thuan-voi-iran-185260619221546657.htm",
+      "summary": "Kéo dài cuộc chiến để gia tăng sức ép nhằm đạt được ưu thế hay đạt thỏa thuận nhanh chóng với những điều khoản bị xem là có lợi cho Iran thì đều bị chỉ trích, nên Tổng thống Mỹ Donald Trump đang đứng trước thế lưỡng nan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T22:00:00+07:00",
+      "fetched": "2026-06-20T05:43:31.823900+07:00"
+    },
+    {
+      "id": "445e791b59555d39fd295aaa1f5f8d7b",
+      "title": "Sự thật sau những lời hứa sinh lời từ 'hợp đồng kỳ nghỉ'",
+      "link": "https://thanhnien.vn/su-that-sau-nhung-loi-hua-sinh-loi-tu-hop-dong-ky-nghi-185260619171835887.htm",
+      "summary": "Liên quan vụ lừa đảo sở hữu ‘hợp đồng kỳ nghỉ”, Bộ Công an xác định các đối tượng liên tục vẽ ra viễn cảnh sinh lời, chuyển nhượng dễ dàng để dẫn dụ nạn nhân ký nhiều hợp đồng, từ đó chiếm đoạt số tiền lên đến 612 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T22:00:00+07:00",
+      "fetched": "2026-06-20T05:43:31.824053+07:00"
+    },
+    {
+      "id": "aa245592c2e1add688243a11ccafa2ab",
+      "title": "Máy bay Su-35S Nga bắn hạ F-16 của Ukraine từ hơn 40 km?",
+      "link": "https://thanhnien.vn/may-bay-su-35s-nga-ban-ha-f-16-cua-ukraine-tu-hon-40-km-18526061822564446.htm",
+      "summary": "Ngày 15.5, một chiếc máy bay Su-35S của Nga cất cánh từ căn cứ không quân Kursk đã phát hiện một chiếc F-16 của Ukraine trên bầu trời Krolevets (Ukraine). Ngay lập tức, Su-35S phóng một tên lửa từ khoảng cách 42 km.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T22:00:00+07:00",
+      "fetched": "2026-06-20T05:43:31.824203+07:00"
+    },
+    {
+      "id": "fca2d9bdaf6651d5372da40b838c52ad",
+      "title": "Hôm nay 20.6 là ngày gì mà nhiều người Việt quan tâm, chia sẻ?",
+      "link": "https://thanhnien.vn/hom-nay-206-la-ngay-gi-ma-nhieu-nguoi-viet-quan-tam-chia-se-185260618101511293.htm",
+      "summary": "Theo lịch âm, người Việt vừa trải qua Tết Đoan Ngọ mùng 5 tháng 5. Dương lịch hôm nay 20.6 là ngày gì đặc biệt mà nhiều người quan tâm, chia sẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T22:00:00+07:00",
+      "fetched": "2026-06-20T05:43:31.824361+07:00"
+    },
+    {
+      "id": "e13136b131004159c65493114ac3051d",
+      "title": "Khác biệt giữa thỏa thuận Iran của ông Trump và ông Obama",
+      "link": "https://vnexpress.net/khac-biet-giua-thoa-thuan-iran-cua-ong-trump-va-ong-obama-5087486.html",
+      "summary": "Phần lớn nội dung bản ghi nhớ Tổng thống Trump ký với phía Iran giống với thỏa thuận hạt nhân JCPOA năm 2015, nhưng cũng có một số điểm khác biệt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-19T22:00:00+07:00",
+      "fetched": "2026-06-20T05:43:34.546891+07:00"
+    },
+    {
+      "id": "7502e36e53221fbefbb2c3a7488fc9c1",
+      "title": "Chip điều khiển - 'vũ khí' trong cuộc chiến xe tự lái Trung Quốc",
+      "link": "https://vnexpress.net/chip-dieu-khien-vu-khi-trong-cuoc-chien-xe-tu-lai-trung-quoc-5086662.html",
+      "summary": "Các công ty ôtô Trung Quốc đang chạy đua sản xuất chip điều khiển thông minh cho xe tự lái nhằm giảm sự phụ thuộc Nvidia và Horizon Robotics.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-19T22:00:00+07:00",
+      "fetched": "2026-06-20T05:43:38.388032+07:00"
+    },
+    {
+      "id": "1b69c56c2d676f285fd41247c8da6729",
+      "title": "Không thu tiền vé vào cổng, chủ vườn Cần Thơ bán hơn 1 tấn trái mỗi ngày",
+      "link": "https://thanhnien.vn/khong-thu-tien-ve-vao-cong-chu-vuon-can-tho-ban-hon-1-tan-trai-moi-ngay-185260618184908552.htm",
+      "summary": "Từ khu vườn hơn 3 ha ở xã Nhơn Ái, TP.Cần Thơ, ông Nguyễn Tuấn Khôi (51 tuổi) đã tạo nên mô hình du lịch sinh thái miệt vườn hút khách. Giữa lúc giá trái cây nhiều biến động, hướng đi mới này giúp gia đình ổn định đầu ra, nâng giá trị nông sản và tạo thêm sức hút cho du lịch địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T21:57:00+07:00",
+      "fetched": "2026-06-20T05:43:31.824507+07:00"
     },
     {
       "id": "e5789cf04dc5474780c3e7e05693176d",
