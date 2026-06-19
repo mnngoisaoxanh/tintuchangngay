@@ -1,7 +1,157 @@
 window.newsData_2026_06_19 = {
   "date": "2026-06-19",
-  "lastUpdated": "2026-06-19T20:27:28.231794+07:00",
+  "lastUpdated": "2026-06-19T23:27:54.447253+07:00",
   "articles": [
+    {
+      "id": "df5a93f4e9261d89e56e9a61d83cd8e1",
+      "title": "Điểm chuẩn lớp 10 chuyên Hà Nội năm 2026",
+      "link": "https://tuoitre.vn/diem-chuan-lop-10-chuyen-ha-noi-nam-2026-100260619153553109.htm",
+      "summary": "Chiều tối 19-6, Sở Giáo dục và Đào tạo Hà Nội công bố điểm chuẩn tuyển sinh vào lớp 10 chuyên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T23:27:45.779260+07:00",
+      "fetched": "2026-06-19T23:27:45.779341+07:00"
+    },
+    {
+      "id": "95dae05dfc80661e3c885f85cea53879",
+      "title": "Từ 1-7: Sinh con thứ 2, mẹ được nghỉ thai sản 7 tháng, cha nghỉ 10 ngày",
+      "link": "https://tuoitre.vn/tu-1-7-sinh-con-thu-2-me-duoc-nghi-thai-san-7-thang-cha-nghi-10-ngay-100260619191222154.htm",
+      "summary": "Từ ngày 1-7, lao động nữ sinh con thứ hai sẽ được nghỉ thai sản 7 tháng, tăng thêm 1 tháng so với quy định hiện hành; lao động nam có vợ sinh con thứ hai được nghỉ 10 ngày làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T23:27:45.779153+07:00",
+      "fetched": "2026-06-19T23:27:45.779244+07:00"
+    },
+    {
+      "id": "41b77f89b7e57b64b414e8f03628f942",
+      "title": "Hơn 1.000 bộ đội đang bám biên giới xây trường nội trú",
+      "link": "https://tuoitre.vn/hon-1000-bo-doi-dang-bam-bien-gioi-xay-truong-noi-tru-100260619193951113.htm",
+      "summary": "Theo Quân khu 5, hiện có hơn 1.000 cán bộ, chiến sĩ bộ đội Quân khu 5 cùng các đơn vị của Bộ Quốc phòng đang bám biên giới để kịp xây 18 trường nội trú liên cấp các tỉnh miền Trung, Tây Nguyên, xong trước 20-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T23:27:45.779038+07:00",
+      "fetched": "2026-06-19T23:27:45.779135+07:00"
+    },
+    {
+      "id": "76d52320a485bd7cda3e933976e6bb2d",
+      "title": "Cục Điện ảnh ra công văn khẩn vì quá nhiều phim kinh dị",
+      "link": "https://tuoitre.vn/cuc-dien-anh-ra-cong-van-khan-vi-qua-nhieu-phim-kinh-di-100260619202458122.htm",
+      "summary": "Cục Điện ảnh ra công văn 'nóng', khuyến khích các đơn vị làm phim, nhập phim và phổ biến phim đa dạng hóa nội dung trước thực trạng phim kinh dị quá nhiều thời gian gần đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T23:27:45.778931+07:00",
+      "fetched": "2026-06-19T23:27:45.779018+07:00"
+    },
+    {
+      "id": "457e7bf83718b57d30b09b53417965ea",
+      "title": "Lần đầu Việt Nam sản xuất được thép đặc chủng cho ô tô hạng nặng",
+      "link": "https://tuoitre.vn/lan-dau-viet-nam-san-xuat-duoc-thep-dac-chung-cho-o-to-hang-nang-100260619201653379.htm",
+      "summary": "Thép Hòa Phát Dung Quất vừa sản xuất thành công thép kết cấu cường độ cao S700MC theo tiêu chuẩn châu Âu BS EN 10149, trở thành nhà sản xuất đầu tiên tại Việt Nam làm chủ loại thép đặc chủng này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T23:27:45.778808+07:00",
+      "fetched": "2026-06-19T23:27:45.778913+07:00"
+    },
+    {
+      "id": "fb35e701fda107931ed89e469a4476c0",
+      "title": "Thành ủy Đồng Nai gặp mặt các cơ quan báo chí",
+      "link": "https://tuoitre.vn/thanh-uy-dong-nai-gap-mat-cac-co-quan-bao-chi-100260619202731757.htm",
+      "summary": "Chiều 19-6, lãnh đạo TP Đồng Nai đã tổ chức buổi gặp mặt các cơ quan báo chí và khen thưởng các tập thể, cá nhân các cơ quan báo chí nhân kỷ niệm 101 năm Ngày Báo chí cách mạng Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T23:27:45.778673+07:00",
+      "fetched": "2026-06-19T23:27:45.778790+07:00"
+    },
+    {
+      "id": "f644c4d3a14761aaaf6c83cae67899ac",
+      "title": "Ký loạt hợp đồng dầu khí tại các lô, mỏ Sư Tử Trắng cung ứng khí cho Đông Nam Bộ",
+      "link": "https://tuoitre.vn/ky-loat-hop-dong-dau-khi-tai-cac-lo-mo-su-tu-trang-cung-ung-khi-cho-dong-nam-bo-100260619202130685.htm",
+      "summary": "Hợp đồng chia sản phẩm dầu khí (PSC) các lô 10/11 và 10&11-1 và hợp đồng mua bán khí (GSPA) mỏ Sư Tử Trắng giai đoạn 2B, lô 15-1 vừa được ký kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T23:27:45.778332+07:00",
+      "fetched": "2026-06-19T23:27:45.778642+07:00"
+    },
+    {
+      "id": "51171f0af419a032115eda44d011ffd2",
+      "title": "Nguyên Phó thủ tướng thường trực Nguyễn Hòa Bình ra mắt sách về xây dựng Chính phủ liêm chính, kiến tạo",
+      "link": "https://tuoitre.vn/nguyen-pho-thu-tuong-thuong-truc-nguyen-hoa-binh-ra-mat-sach-ve-xay-dung-chinh-phu-liem-chinh-kien-tao-100260619202546067.htm",
+      "summary": "Nhân dịp ra mắt cuốn sách ‘Xây dựng Chính phủ liêm chính, kiến tạo trong kỷ nguyên mới’, tác giả - nguyên Phó thủ tướng thường trực Chính phủ Nguyễn Hòa Bình - đã dành thời gian trao đổi với các đại biểu, phóng viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T23:27:45.778259+07:00",
+      "fetched": "2026-06-19T23:27:45.778321+07:00"
+    },
+    {
+      "id": "7a369a0211089bf260026472a6b8e6ad",
+      "title": "'Lộ diện' xe dễ là VinFast VF 7 đời mới, có thể chia sẻ nhiều điểm chung với VF 8 vừa ra mắt",
+      "link": "https://tuoitre.vn/lo-dien-xe-de-la-vinfast-vf-7-doi-moi-co-the-chia-se-nhieu-diem-chung-voi-vf-8-vua-ra-mat-100260619175557684.htm",
+      "summary": "Một mẫu SUV mới xuất hiện trong Công báo Sở hữu công nghiệp, sở hữu thiết kế thể thao với nhiều đường nét gợi nhớ đến VinFast VF 7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T23:27:45.778184+07:00",
+      "fetched": "2026-06-19T23:27:45.778247+07:00"
+    },
+    {
+      "id": "076ac3d509942ff6562d86f212970080",
+      "title": "Chủ tịch công ty bán hợp đồng kỳ nghỉ LORS khai đánh vào lòng tham của khách",
+      "link": "https://tuoitre.vn/chu-tich-cong-ty-ban-hop-dong-ky-nghi-lors-khai-danh-vao-long-tham-cua-khach-100260619152152071.htm",
+      "summary": "Lê Trần Nhật Thọ - Chủ tịch Công ty LORS - khai chủ trương của công ty là đánh vào lòng tham của khách hàng khi thấy họ hứng thú với thẻ sở hữu kỳ nghỉ mà công ty giới thiệu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T23:27:45.778114+07:00",
+      "fetched": "2026-06-19T23:27:45.778173+07:00"
+    },
+    {
+      "id": "25cc1088cfc48ce35602698283d1511a",
+      "title": "Ngoại trưởng Iran: Israel muốn 'chiến tranh vĩnh viễn'",
+      "link": "https://tuoitre.vn/ngoai-truong-iran-israel-muon-chien-tranh-vinh-vien-100260619211644334.htm",
+      "summary": "Iran phản ứng sau khi Bộ trưởng An ninh quốc gia cực hữu của Israel tuyên bố 'toàn bộ Lebanon phải bốc cháy' và 'cứ mỗi giọt nước mắt của 1 bà mẹ Israel, sẽ có 1.000 bà mẹ Lebanon phải khóc'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T23:27:45.778045+07:00",
+      "fetched": "2026-06-19T23:27:45.778103+07:00"
+    },
+    {
+      "id": "0dd06d58098189e486b01ffba6aa8ba4",
+      "title": "Đồng Nai điều động nhiều bí thư xã, phường đi nhận nhiệm vụ mới",
+      "link": "https://tuoitre.vn/dong-nai-dieu-dong-nhieu-bi-thu-xa-phuong-di-nhan-nhiem-vu-moi-100260619211612821.htm",
+      "summary": "Chiều 19-6, Ban Thường vụ Thành ủy và UBND TP Đồng Nai đã tổ chức hội nghị công bố quyết định điều động, chỉ định nhiều cán bộ chủ chốt nhận nhiệm vụ mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T23:27:45.777975+07:00",
+      "fetched": "2026-06-19T23:27:45.778034+07:00"
+    },
+    {
+      "id": "ec0a431b2168ec934dd8c06a87c4c7e7",
+      "title": "Festival thiếu nhi lần đầu tiên được tổ chức tại Đà Lạt",
+      "link": "https://tuoitre.vn/festival-thieu-nhi-lan-dau-tien-duoc-to-chuc-tai-da-lat-100260619223449766.htm",
+      "summary": "Hơn 2.000 thiếu nhi đến từ 34 tỉnh thành đã hội tụ tại Đà Lạt trong đêm khai mạc Festival thiếu nhi toàn quốc 2026 (được tổ chức lần đầu).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T23:27:45.777902+07:00",
+      "fetched": "2026-06-19T23:27:45.777964+07:00"
+    },
+    {
+      "id": "a40c61033e40e68fc3b713879d234300",
+      "title": "Việt Nam lần đầu có thẩm phán Tòa Luật biển quốc tế: Cộng đồng quốc tế công nhận năng lực chuyên gia Việt Nam",
+      "link": "https://tuoitre.vn/viet-nam-lan-dau-co-tham-phan-toa-luat-bien-quoc-te-cong-dong-quoc-te-cong-nhan-nang-luc-chuyen-gia-viet-nam-100260619220316762.htm",
+      "summary": "Việc Việt Nam lần đầu tiên có thẩm phán Tòa án quốc tế về Luật biển thể hiện tín nhiệm của cộng đồng quốc tế với đóng góp của Việt Nam và năng lực, uy tín của chuyên gia Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T23:27:45.777822+07:00",
+      "fetched": "2026-06-19T23:27:45.777891+07:00"
+    },
+    {
+      "id": "29e247e9a1e5250d784afaaeddb05172",
+      "title": "Iran khiếu nại lên FIFA vì nhiều bất công phải chịu tại World Cup 2026",
+      "link": "https://tuoitre.vn/iran-khieu-nai-len-fifa-vi-nhieu-bat-cong-phai-chiu-tai-world-cup-2026-10026061922322037.htm",
+      "summary": "Tuyển Iran đã chính thức gửi khiếu nại về nước chủ nhà Mỹ World Cup 2026 lên Liên đoàn Bóng đá thế giới (FIFA).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T23:27:45.777673+07:00",
+      "fetched": "2026-06-19T23:27:45.777807+07:00"
+    },
     {
       "id": "b345108e46c9cb8f1586fcd86af7c95f",
       "title": "600 trẻ em vùng biên đi 'Phiên chợ 0 đồng'",
@@ -153,6 +303,16 @@ window.newsData_2026_06_19 = {
       "fetched": "2026-06-19T20:27:22.718510+07:00"
     },
     {
+      "id": "8f84f85992ffa70260bf673ddecfdf61",
+      "title": "Hơn 2.000 thiếu nhi hội tụ tại Đà Lạt dự Festival Thiếu nhi toàn quốc đầu tiên",
+      "link": "https://thanhnien.vn/hon-2000-thieu-nhi-hoi-tu-tai-da-lat-du-festival-thieu-nhi-toan-quoc-dau-tien-185260619220915249.htm",
+      "summary": "Tối 19.6, tại Đà Lạt, T.Ư Đoàn phối hợp với tỉnh Lâm Đồng khai mạc Festival Thiếu nhi toàn quốc lần I - 2026 với chủ đề \"Thiếu nhi Việt Nam vững bước tiến vào kỷ nguyên mới\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T16:26:00+07:00",
+      "fetched": "2026-06-19T23:27:44.157884+07:00"
+    },
+    {
       "id": "40c150e7ccfe52ef8b7db627764eef8b",
       "title": "WSJ: Lầu Năm Góc yêu cầu quốc hội cấp thêm 80 tỉ USD cho chiến sự Iran và các khoản khác",
       "link": "https://tuoitre.vn/wsj-lau-nam-goc-yeu-cau-quoc-hoi-cap-them-80-ti-usd-cho-chien-su-iran-va-cac-khoan-khac-100260619114802603.htm",
@@ -301,6 +461,306 @@ window.newsData_2026_06_19 = {
       "category": "Tổng hợp",
       "published": "2026-06-19T15:57:48.872522+07:00",
       "fetched": "2026-06-19T15:57:48.872670+07:00"
+    },
+    {
+      "id": "4eaab3a5084e43d17d90b50e57ac2989",
+      "title": "'Người đẹp nhất thế giới 2026' Anne Hathaway đón 'tin vui' ở tuổi 44",
+      "link": "https://thanhnien.vn/nguoi-dep-nhat-the-gioi-2026-anne-hathaway-don-tin-vui-o-tuoi-44-185260619223034317.htm",
+      "summary": "Nữ diễn viên Anne Hathaway xác nhận đang mang thai con thứ ba với chồng Adam Shulman sau 14 năm chung sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T15:56:00+07:00",
+      "fetched": "2026-06-19T23:27:44.158055+07:00"
+    },
+    {
+      "id": "304603ded2e376e551ea4a46f2c4725f",
+      "title": "Khởi tố 10 thanh thiếu niên hỗn chiến, công khai danh tính cha mẹ từng người",
+      "link": "https://thanhnien.vn/khoi-to-10-thanh-thieu-nien-hon-chien-cong-khai-danh-tinh-cha-me-tung-nguoi-185260619214040298.htm",
+      "summary": "Công an tỉnh Phú Thọ khởi tố 10 thanh thiếu niên vì tụ tập đánh nhau, đồng thời công khai danh tính cha mẹ của những người này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T15:45:00+07:00",
+      "fetched": "2026-06-19T23:27:44.158212+07:00"
+    },
+    {
+      "id": "3b56ebee28958db6c35af83634cc15ba",
+      "title": "Palestine truy tặng đại tướng Võ Nguyên Giáp huân chương nhà nước",
+      "link": "https://vnexpress.net/palestine-truy-tang-dai-tuong-vo-nguyen-giap-huan-chuong-nha-nuoc-5087806.html",
+      "summary": "Chiều 19/6, Bộ Ngoại giao phối hợp với Văn phòng Trung ương Đảng, Bộ Quốc phòng và Đại sứ quán Nhà nước Palestine tổ chức lễ trao huân chương Nhà nước Palestine truy tặng đại tướng Võ Nguyên Giáp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T15:43:15+07:00",
+      "fetched": "2026-06-19T23:27:40.890543+07:00"
+    },
+    {
+      "id": "5d8dbd4fe8c24b39adad69f0a5c11f3e",
+      "title": "Cục Điện ảnh cảnh báo tình trạng quá nhiều phim kinh dị",
+      "link": "https://vnexpress.net/cuc-dien-anh-canh-bao-tinh-trang-qua-nhieu-phim-kinh-di-5087810.html",
+      "summary": "Cục Điện ảnh ra công văn cảnh báo tình trạng phim kinh dị gia tăng ở rạp Việt, nhiều phim tập trung vào yếu tố bạo lực, giật gân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T15:38:54+07:00",
+      "fetched": "2026-06-19T23:27:40.890725+07:00"
+    },
+    {
+      "id": "ccfcf8c08d18e5c77a1c16b3d8fa6083",
+      "title": "Israel tuyên bố ở lại Lebanon, nói 'không ai có thể bảo chúng tôi phải làm gì'",
+      "link": "https://thanhnien.vn/israel-tuyen-bo-o-lai-lebanon-noi-khong-ai-co-the-bao-chung-toi-phai-lam-gi-185260619211943786.htm",
+      "summary": "Xung đột giữa Israel và lực lượng Hezbollah tiếp diễn tại miền nam Lebanon, trước khi hai bên ngừng bắn, trong khi quân đội Israel tuyên bố vẫn tiếp tục ở lại khu vực này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T15:26:00+07:00",
+      "fetched": "2026-06-19T23:27:44.158363+07:00"
+    },
+    {
+      "id": "c95601d8541a0e2e871a35760a854389",
+      "title": "Bị ông Trump nói đã 'năn nỉ' chụp ảnh chung, bà Meloni phản ứng mạnh",
+      "link": "https://thanhnien.vn/bi-ong-trump-noi-da-nan-ni-chup-anh-chung-ba-meloni-phan-ung-manh-185260619205454192.htm",
+      "summary": "Ý bác bỏ và phản ứng mạnh sau khi Tổng thống Mỹ Donald Trump nói Thủ tướng Ý Giorgia Meloni năn nỉ ông chụp ảnh chung tại Hội nghị thượng đỉnh G7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T15:17:00+07:00",
+      "fetched": "2026-06-19T23:27:44.158541+07:00"
+    },
+    {
+      "id": "274d0db790c2d58d75f4be7524aee2ff",
+      "title": "MU, Liverpool tôn vinh Messi bằng cách đặc biệt: Khi châu Âu cũng 'phát cuồng' vì đội trưởng Argentina",
+      "link": "https://thanhnien.vn/mu-liverpool-ton-vinh-messi-bang-cach-dac-biet-khi-chau-au-cung-phat-cuong-vi-doi-truong-argentina-185260619203934761.htm",
+      "summary": "Lionel Messi chỉ cần một trận đấu để khiến cả World Cup 2026 phát cuồng và sức ảnh hưởng của siêu sao người Argentina không chỉ dừng lại ở sân cỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T15:03:00+07:00",
+      "fetched": "2026-06-19T23:27:44.158700+07:00"
+    },
+    {
+      "id": "344fa28126b589e03961e2a03e4c16e5",
+      "title": "Điểm chuẩn vào lớp 10 Hà Nội tăng nhẹ, cần làm gì sau khi biết điểm thi?",
+      "link": "https://thanhnien.vn/diem-chuan-vao-lop-10-ha-noi-tang-nhe-can-lam-gi-sau-khi-biet-diem-thi-185260619205928291.htm",
+      "summary": "Năm nay điểm chuẩn vào lớp 10 của Hà Nội tăng nhẹ về mặt điểm số ở nhóm trường dẫn đầu. Sở GD-ĐT Hà Nội cũng hướng dẫn các bước tiếp theo thí sinh và nhà trường cần làm sau khi biết điểm thi, điểm chuẩn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T14:48:00+07:00",
+      "fetched": "2026-06-19T23:27:44.158852+07:00"
+    },
+    {
+      "id": "a0b516956212a2448ad377a38ffaa94c",
+      "title": "Thời trang tối giản của Hề Mộng Dao",
+      "link": "https://vnexpress.net/thoi-trang-toi-gian-cua-he-mong-dao-5085264.html",
+      "summary": "Siêu mẫu Trung Quốc Hề Mộng Dao ưu tiên trang phục đơn sắc mang hơi thở cổ điển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T14:36:00+07:00",
+      "fetched": "2026-06-19T23:27:40.890893+07:00"
+    },
+    {
+      "id": "a07e17dd206e56379689eb6acb50c214",
+      "title": "Israel, Hezbollah nhất trí ngừng bắn",
+      "link": "https://vnexpress.net/israel-hezbollah-nhat-tri-ngung-ban-5087793.html",
+      "summary": "Mỹ thông báo Israel và Hezbollah đã nhất trí ngừng bắn, sau khi giao tranh giữa hai bên ở Lebanon đe dọa làm sụp đổ thỏa thuận giữa Washington với Tehran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T14:34:34+07:00",
+      "fetched": "2026-06-19T23:27:40.891057+07:00"
+    },
+    {
+      "id": "a07e17dd206e56379689eb6acb50c214",
+      "title": "Israel, Hezbollah nhất trí ngừng bắn",
+      "link": "https://vnexpress.net/israel-hezbollah-nhat-tri-ngung-ban-5087793.html",
+      "summary": "Mỹ thông báo Israel và Hezbollah đã nhất trí ngừng bắn, sau khi giao tranh giữa hai bên ở Lebanon đe dọa làm sụp đổ thỏa thuận giữa Washington với Tehran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-19T14:34:34+07:00",
+      "fetched": "2026-06-19T23:27:47.471229+07:00"
+    },
+    {
+      "id": "feec9aa4394dc0019d8ef0902d66e11b",
+      "title": "Bí quyết chọn kệ TV để tăng trải nghiệm và bảo vệ sức khỏe",
+      "link": "https://thanhnien.vn/bi-quyet-chon-ke-tv-de-tang-trai-nghiem-va-bao-ve-suc-khoe-185260525092751186.htm",
+      "summary": "Khi bước vào một ngôi nhà mới hay nâng cấp phòng khách, chiếc kệ TV thường là món nội thất được chọn lựa khá qua loa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T14:32:00+07:00",
+      "fetched": "2026-06-19T23:27:44.159007+07:00"
+    },
+    {
+      "id": "60ac06bd8ffd6aa0a30aa5b4f5143523",
+      "title": "Vụ lừa đảo ‘hợp đồng kỳ nghỉ’: Công an ‘rất trăn trở, đau lòng’ khi nhiều bị can tuổi đời còn rất trẻ",
+      "link": "https://thanhnien.vn/vu-lua-dao-hop-dong-ky-nghi-cong-an-rat-tran-tro-dau-long-khi-nhieu-bi-can-tuoi-doi-con-rat-tre-185260619173705372.htm",
+      "summary": "Liên quan vụ lừa đảo ‘hợp đồng kỳ nghỉ’, đại diện Công an TP.HCM bày tỏ sự trăn trở khi ra lệnh khởi tố, bắt tạm giam nhiều bị can tuổi đời còn rất trẻ, “tương lai còn rất là rộng mở phía trước”.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T14:30:00+07:00",
+      "fetched": "2026-06-19T23:27:44.159161+07:00"
+    },
+    {
+      "id": "7971ca3dd390b93a8fbf7db6dd4c5e6c",
+      "title": "Tìm người đồng hành cho những năm tháng bình yên phía trước",
+      "link": "https://vnexpress.net/tim-nguoi-dong-hanh-cho-nhung-nam-thang-binh-yen-phia-truoc-5085829.html",
+      "summary": "Em hướng nội chính hiệu, thích những điều giản dị như ở nhà, đọc sách, trò chuyện cùng người thân hoặc gặp gỡ vài người bạn thân lâu năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T14:29:37+07:00",
+      "fetched": "2026-06-19T23:27:40.891230+07:00"
+    },
+    {
+      "id": "bc9bde87dd297f20690503714eb11525",
+      "title": "Thủ khoa thi lớp 10 của Hà Nội đạt 29,75/30 điểm",
+      "link": "https://vnexpress.net/thu-khoa-thi-lop-10-cua-ha-noi-dat-29-75-30-diem-5087800.html",
+      "summary": "Trần Minh Hà, học sinh THCS - THPT Newton đạt 29,75 điểm, là thủ khoa trong 124.000 thí sinh thi lớp 10 công lập năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T14:28:07+07:00",
+      "fetched": "2026-06-19T23:27:40.891396+07:00"
+    },
+    {
+      "id": "fd13140b47b24a273441504162c8a6fb",
+      "title": "Kỳ họp giữa năm HĐND TP.HCM: Tháo gỡ điểm nghẽn, tạo đà bứt phá cuối năm 2026",
+      "link": "https://thanhnien.vn/ky-hop-giua-nam-hdnd-tphcm-thao-go-diem-nghen-tao-da-but-pha-cuoi-nam-2026-185260619210123841.htm",
+      "summary": "Sáng 19.6, HĐND TP.HCM khai mạc kỳ họp thường lệ giữa năm 2026 nhằm đánh giá bức tranh kinh tế - xã hội và đề ra giải pháp trọng tâm. Các nội dung trong được đưa ra trong kỳ họp được kỳ vọng sẽ tháo gỡ triệt để điểm nghẽn, tạo động lực bứt phá mạnh mẽ cho thành phố trong nửa cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T14:28:00+07:00",
+      "fetched": "2026-06-19T23:27:44.159312+07:00"
+    },
+    {
+      "id": "95206e570b98ad8f71d4aced172eea94",
+      "title": "Thủ tướng Italy tức giận, bác tin 'xin chụp ảnh cùng ông Trump'",
+      "link": "https://vnexpress.net/thu-tuong-italy-tuc-gian-bac-tin-xin-chup-anh-cung-ong-trump-5087788.html",
+      "summary": "Thủ tướng Italy Meloni cáo buộc Tổng thống Trump \"bịa chuyện\" khi lãnh đạo Mỹ nói rằng bà \"đã xin chụp ảnh\" cùng ông tại hội nghị G7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T14:20:32+07:00",
+      "fetched": "2026-06-19T23:27:40.891623+07:00"
+    },
+    {
+      "id": "95206e570b98ad8f71d4aced172eea94",
+      "title": "Thủ tướng Italy tức giận, bác tin 'xin chụp ảnh cùng ông Trump'",
+      "link": "https://vnexpress.net/thu-tuong-italy-tuc-gian-bac-tin-xin-chup-anh-cung-ong-trump-5087788.html",
+      "summary": "Thủ tướng Italy Meloni cáo buộc Tổng thống Trump \"bịa chuyện\" khi lãnh đạo Mỹ nói rằng bà \"đã xin chụp ảnh\" cùng ông tại hội nghị G7.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-19T14:20:32+07:00",
+      "fetched": "2026-06-19T23:27:47.471404+07:00"
+    },
+    {
+      "id": "f28f171e0cd720d6ace21cc5faf6a05e",
+      "title": "Khai mạc giải bóng đá trẻ Bồng Sơn 2026 với gần 500 cầu thủ nhí tham gia",
+      "link": "https://thanhnien.vn/khai-mac-giai-bong-da-tre-bong-son-2026-voi-gan-500-cau-thu-nhi-tham-gia-185260619204237943.htm",
+      "summary": "Giải bóng đá trẻ Bồng Sơn 2026 quy tụ gần 500 cầu thủ nhí từ 24 đội bóng trong và ngoài tỉnh, tạo sân chơi hè sôi động, giàu tính cạnh tranh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T14:18:00+07:00",
+      "fetched": "2026-06-19T23:27:44.159482+07:00"
+    },
+    {
+      "id": "bbbcee92180207f00a12b22d522f4b0d",
+      "title": "Cô gái xinh xắn lấy chồng sau nửa tháng bị tôi từ chối tình cảm",
+      "link": "https://vnexpress.net/co-gai-xinh-xan-lay-chong-sau-nua-thang-bi-toi-tu-choi-tinh-cam-5087713.html",
+      "summary": "Ngoại hình tôi chỉ tạm được, không phải là chàng trai hào hoa, bảnh bao, lịch lãm, biết ăn chơi, sành điệu, thậm chí còn có phần hơi cù lần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T14:00:00+07:00",
+      "fetched": "2026-06-19T23:27:40.891785+07:00"
+    },
+    {
+      "id": "228b56ee8dde43d9ecf94155e23e72de",
+      "title": "Công ty Đạt Hưng xin lỗi A. O. Smith Corporation",
+      "link": "https://vnexpress.net/cong-ty-dat-hung-xin-loi-a-o-smith-corporation-5087695.html",
+      "summary": "Công ty Cổ phần Thương mại và Dịch vụ Đạt Hưng gửi lời xin lỗi công khai đến A. O. Smith Corporation sau vụ việc sử dụng các dấu hiệu gây nhầm lẫn thương hiệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T14:00:00+07:00",
+      "fetched": "2026-06-19T23:27:40.891948+07:00"
+    },
+    {
+      "id": "728a36112c9287f29ef19055e4d4f944",
+      "title": "'Liên thông dữ liệu là nút thắt chuyển đổi số y tế'",
+      "link": "https://vnexpress.net/lien-thong-du-lieu-la-nut-that-chuyen-doi-so-y-te-5087307.html",
+      "summary": "Theo PGS.TS Trần Quý Tường, Chủ tịch Hội Tin học Y tế, thách thức lớn nhất của y tế số nằm ở việc kết nối dữ liệu để hình thành một hệ sinh thái thống nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T14:00:00+07:00",
+      "fetched": "2026-06-19T23:27:40.892105+07:00"
+    },
+    {
+      "id": "3c7f17de467b0d1e4647207828c86bb4",
+      "title": "Cục Điện ảnh ra công văn 'nóng' giữa lúc phim kinh dị phủ sóng rạp Việt",
+      "link": "https://thanhnien.vn/cuc-dien-anh-ra-cong-van-nong-giua-luc-phim-kinh-di-phu-song-rap-viet-185260619200447163.htm",
+      "summary": "Cục trưởng Cục Điện ảnh gửi công văn yêu cầu các đơn vị làm phim, nhập phim và phổ biến phim cần cân nhắc yếu tố bạo lực, kinh dị, mê tín dị đoan; khuyến khích đa dạng hóa nội dung, đề cao trách nhiệm xã hội trong việc góp phần định hướng thẩm mỹ, nâng cao đời sống tinh thần của nhân dân...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T13:48:00+07:00",
+      "fetched": "2026-06-19T23:27:44.159632+07:00"
+    },
+    {
+      "id": "4f06afe21033ebda1ec313b90af94dc9",
+      "title": "Đồ ăn nhanh, ít vận động khiến nhiều người Việt hỏng thận",
+      "link": "https://vnexpress.net/do-an-nhanh-it-van-dong-khien-nhieu-nguoi-viet-hong-than-5087789.html",
+      "summary": "Ăn nhiều thực phẩm chế biến sẵn, thừa cân, béo phì và ít vận động đang khiến bệnh suy thận mạn ngày càng trẻ hóa, nguy cơ suy thận giai đoạn cuối, phải phụ thuộc vào lọc máu hoặc ghép thận để duy trì sự sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T13:43:13+07:00",
+      "fetched": "2026-06-19T23:27:40.892262+07:00"
+    },
+    {
+      "id": "80939b367620fd6a040ab882b30c807d",
+      "title": "Ngày hội văn hóa áo dài TP.HCM với '1.000 gương mặt - 1.000 câu chuyện'",
+      "link": "https://thanhnien.vn/ngay-hoi-van-hoa-ao-dai-tphcm-voi-1000-guong-mat-1000-cau-chuyen-185260619194413857.htm",
+      "summary": "Ngày hội Văn hóa áo dài TP.HCM năm nay không chỉ tôn vinh áo dài mà hướng đến phát triển bền vững, lấy văn hóa làm nền tảng, cộng đồng làm trung tâm. Điểm nhấn là dự án \"1.000 gương mặt - 1.000 câu chuyện áo dài Sài Gòn\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T13:41:00+07:00",
+      "fetched": "2026-06-19T23:27:44.159775+07:00"
+    },
+    {
+      "id": "ca7ef5913a0168a7fb450d57faaa7a08",
+      "title": "Những tính năng từng tạo tiếng vang cho Samsung Galaxy nay đã biến mất",
+      "link": "https://thanhnien.vn/nhung-tinh-nang-tung-tao-tieng-vang-cho-samsung-galaxy-nay-da-bien-mat-185260527091754696.htm",
+      "summary": "Mỗi năm trôi qua, thế giới smartphone lại chứng kiến những bước nhảy vọt về công nghệ, biến những điều tưởng chừng chỉ có trong phim viễn tưởng thành hiện thực. Trong phân khúc Android, Samsung vẫn luôn giữ vững ngai vàng nhờ vào kho tàng tính năng đồ sộ và độc quyền trên các dòng máy Galaxy cao cấp...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T13:38:00+07:00",
+      "fetched": "2026-06-19T23:27:44.159926+07:00"
+    },
+    {
+      "id": "dd06cf98c95aa08d5a263cccb169d99f",
+      "title": "14 trường lấy điểm chuẩn lớp 10 cao nhất Hà Nội",
+      "link": "https://vnexpress.net/top-truong-lay-diem-chuan-lop-10-cao-nhat-ha-noi-nam-2026-5087649.html",
+      "summary": "14 trường lấy điểm chuẩn lớp 10 cao hơn 24, tức trung bình hơn 8 điểm một môn mới trúng tuyển, đa số tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T13:35:19+07:00",
+      "fetched": "2026-06-19T23:27:40.892441+07:00"
+    },
+    {
+      "id": "6395794edcc15d0614613268afed87b2",
+      "title": "Chính phủ cho phép dùng quỹ đất lấn biển Phú Quốc thanh toán dự án BT",
+      "link": "https://thanhnien.vn/chinh-phu-cho-phep-dung-quy-dat-lan-bien-phu-quoc-thanh-toan-du-an-bt-185260619194232878.htm",
+      "summary": "Chính phủ cho phép UBND tỉnh An Giang được sử dụng quỹ đất dự kiến lấn biển để thanh toán cho nhà đầu tư thực hiện công trình, dự án phục vụ Hội nghị cấp cao APEC 2027 theo hình thức BT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T13:35:00+07:00",
+      "fetched": "2026-06-19T23:27:44.160075+07:00"
+    },
+    {
+      "id": "d463552da9b2f9513460b981073358e7",
+      "title": "Bé ba tuổi bị ném vào chuồng cá sấu ở Anh",
+      "link": "https://vnexpress.net/be-ba-tuoi-bi-nem-vao-chuong-ca-sau-o-anh-5087747.html",
+      "summary": "Một người đàn ông 30 tuổi bị nghi ném bé trai vào chuồng cá sấu, khiến cậu bé phải nhập viện trong tình trạng nguy kịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T13:32:08+07:00",
+      "fetched": "2026-06-19T23:27:40.892600+07:00"
+    },
+    {
+      "id": "d463552da9b2f9513460b981073358e7",
+      "title": "Bé ba tuổi bị ném vào chuồng cá sấu ở Anh",
+      "link": "https://vnexpress.net/be-ba-tuoi-bi-nem-vao-chuong-ca-sau-o-anh-5087747.html",
+      "summary": "Một người đàn ông 30 tuổi bị nghi ném bé trai vào chuồng cá sấu, khiến cậu bé phải nhập viện trong tình trạng nguy kịch.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-19T13:32:08+07:00",
+      "fetched": "2026-06-19T23:27:47.471600+07:00"
     },
     {
       "id": "5482ff6f7d1eefd90218598805895043",
