@@ -1,7 +1,27 @@
 window.newsData_2026_06_21 = {
   "date": "2026-06-21",
-  "lastUpdated": "2026-06-21T02:09:09.667392+07:00",
+  "lastUpdated": "2026-06-21T04:04:13.308395+07:00",
   "articles": [
+    {
+      "id": "c905e0c5990d912ebe21a3d93d7e1f9b",
+      "title": "Đức - Bờ Biển Ngà (Hiệp 1): 0-0",
+      "link": "https://tuoitre.vn/truc-tuyen-duc-bo-bien-nga-3h-duc-se-som-di-tiep-100260620153648479.htm",
+      "summary": "Trận đấu giữa Đức và Bờ Biển Ngà tại bảng E World Cup 2026 đã bắt đầu. Mời bạn đọc theo dõi trực tuyến trên Tuổi Trẻ online.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T04:04:04.031950+07:00",
+      "fetched": "2026-06-21T04:04:04.032010+07:00"
+    },
+    {
+      "id": "4c666a1e8ee375525385506961e2d9af",
+      "title": "Thời tiết hôm nay 21-6: Cả nước nắng nóng, nhiệt độ cao nhất có thể gần 40 độ C",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-21-6-ca-nuoc-nang-nong-nhiet-do-cao-nhat-co-the-gan-40-do-c-100260620161813742.htm",
+      "summary": "Hôm nay 21-6, thời tiết nắng nóng bao trùm cả nước, nhiệt độ cao nhất ngày có thể lên đến gần 40 độ C.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T04:04:04.031786+07:00",
+      "fetched": "2026-06-21T04:04:04.031937+07:00"
+    },
     {
       "id": "d905afeb12010e530d5675c0f535b1cb",
       "title": "Phong tỏa hiện trường vụ án mạng làm 4 người chết ở Bắc Ninh",
@@ -181,6 +201,76 @@ window.newsData_2026_06_21 = {
       "category": "Tổng hợp",
       "published": "2026-06-21T00:15:17.799601+07:00",
       "fetched": "2026-06-21T00:15:17.799756+07:00"
+    },
+    {
+      "id": "ead41b39ac9660fa69190ee84dc92940",
+      "title": "Chia tay Thổ Nhĩ Kỳ và Haiti",
+      "link": "https://thanhnien.vn/chia-tay-tho-nhi-ky-va-haiti-185260620225642244.htm",
+      "summary": "Với trận thua Paraguay 0-1 vào sáng 20.6, Thổ Nhĩ Kỳ chính thức bị loại, trở thành 1 trong 2 đội dừng chân sớm nhất tại World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T20:59:00+07:00",
+      "fetched": "2026-06-21T04:04:02.195699+07:00"
+    },
+    {
+      "id": "4a3c11afd5535ffc0bf439a741481cad",
+      "title": "Đội tuyển Hà Lan lập cột mốc đặc biệt, phá kỷ lục tồn tại nửa thế kỷ của Brazil ở World Cup",
+      "link": "https://thanhnien.vn/doi-tuyen-ha-lan-lap-cot-moc-dac-biet-pha-ky-luc-ton-tai-nua-the-ky-cua-brazil-o-world-cup-18526062102513681.htm",
+      "summary": "Đội tuyển Hà Lan thắng đậm Thụy Điển 5-1, qua đó tiến sát tấm vé vào vòng 32 đội World Cup 2026. Không chỉ vậy, chiến thắng này còn giúp ‘Cơn lốc màu da cam’ lập cột mốc lịch sử khi vượt qua một kỷ lục tồn tại hơn nửa thế kỷ của đội tuyển Brazil.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T20:08:00+07:00",
+      "fetched": "2026-06-21T04:04:02.195850+07:00"
+    },
+    {
+      "id": "e3fd7cc26f1ec35bead3c9cd84956910",
+      "title": "'Khoảng trống' dinh dưỡng trong điều trị ung thư, tiểu đường",
+      "link": "https://vnexpress.net/khoang-trong-dinh-duong-trong-dieu-tri-ung-thu-tieu-duong-5087886.html",
+      "summary": "Dinh dưỡng cho bệnh nhân ung thư và tiểu đường tại Việt Nam vẫn chưa có giải pháp chuyên biệt và chuẩn hóa, dù đây là yếu tố quan trọng trong điều trị và phục hồi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T20:00:00+07:00",
+      "fetched": "2026-06-21T04:03:59.034500+07:00"
+    },
+    {
+      "id": "ecfb7fb812eb8952d7682fbc9caf368e",
+      "title": "HLV Koeman quá cao tay: 'Quái thú' Hà Lan Brobbey bước ra từ bóng ma tống tiền",
+      "link": "https://thanhnien.vn/hlv-koeman-qua-cao-tay-quai-thu-ha-lan-brobbey-buoc-ra-tu-bong-ma-tong-tien-185260621023329355.htm",
+      "summary": "Cất người hùng Summerville để đặt niềm tin vào 'quái thú' Hà Lan Brobbey bước ra từ bóng ma tống tiền chính là nét bút chiến thuật liều lĩnh mà lãng mạn mà quá cao tay của HLV Ronald Koeman.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T19:39:00+07:00",
+      "fetched": "2026-06-21T04:04:02.195982+07:00"
+    },
+    {
+      "id": "256dae282306cd6802ddaa59baa523d4",
+      "title": "Hà Lan lột xác nhờ 'quái thú' Brobbey, thắng rất đậm Thụy Điển: Canh bạc không tưởng của HLV Koeman",
+      "link": "https://thanhnien.vn/ha-lan-lot-xac-nho-quai-thu-brobbey-thang-rat-dam-thuy-dien-canh-bac-khong-tuong-cua-hlv-koeman-185260621015741037.htm",
+      "summary": "Hà Lan lột xác nhờ 'quái thú' Brobbey, khi HLV Ronald Koeman bất ngờ cất người hùng Summerville để thay bằng Brian Brobbey, tiền đạo mục tiêu hay không thua Lukaku để có chiến thắng đậm 5-1 trước Thụy Điển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T19:38:00+07:00",
+      "fetched": "2026-06-21T04:04:02.196127+07:00"
+    },
+    {
+      "id": "22cd02d8495553618bb30ed2d914d270",
+      "title": "Hà Lan đè bẹp Thụy Điển ở World Cup 2026",
+      "link": "https://vnexpress.net/ha-lan-de-bep-thuy-dien-o-world-cup-2026-5088089.html",
+      "summary": "Brian Brobbey, Cody Gakpo cùng lập cú đúp giúp Hà Lan thắng Thụy Điển 5-1 ở lượt hai bảng F World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T19:19:20+07:00",
+      "fetched": "2026-06-21T04:03:59.034665+07:00"
+    },
+    {
+      "id": "22cd02d8495553618bb30ed2d914d270",
+      "title": "Hà Lan đè bẹp Thụy Điển ở World Cup 2026",
+      "link": "https://vnexpress.net/ha-lan-de-bep-thuy-dien-o-world-cup-2026-5088089.html",
+      "summary": "Brian Brobbey, Cody Gakpo cùng lập cú đúp giúp Hà Lan thắng Thụy Điển 5-1 ở lượt hai bảng F World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-20T19:19:20+07:00",
+      "fetched": "2026-06-21T04:04:13.303412+07:00"
     },
     {
       "id": "9f35df4945fd13051e8ae76619aa0fa2",
