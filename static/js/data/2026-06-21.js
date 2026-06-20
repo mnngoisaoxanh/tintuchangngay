@@ -1,7 +1,37 @@
 window.newsData_2026_06_21 = {
   "date": "2026-06-21",
-  "lastUpdated": "2026-06-21T00:15:25.527027+07:00",
+  "lastUpdated": "2026-06-21T02:09:09.667392+07:00",
   "articles": [
+    {
+      "id": "d905afeb12010e530d5675c0f535b1cb",
+      "title": "Phong tỏa hiện trường vụ án mạng làm 4 người chết ở Bắc Ninh",
+      "link": "https://tuoitre.vn/phong-toa-hien-truong-vu-an-mang-lam-4-nguoi-chet-o-bac-ninh-100260620230611122.htm",
+      "summary": "Lãnh đạo phường Việt Yên (tỉnh Bắc Ninh) xác nhận trên địa bàn vừa xảy ra một vụ án mạng nghiêm trọng khiến 4 người tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T02:09:01.678104+07:00",
+      "fetched": "2026-06-21T02:09:01.678165+07:00"
+    },
+    {
+      "id": "5c382af8a901f0d58594bf5b89ed10a2",
+      "title": "Đón làn sóng đầu tư năng lượng tái tạo, doanh nghiệp Việt tìm vị thế mới",
+      "link": "https://tuoitre.vn/don-lan-song-dau-tu-nang-luong-tai-tao-doanh-nghiep-viet-tim-vi-the-moi-100260620215907461.htm",
+      "summary": "Các chuyên gia cho rằng với năng lực hiện có và tiềm năng từ ngành năng lượng tái tạo trong nước, lĩnh vực này đang mở ra dư địa để nhân lực Việt Nam tham gia sâu hơn vào thị trường toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T02:09:01.678025+07:00",
+      "fetched": "2026-06-21T02:09:01.678092+07:00"
+    },
+    {
+      "id": "181cb164c7dfd81902a681c1ca1e4258",
+      "title": "Thái Lan, Nhật Bản cùng lúc gây sốc làng bóng chuyền",
+      "link": "https://tuoitre.vn/thai-lan-nhat-ban-cung-luc-gay-soc-lang-bong-chuyen-100260620234545219.htm",
+      "summary": "Làng bóng chuyền thế giới cùng lúc đón nhận 2 cú sốc ở lượt trận thứ 7 siêu giải đấu FIVB Nations League (VNL) diễn ra khuya 20-6, khi Thái Lan và Nhật Bản thu về những kết quả trái ngược.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T02:09:01.677850+07:00",
+      "fetched": "2026-06-21T02:09:01.678010+07:00"
+    },
     {
       "id": "2391fa395b369e15ef9b500a36b4c06b",
       "title": "Công an TP.HCM điều tra nguồn dữ liệu khách hàng của 11 công ty bán hợp đồng kỳ nghỉ",
@@ -153,6 +183,56 @@ window.newsData_2026_06_21 = {
       "fetched": "2026-06-21T00:15:17.799756+07:00"
     },
     {
+      "id": "9f35df4945fd13051e8ae76619aa0fa2",
+      "title": "Lương 104.000 USD một năm vẫn là 'thu nhập thấp' ở quận Cam",
+      "link": "https://vnexpress.net/luong-104-000-usd-mot-nam-van-la-thu-nhap-thap-o-quan-cam-5088041.html",
+      "summary": "Người độc thân kiếm 104.200 USD một năm ở quận Cam, California, vẫn đủ điều kiện nhận hỗ trợ nhà ở từ chính quyền, do giá nhà tại đây rất cao.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-20T18:47:24+07:00",
+      "fetched": "2026-06-21T02:09:03.611404+07:00"
+    },
+    {
+      "id": "e5de5aeb90cf67874b62d560e8574f63",
+      "title": "5 loại rau quả ít dư lượng thuốc trừ sâu",
+      "link": "https://vnexpress.net/5-loai-rau-qua-it-du-luong-thuoc-tru-sau-5087937.html",
+      "summary": "Quả bơ, dứa, dưa hấu, hành tây có nguy cơ tồn dư thuốc trừ sâu thấp hơn nhờ lớp vỏ dày hoặc đặc tính ít bị sâu bệnh tấn công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T18:00:00+07:00",
+      "fetched": "2026-06-21T02:08:55.196803+07:00"
+    },
+    {
+      "id": "6d8cc59808a95a75b42684dec11d4568",
+      "title": "Nhận định Tunisia vs Nhật Bản: 'Samurai xanh' dễ có 3 điểm đầu tay",
+      "link": "https://thanhnien.vn/nhan-dinh-tunisia-vs-nhat-ban-samurai-xanh-de-co-3-diem-dau-tay-185260621002606395.htm",
+      "summary": "Trận đấu giữa Tunisia vs Nhật Bản tại bảng F World Cup 2026 diễn ra lúc 11 giờ ngày 21.6. Đại diện châu Á đang đứng trước cơ hội lớn để giành 3 điểm, khi chạm trán với Tunisia - đội bóng vừa bổ nhiệm gấp HLV Herve Renard.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T17:40:00+07:00",
+      "fetched": "2026-06-21T02:08:59.374055+07:00"
+    },
+    {
+      "id": "03e8d6fd02cad684c1d641a8cf9d694c",
+      "title": "Đội Trung Quốc 'kể chuyện Tây Du Ký' bằng pháo hoa",
+      "link": "https://vnexpress.net/doi-trung-quoc-ke-chuyen-tay-du-ky-bang-phao-hoa-5088082.html",
+      "summary": "Đội từ Trung Quốc mang đến Lễ hội pháo hoa quốc tế Đà Nẵng màn trình diễn lấy cảm hứng \"Tây Du Ký\", tạo nên cuộc đối đầu kịch tính với đại diện Đức, đêm 20/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T17:31:47+07:00",
+      "fetched": "2026-06-21T02:08:55.197037+07:00"
+    },
+    {
+      "id": "586d21af83653a8aae0b65a194a1d62d",
+      "title": "Tài xế hai lần đạp phanh cứu người trước lúc đột tử",
+      "link": "https://vnexpress.net/tai-xe-hai-lan-dap-phanh-cuu-nguoi-truoc-luc-dot-tu-5087994.html",
+      "summary": "Lên cơn nhồi máu cơ tim khi lái xe, tài xế Zhou Yu kịp đạp phanh hai lần để dừng phương tiện, giữ an toàn cho 12 hành khách rồi mới gục hẳn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T17:18:56+07:00",
+      "fetched": "2026-06-21T02:08:55.197210+07:00"
+    },
+    {
       "id": "85e4855c3fc4639dbb70836d0e3def22",
       "title": "Ông Trump khẳng định bà Meloni nài nỉ xin chụp ảnh cùng",
       "link": "https://vnexpress.net/ong-trump-khang-dinh-ba-meloni-nai-ni-xin-chup-anh-cung-5088061.html",
@@ -163,6 +243,76 @@ window.newsData_2026_06_21 = {
       "fetched": "2026-06-21T00:15:19.562608+07:00"
     },
     {
+      "id": "b6b6adfe7ef49aff7f0eec0e2a0082c5",
+      "title": "Chiêu pha xì dầu vào nước súc ruột lừa hàng trăm người già Trung Quốc",
+      "link": "https://vnexpress.net/chieu-pha-xi-dau-vao-nuoc-suc-ruot-lua-hang-tram-nguoi-gia-trung-quoc-5088006.html",
+      "summary": "Một băng nhóm tội phạm tại Bắc Kinh vừa bị bắt giữ sau khi lén pha xì dầu vào dung dịch súc ruột nhằm khủng bố tinh thần, lừa đảo hơn 100 cụ già suốt nhiều năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T17:03:00+07:00",
+      "fetched": "2026-06-21T02:08:55.197530+07:00"
+    },
+    {
+      "id": "aa0da9f3fe4576db5002672ac34fcc48",
+      "title": "Căn nhà giữa rừng 'núp' dưới mái tre hình chiếc lá",
+      "link": "https://vnexpress.net/can-nha-giua-rung-nup-duoi-mai-tre-hinh-chiec-la-5087954.html",
+      "summary": "Công trình 158 m2 sử dụng tre, gỗ và không gian mở để đón gió, lấy sáng, đồng thời giữ sự kết nối với cảnh quan rừng nhiệt đới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T17:03:00+07:00",
+      "fetched": "2026-06-21T02:08:55.197704+07:00"
+    },
+    {
+      "id": "56b3265029f109c87ba591da1573284b",
+      "title": "5 thực phẩm giàu canxi tốt cho xương",
+      "link": "https://vnexpress.net/5-thuc-pham-giau-canxi-tot-cho-xuong-5087738.html",
+      "summary": "Ngoài sữa, nhiều thực phẩm quen thuộc như cá mòi, đậu bắp, sung khô hay hạt chia cũng chứa lượng canxi đáng kể, góp phần giúp xương chắc khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T17:02:00+07:00",
+      "fetched": "2026-06-21T02:08:55.197860+07:00"
+    },
+    {
+      "id": "5ae4dc461fc16d39df3a00accf72c756",
+      "title": "Tốt nghiệp tiến sĩ Harvard dù bị loạt đại học trong nước từ chối",
+      "link": "https://vnexpress.net/tot-nghiep-tien-si-harvard-du-bi-loat-dai-hoc-trong-nuoc-tu-choi-5087376.html",
+      "summary": "Tốt nghiệp trung học với bảng điểm toàn C-D, bị tất cả đại học trong nước từ chối, Joel Tan vẫn trở thành tiến sĩ ở Harvard, gây tranh luận ở quê nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T17:02:00+07:00",
+      "fetched": "2026-06-21T02:08:55.198065+07:00"
+    },
+    {
+      "id": "2057ba0a06f3aade8edb465d114de748",
+      "title": "Ba con giáp tài chính dồi dào cuối tháng 6",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-ba-con-giap-tai-chinh-doi-dao-cuoi-thang-6-5080738.html",
+      "summary": "Cuối tháng 6, nhờ sự kiên trì, khả năng thích nghi và tinh thần cầu tiến, một số con giáp cải thiện thu nhập, mở rộng con đường sự nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T17:02:00+07:00",
+      "fetched": "2026-06-21T02:08:55.198231+07:00"
+    },
+    {
+      "id": "8c47a79ee5d8a6defeaf328ac2b18b35",
+      "title": "Đối thoại với người khác biệt",
+      "link": "https://vnexpress.net/doi-thoai-voi-nguoi-khac-biet-5088077.html",
+      "summary": "Trong lễ tốt nghiệp Đại học Harvard đầu tháng 6 năm nay, bài phát biểu được chia sẻ nhiều nhất đến từ một sinh viên trẻ tên là Noah Eckstein.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T17:01:24+07:00",
+      "fetched": "2026-06-21T02:08:55.198392+07:00"
+    },
+    {
+      "id": "902605847185bdf6e5b0546b8541dac0",
+      "title": "Giá bán nhà đất Hà Nội sụt giảm diện rộng",
+      "link": "https://vnexpress.net/gia-ban-nha-dat-ha-noi-sut-giam-dien-rong-5088000.html",
+      "summary": "Thị trường chung cư, nhà riêng lẻ, nhà mặt phố Hà Nội gặp áp lực hạ giá bán trong bối cảnh lãi suất neo cao, mức độ quan tâm giảm mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T17:01:00+07:00",
+      "fetched": "2026-06-21T02:08:55.198545+07:00"
+    },
+    {
       "id": "b6cf58eb938dee0144252a0ed9d38a00",
       "title": "Tây Ban Nha - Ả Rập Xê Út (23 giờ ngày 21.6, trực tiếp trên VTV6): 'Bò tót' tìm lại chính mình",
       "link": "https://thanhnien.vn/tay-ban-nha-a-rap-xe-ut-23-gio-ngay-216-truc-tiep-tren-vtv6-bo-tot-tim-lai-chinh-minh-185260620230738887.htm",
@@ -171,6 +321,56 @@ window.newsData_2026_06_21 = {
       "category": "Tổng hợp",
       "published": "2026-06-20T17:00:00+07:00",
       "fetched": "2026-06-21T00:15:16.098498+07:00"
+    },
+    {
+      "id": "6b39ce584fa060c102e1338ce3d495e9",
+      "title": "Miền Bắc vào đợt nắng nóng diện rộng",
+      "link": "https://vnexpress.net/mien-bac-vao-dot-nang-nong-dien-rong-5088058.html",
+      "summary": "Hoàn lưu vùng thấp nóng phía tây gây nắng nóng ở đồng bằng Bắc Bộ hai ngày nay, sẽ tiếp tục mở rộng trong những ngày tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T17:00:00+07:00",
+      "fetched": "2026-06-21T02:08:55.198702+07:00"
+    },
+    {
+      "id": "72d11bd53bbff487a84ddf9c0fa8e2fe",
+      "title": "'Tự chủ chiến lược là sống còn với báo chí'",
+      "link": "https://vnexpress.net/tu-chu-chien-luoc-la-song-con-voi-bao-chi-5088015.html",
+      "summary": "Lãnh đạo các cơ quan báo chí cho rằng khái niệm tự chủ giờ đây không chỉ trong tài chính, mà là năng lực làm chủ công nghệ và dữ liệu, để không bị các nền tảng xuyên biên giới chi phối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T17:00:00+07:00",
+      "fetched": "2026-06-21T02:08:55.198863+07:00"
+    },
+    {
+      "id": "03b90a526537d20cd922710fd9177171",
+      "title": "Bạn thân của tình cũ nói yêu tôi trong khi đang có bạn gái",
+      "link": "https://vnexpress.net/ban-than-cua-tinh-cu-noi-yeu-toi-trong-khi-dang-co-ban-gai-5087990.html",
+      "summary": "Tôi thật lòng chẳng có tình cảm gì với anh nhưng cũng bối rối khi người mình quý mến lại dành tình cảm cho mình như này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T17:00:00+07:00",
+      "fetched": "2026-06-21T02:08:55.199181+07:00"
+    },
+    {
+      "id": "594064fd6382d10eae7773dfc09784ed",
+      "title": "Tôi sẵn sàng đánh đổi thừa kế để cha mẹ già vào viện dưỡng lão",
+      "link": "https://vnexpress.net/toi-san-sang-danh-doi-thua-ke-de-cha-me-gia-vao-vien-duong-lao-5087970.html",
+      "summary": "Tôi sẵn sàng dùng toàn bộ tài sản thừa kế, trích thêm một phần thu nhập của mình, để bố mẹ an dưỡng tuổi già trong viện dưỡng lão.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T17:00:00+07:00",
+      "fetched": "2026-06-21T02:08:55.199364+07:00"
+    },
+    {
+      "id": "e3617b9dc658204d2cd4e85a82be5a97",
+      "title": "Trung Quốc phát triển kim cương nhân tạo làm mát chip",
+      "link": "https://vnexpress.net/trung-quoc-phat-trien-kim-cuong-nhan-tao-lam-mat-chip-5086822.html",
+      "summary": "Các nhà nghiên cứu Trung Quốc gặt hái nhiều thành tựu trong sản xuất và ứng dụng kim cương nhân tạo cỡ lớn để làm mát chip, hứa hẹn định hình lại ngành công nghiệp bán dẫn và AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-20T17:00:00+07:00",
+      "fetched": "2026-06-21T02:09:07.595387+07:00"
     },
     {
       "id": "4393a2c75d44e508dbb5a1732531fe0c",
