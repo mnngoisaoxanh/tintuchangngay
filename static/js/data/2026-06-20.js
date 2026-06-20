@@ -1,7 +1,157 @@
 window.newsData_2026_06_20 = {
   "date": "2026-06-20",
-  "lastUpdated": "2026-06-20T17:26:27.371885+07:00",
+  "lastUpdated": "2026-06-20T20:27:49.069788+07:00",
   "articles": [
+    {
+      "id": "88ea60e2247872605e91f5771ec53f44",
+      "title": "Miền Bắc và miền Trung nắng nóng đỉnh điểm, có nơi trên 40 độ C",
+      "link": "https://tuoitre.vn/mien-bac-va-mien-trung-nang-nong-dinh-diem-co-noi-tren-40-do-c-100260620163633179.htm",
+      "summary": "Dự báo từ đầu tuần tới, nắng nóng gia tăng và mở rộng ra hầu hết Bắc Bộ với nền nhiệt ở miền Bắc có nơi trên 39 độ C, còn miền Trung có nơi trên 40 độ C.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T20:27:40.909297+07:00",
+      "fetched": "2026-06-20T20:27:40.909340+07:00"
+    },
+    {
+      "id": "b5f060aceacd779c7856653392190dc7",
+      "title": "Thu hẹp cầu Đồng Nai để sửa chữa nên kẹt xe, CSGT TP.HCM khuyến cáo tài xế nên đi cao tốc TP.HCM - Long Thành",
+      "link": "https://tuoitre.vn/thu-hep-cau-dong-nai-de-sua-chua-nen-ket-xe-csgt-tphcm-khuyen-cao-tai-xe-nen-di-cao-toc-tphcm-long-thanh-100260620160731348.htm",
+      "summary": "Chiều 20-6, ghi nhận tình trạng kẹt xe trên xa lộ Hà Nội, hướng từ ngã tư Thủ Đức đi TP Đồng Nai diễn ra phức tạp. Cảnh sát giao thông TP.HCM đưa ra khuyến cáo tài xế chọn lộ trình đi cao tốc từ nút giao An Phú, hạn chế lên cao tốc từ vòng xoay Phú Hữu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T20:27:40.909242+07:00",
+      "fetched": "2026-06-20T20:27:40.909289+07:00"
+    },
+    {
+      "id": "378792a4bc2c692ae46698e202d3cb0d",
+      "title": "Cần cho phép khiếu kiện thông báo thu hồi đất 'treo' quyền của dân",
+      "link": "https://tuoitre.vn/can-cho-phep-khieu-kien-thong-bao-thu-hoi-dat-treo-quyen-cua-dan-10026062008210876.htm",
+      "summary": "Một số dự án tại Nha Trang (Khánh Hòa) có thông báo thu hồi đất kéo dài hàng chục năm nhưng không triển khai dứt điểm, khiến người dân bị hạn chế nhiều quyền về nhà, đất trong thời gian dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T20:27:40.909185+07:00",
+      "fetched": "2026-06-20T20:27:40.909234+07:00"
+    },
+    {
+      "id": "c27fe5d62789409d38cabec38e85b212",
+      "title": "KTS Lưu Hướng Dương làm Chủ tịch Hội Kiến trúc sư TP.HCM khóa I, nhiệm kỳ 2026 - 2031",
+      "link": "https://tuoitre.vn/kts-luu-huong-duong-lam-chu-tich-hoi-kien-truc-su-tphcm-khoa-i-nhiem-ky-2026-2031-100260620143118347.htm",
+      "summary": "Chiều 20-6, Đại hội đại biểu Hội Kiến trúc sư TP.HCM khóa I, nhiệm kỳ 2026 - 2031 đã ra mắt Ban Chấp hành, ông Lưu Hướng Dương làm Chủ tịch hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T20:27:40.909132+07:00",
+      "fetched": "2026-06-20T20:27:40.909177+07:00"
+    },
+    {
+      "id": "3340f820f9a70e65d8cd90f399fb0ccf",
+      "title": "'Con có cố gắng mà mẹ'",
+      "link": "https://tuoitre.vn/con-co-co-gang-ma-me-100260620134814637.htm",
+      "summary": "'Con có cố gắng mà mẹ. Con không muốn điểm thấp. Điểm của con mà, làm sao con muốn điểm thấp được'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T20:27:40.909068+07:00",
+      "fetched": "2026-06-20T20:27:40.909123+07:00"
+    },
+    {
+      "id": "753edf3682afecae44978023a1448f04",
+      "title": "Hơn 100 công an bí mật hành quân ban đêm, bắt gọn ổ nhóm ma túy trong rừng sâu",
+      "link": "https://tuoitre.vn/hon-100-cong-an-bi-mat-hanh-quan-ban-dem-bat-gon-o-nhom-ma-tuy-trong-rung-sau-100260620173843943.htm",
+      "summary": "Hơn 100 cán bộ, chiến sĩ Công an tỉnh Lào Cai bí mật hành quân trong đêm, tiếp cận, khống chế, bắt giữ ổ nhóm ma túy ẩn náu trong rừng sâu ở xã Minh Lương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T20:27:40.908967+07:00",
+      "fetched": "2026-06-20T20:27:40.909037+07:00"
+    },
+    {
+      "id": "707c433182f9fcfdf771cf8d0315411d",
+      "title": "Ông Trump chính thức ra mắt chuyên cơ Không lực Một mới của Qatar tặng",
+      "link": "https://tuoitre.vn/ong-trump-chinh-thuc-ra-mat-chuyen-co-khong-luc-mot-moi-cua-qatar-tang-100260620175134168.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã ra mắt chiếc chuyên cơ Air Force One (Không lực Một) mới do Qatar tặng, cho biết máy bay đã được cải tạo thành một 'Nhà Trắng biết bay' với mức độ sang trọng 'chưa từng có'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T20:27:40.908876+07:00",
+      "fetched": "2026-06-20T20:27:40.908954+07:00"
+    },
+    {
+      "id": "58fdb54558de91255b8ede6981427ba7",
+      "title": "Cà Mau xây thêm nhà máy điện gió gần 2.500 tỉ đồng",
+      "link": "https://tuoitre.vn/ca-mau-xay-them-nha-may-dien-gio-gan-2500-ti-dong-100260620170635121.htm",
+      "summary": "Ngày 20-6, UBND tỉnh Cà Mau phối hợp Công ty cổ phần Năng lượng Nhật Bản - Bạc Liêu tổ chức lễ động thổ dự án Nhà máy điện gió Nhật Bản - Bạc Liêu tại xã Đông Hải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T20:27:40.908790+07:00",
+      "fetched": "2026-06-20T20:27:40.908863+07:00"
+    },
+    {
+      "id": "8211e04c3bd1b356798f9eea1cc3f936",
+      "title": "Phối cảnh khang trang, hiện đại của khu Mả Lạng, chợ Gà - Gạo trong tương lai",
+      "link": "https://tuoitre.vn/phoi-canh-khang-trang-hien-dai-cua-khu-ma-lang-cho-ga-gao-trong-tuong-lai-100260619130701914.htm",
+      "summary": "Các hộ dân ở khu Mả Lạng, chợ Gà - Gạo sẽ được bố trí tái định cư tại chỗ với nhà chung cư cao tầng khang trang cùng hệ thống hạ tầng kỹ thuật, hạ tầng xã hội đồng bộ, hiện đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T20:27:40.908703+07:00",
+      "fetched": "2026-06-20T20:27:40.908774+07:00"
+    },
+    {
+      "id": "0bb207d7c1749a829e9626da2685c23b",
+      "title": "Tài xế dương tính ma túy, lao xe tốc độ cao rồi húc văng ô tô tải xuống mương nước",
+      "link": "https://tuoitre.vn/tai-xe-duong-tinh-ma-tuy-lao-xe-toc-do-cao-roi-huc-vang-o-to-tai-xuong-muong-nuoc-100260620182104611.htm",
+      "summary": "Theo Cục Cảnh sát giao thông, nguyên nhân tai nạn do lái xe con không chú ý quan sát, không giảm tốc độ khi đến đường giao nhau, gây tai nạn. Tài xế xe con còn dương tính với ma túy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T20:27:40.908618+07:00",
+      "fetched": "2026-06-20T20:27:40.908691+07:00"
+    },
+    {
+      "id": "8415a59851b3ad1281b5cde0b9788f0f",
+      "title": "Hồ phản chiếu vừa cải tạo hết 14 triệu USD của ông Trump đã bị tróc sơn",
+      "link": "https://tuoitre.vn/ho-phan-chieu-vua-cai-tao-het-14-trieu-usd-cua-ong-trump-da-bi-troc-son-100260620180513319.htm",
+      "summary": "Hồ phản chiếu trước Đài tưởng niệm Lincoln (Washington, Mỹ) vừa cải tạo đã gặp sự cố bong tróc sơn trên diện rộng và tảo xanh bùng phát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T20:27:40.908525+07:00",
+      "fetched": "2026-06-20T20:27:40.908605+07:00"
+    },
+    {
+      "id": "ed43ba5e37d1678ea5fd7aed1c371970",
+      "title": "Khi thiên nhiên trở thành cầu nối gắn kết gia đình",
+      "link": "https://tuoitre.vn/khi-thien-nhien-tro-thanh-cau-noi-gan-ket-gia-dinh-100260620175348179.htm",
+      "summary": "Trong bối cảnh khoảng cách thế hệ ngày càng trở thành một vấn đề xã hội đáng quan tâm, nhiều chuyên gia cho rằng thiên nhiên và những không gian sống chậm có thể đóng vai trò như chất xúc tác giúp cha mẹ và con cái tìm lại sự kết nối, thấu hiểu và sẻ chia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T20:27:40.908415+07:00",
+      "fetched": "2026-06-20T20:27:40.908510+07:00"
+    },
+    {
+      "id": "d86f1f32ca6ba93989be2eed608fc697",
+      "title": "Giá vàng miếng SJC tăng nửa triệu đồng/lượng trong phiên cuối tuần",
+      "link": "https://tuoitre.vn/gia-vang-mieng-sjc-tang-nua-trieu-dong-luong-trong-phien-cuoi-tuan-100260620183251618.htm",
+      "summary": "Giá vàng thế giới kết thúc tuần giao dịch hôm nay, 20-6, ở mức 4.156,7 USD/ounce, giảm 53,7 USD/ounce so với phiên trước đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T20:27:40.908086+07:00",
+      "fetched": "2026-06-20T20:27:40.908393+07:00"
+    },
+    {
+      "id": "9651c8baec9725c6bc45aaf30be09d78",
+      "title": "Nhiều cây xanh bật gốc, gãy đổ sau mưa dông ở trung tâm Cao Lãnh",
+      "link": "https://tuoitre.vn/nhieu-cay-xanh-bat-goc-gay-do-sau-mua-dong-o-trung-tam-cao-lanh-100260620182128717.htm",
+      "summary": "Chiều 20-6, ông Bùi Quốc Nam - Chủ tịch UBND phường Cao Lãnh, tỉnh Đồng Tháp - cho biết địa phương đang phối hợp cùng công an, quân đội để dọn dẹp cây xanh bị gãy đổ sau mưa dông, cho thông xe một vài tuyến đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T20:27:40.907994+07:00",
+      "fetched": "2026-06-20T20:27:40.908076+07:00"
+    },
+    {
+      "id": "378529065c2443225173aab7e2422263",
+      "title": "Ukraine có màn đáp trả sau khi Ba Lan tước huân chương cao quý đã trao cho ông Zelensky",
+      "link": "https://tuoitre.vn/ukraine-co-man-dap-tra-sau-khi-ba-lan-tuoc-huan-chuong-cao-quy-da-trao-cho-ong-zelensky-100260620183752615.htm",
+      "summary": "Ngày 20-6, các quan chức cấp cao Ukraine cho biết họ sẽ trả lại loạt huân chương do Ba Lan trao tặng sau khi Tổng thống Ukraine Volodymyr Zelensky bị Ba Lan thu hồi Huân chương Đại bàng trắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T20:27:40.907835+07:00",
+      "fetched": "2026-06-20T20:27:40.907981+07:00"
+    },
     {
       "id": "d62746c7aa364f95b3d7bf97de177c12",
       "title": "Doanh nghiệp Hàn Quốc mở nhà máy sản xuất stent tiêu hóa tại TP.HCM",
@@ -301,6 +451,386 @@ window.newsData_2026_06_20 = {
       "category": "Tổng hợp",
       "published": "2026-06-20T14:42:42.105135+07:00",
       "fetched": "2026-06-20T14:42:42.105313+07:00"
+    },
+    {
+      "id": "7ff9391b97feb32e427c79b8c5a01864",
+      "title": "Nệm Thắng Lợi ra mắt thương hiệu Nệm Vạn Lợi, phục vụ mọi phân khúc khách hàng",
+      "link": "https://thanhnien.vn/nem-thang-loi-ra-mat-thuong-hieu-nem-van-loi-phuc-vu-moi-phan-khuc-khach-hang-185260620195335909.htm",
+      "summary": "Công ty TNHH Nệm Thắng Lợi chính thức giới thiệu thương hiệu Nệm Vạn Lợi hoàn thiện bộ sản phẩm giấc ngủ, đáp ứng trọn vẹn nhu cầu ngày càng đa dạng của người tiêu dùng Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T13:13:00+07:00",
+      "fetched": "2026-06-20T20:27:38.910413+07:00"
+    },
+    {
+      "id": "c66eb5c767ba63d32bfafb9fdd2ceeff",
+      "title": "Lý do kéo giảm hiệu suất điện mặt trời",
+      "link": "https://thanhnien.vn/ly-do-keo-giam-hieu-suat-dien-mat-troi-185260601100902291.htm",
+      "summary": "Sự thật hé lộ hiệu suất điện mặt trời không hề thấp, thực chất là đang bị 'bóp nghẹt' bởi một thủ phạm giấu mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T13:12:00+07:00",
+      "fetched": "2026-06-20T20:27:38.910561+07:00"
+    },
+    {
+      "id": "19e87c451940e9ed5f3f84e7d7f9fe7d",
+      "title": "Kết quả xổ số Vietlott Power 6/55 tối 20.6, giải độc đắc tăng 56 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-power-6-55-toi-206-giai-doc-dac-tang-56-ti-dong-185260620185315581.htm",
+      "summary": "Tối 20.6, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, không tìm thấy người trúng giải độc đắc nên số tiền cộng dồn tăng 56 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T13:04:00+07:00",
+      "fetched": "2026-06-20T20:27:38.910694+07:00"
+    },
+    {
+      "id": "d5c0f4c7eac2a663bf55dc811a16a05a",
+      "title": "Cô giáo của những mầm xanh nơi đầu sóng",
+      "link": "https://thanhnien.vn/co-giao-cua-nhung-mam-xanh-noi-dau-song-185260619170318479.htm",
+      "summary": "Ở đảo Bạch Long Vĩ (TP.Hải Phòng), có một người đàn bà giấu nỗi nhớ con vào đêm đen để hửng sáng lại bặm môi xách cám nuôi lợn, cuốc đất trồng rau nhưng sau đó vài giờ, đôi tay ấy lại mềm mại tết tóc, bón cháo cho những mầm xanh nơi phên dậu Tổ quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T13:01:00+07:00",
+      "fetched": "2026-06-20T20:27:38.910823+07:00"
+    },
+    {
+      "id": "7512bf2a048226444c0708adf379ee99",
+      "title": "Không đủ tàn nhẫn để xen ngang vào cuộc sống của anh",
+      "link": "https://vnexpress.net/khong-du-tan-nhan-de-xen-ngang-vao-cuoc-song-cua-anh-5087972.html",
+      "summary": "Bao nhiêu điều anh làm vì tôi, tôi đều vờ như không biết, vô tâm phủi sạch những yêu thương, tha thiết, dịu dàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T13:00:00+07:00",
+      "fetched": "2026-06-20T20:27:35.873094+07:00"
+    },
+    {
+      "id": "202eeafae846733b5a0f936adaddec16",
+      "title": "Xem nhanh 20h ngày 20.6: Hà Nội sẽ nắng nóng trên 39 độ C | Thủ khoa lớp 10 TP.HCM là học sinh trường tư",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-206-ha-noi-se-nang-nong-tren-39-do-c-thu-khoa-lop-10-tphcm-la-hoc-sinh-truong-tu-185260620192111353.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 20.6 có nhiều tin tức đáng chú ý về: Nắng nóng miền Bắc mạnh hơn, Hà Nội và 2 tỉnh trên 39 độ C; thủ khoa lớp 10 TP.HCM là học sinh trường tư có 2 môn đạt điểm tuyệt đối;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T13:00:00+07:00",
+      "fetched": "2026-06-20T20:27:38.910946+07:00"
+    },
+    {
+      "id": "3ee1e3ee6745d7313ee75506358ce4e6",
+      "title": "Nghịch lý nhiều người Việt học tiếng Anh lâu năm nhưng vẫn 'mất gốc'?",
+      "link": "https://thanhnien.vn/nghich-ly-nhieu-nguoi-viet-hoc-tieng-anh-lau-nam-nhung-van-mat-goc-185260619115533661.htm",
+      "summary": "Thạc sĩ Trần Anh Khoa, Giám đốc học thuật tại DOL English, cho biết: Phần lớn trường hợp \"mất gốc\" không phải vì học quá ít, mà vì học chưa đúng trọng tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T13:00:00+07:00",
+      "fetched": "2026-06-20T20:27:38.911087+07:00"
+    },
+    {
+      "id": "4cefa6a7e78583b5a0a6e5db588f2490",
+      "title": "'Định mệnh tình yêu' có thực sự tồn tại?",
+      "link": "https://thanhnien.vn/dinh-menh-tinh-yeu-co-thuc-su-ton-tai-185260618210649757.htm",
+      "summary": "Có những người chỉ gặp một lần đã thấy thân quen. Có những cuộc gặp tưởng chừng rất bình thường nhưng lại thay đổi cả cuộc đời. Nhiều người gọi đó là định mệnh tình yêu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T13:00:00+07:00",
+      "fetched": "2026-06-20T20:27:38.911212+07:00"
+    },
+    {
+      "id": "83d70ed7354677a61a29a11685432b65",
+      "title": "Bolivia ban bố tình trạng khẩn cấp vì biểu tình",
+      "link": "https://vnexpress.net/bolivia-ban-bo-tinh-trang-khan-cap-vi-bieu-tinh-5088012.html",
+      "summary": "Tổng thống Rodrigo Paz ban bố tình trạng khẩn cấp trên toàn Bolivia sau khi quốc gia Nam Mỹ trải qua hơn 6 tuần biểu tình đòi ông từ chức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T12:55:07+07:00",
+      "fetched": "2026-06-20T20:27:35.873261+07:00"
+    },
+    {
+      "id": "83d70ed7354677a61a29a11685432b65",
+      "title": "Bolivia ban bố tình trạng khẩn cấp vì biểu tình",
+      "link": "https://vnexpress.net/bolivia-ban-bo-tinh-trang-khan-cap-vi-bieu-tinh-5088012.html",
+      "summary": "Tổng thống Rodrigo Paz ban bố tình trạng khẩn cấp trên toàn Bolivia sau khi quốc gia Nam Mỹ trải qua hơn 6 tuần biểu tình đòi ông từ chức.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-20T12:55:07+07:00",
+      "fetched": "2026-06-20T20:27:42.268802+07:00"
+    },
+    {
+      "id": "6bc4081aaa3ddc7374cac3c1b396cf84",
+      "title": "TP HCM tăng mạnh hỗ trợ cho startup, doanh nghiệp công nghệ",
+      "link": "https://vnexpress.net/tp-hcm-tang-manh-ho-tro-cho-startup-doanh-nghiep-cong-nghe-5087999.html",
+      "summary": "TP HCM dùng ngân sách hỗ trợ 50-100% chi phí nhiều hạng mục cho doanh nghiệp khoa học công nghệ, công nghệ cao và startup đổi mới sáng tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T12:44:20+07:00",
+      "fetched": "2026-06-20T20:27:35.873409+07:00"
+    },
+    {
+      "id": "6bc4081aaa3ddc7374cac3c1b396cf84",
+      "title": "TP HCM tăng mạnh hỗ trợ cho startup, doanh nghiệp công nghệ",
+      "link": "https://vnexpress.net/tp-hcm-tang-manh-ho-tro-cho-startup-doanh-nghiep-cong-nghe-5087999.html",
+      "summary": "TP HCM dùng ngân sách hỗ trợ 50-100% chi phí nhiều hạng mục cho doanh nghiệp khoa học công nghệ, công nghệ cao và startup đổi mới sáng tạo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-20T12:44:20+07:00",
+      "fetched": "2026-06-20T20:27:47.941537+07:00"
+    },
+    {
+      "id": "f37f46e00d88fea53f7ddf1d1b06d95c",
+      "title": "Nghiên cứu mới hé lộ vai trò bất ngờ của vitamin C với người lớn tuổi",
+      "link": "https://thanhnien.vn/nghien-cuu-moi-he-lo-vai-tro-bat-ngo-cua-vitamin-c-voi-nguoi-lon-tuoi-185260620194339811.htm",
+      "summary": "Một nghiên cứu mới trên người lớn tuổi cho thấy duy trì đủ vitamin C có thể góp phần hỗ trợ sức khỏe nhận thức khi về già.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T12:43:00+07:00",
+      "fetched": "2026-06-20T20:27:38.911333+07:00"
+    },
+    {
+      "id": "3a92898b3139bf660ab93ebe87a59b1d",
+      "title": "Thủ khoa lớp 10 TP HCM mơ làm bác sĩ",
+      "link": "https://vnexpress.net/thu-khoa-lop-10-tp-hcm-mo-lam-bac-si-5087985.html",
+      "summary": "Dù \"sảy chân\" ở bài thi Toán chuyên, Đăng Phúc - thủ khoa lớp 10 hệ đại trà, quyết định theo lớp chuyên này để theo đuổi nghề bác sĩ trong tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T12:40:56+07:00",
+      "fetched": "2026-06-20T20:27:35.873544+07:00"
+    },
+    {
+      "id": "a5ef9c828d3f9bd7ac45dae32201e1fe",
+      "title": "Chuyên gia: Thời gian sẽ bù đắp sai lầm nếu mua cổ phiếu đầu ngành",
+      "link": "https://vnexpress.net/chuyen-gia-thoi-gian-se-bu-dap-sai-lam-neu-mua-co-phieu-dau-nganh-5088001.html",
+      "summary": "Theo CEO Quỹ Rồng Việt, cổ phiếu doanh nghiệp đầu ngành giúp hạn chế rủi ro, thậm chí theo thời gian có thể bù đắp sai lầm về điểm mua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T12:39:07+07:00",
+      "fetched": "2026-06-20T20:27:35.873677+07:00"
+    },
+    {
+      "id": "a5ef9c828d3f9bd7ac45dae32201e1fe",
+      "title": "Chuyên gia: Thời gian sẽ bù đắp sai lầm nếu mua cổ phiếu đầu ngành",
+      "link": "https://vnexpress.net/chuyen-gia-thoi-gian-se-bu-dap-sai-lam-neu-mua-co-phieu-dau-nganh-5088001.html",
+      "summary": "Theo CEO Quỹ Rồng Việt, cổ phiếu doanh nghiệp đầu ngành giúp hạn chế rủi ro, thậm chí theo thời gian có thể bù đắp sai lầm về điểm mua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-20T12:39:07+07:00",
+      "fetched": "2026-06-20T20:27:44.315315+07:00"
+    },
+    {
+      "id": "433149eb67e32081378e2957a0bf0e4b",
+      "title": "Bước ngoặt đổi đời của 'tội phạm quyến rũ nhất'",
+      "link": "https://vnexpress.net/buoc-ngoat-doi-doi-cua-toi-pham-quyen-ru-nhat-5087871.html",
+      "summary": "Nhờ bức ảnh do cảnh sát chụp sau khi bị bắt, Jeremy Meeks bỗng nổi tiếng nhờ diện mạo ấn tượng, nhận được 45 hợp đồng công việc và 300 lá thư mỗi ngày từ người hâm mộ khi ở trong tù.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T12:37:21+07:00",
+      "fetched": "2026-06-20T20:27:35.873814+07:00"
+    },
+    {
+      "id": "ebb9a5428ce7189b3d7721f32dde4c97",
+      "title": "Giám đốc X 'lôi kéo' nhân viên Meta bằng đồ ăn nhẹ",
+      "link": "https://vnexpress.net/giam-doc-x-loi-keo-nhan-vien-meta-bang-do-an-nhe-5088014.html",
+      "summary": "Trong khi Meta tăng ngân sách đồ ăn nhẹ để cải thiện tinh thần nhân viên, Nikitia Bier, Giám đốc sản phẩm X, nói sẵn sàng chi bằng hoặc hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T12:35:46+07:00",
+      "fetched": "2026-06-20T20:27:35.873939+07:00"
+    },
+    {
+      "id": "ebb9a5428ce7189b3d7721f32dde4c97",
+      "title": "Giám đốc X 'lôi kéo' nhân viên Meta bằng đồ ăn nhẹ",
+      "link": "https://vnexpress.net/giam-doc-x-loi-keo-nhan-vien-meta-bang-do-an-nhe-5088014.html",
+      "summary": "Trong khi Meta tăng ngân sách đồ ăn nhẹ để cải thiện tinh thần nhân viên, Nikitia Bier, Giám đốc sản phẩm X, nói sẵn sàng chi bằng hoặc hơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-20T12:35:46+07:00",
+      "fetched": "2026-06-20T20:27:47.940841+07:00"
+    },
+    {
+      "id": "be3d72a36223aeba739803c95d3c35d9",
+      "title": "Mưa giông quật đổ hàng chục cây xanh, đè hai ôtô",
+      "link": "https://vnexpress.net/mua-giong-quat-do-hang-chuc-cay-xanh-de-hai-oto-5088031.html",
+      "summary": "Giông lốc kéo dài khoảng 30 phút làm hàng chục cây xanh ở phường Cao Lãnh bật gốc, đè hai ôtô, nhiều công trình và khiến 6 căn nhà tốc mái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T12:17:46+07:00",
+      "fetched": "2026-06-20T20:27:35.874080+07:00"
+    },
+    {
+      "id": "5e60c957722792b42c5ffed96cd65676",
+      "title": "Casemiro gia nhập Inter Miami, làm đồng đội Messi",
+      "link": "https://vnexpress.net/casemiro-gia-nhap-inter-miami-lam-dong-doi-messi-5088030.html",
+      "summary": "Tiền vệ Casemiro đạt thỏa thuận gia nhập Inter Miami theo dạng tự do, sát cánh cùng Lionel Messi tại MLS từ nửa sau mùa giải 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T12:17:32+07:00",
+      "fetched": "2026-06-20T20:27:35.874213+07:00"
+    },
+    {
+      "id": "5e60c957722792b42c5ffed96cd65676",
+      "title": "Casemiro gia nhập Inter Miami, làm đồng đội Messi",
+      "link": "https://vnexpress.net/casemiro-gia-nhap-inter-miami-lam-dong-doi-messi-5088030.html",
+      "summary": "Tiền vệ Casemiro đạt thỏa thuận gia nhập Inter Miami theo dạng tự do, sát cánh cùng Lionel Messi tại MLS từ nửa sau mùa giải 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-20T12:17:32+07:00",
+      "fetched": "2026-06-20T20:27:49.060558+07:00"
+    },
+    {
+      "id": "e1340fc01d70d2599dd9d488dfe70b25",
+      "title": "Người đàn ông nguy kịch vì bệnh thủy đậu mụn nước nổi toàn thân",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-nguy-kich-vi-benh-thuy-dau-mun-nuoc-noi-toan-than-185260620164440052.htm",
+      "summary": "Xuất hiện mụn nước khắp cơ thể, người đàn ông nhập viện trong tình trạng nguy kịch. Các bác sĩ xác định bệnh nhân mắc thủy đậu biến chứng nặng, phải điều trị tích cực để tránh nguy cơ đe dọa tính mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T12:16:00+07:00",
+      "fetched": "2026-06-20T20:27:38.911449+07:00"
+    },
+    {
+      "id": "d121d11fe51226a42c71656cf2281f9c",
+      "title": "Đội tuyển Hà Lan cầu nguyện qua Zoom",
+      "link": "https://vnexpress.net/doi-tuyen-ha-lan-cau-nguyen-qua-zoom-5088026.html",
+      "summary": "Giữa làn sóng hoài nghi sau trận ra quân hòa Nhật Bản 2-2, các tuyển thủ Hà Lan tìm đến đức tin trước khi đấu Thụy Điển ở lượt hai bảng F World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T12:13:55+07:00",
+      "fetched": "2026-06-20T20:27:35.874334+07:00"
+    },
+    {
+      "id": "d121d11fe51226a42c71656cf2281f9c",
+      "title": "Đội tuyển Hà Lan cầu nguyện qua Zoom",
+      "link": "https://vnexpress.net/doi-tuyen-ha-lan-cau-nguyen-qua-zoom-5088026.html",
+      "summary": "Giữa làn sóng hoài nghi sau trận ra quân hòa Nhật Bản 2-2, các tuyển thủ Hà Lan tìm đến đức tin trước khi đấu Thụy Điển ở lượt hai bảng F World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-20T12:13:55+07:00",
+      "fetched": "2026-06-20T20:27:49.060717+07:00"
+    },
+    {
+      "id": "902dc6588aa999cd0b6ed150a1ec3942",
+      "title": "Nhật Bản tăng phí xin visa gấp 5 lần",
+      "link": "https://vnexpress.net/nhat-ban-tang-phi-xin-visa-gap-5-lan-5088004.html",
+      "summary": "Từ ngày 1/7, Nhật Bản áp dụng phí thị thực và lưu trú mới đối với người nước ngoài, đánh dấu đợt điều chỉnh giá đầu tiên trong gần nửa thế kỷ qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T12:04:57+07:00",
+      "fetched": "2026-06-20T20:27:35.874458+07:00"
+    },
+    {
+      "id": "189da6b22c329c651ec71215c2151843",
+      "title": "Bình luận 'nài nỉ xin chụp ảnh' khoét sâu rạn nứt Mỹ - Italy",
+      "link": "https://vnexpress.net/binh-luan-nai-ni-xin-chup-anh-khoet-sau-ran-nut-my-italy-5087894.html",
+      "summary": "Việc Tổng thống Trump nói rằng Thủ tướng Meloni \"nài nỉ\" được chụp ảnh cùng ông đã làm bùng phát tranh cãi, khoét sâu bất đồng tích tụ lâu nay giữa Mỹ và Italy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T12:00:00+07:00",
+      "fetched": "2026-06-20T20:27:35.874582+07:00"
+    },
+    {
+      "id": "5b07e986c228dc578dbb33130e95b259",
+      "title": "Hiểu sai đường lây sùi mào gà",
+      "link": "https://vnexpress.net/hieu-sai-duong-lay-sui-mao-ga-5087913.html",
+      "summary": "Nhiều người nghĩ sùi mào gà chỉ lây khi quan hệ tình dục trực tiếp, nên chủ quan với các tiếp xúc thân mật, nốt sùi ở miệng hoặc vùng sinh dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T12:00:00+07:00",
+      "fetched": "2026-06-20T20:27:35.874702+07:00"
+    },
+    {
+      "id": "79a7bc67ff74348f5e68b368ab2da023",
+      "title": "Mưa sao băng hơn 100 năm đạt cực đại từ tối nay 20.6",
+      "link": "https://thanhnien.vn/mua-sao-bang-hon-100-nam-dat-cuc-dai-tu-toi-nay-206-185260620100328882.htm",
+      "summary": "Trận mưa sao băng có lịch sử quan sát 110 năm trước, được xem là khó đoán nhất năm 2026 dự kiến sẽ đạt cực đại từ tối nay 20.6. Bất ngờ nào sẽ xảy ra?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T12:00:00+07:00",
+      "fetched": "2026-06-20T20:27:38.911566+07:00"
+    },
+    {
+      "id": "189da6b22c329c651ec71215c2151843",
+      "title": "Bình luận 'nài nỉ xin chụp ảnh' khoét sâu rạn nứt Mỹ - Italy",
+      "link": "https://vnexpress.net/binh-luan-nai-ni-xin-chup-anh-khoet-sau-ran-nut-my-italy-5087894.html",
+      "summary": "Việc Tổng thống Trump nói rằng Thủ tướng Meloni \"nài nỉ\" được chụp ảnh cùng ông đã làm bùng phát tranh cãi, khoét sâu bất đồng tích tụ lâu nay giữa Mỹ và Italy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-20T12:00:00+07:00",
+      "fetched": "2026-06-20T20:27:42.268958+07:00"
+    },
+    {
+      "id": "c4e393b885f7aa950ff0b7189220ff37",
+      "title": "Chủ tịch Khánh Hòa: Chính quyền càng minh bạch thì báo chí càng thuận lợi",
+      "link": "https://thanhnien.vn/chu-tich-khanh-hoa-chinh-quyen-cang-minh-bach-thi-bao-chi-cang-thuan-loi-185260620175022568.htm",
+      "summary": "Tại buổi gặp mặt các cơ quan báo chí, Chủ tịch UBND tỉnh Khánh Hòa Nguyễn Việt Hùng chia sẻ thẳng thắn rằng, chính quyền cần báo chí, và báo chí cũng cần một chính quyền biết lắng nghe, biết cung cấp thông tin, biết đối thoại và biết cầu thị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T11:39:00+07:00",
+      "fetched": "2026-06-20T20:27:38.911683+07:00"
+    },
+    {
+      "id": "1d2cc3bebca9e62699061d8ee00d775c",
+      "title": "3 loại ung thư tiết niệu khiến hơn 10.000 người Việt mắc mới mỗi năm",
+      "link": "https://thanhnien.vn/3-loai-ung-thu-tiet-nieu-khien-hon-10000-nguoi-viet-mac-moi-moi-nam-185260620174109087.htm",
+      "summary": "Ung thư tiết niệu gây hơn 10.000 ca mắc mới mỗi năm tại Việt Nam và giải phẫu bệnh được xem là 'tiêu chuẩn vàng' trong chẩn đoán ung thư này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T11:39:00+07:00",
+      "fetched": "2026-06-20T20:27:38.911797+07:00"
+    },
+    {
+      "id": "d1f8c42cf7f8532720300209ee0a56c6",
+      "title": "FIFA phải bồi thường cho cầu thủ Canada sau chấn thương kinh hoàng: Hơn 19 tỉ đồng",
+      "link": "https://thanhnien.vn/fifa-phai-boi-thuong-cho-cau-thu-canada-sau-chan-thuong-kinh-hoang-hon-19-ti-dong-185260620183025635.htm",
+      "summary": "Chiến thắng lịch sử 6-0 của đội tuyển Canada trước Qatar (19.6) tại World Cup 2026 đã bị phủ bóng bởi chấn thương nghiêm trọng của tiền vệ Ismael Kone. Không chỉ khiến đội tuyển Bắc Mỹ mất đi một nhân tố quan trọng, vụ việc còn kích hoạt Chương trình bảo vệ CLB của FIFA cho CLB Sassuolo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T11:37:00+07:00",
+      "fetched": "2026-06-20T20:27:38.911916+07:00"
+    },
+    {
+      "id": "71ae06d260780b7bea8164a315e15f71",
+      "title": "Loạt quy định mới về thuế giá trị gia tăng có hiệu lực từ 20.6",
+      "link": "https://thanhnien.vn/loat-quy-dinh-moi-ve-thue-gia-tri-gia-tang-co-hieu-luc-tu-206-185260620175938804.htm",
+      "summary": "Từ ngày 20.6, nhiều quy định mới về thuế giá trị gia tăng, đặc biệt là liên quan điều kiện khấu trừ thuế giá trị gia tăng đối với hàng hóa, dịch vụ mua trả chậm, trả góp chính thức có hiệu lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T11:36:00+07:00",
+      "fetched": "2026-06-20T20:27:38.912057+07:00"
+    },
+    {
+      "id": "1d2aa21a54324cd473f3aa2da1e439c8",
+      "title": "Nhận định Ecuador vs Curacao: Đội Nam Mỹ thị uy sức mạnh trước tân binh",
+      "link": "https://thanhnien.vn/nhan-dinh-ecuador-vs-curacao-doi-nam-my-thi-uy-suc-manh-truoc-tan-binh-1852606201820434.htm",
+      "summary": "Trận đấu giữa Ecuador vs Curacao thuộc khuôn khổ bảng E diễn ra vào lúc 7 giờ ngày 21.6. Cả hai đội đều được kỳ vọng sẽ đứng dậy mạnh mẽ sau thất bại để thắp lại cơ hội đi tiếp tại World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T11:28:00+07:00",
+      "fetched": "2026-06-20T20:27:38.912179+07:00"
+    },
+    {
+      "id": "a03d5d36350713f60b0643c41807f449",
+      "title": "Làm thế nào giảm quá kích buồng trứng khi thụ tinh ống nghiệm?",
+      "link": "https://vnexpress.net/lam-the-nao-giam-qua-kich-buong-trung-khi-thu-tinh-ong-nghiem-5087943.html",
+      "summary": "Tôi từng bị quá kích buồng trứng, phải nhập viện điều trị. Nếu tiếp tục thụ tinh ống nghiệm, có cách nào giúp tôi tránh tình trạng này không? (Thu Hằng, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T11:00:00+07:00",
+      "fetched": "2026-06-20T20:27:35.874833+07:00"
+    },
+    {
+      "id": "080aa84c1efa0b13843a9255befdf71e",
+      "title": "Nguyên tắc phân phối sức khi chạy bộ dưới trời gió mạnh",
+      "link": "https://vnexpress.net/chay-bo-trong-dieu-kien-gio-lon-5087746.html",
+      "summary": "Điều chỉnh tư thế, tăng tần suất guồng chân và áp dụng chiến thuật núp gió giúp runner bảo toàn thể lực khi thi đấu dưới thời tiết nhiều gió.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T11:00:00+07:00",
+      "fetched": "2026-06-20T20:27:35.874957+07:00"
+    },
+    {
+      "id": "b9aedeb4ba62656bb1b24de4b62e4579",
+      "title": "Thỏa thuận Mỹ - Iran thắp hy vọng thoát cơn 'khát' dầu của châu Á",
+      "link": "https://vnexpress.net/thoa-thuan-my-iran-thap-hy-vong-thoat-con-khat-dau-cua-chau-a-5087984.html",
+      "summary": "Thỏa thuận Mỹ - Iran mở hy vọng nối lại nguồn cung dầu eo hẹp và hạ nhiệt giá năng lượng ở châu Á, nhưng có độ trễ vài tháng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-20T10:35:19+07:00",
+      "fetched": "2026-06-20T20:27:44.315471+07:00"
     },
     {
       "id": "213aa3fc3fe382e2cc15ec4085951f0f",
