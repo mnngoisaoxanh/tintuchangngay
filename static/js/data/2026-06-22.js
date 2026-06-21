@@ -1,7 +1,47 @@
 window.newsData_2026_06_22 = {
   "date": "2026-06-22",
-  "lastUpdated": "2026-06-22T00:19:00.786931+07:00",
+  "lastUpdated": "2026-06-22T02:15:08.442213+07:00",
   "articles": [
+    {
+      "id": "1f5bba0a0f45159802f864a6d5013b1e",
+      "title": "HLV Grachen: Mbappe muốn ghi hat-trick như Messi",
+      "link": "https://tuoitre.vn/hlv-grachen-mbappe-muon-ghi-hat-trick-nhu-messi-100260621212109189.htm",
+      "summary": "Thầy của Công Phượng, ông Guillaume Graechen tự tin dự đoán tiền đạo Kylian Mbappe sẽ ghi hat-trick để bắt kịp Lionel Messi ở FIFA World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-22T02:14:58.605899+07:00",
+      "fetched": "2026-06-22T02:14:58.605956+07:00"
+    },
+    {
+      "id": "31a472ebcfd50a1ed0909cdd84185a85",
+      "title": "Tổng liên đoàn Lao động Việt Nam trao tặng bằng khen cho Báo Tuổi Trẻ",
+      "link": "https://tuoitre.vn/tong-lien-doan-lao-dong-viet-nam-trao-tang-bang-khen-cho-bao-tuoi-tre-100260621195111177.htm",
+      "summary": "Chiều 21-6, Tổng liên đoàn Lao động Việt Nam đã khen thưởng Báo Tuổi Trẻ có thành tích xuất sắc trong các hoạt động Tháng Công nhân và Tháng hành động về an toàn, vệ sinh lao động năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-22T02:14:58.605827+07:00",
+      "fetched": "2026-06-22T02:14:58.605888+07:00"
+    },
+    {
+      "id": "9f37a37f092b950d1c2fe31e92ff1062",
+      "title": "Rộ tin Thủ tướng Anh từ chức, ông Trump cũng đồn",
+      "link": "https://tuoitre.vn/ro-tin-thu-tuong-anh-tu-chuc-ong-trump-cung-don-10026062122482815.htm",
+      "summary": "Ông Trump khẳng định Thủ tướng Anh Keir Starmer sắp từ chức, giữa nhiều tin đồn ông Starmer có thể thông báo từ chức ngay ngày 21-6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-22T02:14:58.605747+07:00",
+      "fetched": "2026-06-22T02:14:58.605815+07:00"
+    },
+    {
+      "id": "862c9cc4c592516879d4f7ecd20f9b1d",
+      "title": "Ông Trump nổi giận, dọa đánh Iran trở lại",
+      "link": "https://tuoitre.vn/ong-trump-noi-gian-doa-danh-iran-tro-lai-100260621234444253.htm",
+      "summary": "Tổng thống Mỹ yêu cầu Iran ngừng tài trợ cho các nhóm vũ trang ở Lebanon, nếu không Mỹ sẽ tiến hành tấn công trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-22T02:14:58.605575+07:00",
+      "fetched": "2026-06-22T02:14:58.605730+07:00"
+    },
     {
       "id": "2b99dfced04eda916323872d8ecd7b07",
       "title": "Chủ tịch Quốc hội Trần Thanh Mẫn dự lễ trao Giải báo chí quốc gia lần thứ 20",
@@ -153,6 +193,56 @@ window.newsData_2026_06_22 = {
       "fetched": "2026-06-22T00:18:54.832780+07:00"
     },
     {
+      "id": "2adcafb3ba3faec0dc5414b64670dbc2",
+      "title": "5 thực phẩm dùng thường xuyên giúp giảm mỡ gan",
+      "link": "https://vnexpress.net/5-thuc-pham-dung-thuong-xuyen-giup-giam-mo-gan-5088062.html",
+      "summary": "Cà phê, cá béo, dầu ô liu, các loại quả mọng giàu vitamin C có thể giúp giảm tích tụ mỡ trong gan, hỗ trợ chống viêm và cải thiện chức năng gan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T18:00:00+07:00",
+      "fetched": "2026-06-22T02:14:53.059591+07:00"
+    },
+    {
+      "id": "1e913559835d84ab1bb0f82de7aa6601",
+      "title": "Ông Trump dọa tấn công, Iran nói sẵn sàng phản ứng",
+      "link": "https://thanhnien.vn/ong-trump-doa-tan-cong-iran-noi-san-sang-phan-ung-1852606212334351.htm",
+      "summary": "Ngay giữa lúc phái đoàn hai bên đang đàm phán, Tổng thống Mỹ Donald Trump đe dọa sẽ tấn công Iran nếu nước này không ngăn lực lượng Hezbollah \"gây rối\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T17:55:00+07:00",
+      "fetched": "2026-06-22T02:14:56.375830+07:00"
+    },
+    {
+      "id": "9c16341af4ed4aece227675a3cc2e914",
+      "title": "Cạnh tranh quyết liệt giải vô địch cầu lông thiếu niên quốc gia",
+      "link": "https://thanhnien.vn/canh-tranh-quyet-liet-giai-vo-dich-cau-long-thieu-nien-quoc-gia-185260622001837319.htm",
+      "summary": "Đà Nẵng chào đón gần 600 VĐV tham gia giải vô địch cầu lông các nhóm tuổi thiếu niên quốc gia tranh giải Donex.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T17:32:00+07:00",
+      "fetched": "2026-06-22T02:14:56.375990+07:00"
+    },
+    {
+      "id": "0c4632742089be8e78c5c4a43b3818cd",
+      "title": "Bị ông Trump đe dọa giữa lúc đàm phán, phái đoàn Iran đáp trả",
+      "link": "https://vnexpress.net/bi-ong-trump-de-doa-giua-luc-dam-phan-phai-doan-iran-dap-tra-5088296.html",
+      "summary": "Ông Trump dọa khiến phái đoàn Iran không còn đất nước để quay về nếu hai bên không đạt thỏa thuận, khiến đoàn đàm phán của Tehran tức giận phản đối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T17:18:55+07:00",
+      "fetched": "2026-06-22T02:14:53.059802+07:00"
+    },
+    {
+      "id": "0c4632742089be8e78c5c4a43b3818cd",
+      "title": "Bị ông Trump đe dọa giữa lúc đàm phán, phái đoàn Iran đáp trả",
+      "link": "https://vnexpress.net/bi-ong-trump-de-doa-giua-luc-dam-phan-phai-doan-iran-dap-tra-5088296.html",
+      "summary": "Ông Trump dọa khiến phái đoàn Iran không còn đất nước để quay về nếu hai bên không đạt thỏa thuận, khiến đoàn đàm phán của Tehran tức giận phản đối.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-21T17:18:55+07:00",
+      "fetched": "2026-06-22T02:15:00.558369+07:00"
+    },
+    {
       "id": "2f9c915afdc82f0306d7191bd76a3533",
       "title": "3 sai lầm cần tránh khi uống sữa vì làm giảm hấp thu canxi",
       "link": "https://thanhnien.vn/3-sai-lam-can-tranh-khi-uong-sua-vi-lam-giam-hap-thu-canxi-185260621192353795.htm",
@@ -171,6 +261,36 @@ window.newsData_2026_06_22 = {
       "category": "Tổng hợp",
       "published": "2026-06-21T17:10:00+07:00",
       "fetched": "2026-06-22T00:18:53.345084+07:00"
+    },
+    {
+      "id": "7603708e7e06e5913d245e19b5cb1807",
+      "title": "Ăn sầu riêng thế nào không gây tăng cân, ảnh hưởng đường huyết?",
+      "link": "https://vnexpress.net/an-sau-rieng-the-nao-khong-gay-tang-can-anh-huong-duong-huyet-5085779.html",
+      "summary": "Để thưởng thức sầu riêng an toàn, nên ăn lượng vừa phải vào ban ngày, giảm tinh bột đi kèm và người bệnh chuyển hóa cần hạn chế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T17:04:00+07:00",
+      "fetched": "2026-06-22T02:14:53.059976+07:00"
+    },
+    {
+      "id": "c28f5a95e12652f5a7049edf5b6c5a81",
+      "title": "Ngôi đại học số 1 Australia đổi chủ",
+      "link": "https://vnexpress.net/ngoi-dai-hoc-so-1-australia-doi-chu-5088009.html",
+      "summary": "Sau hàng chục năm thay nhau dẫn đầu, Đại học Quốc gia Australia và Melbourne bị New South Wales soán ngôi số 1 trên bảng xếp hạng QS.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T17:02:00+07:00",
+      "fetched": "2026-06-22T02:14:53.060134+07:00"
+    },
+    {
+      "id": "b6f9f2c39052ed909e9cd4965baaa15a",
+      "title": "3 con giáp có cơ hội đổi đời, tiền về không ngớt trong tuần mới",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-3-con-giap-co-co-hoi-doi-doi-tien-ve-khong-ngot-trong-tuan-moi-5087774.html",
+      "summary": "Trong vòng 7 ngày tới, một số con giáp được dự báo sẽ đón nhận những tín hiệu vô cùng khả quan trên phương diện tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T17:02:00+07:00",
+      "fetched": "2026-06-22T02:14:53.060288+07:00"
     },
     {
       "id": "c1dc369f337602b57e7524bbf59c0fa7",
@@ -211,6 +331,66 @@ window.newsData_2026_06_22 = {
       "category": "Thể thao",
       "published": "2026-06-21T17:00:00+07:00",
       "fetched": "2026-06-22T00:19:00.783408+07:00"
+    },
+    {
+      "id": "b5c49263bbddfee6a1b8df930b87026d",
+      "title": "Nhà báo làm gì?",
+      "link": "https://vnexpress.net/nha-bao-lam-gi-5088274.html",
+      "summary": "Cách đây vài tháng, khi triển khai hệ thống trí tuệ nhân tạo hỗ trợ sản xuất nội dung cho một tổ chức truyền thông thể thao, tôi đối mặt với câu hỏi: Nếu AI viết nhanh như vậy thì vai trò của người làm báo sẽ là gì?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T17:00:00+07:00",
+      "fetched": "2026-06-22T02:14:53.060447+07:00"
+    },
+    {
+      "id": "b53623fa8760037fe105106999206222",
+      "title": "Giá nhà đất Hà Nội giảm diện rộng vì 'trả lại giá trị thực'?",
+      "link": "https://vnexpress.net/gia-nha-dat-ha-noi-giam-dien-rong-vi-tra-lai-gia-tri-thuc-5088262.html",
+      "summary": "Khi giá tăng nhanh hơn tốc độ tăng thu nhập bình quân trong thời gian dài thì giá nhà đất đối mặt với một giai đoạn điều chỉnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T17:00:00+07:00",
+      "fetched": "2026-06-22T02:14:53.060608+07:00"
+    },
+    {
+      "id": "6a2ddbadc258f12214235e8d3bf37cbd",
+      "title": "Chồng trách bố tôi lạc hậu vì cho con trai tiền mua nhà, không cho con gái",
+      "link": "https://vnexpress.net/chong-trach-bo-toi-lac-hau-vi-cho-con-trai-tien-mua-nha-khong-cho-con-gai-5088223.html",
+      "summary": "Anh thường kể chuyện bạn bè lấy được vợ giàu hoặc được gia đình vợ hỗ trợ nhà cửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T17:00:00+07:00",
+      "fetched": "2026-06-22T02:14:53.060789+07:00"
+    },
+    {
+      "id": "ad27b5c5189aeb41c0d9fea23a91be3e",
+      "title": "Đang chờ thi hành án tử hình, 'trùm ma túy lớn nhất Sài Gòn' khai thêm tội",
+      "link": "https://vnexpress.net/dang-cho-thi-hanh-an-tu-hinh-trum-ma-tuy-lon-nhat-sai-gon-khai-them-toi-5088200.html",
+      "summary": "Trong thời gian chờ thi hành án tử hình, Phan Hữu Hiệu - được xem là \"trùm ma túy lớn nhất Sài Gòn\", khai nhận thêm hành vi cùng đàn em mua bán 95 bánh heroin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T17:00:00+07:00",
+      "fetched": "2026-06-22T02:14:53.061101+07:00"
+    },
+    {
+      "id": "1f8f27101de4b9585639935f1d1747be",
+      "title": "Đề xuất chỉ định thầu một số hạng mục đường sắt",
+      "link": "https://vnexpress.net/de-xuat-chi-dinh-thau-mot-so-hang-muc-duong-sat-5088149.html",
+      "summary": "Bộ Công Thương đề xuất áp dụng các cơ chế đặc thù, gồm chỉ định thầu và chia gói thầu, nhằm tăng tỷ lệ nội địa hóa trong các dự án đường sắt trọng điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T17:00:00+07:00",
+      "fetched": "2026-06-22T02:14:53.061260+07:00"
+    },
+    {
+      "id": "4e59f180db1c9c00814a7e7ddc7756d4",
+      "title": "Lịch sử sông nước Nam Bộ qua triển lãm",
+      "link": "https://vnexpress.net/lich-su-song-nuoc-nam-bo-qua-trien-lam-5087492.html",
+      "summary": "Các bảo tàng phối hợp trưng bày hiện vật từ cách đây hơn 2.500 năm, cho thấy một góc nhìn về lịch sử miền Nam từ sông nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T17:00:00+07:00",
+      "fetched": "2026-06-22T02:14:53.061410+07:00"
     },
     {
       "id": "f121d15bb399e28a4cd95ac24528d7bf",
