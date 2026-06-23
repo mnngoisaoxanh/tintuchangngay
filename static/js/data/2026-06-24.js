@@ -1,6 +1,6 @@
 window.newsData_2026_06_24 = {
   "date": "2026-06-24",
-  "lastUpdated": "2026-06-24T02:50:03.159370+07:00",
+  "lastUpdated": "2026-06-24T04:23:56.100598+07:00",
   "articles": [
     {
       "id": "4568c7e60a0b7e194bdbf33a87dc8451",
@@ -181,6 +181,26 @@ window.newsData_2026_06_24 = {
       "category": "Tổng hợp",
       "published": "2026-06-24T00:44:22.357109+07:00",
       "fetched": "2026-06-24T00:44:22.357250+07:00"
+    },
+    {
+      "id": "b979abcb4f01a1472bc1c2068bedaa3c",
+      "title": "Chú vịt mê taco gây sốt World Cup được Tổng thống Mexico mời gặp mặt",
+      "link": "https://thanhnien.vn/chu-vit-me-taco-gay-sot-world-cup-duoc-tong-thong-mexico-moi-gap-mat-185260623124816211.htm",
+      "summary": "Chú vịt cưng Merlin, nổi tiếng với chiếc áo đội tuyển Mexico cỡ mini và sở thích ăn taco vào mỗi Chủ nhật, đã được mời tới gặp Tổng thống Mexico Claudia Sheinbaum tại thành phố Mexico.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-23T21:23:00+07:00",
+      "fetched": "2026-06-24T04:23:45.399910+07:00"
+    },
+    {
+      "id": "01baa65ce5cecdcfb1f898192e4be135",
+      "title": "Chủ nhà Mỹ đổi quy định, tạo điều kiện đặc biệt cho Iran trước trận quan trọng",
+      "link": "https://thanhnien.vn/chu-nha-my-doi-quy-dinh-tao-dieu-kien-dac-biet-cho-iran-truoc-tran-quan-trong-185260624021937393.htm",
+      "summary": "Trước sức ép từ những phản ứng liên quan đến lịch trình di chuyển dày đặc tại World Cup 2026, chủ nhà Mỹ đã quyết định nới lỏng quy định nhập cảnh đối với đội tuyển Iran, qua đó giúp đại diện Tây Á có thêm thời gian chuẩn bị cho trận đấu then chốt với Ai Cập ở bảng G.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-23T19:50:00+07:00",
+      "fetched": "2026-06-24T04:23:45.400059+07:00"
     },
     {
       "id": "c0cbf092d20274078d52d7bf4504c56e",
@@ -541,6 +561,16 @@ window.newsData_2026_06_24 = {
       "category": "Thể thao",
       "published": "2026-06-23T16:00:00+07:00",
       "fetched": "2026-06-24T00:44:29.803005+07:00"
+    },
+    {
+      "id": "f450de2feecba44b60caa42884559add",
+      "title": "Ronaldo lập cú đúp, Bồ Đào Nha đại thắng Uzbekistan",
+      "link": "https://vnexpress.net/bo-dao-nha-vs-uzbekistan-5089123-tong-thuat.html",
+      "summary": "Cristiano Ronaldo ghi hai bàn giúp Bồ Đào Nha thắng Uzbekistan 5-0 tại lượt hai bảng K, World Cup 2026 trên sân Houston ở Texas.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-23T16:00:00+07:00",
+      "fetched": "2026-06-24T04:23:56.096199+07:00"
     },
     {
       "id": "0daf3adc5cb0e278bb7e71409fc15c83",
