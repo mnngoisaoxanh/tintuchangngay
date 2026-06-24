@@ -1,6 +1,6 @@
 window.newsData_2026_06_25 = {
   "date": "2026-06-25",
-  "lastUpdated": "2026-06-25T04:16:28.837914+07:00",
+  "lastUpdated": "2026-06-25T05:58:50.599646+07:00",
   "articles": [
     {
       "id": "f7351ee62c4628b4b9736481c510e427",
@@ -231,6 +231,226 @@ window.newsData_2026_06_25 = {
       "category": "Tổng hợp",
       "published": "2026-06-25T00:47:03.735996+07:00",
       "fetched": "2026-06-25T00:47:03.736129+07:00"
+    },
+    {
+      "id": "80bff6ba58fa0044539c29097e7d135b",
+      "title": "Nghịch lý giá trái cây",
+      "link": "https://thanhnien.vn/nghich-ly-gia-trai-cay-185260624225745215.htm",
+      "summary": "Những ngày gần đây, người ta bắt gặp trái cây đủ mọi chủng loại bán tràn khắp nơi với giá khá rẻ. Đáng nói, giá trái cây xuất khẩu cũng vẫn rất tốt, lượng vẫn tăng. Vậy điều gì đang xảy ra trên thị trường?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:56:00+07:00",
+      "fetched": "2026-06-25T05:58:42.203710+07:00"
+    },
+    {
+      "id": "5fdebc67b564e88871007a4cf97797af",
+      "title": "Ngân hàng đã cho vay hơn 1 triệu tỉ đồng",
+      "link": "https://thanhnien.vn/ngan-hang-da-cho-vay-hon-1-trieu-ti-dong-185260624221543161.htm",
+      "summary": "Chưa đầy 6 tháng đầu năm, các ngân hàng đã cho vay ra nền kinh tế hơn 1,08 triệu tỉ đồng. Dòng vốn chủ yếu chảy vào sản xuất, kinh doanh nhằm thúc đẩy tăng trưởng. Tuy nhiên chênh lệch tăng trưởng giữa huy động và cho vay đang tạo nhiều áp lực lên lãi suất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:56:00+07:00",
+      "fetched": "2026-06-25T05:58:42.203888+07:00"
+    },
+    {
+      "id": "2ebf78d3a95288c6081f9bce2dc83bde",
+      "title": "Để VN xây dựng trường ĐH tư thục đẳng cấp: Phát triển mô hình không vì lợi nhuận",
+      "link": "https://thanhnien.vn/de-vn-xay-dung-truong-dh-tu-thuc-dang-cap-phat-trien-mo-hinh-khong-vi-loi-nhuan-185260624230422376.htm",
+      "summary": "Nhiều ĐH tư thục hàng đầu thế giới phát triển mạnh đều do vận hành theo mô hình không vì lợi nhuận. Cốt lõi sâu xa hơn, họ xây dựng được một mô hình đúng với sứ mạng nhằm phụng sự học thuật dài hạn vì người học, chứ không chỉ là một mô hình tài chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:54:00+07:00",
+      "fetched": "2026-06-25T05:58:42.204051+07:00"
+    },
+    {
+      "id": "fa5f621f08fd03e59c99d225830fde48",
+      "title": "Khát vọng lớn làm nên tương lai Việt Nam",
+      "link": "https://thanhnien.vn/khat-vong-lon-lam-nen-tuong-lai-viet-nam-185260624233612458.htm",
+      "summary": "Mỗi giai đoạn phát triển của đất nước đều đặt lên vai thế hệ trẻ những sứ mệnh riêng. Trong bối cảnh Việt Nam đang bước vào thời kỳ phát triển mới với mục tiêu trở thành nước phát triển, thu nhập cao vào năm 2045, yêu cầu đối với thanh niên hôm nay không chỉ là học tập tốt, lao động giỏi mà còn phải...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:53:00+07:00",
+      "fetched": "2026-06-25T05:58:42.204216+07:00"
+    },
+    {
+      "id": "1917dbcdfef7fe3d9b758b683b32a845",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 25.6.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2562026-18526062423394185.htm",
+      "summary": "Tin tức Tuổi trẻ Việt Nam tự hào, vững tin theo Đảng; Bóng đá Á - Phi trước loạt trận phán quyết; Mỹ thúc đẩy \"lá bài\" mới để răn đe quân sự Trung Quốc trên biển... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 25.6.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:50:00+07:00",
+      "fetched": "2026-06-25T05:58:42.204379+07:00"
+    },
+    {
+      "id": "0ede9400627717442d04e880ad78e754",
+      "title": "Nhiều điểm nhấn từ kết quả bầu cử sơ bộ Mỹ",
+      "link": "https://thanhnien.vn/nhieu-diem-nhan-tu-ket-qua-bau-cu-so-bo-my-185260624212705788.htm",
+      "summary": "Trong diễn biến mới nhất về loạt bầu cử sơ bộ tại Mỹ ngày 23.6, truyền thông nước này đã đặc biệt quan tâm đến việc 3 ứng viên được Thị trưởng TP.New York Zohran Mamdani hậu thuẫn đều đã giành chiến thắng trong cuộc đua của đảng Dân chủ vào hạ viện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:47:00+07:00",
+      "fetched": "2026-06-25T05:58:42.204534+07:00"
+    },
+    {
+      "id": "4f887c4115ecd66fbd76539d42b7855d",
+      "title": "Tuyển sinh không thể chỉ dựa vào một kỳ thi",
+      "link": "https://thanhnien.vn/tuyen-sinh-khong-the-chi-dua-vao-mot-ky-thi-185260624180510203.htm",
+      "summary": "Kinh nghiệm quốc tế, yêu cầu đổi mới giáo dục trong nước và nhu cầu phát triển nguồn nhân lực đều cho thấy đã đến lúc VN cần chuyển từ mô hình tuyển sinh chủ yếu dựa vào thi tuyển sang mô hình kết hợp giữa xét tuyển và thi tuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:45:00+07:00",
+      "fetched": "2026-06-25T05:58:42.204721+07:00"
+    },
+    {
+      "id": "763339c6d8f8d096541063cb894de6a8",
+      "title": "5 giờ sáng ở chợ cá Cửa Lở: Chậm chân một chút là hết hải sản tươi",
+      "link": "https://thanhnien.vn/5-gio-sang-o-cho-ca-cua-lo-cham-chan-mot-chut-la-het-hai-san-tuoi-18526062414132598.htm",
+      "summary": "Khi mặt trời vừa ló dạng, chợ cá Cửa Lở (Quảng Ngãi) đã ken đặc người. Những mẻ cá, mực vừa lên từ tàu được săn mua nhanh đến mức nhiều người nói đi trễ một chút là hết hàng tươi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:45:00+07:00",
+      "fetched": "2026-06-25T05:58:42.204875+07:00"
+    },
+    {
+      "id": "d1bd47ba33cd6cdad7bf660b2398e796",
+      "title": "Tiêu điểm quốc tế ngày 25.6: Thượng viện làm khó ông Trump | Ông Zelensky bỏ họp ở Ba Lan",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-256-thuong-vien-lam-kho-ong-trump-ong-zelensky-bo-hop-o-ba-lan-185260624235211372.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 25.6.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:30:00+07:00",
+      "fetched": "2026-06-25T05:58:42.205030+07:00"
+    },
+    {
+      "id": "30006bebc9960852372503e19f81be59",
+      "title": "Triệt phá nhiều ổ nhóm tiếp tay cho người nước ngoài cư trú trái phép",
+      "link": "https://thanhnien.vn/triet-pha-nhieu-o-nhom-tiep-tay-cho-nguoi-nuoc-ngoai-cu-tru-trai-phep-185260624220134343.htm",
+      "summary": "Công an TP.HCM vừa triệt phá nhiều ổ nhóm chuyên tiếp tay cho người nước ngoài cư trú trái phép, ẩn náu để hoạt động lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:30:00+07:00",
+      "fetched": "2026-06-25T05:58:42.205178+07:00"
+    },
+    {
+      "id": "74f3e9a239208a7a9397c44e595c67eb",
+      "title": "Đình Mỹ Hòa đậm đà bản sắc văn hóa làng xã Nam bộ",
+      "link": "https://thanhnien.vn/dinh-my-hoa-dam-da-ban-sac-van-hoa-lang-xa-nam-bo-185260624215452004.htm",
+      "summary": "Sáng 24.6 tại TP.HCM, Sở VH-TT TP.HCM và UBND xã Bà Điểm đã tổ chức buổi Tọa đàm khoa học về di tích lịch sử đình Mỹ Hòa (tọa lạc tại xã Bà Điểm), thu hút đông đảo ý kiến tâm huyết của các nhà nghiên cứu và cư dân địa phương, nhằm ghi nhận và xác lập hồ sơ khoa học xếp hạng di tích lịch sử - văn hóa...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:30:00+07:00",
+      "fetched": "2026-06-25T05:58:42.205328+07:00"
+    },
+    {
+      "id": "e2cc8a72f089d72023cd2f9aa06cdf4d",
+      "title": "3 người trúng độc đắc 10 tỉ xổ số miền Nam đài Vũng Tàu, nhận tiền mặt",
+      "link": "https://thanhnien.vn/3-nguoi-trung-doc-dac-10-ti-xo-so-mien-nam-dai-vung-tau-nhan-tien-mat-185260624161020843.htm",
+      "summary": "3 người ở Tây Ninh trúng độc đắc 5 tờ vé số theo kết quả xổ số miền Nam ngày 23 tháng 6. Họ nhờ đại lý đến nhà đổi thưởng và nhận tiền trúng số bằng tiền mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:30:00+07:00",
+      "fetched": "2026-06-25T05:58:42.205476+07:00"
+    },
+    {
+      "id": "b3a7ae8fca7cf81d0a1274b133c8fe2b",
+      "title": "Bosnia - Herzegovina 3-1 Qatar, World Cup 2026: Thấp thỏm chờ lách cửa hẹp",
+      "link": "https://thanhnien.vn/bosnia-herzegovina-3-1-qatar-world-cup-2026-thap-thom-cho-lach-cua-hep-185260625051913116.htm",
+      "summary": "Giành chiến thắng thuyết phục 3-1 trước Qatar ở lượt trận cuối bảng B diễn ra rạng sáng 25.6, đội tuyển Bosnia - Herzegovina cán đích ở vị trí thứ ba với 4 điểm. Đội bóng châu Âu còn cơ hội lọt vào vòng knock-out World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:22:00+07:00",
+      "fetched": "2026-06-25T05:58:42.205648+07:00"
+    },
+    {
+      "id": "0f2ce7741972659f843e1c78574543d8",
+      "title": "Bên trong khu cầy vằn sơ sinh quý hiếm: Vì sao cầy mẹ phải tách khỏi con?",
+      "link": "https://thanhnien.vn/ben-trong-khu-cay-van-so-sinh-quy-hiem-vi-sao-cay-me-phai-tach-khoi-con-185260624100546749.htm",
+      "summary": "Trong khu bảo tồn động vật hoang dã, 4 cầy vằn sơ sinh quý hiếm đang được nhân viên cứu hộ chăm sóc bằng sữa công thức. Việc phải tách khỏi mẹ ngay sau sinh xuất phát từ một lý do đặc biệt liên quan đến tập tính của loài này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:20:00+07:00",
+      "fetched": "2026-06-25T05:58:42.205806+07:00"
+    },
+    {
+      "id": "6cb93702d1eaf38e0c34112865793d81",
+      "title": "Tử vi ngày 25 tháng 6: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-25-thang-6-con-giap-nao-may-man-hom-nay-185260624221515546.htm",
+      "summary": "Tử vi ngày 25 tháng 6 mang đến những gợi ý tham khảo cho 12 con giáp. Đừng quên 'giá trị của việc giữ lời hứa với chính mình'. Chúng ta thường cố gắng không thất hứa với người khác, nhưng lại dễ bỏ qua những cam kết dành cho bản thân như tập thể dục, đọc sách, tiết kiệm tiền hay theo đuổi một mục ti...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:15:00+07:00",
+      "fetched": "2026-06-25T05:58:42.205961+07:00"
+    },
+    {
+      "id": "9c3720fcf726a098406ece782a100211",
+      "title": "Livestream robot hình người làm việc trong nhà máy",
+      "link": "https://vnexpress.net/livestream-robot-hinh-nguoi-lam-viec-trong-nha-may-5089262.html",
+      "summary": "Các công ty Agibot (Trung Quốc) và Figure AI (Mỹ) đã chứng minh khả năng làm việc của robot hình người tại nhà máy bằng cách phát trực tiếp hàng trăm giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:00:00+07:00",
+      "fetched": "2026-06-25T05:58:39.373890+07:00"
+    },
+    {
+      "id": "d92087996893819ccd4fa1283ba95abf",
+      "title": "Lương bác sĩ tăng từ ngày 1/7",
+      "link": "https://vnexpress.net/luong-bac-si-tang-tu-ngay-1-7-5089143.html",
+      "summary": "Từ 1/7, lương cơ sở tăng lên 2,53 triệu đồng/tháng, kéo theo mức lương cao nhất của bác sĩ có thể vượt 20 triệu đồng/tháng chưa tính phụ cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:00:00+07:00",
+      "fetched": "2026-06-25T05:58:39.374071+07:00"
+    },
+    {
+      "id": "f9575d0f486bb8be35f7896d3836d33a",
+      "title": "Sinh cảnh rừng Cát Tiên trước ngày về Đồng Nai",
+      "link": "https://vnexpress.net/sinh-canh-rung-cat-tien-truoc-ngay-ve-dong-nai-5087633.html",
+      "summary": "Vườn quốc gia Cát Tiên được cho là \"báu vật thiên nhiên\" với đa dạng sinh học, nhiều cổ thụ và động vật quý hiếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:00:00+07:00",
+      "fetched": "2026-06-25T05:58:39.374242+07:00"
+    },
+    {
+      "id": "6860f30f4a862f2ffb668dbf3aaf4f0f",
+      "title": "CATL làm pin mỏng hơn để hạ gầm xe điện hiệu suất cao",
+      "link": "https://vnexpress.net/catl-lam-pin-mong-hon-de-ha-gam-xe-dien-hieu-suat-cao-5089367.html",
+      "summary": "Hãng pin hàng đầu thế giới cải tiến cấu trúc phần cứng giúp giảm độ dày pin, cho phép chế tạo các dòng xe điện gầm thấp hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:00:00+07:00",
+      "fetched": "2026-06-25T05:58:39.374407+07:00"
+    },
+    {
+      "id": "9c3720fcf726a098406ece782a100211",
+      "title": "Livestream robot hình người làm việc trong nhà máy",
+      "link": "https://vnexpress.net/livestream-robot-hinh-nguoi-lam-viec-trong-nha-may-5089262.html",
+      "summary": "Các công ty Agibot (Trung Quốc) và Figure AI (Mỹ) đã chứng minh khả năng làm việc của robot hình người tại nhà máy bằng cách phát trực tiếp hàng trăm giờ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-24T22:00:00+07:00",
+      "fetched": "2026-06-25T05:58:48.886296+07:00"
+    },
+    {
+      "id": "e0ac3d21955521616b6eb221837c0419",
+      "title": "Cả ba đội chủ nhà World Cup 2026 vượt qua vòng bảng",
+      "link": "https://vnexpress.net/ca-ba-doi-chu-nha-world-cup-2026-vuot-qua-vong-bang-5089597.html",
+      "summary": "Lần đầu trong lịch sử World Cup có ba quốc gia đồng chủ nhà, và cả ba đều góp mặt ở vòng knock-out khi Canada nối gót Mỹ và Mexico sau lượt cuối bảng B.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T21:41:22+07:00",
+      "fetched": "2026-06-25T05:58:39.374590+07:00"
+    },
+    {
+      "id": "e0ac3d21955521616b6eb221837c0419",
+      "title": "Cả ba đội chủ nhà World Cup 2026 vượt qua vòng bảng",
+      "link": "https://vnexpress.net/ca-ba-doi-chu-nha-world-cup-2026-vuot-qua-vong-bang-5089597.html",
+      "summary": "Lần đầu trong lịch sử World Cup có ba quốc gia đồng chủ nhà, và cả ba đều góp mặt ở vòng knock-out khi Canada nối gót Mỹ và Mexico sau lượt cuối bảng B.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-24T21:41:22+07:00",
+      "fetched": "2026-06-25T05:58:50.594065+07:00"
     },
     {
       "id": "4bed945a3298566c7c20bfd7dee63f19",
