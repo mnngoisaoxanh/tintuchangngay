@@ -1,7 +1,27 @@
 window.newsData_2026_06_25 = {
   "date": "2026-06-25",
-  "lastUpdated": "2026-06-25T00:47:10.184419+07:00",
+  "lastUpdated": "2026-06-25T02:26:09.196753+07:00",
   "articles": [
+    {
+      "id": "1663477869f03f6da2c05c8d653b189f",
+      "title": "Dự đoán tỉ số World Cup: Siêu dự bị của Đức tiễn Ecuador khỏi giải",
+      "link": "https://tuoitre.vn/du-doan-ti-so-world-cup-sieu-du-bi-cua-duc-tien-ecuador-khoi-giai-100260624214837355.htm",
+      "summary": "3h ngày 26-6 (giờ Việt Nam) sẽ diễn ra trận Đức - Ecuador trên sân vận động Met Life tại New Jersey (Mỹ). Một trận cầu không còn ý nghĩa với tuyển Đức, nhưng lại là cuộc chiến sống còn của Ecuador.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T02:26:03.358280+07:00",
+      "fetched": "2026-06-25T02:26:03.358339+07:00"
+    },
+    {
+      "id": "87602b00323bc5997b0f8b768c536081",
+      "title": "Dự đoán tỉ số World Cup: Úc thủ hòa Paraguay, giành vé đi tiếp",
+      "link": "https://tuoitre.vn/du-doan-ti-so-world-cup-uc-thu-hoa-paraguay-gianh-ve-di-tiep-100260624183259674.htm",
+      "summary": "Úc được dự đoán sẽ thủ hòa Paraguay ở lượt đấu cuối cùng bảng D lúc 9h tại Santa Clara (Mỹ) ngày 26-5 để đoạt vé chính thức đi tiếp ở World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T02:26:03.358132+07:00",
+      "fetched": "2026-06-25T02:26:03.358267+07:00"
+    },
     {
       "id": "179712f85756082789958a1d4a70b9a1",
       "title": "Hàng nghìn người khống chế cháy rừng kéo dài 2 ngày liền ở Quảng Trị",
@@ -151,6 +171,86 @@ window.newsData_2026_06_25 = {
       "category": "Tổng hợp",
       "published": "2026-06-25T00:47:03.735996+07:00",
       "fetched": "2026-06-25T00:47:03.736129+07:00"
+    },
+    {
+      "id": "504d34c0e98253ffa3dfd1925325b8f5",
+      "title": "Gan nhiễm mỡ có khiến khó giảm cân hơn không?",
+      "link": "https://thanhnien.vn/gan-nhiem-mo-co-khien-kho-giam-can-hon-khong-185260625004847557.htm",
+      "summary": "Có những trường hợp bị gan nhiễm mỡ và cố gắng ăn kiêng, tập thể dục để giảm cân. Tuy nhiên, cân nặng vẫn giảm rất chậm, thậm chí gần như không thay đổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T18:19:00+07:00",
+      "fetched": "2026-06-25T02:26:01.709579+07:00"
+    },
+    {
+      "id": "9c30aa937b08ae37b515cd82035723a9",
+      "title": "Ronaldo đã bật công tắc cỗ máy chinh phục",
+      "link": "https://thanhnien.vn/ronaldo-da-bat-cong-tac-co-may-chinh-phuc-18526062423443628.htm",
+      "summary": "Áp lực từ hoài nghi và chế giễu có thể trở thành động lực đưa Bồ Đào Nha và Cristiano Ronaldo tiến xa tại World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T18:05:00+07:00",
+      "fetched": "2026-06-25T02:26:01.709724+07:00"
+    },
+    {
+      "id": "720f3ee58c1431f8f18fdb8e27647aad",
+      "title": "Bóng đá Á - Phi trước loạt trận phán quyết",
+      "link": "https://thanhnien.vn/bong-da-a-phi-truoc-loat-tran-phan-quyet-185260624234103929.htm",
+      "summary": "Vòng bảng World Cup 2026 sẽ khép lại với khá nhiều cuộc so tài Á - Phi. Đa số trận đều ở tình thế 'còn nước còn tát' đối với các đội liên quan. Kết quả sẽ cho thấy rõ hơn thực lực của bóng đá Á - Phi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T18:04:00+07:00",
+      "fetched": "2026-06-25T02:26:01.709863+07:00"
+    },
+    {
+      "id": "e2f3d5054bb90593f2986542bf786a66",
+      "title": "Hành khách chỉ được mang hai sạc dự phòng lên máy bay từ 1/7",
+      "link": "https://vnexpress.net/hanh-khach-chi-duoc-mang-hai-sac-du-phong-len-may-bay-tu-1-7-5089557.html",
+      "summary": "Từ ngày 1/7, mỗi hành khách chỉ được mang tối đa hai sạc dự phòng lên máy bay và phải để trong hành lý xách tay, theo quy định mới của ngành hàng không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T18:00:00+07:00",
+      "fetched": "2026-06-25T02:25:58.934386+07:00"
+    },
+    {
+      "id": "61036a685ce215117b0eeb1e1bcbff4f",
+      "title": "Loạt công trình bảo vệ oanh tạc cơ xuất hiện ở căn cứ chiến lược Nga",
+      "link": "https://vnexpress.net/loat-cong-trinh-bao-ve-oanh-tac-co-xuat-hien-o-can-cu-chien-luoc-nga-5089006.html",
+      "summary": "Ảnh vệ tinh cho thấy Nga đang xây nhà chứa kiên cố tại sân bay Engels-2, nơi đóng quân chủ chốt của phi đội Tu-160 và nhiều máy bay Tu-95MS.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T18:00:00+07:00",
+      "fetched": "2026-06-25T02:25:58.934543+07:00"
+    },
+    {
+      "id": "e37f6c73e99ad9ee89eae33eda8795a1",
+      "title": "Những combo ăn uống âm thầm hại thận",
+      "link": "https://vnexpress.net/nhung-combo-an-uong-am-tham-hai-than-5088907.html",
+      "summary": "Ăn gà rán kết hợp uống trà sữa trân châu, thưởng thức đồ nướng kèm bia là những cặp ăn uống có thể tăng gánh nặng chuyển hóa gây áp lực lớn lên thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T18:00:00+07:00",
+      "fetched": "2026-06-25T02:25:58.934690+07:00"
+    },
+    {
+      "id": "eba261cea1ce91e4f42dfe7cca78747f",
+      "title": "5 thực phẩm dùng đúng thời điểm giúp tăng lợi ích",
+      "link": "https://vnexpress.net/5-thuc-pham-dung-dung-thoi-diem-giup-tang-loi-ich-5089456.html",
+      "summary": "Ăn trứng vào buổi sáng giúp no lâu, uống cà phê sau bữa sáng để duy trì sự tỉnh táo, còn chuối phù hợp trước hoặc sau khi tập luyện vì tốt cho cơ bắp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T18:00:00+07:00",
+      "fetched": "2026-06-25T02:25:58.934833+07:00"
+    },
+    {
+      "id": "61036a685ce215117b0eeb1e1bcbff4f",
+      "title": "Loạt công trình bảo vệ oanh tạc cơ xuất hiện ở căn cứ chiến lược Nga",
+      "link": "https://vnexpress.net/loat-cong-trinh-bao-ve-oanh-tac-co-xuat-hien-o-can-cu-chien-luoc-nga-5089006.html",
+      "summary": "Ảnh vệ tinh cho thấy Nga đang xây nhà chứa kiên cố tại sân bay Engels-2, nơi đóng quân chủ chốt của phi đội Tu-160 và nhiều máy bay Tu-95MS.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-24T18:00:00+07:00",
+      "fetched": "2026-06-25T02:26:04.792786+07:00"
     },
     {
       "id": "11ffdea786c8e7ceb718e97240f92f2e",
