@@ -1,7 +1,67 @@
 window.newsData_2026_06_25 = {
   "date": "2026-06-25",
-  "lastUpdated": "2026-06-25T02:26:09.196753+07:00",
+  "lastUpdated": "2026-06-25T04:16:28.837914+07:00",
   "articles": [
+    {
+      "id": "f7351ee62c4628b4b9736481c510e427",
+      "title": "Lịch trực tiếp World Cup 2026 ngày 26-5: Nhật gặp Thụy Điển, Đức, Hà Lan ra sân",
+      "link": "https://tuoitre.vn/lich-truc-tiep-world-cup-2026-ngay-26-5-nhat-gap-thuy-dien-duc-ha-lan-ra-san-10026062416242577.htm",
+      "summary": "Rạng sáng 26-5, World Cup 2026 sẽ diễn ra các trận đấu cuối cùng ở các bảng D, E, F. Trong đó, đáng chú ý nhất sẽ là cặp đấu giữa Nhật Bản gặp Thụy Điển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T04:16:23.238876+07:00",
+      "fetched": "2026-06-25T04:16:23.238932+07:00"
+    },
+    {
+      "id": "ffbfdf6ffefef8fdf7d69d8ecadefd54",
+      "title": "Trực tuyến Scotland - Brazil (5h ngày 25-6): Vinicius, Cunha đá chính",
+      "link": "https://tuoitre.vn/truc-tuyen-scotland-brazil-5h-ngay-25-6-cho-neymar-ra-san-100260624174117158.htm",
+      "summary": "HLV Carlo Ancelotti tiết lộ Neymar đã hoàn toàn bình phục và nhiều khả năng sẽ ra sân trong trận đấu quan trọng giữa tuyển Brazil với Scotland trên sân Hard Rock ở Mỹ vào 5h sáng ngày 25-6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T04:16:23.238808+07:00",
+      "fetched": "2026-06-25T04:16:23.238865+07:00"
+    },
+    {
+      "id": "e66eec37764942e14bbcc4b41cb971f8",
+      "title": "Dự đoán tỉ số World Cup: Thổ Nhĩ Kỳ có điểm đầu tiên trong trận cầu nhiều bàn thắng",
+      "link": "https://tuoitre.vn/du-doan-ti-so-world-cup-tho-nhi-ky-co-diem-dau-tien-trong-tran-cau-nhieu-ban-thang-100260624181113664.htm",
+      "summary": "Tuyển Thổ Nhĩ Kỳ sẽ quyết tâm có cuộc chia tay đẹp với World Cup 2026 bằng chiến thắng trước chủ nhà Mỹ lúc 9h ngày 26-6. Trận đấu này diễn ra tại Inglewood (Mỹ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T04:16:23.238739+07:00",
+      "fetched": "2026-06-25T04:16:23.238797+07:00"
+    },
+    {
+      "id": "cb7d0a44b0405b65c8614aeb70963100",
+      "title": "Thời tiết hôm nay 25-6: Nắng nóng gay gắt từ miền Bắc vào miền Trung",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-25-6-nang-nong-gay-gat-tu-mien-bac-vao-mien-trung-100260624164535376.htm",
+      "summary": "Hôm nay 25-6, các tỉnh Bắc Bộ đến Trung Bộ thời tiết nắng nóng, về chiều tối có mưa dông. Nam Bộ trời nhiều mây, mưa to về tối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T04:16:23.238669+07:00",
+      "fetched": "2026-06-25T04:16:23.238728+07:00"
+    },
+    {
+      "id": "9d2c8426358aad44b3fbd9ad49597f20",
+      "title": "Kịch bản lượt cuối bảng E World Cup 2026: Cơ hội lớn cho Bờ Biển Ngà",
+      "link": "https://tuoitre.vn/kich-ban-luot-cuoi-bang-e-world-cup-2026-co-hoi-lon-cho-bo-bien-nga-10026062417303953.htm",
+      "summary": "Bờ Biển Ngà nhiều khả năng sẽ giành vị trí nhì bảng E, nối bước tuyển Đức giành vé vào vòng loại trực tiếp World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T04:16:23.238589+07:00",
+      "fetched": "2026-06-25T04:16:23.238657+07:00"
+    },
+    {
+      "id": "9fc31c97e690f0d5a61ff993209ed30d",
+      "title": "Kịch bản bảng F World Cup 2026: Nhật Bản nhiều cơ hội hơn Thụy Điển",
+      "link": "https://tuoitre.vn/kich-ban-bang-f-world-cup-2026-nhat-ban-nhieu-co-hoi-hon-thuy-dien-100260624174625112.htm",
+      "summary": "Nhật Bản, Thụy Điển và Hà Lan sẽ cạnh tranh quyết liệt cho 2 tấm vé chính thức đi tiếp ở bảng F World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T04:16:23.238417+07:00",
+      "fetched": "2026-06-25T04:16:23.238574+07:00"
+    },
     {
       "id": "1663477869f03f6da2c05c8d653b189f",
       "title": "Dự đoán tỉ số World Cup: Siêu dự bị của Đức tiễn Ecuador khỏi giải",
@@ -171,6 +231,66 @@ window.newsData_2026_06_25 = {
       "category": "Tổng hợp",
       "published": "2026-06-25T00:47:03.735996+07:00",
       "fetched": "2026-06-25T00:47:03.736129+07:00"
+    },
+    {
+      "id": "4bed945a3298566c7c20bfd7dee63f19",
+      "title": "TP.HCM vẫn oi nóng như đỉnh điểm mùa khô: Người dân vất vả dưới nắng gắt",
+      "link": "https://thanhnien.vn/tphcm-van-oi-nong-nhu-dinh-diem-mua-kho-nguoi-dan-vat-va-duoi-nang-gat-185260624203237146.htm",
+      "summary": "Dù đã bước vào mùa mưa, nhiều khu vực ở TP.HCM vẫn chìm trong nắng gắt và cảm giác oi bức kéo dài. Nhiều người dân cho biết sức nóng những ngày cuối tháng 6 gần như không khác mấy so với giai đoạn đỉnh điểm mùa khô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T21:12:00+07:00",
+      "fetched": "2026-06-25T04:16:21.250248+07:00"
+    },
+    {
+      "id": "b927c973e534f42af24e52bf35cc5f11",
+      "title": "Scotland - Brazil: Chờ màn tái xuất của Neymar",
+      "link": "https://vnexpress.net/scotland-brazil-cho-man-tai-xuat-cua-neymar-5089581.html",
+      "summary": "Brazil hướng tới đỉnh bảng C, còn Scotland đứng trước cơ hội lần đầu tiên trong lịch sử giành vé vào vòng knock-out của ngày hội bóng đá lớn nhất hành tinh. Bóng lăn lúc 5h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T21:00:00+07:00",
+      "fetched": "2026-06-25T04:16:18.526953+07:00"
+    },
+    {
+      "id": "7d5e0ef02ff0bbc548b132324e549b3c",
+      "title": "Áp lực tiền lương khiến lao động ngại kết hôn, hoãn sinh con",
+      "link": "https://vnexpress.net/ap-luc-tien-luong-khien-lao-dong-ngai-ket-hon-hoan-sinh-con-5089497.html",
+      "summary": "Hơn một nửa lao động độc thân chưa muốn kết hôn vì thu nhập thấp, trong khi 73% người đã lập gia đình cho biết tiền lương hiện tại ảnh hưởng đến quyết định sinh thêm con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T21:00:00+07:00",
+      "fetched": "2026-06-25T04:16:18.527139+07:00"
+    },
+    {
+      "id": "cff9409bd8225c4d542b676e37079601",
+      "title": "Cứ 11 trẻ bệnh phế cầu nhập viện thì một tử vong",
+      "link": "https://vnexpress.net/cu-11-tre-benh-phe-cau-nhap-vien-thi-mot-tu-vong-5089381.html",
+      "summary": "Bệnh viện Nhi Trung ương ghi nhận cứ khoảng 11 trẻ mắc bệnh phế cầu nhập viện thì có một bé tử vong, trong bối cảnh vi khuẩn ngày càng kháng thuốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T21:00:00+07:00",
+      "fetched": "2026-06-25T04:16:18.527301+07:00"
+    },
+    {
+      "id": "b927c973e534f42af24e52bf35cc5f11",
+      "title": "Scotland - Brazil: Chờ màn tái xuất của Neymar",
+      "link": "https://vnexpress.net/scotland-brazil-cho-man-tai-xuat-cua-neymar-5089581.html",
+      "summary": "Brazil hướng tới đỉnh bảng C, còn Scotland đứng trước cơ hội lần đầu tiên trong lịch sử giành vé vào vòng knock-out của ngày hội bóng đá lớn nhất hành tinh. Bóng lăn lúc 5h.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-24T21:00:00+07:00",
+      "fetched": "2026-06-25T04:16:28.832829+07:00"
+    },
+    {
+      "id": "c89f92941b7c61e592b60486ac8a7a8e",
+      "title": "Vì sao không nên uống cà phê khi vừa ngủ dậy?",
+      "link": "https://vnexpress.net/vi-sao-khong-nen-uong-ca-phe-khi-vua-ngu-day-5088901.html",
+      "summary": "Uống cà phê lúc bụng đói ngay sau khi thức dậy có thể gây co mạch, làm huyết áp tăng đột ngột, đặc biệt bất lợi với người trên 40 tuổi, người tăng huyết áp hoặc thường xuyên thiếu ngủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T19:00:00+07:00",
+      "fetched": "2026-06-25T04:16:18.527497+07:00"
     },
     {
       "id": "504d34c0e98253ffa3dfd1925325b8f5",
