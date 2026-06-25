@@ -1,7 +1,67 @@
 window.newsData_2026_06_26 = {
   "date": "2026-06-26",
-  "lastUpdated": "2026-06-26T01:02:53.675887+07:00",
+  "lastUpdated": "2026-06-26T04:21:50.446639+07:00",
   "articles": [
+    {
+      "id": "db0fe255312888c5f5c2751ca68f1ac8",
+      "title": "Lịch trực tiếp World Cup 2026 ngày 27-6: 'Đại chiến' Tây Ban Nha - Uruguay, Pháp - Na Uy",
+      "link": "https://tuoitre.vn/lich-truc-tiep-world-cup-2026-ngay-27-6-dai-chien-tay-ban-nha-uruguay-phap-na-uy-100260625163303908.htm",
+      "summary": "Rạng sáng 27-6, World Cup 2026 sẽ diễn ra các trận đấu cuối cùng ở các bảng G, H, I. Trong đó, đáng chú ý là cặp đấu giữa Pháp gặp Na Uy hay Tây Ban Nha đối đầu Uruguay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T04:21:41.996606+07:00",
+      "fetched": "2026-06-26T04:21:41.996738+07:00"
+    },
+    {
+      "id": "0f24a8a32e26b47d11f76adc6f8bb5b8",
+      "title": "Giá vàng bật tăng trở lại sau khi giảm sâu",
+      "link": "https://tuoitre.vn/gia-vang-bat-tang-tro-lai-sau-khi-giam-sau-100260626002013371.htm",
+      "summary": "Sau khi giảm xuống mức thấp nhất trong nhiều tháng, tối 25-6 giá vàng thế giới bật tăng trở lại, lên trên ngưỡng 4.000 USD/ounce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T04:21:41.996187+07:00",
+      "fetched": "2026-06-26T04:21:41.996560+07:00"
+    },
+    {
+      "id": "09783a921be06a3fb616c599c441b3e4",
+      "title": "Dự đoán tỉ số World Cup: Haaland tỏa sáng, Na Uy vẫn thua Pháp",
+      "link": "https://tuoitre.vn/du-doan-ti-so-world-cup-haaland-toa-sang-na-uy-van-thua-phap-100260625153146763.htm",
+      "summary": "2h ngày 27-6 (giờ Việt Nam) sẽ diễn ra đại chiến đáng chờ đợi nhất của giai đoạn vòng bảng World Cup 2026, khi Na Uy đụng độ Pháp trên sân Gillette tại Massachusetts (Mỹ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T04:21:41.996115+07:00",
+      "fetched": "2026-06-26T04:21:41.996176+07:00"
+    },
+    {
+      "id": "95e8a2895761e21305d6e666d2f4e8c4",
+      "title": "Dự đoán tỉ số World Cup: Tây Ban Nha 'tiễn' Uruguay về nước",
+      "link": "https://tuoitre.vn/du-doan-ti-so-world-cup-tay-ban-nha-tien-uruguay-ve-nuoc-100260625232926307.htm",
+      "summary": "Uruguay dự đoán sẽ có trận đấu vô cùng vất vả trước Tây Ban Nha ở lượt cuối bảng H World Cup 2026 vào lúc 7h ngày 27-6. Nếu gục ngã ở trận đấu này thì đại diện Nam Mỹ hoàn toàn có khả năng sớm chia tay giải đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T04:21:41.996035+07:00",
+      "fetched": "2026-06-26T04:21:41.996103+07:00"
+    },
+    {
+      "id": "1ab0a0806e8cb4aa9720c56a855818fe",
+      "title": "Dự đoán tỉ số World Cup: Senegal đè bẹp Iraq",
+      "link": "https://tuoitre.vn/du-doan-ti-so-world-cup-senegal-de-bep-iraq-100260625211844709.htm",
+      "summary": "2h ngày 27-6 (giờ Việt Nam), Senegal sẽ chạm trán Iraq trong lượt trận cuối cùng bảng I World Cup 2026 trên sân BMO Field (Toronto, Canada). Trận đấu với mục tiêu phải thắng đậm để giành vé đi tiếp của Senegal.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T04:21:41.995952+07:00",
+      "fetched": "2026-06-26T04:21:41.996023+07:00"
+    },
+    {
+      "id": "6c77831b076118de356304b46dfd26d4",
+      "title": "Dự đoán tỉ số World Cup: Bỉ 'hủy diệt' New Zealand",
+      "link": "https://tuoitre.vn/du-doan-ti-so-world-cup-bi-huy-diet-new-zealand-100260625232315613.htm",
+      "summary": "Vào lúc 10h ngày 27-6, tuyển Bỉ sẽ đối đầu New Zealand ở lượt trận cuối bảng G World Cup 2026. Đây là trận đấu mang ý nghĩa sống còn khi đại diện châu Âu buộc phải giành chiến thắng để nuôi hy vọng đi tiếp vào vòng 32 đội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T04:21:41.995775+07:00",
+      "fetched": "2026-06-26T04:21:41.995937+07:00"
+    },
     {
       "id": "a7323cadfdb03fcb0daddfaaad47931b",
       "title": "Đưa G-DRAGON, Faker đến Việt Nam, VPBank hướng tới điều gì?",
@@ -153,6 +213,46 @@ window.newsData_2026_06_26 = {
       "fetched": "2026-06-26T01:02:47.675769+07:00"
     },
     {
+      "id": "0f2fe6ebcbeab09485a501de8ea71271",
+      "title": "Lý do Venezuela hứng động đất kép trong chưa đầy một phút",
+      "link": "https://vnexpress.net/ly-do-venezuela-hung-dong-dat-kep-trong-chua-day-mot-phut-5089994.html",
+      "summary": "Động đất 7,2 độ có thể đã làm tăng ứng suất lên đường đứt gãy gần đó, dẫn tới chấn động mạnh nhất trong hơn một thế kỷ tại Venezuela.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T18:00:00+07:00",
+      "fetched": "2026-06-26T04:21:36.225515+07:00"
+    },
+    {
+      "id": "3c4b92b69c28e4533d90467d93a94fa6",
+      "title": "Vì sao đàn ông dễ có mùi cơ thể hơn phụ nữ?",
+      "link": "https://vnexpress.net/vi-sao-dan-ong-de-co-mui-co-the-hon-phu-nu-5089535.html",
+      "summary": "Đàn ông dễ có mùi cơ thể hơn phụ nữ do tuyến mồ hôi hoạt động mạnh, vi khuẩn da và thói quen sinh hoạt, khiến nước hoa đôi khi không đủ để che lấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T18:00:00+07:00",
+      "fetched": "2026-06-26T04:21:36.225791+07:00"
+    },
+    {
+      "id": "2cda596392b5406d3ed1a5e969a5275c",
+      "title": "Điều gì xảy ra với xương khi uống sữa thường xuyên?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-xuong-khi-uong-sua-thuong-xuyen-5089887.html",
+      "summary": "Uống sữa thường xuyên có thể giúp tăng mật độ khoáng xương, hạn chế mất xương theo tuổi tác và giảm nguy cơ loãng xương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T18:00:00+07:00",
+      "fetched": "2026-06-26T04:21:36.225970+07:00"
+    },
+    {
+      "id": "0f2fe6ebcbeab09485a501de8ea71271",
+      "title": "Lý do Venezuela hứng động đất kép trong chưa đầy một phút",
+      "link": "https://vnexpress.net/ly-do-venezuela-hung-dong-dat-kep-trong-chua-day-mot-phut-5089994.html",
+      "summary": "Động đất 7,2 độ có thể đã làm tăng ứng suất lên đường đứt gãy gần đó, dẫn tới chấn động mạnh nhất trong hơn một thế kỷ tại Venezuela.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-25T18:00:00+07:00",
+      "fetched": "2026-06-26T04:21:43.933841+07:00"
+    },
+    {
       "id": "2230c630cc5a96abe293558fbb4b03ae",
       "title": "Nhận định bóng đá Thổ Nhĩ Kỳ vs Mỹ: Thế trận cởi mở, nhiều bàn thắng",
       "link": "https://thanhnien.vn/nhan-dinh-bong-da-tho-nhi-ky-vs-my-the-tran-coi-mo-nhieu-ban-thang-185260626004302746.htm",
@@ -161,6 +261,26 @@ window.newsData_2026_06_26 = {
       "category": "Tổng hợp",
       "published": "2026-06-25T17:48:00+07:00",
       "fetched": "2026-06-26T01:02:45.929090+07:00"
+    },
+    {
+      "id": "1a20cf1ac9db942eeeac3c099e40372a",
+      "title": "48 giờ ở 'đảo bí mật nhất thế giới' tại Việt Nam",
+      "link": "https://vnexpress.net/48-gio-o-dao-bi-mat-nhat-the-gioi-tai-viet-nam-5088642.html",
+      "summary": "Tháng 6 đến tháng 9, du khách đến Côn Đảo có cơ hội ngắm dải ngân hà, tham gia thả rùa con về biển và tận hưởng kỳ nghỉ sang trọng tại vùng đất giàu giá trị lịch sử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T17:36:14+07:00",
+      "fetched": "2026-06-26T04:21:36.226155+07:00"
+    },
+    {
+      "id": "14bc18127a9d7c517acdbfbca318582a",
+      "title": "Chàng trai Hải Phòng bỗng dưng nổi tiếng vì giống cầu thủ Mbappe",
+      "link": "https://vnexpress.net/chang-trai-hai-phong-bong-dung-noi-tieng-vi-giong-cau-thu-mbappe-5089986.html",
+      "summary": "Nhờ ngoại hình giống tiền đạo Kylian Mbappe của đội tuyển Pháp, anh Nguyễn Văn Thanh bất ngờ nổi tiếng, giúp quán ăn bình dân tại Hải Phòng luôn đông khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T17:34:31+07:00",
+      "fetched": "2026-06-26T04:21:36.226318+07:00"
     },
     {
       "id": "26eb29dd95409f2f3b524e71941dc08a",
