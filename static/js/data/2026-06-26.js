@@ -1,7 +1,47 @@
 window.newsData_2026_06_26 = {
   "date": "2026-06-26",
-  "lastUpdated": "2026-06-26T04:21:50.446639+07:00",
+  "lastUpdated": "2026-06-26T06:07:36.651908+07:00",
   "articles": [
+    {
+      "id": "6bcb081441e5b21d15f9efe42d20889d",
+      "title": "Thời tiết hôm nay 26-6: Bắc Bộ mưa to, Nam Bộ mưa rào, Trung Bộ nắng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-26-6-bac-bo-mua-to-nam-bo-mua-rao-trung-bo-nang-100260625171104493.htm",
+      "summary": "Hôm nay 26-6, thời tiết nắng nóng kết thúc ở Bắc Bộ, mưa dông xuất hiện. Nam Bộ mưa rào, Trung Bộ vẫn còn nắng gay gắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T06:07:30.563602+07:00",
+      "fetched": "2026-06-26T06:07:30.563660+07:00"
+    },
+    {
+      "id": "0e58d39e92176b4aa798339704313412",
+      "title": "Tin tức sáng 26-6: Hôm nay, TP.HCM khánh thành công trình hơn 25 tỉ đồng phục vụ thể thao",
+      "link": "https://tuoitre.vn/tin-tuc-sang-26-6-hom-nay-tphcm-khanh-thanh-cong-trinh-hon-25-ti-dong-phuc-vu-the-thao-100260625224103921.htm",
+      "summary": "Tin tức đáng chú ý: Hôm nay, TP.HCM khánh thành công trình hơn 25 tỉ đồng phục vụ thể thao; Số người hưởng lương hưu riêng trong năm 2025 tăng 93% so với năm 2024...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T06:07:30.563531+07:00",
+      "fetched": "2026-06-26T06:07:30.563591+07:00"
+    },
+    {
+      "id": "26729d840c2e8774b95adb52204f47e2",
+      "title": "Trực tuyến Nhật Bản - Thụy Điển (6h): Chờ đại diện châu Á giành vé",
+      "link": "https://tuoitre.vn/truc-tuyen-nhat-ban-thuy-dien-6h-cho-dai-dien-chau-a-gianh-ve-100260625165544337.htm",
+      "summary": "Tuổi Trẻ Online sẽ trực tuyến trận đấu giữa Nhật Bản với Thụy Điển ở lượt cuối bảng F World Cup 2026 vào lúc 6h ngày 26-6, mời bạn đọc đón theo dõi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T06:07:30.563453+07:00",
+      "fetched": "2026-06-26T06:07:30.563520+07:00"
+    },
+    {
+      "id": "220c6810bc526d3db2dbbc600b5ab896",
+      "title": "Quả bóng 'Bàn tay của Chúa' được đấu giá, dự kiến thu về 240 tỉ đồng",
+      "link": "https://tuoitre.vn/qua-bong-ban-tay-cua-chua-duoc-dau-gia-du-kien-thu-ve-240-ti-dong-10026062601413394.htm",
+      "summary": "Món đồ đã làm nên bàn thắng thương hiệu 'Bàn tay của Chúa' do cố danh thủ Maradona thực hiện sẽ được đưa lên sàn đấu giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T06:07:30.563302+07:00",
+      "fetched": "2026-06-26T06:07:30.563439+07:00"
+    },
     {
       "id": "db0fe255312888c5f5c2751ca68f1ac8",
       "title": "Lịch trực tiếp World Cup 2026 ngày 27-6: 'Đại chiến' Tây Ban Nha - Uruguay, Pháp - Na Uy",
@@ -211,6 +251,276 @@ window.newsData_2026_06_26 = {
       "category": "Tổng hợp",
       "published": "2026-06-26T01:02:47.675620+07:00",
       "fetched": "2026-06-26T01:02:47.675769+07:00"
+    },
+    {
+      "id": "2fdaf5c602e5ba28fba783131fbbe283",
+      "title": "Căn nhà của người thợ giày ở TP.HCM: Hầm bí mật từng cất giấu vũ khí",
+      "link": "https://thanhnien.vn/can-nha-cua-nguoi-tho-giay-o-tphcm-ham-bi-mat-tung-cat-giau-vu-khi-185260624224730579.htm",
+      "summary": "Ẩn dưới nền căn nhà của người thợ giày ở TP.HCM là hầm bí mật từng cất giấu hàng loạt vũ khí phục vụ chiến dịch Tết Mậu Thân 1968. Nơi này hiện vẫn lưu giữ nhiều hiện vật gắn với Biệt động Sài Gòn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T23:06:00+07:00",
+      "fetched": "2026-06-26T06:07:28.854944+07:00"
+    },
+    {
+      "id": "c69fe71777803fc00bb37a00f30de843",
+      "title": "Manchester City kích hoạt 'bom tấn' chuyển nhượng: Sao đội tuyển Anh sắp đi vào lịch sử",
+      "link": "https://thanhnien.vn/manchester-city-kich-hoat-bom-tan-chuyen-nhuong-sao-doi-tuyen-anh-sap-di-vao-lich-su-185260626055812528.htm",
+      "summary": "Manchester City chuẩn bị tạo nên một trong những thương vụ gây chấn động nhất kỳ chuyển nhượng hè khi đạt thỏa thuận chiêu mộ tiền vệ Elliot Anderson từ Nottingham Forest.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T23:02:00+07:00",
+      "fetched": "2026-06-26T06:07:28.855112+07:00"
+    },
+    {
+      "id": "12516bdd6067f0d33812ebce46876fdb",
+      "title": "Căng thẳng giữa Tổng thống Trump và nội bộ đảng Cộng hòa",
+      "link": "https://thanhnien.vn/cang-thang-giua-tong-thong-trump-va-noi-bo-dang-cong-hoa-185260625204644025.htm",
+      "summary": "Quan hệ giữa Tổng thống Mỹ Donald Trump và các thành viên đảng Cộng hòa tại quốc hội Mỹ đang trở nên nhạy cảm hơn trong thời gian gần đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T23:00:00+07:00",
+      "fetched": "2026-06-26T06:07:28.855268+07:00"
+    },
+    {
+      "id": "3f99c54e4abcb33598c2f458bc18277a",
+      "title": "Chủ động ứng phó El Nino đang gia tăng cường độ",
+      "link": "https://thanhnien.vn/chu-dong-ung-pho-el-nino-dang-gia-tang-cuong-do-185260625203825658.htm",
+      "summary": "Nắng nóng một lần nữa bao trùm khắp cả nước mà một trong những nguyên nhân quan trọng là tác động của El Nino.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T23:00:00+07:00",
+      "fetched": "2026-06-26T06:07:28.855420+07:00"
+    },
+    {
+      "id": "ae10d938aedddc2d8ad54513eec58f38",
+      "title": "Nên giảm thuế xăng dầu đến hết năm nay",
+      "link": "https://thanhnien.vn/nen-giam-thue-xang-dau-den-het-nam-nay-1852606252034436.htm",
+      "summary": "Bộ Tài chính vừa có đề xuất kéo dài thời gian miễn thuế bảo vệ môi trường, thuế giá trị gia tăng, thuế nhập khẩu với xăng dầu thêm 3 tháng. Quyết định này nhận được sự ủng hộ của doanh nghiệp và người tiêu dùng; song nhiều ý kiến cho rằng nên kéo dài thời gian miễn thuế hơn là chỉ đến hết tháng 9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T23:00:00+07:00",
+      "fetched": "2026-06-26T06:07:28.855570+07:00"
+    },
+    {
+      "id": "ccdd1febd32d971002bf88c947220a34",
+      "title": "Bản tin sức khỏe 26.6: Chăm da ngay từ lúc tắm | Sai lầm tai hại khi dùng xịt chống nắng",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-266-cham-da-ngay-tu-luc-tam-sai-lam-tai-hai-khi-dung-xit-chong-nang-185260625194604454.htm",
+      "summary": "Bản tin sức khỏe của Báo Thanh Niên (từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T23:00:00+07:00",
+      "fetched": "2026-06-26T06:07:28.855718+07:00"
+    },
+    {
+      "id": "4578e1ebbe6033f5427c253631a9e8d5",
+      "title": "Từ phòng thí nghiệm nơi giảng đường đại học nhìn về thành phố",
+      "link": "https://thanhnien.vn/tu-phong-thi-nghiem-noi-giang-duong-dai-hoc-nhin-ve-thanh-pho-185260624173502567.htm",
+      "summary": "Suốt nửa thế kỷ qua, Tổng công ty Điện lực TP.HCM (EVNHCMC) đã âm thầm 'giữ lửa' cho toàn thành phố. Hệ thống lưới điện thông minh giúp dòng điện luôn ổn định, mang hơi mát của máy điều hòa đến từng giấc ngủ giữa cái nắng gay gắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T23:00:00+07:00",
+      "fetched": "2026-06-26T06:07:28.855888+07:00"
+    },
+    {
+      "id": "c99714c85486c38644bf82c6354281f9",
+      "title": "Để VN xây dựng trường ĐH tư thục đẳng cấp: Đầu tư dài hạn, chiến lược khác biệt",
+      "link": "https://thanhnien.vn/de-vn-xay-dung-truong-dh-tu-thuc-dang-cap-dau-tu-dai-han-chien-luoc-khac-biet-185260625205058995.htm",
+      "summary": "ĐH tư thục đang trỗi dậy mạnh mẽ nhờ làn sóng đầu tư của các tập đoàn nghìn tỉ nhưng bài toán về chất lượng học thuật thực chất và khát vọng vào top 100 thế giới có dễ thành hiện thực?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T22:54:00+07:00",
+      "fetched": "2026-06-26T06:07:28.856046+07:00"
+    },
+    {
+      "id": "7434a61fe6480e1c7431f9b6e123e7b6",
+      "title": "Bước tiến lịch sử trong quản lý giáo dục",
+      "link": "https://thanhnien.vn/buoc-tien-lich-su-trong-quan-ly-giao-duc-185260625182710093.htm",
+      "summary": "Có một thay đổi lớn với những thí sinh tốt nghiệp kỳ thi tốt nghiệp THPT 2026. Đó là lần đầu tiên, hiệu trưởng hay người đứng đầu cơ sở giáo dục sẽ cấp bằng tốt nghiệp THPT cho học sinh, thay vì do cơ quan quản lý giáo dục của tỉnh, thành cấp như trước. Đây là thay đổi mang tính lịch sử của giáo dục...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T22:50:00+07:00",
+      "fetched": "2026-06-26T06:07:28.856202+07:00"
+    },
+    {
+      "id": "95828a03e8ab3c08390468232a5b7b45",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 26.6.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2662026-185260625221958851.htm",
+      "summary": "Tin tức Tương lai rạng rỡ của đất nước được góp sức từ từng bạn trẻ hôm nay; 50 năm thân nhân tìm liệt sĩ Trường Sa; Venezuela rung chuyển vì động đất kép thế kỷ… có thể đón xem trên Báo Thanh Niên số ra ngày 26.6.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T22:48:00+07:00",
+      "fetched": "2026-06-26T06:07:28.856352+07:00"
+    },
+    {
+      "id": "31b270e02f005643cc8e265eee98e07a",
+      "title": "Hàn Quốc bị Ecuador đẩy vào thế khó: Nguy cơ bị loại từ vòng bảng hiện hữu",
+      "link": "https://thanhnien.vn/han-quoc-bi-ecuador-day-vao-the-kho-nguy-co-bi-loai-tu-vong-bang-hien-huu-18526062605373321.htm",
+      "summary": "Cuộc lội ngược dòng kịch tính và giàu cảm xúc của Ecuador trước Đức diễn ra vào rạng sáng 26.6 (giờ Việt Nam) giúp đại diện Nam Mỹ đi tiếp. Điều đó đồng nghĩa với việc Hàn Quốc có nguy cơ bị loại cao hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T22:45:00+07:00",
+      "fetched": "2026-06-26T06:07:28.856498+07:00"
+    },
+    {
+      "id": "6f9655326a77491d8d4e609370f2f66c",
+      "title": "Chấm thi tốt nghiệp THPT môn văn theo rubric, điểm phân hóa thế nào?",
+      "link": "https://thanhnien.vn/cham-thi-tot-nghiep-thpt-mon-van-theo-rubric-diem-phan-hoa-the-nao-185260625195441943.htm",
+      "summary": "Kỳ thi tốt nghiệp THPT 2026 đánh dấu bước chuyển quan trọng khi việc chấm môn ngữ văn được thực hiện theo rubric với các tiêu chí cụ thể, rõ ràng. Cách chấm này không chỉ hướng đến sự công bằng mà còn làm thay đổi đáng kể tình hình điểm số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T22:45:00+07:00",
+      "fetched": "2026-06-26T06:07:28.856642+07:00"
+    },
+    {
+      "id": "b7f9e59ebd3ade37adf95bea0dd06c4c",
+      "title": "Điều đặc biệt trong lễ tuyên phong Chân phước đầu tiên ở Việt Nam",
+      "link": "https://thanhnien.vn/dieu-dac-biet-trong-le-tuyen-phong-chan-phuoc-dau-tien-o-viet-nam-185260625024534159.htm",
+      "summary": "Không chỉ là lần đầu tổ chức tại Việt Nam, lễ tuyên phong Chân phước còn mang nhiều dấu mốc đặc biệt, từ hành trình xét duyệt kéo dài hơn 13 năm đến sự hiện diện của đặc sứ của Đức Giáo hoàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T22:45:00+07:00",
+      "fetched": "2026-06-26T06:07:28.856784+07:00"
+    },
+    {
+      "id": "883192f4c33f70a500c30f8457fdfbf1",
+      "title": "Ukraine cố xoay chuyển cục diện xung đột",
+      "link": "https://thanhnien.vn/ukraine-co-xoay-chuyen-cuc-dien-xung-dot-185260625205047214.htm",
+      "summary": "Việc tập kích sâu vào lãnh thổ Nga giúp Ukraine hy vọng xoay chuyển cục diện, trong khi giới phân tích cảnh báo nguy cơ leo thang xung đột.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T22:42:00+07:00",
+      "fetched": "2026-06-26T06:07:28.856959+07:00"
+    },
+    {
+      "id": "6cad1f4fd2a9990d3f44bd7e60e626d6",
+      "title": "Lượt cuối bảng F World Cup 2026: Gay cấn trận Nhật Bản đấu Thụy Điển",
+      "link": "https://thanhnien.vn/luot-cuoi-bang-f-world-cup-2026-gay-can-tran-nhat-ban-dau-thuy-dien-18526062515292769.htm",
+      "summary": "Bảng F sẽ khép lại gay cấn với trận đại chiến Nhật Bản - Thụy Điển, Hà Lan có thể thắng dễ Tunisia dù HLV Ronald Koeman xoay tua lực lượng?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T22:42:00+07:00",
+      "fetched": "2026-06-26T06:07:28.857110+07:00"
+    },
+    {
+      "id": "62edc64b4f59007e67edeffc8c083099",
+      "title": "Phiên bản chiến đấu cơ của Yak-130 lần đầu bay thử",
+      "link": "https://vnexpress.net/phien-ban-chien-dau-co-cua-yak-130-lan-dau-bay-thu-5089854.html",
+      "summary": "Nga bắt đầu thử nghiệm nguyên mẫu Yak-130M, phiên bản chiến đấu cơ hạng nhẹ phát triển từ máy bay huấn luyện Yak-130.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-25T22:41:40+07:00",
+      "fetched": "2026-06-26T06:07:32.111833+07:00"
+    },
+    {
+      "id": "c487ac9a59f0796cc1a1200c6d1c6ef1",
+      "title": "Man City mua Anderson giá 153 triệu USD",
+      "link": "https://vnexpress.net/man-city-mua-anderson-gia-153-trieu-usd-5090018.html",
+      "summary": "Man City đạt thỏa thuận chiêu mộ tiền vệ Elliot Anderson từ Nottingham Forest với mức phí 116 triệu bảng (153 triệu USD), biến anh thành cầu thủ người Anh đắt giá nhất lịch sử.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-25T22:24:08+07:00",
+      "fetched": "2026-06-26T06:07:36.646498+07:00"
+    },
+    {
+      "id": "056fd0351b8c96adbdba0ac25e879b34",
+      "title": "Nhật Bản - Thụy Điển: Ueda đối đầu Isak",
+      "link": "https://vnexpress.net/nhat-ban-vs-thuy-dien-5090017.html",
+      "summary": "Nhật Bản nỗ lực đứng đầu bảng khi gặp Thụy Điển ở lượt cuối bảng F World Cup 2026, cùng giờ là trận Tunisia - Hà Lan lúc 6h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T22:00:00+07:00",
+      "fetched": "2026-06-26T06:07:26.129194+07:00"
+    },
+    {
+      "id": "0d36c0cfa03aa6469e478a40eb6bd2e4",
+      "title": "Nhạc sĩ Giáng Son, Nguyễn Vĩnh Tiến kiện BH Media sau 5 năm đòi bản quyền 'Giấc mơ trưa'",
+      "link": "https://vnexpress.net/nhac-si-giang-son-nguyen-vinh-tien-kien-bh-media-sau-5-nam-doi-ban-quyen-giac-mo-trua-5089992.html",
+      "summary": "Bị YouTube đánh bản quyền chính tác phẩm của mình, nhạc sĩ Giáng Son không hòa giải, yêu cầu một phán quyết công tâm làm tiền lệ pháp lý bảo vệ giới nghệ sĩ",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T22:00:00+07:00",
+      "fetched": "2026-06-26T06:07:26.129375+07:00"
+    },
+    {
+      "id": "557b9451d1e895971581ee8a20a5e1bc",
+      "title": "Thành phố Na Uy rung lắc khi đội tuyển ghi bàn tại World Cup",
+      "link": "https://vnexpress.net/thanh-pho-na-uy-rung-lac-khi-doi-tuyen-ghi-ban-tai-world-cup-5089779.html",
+      "summary": "Địa chấn kế tại thành phố Bergen ghi nhận những rung động trong lòng đất do màn ăn mừng của cổ động viên khi đội tuyển Na Uy ghi bàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T22:00:00+07:00",
+      "fetched": "2026-06-26T06:07:26.129540+07:00"
+    },
+    {
+      "id": "3c64d48eb1a99f392c0c28003ce02762",
+      "title": "'Cuộc chiến điều hòa' đốt nóng chính trường Pháp",
+      "link": "https://vnexpress.net/cuoc-chien-dieu-hoa-dot-nong-chinh-truong-phap-5089628.html",
+      "summary": "Điều hòa thành chủ đề gây tranh cãi chính trị tại Pháp, khi phe ủng hộ coi đây là giải pháp phù hợp để ứng phó nắng nóng, còn những người phản đối lo ngại về hệ lụy môi trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T22:00:00+07:00",
+      "fetched": "2026-06-26T06:07:26.129701+07:00"
+    },
+    {
+      "id": "5d565ee629a78b3edb0014f34d733ee6",
+      "title": "Có nên trữ trứng ở cánh cửa tủ lạnh?",
+      "link": "https://vnexpress.net/co-nen-tru-trung-o-canh-cua-tu-lanh-5088741.html",
+      "summary": "Tôi thường để trứng vào khay cất giữ ở cánh cửa tủ lạnh cho tiện sử dụng. Vị trí này có an toàn và đảm bảo chất lượng trứng không? (Thùy, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T22:00:00+07:00",
+      "fetched": "2026-06-26T06:07:26.129891+07:00"
+    },
+    {
+      "id": "8e094596a6b769ace2e0548379155823",
+      "title": "Làng phong trăm tuổi ở Quy Nhơn trước ngày di dời làm khu nghỉ dưỡng",
+      "link": "https://vnexpress.net/lang-phong-tram-tuoi-o-quy-nhon-truoc-ngay-di-doi-lam-khu-nghi-duong-5088442.html",
+      "summary": "Làng phong Quy Hòa ở Quy Nhơn, nơi từng điều trị, cưu mang nhiều thế hệ bệnh nhân phong gần một thế kỷ, dự kiến được di dời để quy hoạch khu đô thị du lịch nghỉ dưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T22:00:00+07:00",
+      "fetched": "2026-06-26T06:07:26.130061+07:00"
+    },
+    {
+      "id": "22e496420f1e6f9a089fa7ceae64ce3b",
+      "title": "Doanh nhân bị bắt vì chặn cầu vượt để tổ chức sinh nhật vợ",
+      "link": "https://vnexpress.net/doanh-nhan-bi-bat-vi-chan-cau-vuot-de-to-chuc-sinh-nhat-vo-5089786.html",
+      "summary": "Một doanh nhân bị khởi tố sau khi chặn phương tiện trên cầu vượt ở Guwahati để trải thảm đỏ, đỗ dàn xe sang tổ chức sinh nhật vợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T22:00:00+07:00",
+      "fetched": "2026-06-26T06:07:26.130218+07:00"
+    },
+    {
+      "id": "3c64d48eb1a99f392c0c28003ce02762",
+      "title": "'Cuộc chiến điều hòa' đốt nóng chính trường Pháp",
+      "link": "https://vnexpress.net/cuoc-chien-dieu-hoa-dot-nong-chinh-truong-phap-5089628.html",
+      "summary": "Điều hòa thành chủ đề gây tranh cãi chính trị tại Pháp, khi phe ủng hộ coi đây là giải pháp phù hợp để ứng phó nắng nóng, còn những người phản đối lo ngại về hệ lụy môi trường.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-25T22:00:00+07:00",
+      "fetched": "2026-06-26T06:07:32.112010+07:00"
+    },
+    {
+      "id": "557b9451d1e895971581ee8a20a5e1bc",
+      "title": "Thành phố Na Uy rung lắc khi đội tuyển ghi bàn tại World Cup",
+      "link": "https://vnexpress.net/thanh-pho-na-uy-rung-lac-khi-doi-tuyen-ghi-ban-tai-world-cup-5089779.html",
+      "summary": "Địa chấn kế tại thành phố Bergen ghi nhận những rung động trong lòng đất do màn ăn mừng của cổ động viên khi đội tuyển Na Uy ghi bàn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-25T22:00:00+07:00",
+      "fetched": "2026-06-26T06:07:35.374703+07:00"
+    },
+    {
+      "id": "056fd0351b8c96adbdba0ac25e879b34",
+      "title": "Nhật Bản - Thụy Điển: Đại diện châu Á được khen có bản sắc",
+      "link": "https://vnexpress.net/nhat-ban-vs-thuy-dien-5090017.html",
+      "summary": "Nhật Bản nỗ lực đứng đầu bảng khi gặp Thụy Điển ở lượt cuối bảng F World Cup 2026, cùng giờ là trận Tunisia - Hà Lan lúc 6h.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-25T22:00:00+07:00",
+      "fetched": "2026-06-26T06:07:36.646672+07:00"
     },
     {
       "id": "0f2fe6ebcbeab09485a501de8ea71271",
