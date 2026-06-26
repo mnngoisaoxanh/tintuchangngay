@@ -1,7 +1,37 @@
 window.newsData_2026_06_27 = {
   "date": "2026-06-27",
-  "lastUpdated": "2026-06-27T02:27:58.344981+07:00",
+  "lastUpdated": "2026-06-27T04:11:58.310050+07:00",
   "articles": [
+    {
+      "id": "d7d6cbf6cbdc03c8809cf44526871ba4",
+      "title": "Dự đoán tỉ số World Cup: Harry Kane phá 'lời nguyền', Anh thắng đậm Panama",
+      "link": "https://tuoitre.vn/du-doan-ti-so-world-cup-harry-kane-pha-loi-nguyen-anh-thang-dam-panama-100260626113012603.htm",
+      "summary": "Sau khi gây thất vọng ở vòng trước, Harry Kane được kỳ vọng trở lại mạnh mẽ để giúp tuyển Anh đánh bại Panama.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T04:11:52.544327+07:00",
+      "fetched": "2026-06-27T04:11:52.544412+07:00"
+    },
+    {
+      "id": "142e2a8984d26cf9165d8ee4ca620e02",
+      "title": "Vợ của cầu thủ Venezuela tử nạn sau trận động đất kinh hoàng",
+      "link": "https://tuoitre.vn/vo-cua-cau-thu-venezuela-tu-nan-sau-tran-dong-dat-kinh-hoang-100260627021645562.htm",
+      "summary": "Sau trận động đất kinh hoàng diễn ra hôm 24-6, bà Andrea Ruiz - vợ của trung vệ Hector Bello (người Venezuela) đã tử nạn khi che chắn cho cô con gái một tuổi - Alana.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T04:11:52.544246+07:00",
+      "fetched": "2026-06-27T04:11:52.544315+07:00"
+    },
+    {
+      "id": "f1214bfc311dab50190483a0eb5fc648",
+      "title": "Bảng L World Cup 2026: Kịch bản giúp Anh, Ghana, Croatia cùng đi tiếp",
+      "link": "https://tuoitre.vn/bang-l-world-cup-2026-kich-ban-giup-anh-ghana-croatia-cung-di-tiep-100260626174808591.htm",
+      "summary": "Bảng L World Cup nhiều khả năng chứng kiến ba đội bóng là Anh, Ghana, Croatia dắt tay nhau đi tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T04:11:52.544091+07:00",
+      "fetched": "2026-06-27T04:11:52.544232+07:00"
+    },
     {
       "id": "e2fa4307444f0ad500d0da889b06d680",
       "title": "Quyền Bộ trưởng Hải quân Mỹ Hùng Cao chia sẻ cảm nghĩ sau chuyến đi Việt Nam",
@@ -191,6 +221,26 @@ window.newsData_2026_06_27 = {
       "category": "Tổng hợp",
       "published": "2026-06-27T00:29:12.051462+07:00",
       "fetched": "2026-06-27T00:29:12.051609+07:00"
+    },
+    {
+      "id": "f45f3c436b7506d0d438f24f196e35ff",
+      "title": "Senegal 5-0 Iraq, bảng I World Cup 2026: Đội châu Phi sắp tiễn Hàn Quốc về nước",
+      "link": "https://thanhnien.vn/senegal-5-0-iraq-bang-i-world-cup-2026-doi-chau-phi-sap-tien-han-quoc-ve-nuoc-185260627023852651.htm",
+      "summary": "Chiến thắng giòn giã 5-0 trước Iraq giúp Senegal không chỉ khép lại bảng I với vị trí thứ ba, mà còn giúp đại diện châu Phi vượt Hàn Quốc trên bảng xếp hạng các đội hạng ba có thành tích tốt nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T21:11:00+07:00",
+      "fetched": "2026-06-27T04:11:50.970900+07:00"
+    },
+    {
+      "id": "dd975f419a20fc483b68913f0ffcaa7b",
+      "title": "Na Uy 1-4 Pháp, bảng I World Cup 2026: Màn độc diễn của Ousmane Dembele",
+      "link": "https://thanhnien.vn/na-uy-1-4-phap-bang-i-world-cup-2026-man-doc-dien-cua-ousmane-dembele-185260627021218485.htm",
+      "summary": "Pháp dễ dàng đánh bại Na Uy với tỷ số 4-1 ở trận đấu lúc 2 giờ ngày 27.6, qua đó đoạt vé vào vòng knock-out World Cup 2026 với ngôi đầu bảng I, giành 9 điểm tuyệt đối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T21:10:00+07:00",
+      "fetched": "2026-06-27T04:11:50.971088+07:00"
     },
     {
       "id": "d419dba72bb9b1d46bf905c287f9be12",
