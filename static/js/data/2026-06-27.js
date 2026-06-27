@@ -1,6 +1,6 @@
 window.newsData_2026_06_27 = {
   "date": "2026-06-27",
-  "lastUpdated": "2026-06-27T16:56:25.083207+07:00",
+  "lastUpdated": "2026-06-27T18:22:51.805720+07:00",
   "articles": [
     {
       "id": "84de4d541a5323071b50a87c14037e16",
@@ -301,6 +301,316 @@ window.newsData_2026_06_27 = {
       "category": "Tổng hợp",
       "published": "2026-06-27T13:45:55.735255+07:00",
       "fetched": "2026-06-27T13:45:55.735409+07:00"
+    },
+    {
+      "id": "5340b1d810e3e0a4417accba6792ee1b",
+      "title": "Trấn Thành, Ninh Dương Lan Ngọc trở lại, 'Running Man Vietnam 2026' có gì khác biệt?",
+      "link": "https://thanhnien.vn/tran-thanh-ninh-duong-lan-ngoc-tro-lai-running-man-vietnam-2026-co-gi-khac-biet-18526062715513432.htm",
+      "summary": "Đơn vị giữ bản quyền và sản xuất chương trình 'Running Man Vietnam 2026' chính thức công bố poster, giữ nguyên đội hình các thành viên được yêu thích gồm Trấn Thành, Anh Tú Atus, Quang Tuấn, Quang Trung, Liên Bỉnh Phát, Quân A.P và Ninh Dương Lan Ngọc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T11:15:00+07:00",
+      "fetched": "2026-06-27T18:22:44.479136+07:00"
+    },
+    {
+      "id": "6fccfd6aacc21c1ecd20245d7c9483dc",
+      "title": "Nhận định bóng đá Croatia vs Ghana: Thế trận chặt chẽ, khan hiếm bàn thắng",
+      "link": "https://thanhnien.vn/nhan-dinh-bong-da-croatia-vs-ghana-the-tran-chat-che-khan-hiem-ban-thang-18526062717584951.htm",
+      "summary": "Trận Croatia vs Ghana diễn ra lúc 4 giờ ngày 28.6. Màn so tài này nhiều khả năng sẽ chứng kiến thế trận chặt chẽ được tạo ra bởi 2 đội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T11:13:00+07:00",
+      "fetched": "2026-06-27T18:22:44.479346+07:00"
+    },
+    {
+      "id": "33402449b4ecd9e44c303a4722432dac",
+      "title": "Hứa Vĩ Văn về Đất Đỏ lan tỏa văn hóa đọc, truyền cảm hứng cho học sinh",
+      "link": "https://thanhnien.vn/hua-vi-van-ve-dat-do-lan-toa-van-hoa-doc-truyen-cam-hung-cho-hoc-sinh-18526062717151287.htm",
+      "summary": "Cùng hát và trò chuyện với học sinh về ý nghĩa đọc sách, tinh thần ham học hỏi, ý chí vượt khó, lòng yêu nước, diễn viên Hứa Vĩ Văn để lại hình ảnh đẹp trong lòng người dân Đất Đỏ - quê hương chị Võ Thị Sáu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T11:10:00+07:00",
+      "fetched": "2026-06-27T18:22:44.479515+07:00"
+    },
+    {
+      "id": "103f3842a150ec93491f4879d9da1a24",
+      "title": "Iran bị tố tập kích UAV nhằm vào Bahrain",
+      "link": "https://vnexpress.net/iran-bi-to-tap-kich-uav-nham-vao-bahrain-5090620.html",
+      "summary": "Bahrain cáo buộc Iran tiến hành cuộc tập kích bằng UAV, sau khi Vệ binh Iran tuyên bố đã triển khai loạt đòn trả đũa Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T11:02:40+07:00",
+      "fetched": "2026-06-27T18:22:42.080586+07:00"
+    },
+    {
+      "id": "103f3842a150ec93491f4879d9da1a24",
+      "title": "Iran bị tố tập kích UAV nhằm vào Bahrain",
+      "link": "https://vnexpress.net/iran-bi-to-tap-kich-uav-nham-vao-bahrain-5090620.html",
+      "summary": "Bahrain cáo buộc Iran tiến hành cuộc tập kích bằng UAV, sau khi Vệ binh Iran tuyên bố đã triển khai loạt đòn trả đũa Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-27T11:02:40+07:00",
+      "fetched": "2026-06-27T18:22:47.342917+07:00"
+    },
+    {
+      "id": "eb9d8b11f88591f54b1a39027d775bf9",
+      "title": "Kịch bản nào để Hàn Quốc vào vòng knock-out World Cup?",
+      "link": "https://vnexpress.net/kich-ban-nao-de-han-quoc-vao-vong-knock-out-world-cup-5090554.html",
+      "summary": "Cơ hội đi tiếp của Hàn Quốc giảm xuống chỉ còn 33% trên lý thuyết, sau khi 9 trong 12 bảng đấu tại World Cup 2026 kết thúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T11:00:00+07:00",
+      "fetched": "2026-06-27T18:22:42.080768+07:00"
+    },
+    {
+      "id": "be6a5801e3bf3fd90b57c1b7b2a1480a",
+      "title": "Chồng không chịu dừng kinh doanh dù thất bại liên tiếp phải bán nhà trả nợ",
+      "link": "https://vnexpress.net/chong-khong-chiu-dung-kinh-doanh-du-that-bai-lien-tiep-phai-ban-nha-tra-no-5089894.html",
+      "summary": "Dưới áp lực nợ nần, tôi yêu cầu anh dừng lại thì nhiều lần anh đánh tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T11:00:00+07:00",
+      "fetched": "2026-06-27T18:22:42.080938+07:00"
+    },
+    {
+      "id": "c294dbb318cf642a593f3a315052a61e",
+      "title": "Cao Bằng mời T&amp;T Group phát triển kinh tế cửa khẩu",
+      "link": "https://vnexpress.net/cao-bang-moi-t-t-group-phat-trien-kinh-te-cua-khau-5090626.html",
+      "summary": "Tỉnh Cao Bằng mời T&T Group phối hợp định hướng quy hoạch, phát triển cửa khẩu Trà Lĩnh cũng như hợp tác trong lĩnh vực thương mại, logistics, đầu tư tại địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T11:00:00+07:00",
+      "fetched": "2026-06-27T18:22:42.081129+07:00"
+    },
+    {
+      "id": "341f0a968f4af707bfabcdb7e195f595",
+      "title": "Vinmec khai trương hệ thống trung tâm phẫu thuật robot công nghệ cao",
+      "link": "https://vnexpress.net/vinmec-khai-truong-he-thong-trung-tam-phau-thuat-robot-cong-nghe-cao-5090625.html",
+      "summary": "Trung tâm Phẫu thuật Robot Công nghệ cao khởi đầu cho xây dựng hệ sinh thái phẫu thuật robot đa chuyên khoa, đa bệnh viện và mở rộng cơ hội tiếp cận công nghệ điều trị hiện đại cho người bệnh trên cả nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T11:00:00+07:00",
+      "fetched": "2026-06-27T18:22:42.081337+07:00"
+    },
+    {
+      "id": "837cf39b8f9fedd68fbedd08f8872e2c",
+      "title": "Tiền Phong Nam: Dấu ấn gần hai thập kỷ kiến tạo giá trị bền vững",
+      "link": "https://thanhnien.vn/tien-phong-nam-dau-an-gan-hai-thap-ky-kien-tao-gia-tri-ben-vung-185260627163622275.htm",
+      "summary": "Sau gần hai thập kỷ phát triển, Tiền Phong Nam không ngừng nâng cao năng lực sản xuất, đồng hành cùng trách nhiệm xã hội, từng bước khẳng định vị thế doanh nghiệp gắn liền với kiến tạo giá trị bền vững.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T11:00:00+07:00",
+      "fetched": "2026-06-27T18:22:44.479672+07:00"
+    },
+    {
+      "id": "eb9d8b11f88591f54b1a39027d775bf9",
+      "title": "Kịch bản nào để Hàn Quốc vào vòng knock-out World Cup?",
+      "link": "https://vnexpress.net/kich-ban-nao-de-han-quoc-vao-vong-knock-out-world-cup-5090554.html",
+      "summary": "Cơ hội đi tiếp của Hàn Quốc giảm xuống chỉ còn 33% trên lý thuyết, sau khi 9 trong 12 bảng đấu tại World Cup 2026 kết thúc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-27T11:00:00+07:00",
+      "fetched": "2026-06-27T18:22:51.795561+07:00"
+    },
+    {
+      "id": "b7db327cc1828c83d2b598fecb583dba",
+      "title": "Con trai Anh hùng La Văn Cầu: 'Cha luôn dặn chúng tôi phải sống tử tế'",
+      "link": "https://thanhnien.vn/con-trai-anh-hung-la-van-cau-cha-luon-dan-chung-toi-phai-song-tu-te-18526062716551414.htm",
+      "summary": "Trong ký ức của các con, Anh hùng La Văn Cầu là người cha giàu tình cảm nhưng cũng rất nghiêm khắc. Ông chưa từng dùng roi vọt để dạy con, nhưng luôn yêu cầu các con giữ nề nếp trong học tập, sinh hoạt, sống tử tế, chan hòa, trở thành một công dân có ích cho xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T10:57:00+07:00",
+      "fetched": "2026-06-27T18:22:44.479837+07:00"
+    },
+    {
+      "id": "c9823e8d6a5ac3bc85b5c2592ce3bc4d",
+      "title": "Đột kích tiệm tạp hóa, thu giữ hàng trăm dụng cụ sử dụng ma túy",
+      "link": "https://thanhnien.vn/dot-kich-tiem-tap-hoa-thu-giu-hang-tram-dung-cu-su-dung-ma-tuy-18526062717320623.htm",
+      "summary": "Công an thành phố Đà Nẵng phát hiện một cửa hàng tạp hóa bày bán hàng trăm dụng cụ sử dụng trái phép chất ma túy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T10:53:00+07:00",
+      "fetched": "2026-06-27T18:22:44.479991+07:00"
+    },
+    {
+      "id": "d2e6cf9240e0da55e73502cf3c8fb317",
+      "title": "Lý do tia hồng ngoại vẫn được dùng trên điều khiển từ xa",
+      "link": "https://thanhnien.vn/ly-do-tia-hong-ngoai-van-duoc-dung-tren-dieu-khien-tu-xa-185260619103505886.htm",
+      "summary": "Điều khiển từ xa TV hiện đại ngày càng thông minh, nhưng hồng ngoại vẫn giữ vai trò quan trọng bên cạnh Bluetooth.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T10:36:00+07:00",
+      "fetched": "2026-06-27T18:22:44.480147+07:00"
+    },
+    {
+      "id": "8749ce4cac765e07752172726453bbe2",
+      "title": "Ukraine ráo riết tung UAV cắt đường, cô lập Crimea",
+      "link": "https://thanhnien.vn/ukraine-rao-riet-tung-uav-cat-duong-co-lap-crimea-185260627170940428.htm",
+      "summary": "Bộ Quốc phòng Nga cho biết lực lượng phòng không đã bắn hạ 660 máy bay không người lái (UAV) của Ukraine trên lãnh thổ Nga và bán đảo Crimea, biển Đen và biển Azov vào rạng sáng 26.6.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T10:31:00+07:00",
+      "fetched": "2026-06-27T18:22:44.480326+07:00"
+    },
+    {
+      "id": "e75ffb498e603d657c0d7a7a0431654b",
+      "title": "VinUni trao bằng tốt nghiệp cho 200 sinh viên",
+      "link": "https://vnexpress.net/vinuni-trao-bang-tot-nghiep-cho-200-sinh-vien-5090615.html",
+      "summary": "VinUni trao bằng cho các tân khoa, đồng thời công bố hợp tác đào tạo trong các lĩnh vực công nghệ cao, AI, robot, xe điện, bán dẫn, y học…",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T10:30:00+07:00",
+      "fetched": "2026-06-27T18:22:42.081515+07:00"
+    },
+    {
+      "id": "b96b579ca817b7d2b5c348ccbe7b9eac",
+      "title": "Quân đội Mỹ nhận loạt F-35 không có radar",
+      "link": "https://vnexpress.net/quan-doi-my-nhan-loat-f-35-khong-co-radar-5090470.html",
+      "summary": "Quân đội Mỹ tiếp nhận ít nhất 6 tiêm kích tàng hình F-35 không có radar do chương trình phát triển thiết bị mới bị chậm tiến độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T10:24:36+07:00",
+      "fetched": "2026-06-27T18:22:42.081682+07:00"
+    },
+    {
+      "id": "b96b579ca817b7d2b5c348ccbe7b9eac",
+      "title": "Quân đội Mỹ nhận loạt F-35 không có radar",
+      "link": "https://vnexpress.net/quan-doi-my-nhan-loat-f-35-khong-co-radar-5090470.html",
+      "summary": "Quân đội Mỹ tiếp nhận ít nhất 6 tiêm kích tàng hình F-35 không có radar do chương trình phát triển thiết bị mới bị chậm tiến độ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-27T10:24:36+07:00",
+      "fetched": "2026-06-27T18:22:47.343105+07:00"
+    },
+    {
+      "id": "c16df497b10927cabe786f4b6bd84954",
+      "title": "Kiến nghị chuyển khu thương mại tự do Đà Nẵng xuống Chu Lai",
+      "link": "https://vnexpress.net/kien-nghi-chuyen-khu-thuong-mai-tu-do-da-nang-xuong-chu-lai-5090606.html",
+      "summary": "KTS Ngô Viết Nam Sơn kiến nghị điều chỉnh vị trí khu thương mại tự do xuống Chu Lai để bố trí thành không gian liền mạch tạo đòn bẩy cho logistics.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T10:15:25+07:00",
+      "fetched": "2026-06-27T18:22:42.081841+07:00"
+    },
+    {
+      "id": "15913de086a7946844c570007ee8ae90",
+      "title": "Vừa 'lên đời' One UI 8.5, Galaxy A24 lại bất ngờ chạy One UI 9",
+      "link": "https://thanhnien.vn/vua-len-doi-one-ui-85-galaxy-a24-lai-bat-ngo-chay-one-ui-9-185260627165640455.htm",
+      "summary": "Galaxy A24 vừa được phát hiện đang chạy phiên bản firmware thử nghiệm của bản cập nhật One UI 9 trên máy chủ Samsung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T10:15:00+07:00",
+      "fetched": "2026-06-27T18:22:44.480482+07:00"
+    },
+    {
+      "id": "afd7b1301414bb18675caf829c944a44",
+      "title": "Điểm tin 17h: Lương giáo viên 5,3 đến 17 triệu đồng từ 1/7 | Mỹ - Israel - Lebanon ký thỏa thuận ba bên",
+      "link": "https://vnexpress.net/diem-tin-17h-luong-giao-vien-5-3-den-17-trieu-dong-tu-1-7-my-israel-lebanon-ky-thoa-thuan-ba-ben-5090623.html",
+      "summary": "Bỏ thi mô phỏng sát hạch lái xe từ 1/7; Giá vàng miếng tăng hơn một triệu đồng...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T10:11:07+07:00",
+      "fetched": "2026-06-27T18:22:42.081998+07:00"
+    },
+    {
+      "id": "7292fc33b990ee1134fdf88a908a0fc0",
+      "title": "Đội tuyển Hàn Quốc chỉ còn 'cửa hẹp' ở World Cup: Muốn đi tiếp phải chờ 3 phép màu",
+      "link": "https://thanhnien.vn/doi-tuyen-han-quoc-chi-con-cua-hep-o-world-cup-muon-di-tiep-phai-cho-3-phep-mau-185260627165801236.htm",
+      "summary": "Sau khi rơi xuống vị trí thứ 8 trong nhóm các đội hạng ba, đội tuyển Hàn Quốc không còn tự quyết số phận. Son Heung-min cùng đồng đội chỉ có thể đi tiếp nếu hàng loạt kết quả ở các bảng đấu cuối diễn ra theo đúng kịch bản mong muốn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T10:11:00+07:00",
+      "fetched": "2026-06-27T18:22:44.480633+07:00"
+    },
+    {
+      "id": "fe455cc49510b9de17915d42727e7da2",
+      "title": "Dự án công viên văn hóa Trần Huỳnh Cà Mau phê duyệt 6 năm vẫn 'nằm im'",
+      "link": "https://thanhnien.vn/du-an-cong-vien-van-hoa-tran-huynh-ca-mau-phe-duyet-6-nam-van-nam-im-185260627153340839.htm",
+      "summary": "Sau gần 6 năm kể từ ngày được UBND tỉnh Bạc Liêu (cũ) phê duyệt chủ trương đầu tư, Dự án nâng cấp, cải tạo công viên văn hóa Trần Huỳnh vẫn chưa thể chuyển sang giai đoạn đầu tư xây dựng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T10:11:00+07:00",
+      "fetched": "2026-06-27T18:22:44.480787+07:00"
+    },
+    {
+      "id": "48e3d5ec97dcd01d40055928ce8b4362",
+      "title": "Xếp hàng làm bánh dân gian ở ngày hội Em yêu văn hóa Việt",
+      "link": "https://thanhnien.vn/xep-hang-lam-banh-dan-gian-o-ngay-hoi-em-yeu-van-hoa-viet-185260627152310322.htm",
+      "summary": "'Các con có biết vì sao bánh này tên là bánh bò không?', đầu bếp Phan Anh Tuấn, cũng là thầy hiệu trưởng Trường tiểu học Nguyễn Trường Tộ, phường Xóm Chiếu, TP.HCM, giơ lên những chiếc bánh dân gian hỏi học trò trong ngày hội 'Em yêu văn hóa Việt'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T10:11:00+07:00",
+      "fetched": "2026-06-27T18:22:44.480939+07:00"
+    },
+    {
+      "id": "ade4d7bc9199f274df15e05b172eb811",
+      "title": "Nhận định bóng đá Panama vs Anh: Harry Kane giúp 'tam sư' thắng cách biệt",
+      "link": "https://thanhnien.vn/nhan-dinh-bong-da-panama-vs-anh-harry-kane-giup-tam-su-thang-cach-biet-185260627165808971.htm",
+      "summary": "Trận Panama vs Anh thuộc bảng L diễn ra lúc 4 giờ ngày 28.6. 'Tam sư' chắc chắn sẽ không bỏ lỡ cơ hội này để xây chắc ngôi đầu bảng, trước khi tiến vào vòng knock-out World Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T10:08:00+07:00",
+      "fetched": "2026-06-27T18:22:44.481089+07:00"
+    },
+    {
+      "id": "a827ca3f2f4f7f5dcf9badc0600893a9",
+      "title": "HLV Cape Verde: 'Đội nhỏ vẫn có thể làm nên chuyện ở World Cup'",
+      "link": "https://vnexpress.net/hlv-cape-verde-doi-nho-van-co-the-lam-nen-chuyen-o-world-cup-5090617.html",
+      "summary": "Sau khi giúp Cape Verde trở thành quốc gia nhỏ nhất vào vòng knock-out World Cup, HLV Bubista nói thành công của đội tuyển sẽ là nguồn cảm hứng cho các nước nhỏ khác trên thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T10:04:24+07:00",
+      "fetched": "2026-06-27T18:22:42.082155+07:00"
+    },
+    {
+      "id": "a827ca3f2f4f7f5dcf9badc0600893a9",
+      "title": "HLV Cape Verde: 'Đội nhỏ vẫn có thể làm nên chuyện ở World Cup'",
+      "link": "https://vnexpress.net/hlv-cape-verde-doi-nho-van-co-the-lam-nen-chuyen-o-world-cup-5090617.html",
+      "summary": "Sau khi giúp Cape Verde trở thành quốc gia nhỏ nhất vào vòng knock-out World Cup, HLV Bubista nói thành công của đội tuyển sẽ là nguồn cảm hứng cho các nước nhỏ khác trên thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-27T10:04:24+07:00",
+      "fetched": "2026-06-27T18:22:51.795748+07:00"
+    },
+    {
+      "id": "76f87ec5f98800fb6793543d0caf9473",
+      "title": "Một trường ĐH trao bằng cho khóa bác sĩ y khoa đầu tiên",
+      "link": "https://thanhnien.vn/mot-truong-dh-trao-bang-cho-khoa-bac-si-y-khoa-dau-tien-185260627160757121.htm",
+      "summary": "Những bác sĩ y khoa này từng đi qua giai đoạn học tập đặc biệt trong dịch Covid-19, trong đó nhiều em tạm gác việc học để tham gia công tác phòng, chống dịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T10:03:00+07:00",
+      "fetched": "2026-06-27T18:22:44.481266+07:00"
+    },
+    {
+      "id": "507ef382c60081c325839ee1830d64c2",
+      "title": "Sunshine Bay Retreat giới thiệu căn hộ nghỉ dưỡng ven biển",
+      "link": "https://vnexpress.net/sunshine-bay-retreat-gioi-thieu-can-ho-nghi-duong-ven-bien-5090618.html",
+      "summary": "Sunshine Bay Retreat ra mắt dòng căn hộ nghỉ dưỡng hoàn thiện nội thất tại phân khu Sunshine Bay Eden, hướng đến nhu cầu sở hữu và khai thác lưu trú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T10:00:00+07:00",
+      "fetched": "2026-06-27T18:22:42.082339+07:00"
+    },
+    {
+      "id": "873c63e32a1f2eda08c542756127ca7a",
+      "title": "Tiêm khớp điều trị bệnh lý gì?",
+      "link": "https://vnexpress.net/tiem-khop-dieu-tri-benh-ly-gi-5090550.html",
+      "summary": "Tiêm khớp được dùng trong điều trị các bệnh lý như thoái hóa khớp, viêm khớp, tổn thương sụn hoặc dây chằng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T10:00:00+07:00",
+      "fetched": "2026-06-27T18:22:42.082502+07:00"
+    },
+    {
+      "id": "a88e67bfd24308ea5ff4a7e84694899e",
+      "title": "Toàn cảnh 17h: Nguyên nhân xe tải lao xuống vực ở Sơn La | Động đất kép kinh hoàng ở Venezuela",
+      "link": "https://thanhnien.vn/toan-canh-17h-nguyen-nhan-xe-tai-lao-xuong-vuc-o-son-la-dong-dat-kep-kinh-hoang-o-venezuela-185260627151638291.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T10:00:00+07:00",
+      "fetched": "2026-06-27T18:22:44.481423+07:00"
     },
     {
       "id": "685846a733c9496200e586e1cdc017b5",
