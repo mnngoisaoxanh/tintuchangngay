@@ -1,7 +1,97 @@
 window.newsData_2026_06_27 = {
   "date": "2026-06-27",
-  "lastUpdated": "2026-06-27T22:08:09.471139+07:00",
+  "lastUpdated": "2026-06-27T23:57:19.770435+07:00",
   "articles": [
+    {
+      "id": "877e7734323c8d9606d5d8f2b85dfd46",
+      "title": "Chủ tịch Hà Nội: Dự kiến xong đường song hành dự án vành đai 4 trong tháng 9-2026",
+      "link": "https://tuoitre.vn/chu-tich-ha-noi-du-kien-xong-duong-song-hanh-du-an-vanh-dai-4-trong-thang-9-2026-10026062719501732.htm",
+      "summary": "Chủ tịch UBND TP Hà Nội Vũ Đại Thắng báo cáo về các dự án công trình giao thông đang triển khai ở thủ đô tại hội nghị sơ kết 6 tháng đầu năm 2026 Ban Chỉ đạo nhà nước các công trình, dự án quan trọng quốc gia, trọng điểm ngành giao thông vận tải chiều 27-6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T23:57:12.956205+07:00",
+      "fetched": "2026-06-27T23:57:12.956256+07:00"
+    },
+    {
+      "id": "8d22f48035831f9360ae4db61788c5e8",
+      "title": "Đại kiện tướng cờ vua Nguyễn Anh Khôi tốt nghiệp ngành y",
+      "link": "https://tuoitre.vn/dai-kien-tuong-co-vua-nguyen-anh-khoi-tot-nghiep-nganh-y-100260627195456802.htm",
+      "summary": "Theo chia sẻ từ gia đình, kỳ thủ - đại kiện tướng cờ vua Nguyễn Anh Khôi đã chính thức tốt nghiệp ngành y Trường đại học VinUni, sau 6 năm theo học ở đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T23:57:12.956140+07:00",
+      "fetched": "2026-06-27T23:57:12.956195+07:00"
+    },
+    {
+      "id": "ad5c0a4c47cd59552b18a3d5720ec085",
+      "title": "Lái xe SH bằng hai chân, nam thanh niên được công an ‘mời’ làm việc",
+      "link": "https://tuoitre.vn/lai-xe-sh-bang-hai-chan-nam-thanh-nien-duoc-cong-an-moi-lam-viec-100260627205218062.htm",
+      "summary": "Công an xã Giao Ninh (Ninh Bình) đang phối hợp với Phòng Cảnh sát giao thông củng cố hồ sơ xử lý vụ nam thanh niên lái xe SH bằng hai chân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T23:57:12.955799+07:00",
+      "fetched": "2026-06-27T23:57:12.955857+07:00"
+    },
+    {
+      "id": "7b115802e04c8499ac5aa242ccc19afe",
+      "title": "Máy bay đâm vào tòa nhà cao nhất Bắc Kinh: Phi công đã thiệt mạng",
+      "link": "https://tuoitre.vn/may-bay-dam-vao-toa-nha-cao-nhat-bac-kinh-phi-cong-da-thiet-mang-100260627191811551.htm",
+      "summary": "Giới chức Trung Quốc cho biết phi công đã thiệt mạng sau khi chiếc máy bay cỡ nhỏ đâm vào tòa nhà cao nhất Bắc Kinh, khiến 13 người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T23:57:12.955726+07:00",
+      "fetched": "2026-06-27T23:57:12.955787+07:00"
+    },
+    {
+      "id": "adb713d30411b7f23f07558e738dc469",
+      "title": "Bond girl của phim 007: 'Người Việt Nam có tâm hồn sâu sắc'",
+      "link": "https://tuoitre.vn/bond-girl-cua-phim-007-nguoi-viet-nam-co-tam-hon-sau-sac-100260627203316284.htm",
+      "summary": "Jane Seymour - một trong những 'Bond girl' xuất sắc trong loạt phim James Bond (007) - đến Việt Nam tham gia Liên hoan phim châu Á Đà Nẵng lần thứ IV.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T23:57:12.955655+07:00",
+      "fetched": "2026-06-27T23:57:12.955716+07:00"
+    },
+    {
+      "id": "c5f858ef90256c114ce57304642b1339",
+      "title": "Doanh nghiệp, hộ kinh doanh 43 nhóm ngành được lùi hạn nộp thuế tới 5 tháng",
+      "link": "https://tuoitre.vn/doanh-nghiep-ho-kinh-doanh-43-nhom-nganh-duoc-lui-han-nop-thue-toi-5-thang-100260627213749862.htm",
+      "summary": "Doanh nghiệp, hộ kinh doanh thuộc 43 nhóm ngành, lĩnh vực được gia hạn thời gian nộp thuế giá trị gia tăng, thuế thu nhập doanh nghiệp, thuế thu nhập cá nhân và tiền thuê đất trong năm 2026 tối đa 5 tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T23:57:12.955570+07:00",
+      "fetched": "2026-06-27T23:57:12.955643+07:00"
+    },
+    {
+      "id": "4c4ae56ee25252f5444305519533d5f3",
+      "title": "Thủ tướng Lê Minh Hưng: Không lùi tiến độ các dự án trọng điểm nếu không có lý do chính đáng",
+      "link": "https://tuoitre.vn/thu-tuong-le-minh-hung-khong-lui-tien-do-cac-du-an-trong-diem-neu-khong-co-ly-do-chinh-dang-100260627210007112.htm",
+      "summary": "Thủ tướng Lê Minh Hưng nhấn mạnh nếu muốn đóng góp cho tăng trưởng 2 con số trong năm nay và những năm tiếp theo thì việc hoàn thành đúng tiến độ và chất lượng các dự án trọng điểm quốc gia có ý nghĩa đặc biệt quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T23:57:12.955469+07:00",
+      "fetched": "2026-06-27T23:57:12.955557+07:00"
+    },
+    {
+      "id": "a0b40042dfe5fb4cae2675c1ad71a9e6",
+      "title": "Nhiều người Venezuela biết trước động đất nhờ cảnh báo của Google",
+      "link": "https://tuoitre.vn/nhieu-nguoi-venezuela-biet-truoc-dong-dat-nho-canh-bao-cua-google-10026062713171002.htm",
+      "summary": "Nhờ hệ thống Android Earthquake Alerts của Google, nhiều người dân Venezuela đã nhận được cảnh báo động đất trên điện thoại di động trước khi rung chấn bắt đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T23:57:12.955389+07:00",
+      "fetched": "2026-06-27T23:57:12.955458+07:00"
+    },
+    {
+      "id": "cf4c83702f4a379ae00a15b446f51bad",
+      "title": "Hơn 10.000 xe Vespa đổ về quảng trường La Mã, mừng thương hiệu tròn 80 năm tuổi",
+      "link": "https://tuoitre.vn/hon-10000-xe-vespa-do-ve-quang-truong-la-ma-mung-thuong-hieu-tron-80-nam-tuoi-100260627214921414.htm",
+      "summary": "Hơn 10.000 chiếc Vespa từ khắp nơi trên thế giới đã hội tụ tại Rome vào ngày 27-6, để hướng ứng kỷ niệm 80 năm của dòng xe tay ga huyền thoại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T23:57:12.955234+07:00",
+      "fetched": "2026-06-27T23:57:12.955375+07:00"
+    },
     {
       "id": "2e40e25b4ad2cf79bbc6d574401405b0",
       "title": "Nghiện ma túy, làm giả thông báo chuyển tiền để mua hàng",
@@ -223,6 +313,16 @@ window.newsData_2026_06_27 = {
       "fetched": "2026-06-27T20:09:37.817347+07:00"
     },
     {
+      "id": "e522647d24656c643a198a660b800a23",
+      "title": "Bằng cấp của bác sĩ",
+      "link": "https://vnexpress.net/bang-cap-cua-bac-si-5090666.html",
+      "summary": "Bố tôi tốt nghiệp tú tài năm 1954, năm sau ghi danh học y.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T16:56:34+07:00",
+      "fetched": "2026-06-27T23:57:08.988230+07:00"
+    },
+    {
       "id": "84de4d541a5323071b50a87c14037e16",
       "title": "Ba tháng đánh nhau với Mỹ, Iran thiệt hại bằng 8 năm đối đầu Iraq",
       "link": "https://tuoitre.vn/ba-thang-danh-nhau-voi-my-iran-thiet-hai-bang-8-nam-doi-dau-iraq-100260627134701839.htm",
@@ -371,6 +471,86 @@ window.newsData_2026_06_27 = {
       "category": "Tổng hợp",
       "published": "2026-06-27T16:56:19.460206+07:00",
       "fetched": "2026-06-27T16:56:19.460513+07:00"
+    },
+    {
+      "id": "992e2173776d946831cb5d9fda194210",
+      "title": "Đội kèn công an biểu diễn âm nhạc trên phố đi bộ Nguyễn Huệ",
+      "link": "https://vnexpress.net/doi-ken-cong-an-bieu-dien-am-nhac-tren-pho-di-bo-nguyen-hue-5090661.html",
+      "summary": "126 nghệ sĩ thuộc Đoàn nghi lễ Công an nhân dân trình diễn nhạc kèn tại phố đi bộ Nguyễn Huệ, thu hút đông người xem, tối 27/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T16:50:33+07:00",
+      "fetched": "2026-06-27T23:57:08.988448+07:00"
+    },
+    {
+      "id": "54b8f3d467fb76d1a1bcc0b0675ea59c",
+      "title": "Hòa Minzy hát 'Thị Mầu', đu người trên không trước 20.000 khán giả",
+      "link": "https://thanhnien.vn/hoa-minzy-hat-thi-mau-du-nguoi-tren-khong-truoc-20000-khan-gia-185260627195420962.htm",
+      "summary": "Hòa Minzy, Võ Hạ Trâm, Đông Hùng... hào hứng khi trình diễn trước 20.000 khán giả tại concert 'Thanh xuân' diễn ra vào tối 27.6.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T16:12:00+07:00",
+      "fetched": "2026-06-27T23:57:11.331135+07:00"
+    },
+    {
+      "id": "bc85b35990e3b0ff2e6b1274670def5f",
+      "title": "Lượt cuối bảng K World Cup 2026: Bồ Đào Nha đại chiến Colombia",
+      "link": "https://thanhnien.vn/luot-cuoi-bang-k-world-cup-2026-bo-dao-nha-dai-chien-colombia-185260627181557141.htm",
+      "summary": "Để chiếm ngôi đầu bảng K World Cup 2026, Bồ Đào Nha phải đánh bại Colombia ở màn so tài diễn ra lúc 6 giờ 30 hôm nay (28.6).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T15:37:00+07:00",
+      "fetched": "2026-06-27T23:57:11.331304+07:00"
+    },
+    {
+      "id": "1b9ca3df97649223fb3949641408a406",
+      "title": "Lượt cuối bảng J World Cup 2026: Messi tiếp tục ghi bàn?",
+      "link": "https://thanhnien.vn/luot-cuoi-bang-j-world-cup-2026-messi-tiep-tuc-ghi-ban-185260627103950002.htm",
+      "summary": "HLV Scaloni chính thức xác nhận Messi sẽ thi đấu ở trận Argentina gặp Jordan lúc 9 giờ ngày 28.6, nhưng sẽ vào sân từ ghế dự bị. Đây là cơ hội để danh thủ vừa bước sang tuổi 39 này có thêm bàn thắng tại World Cup 2026. Trong khi trận còn lại cùng giờ, Algeria vs Áo cũng quyết đấu để xác định thứ hạn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T15:35:00+07:00",
+      "fetched": "2026-06-27T23:57:11.331464+07:00"
+    },
+    {
+      "id": "d235c0258f3e364cd2b7954ce44dccf9",
+      "title": "Trang Pháp trượt cúp 'Đạp gió' Trung Quốc",
+      "link": "https://vnexpress.net/trang-phap-truot-cup-dap-gio-trung-quoc-5090652.html",
+      "summary": "Ca sĩ Trang Pháp không giành được suất vào đội hình cuối cùng tại chung kết \"Đạp gió\" Trung Quốc 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T15:30:30+07:00",
+      "fetched": "2026-06-27T23:57:08.988644+07:00"
+    },
+    {
+      "id": "4079ffc6f63c2810b4a49b9b83775b6f",
+      "title": "Nhóm Uprize ra album đầu tay",
+      "link": "https://vnexpress.net/nhom-uprize-ra-album-dau-tay-5090506.html",
+      "summary": "Uprize, nhóm nhạc nam bước ra từ chương trình thực tế \"Tân binh toàn năng\", giới thiệu album \"Thăng\" theo thể loại pop dance gồm tám ca khúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T15:12:06+07:00",
+      "fetched": "2026-06-27T23:57:08.988817+07:00"
+    },
+    {
+      "id": "c10e21ceb3d2f0edff0300e3c28a0344",
+      "title": "Nữ du học sinh Việt bị Hàn Quốc phạt 10 năm tù vì bỏ rơi con sơ sinh",
+      "link": "https://vnexpress.net/nu-du-hoc-sinh-viet-bi-han-quoc-phat-10-nam-tu-vi-bo-roi-con-so-sinh-5090640.html",
+      "summary": "Tòa án Hàn Quốc tuyên nữ du học sinh người Việt 10 năm tù giam vì bỏ rơi con sơ sinh ngoài trời lạnh, khiến đứa trẻ tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T15:10:10+07:00",
+      "fetched": "2026-06-27T23:57:08.988984+07:00"
+    },
+    {
+      "id": "03e89235b618a28e0b0c66e44c67cfa9",
+      "title": "Cụ bà 97 tuổi bị 'treo' chế độ thân nhân lão thành cách mạng 2 tháng",
+      "link": "https://thanhnien.vn/cu-ba-97-tuoi-bi-treo-che-do-than-nhan-lao-thanh-cach-mang-2-thang-185260627214906005.htm",
+      "summary": "Do hồ sơ bị chuyển lòng vòng giữa các đơn vị nên cụ bà 97 tuổi ở Hà Nội đã bị 'treo' trợ cấp chế độ thân nhân lão thành cách mạng trong 2 tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T15:08:00+07:00",
+      "fetched": "2026-06-27T23:57:11.331645+07:00"
     },
     {
       "id": "196fb2345422d9821b520b991dd442de",
