@@ -1,7 +1,117 @@
 window.newsData_2026_06_27 = {
   "date": "2026-06-27",
-  "lastUpdated": "2026-06-27T18:22:51.805720+07:00",
+  "lastUpdated": "2026-06-27T20:09:45.776423+07:00",
   "articles": [
+    {
+      "id": "f78e94ecc0a27c5ee993667dd26c479a",
+      "title": "Khoa Ngô rời đội tuyển Việt Nam do chấn thương",
+      "link": "https://tuoitre.vn/khoa-ngo-roi-doi-tuyen-viet-nam-do-chan-thuong-100260627163355317.htm",
+      "summary": "Khoa Ngô là trường hợp đầu tiên HLV Kim Sang Sik gạch tên khỏi đội tuyển Việt Nam trong quá trình chuẩn bị ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T20:09:37.818200+07:00",
+      "fetched": "2026-06-27T20:09:37.818303+07:00"
+    },
+    {
+      "id": "46d000e010620b8df7650a2ec4b212bb",
+      "title": "Giá vàng miếng SJC tăng 1,5 triệu đồng/lượng trong phiên cuối tuần",
+      "link": "https://tuoitre.vn/gia-vang-mieng-sjc-tang-15-trieu-dong-luong-trong-phien-cuoi-tuan-100260627163604885.htm",
+      "summary": "Giá vàng thế giới tăng 63 USD/ounce, kết thúc tuần giao dịch ở mức 4.090,6 USD/ounce vào hôm nay, 27-6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T20:09:37.817837+07:00",
+      "fetched": "2026-06-27T20:09:37.818176+07:00"
+    },
+    {
+      "id": "41bf0c7810a2cc7d8368d2b8ffd5b3de",
+      "title": "Báo chí gọi Fernando Muslera là 'thủ môn  tệ nhất lịch sử World Cup'",
+      "link": "https://tuoitre.vn/bao-chi-goi-fernando-muslera-la-thu-mon-te-nhat-lich-su-world-cup-100260627171427625.htm",
+      "summary": "Theo truyền thông Uruguay, đầu hiệp 2 trận thua Tây Ban Nha, thủ thành Fernando Muslera đã xin HLV Marcelo Bielsa cho anh được rời sân, vì phong độ quá tệ hại của bản thân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T20:09:37.817781+07:00",
+      "fetched": "2026-06-27T20:09:37.817829+07:00"
+    },
+    {
+      "id": "1a025ae19112f333fc942e9eee76e49b",
+      "title": "'Giai điệu hữu nghị' gắn kết cộng đồng quốc tế tại TP.HCM",
+      "link": "https://tuoitre.vn/giai-dieu-huu-nghi-gan-ket-cong-dong-quoc-te-tai-tphcm-100260627161828612.htm",
+      "summary": "Sáng 27-6, Liên hiệp các tổ chức hữu nghị TP.HCM phối hợp Công ty cổ phần Du lịch văn hóa Suối Tiên tổ chức chương trình \"Giai điệu hữu nghị\" năm 2026 tại khu du lịch văn hóa Suối Tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T20:09:37.817711+07:00",
+      "fetched": "2026-06-27T20:09:37.817773+07:00"
+    },
+    {
+      "id": "673b4f382d9f7867ce3fa68c2128b995",
+      "title": "Giáo sư Oxford Lê Văn Tấn giữ chức quyền Giám đốc OUCRU tại TP.HCM",
+      "link": "https://tuoitre.vn/giao-su-oxford-le-van-tan-giu-chuc-quyen-giam-doc-oucru-tai-tphcm-100260627160857526.htm",
+      "summary": "Gia nhập vào đơn vị nghiên cứu lâm sàng Đại học Oxford (OUCRU) từ năm 2003, giáo sư Lê Văn Tấn đã dành hơn hai thập kỷ cống hiến và trở thành một trong những nhà khoa học hàng đầu Việt Nam về các bệnh nhiễm trùng mới nổi. Mới đây ông được bổ nhiệm quyền Giám đốc OUCRU tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T20:09:37.817662+07:00",
+      "fetched": "2026-06-27T20:09:37.817704+07:00"
+    },
+    {
+      "id": "846c2e4a721c332e50c5f4db4048ee40",
+      "title": "Lễ tốt nghiệp VinUni 2026: phác thảo mô hình đại học tương lai",
+      "link": "https://tuoitre.vn/le-tot-nghiep-vinuni-2026-phac-thao-mo-hinh-dai-hoc-tuong-lai-100260627163731866.htm",
+      "summary": "Sáng 27-6, Trường Đại học VinUni tổ chức Lễ Tốt nghiệp 2026, trao bằng cho 200 tân khoa thuộc ba khối ngành Kinh doanh, Kỹ thuật và Khoa học Máy tính, Khoa học Sức khỏe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T20:09:37.817608+07:00",
+      "fetched": "2026-06-27T20:09:37.817654+07:00"
+    },
+    {
+      "id": "3cf313b7d94a0d48a948ead3042d914f",
+      "title": "Lổ hổng lớn tại World Cup 2026 là xét đội thứ ba thành tích tốt nhất?",
+      "link": "https://tuoitre.vn/lo-hong-lon-tai-world-cup-2026-la-xet-doi-thu-ba-thanh-tich-tot-nhat-10026062717421413.htm",
+      "summary": "Cuộc cạnh tranh đội đứng thứ 3 thành tích tốt nhất có thể được xem là một \"lổ hổng lớn\" của World Cup 2026 khi tạo ra nhiều trận đấu mà cả hai đều hài lòng với kết quả hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T20:09:37.817551+07:00",
+      "fetched": "2026-06-27T20:09:37.817599+07:00"
+    },
+    {
+      "id": "44a67b0df992df1ef83c12235ad7b801",
+      "title": "Thanh Hóa tuyển dụng hơn 2.000 giáo viên, viên chức ngành giáo dục",
+      "link": "https://tuoitre.vn/thanh-hoa-tuyen-dung-hon-2000-giao-vien-vien-chuc-nganh-giao-duc-100260627174030529.htm",
+      "summary": "Ngày 27-6, Chủ tịch UBND tỉnh Thanh Hóa đã phê duyệt kế hoạch tuyển dụng, tiếp nhận nhà giáo và viên chức làm việc tại các cơ sở giáo dục mầm non, phổ thông công lập tỉnh Thanh Hóa năm 2026, với tổng số chỉ tiêu tuyển dụng 2.020 người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T20:09:37.817491+07:00",
+      "fetched": "2026-06-27T20:09:37.817543+07:00"
+    },
+    {
+      "id": "72a312d11244302ccbf62778cc453cf0",
+      "title": "Đắk Lắk khẳng định không có chuyện đóng cửa bãi rác Hòa Phú",
+      "link": "https://tuoitre.vn/dak-lak-khang-dinh-khong-co-chuyen-dong-cua-bai-rac-hoa-phu-100260627175924134.htm",
+      "summary": "Sau khi doanh nghiệp môi trường thông báo tạm dừng tiếp nhận, xử lý rác thải sinh hoạt tại bãi rác Hòa Phú vì vướng kinh phí, lãnh đạo UBND tỉnh Đắk Lắk khẳng định sẽ khẩn trương tháo gỡ, bảo đảm việc thu gom, xử lý rác không bị gián đoạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T20:09:37.817428+07:00",
+      "fetched": "2026-06-27T20:09:37.817482+07:00"
+    },
+    {
+      "id": "3d5d7e060aa8154fb8e9f8845ff50ef3",
+      "title": "Bắt được chim đang bắt gà, người dân giao nộp mới biết diều núi quý hiếm",
+      "link": "https://tuoitre.vn/bat-duoc-chim-dang-bat-ga-nguoi-dan-giao-nop-moi-biet-dieu-nui-quy-hiem-100260627172012557.htm",
+      "summary": "Phát hiện con chim giống chim ưng đang bắt gà, một người dân ở phường Phước Long (TP.HCM) đã bắt và giao nộp công an.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T20:09:37.817359+07:00",
+      "fetched": "2026-06-27T20:09:37.817419+07:00"
+    },
+    {
+      "id": "d381f6bd44774024f6cea536d4452156",
+      "title": "Kỷ niệm 555 năm vua Lê Thánh Tông dừng chân tại Vạn Tường",
+      "link": "https://tuoitre.vn/ky-niem-555-nam-vua-le-thanh-tong-dung-chan-tai-van-tuong-100260627163551837.htm",
+      "summary": "Lễ khánh thành Đền thờ Đức vua Lê Thánh Tông (giai đoạn I), kỷ niệm 555 năm vua Lê Thánh Tông dừng chân tại Vạn Tường (1471-2026) được tổ chức tại Quảng Ngãi, tri ân vị minh quân, gìn giữ giá trị lịch sử và bồi đắp truyền thống yêu nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T20:09:37.817190+07:00",
+      "fetched": "2026-06-27T20:09:37.817347+07:00"
+    },
     {
       "id": "84de4d541a5323071b50a87c14037e16",
       "title": "Ba tháng đánh nhau với Mỹ, Iran thiệt hại bằng 8 năm đối đầu Iraq",
@@ -303,6 +413,296 @@ window.newsData_2026_06_27 = {
       "fetched": "2026-06-27T13:45:55.735409+07:00"
     },
     {
+      "id": "772ce56545cc8006d5ed220a7fa08acf",
+      "title": "Xem nhanh 20h ngày 27.6: 3 hành vi dễ bị xác định là trốn thuế dù không cố ý | Đeo tai nghe bị phạt, tài xế xử lý sao?",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-276-3-hanh-vi-de-bi-xac-dinh-la-tron-thue-du-khong-co-y-deo-tai-nghe-bi-phat-tai-xe-xu-ly-sao-185260627173430532.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 27.6 có nhiều tin tức đáng chú ý về: 3 hành vi dễ bị xác định là trốn thuế dù không cố ý; đi xe máy đeo tai nghe Google Maps bị phạt, tài xế nói gì?;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T13:00:00+07:00",
+      "fetched": "2026-06-27T20:09:35.643795+07:00"
+    },
+    {
+      "id": "61d9106c20fa868a81f7be55c43ba33b",
+      "title": "Hai bệnh nhân đột quỵ được cấp cứu thành công tại Bệnh viện Bạch Mai Ninh Bình",
+      "link": "https://thanhnien.vn/hai-benh-nhan-dot-quy-duoc-cap-cuu-thanh-cong-tai-benh-vien-bach-mai-ninh-binh-185260627194015955.htm",
+      "summary": "Hai bệnh nhân đột quỵ nhồi máu não đã được cấp cứu thành công bằng các kỹ thuật tái thông mạch hiện đại tại Bệnh viện Bạch Mai cơ sở Ninh Bình, ngay ngày đầu tiên bệnh viện hoạt động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T12:59:00+07:00",
+      "fetched": "2026-06-27T20:09:35.643946+07:00"
+    },
+    {
+      "id": "4051bf9b303a419dce2786e9215fcc22",
+      "title": "Một trường tại TP.HCM vào top 10 Trường học xuất sắc nhất thế giới của T4 Education",
+      "link": "https://thanhnien.vn/mot-truong-tai-tphcm-vao-top-10-truong-hoc-xuat-sac-nhat-the-gioi-cua-t4-education-185260627152351356.htm",
+      "summary": "Tổ chức giáo dục toàn cầu T4 Education, công bố danh sách Top 10 Finalists của World's Best School Prizes 2026 (Trường học xuất sắc nhất thế giới). Trong đó, có đại diện duy nhất của Việt Nam góp mặt trong Top 10 của giải thưởng năm nay, được xướng tên ở hạng mục \"Supporting Healthy Lives\" (Hỗ trợ c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T12:59:00+07:00",
+      "fetched": "2026-06-27T20:09:35.644079+07:00"
+    },
+    {
+      "id": "b605943e7c60b8221d275b770f04cc1b",
+      "title": "Nước Lớn Nước Ròng | Phim ngắn Vietnamese 2026",
+      "link": "https://thanhnien.vn/nuoc-lon-nuoc-rong-phim-ngan-vietnamese-2026-185260626165111228.htm",
+      "summary": "Giữa dòng đời rộng lớn, chỉ cần còn một tấm lòng để nương tựa, còn một chút nghĩa để giữ nhau, thì con người vẫn còn nơi để trở về.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T12:53:00+07:00",
+      "fetched": "2026-06-27T20:09:35.644204+07:00"
+    },
+    {
+      "id": "135248307fef44a1690a1e7bffcabe54",
+      "title": "Bộ Quốc phòng công bố 7 trường hợp công dân đăng ký nghĩa vụ quân sự online",
+      "link": "https://thanhnien.vn/bo-quoc-phong-cong-bo-7-truong-hop-cong-dan-dang-ky-nghia-vu-quan-su-online-185260627185115472.htm",
+      "summary": "Ngày 26.6, Bộ Quốc phòng ban hành Quyết định số 3360 công bố danh mục 7 thủ tục hành chính lĩnh vực nghĩa vụ quân sự thực hiện online.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T12:51:00+07:00",
+      "fetched": "2026-06-27T20:09:35.644327+07:00"
+    },
+    {
+      "id": "c90570f1258795b5396deabf58949ed7",
+      "title": "47 bác sĩ đầu tiên tốt nghiệp chương trình y khoa chuẩn Mỹ",
+      "link": "https://thanhnien.vn/47-bac-si-dau-tien-tot-nghiep-chuong-trinh-y-khoa-chuan-my-185260627191149179.htm",
+      "summary": "Trong số 47 tân bác sĩ khóa đầu tiên vừa nhận bằng, có không ít gương mặt đã sẵn sàng hành nghề trên môi trường toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T12:46:00+07:00",
+      "fetched": "2026-06-27T20:09:35.644447+07:00"
+    },
+    {
+      "id": "bede7996beaf475fa4a4072b168bd2ee",
+      "title": "CĐV Hàn Quốc 'giới thiệu' 5 ứng viên thay HLV đội tuyển, có ông Park Hang-seo",
+      "link": "https://thanhnien.vn/cdv-han-quoc-gioi-thieu-5-ung-vien-thay-hlv-doi-tuyen-co-ong-park-hang-seo-185260627192418738.htm",
+      "summary": "Dư luận Hàn Quốc bất ngờ gọi tên HLV Park Hang-seo như ứng viên sáng giá ngồi ghế nóng dẫn dắt đội tuyển quốc gia nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T12:40:00+07:00",
+      "fetched": "2026-06-27T20:09:35.644565+07:00"
+    },
+    {
+      "id": "a8bd61463cb74436a81203df1eb87082",
+      "title": "Tối nay 27.6, cơ hội cuối ngắm mưa sao băng 100 năm: Khó đoán nhất 2026!",
+      "link": "https://thanhnien.vn/toi-nay-276-co-hoi-cuoi-ngam-mua-sao-bang-100-nam-kho-doan-nhat-2026-185260627170029675.htm",
+      "summary": "Tối thứ bảy cuối tuần 27.6 hôm nay là cơ hội cuối cùng trong năm để người Việt quan sát trận mưa sao băng có lịch sử quan sát hơn 100 năm nay, nổi tiếng là khó đoán nhất 2026. Có gì thú vị?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T12:33:00+07:00",
+      "fetched": "2026-06-27T20:09:35.644685+07:00"
+    },
+    {
+      "id": "295b3d81bb95ef51ca6af87dd89047a1",
+      "title": "Tin World Cup 19h: Messi không đá chính trận cuối vòng bảng | HLV Cape Verde nói về kỳ tích",
+      "link": "https://vnexpress.net/tin-world-cup-19h-messi-khong-da-chinh-tran-cuoi-vong-bang-hlv-cape-verde-noi-ve-ky-tich-5090639.html",
+      "summary": "Thủ môn Uruguay xin thay ra sau sai lầm ở trận thua Tây Ban Nha; Kịch bản để Hàn Quốc  đi tiếp; HLV Martinez: 'Ronaldo giúp Bồ Đào Nha không bị cuốn theo áp lực ở World Cup'...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T12:22:40+07:00",
+      "fetched": "2026-06-27T20:09:31.713801+07:00"
+    },
+    {
+      "id": "a049112a3ebca16ea1cbb72f28f81cea",
+      "title": "Cảnh sát khám xét Công ty Metaland, bắt 51 nghi phạm lừa 'hợp đồng kỳ nghỉ'",
+      "link": "https://vnexpress.net/canh-sat-kham-xet-cong-ty-metaland-bat-51-nghi-pham-lua-hop-dong-ky-nghi-5090637.html",
+      "summary": "Hàng chục cảnh sát khám xét Công ty TNHH Đầu tư Phát triển Metaland, bắt 51 người với cáo buộc lừa đảo thông qua chiêu dụ khách ký \"hợp đồng kỳ nghỉ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T12:13:57+07:00",
+      "fetched": "2026-06-27T20:09:31.713968+07:00"
+    },
+    {
+      "id": "c5f78dc57213dd97ca19e1524ca0653c",
+      "title": "Vụ 'bán hợp đồng kỳ nghỉ': Bắt thêm 51 người tại Công ty Metaland",
+      "link": "https://thanhnien.vn/vu-ban-hop-dong-ky-nghi-bat-them-51-nguoi-tai-cong-ty-metaland-185260627190120831.htm",
+      "summary": "Mở rộng điều tra vụ án lừa đảo chiếm đoạt tài sản núp bóng 'hợp đồng kỳ nghỉ', Cơ quan Cảnh sát điều tra Công an TP.HCM vừa khởi tố, bắt tạm giam 51 bị can là lãnh đạo, nhân viên Công ty TNHH Đầu tư Phát triển Metaland.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T12:11:00+07:00",
+      "fetched": "2026-06-27T20:09:35.644818+07:00"
+    },
+    {
+      "id": "f1503edaf16ce3c613d37e0699e911b8",
+      "title": "Đội Iran gửi thông điệp fair-play trong phòng thay đồ sau trận hòa Ai Cập gây tranh cãi",
+      "link": "https://thanhnien.vn/doi-iran-gui-thong-diep-fair-play-trong-phong-thay-do-sau-hoa-tranh-cai-voi-ai-cap-18526062718431934.htm",
+      "summary": "Đội Iran gửi thông điệp fair-play trong phòng thay đồ sau hòa tranh cãi với Ai Cập, với bàn thắng bị VAR tước ở phút bù giờ, có thể khiến họ lỡ cơ hội lần đầu vào vòng knock-out World Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T12:04:00+07:00",
+      "fetched": "2026-06-27T20:09:35.644940+07:00"
+    },
+    {
+      "id": "e91b08bbc54a5e4f2f331c6a97dfad63",
+      "title": "Chùa nào giữ hai 'xác ướp' là Bảo vật quốc gia của Việt Nam",
+      "link": "https://vnexpress.net/chua-nao-giu-hai-xac-uop-la-bao-vat-quoc-gia-cua-viet-nam-5090580.html",
+      "summary": "Chùa hơn nghìn năm tuổi, được nhà nước xếp hạng Di tích lịch sử, nghệ thuật loại A từ năm 1964, giữ hai 'xác ướp' cổ nhất được công nhận là Bảo vật quốc gia vào năm 2016.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T12:01:31+07:00",
+      "fetched": "2026-06-27T20:09:31.714108+07:00"
+    },
+    {
+      "id": "191cbf578ba5caf781f34cc16434d5d2",
+      "title": "Diễn viên Lầu Chú Hỏa: 'Tôi từng bế tắc vì thất nghiệp'",
+      "link": "https://vnexpress.net/dien-vien-lau-chu-hoa-toi-tung-be-tac-vi-that-nghiep-5090612.html",
+      "summary": "Minh Thời - 31 tuổi, đóng chính phim 18+ \"Lầu Chú Hỏa\" - cho biết từng khủng hoảng khi không có vai diễn, phải chạy xe ôm kiếm sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T12:00:55+07:00",
+      "fetched": "2026-06-27T20:09:31.714251+07:00"
+    },
+    {
+      "id": "30723a9615a32e2b17051f47a558d5ce",
+      "title": "'Bế tắc' vì học cao đẳng ở Hà Nội",
+      "link": "https://vnexpress.net/be-tac-vi-hoc-cao-dang-o-ha-noi-5090601.html",
+      "summary": "Cháu cảm thấy tự ti khi nhìn bạn bè cùng trang lứa khoác lên mình màu áo sinh viên của các trường đại học lớn ở Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T12:00:00+07:00",
+      "fetched": "2026-06-27T20:09:31.714384+07:00"
+    },
+    {
+      "id": "c8af99dd7c1d347c14523256646c358f",
+      "title": "Bí mật về món kem không tan chảy ở Thổ Nhĩ Kỳ",
+      "link": "https://vnexpress.net/bi-mat-ve-mon-kem-khong-tan-chay-o-tho-nhi-ky-5090552.html",
+      "summary": "Tại Thổ Nhĩ Kỳ, người ta trộn vào nguyên liệu một loại bột hiếm để kem Maraş dondurma có độ dai như kẹo kéo, gần như không bị tan chảy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T12:00:00+07:00",
+      "fetched": "2026-06-27T20:09:31.714513+07:00"
+    },
+    {
+      "id": "bd925dc99b2e078aa2903b29603b4fce",
+      "title": "'Đưa món ăn từ sen lên máy bay là cách lan tỏa di sản Việt'",
+      "link": "https://vnexpress.net/dua-mon-an-tu-sen-len-may-bay-la-cach-lan-toa-di-san-viet-5090633.html",
+      "summary": "Vietnam Airlines đưa thực đơn \"Chạm Sen\" lên khoang bay, khai thác trọn vẹn giá trị ẩm thực và văn hóa của sen, theo đánh giá của nghệ nhân Mai Thị Trà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T12:00:00+07:00",
+      "fetched": "2026-06-27T20:09:31.714640+07:00"
+    },
+    {
+      "id": "4018dd32002b4dd18265dd4c1eb7f071",
+      "title": "MB kết nối mạng lưới với 33 cơ quan thuế địa phương",
+      "link": "https://vnexpress.net/mb-ket-noi-mang-luoi-voi-33-co-quan-thue-dia-phuong-5090628.html",
+      "summary": "MB hoàn tất mạng lưới kết nối với 33 cơ quan thuế toàn quốc, nhằm hỗ trợ doanh nghiệp, hộ và cá nhân kinh doanh chuyển đổi số trong lĩnh vực thuế, tiếp cận các giải pháp tài chính hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T12:00:00+07:00",
+      "fetched": "2026-06-27T20:09:31.714792+07:00"
+    },
+    {
+      "id": "295d2a0273714cc8c212e911ffbb539f",
+      "title": "Quên tiêm phòng viêm gan B khi trưởng thành",
+      "link": "https://vnexpress.net/quen-tiem-phong-viem-gan-b-khi-truong-thanh-5090570.html",
+      "summary": "Sau khi đồng nghiệp phát hiện mắc viêm gan B khi khám sức khỏe định kỳ, Phạm Phương, 26 tuổi, mới xét nghiệm và biết kháng thể bảo vệ của mình đang thấp, phải tiêm ngừa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T12:00:00+07:00",
+      "fetched": "2026-06-27T20:09:31.714925+07:00"
+    },
+    {
+      "id": "4018dd32002b4dd18265dd4c1eb7f071",
+      "title": "MB kết nối mạng lưới với 33 cơ quan thuế địa phương",
+      "link": "https://vnexpress.net/mb-ket-noi-mang-luoi-voi-33-co-quan-thue-dia-phuong-5090628.html",
+      "summary": "MB hoàn tất mạng lưới kết nối với 33 cơ quan thuế toàn quốc, nhằm hỗ trợ doanh nghiệp, hộ và cá nhân kinh doanh chuyển đổi số trong lĩnh vực thuế, tiếp cận các giải pháp tài chính hiện đại.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-27T12:00:00+07:00",
+      "fetched": "2026-06-27T20:09:40.623359+07:00"
+    },
+    {
+      "id": "6276794c5c5c0e0d29a3016fb7ffa3e1",
+      "title": "Đi xe máy đeo tai nghe Google Maps bị phạt, tài xế nói gì?",
+      "link": "https://thanhnien.vn/di-xe-may-deo-tai-nghe-google-maps-bi-phat-tai-xe-noi-gi-185260627180917982.htm",
+      "summary": "Đeo tai nghe để nghe Google Maps chỉ đường đã trở thành thói quen của không ít shipper và tài xế xe ôm công nghệ. Tuy nhiên qua ghi nhận, nhiều người vẫn bất ngờ khi biết hành động này có thể bị xử phạt, dù chỉ dùng để nghe hướng dẫn lộ trình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T11:56:00+07:00",
+      "fetched": "2026-06-27T20:09:35.645058+07:00"
+    },
+    {
+      "id": "e3f4fd18f409db733a21f4d64671b830",
+      "title": "Thắng kịch tính U.18 Indonesia, đội tuyển bóng chuyền nữ U.18 Việt Nam vào chung kết",
+      "link": "https://thanhnien.vn/thang-kich-tinh-u18-indonesia-doi-tuyen-bong-chuyen-nu-u18-viet-nam-vao-chung-ket-185260627162134457.htm",
+      "summary": "Đội tuyển bóng chuyền nữ U.18 Việt Nam giành quyền vào chung kết giải bóng chuyền nữ U.18 Đông Nam Á sau chiến thắng nghẹt thở trước U.18 Indonesia ở bán kết diễn ra hôm nay tại Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T11:53:00+07:00",
+      "fetched": "2026-06-27T20:09:35.645175+07:00"
+    },
+    {
+      "id": "5f0005e643f7a878df487af0a01766ac",
+      "title": "Dự báo 11 tỉnh mưa lớn dồn dập 2 ngày, nguy cơ lũ quét",
+      "link": "https://thanhnien.vn/du-bao-11-tinh-mua-lon-don-dap-2-ngay-nguy-co-lu-quet-185260627183716228.htm",
+      "summary": "Dự báo thời tiết vùng núi và trung du miền Bắc mưa lớn trong 2 ngày tới, có nơi trên 250 mm, nguy cơ xảy ra lũ quét, sạt lở đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T11:49:00+07:00",
+      "fetched": "2026-06-27T20:09:35.645307+07:00"
+    },
+    {
+      "id": "395ce32c05d9099ed050086d50dd2060",
+      "title": "Israel - Lebanon ký thỏa thuận, Hezbollah nói vẫn 'sẵn sàng chiến đấu'",
+      "link": "https://thanhnien.vn/israel-lebanon-ky-thoa-thuan-hezbollah-noi-van-san-sang-chien-dau-185260627161033968.htm",
+      "summary": "Hezbollah tuyên bố sẵn sàng tuân thủ thỏa thuận mới do Mỹ làm trung gian giữa Israel và Lebanon, nhưng cảnh báo sẽ tiếp tục chiến đấu nếu Israel không rút hoàn toàn khỏi lãnh thổ Lebanon.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T11:47:00+07:00",
+      "fetched": "2026-06-27T20:09:35.645430+07:00"
+    },
+    {
+      "id": "eba6e10a621ac90c1187983dbe84a9a4",
+      "title": "Hộ kinh doanh được gia hạn nộp thuế đến hết năm 2026",
+      "link": "https://thanhnien.vn/ho-kinh-doanh-duoc-gia-han-nop-thue-den-het-nam-2026-18526062718354829.htm",
+      "summary": "Chính phủ vừa ban hành Nghị định 245 gia hạn thời hạn nộp thuế giá trị gia tăng, thuế thu nhập doanh nghiệp, thuế thu nhập cá nhân và tiền thuê đất trong năm 2026; có hiệu lực từ 27.6 đến hết 30.12.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T11:46:00+07:00",
+      "fetched": "2026-06-27T20:09:35.645550+07:00"
+    },
+    {
+      "id": "aec0cadad24fef2cc3afa845d08bfc1f",
+      "title": "Tương quan trước trận Colombia - Bồ Đào Nha",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-colombia-bo-dao-nha-5090630.html",
+      "summary": "Cristiano Ronaldo và đồng đội cần đánh bại Colombia để chiếm đỉnh bảng K, qua đó được gặp đối thủ dễ thở hơn ở vòng 1/16 World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T11:30:26+07:00",
+      "fetched": "2026-06-27T20:09:31.715054+07:00"
+    },
+    {
+      "id": "aec0cadad24fef2cc3afa845d08bfc1f",
+      "title": "Tương quan trước trận Colombia - Bồ Đào Nha",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-colombia-bo-dao-nha-5090630.html",
+      "summary": "Cristiano Ronaldo và đồng đội cần đánh bại Colombia để chiếm đỉnh bảng K, qua đó được gặp đối thủ dễ thở hơn ở vòng 1/16 World Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-27T11:30:26+07:00",
+      "fetched": "2026-06-27T20:09:45.765833+07:00"
+    },
+    {
+      "id": "f468b580ab35f56bafbd98e3aec27c40",
+      "title": "Bí quyết thành công của Cape Verde tại World Cup 2026",
+      "link": "https://vnexpress.net/bi-quyet-thanh-cong-cua-cape-verde-tai-world-cup-2026-5090621.html",
+      "summary": "Nhờ chính sách xây dựng lực lượng cùng sự ổn định ở vị trí HLV, đội tuyển Cape Verde đang bất bại và vượt qua vòng bảng ngay lần đầu dự VCK World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T11:24:11+07:00",
+      "fetched": "2026-06-27T20:09:31.715176+07:00"
+    },
+    {
+      "id": "f468b580ab35f56bafbd98e3aec27c40",
+      "title": "Bí quyết thành công của Cape Verde tại World Cup 2026",
+      "link": "https://vnexpress.net/bi-quyet-thanh-cong-cua-cape-verde-tai-world-cup-2026-5090621.html",
+      "summary": "Nhờ chính sách xây dựng lực lượng cùng sự ổn định ở vị trí HLV, đội tuyển Cape Verde đang bất bại và vượt qua vòng bảng ngay lần đầu dự VCK World Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-27T11:24:11+07:00",
+      "fetched": "2026-06-27T20:09:45.765997+07:00"
+    },
+    {
       "id": "5340b1d810e3e0a4417accba6792ee1b",
       "title": "Trấn Thành, Ninh Dương Lan Ngọc trở lại, 'Running Man Vietnam 2026' có gì khác biệt?",
       "link": "https://thanhnien.vn/tran-thanh-ninh-duong-lan-ngoc-tro-lai-running-man-vietnam-2026-co-gi-khac-biet-18526062715513432.htm",
@@ -311,6 +711,26 @@ window.newsData_2026_06_27 = {
       "category": "Tổng hợp",
       "published": "2026-06-27T11:15:00+07:00",
       "fetched": "2026-06-27T18:22:44.479136+07:00"
+    },
+    {
+      "id": "72117b98b2f3d50c75967547166541ea",
+      "title": "Taremi: 'FIFA và Mỹ làm tất cả để loại Iran khỏi World Cup'",
+      "link": "https://vnexpress.net/taremi-fifa-va-my-lam-tat-ca-de-loai-iran-khoi-world-cup-5090624.html",
+      "summary": "Đội trưởng Mehdi Taremi cho rằng FIFA và chủ nhà Mỹ muốn loại Iran khỏi World Cup 2026, còn Chủ tịch Gianni Infantino đã không thực hiện những lời hứa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T11:14:33+07:00",
+      "fetched": "2026-06-27T20:09:31.715296+07:00"
+    },
+    {
+      "id": "72117b98b2f3d50c75967547166541ea",
+      "title": "Taremi: 'FIFA và Mỹ làm tất cả để loại Iran khỏi World Cup'",
+      "link": "https://vnexpress.net/taremi-fifa-va-my-lam-tat-ca-de-loai-iran-khoi-world-cup-5090624.html",
+      "summary": "Đội trưởng Mehdi Taremi cho rằng FIFA và chủ nhà Mỹ muốn loại Iran khỏi World Cup 2026, còn Chủ tịch Gianni Infantino đã không thực hiện những lời hứa.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-27T11:14:33+07:00",
+      "fetched": "2026-06-27T20:09:45.766135+07:00"
     },
     {
       "id": "6fccfd6aacc21c1ecd20245d7c9483dc",
