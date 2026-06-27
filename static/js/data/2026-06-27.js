@@ -1,7 +1,117 @@
 window.newsData_2026_06_27 = {
   "date": "2026-06-27",
-  "lastUpdated": "2026-06-27T20:09:45.776423+07:00",
+  "lastUpdated": "2026-06-27T22:08:09.471139+07:00",
   "articles": [
+    {
+      "id": "2e40e25b4ad2cf79bbc6d574401405b0",
+      "title": "Nghiện ma túy, làm giả thông báo chuyển tiền để mua hàng",
+      "link": "https://tuoitre.vn/nghien-ma-tuy-lam-gia-thong-bao-chuyen-tien-de-mua-hang-100260627175109774.htm",
+      "summary": "Ngày 27-6 Cơ quan Cảnh sát điều tra Công an tỉnh Đồng Tháp đã tạm giữ hình sự Phạm Đăng Sang để điều tra về hành vi lừa đảo chiếm đoạt tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T22:08:03.000817+07:00",
+      "fetched": "2026-06-27T22:08:03.000877+07:00"
+    },
+    {
+      "id": "d1067f301f2d9bf0f50c0cbc0f19d8e9",
+      "title": "Bóng chuyền nữ Việt Nam thắng Indonesia tại bán kết U18 Đông Nam Á",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-viet-nam-thang-indonesia-tai-ban-ket-u18-dong-nam-a-100260627190045998.htm",
+      "summary": "Tại bán kết Giải bóng chuyền U18 Đông Nam Á tối 27-6, các vận động viên trẻ của bóng chuyền nữ Việt Nam có chiến thắng kịch tính trước Indonesia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T22:08:03.000448+07:00",
+      "fetched": "2026-06-27T22:08:03.000504+07:00"
+    },
+    {
+      "id": "7a184de171517e42cb7693de1fff1472",
+      "title": "Phường Nhiêu Lộc, TP.HCM sắp xếp từ 52 khu phố còn 30 khu phố",
+      "link": "https://tuoitre.vn/phuong-nhieu-loc-tphcm-sap-xep-tu-52-khu-pho-con-30-khu-pho-100260627175555442.htm",
+      "summary": "Phường Nhiêu Lộc, TP.HCM vừa tổ chức sắp xếp lại khu phố theo Nghị quyết 14 của HĐND phường, giảm từ 52 còn 30 khu phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T22:08:03.000382+07:00",
+      "fetched": "2026-06-27T22:08:03.000437+07:00"
+    },
+    {
+      "id": "66d24e28a61f91fc8156d30b2e2360ca",
+      "title": "Vùng núi và trung du Bắc Bộ vào đợt mưa lớn, có nơi trên 250mm",
+      "link": "https://tuoitre.vn/vung-nui-va-trung-du-bac-bo-vao-dot-mua-lon-co-noi-tren-250mm-100260627181552274.htm",
+      "summary": "Dự báo từ đêm mai (28-6) đến 30-6, khu vực vùng núi và trung du Bắc Bộ xảy ra một đợt mưa lớn, có nơi mưa trên 250mm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T22:08:03.000316+07:00",
+      "fetched": "2026-06-27T22:08:03.000372+07:00"
+    },
+    {
+      "id": "c894807c00c16495c2b2b247eb6a16e3",
+      "title": "Cửa hàng tạp hóa ở Đà Nẵng mua bán hàng trăm dụng cụ phục vụ sử dụng ma túy",
+      "link": "https://tuoitre.vn/cua-hang-tap-hoa-o-da-nang-mua-ban-hang-tram-dung-cu-phuc-vu-su-dung-ma-tuy-100260627181648606.htm",
+      "summary": "Ngày 24-6, lực lượng công an kiểm tra cửa hàng tạp hóa Bích Hồng, phường Hải Châu, Đà Nẵng, phát hiện bà Hồng đang bày bán số lượng lớn dụng cụ chuyên dùng phục vụ việc sử dụng trái phép chất ma túy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T22:08:03.000249+07:00",
+      "fetched": "2026-06-27T22:08:03.000305+07:00"
+    },
+    {
+      "id": "148895ebd187ff2e60e6bd22b97a4616",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm: Nói về gia đình cũng là nhắc quan tâm hơn đến trẻ em vô gia cư, cơ nhỡ, mồ côi",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-noi-ve-gia-dinh-cung-la-nhac-quan-tam-hon-den-tre-em-vo-gia-cu-co-nho-mo-coi-100260627191458883.htm",
+      "summary": "Tuổi Trẻ Online trân trọng giới thiệu toàn văn Thư của Tổng Bí thư, Chủ tịch nước Tô Lâm nhân kỷ niệm 25 năm Ngày Gia đình Việt Nam (28-6-2001 - 28-6-2026).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T22:08:03.000180+07:00",
+      "fetched": "2026-06-27T22:08:03.000238+07:00"
+    },
+    {
+      "id": "4e0d7782f905d81139692cd62f2b2a02",
+      "title": "Lừa đảo hợp đồng kỳ nghỉ: Bắt 51 người là ban giám đốc, nhân viên, cổ đông Công ty Metaland",
+      "link": "https://tuoitre.vn/lua-dao-hop-dong-ky-nghi-bat-51-nguoi-la-ban-giam-doc-nhan-vien-co-dong-cong-ty-metaland-100260627191942848.htm",
+      "summary": "Mở rộng điều tra vụ lừa đảo bằng thủ đoạn bán hợp đồng kỳ nghỉ, Công an TP.HCM tiếp tục khởi tố, bắt 51 người là ban giám đốc, cổ đông, quản lý và nhân viên của Công ty Metaland.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T22:08:03.000112+07:00",
+      "fetched": "2026-06-27T22:08:03.000170+07:00"
+    },
+    {
+      "id": "99598e0cd2e8e4b6b49383a82f24e9e0",
+      "title": "Liên hoan phim châu Á Đà Nẵng: Xem mệt nghỉ 102 phim, giao lưu với ngôi sao thế giới",
+      "link": "https://tuoitre.vn/lien-hoan-phim-chau-a-da-nang-xem-met-nghi-102-phim-giao-luu-voi-ngoi-sao-the-gioi-100260627190711293.htm",
+      "summary": "Chưa đầy 24 tiếng nữa, khán giả và người yêu điện ảnh sẽ có một tuần no nê phim tại sự kiện điện ảnh lớn nhất mùa hè này: Liên hoan phim châu Á Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T22:08:03.000044+07:00",
+      "fetched": "2026-06-27T22:08:03.000101+07:00"
+    },
+    {
+      "id": "b7b90a2b21fd0662d61bacef6a0c34d4",
+      "title": "Lần đầu 'bà lão' giáo sư 85 tuổi Thái Kim Lan làm mẫu ảnh thời trang",
+      "link": "https://tuoitre.vn/lan-dau-ba-lao-giao-su-85-tuoi-thai-kim-lan-lam-mau-anh-thoi-trang-100260627185412205.htm",
+      "summary": "Giáo sư, tiến sĩ Thái Kim Lan lần đầu nhận lời làm mẫu ảnh thời trang cho show diễn 'Mùa hè đẹp nhất' của nhà thiết kế Vũ Ngọc Tú và Đinh Trường Tùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T22:08:02.999972+07:00",
+      "fetched": "2026-06-27T22:08:03.000033+07:00"
+    },
+    {
+      "id": "ee319208840f1f1a7364465a28439ba9",
+      "title": "Cựu trọng tài FIFA Dương Văn Hiền: 'VAR đúng khi từ chối bàn thắng của Iran'",
+      "link": "https://tuoitre.vn/cuu-trong-tai-fifa-duong-van-hien-var-dung-khi-tu-choi-ban-thang-cua-iran-100260627193238332.htm",
+      "summary": "Cựu trọng tài FIFA Dương Văn Hiền cho rằng VAR đã đúng khi từ chối bàn thắng của Iran trong trận hòa Ai Cập 1-1 ở World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T22:08:02.999892+07:00",
+      "fetched": "2026-06-27T22:08:02.999960+07:00"
+    },
+    {
+      "id": "274c9c65ea910381c47ec5e0c97a3d09",
+      "title": "Vietjet hai năm được vinh danh trong Top Doanh nghiệp ESG Việt Nam Xanh",
+      "link": "https://tuoitre.vn/vietjet-hai-nam-duoc-vinh-danh-trong-top-doanh-nghiep-esg-viet-nam-xanh-100260627153134272.htm",
+      "summary": "Ngày 27-6, Vietjet nhận cùng lúc hai giải thưởng vinh danh doanh nghiệp phát triển bền vững do Báo Tài chính - Đầu tư và Viet Research bình chọn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T22:08:02.999711+07:00",
+      "fetched": "2026-06-27T22:08:02.999877+07:00"
+    },
     {
       "id": "f78e94ecc0a27c5ee993667dd26c479a",
       "title": "Khoa Ngô rời đội tuyển Việt Nam do chấn thương",
@@ -263,6 +373,156 @@ window.newsData_2026_06_27 = {
       "fetched": "2026-06-27T16:56:19.460513+07:00"
     },
     {
+      "id": "196fb2345422d9821b520b991dd442de",
+      "title": "Lịch thi đấu chung kết giải bóng chuyền nữ U.18 Đông Nam Á: Việt Nam chạm trán kình địch Thái Lan",
+      "link": "https://thanhnien.vn/lich-thi-dau-chung-ket-giai-bong-chuyen-nu-u18-dong-nam-a-viet-nam-cham-tran-kinh-dich-thai-lan-185260627215736588.htm",
+      "summary": "Đội tuyển bóng chuyền nữ U.18 Việt Nam sẽ chạm trán với kình địch Thái Lan ở chung kết giải bóng chuyền nữ U.18 Đông Nam Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T15:02:00+07:00",
+      "fetched": "2026-06-27T22:08:01.442960+07:00"
+    },
+    {
+      "id": "35256ba2641e5722711aea53e122c1eb",
+      "title": "4 xét nghiệm nam giới từ 40 tuổi nên thực hiện định kỳ",
+      "link": "https://thanhnien.vn/5-xet-nghiem-nam-gioi-tu-40-tuoi-duoc-khuyen-nen-thuc-hien-dinh-ky-185260627215158521.htm",
+      "summary": "Các xét nghiệm tầm soát định kỳ được xem là một trong những khoản đầu tư quan trọng nhất cho sức khỏe nam giới tuổi trung niên. Vì nhiều bệnh lý nghiêm trọng có thể âm thầm phát triển trước khi có triệu chứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T14:56:00+07:00",
+      "fetched": "2026-06-27T22:08:01.443134+07:00"
+    },
+    {
+      "id": "1430e70db8a18440c3ac53c314514adf",
+      "title": "Loạt máy bay Nga - Trung tiến vào vùng nhận diện phòng không Hàn Quốc",
+      "link": "https://vnexpress.net/loat-may-bay-nga-trung-tien-vao-vung-nhan-dien-phong-khong-han-quoc-5090651.html",
+      "summary": "Hơn 10 máy bay quân sự Nga và Trung Quốc tiến vào vùng nhận diện phòng không Hàn Quốc, khiến Seoul điều tiêm kích giám sát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T14:46:53+07:00",
+      "fetched": "2026-06-27T22:07:58.599836+07:00"
+    },
+    {
+      "id": "1430e70db8a18440c3ac53c314514adf",
+      "title": "Loạt máy bay Nga - Trung tiến vào vùng nhận diện phòng không Hàn Quốc",
+      "link": "https://vnexpress.net/loat-may-bay-nga-trung-tien-vao-vung-nhan-dien-phong-khong-han-quoc-5090651.html",
+      "summary": "Hơn 10 máy bay quân sự Nga và Trung Quốc tiến vào vùng nhận diện phòng không Hàn Quốc, khiến Seoul điều tiêm kích giám sát.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-27T14:46:53+07:00",
+      "fetched": "2026-06-27T22:08:04.580398+07:00"
+    },
+    {
+      "id": "87d7e4e2144b133d2e12f94db53e25a5",
+      "title": "Toyota Innova đã qua sử dụng 3 năm lỗ bao nhiêu?",
+      "link": "https://thanhnien.vn/toyota-innova-da-qua-su-dung-3-nam-lo-bao-nhieu-185260615233344788.htm",
+      "summary": "Toyota Innova nổi tiếng nhờ không gian rộng rãi, vận hành bền bỉ và khả năng giữ giá tốt. Tuy nhiên, sau 3 năm sử dụng, mức độ rớt giá của mẫu xe này là điều khiến nhiều người quan tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T14:32:00+07:00",
+      "fetched": "2026-06-27T22:08:01.443294+07:00"
+    },
+    {
+      "id": "a24892520c2d111f96dc5218325f028a",
+      "title": "Nhật Bản quyết đấu Brazil tại vòng knock-out World Cup 2026: Phép màu có lặp lại?",
+      "link": "https://thanhnien.vn/nhat-ban-quyet-dau-brazil-tai-vong-knock-out-world-cup-2026-phep-mau-co-lap-lai-185260627203423688.htm",
+      "summary": "Cuộc đối đầu Brazil và Nhật Bản ở vòng 32 World Cup 2026 hứa hẹn rất hấp dẫn. Đáng chú ý những 'Samurai xanh' vừa giành chiến thắng trong lần gặp gần nhất trước đội bóng đang nắm kỷ lục 5 lần vô địch thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T14:31:00+07:00",
+      "fetched": "2026-06-27T22:08:01.443451+07:00"
+    },
+    {
+      "id": "6d248ddd4f5f510d78eae41e12c831f0",
+      "title": "Cấp học bổng cho hơn 30.000 tân sinh viên kỹ thuật, công nghệ",
+      "link": "https://vnexpress.net/cap-hoc-bong-cho-hon-30-000-tan-sinh-vien-ky-thuat-cong-nghe-5090632.html",
+      "summary": "Khoảng 30.000-32.000 tân sinh viên ở 109 ngành STEM sẽ nhận học bổng 3,7-8,4 triệu đồng mỗi tháng, theo chính sách thu hút, đào tạo nhân lực công nghệ chiến lược của Bộ Giáo dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T14:21:52+07:00",
+      "fetched": "2026-06-27T22:07:58.600025+07:00"
+    },
+    {
+      "id": "232e245812ba95a39d771f516678906b",
+      "title": "Thủ tướng yêu cầu chọn tư vấn quốc tế cho dự án đường sắt cao tốc Bắc-Nam",
+      "link": "https://thanhnien.vn/thu-tuong-yeu-cau-chon-tu-van-quoc-te-cho-du-an-duong-sat-cao-toc-bac-nam-185260627203928486.htm",
+      "summary": "Thủ tướng yêu cầu Bộ Xây dựng khẩn trương hoàn thành lựa chọn tổ hợp nhà thầu tư vấn quốc tế có năng lực, kinh nghiệm để lập báo cáo nghiên cứu khả thi dự án đường sắt cao tốc Bắc - Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T14:07:00+07:00",
+      "fetched": "2026-06-27T22:08:01.443604+07:00"
+    },
+    {
+      "id": "5960def81c613789d4978bbfeafe1426",
+      "title": "Chồng đối xử tệ vì nghi ngờ bé thứ hai không phải con anh",
+      "link": "https://vnexpress.net/chong-doi-xu-te-vi-nghi-ngo-be-thu-hai-khong-phai-con-anh-5090589.html",
+      "summary": "Chồng nói thẳng rằng anh không phải kẻ ngu để không biết đứa con này không phải con mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T14:00:00+07:00",
+      "fetched": "2026-06-27T22:07:58.600193+07:00"
+    },
+    {
+      "id": "a58491947beb82c8b1b1e446e6e7bb12",
+      "title": "Hanoi Centre đưa di sản vào trải nghiệm mua sắm",
+      "link": "https://vnexpress.net/hanoi-centre-dua-di-san-vao-trai-nghiem-mua-sam-5090627.html",
+      "summary": "Hanoi Centre khai trương ngày 2/7, mang đến mô hình trung tâm thương mại kết hợp mua sắm, giải trí và trải nghiệm di sản, nơi bản sắc Hà Nội hiện diện trong không gian bán lẻ hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T14:00:00+07:00",
+      "fetched": "2026-06-27T22:07:58.600354+07:00"
+    },
+    {
+      "id": "47ddf92dfcb40ccd9f372d6fabb666e8",
+      "title": "Chuyển đổi xanh - 'tấm vé' để doanh nghiệp tham gia chuỗi cung ứng toàn cầu",
+      "link": "https://vnexpress.net/chuyen-doi-xanh-tam-ve-de-doanh-nghiep-tham-gia-chuoi-cung-ung-toan-cau-5090553.html",
+      "summary": "ESG đang trở thành điều kiện bắt buộc để doanh nghiệp tham gia chuỗi cung ứng toàn cầu, trong bối cảnh các thị trường xuất khẩu liên tục siết tiêu chuẩn xanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T14:00:00+07:00",
+      "fetched": "2026-06-27T22:07:58.600518+07:00"
+    },
+    {
+      "id": "47ddf92dfcb40ccd9f372d6fabb666e8",
+      "title": "Chuyển đổi xanh - 'tấm vé' để doanh nghiệp tham gia chuỗi cung ứng toàn cầu",
+      "link": "https://vnexpress.net/chuyen-doi-xanh-tam-ve-de-doanh-nghiep-tham-gia-chuoi-cung-ung-toan-cau-5090553.html",
+      "summary": "ESG đang trở thành điều kiện bắt buộc để doanh nghiệp tham gia chuỗi cung ứng toàn cầu, trong bối cảnh các thị trường xuất khẩu liên tục siết tiêu chuẩn xanh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-27T14:00:00+07:00",
+      "fetched": "2026-06-27T22:08:06.244558+07:00"
+    },
+    {
+      "id": "e32188c9fb3d96e3b8bf9457c5b0eb76",
+      "title": "Bắt doanh nghiệp sản xuất nước yến, tổ yến giả quy mô lớn trong cụm công nghiệp",
+      "link": "https://thanhnien.vn/bat-doanh-nghiep-san-xuat-nuoc-yen-to-yen-gia-quy-mo-lon-trong-cum-cong-nghiep-185260627192416445.htm",
+      "summary": "Một doanh nghiệp sản xuất lượng lớn hàng giả nước yến, tổ yến chưng sẵn tại Cụm công nghiệp Phong Nẫm, tỉnh Vĩnh Long vừa bị cơ quan chức năng bắt quả tang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T13:59:00+07:00",
+      "fetched": "2026-06-27T22:08:01.443776+07:00"
+    },
+    {
+      "id": "2ef3d922ed59a02fc6cbe0b17c6f8bb0",
+      "title": "Hàn Quốc phát hiện máy bay quân sự Trung Quốc - Nga bay vào ADIZ",
+      "link": "https://thanhnien.vn/han-quoc-phat-hien-may-bay-quan-su-trung-quoc-nga-bay-vao-adiz-185260627192244964.htm",
+      "summary": "Gần 10 máy bay quân sự của Trung Quốc và Nga đã bay vào vùng nhận diện phòng không (ADIZ) của Hàn Quốc trong ngày 27.6.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T13:56:00+07:00",
+      "fetched": "2026-06-27T22:08:01.443935+07:00"
+    },
+    {
+      "id": "511a7c2f444b240cc4faac5ff9a62f28",
+      "title": "Chiếc vạc 450 tuổi nấu gần 5 tấn thức ăn mỗi lần ở Ấn Độ",
+      "link": "https://vnexpress.net/chiec-vac-450-tuoi-nau-gan-5-tan-thuc-an-moi-lan-o-an-do-5090532.html",
+      "summary": "Chiếc vạc Badi Deg đã được sử dụng hơn 450 năm để nấu hàng tấn thức ăn mỗi lần, cung cấp miễn phí cho người nghèo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T13:53:02+07:00",
+      "fetched": "2026-06-27T22:07:58.600674+07:00"
+    },
+    {
       "id": "5a460a9b783cdd792194cab7c3a0d459",
       "title": "Quảng Ngãi thu hồi tiền hỗ trợ 416 cán bộ không đủ điều kiện sau sáp nhập",
       "link": "https://tuoitre.vn/quang-ngai-thu-hoi-tien-ho-tro-416-can-bo-khong-du-dieu-kien-sau-sap-nhap-100260627105555155.htm",
@@ -413,6 +673,36 @@ window.newsData_2026_06_27 = {
       "fetched": "2026-06-27T13:45:55.735409+07:00"
     },
     {
+      "id": "662bc1b91a69b4be214eb9e470f42760",
+      "title": "Chính phủ đồng ý gia hạn 125.000 tỷ đồng tiền thuế, thuê đất",
+      "link": "https://vnexpress.net/chinh-phu-dong-y-gia-han-125-000-ty-dong-tien-thue-thue-dat-5090647.html",
+      "summary": "Doanh nghiệp, hộ kinh doanh được gia hạn nộp thuế và tiền thuê đất năm 2026 để hỗ trợ sản xuất kinh doanh, khoảng 125.000 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T13:35:48+07:00",
+      "fetched": "2026-06-27T22:07:58.600871+07:00"
+    },
+    {
+      "id": "662bc1b91a69b4be214eb9e470f42760",
+      "title": "Chính phủ đồng ý gia hạn 125.000 tỷ đồng tiền thuế, thuê đất",
+      "link": "https://vnexpress.net/chinh-phu-dong-y-gia-han-125-000-ty-dong-tien-thue-thue-dat-5090647.html",
+      "summary": "Doanh nghiệp, hộ kinh doanh được gia hạn nộp thuế và tiền thuê đất năm 2026 để hỗ trợ sản xuất kinh doanh, khoảng 125.000 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-27T13:35:48+07:00",
+      "fetched": "2026-06-27T22:08:06.242702+07:00"
+    },
+    {
+      "id": "c046232c0674e51353d017fceaa5adb6",
+      "title": "Cú đột phá chiến lược của bóng đá nữ Việt Nam, cả AFC và UEFA cùng vào cuộc",
+      "link": "https://thanhnien.vn/cu-dot-pha-chien-luoc-cua-bong-da-nu-viet-nam-ca-afc-va-uefa-cung-vao-cuoc-185260627200253139.htm",
+      "summary": "Sáng 27.6, tại trụ sở Liên đoàn Bóng đá Việt Nam (VFF), hội thảo phát triển giải bóng đá nữ vô địch quốc gia thuộc Dự án hợp tác AFC/UEFA đã diễn ra với sự tham dự của đại diện AFC, UEFA, VFF và các CLB bóng đá nữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T13:26:00+07:00",
+      "fetched": "2026-06-27T22:08:01.444096+07:00"
+    },
+    {
       "id": "772ce56545cc8006d5ed220a7fa08acf",
       "title": "Xem nhanh 20h ngày 27.6: 3 hành vi dễ bị xác định là trốn thuế dù không cố ý | Đeo tai nghe bị phạt, tài xế xử lý sao?",
       "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-276-3-hanh-vi-de-bi-xac-dinh-la-tron-thue-du-khong-co-y-deo-tai-nghe-bi-phat-tai-xe-xu-ly-sao-185260627173430532.htm",
@@ -421,6 +711,36 @@ window.newsData_2026_06_27 = {
       "category": "Tổng hợp",
       "published": "2026-06-27T13:00:00+07:00",
       "fetched": "2026-06-27T20:09:35.643795+07:00"
+    },
+    {
+      "id": "d1d0c3757e3e49075a829e2a14196104",
+      "title": "Bộ sưu tập bất động sản triệu đô của Erling Haaland",
+      "link": "https://vnexpress.net/bo-suu-tap-bat-dong-san-trieu-do-cua-erling-haaland-5090171.html",
+      "summary": "Tiền đạo Erling Haaland có danh mục bất động sản trải từ Tây Ban Nha, Anh đến Na Uy, phần lớn các bất động sản gắn với nhu cầu nghỉ dưỡng, riêng tư và đầu tư dài hạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T13:00:00+07:00",
+      "fetched": "2026-06-27T22:07:58.601041+07:00"
+    },
+    {
+      "id": "c3616dbd8f4bf7d33eb0af5a960b76f1",
+      "title": "Vì sao phụ nữ chịu nắng nóng kém hơn nam giới?",
+      "link": "https://vnexpress.net/vi-sao-phu-nu-chiu-nang-nong-kem-hon-nam-gioi-5090089.html",
+      "summary": "Những khác biệt sinh học bẩm sinh cùng các bệnh lý đặc thù là nguyên nhân khiến cơ thể phái đẹp dễ bị quá tải và tổn thương khi nắng nóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T13:00:00+07:00",
+      "fetched": "2026-06-27T22:07:58.601202+07:00"
+    },
+    {
+      "id": "2069e0ea6543f1db5627042c5f5b2c08",
+      "title": "Schneider Electric: 'Xanh hóa, số hóa sẽ định hình tương lai hạ tầng điện'",
+      "link": "https://vnexpress.net/schneider-electric-xanh-hoa-so-hoa-se-dinh-hinh-tuong-lai-ha-tang-dien-5090559.html",
+      "summary": "Xanh hóa giúp hệ thống điện giảm tác động môi trường, còn số hóa nâng cao khả năng quan sát, đo lường, dự báo, tối ưu vận hành, theo lãnh đạo Schneider Electric.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T13:00:00+07:00",
+      "fetched": "2026-06-27T22:07:58.601356+07:00"
     },
     {
       "id": "61d9106c20fa868a81f7be55c43ba33b",
