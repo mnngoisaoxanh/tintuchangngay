@@ -1,7 +1,157 @@
 window.newsData_2026_06_28 = {
   "date": "2026-06-28",
-  "lastUpdated": "2026-06-28T05:54:54.866101+07:00",
+  "lastUpdated": "2026-06-28T09:34:11.152225+07:00",
   "articles": [
+    {
+      "id": "608c834f9428de6cdd6cf9c0ac393c22",
+      "title": "Phim về bảo tồn thiên nhiên đoạt giải cao nhất Liên hoan phim sinh viên Nhân văn",
+      "link": "https://tuoitre.vn/phim-ve-bao-ton-thien-nhien-doat-giai-cao-nhat-lien-hoan-phim-sinh-vien-nhan-van-100260628001857239.htm",
+      "summary": "Với câu chuyện xoay quanh về người âm thầm gìn giữ vườn chim tại Vĩnh Long, Đất lành chim đậu giành giải nhất hạng mục Phim tài liệu tại Liên hoan phim sinh viên Nhân văn năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T09:34:04.092120+07:00",
+      "fetched": "2026-06-28T09:34:04.092179+07:00"
+    },
+    {
+      "id": "ab5204dfde544110ea6deacfab58216c",
+      "title": "Phong cách gợi cảm của vợ Messi",
+      "link": "https://tuoitre.vn/phong-cach-goi-cam-cua-vo-messi-100260627190605062.htm",
+      "summary": "Là mối tình từ thuở ấu thơ và cũng là người bạn đời của Messi, Antonela Roccuzzo đã vượt ra khỏi hình ảnh 'bà xã của siêu sao bóng đá' để xây dựng dấu ấn phong cách riêng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T09:34:04.092043+07:00",
+      "fetched": "2026-06-28T09:34:04.092110+07:00"
+    },
+    {
+      "id": "79d1583c7dd62dccdfe33bad0c7e3f5f",
+      "title": "Anh trai vượt ngàn chông gai 2026 lên sóng, fan nhắc nhau giữ gìn sức khỏe!",
+      "link": "https://tuoitre.vn/anh-trai-vuot-ngan-chong-gai-2026-len-song-fan-nhac-nhau-giu-gin-suc-khoe-100260627230120752.htm",
+      "summary": "Dù trên sóng VTV chương trình chỉ vỏn vẹn 1 tiếng 30 phút nhưng khi phát trên các nền tảng trực tuyến, tập 1 Anh trai vượt ngàn chông gai 2026 dài đến... 5 tiếng. Cộng đồng người hâm mộ nhắc nhau giữ gìn sức khỏe mới đủ sức 'theo' các anh tài!",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T09:34:04.091972+07:00",
+      "fetched": "2026-06-28T09:34:04.092033+07:00"
+    },
+    {
+      "id": "ddc3007b46a9c9ce2a81303a792383ae",
+      "title": "Bảo tàng TP.HCM có gì sau 19h?",
+      "link": "https://tuoitre.vn/bao-tang-tphcm-co-gi-sau-19h-100260627234433503.htm",
+      "summary": "Sau 19h, Bảo tàng TP.HCM trở thành không gian trải nghiệm văn hóa với hát bội, múa bóng rỗi, vọng cổ, trình diễn thời trang, trang trí nón lá... mang đến trải nghiệm mới cho du khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T09:34:04.091879+07:00",
+      "fetched": "2026-06-28T09:34:04.091960+07:00"
+    },
+    {
+      "id": "ada3ab193a809aea78b7d476c90f383b",
+      "title": "7 trái ác quỷ mạnh nhất One Piece nhưng khiến người dùng trả giá đắt",
+      "link": "https://tuoitre.vn/7-trai-ac-quy-manh-nhat-one-piece-nhung-khien-nguoi-dung-tra-gia-dat-100260628002752864.htm",
+      "summary": "Không phải trái ác quỷ càng mạnh thì càng hoàn hảo. Trong One Piece, nhiều năng lực được xem là \"bá đạo\" lại đi kèm những hạn chế nghiêm trọng, từ tiêu hao thể lực, buộc người dùng phải chịu sát thương cho đến đánh đổi cả tuổi thọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T09:34:04.091803+07:00",
+      "fetched": "2026-06-28T09:34:04.091864+07:00"
+    },
+    {
+      "id": "643d67ece2a81f1fbcd11cc0d62eebb8",
+      "title": "Chúng ta đều đang là lao động không lương cho các ông chủ nền tảng?",
+      "link": "https://tuoitre.vn/chung-ta-deu-dang-la-lao-dong-khong-luong-cho-cac-ong-chu-nen-tang-100260628062408219.htm",
+      "summary": "Dịch giả Lộ Đức Anh đặt câu hỏi: Chúng ta liệu có tự do trên internet không và có phải chúng ta đều là lao động không lương cho các ông chủ lớn đứng đằng sau các nền tảng?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T09:34:04.091734+07:00",
+      "fetched": "2026-06-28T09:34:04.091792+07:00"
+    },
+    {
+      "id": "6ad6484676a0ba0df2083c8fd18108ee",
+      "title": "Cần Giờ, Xuân Sơn - Hai cánh rừng hòa bình, vươn chồi từ ngày thành phố mang tên Bác",
+      "link": "https://tuoitre.vn/can-gio-xuan-son-hai-canh-rung-hoa-binh-vuon-choi-tu-ngay-thanh-pho-mang-ten-bac-20260616111549635.htm",
+      "summary": "Hai cánh rừng bạt ngàn: rừng ngập mặn Cần Giờ và rừng sao đen Xuân Sơn giờ đây đang là những lá phổi xanh của TP.HCM, khu sinh quyển thế giới, đều được trồng sau năm 1975, từ khi thành phố mang tên Bác. Đẫm màu xanh và giá trị của hòa bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T09:34:04.091664+07:00",
+      "fetched": "2026-06-28T09:34:04.091724+07:00"
+    },
+    {
+      "id": "9ac8dee3682c79c4f6d4bda0e1b02eb6",
+      "title": "Attack on Titan thay đổi anime shonen chỉ bằng một cảnh phim",
+      "link": "https://tuoitre.vn/attack-on-titan-thay-doi-anime-shonen-chi-bang-mot-canh-phim-100260627235634244.htm",
+      "summary": "Cảnh Eren Yeager hôn tay Historia Reiss ở mùa 3 được xem là bước ngoặt giúp Attack on Titan phá vỡ quy tắc lâu đời của anime shonen, khi nhân vật chính không còn là người hùng tuyệt đối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T09:34:04.091595+07:00",
+      "fetched": "2026-06-28T09:34:04.091654+07:00"
+    },
+    {
+      "id": "2ad5ea26cae92b35937c298f2599d452",
+      "title": "Ái Như - 30 năm với cô gái khùng của Người điên trong ngôi nhà cổ",
+      "link": "https://tuoitre.vn/ai-nhu-30-nam-voi-co-gai-khung-cua-nguoi-dien-trong-ngoi-nha-co-100260628065847418.htm",
+      "summary": "Tối 27-6, Sân khấu Hoàng Thái Thanh công diễn bản dựng mới vở Người điên trong ngôi nhà cổ. Sau gần 30 năm, nghệ sĩ Ái Như vẫn đảm nhiệm vai cô gái khùng tội nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T09:34:04.091524+07:00",
+      "fetched": "2026-06-28T09:34:04.091585+07:00"
+    },
+    {
+      "id": "7311b07c8ac06ed2e57f3dbbae3b5301",
+      "title": "Iran phóng tên lửa vào Kuwait, Bahrain sau khi bị Mỹ không kích",
+      "link": "https://tuoitre.vn/iran-phong-ten-lua-vao-kuwait-bahrain-sau-khi-bi-my-khong-kich-100260628075650424.htm",
+      "summary": "Kuwait đánh chặn tên lửa trong khi còi báo động vang lên ở Bahrain sau đợt tấn công mới nhất của Mỹ vào các mục tiêu ở Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T09:34:04.091442+07:00",
+      "fetched": "2026-06-28T09:34:04.091513+07:00"
+    },
+    {
+      "id": "ccadfd5921943788930d099978bc66f2",
+      "title": "Trực tuyến Jordan - Argentina (9h ngày 28-6): Alvarez lần đầu đá chính",
+      "link": "https://tuoitre.vn/truc-tuyen-jordan-argentina-9h-ngay-28-6-cuoc-chien-khong-can-suc-100260627173656662.htm",
+      "summary": "Do đã sớm giành vé nên Argentina đã tung nhiều cầu thủ dự bị vào sân ở trận đấu với Jordan ở loạt trận cuối cùng bảng J. Đáng chú ý trong đó là việc tiền đạo Julian Alvarez lần đầu được đá chính ở World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T09:34:04.091339+07:00",
+      "fetched": "2026-06-28T09:34:04.091431+07:00"
+    },
+    {
+      "id": "52592361d51a25ce9410ff294ed57fd4",
+      "title": "Dự báo thời tiết tuần từ 28-6 đến 4-7: Nắng nóng giảm, nhiều nơi có mưa",
+      "link": "https://tuoitre.vn/du-bao-thoi-tiet-tuan-tu-28-6-den-4-7-nang-nong-giam-nhieu-noi-co-mua-100260627150444125.htm",
+      "summary": "Tuần này mưa dông tăng khắp các vùng miền cả nước, thời tiết nắng nóng chỉ duy trì vào những ngày cuối tháng 6 rồi hạ nhiệt dần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T09:34:04.091260+07:00",
+      "fetched": "2026-06-28T09:34:04.091328+07:00"
+    },
+    {
+      "id": "2eb976703459200bb7e67faecf129365",
+      "title": "Thêm cụ bà 97 tuổi ở Hà Nội đi 3 lần mới nhận được tiền chế độ hàng tháng, phường nói gì?",
+      "link": "https://tuoitre.vn/them-cu-ba-97-tuoi-o-ha-noi-di-3-lan-moi-nhan-duoc-tien-che-do-hang-thang-phuong-noi-gi-100260628002449339.htm",
+      "summary": "Cụ bà 97 tuổi cùng người thân đi khắp các nơi, từ UBND phường đến các phòng ban và ngân hàng để làm thủ tục, nhưng phải đến ngày thứ ba mới được chi trả tiền chế độ hàng tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T09:34:04.091164+07:00",
+      "fetched": "2026-06-28T09:34:04.091248+07:00"
+    },
+    {
+      "id": "984f59e95d47fbe60a87126e54a3ec02",
+      "title": "Những tín hiệu tích cực về pháp lý và triển khai của Palm City",
+      "link": "https://tuoitre.vn/nhung-tin-hieu-tich-cuc-ve-phap-ly-va-trien-khai-cua-palm-city-100260627171324265.htm",
+      "summary": "Việc khởi công phân khu Palm River mới đây được xem là dấu mốc mở đầu cho giai đoạn phát triển tiếp theo của Palm City, khu đô thị quy mô hơn 30 ha tại Nam Rạch Chiếc, TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T09:34:04.091075+07:00",
+      "fetched": "2026-06-28T09:34:04.091152+07:00"
+    },
+    {
+      "id": "dd211604b863f94c8e313ef4ba02e186",
+      "title": "Tái chế bắt đầu từ thiết kế",
+      "link": "https://tuoitre.vn/tai-che-bat-dau-tu-thiet-ke-100260626171920311.htm",
+      "summary": "Trong nhiều năm qua, rác thải là điểm kết thúc của chuỗi sản xuất. Nhưng kinh tế tuần hoàn đang đảo lại trật tự đó. Vấn đề không còn nằm ở “xử lý rác”, mà nằm ở “thiết kế để không tạo ra rác khó xử lý”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T09:34:04.090905+07:00",
+      "fetched": "2026-06-28T09:34:04.091059+07:00"
+    },
     {
       "id": "d552717bbb9cd253ec18741e0e4b981f",
       "title": "Trực tuyến Panama - Anh (4h): 'Tam sư' đập tan mọi nghi ngờ?",
@@ -21,6 +171,66 @@ window.newsData_2026_06_28 = {
       "category": "Tổng hợp",
       "published": "2026-06-28T03:50:40.556700+07:00",
       "fetched": "2026-06-28T03:50:40.556878+07:00"
+    },
+    {
+      "id": "344ccabf11fbc3cd9dfcfe72de576182",
+      "title": "Nên đánh răng trước hay sau khi ăn?",
+      "link": "https://vnexpress.net/nen-danh-rang-truoc-hay-sau-khi-an-5090514.html",
+      "summary": "Nhiều người có thói quen ăn sáng xong mới đánh răng, nhưng theo các nha sĩ, nếu chỉ đánh răng một lần buổi sáng, thời điểm lý tưởng nhất là ngay sau khi thức dậy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T02:30:14+07:00",
+      "fetched": "2026-06-28T09:33:57.319407+07:00"
+    },
+    {
+      "id": "2147ff8f95162667f0854a9a743aeb20",
+      "title": "Lý Sơn Half Marathon: Chạy giữa biển trời và nham thạch triệu năm",
+      "link": "https://thanhnien.vn/ly-son-half-marathon-chay-giua-bien-troi-va-nham-thach-trieu-nam-185260628085300185.htm",
+      "summary": "Gần 1.800 VĐV đã hội tụ tại đặc khu Lý Sơn (Quảng Ngãi) tham gia giải việt dã 'Theo dấu chân tiền tiêu' - Lý Sơn Half Marathon 2026, chinh phục cung đường biển đảo độc đáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T02:26:00+07:00",
+      "fetched": "2026-06-28T09:34:00.521802+07:00"
+    },
+    {
+      "id": "7cd6bab3dcc18a8d1c06adaf8affc523",
+      "title": "Muốn lưu trữ phim lâu dài, nên chọn DVD hay ổ cứng?",
+      "link": "https://thanhnien.vn/muon-luu-tru-phim-lau-dai-nen-chon-dvd-hay-o-cung-185260628071424195.htm",
+      "summary": "Muốn lưu trữ phim trong nhiều năm, DVD và ổ cứng đều có ưu, nhược điểm riêng. Tuổi thọ thực tế còn phụ thuộc cách sử dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T02:24:00+07:00",
+      "fetched": "2026-06-28T09:34:00.521991+07:00"
+    },
+    {
+      "id": "fde70d1d009acb1ddf27b15ede491fb0",
+      "title": "'Vỡ' kịch bản gặp nhau tứ kết, Argentina và Bồ Đào Nha chỉ đối đầu khi nào?",
+      "link": "https://thanhnien.vn/vo-kich-ban-gap-nhau-tu-ket-argentina-va-bo-dao-nha-chi-doi-dau-khi-nao-185260628083852141.htm",
+      "summary": "Việc Bồ Đào Nha đứng nhì bảng K khiến kịch bản Ronaldo đại chiến Messi ở tứ kết World Cup 2026 đã không xảy ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T02:21:00+07:00",
+      "fetched": "2026-06-28T09:34:00.522152+07:00"
+    },
+    {
+      "id": "4fc8b9cf0afa37a32b5dfc41038abb79",
+      "title": "Công bố điểm chuẩn lớp 10 TP.HCM trước 15 giờ 30.6, học sinh lưu ý gì?",
+      "link": "https://thanhnien.vn/cong-bo-diem-chuan-lop-10-tphcm-truoc-15-gio-306-hoc-sinh-luu-y-gi-185260628081613297.htm",
+      "summary": "Theo thông tin từ lãnh đạo Sở GD-ĐT TP.HCM, dự kiến chậm nhất 15 giờ ngày 30.6 sở này công bố điểm chuẩn lớp 10 đại trà. Sau khi có điểm chuẩn và kết quả trúng tuyển, thí sinh cần lưu ý thực hiện theo đúng quy định về việc xác nhận nhập học, tránh trường hợp bị từ chối quyền trúng tuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T02:15:00+07:00",
+      "fetched": "2026-06-28T09:34:00.522309+07:00"
+    },
+    {
+      "id": "12efe41c3f9d008d5c67579396ac1ec5",
+      "title": "Tổng thống Serbia tuyên bố sắp từ chức",
+      "link": "https://thanhnien.vn/tong-thong-serbia-tuyen-bo-sap-tu-chuc-185260628090521792.htm",
+      "summary": "Tổng thống Serbia Aleksandar Vucic tuyên bố sẽ từ chức trong vài tuần tới, mở đường cho các cuộc bầu cử tổng thống và quốc hội trước thời hạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T02:13:00+07:00",
+      "fetched": "2026-06-28T09:34:00.522490+07:00"
     },
     {
       "id": "99598e0cd2e8e4b6b49383a82f24e9e0",
@@ -173,6 +383,376 @@ window.newsData_2026_06_28 = {
       "fetched": "2026-06-28T02:04:04.261257+07:00"
     },
     {
+      "id": "c51be1532e6da4d85a7f8192c5ae0577",
+      "title": "Lông mọc trên nốt ruồi có nhổ được không?",
+      "link": "https://vnexpress.net/long-moc-tren-not-ruoi-co-nho-duoc-khong-5090665.html",
+      "summary": "Tôi có sợi lông dài mọc trên nốt ruồi, nếu nhổ có ảnh hưởng gì đến sức khỏe không? (Hà Duyên, Hải Phòng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T02:00:00+07:00",
+      "fetched": "2026-06-28T09:33:57.319614+07:00"
+    },
+    {
+      "id": "5184908a8c12a98d7d72e92c4ccaba3f",
+      "title": "Phân bón Cà Mau vinh danh nhà phân phối xuất sắc",
+      "link": "https://vnexpress.net/phan-bon-ca-mau-vinh-danh-nha-phan-phoi-xuat-sac-5090634.html",
+      "summary": "Tổng Công ty Phân bón Dầu khí Cà Mau trao thưởng cho các nhà phân phối tại Việt Nam và Campuchia với tổng giá trị hơn 14 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T02:00:00+07:00",
+      "fetched": "2026-06-28T09:33:57.319788+07:00"
+    },
+    {
+      "id": "1f1649203c003ffe19917b160f19d193",
+      "title": "Vì sao tăng huyết áp ở tuổi mãn kinh?",
+      "link": "https://vnexpress.net/vi-sao-tang-huyet-ap-o-tuoi-man-kinh-5090571.html",
+      "summary": "Tôi 54 tuổi, gần đây đo huyết áp cao hơn trước dù sinh hoạt không thay đổi nhiều. Tiền mãn kinh - mãn kinh có làm tăng huyết áp? (Thu Hà, Tây Ninh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T02:00:00+07:00",
+      "fetched": "2026-06-28T09:33:57.319955+07:00"
+    },
+    {
+      "id": "23701af025ae0c4990d6d8be8ee38b04",
+      "title": "6 cách ăn uống có thể giúp kéo dài tuổi thọ",
+      "link": "https://vnexpress.net/6-cach-an-uong-co-the-giup-keo-dai-tuoi-tho-5090562.html",
+      "summary": "Không bỏ bữa sáng, tăng cường chất chống oxy hóa, canxi, vitamin D, magie và thực phẩm lên men có thể giúp cơ thể khỏe mạnh, giảm bệnh tật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T02:00:00+07:00",
+      "fetched": "2026-06-28T09:33:57.320125+07:00"
+    },
+    {
+      "id": "c798001767dde3f1cd89c4d7e5a1aad9",
+      "title": "Cách người trẻ gửi yêu thương cho gia đình từ xa",
+      "link": "https://thanhnien.vn/cach-nguoi-tre-gui-yeu-thuong-cho-gia-dinh-tu-xa-185260627185625866.htm",
+      "summary": "Không thể về nhà trong ngày Gia đình Việt Nam, Phạm Mãi Mãi (18 tuổi), làm việc tại Công ty J&T Khu công nghiệp Tân Đông Hiệp B (P.Bình Dương, TP.HCM), cho biết sẽ gọi điện về nhà hỏi thăm ba mẹ nhiều hơn ngày thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T02:00:00+07:00",
+      "fetched": "2026-06-28T09:34:00.522650+07:00"
+    },
+    {
+      "id": "49d07b6d041a89a2091303a66ad2db0d",
+      "title": "Mùa bóng lăn - Truyện ngắn của Nguyễn Minh Ngọc",
+      "link": "https://thanhnien.vn/mua-bong-lan-truyen-ngan-cua-nguyen-minh-ngoc-185260627175431972.htm",
+      "summary": "- A! Anh \"trọc\" nhà mình đang lên kìa! Hoan hô anh trọc. Mần tới đi! Sút! Vào rồi… không vào. Đến tận cầu môn rồi còn hỏng ăn, rõ chán mớ đời!",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T02:00:00+07:00",
+      "fetched": "2026-06-28T09:34:02.198382+07:00"
+    },
+    {
+      "id": "04e9e6add0a1e8971a194afe4c8e340d",
+      "title": "Cô giáo gieo niềm vui cho lớp học tuổi xế chiều",
+      "link": "https://thanhnien.vn/co-giao-gieo-niem-vui-cho-lop-hoc-tuoi-xe-chieu-18526062311335352.htm",
+      "summary": "Suốt 8 năm qua, trong con ngõ 31 đường Nguyễn Chí Thanh, phường Giảng Võ (Hà Nội), một lớp tiếng Anh miễn phí đặc biệt dành cho người cao tuổi do chị Phùng Thị Hải Yến (33 tuổi) đứng lớp đã mang lại niềm vui và nguồn năng lượng mới cho nhiều cụ già nơi đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T02:00:00+07:00",
+      "fetched": "2026-06-28T09:34:02.198853+07:00"
+    },
+    {
+      "id": "310f9d09f971718f24dcacc7543693a5",
+      "title": "Iran tập kích loạt căn cứ Mỹ để trả đũa",
+      "link": "https://vnexpress.net/iran-tap-kich-loat-can-cu-my-de-tra-dua-5090708.html",
+      "summary": "Vệ binh Cách mạng Iran thông báo phóng tên lửa đạn đạo và UAV vào các căn cứ Mỹ tại Kuwait và Bahrain để trả đũa vụ tập kích trước đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T01:58:53+07:00",
+      "fetched": "2026-06-28T09:33:57.320285+07:00"
+    },
+    {
+      "id": "310f9d09f971718f24dcacc7543693a5",
+      "title": "Iran tập kích loạt căn cứ Mỹ để trả đũa",
+      "link": "https://vnexpress.net/iran-tap-kich-loat-can-cu-my-de-tra-dua-5090708.html",
+      "summary": "Vệ binh Cách mạng Iran thông báo phóng tên lửa đạn đạo và UAV vào các căn cứ Mỹ tại Kuwait và Bahrain để trả đũa vụ tập kích trước đó.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-28T01:58:53+07:00",
+      "fetched": "2026-06-28T09:34:04.993772+07:00"
+    },
+    {
+      "id": "30b5cdc436e241e361252ed6752f41d3",
+      "title": "Trung Quốc muốn mở rộng gấp đôi Thiên Cung khi ISS gần kết thúc sứ mệnh",
+      "link": "https://thanhnien.vn/trung-quoc-muon-mo-rong-gap-doi-thien-cung-khi-iss-gan-ket-thuc-su-menh-185260628074615809.htm",
+      "summary": "Trung Quốc lên kế hoạch bổ sung 3 module mới vào trạm Thiên Cung và thêm một kính viễn vọng không gian trên cùng quỹ đạo, trong khi Trạm Không gian Quốc tế (ISS) ngày càng tiến gần đến lúc chấm dứt sứ mệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T01:58:00+07:00",
+      "fetched": "2026-06-28T09:34:02.199030+07:00"
+    },
+    {
+      "id": "64d214ab6e0c01ddfc994a11673c2a4f",
+      "title": "Xuyên đêm dập đám cháy cơ sở thu mua phế liệu ở Quảng Ngãi",
+      "link": "https://thanhnien.vn/xuyen-dem-dap-dam-chay-co-so-thu-mua-phe-lieu-o-quang-ngai-185260628072328023.htm",
+      "summary": "Lực lượng Cảnh sát PCCC và cứu nạn cứu hộ Công an tỉnh Quảng Ngãi xuyên đêm dập đám cháy xảy ra ở cơ sở thu mua phế liệu thuộc xã Đăk Hà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T01:55:00+07:00",
+      "fetched": "2026-06-28T09:34:02.199193+07:00"
+    },
+    {
+      "id": "0682a28075b6df6e57607ef08b0fbee6",
+      "title": "Bãi biển Quất Lâm hoang vắng",
+      "link": "https://vnexpress.net/bai-bien-quat-lam-hoang-vang-5089525.html",
+      "summary": "Hàng trăm khách sạn, nhà hàng ven bờ biển Giao Ninh (Quất Lâm cũ) hiện trong cảnh bỏ hoang, xuống cấp, du khách thưa vắng trong bối cảnh nơi đây mới được đổi tên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T01:49:52+07:00",
+      "fetched": "2026-06-28T09:33:57.320479+07:00"
+    },
+    {
+      "id": "852aca46a0f630cf7fc1ddc698dc6e9d",
+      "title": "Phương Mai đón tuổi 36",
+      "link": "https://vnexpress.net/phuong-mai-don-tuoi-36-5090702.html",
+      "summary": "Người mẫu Phương Mai thể hiện hình ảnh người phụ nữ tìm lại chính mình sau qua biến cố hôn nhân, trong bộ ảnh mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T01:49:04+07:00",
+      "fetched": "2026-06-28T09:33:57.320647+07:00"
+    },
+    {
+      "id": "a5db6fd113ae39542096443a1f72522a",
+      "title": "Bị thua độ World Cup 2026, có được giảm tội nếu tố giác đường dây cá cược?",
+      "link": "https://vnexpress.net/bi-thua-do-world-cup-2026-co-duoc-giam-toi-neu-to-giac-duong-day-ca-cuoc-5089722.html",
+      "summary": "Tôi biết cá độ bóng đá là hành vi phạm pháp, nhưng nếu một người sau khi tham gia đã chủ động tố giác đường dây thì có được xem là tình tiết giảm nhẹ trách nhiệm pháp lý không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T01:43:53+07:00",
+      "fetched": "2026-06-28T09:33:57.320812+07:00"
+    },
+    {
+      "id": "873a1ebcf9204b0ee9e45a7d2c622670",
+      "title": "Sai lầm nhiều người mắc phải khi dán màn hình điện thoại",
+      "link": "https://thanhnien.vn/sai-lam-nhieu-nguoi-mac-phai-khi-dan-man-hinh-dien-thoai-185260627224222756.htm",
+      "summary": "Vì sao các chuyên gia công nghệ đồng loạt tẩy chay miếng dán màn hình bằng nhựa?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T01:37:00+07:00",
+      "fetched": "2026-06-28T09:34:02.199405+07:00"
+    },
+    {
+      "id": "0de48642c28bee07e29879d7f5f424d7",
+      "title": "Hàn Quốc bị loại ở vòng bảng World Cup 2026",
+      "link": "https://vnexpress.net/han-quoc-bi-loai-o-vong-bang-world-cup-2026-5090709.html",
+      "summary": "Trận thua ngược 1-3 của Uzbekistan trước CHDC Congo khiến Hàn Quốc hết cửa đi tiếp trong nhóm đội hạng ba vòng bảng World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T01:32:41+07:00",
+      "fetched": "2026-06-28T09:33:57.320969+07:00"
+    },
+    {
+      "id": "0de48642c28bee07e29879d7f5f424d7",
+      "title": "Hàn Quốc bị loại ở vòng bảng World Cup 2026",
+      "link": "https://vnexpress.net/han-quoc-bi-loai-o-vong-bang-world-cup-2026-5090709.html",
+      "summary": "Trận thua ngược 1-3 của Uzbekistan trước CHDC Congo khiến Hàn Quốc hết cửa đi tiếp trong nhóm đội hạng ba vòng bảng World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-28T01:32:41+07:00",
+      "fetched": "2026-06-28T09:34:11.146023+07:00"
+    },
+    {
+      "id": "6d985e98a3fbdbce5deb15fc7264549d",
+      "title": "Chuyên Lương Văn Chánh vô địch mô hình hóa toán toàn quốc",
+      "link": "https://vnexpress.net/hoc-sinh-thpt-chuyen-luong-van-chanh-gianh-giai-nhat-ky-thi-mo-hinh-hoa-toan-hoc-viet-nam-2026-5090673.html",
+      "summary": "Đua tối ưu hóa chiến thuật dùng lốp trong đua xe, học sinh THPT chuyên Lương Văn Chánh (Đắk Lắk) giành giải nhất Kỳ thi Mô hình hóa Toán học Việt Nam 2026 sau vòng bỏ phiếu của giám khảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T01:32:22+07:00",
+      "fetched": "2026-06-28T09:33:57.321142+07:00"
+    },
+    {
+      "id": "9d04c7423a8cac49d4ffc7da8f3615fc",
+      "title": "Nóng: Hàn Quốc chính thức bị loại khỏi World Cup 2026",
+      "link": "https://thanhnien.vn/nong-han-quoc-chinh-thuc-bi-loai-khoi-world-cup-2026-185260628010216944.htm",
+      "summary": "Đội tuyển Hàn Quốc chia tay World Cup 2026, sau khi không lọt vào nhóm 8 đội hạng ba xuất sắc nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T01:32:00+07:00",
+      "fetched": "2026-06-28T09:34:02.199579+07:00"
+    },
+    {
+      "id": "4b8c998458f45fc61d8c63fb2adb9447",
+      "title": "7 giờ tối, nhiều người rủ nhau vào bảo tàng để làm gì?",
+      "link": "https://thanhnien.vn/7-gio-toi-nhieu-nguoi-ru-nhau-vao-bao-tang-de-lam-gi-185260628074434589.htm",
+      "summary": "Không phải đi cà phê hay xem phim, đông đảo bạn trẻ chọn đến bảo tàng vào buổi tối để làm điều này….",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T01:30:00+07:00",
+      "fetched": "2026-06-28T09:34:02.199734+07:00"
+    },
+    {
+      "id": "1340baefe59fa21c69e52c6fe64e3477",
+      "title": "Việt Nam mở rộng ứng dụng robot trong phẫu thuật ngoại khoa",
+      "link": "https://vnexpress.net/viet-nam-mo-rong-ung-dung-robot-trong-phau-thuat-ngoai-khoa-5090686.html",
+      "summary": "Việt Nam đang đẩy mạnh ứng dụng robot trong nhiều lĩnh vực ngoại khoa phức tạp như ung thư, thần kinh, cột sống nhằm tối ưu hóa độ chính xác, giảm thiểu xâm lấn và rút ngắn thời gian phục hồi cho người bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T01:22:26+07:00",
+      "fetched": "2026-06-28T09:33:57.321301+07:00"
+    },
+    {
+      "id": "3dd4893f12e2152aaffa627989ec2725",
+      "title": "Phía sau dòng điện không gián đoạn là những hy sinh thầm lặng",
+      "link": "https://thanhnien.vn/phia-sau-dong-dien-khong-gian-doan-la-nhung-hy-sinh-tham-lang-185260623104115008.htm",
+      "summary": "Phía sau dòng điện không gián đoạn của thành phố là những con người thầm lặng: trực ca xuyên đêm, xử lý sự cố giữa mưa giông, vận hành lưới điện, cải tiến từng quy trình để giữ ánh sáng không bao giờ tắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T01:17:00+07:00",
+      "fetched": "2026-06-28T09:34:02.199943+07:00"
+    },
+    {
+      "id": "60e5959bb120934248285f45f7186fc1",
+      "title": "NSND Lê Khanh: 'TP.HCM không cho tôi… về hưu'",
+      "link": "https://thanhnien.vn/nsnd-le-khanh-tphcm-khong-cho-toi-ve-huu-185260627204747543.htm",
+      "summary": "Liên tục góp mặt trong các dự án phim lớn của điện ảnh phía nam: Hẹn em ngày nhật thực, Một thời ta đã yêu… hay trước đó là Gái già lắm chiêu 3 và 5, Cô gái từ quá khứ…, NSND Lê Khanh gọi vui hành trình Nam tiến ở tuổi 63 của mình là \"đánh bắt xa bờ\", \"đi làm bằng… máy bay\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T01:15:00+07:00",
+      "fetched": "2026-06-28T09:34:02.200097+07:00"
+    },
+    {
+      "id": "2439d5d692f6253f368a5330e20131c7",
+      "title": "Tuchel: 'World Cup bắt đầu lại với đội tuyển Anh'",
+      "link": "https://vnexpress.net/tuchel-world-cup-bat-dau-lai-voi-doi-tuyen-anh-5090697.html",
+      "summary": "HLV Thomas Tuchel tin đội tuyển Anh sẽ nâng tầm ở vòng loại trực tiếp, sau khi thắng Panama 2-0 ở lượt cuối để giành nhất bảng L World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T01:11:23+07:00",
+      "fetched": "2026-06-28T09:33:57.321485+07:00"
+    },
+    {
+      "id": "2439d5d692f6253f368a5330e20131c7",
+      "title": "Tuchel: 'World Cup bắt đầu lại với đội tuyển Anh'",
+      "link": "https://vnexpress.net/tuchel-world-cup-bat-dau-lai-voi-doi-tuyen-anh-5090697.html",
+      "summary": "HLV Thomas Tuchel tin đội tuyển Anh sẽ nâng tầm ở vòng loại trực tiếp, sau khi thắng Panama 2-0 ở lượt cuối để giành nhất bảng L World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-28T01:11:23+07:00",
+      "fetched": "2026-06-28T09:34:11.147221+07:00"
+    },
+    {
+      "id": "140e1dd21486b8c6217aa0cc8535c447",
+      "title": "Haaland được ví như 'sư tử đang bị nhốt trong chuồng'",
+      "link": "https://vnexpress.net/haaland-duoc-vi-nhu-su-tu-dang-bi-nhot-trong-chuong-5090482.html",
+      "summary": "Theo HLV Stale Solbakken, tiền đạo chủ lực của Na Uy Erling Haaland sẽ bùng nổ trở lại sau khi được cho nghỉ trận gặp Pháp ở lượt cuối bảng I World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T01:08:26+07:00",
+      "fetched": "2026-06-28T09:33:57.321651+07:00"
+    },
+    {
+      "id": "140e1dd21486b8c6217aa0cc8535c447",
+      "title": "Haaland được ví như 'sư tử đang bị nhốt trong chuồng'",
+      "link": "https://vnexpress.net/haaland-duoc-vi-nhu-su-tu-dang-bi-nhot-trong-chuong-5090482.html",
+      "summary": "Theo HLV Stale Solbakken, tiền đạo chủ lực của Na Uy Erling Haaland sẽ bùng nổ trở lại sau khi được cho nghỉ trận gặp Pháp ở lượt cuối bảng I World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-28T01:08:26+07:00",
+      "fetched": "2026-06-28T09:34:11.147406+07:00"
+    },
+    {
+      "id": "b758033442f0c6af6583f9bc15a1f3a8",
+      "title": "Bác sĩ Bạch Mai cơ sở Ninh Bình cứu 2 người đột quỵ trong ngày đầu mở cửa",
+      "link": "https://vnexpress.net/bac-si-bach-mai-co-so-ninh-binh-cuu-2-nguoi-dot-quy-trong-ngay-dau-mo-cua-5090688.html",
+      "summary": "Trung tâm Đột quỵ thuộc Bệnh viện Bạch Mai cơ sở Ninh Bình vừa cấp cứu thành công hai ca nhồi máu não cấp ngay trong ngày đầu tiên chi nhánh này đi vào hoạt động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T01:07:19+07:00",
+      "fetched": "2026-06-28T09:33:57.321815+07:00"
+    },
+    {
+      "id": "69976af28ae637d53f98646545e4c3cc",
+      "title": "Jordan 0-0 Argentina (H1): Messi được quan tâm dù dự bị",
+      "link": "https://vnexpress.net/jordan-vs-argentina-5090701.html",
+      "summary": "Argentina chơi trận cuối vòng bảng World Cup 2026 gặp Jordan trên sân Dallas. Cùng giờ là trận Algeria - Áo nhằm xác định hai suất cuối.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-28T01:00:08+07:00",
+      "fetched": "2026-06-28T09:34:11.146205+07:00"
+    },
+    {
+      "id": "b2d097a10380df97ea13df3a9da43fb4",
+      "title": "'Ma trận' giấy phép để được lắp điều hòa tại Pháp",
+      "link": "https://vnexpress.net/ma-tran-giay-phep-de-duoc-lap-dieu-hoa-tai-phap-5090076.html",
+      "summary": "Người dân tại các đô thị Pháp đối mặt hàng loạt thủ tục xin giấy phép để được lắp điều hòa ứng phó với cái nóng mùa hè.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-28T01:00:00+07:00",
+      "fetched": "2026-06-28T09:34:04.993952+07:00"
+    },
+    {
+      "id": "d076ea467c5f9d08226ed473209f7151",
+      "title": "Cách tính chi phí bản quyền âm nhạc cho các quán cà phê, nhà hàng",
+      "link": "https://vnexpress.net/cach-tinh-chi-phi-ban-quyen-am-nhac-cho-cac-quan-ca-phe-nha-hang-5090526.html",
+      "summary": "Tiền bản quyền âm nhạc được tính theo công thức quy định cụ thể, dựa trên diện tích kinh doanh của quán cà phê và nhà hàng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-28T01:00:00+07:00",
+      "fetched": "2026-06-28T09:34:06.631719+07:00"
+    },
+    {
+      "id": "b5919b919bf099151c47dee9a84a0d05",
+      "title": "Uruguay bị cắt chuyên cơ riêng sau thất bại ở World Cup 2026",
+      "link": "https://vnexpress.net/uruguay-bi-cat-chuyen-co-rieng-sau-that-bai-o-world-cup-2026-5090699.html",
+      "summary": "Sau khi bị loại từ vòng bảng World Cup 2026, đội tuyển Uruguay phải tự thu xếp lịch trình về nước, trên những chuyến bay thương mại như người bình thường.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-28T00:48:07+07:00",
+      "fetched": "2026-06-28T09:34:11.146398+07:00"
+    },
+    {
+      "id": "9ab353eaff9caeb394095844d1dc7333",
+      "title": "Modric lập kỷ lục kiến tạo giúp Croatia đi tiếp ở World Cup",
+      "link": "https://vnexpress.net/modric-lap-ky-luc-kien-tao-giup-croatia-di-tiep-o-world-cup-5090696.html",
+      "summary": "Croatia thắng Ghana 2-1 ở lượt cuối bảng L World Cup 2026 nhờ pha kiến tạo quyết định của tiền vệ Luka Modric, qua đó giành vé vào vòng 1/16 với tư cách đội nhì bảng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-28T00:04:14+07:00",
+      "fetched": "2026-06-28T09:34:11.146567+07:00"
+    },
+    {
+      "id": "6ee2a88f887404844c37887b71060125",
+      "title": "Lưới điện châu Âu lao đao vì nắng nóng",
+      "link": "https://vnexpress.net/luoi-dien-chau-au-lao-dao-vi-nang-nong-5090330.html",
+      "summary": "Nhiệt độ cao do nắng nóng đe dọa hoạt động của nhiều nhà máy điện hạt nhân, thủy điện và nhiệt điện tại các nước châu Âu trong khi lưới điện quá tải vì nhu cầu làm mát.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-28T00:00:00+07:00",
+      "fetched": "2026-06-28T09:34:09.314081+07:00"
+    },
+    {
+      "id": "76379ad6083a35996495de0d4be1357b",
+      "title": "Bellingham giúp Anh giành nhất bảng ở World Cup 2026",
+      "link": "https://vnexpress.net/bellingham-giup-anh-gianh-nhat-bang-o-world-cup-2026-5090682.html",
+      "summary": "Jude Bellingham ghi bàn rồi kiến tạo cho Harry Kane, giúp Anh thắng Panama 2-0 để vào vòng 1/16 với vị trí nhất bảng L World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-27T23:24:54+07:00",
+      "fetched": "2026-06-28T09:34:11.146728+07:00"
+    },
+    {
+      "id": "cc3b869a6aaf4954071ba38051810b94",
+      "title": "Mỹ tiếp tục không kích Iran",
+      "link": "https://vnexpress.net/my-tiep-tuc-khong-kich-iran-5090684.html",
+      "summary": "Quân đội Mỹ cho biết đã tiến hành thêm các cuộc tấn công vào 'nhiều mục tiêu' ở Iran nhằm đáp trả cuộc tấn công bằng UAV vào một con tàu gần Hormuz.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-27T23:08:29+07:00",
+      "fetched": "2026-06-28T09:34:04.994118+07:00"
+    },
+    {
+      "id": "77243b28ac90595cccd5ddd087d28fc2",
+      "title": "Khi rơm rạ và CO₂ đều có thể bán được",
+      "link": "https://vnexpress.net/khi-rom-ra-va-co-deu-co-the-ban-duoc-5090528.html",
+      "summary": "Rơm rạ từng bị đốt bỏ sau mỗi vụ gặt, nay được thương lái thu mua. CO₂ phát sinh trong nhà máy cũng được chế biến thành sản phẩm thay vì thải ra môi trường.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-27T23:00:00+07:00",
+      "fetched": "2026-06-28T09:34:06.631911+07:00"
+    },
+    {
       "id": "0cbf0c1f089b14530ac90f1f7b21583e",
       "title": "Mệnh lệnh về lương nhà giáo cao nhất",
       "link": "https://thanhnien.vn/menh-lenh-ve-luong-nha-giao-cao-nhat-185260627222038849.htm",
@@ -251,6 +831,16 @@ window.newsData_2026_06_28 = {
       "category": "Tổng hợp",
       "published": "2026-06-27T22:36:00+07:00",
       "fetched": "2026-06-28T05:54:48.122610+07:00"
+    },
+    {
+      "id": "839fa6a35a203030544142f0bef31099",
+      "title": "Ronaldo im tiếng, Bồ Đào Nha xếp nhì bảng World Cup",
+      "link": "https://vnexpress.net/ket-qua-colombia-vs-bo-dao-nha-5090681.html",
+      "summary": "Cristiano Ronaldo không thể ghi bàn trong trận Bồ Đào Nha hòa 0-0 trước Colombia ở lượt cuối bảng K World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-27T22:30:12+07:00",
+      "fetched": "2026-06-28T09:34:11.146888+07:00"
     },
     {
       "id": "05900e3d0bb4dad5eb536ac03aca8f53",
