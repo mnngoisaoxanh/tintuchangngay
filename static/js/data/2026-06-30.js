@@ -1,6 +1,6 @@
 window.newsData_2026_06_30 = {
   "date": "2026-06-30",
-  "lastUpdated": "2026-06-30T02:42:41.872134+07:00",
+  "lastUpdated": "2026-06-30T04:16:50.527556+07:00",
   "articles": [
     {
       "id": "eea1c9382783d2402920c00fa7d63d9d",
@@ -151,6 +151,16 @@ window.newsData_2026_06_30 = {
       "category": "Tổng hợp",
       "published": "2026-06-30T02:42:34.696097+07:00",
       "fetched": "2026-06-30T02:42:34.696229+07:00"
+    },
+    {
+      "id": "4817bc0d0aa82abe68a8a49a2c4923cd",
+      "title": "Điều gì xảy ra với não bộ nếu bạn ăn trứng mỗi tuần?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-nao-bo-neu-ban-an-trung-moi-tuan-5090985.html",
+      "summary": "Ăn ít nhất một quả trứng mỗi tuần giúp giảm 47% nguy cơ mắc bệnh Alzheimer và bảo vệ sức khỏe não bộ nhờ các dưỡng chất quý giá trong lòng đỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T20:00:00+07:00",
+      "fetched": "2026-06-30T04:16:36.955141+07:00"
     },
     {
       "id": "e1b1483566d44eddf8fec6f526ec0a9f",
@@ -451,6 +461,16 @@ window.newsData_2026_06_30 = {
       "category": "Thể thao",
       "published": "2026-06-29T16:00:00+07:00",
       "fetched": "2026-06-30T02:42:41.868130+07:00"
+    },
+    {
+      "id": "1ae53807732aa54c67286fa32e3ebadd",
+      "title": "Brazil thắng ngược Nhật Bản ở phút bù World Cup",
+      "link": "https://vnexpress.net/brazil-vs-nhat-ban-5091331-tong-thuat.html",
+      "summary": "Tiền vệ Gabriel Martinelli ghi bàn ở phút bù thứ sáu hiệp hai, giúp Brazil thắng Nhật Bản 2-1, trên sân Houston ở vòng 1/16 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-29T16:00:00+07:00",
+      "fetched": "2026-06-30T04:16:50.522666+07:00"
     },
     {
       "id": "91c11bf4c4406b3116a23f6c820a1ff7",
