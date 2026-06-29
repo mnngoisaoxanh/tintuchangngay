@@ -1,7 +1,17 @@
 window.newsData_2026_06_30 = {
   "date": "2026-06-30",
-  "lastUpdated": "2026-06-30T04:16:50.527556+07:00",
+  "lastUpdated": "2026-06-30T05:45:56.351516+07:00",
   "articles": [
+    {
+      "id": "6e75576f5ae3d31597035bf42ea387e2",
+      "title": "Lịch trực tiếp World Cup 2026 ngày 1-7: Mexico gặp Ecuador, Haaland và Mbappe ra sân",
+      "link": "https://tuoitre.vn/lich-truc-tiep-world-cup-2026-ngay-1-7-mexico-gap-ecuador-haaland-va-mbappe-ra-san-100260629164342965.htm",
+      "summary": "Rạng sáng 1-7, vòng 32 đội World Cup 2026 diễn ra ba trận đấu: Bờ Biển Ngà gặp Na Uy, Pháp đụng độ Thụy Điển, và Mexico gặp Ecuador.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T05:45:49.468346+07:00",
+      "fetched": "2026-06-30T05:45:49.468509+07:00"
+    },
     {
       "id": "eea1c9382783d2402920c00fa7d63d9d",
       "title": "CLB TP.HCM I thắng trận thứ 3 liên tiếp ở Giải bóng đá nữ VĐQG",
@@ -151,6 +161,256 @@ window.newsData_2026_06_30 = {
       "category": "Tổng hợp",
       "published": "2026-06-30T02:42:34.696097+07:00",
       "fetched": "2026-06-30T02:42:34.696229+07:00"
+    },
+    {
+      "id": "23cff1726cd16ebe229d2ce3694d0679",
+      "title": "Phát sóng phim tài liệu 'TP.HCM - Nửa thế kỷ tên Người'",
+      "link": "https://thanhnien.vn/phat-song-phim-tai-lieu-tphcm-nua-the-ky-ten-nguoi-185260629221329726.htm",
+      "summary": "Kỷ niệm 50 năm ngày thành phố Sài Gòn - Gia Định chính thức mang tên Chủ tịch Hồ Chí Minh (2.7.1976 - 2.7.2026), Đài Truyền hình TP.HCM (HTV) giới thiệu bộ phim tài liệu TP.HCM - Nửa thế kỷ tên Người, tái hiện hành trình lịch sử và ý nghĩa của tên gọi thành phố gắn liền với vị lãnh tụ kính yêu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:45:00+07:00",
+      "fetched": "2026-06-30T05:45:47.789456+07:00"
+    },
+    {
+      "id": "23c0075becf28e671800dd6d4ea8cc8c",
+      "title": "Quy định thí sinh cần biết trước và sau công bố điểm thi tốt nghiệp THPT",
+      "link": "https://thanhnien.vn/quy-dinh-thi-sinh-can-biet-truoc-va-sau-cong-bo-diem-thi-tot-nghiep-thpt-185260629195524443.htm",
+      "summary": "Theo kế hoạch, đúng 8 giờ ngày 1.7, Bộ GD-ĐT và 34 sở GD-ĐT trên cả nước sẽ đồng loạt công bố điểm thi tốt nghiệp THPT năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:45:00+07:00",
+      "fetched": "2026-06-30T05:45:47.789630+07:00"
+    },
+    {
+      "id": "8f845304f3ff1213923bdedc8f6fcea9",
+      "title": "Giữa trung tâm Phan Rang có vườn chà là trĩu quả rộng hơn 2.000 m²",
+      "link": "https://thanhnien.vn/giua-trung-tam-phan-rang-co-vuon-cha-la-triu-qua-rong-hon-2000-m-185260629145328482.htm",
+      "summary": "Vườn chà là hữu cơ rộng hơn 2.000 m² với 85 cây thuộc nhiều giống cao cấp đang trĩu quả giữa trung tâm Phan Rang (Khánh Hòa), thu hút nhiều người dân đến tham quan, chụp ảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:45:00+07:00",
+      "fetched": "2026-06-30T05:45:47.789791+07:00"
+    },
+    {
+      "id": "428a5dc22269cf626f9686b5868fe97f",
+      "title": "Những ngôi sao Arsenal là 'người hùng' của đội tuyển Brazil",
+      "link": "https://thanhnien.vn/nhung-ngoi-sao-arsenal-la-nguoi-hung-cua-doi-tuyen-brazil-185260630052543331.htm",
+      "summary": "Đội tuyển Brazil đã giành vé vào vòng 16 đội World Cup 2026 sau màn lội ngược dòng đầy kịch tính để thắng Nhật Bản 2-1. Ở trận này, các ngôi sao của Arsenal đã sắm vai 'người hùng', góp công lớn giúp selecao đi tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:37:00+07:00",
+      "fetched": "2026-06-30T05:45:47.789948+07:00"
+    },
+    {
+      "id": "b7415222bf5f1e41e76222c6a5027859",
+      "title": "Nghị quyết 10: Tái cấu trúc chiến lược thu hút vốn ngoại",
+      "link": "https://thanhnien.vn/nghi-quyet-10-tai-cau-truc-chien-luoc-thu-hut-von-ngoai-185260629231410701.htm",
+      "summary": "Đổi mới tư duy, hoàn thiện thể chế, khuyến khích doanh nghiệp nước ngoài chuyển giao công nghệ là những nội dung quan trọng tại Nghị quyết số 10-NQ/TW của Bộ Chính trị được Tổng Bí thư, Chủ tịch nước Tô Lâm ký ban hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:37:00+07:00",
+      "fetched": "2026-06-30T05:45:47.790104+07:00"
+    },
+    {
+      "id": "d01b40c771534ba46bffe92bb09b446e",
+      "title": "50 năm TP mang tên Bác: TP.HCM bước vào kỷ nguyên tăng trưởng mới",
+      "link": "https://thanhnien.vn/50-nam-tp-mang-ten-bac-tphcm-buoc-vao-ky-nguyen-tang-truong-moi-18526062921343021.htm",
+      "summary": "50 năm kể từ ngày vinh dự mang tên Chủ tịch Hồ Chí Minh vĩ đại, đến nay TP.HCM vẫn giữ vững sứ mệnh \"đầu tàu\", \"trái tim\" kinh tế của cả nước. Giờ đây, ở cột mốc nửa thế kỷ, TP.HCM đang tiếp tục mạnh mẽ vươn mình, trở thành nơi hội tụ của dòng vốn tài chính toàn cầu, tư duy công nghệ và khát vọng vư...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:36:00+07:00",
+      "fetched": "2026-06-30T05:45:47.790262+07:00"
+    },
+    {
+      "id": "42cfca87a244e387007d79df82e36c96",
+      "title": "Nhiều chính sách khơi thông dòng vốn tín dụng",
+      "link": "https://thanhnien.vn/nhieu-chinh-sach-khoi-thong-dong-von-tin-dung-185260629214120369.htm",
+      "summary": "Lãi suất tiết kiệm vẫn chưa thể hạ nhiệt gần đây khi nhu cầu vốn trong nền kinh tế gia tăng. Các chính sách nhằm ổn định mặt bằng lãi suất, giảm căng thẳng thanh khoản, khơi thông dòng chảy vốn đang được triển khai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:35:00+07:00",
+      "fetched": "2026-06-30T05:45:47.790440+07:00"
+    },
+    {
+      "id": "a4339e78f7b677782f04c7f77f110085",
+      "title": "Chiến sự Ukraine ngày 1.587: Nga tăng sức ép ở Donetsk, ông Putin giữ lập trường đàm phán",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1587-nga-tan-cong-cua-ngo-vanh-dai-phao-dai-ukraine-185260629211842317.htm",
+      "summary": "Theo nhận định của giới phân tích quân sự dựa trên diễn tiến thực địa, lực lượng Nga tiếp tục gia tăng sức ép nhằm vào cửa ngõ của tuyến phòng thủ được ví như \"vành đai pháo đài\" miền đông của Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:33:00+07:00",
+      "fetched": "2026-06-30T05:45:47.790599+07:00"
+    },
+    {
+      "id": "4eaa2bc46b2d8ae5cb58de0c72ccca99",
+      "title": "Tiêu điểm quốc tế 30.6: Tiếp tục tìm MH-370 | Ukraine 1 ngày mất 3 MiG-29?",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-306-tiep-tuc-tim-mh-370-ukraine-1-ngay-mat-3-mig-29-185260630003217651.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin Tiêu điểm quốc tế ngày 30.6.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:30:00+07:00",
+      "fetched": "2026-06-30T05:45:47.790752+07:00"
+    },
+    {
+      "id": "06a53d20a9903fe683a09b0108255780",
+      "title": "Đường ĐT722 hoàn thành, mở lối ngắn nhất từ Đà Lạt lên Buôn Ma Thuột",
+      "link": "https://thanhnien.vn/duong-dt722-hoan-thanh-mo-loi-ngan-nhat-tu-da-lat-len-buon-ma-thuot-185260629170519871.htm",
+      "summary": "Việc hoàn thành tuyến đường ĐT722 không chỉ rút ngắn thời gian đi lại giữa Đà Lạt với Buôn Ma Thuột mà còn tháo gỡ điểm nghẽn giao thông tồn tại nhiều năm giữa khu vực Đưng K'Nớ và Đạ Long (thuộc xã Đam Rông 4).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:30:00+07:00",
+      "fetched": "2026-06-30T05:45:47.790905+07:00"
+    },
+    {
+      "id": "a380ed1732bed034f89a212b0aeaeb8c",
+      "title": "Cha làm công nhân trúng 4 tỉ xổ số miền Nam, chờ con ở TP.HCM về chia",
+      "link": "https://thanhnien.vn/cha-lam-cong-nhan-trung-4-ti-xo-so-mien-nam-cho-con-o-tphcm-ve-chia-185260628144546844.htm",
+      "summary": "Một người cha làm công nhân ở miền Tây bất ngờ trúng độc đắc 4 tỉ đồng xổ số miền Nam. Chờ 2 con từ TP.HCM về quê, ông mới đi đổi thưởng và chia tiền cho các con.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:30:00+07:00",
+      "fetched": "2026-06-30T05:45:47.791055+07:00"
+    },
+    {
+      "id": "deb6e7860c4719afaf079f004b089e55",
+      "title": "Cảnh báo thông tin 'check quy hoạch' không chính thống",
+      "link": "https://thanhnien.vn/canh-bao-thong-tin-check-quy-hoach-khong-chinh-thong-185260629230757699.htm",
+      "summary": "Ngày 29.6, cùng với Hội nghị công bố quy hoạch tổng thể thủ đô tầm nhìn 100 năm, Sở Quy hoạch - Kiến trúc phối hợp Sở VH-TT Hà Nội tổ chức không gian trưng bày giới thiệu quy hoạch thủ đô tại Bảo tàng Hà Nội để người dân có thể tìm hiểu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:29:00+07:00",
+      "fetched": "2026-06-30T05:45:47.791205+07:00"
+    },
+    {
+      "id": "38a983e8f1943536e5980b2597ca6456",
+      "title": "Hậu quả khó lường từ tin giả về tôm khô Cà Mau",
+      "link": "https://thanhnien.vn/hau-qua-kho-luong-tu-tin-gia-ve-tom-kho-ca-mau-185260629192910251.htm",
+      "summary": "Vụ người tung tin tôm khô làm từ cao su non bị triệu tập đang thu hút dư luận. Dù tin giả đã bị gỡ, nhưng thiệt hại về niềm tin và sinh kế vẫn rất nặng nề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:27:00+07:00",
+      "fetched": "2026-06-30T05:45:47.791378+07:00"
+    },
+    {
+      "id": "2d8ac7e435cc0bd3db56e92d5642981f",
+      "title": "GS Nguyễn Đình Hối, người tiên phong xây dựng BV đại học đúng nghĩa",
+      "link": "https://thanhnien.vn/gs-nguyen-dinh-hoi-nguoi-tien-phong-xay-dung-bv-dai-hoc-dung-nghia-185260629221523445.htm",
+      "summary": "Ngày 29.6, ĐH Y Dược TP.HCM và Bệnh viện ĐH Y Dược TP.HCM thông báo: Nhà giáo nhân dân - GS-TS-BS Nguyễn Đình Hối, nguyên Hiệu trưởng ĐH Y Dược TP.HCM, Giám đốc đầu tiên BV ĐH Y Dược TP.HCM, đã từ trần, hưởng thọ 92 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:25:00+07:00",
+      "fetched": "2026-06-30T05:45:47.791541+07:00"
+    },
+    {
+      "id": "0ef9912a6d83df73fd3841f5c676ce66",
+      "title": "Việt Nam sẽ tạo mọi điều kiện thuận lợi cho các doanh nghiệp nước ngoài",
+      "link": "https://thanhnien.vn/viet-nam-se-tao-moi-dieu-kien-thuan-loi-cho-cac-doanh-nghiep-nuoc-ngoai-185260629232014203.htm",
+      "summary": "Ngày 29.6, Thủ tướng Chính phủ Lê Minh Hưng đã tiếp Đại sứ các nước Hàn Quốc, Canada, Úc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:24:00+07:00",
+      "fetched": "2026-06-30T05:45:47.791690+07:00"
+    },
+    {
+      "id": "98806063de33de5b74512ccaae8a4628",
+      "title": "Công ty sản xuất cáp điện muốn 'lột xác' khi ông Đỗ Thành Nhân làm lãnh đạo",
+      "link": "https://vnexpress.net/cong-ty-san-xuat-cap-dien-muon-lot-xac-khi-ong-do-thanh-nhan-lam-lanh-dao-5091343.html",
+      "summary": "VKC Holdings - công ty chuyên sản xuất dây cáp điện - muốn đổi tên, tăng vốn 9 lần và vay 3.000 tỷ đồng để chuyển sang may mặc khi ông Đỗ Thành Nhân tham gia Hội đồng quản trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:00:00+07:00",
+      "fetched": "2026-06-30T05:45:45.012816+07:00"
+    },
+    {
+      "id": "27dc53d55c65beaf96dee5b4e6f2783d",
+      "title": "Khuôn viên 5 ha tổ chức tuyên Chân phước linh mục Trương Bửu Diệp",
+      "link": "https://vnexpress.net/khuon-vien-5-ha-to-chuc-tuyen-chan-phuoc-linh-muc-truong-buu-diep-5091195.html",
+      "summary": "Lễ đài 10.000 chỗ ngồi, khuôn viên đối diện nhà thờ Tắc Sậy đã hoàn thiện 95%, sẵn sàng phục vụ giáo dân, khách hành hương dự buổi tuyên chân phước linh mục Trương Bửu Diệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:00:00+07:00",
+      "fetched": "2026-06-30T05:45:45.013013+07:00"
+    },
+    {
+      "id": "a4c50b7fc25c6f9f986e0983ce96de3f",
+      "title": "Chiến sự Iran thúc đẩy Triều Tiên tăng năng lực hạt nhân",
+      "link": "https://vnexpress.net/chien-su-iran-thuc-day-trieu-tien-tang-nang-luc-hat-nhan-5090465.html",
+      "summary": "Chứng kiến những gì diễn ra với Iran, Triều Tiên dường như tin rằng củng cố năng lực hạt nhân là cách duy nhất để ngăn nguy cơ bị tấn công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:00:00+07:00",
+      "fetched": "2026-06-30T05:45:45.013182+07:00"
+    },
+    {
+      "id": "0505e9eca184c4753712b8a2f5598a95",
+      "title": "Trào lưu 'công nghệ chậm'",
+      "link": "https://vnexpress.net/trao-luu-cong-nghe-cham-5090421.html",
+      "summary": "Những đồ công nghệ từng bị coi là lỗi thời đang được săn đón trở lại khi nhiều người muốn \"ngắt kết nối\", giảm thời gian nhìn màn hình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:00:00+07:00",
+      "fetched": "2026-06-30T05:45:45.013351+07:00"
+    },
+    {
+      "id": "b5d748f239e119337c474694aad70a6c",
+      "title": "Thói quen đơn giản giúp đảo ngược gan nhiễm mỡ, ổn định đường huyết",
+      "link": "https://vnexpress.net/thoi-quen-don-gian-giup-dao-nguoc-gan-nhiem-mo-on-dinh-duong-huyet-5089995.html",
+      "summary": "Thói quen ngủ trước 11 giờ đêm giúp bảo vệ chức năng thận, ổn định đường huyết và cải thiện rõ rệt tình trạng gan nhiễm mỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:00:00+07:00",
+      "fetched": "2026-06-30T05:45:45.013544+07:00"
+    },
+    {
+      "id": "52a9dc82b1bc52c04bdb8c7f2bd73235",
+      "title": "Thị trường ghế trẻ em nóng lên trước 1/7",
+      "link": "https://vnexpress.net/thi-truong-ghe-tre-em-nong-len-truoc-1-7-5091001.html",
+      "summary": "Người dân tranh thủ mua sắm ghế trước 1/7 để sử dụng, số khác còn do dự vì lo ngại ghế hiện chưa được chứng nhận hợp quy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:00:00+07:00",
+      "fetched": "2026-06-30T05:45:45.013705+07:00"
+    },
+    {
+      "id": "4c3ab6826908c6f5f611b821390c5595",
+      "title": "Hãng xe Trung Quốc làm vòi rửa tự động cho 'mắt thần'",
+      "link": "https://vnexpress.net/hang-xe-trung-quoc-lam-voi-rua-tu-dong-cho-mat-than-5090448.html",
+      "summary": "Maextro S800 Grand Design có vòi xịt và cần gạt riêng cho LiDAR trên nóc xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T22:00:00+07:00",
+      "fetched": "2026-06-30T05:45:45.013870+07:00"
+    },
+    {
+      "id": "a4c50b7fc25c6f9f986e0983ce96de3f",
+      "title": "Chiến sự Iran thúc đẩy Triều Tiên tăng năng lực hạt nhân",
+      "link": "https://vnexpress.net/chien-su-iran-thuc-day-trieu-tien-tang-nang-luc-hat-nhan-5090465.html",
+      "summary": "Chứng kiến những gì diễn ra với Iran, Triều Tiên dường như tin rằng củng cố năng lực hạt nhân là cách duy nhất để ngăn nguy cơ bị tấn công.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-29T22:00:00+07:00",
+      "fetched": "2026-06-30T05:45:51.192714+07:00"
+    },
+    {
+      "id": "98806063de33de5b74512ccaae8a4628",
+      "title": "Công ty sản xuất cáp điện muốn 'lột xác' khi ông Đỗ Thành Nhân làm lãnh đạo",
+      "link": "https://vnexpress.net/cong-ty-san-xuat-cap-dien-muon-lot-xac-khi-ong-do-thanh-nhan-lam-lanh-dao-5091343.html",
+      "summary": "VKC Holdings - công ty chuyên sản xuất dây cáp điện - muốn đổi tên, tăng vốn 9 lần và vay 3.000 tỷ đồng để chuyển sang may mặc khi ông Đỗ Thành Nhân tham gia Hội đồng quản trị.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-29T22:00:00+07:00",
+      "fetched": "2026-06-30T05:45:52.091962+07:00"
+    },
+    {
+      "id": "0505e9eca184c4753712b8a2f5598a95",
+      "title": "Trào lưu 'công nghệ chậm'",
+      "link": "https://vnexpress.net/trao-luu-cong-nghe-cham-5090421.html",
+      "summary": "Những đồ công nghệ từng bị coi là lỗi thời đang được săn đón trở lại khi nhiều người muốn \"ngắt kết nối\", giảm thời gian nhìn màn hình.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-29T22:00:00+07:00",
+      "fetched": "2026-06-30T05:45:54.964829+07:00"
     },
     {
       "id": "4817bc0d0aa82abe68a8a49a2c4923cd",
