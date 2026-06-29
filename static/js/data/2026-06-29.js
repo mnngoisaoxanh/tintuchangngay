@@ -1,7 +1,157 @@
 window.newsData_2026_06_29 = {
   "date": "2026-06-29",
-  "lastUpdated": "2026-06-29T20:58:07.281919+07:00",
+  "lastUpdated": "2026-06-29T23:51:37.544603+07:00",
   "articles": [
+    {
+      "id": "1e6172f2465ea941d8bfca5b2578e38f",
+      "title": "Bác sĩ bệnh viện Chợ Rẫy và Từ Dũ cứu sản phụ bị thuyên tắc phổi tối cấp nguy kịch",
+      "link": "https://tuoitre.vn/bac-si-benh-vien-cho-ray-va-tu-du-cuu-san-phu-bi-thuyen-tac-phoi-toi-cap-nguy-kich-100260629204113467.htm",
+      "summary": "Sau ba ngày mổ lấy thai an toàn tại Bệnh viện Từ Dũ, một sản phụ ở TP.HCM bất ngờ mệt rồi ngất xỉu. Hội chẩn khẩn, các chuyên gia tim mạch Bệnh viện Chợ Rẫy xác định sản phụ bị thuyên tắc phổi tối cấp nguy kịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T23:51:30.511503+07:00",
+      "fetched": "2026-06-29T23:51:30.511600+07:00"
+    },
+    {
+      "id": "6843ec5a3cdb06206b12f1adf46a7668",
+      "title": "Mắt Việt - Nga dẫn đầu về xoá cận  ZEISS SMILE® Pro AI 4.0",
+      "link": "https://tuoitre.vn/mat-viet-nga-dan-dau-ve-xoa-can-zeiss-smile-pro-ai-40-100260629111750215.htm",
+      "summary": "Với hơn 75.000 ca phẫu thuật SMILE/SMILE Pro thành công, Hệ thống Bệnh viện Mắt Quốc tế Việt - Nga tiếp tục được Carl Zeiss Việt Nam vinh danh là đơn vị dẫn đầu trong lĩnh vực phẫu thuật khúc xạ tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T23:51:30.511091+07:00",
+      "fetched": "2026-06-29T23:51:30.511483+07:00"
+    },
+    {
+      "id": "73f03f5c8651721c3ac06c22ed64adbb",
+      "title": "Hành trình từ Asian School đến những giảng đường toàn cầu",
+      "link": "https://tuoitre.vn/hanh-trinh-tu-asian-school-den-nhung-giang-duong-toan-cau-100260629161538407.htm",
+      "summary": "Hàng loạt học sinh Trường Quốc tế Á Châu (Asian School) tiếp tục nhận thư mời nhập học từ nhiều trường đại học danh tiếng tại Mỹ, Canada, Úc, Singapore, Hà Lan, Bỉ và Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T23:51:30.511039+07:00",
+      "fetched": "2026-06-29T23:51:30.511083+07:00"
+    },
+    {
+      "id": "6a1dc175b30ce93f54e32246353ce033",
+      "title": "Quản lý tiêu hao điện năng bằng công nghệ AI trên điều hòa",
+      "link": "https://tuoitre.vn/quan-ly-tieu-hao-dien-nang-bang-cong-nghe-ai-tren-dieu-hoa-100260629164505809.htm",
+      "summary": "Dòng điều hòa LG DUALCOOL AI mới từ LG giúp người dùng kiểm soát chi phí ngay trên ứng dụng điều khiển thông minh LG ThinQ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T23:51:30.510987+07:00",
+      "fetched": "2026-06-29T23:51:30.511031+07:00"
+    },
+    {
+      "id": "eea1c9382783d2402920c00fa7d63d9d",
+      "title": "CLB TP.HCM I thắng trận thứ 3 liên tiếp ở Giải bóng đá nữ VĐQG",
+      "link": "https://tuoitre.vn/clb-tphcm-i-thang-tran-thu-3-lien-tiep-o-giai-bong-da-nu-vdqg-10026062920575724.htm",
+      "summary": "Đương kim vô địch CLB TP.HCM I đã thắng trận thứ 3 liên tiếp tại Giải bóng đá nữ VĐQG - Cúp Thái Sơn Bắc 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T23:51:30.510934+07:00",
+      "fetched": "2026-06-29T23:51:30.510979+07:00"
+    },
+    {
+      "id": "a5e0e63df8a0aa4b04874e615d5ceca9",
+      "title": "'Ghế nóng' tại Chứng khoán VIX đổi chủ",
+      "link": "https://tuoitre.vn/ghe-nong-tai-chung-khoan-vix-doi-chu-100260629202421089.htm",
+      "summary": "Chỉ 3 ngày sau đại hội cổ đông thường niên, Chứng khoán VIX thay đổi cả Chủ tịch hội đồng quản trị và Tổng giám đốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T23:51:30.510881+07:00",
+      "fetched": "2026-06-29T23:51:30.510926+07:00"
+    },
+    {
+      "id": "8151bac1898b2999ba2dd1f517302ced",
+      "title": "Apple đối đầu cơ quan chống độc quyền Ấn Độ",
+      "link": "https://tuoitre.vn/apple-doi-dau-co-quan-chong-doc-quyen-an-do-100260629205745473.htm",
+      "summary": "Apple cáo buộc cơ quan chống độc quyền của Ấn Độ đã sao chép các lập luận từ đối thủ thay vì tự điều tra, đồng thời đề nghị hủy kết luận cho rằng hãng vi phạm luật cạnh tranh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T23:51:30.510826+07:00",
+      "fetched": "2026-06-29T23:51:30.510873+07:00"
+    },
+    {
+      "id": "caf045656e00d6f64ae7b81940cec054",
+      "title": "Tiễn biệt GS Nguyễn Đình Hối, một tượng đài của ngành y",
+      "link": "https://tuoitre.vn/tien-biet-gs-nguyen-dinh-hoi-mot-tuong-dai-cua-nganh-y-100260629210948971.htm",
+      "summary": "Từ 3 giờ chiều ngày 29-6, tại Nhà tang lễ quốc gia phía Nam, dòng người lặng lẽ nối dài không dứt. Những vòng hoa trắng, những bước chân chậm rãi, những cái cúi đầu thật sâu…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T23:51:30.510771+07:00",
+      "fetched": "2026-06-29T23:51:30.510818+07:00"
+    },
+    {
+      "id": "99481a15cd11aba2b3878371e823b413",
+      "title": "Tiếp viên hãng Thai Airways bị bắt vì nghi tuồn hơn 1kg heroin vào Úc",
+      "link": "https://tuoitre.vn/tiep-vien-hang-thai-airways-bi-bat-vi-nghi-tuon-hon-1kg-heroin-vao-uc-100260629212758364.htm",
+      "summary": "Cảnh sát Liên bang Úc cho biết đã bắt giữ và truy tố một nữ tiếp viên hàng không người Thái Lan với cáo buộc nhập khẩu trái phép hơn 1kg heroin vào thành phố Melbourne.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T23:51:30.510709+07:00",
+      "fetched": "2026-06-29T23:51:30.510762+07:00"
+    },
+    {
+      "id": "c85e610acb68eb05fe149708f11a9d65",
+      "title": "Trực tuyến Brazil - Nhật Bản (0h ngày 30-6): Cunha, Vinicius đá chính",
+      "link": "https://tuoitre.vn/truc-tuyen-brazil-nhat-ban-0h-ngay-30-6-cho-bat-ngo-den-tu-nhat-ban-100260629101757971.htm",
+      "summary": "Trong trận đấu với Nhật Bản, Brazil sẽ ra sân với sơ đồ 3 tiền đạo là Ryan, Cunha và Vinicius. Mời bạn đọc theo dõi diễn biến trận đấu này trên Tuổi Trẻ Online.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T23:51:30.510652+07:00",
+      "fetched": "2026-06-29T23:51:30.510701+07:00"
+    },
+    {
+      "id": "bdc3e59a253cca703e78b6251a26ee80",
+      "title": "Thủ tướng bổ nhiệm Tổng giám đốc Ngân hàng Chính sách xã hội",
+      "link": "https://tuoitre.vn/thu-tuong-bo-nhiem-tong-giam-doc-ngan-hang-chinh-sach-xa-hoi-100260629210449457.htm",
+      "summary": "Bà Nguyễn Thị Hằng được Thủ tướng Chính phủ bổ nhiệm giữ chức Ủy viên hội đồng quản trị, Tổng giám đốc Ngân hàng Chính sách xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T23:51:30.510591+07:00",
+      "fetched": "2026-06-29T23:51:30.510644+07:00"
+    },
+    {
+      "id": "7e0f506a272dd528f5026d22991102c5",
+      "title": "Phó bí thư Thành ủy TP.HCM Đặng Minh Thông: Cần Giờ, Thạnh An cần gỡ vướng đất đai, đẩy nhanh đầu tư công",
+      "link": "https://tuoitre.vn/pho-bi-thu-thanh-uy-tphcm-dang-minh-thong-can-gio-thanh-an-can-go-vuong-dat-dai-day-nhanh-dau-tu-cong-100260629141501798.htm",
+      "summary": "Ngày 29-6, Phó bí thư Thành ủy TP.HCM Đặng Minh Thông dẫn đầu đoàn công tác đến làm việc với Ban Thường vụ Đảng ủy xã Cần Giờ và xã Thạnh An.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T23:51:30.510528+07:00",
+      "fetched": "2026-06-29T23:51:30.510583+07:00"
+    },
+    {
+      "id": "0a39b4d91215793034a6fda23893df1d",
+      "title": "Hàng loạt khu nhà ở công Venezuela sập sau động đất, chất lượng xây dựng bị đặt dấu hỏi",
+      "link": "https://tuoitre.vn/hang-loat-khu-nha-o-cong-venezuela-sap-sau-dong-dat-chat-luong-xay-dung-bi-dat-dau-hoi-10026062921571649.htm",
+      "summary": "Sau động đất kép, các kỹ sư ở Venezuela đang kêu gọi chính phủ nhanh chóng kiểm định các khu nhà ở công để ngăn nguy cơ sập đổ tiếp diễn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T23:51:30.510462+07:00",
+      "fetched": "2026-06-29T23:51:30.510519+07:00"
+    },
+    {
+      "id": "309e2c5b13e2f862844f76ccee5eceb7",
+      "title": "Phó thủ tướng thường trực Chính phủ: Chủ động khai thác khoáng sản trong nước, tránh phụ thuộc nhập khẩu",
+      "link": "https://tuoitre.vn/pho-thu-tuong-thuong-truc-chinh-phu-chu-dong-khai-thac-khoang-san-trong-nuoc-tranh-phu-thuoc-nhap-khau-100260629214110153.htm",
+      "summary": "Ngày 29-6, Phó thủ tướng thường trực Chính phủ Phạm Gia Túc đã làm việc với Tập đoàn Công nghiệp than - khoáng sản Việt Nam (Vinacomin).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T23:51:30.510376+07:00",
+      "fetched": "2026-06-29T23:51:30.510437+07:00"
+    },
+    {
+      "id": "ff72ffe5321259f05b33616852705f17",
+      "title": "Chuẩn bị công tác quy hoạch cán bộ cấp chiến lược nhiệm kỳ Đại hội XV và xa hơn",
+      "link": "https://tuoitre.vn/chuan-bi-cong-tac-quy-hoach-can-bo-cap-chien-luoc-nhiem-ky-dai-hoi-xv-va-xa-hon-100260629214349636.htm",
+      "summary": "Trưởng Ban Tổ chức Trung ương Nguyễn Duy Ngọc đề nghị chuẩn bị công tác quy hoạch cán bộ cấp chiến lược nhiệm kỳ Đại hội XV và xa hơn theo lộ trình, chương trình làm việc của Ban Chấp hành Trung ương khóa XIV đã đề ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T23:51:30.510193+07:00",
+      "fetched": "2026-06-29T23:51:30.510362+07:00"
+    },
     {
       "id": "934bef6da6c0d8de89ef0584b460d133",
       "title": "Hàng ngàn người đổ về Bảo tàng Hà Nội, xếp hàng xem bản quy hoạch thủ đô tầm nhìn 100 năm",
@@ -151,6 +301,56 @@ window.newsData_2026_06_29 = {
       "category": "Tổng hợp",
       "published": "2026-06-29T20:57:57.611905+07:00",
       "fetched": "2026-06-29T20:57:57.612053+07:00"
+    },
+    {
+      "id": "46dafffdddc9c58a4f937f7bd9194c1b",
+      "title": "Son Heung-min viết tâm thư xúc động rồi... xóa: 'Tôi đau đớn khi giấc mơ sụp đổ'",
+      "link": "https://thanhnien.vn/son-heung-min-viet-tam-thu-xuc-dong-roi-xoa-toi-dau-don-khi-giac-mo-sup-do-185260629225244861.htm",
+      "summary": "Trên trang cá nhân, Son Heung-min thừa nhận thất bại của Hàn Quốc là nỗi đau khó nuốt trôi với chính anh và khán giả nước nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T16:51:00+07:00",
+      "fetched": "2026-06-29T23:51:28.397289+07:00"
+    },
+    {
+      "id": "c1fd0f70889a8f8e220c97bcfefdd750",
+      "title": "HLV Canada thách thức quê hương: ‘Không quan tâm’ trước trận Mỹ vs Bosnia & Herzegovina",
+      "link": "https://thanhnien.vn/hlv-canada-thach-thuc-que-huong-khong-quan-tam-truoc-tran-my-vs-bosnia-herzegovina-185260629221724164.htm",
+      "summary": "Sau khi giúp Canada có chiến thắng lịch sử, dù là người Mỹ nhưng HLV Jesse Marsch khẳng định 'không quan tâm' cho lời khuyên trước trận Mỹ vs Bosnia & Herzegovina tại vòng 32 đội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T16:47:00+07:00",
+      "fetched": "2026-06-29T23:51:28.397459+07:00"
+    },
+    {
+      "id": "db7ddb91c27cd8d639472cb3603292f4",
+      "title": "100 cảnh sát bảo vệ HLV Hàn Quốc tại sân bay, KFA chính thức bị điều tra",
+      "link": "https://thanhnien.vn/100-canh-sat-bao-ve-hlv-han-quoc-tai-san-bay-kfa-chinh-thuc-bi-dieu-tra-185260629222123446.htm",
+      "summary": "Sau thất bại của đội tuyển Hàn Quốc tại World Cup 2026, làn sóng phẫn nộ từ người hâm mộ vẫn chưa có dấu hiệu hạ nhiệt. Trong bối cảnh HLV Hong Myung-bo nhận nhiều lời đe dọa trên mạng xã hội, lực lượng chức năng Hàn Quốc quyết định triển khai các biện pháp nhằm đảm bảo an ninh khi ông cùng các tuyể...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T16:38:00+07:00",
+      "fetched": "2026-06-29T23:51:28.397599+07:00"
+    },
+    {
+      "id": "136c327c85abd6b3267cee432e534a87",
+      "title": "Tổng thống Hàn Quốc gây chú ý khi giành trả tiền cho vợ",
+      "link": "https://vnexpress.net/tong-thong-han-quoc-gay-chu-y-khi-gianh-tra-tien-cho-vo-5091333.html",
+      "summary": "Khoảnh khắc Tổng thống Hàn Quốc lập tức rút ví trả tiền khi vợ vừa hỏi giá tại chợ Paldalmun thu hút sự chú ý trên mạng xã hội.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-29T16:16:13+07:00",
+      "fetched": "2026-06-29T23:51:31.856948+07:00"
+    },
+    {
+      "id": "4398c0e167737979b0603b945bc9476a",
+      "title": "Brazil - Nhật Bản: Vinicius đá chính, Neymar dự bị",
+      "link": "https://vnexpress.net/brazil-vs-nhat-ban-5091331.html",
+      "summary": "Trận cầu đinh vòng 1/16 World Cup giữa Brazil và Nhật Bản diễn ra lúc 0h trên sân Houston.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-29T16:00:00+07:00",
+      "fetched": "2026-06-29T23:51:37.534382+07:00"
     },
     {
       "id": "3515e6027bb6f043f531fd5530a47215",
@@ -303,6 +503,256 @@ window.newsData_2026_06_29 = {
       "fetched": "2026-06-29T15:49:32.923825+07:00"
     },
     {
+      "id": "91c11bf4c4406b3116a23f6c820a1ff7",
+      "title": "Tương quan trước trận Hà Lan - Morocco",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-ha-lan-morocco-5091335.html",
+      "summary": "Hà Lan đối đầu Morocco, trong cặp đấu được đánh giá hấp dẫn bậc nhất vòng 1/16 World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T15:41:55+07:00",
+      "fetched": "2026-06-29T23:51:24.991985+07:00"
+    },
+    {
+      "id": "91c11bf4c4406b3116a23f6c820a1ff7",
+      "title": "Tương quan trước trận Hà Lan - Morocco",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-ha-lan-morocco-5091335.html",
+      "summary": "Hà Lan đối đầu Morocco, trong cặp đấu được đánh giá hấp dẫn bậc nhất vòng 1/16 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-29T15:41:55+07:00",
+      "fetched": "2026-06-29T23:51:37.534561+07:00"
+    },
+    {
+      "id": "6b4f04e272aa13caf5466ddb1c01ccdc",
+      "title": "Hà Nội dự kiến phát hành 200.000 tỷ đồng trái phiếu làm các dự án trọng điểm",
+      "link": "https://vnexpress.net/ha-noi-du-kien-phat-hanh-200-000-ty-dong-trai-phieu-lam-cac-du-an-trong-diem-5091327.html",
+      "summary": "Hà Nội dự kiến phát hành các loại trái phiếu huy động 150.000-200.000 tỷ đồng để phục vụ các dự án trọng điểm, đặc biệt là đường sắt đô thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T15:26:39+07:00",
+      "fetched": "2026-06-29T23:51:24.992153+07:00"
+    },
+    {
+      "id": "6b4f04e272aa13caf5466ddb1c01ccdc",
+      "title": "Hà Nội dự kiến phát hành 200.000 tỷ đồng trái phiếu làm các dự án trọng điểm",
+      "link": "https://vnexpress.net/ha-noi-du-kien-phat-hanh-200-000-ty-dong-trai-phieu-lam-cac-du-an-trong-diem-5091327.html",
+      "summary": "Hà Nội dự kiến phát hành các loại trái phiếu huy động 150.000-200.000 tỷ đồng để phục vụ các dự án trọng điểm, đặc biệt là đường sắt đô thị.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-29T15:26:39+07:00",
+      "fetched": "2026-06-29T23:51:33.307964+07:00"
+    },
+    {
+      "id": "3a97f749a0fbcfe4dccbb001a67b011d",
+      "title": "Cha và con, bé sơ sinh cùng mẹ được cứu sau khi bị động đất chôn vùi ở Venezuela",
+      "link": "https://thanhnien.vn/cha-va-con-be-so-sinh-cung-me-duoc-cuu-sau-khi-bi-dong-dat-chon-vui-o-venezuela-18526062919135047.htm",
+      "summary": "Một người cha và con trai của ông đã được kéo ra khỏi đống đổ nát của một tòa nhà bị sập vào ngày 28.6, bốn ngày sau trận động đất tàn khốc xảy ra tại Venezuela.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T15:23:00+07:00",
+      "fetched": "2026-06-29T23:51:28.397725+07:00"
+    },
+    {
+      "id": "78578099a8ec9a5e676d5c3d16a10d04",
+      "title": "Malaysia giải thích tiến độ tìm kiếm máy bay mất tích MH370",
+      "link": "https://thanhnien.vn/malaysia-giai-thich-tien-do-tim-kiem-may-bay-mat-tich-mh370-185260629213458507.htm",
+      "summary": "Malaysia gia hạn thêm một năm thỏa thuận với Công ty thăm dò biển sâu Ocean Infinity (Anh) để tiếp tục tìm kiếm dưới nước chiếc máy bay MH370 mất tích của Hãng Malaysia Airlines.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T15:20:00+07:00",
+      "fetched": "2026-06-29T23:51:28.397850+07:00"
+    },
+    {
+      "id": "7bafe8cecfe3cfc1ea938992b7d40513",
+      "title": "Số tàu qua Hormuz giảm mạnh sau các vụ tập kích",
+      "link": "https://vnexpress.net/so-tau-qua-hormuz-giam-manh-sau-cac-vu-tap-kich-5091315.html",
+      "summary": "Lưu lượng tàu thuyền qua eo biển Hormuz giảm hơn một nửa, sau hai vụ tàu hàng bị tấn công, đẩy căng thẳng Mỹ - Iran leo thang trở lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T15:17:05+07:00",
+      "fetched": "2026-06-29T23:51:24.992290+07:00"
+    },
+    {
+      "id": "7bafe8cecfe3cfc1ea938992b7d40513",
+      "title": "Số tàu qua Hormuz giảm mạnh sau các vụ tập kích",
+      "link": "https://vnexpress.net/so-tau-qua-hormuz-giam-manh-sau-cac-vu-tap-kich-5091315.html",
+      "summary": "Lưu lượng tàu thuyền qua eo biển Hormuz giảm hơn một nửa, sau hai vụ tàu hàng bị tấn công, đẩy căng thẳng Mỹ - Iran leo thang trở lại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-29T15:17:05+07:00",
+      "fetched": "2026-06-29T23:51:31.857107+07:00"
+    },
+    {
+      "id": "a26cb2861f5f753c08416f644af6b999",
+      "title": "'Chủ động mỗi ngày, thảnh thơi một đời'",
+      "link": "https://vnexpress.net/chu-dong-moi-ngay-thanh-thoi-mot-doi-5091158.html",
+      "summary": "Khi biết cách sống tốt một ngày, chúng ta sẽ biết cách sống tốt nhiều ngày. Và khi những ngày tốt đẹp nối tiếp nhau, một cuộc đời thảnh thơi sẽ dần hình thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T15:14:32+07:00",
+      "fetched": "2026-06-29T23:51:24.992425+07:00"
+    },
+    {
+      "id": "837efca2e993ccf1e228cf653e839565",
+      "title": "Khách xem World Cup 'khó hiểu' với văn hóa tiền boa ở Mỹ",
+      "link": "https://vnexpress.net/khach-xem-world-cup-kho-hieu-voi-van-hoa-tien-boa-o-my-5091240.html",
+      "summary": "Nhiều cổ động viên quốc tế đến Mỹ xem World Cup cho biết không hài lòng với văn hóa tiền boa, nhận xét đó là khoản tiền \"khó hiểu và tốn kém\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T15:14:22+07:00",
+      "fetched": "2026-06-29T23:51:24.992621+07:00"
+    },
+    {
+      "id": "c3039ed0c17d38fa0adc3ae4430cd92a",
+      "title": "Cử nhân bằng giỏi chấp nhận lương 'chạm đáy' để có việc",
+      "link": "https://vnexpress.net/cu-nhan-bang-gioi-chap-nhan-luong-cham-day-de-co-viec-5091303.html",
+      "summary": "Thị trường việc làm ảm đạm, nhiều cử nhân phải \"đấu tranh tâm lý\" để làm thực tập sinh với trợ cấp chưa bằng một nửa lương khởi điểm bình quân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T15:10:02+07:00",
+      "fetched": "2026-06-29T23:51:24.992753+07:00"
+    },
+    {
+      "id": "7aad4dec6ce21e46d1599b8ffdb377c1",
+      "title": "Xả súng ở Đức khiến 5 người thiệt mạng",
+      "link": "https://thanhnien.vn/xa-sung-o-duc-khien-5-nguoi-thiet-mang-185260629215804953.htm",
+      "summary": "Giới chức năng hôm 29.6 xác nhận 5 người đã tử vong trong vụ xả súng ở Đức, cụ thể tại trung tâm phúc lợi dành cho giới trẻ ở thành phố Stade, phía tây Hamburg, và tay súng đã bị bắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T15:05:00+07:00",
+      "fetched": "2026-06-29T23:51:28.397974+07:00"
+    },
+    {
+      "id": "6acfa94b27b0bbdaa9fbb6483375fe23",
+      "title": "World Cup 2026, Brazil 0-0 Nhật Bản: Chiến thắng gây sốc cho 'Samurai xanh'?",
+      "link": "https://thanhnien.vn/world-cup-2026-brazil-nhat-ban-chien-thang-gay-soc-cho-samurai-xanh-185260629160534869.htm",
+      "summary": "Tinh thần thi đấu và kỷ luật chiến thuật là hai yếu tố then chốt giúp Nhật Bản mơ về cuộc lật đổ trước cựu vương thế giới Brazil, ở trận đấu vòng knock-out World Cup 2026 diễn ra lúc 0 giờ ngày 30.6.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T15:05:00+07:00",
+      "fetched": "2026-06-29T23:51:28.398095+07:00"
+    },
+    {
+      "id": "48f6833e4417cab3d225d4d95e128589",
+      "title": "Vụ 6 cựu chiến binh kêu oan: Viện kiểm sát đề nghị bác kháng cáo",
+      "link": "https://thanhnien.vn/vu-6-cuu-chien-binh-keu-oan-vien-kiem-sat-de-nghi-bac-khang-cao-185260629210825472.htm",
+      "summary": "Theo Viện KSND tỉnh Lâm Đồng 6 cựu chiến binh kêu oan tội hủy hoại rừng là không có căn cứ, cấp sơ thẩm phạt mức án từ 6 - 7 tháng tù là đúng người, đúng tội. Ngày 29.6.2026, TAND tỉnh Lâm Đồng mở phiên tòa xét xử phúc thẩm lần 3 vụ án 6 cựu chiến binh kêu oan tội hủy hoại rừng với mức án từ 6 - 7 t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T14:33:00+07:00",
+      "fetched": "2026-06-29T23:51:28.398217+07:00"
+    },
+    {
+      "id": "f23b012b435a03969ca678bbee42df04",
+      "title": "Huỳnh Như cùng CLB TP.HCM I đánh bại Hà Nội I ở trận 'siêu kinh điển'",
+      "link": "https://thanhnien.vn/huynh-nhu-cung-clb-tphcm-i-danh-bai-ha-noi-i-o-tran-sieu-kinh-dien-185260629213134537.htm",
+      "summary": "Chiều 29.6, CLB nữ TP.HCM I đã giành chiến thắng tối thiểu 1-0 trước Hà Nội I ở trận cầu tâm điểm vòng 3 giải bóng đá nữ vô địch quốc gia – Cúp Thái Sơn Bắc 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T14:32:00+07:00",
+      "fetched": "2026-06-29T23:51:28.398340+07:00"
+    },
+    {
+      "id": "18842b306a6d8ec8cb96cdc243065941",
+      "title": "Không để khi thiên tai xảy ra mới hỏi dân ở đâu",
+      "link": "https://thanhnien.vn/khong-de-khi-thien-tai-xay-ra-moi-hoi-dan-o-dau-185260629195727184.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước nhấn mạnh, phải bảo vệ an toàn tính mạng nhân dân trong mọi tình huống; không để khi thiên tai xảy ra mới hỏi dân ở đâu, ai cần cứu trước, vật tư ở đâu, lực lượng nào đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T14:32:00+07:00",
+      "fetched": "2026-06-29T23:51:28.398471+07:00"
+    },
+    {
+      "id": "5144b2541887d709804556be971e3985",
+      "title": "Phát Đạt vay hơn 8.800 tỷ đồng rót vào 'siêu dự án' Thủ Thiêm",
+      "link": "https://vnexpress.net/phat-dat-vay-hon-8-800-ty-dong-rot-vao-sieu-du-an-thu-thiem-5091309.html",
+      "summary": "Phát Đạt vay ngân hàng MB tối đa 8.835 tỷ đồng trong 8 năm để có nguồn lực tài chính tham gia dự án Lotte Eco Smart City tại Thủ Thiêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T14:31:53+07:00",
+      "fetched": "2026-06-29T23:51:24.992894+07:00"
+    },
+    {
+      "id": "5144b2541887d709804556be971e3985",
+      "title": "Phát Đạt vay hơn 8.800 tỷ đồng rót vào 'siêu dự án' Thủ Thiêm",
+      "link": "https://vnexpress.net/phat-dat-vay-hon-8-800-ty-dong-rot-vao-sieu-du-an-thu-thiem-5091309.html",
+      "summary": "Phát Đạt vay ngân hàng MB tối đa 8.835 tỷ đồng trong 8 năm để có nguồn lực tài chính tham gia dự án Lotte Eco Smart City tại Thủ Thiêm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-29T14:31:53+07:00",
+      "fetched": "2026-06-29T23:51:33.308119+07:00"
+    },
+    {
+      "id": "fb470c8ea52fc8449a780e5783b8a2f9",
+      "title": "Man City chi hơn 22 triệu USD để bổ nhiệm HLV Maresca",
+      "link": "https://vnexpress.net/man-city-chi-hon-22-trieu-usd-de-bo-nhiem-hlv-maresca-5091317.html",
+      "summary": "Man City thông báo bổ nhiệm Enzo Maresca làm HLV trưởng theo hợp đồng ba năm, và phải trả 22,5 triệu USD bồi thường cho Chelsea để hoàn tất thương vụ này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T14:29:10+07:00",
+      "fetched": "2026-06-29T23:51:24.993025+07:00"
+    },
+    {
+      "id": "fb470c8ea52fc8449a780e5783b8a2f9",
+      "title": "Man City chi hơn 22 triệu USD để bổ nhiệm HLV Maresca",
+      "link": "https://vnexpress.net/man-city-chi-hon-22-trieu-usd-de-bo-nhiem-hlv-maresca-5091317.html",
+      "summary": "Man City thông báo bổ nhiệm Enzo Maresca làm HLV trưởng theo hợp đồng ba năm, và phải trả 22,5 triệu USD bồi thường cho Chelsea để hoàn tất thương vụ này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-29T14:29:10+07:00",
+      "fetched": "2026-06-29T23:51:37.534700+07:00"
+    },
+    {
+      "id": "d66ce6e9b0ba51d7a50dbbcd93cbfa28",
+      "title": "Từ 1.7, xe bán tải được lưu hành như ô tô con",
+      "link": "https://thanhnien.vn/tu-17-xe-ban-tai-duoc-luu-hanh-nhu-o-to-con-185260629210141571.htm",
+      "summary": "Từ ngày 1.7 tới đây, xe bán tải thuộc nhóm ô tô tải pickup cabin kép và xe ô tô tải Van có khối lượng toàn bộ không lớn hơn 3.500 kg được tổ chức giao thông như đối với xe ô tô con, theo quy định mới vừa được Chính phủ ban hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T14:09:00+07:00",
+      "fetched": "2026-06-29T23:51:28.398602+07:00"
+    },
+    {
+      "id": "ba7fdd20a9aa3b9b918229c46ecf281e",
+      "title": "Điểm tin 21h: Loạt tàu cá bị thiêu rụi ở đầm Thị Nại | Thu hồi cặp dầu gội, xả 'made in Việt Nam'",
+      "link": "https://vnexpress.net/diem-tin-21h-loat-tau-ca-bi-thieu-rui-o-dam-thi-nai-thu-hoi-cap-dau-goi-xa-made-in-viet-nam-5091266.html",
+      "summary": "Nổ súng ở Đức, ít nhất 5 người chết; Chủ tịch TP HCM muốn hoàn thành cải tạo rạch Xuyên Tâm sớm một năm;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T14:07:45+07:00",
+      "fetched": "2026-06-29T23:51:24.993155+07:00"
+    },
+    {
+      "id": "f502dffcbe118c789e7f1cbc941e3226",
+      "title": "Xe bán tải đến 3,5 tấn được lưu thông như ôtô con từ 1/7",
+      "link": "https://vnexpress.net/xe-ban-tai-den-3-5-tan-duoc-luu-thong-nhu-oto-con-tu-1-7-5091307.html",
+      "summary": "Ôtô tải pickup cabin kép và xe tải van có khối lượng toàn bộ đến 3,5 tấn, được tổ chức giao thông như ôtô con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T14:00:02+07:00",
+      "fetched": "2026-06-29T23:51:24.993278+07:00"
+    },
+    {
+      "id": "b2529f51eda44b52b68b39001c3e5ba0",
+      "title": "Bạn gái bên tôi nhưng trong tim lại mang hình bóng khác",
+      "link": "https://vnexpress.net/ban-gai-ben-toi-nhung-trong-tim-lai-mang-hinh-bong-khac-5091245.html",
+      "summary": "Khi tôi hỏi, em nói vẫn còn yêu người đó nhưng vì gia đình, vì tình nghĩa chín năm nên đã chọn tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T14:00:00+07:00",
+      "fetched": "2026-06-29T23:51:24.993400+07:00"
+    },
+    {
+      "id": "0a9e54e6edcbdfecd7f7301421e02dfa",
+      "title": "Vòng bảng World Cup: Khắp châu Á là những trận thua hàng đầu",
+      "link": "https://vnexpress.net/world-cup-2026-han-quoc-bi-loai-phoi-bay-trinh-do-bong-da-chau-a-5090928.html",
+      "summary": "World Cup 2026 phơi bày bài toán trình độ và thể lực mà bóng đá châu Á vẫn chưa thể giải quyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T14:00:00+07:00",
+      "fetched": "2026-06-29T23:51:24.993537+07:00"
+    },
+    {
       "id": "529a3890458d141e12b16964332c305b",
       "title": "Trực tiếp World Cup 2026, đội tuyển Hà Lan vs Ma Rốc: Nảy lửa!",
       "link": "https://thanhnien.vn/truc-tiep-world-cup-2026-doi-tuyen-ha-lan-vs-ma-roc-nay-lua-185260629174725572.htm",
@@ -331,6 +781,16 @@ window.newsData_2026_06_29 = {
       "category": "Tổng hợp",
       "published": "2026-06-29T13:53:00+07:00",
       "fetched": "2026-06-29T20:57:55.657855+07:00"
+    },
+    {
+      "id": "063942f2990cde9dad2f9b77de3be555",
+      "title": "Nhân chứng kể khoảnh khắc lửa thiêu rụi hơn 10 tàu cá ở đầm Thị Nại",
+      "link": "https://vnexpress.net/nhan-chung-ke-khoanh-khac-lua-thieu-rui-hon-10-tau-ca-o-dam-thi-nai-5091312.html",
+      "summary": "Chứng kiến lửa bùng lên trên một tàu cá neo đậu ở đầm Thị Nại, ông Quốc Trung cho biết chỉ trong 10 phút, lửa đã lan sang các tàu bên cạnh, thiêu rụi hơn chục chiếc trong vài giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T13:52:13+07:00",
+      "fetched": "2026-06-29T23:51:24.993660+07:00"
     },
     {
       "id": "9d90bb1b284319d10135a3ed392d5188",
