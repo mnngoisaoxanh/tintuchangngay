@@ -1,7 +1,17 @@
 window.newsData_2026_07_01 = {
   "date": "2026-07-01",
-  "lastUpdated": "2026-07-01T02:42:19.354528+07:00",
+  "lastUpdated": "2026-07-01T04:22:01.980343+07:00",
   "articles": [
+    {
+      "id": "8b92b16eb9305ce61084ec1431b5fcc0",
+      "title": "Trực tuyến Pháp - Thụy Điển (4h): Chờ đôi công rực lửa",
+      "link": "https://tuoitre.vn/truc-tuyen-phap-thuy-dien-4h-cho-doi-cong-ruc-lua-100260630164143982.htm",
+      "summary": "Tuổi Trẻ sẽ trực tuyến trận đấu giữa tuyển Pháp với Thụy Điển ở vòng 32 đội World Cup 2026 vào lúc 4h ngày 1-7, mời bạn đọc đón theo dõi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T04:21:55.823012+07:00",
+      "fetched": "2026-07-01T04:21:55.823173+07:00"
+    },
     {
       "id": "6e2b322071783f78b28060b2afd647eb",
       "title": "23 thí sinh đầu tiên trúng tuyển Học viện Kỹ thuật quân sự năm 2026",
@@ -151,6 +161,76 @@ window.newsData_2026_07_01 = {
       "category": "Tổng hợp",
       "published": "2026-07-01T02:42:12.711393+07:00",
       "fetched": "2026-07-01T02:42:12.711542+07:00"
+    },
+    {
+      "id": "afdbc4200d64270ecb6b4e852b012689",
+      "title": "8 điểm mới trong sát hạch lái xe từ tháng 7/2026-1/2028",
+      "link": "https://vnexpress.net/8-diem-moi-trong-sat-hach-lai-xe-tu-thang-7-2026-1-2028-5091818.html",
+      "summary": "Từ tháng 7, sát hạch lái xe bỏ thi mô phỏng, đồng thời có lộ trình bổ sung tình huống thực hành trên đường, tăng độ khó lý thuyết từ 2027-2028.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T21:00:00+07:00",
+      "fetched": "2026-07-01T04:21:51.520231+07:00"
+    },
+    {
+      "id": "60c1ec01b95d7166ac1b805180bfa02a",
+      "title": "Có nên bán căn hộ khi tiền thuê không bù nổi mức giảm giá?",
+      "link": "https://vnexpress.net/co-nen-ban-can-ho-khi-tien-thue-khong-bu-noi-muc-giam-gia-5091162.html",
+      "summary": "Căn hộ đang cho thuê 9 triệu đồng mỗi tháng, trong khi giá bán giảm từ 4,5 tỷ xuống 5 tỷ đồng, tôi phân vân giữa giữ tài sản tạo dòng tiền và bán sớm để bảo toàn vốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T21:00:00+07:00",
+      "fetched": "2026-07-01T04:21:51.520418+07:00"
+    },
+    {
+      "id": "1672a840dc1e4569438e9746732aa14d",
+      "title": "Kết quả World Cup 2026: Erling Haaland rực sáng, Na Uy đụng độ Brazil",
+      "link": "https://thanhnien.vn/ket-qua-world-cup-2026-erling-haaland-ruc-sang-na-uy-dung-do-brazil-185260701031854281.htm",
+      "summary": "Ngôi sao Erling Haaland ghi bàn thắng quyết định ở những phút cuối giúp đội tuyển Na Uy tiến vào vòng 16 đội tại World Cup 2026 sau với chiến thắng kịch tính 2-1 trước Bờ Biển Ngà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T20:32:00+07:00",
+      "fetched": "2026-07-01T04:21:54.274088+07:00"
+    },
+    {
+      "id": "7693941f9b727ec50d0bc085f66c8ee5",
+      "title": "Pháp - Thụy Điển: Mbappe đối đầu Gyokeres",
+      "link": "https://vnexpress.net/phap-thuy-dien-mbappe-doi-dau-gyokeres-5091837.html",
+      "summary": "Các ngôi sao tấn công gồm Kylian Mbappe, Ousmane Dembele (Pháp) hay Viktor Gyokeres, Alexander Isak (Thụy Điển) đều đá chính trận vòng 1/16 World Cup 2026 lúc 4h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T20:30:00+07:00",
+      "fetched": "2026-07-01T04:21:51.520598+07:00"
+    },
+    {
+      "id": "7693941f9b727ec50d0bc085f66c8ee5",
+      "title": "Pháp 0-0 Thụy Điển (H1): Gyokeres phối hợp với Isak",
+      "link": "https://vnexpress.net/phap-thuy-dien-mbappe-doi-dau-gyokeres-5091837.html",
+      "summary": "Các ngôi sao tấn công gồm Kylian Mbappe, Ousmane Dembele (Pháp) hay Viktor Gyokeres, Alexander Isak (Thụy Điển) đều đá chính trận vòng 1/16 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-30T20:30:00+07:00",
+      "fetched": "2026-07-01T04:22:01.975369+07:00"
+    },
+    {
+      "id": "01f85b0c147d02d6ed46e730aadda85f",
+      "title": "Haaland khiến cha bật khóc vì hạnh phúc, vượt mặt Ronaldo ở thống kê gây bất ngờ tại World Cup",
+      "link": "https://thanhnien.vn/haaland-khien-cha-bat-khoc-vi-hanh-phuc-vuot-mat-ronaldo-o-thong-ke-gay-bat-ngo-tai-world-cup-185260701032206329.htm",
+      "summary": "Haaland ghi bàn thắng vàng giúp Na Uy làm nên lịch sử tại World Cup 2026, khiến cha anh bật khóc vì hạnh phúc. Tiền đạo 25 tuổi còn gây chú ý khi sở hữu thành tích ở vòng knock-out mà Cristiano Ronaldo chưa từng có.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T20:24:00+07:00",
+      "fetched": "2026-07-01T04:21:54.274271+07:00"
+    },
+    {
+      "id": "7475af10c739370239ac0c35fffe967e",
+      "title": "Biến động điểm chuẩn thi tốt nghiệp của Đại học Thương mại",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-thuong-mai-nam-2025-2024-2023-day-du-nhat-5091256.html",
+      "summary": "Trong ba năm 2023-2025, điểm chuẩn xét từ điểm thi tốt nghiệp THPT của trường Đại học Thương mại (TMU) ít biến động, phổ biến ở mức 24-26/30 điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T20:08:00+07:00",
+      "fetched": "2026-07-01T04:21:51.520758+07:00"
     },
     {
       "id": "c64c1219d10e482ceae6558f6fc45d3d",
@@ -411,6 +491,16 @@ window.newsData_2026_07_01 = {
       "category": "Thể thao",
       "published": "2026-06-30T16:00:06+07:00",
       "fetched": "2026-07-01T02:42:19.350588+07:00"
+    },
+    {
+      "id": "8c96c182000664617e4824f49dc83b78",
+      "title": "Haaland đưa Na Uy vào gặp Brazil ở vòng 1/8 World Cup 2026",
+      "link": "https://vnexpress.net/bo-bien-nga-v-na-uy-5091775-tong-thuat.html",
+      "summary": "Erling Haaland ghi bàn quyết định giúp Na Uy hạ Bờ Biển Ngà 2-1 ở vòng 1/16 World Cup 2026 trên sân Dallas.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-30T16:00:06+07:00",
+      "fetched": "2026-07-01T04:22:01.975541+07:00"
     },
     {
       "id": "dc80f454869ee8b681fa6feb5c47c42f",
