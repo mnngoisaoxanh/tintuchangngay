@@ -1,7 +1,157 @@
 window.newsData_2026_06_30 = {
   "date": "2026-06-30",
-  "lastUpdated": "2026-06-30T09:28:45.134375+07:00",
+  "lastUpdated": "2026-06-30T14:41:55.776232+07:00",
   "articles": [
+    {
+      "id": "879d3c1770aa7367f31db1b5a20ebbc3",
+      "title": "Muốn cạnh tranh, Trung tâm Tài chính quốc tế Đà Nẵng và TP.HCM không thể tách rời",
+      "link": "https://tuoitre.vn/muon-canh-tranh-trung-tam-tai-chinh-quoc-te-da-nang-va-tphcm-khong-the-tach-roi-100260630111821216.htm",
+      "summary": "Theo các chuyên gia, để Trung tâm Tài chính quốc tế Việt Nam tại Đà Nẵng (VIFC-DN) cạnh tranh tốt thì cần trao quyền vận hành, tạo không gian cho các sản phẩm tài chính mới phát triển trong khuôn khổ kiểm soát rủi ro và gắn chặt với TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:41:42.664101+07:00",
+      "fetched": "2026-06-30T14:41:42.664147+07:00"
+    },
+    {
+      "id": "d8422982a0cb31572eff6d5f10d4ae70",
+      "title": "Những trang báo vào trái tim bạn đọc",
+      "link": "https://tuoitre.vn/nhung-trang-bao-vao-trai-tim-ban-doc-100260630091957956.htm",
+      "summary": "Tôi yêu thích trang phóng sự - hồ sơ trên Tuổi Trẻ từ những ngày còn là sinh viên báo chí cho đến khi đi làm nghề. Hơn 30 năm qua tôi may mắn được là bạn đọc, người viết rồi người tổ chức trang này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:41:42.664050+07:00",
+      "fetched": "2026-06-30T14:41:42.664093+07:00"
+    },
+    {
+      "id": "032ddc5b2d8c26e4e0ce674e8420cf5f",
+      "title": "Xác định cặp đấu đầu tiên vòng 16 đội World Cup 2026",
+      "link": "https://tuoitre.vn/xac-dinh-cap-dau-dau-tien-vong-16-doi-world-cup-2026-100260630112653056.htm",
+      "summary": "Sau loạt trận vòng 32 đội sáng 30-6, World Cup 2026 đã xác định được cặp đấu đầu tiên vòng 16 đội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:41:42.663999+07:00",
+      "fetched": "2026-06-30T14:41:42.664042+07:00"
+    },
+    {
+      "id": "ce7a1eca5aa872410ac1f3fd1035fd59",
+      "title": "Tỉ giá yen Nhật rơi xuống mức thấp nhất kể từ năm 1986",
+      "link": "https://tuoitre.vn/ti-gia-yen-nhat-roi-xuong-muc-thap-nhat-ke-tu-nam-1986-100260630111453477.htm",
+      "summary": "Trong phiên giao dịch ngày 29-6, tỉ giá đồng yen đã lao xuống mức thấp nhất so với đồng USD kể từ năm 1986.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:41:42.663948+07:00",
+      "fetched": "2026-06-30T14:41:42.663991+07:00"
+    },
+    {
+      "id": "8e66dce03b231418cc4155a6db4d8b7e",
+      "title": "Ban Bí thư: Tập trung cao nhất nhiệm vụ tìm kiếm, quy tập, xác định danh tính hài cốt liệt sĩ",
+      "link": "https://tuoitre.vn/ban-bi-thu-tap-trung-cao-nhat-nhiem-vu-tim-kiem-quy-tap-xac-dinh-danh-tinh-hai-cot-liet-si-100260630114208749.htm",
+      "summary": "Ban Bí thư đề ra là khẩn trương hoàn thành việc sửa đổi, bổ sung Pháp lệnh ưu đãi người có công trong tháng 7, bảo đảm bám sát các chủ trương, định hướng, yêu cầu thực tiễn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:41:42.663895+07:00",
+      "fetched": "2026-06-30T14:41:42.663940+07:00"
+    },
+    {
+      "id": "21e89f0347a9f88828b91f538f99deb2",
+      "title": "57% doanh nghiệp Nhật Bản có kế hoạch mở rộng kinh doanh tại Việt Nam",
+      "link": "https://tuoitre.vn/57-doanh-nghiep-nhat-ban-co-ke-hoach-mo-rong-kinh-doanh-tai-viet-nam-100260630113010567.htm",
+      "summary": "Đây là thông tin được ông Takuya Sahashi - Phó chủ tịch Tập đoàn Mitsubishi Corporation tại Việt Nam - nêu ra trong phát biểu tại hội nghị quán triệt, triển khai Nghị quyết 10 của Bộ Chính trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:41:42.663838+07:00",
+      "fetched": "2026-06-30T14:41:42.663887+07:00"
+    },
+    {
+      "id": "fff629bdfba545676fb04a7f44262164",
+      "title": "Lê Công Vinh: Haaland sẽ đưa Na Uy thắng Bờ Biển Ngà",
+      "link": "https://tuoitre.vn/le-cong-vinh-haaland-se-dua-na-uy-thang-bo-bien-nga-100260629190742455.htm",
+      "summary": "Bình luận trước trận Bờ Biển Ngà - Na Uy ở World Cup 2026, cựu tiền đạo đội tuyển Việt Nam Lê Công Vinh cho rằng đây sẽ là trận đấu của tiền đạo Erling Haaland.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:41:42.663787+07:00",
+      "fetched": "2026-06-30T14:41:42.663830+07:00"
+    },
+    {
+      "id": "b11cb2d198fd8be1da7ab6c993b31a76",
+      "title": "Công bố quyết định thành lập Ban Nghiên cứu phát triển TP.HCM",
+      "link": "https://tuoitre.vn/cong-bo-quyet-dinh-thanh-lap-ban-nghien-cuu-phat-trien-tphcm-100260630115620684.htm",
+      "summary": "Sáng 30-6, Ban Thường vụ Thành ủy TP.HCM tổ chức lễ công bố và trao quyết định thành lập Ban Nghiên cứu phát triển TP.HCM. Ủy viên Bộ Chính trị, Bí thư Thành ủy TP.HCM Trần Lưu Quang chủ trì hội nghị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:41:42.663735+07:00",
+      "fetched": "2026-06-30T14:41:42.663779+07:00"
+    },
+    {
+      "id": "aaa54db73a3dd9fc411877aaab694443",
+      "title": "Tỉ lệ trúng tuyển lớp 10 TP.HCM vượt 100% chỉ tiêu, vẫn có thể tuyển bổ sung",
+      "link": "https://tuoitre.vn/ti-le-trung-tuyen-lop-10-tphcm-vuot-100-chi-tieu-van-co-the-tuyen-bo-sung-100260630115727368.htm",
+      "summary": "Sau khi công bố điểm chuẩn lớp 10 năm 2026, Sở Giáo dục và Đào tạo TP.HCM cho biết tỉ lệ trúng tuyển đạt 100,17% chỉ tiêu, đồng thời sẽ xem xét tuyển sinh bổ sung nếu còn chỗ học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:41:42.663683+07:00",
+      "fetched": "2026-06-30T14:41:42.663728+07:00"
+    },
+    {
+      "id": "e134d4eb3b12e4b2f2628a03f152d732",
+      "title": "CORTIS lợi dụng danh tiếng để lên máy bay trễ, công ty quản lý nói gì?",
+      "link": "https://tuoitre.vn/cortis-loi-dung-danh-tieng-de-len-may-bay-tre-cong-ty-quan-ly-noi-gi-100260630114630203.htm",
+      "summary": "Sau khi CORTIS bị tố lợi dụng danh tiếng để lên máy bay trễ, công ty quản lý lập tức lên tiếng xin lỗi, đồng thời bác bỏ cáo buộc nhóm nhận đặc quyền tại sân bay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:41:42.663630+07:00",
+      "fetched": "2026-06-30T14:41:42.663675+07:00"
+    },
+    {
+      "id": "a63bfad36301356d24af2004a394035c",
+      "title": "Vụ cụ bà 97 tuổi đi 3 lần nhận tiền chế độ: Hà Nội yêu cầu làm rõ trách nhiệm, lập đường dây nóng",
+      "link": "https://tuoitre.vn/vu-cu-ba-97-tuoi-di-3-lan-nhan-tien-che-do-ha-noi-yeu-cau-lam-ro-trach-nhiem-lap-duong-day-nong-100260630115756199.htm",
+      "summary": "Sau vụ cụ bà 97 tuổi phải đi 3 lần mới được nhận tiền chế độ, Thành ủy Hà Nội yêu cầu rà soát toàn diện, lập đường dây nóng và làm rõ trách nhiệm nếu có sai phạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:41:42.663572+07:00",
+      "fetched": "2026-06-30T14:41:42.663618+07:00"
+    },
+    {
+      "id": "8cacb9c647975d76b59baa59693b43b5",
+      "title": "Gần 29.000 tỉ đồng làm đường cầu Mã Đà kết nối đường vành đai 4 TP.HCM",
+      "link": "https://tuoitre.vn/gan-29000-ti-dong-lam-duong-cau-ma-da-ket-noi-duong-vanh-dai-4-tphcm-10026063011505315.htm",
+      "summary": "TP Đồng Nai đã khởi công tuyến đường kết nối từ cầu Mã Đà đến đường vành đai 4 TP.HCM. Đây là tuyến đường đi qua khu dự trữ sinh quyển và kết nối về sân bay Long Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:41:42.663515+07:00",
+      "fetched": "2026-06-30T14:41:42.663563+07:00"
+    },
+    {
+      "id": "d6774cfd47fc7828f8b9f20452c75585",
+      "title": "Ông Macron tái xuất với cặp kính râm từng gây sốt toàn cầu",
+      "link": "https://tuoitre.vn/ong-macron-tai-xuat-voi-cap-kinh-ram-tung-gay-sot-toan-cau-100260630120214258.htm",
+      "summary": "Cặp kính râm phi công từng gây sốt toàn cầu sau bài phát biểu đối đầu với Tổng thống Donald Trump của Tổng thống Pháp Emmanuel Macron bất ngờ xuất hiện trở lại, thu hút sự chú ý của truyền thông và mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:41:42.663454+07:00",
+      "fetched": "2026-06-30T14:41:42.663506+07:00"
+    },
+    {
+      "id": "1977e00f6e961024597cf26f75476f61",
+      "title": "Ký ức thành phố trên trang báo xưa",
+      "link": "https://tuoitre.vn/ky-uc-thanh-pho-tren-trang-bao-xua-100260630105708504.htm",
+      "summary": "Hơn 1.000 tờ báo cũ được nhà sưu tầm Huỳnh Minh Hiệp gìn giữ như một kho tư liệu sống, kể lại những cột mốc đáng nhớ trong lịch sử TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:41:42.663383+07:00",
+      "fetched": "2026-06-30T14:41:42.663445+07:00"
+    },
+    {
+      "id": "333eec9e13298bd57b58a1d2e3803c01",
+      "title": "Máy bay đâm tòa nhà cao nhất Bắc Kinh, Trung Quốc cấm bay tư nhân hạng nhẹ",
+      "link": "https://tuoitre.vn/may-bay-dam-toa-nha-cao-nhat-bac-kinh-trung-quoc-cam-bay-tu-nhan-hang-nhe-100260630120218701.htm",
+      "summary": "Trung Quốc đã ban hành lệnh cấm các chuyến bay giải trí trên toàn bộ không phận nước này. Động thái diễn ra sau khi một máy bay nhỏ đâm vào tòa nhà cao nhất Bắc Kinh tuần trước, khiến một người thiệt mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:41:42.663202+07:00",
+      "fetched": "2026-06-30T14:41:42.663370+07:00"
+    },
     {
       "id": "353d18ecf8befe4398039553b008b512",
       "title": "Cháy 3 tàu cá đang neo đậu trên sông ở Nghệ An",
@@ -153,6 +303,366 @@ window.newsData_2026_06_30 = {
       "fetched": "2026-06-30T09:28:37.518383+07:00"
     },
     {
+      "id": "0bab492bb417f61ffe9ea39be6b59eaf",
+      "title": "Ibrahimovic: 'Hà Lan thua vì từ bỏ bản sắc tấn công'",
+      "link": "https://vnexpress.net/ibrahimovic-ha-lan-thua-vi-tu-bo-ban-sac-tan-cong-5091644.html",
+      "summary": "Cựu tiền đạo Zlatan Ibrahimovic chỉ trích HLV Ronald Koeman từ bỏ bản sắc của bóng đá Hà Lan khi chơi phòng ngự ở trận thua Morocco tại vòng 1/16 World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:34:39+07:00",
+      "fetched": "2026-06-30T14:41:37.455565+07:00"
+    },
+    {
+      "id": "71a9734b6bb6d68c1198e5f6ecd2b89d",
+      "title": "Nỗi nuối tiếc của CĐV Nhật khi đội tuyển bị loại khỏi World Cup",
+      "link": "https://vnexpress.net/noi-nuoi-tiec-cua-cdv-nhat-khi-doi-tuyen-bi-loai-khoi-world-cup-5091496.html",
+      "summary": "Dù từng kỳ vọng lớn, CĐV Nhật Bản gắng gượng vượt qua nỗi buồn, chấp nhận sự thật rằng tuyển nhà đã bị loại khỏi World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:31:07+07:00",
+      "fetched": "2026-06-30T14:41:37.455726+07:00"
+    },
+    {
+      "id": "0fe31cdb25cf90bd5269f17b716618f7",
+      "title": "World Cup 2026 - 'sàn diễn' của những cầu thủ di cư",
+      "link": "https://vnexpress.net/world-cup-2026-san-dien-cua-nhung-cau-thu-di-cu-5090016.html",
+      "summary": "Giải đấu tại Bắc Mỹ ghi nhận sự đa dạng chưa từng có trong lịch sử, với 25% trong tổng số 1.248 cầu thủ dự không sinh ra ở quốc gia mà họ lựa chọn khoác áo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:30:15+07:00",
+      "fetched": "2026-06-30T14:41:37.455866+07:00"
+    },
+    {
+      "id": "0fe31cdb25cf90bd5269f17b716618f7",
+      "title": "World Cup 2026 - 'sàn diễn' của những cầu thủ di cư",
+      "link": "https://vnexpress.net/world-cup-2026-san-dien-cua-nhung-cau-thu-di-cu-5090016.html",
+      "summary": "Giải đấu tại Bắc Mỹ ghi nhận sự đa dạng chưa từng có trong lịch sử, với 25% trong tổng số 1.248 cầu thủ dự không sinh ra ở quốc gia mà họ lựa chọn khoác áo.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-30T07:30:15+07:00",
+      "fetched": "2026-06-30T14:41:55.768917+07:00"
+    },
+    {
+      "id": "86e921409f8d3ef1b8ddc0bbca461c8b",
+      "title": "Nên mua Insta360 Luna Ultra hay DJI Pocket 4 Pro để quay vlog?",
+      "link": "https://vnexpress.net/nen-mua-insta360-luna-ultra-hay-dji-pocket-4-pro-de-quay-vlog-5091597.html",
+      "summary": "Tôi chủ yếu có nhu cầu quay video ngắn dạng dọc ngoài trời, nên chọn sản phẩm nào trong tầm giá dưới 20 triệu đồng?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:30:00+07:00",
+      "fetched": "2026-06-30T14:41:37.455998+07:00"
+    },
+    {
+      "id": "61da61abdd249ad42a40a809de63cf80",
+      "title": "Vespa Edizione Ottatesimo 2026 gái 12.000 USD",
+      "link": "https://vnexpress.net/vespa-edizione-ottatesimo-2026-gai-12-000-usd-5091232.html",
+      "summary": "Bản đặc biệt kỷ niệm 80 năm thành lập thương hiệu, sản xuất giới hạn 1.946 xe toàn cầu, giá 12.000 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:30:00+07:00",
+      "fetched": "2026-06-30T14:41:37.456126+07:00"
+    },
+    {
+      "id": "894998566f73cf382e7dcae9ea9e8ea2",
+      "title": "Ai có thể được ghép thận?",
+      "link": "https://vnexpress.net/ai-co-the-duoc-ghep-than-5091619.html",
+      "summary": "Để được chỉ định ghép thận, người bệnh cần đáp ứng các tiêu chí về sức khỏe và mức độ tương thích với thận hiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:30:00+07:00",
+      "fetched": "2026-06-30T14:41:37.456289+07:00"
+    },
+    {
+      "id": "7194c4462fcb49fe9d546f94ba32ca8d",
+      "title": "Eurowindow Light City dự kiến triển khai nhiều ưu đãi",
+      "link": "https://vnexpress.net/eurowindow-light-city-du-kien-trien-khai-nhieu-uu-dai-5091227.html",
+      "summary": "Khách hàng quan tâm phân khu Mặt Trời tại Eurowindow Light City dự kiến được tiếp cận nhiều chính sách tài chính, trong đó có hỗ trợ lãi suất, ân hạn nợ gốc và mức chiết khấu lên tới 15,5%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:30:00+07:00",
+      "fetched": "2026-06-30T14:41:37.456422+07:00"
+    },
+    {
+      "id": "569720dd8096f27e06c6002a18257680",
+      "title": "Giải mã ‘vũ khí’ tái tạo năng lượng của MINHO (SHINee)",
+      "link": "https://thanhnien.vn/giai-ma-vu-khi-tai-tao-nang-luong-cua-minho-shinee-185260630140304662.htm",
+      "summary": "Đằng sau hình ảnh một Choi Minho (SHINee) luôn tràn đầy năng lượng không chỉ là nỗ lực không ngừng nghỉ, mà còn đến từ việc phục hồi đúng cách. Với nam nghệ sĩ, nghỉ ngơi không phải là một khoảng dừng vô nghĩa, mà là một thói quen quan trọng giúp tái tạo thể chất, cân bằng tinh thần và duy trì hiệu ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:30:00+07:00",
+      "fetched": "2026-06-30T14:41:40.577127+07:00"
+    },
+    {
+      "id": "a01bd2ba2a7cdf51c976525fe6b31bcf",
+      "title": "Loạt người tiếp tay đường dây cho vay lãi nặng gần 800% qua app",
+      "link": "https://vnexpress.net/loat-nguoi-tiep-tay-duong-day-cho-vay-lai-nang-gan-800-qua-app-5091614.html",
+      "summary": "Lê Thanh Huỳnh Cang cùng nhiều người giúp Katerynchyk Roman điều hành nhiều công ty cho vay qua app và website với mức lãi tổng cổng lên đến gần 800% mỗi năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:26:14+07:00",
+      "fetched": "2026-06-30T14:41:37.456546+07:00"
+    },
+    {
+      "id": "59c78c45931a0134f2b33907ceda6a07",
+      "title": "Các đội bóng thắng đậm vòng bảng World Cup 2026 đều... bị loại: Bồ Đào Nha run rẩy!",
+      "link": "https://thanhnien.vn/cac-doi-bong-thang-dam-vong-bang-world-cup-2026-deu-bi-loai-bo-dao-nha-run-ray-185260630141058975.htm",
+      "summary": "Thất bại của những đội bóng châu Âu như Đức, Hà Lan ở vòng 32 đội World Cup là lời cảnh báo cần thiết cho Bồ Đào Nha trước khúc cua quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:25:00+07:00",
+      "fetched": "2026-06-30T14:41:40.577295+07:00"
+    },
+    {
+      "id": "0e7084b2bdd9c546f0d6afde399c3f5a",
+      "title": "Đề xuất cho học sinh, sinh viên nghèo vay tối đa 8 triệu đồng một tháng",
+      "link": "https://vnexpress.net/de-xuat-cho-hoc-sinh-sinh-vien-ngheo-vay-toi-da-8-trieu-dong-mot-thang-5091630.html",
+      "summary": "Bộ Tài chính đề xuất học sinh, sinh viên có hoàn cảnh khó khăn được vay tối đa 8 triệu đồng một tháng, gấp đôi hiện tại để phù hợp với biến động chi phí sinh hoạt và học phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:21:11+07:00",
+      "fetched": "2026-06-30T14:41:37.456670+07:00"
+    },
+    {
+      "id": "0e7084b2bdd9c546f0d6afde399c3f5a",
+      "title": "Đề xuất cho học sinh, sinh viên nghèo vay tối đa 8 triệu đồng một tháng",
+      "link": "https://vnexpress.net/de-xuat-cho-hoc-sinh-sinh-vien-ngheo-vay-toi-da-8-trieu-dong-mot-thang-5091630.html",
+      "summary": "Bộ Tài chính đề xuất học sinh, sinh viên có hoàn cảnh khó khăn được vay tối đa 8 triệu đồng một tháng, gấp đôi hiện tại để phù hợp với biến động chi phí sinh hoạt và học phí.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-30T07:21:11+07:00",
+      "fetched": "2026-06-30T14:41:50.798097+07:00"
+    },
+    {
+      "id": "4375f7ff2ea8e0660591f795c88a1391",
+      "title": "Nhận định bóng đá Bờ Biển Ngà vs Na Uy: Haaland giúp 'The Vikings' thắng sát nút",
+      "link": "https://thanhnien.vn/nhan-dinh-bong-da-bo-bien-nga-vs-na-uy-haaland-giup-the-vikings-thang-sat-nut-185260630141723006.htm",
+      "summary": "Trận Bờ Biển Ngà vs Na Uy diễn ra lúc 0 giờ ngày 1.7. Chân sút đáng gờm Erling Haaland là điểm tựa vững chắc cho niềm tin rằng 'The Vikings' (những chiến binh Viking) sẽ vượt qua đại diện châu Phi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:21:00+07:00",
+      "fetched": "2026-06-30T14:41:40.577429+07:00"
+    },
+    {
+      "id": "097cbbb7e850f5c2149a9e29865451c6",
+      "title": "Điều gì khiến châu Âu nóng lên nhanh nhất thế giới?",
+      "link": "https://vnexpress.net/dieu-gi-khien-chau-au-nong-len-nhanh-nhat-the-gioi-5091525.html",
+      "summary": "Vị trí địa lý kết hợp với thay đổi hoàn lưu khí quyển và chính sách chống ô nhiễm khiến châu Âu nóng lên nhanh gấp đôi trung bình toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:20:46+07:00",
+      "fetched": "2026-06-30T14:41:37.456794+07:00"
+    },
+    {
+      "id": "a05196e016a41b68fd9b1f3a1fe3194b",
+      "title": "Hội sách thiếu nhi TP HCM đến với khu dân cư",
+      "link": "https://vnexpress.net/hoi-sach-thieu-nhi-tp-hcm-den-voi-khu-dan-cu-5091560.html",
+      "summary": "Hội sách thiếu nhi TP HCM lần đầu tổ chức đọc sách miễn phí, giao lưu tác giả ở các chung cư, khu dân cư, lan tỏa văn hóa đọc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:19:40+07:00",
+      "fetched": "2026-06-30T14:41:37.456917+07:00"
+    },
+    {
+      "id": "3226f542dd707f76ee362b5249ced6e7",
+      "title": "Đồng yên tụt đáy 40 năm, Nhật Bản tuyên bố 'sẵn sàng can thiệp'",
+      "link": "https://thanhnien.vn/dong-yen-tut-day-40-nam-nhat-ban-tuyen-bo-san-sang-can-thiep-185260630125622949.htm",
+      "summary": "Bộ trưởng Tài chính Nhật Bản Satsuki Katayama ngày 30.6 cho biết Tokyo sẵn sàng thực hiện 'các biện pháp thích hợp' sau khi đồng yên Nhật rơi xuống mức thấp nhất trong 40 năm so với đồng USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:19:00+07:00",
+      "fetched": "2026-06-30T14:41:40.577558+07:00"
+    },
+    {
+      "id": "7a337b19180ec80343d66eb1865352d1",
+      "title": "Đồng Nai: Người dân ra đường vẫy cờ, đón 62 hài cốt liệt sĩ về đất mẹ",
+      "link": "https://thanhnien.vn/dong-nai-nguoi-dan-ra-duong-vay-co-don-62-hai-cot-liet-si-ve-dat-me-185260630134440268.htm",
+      "summary": "Rất đông người dân ở thành phố Đồng Nai đã ra đường, vẫy cờ đỏ sao vàng, đón 62 hài cốt liệt sĩ hy sinh khi làm nhiệm vụ quốc tế cao đẹp tại Campuchia về với đất mẹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:16:00+07:00",
+      "fetched": "2026-06-30T14:41:40.577681+07:00"
+    },
+    {
+      "id": "a7e7280c017b66a51ea0965da95eb442",
+      "title": "‘GOAT’ của Cabo Verde mơ được đổi áo với Messi, cái kết sẽ trọn vẹn",
+      "link": "https://thanhnien.vn/goat-cua-cabo-verde-mo-duoc-doi-ao-voi-messi-cai-ket-se-tron-ven-185260630140622287.htm",
+      "summary": "Theo TNT Sports (Argentina), ước mơ của thủ môn Vozinha, người được CĐV Quốc đảo Cabo Verde vinh danh là 'GOAT' (vĩ đại nhất mọi thời đại) của họ, sẽ được toại nguyện khi được chính Messi tặng áo sau trận hai đội gặp nhau vào ngày 4.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:14:00+07:00",
+      "fetched": "2026-06-30T14:41:40.577808+07:00"
+    },
+    {
+      "id": "1357c9c55f547aace98a724592e057ed",
+      "title": "Mitsubishi Pajero thế hệ mới tái hiện cụm đồng hồ huyền thoại",
+      "link": "https://vnexpress.net/mitsubishi-pajero-the-he-moi-tai-hien-cum-dong-ho-huyen-thoai-5091373.html",
+      "summary": "Mẫu SUV đầu bảng của Mitsubishi sẽ ra mắt vào mùa thu năm nay, trở thành đối thủ cạnh tranh trực tiếp với Toyota Land Cruiser.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:13:40+07:00",
+      "fetched": "2026-06-30T14:41:37.457033+07:00"
+    },
+    {
+      "id": "1ac6027d177edaaf4c0a066ac98df391",
+      "title": "Cất nước mùa mưa xuống lòng đất để chống hạn ở Đồng bằng sông Cửu Long",
+      "link": "https://vnexpress.net/cat-nuoc-mua-mua-xuong-long-dat-de-chong-han-o-dong-bang-song-cuu-long-5091470.html",
+      "summary": "Thay vì để nước mùa mưa chảy ra biển, các nhà khoa học đề xuất đưa nguồn nước xuống các tầng chứa nước dưới đất để tạo \"kho dự trữ\" ứng phó hạn hán, xâm nhập mặn ở Đồng bằng sông Cửu Long.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:12:32+07:00",
+      "fetched": "2026-06-30T14:41:37.457154+07:00"
+    },
+    {
+      "id": "35bc9a632895c488ae440e1f49bf0ee5",
+      "title": "185 cảnh sát bảo vệ HLV tuyển Hàn Quốc khi về nước",
+      "link": "https://vnexpress.net/185-canh-sat-bao-ve-hlv-tuyen-han-quoc-khi-ve-nuoc-5091568.html",
+      "summary": "Cảnh sát đã điều động 160 cảnh sát cơ động, 25 nhân viên an ninh tới sân bay Incheon để bảo vệ HLV và đội tuyển quốc gia sau thất bại tại World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:12:22+07:00",
+      "fetched": "2026-06-30T14:41:37.457296+07:00"
+    },
+    {
+      "id": "7c685909aeade23b809d350172547f82",
+      "title": "Ông Trump dọa mạnh tay nếu giá xăng không giảm",
+      "link": "https://thanhnien.vn/ong-trump-doa-manh-tay-neu-gia-xang-khong-giam-185260630113133171.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã kêu gọi các chủ trạm xăng trên toàn quốc lập tức giảm giá bán lẻ, đồng thời cảnh báo họ có thể đối mặt 'hậu quả' nếu không hành động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:12:00+07:00",
+      "fetched": "2026-06-30T14:41:40.577935+07:00"
+    },
+    {
+      "id": "5c2eb0198c8fd129e6f4ee3a0fd3a3c7",
+      "title": "TP HCM nói lý do 9 điểm 3 môn đỗ lớp 10 công lập",
+      "link": "https://vnexpress.net/nhieu-truong-lay-diem-chuan-lop-10-o-tp-hcm-thap-chua-tung-co-so-giao-duc-noi-gi-5091599.html",
+      "summary": "10 trường lấy đầu vào ở mức 9 điểm ba môn - thấp chưa từng có, theo Sở Giáo dục là do nằm ở những địa bàn có đầy đủ trường lớp so với nhu cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:11:10+07:00",
+      "fetched": "2026-06-30T14:41:37.457420+07:00"
+    },
+    {
+      "id": "7b914539a68a444e2a39c255d22bdfdb",
+      "title": "Ba Lan từ chối giao chiến đấu cơ, dọa chặn Ukraine vào EU",
+      "link": "https://thanhnien.vn/ba-lan-tu-choi-giao-chien-dau-co-doa-chan-ukraine-vao-eu-185260630135034162.htm",
+      "summary": "Giữa bối cảnh căng thẳng ngoại giao, Ba Lan tuyên bố sẽ không giao chiến đấu cơ MiG-29 cho Ukraine và dọa sẽ cản trở việc nước này gia nhập Liên minh châu Âu (EU).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:08:00+07:00",
+      "fetched": "2026-06-30T14:41:40.578056+07:00"
+    },
+    {
+      "id": "0514f9aeff28717f51cd007b88ca1ab1",
+      "title": "Lò phản ứng sản xuất điện không dùng nhiên liệu",
+      "link": "https://vnexpress.net/lo-phan-ung-san-xuat-dien-khong-dung-nhien-lieu-5091554.html",
+      "summary": "Lò phản ứng làm mát bằng chì thế hệ mới của công ty Newcleo phát triển có thể giảm đáng kể rủi ro nóng chảy khi xảy ra sự cố.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-30T07:07:02+07:00",
+      "fetched": "2026-06-30T14:41:54.538793+07:00"
+    },
+    {
+      "id": "a205ddd142919686d8f4fc173aec1516",
+      "title": "UBND tỉnh Vĩnh Long tiếp quản cụm phà Vàm Cống",
+      "link": "https://thanhnien.vn/ubnd-tinh-vinh-long-tiep-quan-cum-pha-vam-cong-185260630133535162.htm",
+      "summary": "Cụm phà Vàm Cống trực thuộc Khu Quản lý đường bộ IV (Cục Đường bộ Việt Nam - Bộ Xây dựng) được chuyển giao nguyên trạng về cho UBND tỉnh Vĩnh Long quản lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:07:00+07:00",
+      "fetched": "2026-06-30T14:41:40.578177+07:00"
+    },
+    {
+      "id": "ff60832d86abd5eff77d7d5d8c25f18b",
+      "title": "Từ 15.8, xe gia đình không lắp ghế trẻ em không còn bị phạt tiền",
+      "link": "https://thanhnien.vn/tu-158-xe-gia-dinh-khong-lap-ghe-tre-em-khong-con-bi-phat-tien-185260630135047282.htm",
+      "summary": "Nếu chở trẻ em dưới 10 tuổi và cao dưới 1,35 m mà không sử dụng thiết bị an toàn, tài xế sẽ bị phạt cảnh cáo thay vì phạt tiền, tức là chế tài nhẹ hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:05:00+07:00",
+      "fetched": "2026-06-30T14:41:40.578313+07:00"
+    },
+    {
+      "id": "1a5474c63bf100687a3daa6d91135b90",
+      "title": "Mbappe đứng trước cơ hội xô đổ thêm kỷ lục World Cup",
+      "link": "https://vnexpress.net/mbappe-dung-truoc-co-hoi-xo-do-them-ky-luc-world-cup-5091391.html",
+      "summary": "Nếu lập công trong trận đấu Thụy Điển ở vòng 1/16 tới đây, Kylian Mbappe sẽ độc chiếm kỷ lục ghi bàn trong lịch sử tham dự các vòng loại trực tiếp World Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-30T07:01:27+07:00",
+      "fetched": "2026-06-30T14:41:55.769071+07:00"
+    },
+    {
+      "id": "faa9b529489ce909a431fd8706cfebbf",
+      "title": "Trang phục xếp ly ăn gian vóc dáng, mang lại vẻ ngoài cuốn hút",
+      "link": "https://thanhnien.vn/thoi-trang-tre/trang-phuc-xep-ly-an-gian-voc-dang-mang-lai-ve-ngoai-cuon-hut-185260629102726658.htm",
+      "summary": "Chân váy xếp ly và trang phục xếp ly đều là kiểu trang phục dễ che khuyết điểm, tôn nét duyên dáng tự nhiên. Những đường gấp nếp xếp ly dịu dàng vừa mang lại vẻ ngoài cuốn hút, thời thượng vừa là tuyệt chiêu ăn gian vóc dáng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T07:00:00+07:00",
+      "fetched": "2026-06-30T14:41:40.578432+07:00"
+    },
+    {
+      "id": "f053f0f53af64131da0e3029fb078599",
+      "title": "Apple 'đau đầu' vụ hack làm lộ hồ sơ mật của iPhone 18 Pro",
+      "link": "https://thanhnien.vn/apple-dau-dau-vu-hack-lam-lo-ho-so-mat-cua-iphone-18-pro-18526063006345046.htm",
+      "summary": "Apple, nổi tiếng với việc giữ bí mật về các mẫu iPhone tương lai, đang đối mặt với một vụ rò rỉ thông tin nghiêm trọng về iPhone 18 Pro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T06:53:00+07:00",
+      "fetched": "2026-06-30T14:41:40.578547+07:00"
+    },
+    {
+      "id": "9567c1d167a88d514e1da24a5077413e",
+      "title": "Ba thế hệ cùng hành hương về Tắc Sậy trước lễ tuyên phong Chân phước cha Trương Bửu Diệp",
+      "link": "https://thanhnien.vn/ba-the-he-cung-hanh-huong-ve-tac-say-truoc-le-tuyen-phong-chan-phuoc-cha-truong-buu-diep-185260630131316707.htm",
+      "summary": "Từ em bé mới hơn 2 tháng tuổi đến những cụ già, nhiều gia đình 3 thế hệ đã về Trung tâm hành hương Tắc Sậy từ sớm để cầu nguyện, chờ lễ tuyên phong Chân phước linh mục Phanxicô Trương Bửu Diệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T06:43:00+07:00",
+      "fetched": "2026-06-30T14:41:40.578661+07:00"
+    },
+    {
+      "id": "7c8491d0e39faf98e3282f85b232b028",
+      "title": "Sửa đổi, bổ sung Pháp lệnh ưu đãi người có công trong tháng 7",
+      "link": "https://thanhnien.vn/sua-doi-bo-sung-phap-lenh-uu-dai-nguoi-co-cong-trong-thang-7-18526063011342971.htm",
+      "summary": "Ban Bí thư đề nghị khẩn trương hoàn thành việc sửa đổi, bổ sung Pháp lệnh ưu đãi người có công trong tháng 7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T06:38:00+07:00",
+      "fetched": "2026-06-30T14:41:40.578782+07:00"
+    },
+    {
+      "id": "7f88f2d8fa59e3d1b824e260cd3a7374",
+      "title": "Rạch Xuyên Tâm: Bàn giao mặt bằng thần tốc, dồn lực 'về đích' sớm năm 2027",
+      "link": "https://thanhnien.vn/rach-xuyen-tam-ban-giao-mat-bang-than-toc-don-luc-ve-dich-som-nam-2027-185260630124356199.htm",
+      "summary": "Sau hơn 20 năm chờ đợi, dự án trọng điểm rạch Xuyên Tâm đang có bước tiến đột phá. Hàng ngàn hộ dân đã đồng thuận, thần tốc bàn giao mặt bằng ngay trong tháng 6. Từ lợi thế này, Chủ tịch UBND TP.HCM yêu cầu chủ đầu tư và các nhà thầu dồn toàn lực bứt tốc thi công, quyết tâm đưa dự án 'về đích' sớm v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T06:25:00+07:00",
+      "fetched": "2026-06-30T14:41:40.578898+07:00"
+    },
+    {
+      "id": "a91b77a3fa238edbdaee9d68802a916b",
+      "title": "Dọn nhà miễn phí để lấy dữ liệu huấn luyện AI",
+      "link": "https://vnexpress.net/don-nha-mien-phi-de-lay-du-lieu-huan-luyen-ai-5091304.html",
+      "summary": "Công ty khởi nghiệp Shift Robotics cung cấp dịch vụ dọn nhà miễn phí, đổi lại nhân viên sẽ ghi hình quá trình làm việc để lấy dữ liệu đào tạo AI và robot.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-30T06:00:00+07:00",
+      "fetched": "2026-06-30T14:41:54.538945+07:00"
+    },
+    {
+      "id": "b80ec257eb87940d23962139b1dcf21c",
+      "title": "'Chưa ghi nhận xăng E10 gây hỏng động cơ'",
+      "link": "https://vnexpress.net/chua-ghi-nhan-xang-e10-gay-hong-dong-co-5091528.html",
+      "summary": "Sau một tháng triển khai xăng E10, PVOIL - đơn vị chiếm thị phần thứ hai - cho biết chưa ghi nhận sự cố động cơ còn Bộ Công Thương đánh giá thị trường, nguồn cung ổn định.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-30T05:54:06+07:00",
+      "fetched": "2026-06-30T14:41:50.798270+07:00"
+    },
+    {
       "id": "6e75576f5ae3d31597035bf42ea387e2",
       "title": "Lịch trực tiếp World Cup 2026 ngày 1-7: Mexico gặp Ecuador, Haaland và Mbappe ra sân",
       "link": "https://tuoitre.vn/lich-truc-tiep-world-cup-2026-ngay-1-7-mexico-gap-ecuador-haaland-va-mbappe-ra-san-100260629164342965.htm",
@@ -161,6 +671,216 @@ window.newsData_2026_06_30 = {
       "category": "Tổng hợp",
       "published": "2026-06-30T05:45:49.468346+07:00",
       "fetched": "2026-06-30T05:45:49.468509+07:00"
+    },
+    {
+      "id": "4fc9f9992f2b025e9b711b79e33648df",
+      "title": "Châu Á sạch bóng đại diện ở World Cup 2026",
+      "link": "https://vnexpress.net/chau-a-sach-bong-dai-dien-o-world-cup-2026-5091595.html",
+      "summary": "Không tính Australia, toàn bộ 8 đội tuyển châu Á dự World Cup 2026 đã bị loại, sau khi Nhật Bản thua ngược Brazil ở vòng 1/16.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-30T05:43:03+07:00",
+      "fetched": "2026-06-30T14:41:55.769223+07:00"
+    },
+    {
+      "id": "cf11b21d5c05f0b9e69c8c981745608f",
+      "title": "Chưa đánh thuế thu nhập với chuyển nhượng vàng miếng từ 1/7",
+      "link": "https://vnexpress.net/chua-danh-thue-thu-nhap-voi-chuyen-nhuong-vang-mieng-tu-1-7-5091587.html",
+      "summary": "Bộ Tài chính khẳng định chưa áp thuế thu nhập cá nhân với chuyển nhượng vàng miếng từ 1/7 mà chờ quy định cụ thể tại văn bản riêng của Chính phủ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-30T05:30:28+07:00",
+      "fetched": "2026-06-30T14:41:50.798418+07:00"
+    },
+    {
+      "id": "125623a8b2bfa807e43e9dc4ba329fdc",
+      "title": "Chiến thuật đi bộ của Messi được khen trong báo cáo của FIFA",
+      "link": "https://vnexpress.net/chien-thuat-di-bo-cua-messi-duoc-khen-trong-bao-cao-cua-fifa-5091456.html",
+      "summary": "Theo Ủy ban kỹ thuật FIFA, việc đi bộ trong trận đấu có thể giúp Lionel Messi nghỉ ngơi và phân phối sức hợp lý, mà minh chứng là việc ghi 6 bàn trong ba trận vòng bảng World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-30T05:29:02+07:00",
+      "fetched": "2026-06-30T14:41:55.769363+07:00"
+    },
+    {
+      "id": "16a08fea4c9c73c15631f93cae53e9d1",
+      "title": "Elon Musk đón sinh nhật với bánh kem hình tên lửa",
+      "link": "https://vnexpress.net/elon-musk-don-sinh-nhat-voi-banh-kem-hinh-ten-lua-5091401.html",
+      "summary": "Tỷ phú Mỹ Elon Musk đón tuổi 55 ngày 28/6 với chiếc bánh hình tên lửa, đồ chơi Lego và một thanh kiếm khổng lồ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-30T05:18:13+07:00",
+      "fetched": "2026-06-30T14:41:54.539082+07:00"
+    },
+    {
+      "id": "1c55194043b2a3d188f747f14e856831",
+      "title": "Dàn UAV giúp Iran nhắm mục tiêu loạt căn cứ Mỹ ở Trung Đông",
+      "link": "https://vnexpress.net/dan-uav-giup-iran-nham-muc-tieu-loat-can-cu-my-o-trung-dong-5091524.html",
+      "summary": "Iran có kho UAV đa dạng, đảm nhận được nhiều nhiệm vụ và đạt tầm bay tới 2.500 km, đủ sức uy hiếp toàn bộ căn cứ Mỹ ở Trung Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-30T05:07:56+07:00",
+      "fetched": "2026-06-30T14:41:48.237941+07:00"
+    },
+    {
+      "id": "c1dac54c38911694bc6d07a4f2e9927b",
+      "title": "Paraguay cho cả nước nghỉ lễ sau khi loại Đức ở World Cup",
+      "link": "https://vnexpress.net/paraguay-cho-ca-nuoc-nghi-le-sau-khi-loai-duc-o-world-cup-5091523.html",
+      "summary": "Tổng thống Paraguay tuyên bố 30/6 là ngày nghỉ toàn quốc để ăn mừng chiến thắng gây chấn động của tuyển quốc gia trước Đức ở vòng 1/16 World Cup.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-30T04:51:47+07:00",
+      "fetched": "2026-06-30T14:41:48.238096+07:00"
+    },
+    {
+      "id": "2d86178b3f481e1328c152de0916febe",
+      "title": "'Ác mộng' nắng nóng từng khiến 15.000 người thiệt mạng tại Pháp",
+      "link": "https://vnexpress.net/ac-mong-nang-nong-tung-khien-15-000-nguoi-thiet-mang-tai-phap-5091417.html",
+      "summary": "Thời tiết tại Pháp liên tục nóng lên trong mùa hè năm 2003, khiến cơn ác mộng chết chóc ập xuống vào tháng 8 năm đó.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-30T04:47:29+07:00",
+      "fetched": "2026-06-30T14:41:48.238254+07:00"
+    },
+    {
+      "id": "81c93df991f1c7f6cf5939a924fba988",
+      "title": "Đức lần đầu thua luân lưu ở World Cup",
+      "link": "https://vnexpress.net/duc-lan-dau-thua-luan-luu-o-world-cup-5091564.html",
+      "summary": "Thất bại 3-4 trước Paraguay khi đá luân lưu vòng 1/16 World Cup 2026 khiến Đức đứt mạch kỷ lục bất bại trong loạt cân não lịch sử giải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-30T04:31:28+07:00",
+      "fetched": "2026-06-30T14:41:55.769492+07:00"
+    },
+    {
+      "id": "6420927de228fe4003eef65b3ea5c849",
+      "title": "Honda: 'Nhật Bản thua vì khoảng cách về năng lực cá nhân'",
+      "link": "https://vnexpress.net/honda-nhat-ban-thua-vi-khoang-cach-ve-nang-luc-ca-nhan-5091498.html",
+      "summary": "Theo cựu danh thủ Keisuke Honda, Nhật Bản đã triển khai chiến thuật gần như hoàn hảo, nhưng thua Brazil vì chênh lệch về năng lực cá nhân ở vòng 1/16 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-30T04:27:02+07:00",
+      "fetched": "2026-06-30T14:41:55.769617+07:00"
+    },
+    {
+      "id": "ffbb3af5ad72c150b669eb1e1a9ecf4f",
+      "title": "Nhà khoa học Việt làm chủ công nghệ in 3D mạch máu nhân tạo",
+      "link": "https://vnexpress.net/nha-khoa-hoc-viet-lam-chu-cong-nghe-in-3d-mach-mau-nhan-tao-5089421.html",
+      "summary": "Nhóm nghiên cứu liên ngành tại Việt Nam đã thành công trong việc in 3D mạch máu nhân tạo, công nghệ này có tiềm năng tạo ra da, sụn, giác mạc phục vụ cấy ghép.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-30T04:26:18+07:00",
+      "fetched": "2026-06-30T14:41:54.539366+07:00"
+    },
+    {
+      "id": "ebaafad2eb264e9d4e97a289fe7b192a",
+      "title": "UAV tiếp dầu xuất hiện trên tàu sân bay Mỹ",
+      "link": "https://vnexpress.net/uav-tiep-dau-xuat-hien-tren-tau-san-bay-my-5091516.html",
+      "summary": "UAV tiếp dầu MQ-25 triển khai trên tàu sân bay Nimitz trong cuộc diễn tập ở Đại Tây Dương, chưa rõ phi cơ có tham gia nhiệm vụ hay không.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-30T04:21:45+07:00",
+      "fetched": "2026-06-30T14:41:48.238387+07:00"
+    },
+    {
+      "id": "95deaaabe688dfe55b78dab8a47e8381",
+      "title": "Tổng Bí thư, Chủ tịch nước: Thu hút vốn FDI có chiến lược, không bằng mọi giá",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-thu-hut-von-fdi-co-chien-luoc-khong-bang-moi-gia-5091522.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước khẳng định Việt Nam không thu hút đầu tư bằng mọi giá mà có chiến lược lựa chọn, sàng lọc và đồng hành cùng nhà đầu tư để tạo các giá trị mới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-30T04:15:34+07:00",
+      "fetched": "2026-06-30T14:41:50.798548+07:00"
+    },
+    {
+      "id": "58deb2954a9aa463b642883d4cd03b94",
+      "title": "iPhone 18 Pro và iPhone gập có thể ra mắt ngày 8/9",
+      "link": "https://vnexpress.net/iphone-18-pro-va-iphone-gap-co-the-ra-mat-ngay-8-9-5091339.html",
+      "summary": "Bộ đôi iPhone 18 Pro và 18 Pro Max, cùng mẫu iPhone màn hình gập đầu tiên nhiều khả năng được Apple công bố vào ngày 8/9.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-30T03:54:02+07:00",
+      "fetched": "2026-06-30T14:41:54.539492+07:00"
+    },
+    {
+      "id": "e8164e8dd7a434ec4e924d2a794f30b8",
+      "title": "Nga lắp súng máy hạng nặng cho tàu chở khí hóa lỏng ở Baltic",
+      "link": "https://vnexpress.net/nga-lap-sung-may-hang-nang-cho-tau-cho-khi-hoa-long-o-baltic-5091449.html",
+      "summary": "Tàu chở khí hóa lỏng Nga được trang bị hai súng máy 12,7 mm, dường như để đối phó phương tiện không người lái khi di chuyển ở vùng Baltic.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-30T03:51:13+07:00",
+      "fetched": "2026-06-30T14:41:48.238513+07:00"
+    },
+    {
+      "id": "3641db6b46d5b05e799cb9754645d262",
+      "title": "Havertz: 'Đức không còn thuộc nhóm hàng đầu thế giới'",
+      "link": "https://vnexpress.net/havertz-duc-khong-con-thuoc-nhom-hang-dau-the-gioi-5091473.html",
+      "summary": "Sau khi bị Paraguay loại ở vòng 1/16 World Cup 2026, tiền đạo Kai Havertz thừa nhận bản thân chơi quá tệ và cho rằng Đức không còn nằm trong nhóm đội mạnh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-30T03:45:59+07:00",
+      "fetched": "2026-06-30T14:41:55.769739+07:00"
+    },
+    {
+      "id": "6b8811d7677612ee33dcbf0685de8e28",
+      "title": "Bé sơ sinh sống sót thần kỳ trong tòa nhà sập ở Venezuela",
+      "link": "https://vnexpress.net/be-so-sinh-song-sot-than-ky-trong-toa-nha-sap-o-venezuela-5091428.html",
+      "summary": "Lực lượng cứu nạn tìm thấy cậu bé 18 ngày tuổi cùng mẹ sống sót sau khi mắc kẹt suốt 32 giờ trong tòa nhà bị sập do động đất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-30T03:38:21+07:00",
+      "fetched": "2026-06-30T14:41:48.238636+07:00"
+    },
+    {
+      "id": "4955850a8457cb3cc7a82a0ce06ff574",
+      "title": "Chiếc kính râm gây sốt của Tổng thống Pháp tái xuất",
+      "link": "https://vnexpress.net/chiec-kinh-ram-gay-sot-cua-tong-thong-phap-tai-xuat-5091426.html",
+      "summary": "Ông Macron đeo kính râm trong lễ đón Quốc vương Oman cũng như hoàng gia Thái Lan tại Paris.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-30T03:20:11+07:00",
+      "fetched": "2026-06-30T14:41:48.238753+07:00"
+    },
+    {
+      "id": "775e72e7efd9475e6bc35cbdaa0d2d64",
+      "title": "Giá vàng miếng giảm 2 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-30-6-5091495.html",
+      "summary": "Các thương hiệu hôm nay đã hạ giá bán vàng miếng SJC còn 146 triệu đồng một lượng",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-30T03:18:57+07:00",
+      "fetched": "2026-06-30T14:41:50.798675+07:00"
+    },
+    {
+      "id": "419d4d1d9727aa4e57354c1b9b30001e",
+      "title": "Mỹ khoe oanh tạc cơ B-2 mang được 'sát thủ diệt hạm tàng hình'",
+      "link": "https://vnexpress.net/my-khoe-oanh-tac-co-b-2-mang-duoc-sat-thu-diet-ham-tang-hinh-5091388.html",
+      "summary": "Không quân Mỹ thông báo tên lửa diệt hạm LRASM, có khả năng đánh trúng điểm yếu nhất của mục tiêu, đã được tích hợp cho máy bay B-2.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-30T03:17:38+07:00",
+      "fetched": "2026-06-30T14:41:48.238872+07:00"
+    },
+    {
+      "id": "81e6aad28f79a82d486d0335209da5af",
+      "title": "Vợ chồng bị bắt vì 'để hai con chết do mất nước' giữa đợt nóng kỷ lục",
+      "link": "https://vnexpress.net/vo-chong-bi-bat-vi-de-hai-con-chet-do-mat-nuoc-giua-dot-nong-ky-luc-5091392.html",
+      "summary": "Cảnh sát Pháp bắt hai vợ chồng sau khi hai bé gái sinh đôi 15 tháng tuổi của họ tử vong tại nhà trong tình trạng mất nước giữa đợt nắng nóng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-30T03:15:42+07:00",
+      "fetched": "2026-06-30T14:41:48.238992+07:00"
+    },
+    {
+      "id": "34b27cf9a1d7b0f1ae52ebc2d167708d",
+      "title": "Slovakia hứng chịu nắng nóng cao nhất lịch sử 41 độ C",
+      "link": "https://vnexpress.net/slovakia-hung-chiu-nang-nong-cao-nhat-lich-su-41-do-c-5091382.html",
+      "summary": "Quốc gia Trung Âu Slovakia lần đầu tiên ghi nhận nhiệt độ chạm ngưỡng 41 độ C, phá mức kỷ lục 40,3 độ C thiết lập gần hai thập kỷ trước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-30T02:43:38+07:00",
+      "fetched": "2026-06-30T14:41:48.239113+07:00"
     },
     {
       "id": "eea1c9382783d2402920c00fa7d63d9d",
@@ -313,6 +1033,16 @@ window.newsData_2026_06_30 = {
       "fetched": "2026-06-30T02:42:34.696229+07:00"
     },
     {
+      "id": "f55c87b69b1f72abfc8c391b4acaf0e1",
+      "title": "Giá yen Nhật xuống thấp nhất 40 năm",
+      "link": "https://vnexpress.net/gia-yen-nhat-xuong-thap-nhat-40-nam-5091440.html",
+      "summary": "Nội tệ Nhật Bản hiện yếu nhất kể từ năm 1986 so với USD, làm dấy lên lo ngại chính phủ sắp can thiệp hỗ trợ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-30T02:40:36+07:00",
+      "fetched": "2026-06-30T14:41:50.798804+07:00"
+    },
+    {
       "id": "2c335309debbbee53a7b437834d8ad9d",
       "title": "Nổ ở Monaco, tài phiệt Ukraine nguy kịch",
       "link": "https://vnexpress.net/no-o-monaco-tai-phiet-ukraine-nguy-kich-5091385.html",
@@ -321,6 +1051,16 @@ window.newsData_2026_06_30 = {
       "category": "Thế giới",
       "published": "2026-06-30T02:17:44+07:00",
       "fetched": "2026-06-30T09:28:38.814945+07:00"
+    },
+    {
+      "id": "c0e0e5767ba594ade79276fbe1e9a8b2",
+      "title": "Sàn giao dịch carbon vận hành thế nào?",
+      "link": "https://vnexpress.net/san-giao-dich-carbon-van-hanh-the-nao-5091338.html",
+      "summary": "Việt Nam vừa khai trương sàn giao dịch carbon, đây là một trong 4 thị trường trao đổi quyền phát thải, mở ra kênh hút vốn mới cho doanh nghiệp chuyển đổi xanh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-30T02:16:06+07:00",
+      "fetched": "2026-06-30T14:41:50.798928+07:00"
     },
     {
       "id": "312f3009e5216d3d95201feed5051502",
@@ -491,6 +1231,16 @@ window.newsData_2026_06_30 = {
       "category": "Tổng hợp",
       "published": "2026-06-30T01:55:56+07:00",
       "fetched": "2026-06-30T09:28:31.757054+07:00"
+    },
+    {
+      "id": "2ce96d037c2fc7195957cf74b2302005",
+      "title": "HLV đội tuyển Đức: 'Không bao giờ tôi từ chức'",
+      "link": "https://vnexpress.net/hlv-doi-tuyen-duc-khong-bao-gio-toi-tu-chuc-5091411.html",
+      "summary": "Tan mộng vô địch khi thua Paraguay ở vòng 1/16 World Cup 2026, nhưng HLV Julian Nagelsmann vẫn muốn tiếp tục dẫn dắt đội tuyển Đức.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-30T01:55:56+07:00",
+      "fetched": "2026-06-30T14:41:55.769978+07:00"
     },
     {
       "id": "8f76d9c6906848280dea1bc82a2a81c5",
@@ -691,6 +1441,16 @@ window.newsData_2026_06_30 = {
       "category": "Thể thao",
       "published": "2026-06-30T00:01:06+07:00",
       "fetched": "2026-06-30T09:28:45.128129+07:00"
+    },
+    {
+      "id": "4303fd62989346408acb1a0b1cb32bae",
+      "title": "Hà Lan thua Morocco luân lưu, bị loại khỏi World Cup 2026",
+      "link": "https://vnexpress.net/ket-qua-ha-lan-vs-morocco-5091360-tong-thuat.html",
+      "summary": "Ba cầu thủ đá hỏng khiến Hà Lan thua Morocco 2-3 ở loạt sút luân lưu, sau khi hòa 1-1 qua 120 phút vòng 1/16 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-30T00:01:06+07:00",
+      "fetched": "2026-06-30T14:41:55.770099+07:00"
     },
     {
       "id": "080edb54bf1906f397e6a5025927c453",
