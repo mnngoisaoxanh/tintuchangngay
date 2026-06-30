@@ -1,7 +1,117 @@
 window.newsData_2026_06_30 = {
   "date": "2026-06-30",
-  "lastUpdated": "2026-06-30T20:56:02.057859+07:00",
+  "lastUpdated": "2026-06-30T23:17:05.595933+07:00",
   "articles": [
+    {
+      "id": "08edba13e30ed62957864a152542559a",
+      "title": "Đạo diễn Lương Đình Dũng làm phim quảng bá đất nước, kinh phí gấp đôi phim điện ảnh",
+      "link": "https://tuoitre.vn/dao-dien-luong-dinh-dung-lam-phim-quang-ba-dat-nuoc-kinh-phi-gap-doi-phim-dien-anh-100260630203235428.htm",
+      "summary": "Tâm huyết với dự án phim quảng bá hình ảnh đất nước có tên ‘Profile Đất nước của tôi’, dù chỉ dài 15 phút, đạo diễn Lương Đình Dũng cho biết ông áp lực tương đương khi làm bộ phim điện ảnh, còn kinh phí thì gấp hai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T23:16:57.079901+07:00",
+      "fetched": "2026-06-30T23:16:57.079957+07:00"
+    },
+    {
+      "id": "9f852d397e897aece7bc2ddad9eaac83",
+      "title": "Phường Bình Hưng Hòa khánh thành Không gian văn hóa Hồ Chí Minh",
+      "link": "https://tuoitre.vn/phuong-binh-hung-hoa-khanh-thanh-khong-gian-van-hoa-ho-chi-minh-10026063020290458.htm",
+      "summary": "Chiều 30-6, Đảng ủy - HĐND - UBND - Ủy ban Mặt trận Tổ quốc Việt Nam phường Bình Hưng Hòa (TP.HCM) tổ chức lễ khánh thành Không gian văn hóa Hồ Chí Minh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T23:16:57.079797+07:00",
+      "fetched": "2026-06-30T23:16:57.079891+07:00"
+    },
+    {
+      "id": "2ec22d3cb4eead1e81326a0f823ecb7f",
+      "title": "Tổng Bí thư, Chủ tịch nước: Đối ngoại, hội nhập quốc tế phải phục vụ trực tiếp hơn cho phát triển, tự chủ chiến lược",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-doi-ngoai-hoi-nhap-quoc-te-phai-phuc-vu-truc-tiep-hon-cho-phat-trien-tu-chu-chien-luoc-100260630204822074.htm",
+      "summary": "Chiều 30-6, Tổng Bí thư, Chủ tịch nước Tô Lâm, Trưởng Ban Chỉ đạo Trung ương về đối ngoại và hội nhập quốc tế, chủ trì phiên họp thứ nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T23:16:57.079655+07:00",
+      "fetched": "2026-06-30T23:16:57.079773+07:00"
+    },
+    {
+      "id": "5d3c266062bd3aa6d42f6b208e3d2172",
+      "title": "TP.HCM cùng UOB trao đổi định hướng tham gia các cơ chế tài chính mới trong khuôn khổ VIFC-HCMC",
+      "link": "https://tuoitre.vn/tphcm-cung-uob-trao-doi-dinh-huong-tham-gia-cac-co-che-tai-chinh-moi-trong-khuon-kho-vifc-hcmc-100260630203627081.htm",
+      "summary": "Chiều 30-6, Chủ tịch UBND TP.HCM Nguyễn Văn Được có buổi làm việc với đại diện United Overseas Bank (UOB) về định hướng hợp tác, cơ chế tham gia và các nhóm sản phẩm tài chính có thể nghiên cứu triển khai trong khuôn khổ Trung tâm Tài chính quốc tế tại TP.HCM (VIFC-HCMC).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T23:16:57.079607+07:00",
+      "fetched": "2026-06-30T23:16:57.079648+07:00"
+    },
+    {
+      "id": "9448d1e5376240e7d7ee207051b9fb09",
+      "title": "Hàng ngàn người xem biểu diễn lân sư rồng bên sông Hàn",
+      "link": "https://tuoitre.vn/hang-ngan-nguoi-xem-bieu-dien-lan-su-rong-ben-song-han-100260630214752841.htm",
+      "summary": "Tối 30-6, hàng ngàn người dân và du khách đã có mặt tại phố đi bộ Bạch Đằng (Đà Nẵng) để thưởng thức những màn biểu diễn sôi động trong đêm khai mạc Lễ hội lân, sư, rồng Hòa Cường - Đà Nẵng mở rộng năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T23:16:57.079552+07:00",
+      "fetched": "2026-06-30T23:16:57.079599+07:00"
+    },
+    {
+      "id": "68b7b27d4c0d023d7c67c099b309c537",
+      "title": "Đi khám bệnh bằng xe buýt: Nhiều tuyến đi ngang, dừng trước cổng bệnh viện",
+      "link": "https://tuoitre.vn/di-kham-benh-bang-xe-buyt-nhieu-tuyen-di-ngang-dung-truoc-cong-benh-vien-100260630185219343.htm",
+      "summary": "Đi khám bệnh ở TP.HCM, nhiều người không chỉ mệt vì bệnh mà còn mệt vì quãng đường xa, kẹt xe, tìm chỗ gửi xe và chi phí đi lại. Với người dân trong thành phố cũng như bà con từ các tỉnh lên khám, xe buýt là một lựa chọn đáng tham khảo để hành trình bớt nhọc nhằn hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T23:16:57.079500+07:00",
+      "fetched": "2026-06-30T23:16:57.079544+07:00"
+    },
+    {
+      "id": "243fc277e6e0ce7f18cc63c222c9d956",
+      "title": "Trực tuyến Bờ Biển Ngà - Na Uy (0h): Haaland đá chính",
+      "link": "https://tuoitre.vn/truc-tuyen-bo-bien-nga-na-uy-0h-cho-haaland-toa-sang-100260630135040684.htm",
+      "summary": "Mời bạn đọc theo dõi trực tuyến trên Tuổi Trẻ trận đấu giữa Bờ Biển Ngà và Na Uy thuộc khuôn khổ vòng 32 đội World Cup 2026, bắt đầu lúc 0h ngày 1-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T23:16:57.079443+07:00",
+      "fetched": "2026-06-30T23:16:57.079492+07:00"
+    },
+    {
+      "id": "1061c250633476c303e7da3eab5c444d",
+      "title": "Sút hỏng 11m, Than khoáng sản Việt Nam mất 3 điểm",
+      "link": "https://tuoitre.vn/sut-hong-11m-than-khoang-san-viet-nam-mat-3-diem-10026063021020562.htm",
+      "summary": "Bỏ lỡ nhiều cơ hội, trong đó có quả 11m, Than Khoáng sản Việt Nam đã thua Phong Phú Hà Nam ở Giải bóng đá nữ vô địch quốc gia - Cúp Thái Sơn Bắc 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T23:16:57.079385+07:00",
+      "fetched": "2026-06-30T23:16:57.079434+07:00"
+    },
+    {
+      "id": "e1d358dc19cc2f0a981f581f25209653",
+      "title": "Từ 1-7, người dân TP.HCM có thể tra cứu hồ sơ sức khỏe điện tử ngay trên điện thoại",
+      "link": "https://tuoitre.vn/tu-1-7-nguoi-dan-tphcm-co-the-tra-cuu-ho-so-suc-khoe-dien-tu-ngay-tren-dien-thoai-100260630220924499.htm",
+      "summary": "Từ ngày 1-7, người dân TP.HCM có thể sử dụng hồ sơ sức khỏe điện tử trên ứng dụng \"Công dân số\" để theo dõi thông tin sức khỏe ngay trên điện thoại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T23:16:57.079326+07:00",
+      "fetched": "2026-06-30T23:16:57.079376+07:00"
+    },
+    {
+      "id": "90cb339428485d27e6852d40ee0d963a",
+      "title": "Thuê ô tô tạo vỏ bọc ‘đại gia’, nam thanh niên lừa cả nhà người yêu lấy 1,4 tỉ đồng",
+      "link": "https://tuoitre.vn/thue-o-to-tao-vo-boc-dai-gia-nam-thanh-nien-lua-ca-nha-nguoi-yeu-lay-14-ti-dong-100260630201626949.htm",
+      "summary": "Phòng Cảnh sát hình sự (Công an Đà Nẵng) vừa bắt khẩn cấp Trần Văn Trường Sơn (24 tuổi, thường trú TP.HCM) để điều tra về các hành vi lừa đảo chiếm đoạt tài sản, đánh bạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T23:16:57.079256+07:00",
+      "fetched": "2026-06-30T23:16:57.079317+07:00"
+    },
+    {
+      "id": "a423d8056fb4aa179f9b9c2e185aefb3",
+      "title": "Động đất ở Venezuela: Hy vọng cứu người dần tắt",
+      "link": "https://tuoitre.vn/dong-dat-o-venezuela-hy-vong-cuu-nguoi-dan-tat-100260630221928689.htm",
+      "summary": "Sau gần một tuần kể từ trận động đất kép lịch sử, lực lượng cứu hộ Venezuela đang dần mất đi hy vọng tìm thấy thêm người sống sót khi hàng chục nghìn người vẫn đang mất tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T23:16:57.079083+07:00",
+      "fetched": "2026-06-30T23:16:57.079242+07:00"
+    },
     {
       "id": "8ca2e805c60ae754b0d5575c897beabd",
       "title": "Anh chi kỷ lục gần 400 tỉ USD cải tổ quân đội, học cách đánh của Ukraine",
@@ -303,6 +413,116 @@ window.newsData_2026_06_30 = {
       "fetched": "2026-06-30T17:48:15.768601+07:00"
     },
     {
+      "id": "18c4c8955ea1e82d72263436a8424b9c",
+      "title": "Bờ Biển Ngà - Na Uy: Haaland trở lại đá chính",
+      "link": "https://vnexpress.net/bo-bien-nga-v-na-uy-5091775.html",
+      "summary": "Bờ Biển Ngà chạm trán Na Uy ở vòng 1/16 World Cup 2026 trên sân Dallas. Bóng lăn lúc 0h00 ngày 1/7 giờ Hà Nội.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-30T16:00:06+07:00",
+      "fetched": "2026-06-30T23:17:05.584938+07:00"
+    },
+    {
+      "id": "dc80f454869ee8b681fa6feb5c47c42f",
+      "title": "21 tỉnh, thành ứng phó vùng áp thấp sẽ mạnh lên thành áp thấp nhiệt đới trên Biển Đông",
+      "link": "https://thanhnien.vn/21-tinh-thanh-ung-pho-vung-thap-se-manh-len-thanh-ap-thap-nhiet-doi-tren-bien-dong-185260630221953564.htm",
+      "summary": "Ban Chỉ đạo phòng thủ dân sự quốc gia yêu cầu 21 tỉnh, thành phố chủ động ứng phó vùng áp thấp có khả năng mạnh lên thành áp thấp nhiệt đới trên Biển Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T15:41:00+07:00",
+      "fetched": "2026-06-30T23:16:54.775212+07:00"
+    },
+    {
+      "id": "e799375b250e89fdc76bb98b59876be0",
+      "title": "World Cup 2026, Mexico - Ecuador: Ít bàn, chủ nhà thắng sít sao?",
+      "link": "https://thanhnien.vn/world-cup-2026-mexico-ecuador-it-ban-chu-nha-thang-sit-sao-185260630213713907.htm",
+      "summary": "Trận Mexico vs Ecuador diễn ra lúc 8 giờ ngày 1.7. Đội đồng chủ nhà được đánh giá có nhiều cơ hội để giành chiến thắng, trong trận đấu có ít bàn thắng được ghi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T15:17:00+07:00",
+      "fetched": "2026-06-30T23:16:54.775362+07:00"
+    },
+    {
+      "id": "a82fc0a102858e413de17daee628a5ba",
+      "title": "Hy vọng tìm thấy người sống sót sau động đất Venezuela dần tắt",
+      "link": "https://vnexpress.net/hy-vong-tim-thay-nguoi-song-sot-sau-dong-dat-venezuela-dan-tat-5091815.html",
+      "summary": "Lực lượng cứu nạn vẫn nỗ lực tìm kiếm đống đổ nát sau động đất kép ở Venezuela, nhưng hy vọng phát hiện thêm người sống sót đang nhạt dần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T15:00:36+07:00",
+      "fetched": "2026-06-30T23:16:51.434151+07:00"
+    },
+    {
+      "id": "a82fc0a102858e413de17daee628a5ba",
+      "title": "Hy vọng tìm thấy người sống sót sau động đất Venezuela dần tắt",
+      "link": "https://vnexpress.net/hy-vong-tim-thay-nguoi-song-sot-sau-dong-dat-venezuela-dan-tat-5091815.html",
+      "summary": "Lực lượng cứu nạn vẫn nỗ lực tìm kiếm đống đổ nát sau động đất kép ở Venezuela, nhưng hy vọng phát hiện thêm người sống sót đang nhạt dần.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-30T15:00:36+07:00",
+      "fetched": "2026-06-30T23:16:59.167999+07:00"
+    },
+    {
+      "id": "9ed1692d290275e1a451ba039df56781",
+      "title": "Đối ngoại và hội nhập quốc tế phải phục vụ trực tiếp hơn cho phát triển, tự chủ chiến lược",
+      "link": "https://thanhnien.vn/doi-ngoai-va-hoi-nhap-quoc-te-phai-phuc-vu-truc-tiep-hon-cho-phat-trien-tu-chu-chien-luoc-1852606302103157.htm",
+      "summary": "Chiều 30.6, Tổng Bí thư, Chủ tịch nước Tô Lâm đã chủ trì Phiên họp thứ nhất của Ban Chỉ đạo T.Ư về đối ngoại và hội nhập quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:56:00+07:00",
+      "fetched": "2026-06-30T23:16:54.775495+07:00"
+    },
+    {
+      "id": "b02fc8814b146e231965788bb55f4ccc",
+      "title": "Chính phủ tiếp tục giảm thuế xăng, dầu về 0 đến hết tháng 9",
+      "link": "https://vnexpress.net/chinh-phu-tiep-tuc-giam-thue-xang-dau-ve-0-den-het-thang-9-5091822.html",
+      "summary": "Chính phủ đồng ý kéo dài miễn thuế bảo vệ môi trường, giá trị gia tăng (VAT), nhập khẩu ưu đãi với xăng dầu thêm 3 tháng, đến hết ngày 30/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:55:13+07:00",
+      "fetched": "2026-06-30T23:16:51.434316+07:00"
+    },
+    {
+      "id": "b02fc8814b146e231965788bb55f4ccc",
+      "title": "Chính phủ tiếp tục giảm thuế xăng, dầu về 0 đến hết tháng 9",
+      "link": "https://vnexpress.net/chinh-phu-tiep-tuc-giam-thue-xang-dau-ve-0-den-het-thang-9-5091822.html",
+      "summary": "Chính phủ đồng ý kéo dài miễn thuế bảo vệ môi trường, giá trị gia tăng (VAT), nhập khẩu ưu đãi với xăng dầu thêm 3 tháng, đến hết ngày 30/9.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-30T14:55:13+07:00",
+      "fetched": "2026-06-30T23:17:01.308511+07:00"
+    },
+    {
+      "id": "5f4bbefd0a7df5327c4e6733ca30c9b6",
+      "title": "World Cup 2026, Pháp - Thụy Điển: Isak và Gyokeres có làm nên điều kỳ diệu?",
+      "link": "https://thanhnien.vn/world-cup-2026-phap-thuy-dien-isak-va-gyokeres-co-lam-nen-dieu-ky-dieu-185260630211238909.htm",
+      "summary": "4 giờ sáng ngày 1.7 (giờ Việt Nam), ở trận đấu thuộc vòng 32 đội World Cup 2026, Pháp được đánh giá cao hơn hẳn với những Kylian Mbappe, Ousmane Dembele hay Michael Olise. Nhưng nếu chủ quan, thầy trò HLV Didier Deschamps sẽ trả giá bởi Thụy Điển sở hữu 2 chân sút đẳng cấp là Alexander Isak và Vikto...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:51:00+07:00",
+      "fetched": "2026-06-30T23:16:54.775621+07:00"
+    },
+    {
+      "id": "8c5920f468a94a4af8782e5667faf4a8",
+      "title": "Ford Everest đã qua sử dụng 5 năm mất giá bao nhiêu?",
+      "link": "https://thanhnien.vn/ford-everest-da-qua-su-dung-5-nam-mat-gia-bao-nhieu-185260628132523894.htm",
+      "summary": "Ford Everest đời 2021 hiện có giá bán lại thấp hơn đáng kể so với thời điểm mới lăn bánh. Tuy nhiên, mức khấu hao của mẫu SUV 7 chỗ này tương đối ít sau 5 năm sử dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:44:00+07:00",
+      "fetched": "2026-06-30T23:16:54.775771+07:00"
+    },
+    {
+      "id": "c8b1e0b6a2e6c2d7de389d8b1a3639dd",
+      "title": "Hình ảnh Messi xuất hiện cùng Người nhện Tom Holland gây sốt: M10 lấn sân màn ảnh rộng?",
+      "link": "https://thanhnien.vn/hinh-anh-messi-xuat-hien-cung-nguoi-nhen-tom-holland-gay-sot-m10-lan-san-man-anh-rong-185260630213820815.htm",
+      "summary": "Lionel Messi một lần nữa trở thành tâm điểm chú ý, nhưng lần này không phải nhờ những bàn thắng tại World Cup 2026. Siêu sao người Argentina bất ngờ xuất hiện trong đoạn video quảng bá mới nhất của bộ phim Spider-Man: Brand New Day, đóng cùng nam diễn viên Tom Holland.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:42:00+07:00",
+      "fetched": "2026-06-30T23:16:54.775896+07:00"
+    },
+    {
       "id": "879d3c1770aa7367f31db1b5a20ebbc3",
       "title": "Muốn cạnh tranh, Trung tâm Tài chính quốc tế Đà Nẵng và TP.HCM không thể tách rời",
       "link": "https://tuoitre.vn/muon-canh-tranh-trung-tam-tai-chinh-quoc-te-da-nang-va-tphcm-khong-the-tach-roi-100260630111821216.htm",
@@ -453,6 +673,186 @@ window.newsData_2026_06_30 = {
       "fetched": "2026-06-30T14:41:42.663370+07:00"
     },
     {
+      "id": "9e6933099120d851bf4e03af2f439d42",
+      "title": "Beckham kiếm hàng chục triệu USD nhờ quãng nghỉ uống nước ở World Cup",
+      "link": "https://vnexpress.net/beckham-kiem-hang-chuc-trieu-usd-nho-quang-nghi-uong-nuoc-o-world-cup-5091739.html",
+      "summary": "David Beckham có thể kiếm hơn 23 triệu USD nhờ xuất hiện trên quảng cáo được phát trong 2 quãng nghỉ uống nước tại trận đấu World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:28:35+07:00",
+      "fetched": "2026-06-30T23:16:51.434458+07:00"
+    },
+    {
+      "id": "9e6933099120d851bf4e03af2f439d42",
+      "title": "Beckham kiếm hàng chục triệu USD nhờ quãng nghỉ uống nước ở World Cup",
+      "link": "https://vnexpress.net/beckham-kiem-hang-chuc-trieu-usd-nho-quang-nghi-uong-nuoc-o-world-cup-5091739.html",
+      "summary": "David Beckham có thể kiếm hơn 23 triệu USD nhờ xuất hiện trên quảng cáo được phát trong 2 quãng nghỉ uống nước tại trận đấu World Cup 2026.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-30T14:28:35+07:00",
+      "fetched": "2026-06-30T23:17:01.308664+07:00"
+    },
+    {
+      "id": "9ba207ab72e626b88c06104a20624bcc",
+      "title": "Pháp và Thụy Điển khép lại 96 năm lỡ hẹn ở World Cup",
+      "link": "https://vnexpress.net/phap-va-thuy-dien-khep-lai-96-nam-lo-hen-o-world-cup-5091685.html",
+      "summary": "Sau gần một thế kỷ chưa từng đối đầu ở World Cup, Pháp và Thụy Điển sẽ lần đầu chạm trán trên sân khấu lớn nhất của bóng đá thế giới ở vòng 1/16 tại New Jersey hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:28:16+07:00",
+      "fetched": "2026-06-30T23:16:51.434589+07:00"
+    },
+    {
+      "id": "9ba207ab72e626b88c06104a20624bcc",
+      "title": "Pháp và Thụy Điển khép lại 96 năm lỡ hẹn ở World Cup",
+      "link": "https://vnexpress.net/phap-va-thuy-dien-khep-lai-96-nam-lo-hen-o-world-cup-5091685.html",
+      "summary": "Sau gần một thế kỷ chưa từng đối đầu ở World Cup, Pháp và Thụy Điển sẽ lần đầu chạm trán trên sân khấu lớn nhất của bóng đá thế giới ở vòng 1/16 hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-30T14:28:16+07:00",
+      "fetched": "2026-06-30T23:17:05.585100+07:00"
+    },
+    {
+      "id": "36eb95ff3da5cb6a92b1b3d472bdce28",
+      "title": "Vì sao Mbappe thường phải ngả người khi sút?",
+      "link": "https://vnexpress.net/vi-sao-mbappe-thuong-phai-nga-nguoi-khi-sut-5091764.html",
+      "summary": "Trong khi các cầu thủ thường chúi người về trước khi sút, Kylian Mbappe ngả ra sau, hoặc thậm chí ngã xuống trong lúc dứt điểm để thích nghi tốc độ cao của chính anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:24:53+07:00",
+      "fetched": "2026-06-30T23:16:51.434748+07:00"
+    },
+    {
+      "id": "36eb95ff3da5cb6a92b1b3d472bdce28",
+      "title": "Vì sao Mbappe thường phải ngả người khi sút?",
+      "link": "https://vnexpress.net/vi-sao-mbappe-thuong-phai-nga-nguoi-khi-sut-5091764.html",
+      "summary": "Trong khi các cầu thủ thường chúi người về trước khi sút, Kylian Mbappe ngả ra sau, hoặc thậm chí ngã xuống trong lúc dứt điểm để thích nghi tốc độ cao của chính anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-30T14:24:53+07:00",
+      "fetched": "2026-06-30T23:17:05.585240+07:00"
+    },
+    {
+      "id": "3161c118aeff6a797234648a91abe475",
+      "title": "Thuê ô tô tạo vỏ bọc ‘đại gia’, lừa đảo bạn gái 1,4 tỉ đồng",
+      "link": "https://thanhnien.vn/thue-o-to-tao-vo-boc-dai-gia-lua-dao-ban-gai-14-ti-dong-18526063020571285.htm",
+      "summary": "Làm quen với cô gái qua mạng xã hội, Trần Văn Trường Sơn thuê ô tô để tạo vỏ bọc giàu có, dựng nhiều câu chuyện cần tiền nhằm lừa đảo chiếm đoạt hơn 1,4 tỉ đồng của nạn nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:24:00+07:00",
+      "fetched": "2026-06-30T23:16:54.776015+07:00"
+    },
+    {
+      "id": "5b4a2d76d0d2d767c875ad376d878b72",
+      "title": "Kết quả xổ số Vietlott Power 6/55 tối 30.6, giải độc đắc tăng 69,6 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-power-6-55-toi-306-giai-doc-dac-tang-696-ti-dong-185260630201838388.htm",
+      "summary": "Tối 30.6, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, không tìm thấy người trúng giải độc đắc nên số tiền cộng dồn tăng 69,6 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:23:00+07:00",
+      "fetched": "2026-06-30T23:16:54.776142+07:00"
+    },
+    {
+      "id": "8bf6bec64ee4fbef01257d25cb2917c8",
+      "title": "Tương quan trước trận Pháp - Thụy Điển",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-phap-thuy-dien-5091798.html",
+      "summary": "Pháp chạm trán Thụy Điển, trong cặp đấu toàn châu Âu đầu tiên tại vòng 1/16 World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:20:17+07:00",
+      "fetched": "2026-06-30T23:16:51.434897+07:00"
+    },
+    {
+      "id": "8bf6bec64ee4fbef01257d25cb2917c8",
+      "title": "Tương quan trước trận Pháp - Thụy Điển",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-phap-thuy-dien-5091798.html",
+      "summary": "Pháp chạm trán Thụy Điển, trong cặp đấu toàn châu Âu đầu tiên tại vòng 1/16 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-30T14:20:17+07:00",
+      "fetched": "2026-06-30T23:17:05.585373+07:00"
+    },
+    {
+      "id": "9d4b189dcfb412540961201f8b73ba28",
+      "title": "Ba cách tra cứu điểm thi tốt nghiệp THPT, theo Bộ GD-ĐT",
+      "link": "https://thanhnien.vn/ba-cach-tra-cuu-diem-thi-tot-nghiep-thpt-theo-bo-gd-dt-185260630211506471.htm",
+      "summary": "Bộ GD-ĐT thông tin 3 cách thí sinh có thể làm để tra cứu điểm thi tốt nghiệp THPT 2026, với kết quả chính thức được công bố vào 8 giờ ngày mai 1.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:20:00+07:00",
+      "fetched": "2026-06-30T23:16:54.776266+07:00"
+    },
+    {
+      "id": "b1f28b35cbad8b7f1a5018d1e68a4d50",
+      "title": "Ecuador thay đội trưởng giữa World Cup 2026",
+      "link": "https://vnexpress.net/ecuador-thay-doi-truong-giua-world-cup-2026-5091796.html",
+      "summary": "Tiền đạo 36 tuổi Enner Valencia trao băng đội trưởng tuyển Ecuador cho tiền vệ Moises Caicedo, ngay trước trận gặp Mexico ở vòng 1/16 World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:19:00+07:00",
+      "fetched": "2026-06-30T23:16:51.435020+07:00"
+    },
+    {
+      "id": "b1f28b35cbad8b7f1a5018d1e68a4d50",
+      "title": "Ecuador thay đội trưởng giữa World Cup 2026",
+      "link": "https://vnexpress.net/ecuador-thay-doi-truong-giua-world-cup-2026-5091796.html",
+      "summary": "Tiền đạo 36 tuổi Enner Valencia trao băng đội trưởng Ecuador cho tiền vệ Moises Caicedo, ngay trước trận gặp Mexico ở vòng 1/16 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-30T14:19:00+07:00",
+      "fetched": "2026-06-30T23:17:05.585503+07:00"
+    },
+    {
+      "id": "49d17e39eb6266df24f225c7298c3b2d",
+      "title": "Số tử vong vì động đất tăng, Venezuela chuẩn bị 10.000 túi đựng thi thể",
+      "link": "https://thanhnien.vn/so-tu-vong-vi-dong-dat-tang-venezuela-chuan-bi-10000-tui-dung-thi-the-18526063019135688.htm",
+      "summary": "Sự thất vọng đã bao trùm những người sống sót sau trận động đất kép kinh hoàng xảy ra ở Venezuela cách đây 5 ngày, khi số người chết đã lên tới hơn 1.700 vào ngày 29.6.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:14:00+07:00",
+      "fetched": "2026-06-30T23:16:54.776390+07:00"
+    },
+    {
+      "id": "0789a3e6f0e054401f4b942f322022fe",
+      "title": "Link tra cứu điểm thi tốt nghiệp THPT 2026 của 34 tỉnh, thành",
+      "link": "https://vnexpress.net/link-tra-diem-thi-tot-nghiep-thpt-2026-cua-34-tinh-thanh-chinh-xac-nhat-5091279.html",
+      "summary": "Thí sinh có thể tra cứu điểm thi tốt nghiệp THPT theo tỉnh, thành, hoặc trên VnExpress và hệ thống của Bộ Giáo dục và Đào tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:07:00+07:00",
+      "fetched": "2026-06-30T23:16:51.435143+07:00"
+    },
+    {
+      "id": "b2bd86a9d1d1472669925a217b1931c3",
+      "title": "'Gia tài' đặc biệt của MC Kim Huyền Sâm sau 2 thập kỷ vào showbiz",
+      "link": "https://thanhnien.vn/gia-tai-dac-biet-cua-mc-kim-huyen-sam-sau-2-thap-ky-vao-showbiz-185260630205433215.htm",
+      "summary": "Hơn hai thập kỷ hoạt động nghệ thuật, MC Kim Huyền Sâm sở hữu hàng trăm tà áo dài. Điều đặc biệt là gần như mỗi thiết kế chỉ được cô mặc đúng một lần trong những sự kiện lớn rồi cất giữ như một kỷ niệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:07:00+07:00",
+      "fetched": "2026-06-30T23:16:54.776512+07:00"
+    },
+    {
+      "id": "555e711778f3ac101c40aae1079e454b",
+      "title": "Lười đánh răng buổi tối? Chuyên gia cảnh báo nguy cơ ảnh hưởng sức khỏe",
+      "link": "https://thanhnien.vn/luoi-danh-rang-buoi-toi-chuyen-gia-canh-bao-nguy-co-anh-huong-suc-khoe-185260630210358522.htm",
+      "summary": "Không vệ sinh răng miệng trước khi đi ngủ có thể gây ra hậu quả nghiêm trọng hơn bạn nghĩ. Theo chuyên gia, điều này còn liên quan tới nguy cơ mắc bệnh tim cao hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T14:03:00+07:00",
+      "fetched": "2026-06-30T23:16:54.776627+07:00"
+    },
+    {
+      "id": "da95dd48b1d42a42e3c0c26ab7ffd53e",
+      "title": "Nhật Bản dự kiến thử nghiệm ghép thận lợn cho người",
+      "link": "https://vnexpress.net/nhat-ban-du-kien-thu-nghiem-ghep-than-lon-cho-nguoi-5091805.html",
+      "summary": "Một startup Nhật Bản dự kiến thử nghiệm ghép thận lợn chỉnh sửa gene cho bệnh nhân suy thận mạn tính vào năm 2028 nhằm đánh giá độ an toàn trước khi nộp đơn xin chính phủ phê duyệt chính thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T13:57:13+07:00",
+      "fetched": "2026-06-30T23:16:51.435269+07:00"
+    },
+    {
       "id": "ff0cb3f8379bb4635d53d424e669353c",
       "title": "UOB nghiên cứu các cơ chế thử nghiệm sản phẩm tài chính tại VIFC-HCMC",
       "link": "https://thanhnien.vn/uob-nghien-cuu-cac-co-che-thu-nghiem-san-pham-tai-chinh-tai-vifc-hcmc-185260630203822272.htm",
@@ -471,6 +871,16 @@ window.newsData_2026_06_30 = {
       "category": "Tổng hợp",
       "published": "2026-06-30T13:49:00+07:00",
       "fetched": "2026-06-30T20:55:54.037869+07:00"
+    },
+    {
+      "id": "a30c42835c2be928de9247e40980195f",
+      "title": "Đức xét xử vụ đâm xe làm 2 anh em người Việt thiệt mạng",
+      "link": "https://thanhnien.vn/duc-xet-xu-vu-dam-xe-lam-2-anh-em-nguoi-viet-thiet-mang-185260630205655658.htm",
+      "summary": "Tòa án khu vực Frankfurt am Main (Đức) đã mở phiên xét xử Mohammad S. (24 tuổi), người đã gây ra vụ tai nạn giao thông nghiêm trọng tại Frankfurt gần một năm trước, khiến 2 anh em song sinh người Việt tử vong và một người Việt khác bị thương nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-30T13:43:00+07:00",
+      "fetched": "2026-06-30T23:16:54.777018+07:00"
     },
     {
       "id": "7dc84960a6d16cd7c19571a90866a98d",
@@ -871,6 +1281,16 @@ window.newsData_2026_06_30 = {
       "category": "Thể thao",
       "published": "2026-06-30T10:44:50+07:00",
       "fetched": "2026-06-30T20:56:02.047671+07:00"
+    },
+    {
+      "id": "9ebf8e764edb9adcf534b090cad6b468",
+      "title": "Paraguay và cảm hứng chiến thắng từ quá khứ nghèo khó",
+      "link": "https://vnexpress.net/paraguay-va-cam-hung-chien-thang-tu-qua-khu-ngheo-kho-5091679.html",
+      "summary": "Đánh bại Đức ở vòng 1/16 World Cup 2026 được ví như kỳ tích của Paraguay với dàn trụ cột từng phải chật vật mưu sinh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-30T10:44:50+07:00",
+      "fetched": "2026-06-30T23:17:05.585629+07:00"
     },
     {
       "id": "eb612c9c8eec2e1abe93da2b943d5b06",
