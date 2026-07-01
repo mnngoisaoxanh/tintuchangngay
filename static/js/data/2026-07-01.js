@@ -1,7 +1,157 @@
 window.newsData_2026_07_01 = {
   "date": "2026-07-01",
-  "lastUpdated": "2026-07-01T19:27:26.084379+07:00",
+  "lastUpdated": "2026-07-01T23:16:10.387229+07:00",
   "articles": [
+    {
+      "id": "f0840adf2d44d06cd8c16ea9ab1e50a4",
+      "title": "Ưu tiên dịch vụ của mình trên công cụ tìm kiếm, Google phải bồi thường 1,46 tỉ USD tại Thụy Điển",
+      "link": "https://tuoitre.vn/uu-tien-dich-vu-cua-minh-tren-cong-cu-tim-kiem-google-phai-boi-thuong-146-ti-usd-tai-thuy-dien-100260701210434867.htm",
+      "summary": "Một tòa án tại Thụy Điển đã buộc Google bồi thường 1,46 tỉ USD cho trang so sánh giá PriceRunner, sau khi xác định hãng này nhiều năm ưu ái dịch vụ so sánh mua sắm của chính mình trên kết quả tìm kiếm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T23:16:05.115771+07:00",
+      "fetched": "2026-07-01T23:16:05.115804+07:00"
+    },
+    {
+      "id": "6a44f8365e3eda70f4496fb0ae71bd87",
+      "title": "NATO khẳng định Mỹ là nhân tố không thể thiếu với việc phòng thủ của Ukraine",
+      "link": "https://tuoitre.vn/nato-khang-dinh-my-la-nhan-to-khong-the-thieu-voi-viec-phong-thu-cua-ukraine-100260701205425889.htm",
+      "summary": "Ngày 1-7, Tổng thư ký NATO Mark Rutte đã có buổi họp báo với Thủ tướng Đức Friedrich Merz và Bộ trưởng Quốc phòng Đức Boris Pistorius về vấn đề phòng thủ cho Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T23:16:05.115732+07:00",
+      "fetched": "2026-07-01T23:16:05.115765+07:00"
+    },
+    {
+      "id": "3878407c7ee2d3baf0baece416f99ec2",
+      "title": "VTV sắp phát sóng bộ phim đặc biệt về chuyên án chống Fulro năm 2001",
+      "link": "https://tuoitre.vn/vtv-sap-phat-song-bo-phim-dac-biet-ve-chuyen-an-chong-fulro-nam-2001-10026070120462217.htm",
+      "summary": "Bộ phim truyền hình chính luận - an ninh đặc biệt ‘Trời cao nguyên xanh’ lấy cảm hứng từ một chuyên án có thật tại Tây Nguyên năm 2001 chống Fulro sẽ phát sóng trên kênh VTV1, bắt đầu từ tối 6-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T23:16:05.115690+07:00",
+      "fetched": "2026-07-01T23:16:05.115725+07:00"
+    },
+    {
+      "id": "1d48b211fdae234eccceef62dda03082",
+      "title": "Bóng chuyền nữ U18 Việt Nam thắng ấn tượng trận ra quân giải châu Á",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-u18-viet-nam-thang-an-tuong-tran-ra-quan-giai-chau-a-100260701213023012.htm",
+      "summary": "Tối 1-7, ở trận mở màn của bảng D Giải bóng chuyền nữ U18 châu Á, tuyển U18 Việt Nam đánh bại Đài Bắc Trung Hoa một cách thuyết phục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T23:16:05.115650+07:00",
+      "fetched": "2026-07-01T23:16:05.115684+07:00"
+    },
+    {
+      "id": "35169a86e186db9f11da3ea40728f32a",
+      "title": "Vụ truyền trắng da tại nhà làm 1 người chết: Bắt 3 bị can, thu giữ hàng trăm hộp hàng lậu",
+      "link": "https://tuoitre.vn/vu-truyen-trang-da-tai-nha-lam-1-nguoi-chet-bat-3-bi-can-thu-giu-hang-tram-hop-hang-lau-100260701213135044.htm",
+      "summary": "Công an TP.HCM khởi tố 3 người, điều tra vụ truyền dịch trắng da tại nhà khiến nạn nhân 33 tuổi tử vong sau khi sử dụng dịch vụ trái phép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T23:16:05.115607+07:00",
+      "fetched": "2026-07-01T23:16:05.115644+07:00"
+    },
+    {
+      "id": "32b236bbae3d5483ca7c4f87de868e31",
+      "title": "Hơn 50 nghệ sĩ góp mặt trong MV 'Thành phố sáng tên Người'",
+      "link": "https://tuoitre.vn/giai-tri/hon-50-nghe-si-gop-mat-trong-mv-thanh-pho-sang-ten-nguoi-100260701214744183.htm",
+      "summary": "Trên nền tác phẩm tranh cát mở đầu của họa sĩ Trí Đức, 50 nghệ sĩ thuộc nhiều lĩnh vực đã cùng hòa giọng trong MV Thành phố sáng tên Người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T23:16:05.115563+07:00",
+      "fetched": "2026-07-01T23:16:05.115600+07:00"
+    },
+    {
+      "id": "6a8d2f6bed61838ac94cf5755710756a",
+      "title": "Chưa đến 30% cổ phiếu 'thắng' gửi tiền tiết kiệm nửa đầu 2026",
+      "link": "https://tuoitre.vn/chua-den-30-co-phieu-thang-gui-tien-tiet-kiem-nua-dau-2026-100260701210952716.htm",
+      "summary": "Nửa đầu năm 2026, VN-Index tăng trưởng tiếp 4,23% sau khi đã \"bứt tốc\" tới 41% trong năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T23:16:05.115519+07:00",
+      "fetched": "2026-07-01T23:16:05.115556+07:00"
+    },
+    {
+      "id": "3f6def65340fad9f3ab788eb30733ce9",
+      "title": "Báo động đỏ cho màn ảnh Hoa ngữ",
+      "link": "https://tuoitre.vn/bao-dong-do-cho-man-anh-hoa-ngu-100260630232226602.htm",
+      "summary": "Lưu Diệc Phi 900 ngày không có phim đóng, Lưu Hạo Nhiên, Đổng Tử Kiện công khai tìm việc... làm dấy lên tranh luận về tình trạng 'đóng băng' của thị trường phim ảnh Hoa ngữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T23:16:05.115473+07:00",
+      "fetched": "2026-07-01T23:16:05.115512+07:00"
+    },
+    {
+      "id": "62d9f90fa2a6cf911d54574328904643",
+      "title": "Luffy tung cú đấm đầu tiên vào Imu, One Piece bùng nổ đại chiến Elbaph",
+      "link": "https://tuoitre.vn/luffy-tung-cu-dam-dau-tien-vao-imu-one-piece-bung-no-dai-chien-elbaph-100260701212035421.htm",
+      "summary": "Chương 1.186 của One Piece đánh dấu lần đầu Luffy trực tiếp đối đầu Imu tại Elbaph. Nhiều chi tiết cũng cho thấy Eiichiro Oda có thể đang báo trước thất bại đầu tiên của Luffy kể từ khi thức tỉnh Gear 5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T23:16:05.115418+07:00",
+      "fetched": "2026-07-01T23:16:05.115467+07:00"
+    },
+    {
+      "id": "0e8d0ae3b104beb47bc7019401129635",
+      "title": "Ukraine đánh trúng nhà máy lọc dầu sâu trong lãnh thổ Nga, Matxcơva tức tốc nhập thêm dầu",
+      "link": "https://tuoitre.vn/ukraine-danh-trung-nha-may-loc-dau-sau-trong-lanh-tho-nga-matxcova-tuc-toc-nhap-them-dau-100260701221028283.htm",
+      "summary": "Ngày 1-7, Tổng thống Ukraine Volodymyr Zelensky thông báo nước này đã tấn công một nhà máy lọc dầu của Nga tại Ufa, cách tiền tuyến hơn 1.300km.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T23:16:05.115370+07:00",
+      "fetched": "2026-07-01T23:16:05.115412+07:00"
+    },
+    {
+      "id": "9b71d2726c096d709656fb6b890ddbe6",
+      "title": "Lee Nguyễn: Tôi mong ngày Việt Nam dự World Cup",
+      "link": "https://tuoitre.vn/lee-nguyen-toi-mong-ngay-viet-nam-du-world-cup-100260621120215963.htm",
+      "summary": "Lee Nguyễn từng suýt dự World Cup 2014 cùng đội tuyển Mỹ. Giờ đây, anh đang xem World Cup 2026 trên đất Mỹ và mong một ngày đội tuyển Việt Nam sẽ góp mặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T23:16:05.115325+07:00",
+      "fetched": "2026-07-01T23:16:05.115363+07:00"
+    },
+    {
+      "id": "c20c9af155c1dc8a4def427ca334aa8c",
+      "title": "Hàng ngàn người mãn nhãn với đêm trình diễn 3D Mapping mừng 50 năm thành phố mang tên Bác",
+      "link": "https://tuoitre.vn/hang-ngan-nguoi-man-nhan-voi-dem-trinh-dien-3d-mapping-mung-50-nam-thanh-pho-mang-ten-bac-10026070118304145.htm",
+      "summary": "Hàng ngàn người dân, du khách theo dõi chương trình nghệ thuật và trình chiếu 3D Mapping mở đầu chuỗi hoạt động kỷ niệm 50 năm thành phố mang tên Bác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T23:16:05.115265+07:00",
+      "fetched": "2026-07-01T23:16:05.115318+07:00"
+    },
+    {
+      "id": "6ebfe1d43821afe7b8a1f17b165eba01",
+      "title": "Tuyển Lào đi đường bộ đến Pleiku 'luyện công' cho ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/tuyen-lao-di-duong-bo-den-pleiku-luyen-cong-cho-asean-cup-2026-100260701222939649.htm",
+      "summary": "Đội tuyển Lào đã chọn Pleiku làm nơi rèn quân quan trọng cho ASEAN Cup 2026, diễn ra vào cuối tháng này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T23:16:05.115217+07:00",
+      "fetched": "2026-07-01T23:16:05.115258+07:00"
+    },
+    {
+      "id": "84e2333e4221dd48facb12cf54e2c5be",
+      "title": "Khởi tố, bắt tạm giam thanh niên lái Porsche 'drift' gây náo loạn khu đô thị Sala",
+      "link": "https://tuoitre.vn/khoi-to-bat-tam-giam-thanh-nien-lai-porsche-drift-gay-nao-loan-khu-do-thi-sala-100260701220916591.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Công an TP.HCM khởi tố, bắt tạm giam Cao Minh (23 tuổi) vì lái ô tô Porsche 'drift' nhiều vòng ở khu đô thị Sala, gây rối trật tự công cộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T23:16:05.115161+07:00",
+      "fetched": "2026-07-01T23:16:05.115210+07:00"
+    },
+    {
+      "id": "9816590bf1f0d4ae6097f05ccf42fdda",
+      "title": "Nữ chính trị gia Gen Z đánh bại nghị sĩ Mỹ giữ ghế suốt 15 nhiệm kỳ",
+      "link": "https://tuoitre.vn/nu-chinh-tri-gia-gen-z-danh-bai-nghi-si-my-giu-ghe-suot-15-nhiem-ky-100260701221218217.htm",
+      "summary": "Nữ chính trị gia Melat Kiros gây bất ngờ khi đánh bại nghị sĩ kỳ cựu Diana DeGette sau 15 nhiệm kỳ tại Hạ viện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T23:16:05.115016+07:00",
+      "fetched": "2026-07-01T23:16:05.115151+07:00"
+    },
     {
       "id": "d2096cec02199eb04afc02f73a6d9eb5",
       "title": "Cảnh sát bất ngờ khám xét Liên đoàn Bóng đá Đức vì nghi án hối lộ",
@@ -151,6 +301,176 @@ window.newsData_2026_07_01 = {
       "category": "Tổng hợp",
       "published": "2026-07-01T19:27:19.284761+07:00",
       "fetched": "2026-07-01T19:27:19.284927+07:00"
+    },
+    {
+      "id": "58bf54c0e6c22f485fe14d745c107d8b",
+      "title": "Bắt giam người điều khiển siêu xe Porsche biểu diễn ở khu đô thị Sala",
+      "link": "https://thanhnien.vn/bat-giam-nguoi-dieu-khien-sieu-xe-porsche-bieu-dien-o-khu-do-thi-sala-18526070123014507.htm",
+      "summary": "Người điều khiển siêu xe Porsche biểu diễn, lạng lách trong khu đô thị Sala đã bị Công an TP.HCM khởi tố, bắt tạm giam về hành vi gây rối trật tự công cộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T16:15:00+07:00",
+      "fetched": "2026-07-01T23:16:03.610017+07:00"
+    },
+    {
+      "id": "f815a14fc0ce385a15e8f0eede316edd",
+      "title": "Bầu Đức giúp đội tuyển Lào tập huấn tại Pleiku, sẵn sàng 'ngựa ô' AFF Cup 2026",
+      "link": "https://thanhnien.vn/bau-duc-giup-doi-tuyen-lao-tap-huan-tai-pleiku-san-sang-ngua-o-aff-cup-2026-185260701224006353.htm",
+      "summary": "Với việc bầu Đức giúp đội tuyển Lào tập huấn tại Pleiku, để đội bóng Triệu Voi sẵn sàng gây bất ngờ tại AFF Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T16:15:00+07:00",
+      "fetched": "2026-07-01T23:16:03.610134+07:00"
+    },
+    {
+      "id": "d6ac5cafccebab95f96e772c4e4c34d2",
+      "title": "Trương Ngọc Ánh bị thay vai bằng AI sau khi vướng lao lý",
+      "link": "https://vnexpress.net/truong-ngoc-anh-bi-thay-vai-bang-ai-sau-khi-vuong-lao-ly-5092318.html",
+      "summary": "Đoàn phim \"Chiếc kén\" dùng AI để thay hình ảnh diễn viên Trương Ngọc Ánh và lồng tiếng lại, sau khi cô bị bắt tạm giam cuối năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T15:34:38+07:00",
+      "fetched": "2026-07-01T23:16:00.903268+07:00"
+    },
+    {
+      "id": "81e40bc7cb4f0d9f7dc6fd3c2842693b",
+      "title": "Ông Trump nói đàm phán với Iran 'rất tốt'",
+      "link": "https://vnexpress.net/ong-trump-noi-dam-phan-voi-iran-rat-tot-5092306.html",
+      "summary": "Ông Trump ca ngợi tiến triển của các cuộc đàm phán gián tiếp giữa Iran và Mỹ tại Doha, nói rằng các bên đã có những cuộc gặp thuận lợi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T15:28:17+07:00",
+      "fetched": "2026-07-01T23:16:00.903417+07:00"
+    },
+    {
+      "id": "81e40bc7cb4f0d9f7dc6fd3c2842693b",
+      "title": "Ông Trump nói đàm phán với Iran 'rất tốt'",
+      "link": "https://vnexpress.net/ong-trump-noi-dam-phan-voi-iran-rat-tot-5092306.html",
+      "summary": "Ông Trump ca ngợi tiến triển của các cuộc đàm phán gián tiếp giữa Iran và Mỹ tại Doha, nói rằng các bên đã có những cuộc gặp thuận lợi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-01T15:28:17+07:00",
+      "fetched": "2026-07-01T23:16:06.242676+07:00"
+    },
+    {
+      "id": "56f2e2da565c5e6c58e4c4ba1b1e3f3c",
+      "title": "Doanh nghiệp một người",
+      "link": "https://vnexpress.net/doanh-nghiep-mot-nguoi-5092244.html",
+      "summary": "Có một phần mềm tôi đang dùng thử nghiệm hàng sáng, rất tiện lợi. Tôi cứ ngỡ phía sau là một startup dăm người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T15:26:53+07:00",
+      "fetched": "2026-07-01T23:16:00.903531+07:00"
+    },
+    {
+      "id": "1f4636cbaa9daa4f3eaa181ca25262ee",
+      "title": "Biển người đổ về trụ sở UBND TP.HCM thưởng thức trình chiếu 3D Mapping",
+      "link": "https://thanhnien.vn/bien-nguoi-do-ve-tru-so-ubnd-tphcm-thuong-thuc-trinh-chieu-3d-mapping-18526070121045756.htm",
+      "summary": "Hàng ngàn người dân và du khách đổ về trước trụ sở UBND TP.HCM thưởng thức chương trình nghệ thuật kết hợp trình chiếu 3D Mapping, nhân kỷ niệm 50 năm ngày thành phố Sài Gòn - Gia Định vinh dự mang tên Chủ tịch Hồ Chí Minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T15:26:00+07:00",
+      "fetched": "2026-07-01T23:16:03.610237+07:00"
+    },
+    {
+      "id": "4044b3d4881173e01772acd82b488b18",
+      "title": "Cục Đăng kiểm VN thử nghiệm ghế an toàn trẻ em trong 6 tháng",
+      "link": "https://vnexpress.net/cuc-dang-kiem-vn-thu-nghiem-ghe-an-toan-tre-em-trong-6-thang-5092326.html",
+      "summary": "Bộ Xây dựng yêu cầu Cục Đăng kiểm Việt Nam khẩn trương đánh giá sự phù hợp, chứng nhận và công bố hợp quy đối với thiết bị an toàn cho trẻ em, nhằm tháo gỡ khó khăn trong giai đoạn đầu áp dụng quy định mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T15:24:55+07:00",
+      "fetched": "2026-07-01T23:16:00.903637+07:00"
+    },
+    {
+      "id": "06e3719d361148c225d6ef94ff12d00a",
+      "title": "Lý do khiến cầu thủ Lý Đức khóc nghẹn trong show thực tế",
+      "link": "https://thanhnien.vn/ly-do-khien-cau-thu-ly-duc-khoc-nghen-trong-show-thuc-te-185260701211253583.htm",
+      "summary": "Tham gia 'Mái ấm gia đình Việt', cầu thủ Phạm Lý Đức nhiều lần rơi nước mắt vì hoàn cảnh của các em nhỏ trong chương trình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T15:24:00+07:00",
+      "fetched": "2026-07-01T23:16:03.610349+07:00"
+    },
+    {
+      "id": "7e58b30b054559958a906ad681cb71bd",
+      "title": "'Drift' ôtô Porsche ở TP HCM, nam thanh niên bị bắt",
+      "link": "https://vnexpress.net/drift-oto-porsche-o-tp-hcm-nam-thanh-nien-bi-bat-5092328.html",
+      "summary": "Cao Minh, 23 tuổi, bị cáo buộc gây rối trật tự công cộng khi lái Porsche nhiều lần \"drift\" (đánh lái tạo trượt bánh xe trên đường) tại khu đô thị Sala, phường An Khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T15:19:40+07:00",
+      "fetched": "2026-07-01T23:16:00.903742+07:00"
+    },
+    {
+      "id": "3666957f64657ef467c841ce29f00b0c",
+      "title": "Nhận hối lộ AIC, nguyên giám đốc Sở Giáo dục Bình Thuận lĩnh 15 năm tù",
+      "link": "https://vnexpress.net/nhan-hoi-lo-aic-nguyen-giam-doc-so-giao-duc-binh-thuan-linh-15-nam-tu-5092311.html",
+      "summary": "Ông Phan Đoàn Thái, nguyên giám đốc Sở Giáo dục và Đào tạo Bình Thuận (cũ) lĩnh 15 năm tù do nhận 2,4 tỷ đồng để tạo điều kiện cho Công ty AIC trúng ba gói thầu mua sắm thiết bị phòng học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T15:16:43+07:00",
+      "fetched": "2026-07-01T23:16:00.903846+07:00"
+    },
+    {
+      "id": "b11e61e27f6365c31f19596d7ac8f54d",
+      "title": "Màn 'lột xác' của ca sĩ Phương Vy ở tuổi 39",
+      "link": "https://thanhnien.vn/man-lot-xac-cua-ca-si-phuong-vy-o-tuoi-39-185260701202843915.htm",
+      "summary": "Không chỉ gây bất ngờ khi tham gia một tác phẩm nhạc kịch, Phương Vy còn tiết lộ cô sẽ hóa thân vào một vai phản diện trong vở 'Dế Mèn ngoại truyện - Câu chuyện dưới tán cỏ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T15:16:00+07:00",
+      "fetched": "2026-07-01T23:16:03.610451+07:00"
+    },
+    {
+      "id": "ff883228680545e68481eacab1011e84",
+      "title": "Nhật Bản tăng gấp ba thuế xuất cảnh",
+      "link": "https://thanhnien.vn/nhat-ban-tang-gap-ba-thue-xuat-canh-185260701211726592.htm",
+      "summary": "Nhật Bản đã chính thức tăng thuế du lịch quốc tế (còn gọi là thuế xuất cảnh) lên gấp ba lần. Đây là một phần trong nỗ lực của chính phủ nước này nhằm giải quyết tình trạng lượng du khách nước ngoài đang tăng vọt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T15:12:00+07:00",
+      "fetched": "2026-07-01T23:16:03.610547+07:00"
+    },
+    {
+      "id": "6d67573a123b872bec9756716dddd33b",
+      "title": "Trung tâm dạy thêm ở Pakistan sập mái, 14 học sinh thiệt mạng",
+      "link": "https://thanhnien.vn/trung-tam-day-them-o-pakistan-sap-mai-14-hoc-sinh-thiet-mang-185260701203144837.htm",
+      "summary": "Giới chức Pakistan ngày 1.7 thông báo 14 trẻ em đã thiệt mạng sau khi phần mái của một trung tâm dạy thêm ở thành phố Lahore (bang Punjab) đổ sập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T15:12:00+07:00",
+      "fetched": "2026-07-01T23:16:03.610640+07:00"
+    },
+    {
+      "id": "52a8956860a9e0752892fbab64304bfe",
+      "title": "Bị chặn xe giữa đêm, thanh niên ở Đà Nẵng rút dao đâm 2 người trọng thương",
+      "link": "https://thanhnien.vn/bi-chan-xe-giua-dem-thanh-nien-o-da-nang-rut-dao-dam-2-nguoi-trong-thuong-185260701193401456.htm",
+      "summary": "Bị 3 người chặn xe giữa đêm, nam thanh niên 24 tuổi ở thành phố Đà Nẵng dùng dao mang theo đâm liên tiếp khiến 2 người bị thương, trong đó 1 nạn nhân nguy kịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T15:12:00+07:00",
+      "fetched": "2026-07-01T23:16:03.610741+07:00"
+    },
+    {
+      "id": "dd83e8d4aff9f6ec716059918d08cf3f",
+      "title": "Trương Mạn Ngọc giờ sống bằng niềm vui nuôi gà, trồng rau ở Pháp",
+      "link": "https://thanhnien.vn/truong-man-ngoc-gio-song-bang-niem-vui-nuoi-ga-trong-rau-o-phap-185260701182039837.htm",
+      "summary": "Từng là biểu tượng nhan sắc và tài năng của điện ảnh Hồng Kông, Trương Mạn Ngọc hiện chọn cuộc sống kín tiếng tại Pháp, tránh xa hào quang, thảm đỏ và những ồn ào của làng giải trí, Kbizoom đưa tin ngày 1.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T15:10:00+07:00",
+      "fetched": "2026-07-01T23:16:03.610839+07:00"
+    },
+    {
+      "id": "10617a4561e1dfe7b97dd8ea0e60e553",
+      "title": "Qua đời nhiều năm, Công nương Diana vẫn ảnh hưởng đến cuộc đời các cháu",
+      "link": "https://thanhnien.vn/qua-doi-nhieu-nam-cong-nuong-diana-van-anh-huong-den-cuoc-doi-cac-chau-185260701175613811.htm",
+      "summary": "Nếu còn sống, Công nương Diana sẽ bước sang tuổi 65 vào ngày 1.7. Dẫu cuộc đời ngắn ngủi, bà vẫn để lại ảnh hưởng sâu sắc đối với Hoàng gia Anh, không chỉ qua những hoạt động xã hội mà còn qua cách bà nuôi dạy hai con trai, Hoàng tử William và Hoàng tử Harry, theo E! News đưa tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T15:05:00+07:00",
+      "fetched": "2026-07-01T23:16:03.611025+07:00"
     },
     {
       "id": "3c37ecacb4f8140c1796a35bced39616",
@@ -303,6 +623,216 @@ window.newsData_2026_07_01 = {
       "fetched": "2026-07-01T15:03:06.441897+07:00"
     },
     {
+      "id": "3464f1ebb4a9f2961e82c33e84337ec4",
+      "title": "Anh 0-0 CHDC Congo (H1): Kane đi vào lịch sử",
+      "link": "https://vnexpress.net/anh-chdc-congo-5092298.html",
+      "summary": "Harry Kane trở thành đội trưởng tuyển Anh ra sân nhiều nhất, khi gặp CHDC Congo ở vòng 1/16 World Cup 2026 trên sân Atlanta.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T15:00:00+07:00",
+      "fetched": "2026-07-01T23:16:00.903946+07:00"
+    },
+    {
+      "id": "c547888fcce46a22948b6aa401fb976f",
+      "title": "Gần 6 năm yêu nhau, tôi và bạn gái vẫn chưa thể 'gần gũi'",
+      "link": "https://vnexpress.net/gan-6-nam-yeu-nhau-toi-va-ban-gai-van-chua-the-gan-gui-5092201.html",
+      "summary": "Cô ấy luôn kêu đau và né tránh mỗi khi tôi muốn cùng nhau tìm cách giải quyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T15:00:00+07:00",
+      "fetched": "2026-07-01T23:16:00.904047+07:00"
+    },
+    {
+      "id": "5cb920f9480ccb588f3c9f54abbcd2f1",
+      "title": "Tôi tiết kiệm 200 K nhờ thử đồ ở shop nhưng về mua online",
+      "link": "https://vnexpress.net/mua-hang-online-toi-tiet-kiem-200-k-vi-thu-do-o-shop-roi-ve-dat-mua-online-5092196.html",
+      "summary": "Sau gần nửa tiếng thử đồ, tôi chọn được hai món rất ưng ý, nhưng không mua mà chỉ cảm ơn nhân viên rồi ra về.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T15:00:00+07:00",
+      "fetched": "2026-07-01T23:16:00.904145+07:00"
+    },
+    {
+      "id": "3464f1ebb4a9f2961e82c33e84337ec4",
+      "title": "Anh 0-0 CHDC Congo (H1): Kane đi vào lịch sử",
+      "link": "https://vnexpress.net/anh-chdc-congo-5092298.html",
+      "summary": "Harry Kane trở thành đội trưởng tuyển Anh ra sân nhiều nhất, khi gặp CHDC Congo ở vòng 1/16 World Cup 2026 trên sân Atlanta.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-01T15:00:00+07:00",
+      "fetched": "2026-07-01T23:16:10.379301+07:00"
+    },
+    {
+      "id": "aaab036193dc99e146e7d9026d714318",
+      "title": "Thí sinh Olympia giành ngôi á khoa khối B00 toàn quốc",
+      "link": "https://vnexpress.net/thi-sinh-olympia-gianh-ngoi-a-khoa-khoi-b00-toan-quoc-5092249.html",
+      "summary": "Hoài Thu - á khoa khối B00 với 29,75 điểm, là cựu thí sinh Olympia, từng giành giải nhất môn Hóa của tỉnh Hà Tĩnh, dù gia cảnh khó khăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T14:38:27+07:00",
+      "fetched": "2026-07-01T23:16:00.904238+07:00"
+    },
+    {
+      "id": "ba1ee3dfa3445977d08edbb76734ade3",
+      "title": "Doanh nghiệp Hà Lan xây nhà máy sản xuất du thuyền nhôm tại Bắc Ninh",
+      "link": "https://vnexpress.net/doanh-nghiep-ha-lan-xay-nha-may-san-xuat-du-thuyen-nhom-tai-bac-ninh-5092283.html",
+      "summary": "Alumax Boats, doanh nghiệp Hà Lan cung ứng taxi đường thủy trong Thế vận hội London, tham gia liên doanh đóng tàu tại Việt Nam, hướng tới sản xuất du thuyền cá nhân bằng vật liệu bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T14:36:52+07:00",
+      "fetched": "2026-07-01T23:16:00.904378+07:00"
+    },
+    {
+      "id": "ba1ee3dfa3445977d08edbb76734ade3",
+      "title": "Doanh nghiệp Hà Lan xây nhà máy sản xuất du thuyền nhôm tại Bắc Ninh",
+      "link": "https://vnexpress.net/doanh-nghiep-ha-lan-xay-nha-may-san-xuat-du-thuyen-nhom-tai-bac-ninh-5092283.html",
+      "summary": "Alumax Boats, doanh nghiệp Hà Lan cung ứng taxi đường thủy trong Thế vận hội London, tham gia liên doanh đóng tàu tại Việt Nam, hướng tới sản xuất du thuyền cá nhân bằng vật liệu bền vững.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-01T14:36:52+07:00",
+      "fetched": "2026-07-01T23:16:07.360245+07:00"
+    },
+    {
+      "id": "16cf185b527720aea9b19aeb4590fa74",
+      "title": "Monaco nghi ngờ ai tiến hành vụ đánh bom nhà tài phiệt Ukraine?",
+      "link": "https://thanhnien.vn/monaco-nghi-ngo-ai-tien-hanh-vu-danh-bom-nha-tai-phiet-ukraine-185260701201039259.htm",
+      "summary": "Cơ quan An ninh Ukraine (SBU) được cho là nghi phạm chính trong vụ tấn công làm bị thương nhà tài phiệt Vadym Yermolaiev và gia đình ông ở Monaco.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T14:28:00+07:00",
+      "fetched": "2026-07-01T23:16:03.611120+07:00"
+    },
+    {
+      "id": "0e26d92e815bfe5e2dabc38a06548cb1",
+      "title": "Xe điện Tesla lao vào quán cafe, một người chết",
+      "link": "https://vnexpress.net/xe-dien-tesla-lao-vao-quan-cafe-mot-nguoi-chet-5091682.html",
+      "summary": "Chiếc Tesla màu trắng lao vào khu vực phục vụ ngoài trời của một quán cafe ở Simi Valley, California, chiều 29/6, khiến một người tử vong tại chỗ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T14:25:04+07:00",
+      "fetched": "2026-07-01T23:16:00.904492+07:00"
+    },
+    {
+      "id": "90b3421e23aaf3e092229460d77ca9e2",
+      "title": "Tổng Bí thư, Chủ tịch nước nêu bốn yêu cầu lớn để Nghị quyết 57 tạo kết quả thực chất",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-neu-bon-yeu-cau-lon-de-nghi-quyet-57-tao-ket-qua-thuc-chat-5092299.html",
+      "summary": "Sau 18 tháng triển khai Nghị quyết 57, đã thiết lập cơ chế, nền móng, Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu giai đoạn tới phải tập trung vào việc tạo kết quả đầu ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T14:23:23+07:00",
+      "fetched": "2026-07-01T23:16:00.904597+07:00"
+    },
+    {
+      "id": "90b3421e23aaf3e092229460d77ca9e2",
+      "title": "Tổng Bí thư, Chủ tịch nước nêu bốn yêu cầu lớn để Nghị quyết 57 tạo kết quả thực chất",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-neu-bon-yeu-cau-lon-de-nghi-quyet-57-tao-ket-qua-thuc-chat-5092299.html",
+      "summary": "Sau 18 tháng triển khai Nghị quyết 57, đã thiết lập cơ chế, nền móng, Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu giai đoạn tới phải tập trung vào việc tạo kết quả đầu ra.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-01T14:23:23+07:00",
+      "fetched": "2026-07-01T23:16:09.176237+07:00"
+    },
+    {
+      "id": "0d8701b48c5fefd55bf0c8c83b99673a",
+      "title": "Trụ sở Liên đoàn Bóng đá Đức bất ngờ bị khám xét giữa 'tâm bão' World Cup, vì sao?",
+      "link": "https://thanhnien.vn/tru-so-lien-doan-bong-da-duc-bat-ngo-bi-kham-xet-giua-tam-bao-world-cup-vi-sao-185260701211739733.htm",
+      "summary": "Trong lúc bóng đá Đức vẫn chưa hết bàng hoàng sau thất bại trước Paraguay ở vòng 32 đội World Cup 2026, một thông tin khác tiếp tục gây chấn động dư luận nước này. Đó trụ sở Liên đoàn Bóng đá Đức (DFB) tại Frankfurt đã bị các điều tra viên khám xét trong khuôn khổ cuộc điều tra liên quan đến EURO 20...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T14:19:00+07:00",
+      "fetched": "2026-07-01T23:16:03.611212+07:00"
+    },
+    {
+      "id": "3214d68973ee66edd61fb8cad6c7401d",
+      "title": "Ukraine tuyên bố tập kích nhà máy lọc dầu Nga lần thứ hai trong tuần",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-tap-kich-nha-may-loc-dau-nga-lan-thu-hai-trong-tuan-5092296.html",
+      "summary": "Tổng thống Zelensky nói lực lượng Ukraine đã tấn công nhà máy lọc dầu lớn của Nga ở Ufa lần thứ hai trong tuần, nhằm tăng áp lực với Moskva.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T14:18:01+07:00",
+      "fetched": "2026-07-01T23:16:00.904697+07:00"
+    },
+    {
+      "id": "3214d68973ee66edd61fb8cad6c7401d",
+      "title": "Ukraine tuyên bố tập kích nhà máy lọc dầu Nga lần thứ hai trong tuần",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-tap-kich-nha-may-loc-dau-nga-lan-thu-hai-trong-tuan-5092296.html",
+      "summary": "Tổng thống Zelensky nói lực lượng Ukraine đã tấn công nhà máy lọc dầu lớn của Nga ở Ufa lần thứ hai trong tuần, nhằm tăng áp lực với Moskva.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-01T14:18:01+07:00",
+      "fetched": "2026-07-01T23:16:06.242797+07:00"
+    },
+    {
+      "id": "fa4356b77313f1be6e9c2db5ec3a2465",
+      "title": "Đội tuyển Mỹ dùng công nghệ để luyện sút luân lưu",
+      "link": "https://vnexpress.net/doi-tuyen-my-dung-cong-nghe-de-luyen-sut-luan-luu-5092305.html",
+      "summary": "Đội tuyển Mỹ sử dụng công nghệ phân tích sóng não trong quá trình tập luyện nhằm cải thiện khả năng đá luân lưu, khi bước vào vòng 1/16 World Cup 2026 với Bosnia & Herzegovina.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T14:16:06+07:00",
+      "fetched": "2026-07-01T23:16:00.904803+07:00"
+    },
+    {
+      "id": "fa4356b77313f1be6e9c2db5ec3a2465",
+      "title": "Đội tuyển Mỹ dùng công nghệ để luyện sút luân lưu",
+      "link": "https://vnexpress.net/doi-tuyen-my-dung-cong-nghe-de-luyen-sut-luan-luu-5092305.html",
+      "summary": "Đội tuyển Mỹ sử dụng công nghệ phân tích sóng não trong quá trình tập luyện nhằm cải thiện khả năng đá luân lưu, khi bước vào vòng 1/16 World Cup 2026 với Bosnia & Herzegovina.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-01T14:16:06+07:00",
+      "fetched": "2026-07-01T23:16:10.379435+07:00"
+    },
+    {
+      "id": "0bfa02583640a4f448642bc2b0942bbc",
+      "title": "Quy định mới về phòng, chống tham nhũng, lãng phí, tiêu cực",
+      "link": "https://thanhnien.vn/quy-dinh-moi-ve-phong-chong-tham-nhung-lang-phi-tieu-cuc-185260701205537009.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm vừa ký ban hành Quy định số 205 - QĐ/TW của Bộ Chính trị, quy định về chức năng, nhiệm vụ, quyền hạn, tổ chức bộ máy, chế độ làm việc, quan hệ công tác của Ban Chỉ đạo Trung ương về phòng, chống tham nhũng, lãng phí, tiêu cực (Quy định 205).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T14:14:00+07:00",
+      "fetched": "2026-07-01T23:16:03.611319+07:00"
+    },
+    {
+      "id": "c9a67ab2b0f14c0cc461a5fb447122c3",
+      "title": "Nhận định bóng đá Mỹ vs Bosnia & Herzegovina: Nhiều bàn thắng, chủ nhà ăn mừng",
+      "link": "https://thanhnien.vn/nhan-dinh-bong-da-my-vs-bosnia-herzegovina-nhieu-ban-thang-chu-nha-an-mung-185260701211039043.htm",
+      "summary": "Trận Mỹ vs Bosnia & Herzegovina diễn ra lúc 7 giờ ngày 2.7. Đội chủ nhà nhiều khả năng giành chiến thắng sít sao trước đại diện châu Âu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T14:13:00+07:00",
+      "fetched": "2026-07-01T23:16:03.611421+07:00"
+    },
+    {
+      "id": "2993f609fa75a2dd91980749cc326e1b",
+      "title": "'Nghị quyết 57 tạo ra sự chuyển biến mang tính hệ thống'",
+      "link": "https://vnexpress.net/nghi-quyet-57-tao-ra-su-chuyen-bien-mang-tinh-he-thong-5092295.html",
+      "summary": "Ông Nguyễn Hải Ninh, Chánh văn phòng Trung ương Đảng nhận định, Nghị quyết 57 đang tạo sức ép, đồng thời là động lực thúc đẩy cải cách trên nhiều lĩnh vực.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-01T13:40:10+07:00",
+      "fetched": "2026-07-01T23:16:09.176372+07:00"
+    },
+    {
+      "id": "ff6f0744f6ec1d936ac72fe8d1d1cd5d",
+      "title": "Tòa Tối cao Mỹ cho phép cấm người chuyển giới trong thể thao học đường",
+      "link": "https://vnexpress.net/toa-toi-cao-my-cho-phep-cam-nguoi-chuyen-gioi-trong-the-thao-hoc-duong-5092161.html",
+      "summary": "Tòa án Tối cao Mỹ ra phán quyết mở đường cho các bang có quyền tự quyết về cấm phụ nữ chuyển giới tham gia các đội thể thao học đường.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-01T13:32:40+07:00",
+      "fetched": "2026-07-01T23:16:06.242909+07:00"
+    },
+    {
+      "id": "c125495d050ba00d93859a304726cafc",
+      "title": "Nga tìm cách nhập xăng dầu sau loạt đòn tập kích của Ukraine",
+      "link": "https://vnexpress.net/nga-tim-cach-nhap-xang-dau-sau-loat-don-tap-kich-cua-ukraine-5092271.html",
+      "summary": "Nga, nhà xuất khẩu dầu hàng đầu thế giới, đang đàm phán với các bên để nhập khẩu xăng nhằm khắc phục tình trạng thiếu hụt do các đòn tập kích của Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-01T12:27:39+07:00",
+      "fetched": "2026-07-01T23:16:06.243013+07:00"
+    },
+    {
       "id": "ed30050a7ab755aac19783f9154ad8ce",
       "title": "Thủ khoa vùng biên 'chưa bao giờ học quá 12 giờ đêm'",
       "link": "https://thanhnien.vn/thu-khoa-vung-bien-chua-bao-gio-hoc-qua-12-gio-dem-185260701181705165.htm",
@@ -411,6 +941,16 @@ window.newsData_2026_07_01 = {
       "category": "Tổng hợp",
       "published": "2026-07-01T11:54:00+07:00",
       "fetched": "2026-07-01T19:27:17.266154+07:00"
+    },
+    {
+      "id": "ebd86fe6510f4bd5e30426209ee3282b",
+      "title": "Lãi suất liên ngân hàng lên 13%",
+      "link": "https://vnexpress.net/lai-suat-lien-ngan-hang-len-13-5092109.html",
+      "summary": "Lãi suất vay mượn bình quân kỳ hạn qua đêm giữa các ngân hàng trong phiên 30/6 vọt lên 13%, mức cao nhất kể từ cuối tháng 3.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-01T11:52:26+07:00",
+      "fetched": "2026-07-01T23:16:07.360380+07:00"
     },
     {
       "id": "ef3c7d042ab6ce13d249964c09bacf98",
@@ -621,6 +1161,16 @@ window.newsData_2026_07_01 = {
       "category": "Thể thao",
       "published": "2026-07-01T10:54:23+07:00",
       "fetched": "2026-07-01T19:27:26.075449+07:00"
+    },
+    {
+      "id": "b0a66dd81839ffd20465d64de2b7e55e",
+      "title": "Ancelotti làm thế nào để Brazil lật ngược tình thế trước Nhật Bản?",
+      "link": "https://vnexpress.net/ancelotti-lam-the-nao-de-brazil-lat-nguoc-tinh-the-truoc-nhat-ban-5092221.html",
+      "summary": "Nhờ thay đổi chiến thuật tài tình của HLV Carlo Ancelotti, Brazil rũ bỏ vẻ rệu rã để làm nên màn ngược dòng trước Nhật Bản ở vòng 1/16 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-01T10:54:23+07:00",
+      "fetched": "2026-07-01T23:16:10.379547+07:00"
     },
     {
       "id": "a63cc98c009f2d0a83e558868e117a62",
