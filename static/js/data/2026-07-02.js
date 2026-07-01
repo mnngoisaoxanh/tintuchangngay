@@ -1,7 +1,17 @@
 window.newsData_2026_07_02 = {
   "date": "2026-07-02",
-  "lastUpdated": "2026-07-02T04:18:03.452290+07:00",
+  "lastUpdated": "2026-07-02T06:02:19.804654+07:00",
   "articles": [
+    {
+      "id": "d6733b763c113a2dc36eec425d86a290",
+      "title": "Chủ tịch FIFA cảm ơn Iran ở World Cup 2026 vì 'những nỗ lực vượt khó'",
+      "link": "https://tuoitre.vn/chu-tich-fifa-cam-on-iran-o-world-cup-2026-vi-nhung-no-luc-vuot-kho-100260702020001202.htm",
+      "summary": "Chủ tịch FIFA Gianni Infantino đã dành nhiều lời khen ngợi cho thành tích bất bại của Iran tại World Cup 2026. Dù phải dừng bước sớm, Iran vẫn duy trì thành tích không thua trong cả ba trận đấu tại bảng G.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T06:02:10.265300+07:00",
+      "fetched": "2026-07-02T06:02:10.265462+07:00"
+    },
     {
       "id": "b013d752a327c02ff4ad39425d3c1411",
       "title": "Bộ Công an khởi tố 7 người lập hơn 100 trang web, phát tán 26.000 bộ phim lậu",
@@ -181,6 +191,276 @@ window.newsData_2026_07_02 = {
       "category": "Tổng hợp",
       "published": "2026-07-02T02:29:23.217276+07:00",
       "fetched": "2026-07-02T02:29:23.217429+07:00"
+    },
+    {
+      "id": "5ef3d0d0d3fd2ed364dd6d3babe41b6f",
+      "title": "Tielemans giúp Bỉ lội ngược dòng không tưởng trước Senegal, những phút cuối quá nghiệt ngã!",
+      "link": "https://thanhnien.vn/tielemans-giup-bi-loi-nguoc-dong-khong-tuong-truoc-senegal-nhung-phut-cuoi-qua-nghiet-nga-185260702054957435.htm",
+      "summary": "Sớm dẫn 2-0 nhưng chỉ vài phút sơ sẩy cuối trận đã khiến Senegal trả giá đắt, chứng kiến Tielemans giúp Bỉ lội ngược dòng không tưởng trước Senegal ở vòng 32 đội World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T23:01:00+07:00",
+      "fetched": "2026-07-02T06:02:07.864966+07:00"
+    },
+    {
+      "id": "3d412c4897cf79b68d9199cd77324a57",
+      "title": "Thời trang Việt 'viral' mạnh tại Trung Quốc",
+      "link": "https://thanhnien.vn/thoi-trang-viet-viral-manh-tai-trung-quoc-185260701235209061.htm",
+      "summary": "Hàng loạt ngôi sao làng giải trí Trung Quốc nhận vô số lời khen khi mặc trang phục của nhà mốt Việt lên thảm đỏ, trình diễn ở concert, chụp ảnh tạp chí và cả khi xuất hiện trước truyền thông quốc tế, khiến cho thời trang Việt \"viral\" mạnh mẽ trên mạng xã hội xứ Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T23:00:00+07:00",
+      "fetched": "2026-07-02T06:02:07.865134+07:00"
+    },
+    {
+      "id": "9c5eb6699fdb84a7036f45ece1741ab6",
+      "title": "Trung Quốc trong tham vọng quốc tế hóa nhân dân tệ",
+      "link": "https://thanhnien.vn/trung-quoc-trong-tham-vong-quoc-te-hoa-nhan-dan-te-185260701213023722.htm",
+      "summary": "Trung Quốc đang đẩy nhanh việc quốc tế hóa nhân dân tệ nhằm tăng cường vị thế của nước này đối với nền kinh tế toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T23:00:00+07:00",
+      "fetched": "2026-07-02T06:02:07.865290+07:00"
+    },
+    {
+      "id": "dd440f7bac0a34177d77d6c51fc26311",
+      "title": "Con nhà nông đạt 30 điểm tuyệt đối: Bí mật nằm ở một thói quen ai cũng làm được",
+      "link": "https://thanhnien.vn/con-nha-nong-dat-30-diem-tuyet-doi-bi-mat-nam-o-mot-thoi-quen-ai-cung-lam-duoc-185260701191447669.htm",
+      "summary": "Nguyễn Khắc Công, Trường THPT Tân Yên số 1, Bắc Ninh (Bắc Giang cũ) là thủ khoa khối A00 (toán, lý, hóa) với 30 điểm tuyệt đối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T23:00:00+07:00",
+      "fetched": "2026-07-02T06:02:07.865470+07:00"
+    },
+    {
+      "id": "2be454a714e14eda3d5f55419e120526",
+      "title": "Vì sao ngày 18 tháng 5 âm lịch là đại lễ của đạo Phật giáo Hòa Hảo?",
+      "link": "https://thanhnien.vn/vi-sao-ngay-18-thang-5-am-lich-la-dai-le-cua-dao-phat-giao-hoa-hao-185260630143528412.htm",
+      "summary": "Ngày 18 tháng 5 âm lịch là đại lễ của đạo Phật giáo Hòa Hảo. Dịp này, tín đồ khắp nơi hướng về tổ đình để tưởng niệm ngày Đức Huỳnh giáo chủ khai sáng đạo và thực hiện nhiều nghi lễ, hoạt động thiện nguyện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T23:00:00+07:00",
+      "fetched": "2026-07-02T06:02:07.865626+07:00"
+    },
+    {
+      "id": "a0412d63467f5e253ba6d032bf620e77",
+      "title": "Phổ điểm tổ hợp D01: Liệu có bị kéo xuống vì môn tiếng Anh?",
+      "link": "https://thanhnien.vn/pho-diem-to-hop-d01-lieu-co-bi-keo-xuong-vi-mon-tieng-anh-185260701230252817.htm",
+      "summary": "Phổ điểm môn tiếng Anh 'chạm đáy' kéo tụt phổ điểm A01 và D01 xuống, tuy nhiên nhờ nguồn tuyển dồi dào mà điểm chuẩn các trường xét tổ hợp D01 vẫn có thể duy trì ở mức cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T22:54:00+07:00",
+      "fetched": "2026-07-02T06:02:07.865778+07:00"
+    },
+    {
+      "id": "04081b1f8676a8a22145bf5c17efdc8f",
+      "title": "Thành phố nghĩa tình",
+      "link": "https://thanhnien.vn/thanh-pho-nghia-tinh-185260701212622572.htm",
+      "summary": "Không biết tự bao giờ, nhiều người khi nghĩ đến TP.HCM, ngoài tính năng động, thái độ hào sảng, còn có một ý niệm dành cho thành phố này, đó là khí chất nghĩa tình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T22:53:00+07:00",
+      "fetched": "2026-07-02T06:02:07.865925+07:00"
+    },
+    {
+      "id": "134d5e59184d42fc60d96bdd1b74ea3f",
+      "title": "3D Mapping thắp sáng bầu trời TP.HCM dịp 50 năm thành phố mang tên Bác",
+      "link": "https://thanhnien.vn/3d-mapping-thap-sang-bau-troi-tphcm-dip-50-nam-thanh-pho-mang-ten-bac-185260701232914783.htm",
+      "summary": "Tối 1.7, mặt tiền trụ sở UBND TP.HCM trở thành sân khấu trình diễn nghệ thuật kết hợp công nghệ 3D Mapping trong chuỗi hoạt động kỷ niệm 50 năm Ngày TP.Sài Gòn - Gia Định vinh dự mang tên Chủ tịch Hồ Chí Minh (2.7.1976 - 2.7.2026).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T22:51:00+07:00",
+      "fetched": "2026-07-02T06:02:07.866072+07:00"
+    },
+    {
+      "id": "de0262c9fbc1e1e1cf85db1f6caf8d57",
+      "title": "Bỉ thắng ngược Senegal dù bị dẫn hai bàn ở World Cup",
+      "link": "https://vnexpress.net/bi-thang-nguoc-senegal-du-bi-dan-hai-ban-o-world-cup-5092351.html",
+      "summary": "Tiền vệ Youri Tielemans lập cú đúp, giúp Bỉ thắng ngược Senegal 3-2 ở vòng 1/16 World Cup, trong đó có bàn thắng quyết định ở phút bù hiệp phụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T22:50:28+07:00",
+      "fetched": "2026-07-02T06:02:04.462446+07:00"
+    },
+    {
+      "id": "de0262c9fbc1e1e1cf85db1f6caf8d57",
+      "title": "Bỉ thắng ngược Senegal dù bị dẫn hai bàn ở World Cup",
+      "link": "https://vnexpress.net/bi-thang-nguoc-senegal-du-bi-dan-hai-ban-o-world-cup-5092351.html",
+      "summary": "Tiền vệ Youri Tielemans lập cú đúp, giúp Bỉ thắng ngược Senegal 3-2 ở vòng 1/16 World Cup, trong đó có bàn thắng quyết định ở phút bù hiệp phụ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-01T22:50:28+07:00",
+      "fetched": "2026-07-02T06:02:19.799340+07:00"
+    },
+    {
+      "id": "1034976e09e90a99b07655b53d86211b",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 2.7.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-272026-18526070123012646.htm",
+      "summary": "Tin tức TP.HCM kiến tạo đô thị đáng sống; Có nên áp giá điện sinh hoạt theo khung giờ?; Tòa án bác bỏ chính sách siết quyền công dân của Nhà Trắng... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 2.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T22:50:00+07:00",
+      "fetched": "2026-07-02T06:02:07.866222+07:00"
+    },
+    {
+      "id": "c7b2f5e183bb89f2883598eec39394f0",
+      "title": "Cú hích cho truy xuất nguồn gốc nông sản",
+      "link": "https://thanhnien.vn/cu-hich-cho-truy-xuat-nguon-goc-nong-san-185260701222926495.htm",
+      "summary": "Câu chuyện hàng hóa trôi nổi đến tay người tiêu dùng, không rõ nguồn gốc xuất xứ, thiếu thông tin minh bạch… có thể được đẩy lùi nhờ hệ thống truy xuất nông sản mà Chính phủ đang nỗ lực hoàn thiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T22:46:00+07:00",
+      "fetched": "2026-07-02T06:02:07.866399+07:00"
+    },
+    {
+      "id": "bac3de94caf6674e4b6f1bf8e48cb71d",
+      "title": "Có nên áp giá điện sinh hoạt theo khung giờ?",
+      "link": "https://thanhnien.vn/co-nen-ap-gia-dien-sinh-hoat-theo-khung-gio-185260701210143012.htm",
+      "summary": "Bộ Công thương đề xuất bổ sung quy định áp dụng giá bán lẻ điện sinh hoạt theo thời gian sử dụng: cao điểm, bình thường và thấp điểm. Đề xuất này nhận được nhiều ý kiến trái chiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T22:45:00+07:00",
+      "fetched": "2026-07-02T06:02:07.866557+07:00"
+    },
+    {
+      "id": "4bd0a5ec02afb3300da0ae583fd7ad79",
+      "title": "Từ hôm nay, lưu ý khi đăng ký nguyện vọng xét tuyển ĐH",
+      "link": "https://thanhnien.vn/tu-hom-nay-luu-y-khi-dang-ky-nguyen-vong-xet-tuyen-dh-185260701204016282.htm",
+      "summary": "Bộ GD-ĐT và các địa phương đã công bố điểm thi tốt nghiệp THPT năm 2026. Từ hôm nay (2.7), thí sinh bắt đầu đăng ký nguyện vọng xét tuyển trên Hệ thống hỗ trợ tuyển sinh chung của Bộ GD-ĐT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T22:45:00+07:00",
+      "fetched": "2026-07-02T06:02:07.866704+07:00"
+    },
+    {
+      "id": "eb5619f825d09d1edf314cd161578d4a",
+      "title": "Quả mít khổng lồ nặng 53 kg: Bổ ra, ai trong chợ cũng bất ngờ",
+      "link": "https://thanhnien.vn/qua-mit-khong-lo-nang-53-kg-bo-ra-ai-trong-cho-cung-bat-ngo-185260701172734086.htm",
+      "summary": "Người bán mang quả mít nặng 53 kg ra chợ nhưng không ai dám mua. Sau đó, một tiểu thương mua lại và bổ ra, từng múi mít vàng ươm, ngọt lịm khiến nhiều người trầm trồ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T22:45:00+07:00",
+      "fetched": "2026-07-02T06:02:07.866849+07:00"
+    },
+    {
+      "id": "8289612e2740c93f29204c6127ebb6d4",
+      "title": "Mỹ - Iran đàm phán gián tiếp, bàn về eo biển Hormuz",
+      "link": "https://thanhnien.vn/my-iran-dam-phan-gian-tiep-ban-ve-eo-bien-hormuz-185260701221332487.htm",
+      "summary": "Reuters hôm qua (1.7) dẫn lời một quan chức cấp cao Iran cho hay các cuộc đàm phán gián tiếp giữa Tehran và Washington đã diễn ra tại Doha từ tối 30.6 (giờ địa phương).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T22:32:00+07:00",
+      "fetched": "2026-07-02T06:02:07.867012+07:00"
+    },
+    {
+      "id": "c8ad32aae643146fd3ef6f877ea7915a",
+      "title": "Tiêu điểm quốc tế 2.7: Ông Trump 'thua' Tòa tối cao | Ukraine sẽ sản xuất tên lửa Pháp?",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-27-ong-trump-thua-toa-toi-cao-ukraine-se-san-xuat-ten-lua-phap-185260702020511371.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 2.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T22:30:00+07:00",
+      "fetched": "2026-07-02T06:02:07.867159+07:00"
+    },
+    {
+      "id": "4afb07abd229f00de88699c3c71b62e6",
+      "title": "Thủ khoa A00 ở Thanh Hóa thạo cấy lúa, dùng AI luyện thi",
+      "link": "https://vnexpress.net/thu-khoa-a00-o-thanh-hoa-thao-cay-lua-dung-ai-luyen-thi-5092250.html",
+      "summary": "Phạm Đăng Đạt, thủ khoa khối A00 với 29,75 điểm, nói biết cấy lúa từ cấp 3 và thường dùng AI để hỗ trợ giải những bài Toán khó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T22:05:00+07:00",
+      "fetched": "2026-07-02T06:02:04.462626+07:00"
+    },
+    {
+      "id": "1d922e12c90c11f820ec6513aac4a5a5",
+      "title": "Matthaus: 'Vợ và bạn gái cầu thủ khiến Đức bị loại ở World Cup 2026'",
+      "link": "https://vnexpress.net/matthaus-vo-va-ban-gai-cau-thu-khien-duc-bi-loai-o-world-cup-2026-5092301.html",
+      "summary": "Theo cựu danh thủ Lothar Matthaus, những tranh cãi liên quan đến vợ, bạn gái và gia đình các cầu thủ đã ảnh hưởng đến đội tuyển Đức, góp phần dẫn đến thất bại trước Paraguay ở World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T22:00:00+07:00",
+      "fetched": "2026-07-02T06:02:04.462797+07:00"
+    },
+    {
+      "id": "4e4fd86a1c0bb82b973d858cce2f74f2",
+      "title": "Cách Tòa Tối cao Mỹ vẽ lại ranh giới quyền lực của ông Trump",
+      "link": "https://vnexpress.net/cach-toa-toi-cao-my-ve-lai-ranh-gioi-quyen-luc-cua-ong-trump-5092129.html",
+      "summary": "Tòa án Tối cao Mỹ đã ra những phán quyết vừa mở rộng, vừa kìm hãm quyền lực của Tổng thống Trump, tái định hình cán cân giữa Nhà Trắng và các thể chế khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T22:00:00+07:00",
+      "fetched": "2026-07-02T06:02:04.462958+07:00"
+    },
+    {
+      "id": "88f3651e4693ccc691674d5ce3dce1f9",
+      "title": "Vợ có phải trả nợ thay khi chồng chết?",
+      "link": "https://vnexpress.net/vo-co-phai-tra-no-thay-khi-chong-chet-5091791.html",
+      "summary": "Cách đây vài năm, chồng tôi đứng ra vay người quen 5 cây vàng SJC khi mua căn nhà làm nơi sinh sống cho cả gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T22:00:00+07:00",
+      "fetched": "2026-07-02T06:02:04.463119+07:00"
+    },
+    {
+      "id": "22b5812a7c74c2f65648f3f46126bdc7",
+      "title": "Nhân viên công nghệ Trung Quốc bất an vì AI",
+      "link": "https://vnexpress.net/nhan-vien-cong-nghe-trung-quoc-bat-an-vi-ai-5090935.html",
+      "summary": "Khi các công ty công nghệ Trung Quốc thích nghi với kỷ nguyên AI, nhiều nhân viên lại trong tâm trạng sợ bị \"tối ưu hóa\" và mất việc làm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T22:00:00+07:00",
+      "fetched": "2026-07-02T06:02:04.463282+07:00"
+    },
+    {
+      "id": "6f78ba1699a55f678158428f661ed1da",
+      "title": "Xe máy sang đường bị xe đi thẳng húc văng - ai sai?",
+      "link": "https://vnexpress.net/xe-may-sang-duong-bi-xe-di-thang-huc-vang-ai-sai-5091907.html",
+      "summary": "Người đàn ông đi xe máy sang gần hết đường để rẽ trái thì bị một người đi xe máy tốc độ cao húc bay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T22:00:00+07:00",
+      "fetched": "2026-07-02T06:02:04.463475+07:00"
+    },
+    {
+      "id": "4e4fd86a1c0bb82b973d858cce2f74f2",
+      "title": "Cách Tòa Tối cao Mỹ vẽ lại ranh giới quyền lực của ông Trump",
+      "link": "https://vnexpress.net/cach-toa-toi-cao-my-ve-lai-ranh-gioi-quyen-luc-cua-ong-trump-5092129.html",
+      "summary": "Tòa án Tối cao Mỹ đã ra những phán quyết vừa mở rộng, vừa kìm hãm quyền lực của Tổng thống Trump, tái định hình cán cân giữa Nhà Trắng và các thể chế khác.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-01T22:00:00+07:00",
+      "fetched": "2026-07-02T06:02:12.364622+07:00"
+    },
+    {
+      "id": "22b5812a7c74c2f65648f3f46126bdc7",
+      "title": "Nhân viên công nghệ Trung Quốc bất an vì AI",
+      "link": "https://vnexpress.net/nhan-vien-cong-nghe-trung-quoc-bat-an-vi-ai-5090935.html",
+      "summary": "Khi các công ty công nghệ Trung Quốc thích nghi với kỷ nguyên AI, nhiều nhân viên lại trong tâm trạng sợ bị \"tối ưu hóa\" và mất việc làm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-01T22:00:00+07:00",
+      "fetched": "2026-07-02T06:02:18.050226+07:00"
+    },
+    {
+      "id": "1d922e12c90c11f820ec6513aac4a5a5",
+      "title": "Matthaus: 'Vợ và bạn gái cầu thủ khiến Đức bị loại ở World Cup 2026'",
+      "link": "https://vnexpress.net/matthaus-vo-va-ban-gai-cau-thu-khien-duc-bi-loai-o-world-cup-2026-5092301.html",
+      "summary": "Theo cựu danh thủ Lothar Matthaus, những tranh cãi liên quan đến vợ, bạn gái và gia đình các cầu thủ đã ảnh hưởng đến đội tuyển Đức, góp phần dẫn đến thất bại trước Paraguay ở World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-01T22:00:00+07:00",
+      "fetched": "2026-07-02T06:02:19.799537+07:00"
+    },
+    {
+      "id": "467550264cc7310f24194f3a415ce0d2",
+      "title": "Toyota Camry hybrid giảm giá 140 triệu đồng",
+      "link": "https://vnexpress.net/toyota-camry-hybrid-giam-gia-140-trieu-dong-5092147.html",
+      "summary": "Liên doanh Nhật giảm giá bán lẻ bản thấp nhất của Camry hybrid, về mức 1,32 tỷ đồng nhờ ưu đãi thuế tiêu thụ đặc biệt, từ 1/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-01T21:34:00+07:00",
+      "fetched": "2026-07-02T06:02:04.463644+07:00"
     },
     {
       "id": "1a50c9ba64edda7ed4ccd5a80bc01d70",
