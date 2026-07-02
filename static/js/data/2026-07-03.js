@@ -1,6 +1,6 @@
 window.newsData_2026_07_03 = {
   "date": "2026-07-03",
-  "lastUpdated": "2026-07-03T02:09:23.671723+07:00",
+  "lastUpdated": "2026-07-03T03:54:03.578700+07:00",
   "articles": [
     {
       "id": "dd111a94b884f28e25ff7da26f33e3de",
@@ -221,6 +221,16 @@ window.newsData_2026_07_03 = {
       "category": "Tổng hợp",
       "published": "2026-07-03T00:49:14.261675+07:00",
       "fetched": "2026-07-03T00:49:14.261805+07:00"
+    },
+    {
+      "id": "03536a085af1bc23c987e4602743af46",
+      "title": "Argentina - Cabo Verde (5 giờ ngày 4.7, trực tiếp trên VTV): Messi trước cơ hội phá tiếp kỷ lục",
+      "link": "https://thanhnien.vn/argentina-cabo-verde-5-gio-ngay-47-truc-tiep-tren-vtv-messi-truoc-co-hoi-pha-tiep-ky-luc-185260702201521329.htm",
+      "summary": "Trận đội tuyển Argentina gặp tân binh Cabo Verde tại vòng 32 đội sẽ là cơ hội để Messi tiếp tục nâng cao kỷ lục ghi bàn và phá tiếp các kỷ lục tại World Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T19:45:00+07:00",
+      "fetched": "2026-07-03T03:53:53.137960+07:00"
     },
     {
       "id": "6ffe62d35cd29c19ae829c7ecf022f6b",
