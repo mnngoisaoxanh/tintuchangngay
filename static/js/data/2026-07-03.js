@@ -1,7 +1,77 @@
 window.newsData_2026_07_03 = {
   "date": "2026-07-03",
-  "lastUpdated": "2026-07-03T00:49:20.377467+07:00",
+  "lastUpdated": "2026-07-03T02:09:23.671723+07:00",
   "articles": [
+    {
+      "id": "dd111a94b884f28e25ff7da26f33e3de",
+      "title": "Hơn 1.300 tác phẩm dự thi sáng tác về hạt gạo Việt",
+      "link": "https://tuoitre.vn/hon-1300-tac-pham-du-thi-sang-tac-ve-hat-gao-viet-100260702211109318.htm",
+      "summary": "Với hơn 1.300 tác phẩm dự thi đến từ đa dạng các loại hình, cuộc vận động sáng tác về hạt gạo Việt đã khép lại với nhiều cảm xúc thăng hoa, tôn vinh niềm tự hào văn minh lúa nước hàng nghìn năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T02:09:15.056963+07:00",
+      "fetched": "2026-07-03T02:09:15.057025+07:00"
+    },
+    {
+      "id": "c9d94d770f35326258b5fcc84e91b60c",
+      "title": "Phó thủ tướng: Dự báo thiên tai năm nay rất phức tạp, phải xây dựng kịch bản ứng phó",
+      "link": "https://tuoitre.vn/pho-thu-tuong-du-bao-thien-tai-nam-nay-rat-phuc-tap-phai-xay-dung-kich-ban-ung-pho-100260702222407582.htm",
+      "summary": "Trước dự báo thiên tai năm nay rất phức tạp, Phó thủ tướng Hồ Quốc Dũng yêu cầu Bộ Nông nghiệp và Môi trường phải xây dựng kịch bản ứng phó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T02:09:15.056868+07:00",
+      "fetched": "2026-07-03T02:09:15.056949+07:00"
+    },
+    {
+      "id": "56e4bff98d3c3fa689c2bc4fe8334ae1",
+      "title": "Tổng thống Ukraine tuyên bố sẽ 'trả đũa', Nga nói không tấn công dân thường Kiev",
+      "link": "https://tuoitre.vn/tong-thong-ukraine-tuyen-bo-se-tra-dua-nga-noi-khong-tan-cong-dan-thuong-kiev-100260702224536571.htm",
+      "summary": "Bộ Ngoại giao Nga khẳng định đợt tấn công lớn nhất vào thủ đô Kiev của Ukraine nhắm vào các mục tiêu quân sự. Ukraine tuyên bố sẽ đáp trả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T02:09:15.056800+07:00",
+      "fetched": "2026-07-03T02:09:15.056858+07:00"
+    },
+    {
+      "id": "f57d3cb29440e2ad40e7cf6339096ab8",
+      "title": "Đại học Quốc gia Hà Nội: 100 điểm HSA bằng 26 điểm tốt nghiệp A00",
+      "link": "https://tuoitre.vn/dai-hoc-quoc-gia-ha-noi-100-diem-hsa-bang-26-diem-tot-nghiep-a00-100260701072914442.htm",
+      "summary": "Tối 2-7, Đại học Quốc gia Hà Nội chính thức công bố bảng bách phân vị quy đổi tương đương giữa điểm thi đánh giá năng lực HSA với 4 tổ hợp truyền thống A00, B00, C00 và D01.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T02:09:15.056731+07:00",
+      "fetched": "2026-07-03T02:09:15.056789+07:00"
+    },
+    {
+      "id": "820ec0fbac725b16b0be29f1b67ed24f",
+      "title": "Thái Lan cùng 11 nước chống đường dây lừa đảo qua tổng đài, mua bán người",
+      "link": "https://tuoitre.vn/thai-lan-cung-11-nuoc-chong-duong-day-lua-dao-qua-tong-dai-mua-ban-nguoi-100260702232944999.htm",
+      "summary": "Đại diện lực lượng thực thi pháp luật của 11 quốc gia đã họp bàn tại tỉnh Chanthaburi (Thái Lan) nhằm tăng cường phối hợp chống các đường dây lừa đảo qua tổng đài, tội phạm công nghệ cao và mua bán người xuyên quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T02:09:15.056658+07:00",
+      "fetched": "2026-07-03T02:09:15.056721+07:00"
+    },
+    {
+      "id": "1f8b801b13ca8b65ffbfb420ea1c4357",
+      "title": "Thủ môn người Palestine thiệt mạng thương tâm ở Gaza",
+      "link": "https://tuoitre.vn/thu-mon-nguoi-palestine-thiet-mang-thuong-tam-o-gaza-10026070223364671.htm",
+      "summary": "Thủ môn Palestine Saleem Al-Ashqar đã qua đời sau khi trúng hỏa lực từ xe tăng của lực lượng Israel vào ngày 1-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T02:09:15.056581+07:00",
+      "fetched": "2026-07-03T02:09:15.056647+07:00"
+    },
+    {
+      "id": "de8188caed145df2a0bafe78e81d5bc7",
+      "title": "Trực tuyến Tây Ban Nha - Áo (2h ngày 3-7): Yamal, Oyarzabal đá chính",
+      "link": "https://tuoitre.vn/truc-tuyen-tay-ban-nha-ao-2h-ngay-3-7-ve-di-tiep-cho-tay-ban-nha-100260702085557391.htm",
+      "summary": "Ở trận đấu với Áo tại sân vận động SoFi, Tây Ban Nha sẽ ra sân với sơ đồ 4-3-2-1 với Oyarzabal đá cao nhất trên hàng tiền đạo, Yamal cũng sẽ xuất trận. Mời bạn đọc theo dõi diễn biến trên Tuổi Trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T02:09:15.056425+07:00",
+      "fetched": "2026-07-03T02:09:15.056567+07:00"
+    },
     {
       "id": "235bfbdc0c29208cc76b6ff327e7e861",
       "title": "Bộ Ngoại giao tiếp nhận bản sao thư ủy nhiệm của tân Đại sứ Mỹ tại Việt Nam",
@@ -153,6 +223,96 @@ window.newsData_2026_07_03 = {
       "fetched": "2026-07-03T00:49:14.261805+07:00"
     },
     {
+      "id": "6ffe62d35cd29c19ae829c7ecf022f6b",
+      "title": "Điều gì xảy ra với đường huyết khi bạn ăn kem?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-duong-huyet-khi-ban-an-kem-5092641.html",
+      "summary": "Ăn kem có thể làm tăng đường huyết nhưng mức độ và thời điểm tăng không chỉ phụ thuộc vào lượng đường mà còn bị ảnh hưởng bởi chất béo, protein, khẩu phần ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T18:00:00+07:00",
+      "fetched": "2026-07-03T02:09:10.894738+07:00"
+    },
+    {
+      "id": "9561cf12c790b19414454e08504ae9da",
+      "title": "Những đống đổ nát ở Kiev sau đòn tập kích quy mô lớn của Nga",
+      "link": "https://vnexpress.net/nhung-dong-do-nat-o-kiev-sau-don-tap-kich-quy-mo-lon-cua-nga-5092599.html",
+      "summary": "Nga phóng 570 vũ khí các loại để tập kích Ukraine, mục tiêu chính là thủ đô Kiev, khiến ít nhất 17 người chết và nhiều công trình hư hại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T18:00:00+07:00",
+      "fetched": "2026-07-03T02:09:10.894937+07:00"
+    },
+    {
+      "id": "9561cf12c790b19414454e08504ae9da",
+      "title": "Những đống đổ nát ở Kiev sau đòn tập kích quy mô lớn của Nga",
+      "link": "https://vnexpress.net/nhung-dong-do-nat-o-kiev-sau-don-tap-kich-quy-mo-lon-cua-nga-5092599.html",
+      "summary": "Nga phóng 570 vũ khí các loại để tập kích Ukraine, mục tiêu chính là thủ đô Kiev, khiến ít nhất 17 người chết và nhiều công trình hư hại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-02T18:00:00+07:00",
+      "fetched": "2026-07-03T02:09:16.907859+07:00"
+    },
+    {
+      "id": "3241c0a407fa30eb8152a370f73a7448",
+      "title": "Bờ sông Sài Gòn kín người xem pháo hoa tầm cao 15 phút",
+      "link": "https://vnexpress.net/bo-song-sai-gon-kin-nguoi-xem-phao-hoa-tam-cao-15-phut-5092828.html",
+      "summary": "Đông đảo người dân và du khách đổ về bờ sông Sài Gòn tối 2/7 để xem màn pháo hoa nghệ thuật kéo dài 15 phút, mừng 50 năm ngày thành phố mang tên Chủ tịch Hồ Chí Minh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T17:48:27+07:00",
+      "fetched": "2026-07-03T02:09:10.895107+07:00"
+    },
+    {
+      "id": "844608663636e75bf0817765e616361c",
+      "title": "Thịt bò ánh xanh có an toàn?",
+      "link": "https://vnexpress.net/thit-bo-anh-xanh-co-an-toan-5090801.html",
+      "summary": "Tôi thấy nhiều miếng thịt bò có vệt óng ánh xanh, tím, lấp lánh như cầu vồng, có phải thịt bị hư hay tẩm hóa chất không? (Hoa, 29 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T17:04:00+07:00",
+      "fetched": "2026-07-03T02:09:10.895269+07:00"
+    },
+    {
+      "id": "9e3f18a04068a01986f6113caea43e7d",
+      "title": "Nhà sàn 150 m2 dùng năng lượng mặt trời giữa ruộng lúa",
+      "link": "https://vnexpress.net/nha-san-150-m2-dung-nang-luong-mat-troi-giua-ruong-lua-5091684.html",
+      "summary": "Ngôi nhà gỗ được đặt trên khu đất gần 8.000 m2, kết hợp nông trại, ao tích nước và hệ thống điện mặt trời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T17:02:00+07:00",
+      "fetched": "2026-07-03T02:09:10.895434+07:00"
+    },
+    {
+      "id": "ad3346a6dc9a38c4178b7e7989fe9793",
+      "title": "Hình ảnh đầu tiên thấy tiết lộ về năng lực thiên bẩm của bạn",
+      "link": "https://vnexpress.net/hinh-anh-dau-tien-thay-tiet-lo-ve-nang-luc-thien-bam-cua-ban-5092527.html",
+      "summary": "Không có đáp án nào đúng hay sai, bởi điều quan trọng chính là hình ảnh đầu tiên mà mắt bạn vô thức bắt gặp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T17:01:00+07:00",
+      "fetched": "2026-07-03T02:09:10.895590+07:00"
+    },
+    {
+      "id": "b5f5f692a638d946b49ed8fe3893f183",
+      "title": "Người vợ rơi xuống vực và bí mật chôn vùi 20 năm",
+      "link": "https://vnexpress.net/nguoi-vo-roi-xuong-vuc-va-bi-mat-chon-vui-20-nam-5092744.html",
+      "summary": "David khai vợ đứng gần mép vực để chụp hình, rồi anh xoay người để chuyển ba lô ra khỏi khung hình, quay lại thì không thấy đâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T17:00:18+07:00",
+      "fetched": "2026-07-03T02:09:10.895741+07:00"
+    },
+    {
+      "id": "f7c3fc1a1a702ed8459dcaefd93d0121",
+      "title": "Cao ốc và lối thoát lũ sông Hồng",
+      "link": "https://vnexpress.net/cao-oc-va-loi-thoat-lu-song-hong-5092815.html",
+      "summary": "Từ khi được mời góp ý đến lúc đồ án Quy hoạch Thủ đô tầm nhìn 100 năm được triển lãm, tôi luôn dành sự quan tâm đặc biệt tới hành lang sông Hồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T17:00:16+07:00",
+      "fetched": "2026-07-03T02:09:10.895890+07:00"
+    },
+    {
       "id": "0f75b35b157c2fe4df3d6548a00e80b7",
       "title": "Những tấm vé đi tiếp nhọc nhằn",
       "link": "https://thanhnien.vn/nhung-tam-ve-di-tiep-nhoc-nhan-185260702201355091.htm",
@@ -191,6 +351,46 @@ window.newsData_2026_07_03 = {
       "category": "Công nghệ",
       "published": "2026-07-02T17:00:00+07:00",
       "fetched": "2026-07-03T00:49:18.765834+07:00"
+    },
+    {
+      "id": "a00f092a15f2fd507ef60437e04126e4",
+      "title": "Tôi sẵn sàng bán nhà giá rẻ cho con chứ không chia thừa kế sớm",
+      "link": "https://vnexpress.net/thua-ke-the-vi-toi-san-sang-ban-nha-gia-re-cho-con-chu-khong-chia-thua-ke-som-5092633.html",
+      "summary": "Nếu cần nhà để ở, tôi sẵn sàng bán lại cho con căn nhà đang cho thuê với mức giá thấp hơn thị trường, chứ không có chuyện cho không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T17:00:00+07:00",
+      "fetched": "2026-07-03T02:09:10.896116+07:00"
+    },
+    {
+      "id": "0ccb235210e669bb8044040a0ccf1d1c",
+      "title": "Cuộc sống trong những ngôi nhà dang dở ở Hà Nội",
+      "link": "https://vnexpress.net/cuoc-song-trong-nhung-ngoi-nha-dang-do-o-ha-noi-5092609.html",
+      "summary": "Sau khi bàn giao một phần diện tích cho các dự án giao thông, hàng loạt ngôi nhà bị cắt xén, trống hoác, người dân vẫn tiếp tục sinh sống với nhiều bất tiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T17:00:00+07:00",
+      "fetched": "2026-07-03T02:09:10.896281+07:00"
+    },
+    {
+      "id": "3120b5c5ff6f8e740e303315d16bb595",
+      "title": "Việc giao ngoài giờ hành chính, có bị kỷ luật nếu tôi không làm ngay?",
+      "link": "https://vnexpress.net/viec-giao-ngoai-gio-hanh-chinh-co-bi-ky-luat-neu-toi-khong-lam-ngay-5092403.html",
+      "summary": "Tối thứ ba tuần trước, tôi nhận được tin nhắn từ trưởng phòng yêu cầu xử lý gấp một số tài liệu để sáng hôm sau báo cáo lãnh đạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T17:00:00+07:00",
+      "fetched": "2026-07-03T02:09:10.896437+07:00"
+    },
+    {
+      "id": "40f267a9ca9dd1e79c596433fe3a23f8",
+      "title": "Cuộc sống tuổi trung niên của nghệ sĩ Nguyệt Hằng",
+      "link": "https://vnexpress.net/cuoc-song-tuoi-trung-nien-cua-nghe-si-nguyet-hang-5091567.html",
+      "summary": "Diễn viên Nguyệt Hằng, 53 tuổi, tận hưởng niềm vui từ công việc diễn xuất, giảng dạy, trân trọng sự bình an bên gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T17:00:00+07:00",
+      "fetched": "2026-07-03T02:09:10.897096+07:00"
     },
     {
       "id": "b3401abaa8520662a4e566b530f2e727",
