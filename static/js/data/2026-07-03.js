@@ -1,7 +1,17 @@
 window.newsData_2026_07_03 = {
   "date": "2026-07-03",
-  "lastUpdated": "2026-07-03T03:54:03.578700+07:00",
+  "lastUpdated": "2026-07-03T05:56:34.890287+07:00",
   "articles": [
+    {
+      "id": "3e8aa29b564990b8d98d66e22f946c3b",
+      "title": "Trực tuyến Bồ Đào Nha - Croatia (6h): 'Lão tướng' Ronaldo, Modric ra sân",
+      "link": "https://tuoitre.vn/truc-tuyen-bo-dao-nha-croatia-6h-ronaldo-doi-dau-modric-100260702122915033.htm",
+      "summary": "Mời bạn đọc theo dõi trực tuyến trên Tuổi Trẻ trận đấu giữa Bồ Đào Nha và Croatia trong khuôn khổ vòng 32 đội World Cup 2026, diễn ra lúc 6h ngày 3-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T05:56:26.405934+07:00",
+      "fetched": "2026-07-03T05:56:26.406038+07:00"
+    },
     {
       "id": "dd111a94b884f28e25ff7da26f33e3de",
       "title": "Hơn 1.300 tác phẩm dự thi sáng tác về hạt gạo Việt",
@@ -221,6 +231,286 @@ window.newsData_2026_07_03 = {
       "category": "Tổng hợp",
       "published": "2026-07-03T00:49:14.261675+07:00",
       "fetched": "2026-07-03T00:49:14.261805+07:00"
+    },
+    {
+      "id": "608e12e9b18425f6901ffb0988a93940",
+      "title": "Chìa khóa tự chủ phát triển",
+      "link": "https://thanhnien.vn/chia-khoa-tu-chu-phat-trien-185260702205344459.htm",
+      "summary": "\"Chúng ta không còn đặt câu hỏi làm thế nào để có thêm vốn nước ngoài nữa, thay vào đó chúng ta phải trả lời câu hỏi hóc búa hơn: làm thế nào sử dụng hiệu quả nguồn lực nước ngoài để nâng cao nội lực, năng lực công nghệ, sức cạnh tranh và tự chủ của nền kinh tế\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:55:00+07:00",
+      "fetched": "2026-07-03T05:56:24.492182+07:00"
+    },
+    {
+      "id": "3eb6ef96fc7de0801207d0dd4c8d7387",
+      "title": "Hướng đi nào cho thí sinh dưới 15 điểm 3 môn tổ hợp?",
+      "link": "https://thanhnien.vn/huong-di-nao-cho-thi-sinh-duoi-15-diem-3-mon-to-hop-185260702202911954.htm",
+      "summary": "Ngay sau khi Bộ GD-ĐT công bố điểm thi tốt nghiệp THPT và phổ điểm các môn thi, tổ hợp môn, nhiều thí sinh bật khóc nhắn tin, gọi điện về các trường ĐH bày tỏ nỗi buồn vì không đủ điều kiện xét tuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:54:00+07:00",
+      "fetched": "2026-07-03T05:56:24.492335+07:00"
+    },
+    {
+      "id": "9524ab177ddc8ba09ccd9fa0063d1c7e",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 3.7.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-372026-185260702224909857.htm",
+      "summary": "Tin tức TP.Hồ Chí Minh tiếp tục đi trước, mở đường; Hướng đi nào cho thí sinh dưới 15 điểm 3 môn tổ hợp?; World Cup 2026: Đội mạnh nào phụ thuộc vào siêu sao nhiều nhất?… là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 3.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:50:00+07:00",
+      "fetched": "2026-07-03T05:56:24.492479+07:00"
+    },
+    {
+      "id": "273ef69e283f1b02d013e6f9bf21b078",
+      "title": "Điểm chuẩn ĐH năm 2026: Dự báo nhiều biến động",
+      "link": "https://thanhnien.vn/diem-chuan-dh-nam-2026-du-bao-nhieu-bien-dong-185260702220337762.htm",
+      "summary": "Năm nay dự báo sẽ có nhiều biến động về điểm chuẩn. Trong khi khối C00 giảm mạnh thì B00 nhiều khả năng sẽ tăng vọt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:45:00+07:00",
+      "fetched": "2026-07-03T05:56:24.492618+07:00"
+    },
+    {
+      "id": "7c8aae3cd0e28d34fa6d19bdd8023dfc",
+      "title": "Từ trung tâm TP.HCM, nhiếp ảnh gia lần thứ 5 chụp được núi Bà Đen",
+      "link": "https://thanhnien.vn/tu-trung-tam-tphcm-nhiep-anh-gia-lan-thu-5-chup-duoc-nui-ba-den-185260701185454402.htm",
+      "summary": "Trong ngày đầu tiên của tháng 7 trời trong veo, khoảnh khắc núi Bà Đen được nhìn thấy từ trung tâm TP.HCM xuất hiện thật đẹp qua ảnh chụp của nhiếp ảnh gia Minh Hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:45:00+07:00",
+      "fetched": "2026-07-03T05:56:24.492754+07:00"
+    },
+    {
+      "id": "cd7d572ad61e712a769c82dab6b48569",
+      "title": "Gian hàng trái cây tuổi thơ ở TP.HCM: Người lớn tìm ký ức, trẻ nhỏ lần đầu biết",
+      "link": "https://thanhnien.vn/gian-hang-trai-cay-tuoi-tho-o-tphcm-nguoi-lon-tim-ky-uc-tre-nho-lan-dau-biet-185260602161949795.htm",
+      "summary": "Từ ô môi, me keo, chùm ruột đến mây rừng, gian hàng nhỏ ở TP.HCM trở thành nơi nhiều người lớn tìm lại hương vị tuổi thơ, còn con cháu lần đầu được khám phá những loại trái dân dã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:45:00+07:00",
+      "fetched": "2026-07-03T05:56:24.492918+07:00"
+    },
+    {
+      "id": "49e0879855b5e56256d3e1e2828b3a11",
+      "title": "Cựu Tổng tư lệnh Ukraine sẽ 'đấu' ông Zelensky trong bầu cử tổng thống?",
+      "link": "https://thanhnien.vn/cuu-tong-tu-lenh-ukraine-se-dau-ong-zelensky-trong-bau-cu-tong-thong-185260702225015693.htm",
+      "summary": "Cựu Tổng tư lệnh Lực lượng vũ trang Ukraine Valerii Zaluzhnyi đã có cuộc thảo luận với Tổng thống Ukraine Volodymyr Zelensky về khả năng ông tham gia tranh cử tổng thống nếu cuộc bầu cử diễn ra vào mùa thu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:36:00+07:00",
+      "fetched": "2026-07-03T05:56:24.493064+07:00"
+    },
+    {
+      "id": "dffcb209898919b24d68c3a75278104c",
+      "title": "Dòng điện luôn có những điều tử tế",
+      "link": "https://thanhnien.vn/dong-dien-luon-co-nhung-dieu-tu-te-185260629094557382.htm",
+      "summary": "Nhắc đến ngành điện TP.HCM, người ta thường nghĩ đến những cột điện vươn cao, những đường dây nối dài qua phố xá, những con số về sản lượng điện hay những công trình hiện đại. Thế nhưng, có một vẻ đẹp khác lại hiện lên từ những điều rất đỗi giản dị. Đó là một bình nước mát đặt bên đường giữa mùa nắn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:34:00+07:00",
+      "fetched": "2026-07-03T05:56:24.493203+07:00"
+    },
+    {
+      "id": "eab67dd8f61241f9f4e48615c552b097",
+      "title": "Đại án ngành điện: Vì sao 13 công ty bị nhắc tên trong cùng một vụ án?",
+      "link": "https://thanhnien.vn/dai-an-nganh-dien-vi-sao-13-cong-ty-bi-nhac-ten-trong-cung-mot-vu-an-18526070223273334.htm",
+      "summary": "Trong vụ án xảy ra tại Tổng công ty Truyền tải điện quốc gia và các đơn vị liên quan, cảnh sát đã khởi tố 47 bị can ở 5 nhóm tội. Đến nay đã tạm giữ, phong tỏa tiền và tài sản lên tới hơn 1.700 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:31:00+07:00",
+      "fetched": "2026-07-03T05:56:24.493336+07:00"
+    },
+    {
+      "id": "5960dc00cb94ffa005f1d7019c1e69f7",
+      "title": "Tiêu điểm quốc tế ngày 3.7: Đức truy tố vụ nổ Nord Stream | Iran dọa 'dạy dỗ Israel'",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-37-duc-truy-to-vu-no-nord-stream-iran-doa-day-do-israel-185260702234445491.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 3.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:30:00+07:00",
+      "fetched": "2026-07-03T05:56:24.493469+07:00"
+    },
+    {
+      "id": "ed962a123ade91a0eec7c0588cd2b80c",
+      "title": "Trúng độc đắc 14 tỉ đồng xổ số miền Nam, người đàn ông lãnh thưởng 2 lần",
+      "link": "https://thanhnien.vn/trung-doc-dac-14-ti-dong-xo-so-mien-nam-nguoi-dan-ong-lanh-thuong-2-lan-185260702155502764.htm",
+      "summary": "Người đàn ông trúng độc đắc 7 tờ vé số theo kết quả xổ số miền Nam đài Long An, đến đại lý đổi thưởng 2 lần vì lý do đặc biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:30:00+07:00",
+      "fetched": "2026-07-03T05:56:24.493602+07:00"
+    },
+    {
+      "id": "36ddee4c501c83905d0df17acd00790b",
+      "title": "World Cup 2026, Bồ Đào Nha 0-0 Croatia: Chờ khoảnh khắc của Ronaldo",
+      "link": "https://thanhnien.vn/world-cup-2026-bo-dao-nha-croatia-cho-khoanh-khac-cua-ronaldo-185260702200308485.htm",
+      "summary": "Trận đấu giữa đội tuyển Bồ Đào Nha và Croatia thuộc vòng 32 đội World Cup 2026 diễn ra lúc 6 giờ ngày 3.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:21:00+07:00",
+      "fetched": "2026-07-03T05:56:24.493735+07:00"
+    },
+    {
+      "id": "d3a0c3ae8f52d285732e44a1f19d3edb",
+      "title": "Đại diện Mỹ kêu gọi Đài Loan xây dựng sức mạnh drone",
+      "link": "https://thanhnien.vn/dai-dien-my-keu-goi-dai-loan-xay-dung-suc-manh-drone-185260702220717317.htm",
+      "summary": "Đại diện hàng đầu của Mỹ tại Đài Loan cho rằng hòn đảo này cần lực lượng thiết bị không người lái (drone) hùng hậu để ngăn ngừa xung đột và đảm bảo an ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:18:00+07:00",
+      "fetched": "2026-07-03T05:56:24.493888+07:00"
+    },
+    {
+      "id": "38669c125ed695f0dc7a6bc787cba6b4",
+      "title": "Đọc bệnh án ung thư: Bác sĩ nghẹn ngào khi mẹ sẵn sàng chấp nhận cái chết để cứu thai nhi",
+      "link": "https://thanhnien.vn/doc-benh-an-ung-thu-bac-si-nghen-ngao-khi-me-san-sang-chap-nhan-cai-chet-de-cuu-thai-nhi-185260702133941128.htm",
+      "summary": "Có những quyết định không ai mong phải lựa chọn. Khi biết mình mắc ung thư trong lúc đang mang thai, người mẹ ấy đã đặt sự sống của con lên trên chính bản thân mình. Một lựa chọn khiến bất kỳ ai nghe qua cũng không khỏi nghẹn lòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:17:00+07:00",
+      "fetched": "2026-07-03T05:56:24.494027+07:00"
+    },
+    {
+      "id": "5483c93bc110c80fef61062fcafef7bb",
+      "title": "Lật tẩy đường dây lừa đảo 'suất ngoại giao' nhà ở xã hội: Khởi tố 2 cán bộ nhận hối lộ",
+      "link": "https://thanhnien.vn/lat-tay-duong-day-lua-dao-suat-ngoai-giao-nha-o-xa-hoi-khoi-to-2-can-bo-nhan-hoi-lo-185260702232306794.htm",
+      "summary": "Trong vụ án trục lợi chính sách hỗ trợ mua nhà ở xã hội, cảnh sát đã khởi tố nhiều bị can, trong đó 2 cán bộ Văn phòng Đăng ký đất đai chi nhánh Long Biên (Hà Nội) bị khởi tố về tội nhận hối lộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:15:00+07:00",
+      "fetched": "2026-07-03T05:56:24.494168+07:00"
+    },
+    {
+      "id": "6cc36cd985ceb35607437adeb355f4d1",
+      "title": "Nam sinh đạt 30/30 điểm: Thi để giành ngôi thủ khoa",
+      "link": "https://vnexpress.net/nam-sinh-dat-30-30-diem-thi-de-gianh-ngoi-thu-khoa-5092334.html",
+      "summary": "Được tuyển thẳng vào ngành Sư phạm Sinh, song Quang Thắng vẫn thi tốt nghiệp THPT để chinh phục ngôi thủ khoa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:05:00+07:00",
+      "fetched": "2026-07-03T05:56:21.143835+07:00"
+    },
+    {
+      "id": "8e2bb8ce18a8af6ebe79943b55a61cbc",
+      "title": "Bồ Đào Nha - Croatia: Ronaldo, Modric cùng đá chính",
+      "link": "https://vnexpress.net/bo-dao-nha-vs-croatia-5092817.html",
+      "summary": "Cristiano Ronaldo tái ngộ Luka Modric khi đội tuyển Bồ Đào Nha gặp Croatia ở vòng 1/16 World Cup 2026. Bóng lăn lúc 6h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:00:00+07:00",
+      "fetched": "2026-07-03T05:56:21.144058+07:00"
+    },
+    {
+      "id": "8f16591a27df132691df0fdc0ab4ceb9",
+      "title": "Vợ được tôi chiều quá nên thay đổi tính nết",
+      "link": "https://vnexpress.net/vo-duoc-toi-chieu-qua-nen-thay-doi-tinh-net-5092809.html",
+      "summary": "Cô ấy hay nổi giận thất thường, có khi còn nói những lời xúc phạm làm tôi buồn nhiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:00:00+07:00",
+      "fetched": "2026-07-03T05:56:21.144230+07:00"
+    },
+    {
+      "id": "a8b82e802ac37ae7401c06f954d15549",
+      "title": "Khối tài sản của ông Trump tăng thế nào sau khi tái đắc cử",
+      "link": "https://vnexpress.net/khoi-tai-san-cua-ong-trump-tang-the-nao-sau-khi-tai-dac-cu-5092378.html",
+      "summary": "Từ bất động sản đến tiền mã hóa, tài sản của ông Trump ghi nhận mức tăng chưa từng có trong lịch sử các đời tổng thống Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:00:00+07:00",
+      "fetched": "2026-07-03T05:56:21.144391+07:00"
+    },
+    {
+      "id": "dcddf8b7a30ff5c11b49d7dd3e14a6e8",
+      "title": "Người dân TP HCM phản ánh 'quá tải bệnh viện, thiếu thuốc, chờ lâu'",
+      "link": "https://vnexpress.net/nguoi-dan-tp-hcm-phan-anh-qua-tai-benh-vien-thieu-thuoc-cho-lau-5092051.html",
+      "summary": "Nhiều cử tri TP HCM phản ánh với Sở Y tế về tình trạng quá tải bệnh viện, thiếu thuốc và chờ khám lâu, kiến nghị có giải pháp khắc phục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:00:00+07:00",
+      "fetched": "2026-07-03T05:56:21.144549+07:00"
+    },
+    {
+      "id": "0a69aead4dda3422fc58c20dddd91a4d",
+      "title": "Video truyền trực tiếp từ World Cup 2026 đến khán giả thế nào",
+      "link": "https://vnexpress.net/video-truyen-truc-tiep-tu-world-cup-2026-den-khan-gia-the-nao-5091321.html",
+      "summary": "Host Broadcast Services đảm nhiệm quay các trận đấu World Cup 2026 với 45 camera mỗi sân, truyền về \"đầu não\" ở Dallas (Mỹ) trước khi phát sóng toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:00:00+07:00",
+      "fetched": "2026-07-03T05:56:21.144713+07:00"
+    },
+    {
+      "id": "d01801e7ca23ffee12b1de1b65b2e1e2",
+      "title": "Honda CB500 Super Four đầu tiên về Việt Nam, giá 285 triệu đồng",
+      "link": "https://vnexpress.net/honda-cb500-super-four-dau-tien-ve-viet-nam-gia-285-trieu-dong-5092519.html",
+      "summary": "Mẫu nakedbike tầm trung có thiết kế hiện đại pha hoài cổ, động cơ 500 phân khối, mạnh 71 mã lực, ly hợp điện tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T22:00:00+07:00",
+      "fetched": "2026-07-03T05:56:21.144894+07:00"
+    },
+    {
+      "id": "a8b82e802ac37ae7401c06f954d15549",
+      "title": "Khối tài sản của ông Trump tăng thế nào sau khi tái đắc cử",
+      "link": "https://vnexpress.net/khoi-tai-san-cua-ong-trump-tang-the-nao-sau-khi-tai-dac-cu-5092378.html",
+      "summary": "Từ bất động sản đến tiền mã hóa, tài sản của ông Trump ghi nhận mức tăng chưa từng có trong lịch sử các đời tổng thống Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-02T22:00:00+07:00",
+      "fetched": "2026-07-03T05:56:27.834084+07:00"
+    },
+    {
+      "id": "0a69aead4dda3422fc58c20dddd91a4d",
+      "title": "Video truyền trực tiếp từ World Cup 2026 đến khán giả thế nào",
+      "link": "https://vnexpress.net/video-truyen-truc-tiep-tu-world-cup-2026-den-khan-gia-the-nao-5091321.html",
+      "summary": "Host Broadcast Services đảm nhiệm quay các trận đấu World Cup 2026 với 45 camera mỗi sân, truyền về \"đầu não\" ở Dallas (Mỹ) trước khi phát sóng toàn cầu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-02T22:00:00+07:00",
+      "fetched": "2026-07-03T05:56:32.972362+07:00"
+    },
+    {
+      "id": "8e2bb8ce18a8af6ebe79943b55a61cbc",
+      "title": "Bồ Đào Nha - Croatia: Ronaldo phá thêm kỷ lục",
+      "link": "https://vnexpress.net/bo-dao-nha-vs-croatia-5092817.html",
+      "summary": "Cristiano Ronaldo tái ngộ Luka Modric khi đội tuyển Bồ Đào Nha gặp Croatia ở vòng 1/16 World Cup 2026. Bóng lăn lúc 6h.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-02T22:00:00+07:00",
+      "fetched": "2026-07-03T05:56:34.885066+07:00"
+    },
+    {
+      "id": "30ffc697d2eabddff2ed63132c4d49c0",
+      "title": "Lãi suất trái phiếu ngân hàng lên gần 10%",
+      "link": "https://vnexpress.net/lai-suat-trai-phieu-ngan-hang-len-gan-10-5092823.html",
+      "summary": "Loạt ngân hàng tăng hút vốn qua kênh trái phiếu nửa cuối tháng 6, trong đó một số lô có lãi suất đến 9,7%, cao nhất nhiều năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T21:00:00+07:00",
+      "fetched": "2026-07-03T05:56:21.145053+07:00"
+    },
+    {
+      "id": "a3cb3de44c732250d5d5976434b34f4e",
+      "title": "Xe đầu kéo Tesla bị nghi ngờ công nghệ an toàn khi gây tai nạn chết người",
+      "link": "https://vnexpress.net/xe-dau-keo-tesla-bi-nghi-ngo-cong-nghe-an-toan-khi-gay-tai-nan-chet-nguoi-5092610.html",
+      "summary": "Tai nạn đầu tiên liên quan đến xe đầu kéo chạy điện Tesla Semi nghi do tài xế ngủ gật đặt câu hỏi về tính năng an toàn chủ động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-02T21:00:00+07:00",
+      "fetched": "2026-07-03T05:56:21.145212+07:00"
+    },
+    {
+      "id": "30ffc697d2eabddff2ed63132c4d49c0",
+      "title": "Lãi suất trái phiếu ngân hàng lên gần 10%",
+      "link": "https://vnexpress.net/lai-suat-trai-phieu-ngan-hang-len-gan-10-5092823.html",
+      "summary": "Loạt ngân hàng tăng hút vốn qua kênh trái phiếu nửa cuối tháng 6, trong đó một số lô có lãi suất đến 9,7%, cao nhất nhiều năm qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-02T21:00:00+07:00",
+      "fetched": "2026-07-03T05:56:29.547203+07:00"
     },
     {
       "id": "03536a085af1bc23c987e4602743af46",
