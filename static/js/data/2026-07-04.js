@@ -1,7 +1,17 @@
 window.newsData_2026_07_04 = {
   "date": "2026-07-04",
-  "lastUpdated": "2026-07-04T03:52:46.714467+07:00",
+  "lastUpdated": "2026-07-04T05:54:44.035653+07:00",
   "articles": [
+    {
+      "id": "35ee2bcb2aaf05ef1902b8c74a476c7e",
+      "title": "Argentina - Cape Verde (5h): Messi đá cặp Martinez, hướng đến bàn thắng thứ 20",
+      "link": "https://tuoitre.vn/truc-tuyen-argentina-cape-verde-5h-xem-messi-giai-ma-doi-bong-chau-phi-100260703183659307.htm",
+      "summary": "Khoảng hơn 1 giờ trước trận Argentina gặp Cape Verde, đội hình xuất phát hai đội đã được công bố. Trong đó, Messi đá cặp Martinez trên hàng công, sẵn sàng hướng đến cột mốc bàn thắng thứ 20 tại World Cup.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T05:54:38.939644+07:00",
+      "fetched": "2026-07-04T05:54:38.939817+07:00"
+    },
     {
       "id": "efc1d25c10f7cd4611acfb282e293c51",
       "title": "Trường đại học Ngoại thương xét tuyển thí sinh đạt từ 24 điểm tổ hợp A00",
@@ -171,6 +181,206 @@ window.newsData_2026_07_04 = {
       "category": "Tổng hợp",
       "published": "2026-07-04T00:13:16.436040+07:00",
       "fetched": "2026-07-04T00:13:16.436187+07:00"
+    },
+    {
+      "id": "f1e0e13d47038f9edee75f1aefbe1a96",
+      "title": "Điểm thi và bài toán quản trị giáo dục",
+      "link": "https://thanhnien.vn/diem-thi-va-bai-toan-quan-tri-giao-duc-18526070321141529.htm",
+      "summary": "Với học sinh, điểm thi tốt nghiệp THPT 2026 là kết quả của 12 năm học tập. Nhưng với ngành giáo dục, đây còn là bộ dữ liệu quốc gia đầu tiên phản ánh chất lượng giáo dục trong giai đoạn phát triển mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:53:00+07:00",
+      "fetched": "2026-07-04T05:54:36.733663+07:00"
+    },
+    {
+      "id": "d9cf2f29562e99ebf7d2a475e3a3802d",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 4.7.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-472026-185260703223343389.htm",
+      "summary": "Tin tức Việt Nam gia nhập nhóm quốc gia có thu nhập trung bình cao; Vì sao giá kim cương giảm mạnh?; 250 năm ra đời, nước Mỹ có gì?... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 4.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:50:00+07:00",
+      "fetched": "2026-07-04T05:54:36.733857+07:00"
+    },
+    {
+      "id": "e1d4727e8382fc47ea9e1efff3a6c471",
+      "title": "Những nguyên tắc 'vàng' đặt nguyện vọng xét tuyển đại học",
+      "link": "https://thanhnien.vn/nhung-nguyen-tac-vang-dat-nguyen-vong-xet-tuyen-dai-hoc-185260703222428953.htm",
+      "summary": "Từ nay đến 17 giờ ngày 14.7, thí sinh tiếp tục thực hiện đăng ký nguyện vọng xét tuyển đại học. Hai tuần tới được xem là thời gian 'vàng' để thí sinh đưa ra quyết định quan trọng trong hành trình học tập và nghề nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:45:00+07:00",
+      "fetched": "2026-07-04T05:54:36.734015+07:00"
+    },
+    {
+      "id": "73a711713b7b38ff675ce419eec604d6",
+      "title": "Những quả mít khổng lồ từng 'gây sốt' ở Việt Nam: Có quả vượt kỷ lục Guinness",
+      "link": "https://thanhnien.vn/nhung-qua-mit-khong-lo-tung-gay-sot-o-viet-nam-co-qua-vuot-ky-luc-guinness-185260702174926924.htm",
+      "summary": "Từ Hải Phòng, Lạng Sơn đến Thanh Hóa, nhiều quả mít khổng lồ nặng 53 - 56 kg từng gây sốt. Có quả nặng hơn mốc Guinness được công nhận năm 2016.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:45:00+07:00",
+      "fetched": "2026-07-04T05:54:36.734167+07:00"
+    },
+    {
+      "id": "3f02f705bd76e9a426d7bfa56e9c3ea2",
+      "title": "Đau cổ vai gáy: Khi nào nên xoa bóp, khi nào phải đi khám?",
+      "link": "https://thanhnien.vn/dau-co-vai-gay-khi-nao-nen-xoa-bop-khi-nao-phai-di-kham-185260703162414753.htm",
+      "summary": "Khi đau cổ vai gáy, nhiều người chọn xoa bóp hoặc massage để giảm khó chịu. Tuy nhiên, cách này chỉ phù hợp trong một số trường hợp. Nếu đau kèm các triệu chứng bất thường, cần đi khám để được đánh giá và điều trị kịp thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:43:00+07:00",
+      "fetched": "2026-07-04T05:54:36.734320+07:00"
+    },
+    {
+      "id": "ae514038135f35ce2556b28d046eafe0",
+      "title": "Dịch vi rút Hanta kết thúc, lo ngại mới về Ebola và Marburg",
+      "link": "https://thanhnien.vn/dich-vi-rut-hanta-ket-thuc-lo-ngai-moi-ve-ebola-va-marburg-185260703212336534.htm",
+      "summary": "Hãng AFP ngày 3.7 dẫn lời Tổng giám đốc Tổ chức Y tế thế giới (WHO) Tedros Adhanom Ghebreyesus tuyên bố dịch vi rút Hanta đã kết thúc, sau khi vi rút lây lan trên du thuyền MV Hondius hồi tháng 4.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:40:00+07:00",
+      "fetched": "2026-07-04T05:54:36.734475+07:00"
+    },
+    {
+      "id": "0e1f57169ecddb4a02bf9818922ea5bb",
+      "title": "3 loại ung thư giai đoạn đầu rất khó nhận biết",
+      "link": "https://thanhnien.vn/3-loai-ung-thu-giai-doan-dau-rat-kho-nhan-biet-185260703205623736.htm",
+      "summary": "Trước khi xuất hiện dấu hiệu rõ ràng, nhiều loại ung thư có thể âm thầm phát triển suốt nhiều tháng, thậm chí nhiều năm. Do vậy, không ít trường hợp chỉ phát hiện bệnh khi khối u đã lớn hoặc lan sang các cơ quan khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:37:00+07:00",
+      "fetched": "2026-07-04T05:54:36.734627+07:00"
+    },
+    {
+      "id": "f328cc7f53ef781dd9363a100dad10f9",
+      "title": "3 sai lầm phổ biến khi dùng chỉ nha khoa",
+      "link": "https://thanhnien.vn/3-sai-lam-pho-bien-khi-dung-chi-nha-khoa-185260704012451846.htm",
+      "summary": "Chỉ đánh răng bằng bàn chải có thể chưa đủ làm sạch những mảng bám nằm giữa các kẽ răng. Do đó, nhiều tổ chức nha khoa trên thế giới khuyến cáo nên sử dụng thêm chỉ nha khoa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:33:00+07:00",
+      "fetched": "2026-07-04T05:54:36.734813+07:00"
+    },
+    {
+      "id": "be656776d76aad75c40306572f0f8b80",
+      "title": "Tiêu điểm quốc tế ngày 4.7: Phiến quân Papua giết phi công Mỹ | Tư lệnh IRGC xuất hiện",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-47-phien-quan-papua-giet-phi-cong-my-tu-lenh-irgc-xuat-hien-185260704030956014.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 4.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:30:00+07:00",
+      "fetched": "2026-07-04T05:54:36.734965+07:00"
+    },
+    {
+      "id": "0a5d43f52957be720537305a15cf0eff",
+      "title": "Khoảng trống ngoại giao giữa căng thẳng xung đột Ukraine",
+      "link": "https://thanhnien.vn/khoang-trong-ngoai-giao-giua-cang-thang-xung-dot-ukraine-185260703212638883.htm",
+      "summary": "Trong bối cảnh chiến sự leo thang gần đây, cả Nga và Ukraine đang ngày càng thất vọng về sự thất thường trong nỗ lực trung gian hòa giải của Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:30:00+07:00",
+      "fetched": "2026-07-04T05:54:36.735111+07:00"
+    },
+    {
+      "id": "df404450ccc147632aca1fd940418a90",
+      "title": "Thấy nhiều người trúng số nên mua thử, nữ công nhân TP.HCM trúng độc đắc 4 tỉ",
+      "link": "https://thanhnien.vn/thay-nhieu-nguoi-trung-so-nen-mua-thu-nu-cong-nhan-tphcm-trung-doc-dac-4-ti-185260702153349727.htm",
+      "summary": "Một nữ công nhân ở TP.HCM bất ngờ trúng độc đắc 4 tỉ đồng xổ số miền Nam đài Đồng Nai. Chị cho biết thấy nhiều người trúng số nên mua cầu may, bất ngờ đổi đời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:30:00+07:00",
+      "fetched": "2026-07-04T05:54:36.735260+07:00"
+    },
+    {
+      "id": "94b259710ae9b88ceef299319327c40f",
+      "title": "Tử vi ngày 4 tháng 7: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-4-thang-7-con-giap-nao-may-man-hom-nay-185260703213105589.htm",
+      "summary": "Tử vi ngày 4 tháng 7 mang đến những gợi ý tham khảo cho 12 con giáp. Hãy nhớ rằng 'khoảng trống cũng có giá trị riêng'. Một lịch trình không kín mít, một buổi tối không phải chạy theo công việc, hay vài phút không cầm điện thoại có thể giúp mỗi người nghe rõ hơn điều mình cần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:15:00+07:00",
+      "fetched": "2026-07-04T05:54:36.735407+07:00"
+    },
+    {
+      "id": "aac2906ac3d7e1fcb6aa27e8e0ba35f9",
+      "title": "Iran gửi thông điệp đến Mỹ từ lễ tang ông Ali Khamenei",
+      "link": "https://thanhnien.vn/iran-gui-thong-diep-den-my-tu-le-tang-ong-ali-khamenei-185260703211953551.htm",
+      "summary": "AFP hôm qua (3.7) đưa tin linh cữu của cố Lãnh tụ Tối cao Iran Ali Khamenei đã được rước đến Đại thánh đường Mosalla ở thủ đô Tehran, chính thức khởi động chuỗi lễ tang quy mô lớn nhất lịch sử nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:13:00+07:00",
+      "fetched": "2026-07-04T05:54:36.735553+07:00"
+    },
+    {
+      "id": "76dbaec2b01334b8d1e31a3d24e6d781",
+      "title": "Tư lệnh Vệ binh Cách mạng tái xuất trước lễ tang cố Lãnh tụ tối cao Iran",
+      "link": "https://thanhnien.vn/tu-lenh-ve-binh-cach-mang-tai-xuat-truoc-le-tang-co-lanh-tu-toi-cao-iran-185260703222940466.htm",
+      "summary": "Tướng Ahmad Vahidi, Tư lệnh Lực lượng Vệ binh Cách mạng Hồi giáo Iran (IRGC), đã xuất hiện tại Tehran trước thềm lễ tang cấp nhà nước dành cho cố Lãnh tụ tối cao Iran Ali Khamenei.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:05:00+07:00",
+      "fetched": "2026-07-04T05:54:36.735725+07:00"
+    },
+    {
+      "id": "2e147f14085961f9d5c4a35e2a7013b5",
+      "title": "Phía sau những cuộc bắt giữ tội phạm quốc tế ở Đà Nẵng",
+      "link": "https://thanhnien.vn/phia-sau-nhung-cuoc-bat-giu-toi-pham-quoc-te-o-da-nang-185260703155753868.htm",
+      "summary": "Chủ động quản lý người nước ngoài từ sớm, từ cơ sở, Công an thành phố Đà Nẵng đã kịp thời phát hiện, xử lý nhiều vụ việc phức tạp, góp phần giữ vững an ninh, trật tự trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:00:00+07:00",
+      "fetched": "2026-07-04T05:54:36.735888+07:00"
+    },
+    {
+      "id": "84555170fddbbf090810265bdf263bb8",
+      "title": "Thông điệp của Iran khi tổ chức lễ tang quy mô lớn cho cố lãnh tụ",
+      "link": "https://vnexpress.net/thong-diep-cua-iran-khi-to-chuc-le-tang-quy-mo-lon-cho-co-lanh-tu-5093136.html",
+      "summary": "Iran huy động chiến dịch hậu cần khổng lồ cho tang lễ kéo dài một tuần cho ông Ali Khamenei nhằm phô trương sức mạnh và gửi thông điệp đanh thép đến các đối thủ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-03T22:00:00+07:00",
+      "fetched": "2026-07-04T05:54:40.015835+07:00"
+    },
+    {
+      "id": "038f586a6b3b66177516a43a3b77a0f3",
+      "title": "Cách lính Mỹ tập thoát khỏi trực thăng đang chìm xuống nước",
+      "link": "https://vnexpress.net/cach-linh-my-tap-thoat-khoi-truc-thang-dang-chim-xuong-nuoc-5093101.html",
+      "summary": "Lính thủy đánh bộ Mỹ phải tham gia khóa huấn luyện đặc biệt, gọi là \"helo dunker\", nhằm học cách thoát khỏi trực thăng lật úp và chìm xuống nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-03T22:00:00+07:00",
+      "fetched": "2026-07-04T05:54:40.016013+07:00"
+    },
+    {
+      "id": "195b27515c069a012807e50133869cad",
+      "title": "Volvo sắp bán hai xe thuần điện mới tại Việt Nam",
+      "link": "https://vnexpress.net/volvo-sap-ban-hai-xe-thuan-dien-moi-tai-viet-nam-5092875.html",
+      "summary": "Volvo ES90 sedan và EX90 SUV thuần điện dự kiến ra mắt vào cuối 2026, nhập khẩu Malaysia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T21:34:00+07:00",
+      "fetched": "2026-07-04T05:54:33.883722+07:00"
+    },
+    {
+      "id": "5aed281238bc2d0a601d28575d30fd29",
+      "title": "Argentina - Cape Verde: Messi đá chính",
+      "link": "https://vnexpress.net/truc-tiep-argentina-vs-cape-verde-5093283.html",
+      "summary": "Thủ quân Lionel Messi trở lại đội hình xuất phát, khi Argentina chạm trán Cape Verde ở vòng 1/16 World Cup. Bóng lăn lúc 5h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T21:10:45+07:00",
+      "fetched": "2026-07-04T05:54:33.883906+07:00"
+    },
+    {
+      "id": "5aed281238bc2d0a601d28575d30fd29",
+      "title": "Argentina 0-0 Cape Verde (H1): Messi dứt điểm",
+      "link": "https://vnexpress.net/truc-tiep-argentina-vs-cape-verde-5093283.html",
+      "summary": "Siêu sao Lionel Messi chưa thể đánh bại thủ môn Vozinha, khi Argentina chạm trán Cape Verde ở vòng 1/16 World Cup. Bóng lăn lúc 5h.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-03T21:10:45+07:00",
+      "fetched": "2026-07-04T05:54:44.030249+07:00"
     },
     {
       "id": "996a7ede247e3fc08a44f5ac99ab7712",
