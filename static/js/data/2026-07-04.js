@@ -1,6 +1,6 @@
 window.newsData_2026_07_04 = {
   "date": "2026-07-04",
-  "lastUpdated": "2026-07-04T02:01:49.208619+07:00",
+  "lastUpdated": "2026-07-04T03:52:46.714467+07:00",
   "articles": [
     {
       "id": "efc1d25c10f7cd4611acfb282e293c51",
@@ -171,6 +171,16 @@ window.newsData_2026_07_04 = {
       "category": "Tổng hợp",
       "published": "2026-07-04T00:13:16.436040+07:00",
       "fetched": "2026-07-04T00:13:16.436187+07:00"
+    },
+    {
+      "id": "996a7ede247e3fc08a44f5ac99ab7712",
+      "title": "Mikel Oyarzabal: Từ người vô hình đến chân sút chủ lực",
+      "link": "https://thanhnien.vn/mikel-oyarzabal-tu-nguoi-vo-hinh-den-chan-sut-chu-luc-185260703183912323.htm",
+      "summary": "Trước World Cup 2026, giới chuyên môn nhận định những ngôi sao sáng nhất của Tây Ban Nha là Lamine Yamal, Pedri hay Nico Williams. Nhưng tính đến thời điểm này, cầu thủ gây ấn tượng nhất lại là Mikel Oyarzabal.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T20:11:00+07:00",
+      "fetched": "2026-07-04T03:52:38.526761+07:00"
     },
     {
       "id": "e1863a4bc4ca712febafba64f4652a37",
