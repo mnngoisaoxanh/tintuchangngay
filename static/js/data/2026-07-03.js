@@ -1,7 +1,157 @@
 window.newsData_2026_07_03 = {
   "date": "2026-07-03",
-  "lastUpdated": "2026-07-03T19:00:04.968692+07:00",
+  "lastUpdated": "2026-07-03T21:11:18.853532+07:00",
   "articles": [
+    {
+      "id": "da49a68dd806d31dfb4324b8ee323240",
+      "title": "Tuyển Anh chơi trò 'trốn tìm' để đối phó hành động 'quấy rối giấc ngủ' của CĐV Mexico",
+      "link": "https://tuoitre.vn/tuyen-anh-choi-tro-tron-tim-de-doi-pho-hanh-dong-quay-roi-giac-ngu-cua-cdv-mexico-100260703192923893.htm",
+      "summary": "Tuyển Anh đã quyết định sẽ giữ bí mật về nơi ở của họ, trước trận đấu với chủ nhà Mexico ở vòng 16 đội World Cup 2026. Điều này nhằm đối phó với các hành động quấy rối giấc ngủ của các cổ động viên Mexico.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T21:11:10.894077+07:00",
+      "fetched": "2026-07-03T21:11:10.894174+07:00"
+    },
+    {
+      "id": "3a87f6926dfd6cbcc69701bba1bb820b",
+      "title": "Xã Bà Điểm hỗ trợ thủ tục tận nhà cho hộ dân ảnh hưởng bởi dự án nâng cấp quốc lộ 22",
+      "link": "https://tuoitre.vn/xa-ba-diem-ho-tro-thu-tuc-tan-nha-cho-ho-dan-anh-huong-boi-du-an-nang-cap-quoc-lo-22-100260703193310609.htm",
+      "summary": "Cán bộ, công chức xã Bà Điểm (TP.HCM) làm việc ngoài giờ, đến nhà hộ dân ảnh hưởng bởi dự án cải tạo, nâng cấp quốc lộ 22 (nay là đường Lê Quang Đạo) để hỗ trợ thủ tục hành chính liên quan đến sửa chữa nhà ở, cấp giấy phép xây dựng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T21:11:10.893959+07:00",
+      "fetched": "2026-07-03T21:11:10.894058+07:00"
+    },
+    {
+      "id": "6dc65ab82281c81ddfc4c72b63ef0044",
+      "title": "Lê Quang Liêm xuất trận tại giải cờ danh giá Tây Ban Nha",
+      "link": "https://tuoitre.vn/le-quang-liem-xuat-tran-tai-giai-co-danh-gia-tay-ban-nha-100260703015220016.htm",
+      "summary": "Vào ngày mai (4-7), Đại kiện tướng Lê Quang Liêm sẽ bước vào hành trình bảo vệ cúp vô địch tại giải cờ vua danh giá ở Tây Ban Nha.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T21:11:10.893825+07:00",
+      "fetched": "2026-07-03T21:11:10.893939+07:00"
+    },
+    {
+      "id": "f18a0413fdc7fef5cf1016a5b687a432",
+      "title": "Phường Phú Thuận, TP.HCM lấy sự hài lòng của người dân làm thước đo",
+      "link": "https://tuoitre.vn/phuong-phu-thuan-tphcm-lay-su-hai-long-cua-nguoi-dan-lam-thuoc-do-100260703181746248.htm",
+      "summary": "Sau một năm vận hành mô hình chính quyền địa phương hai cấp, phường Phú Thuận (TP.HCM) khẳng định lấy sự hài lòng của người dân, doanh nghiệp làm thước đo hiệu quả hoạt động, đồng thời tiếp tục đẩy mạnh chuyển đổi số, nâng cao chất lượng phục vụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T21:11:10.893680+07:00",
+      "fetched": "2026-07-03T21:11:10.893803+07:00"
+    },
+    {
+      "id": "7c1a19be531c3ef10b35c77e7e841bde",
+      "title": "Đến thăm người bị bắt buộc chữa bệnh không được ghi hình, ghi âm",
+      "link": "https://tuoitre.vn/den-tham-nguoi-bi-bat-buoc-chua-benh-khong-duoc-ghi-hinh-ghi-am-100260703194317472.htm",
+      "summary": "Chính phủ vừa ban hành quy định mới về quản lý người bị áp dụng biện pháp tư pháp bắt buộc chữa bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T21:11:10.893528+07:00",
+      "fetched": "2026-07-03T21:11:10.893652+07:00"
+    },
+    {
+      "id": "ecd226092f5a2d725e9395531b6550eb",
+      "title": "Được giảm trừ thêm tối đa 47 triệu đồng/năm trước khi tính thuế thu nhập cá nhân",
+      "link": "https://tuoitre.vn/duoc-giam-tru-them-toi-da-47-trieu-dong-nam-truoc-khi-tinh-thue-thu-nhap-ca-nhan-100260703181326432.htm",
+      "summary": "Từ năm nay, người có thu nhập từ tiền lương, tiền công được giảm trừ thêm tối đa 47 triệu đồng/năm đối với các khoản chi cho y tế và giáo dục - đào tạo trước khi tính thuế thu nhập cá nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T21:11:10.893444+07:00",
+      "fetched": "2026-07-03T21:11:10.893503+07:00"
+    },
+    {
+      "id": "3a65a022171e30b3ff33638911a806fa",
+      "title": "Nhiều trường đại học ‘chơi lớn’ tại Ngày hội lựa chọn nguyện vọng xét tuyển 2026",
+      "link": "https://tuoitre.vn/nhieu-truong-dai-hoc-choi-lon-tai-ngay-hoi-lua-chon-nguyen-vong-xet-tuyen-2026-100260703194026329.htm",
+      "summary": "Hơn 180 gian tư vấn sẽ góp mặt tại Ngày hội lựa chọn nguyện vọng xét tuyển 2026 ở TP.HCM, nơi nhiều trường đại học đầu tư quy mô lớn với hoạt động tư vấn, trải nghiệm và hàng trăm phần quà dành cho thí sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T21:11:10.893370+07:00",
+      "fetched": "2026-07-03T21:11:10.893434+07:00"
+    },
+    {
+      "id": "d641358a2240baf3a61cc76df6e9df36",
+      "title": "Thủ đoạn biến tiếp viên hàng không thành người vận chuyển ma túy",
+      "link": "https://tuoitre.vn/thu-doan-bien-tiep-vien-hang-khong-thanh-nguoi-van-chuyen-ma-tuy-100260703195516132.htm",
+      "summary": "Ngày 3-7, Hãng tin Reuters có bài viết đáng chú ý với tiêu đề: Các băng nhóm ma túy dùng mạng xã hội để lôi kéo tiếp viên hàng không Thái Lan làm người vận chuyển ma túy như thế nào?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T21:11:10.893301+07:00",
+      "fetched": "2026-07-03T21:11:10.893360+07:00"
+    },
+    {
+      "id": "37eed521a7e8f94d7e03c3a919b1c9b2",
+      "title": "Bão số 1 dự báo vào Quảng Ninh, 4 tỉnh Đông Bắc có nơi mưa trên 500mm",
+      "link": "https://tuoitre.vn/bao-so-1-du-kien-vao-quang-ninh-4-tinh-dong-bac-co-noi-mua-tren-500mm-10026070320095149.htm",
+      "summary": "Dự kiến khoảng tối đến đêm mai (4-7), bão số 1 (Maysak) đi vào đất liền khu vực Móng Cái (Quảng Ninh) và Quảng Tây (Trung Quốc). Do ảnh hưởng của bão, từ đêm nay (3-7), các tỉnh Đông Bắc Bộ và Thanh Hóa bắt đầu mưa lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T21:11:10.893228+07:00",
+      "fetched": "2026-07-03T21:11:10.893290+07:00"
+    },
+    {
+      "id": "cf37a42f3b9e1da0cae4c210a5bf2a16",
+      "title": "Giá vàng bật tăng mạnh",
+      "link": "https://tuoitre.vn/gia-vang-bat-tang-manh-100260703201511328.htm",
+      "summary": "Giá vàng thế giới đã tăng mạnh lên mức 4.178,5 USD/ounce vào cuối ngày hôm nay, 3-7, kéo giá vàng trong nước đi lên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T21:11:10.893150+07:00",
+      "fetched": "2026-07-03T21:11:10.893217+07:00"
+    },
+    {
+      "id": "128482e9277937d7768a9fe5a836cec4",
+      "title": "Yêu cầu bố trí vốn kịp thời cho cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành",
+      "link": "https://tuoitre.vn/yeu-cau-bo-tri-von-kip-thoi-cho-cao-toc-tphcm-thu-dau-mot-chon-thanh-100260703200836299.htm",
+      "summary": "Trước phản ánh của cơ sở về việc một số hộ dân chờ nhận tiền đền bù giải phóng mặt bằng cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành, lãnh đạo UBND TP.HCM yêu cầu khẩn trương giải quyết trong vòng 10 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T21:11:10.893019+07:00",
+      "fetched": "2026-07-03T21:11:10.893135+07:00"
+    },
+    {
+      "id": "efd64384a2375f8df71fa2ba902ec69f",
+      "title": "Đại học Kinh tế quốc dân và loạt trường công bố điểm sàn, cao nhất 25 điểm",
+      "link": "https://tuoitre.vn/dai-hoc-kinh-te-quoc-dan-va-loat-truong-cong-bo-diem-san-cao-nhat-25-diem-10026070320111629.htm",
+      "summary": "Đại học Kinh tế quốc dân lấy điểm sàn xét tuyển 22, bằng với năm ngoái. Trường đại học Khoa học tự nhiên đang dẫn đầu mức điểm sàn, cao nhất 25/30 điểm mới đủ điều kiện tham gia xét tuyển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T21:11:10.892653+07:00",
+      "fetched": "2026-07-03T21:11:10.892997+07:00"
+    },
+    {
+      "id": "a702b9b74a15d16924136bc386e48219",
+      "title": "Từng công bố chiếm 70% thị phần kiểm định đá quý, P-Lab giữ vai trò gì tại PNJ?",
+      "link": "https://tuoitre.vn/tung-cong-bo-chiem-70-thi-phan-kiem-dinh-da-quy-p-lab-giu-vai-tro-gi-tai-pnj-100260703174808191.htm",
+      "summary": "P-Lab từng tự giới thiệu là đơn vị chiếm khoảng 70% thị phần kiểm định kim cương và đá quý tại Việt Nam, với hơn 10.000 lượt kiểm định mỗi tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T21:11:10.892572+07:00",
+      "fetched": "2026-07-03T21:11:10.892642+07:00"
+    },
+    {
+      "id": "4174c06533a53f43afba08d46542aa87",
+      "title": "Bình gas mini phát nổ khiến người đàn ông chấn thương sọ não",
+      "link": "https://tuoitre.vn/binh-gas-mini-phat-no-khien-nguoi-dan-ong-chan-thuong-so-nao-100260703201151988.htm",
+      "summary": "Bình gas mini phát nổ làm người đàn ông chấn thương sọ não nặng",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T21:11:10.892469+07:00",
+      "fetched": "2026-07-03T21:11:10.892558+07:00"
+    },
+    {
+      "id": "91a24330d32f2d88cfa420858245026b",
+      "title": "Trực tuyến Úc - Ai Cập (1h): Đại diện châu Á cuối cùng ra sân",
+      "link": "https://tuoitre.vn/truc-tuyen-uc-ai-cap-1h-dai-dien-chau-a-cuoi-cung-ra-san-100260703132538628.htm",
+      "summary": "Mời bạn đọc theo dõi trực tuyến trận đấu giữa Úc và Ai Cập tại vòng 32 đội World Cup 2026, diễn ra lúc 1h ngày 4-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T21:11:10.892313+07:00",
+      "fetched": "2026-07-03T21:11:10.892455+07:00"
+    },
     {
       "id": "f05d3f5162de4aad9d60ff2e8e785ccf",
       "title": "Phát hiện 2 thi thể trong căn nhà liền kề bốc cháy ở Hà Nội",
@@ -303,6 +453,286 @@ window.newsData_2026_07_03 = {
       "fetched": "2026-07-03T15:49:03.471056+07:00"
     },
     {
+      "id": "5dca1efc2956593b0984f98326fa5550",
+      "title": "World Cup 2026, Argentina - Cabo Verde: Ronaldo đã gọi, Messi trả lời?",
+      "link": "https://thanhnien.vn/world-cup-2026-argentina-cabo-verde-ronaldo-da-goi-messi-tra-loi-185260703170159485.htm",
+      "summary": "Messi nếu ra sân và ghi bàn trong trận đội tuyển Argentina gặp Cabo Verde lúc 5 giờ ngày 4.7 ở vòng 32 đội, anh sẽ phá tiếp ít nhất 2 kỷ lục chưa từng có nữa trong lịch sử World Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T14:06:00+07:00",
+      "fetched": "2026-07-03T21:11:08.762695+07:00"
+    },
+    {
+      "id": "6386074198d54ec88466fea1480c2f5d",
+      "title": "Sông nào ở Đông Nam Á là kỳ quan thiên nhiên mới?",
+      "link": "https://vnexpress.net/song-nao-o-dong-nam-a-la-ky-quan-thien-nhien-moi-5093218.html",
+      "summary": "Con sông này dài hơn 8 km, chảy dưới một núi đá vôi, thuộc diện sông ngầm hiếm hoi mà con người có thể chiêm ngưỡng được.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T14:01:00+07:00",
+      "fetched": "2026-07-03T21:11:05.767432+07:00"
+    },
+    {
+      "id": "a08b0385b40276a51db91cd63093623b",
+      "title": "Chồng 'cấm vận' mỗi lần giận tôi",
+      "link": "https://vnexpress.net/chong-cam-van-moi-lan-gian-toi-5093067.html",
+      "summary": "Mỗi khi giận tôi, anh sẽ lạnh nhạt, không ôm, không nắm tay, cũng không muốn gần gũi kể cả tôi chủ động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T14:00:00+07:00",
+      "fetched": "2026-07-03T21:11:05.767642+07:00"
+    },
+    {
+      "id": "cef73ec949da954b0e010ffdab1c66d1",
+      "title": "Cuộc sống 'vua nhạc sàn' Lương Gia Huy sau khi lấy vợ hai",
+      "link": "https://thanhnien.vn/cuoc-song-vua-nhac-san-luong-gia-huy-sau-khi-lay-vo-hai-185260703200654778.htm",
+      "summary": "Trải qua nhiều thăng trầm, Lương Gia Huy tận hưởng cuộc sống hạnh phúc và bình yên bên bà xã Lê Thùy Uyên và ba người con.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:46:00+07:00",
+      "fetched": "2026-07-03T21:11:08.762871+07:00"
+    },
+    {
+      "id": "b4c8ef4266fb14265b94b670cbc7940c",
+      "title": "Klopp nhận lời dẫn dắt đội tuyển Đức",
+      "link": "https://vnexpress.net/klopp-nhan-loi-dan-dat-doi-tuyen-duc-5093227.html",
+      "summary": "Jurgen Klopp đồng ý trở thành HLV mới của đội tuyển Đức, chưa đầy một ngày sau khi Julian Nagelsmann từ chức vì thất bại ở World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:36:45+07:00",
+      "fetched": "2026-07-03T21:11:05.767816+07:00"
+    },
+    {
+      "id": "b4c8ef4266fb14265b94b670cbc7940c",
+      "title": "Klopp nhận lời dẫn dắt đội tuyển Đức",
+      "link": "https://vnexpress.net/klopp-nhan-loi-dan-dat-doi-tuyen-duc-5093227.html",
+      "summary": "Jurgen Klopp đồng ý trở thành HLV mới của đội tuyển Đức, chưa đầy một ngày sau khi Julian Nagelsmann từ chức vì thất bại ở World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-03T13:36:45+07:00",
+      "fetched": "2026-07-03T21:11:18.841827+07:00"
+    },
+    {
+      "id": "4d38412e1c5bd2b4522e088dbdf3bdbd",
+      "title": "Người trẻ đang chủ quan với cơn đau bụng kinh",
+      "link": "https://thanhnien.vn/nguoi-tre-dang-chu-quan-voi-con-dau-bung-kinh-185260703161048065.htm",
+      "summary": "Nhiều bạn trẻ cho rằng các cơn đau bụng trong kỳ kinh nguyệt là hiện tượng sinh lý bình thường. Không ít người lựa chọn cách chịu đựng hoặc sử dụng thuốc giảm đau khi cơn đau kéo dài hoặc tăng mạnh. Tuy nhiên, theo các chuyên gia, nếu đau bụng kinh gây ảnh hưởng đến sinh hoạt có thể là tín hiệu cảnh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:27:00+07:00",
+      "fetched": "2026-07-03T21:11:08.763033+07:00"
+    },
+    {
+      "id": "7b997cc15d0aad5520af2dad8187d083",
+      "title": "8 cầu thủ đội tuyển Tunisia dương tính với doping, nguyên nhân bất ngờ: FIFA sẽ làm gì?",
+      "link": "https://thanhnien.vn/8-cau-thu-doi-tuyen-tunisia-duong-tinh-voi-doping-nguyen-nhan-bat-ngo-fifa-se-lam-gi-185260703202203411.htm",
+      "summary": "Chiến dịch World Cup 2026 đáng quên của đội tuyển Tunisia tiếp tục đón thêm cú sốc khi có ít nhất 8 cầu thủ bị phát hiện có dấu vết của chất cấm clenbuterol trong các cuộc kiểm tra doping.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:25:00+07:00",
+      "fetched": "2026-07-03T21:11:08.763197+07:00"
+    },
+    {
+      "id": "d83b00415fd144cb50a47008a0748629",
+      "title": "Quốc vương Campuchia về nước sau khi điều trị ung thư",
+      "link": "https://vnexpress.net/quoc-vuong-campuchia-ve-nuoc-sau-khi-dieu-tri-ung-thu-5093234.html",
+      "summary": "Quốc vương Norodom Sihamoni trở về Phnom Penh sau thời gian điều trị ung thư tuyến tiền liệt tại Trung Quốc, với sức khỏe đã cải thiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:19:15+07:00",
+      "fetched": "2026-07-03T21:11:05.767981+07:00"
+    },
+    {
+      "id": "d83b00415fd144cb50a47008a0748629",
+      "title": "Quốc vương Campuchia về nước sau khi điều trị ung thư",
+      "link": "https://vnexpress.net/quoc-vuong-campuchia-ve-nuoc-sau-khi-dieu-tri-ung-thu-5093234.html",
+      "summary": "Quốc vương Norodom Sihamoni trở về Phnom Penh sau thời gian điều trị ung thư tuyến tiền liệt tại Trung Quốc, với sức khỏe đã cải thiện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-03T13:19:15+07:00",
+      "fetched": "2026-07-03T21:11:12.954385+07:00"
+    },
+    {
+      "id": "7622eb27bea6340781a56ab3d00eb021",
+      "title": "Buổi tập đầu tiên của đội tuyển Việt Nam ở Hàn Quốc có gì đặc biệt?",
+      "link": "https://thanhnien.vn/buoi-tap-dau-tien-cua-doi-tuyen-viet-nam-o-han-quoc-co-gi-dac-biet-185260703201844734.htm",
+      "summary": "Chiều 3.7, đội tuyển Việt Nam tập luyện trong sự hứng khởi nhờ thời tiết lý tưởng tại Incheon (Hàn Quốc).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:19:00+07:00",
+      "fetched": "2026-07-03T21:11:08.763350+07:00"
+    },
+    {
+      "id": "af6e4e4e69321072d0e82dee3c611611",
+      "title": "Vì sao đúng kỹ thuật chị em vẫn thấy khó?",
+      "link": "https://vnexpress.net/vi-sao-dung-ky-thuat-chi-em-van-thay-kho-5093238.html",
+      "summary": "Chuyên gia lý giải, đàn ông thường kích hoạt ham muốn qua thị giác và kỹ thuật cơ học, trong khi phụ nữ cần sự thư giãn từ não bộ và kết nối cảm xúc để thực sự thăng hoa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:17:21+07:00",
+      "fetched": "2026-07-03T21:11:05.768142+07:00"
+    },
+    {
+      "id": "ac95a87ca8a0993fcac4c9ee2a4a2114",
+      "title": "Dùng dao phóng lợn cản trở cảnh sát khi bị truy đuổi",
+      "link": "https://vnexpress.net/dung-dao-phong-lon-can-tro-canh-sat-khi-bi-truy-duoi-5093220.html",
+      "summary": "Bị cảnh sát truy bắt, nhóm thanh thiếu niên rồ ga bỏ chạy, sử dụng dao phóng lợn ném lại cản trở để tẩu thoát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:14:07+07:00",
+      "fetched": "2026-07-03T21:11:05.768298+07:00"
+    },
+    {
+      "id": "30e07405aa1e31ee57afb73eaabef8b0",
+      "title": "Subaru Forester lại giảm giá 'khủng', về dưới 800 triệu đồng",
+      "link": "https://thanhnien.vn/subaru-forester-lai-giam-gia-khung-ve-duoi-800-trieu-dong-185260702152252753.htm",
+      "summary": "Với ưu đãi lên đến gần 400 triệu đồng, giá bán thực tế của Subaru Forester tiếp tục giảm sâu trong tháng 7.2026, xuống dưới mốc 800 triệu đồng. Mức ưu đãi sâu nhất dành cho mẫu SUV Nhật Bản trang bị hệ dẫn động AWD trên thị trường hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:13:00+07:00",
+      "fetched": "2026-07-03T21:11:08.763503+07:00"
+    },
+    {
+      "id": "2579d9095b1a0248897da7572bd9696e",
+      "title": "Các cầu thủ bóng đá lấn sân phim ảnh",
+      "link": "https://vnexpress.net/cac-cau-thu-bong-da-lan-san-phim-anh-5092676.html",
+      "summary": "David Beckham, Pelé, Eric Cantona, Neymar cùng nhiều danh thủ thử sức với diễn xuất qua các dự án điện ảnh và truyền hình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:12:11+07:00",
+      "fetched": "2026-07-03T21:11:05.768459+07:00"
+    },
+    {
+      "id": "60d3a865972f16bf6170b9a7afb9a38a",
+      "title": "Xe bán tải hút khách nhất Việt Nam bỏ bản số sàn, giá từ 707 triệu đồng",
+      "link": "https://thanhnien.vn/xe-ban-tai-hut-khach-nhat-viet-nam-bo-ban-so-san-gia-tu-707-trieu-dong-185260702155507893.htm",
+      "summary": "Phiên bản số sàn không còn xuất hiện trong danh mục sản phẩm Ford Ranger - mẫu xe bán tải hút khách nhất Việt Nam, trong khi các phiên bản còn lại như Ranger XLS tiếp tục được Ford nâng cấp về trang bị, tính năng giữ nguyên giá khởi điểm 707 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:12:00+07:00",
+      "fetched": "2026-07-03T21:11:08.763709+07:00"
+    },
+    {
+      "id": "7bf0dbab8685bf35f694d5c8cbb72619",
+      "title": "Những thói quen sử dụng máy tính hiện không còn phù hợp",
+      "link": "https://thanhnien.vn/nhung-thoi-quen-su-dung-may-tinh-hien-khong-con-phu-hop-185260701185148884.htm",
+      "summary": "Nhiều người dùng hiện nay vẫn giữ những thói quen cũ khi sử dụng máy tính, đặc biệt là những người đã gắn bó với internet trong nhiều năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:11:00+07:00",
+      "fetched": "2026-07-03T21:11:08.763865+07:00"
+    },
+    {
+      "id": "47cd56313e8ca3ba37b897426f2e7cd3",
+      "title": "Biến động 5 tổ hợp xét tuyển đại học phổ biến",
+      "link": "https://vnexpress.net/pho-diem-cac-to-hop-xet-tuyen-dai-hoc-a00-b00-c00-d01-a01-nam-2026-bien-dong-ra-sao-5091872.html",
+      "summary": "So với năm ngoái, điểm trung bình thi tốt nghiệp ở tổ hợp C00 giảm mạnh, B00 tăng, trong khi các khối còn lại dao động nhẹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:08:35+07:00",
+      "fetched": "2026-07-03T21:11:05.768639+07:00"
+    },
+    {
+      "id": "1345db9336f44163d87a9cd2344bc25c",
+      "title": "Bác sĩ Việt giỏi chuyên môn và tiếng Anh thu hút người bệnh nước ngoài",
+      "link": "https://thanhnien.vn/bac-si-viet-gioi-chuyen-mon-va-tieng-anh-thu-hut-nguoi-benh-nuoc-ngoai-185260703192011127.htm",
+      "summary": "Bác sĩ Việt giỏi chuyên môn và tiếng Anh có thể tư vấn đầy đủ, giúp người bệnh nước ngoài tin tưởng lựa chọn dịch vụ y tế tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:04:00+07:00",
+      "fetched": "2026-07-03T21:11:08.764017+07:00"
+    },
+    {
+      "id": "e44d6c4950722ebd93dd9ff1342f7f59",
+      "title": "Người mẹ Venezuela cảm ơn bộ đội Việt Nam giúp tìm con gái trong đống đổ nát",
+      "link": "https://thanhnien.vn/nguoi-me-venezuela-cam-on-bo-doi-viet-nam-giup-tim-con-gai-trong-dong-do-nat-185260703190137494.htm",
+      "summary": "Ngày 3.7, đại tướng Phan Văn Giang, Phó thủ tướng Chính phủ, Bộ trưởng Bộ Quốc phòng, đã gửi thư khen các sĩ quan, quân nhân chuyên nghiệp tham gia khắc phục hậu quả động đất tại Venezuela.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:02:00+07:00",
+      "fetched": "2026-07-03T21:11:08.764167+07:00"
+    },
+    {
+      "id": "3209487c36a97d6f6ad5db90db9a732d",
+      "title": "VCCI: Doanh nghiệp 'khát vốn' vì rào cản tài sản thế chấp",
+      "link": "https://vnexpress.net/vcci-doanh-nghiep-khat-von-vi-rao-can-tai-san-the-chap-5093231.html",
+      "summary": "Thiếu tài sản thế chấp khiến doanh nghiệp khó tiếp cận vốn, đòi hỏi ngành ngân hàng cần chuyển dịch sang mô hình cho vay theo dòng tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:01:40+07:00",
+      "fetched": "2026-07-03T21:11:05.768795+07:00"
+    },
+    {
+      "id": "3209487c36a97d6f6ad5db90db9a732d",
+      "title": "VCCI: Doanh nghiệp 'khát vốn' vì rào cản tài sản thế chấp",
+      "link": "https://vnexpress.net/vcci-doanh-nghiep-khat-von-vi-rao-can-tai-san-the-chap-5093231.html",
+      "summary": "Thiếu tài sản thế chấp khiến doanh nghiệp khó tiếp cận vốn, đòi hỏi ngành ngân hàng cần chuyển dịch sang mô hình cho vay theo dòng tiền.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-03T13:01:40+07:00",
+      "fetched": "2026-07-03T21:11:14.425584+07:00"
+    },
+    {
+      "id": "0bf2ef46de16f8d3984679340cbab3dc",
+      "title": "Mass City Thái Nguyên đón lực cầu nhà ở tại khu công nghiệp Sông Công",
+      "link": "https://vnexpress.net/mass-city-thai-nguyen-don-luc-cau-nha-o-tai-khu-cong-nghiep-song-cong-5093216.html",
+      "summary": "Dự án Mass City Thái Nguyên nhận được nhiều sự quan tâm của thị trường nhờ định hướng phát triển bám sát nhu cầu an cư và góp phần bổ sung nguồn cung nhà ở cho khu vực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:00:00+07:00",
+      "fetched": "2026-07-03T21:11:05.768947+07:00"
+    },
+    {
+      "id": "9aa430959c6df1d41c8a02a4b535fda8",
+      "title": "Khu Nam TP HCM có thêm nguồn cung 900 căn hộ",
+      "link": "https://vnexpress.net/khu-nam-tp-hcm-co-them-nguon-cung-900-can-ho-5093087.html",
+      "summary": "Arcadia at Lavila - phân khu cao tầng đầu tiên thuộc khu đô thị Lavila Township vừa khởi động giai đoạn triển khai, cung cấp hơn 900 căn hộ cho TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:00:00+07:00",
+      "fetched": "2026-07-03T21:11:05.769102+07:00"
+    },
+    {
+      "id": "97dab9eed96fa812c69101e5b266465b",
+      "title": "Xem nhanh 20h ngày 3.7: Sự nghiệp của Tăng Nhật Tuệ trước khi bị bắt | CSGT mật phục trên cao tốc phạt các lỗi gì?",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-37-su-nghiep-cua-tang-nhat-tue-truoc-khi-bi-bat-csgt-mat-phuc-tren-cao-toc-phat-cac-loi-gi-185260703182536491.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 3.7 có nhiều tin tức đáng chú ý về: CSGT mật phục trên cao tốc phạt nguội những lỗi nào; Tăng Nhật Tuệ: Tài năng, tai tiếng và cú ngã vì ma túy;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:00:00+07:00",
+      "fetched": "2026-07-03T21:11:08.764315+07:00"
+    },
+    {
+      "id": "0e5fa926c28989677a1094debda73e95",
+      "title": "'Rể Việt' Jung Il-woo: '20 năm đóng phim, tôi vẫn như người học việc'",
+      "link": "https://thanhnien.vn/re-viet-jung-il-woo-20-nam-dong-phim-toi-van-nhu-nguoi-hoc-viec-185260703115318623.htm",
+      "summary": "Trong cuộc trò chuyện riêng với Báo Thanh Niên bên lề Liên hoan phim châu Á Đà Nẵng lần thứ IV (DANAFF IV), nam diễn viên Hàn Quốc Jung Il-woo chia sẻ về hành trình làm nghề, những thay đổi trong suy nghĩ sau nhiều biến cố và mong muốn hợp tác với điện ảnh Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:00:00+07:00",
+      "fetched": "2026-07-03T21:11:08.764461+07:00"
+    },
+    {
+      "id": "62c3f2b648afcc5869fc41a5db7d8432",
+      "title": "Đăng ký xét tuyển 2026: Những lỗi kỹ thuật thí sinh cần tránh",
+      "link": "https://thanhnien.vn/dang-ky-xet-tuyen-2026-nhung-loi-ky-thuat-thi-sinh-can-tranh-185260702135335239.htm",
+      "summary": "Quy chế của Bộ GD-ĐT quy định từ ngày 2.7 đến 17 giờ ngày 14.7, tất cả thí sinh phải thực hiện đăng ký xét tuyển trên Hệ thống hỗ trợ tuyển sinh chung của Bộ GD-ĐT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T13:00:00+07:00",
+      "fetched": "2026-07-03T21:11:08.764687+07:00"
+    },
+    {
+      "id": "1901b798872f31452cee834df5e1d236",
+      "title": "Sự nghiệp của Tăng Nhật Tuệ trước khi bị bắt vì ma tuý",
+      "link": "https://vnexpress.net/su-nghiep-cua-tang-nhat-tue-truoc-khi-bi-bat-vi-ma-tuy-5093221.html",
+      "summary": "Nam nghệ sĩ từng hoạt động với nhiều vai trò trong showbiz, là người đứng sau loạt bản hit của các ca sĩ nổi tiếng trước khi vướng vòng lao lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T12:57:48+07:00",
+      "fetched": "2026-07-03T21:11:05.769257+07:00"
+    },
+    {
       "id": "23bebb297613c1029a8a157463e23c4d",
       "title": "Bộ Giáo dục và Đào tạo đang kiểm tra kết quả thi của Tuyên Quang",
       "link": "https://tuoitre.vn/bo-giao-duc-va-dao-tao-dang-kiem-tra-ket-qua-thi-cua-tuyen-quang-100260703095428076.htm",
@@ -451,6 +881,126 @@ window.newsData_2026_07_03 = {
       "category": "Tổng hợp",
       "published": "2026-07-03T12:54:03.471333+07:00",
       "fetched": "2026-07-03T12:54:03.471498+07:00"
+    },
+    {
+      "id": "3c88088ef5a255a38dc70b7a735d6a6d",
+      "title": "Cục Thuế lưu ý loạt điểm mới về tạm hoãn xuất cảnh từ 1.7",
+      "link": "https://thanhnien.vn/cuc-thue-luu-y-loat-diem-moi-ve-tam-hoan-xuat-canh-tu-17-185260703191529984.htm",
+      "summary": "Từ ngày 1.7, ngay khi người nộp thuế đáp ứng điều kiện hủy bỏ tạm hoãn xuất cảnh, cơ quan thuế sẽ ban hành thông báo hủy bỏ tạm hoãn xuất cảnh để gửi cơ quan quản lý xuất nhập cảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T12:54:00+07:00",
+      "fetched": "2026-07-03T21:11:08.764853+07:00"
+    },
+    {
+      "id": "cb76fd06593fee7f2fc81f2f1db2855a",
+      "title": "Bọt nổi trắng xóa phủ một khúc sông Kỳ Cùng",
+      "link": "https://thanhnien.vn/bot-noi-trang-xoa-phu-mot-khuc-song-ky-cung-185260703161525543.htm",
+      "summary": "Chiều 3.7, nhiều người dân sống ven sông Kỳ Cùng, đoạn qua P.Đông Kinh, tỉnh Lạng Sơn, bất ngờ khi thấy một khúc sông xuất hiện bọt trắng xóa, nổi dày trên mặt nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T12:54:00+07:00",
+      "fetched": "2026-07-03T21:11:08.765007+07:00"
+    },
+    {
+      "id": "eae86811ef9d85e1472ad74bc118f7ef",
+      "title": "Đề, đáp án khảo sát vào lớp 6 trường Trần Đại Nghĩa",
+      "link": "https://vnexpress.net/de-thi-lop-6-truong-tran-dai-nghia-nam-2026-tat-ca-cac-mon-kem-dap-an-5093228.html",
+      "summary": "Đề, đáp án kỳ khảo sát đầu vào lớp 6 trường THCS-THPT Trần Đại Nghĩa được Sở Giáo dục và Đào tạo công bố chiều 3/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T12:34:29+07:00",
+      "fetched": "2026-07-03T21:11:05.769412+07:00"
+    },
+    {
+      "id": "5e4175410ae5b1a2f0127bf98ba39fea",
+      "title": "Đại học Kinh tế Quốc dân công bố điểm sàn, bảng quy đổi điểm chuẩn",
+      "link": "https://vnexpress.net/diem-san-bang-quy-doi-diem-dai-hoc-kinh-te-quoc-dan-2026-chi-tiet-5093230.html",
+      "summary": "Đại học Kinh tế Quốc dân (NEU) lấy điểm sàn 22 cho tất cả tổ hợp - bằng năm ngoái, song giảm chênh lệch khi quy đổi tương đương giữa điểm thi tốt nghiệp và phương thức khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T12:30:19+07:00",
+      "fetched": "2026-07-03T21:11:05.769598+07:00"
+    },
+    {
+      "id": "500b2262ea2fa40f2e26d7da6c99bd61",
+      "title": "Đại tá Vũ Cao Sơn giữ chức Chánh văn phòng Bộ Tài chính",
+      "link": "https://vnexpress.net/dai-ta-vu-cao-son-giu-chuc-chanh-van-phong-bo-tai-chinh-5093226.html",
+      "summary": "Đại tá Vũ Cao Sơn, Phó tư lệnh Bộ Tư lệnh Cảnh sát cơ động (Bộ Công an), được tiếp nhận đến công tác tại Bộ Tài chính và giữ chức Chánh văn phòng Bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T12:25:01+07:00",
+      "fetched": "2026-07-03T21:11:05.769759+07:00"
+    },
+    {
+      "id": "500b2262ea2fa40f2e26d7da6c99bd61",
+      "title": "Đại tá Vũ Cao Sơn giữ chức Chánh văn phòng Bộ Tài chính",
+      "link": "https://vnexpress.net/dai-ta-vu-cao-son-giu-chuc-chanh-van-phong-bo-tai-chinh-5093226.html",
+      "summary": "Đại tá Vũ Cao Sơn, Phó tư lệnh Bộ Tư lệnh Cảnh sát cơ động (Bộ Công an), được tiếp nhận đến công tác tại Bộ Tài chính và giữ chức Chánh văn phòng Bộ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-03T12:25:01+07:00",
+      "fetched": "2026-07-03T21:11:14.425763+07:00"
+    },
+    {
+      "id": "308b7149fd911f5ae5e251bfdede129a",
+      "title": "Triệu người dự lễ tang cố lãnh tụ tối cao Iran Ali Khamenei",
+      "link": "https://vnexpress.net/trieu-nguoi-du-le-tang-co-lanh-tu-toi-cao-iran-ali-khamenei-5093178.html",
+      "summary": "Tang lễ của cố lãnh tụ tối cao Iran, người thiệt mạng hồi  tháng 2, diễn ra trong thời gian 3-9/7.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-03T12:08:15+07:00",
+      "fetched": "2026-07-03T21:11:12.954586+07:00"
+    },
+    {
+      "id": "1543af3126b6e22ce7a7111809e3a3cb",
+      "title": "Mỹ - Iran nguy cơ sa 'vũng lầy đàm phán'",
+      "link": "https://vnexpress.net/my-iran-nguy-co-sa-vung-lay-dam-phan-5092872.html",
+      "summary": "Sau hơn ba tháng chiến sự, Mỹ - Iran đang đối mặt tiến trình đàm phán ì ạch, khi cả hai bên đều không chấp nhận nhượng bộ nhau.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-03T12:00:00+07:00",
+      "fetched": "2026-07-03T21:11:12.954764+07:00"
+    },
+    {
+      "id": "6cf1e5b6db4347f5c16739e1c876d05a",
+      "title": "Mô hình sắp ra mắt của Meta có thể bắt kịp GPT-5.5",
+      "link": "https://vnexpress.net/mo-hinh-sap-ra-mat-cua-meta-co-the-bat-kip-gpt-5-5-5093008.html",
+      "summary": "Alexandr Wang, Giám đốc AI của Meta, nói với nhân viên rằng công ty đang tiến bộ đáng kể và sánh ngang đối thủ trong cuộc đua AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-03T12:00:00+07:00",
+      "fetched": "2026-07-03T21:11:16.930698+07:00"
+    },
+    {
+      "id": "c80af3f4a474312541b92fa0cf3680aa",
+      "title": "Khoản hỗ trợ gần 18 triệu USD giúp Cape Verde tạo địa chấn World Cup",
+      "link": "https://vnexpress.net/khoan-ho-tro-gan-18-trieu-usd-giup-cape-verde-tao-dia-chan-world-cup-5093205.html",
+      "summary": "17,8 triệu USD nhận từ FIFA trong một thập kỷ qua đã giúp Cabo Verde đầu tư hạ tầng, phát triển bóng đá và lần đầu tiên góp mặt ở vòng knock-out World Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-03T12:00:00+07:00",
+      "fetched": "2026-07-03T21:11:18.842009+07:00"
+    },
+    {
+      "id": "1e88e428a5c677756586819b05d957bc",
+      "title": "Scaloni: 'Argentina không quá phụ thuộc vào Messi'",
+      "link": "https://vnexpress.net/scaloni-argentina-khong-qua-phu-thuoc-vao-messi-5093197.html",
+      "summary": "Trước trận gặp Cape Verde ở vòng 1/16 World Cup 2026, HLV Lionel Scaloni cho rằng Argentina đủ sức tạo khác biệt nhờ lối chơi tập thể, thay vì chỉ trông chờ vào sự tỏa sáng của Lionel Messi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-03T12:00:00+07:00",
+      "fetched": "2026-07-03T21:11:18.842173+07:00"
+    },
+    {
+      "id": "77039bc893dc66c917fb691dd4845da8",
+      "title": "Chicharito: 'Messi là Siêu nhân, còn Ronaldo là Người Dơi'",
+      "link": "https://vnexpress.net/chicharito-messi-la-sieu-nhan-con-ronaldo-la-nguoi-doi-5093194.html",
+      "summary": "Tiền đạo Chicharito, trong vai trò BLV tại World Cup 2026, so sánh các siêu sao Lionel Messi và Cristiano Ronaldo với hai siêu anh hùng trong phim Hollywood.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-03T12:00:00+07:00",
+      "fetched": "2026-07-03T21:11:18.842331+07:00"
     },
     {
       "id": "90d0dd4ac3e230babbeefde10c4141ec",
