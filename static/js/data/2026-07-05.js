@@ -1,6 +1,6 @@
 window.newsData_2026_07_05 = {
   "date": "2026-07-05",
-  "lastUpdated": "2026-07-05T03:43:17.615979+07:00",
+  "lastUpdated": "2026-07-05T05:47:37.371662+07:00",
   "articles": [
     {
       "id": "b5c50816abd0e83da0c52a5476420220",
@@ -161,6 +161,216 @@ window.newsData_2026_07_05 = {
       "category": "Tổng hợp",
       "published": "2026-07-05T01:56:10.910199+07:00",
       "fetched": "2026-07-05T01:56:10.910340+07:00"
+    },
+    {
+      "id": "c373c89276c851b416449561a528f430",
+      "title": "Từ chiếc áo blouse trắng nghĩ đến những chiếc áo cam đêm trắng đội mưa",
+      "link": "https://thanhnien.vn/tu-chiec-ao-blouse-trang-nghi-den-nhung-chiec-ao-cam-dem-trang-doi-mua-185260629103824387.htm",
+      "summary": "Nếu y đức của người bác sĩ áo blouse trắng là không bỏ rơi bệnh nhân, thì 'nghĩa tình' của người thợ điện áo cam chính là không bao giờ để ánh sáng hy vọng trong bệnh viện vụt tắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:45:00+07:00",
+      "fetched": "2026-07-05T05:47:28.219279+07:00"
+    },
+    {
+      "id": "f03b2120105e91ee2fc951c0a104524a",
+      "title": "Mexico - Anh (7 giờ ngày 6.7, trực tiếp VTV): Sức ép nghẹt thở chờ ‘Tam sư’",
+      "link": "https://thanhnien.vn/mexico-anh-7-gio-ngay-67-truc-tiep-vtv-suc-ep-nghet-tho-cho-tam-su-185260704182153049.htm",
+      "summary": "Đội tuyển Anh đến sân Azteca gặp đội đồng chủ nhà Mexico tại vòng 16 đội World Cup 2026 lúc 7 giờ ngày 6.7, trong trận đấu mà ngay từ sớm \"Tam sư\" đối mặt với nhiều khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:41:00+07:00",
+      "fetched": "2026-07-05T05:47:28.219452+07:00"
+    },
+    {
+      "id": "7c6fc92768c474f8ab2808149e27f381",
+      "title": "Cấp thiết xử lý trụ sở dôi dư: Đà Nẵng khơi thông nguồn lực từ nhà đất công",
+      "link": "https://thanhnien.vn/cap-thiet-xu-ly-tru-so-doi-du-da-nang-khoi-thong-nguon-luc-tu-nha-dat-cong-185260704193252019.htm",
+      "summary": "Sau quá trình sắp xếp đơn vị hành chính và kiện toàn tổ chức bộ máy, TP.Đà Nẵng đang đẩy nhanh xử lý hàng trăm cơ sở nhà, đất dôi dư nhằm tránh lãng phí tài sản công, đồng thời chuyển hóa nguồn lực đất đai thành các công trình phục vụ phát triển đô thị, nâng cao chất lượng đời sống người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:34:00+07:00",
+      "fetched": "2026-07-05T05:47:28.219633+07:00"
+    },
+    {
+      "id": "86490a144efe6646dbcbfdd7dcdd47e4",
+      "title": "Thái Lan xử lý lái xe 11 tuổi gây tai nạn làm 10 nhà sư thiệt mạng ra sao?",
+      "link": "https://thanhnien.vn/thai-lan-xu-ly-lai-xe-11-tuoi-gay-tai-nan-lam-10-nha-su-thiet-mang-ra-sao-185260704174216176.htm",
+      "summary": "Văn phòng Tổng chưởng lý Thái Lan vừa nêu bên chịu trách nhiệm bồi thường thiệt hại sau khi chiếc xe bán tải do một cậu bé điều khiển tông một đoàn hành hương ở tỉnh Mukdahan hôm 2.7, khiến 10 nhà sư thiệt mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:31:00+07:00",
+      "fetched": "2026-07-05T05:47:28.219805+07:00"
+    },
+    {
+      "id": "2f1128a7c423fdfd98d63f260a5f39a9",
+      "title": "Tiêu điểm quốc tế ngày 5.7: Nga chiếm pháo đài 'yết hầu' | Interpol săn lùng nữ nghi phạm Ukraine",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-57-nga-chiem-phao-dai-yet-hau-interpol-san-lung-nu-nghi-pham-ukraine-185260704224410222.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 5.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:30:00+07:00",
+      "fetched": "2026-07-05T05:47:28.219964+07:00"
+    },
+    {
+      "id": "42917e438998b677a39e407ca6b5d137",
+      "title": "Mua 50 tờ vé số ngẫu nhiên, trúng độc đắc 10 tỉ xổ số miền Nam",
+      "link": "https://thanhnien.vn/mua-50-to-ve-so-ngau-nhien-trung-doc-dac-10-ti-xo-so-mien-nam-185260704163459449.htm",
+      "summary": "Người đàn ông ở TP.HCM ghé đại lý mua 50 tờ vé số ngẫu nhiên và may mắn có 5 tờ trúng độc đắc sau khi có kết quả xổ số miền Nam ngày 3 tháng 7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:30:00+07:00",
+      "fetched": "2026-07-05T05:47:28.220119+07:00"
+    },
+    {
+      "id": "449238d27592a4caf49f347599849fc0",
+      "title": "Hạ Canada, Morocco trở thành đội châu Phi thành công nhất ở World Cup",
+      "link": "https://vnexpress.net/ha-canada-morocco-tro-thanh-doi-chau-phi-thanh-cong-nhat-o-world-cup-5093582.html",
+      "summary": "Morocco thắng đồng chủ nhà Canada 3-0 ở vòng 1/8 để trở thành đại diện châu Phi đầu tiên hai lần vào tứ kết World Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-04T22:26:55+07:00",
+      "fetched": "2026-07-05T05:47:37.366437+07:00"
+    },
+    {
+      "id": "aa776a770ad7d90c6a8c19bb88a7f88b",
+      "title": "Iran bắt đầu quốc tang cố lãnh tụ, ông Trump lên tiếng",
+      "link": "https://thanhnien.vn/iran-bat-dau-quoc-tang-co-lanh-tu-ong-trump-len-tieng-185260704203751683.htm",
+      "summary": "Hôm qua 4.7, Iran bắt đầu lễ quốc tang kéo dài 6 ngày dành cho cố Lãnh tụ Tối cao Ali Khamenei, người đã thiệt mạng trong đợt không kích do Mỹ và Israel tiến hành hôm 28.2, theo AP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:26:00+07:00",
+      "fetched": "2026-07-05T05:47:28.220288+07:00"
+    },
+    {
+      "id": "a6de68080b28db92907b2b166be9d553",
+      "title": "Vườn ô liu, nho của người Việt ở Hy Lạp: Không bón phân, phun thuốc",
+      "link": "https://thanhnien.vn/vuon-o-liu-nho-cua-nguoi-viet-o-hy-lap-khong-bon-phan-phun-thuoc-185260630122145255.htm",
+      "summary": "Sống tại Hy Lạp, một cặp vợ chồng người Việt chăm vườn ô liu, nho rộng khoảng 2.000 m². Không bón phân, không phun thuốc, cây vẫn cho trái từ tháng 5 đến tháng 12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:25:00+07:00",
+      "fetched": "2026-07-05T05:47:28.220448+07:00"
+    },
+    {
+      "id": "c5c37f717c1f9c1f54a830221939d15b",
+      "title": "Đất nước đang đứng trước cơ hội phát triển rất lớn",
+      "link": "https://thanhnien.vn/dat-nuoc-dang-dung-truoc-co-hoi-phat-trien-rat-lon-185260704204916851.htm",
+      "summary": "Sáng 4.7, Tổng Bí thư, Chủ tịch nước Tô Lâm dự và chỉ đạo phiên họp Chính phủ thường kỳ tháng 6 và hội nghị trực tuyến của Chính phủ với các địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:16:00+07:00",
+      "fetched": "2026-07-05T05:47:28.220601+07:00"
+    },
+    {
+      "id": "dde6044a946c45c53ad7a182080b817a",
+      "title": "Tử vi ngày 5 tháng 7: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-5-thang-7-con-giap-nao-may-man-hom-nay-18526070422272105.htm",
+      "summary": "Tử vi ngày 5 tháng 7 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm nhấn của ngày là 'mỗi trải nghiệm đều có thể trở thành một câu chuyện có ích'. Một điều bạn từng vấp váp, một kỹ năng học được hay một chặng đường đã đi qua có thể giúp ai đó tìm thấy câu trả lời, đồng thời giúp bạn nhận ra gi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:15:00+07:00",
+      "fetched": "2026-07-05T05:47:28.220783+07:00"
+    },
+    {
+      "id": "90016dbd4d3c26d14d8c26450a17ad4d",
+      "title": "Chuông hòa bình ngân vang trên bầu trời Quảng Trị",
+      "link": "https://thanhnien.vn/chuong-hoa-binh-ngan-vang-tren-bau-troi-quang-tri-185260704222223907.htm",
+      "summary": "Lễ hội Vì hòa bình năm 2026 chính thức khai mạc tại Di tích quốc gia đặc biệt Đôi bờ Hiền Lương - Bến Hải (Quảng Trị). Tiếng chuông hòa bình ngân lên ở vùng đất từng là giới tuyến khốc liệt mở đầu cho một đêm nghệ thuật giàu cảm xúc, gửi đi thông điệp về hòa bình, hòa hợp và khát vọng hướng tới tươn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:15:00+07:00",
+      "fetched": "2026-07-05T05:47:28.220935+07:00"
+    },
+    {
+      "id": "94b4d0359de4ecce5e1073daa4c35c95",
+      "title": "Tổng thống Putin muốn đẩy mạnh chiến dịch ở Ukraine",
+      "link": "https://thanhnien.vn/tong-thong-putin-muon-day-manh-chien-dich-o-ukraine-185260704204056348.htm",
+      "summary": "Tổng thống Nga Vladimir Putin ra tiền tuyến chỉ đạo tăng cường tấn công cơ sở hạ tầng quân sự của đối phương, trong bối cảnh bị Ukraine gia tăng tập kích vào lãnh thổ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:05:00+07:00",
+      "fetched": "2026-07-05T05:47:28.221101+07:00"
+    },
+    {
+      "id": "a2b890392aaa1604d52fd4fe90b45dbc",
+      "title": "Chiến sự Ukraine ngày 1.592: Ukraine tập kích thành phố lớn thứ 2 ở Nga",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1592-ukraine-tap-kich-thanh-pho-lon-thu-2-o-nga-185260704205557117.htm",
+      "summary": "Ukraine tổ chức đợt không kích lớn bằng máy bay không người lái nhằm vào thành phố Saint Petersburg của Nga, trong khi hai bên đưa ra thông tin mâu thuẫn về thành phố Kostiantynivka ở Donetsk (miền đông Ukraine).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:00:00+07:00",
+      "fetched": "2026-07-05T05:47:28.221251+07:00"
+    },
+    {
+      "id": "c03d87c1cbb7ef8a204c1931eb422c29",
+      "title": "Lịch âm hôm nay là ngày Canh Thìn, dương lịch 5.7 có ngày lạ",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-la-ngay-canh-thin-duong-lich-57-co-ngay-la-185260703071404883.htm",
+      "summary": "Theo lịch âm hôm nay là ngày Canh Thìn, tháng Giáp Ngọ, năm Bính Ngọ, dân gian quan niệm đây là ngày cần lưu ý trong xuất hành, khởi sự. Dương lịch 5.7 là ngày thú vị không phải ai cũng biết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:00:00+07:00",
+      "fetched": "2026-07-05T05:47:28.221407+07:00"
+    },
+    {
+      "id": "186ba02419ac4f1e055aed5a03184f2b",
+      "title": "Chiếc chuông nứt là biểu tượng độc lập của Mỹ",
+      "link": "https://vnexpress.net/chiec-chuong-nut-la-bieu-tuong-doc-lap-cua-my-5093312.html",
+      "summary": "Chuông Tự do, chiếc chuông lịch sử ở Philadelphia, đã trở thành biểu tượng cho sự độc lập của Mỹ và cũng gắn liền với phong trào bãi nô.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-04T22:00:00+07:00",
+      "fetched": "2026-07-05T05:47:31.510431+07:00"
+    },
+    {
+      "id": "7f28f98c450a91fccde525248c991200",
+      "title": "Cơn khát chip AI lan sang linh kiện, vật liệu bán dẫn",
+      "link": "https://vnexpress.net/con-khat-chip-ai-lan-sang-linh-kien-vat-lieu-ban-dan-5092223.html",
+      "summary": "Không chỉ đẩy giá GPU và chip nhớ lên cao, cơn sốt AI còn tạo ra \"nút thắt cổ chai\" mới khi tụ điện, tấm đồng hay vải thủy tinh trở nên khan hiếm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-04T22:00:00+07:00",
+      "fetched": "2026-07-05T05:47:36.029690+07:00"
+    },
+    {
+      "id": "0b4d2497690e447087d98d6f086ab8d3",
+      "title": "Kết quả World Cup 2026: Đè bẹp Canada 3-0, Ma Rốc hiên ngang vào tứ kết",
+      "link": "https://thanhnien.vn/ket-qua-world-cup-2026-de-bep-canada-3-0-ma-roc-hien-ngang-vao-tu-ket-185260705044906472.htm",
+      "summary": "Thi đấu bùng nổ trong hiệp 2, đội tuyển Ma Rốc đã đánh bại đồng chủ nhà Canada với tỷ số đậm đà 3-0 tại vòng 16 đội kết thúc vào rạng sáng 5.7, qua đó giành tấm vé đầu tiên vào tứ kết World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T21:54:00+07:00",
+      "fetched": "2026-07-05T05:47:28.221556+07:00"
+    },
+    {
+      "id": "57baf1b4d3ee4d0cde0f3f38c63770e8",
+      "title": "Mbappe, Kane vào đội hình hay nhất vòng 1/16 World Cup 2026",
+      "link": "https://vnexpress.net/mbappe-kane-vao-doi-hinh-hay-nhat-vong-1-16-world-cup-2026-5093555.html",
+      "summary": "Kylian Mbappe, Harry Kane, Michael Olise có tên, nhưng Lionel Messi vắng mặt trong đội hình hay nhất vòng 1/16 World Cup 2026 theo bình chọn của nền tảng phát trực tuyến chuyên về thể thao DAZN.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T21:15:47+07:00",
+      "fetched": "2026-07-05T05:47:25.406880+07:00"
+    },
+    {
+      "id": "57baf1b4d3ee4d0cde0f3f38c63770e8",
+      "title": "Mbappe, Kane vào đội hình hay nhất vòng 1/16 World Cup 2026",
+      "link": "https://vnexpress.net/mbappe-kane-vao-doi-hinh-hay-nhat-vong-1-16-world-cup-2026-5093555.html",
+      "summary": "Kylian Mbappe, Harry Kane, Michael Olise có tên, nhưng Lionel Messi vắng mặt trong đội hình hay nhất vòng 1/16 World Cup 2026 theo bình chọn của nền tảng phát trực tuyến chuyên về thể thao DAZN.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-04T21:15:47+07:00",
+      "fetched": "2026-07-05T05:47:37.366609+07:00"
+    },
+    {
+      "id": "8de548a70c1f068b2cda120a40743351",
+      "title": "CEO Ford kêu gọi phạt các hãng nhập khẩu quá nhiều xe",
+      "link": "https://vnexpress.net/ceo-ford-keu-goi-phat-cac-hang-nhap-khau-qua-nhieu-xe-5092858.html",
+      "summary": "General Motors nhập khẩu 1,17 triệu xe trong 2025, chiếm 41% tổng doanh số, trong khi tỷ lệ của Toyota là 47%, và Jim Farley không thích điều này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T21:00:00+07:00",
+      "fetched": "2026-07-05T05:47:25.407075+07:00"
     },
     {
       "id": "8aa4829fcd023a1daf4d708264d4dc4e",
