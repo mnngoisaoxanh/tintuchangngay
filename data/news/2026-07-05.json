@@ -1,5 +1,15 @@
 [
   {
+    "id": "b5c50816abd0e83da0c52a5476420220",
+    "title": "Trực tuyến Paraguay - Pháp (4h ngày 5-7): Tuyển Pháp quá mạnh so với Paraguay",
+    "link": "https://tuoitre.vn/truc-tuyen-paraguay-phap-4h-ngay-5-7-tuyen-phap-qua-manh-so-voi-paraguay-100260704202754835.htm",
+    "summary": "Với sức mạnh đáng sợ trên hàng công, tuyển Pháp được chờ đợi sẽ tiếp tục vượt qua Paraguay trên sân Lincoln Financial Field, Mỹ ở vòng 16 đội World Cup 2026.",
+    "source": "Tuổi Trẻ",
+    "category": "Tổng hợp",
+    "published": "2026-07-05T03:43:08.720192+07:00",
+    "fetched": "2026-07-05T03:43:08.720350+07:00"
+  },
+  {
     "id": "fb9f5ac3bce8d3c86c13d63fd25fe478",
     "title": "Canada - Morocco (hết hiệp 1) 0-0: Chờ hiệp 2 bùng nổ",
     "link": "https://tuoitre.vn/truc-tuyen-canada-morocco-0h-chu-nha-gay-bat-ngo-100260704094528724.htm",
@@ -148,6 +158,66 @@
     "category": "Tổng hợp",
     "published": "2026-07-05T01:56:10.910199+07:00",
     "fetched": "2026-07-05T01:56:10.910340+07:00"
+  },
+  {
+    "id": "8aa4829fcd023a1daf4d708264d4dc4e",
+    "title": "Brazil - Na Uy (3 giờ ngày 6.7, trực tiếp VTV): Vũ điệu samba rộn ràng",
+    "link": "https://thanhnien.vn/brazil-na-uy-3-gio-ngay-67-truc-tiep-vtv-vu-dieu-samba-ron-rang-185260704182819855.htm",
+    "summary": "Brazil có cơ hội giành chiến thắng đầu tiên trước Na Uy khi hai đội chạm trán tại vòng 16 đội World Cup 2026 lúc 3 giờ ngày 6.7.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-07-04T20:43:00+07:00",
+    "fetched": "2026-07-05T03:43:06.461272+07:00"
+  },
+  {
+    "id": "2fa27b11d2e9232cbf277fee99709446",
+    "title": "Paraguay - Pháp: Bộ tứ Olise, Dembele, Barcola, Mbappe đá chính",
+    "link": "https://vnexpress.net/paraguay-phap-5093573.html",
+    "summary": "Bradley Barcola, Michael Olise, Ousmane Dembele và đội trưởng Kylian Mbappe cùng đá chính khi Pháp đấu Paraguay ở vòng 1/8 World Cup 2026. Bóng lăn lúc 4h.",
+    "source": "VnExpress - Thể Thao",
+    "category": "Thể thao",
+    "published": "2026-07-04T20:30:00+07:00",
+    "fetched": "2026-07-05T03:43:17.611282+07:00"
+  },
+  {
+    "id": "2093f7fd774631ad07757126e4f5edc6",
+    "title": "Hiệp 1 trận Ma Rốc thắng Canada cực nóng, vì sao tạm dừng chỉ sau 1 giây?",
+    "link": "https://thanhnien.vn/hiep-1-tran-ma-roc-thang-canada-cuc-nong-vi-sao-tam-dung-chi-sau-1-giay-185260705022856249.htm",
+    "summary": "Trận Ma Rốc thắng Canada 3-0 rạng sáng 5.7 ở vòng 16 đội World Cup 2026 đã phải tạm dừng chỉ sau 1 giây vì lỗi giao bóng. Đó cũng là khởi đầu cho hiệp 1 đầy căng thẳng, khi hai đội liên tục va chạm và nhận tới 6 thẻ vàng.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-07-04T19:32:00+07:00",
+    "fetched": "2026-07-05T03:43:06.461420+07:00"
+  },
+  {
+    "id": "98a5f648e27a9047d6846d2604bf8c72",
+    "title": "Cổ phiếu của hai tỷ phú Việt có thể vào nhóm VN30",
+    "link": "https://vnexpress.net/co-phieu-cua-hai-ty-phu-viet-co-the-vao-nhom-vn30-5093566.html",
+    "summary": "Cổ phiếu MCH của tỷ phú Nguyễn Đăng Quang và TCX của tỷ phú Hồ Hùng Anh có thể vào nhóm VN30 trong thời gian tới, thay thế cho PLX và TPB.",
+    "source": "VnExpress",
+    "category": "Tổng hợp",
+    "published": "2026-07-04T19:00:00+07:00",
+    "fetched": "2026-07-05T03:43:02.952265+07:00"
+  },
+  {
+    "id": "98a5f648e27a9047d6846d2604bf8c72",
+    "title": "Cổ phiếu của hai tỷ phú Việt có thể vào nhóm VN30",
+    "link": "https://vnexpress.net/co-phieu-cua-hai-ty-phu-viet-co-the-vao-nhom-vn30-5093566.html",
+    "summary": "Cổ phiếu MCH của tỷ phú Nguyễn Đăng Quang và TCX của tỷ phú Hồ Hùng Anh có thể vào nhóm VN30 trong thời gian tới, thay thế cho PLX và TPB.",
+    "source": "VnExpress - Kinh Doanh",
+    "category": "Kinh doanh",
+    "published": "2026-07-04T19:00:00+07:00",
+    "fetched": "2026-07-05T03:43:12.536301+07:00"
+  },
+  {
+    "id": "a1a70e02767992e9ca1189bb190f28ac",
+    "title": "Biệt thự 1.600 m2 trên sườn đồi với lớp mái phủ cây xanh",
+    "link": "https://vnexpress.net/biet-thu-1-600-m2-tren-suon-doi-voi-lop-mai-phu-cay-xanh-5093099.html",
+    "summary": "Căn nhà được đặt giữa địa hình dốc, dùng mái phủ cây xanh và vật liệu bền vững để giảm tác động từ nắng, gió biển.",
+    "source": "VnExpress",
+    "category": "Tổng hợp",
+    "published": "2026-07-04T18:27:07+07:00",
+    "fetched": "2026-07-05T03:43:02.952438+07:00"
   },
   {
     "id": "0fa337ea20909a6dff7128ab086a1e77",
