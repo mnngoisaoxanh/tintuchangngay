@@ -1,7 +1,17 @@
 window.newsData_2026_07_06 = {
   "date": "2026-07-06",
-  "lastUpdated": "2026-07-06T02:01:43.311028+07:00",
+  "lastUpdated": "2026-07-06T03:47:00.072184+07:00",
   "articles": [
+    {
+      "id": "406ee8040b8bf94558d4edda977d921a",
+      "title": "Tiền đạo tuyển Mỹ Balogun được xóa thẻ đỏ, ông Trump phấn khích nói 'FIFA đã làm điều đúng đắn'",
+      "link": "https://tuoitre.vn/tien-dao-tuyen-my-balogun-duoc-xoa-the-do-ong-trump-phan-khich-noi-fifa-da-lam-dieu-dung-dan-100260706014108843.htm",
+      "summary": "Dù đã phải nhận thẻ đỏ trong trận gần nhất gặp Bosnia và Herzegovina, nhưng tiền đạo tuyển Mỹ - Balogun vẫn sẽ ra sân trong trận gặp tuyển Bỉ tại vòng 16 đội World Cup 2026 vào ngày 7-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T03:46:54.153997+07:00",
+      "fetched": "2026-07-06T03:46:54.154166+07:00"
+    },
     {
       "id": "455c6b49812f9af8f2bd1e4303fede9e",
       "title": "Xả súng trong đêm Quốc khánh Mỹ tại New York, nhiều trẻ em bị thương",
@@ -151,6 +161,36 @@ window.newsData_2026_07_06 = {
       "category": "Tổng hợp",
       "published": "2026-07-06T02:01:34.354520+07:00",
       "fetched": "2026-07-06T02:01:34.354656+07:00"
+    },
+    {
+      "id": "9109c92d1e90ae7f1a380c77c30734c2",
+      "title": "World Cup 2026, Brazil 0-0 Na Uy: Bruno Guimaraes sút phạt đền không thành bàn",
+      "link": "https://thanhnien.vn/world-cup-2026-brazil-na-uy-cuoc-chien-co-bap-va-ban-linh-khong-khoan-nhuong-185260705153235046.htm",
+      "summary": "Trận đấu giữa Brazil và Na Uy lúc 3 giờ ngày 6.7 hứa hẹn khó đoán, khi Brazil đã trở lại mạnh mẽ, còn Na Uy vẫn là 'hiện tượng' khó giải mã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T19:25:00+07:00",
+      "fetched": "2026-07-06T03:46:52.701780+07:00"
+    },
+    {
+      "id": "4622527d3d3463b52b4f07339a742a15",
+      "title": "Ăn đêm xem World Cup - combo 'sát thủ' khiến dạ dày và gan tổn thương ra sao?",
+      "link": "https://vnexpress.net/an-dem-xem-world-cup-combo-sat-thu-khien-da-day-va-gan-ton-thuong-ra-sao-5093270.html",
+      "summary": "Ăn nhiều đồ chiên rán, nước ngọt, bia, rượu kết hợp thức khuya xem đá bóng là combo âm thầm tàn phá sức khỏe người hâm mộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T19:00:00+07:00",
+      "fetched": "2026-07-06T03:46:50.258412+07:00"
+    },
+    {
+      "id": "4622527d3d3463b52b4f07339a742a15",
+      "title": "Ăn đêm xem World Cup - combo 'sát thủ' khiến dạ dày và gan tổn thương ra sao?",
+      "link": "https://vnexpress.net/an-dem-xem-world-cup-combo-sat-thu-khien-da-day-va-gan-ton-thuong-ra-sao-5093270.html",
+      "summary": "Ăn nhiều đồ chiên rán, nước ngọt, bia, rượu kết hợp thức khuya xem đá bóng là combo âm thầm tàn phá sức khỏe người hâm mộ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-05T19:00:00+07:00",
+      "fetched": "2026-07-06T03:47:00.067247+07:00"
     },
     {
       "id": "4d3662fe392d100504d6c1fd592db55a",
