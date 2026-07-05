@@ -1,7 +1,137 @@
 window.newsData_2026_07_05 = {
   "date": "2026-07-05",
-  "lastUpdated": "2026-07-05T20:07:58.631769+07:00",
+  "lastUpdated": "2026-07-05T22:05:32.341240+07:00",
   "articles": [
+    {
+      "id": "b63e0808eeac1fcfb3c5df1c44c786de",
+      "title": "Xuân Son, Hoàng Hên, Tài Lộc xuất trận, tuyển Việt Nam thắng đậm đội hạng ba Hàn Quốc",
+      "link": "https://tuoitre.vn/xuan-son-hoang-hen-dinh-bac-ghi-ban-tuyen-viet-nam-thang-6-0-doi-hang-ba-han-quoc-100260705181530791.htm",
+      "summary": "Đội tuyển Việt Nam thắng Siheung FC 6-0 trong trận đấu tập đầu tiên tại Hàn Quốc chiều 5-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:05:22.439909+07:00",
+      "fetched": "2026-07-05T22:05:22.439963+07:00"
+    },
+    {
+      "id": "9d2af320fadc17c8e34fa24dde9c022c",
+      "title": "Siêu bão Ba Vì mạnh cấp 17, giật trên cấp 17 liệu có vào Biển Đông?",
+      "link": "https://tuoitre.vn/sieu-bao-ba-vi-manh-cap-17-giat-tren-cap-17-lieu-co-vao-bien-dong-100260705183115894.htm",
+      "summary": "Xác suất siêu bão Ba Vì đi vào khu vực Biển Đông không cao song vẫn gây gió mạnh trên toàn bộ Biển Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:05:22.439844+07:00",
+      "fetched": "2026-07-05T22:05:22.439899+07:00"
+    },
+    {
+      "id": "40bc6dc1a95f8564d76200f677703f33",
+      "title": "Thanh gươm diệt quỷ sẽ phát trực tuyến tại Việt Nam",
+      "link": "https://tuoitre.vn/thanh-guom-diet-quy-se-phat-truc-tuyen-tai-viet-nam-100260705175159275.htm",
+      "summary": "Sau gần một năm kể từ khi ra mắt tại rạp, Thanh gươm diệt quỷ: Vô hạn thành phần 1 sẽ chính thức lên sóng trực tuyến trên nền tảng Crunchyroll, với nhiều lựa chọn lồng tiếng và phụ đề, bao gồm tiếng Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:05:22.439776+07:00",
+      "fetched": "2026-07-05T22:05:22.439833+07:00"
+    },
+    {
+      "id": "0be0d2b43d40d6120cbcad7b8b02dd93",
+      "title": "Bộ Y tế ban hành danh mục bệnh truyền nhiễm mới: Bổ sung loại vi rút cúm, viêm não Nhật Bản",
+      "link": "https://tuoitre.vn/bo-y-te-ban-hanh-danh-muc-benh-truyen-nhiem-moi-bo-sung-loai-vi-rut-cum-viem-nao-nhat-ban-10026070518411086.htm",
+      "summary": "Từ ngày 1-7, danh mục bệnh truyền nhiễm thuộc các nhóm A, B và C được áp dụng theo quyết định số 1965/QĐ-BYT.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:05:22.439707+07:00",
+      "fetched": "2026-07-05T22:05:22.439765+07:00"
+    },
+    {
+      "id": "9213be9f186d9ce22db364da2945b67e",
+      "title": "Nhân viên ngân hàng 'mượn' 7,2 tỉ đồng rồi chiếm đoạt trả nợ",
+      "link": "https://tuoitre.vn/nhan-vien-ngan-hang-muon-72-ti-dong-roi-chiem-doat-tra-no-10026070516275475.htm",
+      "summary": "Cựu nhân viên Ngân hàng Vietcombank - chi nhánh Quy Nhơn (Gia Lai) lợi dụng công việc khi còn công tác đưa thông tin gian dối lừa đảo chiếm đoạt 7,2 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:05:22.439638+07:00",
+      "fetched": "2026-07-05T22:05:22.439697+07:00"
+    },
+    {
+      "id": "ff24ccd2d6ef6d8041a2fa558413b3ac",
+      "title": "Kẹt cứng cao tốc từ Dầu Giây về TP.HCM, CSGT khuyến cáo tài xế nên đi quốc lộ 1",
+      "link": "https://tuoitre.vn/ket-cung-cao-toc-tu-dau-giay-ve-tphcm-csgt-khuyen-cao-tai-xe-nen-di-quoc-lo-1-100260705185417916.htm",
+      "summary": "Chiều tối 5-7, cao tốc TP.HCM - Long Thành - Dầu Giây, hướng từ Dầu Giây về TP.HCM kẹt xe kéo dài, nhiều đoạn dòng xe nối đuôi nhau nhích từng chút.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:05:22.439566+07:00",
+      "fetched": "2026-07-05T22:05:22.439627+07:00"
+    },
+    {
+      "id": "3c94d3440587a48b25ff10f1a2488f39",
+      "title": "Tháng 7 đi tìm tên cho liệt sĩ và cuộc gặp với những người tuyến đầu",
+      "link": "https://tuoitre.vn/thang-7-di-tim-ten-cho-liet-si-va-cuoc-gap-voi-nhung-nguoi-tuyen-dau-100260705185458308.htm",
+      "summary": "Chiến tranh đã lùi xa, nhưng hành trình đưa các liệt sĩ trở về với tên tuổi, quê hương và ký ức dân tộc Việt Nam vẫn đang tiếp tục từng ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:05:22.439440+07:00",
+      "fetched": "2026-07-05T22:05:22.439552+07:00"
+    },
+    {
+      "id": "01736767ede5858f82422a1c9cbb826f",
+      "title": "22 triệu người Việt có bệnh mạn tính, tăng huyết áp dẫn đầu nhóm bệnh lý",
+      "link": "https://tuoitre.vn/22-trieu-nguoi-viet-co-benh-man-tinh-tang-huyet-ap-dan-dau-nhom-benh-ly-100260705154939649.htm",
+      "summary": "Hiện có khoảng 22 triệu người Việt Nam từ 18 - 69 tuổi mắc bệnh mạn tính, dẫn đầu là tăng huyết áp, tiếp đến là đái tháo đường, bệnh phổi tắc nghẽn mãn tính (COPD) và ung thư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:05:22.439332+07:00",
+      "fetched": "2026-07-05T22:05:22.439423+07:00"
+    },
+    {
+      "id": "d9745162e5ce2074427723f0a525e5b6",
+      "title": "TP.HCM khởi công thêm gần 140km metro trong năm 2026",
+      "link": "https://tuoitre.vn/tphcm-khoi-cong-them-gan-140km-metro-trong-nam-2026-100260705184728752.htm",
+      "summary": "4 dự án metro tại TP.HCM với tổng chiều dài khoảng 138,8km nằm trong kế hoạch khởi công từ nay đến cuối năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:05:22.439220+07:00",
+      "fetched": "2026-07-05T22:05:22.439314+07:00"
+    },
+    {
+      "id": "4ee1597fe67faea7ac7d9852ca150114",
+      "title": "Gần 50 người nghi ngộ độc sau khi ăn cơm gà ở Cam Ranh, Khánh Hòa",
+      "link": "https://tuoitre.vn/gan-50-nguoi-nghi-ngo-doc-sau-khi-an-com-ga-o-cam-ranh-khanh-hoa-100260705193326347.htm",
+      "summary": "Hàng chục người dân nhập viện, nghi ngộ độc thực phẩm sau khi ăn cơm gà tại một quán ăn trên địa bàn phường Cam Ranh (tỉnh Khánh Hòa).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:05:22.439112+07:00",
+      "fetched": "2026-07-05T22:05:22.439203+07:00"
+    },
+    {
+      "id": "455c6b49812f9af8f2bd1e4303fede9e",
+      "title": "Xả súng trong đêm Quốc khánh Mỹ tại New York, nhiều trẻ em bị thương",
+      "link": "https://tuoitre.vn/xa-sung-trong-dem-quoc-khanh-my-tai-new-york-nhieu-tre-em-bi-thuong-100260705200158008.htm",
+      "summary": "Ít nhất 8 người, trong đó có 4 trẻ em, đã bị thương trong vụ xả súng xảy ra đêm 4-7 tại khu Coney Island, New York.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:05:22.439004+07:00",
+      "fetched": "2026-07-05T22:05:22.439095+07:00"
+    },
+    {
+      "id": "9567a5ad4b56cb01acd46e0fa66e0b37",
+      "title": "Spider-Man có 7 định dạng chiếu, tham vọng vượt mặt The Odyssey",
+      "link": "https://tuoitre.vn/giai-tri/spider-man-co-7-dinh-dang-chieu-tham-vong-vuot-mat-the-odyssey-100260705201753357.htm",
+      "summary": "Dù khó đạt thành tích như No Way Home, nhiều chuyên gia vẫn tin Spider-Man: Brand New Day có khả năng vượt mốc 1 tỉ USD doanh thu toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:05:22.438876+07:00",
+      "fetched": "2026-07-05T22:05:22.438986+07:00"
+    },
+    {
+      "id": "1c528b1daab9ff9896018482bd796390",
+      "title": "Hiện trạng dự án bờ Bắc kênh Đôi sau gần một năm khởi công",
+      "link": "https://tuoitre.vn/hien-trang-du-an-bo-bac-kenh-doi-sau-gan-mot-nam-khoi-cong-100260705161429376.htm",
+      "summary": "Khu vực bờ Bắc kênh Đôi đang dần chuyển mình sau gần một năm khởi công chỉnh trang đô thị. Dù còn vướng 47/1.604 trường hợp chưa bàn giao mặt bằng nhưng nhiều gói thầu vẫn phấn đấu hoàn thành trong cuối năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:05:22.438470+07:00",
+      "fetched": "2026-07-05T22:05:22.438851+07:00"
+    },
     {
       "id": "19648996f3caef3aa2553bf69e2184be",
       "title": "Đường dây rửa tiền quy mô 67.000 tỉ đồng: Khởi tố thêm 2 nhân viên ngân hàng",
@@ -303,6 +433,126 @@ window.newsData_2026_07_05 = {
       "fetched": "2026-07-05T17:03:16.634109+07:00"
     },
     {
+      "id": "c0e5ace76669c0e48cf6eea9d0d8422b",
+      "title": "Nhạc sĩ Nguyễn Văn Chung nói lý do bật khóc trong 'Anh trai vượt ngàn chông gai'",
+      "link": "https://thanhnien.vn/nhac-si-nguyen-van-chung-noi-ly-do-bat-khoc-trong-anh-trai-vuot-ngan-chong-gai-185260705204138114.htm",
+      "summary": "Nhạc sĩ Nguyễn Văn Chung vừa có những chia sẻ gây chú ý sau khi tập 2 của chương trình 'Anh trai vượt ngàn chông gai' lên sóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T15:00:00+07:00",
+      "fetched": "2026-07-05T22:05:20.179950+07:00"
+    },
+    {
+      "id": "de9ebabcb91c4ab9c8d796d7dfed5a2c",
+      "title": "Điểm sàn xét tuyển Đại học Hà Nội từ 22/40",
+      "link": "https://vnexpress.net/diem-san-xet-tuyen-dai-hoc-ha-noi-nam-2026-5093757.html",
+      "summary": "Ngưỡng đảm bảo chất lượng đầu vào (điểm sàn) của Đại học Hà Nội năm 2026 là 22/40, tương tự năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T14:55:42+07:00",
+      "fetched": "2026-07-05T22:05:16.625977+07:00"
+    },
+    {
+      "id": "808bfe5554db0f1cc69af68c844d6a6a",
+      "title": "Xác minh thông tin 3 ngư dân mất liên lạc sau bão số 1 ở Móng Cái",
+      "link": "https://thanhnien.vn/xac-minh-thong-tin-3-ngu-dan-mat-lien-lac-sau-bao-so-1-o-mong-cai-185260705212456032.htm",
+      "summary": "Bão số 1 gây thiệt hại nặng tại Móng Cái, Bí thư Tỉnh ủy Quảng Ninh yêu cầu khẩn trương xác minh thông tin 3 ngư dân mất liên lạc, huy động lực lượng tìm kiếm trên biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T14:54:00+07:00",
+      "fetched": "2026-07-05T22:05:20.180134+07:00"
+    },
+    {
+      "id": "6c0f0d27a4b54c8511c6944826a68550",
+      "title": "World Cup 2026, Mexico - Anh: ‘Tam sư’ trăm sự đặt hết vào Harry Kane",
+      "link": "https://thanhnien.vn/world-cup-2026-mexico-anh-tam-su-tram-su-dat-het-vao-harry-kane-185260705131602044.htm",
+      "summary": "Đội tuyển Anh bước vào trận đấu với đội đồng chủ nhà Mexico tại vòng 16 đội lúc 7 giờ ngày 6.7 trên sân Azteca với 'lành ít dữ nhiều', nhưng họ cũng rất vững tin vào tài nghệ của chân sút Harry Kane để hóa giải mọi bất lợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T14:34:00+07:00",
+      "fetched": "2026-07-05T22:05:20.180387+07:00"
+    },
+    {
+      "id": "5c36dcd0f91d424923ada3291538e958",
+      "title": "Lớp học ven biển có nhiều điểm 10 Toán",
+      "link": "https://vnexpress.net/lop-hoc-ven-bien-co-nhieu-diem-10-toan-5093670.html",
+      "summary": "Chủ yếu là con em ngư dân, không đi học thêm, nhưng lớp 12A6, trường THPT Nguyễn Đình Liễn có 19 học sinh đạt từ 9 điểm Toán thi tốt nghiệp trở lên, trong đó 9 em đạt tuyệt đối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T14:33:14+07:00",
+      "fetched": "2026-07-05T22:05:16.626173+07:00"
+    },
+    {
+      "id": "80a46d7b12846c317e942df2f40ebe61",
+      "title": "Haaland - Gabriel: Đối địch từ Ngoại hạng Anh đến World Cup",
+      "link": "https://vnexpress.net/haaland-gabriel-doi-dich-tu-ngoai-hang-anh-den-world-cup-5093752.html",
+      "summary": "Cuộc tái đấu giữa tiền đạo Man City Erling Haaland và trung vệ Arsenal Gabriel Magalhaes có thể định đoạt số phận trận Brazil – Na Uy ở vòng 1/8 World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T14:25:29+07:00",
+      "fetched": "2026-07-05T22:05:16.626342+07:00"
+    },
+    {
+      "id": "80a46d7b12846c317e942df2f40ebe61",
+      "title": "Haaland - Gabriel: Đối địch từ Ngoại hạng Anh đến World Cup",
+      "link": "https://vnexpress.net/haaland-gabriel-doi-dich-tu-ngoai-hang-anh-den-world-cup-5093752.html",
+      "summary": "Cuộc tái đấu giữa tiền đạo Man City Erling Haaland và trung vệ Arsenal Gabriel Magalhaes có thể định đoạt số phận trận Brazil – Na Uy ở vòng 1/8 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-05T14:25:29+07:00",
+      "fetched": "2026-07-05T22:05:32.330650+07:00"
+    },
+    {
+      "id": "ed6a87cd6f080b7bf10bd7b824dc658c",
+      "title": "Đầu bếp Na Uy chăm Haaland ở World Cup thế nào?",
+      "link": "https://vnexpress.net/dau-bep-na-uy-cham-haaland-o-world-cup-the-nao-5093750.html",
+      "summary": "Góp công lớn vào thành công ở World Cup 2026 của đội tuyển Na Uy là đội ngũ đầu bếp và chuyên gia dinh dưỡng tận tâm, chuyên nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T14:07:55+07:00",
+      "fetched": "2026-07-05T22:05:16.626528+07:00"
+    },
+    {
+      "id": "ed6a87cd6f080b7bf10bd7b824dc658c",
+      "title": "Đầu bếp Na Uy chăm Haaland ở World Cup thế nào?",
+      "link": "https://vnexpress.net/dau-bep-na-uy-cham-haaland-o-world-cup-the-nao-5093750.html",
+      "summary": "Góp công lớn vào thành công ở World Cup 2026 của đội tuyển Na Uy là đội ngũ đầu bếp và chuyên gia dinh dưỡng tận tâm, chuyên nghiệp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-05T14:07:55+07:00",
+      "fetched": "2026-07-05T22:05:32.330829+07:00"
+    },
+    {
+      "id": "c4eeb0319da1854b00c10c329a183dfe",
+      "title": "Galaxy Ultra đang bị chính 'người anh em' cùng nhà vượt mặt",
+      "link": "https://thanhnien.vn/galaxy-ultra-dang-bi-chinh-nguoi-anh-em-cung-nha-vuot-mat-185260705105842237.htm",
+      "summary": "Dòng Galaxy Ultra từ lâu được coi là lựa chọn hàng đầu cho những ai tìm kiếm một chiếc smartphone Android lớn và tốt nhất với đầy đủ tính năng cao cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T14:07:00+07:00",
+      "fetched": "2026-07-05T22:05:20.180575+07:00"
+    },
+    {
+      "id": "e065eaa395f5ab749d0c991857adef36",
+      "title": "Tàu thăm dò Nhật Bản bay ngang tiểu hành tinh để diễn tập phòng thủ trái đất",
+      "link": "https://thanhnien.vn/tau-tham-do-nhat-ban-bay-ngang-tieu-hanh-tinh-de-dien-tap-phong-thu-trai-dat-185260705202235274.htm",
+      "summary": "Chiều tối nay (5.7), Cơ quan Thám hiểm Hàng không Vũ trụ Nhật Bản (JAXA) thông báo tàu thăm dò Hayabusa2 thực hiện cú bay ngang một tiểu hành tinh gần trái đất theo khuôn khổ sứ mệnh giúp bảo vệ địa cầu trong tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T14:05:00+07:00",
+      "fetched": "2026-07-05T22:05:20.180764+07:00"
+    },
+    {
+      "id": "39d44412a42a67f6146114c3bb9b85a8",
+      "title": "Bố mẹ bạn gái ngăn cấm vì tôi chỉ làm công ăn lương",
+      "link": "https://vnexpress.net/bo-me-ban-gai-ngan-cam-vi-toi-chi-lam-cong-an-luong-5093721.html",
+      "summary": "Tôi làm một công việc trái ngành, thu nhập chỉ đủ chi tiêu và để dành được vài triệu mỗi tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T14:00:00+07:00",
+      "fetched": "2026-07-05T22:05:16.626701+07:00"
+    },
+    {
       "id": "a49e09ffd8b1c0ca180926ab68071b1f",
       "title": "Cư dân nhà ở xã hội chấm điểm thấp cho khâu quản lý, mong giá bán dưới 1 tỉ đồng/căn",
       "link": "https://tuoitre.vn/cu-dan-nha-o-xa-hoi-cham-diem-thap-cho-khau-quan-ly-mong-gia-ban-duoi-1-ti-dong-can-10026070511235431.htm",
@@ -453,6 +703,126 @@ window.newsData_2026_07_05 = {
       "fetched": "2026-07-05T13:59:29.614791+07:00"
     },
     {
+      "id": "ed5be6c76b9dac3a7bbdd6a9e7d9012c",
+      "title": "Vì sao những 'cục gạch' sạc laptop đang dần biến mất",
+      "link": "https://thanhnien.vn/vi-sao-nhung-cuc-gach-sac-laptop-dang-dan-bien-mat-185260704112212582.htm",
+      "summary": "Những cục sạc laptop cồng kềnh đang dần biến mất nhờ chất bán dẫn có tính hiệu quả hơn so với silicon truyền thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T13:59:00+07:00",
+      "fetched": "2026-07-05T22:05:20.181001+07:00"
+    },
+    {
+      "id": "b16c574a8beb1ccf3b1036368a4781b5",
+      "title": "Ai nhận được 960.000 đồng/tháng khi tham gia phổ cập giáo dục mầm non 3-5 tuổi?",
+      "link": "https://thanhnien.vn/ai-nhan-duoc-960000-dong-thang-khi-tham-gia-pho-cap-giao-duc-mam-non-3-5-tuoi-185260705194410812.htm",
+      "summary": "Ai được 960.000 đồng/tháng khi tham gia phổ cập giáo dục mầm non 3-5 tuổi? Có phải tất cả giáo viên mầm non đang dạy lớp 3-5 tuổi được hưởng kinh phí này không, hay chỉ những ai tham gia làm sổ sách, vận động trẻ ra lớp?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T13:58:00+07:00",
+      "fetched": "2026-07-05T22:05:20.181167+07:00"
+    },
+    {
+      "id": "6a8d2ee37976b7933dbadbcdce3c8342",
+      "title": "Gần 50 người nghi ngộ độc sau ăn cơm gà ở Khánh Hòa",
+      "link": "https://thanhnien.vn/gan-50-nguoi-nghi-ngo-doc-sau-an-com-ga-o-khanh-hoa-185260705202514492.htm",
+      "summary": "Khoảng 50 người dân đến khám và nhập viện với triệu chứng nghi ngộ độc thực phẩm sau khi ăn ở một quán cơm gà tại Khánh Hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T13:56:00+07:00",
+      "fetched": "2026-07-05T22:05:20.181350+07:00"
+    },
+    {
+      "id": "0590d3348190a4ba44ae775cb4d12904",
+      "title": "26 điểm khối D01 đặt nguyện vọng Sư phạm thế nào?",
+      "link": "https://vnexpress.net/26-diem-khoi-d01-dat-nguyen-vong-su-pham-the-nao-5093514.html",
+      "summary": "Thí sinh yêu thích ngành Sư phạm Văn cần có chiến lược đặt nguyện vọng phù hợp với quy định mới của Bộ Giáo dục và Đào tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T13:43:03+07:00",
+      "fetched": "2026-07-05T22:05:16.626866+07:00"
+    },
+    {
+      "id": "447abceceeda324f83a35e5a4367dbb9",
+      "title": "Phát hiện thành phố cổ Maya nguyên vẹn trong rừng rậm Mexico",
+      "link": "https://thanhnien.vn/phat-hien-thanh-pho-co-maya-nguyen-ven-trong-rung-ram-mexico-185260705203421286.htm",
+      "summary": "Sau 3 thập niên lần theo dấu vết trong rừng rậm Calakmul, các nhà khảo cổ cuối cùng đã chạm tay vào Minanbé, đô thị Maya cổ đại còn nguyên vẹn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T13:34:00+07:00",
+      "fetched": "2026-07-05T22:05:20.182405+07:00"
+    },
+    {
+      "id": "61a63bcac25291c7a70ef4579117ecd9",
+      "title": "50 người nghi ngộ độc sau ăn cơm gà ở Cam Ranh",
+      "link": "https://vnexpress.net/50-nguoi-nghi-ngo-doc-sau-an-com-ga-o-cam-ranh-5093744.html",
+      "summary": "Khoảng 50 người bị đau bụng, tiêu chảy, buồn nôn sau khi ăn cơm gà tại một quán ở đường Tố Hữu, phường Cam Ranh, nhập viện cấp cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T13:28:57+07:00",
+      "fetched": "2026-07-05T22:05:16.627022+07:00"
+    },
+    {
+      "id": "fd03c2efb5b28556adc2a5d0fd46a90a",
+      "title": "Ba Lan có thể đã bí mật chuyển loạt tên lửa Patriot cho Ukraine",
+      "link": "https://vnexpress.net/ba-lan-co-the-da-bi-mat-chuyen-loat-ten-lua-patriot-cho-ukraine-5093740.html",
+      "summary": "Phó chủ tịch Hạ viện Ba Lan nói rằng chính phủ đã bí mật chuyển tên lửa Patriot cho Ukraine, gọi đây là động thái đáng lo ngại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T13:28:56+07:00",
+      "fetched": "2026-07-05T22:05:16.627181+07:00"
+    },
+    {
+      "id": "fd03c2efb5b28556adc2a5d0fd46a90a",
+      "title": "Ba Lan có thể đã bí mật chuyển loạt tên lửa Patriot cho Ukraine",
+      "link": "https://vnexpress.net/ba-lan-co-the-da-bi-mat-chuyen-loat-ten-lua-patriot-cho-ukraine-5093740.html",
+      "summary": "Phó chủ tịch Hạ viện Ba Lan nói rằng chính phủ đã bí mật chuyển tên lửa Patriot cho Ukraine, gọi đây là động thái đáng lo ngại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-05T13:28:56+07:00",
+      "fetched": "2026-07-05T22:05:24.363418+07:00"
+    },
+    {
+      "id": "92a9e8b233c75dbd12f8e32a29b5baf5",
+      "title": "Đội tuyển Việt Nam thắng đậm tại Hàn Quốc",
+      "link": "https://vnexpress.net/doi-tuyen-viet-nam-thang-dam-tai-han-quoc-5093745.html",
+      "summary": "Hàng công chơi bùng nổ giúp đội bóng của HLV Kim Sang-sik đè bẹp đội hạng ba Siheung FC 6-0 ở trận giao hữu chiều 5/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T13:14:20+07:00",
+      "fetched": "2026-07-05T22:05:16.627340+07:00"
+    },
+    {
+      "id": "92a9e8b233c75dbd12f8e32a29b5baf5",
+      "title": "Đội tuyển Việt Nam thắng đậm tại Hàn Quốc",
+      "link": "https://vnexpress.net/doi-tuyen-viet-nam-thang-dam-tai-han-quoc-5093745.html",
+      "summary": "Hàng công chơi bùng nổ giúp đội bóng của HLV Kim Sang-sik đè bẹp đội hạng ba Siheung FC 6-0 ở trận giao hữu chiều 5/7.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-05T13:14:20+07:00",
+      "fetched": "2026-07-05T22:05:32.330996+07:00"
+    },
+    {
+      "id": "63d6f15b24f278f064449f090ecd515c",
+      "title": "Ốc Thanh Vân khóc nghẹn trên truyền hình, nói về niềm hạnh phúc khi làm mẹ",
+      "link": "https://thanhnien.vn/oc-thanh-van-khoc-nghen-tren-truyen-hinh-noi-ve-niem-hanh-phuc-khi-lam-me-185260705200449761.htm",
+      "summary": "Dẫn dắt 'Mái ấm gia đình Việt', Ốc Thanh Vân không giấu được xót xa trước hoàn cảnh của các em nhỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T13:13:00+07:00",
+      "fetched": "2026-07-05T22:05:20.182652+07:00"
+    },
+    {
+      "id": "75ec9c44c46ee49a80024031707e8092",
+      "title": "Lộ danh sách 17 mẫu Galaxy sắp được 'lên đời' One UI 9",
+      "link": "https://thanhnien.vn/lo-danh-sach-17-mau-galaxy-sap-duoc-len-doi-one-ui-9-185260705114321176.htm",
+      "summary": "Bước đi bất ngờ của Samsung về One UI 9 dành cho loạt Galaxy đời cũ và mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T13:11:00+07:00",
+      "fetched": "2026-07-05T22:05:20.182882+07:00"
+    },
+    {
       "id": "ef82e3904e64fdc159016557743ab794",
       "title": "Xem nhanh 20h ngày 5.7: Cách khai báo khi bạn đến ở qua đêm | Nhận quà và thừa kế, đóng thuế TNCN ra sao?",
       "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-57-cach-khai-bao-khi-ban-den-o-qua-dem-nhan-qua-va-thua-ke-dong-thue-tncn-ra-sao-18526070519232131.htm",
@@ -471,6 +841,16 @@ window.newsData_2026_07_05 = {
       "category": "Tổng hợp",
       "published": "2026-07-05T13:00:00+07:00",
       "fetched": "2026-07-05T20:07:47.836694+07:00"
+    },
+    {
+      "id": "1fe47efa473e045483d1dbe231121936",
+      "title": "Loạt thí sinh Gen Z hứa hẹn bùng nổ tại 'Tinh hà say hi'",
+      "link": "https://vnexpress.net/loat-thi-sinh-gen-z-hua-hen-bung-no-tai-tinh-ha-say-hi-5093061.html",
+      "summary": "Hyo, Thể Thiên, CoolKid - tân binh đa năng của làng nhạc - được fan kỳ vọng tỏa sáng trong lần đầu tham gia chương trình thực tế \"Tinh hà say hi\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T13:00:00+07:00",
+      "fetched": "2026-07-05T22:05:16.627518+07:00"
     },
     {
       "id": "9109c92d1e90ae7f1a380c77c30734c2",
@@ -501,6 +881,16 @@ window.newsData_2026_07_05 = {
       "category": "Tổng hợp",
       "published": "2026-07-05T12:49:00+07:00",
       "fetched": "2026-07-05T20:07:47.837527+07:00"
+    },
+    {
+      "id": "34400e6e3256092156db0beb4738f5ef",
+      "title": "Vì sao khách Nga đến Việt Nam tăng trưởng đột biến nửa đầu năm?",
+      "link": "https://vnexpress.net/vi-sao-khach-nga-den-viet-nam-tang-truong-dot-bien-nua-dau-nam-5086786.html",
+      "summary": "Khách Nga vươn lên thành thị trường gửi khách lớn thứ 3 đến Việt Nam trong 6 tháng đầu năm, với gần 743.000 lượt, tăng gần 186% so với cùng kỳ, mức tăng trưởng cao nhất trong top 10 thị trường quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T12:43:36+07:00",
+      "fetched": "2026-07-05T22:05:16.627694+07:00"
     },
     {
       "id": "b70fd11465d824189ef25661d0864442",
