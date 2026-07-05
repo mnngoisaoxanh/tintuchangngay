@@ -1,7 +1,77 @@
 window.newsData_2026_07_05 = {
   "date": "2026-07-05",
-  "lastUpdated": "2026-07-05T22:05:32.341240+07:00",
+  "lastUpdated": "2026-07-05T23:55:43.404273+07:00",
   "articles": [
+    {
+      "id": "0121a47716c1500fd34ff787d244fd44",
+      "title": "Vụ YouTuber Nguyễn Mạnh Hưng: Khởi tố ở nước ngoài, bắt ở trong nước được không?",
+      "link": "https://tuoitre.vn/vu-youtuber-nguyen-manh-hung-khoi-to-o-nuoc-ngoai-bat-o-trong-nuoc-duoc-khong-100260705204220636.htm",
+      "summary": "YouTuber “Thiên Báo SBC Biên Hòa” Nguyễn Mạnh Hưng chém người ở Ấn Độ vừa bị công an bắt tại Việt Nam. Theo quy định, trường hợp gây án ở nước ngoài nhưng bị bắt ở trong nước không phải đầu tiên vì công an từng xử lý nhiều vụ tương tự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T23:55:35.615681+07:00",
+      "fetched": "2026-07-05T23:55:35.615750+07:00"
+    },
+    {
+      "id": "eb8a213def6c89104985017c6bfb6a04",
+      "title": "Tình yêu với trẻ tự kỷ, tăng động của cô giáo vùng sâu",
+      "link": "https://tuoitre.vn/tinh-yeu-voi-tre-tu-ky-tang-dong-cua-co-giao-vung-sau-100260705150051939.htm",
+      "summary": "Từ một giáo viên tiểu học, cô Trần Thị Thơm chọn gắn bó với trẻ tự kỷ, tăng động, chậm nói ở vùng nông thôn Đắk Lắk với một lớp học nhỏ và tình yêu chưa bao giờ vơi cạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T23:55:35.615638+07:00",
+      "fetched": "2026-07-05T23:55:35.615675+07:00"
+    },
+    {
+      "id": "8ae19b4fe07b34ee6658d1a1c641e73f",
+      "title": "Công an TP.HCM đã khởi tố 275 bị can liên quan vụ hợp đồng kỳ nghỉ",
+      "link": "https://tuoitre.vn/cong-an-tphcm-da-khoi-to-275-bi-can-lien-quan-vu-hop-dong-ky-nghi-10026070521124813.htm",
+      "summary": "Đến nay, Công an TP.HCM đã khởi tố 15 vụ án, 275 bị can liên quan các công ty lừa đảo bằng thủ đoạn mua bán hợp đồng kỳ nghỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T23:55:35.615594+07:00",
+      "fetched": "2026-07-05T23:55:35.615631+07:00"
+    },
+    {
+      "id": "d2af1ede248ef25be086277d55c9030e",
+      "title": "Ông Netanyahu ca ngợi Mỹ, khẳng định hai nước 'cùng chung vận mệnh'",
+      "link": "https://tuoitre.vn/ong-netanyahu-ca-ngoi-my-khang-dinh-hai-nuoc-cung-chung-van-menh-100260705214714185.htm",
+      "summary": "Thủ tướng Netanyahu cùng nhiều lãnh đạo thế giới đã gửi thông điệp chúc mừng Quốc khánh Mỹ và tái khẳng định quan hệ với Washington.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T23:55:35.615549+07:00",
+      "fetched": "2026-07-05T23:55:35.615587+07:00"
+    },
+    {
+      "id": "d533baee7710386ef10161fe8062ee45",
+      "title": "Cổ phiếu công ty chứng khoán vừa bị xử phạt, giá lại tăng 10-20%",
+      "link": "https://tuoitre.vn/co-phieu-cong-ty-chung-khoan-vua-bi-xu-phat-gia-lai-tang-10-20-100260705190838458.htm",
+      "summary": "Hai cổ phiếu vừa bị cơ quan quản lý xử phạt liên quan đến hoạt động cho vay ký quỹ tăng giá mạnh nhất ngành trong tuần qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T23:55:35.615502+07:00",
+      "fetched": "2026-07-05T23:55:35.615543+07:00"
+    },
+    {
+      "id": "da3ff9d9a4d8756ff7dd87718fc0b53a",
+      "title": "150 'chiến sĩ nhí' trải nghiệm một ngày làm cảnh sát cơ động rèn ý chí, luyện bản lĩnh",
+      "link": "https://tuoitre.vn/150-chien-si-nhi-trai-nghiem-mot-ngay-lam-canh-sat-co-dong-ren-y-chi-luyen-ban-linh-100260705193812813.htm",
+      "summary": "150 bạn nhỏ đã vào vai 'chiến sĩ nhí' cảnh sát cơ động rèn ý chí, luyện bản lĩnh do Đoàn phường Chợ Lớn (TP.HCM) phối hợp Phòng Cảnh sát cơ động, Công an TP.HCM tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T23:55:35.615445+07:00",
+      "fetched": "2026-07-05T23:55:35.615495+07:00"
+    },
+    {
+      "id": "ad06b413a9ab9d124e4eb6f6d18da327",
+      "title": "Vụ hơn 140 điểm 10 toán tốt nghiệp: Giữ khẩn cấp 1 giáo viên Trường THPT chuyên Tuyên Quang",
+      "link": "https://tuoitre.vn/vu-hon-140-diem-10-toan-tot-nghiep-giu-khan-cap-1-giao-vien-truong-thpt-chuyen-tuyen-quang-100260704125501447.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Công an tỉnh Tuyên Quang thi hành lệnh giữ người trong trường hợp khẩn cấp một giáo viên Trường THPT chuyên Tuyên Quang để điều tra liên quan kết quả điểm thi tốt nghiệp THPT.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T23:55:35.615305+07:00",
+      "fetched": "2026-07-05T23:55:35.615434+07:00"
+    },
     {
       "id": "b63e0808eeac1fcfb3c5df1c44c786de",
       "title": "Xuân Son, Hoàng Hên, Tài Lộc xuất trận, tuyển Việt Nam thắng đậm đội hạng ba Hàn Quốc",
@@ -431,6 +501,96 @@ window.newsData_2026_07_05 = {
       "category": "Tổng hợp",
       "published": "2026-07-05T17:03:16.633970+07:00",
       "fetched": "2026-07-05T17:03:16.634109+07:00"
+    },
+    {
+      "id": "57d666f2bedc238cf1b01dfd6a1a3c91",
+      "title": "Nga nói ông Trump muốn giúp ông Putin đạt thỏa thuận với Ukraine",
+      "link": "https://vnexpress.net/nga-noi-ong-trump-muon-giup-ong-putin-dat-thoa-thuan-voi-ukraine-5093769.html",
+      "summary": "Nga cho biết Tổng thống Trump đã đề nghị giúp người đồng cấp Putin tìm giải pháp cho xung đột Ukraine trong cuộc điện đàm giữa hai lãnh đạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T16:25:12+07:00",
+      "fetched": "2026-07-05T23:55:30.408873+07:00"
+    },
+    {
+      "id": "bc6127a7579fefc1b3d63149e2259c9f",
+      "title": "Bộ Giáo dục: Chưa phát hiện bất thường trong chấm thi Toán tại Tuyên Quang",
+      "link": "https://vnexpress.net/bo-giao-duc-chua-phat-hien-bat-thuong-trong-cham-thi-toan-tai-tuyen-quang-5093775.html",
+      "summary": "Điểm thi tốt nghiệp THPT môn Toán của tỉnh Tuyên Quang là bất thường nhưng Bộ Giáo dục chưa phát hiện sai sót về vận chuyển, chấm thi, cho rằng cần xác minh khâu coi thi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T16:09:05+07:00",
+      "fetched": "2026-07-05T23:55:30.409002+07:00"
+    },
+    {
+      "id": "71ba7291c4eb34393a379568795ce781",
+      "title": "Bộ GD-ĐT: Kết quả môn toán tại điểm thi Trường THPT chuyên Tuyên Quang bất thường, xác minh khâu coi thi",
+      "link": "https://thanhnien.vn/bo-gd-dt-ket-qua-mon-toan-tai-diem-thi-truong-thpt-chuyen-tuyen-quang-bat-thuong-xac-minh-khau-coi-thi-185260705230149049.htm",
+      "summary": "Bộ GD-ĐT cho rằng kết quả thi môn toán tốt nghiệp THPT tại điểm thi Trường THPT chuyên Tuyên Quang là bất thường, có dấu hiệu cần tiếp tục được xác minh, làm rõ, nhất là đối với công tác coi thi tại điểm thi này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T16:07:00+07:00",
+      "fetched": "2026-07-05T23:55:33.714341+07:00"
+    },
+    {
+      "id": "7a2fed900cdb7ba1132d457aca17dfb5",
+      "title": "Công an Tuyên Quang giữ khẩn cấp một giáo viên liên quan vụ 'điểm 10 môn toán'",
+      "link": "https://thanhnien.vn/cong-an-tuyen-quang-giu-khan-cap-mot-giao-vien-lien-quan-vu-diem-10-mon-toan-185260705221727983.htm",
+      "summary": "Chiều nay 5.7, Cơ quan Cảnh sát điều tra Công an tỉnh Tuyên Quang đã thi hành lệnh giữ người trong trường hợp khẩn cấp đối với ông Nguyễn Hà Duy, giáo viên Trường THPT chuyên Tuyên Quang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T15:24:00+07:00",
+      "fetched": "2026-07-05T23:55:33.714458+07:00"
+    },
+    {
+      "id": "82e5d41c7176ddd10ec6d633649f217c",
+      "title": "Tiêm kích F-35B Mỹ biểu diễn bay treo tại chỗ",
+      "link": "https://vnexpress.net/tiem-kich-f-35b-my-bieu-dien-bay-treo-tai-cho-5093743.html",
+      "summary": "Chiến đấu cơ F-35B Mỹ biểu diễn kỹ thuật bay treo tại thủ đô Washington, chào mừng kỷ niệm 250 năm quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T15:17:10+07:00",
+      "fetched": "2026-07-05T23:55:30.409114+07:00"
+    },
+    {
+      "id": "82e5d41c7176ddd10ec6d633649f217c",
+      "title": "Tiêm kích F-35B Mỹ biểu diễn bay treo tại chỗ",
+      "link": "https://vnexpress.net/tiem-kich-f-35b-my-bieu-dien-bay-treo-tai-cho-5093743.html",
+      "summary": "Chiến đấu cơ F-35B Mỹ biểu diễn kỹ thuật bay treo tại thủ đô Washington, chào mừng kỷ niệm 250 năm quốc khánh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-05T15:17:10+07:00",
+      "fetched": "2026-07-05T23:55:37.646332+07:00"
+    },
+    {
+      "id": "1f57b2fcbd0236597aac0960c3a004cf",
+      "title": "Giáo viên trường chuyên Tuyên Quang bị tạm giữ trong vụ điểm Toán bất thường",
+      "link": "https://vnexpress.net/giao-vien-truong-chuyen-tuyen-quang-bi-tam-giu-trong-vu-diem-toan-bat-thuong-5093770.html",
+      "summary": "Nguyễn Hà Duy, 28 tuổi, giáo viên trường THPT chuyên Tuyên Quang, bị tạm giữ khẩn cấp để điều tra liên quan đến kết quả thi tốt nghiệp tại trường này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T15:11:42+07:00",
+      "fetched": "2026-07-05T23:55:30.409217+07:00"
+    },
+    {
+      "id": "9b61f96c6d184411d9a90e6cbf7860eb",
+      "title": "Từ thợ mỏ Anh đến World Cup 2026: Hành trình hơn 200 năm của trái bóng ở Mexico",
+      "link": "https://thanhnien.vn/tu-tho-mo-anh-den-world-cup-2026-hanh-trinh-hon-200-nam-cua-trai-bong-o-mexico-185260705195912985.htm",
+      "summary": "Khi đội tuyển Anh trở lại Mexico ở vòng knock-out World Cup 2026, thị trấn khai mỏ Real del Monte gợi lại mối liên hệ hơn 200 năm giữa 2 quốc gia, từ bánh pasty đến bóng đá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T15:10:00+07:00",
+      "fetched": "2026-07-05T23:55:33.714561+07:00"
+    },
+    {
+      "id": "dabed31afb0ef0f4e2efd5e781d0cda6",
+      "title": "Nghệ sĩ hài bị bắt vì cáo buộc xúc phạm Tổng thống Thổ Nhĩ Kỳ",
+      "link": "https://thanhnien.vn/nghe-si-hai-bi-bat-vi-cao-buoc-xuc-pham-tong-thong-tho-nhi-ky-185260705204119025.htm",
+      "summary": "Theo AP, một tòa án ở Thổ Nhĩ Kỳ vừa ra lệnh bắt giữ Deniz Goktas với cáo buộc xúc phạm các giá trị tôn giáo và Tổng thống Recep Tayyip Erdogan. Trước đó, nghệ sĩ này gọi ông Erdogan là nhà độc tài trong một tiết mục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T15:05:00+07:00",
+      "fetched": "2026-07-05T23:55:33.714657+07:00"
     },
     {
       "id": "c0e5ace76669c0e48cf6eea9d0d8422b",
