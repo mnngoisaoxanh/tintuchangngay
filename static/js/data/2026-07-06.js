@@ -1,7 +1,37 @@
 window.newsData_2026_07_06 = {
   "date": "2026-07-06",
-  "lastUpdated": "2026-07-06T03:47:00.072184+07:00",
+  "lastUpdated": "2026-07-06T05:52:51.214562+07:00",
   "articles": [
+    {
+      "id": "de248f84657ffc26830c0a6ff432dba7",
+      "title": "Trực tuyến Mexico - Anh (7h): 'Tam sư' thách thức chủ nhà",
+      "link": "https://tuoitre.vn/truc-tuyen-mexico-anh-7h-tam-su-thach-thuc-chu-nha-100260704164535782.htm",
+      "summary": "Mời bạn đọc theo dõi trực tuyến trên Tuổi Trẻ trận đấu giữa Mexico và Anh trong khuôn khổ vòng 16 đội World Cup 2026, bắt đầu lúc 7h ngày 6-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T05:52:44.914254+07:00",
+      "fetched": "2026-07-06T05:52:44.914315+07:00"
+    },
+    {
+      "id": "ccce629afcb76c4dfcffab58586ec9d2",
+      "title": "CLB TP.HCM I chưa có đối thủ ở Giải bóng đá nữ VĐQG 2026",
+      "link": "https://tuoitre.vn/clb-tphcm-i-chua-co-doi-thu-o-giai-bong-da-nu-vdqg-2026-100260706032225869.htm",
+      "summary": "CLB TP.HCM I đã thắng trận thứ 4 liên tiếp, qua đó tiếp tục dẫn đầu ở Giải bóng đá nữ VĐQG - Cúp Thái Sơn Bắc 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T05:52:44.914171+07:00",
+      "fetched": "2026-07-06T05:52:44.914242+07:00"
+    },
+    {
+      "id": "039ba71aa3309ba316f52a1dd87c0358",
+      "title": "Tin tức sáng 6-7: TP.HCM dành 179 tỉ đồng tặng quà người có công, hộ nghèo trong tháng 7-2026",
+      "link": "https://tuoitre.vn/tin-tuc-sang-6-7-tphcm-danh-179-ti-dong-tang-qua-nguoi-co-cong-ho-ngheo-trong-thang-7-2026-100260705220907847.htm",
+      "summary": "Một số tin tức đáng chú ý: Chính sách mới thu hút, phát triển nguồn nhân lực công nghệ cao từ ngày 1-7; TP.HCM lấy ý kiến người dân về quy hoạch tổng thể tầm nhìn 100 năm; Chủ động gia cố, nâng cấp các công trình xung yếu tại TP.HCM để phòng, chống thiên tai...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T05:52:44.914033+07:00",
+      "fetched": "2026-07-06T05:52:44.914157+07:00"
+    },
     {
       "id": "406ee8040b8bf94558d4edda977d921a",
       "title": "Tiền đạo tuyển Mỹ Balogun được xóa thẻ đỏ, ông Trump phấn khích nói 'FIFA đã làm điều đúng đắn'",
@@ -161,6 +191,236 @@ window.newsData_2026_07_06 = {
       "category": "Tổng hợp",
       "published": "2026-07-06T02:01:34.354520+07:00",
       "fetched": "2026-07-06T02:01:34.354656+07:00"
+    },
+    {
+      "id": "ecd6d92cc52cdd46d7b5d3d9e5c913d9",
+      "title": "Giải quyết căn nguyên dạy thêm",
+      "link": "https://thanhnien.vn/giai-quyet-can-nguyen-day-them-185260705215533018.htm",
+      "summary": "Khoản 6 điều 23 dự thảo Nghị định xử phạt vi phạm hành chính trong lĩnh vực giáo dục mà Bộ GD-ĐT công bố lấy ý kiến quy định phạt tiền từ 30 - 50 triệu đồng đối với tổ chức, cá nhân tổ chức dạy thêm n...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:50:00+07:00",
+      "fetched": "2026-07-06T05:52:43.401670+07:00"
+    },
+    {
+      "id": "076882177d088bbdab2b3b3f40107707",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 6.7.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-672026-185260705223752224.htm",
+      "summary": "Tin tức Báo động cận thị ở trẻ em; Thu nhập bao nhiêu phải đóng thuế?; Giải mã cuộc tập trận \"khủng\" đang diễn ra ở Thái Bình Dương... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 6.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:47:00+07:00",
+      "fetched": "2026-07-06T05:52:43.402105+07:00"
+    },
+    {
+      "id": "23c19d19f7e479b901e8a37c5533c5a2",
+      "title": "Kết quả thi tốt nghiệp THPT ngày càng quan trọng",
+      "link": "https://thanhnien.vn/ket-qua-thi-tot-nghiep-thpt-ngay-cang-quan-trong-185260705202318205.htm",
+      "summary": "Kết quả của kỳ thi tốt nghiệp THPT luôn được sự quan tâm đặc biệt của dư luận xã hội, không chỉ bởi mục tiêu xét tốt nghiệp THPT mà vì hầu hết các trường sử dụng để xét tuyển ĐH.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:45:00+07:00",
+      "fetched": "2026-07-06T05:52:43.402282+07:00"
+    },
+    {
+      "id": "8742d9ce2a685acae0488d8c9be17cca",
+      "title": "'Đặc sản' cơm, nước miễn phí mùa đại lễ của đạo Phật giáo Hòa Hảo",
+      "link": "https://thanhnien.vn/dac-san-com-nuoc-mien-phi-mua-dai-le-cua-dao-phat-giao-hoa-hao-185260704201329467.htm",
+      "summary": "Dịp lễ 18 tháng 5 âm lịch của đạo Phật giáo Hòa Hảo vừa qua, hàng trăm ngàn lượt người về Phú Tân, An Giang đã ấm lòng bởi những bữa cơm chay, ly nước mát được người dân phục vụ miễn phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:45:00+07:00",
+      "fetched": "2026-07-06T05:52:43.402436+07:00"
+    },
+    {
+      "id": "da42c6c63a6b8261e2bc2fe8d5691b15",
+      "title": "Nintendo có thể hưởng lợi khi PlayStation và Xbox dần rời bỏ game vật lý",
+      "link": "https://thanhnien.vn/nintendo-co-the-huong-loi-khi-playstation-va-xbox-dan-roi-bo-game-vat-ly-185260705095510854.htm",
+      "summary": "Khi PlayStation và Xbox dịch chuyển mạnh sang game số, Nintendo có thể trở thành hãng console còn giữ vị thế rõ nhất ở thị trường game vật lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:44:00+07:00",
+      "fetched": "2026-07-06T05:52:43.402596+07:00"
+    },
+    {
+      "id": "203b7e7dd0e5b629163d0eb24751d8ef",
+      "title": "Được đeo huân chương ở Venezuela, 8 chú chó nghiệp vụ Việt Nam có gì đặc biệt?",
+      "link": "https://thanhnien.vn/duoc-deo-huan-chuong-o-venezuela-8-chu-cho-nghiep-vu-viet-nam-co-gi-dac-biet-185260705230222049.htm",
+      "summary": "Sau những đóng góp nổi bật trong tìm kiếm cứu nạn tại Venezuela, chú chó nghiệp vụ Xu Kip cùng các đồng đội đã vinh dự được trao Huân chương Công trạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:36:00+07:00",
+      "fetched": "2026-07-06T05:52:43.402747+07:00"
+    },
+    {
+      "id": "bcbec2b86deeaec8589dd2e513c53a03",
+      "title": "Dự án vành đai 4: Người dân đồng thuận nhường đất nhưng vẫn mong chờ một điều",
+      "link": "https://thanhnien.vn/du-an-vanh-dai-4-nguoi-dan-dong-thuan-nhuong-dat-nhung-van-mong-cho-mot-dieu-1852607041846346.htm",
+      "summary": "Dự án vành đai 4 được kỳ vọng mở ra động lực phát triển mới cho khu vực. Nhưng với nhiều hộ dân nằm trong diện giải tỏa, điều họ đau đáu lúc này không chỉ là ngày rời ngôi nhà cũ, mà còn là bao giờ mới có nơi ở mới để ổn định cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:34:00+07:00",
+      "fetched": "2026-07-06T05:52:43.402899+07:00"
+    },
+    {
+      "id": "a2dcf41a27c86883d2155feff177b346",
+      "title": "Ronaldo: 'Đây sẽ là World Cup cuối cùng của tôi'",
+      "link": "https://vnexpress.net/ronaldo-day-se-la-world-cup-cuoi-cung-cua-toi-5093785.html",
+      "summary": "Trước trận gặp Tây Ban Nha ở vòng 1/8, Cristiano Ronaldo khẳng định đây sẽ là World Cup cuối cùng trong sự nghiệp, đồng thời tin tưởng Bồ Đào Nha đủ khả năng vượt qua đối thủ lớn nhất từ đầu giải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:33:15+07:00",
+      "fetched": "2026-07-06T05:52:39.042524+07:00"
+    },
+    {
+      "id": "a2dcf41a27c86883d2155feff177b346",
+      "title": "Ronaldo: 'Đây sẽ là World Cup cuối cùng của tôi'",
+      "link": "https://vnexpress.net/ronaldo-day-se-la-world-cup-cuoi-cung-cua-toi-5093785.html",
+      "summary": "Trước trận gặp Tây Ban Nha ở vòng 1/8, Cristiano Ronaldo khẳng định đây sẽ là World Cup cuối cùng trong sự nghiệp, đồng thời tin tưởng Bồ Đào Nha đủ khả năng vượt qua đối thủ lớn nhất từ đầu giải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-05T22:33:15+07:00",
+      "fetched": "2026-07-06T05:52:51.209191+07:00"
+    },
+    {
+      "id": "fe5c4d1f5aae64c0fb465134bd50dd4b",
+      "title": "Tiêu điểm quốc tế ngày 6.7: Ông Trump điện đàm lãnh đạo Nga, Ukraine | Thổ Nhĩ kỳ cảnh báo Israel",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-67-ong-trump-dien-dam-lanh-dao-nga-ukraine-tho-nhi-ky-canh-bao-israel-185260705235435136.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 6.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:30:00+07:00",
+      "fetched": "2026-07-06T05:52:43.403089+07:00"
+    },
+    {
+      "id": "97b7a72b0260c08d93d52f7d83ed9deb",
+      "title": "Gặp chàng trai trúng số dãy 222222 xổ số miền Nam: Từng bất ngờ trúng vé 888888!",
+      "link": "https://thanhnien.vn/gap-chang-trai-trung-so-day-222222-xo-so-mien-nam-tung-bat-ngo-trung-ve-888888-185260704170628996.htm",
+      "summary": "Một chàng trai trẻ ở miền Tây đang gây sốt khi trúng số dãy siêu đẹp 222222 của xổ số miền Nam. Điều bất ngờ, cách đây chỉ vài tháng, anh từng trúng số khi sở hữu vé dãy 888888.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:30:00+07:00",
+      "fetched": "2026-07-06T05:52:43.403240+07:00"
+    },
+    {
+      "id": "331a019fb4520cfdc6825edaffd47cb3",
+      "title": "Chấm điểm Brazil - Na Uy: Haaland rực sáng, hay nhất trận còn Neymar bao nhiêu?",
+      "link": "https://thanhnien.vn/cham-diem-brazil-na-uy-haaland-ruc-sang-hay-nhat-tran-con-neymar-bao-nhieu-185260706052616437.htm",
+      "summary": "Với cú đúp vào lưới Brazil vào rạng sáng 6.7 (giờ Việt Nam), Erling Haaland được chấm 9,1 điểm, trở thành cầu thủ xuất sắc nhất trận dựa trên các tiêu chí của chuyên trang thống kê Sofascore.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:29:00+07:00",
+      "fetched": "2026-07-06T05:52:43.403391+07:00"
+    },
+    {
+      "id": "4a95b00c52c767a38cfe67f3d8c19ffe",
+      "title": "Kỷ nguyên hậu Khamenei đang định hình Iran",
+      "link": "https://thanhnien.vn/ky-nguyen-hau-khamenei-dang-dinh-hinh-iran-18526070521170058.htm",
+      "summary": "Giữa lúc tổ chức quốc tang cho cố Lãnh tụ Tối cao Ali Khamenei, Iran đang đứng trước kỷ nguyên với học thuyết mới đang định hình trong bộ máy chính trị Tehran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:26:00+07:00",
+      "fetched": "2026-07-06T05:52:43.403539+07:00"
+    },
+    {
+      "id": "9bb3053e923f3933c4493b7f30fa7dfb",
+      "title": "Haaland xuất sắc 'tiễn' Brazil rời World Cup: Đua sòng phẳng với Messi, Mbappe",
+      "link": "https://thanhnien.vn/haaland-xuat-sac-tien-brazil-roi-world-cup-dua-song-phang-voi-messi-mbappe-185260706051828466.htm",
+      "summary": "Với cú đúp vào lưới Brazil giúp Na Uy thắng 2-1, 'quái vật' Erling Haaland đã có 7 bàn ở World Cup 2026, vươn lên cùng Lionel Messi và Kylian Mbappe dẫn đầu danh sách vua phá lưới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:25:00+07:00",
+      "fetched": "2026-07-06T05:52:43.403688+07:00"
+    },
+    {
+      "id": "392d70446cf15031fc1a8019c382cf87",
+      "title": "Tây Ban Nha không còn là 'mồi ngon' của Ronaldo",
+      "link": "https://thanhnien.vn/tay-ban-nha-khong-con-la-moi-ngon-cua-ronaldo-185260705202229031.htm",
+      "summary": "Cristiano Ronaldo từng nhiều lần gieo sầu cho Tây Ban Nha. Nhưng ở trận đấu sắp tới, có lẽ 'La Roja' không cần phải quá e ngại đội trưởng của Bồ Đào Nha.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:18:00+07:00",
+      "fetched": "2026-07-06T05:52:43.404019+07:00"
+    },
+    {
+      "id": "2174fdf316492d24ab8f6ed62773cba1",
+      "title": "Tử vi ngày 6 tháng 7: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-6-thang-7-con-giap-nao-may-man-hom-nay-185260705231201541.htm",
+      "summary": "Tử vi ngày 6 tháng 7 mang đến những gợi ý tham khảo cho12 con giáp. Điểm nhấn của ngày là 'một câu nói đúng có thể thay đổi không khí của cả cuộc trò chuyện'. Trong công việc, gia đình hay các mối quan hệ thân thiết, cách bạn chọn lời hôm nay có thể giúp một vấn đề trở nên nhẹ nhàng hơn hoặc ngược l...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:15:00+07:00",
+      "fetched": "2026-07-06T05:52:43.404179+07:00"
+    },
+    {
+      "id": "535bfe28c2c261b4da5627eec97b3817",
+      "title": "AI mô phỏng 'bẫy' BHYT để bác sĩ tranh tài gỡ vướng",
+      "link": "https://vnexpress.net/ai-mo-phong-bay-bhyt-de-bac-si-tranh-tai-go-vuong-5093710.html",
+      "summary": "AI mô phỏng tình huống vướng mắc trong khám chữa bệnh, thanh toán bảo hiểm y tế (BHYT) để y bác sĩ TP HCM xử lý tại hội thi của Sở Y tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:00:00+07:00",
+      "fetched": "2026-07-06T05:52:39.042706+07:00"
+    },
+    {
+      "id": "3ec8dd5333aa5d84adec8cb089267ecd",
+      "title": "Canh bạc tàu dầu 7 tỷ USD của tài phiệt Hàn Quốc",
+      "link": "https://vnexpress.net/canh-bac-tau-dau-7-ty-usd-cua-tai-phiet-han-quoc-5092862.html",
+      "summary": "Ga-Hyun Chung từng gây hoài nghi khi chi khoảng 7 tỷ USD gom đội tàu chở dầu lớn nhất thế giới, nhưng xung đột Iran cho thấy tài phiệt Hàn Quốc này đã đặt cược đúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:00:00+07:00",
+      "fetched": "2026-07-06T05:52:39.042875+07:00"
+    },
+    {
+      "id": "7a361d7c8bdc6ae0de380f655a347dd0",
+      "title": "Rào cản khiến robot hình người khó phổ biến trong thực tế",
+      "link": "https://vnexpress.net/rao-can-khien-robot-hinh-nguoi-kho-pho-bien-trong-thuc-te-5091930.html",
+      "summary": "Khi đội quân robot biểu diễn vũ đạo trên sân khấu Gala Tết Nguyên đán năm ngoái, Ai Lin ở Hàng Châu nhìn thấy cơ hội kinh doanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:00:00+07:00",
+      "fetched": "2026-07-06T05:52:39.043073+07:00"
+    },
+    {
+      "id": "5c9bf40c7292395ccbb8a61cfc613488",
+      "title": "Honda CBR500R Four - sportbike 4 xi-lanh giá 295 triệu đồng",
+      "link": "https://vnexpress.net/honda-cbr500r-four-sportbike-4-xi-lanh-gia-295-trieu-dong-5093659.html",
+      "summary": "Mẫu môtô thể thao tầm trung thiết kế góc cạnh, nhập tư nhân, động cơ 500 phân khối, mạnh 71 mã lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T22:00:00+07:00",
+      "fetched": "2026-07-06T05:52:39.043253+07:00"
+    },
+    {
+      "id": "3ec8dd5333aa5d84adec8cb089267ecd",
+      "title": "Canh bạc tàu dầu 7 tỷ USD của tài phiệt Hàn Quốc",
+      "link": "https://vnexpress.net/canh-bac-tau-dau-7-ty-usd-cua-tai-phiet-han-quoc-5092862.html",
+      "summary": "Ga-Hyun Chung từng gây hoài nghi khi chi khoảng 7 tỷ USD gom đội tàu chở dầu lớn nhất thế giới, nhưng xung đột Iran cho thấy tài phiệt Hàn Quốc này đã đặt cược đúng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-05T22:00:00+07:00",
+      "fetched": "2026-07-06T05:52:46.071205+07:00"
+    },
+    {
+      "id": "7a361d7c8bdc6ae0de380f655a347dd0",
+      "title": "Rào cản khiến robot hình người khó phổ biến trong thực tế",
+      "link": "https://vnexpress.net/rao-can-khien-robot-hinh-nguoi-kho-pho-bien-trong-thuc-te-5091930.html",
+      "summary": "Khi đội quân robot biểu diễn vũ đạo trên sân khấu Gala Tết Nguyên đán năm ngoái, Ai Lin ở Hàng Châu nhìn thấy cơ hội kinh doanh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-05T22:00:00+07:00",
+      "fetched": "2026-07-06T05:52:49.849870+07:00"
+    },
+    {
+      "id": "fab08e08d7665912c1a1ae8fef9eb96b",
+      "title": "Kia giảm giá loạt ôtô trong tháng 7, nhiều nhất 70 triệu đồng",
+      "link": "https://vnexpress.net/kia-giam-gia-loat-oto-trong-thang-7-nhieu-nhat-70-trieu-dong-5093168.html",
+      "summary": "Mẫu MPV Carnival 2.2D Signature có mức ưu đãi cao nhất, trong khi Morning chỉ giảm 3 triệu đồng, hoặc 1 năm bảo hiểm vật chất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T21:00:00+07:00",
+      "fetched": "2026-07-06T05:52:39.043409+07:00"
     },
     {
       "id": "9109c92d1e90ae7f1a380c77c30734c2",
