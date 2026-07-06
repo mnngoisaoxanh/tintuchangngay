@@ -1,7 +1,17 @@
 window.newsData_2026_07_07 = {
   "date": "2026-07-07",
-  "lastUpdated": "2026-07-07T02:42:27.417300+07:00",
+  "lastUpdated": "2026-07-07T04:21:11.993343+07:00",
   "articles": [
+    {
+      "id": "e0df13cecf5d3a68e41ef25325a1b33e",
+      "title": "Thời tiết hôm nay 7-7: Bắc Bộ giảm mưa sau bão, Nam Bộ mưa chiều",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-7-7-bac-bo-giam-mua-sau-bao-nam-bo-mua-chieu-100260706162358322.htm",
+      "summary": "Hôm nay 7-7, thời tiết Bắc Bộ giảm mưa sau bão, trời chỉ còn mưa rào. Nam Bộ nhiều mây, chiều tối có nơi mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T04:21:05.422309+07:00",
+      "fetched": "2026-07-07T04:21:05.422450+07:00"
+    },
     {
       "id": "f72fef55d5390c3167b412912e4ac7df",
       "title": "Lo ngại bạo lực leo thang từ kế hoạch nới lỏng kiểm soát súng của ông Trump",
@@ -153,6 +163,76 @@ window.newsData_2026_07_07 = {
       "fetched": "2026-07-07T02:42:20.171584+07:00"
     },
     {
+      "id": "a587cbf69a87e939a67c6f62547bfaf2",
+      "title": "Chủ tịch FIFA lên tiếng về vụ Balogun: 'Tôi đã giải thích với Tổng thống Trump'",
+      "link": "https://thanhnien.vn/chu-tich-fifa-len-tieng-ve-vu-balogun-toi-da-giai-thich-voi-tong-thong-trump-185260707040922573.htm",
+      "summary": "Chủ tịch FIFA Gianni Infantino lần đầu tiên lên tiếng về vụ tranh cãi liên quan đến tiền đạo Folarin Balogun của đội tuyển Mỹ, đồng thời xác nhận ông đã trao đổi trực tiếp với Tổng thống Mỹ Donald Trump về vụ việc đang gây nhiều tranh cãi tại World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T21:13:00+07:00",
+      "fetched": "2026-07-07T04:21:03.678993+07:00"
+    },
+    {
+      "id": "410ee09a6a9f908ddad91fbc7accb2f0",
+      "title": "Vụ tiền đạo Mỹ Bologun được xóa thẻ đỏ: FIFA bác kháng cáo, Bỉ dọa kiện lên CAS",
+      "link": "https://thanhnien.vn/vu-tien-ve-my-bologun-duoc-xoa-the-do-fifa-bac-khang-cao-bi-doa-kien-len-cas-185260707040821925.htm",
+      "summary": "Bị FIFA bác kháng cáo về Balogun, Bỉ dọa kiện lên Tòa án Trọng tài Thể thao nếu cầu thủ này ra sân trong trận đấu thuộc vòng 16 đội vì không phục lý do tổ chức này đưa ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T21:12:00+07:00",
+      "fetched": "2026-07-07T04:21:03.679164+07:00"
+    },
+    {
+      "id": "0de664388b584fc55e0e38010f39c81a",
+      "title": "Mbappe nổi giận khi bị chính trị gia Paraguay xúc phạm nặng nề, Pháp sẽ kiện vụ phân biệt chủng tộc",
+      "link": "https://thanhnien.vn/mbappe-noi-gian-khi-bi-chinh-tri-gia-paraguay-xuc-pham-nang-ne-phap-se-kien-vu-phan-biet-chung-toc-1852607070338373.htm",
+      "summary": "Một vụ bê bối lớn vừa nổ ra bên lề World Cup 2026 khi Thượng nghị sĩ Paraguay Celeste Amarilla bị cáo buộc có những phát ngôn mang tính phân biệt chủng tộc nhằm vào Kylian Mbappe sau trận Pháp thắng Paraguay 1-0 ở vòng 16 đội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T20:45:00+07:00",
+      "fetched": "2026-07-07T04:21:03.679324+07:00"
+    },
+    {
+      "id": "d0f88a13029ec7e62cfc78c03ed7379c",
+      "title": "Lý do các ngân hàng trung ương tăng tích trữ vàng",
+      "link": "https://vnexpress.net/ly-do-cac-ngan-hang-trung-uong-tang-tich-tru-vang-5094037.html",
+      "summary": "Các ngân hàng trung ương đang trữ lượng vàng cao nhất 50 năm, nhằm đa dạng hóa tài sản, phòng ngừa trừng phạt tài chính, giảm phụ thuộc USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T20:15:36+07:00",
+      "fetched": "2026-07-07T04:21:00.950204+07:00"
+    },
+    {
+      "id": "d0f88a13029ec7e62cfc78c03ed7379c",
+      "title": "Lý do các ngân hàng trung ương tăng tích trữ vàng",
+      "link": "https://vnexpress.net/ly-do-cac-ngan-hang-trung-uong-tang-tich-tru-vang-5094037.html",
+      "summary": "Các ngân hàng trung ương đang trữ lượng vàng cao nhất 50 năm, nhằm đa dạng hóa tài sản, phòng ngừa trừng phạt tài chính, giảm phụ thuộc USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-06T20:15:36+07:00",
+      "fetched": "2026-07-07T04:21:08.118356+07:00"
+    },
+    {
+      "id": "737387a863675fa76354750a653a8150",
+      "title": "Doanh nghiệp địa ốc giải thể tăng 120% nửa đầu năm",
+      "link": "https://vnexpress.net/doanh-nghiep-dia-oc-giai-the-tang-120-nua-dau-nam-5093940.html",
+      "summary": "6 tháng đầu năm, hơn 1.400 doanh nghiệp địa ốc hoàn tất thủ tục giải thể, tăng 120% so với cùng kỳ năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T20:07:22+07:00",
+      "fetched": "2026-07-07T04:21:00.950381+07:00"
+    },
+    {
+      "id": "395892f2e0687df831fce58d798cb50b",
+      "title": "5 loại quả gây hại dạ dày, trào ngược nếu ăn khi đói",
+      "link": "https://vnexpress.net/5-loai-qua-gay-hai-da-day-trao-nguoc-neu-an-khi-doi-5093095.html",
+      "summary": "Chuyên gia cảnh báo không nên ăn dứa, vải, hồng, đu đủ và chanh khi đói vì dễ gây hại dạ dày và đảo lộn đường huyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T20:04:00+07:00",
+      "fetched": "2026-07-07T04:21:00.950543+07:00"
+    },
+    {
       "id": "989b0fcd94d03cb12628e2f26d54c1a6",
       "title": "Tam sư cất tiếng gầm đúng lúc",
       "link": "https://thanhnien.vn/tam-su-cat-tieng-gam-dung-luc-185260706214708469.htm",
@@ -161,6 +241,16 @@ window.newsData_2026_07_07 = {
       "category": "Tổng hợp",
       "published": "2026-07-06T19:07:00+07:00",
       "fetched": "2026-07-07T02:42:18.410915+07:00"
+    },
+    {
+      "id": "81d58290e45569bda7b89a2d16437e0b",
+      "title": "Điều gì xảy ra với sức khỏe khi vợ chồng ngủ riêng phòng?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-suc-khoe-khi-vo-chong-ngu-rieng-phong-5094081.html",
+      "summary": "Ngủ riêng có thể mang lại cả lợi ích lẫn bất lợi, từ cải thiện giấc ngủ, giảm căng thẳng đến nguy cơ làm giảm sự gần gũi giữa vợ chồng nếu thiếu kết nối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T19:00:00+07:00",
+      "fetched": "2026-07-07T04:21:00.950714+07:00"
     },
     {
       "id": "e73af8c7d1dfc2640f867c3a87277bf9",
