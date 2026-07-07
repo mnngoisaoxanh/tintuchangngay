@@ -1,7 +1,47 @@
 window.newsData_2026_07_08 = {
   "date": "2026-07-08",
-  "lastUpdated": "2026-07-08T04:14:59.174405+07:00",
+  "lastUpdated": "2026-07-08T05:51:34.159512+07:00",
   "articles": [
+    {
+      "id": "dc8c2929febb21264290ddaa88dd3c59",
+      "title": "Thời tiết hôm nay 8-7: Nắng nóng trở lại Trung Bộ, Nam Bộ và Bắc Bộ chiều tối mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-8-7-nang-nong-tro-lai-trung-bo-nam-bo-va-bac-bo-chieu-toi-mua-to-100260707160046112.htm",
+      "summary": "Hôm nay 8-7, thời tiết các tỉnh miền Trung ngày nắng, có nơi nắng nóng, còn tại Bắc Bộ và Nam Bộ trời nắng gián đoạn, chiều tối có nơi mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T05:51:25.480685+07:00",
+      "fetched": "2026-07-08T05:51:25.480735+07:00"
+    },
+    {
+      "id": "23e18edd0aa5cbb72d001785b2237c34",
+      "title": "Bảng xếp hạng Giải bóng chuyền nữ U18 châu Á 2026",
+      "link": "https://tuoitre.vn/bang-xep-hang-giai-bong-chuyen-nu-u18-chau-a-2026-10026070803172413.htm",
+      "summary": "Ngày thi đấu cuối cùng của Giải bóng chuyền nữ U18 châu Á 2026 hôm 7-7 đã giúp xác định được thứ hạng chung cuộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T05:51:25.480625+07:00",
+      "fetched": "2026-07-08T05:51:25.480676+07:00"
+    },
+    {
+      "id": "db884075cb5d1260724cf5999e2c7256",
+      "title": "Vượt mặt Maradona, Messi trở thành ‘vua kiến tạo’ World Cup",
+      "link": "https://tuoitre.vn/vuot-mat-maradona-messi-tro-thanh-vua-kien-tao-world-cup-100260708050409892.htm",
+      "summary": "Tình huống kiến tạo cho Romero ghi bàn vào lưới tuyển Ai Cập đã giúp Messi vượt Maradona để trở thành “chân chuyền” vĩ đại nhất lịch sử World Cup.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T05:51:25.480555+07:00",
+      "fetched": "2026-07-08T05:51:25.480616+07:00"
+    },
+    {
+      "id": "968f3155cf5deadd083cfc2bd38a66bc",
+      "title": "NÓNG: Mỹ không kích Iran, khôi phục trừng phạt dầu mỏ",
+      "link": "https://tuoitre.vn/nong-my-khong-kich-iran-khoi-phuc-trung-phat-dau-mo-100260708052354986.htm",
+      "summary": "Mỹ khôi phục trừng phạt dầu mỏ và không kích Iran để đáp trả các vụ tấn công vào tàu thương mại gần eo biển Hormuz mà Washington cáo buộc do Tehran gây ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T05:51:25.480397+07:00",
+      "fetched": "2026-07-08T05:51:25.480542+07:00"
+    },
     {
       "id": "b011bc87bb33aa27f610491dd2b966ba",
       "title": "Messi khóc nức nở sau màn lội ngược dòng không tưởng trước Ai Cập",
@@ -251,6 +291,236 @@ window.newsData_2026_07_08 = {
       "category": "Tổng hợp",
       "published": "2026-07-08T00:51:27.569529+07:00",
       "fetched": "2026-07-08T00:51:27.569686+07:00"
+    },
+    {
+      "id": "3173c19c8643d3cc06652d3c4fa1e58c",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 8.7.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-872026-185260707230221913.htm",
+      "summary": "Tin tức Làm gì để kéo tăng trưởng 6 tháng cuối năm?: Chờ các cực tăng trưởng bứt tốc; Kêu gọi nhân chứng trận Tân Sơn Nhất 1968; World Cup 2026: Cuộc đua vĩ đại của những \"số 10\"… có thể đón xem trên Báo Thanh Niên số ra ngày 8.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:49:00+07:00",
+      "fetched": "2026-07-08T05:51:23.551683+07:00"
+    },
+    {
+      "id": "c6bb9ed1fca5337fcc0186aceef0e44d",
+      "title": "TP.HCM duyệt xây nhà máy xử lý rác thải phát điện ở xã Châu Pha",
+      "link": "https://thanhnien.vn/tphcm-xay-nha-may-xu-ly-rac-thai-bang-cong-nghe-dot-phat-dien-o-dau-185260707145533278.htm",
+      "summary": "Công ty CP năng lượng và môi trường Hồ Chí Minh được cho thuê hơn 5 ha đất đầu tư thực hiện nhà máy xử lý rác thải sinh hoạt bằng công nghệ đốt, phát điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:47:00+07:00",
+      "fetched": "2026-07-08T05:51:23.551831+07:00"
+    },
+    {
+      "id": "30b600d48deecf2926c2a9cc9519f39c",
+      "title": "Điểm thi tốt nghiệp THPT 2026: Thay đổi bảng xếp hạng các địa phương",
+      "link": "https://thanhnien.vn/diem-thi-tot-nghiep-thpt-2026-thay-doi-bang-xep-hang-cac-dia-phuong-185260707185547182.htm",
+      "summary": "Kỳ thi tốt nghiệp THPT năm 2026 khép lại với bức tranh điểm số khác biệt so với năm 2025, năm đầu tiên thực hiện Chương trình giáo dục phổ thông 2018.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:45:00+07:00",
+      "fetched": "2026-07-08T05:51:23.551965+07:00"
+    },
+    {
+      "id": "4d3a99d848cfbe15d8945d238da6c926",
+      "title": "Chuyện về 'đội xung kích' chứng thực chữ ký tại nhà ở TP.HCM",
+      "link": "https://thanhnien.vn/chuyen-ve-doi-xung-kich-chung-thuc-chu-ky-tai-nha-o-tphcm-185260707104455487.htm",
+      "summary": "Từ những cuộc gọi xin hỗ trợ của người già, người bệnh khó đi lại, nhóm cán bộ và đoàn viên ở phường Tân Định, TP.HCM đến tận nhà chứng thực chữ ký, trả kết quả hồ sơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:45:00+07:00",
+      "fetched": "2026-07-08T05:51:23.552089+07:00"
+    },
+    {
+      "id": "b95ff0d8c9f08eb245ccdda3640eb8ad",
+      "title": "Đường Nguyễn Thị Định hơn 2.000 tỉ ở TP.HCM, khi nào xong?",
+      "link": "https://thanhnien.vn/duong-nguyen-thi-dinh-hon-2000-ti-o-tphcm-khi-nao-xong-185260704152305848.htm",
+      "summary": "Dự án mở rộng đường Nguyễn Thị Định ở TP.HCM có tổng vốn hơn 2.000 tỉ đồng đã thành hình với nhiều đoạn trải nhựa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:44:00+07:00",
+      "fetched": "2026-07-08T05:51:23.552229+07:00"
+    },
+    {
+      "id": "95376f1ad73889a1869c3c6ffe7b5077",
+      "title": "Theo dấu tiền nhân mở cõi phương Nam: Miễu linh tại xứ Ô Đùng",
+      "link": "https://thanhnien.vn/theo-dau-tien-nhan-mo-coi-phuong-nam-mieu-linh-tai-xu-o-dung-185260707224618335.htm",
+      "summary": "Tác giả Nguyễn Liên Phong, trong Nam Kỳ phong tục nhơn vật diễn ca (năm 1909) chép: \"Miễu linh tại xứ Ô Đùng/Thờ quan Bố chánh tử trung thành thần\". Ngôi miễu linh ấy là đền thờ quan Bố chánh Trần Trung Tiên (chính sử chép là Trần Tuyên) nằm ven đường ở Tiểu Cần, nay là ấp Ô Đùng, xã Tập Ngãi, tỉnh ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:42:00+07:00",
+      "fetched": "2026-07-08T05:51:23.552358+07:00"
+    },
+    {
+      "id": "e4044c3f6409caecd30bcdcf69bef675",
+      "title": "NATO trước phép thử đoàn kết",
+      "link": "https://thanhnien.vn/nato-truoc-phep-thu-doan-ket-185260707203729465.htm",
+      "summary": "Hội nghị thượng đỉnh Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO) bắt đầu ngày họp chính vào hôm nay (8.7), với kỳ vọng giải quyết nhiều vấn đề trước áp lực của Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:39:00+07:00",
+      "fetched": "2026-07-08T05:51:23.552479+07:00"
+    },
+    {
+      "id": "4b0c660b957ecddbed2b1f67b6995c7b",
+      "title": "Cầu Đồng Nai cũ đang sửa chữa, cảnh báo ùn ứ giao thông",
+      "link": "https://thanhnien.vn/cau-dong-nai-cu-dang-sua-chua-canh-bao-un-u-giao-thong-185260707175456864.htm",
+      "summary": "Cầu Đồng Nai cũ đang được rào chắn 1/3 mặt đường để sửa chữa, công tác này dự kiến hoàn thành vào tháng 9.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:38:00+07:00",
+      "fetched": "2026-07-08T05:51:23.552595+07:00"
+    },
+    {
+      "id": "0e865ba31ccdc8a31cdd53af6d5a4a17",
+      "title": "Nghi ngại Mỹ - Iran",
+      "link": "https://thanhnien.vn/nghi-ngai-my-iran-185260707203204376.htm",
+      "summary": "Hôm qua, Ngoại trưởng Iran Abbas Araqchi cảnh báo Mỹ trên X rằng \"hoạt động đàm phán nhằm đạt được thỏa thuận cuối cùng sẽ không thể bắt đầu nếu những lời đe dọa tiếp diễn. Hãy tôn trọng chữ ký của ông\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:36:00+07:00",
+      "fetched": "2026-07-08T05:51:23.552715+07:00"
+    },
+    {
+      "id": "4335553c5fda3fd1b8273a5fda4f7916",
+      "title": "Đã đặt cảnh báo khi xe hỏng trên cao tốc, vì sao vẫn xảy ra tai nạn?",
+      "link": "https://thanhnien.vn/da-dat-canh-bao-khi-xe-hong-tren-cao-toc-vi-sao-van-xay-ra-tai-nan-185260707185341929.htm",
+      "summary": "Xe gặp sự cố, tài xế đã đặt vật cảnh báo phía sau nhưng tai nạn chết người vẫn xảy ra trên cao tốc Vĩnh Hảo - Phan Thiết. Cục CSGT đã lên tiếng về khoảng cách đặt cảnh báo bảo đảm an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:34:00+07:00",
+      "fetched": "2026-07-08T05:51:23.552830+07:00"
+    },
+    {
+      "id": "af16bccbe0f6f6cb6f54a908fa262d49",
+      "title": "Xe Hyundai khuyến mãi cao nhất 220 triệu đồng",
+      "link": "https://vnexpress.net/xe-hyundai-khuyen-mai-cao-nhat-220-trieu-dong-5094718.html",
+      "summary": "Hyundai Thành Công triển khai ưu đãi tháng 7 cho 6 dòng xe, giá trị tối đa 220 triệu đồng, tiếp tục cuộc đua giảm giá trên thị trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:31:00+07:00",
+      "fetched": "2026-07-08T05:51:20.582794+07:00"
+    },
+    {
+      "id": "767bb4117c4ece9334e4ac0c989f8fe5",
+      "title": "Tiêu điểm quốc tế ngày 8.7: Ukraine bó tay trước tên lửa Nga | Luận tội Phó tổng thống Philippines",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-87-ukraine-bo-tay-truoc-ten-lua-nga-luan-toi-pho-tong-thong-philippines-185260707222343342.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 8.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:30:00+07:00",
+      "fetched": "2026-07-08T05:51:23.552947+07:00"
+    },
+    {
+      "id": "a613862048d46754d9f883ebf2701bdb",
+      "title": "Chi 1,6 triệu mua vé số, một người ở TP.HCM trúng 2,4 tỉ xổ số miền Nam",
+      "link": "https://thanhnien.vn/chi-16-trieu-mua-ve-so-mot-nguoi-o-tphcm-trung-24-ti-xo-so-mien-nam-185260704230001186.htm",
+      "summary": "Một người phụ nữ ở TP.HCM bất ngờ trúng 2,4 tỉ đồng xổ số miền Nam sau khi chi 1,6 triệu đồng mua 160 tờ vé số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:30:00+07:00",
+      "fetched": "2026-07-08T05:51:23.553061+07:00"
+    },
+    {
+      "id": "4a699d34eba903ae1d610e6c7615fd25",
+      "title": "Lộ diện ứng viên dẫn dắt Bồ Đào Nha là thầy cũ của Ronaldo: CR7 có đổi ý?",
+      "link": "https://thanhnien.vn/lo-dien-ung-vien-dan-dat-bo-dao-nha-la-thay-cu-cua-ronaldo-cr7-co-doi-y-185260708051355424.htm",
+      "summary": "Truyền thông đang nhắc tên HLV Jorge Jesus, ứng viên có thể sẽ dẫn dắt Bồ Đào Nha là thầy cũ Ronaldo. Liệu điều này có khiến CR7 đổi ý sau thất bại tại World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:27:00+07:00",
+      "fetched": "2026-07-08T05:51:23.553190+07:00"
+    },
+    {
+      "id": "04c71be52ff4798e0f8a3c7aa67ab5fb",
+      "title": "Trước ngưỡng cửa đại học: Nam sinh ôm ký ức về mẹ, làm công nhân viết tiếp ước mơ",
+      "link": "https://thanhnien.vn/truoc-nguong-cua-dai-hoc-nam-sinh-om-ky-uc-ve-me-lam-cong-nhan-viet-tiep-uoc-mo-185260707232714898.htm",
+      "summary": "Vừa thi tốt nghiệp THPT xong, trong khi bạn bè háo hức chờ điểm số, cậu học trò Lê Trí Thành (18 tuổi) lại lặng lẽ xin nghỉ vài phút giữa ca làm công nhân để xem kết quả. Mồ côi cha từ năm 3 tuổi, đến năm lớp 10, chỗ dựa duy nhất là người mẹ tảo tần cũng đột ngột qua đời vì căn bệnh u não.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:27:00+07:00",
+      "fetched": "2026-07-08T05:51:23.553311+07:00"
+    },
+    {
+      "id": "dd2ae33c9188b8ffd89990763893ccb0",
+      "title": "Một phụ nữ Việt nhận giải thưởng 'Công dân toàn cầu' ở Nhật Bản",
+      "link": "https://thanhnien.vn/mot-phu-nu-viet-nhan-giai-thuong-cong-dan-toan-cau-o-nhat-ban-185260706153431884.htm",
+      "summary": "Bà Lê Thương, Chủ tịch Hiệp hội người Việt Nam vùng Kansai, là người nước ngoài duy nhất được Nhật Bản trao giải thưởng cộng đồng 'Công dân toàn cầu' năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:25:00+07:00",
+      "fetched": "2026-07-08T05:51:23.553427+07:00"
+    },
+    {
+      "id": "10bea9af92255ac8d181452a40caf90c",
+      "title": "6 mẹo ăn uống giúp bổ sung protein không cần trứng",
+      "link": "https://vnexpress.net/6-meo-an-uong-giup-bo-sung-protein-khong-can-trung-5094462.html",
+      "summary": "Bổ sung nước hầm xương, thịt nạc, các loại hạt, đậu, phô mai tươi và sữa chua Hy Lạp là những cách đơn giản giúp tăng cường lượng protein hàng ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:00:00+07:00",
+      "fetched": "2026-07-08T05:51:20.582955+07:00"
+    },
+    {
+      "id": "a868d780546e4547b6daba0e19b01c38",
+      "title": "Những lần chính trị làm dậy sóng World Cup",
+      "link": "https://vnexpress.net/nhung-lan-chinh-tri-lam-day-song-world-cup-5094260.html",
+      "summary": "Tranh cãi quanh việc FIFA đình chỉ án treo giò với Balogun gợi nhớ nhiều thời điểm World Cup bị phủ bóng bởi các yếu tố chính trị và tranh cãi ngoài sân cỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:00:00+07:00",
+      "fetched": "2026-07-08T05:51:20.583096+07:00"
+    },
+    {
+      "id": "862a8b178fd353c0bb4b6103a2268971",
+      "title": "Công cụ 'nhân hóa' văn bản giúp che dấu vết AI lên ngôi",
+      "link": "https://vnexpress.net/cong-cu-nhan-hoa-van-ban-giup-che-dau-vet-ai-len-ngoi-5094235.html",
+      "summary": "Lo ngại việc dùng AI bị đánh giá thấp, nhiều người tìm đến công cụ \"nhân hóa\" để chỉnh sửa câu chữ, khiến văn bản trở nên tự nhiên hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:00:00+07:00",
+      "fetched": "2026-07-08T05:51:20.583254+07:00"
+    },
+    {
+      "id": "639d738aa93ab13ec0ec0786ccc94413",
+      "title": "Giá bán căn hộ thứ cấp tại TP HCM giảm",
+      "link": "https://vnexpress.net/gia-ban-can-ho-thu-cap-tai-tp-hcm-giam-5093935.html",
+      "summary": "Giá sang nhượng thứ cấp căn hộ TP HCM ghi nhận giảm 5-10% trong quý II, song thanh khoản vẫn chậm khi người mua tiếp tục kỳ vọng giá hạ thêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:00:00+07:00",
+      "fetched": "2026-07-08T05:51:20.583391+07:00"
+    },
+    {
+      "id": "fe9ca80566b8d03ad44b1069f0bb1dbd",
+      "title": "Cục Đường bộ: Địa phương cần bổ sung biển báo phụ cho xe bán tải",
+      "link": "https://vnexpress.net/cuc-duong-bo-dia-phuong-can-bo-sung-bien-bao-phu-cho-xe-ban-tai-5094674.html",
+      "summary": "Cơ quan quản lý yêu cầu các địa phương rà soát hệ thống biển báo cấm xe tải và bổ sung biển phụ không áp dụng với xe bán tải cabin kép.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T22:00:00+07:00",
+      "fetched": "2026-07-08T05:51:20.583519+07:00"
+    },
+    {
+      "id": "a868d780546e4547b6daba0e19b01c38",
+      "title": "Những lần chính trị làm dậy sóng World Cup",
+      "link": "https://vnexpress.net/nhung-lan-chinh-tri-lam-day-song-world-cup-5094260.html",
+      "summary": "Tranh cãi quanh việc FIFA đình chỉ án treo giò với Balogun gợi nhớ nhiều thời điểm World Cup bị phủ bóng bởi các yếu tố chính trị và tranh cãi ngoài sân cỏ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-07T22:00:00+07:00",
+      "fetched": "2026-07-08T05:51:27.762317+07:00"
+    },
+    {
+      "id": "862a8b178fd353c0bb4b6103a2268971",
+      "title": "Công cụ 'nhân hóa' văn bản giúp che dấu vết AI lên ngôi",
+      "link": "https://vnexpress.net/cong-cu-nhan-hoa-van-ban-giup-che-dau-vet-ai-len-ngoi-5094235.html",
+      "summary": "Lo ngại việc dùng AI bị đánh giá thấp, nhiều người tìm đến công cụ \"nhân hóa\" để chỉnh sửa câu chữ, khiến văn bản trở nên tự nhiên hơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-07T22:00:00+07:00",
+      "fetched": "2026-07-08T05:51:32.466112+07:00"
     },
     {
       "id": "a12abad7a269b254da20c506501374c4",
@@ -721,6 +991,16 @@ window.newsData_2026_07_08 = {
       "category": "Thể thao",
       "published": "2026-07-07T15:00:00+07:00",
       "fetched": "2026-07-08T02:41:27.133307+07:00"
+    },
+    {
+      "id": "6218b387c440ec1ec9a46844bd853a9e",
+      "title": "Messi giúp Argentina thắng ngược ở vòng 1/8 World Cup",
+      "link": "https://vnexpress.net/ket-qua-argentina-vs-ai-cap-5094705-tong-thuat.html",
+      "summary": "Lionel Messi đá hỏng phạt đền ở hiệp một, rồi kiến tạo và ghi bàn ở hiệp hai, giúp Argentina thắng 3-2 dù bị Ai Cập dẫn hai bàn vòng 1/8 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-07T15:00:00+07:00",
+      "fetched": "2026-07-08T05:51:34.154252+07:00"
     },
     {
       "id": "63e4d2a1dd89e198e1dabbe996983df1",
