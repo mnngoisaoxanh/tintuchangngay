@@ -1,7 +1,47 @@
 window.newsData_2026_07_08 = {
   "date": "2026-07-08",
-  "lastUpdated": "2026-07-08T00:51:36.491032+07:00",
+  "lastUpdated": "2026-07-08T02:41:27.138187+07:00",
   "articles": [
+    {
+      "id": "459535d95f969aa32cb9ac2739f3fee1",
+      "title": "IOC dỡ bỏ lệnh cấm, mở đường cho Nga trở lại Olympic",
+      "link": "https://tuoitre.vn/ioc-do-bo-lenh-cam-mo-duong-cho-nga-tro-lai-olympic-100260707231822137.htm",
+      "summary": "Tối 7-7, Ủy ban Olympic quốc tế đã quyết định tạm thời dỡ bỏ lệnh đình chỉ đối với Ủy ban Olympic Nga (ROC). Đánh dấu bước thay đổi quan trọng, mở đường cho Nga trở lại đấu trường Olympic.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T02:41:19.508844+07:00",
+      "fetched": "2026-07-08T02:41:19.508905+07:00"
+    },
+    {
+      "id": "1defe0c2240d0a59f322d6c7e03ae519",
+      "title": "Trực tuyến Thụy Sĩ - Colombia (3h ngày 8-7): Kết quả khó lường",
+      "link": "https://tuoitre.vn/truc-tuyen-thuy-si-colombia-3h-ngay-8-7-ket-qua-kho-luong-100260707122422613.htm",
+      "summary": "Cuộc đối đầu giữa Thụy Sĩ với Colombia trên sân BC Place (Canada) lúc 3h ngày 8-7 ở vòng 16 đội World Cup 2026 được dự báo sẽ rất khó lường, với nhiều diễn biến bất ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T02:41:19.508770+07:00",
+      "fetched": "2026-07-08T02:41:19.508833+07:00"
+    },
+    {
+      "id": "6a7f73a64e58307ced3c8653aab2019e",
+      "title": "Messi tiếp tục đá hỏng phạt đền, lập kỷ lục buồn tại World Cup",
+      "link": "https://tuoitre.vn/messi-tiep-tuc-da-hong-phat-den-lap-ky-luc-buon-tai-world-cup-10026070800024432.htm",
+      "summary": "Siêu sao Lionel Messi vừa thiết lập một kỷ lục buồn sau khi đá hỏng quả phạt đền trong trận đấu giữa tuyển Argentina và Ai Cập tại vòng 16 đội World Cup 2026 (khuya 7-7).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T02:41:19.508678+07:00",
+      "fetched": "2026-07-08T02:41:19.508759+07:00"
+    },
+    {
+      "id": "adb4c196ca3d8e6f21097c70c10e8410",
+      "title": "Trung Quốc từ chối giao hữu với Cape Verde sau World Cup 2026 vì… sợ thua?",
+      "link": "https://tuoitre.vn/trung-quoc-tu-choi-giao-huu-voi-cape-verde-sau-world-cup-2026-vi-so-thua-10026070723341328.htm",
+      "summary": "Những ngày qua, mạng xã hội Trung Quốc bất ngờ bùng nổ thông tin về một trận giao hữu bóng đá với Cape Verde.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T02:41:19.508517+07:00",
+      "fetched": "2026-07-08T02:41:19.508664+07:00"
+    },
     {
       "id": "757a9ec27830ae7ddf0c850cf5781bbd",
       "title": "Từ cửa tử trở về, nghị lực của chàng trai mất nửa người khiến bác sĩ cảm phục",
@@ -153,6 +193,136 @@ window.newsData_2026_07_08 = {
       "fetched": "2026-07-08T00:51:27.569686+07:00"
     },
     {
+      "id": "e53a0c594b38f219606690d5efedf65c",
+      "title": "Roy Keane ca ngợi tinh thần 'chiến đấu đường phố' của Argentina sau kỳ tích lội ngược dòng không tưởng",
+      "link": "https://thanhnien.vn/roy-keane-ca-ngoi-tinh-than-chien-dau-duong-pho-cua-argentina-sau-ky-tich-loi-nguoc-dong-khong-tuong-185260708021619309.htm",
+      "summary": "Cựu đội trưởng CLB M.U và đội tuyển Ai Len Roy Keane ca ngợi tinh thần 'chiến đấu đường phố' của Argentina, sau kỷ lục lội ngược dòng lịch sử 3-2 trước Ai Cập để vào tứ kết World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T19:32:00+07:00",
+      "fetched": "2026-07-08T02:41:17.913784+07:00"
+    },
+    {
+      "id": "dcbe19310339a3d0af7c723589372a5f",
+      "title": "Trọng tài xử ép Ai Cập, mở đường cho Argentina vào tứ kết World Cup?",
+      "link": "https://thanhnien.vn/trong-tai-xu-ep-ai-cap-mo-duong-cho-argentina-vao-tu-ket-world-cup-185260708021706386.htm",
+      "summary": "Trọng tài Francois Letexier (Pháp) trở thành tâm điểm tranh cãi sau trận Argentina gặp Ai Cập tại vòng 16 đội World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T19:30:00+07:00",
+      "fetched": "2026-07-08T02:41:17.913951+07:00"
+    },
+    {
+      "id": "514893c354266e72a52712043685748f",
+      "title": "Báo Ai Cập: 'Chúng ta chơi như những người hùng, nhưng Messi và Argentina thật khủng khiếp'",
+      "link": "https://thanhnien.vn/bao-ai-cap-chung-ta-choi-nhu-nhung-nguoi-hung-nhung-messi-va-argentina-that-khung-khiep-185260708020939306.htm",
+      "summary": "Báo chí Ai Cập đồng loạt bày tỏ niềm tiếc nuối sau thất bại 2-3 trước Argentina ở vòng 16 đội World Cup 2026. Dù bị loại, truyền thông nước này vẫn ca ngợi màn trình diễn quả cảm của các ‘Pharaoh’, đồng thời thừa nhận Lionel Messi cùng nhà đương kim vô địch đã tạo nên cuộc lội ngược dòng đẳng cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T19:13:00+07:00",
+      "fetched": "2026-07-08T02:41:17.914108+07:00"
+    },
+    {
+      "id": "3e1f025b8f27f872729f58a30aaa2994",
+      "title": "Argentina lội ngược dòng kinh điển nhờ thiên tài Scolani: Thay đổi chiến thuật như thần",
+      "link": "https://thanhnien.vn/argentina-loi-nguoc-dong-kinh-dien-nho-thien-tai-scolani-thay-doi-chien-thuat-nhu-than-185260708015226096.htm",
+      "summary": "Sau cuộc lội ngược dòng giàu cảm xúc của Argentina trước Ai Cập, Lionel Messi đương nhiên được nhắc đến nhiều nhất với 1 bàn thắng, 1 kiến tạo. Và HLV Lionel Scaloni cũng xứng đáng nhận những lời có cánh nhờ nhiều điều chỉnh chiến thuật xuất sắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T18:58:00+07:00",
+      "fetched": "2026-07-08T02:41:17.914266+07:00"
+    },
+    {
+      "id": "a72017f3ebfae8a4731fc76f62b627c2",
+      "title": "HLV Scaloni khóc nức nở, bỏ dở phỏng vấn: 'Tôi xin lỗi vì xúc động quá, Argentina quá phi thường’",
+      "link": "https://thanhnien.vn/hlv-scaloni-khoc-nuc-no-bo-do-phong-van-toi-xin-loi-vi-xuc-dong-qua-argentina-qua-phi-thuong-185260708014451583.htm",
+      "summary": "HLV Lionel Scaloni không giấu được sự xúc động khi chứng kiến Argentina ngược dòng ngoạn mục trước Ai Cập để vào tứ kết World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T18:51:00+07:00",
+      "fetched": "2026-07-08T02:41:17.914419+07:00"
+    },
+    {
+      "id": "268030ec24e6a840dd86b600f6d435c2",
+      "title": "Messi nước mắt ràn rụa khi Argentina thắng nghẹt thở Ai Cập: Cảm xúc vỡ òa của nhà vua!",
+      "link": "https://thanhnien.vn/messi-nuoc-mat-ran-rua-khi-argentina-thang-nghet-tho-ai-cap-cam-xuc-vo-oa-cua-nha-vua-185260708014352655.htm",
+      "summary": "Số 10 đã có phần lớn trận đấu như trong bóng tối, nhưng khi kỳ vọng lên cao nhất đã tỏa sáng đúng lúc với 1 bàn thắng, 1 kiến tạo, trước khi Messi bật khóc sau khi Argentina thắng nghẹt thở Ai Cập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T18:46:00+07:00",
+      "fetched": "2026-07-08T02:41:17.914604+07:00"
+    },
+    {
+      "id": "76bb7ca27fb666b3dc473c023ae84ca6",
+      "title": "Messi phá kỷ lục ghi bàn liên tiếp ở vòng knock-out World Cup",
+      "link": "https://vnexpress.net/messi-pha-ky-luc-ghi-ban-lien-tiep-o-vong-knock-out-world-cup-5094765.html",
+      "summary": "Lionel Messi lập kỷ lục ghi bàn trong sáu trận knock-out liên tiếp, khi giúp Argentina thắng ngược Ai Cập 3-2 ở vòng 1/8 World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T18:40:57+07:00",
+      "fetched": "2026-07-08T02:41:14.927578+07:00"
+    },
+    {
+      "id": "76bb7ca27fb666b3dc473c023ae84ca6",
+      "title": "Messi phá kỷ lục ghi bàn liên tiếp ở vòng knock-out World Cup",
+      "link": "https://vnexpress.net/messi-pha-ky-luc-ghi-ban-lien-tiep-o-vong-knock-out-world-cup-5094765.html",
+      "summary": "Lionel Messi lập kỷ lục ghi bàn trong sáu trận knock-out liên tiếp, khi giúp Argentina thắng ngược Ai Cập 3-2 ở vòng 1/8 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-07T18:40:57+07:00",
+      "fetched": "2026-07-08T02:41:27.132969+07:00"
+    },
+    {
+      "id": "283a51c23dd8195faf6b104be51c953b",
+      "title": "Ban huấn luyện Ai Cập bùng nổ cơn giận dữ sau bàn thua ngược Argentina, bị ‘tặng’ cơn mưa thẻ",
+      "link": "https://thanhnien.vn/ban-huan-luyen-ai-cap-bung-no-con-gian-du-sau-ban-thua-nguoc-argentina-bi-tang-con-mua-the-185260708013350169.htm",
+      "summary": "Màn lội ngược dòng đầy cảm xúc của Argentina trước Ai Cập ở vòng 16 đội World Cup 2026 đã khép lại bằng những hình ảnh hỗn loạn. Ban huấn luyện cùng nhiều thành viên đội tuyển Ai Cập phản ứng dữ dội sau bàn thắng quyết định của Enzo Fernandez và phải nhận hàng loạt thẻ phạt từ trọng tài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T18:36:00+07:00",
+      "fetched": "2026-07-08T02:41:17.914757+07:00"
+    },
+    {
+      "id": "f9c2750692872879452498f943326a9f",
+      "title": "Messi vượt kỷ lục của Maradona, tiếp tục cùng Argentina viết nên trang sử thi World Cup",
+      "link": "https://thanhnien.vn/messi-vuot-ky-luc-maradona-tiep-tuc-cung-argentina-viet-su-thi-world-cup-185260708012204788.htm",
+      "summary": "Với pha kiến tạo cho Cristian Romero ghi bàn, Lionel Messi chính thức vượt huyền thoại Diego Maradona để trở thành chân kiến tạo vĩ đại nhất World Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T18:27:00+07:00",
+      "fetched": "2026-07-08T02:41:17.914911+07:00"
+    },
+    {
+      "id": "b2fe4281b9e53dec261f61788e2f3bd4",
+      "title": "Chấm điểm Argentina - Ai Cập: Messi vẫn hay ‘tầm vũ trụ’, Salah nhạt nhòa chia tay World Cup",
+      "link": "https://thanhnien.vn/cham-diem-argentina-ai-cap-messi-van-hay-tam-vu-tru-salah-nhat-nhoa-chia-tay-world-cup-185260708011338522.htm",
+      "summary": "Rạng sáng 8.7 (giờ Việt Nam), Lionel Messi tỏa sáng rực rỡ để tiếp tục được Sofascore chấm điểm cao nhất ở trận thắng ngược đầy cảm xúc của Argentina trước Ai Cập ở vòng 16 đội World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T18:15:00+07:00",
+      "fetched": "2026-07-08T02:41:17.915062+07:00"
+    },
+    {
+      "id": "74652174b1971c6810cde878e6828f9c",
+      "title": "Hơn 2,1 triệu xe ôtô, xe máy đăng ký mới nửa đầu năm",
+      "link": "https://vnexpress.net/hon-2-1-trieu-xe-oto-xe-may-dang-ky-moi-nua-dau-nam-5094742.html",
+      "summary": "Số lượng phương tiện đăng ký mới trong 6 tháng đầu năm 2026 tăng trưởng bùng nổ so với cùng kỳ năm 2025 ở cả hai phân khúc ôtô và môtô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T18:02:45+07:00",
+      "fetched": "2026-07-08T02:41:14.927756+07:00"
+    },
+    {
+      "id": "6737d2ab83c918d15a1f787f3fc76585",
+      "title": "5 lý do khiến người trung niên khó ngủ",
+      "link": "https://vnexpress.net/5-ly-do-khien-nguoi-trung-nien-kho-ngu-5094614.html",
+      "summary": "Tuổi trung niên, lão hóa, thay đổi nội tiết, bệnh mạn tính và một số loại thuốc có thể khiến nhiều người khó ngủ, dễ thức giấc hoặc dậy sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T18:00:00+07:00",
+      "fetched": "2026-07-08T02:41:14.927925+07:00"
+    },
+    {
       "id": "adffd7342d4ab25cabaded8f2d3bbe71",
       "title": "Ăn rau luộc thôi chưa đủ: 4 cách giúp tăng hiệu quả giảm cân",
       "link": "https://thanhnien.vn/an-rau-luoc-thoi-chua-du-4-cach-giup-tang-hieu-qua-giam-can-185260707183136056.htm",
@@ -251,6 +421,16 @@ window.newsData_2026_07_08 = {
       "category": "Tổng hợp",
       "published": "2026-07-07T17:00:38+07:00",
       "fetched": "2026-07-08T00:51:22.303523+07:00"
+    },
+    {
+      "id": "fa45d698fe850d1eabf0e35e98e14fbf",
+      "title": "Viên chức quản lý phải từ chức nếu người thân sa vào tệ nạn",
+      "link": "https://vnexpress.net/vien-chuc-quan-ly-phai-tu-chuc-neu-nguoi-than-sa-vao-te-nan-5094635.html",
+      "summary": "Viên chức quản lý phải tự nguyện xin từ chức hoặc được xem xét cho từ chức nếu để người thân là vợ, chồng, con vi phạm pháp luật, sa vào tệ nạn xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T17:00:38+07:00",
+      "fetched": "2026-07-08T02:41:14.928901+07:00"
     },
     {
       "id": "4d3362a7db858b29ec74506aa7b5ec2e",
@@ -411,6 +591,16 @@ window.newsData_2026_07_08 = {
       "category": "Thể thao",
       "published": "2026-07-07T15:00:00+07:00",
       "fetched": "2026-07-08T00:51:36.487506+07:00"
+    },
+    {
+      "id": "a3ccab4766d890348770d8c698f3bd86",
+      "title": "Messi giúp Argentina thắng ngược ở vòng 1/8 World Cup",
+      "link": "https://vnexpress.net/ket-qua-argentina-vs-ai-cap-5094705.html",
+      "summary": "Lionel Messi đá hỏng phạt đền ở hiệp một, rồi kiến tạo và ghi bàn ở hiệp hai, giúp Argentina thắng 3-2 dù bị Ai Cập dẫn hai bàn vòng 1/8 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-07T15:00:00+07:00",
+      "fetched": "2026-07-08T02:41:27.133307+07:00"
     },
     {
       "id": "63e4d2a1dd89e198e1dabbe996983df1",
