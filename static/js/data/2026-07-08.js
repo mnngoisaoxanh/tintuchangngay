@@ -1,7 +1,157 @@
 window.newsData_2026_07_08 = {
   "date": "2026-07-08",
-  "lastUpdated": "2026-07-08T05:51:34.159512+07:00",
+  "lastUpdated": "2026-07-08T08:47:06.872082+07:00",
   "articles": [
+    {
+      "id": "acda0c53b8ae50851d55767a3043b3f0",
+      "title": "Tin tức sáng 8-7: Ủy ban Thường vụ Quốc hội cho ý kiến về dự Luật Đô thị đặc biệt, Luật Đất đai",
+      "link": "https://tuoitre.vn/tin-tuc-sang-8-7-uy-ban-thuong-vu-quoc-hoi-cho-y-kien-ve-du-luat-do-thi-dac-biet-luat-dat-dai-100260707231834012.htm",
+      "summary": "Tin tức đáng chú ý: Ủy ban Thường vụ Quốc hội cho ý kiến về dự Luật Đô thị đặc biệt, Luật Đất đai; TP.HCM phát động chăm lo 100% gia đình người có công dịp 27-7; Cà Mau sắp diễn ra Ngày hội văn hóa di sản và lễ hội khinh khí cầu...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T08:47:01.372301+07:00",
+      "fetched": "2026-07-08T08:47:01.372329+07:00"
+    },
+    {
+      "id": "24adcda8fe020415daf9f29a35df0ba0",
+      "title": "Xác định 8 đội bóng vào tứ kết World Cup 2026",
+      "link": "https://tuoitre.vn/xac-dinh-8-doi-bong-vao-tu-ket-world-cup-2026-100260708052254497.htm",
+      "summary": "Sau loạt trận vòng 16 đội rạng sáng 8-7, World Cup 2026 đã xác định đầy đủ 8 đội góp mặt ở vòng tứ kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T08:47:01.372271+07:00",
+      "fetched": "2026-07-08T08:47:01.372296+07:00"
+    },
+    {
+      "id": "c56f26dfd5d37fa0ed1055d88999cc8c",
+      "title": "Lo bản quyền, nhiều quán cà phê tắt nhạc Việt",
+      "link": "https://tuoitre.vn/lo-ban-quyen-nhieu-quan-ca-phe-tat-nhac-viet-100260707185854496.htm",
+      "summary": "Tâm lý lo ngại vấn đề bản quyền khiến nhiều hàng, quán lựa chọn giải pháp tạm thời là dừng phát nhạc Việt để tránh những rủi ro pháp lý có thể phát sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T08:47:01.372241+07:00",
+      "fetched": "2026-07-08T08:47:01.372267+07:00"
+    },
+    {
+      "id": "8579b0a4aea98ecf8175c070cab5fc3e",
+      "title": "Lịch thi đấu vòng tứ kết World Cup 2026",
+      "link": "https://tuoitre.vn/lich-thi-dau-vong-tu-ket-world-cup-2026-100260708061442353.htm",
+      "summary": "Sau loạt trận vòng 16 đội, World Cup 2026 xác định được 4 cặp đấu ở vòng tứ kết, diễn ra từ rạng sáng 10-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T08:47:01.372211+07:00",
+      "fetched": "2026-07-08T08:47:01.372236+07:00"
+    },
+    {
+      "id": "06e65ed2c53b6be9081c59ea63a34e37",
+      "title": "FTU mở ngành Quản trị Nguồn nhân lực số và Phát triển Tổ chức",
+      "link": "https://tuoitre.vn/ftu-mo-nganh-quan-tri-nguon-nhan-luc-so-va-phat-trien-to-chuc-100260707100107688.htm",
+      "summary": "Trong bối cảnh trí tuệ nhân tạo (AI) và công nghệ số đang làm thay đổi cách doanh nghiệp tuyển dụng và phát triển nhân sự, Trường đại học Ngoại thương (FTU) đưa vào chương trình đào tạo ngành Quản trị Nguồn nhân lực số và Phát triển Tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T08:47:01.372180+07:00",
+      "fetched": "2026-07-08T08:47:01.372206+07:00"
+    },
+    {
+      "id": "8fe830a11c702921242b59ed79671d7f",
+      "title": "Mazda CX-5 đời mới đi gần 1.600km: Chạy đã nhưng phần mềm gây thất vọng",
+      "link": "https://tuoitre.vn/mazda-cx-5-doi-moi-di-gan-1600km-chay-da-nhung-phan-mem-gay-that-vong-100260707121407816.htm",
+      "summary": "Mazda CX-5 2026 ghi điểm với cảm giác lái, không gian rộng rãi và khả năng vận hành ổn định trong chuyến đi gần 1.600km.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T08:47:01.372151+07:00",
+      "fetched": "2026-07-08T08:47:01.372176+07:00"
+    },
+    {
+      "id": "153a322a9321227f8e9f89aaa8592352",
+      "title": "Tin tức thế giới 8-7: Thủ đô Kiev đang bị tấn công; Thành phố nào đáng sống nhất thế giới?",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-8-7-thu-do-kiev-dang-bi-tan-cong-thanh-pho-nao-dang-song-nhat-the-gioi-100260708065254828.htm",
+      "summary": "Ông Trump bắn tín hiệu để Thổ Nhĩ Kỳ mua F-35; Cuba đã khôi phục điện ở hầu hết các tỉnh trên cả nước, một ngày sau sự cố mất điện diện rộng lần thứ ba kể từ đầu năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T08:47:01.372119+07:00",
+      "fetched": "2026-07-08T08:47:01.372146+07:00"
+    },
+    {
+      "id": "2f391d18bfe9d680e2e479e58aa9ba95",
+      "title": "Anne Hathaway quảng bá The Odyssey: Mẹ bầu 'slay' nhất Hollywood",
+      "link": "https://tuoitre.vn/anne-hathaway-quang-ba-the-odyssey-me-bau-slay-nhat-hollywood-100260707212812233.htm",
+      "summary": "Với Anne Hathaway, tất cả phong cách đều có thể trở thành tuyên ngôn thời trang cho mẹ bầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T08:47:01.372087+07:00",
+      "fetched": "2026-07-08T08:47:01.372114+07:00"
+    },
+    {
+      "id": "d2e472e6885d8bc9e7d3432f8cdce0ec",
+      "title": "Pokémon hệ Lửa nào là át chủ bài mạnh nhất của Ash?",
+      "link": "https://tuoitre.vn/pokemon-he-lua-nao-la-at-chu-bai-manh-nhat-cua-ash-100260707212334493.htm",
+      "summary": "Từ Charizard, Infernape đến Incineroar, Ash Ketchum từng sở hữu nhiều Pokémon hệ Lửa để lại dấu ấn trong anime Pokémon. Mỗi cái tên đều có những chiến công đáng nhớ, nhưng chỉ một Pokémon được xem là biểu tượng lớn nhất của cậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T08:47:01.372056+07:00",
+      "fetched": "2026-07-08T08:47:01.372083+07:00"
+    },
+    {
+      "id": "5492e204aa4dad099bdf762f27cdf732",
+      "title": "Bạch Lộc lừa dối khán giả",
+      "link": "https://tuoitre.vn/giai-tri/bach-loc-lua-doi-khan-gia-100260707215624639.htm",
+      "summary": "Các hashtag 'Bạch Lộc Mạc Ly đóng thế' đạt hơn 3 tỉ lượt đọc, cùng chủ đề 'Bạch Lộc mất 1,17 triệu người theo dõi trong 30 ngày' đưa cô trở thành tâm điểm tranh cãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T08:47:01.372023+07:00",
+      "fetched": "2026-07-08T08:47:01.372051+07:00"
+    },
+    {
+      "id": "36cb76b0658b4d58fd67f117db464bb7",
+      "title": "Không chỉ Goku, nhiều nhân vật anime còn sở hữu năng lực dịch chuyển bá đạo",
+      "link": "https://tuoitre.vn/khong-chi-goku-nhieu-nhan-vat-anime-con-so-huu-nang-luc-dich-chuyen-ba-dao-100260708001036725.htm",
+      "summary": "Dịch chuyển tức thời là một trong những năng lực được yêu thích nhất trong anime nhờ khả năng thay đổi cục diện trận chiến chỉ trong chớp mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T08:47:01.371987+07:00",
+      "fetched": "2026-07-08T08:47:01.372019+07:00"
+    },
+    {
+      "id": "db7c50a9c023d4a8a0dafb0001cafa44",
+      "title": "Vì sao Yuji muốn đi theo con đường của Sukuna trong Jujutsu Kaisen Modulo?",
+      "link": "https://tuoitre.vn/vi-sao-yuji-muon-di-theo-con-duong-cua-sukuna-trong-jujutsu-kaisen-modulo-100260708005100561.htm",
+      "summary": "Dù đã khép lại, manga Jujutsu Kaisen Modulo vẫn thu hút sự chú ý khi xác nhận Yuji Itadori có kế hoạch tự biến mình thành một chú vật, mở đường cho khả năng tái sinh trong tương lai theo cách từng gắn với Ryomen Sukuna.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T08:47:01.371952+07:00",
+      "fetched": "2026-07-08T08:47:01.371982+07:00"
+    },
+    {
+      "id": "cb6520f7eaf25a7ea280d81e92b2769d",
+      "title": "Đỗ Merlo: 'Tôi không còn từ gì để ca ngợi Messi'",
+      "link": "https://tuoitre.vn/do-merlo-toi-khong-con-tu-gi-de-ca-ngoi-messi-100260708070413568.htm",
+      "summary": "Nói với Tuổi Trẻ , cựu tiền đạo nhập tịch Đỗ Merlo thừa nhận Messi quá xuất sắc trong trận đấu có thể coi là điên rồ nhất của tuyển Argentina từ đầu World Cup 2026 đến giờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T08:47:01.371916+07:00",
+      "fetched": "2026-07-08T08:47:01.371947+07:00"
+    },
+    {
+      "id": "15b2233e82cdf9a75e13522e201e6511",
+      "title": "Trồng hơn 66 tỉ cây, Trung Quốc phát hiện điều khác thường về rừng",
+      "link": "https://tuoitre.vn/trong-hon-66-ti-cay-trung-quoc-phat-hien-dieu-khac-thuong-ve-rung-100260707132644286.htm",
+      "summary": "Sau hơn nửa thế kỷ trồng hơn 66 tỉ cây, nghiên cứu mới cho thấy rừng trồng ở Trung Quốc có cách phát triển và hấp thụ CO₂ khác rừng tự nhiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T08:47:01.371873+07:00",
+      "fetched": "2026-07-08T08:47:01.371911+07:00"
+    },
+    {
+      "id": "52438ef24105c2732a9d20fedd1da24f",
+      "title": "Đọc nhanh 8-7: Giá dầu bất ngờ tăng mạnh; chứng khoán Mỹ cùng giá vàng đi xuống",
+      "link": "https://tuoitre.vn/doc-nhanh-8-7-gia-dau-bat-ngo-tang-manh-chung-khoan-my-cung-gia-vang-di-xuong-100260708070838421.htm",
+      "summary": "Giá dầu thế giới tăng mạnh trở lại sau khi Mỹ hủy giấy phép cho phép Iran bán dầu thô. Đồng thời chỉ số đồng USD (DXY) tăng mạnh khiến giá vàng chịu áp lực điều chỉnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T08:47:01.371749+07:00",
+      "fetched": "2026-07-08T08:47:01.371866+07:00"
+    },
     {
       "id": "dc8c2929febb21264290ddaa88dd3c59",
       "title": "Thời tiết hôm nay 8-7: Nắng nóng trở lại Trung Bộ, Nam Bộ và Bắc Bộ chiều tối mưa to",
@@ -141,6 +291,176 @@ window.newsData_2026_07_08 = {
       "category": "Tổng hợp",
       "published": "2026-07-08T02:41:19.508517+07:00",
       "fetched": "2026-07-08T02:41:19.508664+07:00"
+    },
+    {
+      "id": "10809158359751df0cfb33581ae81b7a",
+      "title": "Xây dựng đội ngũ cán bộ là nền tảng cho phát triển bền vững",
+      "link": "https://thanhnien.vn/xay-dung-doi-ngu-can-bo-la-nen-tang-cho-phat-trien-ben-vung-18526070710375198.htm",
+      "summary": "Đột phá trong đổi mới tư duy, nâng cao chất lượng thực thi công vụ và đánh giá cán bộ bằng kết quả thực chất thông qua hệ thống chỉ số KPI là chìa khóa cốt lõi để TP.HCM khơi thông nguồn lực con người, tạo cú hích mạnh mẽ hiện thực hóa các mục tiêu chiến lược trong giai đoạn phát triển mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T01:37:00+07:00",
+      "fetched": "2026-07-08T08:46:59.584231+07:00"
+    },
+    {
+      "id": "77b4653fb7f8e8087680122284822e07",
+      "title": "Giá USD hôm nay 8.7.2026: Bật tăng đẩy euro, yen Nhật sụt giảm",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-872026-bat-tang-day-euro-yen-nhat-sut-giam-185260708075500744.htm",
+      "summary": "Giá USD trong nước lẫn thế giới đồng loạt bật tăng khi căng thẳng Mỹ và Iran bùng phát trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T01:36:00+07:00",
+      "fetched": "2026-07-08T08:46:59.584320+07:00"
+    },
+    {
+      "id": "cbe9ae1ba84dcb37ea1a2091143c0c83",
+      "title": "Giá xăng dầu hôm nay 8.7.2026: Bật tăng do lo ngại bị gián đoạn nguồn cung",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-872026-bat-tang-do-lo-ngai-bi-gian-doan-nguon-cung-185260708082422486.htm",
+      "summary": "Giá dầu thế giới bật tăng khoảng 3% sau khi xảy ra các vụ tấn công nhằm vào tàu thuyền gần eo biển Hormuz, làm dấy lên lo ngại về nguy cơ gián đoạn nguồn cung. Trong nước, giá xăng dầu được dự báo sẽ biến động trái chiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T01:34:00+07:00",
+      "fetched": "2026-07-08T08:46:59.584397+07:00"
+    },
+    {
+      "id": "fa55b4b6343ccfb7f8247c5d7c11cbbe",
+      "title": "Bãi biển nào đẹp nhất Việt Nam theo bình chọn của báo quốc tế?",
+      "link": "https://thanhnien.vn/bai-bien-nao-dep-nhat-viet-nam-theo-binh-chon-cua-bao-quoc-te-185260707135701427.htm",
+      "summary": "Bên cạnh vô số kỳ quan thiên nhiên khác, đường bờ biển dài 3.400 km của Việt Nam còn sở hữu rất nhiều bãi biển tuyệt đẹp, chưa kể đến những hòn đảo nhiệt đới được bao quanh bởi các rạn san hô nằm rải rác ngoài khơi. Tuy nhiên, đâu là bãi biển đẹp nhất Việt Nam theo góc nhìn của báo quốc tế?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T01:33:00+07:00",
+      "fetched": "2026-07-08T08:46:59.584471+07:00"
+    },
+    {
+      "id": "36ce32514720245be014e0c115b0067b",
+      "title": "TP.HCM muốn ‘tái sinh’ quảng cáo trên thân xe buýt",
+      "link": "https://thanhnien.vn/tphcm-muon-tai-sinh-quang-cao-tren-than-xe-buyt-185260708082040522.htm",
+      "summary": "Đề án quảng cáo trên phương tiện giao thông (xe buýt) trên địa bàn TP.HCM được UBND TP phê duyệt năm 2017. Song, sau gần 10 năm triển khai, phương thức cũ không đạt hiệu quả như kỳ vọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T01:32:00+07:00",
+      "fetched": "2026-07-08T08:46:59.584546+07:00"
+    },
+    {
+      "id": "9161389cab967a9938931c328ce30db7",
+      "title": "Ảnh dự thi: Ứng dụng công nghệ dò tìm lỗi cáp ngầm",
+      "link": "https://thanhnien.vn/anh-du-thi-ung-dung-cong-nghe-do-tim-loi-cap-ngam-185260706214217233.htm",
+      "summary": "Công nghệ định vị lỗi cáp ngầm trong ngành điện là giải pháp kết hợp giữa phản xạ miền thời gian (TDR) và định vị âm học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T01:28:00+07:00",
+      "fetched": "2026-07-08T08:46:59.584630+07:00"
+    },
+    {
+      "id": "f553d0cc7653de5df15d8b288a7d8f29",
+      "title": "Cỗ máy an ninh vận hành 24/7 cho World Cup",
+      "link": "https://vnexpress.net/co-may-an-ninh-van-hanh-24-7-cho-world-cup-5094064.html",
+      "summary": "Mỹ huy động bộ máy an ninh liên bang quy mô chưa từng có, vận hành ngày đêm để đảm bảo World Cup 2026 diễn ra an toàn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-08T01:27:47+07:00",
+      "fetched": "2026-07-08T08:47:02.327346+07:00"
+    },
+    {
+      "id": "02fb8921b13877342c311145bba3442f",
+      "title": "Vì sao những ca khúc cũ bỗng 'hot' trở lại?",
+      "link": "https://thanhnien.vn/vi-sao-nhung-ca-khuc-cu-bong-hot-tro-lai-185260707222806508.htm",
+      "summary": "Những bài hát như Mắt nai cha cha cha, Xe đạp, Vào hạ… bất ngờ gây chú ý khi được thể hiện trong chương trình Anh trai vượt ngàn chông gai mùa 2. Loạt ca khúc này tiếp cận khán giả trẻ thông qua bản phối được làm mới. Trước đó, nhiều bản nhạc cũ cũng \"gây sốt\" trở lại trên nền tảng TikTok, chẳng hạn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T01:20:00+07:00",
+      "fetched": "2026-07-08T08:46:59.584703+07:00"
+    },
+    {
+      "id": "cb55e395c6843210ed17abf7252a7b35",
+      "title": "Nóng: Đội tuyển Việt Nam đấu Timor Leste trận ra quân AFF Cup 2026 tại sân Chonburi Thái Lan",
+      "link": "https://thanhnien.vn/nong-doi-tuyen-viet-nam-dau-timor-leste-tran-ra-quan-aff-cup-2026-tai-san-chonburi-thai-lan-185260708081651621.htm",
+      "summary": "Đội tuyển Việt Nam sẽ gặp Timor Leste trên sân Chonburi (Thái Lan) ngày 24.7, trong trận ra quân AFF Cup 2026. Trước giải, thầy trò HLV Kim Sang-sik đang tập huấn tại Hàn Quốc để rà soát lực lượng và hoàn thiện chiến thuật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T01:19:00+07:00",
+      "fetched": "2026-07-08T08:46:59.584775+07:00"
+    },
+    {
+      "id": "d0af233df23c0649289b7125247c1c5c",
+      "title": "Hồng y từng được xem là ứng viên giáo hoàng bị tố quấy rối tình dục",
+      "link": "https://thanhnien.vn/hong-y-tung-duoc-xem-la-ung-vien-giao-hoang-bi-to-quay-roi-tinh-duc-185260708080034334.htm",
+      "summary": "Một hồng y Công giáo từng được xem là ứng viên tiềm năng kế nhiệm cố Giáo hoàng Francis cho biết ông sẽ 'rút lui' khỏi chức vụ, sau khi xuất hiện cáo buộc ông có hành vi tấn công hoặc quấy rối tình dục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T01:16:00+07:00",
+      "fetched": "2026-07-08T08:46:59.584847+07:00"
+    },
+    {
+      "id": "1b5e534684ab1e4467c74322b86486fa",
+      "title": "5 năm Cùng con đi tiếp cuộc đời: Chật vật giữa đời mong trẻ thơ khôn lớn",
+      "link": "https://thanhnien.vn/5-nam-cung-con-di-tiep-cuoc-doi-chat-vat-giua-doi-mong-tre-tho-khon-lon-185260707181251931.htm",
+      "summary": "Chúng tôi đến xã Hóc Môn (TP.HCM) thăm gia đình thầy giáo Phan Minh Phúc cùng 2 con gái và chợt liên tưởng đến trường hợp anh Tăng Nguyễn Duy An, cũng là cha của 2 bé gái. Cả hai gia đình, các cháu đều mất mẹ giữa những ngày dịch Covid-19 khốc liệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T01:15:00+07:00",
+      "fetched": "2026-07-08T08:46:59.584918+07:00"
+    },
+    {
+      "id": "cf6debcac5a25dadd84f5627244af03d",
+      "title": "Sĩ quan tình báo Ukraine thừa nhận hạ sát nghi phạm vụ gài bom Monaco",
+      "link": "https://vnexpress.net/si-quan-tinh-bao-ukraine-thua-nhan-ha-sat-nghi-pham-vu-gai-bom-monaco-5094792.html",
+      "summary": "Một sĩ quan Cục Tình báo Quốc phòng Ukraine (HUR) thừa nhận đã cùng đồng phạm giết Anastasiia Berezovska, nghi phạm vụ đánh bom ở Monaco nhắm vào tài phiệt lưu vong.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-08T01:11:09+07:00",
+      "fetched": "2026-07-08T08:47:02.327442+07:00"
+    },
+    {
+      "id": "ad44524a4f449eed27d3c96126b830b0",
+      "title": "Ibrahimovic choáng váng vì Messi thoát hiểm ngoạn mục, không tin Argentina vượt số phận thắng ngược Ai Cập",
+      "link": "https://thanhnien.vn/ibrahimovic-choang-vang-vi-messi-thoat-hiem-ngoan-muc-khong-tin-argentina-vuot-so-phan-thang-nguoc-ai-cap-185260708080248428.htm",
+      "summary": "Theo cựu tiền đạo Zlatan Ibrahimovic bình luận trên CBS Sports Golazo, Messi như một 'con mãnh thú' sau khi bị trọng thương đã vùng lên dữ dội và cứ thế ghi bàn. Trong khi đội tuyển Argentina vượt số phận ngoạn mục trước Ai Cập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T01:04:00+07:00",
+      "fetched": "2026-07-08T08:46:59.584988+07:00"
+    },
+    {
+      "id": "f624a708f728844d59e768ad1285ea46",
+      "title": "Giá heo hơi hôm nay 8.7.2026: Trở về vùng đáy",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-872026-tro-ve-vung-day-185260708075528574.htm",
+      "summary": "Sau nhịp điều chỉnh giảm nhẹ tại một số địa phương trong ngày hôm trước, đến sáng nay, giá heo hơi đồng loạt đi ngang trên cả nước ở vùng giá thấp nhất từ đầu năm đến nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T01:04:00+07:00",
+      "fetched": "2026-07-08T08:46:59.585059+07:00"
+    },
+    {
+      "id": "7fdff0338f3b56f30d0efb2771cb7878",
+      "title": "'Số bước vàng' đi bộ quan trọng cho người lớn tuổi",
+      "link": "https://thanhnien.vn/so-buoc-vang-di-bo-quan-trong-cho-nguoi-lon-tuoi-185260708080030318.htm",
+      "summary": "Đi bộ không chỉ tốt cho tim mạch mà còn giúp bảo vệ não bộ. Chuyên gia cho biết duy trì 'số bước vàng' mỗi ngày có thể làm chậm suy giảm nhận thức và trì hoãn bệnh Alzheimer ở người lớn tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T01:00:00+07:00",
+      "fetched": "2026-07-08T08:46:59.585131+07:00"
+    },
+    {
+      "id": "c1ef9b095d92595289d3099a756b9e7a",
+      "title": "Khởi công siêu cảng 50.000 tỉ đồng: Cơ hội phân khúc căn hộ chuyên gia tại TP.HCM",
+      "link": "https://thanhnien.vn/khoi-cong-sieu-cang-50000-ti-dong-co-hoi-phan-khuc-can-ho-chuyen-gia-tai-tphcm-185260707171408425.htm",
+      "summary": "Việc khởi công siêu cảng quốc tế trị giá 50.000 tỉ đồng đang tạo cú hích mới cho khu vực đô thị siêu cảng quốc tế TP.HCM, nơi hạ tầng giao thông, cảng biển và logistics đồng loạt tăng tốc. Cùng với làn sóng chuyên gia, kỹ sư và đội ngũ quản lý dự kiến đổ về làm việc, phân khúc căn hộ chuyên gia đứng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T01:00:00+07:00",
+      "fetched": "2026-07-08T08:46:59.585203+07:00"
+    },
+    {
+      "id": "34926489f6af457dfe2a0d246d0dff82",
+      "title": "Chuẩn sống ‘Work - Live - Resort’ kiến tạo diện mạo mới tại trục sông Hàn",
+      "link": "https://thanhnien.vn/chuan-song-work-live-resort-kien-tao-dien-mao-moi-tai-truc-song-han-185260707154359422.htm",
+      "summary": "Tại Đà Nẵng, mô hình Work - Live - Resort đang mở ra phong cách sống mới: sống cảm hứng, làm việc hiệu quả, nghỉ dưỡng tiện nghi cùng song hành. Xu hướng này đã 'thống trị' các đô thị phát triển trên thế giới và giờ đây chính thức đặt chân lên trục sông Hàn, đúng vào thời điểm thành phố này bước vào...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T01:00:00+07:00",
+      "fetched": "2026-07-08T08:46:59.585276+07:00"
     },
     {
       "id": "757a9ec27830ae7ddf0c850cf5781bbd",
@@ -293,6 +613,256 @@ window.newsData_2026_07_08 = {
       "fetched": "2026-07-08T00:51:27.569686+07:00"
     },
     {
+      "id": "4d480da048a735ef4e532ed2e7c3d927",
+      "title": "HLV Ai Cập: 'Có lẽ FIFA muốn giữ Messi ở lại World Cup'",
+      "link": "https://vnexpress.net/hlv-ai-cap-co-le-fifa-muon-giu-messi-o-lai-world-cup-5094780.html",
+      "summary": "Sau trận thua 2-3 ở vòng 1/8 World Cup 2026, HLV Hossam Hassan cho rằng tuyển Ai Cập chịu bất công, đồng thời ám chỉ FIFA muốn Lionel Messi tiếp tục hành trình bảo vệ ngôi vô địch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T00:37:10+07:00",
+      "fetched": "2026-07-08T08:46:56.345647+07:00"
+    },
+    {
+      "id": "4d480da048a735ef4e532ed2e7c3d927",
+      "title": "HLV Ai Cập: 'Có lẽ FIFA muốn giữ Messi ở lại World Cup'",
+      "link": "https://vnexpress.net/hlv-ai-cap-co-le-fifa-muon-giu-messi-o-lai-world-cup-5094780.html",
+      "summary": "Sau khi thua ngược Argentina ở vòng 1/8 World Cup 2026, HLV Hossam Hassan cho rằng Ai Cập đã chịu bất công, ám chỉ FIFA muốn Lionel Messi tiếp tục hành trình bảo vệ ngôi vương.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-08T00:37:10+07:00",
+      "fetched": "2026-07-08T08:47:06.868289+07:00"
+    },
+    {
+      "id": "912fe4f0390f20c46cf0efb28b89ed93",
+      "title": "Dầu ăn hay mỡ lợn béo hơn?",
+      "link": "https://vnexpress.net/dau-an-hay-mo-lon-beo-hon-5094697.html",
+      "summary": "Mỡ hay dầu đều tốt cho sức khỏe nếu sử dụng đúng cách, đúng lượng, không nên chỉ ăn mỡ hay dầu hoàn toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T00:37:08+07:00",
+      "fetched": "2026-07-08T08:46:56.345750+07:00"
+    },
+    {
+      "id": "c27f7c167a634b77c9efaee1b767d16e",
+      "title": "Xác định 4 cặp tứ kết World Cup 2026",
+      "link": "https://vnexpress.net/xac-dinh-4-cap-tu-ket-world-cup-2026-5094786.html",
+      "summary": "6 đại diện châu Âu, 1 Nam Mỹ và 1 châu Phi tạo nên vòng tứ kết World Cup 2026 đều diễn ra tại Mỹ, thi đấu từ ngày 10/7 theo giờ Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T00:29:46+07:00",
+      "fetched": "2026-07-08T08:46:56.345837+07:00"
+    },
+    {
+      "id": "c27f7c167a634b77c9efaee1b767d16e",
+      "title": "Xác định 4 cặp tứ kết World Cup 2026",
+      "link": "https://vnexpress.net/xac-dinh-4-cap-tu-ket-world-cup-2026-5094786.html",
+      "summary": "6 đại diện châu Âu, 1 Nam Mỹ và 1 châu Phi tạo nên vòng tứ kết World Cup 2026 đều diễn ra tại Mỹ, thi đấu từ ngày 10/7 theo giờ Hà Nội.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-08T00:29:46+07:00",
+      "fetched": "2026-07-08T08:47:06.868386+07:00"
+    },
+    {
+      "id": "f77a96096c7ddf45b3019e9bee3dd6ce",
+      "title": "Đứng kín vỉa hè, lòng đường phố cổ Hà Nội xem World Cup",
+      "link": "https://vnexpress.net/dung-kin-via-he-long-duong-pho-co-ha-noi-xem-world-cup-5094766.html",
+      "summary": "Hàng trăm người hâm mộ đổ về khu vực ngã ba phố Tạ Hiện, Hàng Buồm đứng kín vỉa hè, tràn xuống lòng đường xem trận đấu giữa Argentina và Ai Cập tại World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T00:12:28+07:00",
+      "fetched": "2026-07-08T08:46:56.345921+07:00"
+    },
+    {
+      "id": "87b7c754ba57d6e1285baa470007015a",
+      "title": "Djokovic thắng trận tứ kết dài nhất lịch sử Wimbledon",
+      "link": "https://vnexpress.net/djokovic-thang-tran-tu-ket-dai-nhat-lich-su-wimbledon-5094782.html",
+      "summary": "Hạt giống số bảy Novak Djokovic hạ Felix Auger-Alliasime 7-6(10), 3-6, 6-3, 6-7(4), 7-6(4) sau 5 giờ 15 phút tại tứ kết đơn nam Wimbledon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T00:08:15+07:00",
+      "fetched": "2026-07-08T08:46:56.346000+07:00"
+    },
+    {
+      "id": "87b7c754ba57d6e1285baa470007015a",
+      "title": "Djokovic thắng trận tứ kết dài nhất lịch sử Wimbledon",
+      "link": "https://vnexpress.net/djokovic-thang-tran-tu-ket-dai-nhat-lich-su-wimbledon-5094782.html",
+      "summary": "Hạt giống số bảy Novak Djokovic hạ Felix Auger-Alliasime 7-6(10), 3-6, 6-3, 6-7(4), 7-6(4) sau 5 giờ 15 phút tại tứ kết đơn nam Wimbledon.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-08T00:08:15+07:00",
+      "fetched": "2026-07-08T08:47:06.868465+07:00"
+    },
+    {
+      "id": "0e3f8366dbe22c0af46f2b72f6e8cd16",
+      "title": "Mỹ thu hồi quyết định nới trừng phạt với dầu Iran",
+      "link": "https://vnexpress.net/my-thu-hoi-quyet-dinh-noi-trung-phat-voi-dau-iran-5094772.html",
+      "summary": "Mỹ thu hồi giấy phép miễn trừ tạm thời lệnh trừng phạt với dầu Iran, sau khi cáo buộc Tehran tấn công 3 tàu hàng ở Hormuz.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T00:02:21+07:00",
+      "fetched": "2026-07-08T08:46:56.346079+07:00"
+    },
+    {
+      "id": "0e3f8366dbe22c0af46f2b72f6e8cd16",
+      "title": "Mỹ thu hồi quyết định nới trừng phạt với dầu Iran",
+      "link": "https://vnexpress.net/my-thu-hoi-quyet-dinh-noi-trung-phat-voi-dau-iran-5094772.html",
+      "summary": "Mỹ thu hồi giấy phép miễn trừ tạm thời lệnh trừng phạt với dầu Iran, sau khi cáo buộc Tehran tấn công 3 tàu hàng ở Hormuz.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-08T00:02:21+07:00",
+      "fetched": "2026-07-08T08:47:02.327530+07:00"
+    },
+    {
+      "id": "58a1006c5a40d941d3f4339278f8cb7a",
+      "title": "Vừa chạy thận vừa du lịch Côn Đảo",
+      "link": "https://vnexpress.net/vua-chay-than-vua-du-lich-con-dao-5094460.html",
+      "summary": "Bà Hương, 50 tuổi, suy thận mạn giai đoạn 5, du lịch Côn Đảo suôn sẻ nhờ có đơn vị chạy thận nhân tạo mới được thành lập trên đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T00:00:00+07:00",
+      "fetched": "2026-07-08T08:46:56.346163+07:00"
+    },
+    {
+      "id": "07233a36c515a20f6a1820200d08b696",
+      "title": "Bentley công bố tên gọi mẫu xe điện đầu tiên: Torcal",
+      "link": "https://vnexpress.net/bentley-cong-bo-ten-goi-mau-xe-dien-dau-tien-torcal-5094575.html",
+      "summary": "Mẫu xe điện mới cùng nền tảng với Porsche Cayenne Electric, kích thước nhỏ hơn Bentayga, ra mắt vào cuối tháng 9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T00:00:00+07:00",
+      "fetched": "2026-07-08T08:46:56.346242+07:00"
+    },
+    {
+      "id": "f7d1d5b5088afafb84e8cbaad584d8ef",
+      "title": "Cầu thủ Ai Cập ám chỉ Argentina không thắng bằng thực lực ở World Cup",
+      "link": "https://vnexpress.net/cau-thu-ai-cap-am-chi-argentina-khong-thang-bang-thuc-luc-o-world-cup-5094779.html",
+      "summary": "Các thành viên đội tuyển Ai Cập bức xúc, cho rằng các trọng tài thiên vị giúp Argentina thắng ngược 2-3 ở vòng 1/8 World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T23:46:53+07:00",
+      "fetched": "2026-07-08T08:46:56.346319+07:00"
+    },
+    {
+      "id": "f7d1d5b5088afafb84e8cbaad584d8ef",
+      "title": "Cầu thủ Ai Cập ám chỉ Argentina không thắng bằng thực lực ở World Cup",
+      "link": "https://vnexpress.net/cau-thu-ai-cap-am-chi-argentina-khong-thang-bang-thuc-luc-o-world-cup-5094779.html",
+      "summary": "Các thành viên đội tuyển Ai Cập bức xúc, cho rằng các trọng tài thiên vị giúp Argentina thắng ngược 2-3 ở vòng 1/8 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-07T23:46:53+07:00",
+      "fetched": "2026-07-08T08:47:06.868541+07:00"
+    },
+    {
+      "id": "e06eb6256be264d7f4aeffc00b1e7286",
+      "title": "Mỹ tập kích loạt mục tiêu ở miền nam Iran",
+      "link": "https://vnexpress.net/my-tap-kich-loat-muc-tieu-o-mien-nam-iran-5094770.html",
+      "summary": "Quân đội Mỹ mở loạt không kích nhằm vào các mục tiêu ở phía nam Iran, sau khi nước này bị cáo buộc tấn công tàu qua eo biển Hormuz.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T23:41:05+07:00",
+      "fetched": "2026-07-08T08:46:56.346397+07:00"
+    },
+    {
+      "id": "e06eb6256be264d7f4aeffc00b1e7286",
+      "title": "Mỹ tập kích loạt mục tiêu ở miền nam Iran",
+      "link": "https://vnexpress.net/my-tap-kich-loat-muc-tieu-o-mien-nam-iran-5094770.html",
+      "summary": "Quân đội Mỹ mở loạt không kích nhằm vào các mục tiêu ở phía nam Iran, sau khi nước này bị cáo buộc tấn công tàu qua eo biển Hormuz.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-07T23:41:05+07:00",
+      "fetched": "2026-07-08T08:47:02.327625+07:00"
+    },
+    {
+      "id": "f4750815c615ae29df93d33ae70b3ac7",
+      "title": "Cuộc sống của kỹ sư Australia ở rể gia đình mẫu hệ Churu",
+      "link": "https://vnexpress.net/cuoc-song-cua-ky-su-australia-o-re-gia-dinh-mau-he-churu-5093490.html",
+      "summary": "Từng có công việc ổn định ở Australia, anh Congerton Matthew quyết định ở rể trong một gia đình người Churu ở Tây Nguyên vì tình yêu với cô gái Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T23:30:00+07:00",
+      "fetched": "2026-07-08T08:46:56.346476+07:00"
+    },
+    {
+      "id": "718b534ce6163e06796ed750b2acac76",
+      "title": "Tin World Cup 6h: Messi giúp Argentina thắng ngược Ai Cập | Thuỵ Sĩ loại Columbia trong loạt đá luân lưu",
+      "link": "https://vnexpress.net/tin-world-cup-6h-messi-giup-argentina-thang-nguoc-ai-cap-thuy-si-loai-columbia-trong-loat-da-luan-luu-5094778.html",
+      "summary": "Ai Cập chỉ trích trọng tài sau thất bại ngược trước Argentina; Đội tuyển Iran: 'Chính trị thất bại trước bóng đá ở World Cup'...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T23:25:56+07:00",
+      "fetched": "2026-07-08T08:46:56.346551+07:00"
+    },
+    {
+      "id": "733cd5abbb3a5c4bf3b763b739543233",
+      "title": "Vì sao Messi hay sút hỏng phạt đền?",
+      "link": "https://vnexpress.net/vi-sao-messi-hay-sut-hong-phat-den-5094775.html",
+      "summary": "Siêu sao Lionel Messi bỏ lỡ tới hai quả 11 mét tại kỳ giải 2026 và chỉ thành công ở 4 trong 8 pha đá phạt đền trong các lần dự World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T23:18:01+07:00",
+      "fetched": "2026-07-08T08:46:56.346637+07:00"
+    },
+    {
+      "id": "733cd5abbb3a5c4bf3b763b739543233",
+      "title": "Vì sao Messi hay sút hỏng phạt đền?",
+      "link": "https://vnexpress.net/vi-sao-messi-hay-sut-hong-phat-den-5094775.html",
+      "summary": "Siêu sao Lionel Messi bỏ lỡ tới hai quả 11 mét tại kỳ giải 2026 và chỉ thành công ở 4 trong 8 pha đá phạt đền trong các lần dự World Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-07T23:18:01+07:00",
+      "fetched": "2026-07-08T08:47:06.868625+07:00"
+    },
+    {
+      "id": "b0d885893fe8569fb3c75289bddac471",
+      "title": "Messi khóc sau cuộc ngược dòng của Argentina",
+      "link": "https://vnexpress.net/messi-khoc-sau-cuoc-nguoc-dong-cua-argentina-5094769.html",
+      "summary": "Đội trưởng Lionel Messi bật khóc và tự trách bản thân vì đá hỏng phạt đền, sau trận Argentina thắng ngược Ai Cập 3-2 ở vòng 1/8 World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T23:15:46+07:00",
+      "fetched": "2026-07-08T08:46:56.346714+07:00"
+    },
+    {
+      "id": "b0d885893fe8569fb3c75289bddac471",
+      "title": "Messi khóc sau cuộc ngược dòng của Argentina",
+      "link": "https://vnexpress.net/messi-khoc-sau-cuoc-nguoc-dong-cua-argentina-5094769.html",
+      "summary": "Đội trưởng Lionel Messi bật khóc và tự trách bản thân vì đá hỏng phạt đền, sau trận Argentina thắng ngược Ai Cập 3-2 ở vòng 1/8 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-07T23:15:46+07:00",
+      "fetched": "2026-07-08T08:47:06.868699+07:00"
+    },
+    {
+      "id": "2915fae0a85fab70d40f9dcf7aa7318d",
+      "title": "CĐV vỡ oà khi Argentina lội ngược dòng ở World Cup 2026",
+      "link": "https://vnexpress.net/cdv-vo-oa-khi-argentina-loi-nguoc-dong-o-world-cup-2026-5094767.html",
+      "summary": "Hàng nghìn người hâm mộ ở Hà Nội thức xuyên đêm để cổ vũ cho Lionel Messi và đồng đội, trong trận thắng ngược Ai Cập ở vòng 1/8 World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T23:10:49+07:00",
+      "fetched": "2026-07-08T08:46:56.346790+07:00"
+    },
+    {
+      "id": "2915fae0a85fab70d40f9dcf7aa7318d",
+      "title": "CĐV vỡ oà khi Argentina lội ngược dòng ở World Cup 2026",
+      "link": "https://vnexpress.net/cdv-vo-oa-khi-argentina-loi-nguoc-dong-o-world-cup-2026-5094767.html",
+      "summary": "Hàng nghìn người hâm mộ ở Hà Nội thức xuyên đêm để cổ vũ cho Lionel Messi và đồng đội, trong trận thắng ngược Ai Cập ở vòng 1/8 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-07T23:10:49+07:00",
+      "fetched": "2026-07-08T08:47:06.868772+07:00"
+    },
+    {
+      "id": "10f70a877df399af1ec4b8b9bf48170f",
+      "title": "Thụy Sĩ thắng Colombia, vào tứ kết World Cup sau 72 năm",
+      "link": "https://vnexpress.net/thuy-si-thang-colombia-vao-tu-ket-world-cup-sau-72-nam-5094768.html",
+      "summary": "Thụy Sĩ thắng Colombia 4-3 trên loạt sút luân lưu ở trận cuối vòng 1/8, để lần đầu vào tứ kết World Cup kể từ năm 1954, sẽ gặp Argentina.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-07T22:59:49+07:00",
+      "fetched": "2026-07-08T08:47:06.868845+07:00"
+    },
+    {
       "id": "3173c19c8643d3cc06652d3c4fa1e58c",
       "title": "Tin tức đặc biệt trên báo in Thanh Niên 8.7.2026",
       "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-872026-185260707230221913.htm",
@@ -331,6 +901,16 @@ window.newsData_2026_07_08 = {
       "category": "Tổng hợp",
       "published": "2026-07-07T22:45:00+07:00",
       "fetched": "2026-07-08T05:51:23.552089+07:00"
+    },
+    {
+      "id": "d07bf1bda35a5514a8fc75b2672442ae",
+      "title": "Đội tuyển Iran: 'Chính trị thất bại trước bóng đá ở World Cup'",
+      "link": "https://vnexpress.net/doi-tuyen-iran-chinh-tri-that-bai-truoc-bong-da-o-world-cup-5094732.html",
+      "summary": "Liên đoàn Bóng đá Iran đăng thông điệp mỉa mai sau khi Mỹ thua Bỉ 1-4 ở vòng 1/8 World Cup 2026, cho rằng \"chính trị đã thất bại nhục nhã trước bóng đá\".",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-07T22:44:55+07:00",
+      "fetched": "2026-07-08T08:47:06.868917+07:00"
     },
     {
       "id": "b95ff0d8c9f08eb245ccdda3640eb8ad",
