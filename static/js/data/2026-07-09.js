@@ -1,6 +1,6 @@
 window.newsData_2026_07_09 = {
   "date": "2026-07-09",
-  "lastUpdated": "2026-07-09T02:07:15.754278+07:00",
+  "lastUpdated": "2026-07-09T03:56:31.271591+07:00",
   "articles": [
     {
       "id": "9c33a045ff84fcac77ec6f1ead77a697",
@@ -161,6 +161,16 @@ window.newsData_2026_07_09 = {
       "category": "Tổng hợp",
       "published": "2026-07-09T00:23:55.555381+07:00",
       "fetched": "2026-07-09T00:23:55.555512+07:00"
+    },
+    {
+      "id": "7ee5c112fa8b70983e042a0c3b3500a8",
+      "title": "Pháp - Ma Rốc (3 giờ ngày 10.7, trực tiếp trên VTV6): Thử thách bản lĩnh ‘Gà trống Gô-loa’",
+      "link": "https://thanhnien.vn/phap-ma-roc-3-gio-ngay-107-truc-tiep-tren-vtv6-thu-thach-ban-linh-ga-trong-go-loa-185260708224106768.htm",
+      "summary": "Cuộc đọ sức giữa Pháp và Ma Rốc là trận đấu cân sức nhất tứ kết World Cup, nơi Kylian Mbappe cùng đồng đội cần bản lĩnh và kinh nghiệm dạn dày để đánh bại đối thủ tinh quái đến từ Bắc Phi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T20:10:00+07:00",
+      "fetched": "2026-07-09T03:56:21.854916+07:00"
     },
     {
       "id": "5162b5ff3e3154fd52b1e54f6e5a9c0e",
