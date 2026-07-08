@@ -1,7 +1,157 @@
 window.newsData_2026_07_08 = {
   "date": "2026-07-08",
-  "lastUpdated": "2026-07-08T18:42:09.122389+07:00",
+  "lastUpdated": "2026-07-08T20:40:47.739931+07:00",
   "articles": [
+    {
+      "id": "4aee248f0ab486f95ea31163b539ef08",
+      "title": "Điểm sàn Đại học Cần Thơ từ 15 điểm, ngành thiết kế vi mạch lấy 22,75 điểm",
+      "link": "https://tuoitre.vn/diem-san-dai-hoc-can-tho-tu-15-diem-nganh-thiet-ke-vi-mach-lay-2275-diem-100260708175315154.htm",
+      "summary": "Đại học Cần Thơ công bố điểm sàn xét tuyển năm 2026 từ 15 - 22,75 điểm. Ngành thiết kế vi mạch có ngưỡng đầu vào cao nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T20:40:40.851306+07:00",
+      "fetched": "2026-07-08T20:40:40.851364+07:00"
+    },
+    {
+      "id": "7eb66474e8a53cec0fe8e866f17eba14",
+      "title": "Khánh Hòa liên tiếp được chọn đăng cai Miss World và Miss Cosmo 2026",
+      "link": "https://tuoitre.vn/khanh-hoa-lien-tiep-duoc-chon-dang-cai-miss-world-va-miss-cosmo-2026-100260708175505203.htm",
+      "summary": "Sau khi được công bố là nơi đăng cai Miss World lần thứ 73, Khánh Hòa tiếp tục trở thành địa điểm tổ chức Miss Cosmo 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T20:40:40.851234+07:00",
+      "fetched": "2026-07-08T20:40:40.851290+07:00"
+    },
+    {
+      "id": "95ee09e5f6486df90e43acd922f7c1c3",
+      "title": "Công an TP.HCM tri ân Lực lượng An ninh nhân kỷ niệm 80 năm ngày truyền thống",
+      "link": "https://tuoitre.vn/cong-an-tphcm-tri-an-luc-luong-an-ninh-nhan-ky-niem-80-nam-ngay-truyen-thong-100260708181041821.htm",
+      "summary": "Dịp kỷ niệm 80 năm Ngày truyền thống Lực lượng An ninh nhân dân (12-7-1946 - 12-7-2026), Công an TP.HCM đã tổ chức lễ kỷ niệm long trọng nhằm tri ân các thế hệ cán bộ, chiến sĩ và khẳng định quyết tâm bảo vệ an ninh quốc gia trong tình hình mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T20:40:40.851168+07:00",
+      "fetched": "2026-07-08T20:40:40.851224+07:00"
+    },
+    {
+      "id": "ef6f06a00ffb38f46d1465ee48698758",
+      "title": "Trường học Trung Quốc gây tranh cãi vì yêu cầu học sinh khai báo tài sản gia đình",
+      "link": "https://tuoitre.vn/truong-hoc-trung-quoc-gay-tranh-cai-vi-yeu-cau-hoc-sinh-khai-bao-tai-san-gia-dinh-10026070818350556.htm",
+      "summary": "Một trường học ở Trung Quốc đang gây tranh cãi vì yêu cầu học sinh khai báo thông tin gia đình, trong đó có cả giá trị chiếc xe của cha mẹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T20:40:40.851103+07:00",
+      "fetched": "2026-07-08T20:40:40.851158+07:00"
+    },
+    {
+      "id": "b96bb8b92188e59f3b15c429bd24816e",
+      "title": "Xôn xao trước tin Messi bị cấm nhập cảnh vào Ai Cập",
+      "link": "https://tuoitre.vn/xon-xao-truoc-tin-messi-bi-cam-nhap-canh-vao-ai-cap-100260708182352903.htm",
+      "summary": "Tin đồn Ai Cập cấm Messi nhập cảnh sau trận thua Argentina tại World Cup 2026 lan truyền mạnh trên mạng xã hội, gây nhiều tranh cãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T20:40:40.851038+07:00",
+      "fetched": "2026-07-08T20:40:40.851093+07:00"
+    },
+    {
+      "id": "9846ac5bc99b87c4d0d6dd8e4a735773",
+      "title": "Tuyển bóng chuyền Thái Lan lại thua trắng 3 ván ở siêu giải đấu",
+      "link": "https://tuoitre.vn/tuyen-bong-chuyen-thai-lan-lai-thua-trang-3-van-o-sieu-giai-dau-100260708182550693.htm",
+      "summary": "Chiều 8-7, tuyển bóng chuyền nữ Thái Lan đã phải nhận thất bại 0-3 trước Mỹ, trong lượt trận đầu tiên của giai đoạn 3 siêu giải đấu FIVB Nations League (VNL).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T20:40:40.850972+07:00",
+      "fetched": "2026-07-08T20:40:40.851027+07:00"
+    },
+    {
+      "id": "38c140da16b14642794e4c9f85c59cf2",
+      "title": "Gia Lai mở cửa làm du lịch trong Vườn quốc gia Kon Ka Kinh và Kon Chư Răng",
+      "link": "https://tuoitre.vn/gia-lai-mo-cua-lam-du-lich-trong-vuon-quoc-gia-kon-ka-kinh-va-kon-chu-rang-100260708183126497.htm",
+      "summary": "Gia Lai phê duyệt đề án phát triển du lịch sinh thái tại Kon Ka Kinh và Kon Chư Răng, cho phép đầu tư, khai thác du lịch gắn với bảo tồn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T20:40:40.850906+07:00",
+      "fetched": "2026-07-08T20:40:40.850961+07:00"
+    },
+    {
+      "id": "b3ab12fda9f2609b66dcc46980c8c53f",
+      "title": "Tuyển Việt Nam thắng sát nút đội hạng nhì Hàn Quốc",
+      "link": "https://tuoitre.vn/tuyen-viet-nam-thang-sat-nut-doi-hang-nhi-han-quoc-100260708181437411.htm",
+      "summary": "Chiều 8-7, đội tuyển Việt Nam thắng Yongin FC (đang dự K-League 2) với tỉ số 2-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T20:40:40.850842+07:00",
+      "fetched": "2026-07-08T20:40:40.850896+07:00"
+    },
+    {
+      "id": "8d6bddd0ea139ffbdd63c5c5ea151f4e",
+      "title": "Phát hiện vượn má vàng quý hiếm trong vườn cây của  hộ dân ở Đồng Nai",
+      "link": "https://tuoitre.vn/phat-hien-vuon-ma-vang-quy-hiem-trong-vuon-cay-cua-ho-dan-o-dong-nai-100260708184239183.htm",
+      "summary": "Hai con vượn má vàng quý hiếm gồm một con đực màu vàng nặng khoảng 6kg và một con cái nặng khoảng 3kg trong tình trạng suy kiệt sức khỏe khi phát hiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T20:40:40.850776+07:00",
+      "fetched": "2026-07-08T20:40:40.850832+07:00"
+    },
+    {
+      "id": "e9e8401a9ab0e2f7d74ed5e6660dbf05",
+      "title": "Việt Nam đón 2 mẫu xe điện mới, chạy tới 700km/sạc, công nghệ AI thế hệ mới",
+      "link": "https://tuoitre.vn/viet-nam-don-2-mau-xe-dien-moi-chay-toi-700km-sac-cong-nghe-ai-the-he-moi-100260708161049779.htm",
+      "summary": "Cả hai mẫu xe điện của Volvo đều được trang bị máy tính lõi tích hợp công nghệ AI thế hệ mới, đồng thời hỗ trợ cập nhật phần mềm từ xa thông qua công nghệ Over-the-Air (OTA).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T20:40:40.850709+07:00",
+      "fetched": "2026-07-08T20:40:40.850766+07:00"
+    },
+    {
+      "id": "024d84a5906ba0ee04357d522295af7d",
+      "title": "Nhiều sai phạm trong quản lý, sử dụng đất tại Công ty cổ phần Công trình đô thị Bến Tre",
+      "link": "https://tuoitre.vn/nhieu-sai-pham-trong-quan-ly-su-dung-dat-tai-cong-ty-co-phan-cong-trinh-do-thi-ben-tre-100260708183747802.htm",
+      "summary": "Việc quản lý, sử dụng nhà đất của Công ty cổ phần Công trình đô thị Bến Tre còn nhiều hạn chế, thiếu sót, nên Thanh tra tỉnh Vĩnh Long giao ngành thuế thu bổ sung tiền thuê đất hơn 2 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T20:40:40.850639+07:00",
+      "fetched": "2026-07-08T20:40:40.850698+07:00"
+    },
+    {
+      "id": "5afe8ea8652881ecc6c90cf603eea8fb",
+      "title": "Sở thú Thái Lan mở hội mừng sinh nhật 2 tuổi cho 'ngôi sao' Moo Deng",
+      "link": "https://tuoitre.vn/so-thu-thai-lan-mo-hoi-mung-sinh-nhat-2-tuoi-cho-ngoi-sao-moo-deng-100260708175731483.htm",
+      "summary": "Nhân dịp hà mã lùn Moo Deng tròn 2 tuổi, Sở thú Khao Kheow sẽ tổ chức lễ hội 3 ngày và miễn vé cho một số khách tham quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T20:40:40.850570+07:00",
+      "fetched": "2026-07-08T20:40:40.850628+07:00"
+    },
+    {
+      "id": "34c5d96283ae7897584f1c5ea998aa57",
+      "title": "Đà Nẵng tung loạt sự kiện, lễ hội quy mô giữa hè gắn với không gian biển",
+      "link": "https://tuoitre.vn/da-nang-tung-loat-su-kien-le-hoi-quy-mo-giua-he-gan-voi-khong-gian-bien-100260708185938305.htm",
+      "summary": "Chiều 8-7, Sở Văn hóa, Thể thao và Du lịch TP Đà Nẵng công bố Lễ hội Tận hưởng Đà Nẵng 2026 (Enjoy Danang Festival 2026) diễn ra từ ngày 22 đến 26-7 tại công viên Biển Đông, các bãi biển du lịch cùng nhiều điểm đến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T20:40:40.850497+07:00",
+      "fetched": "2026-07-08T20:40:40.850559+07:00"
+    },
+    {
+      "id": "88d32979c52c0be3f36f06ffd5835ee8",
+      "title": "Bắt 11 người Trung Quốc lập 'cứ điểm' tại Việt Nam lừa công dân Pháp qua mạng",
+      "link": "https://tuoitre.vn/bat-11-nguoi-trung-quoc-lap-cu-diem-tai-viet-nam-lua-cong-dan-phap-qua-mang-100260708184200928.htm",
+      "summary": "Công an tỉnh Bắc Ninh phát hiện 11 người quốc tịch Trung Quốc vận hành sàn thương mại điện tử giả, lừa đảo công dân Pháp trên không gian mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T20:40:40.850413+07:00",
+      "fetched": "2026-07-08T20:40:40.850485+07:00"
+    },
+    {
+      "id": "f96cfc24a5130c5b48d86ab1e0381326",
+      "title": "Thủ tướng họp chỉ đạo thu hồi tài sản tham nhũng, thất thoát trong các vụ án",
+      "link": "https://tuoitre.vn/thu-tuong-hop-chi-dao-thu-hoi-tai-san-tham-nhung-that-thoat-trong-cac-vu-an-100260708181524989.htm",
+      "summary": "Chiều 8-7, Thủ tướng Lê Minh Hưng chủ trì phiên họp của Ban Chỉ đạo Trung ương tổ chức thi hành án, thu hồi tài sản bị chiếm đoạt, thất thoát trong các vụ án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T20:40:40.850246+07:00",
+      "fetched": "2026-07-08T20:40:40.850381+07:00"
+    },
     {
       "id": "bd85320694bc534e05f6d59393d08b43",
       "title": "3D Hologram hiện diện ngày càng nhiều trong ngành quảng cáo",
@@ -303,6 +453,346 @@ window.newsData_2026_07_08 = {
       "fetched": "2026-07-08T15:07:43.147198+07:00"
     },
     {
+      "id": "ed78c37933248252d3131d0e6aa968ed",
+      "title": "Lăng vua Nguyễn duy nhất nào hoàng hậu được chôn cạnh vua?",
+      "link": "https://vnexpress.net/lang-vua-nguyen-duy-nhat-nao-hoang-hau-duoc-chon-canh-vua-5095079.html",
+      "summary": "Cách trung tâm TP Huế khoảng 20 km, lăng nổi bật với khu mộ song táng của vua và hoàng hậu, được xem là biểu tượng cho tình nghĩa vợ chồng son sắt của vị hoàng đế khai sáng triều Nguyễn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T13:30:00+07:00",
+      "fetched": "2026-07-08T20:40:36.140243+07:00"
+    },
+    {
+      "id": "d1edac405e6ad1307c6a9c507cddee21",
+      "title": "Iran đáp trả tuyên bố 'lệnh ngừng bắn đã hết' của ông Trump",
+      "link": "https://vnexpress.net/iran-dap-tra-tuyen-bo-lenh-ngung-ban-da-het-cua-ong-trump-5095170.html",
+      "summary": "Iran cho rằng các phần chủ chốt trong bản ghi nhớ đã vô hiệu sau tuyên bố của ông Trump, cảnh báo Mỹ về \"hậu quả nguy hiểm\" từ việc này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T13:27:34+07:00",
+      "fetched": "2026-07-08T20:40:36.140441+07:00"
+    },
+    {
+      "id": "d1edac405e6ad1307c6a9c507cddee21",
+      "title": "Iran đáp trả tuyên bố 'lệnh ngừng bắn đã hết' của ông Trump",
+      "link": "https://vnexpress.net/iran-dap-tra-tuyen-bo-lenh-ngung-ban-da-het-cua-ong-trump-5095170.html",
+      "summary": "Iran cho rằng các phần chủ chốt trong bản ghi nhớ đã vô hiệu sau tuyên bố của ông Trump, cảnh báo Mỹ về \"hậu quả nguy hiểm\" từ việc này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-08T13:27:34+07:00",
+      "fetched": "2026-07-08T20:40:42.451765+07:00"
+    },
+    {
+      "id": "136530e6ded5dcd5c9db8f7f154af719",
+      "title": "Thống kê gây sốc về Messi, còn một kỷ lục ‘điên rồ’ để phá tại World Cup",
+      "link": "https://thanhnien.vn/thong-ke-gay-soc-ve-messi-con-mot-ky-luc-dien-ro-de-pha-tai-world-cup-185260708201033845.htm",
+      "summary": "Theo Opta, Messi đã tạo thống kê không thể tin được ở một cầu thủ đã 39 tuổi, kể từ phút 76 trở đi trong trận thắng ngược dòng ngoạn mục của đội tuyển Argentina trước Ai Cập với tỷ số 3-2 ngày 8.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T13:23:00+07:00",
+      "fetched": "2026-07-08T20:40:39.169080+07:00"
+    },
+    {
+      "id": "cd094dc1b2a0c7270bd0c9ea9addafea",
+      "title": "ON TRENDING: Hé lộ bí quyết 'sinh tồn' nơi hoang dã của dàn sao Say Hi Rực Rỡ",
+      "link": "https://thanhnien.vn/on-trending-he-lo-bi-quyet-sinh-ton-noi-hoang-da-cua-dan-sao-say-hi-ruc-ro-185260708132503416.htm",
+      "summary": "Đến với chương trình On Trending, các anh trai của Say Hi Rực Rỡ gồm Vũ Thịnh, Nicky, Đỗ Phú Quí, JSOL và Thái Ngân không chỉ mang đến những khoảnh khắc hài hước khi kể về hành trình khám phá thiên nhiên hoang dã, mà còn chia sẻ những trải nghiệm \"lần đầu tiên\" đáng nhớ trong cuộc đời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T13:20:00+07:00",
+      "fetched": "2026-07-08T20:40:39.169246+07:00"
+    },
+    {
+      "id": "820ed29b49362b81066006c93dd88142",
+      "title": "Đối tác thân hữu cũng phản đối Trung Quốc vụ phóng tên lửa",
+      "link": "https://thanhnien.vn/doi-tac-than-huu-cung-phan-doi-trung-quoc-vu-phong-ten-lua-185260708195910881.htm",
+      "summary": "Vanuatu, một trong những đối tác thân thiết nhất của Trung Quốc ở các đảo Thái Bình Dương, ngày 8.7 đã cùng lên án vụ thử tên lửa tầm xa của Bắc Kinh khiến tên lửa rơi xuống Thái Bình Dương, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T13:19:00+07:00",
+      "fetched": "2026-07-08T20:40:39.169424+07:00"
+    },
+    {
+      "id": "9e5c4b6a239eb492a144e997822b1e26",
+      "title": "Đăng ký nguyện vọng: Dự báo điểm chuẩn từ điểm sàn xét tuyển",
+      "link": "https://thanhnien.vn/dang-ky-nguyen-vong-du-bao-diem-chuan-tu-diem-san-xet-tuyen-185260708164208084.htm",
+      "summary": "Bộ GD-ĐT chính thức công bố ngưỡng đảm bảo chất lượng đầu vào xét điểm thi tốt nghiệp THPT các ngành đặc thù. Từ điểm sàn các trường, thí sinh cần lưu ý gì khi đăng ký nguyện vọng trong giai đoạn 'nước rút'?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T13:18:00+07:00",
+      "fetched": "2026-07-08T20:40:39.169583+07:00"
+    },
+    {
+      "id": "7ecfa21275d727ede629719153422a05",
+      "title": "Kết quả xổ số Vietlott Mega 6/45 tối 8.7, giải độc đắc cộng dồn 13,6 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-mega-6-45-toi-87-giai-doc-dac-cong-don-136-ti-dong-18526070818464613.htm",
+      "summary": "Tối 8.7, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, ghi nhận không có người trúng giải độc đắc nên số tiền cộng dồn là 13,6 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T13:06:00+07:00",
+      "fetched": "2026-07-08T20:40:39.169733+07:00"
+    },
+    {
+      "id": "48ab2b327161569d3bd4214bc7122d03",
+      "title": "Nước châu Á nào quy định rừng phải chiếm 60% lãnh thổ?",
+      "link": "https://vnexpress.net/nuoc-chau-a-nao-quy-dinh-rung-phai-chiem-60-lanh-tho-5093524.html",
+      "summary": "Hiến pháp nước này quy định rừng phải bao phủ ít nhất 60% diện tích đất nước, giúp lượng khí CO2 hấp thụ gấp 3-4 lần lượng thải ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T13:03:00+07:00",
+      "fetched": "2026-07-08T20:40:36.140614+07:00"
+    },
+    {
+      "id": "a064c6566faad192eed6e62ccc46e473",
+      "title": "Iran công bố khoảnh khắc phóng tên lửa về phía căn cứ Mỹ",
+      "link": "https://vnexpress.net/iran-cong-bo-khoanh-khac-phong-ten-lua-ve-phia-can-cu-my-5095161.html",
+      "summary": "Iran công bố video phóng tên lửa nhằm vào căn cứ Mỹ ở Kuwait và Bahrain, đáp trả việc Washington không kích các mục tiêu của nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T13:00:30+07:00",
+      "fetched": "2026-07-08T20:40:36.140779+07:00"
+    },
+    {
+      "id": "a064c6566faad192eed6e62ccc46e473",
+      "title": "Iran công bố khoảnh khắc phóng tên lửa về phía căn cứ Mỹ",
+      "link": "https://vnexpress.net/iran-cong-bo-khoanh-khac-phong-ten-lua-ve-phia-can-cu-my-5095161.html",
+      "summary": "Iran công bố video phóng tên lửa nhằm vào căn cứ Mỹ ở Kuwait và Bahrain, đáp trả việc Washington không kích các mục tiêu của nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-08T13:00:30+07:00",
+      "fetched": "2026-07-08T20:40:42.451936+07:00"
+    },
+    {
+      "id": "6268efd9b69484a70a3d82dd5b788624",
+      "title": "Xem nhanh 20h ngày 8.7: Bắt nghi phạm vụ thi thể phụ nữ trong bao tải | VAR tua ngược quá xa để hủy bàn thắng của Ai Cập?",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-87-bat-nghi-pham-vu-thi-the-phu-nu-trong-bao-tai-var-tua-nguoc-qua-xa-de-huy-ban-thang-cua-ai-cap-185260708190256819.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 8.7 có nhiều tin tức đáng chú ý về: Công an TP.HCM bắt nghi phạm vụ thi thể người phụ nữ trong bao tải; từ tranh cãi trận Argentina - Ai Cập: VAR đang khiến World Cup vỡ vụn?;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T13:00:00+07:00",
+      "fetched": "2026-07-08T20:40:39.169882+07:00"
+    },
+    {
+      "id": "27de691004b4d3bf0f4744a5f533e0ed",
+      "title": "Gia Lai biến rừng đặc dụng thành điểm du lịch sinh thái",
+      "link": "https://thanhnien.vn/gia-lai-bien-rung-dac-dung-thanh-diem-du-lich-sinh-thai-185260708182322613.htm",
+      "summary": "Gia Lai phê duyệt hai đề án phát triển du lịch sinh thái tại Kon Ka Kinh và Kon Chư Răng, hướng tới bảo tồn rừng, đa dạng sinh học và tạo sức hút mới cho du lịch Tây nguyên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T12:57:00+07:00",
+      "fetched": "2026-07-08T20:40:39.170032+07:00"
+    },
+    {
+      "id": "b28c708c8870ec2e713b4ca984249934",
+      "title": "Nga tập kích 'nhà máy linh kiện tên lửa Flamingo' của Ukraine",
+      "link": "https://vnexpress.net/nga-tap-kich-nha-may-linh-kien-ten-lua-flamingo-cua-ukraine-5095108.html",
+      "summary": "Nga thông báo tấn công nhà máy Samsung-Ukraine tại thủ đô Kiev, cho rằng đây là nơi chế tạo linh kiện cho tên lửa hành trình FP-5 Flamingo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T12:54:40+07:00",
+      "fetched": "2026-07-08T20:40:36.140938+07:00"
+    },
+    {
+      "id": "b28c708c8870ec2e713b4ca984249934",
+      "title": "Nga tập kích 'nhà máy linh kiện tên lửa Flamingo' của Ukraine",
+      "link": "https://vnexpress.net/nga-tap-kich-nha-may-linh-kien-ten-lua-flamingo-cua-ukraine-5095108.html",
+      "summary": "Nga thông báo tấn công nhà máy Samsung-Ukraine tại thủ đô Kiev, cho rằng đây là nơi chế tạo linh kiện cho tên lửa hành trình FP-5 Flamingo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-08T12:54:40+07:00",
+      "fetched": "2026-07-08T20:40:42.452098+07:00"
+    },
+    {
+      "id": "c730e410dc9b060695693118767c9042",
+      "title": "Sa Pa thời du lịch còn hoang sơ trong ký ức khách Đức",
+      "link": "https://vnexpress.net/sa-pa-thoi-du-lich-con-hoang-so-trong-ky-uc-khach-duc-5095071.html",
+      "summary": "Hans-Peter du lịch xuyên Việt trong ba năm 1991-1993, nhiều lần quay lại vùng cao Tây Bắc và chứng kiến sự chuyển mình của Sa Pa thời kỳ đầu mở cửa đón khách quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T12:42:17+07:00",
+      "fetched": "2026-07-08T20:40:36.141091+07:00"
+    },
+    {
+      "id": "32642fe89de9ff451651f63c43d06f18",
+      "title": "Phá tụ điểm ma túy trong phòng trọ, khởi tố một nữ giáo viên mầm non",
+      "link": "https://thanhnien.vn/pha-tu-diem-ma-tuy-trong-phong-tro-khoi-to-mot-nu-giao-vien-mam-non-185260708181816539.htm",
+      "summary": "Từ việc phát hiện một nhóm người sử dụng ma túy trong phòng trọ, Công an tỉnh Lạng Sơn mở rộng điều tra, khởi tố 3 bị can, trong đó có một nữ giáo viên mầm non.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T12:42:00+07:00",
+      "fetched": "2026-07-08T20:40:39.170180+07:00"
+    },
+    {
+      "id": "fc55c5ea215cb896955801360981048e",
+      "title": "Hai mẹ con tử vong khi tắm suối",
+      "link": "https://vnexpress.net/hai-me-con-tu-vong-khi-tam-suoi-5095166.html",
+      "summary": "Chị Đinh Thị Huyền và con trai 8 tuổi trong lúc tắm giải nhiệt ở suối thuộc khu vực Cơn Sú, xã Hương Khê đã sẩy chân vào vùng nước sâu, tử vong chiều 8/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T12:40:20+07:00",
+      "fetched": "2026-07-08T20:40:36.141245+07:00"
+    },
+    {
+      "id": "ae86ffac2c992bcc41e4f0a335ff784b",
+      "title": "Bệnh viện Việt Đức cơ sở Ninh Bình rút ngắn thời gian người bệnh chờ mổ",
+      "link": "https://thanhnien.vn/benh-vien-viet-duc-co-so-ninh-binh-rut-ngan-thoi-gian-nguoi-benh-cho-mo-18526070809290643.htm",
+      "summary": "Người bệnh mổ phiên tại Bệnh viện hữu nghị Việt Đức sẽ được hẹn lịch và rút ngắn thời gian chờ đợi, sau khi có thêm 12 phòng mổ hiện đại và nhân lực tăng cường tại Bệnh viện hữu nghị Việt Đức cơ sở Ninh Bình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T12:40:00+07:00",
+      "fetched": "2026-07-08T20:40:39.170326+07:00"
+    },
+    {
+      "id": "1e8d0f043510a62c02ceb478fa6a4e61",
+      "title": "Vì sao nhiều iPhone lại nháy đèn khi có cuộc gọi, tin nhắn?",
+      "link": "https://thanhnien.vn/vi-sao-nhieu-iphone-lai-nhay-den-khi-co-cuoc-goi-tin-nhan-185260708160210059.htm",
+      "summary": "iPhone có thể nháy đèn flash mỗi khi nhận thông báo, nhưng người dùng dễ dàng tắt tính năng này chỉ với vài thao tác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T12:38:00+07:00",
+      "fetched": "2026-07-08T20:40:39.170496+07:00"
+    },
+    {
+      "id": "6a90af2c103418d7dceb4ed12def1d28",
+      "title": "Hai trường y dược công lập đầu tiên phía Bắc công bố điểm sàn",
+      "link": "https://thanhnien.vn/hai-truong-y-duoc-cong-lap-dau-tien-phia-bac-cong-bo-diem-san-185260708190327418.htm",
+      "summary": "Trường ĐH Y dược VNU và Trường ĐH Y dược Thái Bình công bố điểm sàn ngay sau khi Bộ GD-ĐT công bố quyết định liên quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T12:37:00+07:00",
+      "fetched": "2026-07-08T20:40:39.170646+07:00"
+    },
+    {
+      "id": "fab450d46ce4593fe7ab3f43c7c30dc4",
+      "title": "Vụ lật ca nô trên sông Soài Rạp: Tìm thấy thi thể trung tá CSGT",
+      "link": "https://thanhnien.vn/vu-lat-ca-no-tren-song-soai-rap-tim-thay-thi-the-trung-ta-csgt-185260708183217325.htm",
+      "summary": "Khoảng 14 giờ 15 ngày 8.7, lực lượng chức năng đã tìm thấy thi thể trung tá Phạm Sơn B. trên sông Soài Rạp, cách vị trí xảy ra vụ va chạm khoảng 500 m.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T12:35:00+07:00",
+      "fetched": "2026-07-08T20:40:39.170805+07:00"
+    },
+    {
+      "id": "5390208698f8d656e296ba83b2abfac3",
+      "title": "Lý do bạn trai cũ cùng loạt sao không dự 'siêu đám cưới' của Taylor Swift",
+      "link": "https://thanhnien.vn/ly-do-ban-trai-cu-cung-loat-sao-khong-du-sieu-dam-cuoi-cua-taylor-swift-185260708174643968.htm",
+      "summary": "Nam ca sĩ Harry Style (bạn trai cũ của Taylor Swift), huyền thoại âm nhạc James Taylor, Ryan Seacrest - MC 'American Idol', tài tử Robert Pattinson… đều không tham dự đám cưới của nữ ca sĩ với nhiều lý do khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T12:26:00+07:00",
+      "fetched": "2026-07-08T20:40:39.170962+07:00"
+    },
+    {
+      "id": "fe5da09f7f69a5f7f1af9245cc957daa",
+      "title": "World Cup 2026 đang gay cấn, 14 HLV đã phải rời ghế nóng: Người mới nhất mất việc là ai?",
+      "link": "https://thanhnien.vn/world-cup-2026-dang-gay-can-14-hlv-da-phai-roi-ghe-nong-nguoi-moi-nhat-mat-viec-la-ai-185260708190624446.htm",
+      "summary": "Tối 8.7 (giờ Việt Nam), HLV Zlatko Dalic tuyên bố chia tay đội tuyển Croatia sau 9 năm gắn bó. Ông trở thành HLV thứ 14 rời ghế nóng ở World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T12:07:00+07:00",
+      "fetched": "2026-07-08T20:40:39.171109+07:00"
+    },
+    {
+      "id": "2b2b2dd70d0d5e70c5defc18a30e98b6",
+      "title": "Vé Ba Na Hills còn 500.000 đồng cho du khách 25 tuổi trở xuống",
+      "link": "https://vnexpress.net/ve-ba-na-hills-con-500-000-dong-cho-du-khach-25-tuoi-tro-xuong-5095119.html",
+      "summary": "Mọi du khách 25 tuổi trở xuống đến Ba Na Hills sẽ được ưu đãi vé cáp treo 500.000 đồng, thay vì một triệu đồng như niêm yết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T12:00:06+07:00",
+      "fetched": "2026-07-08T20:40:36.141395+07:00"
+    },
+    {
+      "id": "46f6cded989b069921d39c3f52f13acd",
+      "title": "Tin World Cup 19h: Huyền thoại Brazil cạn lời vì Messi | Balogun gặp riêng HLV đội tuyển Bỉ",
+      "link": "https://vnexpress.net/tin-world-cup-19h-huyen-thoai-brazil-can-loi-vi-messi-balogun-gap-rieng-hlv-doi-tuyen-bi-5095152.html",
+      "summary": "Manzambi lỡ trận gặp Colombia vì chấn thương; Na Uy đối mặt nguy cơ sứt mẻ lực lượng trước tứ kết...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T12:00:00+07:00",
+      "fetched": "2026-07-08T20:40:36.141615+07:00"
+    },
+    {
+      "id": "242a1bada9f18494f1e92faeadda8de8",
+      "title": "Thông điệp của Trung Quốc khi phóng tên lửa ra Thái Bình Dương",
+      "link": "https://vnexpress.net/thong-diep-cua-trung-quoc-khi-phong-ten-lua-ra-thai-binh-duong-5094798.html",
+      "summary": "Phóng tên lửa chiến lược từ tàu ngầm ra Thái Bình Dương, Trung Quốc dường như muốn chứng minh năng lực răn đe bằng bộ ba hạt nhân của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T12:00:00+07:00",
+      "fetched": "2026-07-08T20:40:36.141776+07:00"
+    },
+    {
+      "id": "46c32950b77aa7e6831d8b0ea5614b83",
+      "title": "Thú chơi trang sức, labubu của 'Cầu thủ đẹp nhất World Cup 2026'",
+      "link": "https://vnexpress.net/thu-choi-trang-suc-labubu-cua-cau-thu-dep-nhat-world-cup-2026-5094706.html",
+      "summary": "Sao Argentina Rodrigo De Paul - đứng đầu danh sách \"Đẹp trai nhất World Cup 2026\" - biến hóa phong cách với hàng chục mẫu dây chuyền, đồng hồ, labubu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T12:00:00+07:00",
+      "fetched": "2026-07-08T20:40:36.141945+07:00"
+    },
+    {
+      "id": "2d6681d013a3e1f2725c69e2bd41dc40",
+      "title": "Nhà thuốc tự động hoàn toàn đầu tiên trên thế giới",
+      "link": "https://vnexpress.net/nha-thuoc-tu-dong-hoan-toan-dau-tien-tren-the-gioi-5094599.html",
+      "summary": "Công ty khởi nghiệp Queue ra mắt nhà thuốc đầu tiên sử dụng AI, robot và thị giác máy tính để tự động cấp phát và xác minh, giao nhận đơn thuốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T12:00:00+07:00",
+      "fetched": "2026-07-08T20:40:36.142095+07:00"
+    },
+    {
+      "id": "85fbc9063832dcb1a3f7c1a5c6356c3a",
+      "title": "Có nên nhịn tiểu ban đêm để ngủ cố đến sáng?",
+      "link": "https://vnexpress.net/co-nen-nhin-tieu-ban-dem-de-ngu-co-den-sang-5093910.html",
+      "summary": "Nhịn tiểu ban đêm gây hại cho hệ tiết niệu, tổn thương thận, tăng nguy cơ nhiễm trùng và sỏi, đặc biệt nguy hiểm với thai phụ và nam giới lớn tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T12:00:00+07:00",
+      "fetched": "2026-07-08T20:40:36.142248+07:00"
+    },
+    {
+      "id": "a30141e3534902cef2e6257fba1f55fc",
+      "title": "'Khát khô cổ vì bữa cơm có bốn bát nước chấm'",
+      "link": "https://vnexpress.net/thoi-quen-an-man-khat-kho-co-vi-bua-com-co-bon-bat-nuoc-cham-5095037.html",
+      "summary": "Rau muống chấm mắm tỏi, thịt quay chấm xì dầu, gà luộc chấm muối tiêu, đậu rán chấm mắm tôm, bạn tôi nói 'phải ăn thế mới đúng vị'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T12:00:00+07:00",
+      "fetched": "2026-07-08T20:40:36.142422+07:00"
+    },
+    {
+      "id": "e9df1088594675e901a83b10f3eab46f",
+      "title": "Lo mắc cúm gây đột quỵ, nhiều người cao tuổi tiêm vaccine",
+      "link": "https://vnexpress.net/lo-mac-cum-gay-dot-quy-nhieu-nguoi-cao-tuoi-tiem-vaccine-5095139.html",
+      "summary": "Sau nhiều lần mắc cúm kéo dài, người cao huyết áp, tiểu đường đi tiêm vaccine cúm để giảm nguy cơ tái nhiễm và biến chứng hô hấp, tim mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T12:00:00+07:00",
+      "fetched": "2026-07-08T20:40:36.142582+07:00"
+    },
+    {
+      "id": "242a1bada9f18494f1e92faeadda8de8",
+      "title": "Thông điệp của Trung Quốc khi phóng tên lửa ra Thái Bình Dương",
+      "link": "https://vnexpress.net/thong-diep-cua-trung-quoc-khi-phong-ten-lua-ra-thai-binh-duong-5094798.html",
+      "summary": "Phóng tên lửa chiến lược từ tàu ngầm ra Thái Bình Dương, Trung Quốc dường như muốn chứng minh năng lực răn đe bằng bộ ba hạt nhân của mình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-08T12:00:00+07:00",
+      "fetched": "2026-07-08T20:40:42.452258+07:00"
+    },
+    {
+      "id": "2d6681d013a3e1f2725c69e2bd41dc40",
+      "title": "Nhà thuốc tự động hoàn toàn đầu tiên trên thế giới",
+      "link": "https://vnexpress.net/nha-thuoc-tu-dong-hoan-toan-dau-tien-tren-the-gioi-5094599.html",
+      "summary": "Công ty khởi nghiệp Queue ra mắt nhà thuốc đầu tiên sử dụng AI, robot và thị giác máy tính để tự động cấp phát và xác minh, giao nhận đơn thuốc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-08T12:00:00+07:00",
+      "fetched": "2026-07-08T20:40:46.512610+07:00"
+    },
+    {
       "id": "91950f287dca5d649f7b858684c54573",
       "title": "KTS Nguyễn Xuân Thắng: Cuộc tìm kiếm mộ liệt sĩ tại Tân Sơn Nhất lần này có nhiều thông tin, vị trí chính xác hơn năm 2017",
       "link": "https://tuoitre.vn/kts-nguyen-xuan-thang-cuoc-tim-kiem-mo-liet-si-tai-tan-son-nhat-lan-nay-co-nhieu-thong-tin-vi-tri-chinh-xac-hon-nam-2017-100260708085028168.htm",
@@ -453,6 +943,26 @@ window.newsData_2026_07_08 = {
       "fetched": "2026-07-08T11:59:32.779294+07:00"
     },
     {
+      "id": "e7b2e1c07f7e7c5f80de7105c297d919",
+      "title": "Đội tuyển Việt Nam lại thắng đối thủ Hàn Quốc: Xuân Son và Hai Long đều ghi bàn đẹp mắt",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-lai-thang-doi-thu-han-quoc-xuan-son-va-hai-long-deu-ghi-ban-dep-mat-185260708184930502.htm",
+      "summary": "Đội tuyển Việt Nam thắng Yongin (K-League 2) với tỷ số 2-1, trong trận giao hữu thứ hai ở đợt tập huấn Hàn Quốc chuẩn bị cho AFF Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T11:53:00+07:00",
+      "fetched": "2026-07-08T20:40:39.171258+07:00"
+    },
+    {
+      "id": "330fecf0af00ff7958c1ad5d9f400011",
+      "title": "Tuyển Mỹ có thể chia đôi tiền thưởng World Cup với đội nữ",
+      "link": "https://vnexpress.net/tuyen-my-co-the-chia-doi-tien-thuong-world-cup-voi-doi-nu-5095122.html",
+      "summary": "Đội tuyển bóng đá nữ Mỹ có thể nhận được khoản tiền hơn 6 triệu USD nhờ thành tích lọt vào vòng 1/8 của các đồng nghiệp nam tại World Cup 2026.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-08T11:44:12+07:00",
+      "fetched": "2026-07-08T20:40:42.452434+07:00"
+    },
+    {
       "id": "7fc5c975a2d03157a0c531db41b5549f",
       "title": "Đồng Nai: Người dân phát hiện 2 cá thể vượn má vàng quý hiếm trong vườn nhà",
       "link": "https://thanhnien.vn/dong-nai-nguoi-dan-phat-hien-2-ca-the-vuon-ma-vang-quy-hiem-trong-vuon-nha-185260708180121364.htm",
@@ -461,6 +971,26 @@ window.newsData_2026_07_08 = {
       "category": "Tổng hợp",
       "published": "2026-07-08T11:39:00+07:00",
       "fetched": "2026-07-08T18:42:00.440337+07:00"
+    },
+    {
+      "id": "b65c7e65ad86016371d0362a7fd123e6",
+      "title": "Thủ tướng Canada nói đùa về việc 'mượn' Haaland từ Na Uy",
+      "link": "https://vnexpress.net/thu-tuong-canada-noi-dua-ve-viec-muon-haaland-tu-na-uy-5095070.html",
+      "summary": "Ông Carney đề nghị Thủ tướng Na Uy chia sẻ cầu thủ Haaland với Canada trong kỳ World Cup lần tới trong cuộc gặp bên lề hội nghị NATO.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-08T11:30:00+07:00",
+      "fetched": "2026-07-08T20:40:42.452595+07:00"
+    },
+    {
+      "id": "2af7ea2b4582f825ca52e33dcecc5737",
+      "title": "Messi: 'Tôi khóc vì sự giải tỏa, giận bản thân sút hỏng penalty'",
+      "link": "https://vnexpress.net/messi-toi-khoc-vi-su-giai-toa-gian-ban-than-sut-hong-penalty-5095133.html",
+      "summary": "Trả lời phỏng vấn báo Argentina Ole, Lionel Messi giải thích lý do bật khóc sau tiếng còi mãn cuộc cũng như quyết định chủ động dạt biên phải trong những phút cuối trận thắng ngược Ai Cập 3-2 ở vòng 1/8 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-08T11:25:12+07:00",
+      "fetched": "2026-07-08T20:40:47.728376+07:00"
     },
     {
       "id": "55ec4ff492dd797d3e92b78495322f1f",
