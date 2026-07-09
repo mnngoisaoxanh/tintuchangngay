@@ -1,6 +1,6 @@
 window.newsData_2026_07_10 = {
   "date": "2026-07-10",
-  "lastUpdated": "2026-07-10T02:22:29.599930+07:00",
+  "lastUpdated": "2026-07-10T04:12:24.164521+07:00",
   "articles": [
     {
       "id": "6241a49415c4c52844396c2e38b2ee4a",
@@ -181,6 +181,56 @@ window.newsData_2026_07_10 = {
       "category": "Tổng hợp",
       "published": "2026-07-10T00:47:17.308011+07:00",
       "fetched": "2026-07-10T00:47:17.308171+07:00"
+    },
+    {
+      "id": "d698f0d44f2abf8e77d3d3f9d1ce277e",
+      "title": "Tổng giám mục Argentina dẫn lời Messi tại Thánh lễ Ngày Độc lập: Gắn kết cả đất nước",
+      "link": "https://thanhnien.vn/tong-giam-muc-argentina-dan-loi-messi-tai-thanh-le-ngay-doc-lap-gan-ket-ca-dat-nuoc-185260710040454443.htm",
+      "summary": "Tổng giám mục Jorge Garcia Cuerva đã trích dẫn lời Lionel Messi tại Thánh lễ Ngày Độc lập Argentina, khi La Albiceleste chuẩn bị cho trận gặp Thụy Sĩ tại tứ kết World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T21:09:00+07:00",
+      "fetched": "2026-07-10T04:12:16.564628+07:00"
+    },
+    {
+      "id": "41995155570faba1ef118d273adf3b59",
+      "title": "De Bruyne không muốn nói lời tạm biệt",
+      "link": "https://thanhnien.vn/de-bruyne-khong-muon-noi-loi-tam-biet-185260709201051755.htm",
+      "summary": "Khi đối thủ là nhà đương kim vô địch châu Âu và được đánh giá vượt trội Bỉ, Kevin De Bruyne và đồng đội cần chơi với hơn 100% phong độ mới có thể giành vé vào bán kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T20:33:00+07:00",
+      "fetched": "2026-07-10T04:12:16.564795+07:00"
+    },
+    {
+      "id": "e72f973e197e7fe64bc075fd2a2c103e",
+      "title": "Mất ham muốn với vợ bởi stress kéo dài",
+      "link": "https://vnexpress.net/mat-ham-muon-voi-vo-boi-stress-keo-dai-5095055.html",
+      "summary": "Người đàn ông 43 tuổi, chia sẻ dù rất thương vợ, muốn giữ gia đình yên ấm nhưng cứ đến chuyện gần gũi là anh lại né tránh vì cơ thể đã cạn kiệt năng lượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T19:02:00+07:00",
+      "fetched": "2026-07-10T04:12:13.755248+07:00"
+    },
+    {
+      "id": "f14f5a11b0a26773826dedd6921c56c5",
+      "title": "Pháp 0-0 Morocco (H1): Mbappe sút hỏng phạt đền",
+      "link": "https://vnexpress.net/phap-vs-morocco-5095617.html",
+      "summary": "Tiền đạo Kylian Mbappe bị thủ môn Bono bắt gọn cú sút phạt đền, khi Pháp gặp Morocco trong trận tứ kết World Cup 2026, trên sân Boston.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T19:00:00+07:00",
+      "fetched": "2026-07-10T04:12:13.755448+07:00"
+    },
+    {
+      "id": "f14f5a11b0a26773826dedd6921c56c5",
+      "title": "Pháp 0-0 Morocco (H2): Đại diện châu Âu phung phí cơ hội",
+      "link": "https://vnexpress.net/phap-vs-morocco-5095617.html",
+      "summary": "Tiền đạo Kylian Mbappe bị thủ môn Bono bắt gọn cú sút phạt đền, khi Pháp gặp Morocco trong trận tứ kết World Cup 2026, trên sân Boston.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-09T19:00:00+07:00",
+      "fetched": "2026-07-10T04:12:24.159572+07:00"
     },
     {
       "id": "ebab96582497311237a8db1d85f3fb72",
