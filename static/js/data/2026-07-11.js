@@ -1,6 +1,6 @@
 window.newsData_2026_07_11 = {
   "date": "2026-07-11",
-  "lastUpdated": "2026-07-11T03:59:28.475295+07:00",
+  "lastUpdated": "2026-07-11T05:50:41.505635+07:00",
   "articles": [
     {
       "id": "238d20ee862c0db8f0d26be09ba8b134",
@@ -161,6 +161,246 @@ window.newsData_2026_07_11 = {
       "category": "Tổng hợp",
       "published": "2026-07-11T02:15:31.261179+07:00",
       "fetched": "2026-07-11T02:15:31.261318+07:00"
+    },
+    {
+      "id": "b86b68703e22c838bb1af90f07e66df5",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 11.7.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1172026-185260710230705187.htm",
+      "summary": "Tin tức Kỳ thi tốt nghiệp THPT: Đổi mới thế nào để không còn tiêu cực?; Có Long Thành, Tân Sơn Nhất còn bay quốc tế chặng nào?; Trung Quốc - Philippines leo thang căng thẳng quanh \"tiền đồn\" ở Biển Đông... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 11.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:50:00+07:00",
+      "fetched": "2026-07-11T05:50:31.618084+07:00"
+    },
+    {
+      "id": "62c81626643cb8d2775d3dd3bb9e07c1",
+      "title": "Kỳ thi tốt nghiệp THPT: Đổi mới thế nào để không còn tiêu cực?",
+      "link": "https://thanhnien.vn/ky-thi-tot-nghiep-thpt-doi-moi-the-nao-de-khong-con-tieu-cuc-185260710225116157.htm",
+      "summary": "Sau lùm xùm sai phạm coi thi ở điểm thi THPT chuyên Tuyên Quang, Bộ trưởng Bộ GD-ĐT cho rằng cần tiếp tục hoàn thiện để hướng tới một kỳ thi an toàn, chất lượng, hiệu quả; đồng thời đề nghị các sở GD-ĐT 'hiến kế'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:45:00+07:00",
+      "fetched": "2026-07-11T05:50:31.618251+07:00"
+    },
+    {
+      "id": "35e13678b9661127209673fab3e6adf9",
+      "title": "Mèo nhà Việt Nam từng bị bỏ rơi giành giải nhất cuộc thi mèo thế giới",
+      "link": "https://thanhnien.vn/meo-nha-viet-nam-tung-bi-bo-roi-gianh-giai-nhat-cuoc-thi-meo-the-gioi-185260710182757598.htm",
+      "summary": "Từng bị bỏ rơi khi mới hơn 1 tháng tuổi, chú mèo Haha được cưu mang, chăm sóc và bất ngờ giành giải 'Best in Show' hạng mục mèo nhà tại cuộc thi mèo lớn nhất thế giới tổ chức ở Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:45:00+07:00",
+      "fetched": "2026-07-11T05:50:31.618436+07:00"
+    },
+    {
+      "id": "de409b1ca2582cef7af6aaf3988d23a3",
+      "title": "Ukraine 'đạt thỏa thuận chính trị' với Mỹ về tên lửa Patriot",
+      "link": "https://thanhnien.vn/ukraine-dat-thoa-thuan-chinh-tri-voi-my-ve-ten-lua-patriot-185260710184517574.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky ngày 9.7 khẳng định Ukraine và Mỹ đã đạt được một thỏa thuận chính trị về giấy phép sản xuất tên lửa đánh chặn Patriot PAC-3, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:42:00+07:00",
+      "fetched": "2026-07-11T05:50:31.618600+07:00"
+    },
+    {
+      "id": "d1d26b34be7444ce98590ba18bd77639",
+      "title": "Ảnh dự thi: 50 năm thắp sáng thành phố",
+      "link": "https://thanhnien.vn/anh-du-thi-50-nam-thap-sang-thanh-pho-18526071019021303.htm",
+      "summary": "Ngành điện tự hào với công việc thắp sáng thành phố 50 năm qua. Ảnh dự thi dưới đây ghi nhận ánh đèn là nguồn năng lượng góp phần vào sự thành công của nhiều hoạt động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:39:00+07:00",
+      "fetched": "2026-07-11T05:50:31.618760+07:00"
+    },
+    {
+      "id": "d737a6371bd75653f2d5a1c0d4c7f376",
+      "title": "Nhân viên ngân hàng lừa vay tiền đáo hạn, chiếm đoạt hơn 29 tỉ đồng",
+      "link": "https://thanhnien.vn/nhan-vien-ngan-hang-lua-vay-tien-dao-han-chiem-doat-hon-29-ti-dong-185260710213900719.htm",
+      "summary": "Công an tỉnh Quảng Trị khởi tố, bắt giam một nhân viên ngân hàng tại xã Lao Bảo về hành vi lừa đảo với số tiền chiếm đoạt hơn 29 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:33:00+07:00",
+      "fetched": "2026-07-11T05:50:31.618910+07:00"
+    },
+    {
+      "id": "451e68c6c8cb62cbd5c38664939e5a0b",
+      "title": "Biến số mới trước cuộc bầu cử giữa kỳ của Mỹ",
+      "link": "https://thanhnien.vn/bien-so-moi-truoc-cuoc-bau-cu-giua-ky-cua-my-185260710185124784.htm",
+      "summary": "Tại Mỹ, cả hai đảng Cộng hòa lẫn Dân chủ đều đang mâu thuẫn nội bộ khi còn chưa đầy 4 tháng nữa thì cuộc bầu cử giữa kỳ ở nước này diễn ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:32:00+07:00",
+      "fetched": "2026-07-11T05:50:31.619061+07:00"
+    },
+    {
+      "id": "60b636755ecd853ea2f8bc64af8ec3e2",
+      "title": "Tiêu điểm quốc tế ngày 11.7: Phát hiện kế hoạch ám sát ông Trump? | Cú hích cho Ukraine từ NATO",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-117-phat-hien-ke-hoach-am-sat-ong-trump-cu-hich-cho-ukraine-tu-nato-185260710234157765.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 11.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:30:00+07:00",
+      "fetched": "2026-07-11T05:50:31.619214+07:00"
+    },
+    {
+      "id": "04d6b30aaed4e650d8c3beae842aa9f2",
+      "title": "TP.HCM: Mua vé số chia cho đồng nghiệp, tất cả trúng độc  xổ số miền Nam",
+      "link": "https://thanhnien.vn/tphcm-mua-ve-so-chia-cho-dong-nghiep-tat-ca-trung-doc-xo-so-mien-nam-185260710071442256.htm",
+      "summary": "Một người phụ nữ ở TP.HCM mua vé số, tặng đồng nghiệp mỗi người 1 tờ. Sau khi có kết quả xổ số miền Nam, tất cả các vé đều trúng độc đắc. Một đại lý cấp 1 đã đổi thưởng 6 tờ vé trị giá 12 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:30:00+07:00",
+      "fetched": "2026-07-11T05:50:31.619362+07:00"
+    },
+    {
+      "id": "ceb2e28f1896e8a49837d8412ef4b522",
+      "title": "Ronaldo bất ngờ có động thái gây tranh cãi sau khi bị loại khỏi World Cup",
+      "link": "https://thanhnien.vn/ronaldo-bat-ngo-co-dong-thai-gay-tranh-cai-sau-khi-bi-loai-khoi-world-cup-185260711052330011.htm",
+      "summary": "Rạng sáng 11.7 (giờ Việt Nam), Cristiano Ronaldo bất ngờ đăng lại khoảnh khắc anh và các đồng đội nâng cao chiếc cúp vô địch EURO 2016.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:28:00+07:00",
+      "fetched": "2026-07-11T05:50:31.619566+07:00"
+    },
+    {
+      "id": "d5b158628e5e14a4ddfd15dcb76653e9",
+      "title": "'Gà son' Merino lập kỳ tích như David Villa năm 2010, Yamal tuyên bố không sợ Pháp",
+      "link": "https://thanhnien.vn/ga-son-merino-lap-ky-tich-nhu-david-villa-nam-2010-yamal-tuyen-bo-khong-so-phap-185260711052207062.htm",
+      "summary": "Đội tuyển Tây Ban Nha tiếp tục hành trình đầy ấn tượng tại World Cup 2026 khi đánh bại Bỉ 2-1 để giành vé vào bán kết. Trong chiến thắng này, Mikel Merino một lần nữa trở thành 'gà son' của HLV Luis de la Fuente.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:27:00+07:00",
+      "fetched": "2026-07-11T05:50:31.619721+07:00"
+    },
+    {
+      "id": "22cfb11d2fdab1d59abda32a9e267066",
+      "title": "Tử vi ngày 11 tháng 7: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-11-thang-7-con-giap-nao-may-man-hom-nay-185260711024628438.htm",
+      "summary": "Tử vi ngày 11 tháng 7 mang đến những gợi ý tham khảo cho 12 con giáp. Có những ngày, cuộc sống không thay đổi vì một quyết định lớn mà bởi hàng chục lựa chọn rất nhỏ: có nên mua món đồ đang giảm giá, có nên gọi cho người mình đang nghĩ đến, có nên ở lại làm thêm hay dành buổi tối cho gia đình. Hãy c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:15:00+07:00",
+      "fetched": "2026-07-11T05:50:31.619889+07:00"
+    },
+    {
+      "id": "160156403a7ebd9ba3aa7a70a5c0837d",
+      "title": "Bác sĩ: Đau cổ vai gáy, căng cơ khi nào không nên xoa bóp bấm huyệt?",
+      "link": "https://thanhnien.vn/bac-si-dau-co-vai-gay-cang-co-khi-nao-khong-nen-xoa-bop-bam-huyet-185260710165228042.htm",
+      "summary": "Những ngày thời tiết thay đổi, nhiều người dễ cảm thấy cổ vai gáy căng hơn, lưng nặng hơn, các khớp kém linh hoạt hơn khi ngủ dậy hoặc sau một ngày ngồi làm việc lâu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:14:00+07:00",
+      "fetched": "2026-07-11T05:50:31.620041+07:00"
+    },
+    {
+      "id": "a44ceebb4521796b566d726298a23a0c",
+      "title": "Ảnh dự thi: Niềm vui trong lao động",
+      "link": "https://thanhnien.vn/anh-du-thi-niem-vui-trong-lao-dong-185260710183047584.htm",
+      "summary": "Bức ảnh dự thi được chụp tại phường Thuận Giao, TP.HCM. Công nhân Đội Quản lý lưới điện thực hiện lắp đặt thiết bị đóng cắt (LBS), thuộc kế hoạch triển khai tự động hóa lưới điện trung thế 22 kV trên địa bàn do Công ty Điện lực Thuận An quản lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:10:00+07:00",
+      "fetched": "2026-07-11T05:50:31.620196+07:00"
+    },
+    {
+      "id": "d4e034f80c12f07ae148df4f37bd02a8",
+      "title": "4 chính sách nổi bật trong dự thảo Luật An toàn thực phẩm sửa đổi",
+      "link": "https://vnexpress.net/4-chinh-sach-noi-bat-trong-du-thao-luat-an-toan-thuc-pham-sua-doi-5095919.html",
+      "summary": "Bộ Y tế đang hoàn thiện dự thảo Luật An toàn thực phẩm (sửa đổi), đề xuất 4 nhóm chính sách trọng tâm nhằm thay đổi toàn diện phương thức quản lý an toàn thực phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:00:00+07:00",
+      "fetched": "2026-07-11T05:50:28.528854+07:00"
+    },
+    {
+      "id": "c7fa7761bf8cd69627b49874d456df64",
+      "title": "Đảng Cộng hòa chia rẽ vì 'phát súng' tái chiến Iran của ông Trump",
+      "link": "https://vnexpress.net/dang-cong-hoa-chia-re-vi-phat-sung-tai-chien-iran-cua-ong-trump-5095692.html",
+      "summary": "Việc Tổng thống Trump hủy ngừng bắn với Iran đang buộc các nghị sĩ Cộng hòa phải chọn giữa chống lại ông hoặc ủng hộ một cuộc xung đột đầy rủi ro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:00:00+07:00",
+      "fetched": "2026-07-11T05:50:28.529033+07:00"
+    },
+    {
+      "id": "89715f6c2652b9814db37eeb8a6e060b",
+      "title": "Smartphone giá rẻ khó tồn tại vì khủng hoảng chip nhớ",
+      "link": "https://vnexpress.net/smartphone-gia-re-kho-ton-tai-vi-khung-hoang-chip-nho-5095637.html",
+      "summary": "Giá chip nhớ tăng hàng chục phần trăm khiến biên lợi nhuận của dòng điện thoại dưới 400 USD bị bóp nghẹt và các hãng không còn muốn sản xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:00:00+07:00",
+      "fetched": "2026-07-11T05:50:28.529201+07:00"
+    },
+    {
+      "id": "045072bbec402b3d384dbc4c834e7862",
+      "title": "'Massage' dừa nước lấy mật bên bờ biển Mỹ Khê",
+      "link": "https://vnexpress.net/massage-dua-nuoc-lay-mat-ben-bo-bien-my-khe-5095350.html",
+      "summary": "Những nhịp búa đều đặn trên cuống dừa giúp anh Thương thu hàng nghìn lít mật mỗi vụ, đồng thời tạo trải nghiệm mới cho du khách tại rừng dừa Mỹ Khê.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:00:00+07:00",
+      "fetched": "2026-07-11T05:50:28.529361+07:00"
+    },
+    {
+      "id": "5ca3d3d0c5a9bd0dde520faee09cbd7d",
+      "title": "6 mùi hương âm thầm gây suy thận nhiều người ngửi mỗi ngày",
+      "link": "https://vnexpress.net/6-mui-huong-am-tham-gay-suy-than-nhieu-nguoi-ngui-moi-ngay-5093959.html",
+      "summary": "Hít phải hóa chất từ nước hoa rẻ tiền, chất làm thơm, nước xả vải, khói hương và khói bếp kéo dài gây tổn thương nghiêm trọng cho thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:00:00+07:00",
+      "fetched": "2026-07-11T05:50:28.529548+07:00"
+    },
+    {
+      "id": "aefc7e178d0050f1f283f5e8dab6bd2e",
+      "title": "Tuổi thọ pin xe điện vượt kỳ vọng của giới chuyên môn",
+      "link": "https://vnexpress.net/tuoi-tho-pin-xe-dien-vuot-ky-vong-cua-gioi-chuyen-mon-5095829.html",
+      "summary": "Dữ liệu thực tế cho thấy pin trên nhiều mẫu xe điện xuống cấp chậm hơn dự báo trước đây, giúp giảm bớt lo ngại về chi phí thay thế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:00:00+07:00",
+      "fetched": "2026-07-11T05:50:28.529714+07:00"
+    },
+    {
+      "id": "d8be9ea692423725a400c98b2706df36",
+      "title": "Cảnh báo thế giới đối mặt El Nino lịch sử",
+      "link": "https://thanhnien.vn/canh-bao-the-gioi-doi-mat-el-nino-lich-su-185260710205423005.htm",
+      "summary": "AFP ngày 9.7 dẫn thông báo của Trung tâm Dự báo khí hậu Mỹ (CPC) cho rằng có 81% khả năng El Nino tăng lên mức vô cùng mạnh từ giữa tháng 10 - 12 tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T22:00:00+07:00",
+      "fetched": "2026-07-11T05:50:31.620347+07:00"
+    },
+    {
+      "id": "c7fa7761bf8cd69627b49874d456df64",
+      "title": "Đảng Cộng hòa chia rẽ vì 'phát súng' tái chiến Iran của ông Trump",
+      "link": "https://vnexpress.net/dang-cong-hoa-chia-re-vi-phat-sung-tai-chien-iran-cua-ong-trump-5095692.html",
+      "summary": "Việc Tổng thống Trump hủy ngừng bắn với Iran đang buộc các nghị sĩ Cộng hòa phải chọn giữa chống lại ông hoặc ủng hộ một cuộc xung đột đầy rủi ro.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-10T22:00:00+07:00",
+      "fetched": "2026-07-11T05:50:35.855610+07:00"
+    },
+    {
+      "id": "89715f6c2652b9814db37eeb8a6e060b",
+      "title": "Smartphone giá rẻ khó tồn tại vì khủng hoảng chip nhớ",
+      "link": "https://vnexpress.net/smartphone-gia-re-kho-ton-tai-vi-khung-hoang-chip-nho-5095637.html",
+      "summary": "Giá chip nhớ tăng hàng chục phần trăm khiến biên lợi nhuận của dòng điện thoại dưới 400 USD bị bóp nghẹt và các hãng không còn muốn sản xuất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-10T22:00:00+07:00",
+      "fetched": "2026-07-11T05:50:39.706333+07:00"
+    },
+    {
+      "id": "1fe91aecb7623ed5dfafb06c824055fd",
+      "title": "Các loại búa thoát hiểm cho ôtô",
+      "link": "https://vnexpress.net/cac-loai-bua-thoat-hiem-cho-oto-5095769.html",
+      "summary": "Thị trường có nhiều loại búa thoát hiểm như búa truyền thống, búa lò xo, búa đa năng với thiết kế, tính năng và giá bán khác nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T21:00:00+07:00",
+      "fetched": "2026-07-11T05:50:28.529875+07:00"
     },
     {
       "id": "d4bd3443e8f93b40de28f6893f5d66ba",
