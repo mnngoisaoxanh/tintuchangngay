@@ -1,7 +1,17 @@
 window.newsData_2026_07_11 = {
   "date": "2026-07-11",
-  "lastUpdated": "2026-07-11T02:15:40.221708+07:00",
+  "lastUpdated": "2026-07-11T03:59:28.475295+07:00",
   "articles": [
+    {
+      "id": "238d20ee862c0db8f0d26be09ba8b134",
+      "title": "Hạ Djokovic, Sinner vào chung kết Wimbledon 2 mùa liên tiếp",
+      "link": "https://tuoitre.vn/ha-djokovic-sinner-vao-chung-ket-wimbledon-2-mua-lien-tiep-100260711012734223.htm",
+      "summary": "Đêm 10-7, tay vợt số 1 thế giới Jannik Sinner đánh bại huyền thoại Novak Djokovic với tỉ số 3-0 (6-4, 6-4, 6-4) để có được tấm vé vào vòng chung kết Wimbledon 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T03:59:20.473122+07:00",
+      "fetched": "2026-07-11T03:59:20.473250+07:00"
+    },
     {
       "id": "80f5ef0f27ac535e66666fc5d0f31d36",
       "title": "Bình Hưng ra mắt mô hình 'Ấp số - Chung cư số', dùng camera giám sát xử lý vi phạm môi trường",
@@ -151,6 +161,46 @@ window.newsData_2026_07_11 = {
       "category": "Tổng hợp",
       "published": "2026-07-11T02:15:31.261179+07:00",
       "fetched": "2026-07-11T02:15:31.261318+07:00"
+    },
+    {
+      "id": "d4bd3443e8f93b40de28f6893f5d66ba",
+      "title": "Cuộc đua vua phá lưới hay nhất lịch sử World Cup",
+      "link": "https://thanhnien.vn/cuoc-dua-vua-pha-luoi-hay-nhat-lich-su-world-cup-185260710220254566.htm",
+      "summary": "Lionel Messi, Kylian Mbappe, Erling Haaland và Harry Kane sẽ tạo nên cuộc đua 'Chiếc giày vàng' chưa từng có tại World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T20:59:00+07:00",
+      "fetched": "2026-07-11T03:59:18.320233+07:00"
+    },
+    {
+      "id": "e568e47cdf00511df8c41cf0643b1457",
+      "title": "Na Uy - Anh (4 giờ ngày 12.7, trực tiếp trên VTV): ‘Tam sư’ phong tỏa Haaland",
+      "link": "https://thanhnien.vn/na-uy-anh-4-gio-ngay-127-truc-tiep-tren-vtv-tam-su-phong-toa-haaland-18526071022063838.htm",
+      "summary": "Muốn đánh bại đội tuyển Na Uy ở tứ kết World Cup 2026, đội tuyển Anh phải phong tỏa thành công chân sút số 1 của đối thủ là Haaland.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T20:13:00+07:00",
+      "fetched": "2026-07-11T03:59:18.320401+07:00"
+    },
+    {
+      "id": "73c5c143bf1e82ad13f5f5efa3e29df9",
+      "title": "Sinner dập tắt giấc mơ Grand Slam thứ 25 của Djokovic",
+      "link": "https://vnexpress.net/sinner-dap-tat-giac-mo-grand-slam-thu-25-cua-djokovic-5096097.html",
+      "summary": "ĐKVĐ Jannik Sinner thắng tay vợt huyền thoại Novak Djokovic 6-4, 6-4, 6-4 ở bán kết Wimbledon hôm 10/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T19:20:05+07:00",
+      "fetched": "2026-07-11T03:59:15.309291+07:00"
+    },
+    {
+      "id": "73c5c143bf1e82ad13f5f5efa3e29df9",
+      "title": "Sinner dập tắt giấc mơ Grand Slam thứ 25 của Djokovic",
+      "link": "https://vnexpress.net/sinner-dap-tat-giac-mo-grand-slam-thu-25-cua-djokovic-5096097.html",
+      "summary": "ĐKVĐ Jannik Sinner thắng tay vợt huyền thoại Novak Djokovic 6-4, 6-4, 6-4 ở bán kết Wimbledon hôm 10/7.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-10T19:20:05+07:00",
+      "fetched": "2026-07-11T03:59:28.470531+07:00"
     },
     {
       "id": "769ef42b3c733cbbed670e0a3057d98a",
