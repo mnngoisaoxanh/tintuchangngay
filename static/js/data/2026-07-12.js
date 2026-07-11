@@ -1,7 +1,17 @@
 window.newsData_2026_07_12 = {
   "date": "2026-07-12",
-  "lastUpdated": "2026-07-12T01:44:39.503139+07:00",
+  "lastUpdated": "2026-07-12T03:38:22.575601+07:00",
   "articles": [
+    {
+      "id": "1bb5b54ace3336cfd898f9d1ffe4caba",
+      "title": "AI hỗ trợ hàng triệu phụ huynh Trung Quốc chọn trường, chọn ngành cho con",
+      "link": "https://tuoitre.vn/ai-ho-tro-hang-trieu-phu-huynh-trung-quoc-chon-truong-chon-nganh-cho-con-100260711234119418.htm",
+      "summary": "Hàng triệu phụ huynh và thí sinh đã sử dụng các chatbot trí tuệ nhân tạo (AI) để tìm kiếm lời khuyên về chọn trường, chọn ngành trong mùa tuyển sinh đại học năm nay tại Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T03:38:14.246233+07:00",
+      "fetched": "2026-07-12T03:38:14.246371+07:00"
+    },
     {
       "id": "6e26027d4c9c00037b8feb37da4531a8",
       "title": "Lê Công Vinh: Thụy Sĩ khó cản Argentina",
@@ -151,6 +161,36 @@ window.newsData_2026_07_12 = {
       "category": "Tổng hợp",
       "published": "2026-07-12T01:44:32.265174+07:00",
       "fetched": "2026-07-12T01:44:32.265314+07:00"
+    },
+    {
+      "id": "6ebc1cbfeb27bb581616580a35c93b63",
+      "title": "Na Uy - Anh: Haaland so tài Harry Kane",
+      "link": "https://vnexpress.net/na-uy-anh-haaland-so-tai-harry-kane-5096342.html",
+      "summary": "Màn so tài giữa Erling Haaland và Harry Kane là tâm điểm trận Na Uy gặp Anh ở tứ kết World Cup 2026. Bóng lăn lúc 4h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T20:00:56+07:00",
+      "fetched": "2026-07-12T03:38:09.212959+07:00"
+    },
+    {
+      "id": "6ebc1cbfeb27bb581616580a35c93b63",
+      "title": "Na Uy - Anh: Haaland so tài Harry Kane",
+      "link": "https://vnexpress.net/na-uy-anh-haaland-so-tai-harry-kane-5096342.html",
+      "summary": "Màn so tài giữa Erling Haaland và Harry Kane là tâm điểm trận Na Uy gặp Anh ở tứ kết World Cup 2026. Bóng lăn lúc 4h.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-11T20:00:56+07:00",
+      "fetched": "2026-07-12T03:38:22.570781+07:00"
+    },
+    {
+      "id": "903731219d8471c9711091aaefcad3de",
+      "title": "Người mẹ cao 1,2 m sinh con",
+      "link": "https://vnexpress.net/nguoi-me-cao-1-2-m-sinh-con-5096321.html",
+      "summary": "Mang song thai nhưng mất một giữa thai kỳ, người phụ nữ cao 1,2 m giữ được con còn lại nhờ hai lần truyền máu bào thai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T19:00:00+07:00",
+      "fetched": "2026-07-12T03:38:09.213148+07:00"
     },
     {
       "id": "6ce1f65988b6acb9437a0defd0770a10",
