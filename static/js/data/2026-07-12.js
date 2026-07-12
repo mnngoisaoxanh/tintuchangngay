@@ -1,7 +1,97 @@
 window.newsData_2026_07_12 = {
   "date": "2026-07-12",
-  "lastUpdated": "2026-07-12T21:47:17.503251+07:00",
+  "lastUpdated": "2026-07-12T23:46:12.705540+07:00",
   "articles": [
+    {
+      "id": "0659a647a704ec8dca7bd28bedd58d59",
+      "title": "Ông Zelensky bất ngờ đề xuất thay thủ tướng, cải tổ nội các",
+      "link": "https://tuoitre.vn/ong-zelensky-bat-ngo-de-xuat-thay-thu-tuong-cai-to-noi-cac-100260712202225683.htm",
+      "summary": "Tổng thống Zelensky ngày 12-7 cho biết ông đã đề xuất thay thủ tướng và phát động một đợt cải tổ bộ máy chính phủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T23:46:06.724531+07:00",
+      "fetched": "2026-07-12T23:46:06.724615+07:00"
+    },
+    {
+      "id": "11ac5f54c84b04cce98935a86dea7dcf",
+      "title": "'Đọ' thu nhập bình quân nhân viên ở Viettel, GVR, ACV, EVN: Nơi nào cao nhất?",
+      "link": "https://tuoitre.vn/do-thu-nhap-binh-quan-nhan-vien-o-viettel-gvr-acv-evn-noi-nao-tra-cao-nhat-100260712200756534.htm",
+      "summary": "Thu nhập bình quân của người lao động tại công ty mẹ một số tập đoàn, tổng công ty nhà nước vượt 50 triệu đồng/tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T23:46:06.724120+07:00",
+      "fetched": "2026-07-12T23:46:06.724505+07:00"
+    },
+    {
+      "id": "34046ab51d3f9de822f6e29ffda74bfb",
+      "title": "Những tờ báo nghĩa tình của tôi",
+      "link": "https://tuoitre.vn/nhung-to-bao-nghia-tinh-cua-toi-100260712195802122.htm",
+      "summary": "Nhuận bút từ những tờ báo của thành phố mang tên Bác Hồ kính yêu đã nuôi sống gia đình tôi trong từng ấy năm. Sự nghĩa tình này tôi không bao giờ có thể quên ơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T23:46:06.724052+07:00",
+      "fetched": "2026-07-12T23:46:06.724109+07:00"
+    },
+    {
+      "id": "156ca059f5750f9a2c2bf0f49da6d062",
+      "title": "Nhật Bản ngược dòng khó tin, giành vé vào vòng chung kết siêu giải bóng chuyền",
+      "link": "https://tuoitre.vn/nhat-ban-nguoc-dong-kho-tin-gianh-ve-vao-vong-chung-ket-sieu-giai-bong-chuyen-100260712201532103.htm",
+      "summary": "Tối ngày 12-7, tuyển bóng chuyền nữ Nhật Bản đã có màn lội ngược dòng khó tin để đánh bại Ba Lan với tỉ số 3-2 trong lượt trận cuối cùng giai đoạn vòng bảng siêu giải đấu FIVB Nations League (VNL).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T23:46:06.723985+07:00",
+      "fetched": "2026-07-12T23:46:06.724042+07:00"
+    },
+    {
+      "id": "33f491799b41b041181059ed70fc438a",
+      "title": "Sau 5 năm, Bộ trưởng Ngoại giao các nước ASEAN và Myanmar lần đầu gặp trực tiếp",
+      "link": "https://tuoitre.vn/sau-5-nam-bo-truong-ngoai-giao-cac-nuoc-asean-va-myanmar-lan-dau-gap-truc-tiep-100260712203834115.htm",
+      "summary": "Cuộc gặp tại Bangkok ngày 12-7 đánh dấu cuộc tiếp xúc trực tiếp cấp cao nhất giữa ASEAN với chính quyền Myanmar kể từ năm 2021.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T23:46:06.723915+07:00",
+      "fetched": "2026-07-12T23:46:06.723974+07:00"
+    },
+    {
+      "id": "d7d90c43bd3e1b78b1db72da52b388e7",
+      "title": "Myanmar cam kết sẽ chăm sóc bà Aung San Suu Kyi chu đáo",
+      "link": "https://tuoitre.vn/myanmar-cam-ket-se-cham-soc-ba-aung-san-suu-kyi-chu-dao-100260712204951329.htm",
+      "summary": "Ngày 12-7, Myanmar thông báo rằng sức khỏe bà Aung San Suu Kyi vẫn ổn và cam kết sẽ chăm sóc bà chu đáo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T23:46:06.723846+07:00",
+      "fetched": "2026-07-12T23:46:06.723905+07:00"
+    },
+    {
+      "id": "d3554a10a7ad674d048cebf64e7ed3f2",
+      "title": "Đà Nẵng huy động bộ đội tìm kiếm hài cốt 8 liệt sĩ trong hang đá",
+      "link": "https://tuoitre.vn/da-nang-huy-dong-bo-doi-tim-kiem-hai-cot-8-liet-si-trong-hang-da-100260712205832963.htm",
+      "summary": "Ngày 12-7, Ban Chỉ đạo về tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ TP Đà Nẵng tổ chức lễ động thổ tìm kiếm, quy tập hài cốt liệt sĩ tại hang Đá Sập (hang Thương nghiệp K600), thôn Đại Đồng, xã Hà Nha.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T23:46:06.723772+07:00",
+      "fetched": "2026-07-12T23:46:06.723835+07:00"
+    },
+    {
+      "id": "7b61353aa39dc18bd3910b071787be02",
+      "title": "Hàn Quốc nhờ Triều Tiên hỗ trợ tìm thủy thủ mất tích trên biển",
+      "link": "https://tuoitre.vn/han-quoc-nho-trieu-tien-ho-tro-tim-thuy-thu-mat-tich-tren-bien-100260712212406517.htm",
+      "summary": "Hàn Quốc đã đề nghị Triều Tiên hỗ trợ tìm kiếm một thủy thủ hải quân, người được cho là đã trôi dạt qua Đường giới hạn phía Bắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T23:46:06.723693+07:00",
+      "fetched": "2026-07-12T23:46:06.723760+07:00"
+    },
+    {
+      "id": "b86dc2c1993741db0cd66a8d3ef55db5",
+      "title": "Khi người khiếm thị đến sân 'nghe' bóng đá",
+      "link": "https://tuoitre.vn/khi-nguoi-khiem-thi-den-san-nghe-bong-da-100260712215059523.htm",
+      "summary": "Giải bóng đá thiếu niên, nhi đồng TP.HCM - Cúp HTV 2026 đã đón những cổ động viên khiếm thị lần đầu đến sân trải nghiệm một trận đấu bóng đá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T23:46:06.723523+07:00",
+      "fetched": "2026-07-12T23:46:06.723679+07:00"
+    },
     {
       "id": "3fc381c5dcfc04615930ae512f67e372",
       "title": "Đắk Lắk bổ sung hơn 2.700 chỉ tiêu tuyển sinh vào lớp 10 công lập",
@@ -423,6 +513,86 @@ window.newsData_2026_07_12 = {
       "fetched": "2026-07-12T16:51:25.627966+07:00"
     },
     {
+      "id": "a66f644daf98127a6e4c5d9c2a37c386",
+      "title": "Khi quyền lực sợ đổi mới",
+      "link": "https://vnexpress.net/khi-quyen-luc-so-doi-moi-5096580.html",
+      "summary": "Tôi ngồi nghe một chủ nhiệm đề tài ở trường đại học kể chuyện anh mất nguyên một học kỳ chỉnh sửa dự toán kinh phí, vì khoản mua vật tư thí nghiệm bị yêu cầu tách nhỏ theo đúng mã ngành, đúng danh mục, dù tổng số tiền không đổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T16:22:44+07:00",
+      "fetched": "2026-07-12T23:46:02.320225+07:00"
+    },
+    {
+      "id": "503cb09f67e44539055c1a5c0efcd793",
+      "title": "Sáu doanh nghiệp bán hàng đa cấp bị phạt hơn 1,3 tỷ đồng",
+      "link": "https://vnexpress.net/sau-doanh-nghiep-ban-hang-da-cap-bi-phat-hon-1-3-ty-dong-5096567.html",
+      "summary": "Sáu doanh nghiệp đa cấp bị phát hiện vi phạm trong hoạt động kinh doanh, bị xử phạt tổng cộng 1,3 tỷ đồng trong năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T15:58:11+07:00",
+      "fetched": "2026-07-12T23:46:02.320402+07:00"
+    },
+    {
+      "id": "503cb09f67e44539055c1a5c0efcd793",
+      "title": "Sáu doanh nghiệp bán hàng đa cấp bị phạt hơn 1,3 tỷ đồng",
+      "link": "https://vnexpress.net/sau-doanh-nghiep-ban-hang-da-cap-bi-phat-hon-1-3-ty-dong-5096567.html",
+      "summary": "Sáu doanh nghiệp đa cấp bị phát hiện vi phạm trong hoạt động kinh doanh, bị xử phạt tổng cộng 1,3 tỷ đồng trong năm 2025.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-12T15:58:11+07:00",
+      "fetched": "2026-07-12T23:46:09.290583+07:00"
+    },
+    {
+      "id": "a43b12f80a72f60354c1c2f1cfac3a2d",
+      "title": "Hà Nội dự kiến chi hơn 75.000 tỷ đồng cải tạo sông Nhuệ",
+      "link": "https://vnexpress.net/ha-noi-du-kien-chi-hon-75-000-ty-dong-cai-tao-song-nhue-5096569.html",
+      "summary": "Hà Nội dự kiến đầu tư hơn 75.000 tỷ đồng cải tạo toàn diện sông Nhuệ, gồm nạo vét, kè bờ, thu gom và xử lý nước thải, xây dựng hạ tầng giao thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T15:43:54+07:00",
+      "fetched": "2026-07-12T23:46:02.320594+07:00"
+    },
+    {
+      "id": "26a4f9723bb94d8b4d434118b6bcb2ae",
+      "title": "Ông Zelensky miễn nhiệm Thủ tướng Ukraine",
+      "link": "https://vnexpress.net/ong-zelensky-mien-nhiem-thu-tuong-ukraine-5096574.html",
+      "summary": "Tổng thống Zelensky thông báo tiến hành cải tổ nội các, thay thế Thủ tướng Yulia Svyrydenko và lãnh đạo một số cơ quan hành pháp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T15:41:35+07:00",
+      "fetched": "2026-07-12T23:46:02.320759+07:00"
+    },
+    {
+      "id": "26a4f9723bb94d8b4d434118b6bcb2ae",
+      "title": "Ông Zelensky miễn nhiệm Thủ tướng Ukraine",
+      "link": "https://vnexpress.net/ong-zelensky-mien-nhiem-thu-tuong-ukraine-5096574.html",
+      "summary": "Tổng thống Zelensky thông báo tiến hành cải tổ nội các, thay thế Thủ tướng Yulia Svyrydenko và lãnh đạo một số cơ quan hành pháp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-12T15:41:35+07:00",
+      "fetched": "2026-07-12T23:46:08.351886+07:00"
+    },
+    {
+      "id": "b39efc08e7ff9e091e13381d3c69e8de",
+      "title": "Lửa bốc ngùn ngụt, bao trùm căn nhà 3 tầng ở Gò Vấp",
+      "link": "https://thanhnien.vn/lua-boc-ngun-ngut-bao-trum-can-nha-3-tang-o-go-vap-185260712214137833.htm",
+      "summary": "Thấy ngọn lửa từ tầng trệt căn nhà trên đường Phan Văn Trị (phường Gò Vấp, TP.HCM) bùng lên dữ dội, nhiều hộ dân xung quanh hốt hoảng ôm đồ đạc, tháo chạy ra đường vì sợ cháy lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T15:38:00+07:00",
+      "fetched": "2026-07-12T23:46:05.044634+07:00"
+    },
+    {
+      "id": "99e94e56a0d9671145521a83b0a71475",
+      "title": "Prima Bay khai trương căn hộ mẫu, đón nhịp tăng trưởng mới của thị trường Quảng Ninh",
+      "link": "https://thanhnien.vn/prima-bay-khai-truong-can-ho-mau-don-nhip-tang-truong-moi-cua-thi-truong-quang-ninh-18526071218435569.htm",
+      "summary": "Ngày 9.7.2026, BIM Land chính thức khai trương căn hộ mẫu của tòa tháp trước vịnh Prima Bay tại Khu đô thị vịnh biển Halong Marina (Quảng Ninh), mang đến những trải nghiệm đầu tiên về mô hình căn hộ nghỉ dưỡng theo phong cách khách sạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T15:05:00+07:00",
+      "fetched": "2026-07-12T23:46:05.044813+07:00"
+    },
+    {
       "id": "946ca275bcb2523196b5b75682cd1dd5",
       "title": "Phá đường dây môi giới mại dâm, mỗi lần đi tour giá đến 150 triệu đồng/lần",
       "link": "https://tuoitre.vn/pha-duong-day-moi-gioi-mai-dam-moi-lan-di-tour-gia-den-150-trieu-dong-lan-100260712131254513.htm",
@@ -571,6 +741,36 @@ window.newsData_2026_07_12 = {
       "category": "Tổng hợp",
       "published": "2026-07-12T14:59:32.319713+07:00",
       "fetched": "2026-07-12T14:59:32.319857+07:00"
+    },
+    {
+      "id": "b47027d10e854725ceaf3128144efa9c",
+      "title": "Cuộc sống của Hồ Văn Cường ở tuổi 23",
+      "link": "https://thanhnien.vn/cuoc-song-cua-ho-van-cuong-o-tuoi-23-185260712213949756.htm",
+      "summary": "Ngoài biểu diễn phục vụ khán giả, Hồ Văn Cường dành thời gian rảnh để thực hiện những sở thích cá nhân. Anh vừa đăng tải clip chia sẻ về cuộc sống của mình trên kênh YouTube.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T14:58:00+07:00",
+      "fetched": "2026-07-12T23:46:05.044971+07:00"
+    },
+    {
+      "id": "49d3576bf7eb9596cde36fce18b6d2b4",
+      "title": "Ukraine thừa nhận có 'kho vũ khí trái phép' gần khu dân cư ở Kiev",
+      "link": "https://vnexpress.net/ukraine-thua-nhan-co-kho-vu-khi-trai-phep-gan-khu-dan-cu-o-kiev-5096557.html",
+      "summary": "Tổng thống Zelensky xác nhận tập đoàn nhà nước Ukroboronprom đặt kho đạn trái phép ở thành phố Vyshneve, gây thiệt hại lớn khi bị Nga tập kích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T14:23:52+07:00",
+      "fetched": "2026-07-12T23:46:02.320913+07:00"
+    },
+    {
+      "id": "49d3576bf7eb9596cde36fce18b6d2b4",
+      "title": "Ukraine thừa nhận có 'kho vũ khí trái phép' gần khu dân cư ở Kiev",
+      "link": "https://vnexpress.net/ukraine-thua-nhan-co-kho-vu-khi-trai-phep-gan-khu-dan-cu-o-kiev-5096557.html",
+      "summary": "Tổng thống Zelensky xác nhận tập đoàn nhà nước Ukroboronprom đặt kho đạn trái phép ở thành phố Vyshneve, gây thiệt hại lớn khi bị Nga tập kích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-12T14:23:52+07:00",
+      "fetched": "2026-07-12T23:46:08.352064+07:00"
     },
     {
       "id": "76cce7a7b51dac654de8f55021089446",
