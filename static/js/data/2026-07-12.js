@@ -1,7 +1,157 @@
 window.newsData_2026_07_12 = {
   "date": "2026-07-12",
-  "lastUpdated": "2026-07-12T08:48:02.636301+07:00",
+  "lastUpdated": "2026-07-12T12:17:36.025257+07:00",
   "articles": [
+    {
+      "id": "81b6456b9264f9460b313e6e4867e44e",
+      "title": "Pharmacity đồng hành hỗ trợ người bệnh mạn tính chủ động chăm sóc sức khỏe",
+      "link": "https://tuoitre.vn/pharmacity-dong-hanh-ho-tro-nguoi-benh-man-tinh-chu-dong-cham-soc-suc-khoe-100260711120514972.htm",
+      "summary": "Pharmacity không ngừng phát triển các giải pháp từ dịch vụ tại nhà thuốc đến ứng dụng công nghệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T12:17:29.134415+07:00",
+      "fetched": "2026-07-12T12:17:29.134463+07:00"
+    },
+    {
+      "id": "505b0a923f3e706df1e0bb33f6f0b4b4",
+      "title": "Saigontourist Group hướng tới mục tiêu phát triển hai con số",
+      "link": "https://tuoitre.vn/saigontourist-group-huong-toi-muc-tieu-phat-trien-hai-con-so-100260712084108898.htm",
+      "summary": "Saigontourist Group công bố kết quả kinh doanh 6 tháng đầu năm 2026 với doanh thu 9.520 tỷ đồng, lợi nhuận trước thuế 2.570 tỷ đồng, khẳng định bước chuyển quan trọng trong tư duy quản trị, lấy đổi mới sáng tạo, chuyển đổi số làm động lực tăng trưởng bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T12:17:29.134361+07:00",
+      "fetched": "2026-07-12T12:17:29.134406+07:00"
+    },
+    {
+      "id": "5bbb27e371aa05942d4c4841c10b0e22",
+      "title": "Hành trình về nguồn 'Côn Đảo - Khát vọng xanh, tri ân và gắn kết'",
+      "link": "https://tuoitre.vn/hanh-trinh-ve-nguon-con-dao-khat-vong-xanh-tri-an-va-gan-ket-100260712084556919.htm",
+      "summary": "Hành trình về nguồn \"Côn Đảo - Khát vọng xanh, tri ân và gắn kết\" giúp bạn trẻ ôn lại truyền thống uống nước nhớ nguồn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T12:17:29.134303+07:00",
+      "fetched": "2026-07-12T12:17:29.134352+07:00"
+    },
+    {
+      "id": "3d5460f7f4c6d5a2e029428e016283b1",
+      "title": "Người hùng Bellingham 'đốp chát' HLV Tuchel ngay trước sóng truyền hình",
+      "link": "https://tuoitre.vn/nguoi-hung-bellingham-dop-chat-hlv-tuchel-ngay-truoc-song-truyen-hinh-100260712084344875.htm",
+      "summary": "Dù tuyển Anh thắng kịch tính Na Uy để giành vé vào bán kết World Cup 2026, HLV Thomas Tuchel và người hùng Jude Bellingham lại tỏ dấu hiệu bất đồng ý kiến trong cuộc phỏng vấn sau trận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T12:17:29.134245+07:00",
+      "fetched": "2026-07-12T12:17:29.134295+07:00"
+    },
+    {
+      "id": "0f5287454b5372fd32f419d4bb3ae9b5",
+      "title": "Sự đánh đồng giữa trách nhiệm quản lý với quan điểm cá nhân",
+      "link": "https://tuoitre.vn/su-danh-dong-giua-trach-nhiem-quan-ly-voi-quan-diem-ca-nhan-100260712084003197.htm",
+      "summary": "Phê bình cần hướng tới việc làm rõ sự thật và nâng cao trách nhiệm, chứ không phải kích động tâm lý đám đông nhằm hạ thấp danh dự của cá nhân, tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T12:17:29.134187+07:00",
+      "fetched": "2026-07-12T12:17:29.134236+07:00"
+    },
+    {
+      "id": "bfc2c65a57d92015a1e0ecc902c20ba2",
+      "title": "Bellingham tiếp nối kỳ tích của huyền thoại Pele",
+      "link": "https://tuoitre.vn/bellingham-tiep-noi-ky-tich-cua-huyen-thoai-pele-100260712090659758.htm",
+      "summary": "Màn trình diễn xuất sắc trước Na Uy giúp Bellingham trở thành cầu thủ trẻ thứ hai ghi được cú đúp trở lên trong hai trận đấu ở vòng loại trực tiếp World Cup, chỉ xếp sau “Vua bóng đá” Pele.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T12:17:29.134129+07:00",
+      "fetched": "2026-07-12T12:17:29.134178+07:00"
+    },
+    {
+      "id": "aa8a1431307cf1ba707f40f5f46f00cb",
+      "title": "Người đàn ông bị đâm tử vong trên tỉnh lộ 43 nghi do mâu thuẫn nợ nần",
+      "link": "https://tuoitre.vn/nguoi-dan-ong-bi-dam-tu-vong-tren-tinh-lo-43-nghi-do-mau-thuan-no-nan-100260712091502597.htm",
+      "summary": "Rạng sáng 12-7, một vụ án mạng xảy ra trên tỉnh lộ 43, khu vực giáp ranh giữa phường Bình Hòa và phường Tam Bình, TP.HCM, khiến một người đàn ông tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T12:17:29.134058+07:00",
+      "fetched": "2026-07-12T12:17:29.134119+07:00"
+    },
+    {
+      "id": "4015403bf61aa7c608a2e30fc75e2083",
+      "title": "Hỗ trợ tàu cá gặp nạn trên biển Trường Sa, 9 ngư dân an toàn vào âu tàu đảo Đá Tây",
+      "link": "https://tuoitre.vn/ho-tro-tau-ca-gap-nan-tren-bien-truong-sa-9-ngu-dan-an-toan-vao-au-tau-dao-da-tay-10026071209164665.htm",
+      "summary": "9 ngư dân và tàu cá hư hỏng trên biển được lực lượng cảnh sát biển hỗ trợ, lai kéo đưa về âu tàu đảo Đá Tây (đặc khu Trường Sa) an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T12:17:29.134000+07:00",
+      "fetched": "2026-07-12T12:17:29.134049+07:00"
+    },
+    {
+      "id": "4a0ffa688d0c2e9fccbc6a9788d69546",
+      "title": "Neymar tranh giải 'thần bài' sau khi tuyển Brazil sớm bị loại ở World Cup 2026",
+      "link": "https://tuoitre.vn/neymar-tranh-giai-than-bai-sau-khi-tuyen-brazil-som-bi-loai-o-world-cup-2026-100260712092555445.htm",
+      "summary": "Sau khi Brazil sớm bị loại từ vòng 16 đội World Cup 2026, siêu sao 34 tuổi Neymar đã đăng ký tham gia giải đánh bài poker ở Mỹ với phí tham gia ước tính khoảng 10.000 USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T12:17:29.133942+07:00",
+      "fetched": "2026-07-12T12:17:29.133991+07:00"
+    },
+    {
+      "id": "2310d7793dbd4953d1bd2f66bb5cec1a",
+      "title": "Vụ lật ca nô ở Phú Quốc: Tập trung hỗ trợ y tế và xác định danh tính nạn nhân",
+      "link": "https://tuoitre.vn/vu-lat-ca-no-o-phu-quoc-tap-trung-ho-tro-y-te-va-xac-dinh-danh-tinh-nan-nhan-100260712085013408.htm",
+      "summary": "Các du khách Ấn Độ gặp nạn lật ca nô ở hòn Mây Rút Ngoài (An Thới, đặc khu Phú Quốc, tỉnh An Giang) đang được địa phương tập trung hỗ trợ và xác định danh tính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T12:17:29.133884+07:00",
+      "fetched": "2026-07-12T12:17:29.133934+07:00"
+    },
+    {
+      "id": "fa210349855a4af2f785bf5531f6b8a6",
+      "title": "Lợi dụng mối quan hệ với cựu Bí thư tỉnh Lào Cai, cựu phó giám đốc hưởng lợi 6,1 tỉ đồng",
+      "link": "https://tuoitre.vn/loi-dung-moi-quan-he-voi-cuu-bi-thu-tinh-lao-cai-cuu-pho-giam-doc-huong-loi-61-ti-dong-100260712093929497.htm",
+      "summary": "Nguyễn Ngọc Khiêm đã lợi dụng ảnh hưởng từ mối quan hệ với cựu Bí thư Tỉnh ủy Lào Cai Nguyễn Văn Vịnh để tác động lãnh đạo tỉnh cấp hạn ngạch xuất khẩu quặng cho doanh nghiệp, qua đó hơn 6,1 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T12:17:29.133824+07:00",
+      "fetched": "2026-07-12T12:17:29.133875+07:00"
+    },
+    {
+      "id": "fe678570a00d69e691e9ab2155fa4785",
+      "title": "Kodansha đưa Attack on Titan, Blue Lock vào cuộc chiến chống truyện lậu ở Ấn Độ",
+      "link": "https://tuoitre.vn/kodansha-dua-attack-on-titan-blue-lock-vao-cuoc-chien-chong-truyen-lau-o-an-do-100260712085232514.htm",
+      "summary": "Nhà xuất bản Kodansha sẽ phát hành manga tại Ấn Độ từ mùa thu năm nay, mở đầu với Attack on Titan và Blue Lock. Động thái này nhằm mở rộng thị trường và hạn chế nạn truyện lậu tại quốc gia đông dân nhất thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T12:17:29.133763+07:00",
+      "fetched": "2026-07-12T12:17:29.133815+07:00"
+    },
+    {
+      "id": "365685d5080cbd7528aa69a72d214db4",
+      "title": "Quy định về cung cấp số dư tài khoản cho cơ quan thuế; Mua biển số ô tô trên mạng trùng với biển số thật",
+      "link": "https://tuoitre.vn/quy-dinh-ve-cung-cap-so-du-tai-khoan-cho-co-quan-thue-mua-bien-so-o-to-tren-mang-trung-voi-bien-so-that-100260710221326607.htm",
+      "summary": "Xử lý vụ ô tô lắp biển số giả giống biển số xe khác; Quy định về cung cấp số dư tài khoản của khách hàng cho cơ quan thuế; Khai báo lưu trú cho người thân đến nhà ở qua đêm... là những thông tin bạn đọc quan tâm tuần qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T12:17:29.133700+07:00",
+      "fetched": "2026-07-12T12:17:29.133754+07:00"
+    },
+    {
+      "id": "117baec25f130df6814540cc7b728219",
+      "title": "Bí thư đặc khu Phú Quốc: 'Du khách Ấn Độ rất cảm động khi được giúp đỡ'",
+      "link": "https://tuoitre.vn/bi-thu-dac-khu-phu-quoc-du-khach-an-do-rat-cam-dong-khi-duoc-giup-do-100260712101619294.htm",
+      "summary": "Ông Lê Quốc Anh, Bí thư Đảng ủy đặc khu Phú Quốc nói rằng những nạn nhân được cứu sống trong vụ lật ca nô đã tiếp tục hành trình du lịch trên đảo ngọc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T12:17:29.133629+07:00",
+      "fetched": "2026-07-12T12:17:29.133690+07:00"
+    },
+    {
+      "id": "675b09667d11db7f3fb4ba15b5110781",
+      "title": "Vụ lật ca nô tại Phú Quốc: Lãnh đạo cấp cao Việt Nam chia buồn sâu sắc với gia đình người bị nạn",
+      "link": "https://tuoitre.vn/vu-lat-ca-no-tai-phu-quoc-lanh-dao-cap-cao-viet-nam-chia-buon-sau-sac-voi-gia-dinh-nguoi-bi-nan-10026071210071879.htm",
+      "summary": "Việt Nam đã và đang khẩn trương điều trị cho người bị thương trong vụ lật ca nô tại Phú Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T12:17:29.133468+07:00",
+      "fetched": "2026-07-12T12:17:29.133603+07:00"
+    },
     {
       "id": "a678a957b04f589c6c05c69d0b5599ed",
       "title": "Tin tức sáng 12-7: Tổng giám đốc PNJ đăng ký mua vào 1 triệu cổ phiếu",
@@ -103,6 +253,316 @@ window.newsData_2026_07_12 = {
       "fetched": "2026-07-12T05:37:35.130688+07:00"
     },
     {
+      "id": "302766c41ec62b8028c16b7741d3353d",
+      "title": "Quán chè hơn 60 năm ở TP.HCM: Hương hoa nhài níu chân nhiều thế hệ khách",
+      "link": "https://thanhnien.vn/quan-che-hon-60-nam-o-tphcm-huong-hoa-nhai-niu-chan-nhieu-the-he-khach-185260704011733056.htm",
+      "summary": "Là một trong những quán chè lâu đời ở TP.HCM, Hiển Khánh vẫn giữ hương vị chè Bắc suốt hơn 60 năm và trở thành điểm hẹn quen thuộc của nhiều thế hệ thực khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T05:12:00+07:00",
+      "fetched": "2026-07-12T12:17:27.078771+07:00"
+    },
+    {
+      "id": "909d786214d2b916f9eda19d8676875f",
+      "title": "10 ô tô bán ít nhất tháng 6.2026: Ford Mustang Mach-E đứng đầu, Honda Civic góp mặt",
+      "link": "https://thanhnien.vn/10-o-to-ban-it-nhat-thang-62026-ford-mustang-mach-e-dung-dau-honda-civic-gop-mat-185260712025317048.htm",
+      "summary": "Trong nhóm 10 ô tô bán ít nhất Việt Nam tháng 6 vừa qua đa phần là các mẫu xe Nhật Bản như Toyota, Suzuki và Isuzu. Ngoài ra, Hyundai cũng có 2 mẫu xe góp mặt trong danh sách này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T05:11:00+07:00",
+      "fetched": "2026-07-12T12:17:27.078927+07:00"
+    },
+    {
+      "id": "7f5cf18275b4879d816c9cf91bfdf90c",
+      "title": "Nguyên Đại sứ Mỹ Marc Knapper tham gia Tổ tư vấn Trung tâm tài chính quốc tế",
+      "link": "https://thanhnien.vn/nguyen-dai-su-my-marc-knapper-tham-gia-to-tu-van-trung-tam-tai-chinh-quoc-te-185260711200801337.htm",
+      "summary": "Trung tâm tài chính quốc tế Việt Nam tại TP.HCM (VIFC-HCMC) ra mắt Tổ tư vấn với 13 thành viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T05:07:00+07:00",
+      "fetched": "2026-07-12T12:17:27.079061+07:00"
+    },
+    {
+      "id": "8e33421dbe249cb1acc548e49f5e5b0f",
+      "title": "Hành trình vượt khó của nam sinh TP.HCM: 'Ba là nguồn động lực để con bước tiếp'",
+      "link": "https://thanhnien.vn/hanh-trinh-vuot-kho-cua-nam-sinh-tphcm-ba-la-nguon-dong-luc-de-con-buoc-tiep-185260711090205618.htm",
+      "summary": "Mất cha khi còn quá nhỏ, một nam sinh TP.HCM đã nỗ lực vượt khó, giành học bổng để tiếp tục con đường học vấn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T05:03:00+07:00",
+      "fetched": "2026-07-12T12:17:27.079190+07:00"
+    },
+    {
+      "id": "2c27a7636f6ad8b8f168aada0915e19a",
+      "title": "Xác định 4 đội vào bán kết World Cup 2026",
+      "link": "https://vnexpress.net/xac-dinh-4-doi-vao-ban-ket-world-cup-2026-5096463.html",
+      "summary": "Pháp - Tây Ban Nha và Anh - Argentina là hai trận bán kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-12T05:02:02+07:00",
+      "fetched": "2026-07-12T12:17:36.018732+07:00"
+    },
+    {
+      "id": "9250ae59acde24c1fdb9e1c98858605b",
+      "title": "Sinner - Zverev: Lịch sử Wimbledon gọi tên ai?",
+      "link": "https://vnexpress.net/sinner-zverev-lich-su-wimbledon-goi-ten-ai-5096392.html",
+      "summary": "Jannik Sinner hướng đến việc bảo vệ danh hiệu, còn Alexander Zverev bước vào chung kết Wimbledon 2026 với mục tiêu lần đầu đăng quang ở Grand Slam sân cỏ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-12T05:00:00+07:00",
+      "fetched": "2026-07-12T12:17:36.018886+07:00"
+    },
+    {
+      "id": "d26904cb3a6a5e9423c14813b48baff7",
+      "title": "Chuyển động 12h: Đề xuất xử phạt không biên bản với 'phạt nguội' | Mỹ lại không kích Iran",
+      "link": "https://thanhnien.vn/chuyen-dong-12h-de-xuat-xu-phat-khong-bien-ban-voi-phat-nguoi-my-lai-khong-kich-iran-185260712114652372.htm",
+      "summary": "Bệnh viện Chợ Rẫy đưa ECMO ra Phú Quốc cứu nạn nhân lật ca nô; Đề xuất xử phạt không lập biên bản với cả 'phạt nguội; Mỹ lại không kích Iran sau sự cố mới tại eo biển Hormuz; ... là những tin tức được đề cập trong bản tin Chuyển động 12h ngày 12.7.2026 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T04:58:00+07:00",
+      "fetched": "2026-07-12T12:17:27.079319+07:00"
+    },
+    {
+      "id": "77a56623f69d4334ea6619b489c8fb4e",
+      "title": "Những nghịch lý 'bệnh thành tích' từ gian lận thi cử ở Tuyên Quang",
+      "link": "https://thanhnien.vn/nhung-nghich-ly-benh-thanh-tich-tu-gian-lan-thi-cu-o-tuyen-quang-185260712095315462.htm",
+      "summary": "Khởi tố những người trực tiếp gian lận thi cử ở Tuyên Quang là đúng pháp luật và cần thiết cho kỷ cương. Nhưng nếu năm nào xã hội cũng chỉ chờ đến lúc một điểm thi phát nổ để rồi lại khởi tố vài giáo viên thì chúng ta đang lặp lại một nghi thức chứ không phải đang chữa bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T04:58:00+07:00",
+      "fetched": "2026-07-12T12:17:27.079450+07:00"
+    },
+    {
+      "id": "0b445e1cf0ebf2be9074acecc3928a81",
+      "title": "Sơ đồ thi đấu bán kết World Cup 2026 mới nhất: Hai cặp đấu đầy duyên nợ",
+      "link": "https://thanhnien.vn/so-do-thi-dau-ban-ket-world-cup-2026-moi-nhat-hai-cap-dau-day-duyen-no-185260712115121961.htm",
+      "summary": "Bốn đội bóng xuất sắc nhất World Cup 2026 đã lộ diện, tạo nên vòng bán kết trong mơ với những cuộc thư hùng đỉnh cao được người hâm mộ toàn cầu chờ đón.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T04:53:00+07:00",
+      "fetched": "2026-07-12T12:17:27.079580+07:00"
+    },
+    {
+      "id": "650660a011141e809d1bf453841d07f7",
+      "title": "Messi chỉ mặt, nói gì với trọng tài Bồ Đào Nha trận Argentina thắng Thụy Sĩ?",
+      "link": "https://thanhnien.vn/messi-chi-mat-noi-gi-voi-trong-tai-bo-dao-nha-tran-argentina-thang-thuy-si-185260712115001261.htm",
+      "summary": "Một phát hiện gây sốc khi Messi đã dùng tay chỉ mặt trọng tài người Bồ Đào Nha, Joao Pinheiro trong một pha tranh cãi nảy lửa ở hiệp một trận tứ kết Argentina thắng Thụy Sĩ tỷ số 3-1 sau hiệp phụ, ngày 12.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T04:53:00+07:00",
+      "fetched": "2026-07-12T12:17:27.079721+07:00"
+    },
+    {
+      "id": "9ed394d0a630160a74bd975971547329",
+      "title": "Nữ diễn viên từng khủng hoảng vì bị cắt vai, yêu cầu rời đoàn",
+      "link": "https://thanhnien.vn/nu-dien-vien-tung-khung-hoang-vi-bi-cat-vai-yeu-cau-roi-doan-185260712112810076.htm",
+      "summary": "Trước khi đạt được những 'quả ngọt' trong nghề, Kiều Ngân từng đối diện với không ít thử thách, điển hình là việc bị cắt vai ngay phút chót.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T04:53:00+07:00",
+      "fetched": "2026-07-12T12:17:27.079848+07:00"
+    },
+    {
+      "id": "d33dca5178d0392cf5ff993442f5f567",
+      "title": "Bệnh nhân ung thư tìm thấy ‘người nhà’ trong lớp yoga đặc biệt ở TP.HCM",
+      "link": "https://thanhnien.vn/benh-nhan-ung-thu-tim-thay-nguoi-nha-trong-lop-yoga-dac-biet-o-tphcm-185260711170707138.htm",
+      "summary": "Vào mỗi thứ bảy, lớp yoga đặc biệt ở TP.HCM lại tiếp đón các bệnh nhân ung thư. Họ cùng mở lòng chia sẻ, rèn luyện sức khỏe và trở thành 'người nhà' của nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T04:52:00+07:00",
+      "fetched": "2026-07-12T12:17:27.079976+07:00"
+    },
+    {
+      "id": "178515b8677a1c662150fc7b54901769",
+      "title": "Iran tấn công loạt căn cứ vùng Vịnh đáp trả Mỹ",
+      "link": "https://thanhnien.vn/iran-tan-cong-loat-can-cu-vung-vinh-dap-tra-my-185260712114738029.htm",
+      "summary": "Tình hình chiến sự tại Trung Đông leo thang dữ dội với một loạt tấn công qua lại giữa Iran và Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T04:49:00+07:00",
+      "fetched": "2026-07-12T12:17:27.080104+07:00"
+    },
+    {
+      "id": "c6fd64d8c4a2b191b74bc6143e26694b",
+      "title": "Điểm sàn Trường ĐH Ngân hàng TP.HCM: Chú ý điểm môn toán, ngữ văn với ngành luật",
+      "link": "https://thanhnien.vn/diem-san-truong-dh-ngan-hang-tphcm-chu-y-diem-mon-toan-ngu-van-voi-nganh-luat-185260712112412348.htm",
+      "summary": "Trường ĐH Ngân hàng TP.HCM thông báo điểm sàn xét tuyển các ngành ĐH theo từng phương thức. Trong đó, các ngành luật thí sinh cần lưu ý quy định về điểm tối thiểu cần đạt được của môn toán và ngữ văn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T04:49:00+07:00",
+      "fetched": "2026-07-12T12:17:27.080231+07:00"
+    },
+    {
+      "id": "f236d2ba7e20cfb4f4523d470c9489ff",
+      "title": "Báo Thụy Sĩ tiếc nuối vì đội nhà bị Argentina loại, thán phục khoảnh khắc xuất thần của Alvarez",
+      "link": "https://thanhnien.vn/bao-thuy-si-tiec-nuoi-vi-doi-nha-bi-argentina-loai-than-phuc-khoanh-khac-xuat-than-cua-alvarez-185260712112732948.htm",
+      "summary": "Đội tuyển Thụy Sĩ đã dừng bước ở tứ kết World Cup 2026 sau thất bại 1-3 trước Argentina trong hiệp phụ. Truyền thông Thụy Sĩ đồng loạt bày tỏ sự tiếc nuối khi đội nhà chơi đầy quả cảm, nhưng cuối cùng vẫn gục ngã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T04:46:00+07:00",
+      "fetched": "2026-07-12T12:17:27.080360+07:00"
+    },
+    {
+      "id": "cfa05ad9e23f7207eff02926fd889aa9",
+      "title": "Chàng trai miền Tây thần tượng danh ca Trường Vũ, vừa giành á quân cuộc thi bolero",
+      "link": "https://thanhnien.vn/chang-trai-mien-tay-than-tuong-danh-ca-truong-vu-vua-gianh-a-quan-cuoc-thi-bolero-18526071209353644.htm",
+      "summary": "Trước khi giành á quân 'Tiếng hát bolero Việt Nam 2026', Hoàng Anh từng học ngành dược, nối nghiệp gia đình làm nghề kim hoàn và phải vượt qua biến cố chấn thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T04:45:00+07:00",
+      "fetched": "2026-07-12T12:17:27.080489+07:00"
+    },
+    {
+      "id": "88a6f2f82f643f1e5e4e816a97e453f6",
+      "title": "Những yếu tố sẽ tác động đến điểm chuẩn đại học năm 2026",
+      "link": "https://thanhnien.vn/nhung-yeu-to-se-tac-dong-den-diem-chuan-dai-hoc-nam-2026-185260711210149251.htm",
+      "summary": "Nhìn lại dữ liệu điểm thi tốt nghiệp THPT 2026, mời đại diện các trường phân tích sơ bộ tình hình, đặc biệt là các khối thi truyền thống như A00, A01, B00, C00, D01. Dữ liệu này có tác động thế nào tới điểm chuẩn đại học năm 2026?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T04:45:00+07:00",
+      "fetched": "2026-07-12T12:17:27.080629+07:00"
+    },
+    {
+      "id": "0dc65316c2112449ab4e85567d5a2ea9",
+      "title": "Bố của Haaland: 'Trọng tài đã thắng'",
+      "link": "https://vnexpress.net/bo-cua-haaland-trong-tai-da-thang-5096455.html",
+      "summary": "Ông Alf-Inge - bố của tiền đạo Erling Haaland - cho rằng tổ trọng tài đã mắc quá nhiều sai lầm theo hướng bất lợi cho Na Uy trong trận thua ngược Anh ở tứ kết World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T04:42:13+07:00",
+      "fetched": "2026-07-12T12:17:23.734030+07:00"
+    },
+    {
+      "id": "0dc65316c2112449ab4e85567d5a2ea9",
+      "title": "Bố của Haaland: 'Trọng tài đã thắng'",
+      "link": "https://vnexpress.net/bo-cua-haaland-trong-tai-da-thang-5096455.html",
+      "summary": "Ông Alf-Inge - bố của tiền đạo Erling Haaland - cho rằng tổ trọng tài đã mắc quá nhiều sai lầm theo hướng bất lợi cho Na Uy trong trận thua ngược Anh ở tứ kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-12T04:42:13+07:00",
+      "fetched": "2026-07-12T12:17:36.019025+07:00"
+    },
+    {
+      "id": "7406358f3e0871a95857aa4255f7eae4",
+      "title": "Iran tập kích loạt mục tiêu ở vùng Vịnh đáp trả Mỹ",
+      "link": "https://vnexpress.net/iran-tap-kich-loat-muc-tieu-o-vung-vinh-dap-tra-my-5096456.html",
+      "summary": "Iran thông báo phóng tên lửa đạn đạo và UAV vào cơ sở quân sự Mỹ tại Jordan, Qatar, Kuwait, Bahrain và Oman, đáp trả cuộc không kích của Washington.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T04:40:45+07:00",
+      "fetched": "2026-07-12T12:17:23.734192+07:00"
+    },
+    {
+      "id": "7406358f3e0871a95857aa4255f7eae4",
+      "title": "Iran tập kích loạt mục tiêu ở vùng Vịnh đáp trả Mỹ",
+      "link": "https://vnexpress.net/iran-tap-kich-loat-muc-tieu-o-vung-vinh-dap-tra-my-5096456.html",
+      "summary": "Iran thông báo phóng tên lửa đạn đạo và UAV vào cơ sở quân sự Mỹ tại Jordan, Qatar, Kuwait, Bahrain và Oman, đáp trả cuộc không kích của Washington.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-12T04:40:45+07:00",
+      "fetched": "2026-07-12T12:17:30.353637+07:00"
+    },
+    {
+      "id": "c8d5368879afd32fcfaef754723d8169",
+      "title": "Hệ thống lưới thu hồi tên lửa tái sử dụng của Trung Quốc",
+      "link": "https://vnexpress.net/he-thong-luoi-thu-hoi-ten-lua-tai-su-dung-cua-trung-quoc-5096385.html",
+      "summary": "Sau khi phóng lên không gian, tầng thứ nhất của tên lửa Trường Chinh 10B đáp trở lại, được thu hồi bằng hệ thống lưới thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T04:31:39+07:00",
+      "fetched": "2026-07-12T12:17:23.734341+07:00"
+    },
+    {
+      "id": "c8d5368879afd32fcfaef754723d8169",
+      "title": "Hệ thống lưới thu hồi tên lửa tái sử dụng của Trung Quốc",
+      "link": "https://vnexpress.net/he-thong-luoi-thu-hoi-ten-lua-tai-su-dung-cua-trung-quoc-5096385.html",
+      "summary": "Sau khi phóng lên không gian, tầng thứ nhất của tên lửa Trường Chinh 10B đáp trở lại, được thu hồi bằng hệ thống lưới thành công.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-12T04:31:39+07:00",
+      "fetched": "2026-07-12T12:17:34.739326+07:00"
+    },
+    {
+      "id": "c66d2576fed19a6a47a858aeace3653f",
+      "title": "Vì sao Messi chảy máu mắt ở trận thắng Thụy Sĩ?",
+      "link": "https://vnexpress.net/vi-sao-messi-chay-mau-mat-o-tran-thang-thuy-si-5096460.html",
+      "summary": "Lionel Messi khiến người hâm mộ Argentina lo lắng khi vùng mắt phải chảy máu trong hiệp hai trận thắng Thụy Sĩ 3-1 ở tứ kết World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T04:22:54+07:00",
+      "fetched": "2026-07-12T12:17:23.734484+07:00"
+    },
+    {
+      "id": "c66d2576fed19a6a47a858aeace3653f",
+      "title": "Vì sao Messi chảy máu mắt ở trận thắng Thụy Sĩ?",
+      "link": "https://vnexpress.net/vi-sao-messi-chay-mau-mat-o-tran-thang-thuy-si-5096460.html",
+      "summary": "Lionel Messi khiến người hâm mộ Argentina lo lắng khi vùng mắt phải chảy máu trong hiệp hai trận thắng Thụy Sĩ 3-1 ở tứ kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-12T04:22:54+07:00",
+      "fetched": "2026-07-12T12:17:36.019159+07:00"
+    },
+    {
+      "id": "3c8f99dc744d3beb5923ccafdfe93345",
+      "title": "Lý do tác phẩm của Haruki Murakami được săn đón",
+      "link": "https://vnexpress.net/ly-do-tac-pham-cua-haruki-murakami-duoc-san-don-5094459.html",
+      "summary": "Haruki Murakami - một trong số tác giả được đọc nhiều nhất thế giới - có phong cách viết không trùng lặp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T04:14:46+07:00",
+      "fetched": "2026-07-12T12:17:23.734630+07:00"
+    },
+    {
+      "id": "84176a98e0289e78bbae0fcf642a2137",
+      "title": "10 đại học ở Hà Nội công bố ngành được cấp học bổng 3,7-5,5 triệu đồng/tháng",
+      "link": "https://vnexpress.net/10-dai-hoc-o-ha-noi-cong-bo-nganh-duoc-cap-hoc-bong-3-7-5-5-trieu-dong-thang-5095772.html",
+      "summary": "10 trường đại học đã công bố danh mục ngành, chương trình đào tạo khoa học cơ bản, kỹ thuật then chốt, công nghệ chiến lược được cấp học bổng theo Nghị định 179 của Chính phủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T04:05:00+07:00",
+      "fetched": "2026-07-12T12:17:23.734767+07:00"
+    },
+    {
+      "id": "ca6b57e27897c38fa6f695738307d9d3",
+      "title": "Tiền ăn 100.000 đồng mỗi người mỗi ngày của gia đình tôi",
+      "link": "https://vnexpress.net/gia-sinh-hoat-tang-bao-gia-tien-an-100-000-dong-moi-nguoi-cua-gia-dinh-toi-5096427.html",
+      "summary": "Bữa sáng một tô hủ tíu, bữa trưa trái cây, bữa chiều củ khoai lang, bữa tối mới ăn cơm, tính ra tiền ăn chỉ khoảng 100.000 đồng mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T03:55:02+07:00",
+      "fetched": "2026-07-12T12:17:23.734897+07:00"
+    },
+    {
+      "id": "c060083d14b715674cb9a4caefad85f0",
+      "title": "Hơn 3.000 căn nhà ở xã hội tại TP HCM có giá bán từ 16-26 triệu đồng mỗi m2",
+      "link": "https://vnexpress.net/hon-3-000-can-nha-o-xa-hoi-tai-tp-hcm-co-gia-ban-tu-16-26-trieu-dong-moi-m2-5096418.html",
+      "summary": "Hơn 3.000 sản phẩm tại dự án Nhà ở xã hội Hòa Phú vừa được duyệt giá bán, trong đó nhà liền kề khoảng 16,6 triệu đồng và căn hộ hơn 26 triệu đồng mỗi m2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T03:51:45+07:00",
+      "fetched": "2026-07-12T12:17:23.735026+07:00"
+    },
+    {
+      "id": "b566ad6e86f67896c5e95b1291104df1",
+      "title": "Luật mới khiến tiền đạo Thụy Sĩ nhận thẻ đỏ ở World Cup 2026",
+      "link": "https://vnexpress.net/luat-moi-khien-tien-dao-thuy-si-nhan-the-do-o-world-cup-2026-5096447.html",
+      "summary": "Trọng tài Joao Pinheiro áp dụng luật mới về VAR, để rút thẻ vàng thứ hai với Breel Embolo trong trận Thụy Sĩ gặp Argentina ở tứ kết World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T03:40:51+07:00",
+      "fetched": "2026-07-12T12:17:23.735158+07:00"
+    },
+    {
+      "id": "b566ad6e86f67896c5e95b1291104df1",
+      "title": "Luật mới khiến tiền đạo Thụy Sĩ nhận thẻ đỏ ở World Cup 2026",
+      "link": "https://vnexpress.net/luat-moi-khien-tien-dao-thuy-si-nhan-the-do-o-world-cup-2026-5096447.html",
+      "summary": "Trọng tài Joao Pinheiro áp dụng luật mới về VAR, để rút thẻ vàng thứ hai với Breel Embolo trong trận Thụy Sĩ gặp Argentina ở tứ kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-12T03:40:51+07:00",
+      "fetched": "2026-07-12T12:17:36.019290+07:00"
+    },
+    {
       "id": "1bb5b54ace3336cfd898f9d1ffe4caba",
       "title": "AI hỗ trợ hàng triệu phụ huynh Trung Quốc chọn trường, chọn ngành cho con",
       "link": "https://tuoitre.vn/ai-ho-tro-hang-trieu-phu-huynh-trung-quoc-chon-truong-chon-nganh-cho-con-100260711234119418.htm",
@@ -111,6 +571,156 @@ window.newsData_2026_07_12 = {
       "category": "Tổng hợp",
       "published": "2026-07-12T03:38:14.246233+07:00",
       "fetched": "2026-07-12T03:38:14.246371+07:00"
+    },
+    {
+      "id": "470ae9a5d130179b84f8f09b050b0ad6",
+      "title": "Di vật liệt sĩ ở công viên Lê Thị Riêng sau một tuần tìm kiếm",
+      "link": "https://vnexpress.net/di-vat-liet-si-o-cong-vien-le-thi-rieng-sau-mot-tuan-tim-kiem-5096282.html",
+      "summary": "Nhẫn vàng, bút máy, dép cao su... cùng nhiều hài cốt được tìm thấy sau một tuần khai quật, tìm kiếm ở công viên Lê Thị Riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T03:30:05+07:00",
+      "fetched": "2026-07-12T12:17:23.735290+07:00"
+    },
+    {
+      "id": "9701ce4f3829eda0e8517e29945bfa82",
+      "title": "Messi độc chiếm kỷ lục kiến tạo ở World Cup",
+      "link": "https://vnexpress.net/messi-doc-chiem-ky-luc-kien-tao-o-world-cup-5096444.html",
+      "summary": "Bàn mở tỷ số của Alexis MacAllister trước Thụy Sĩ ở tứ kết giúp Messi trở thành cầu thủ đầu tiên có 10 kiến tạo tại World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T03:17:04+07:00",
+      "fetched": "2026-07-12T12:17:23.735421+07:00"
+    },
+    {
+      "id": "9701ce4f3829eda0e8517e29945bfa82",
+      "title": "Messi độc chiếm kỷ lục kiến tạo ở World Cup",
+      "link": "https://vnexpress.net/messi-doc-chiem-ky-luc-kien-tao-o-world-cup-5096444.html",
+      "summary": "Bàn mở tỷ số của Alexis MacAllister trước Thụy Sĩ ở tứ kết giúp Messi trở thành cầu thủ đầu tiên có 10 kiến tạo tại World Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-12T03:17:04+07:00",
+      "fetched": "2026-07-12T12:17:36.019422+07:00"
+    },
+    {
+      "id": "7b5d5dbb3c7265e7716765568324c14a",
+      "title": "Cổ phiếu Vietnam Airlines được gỡ hạn chế giao dịch",
+      "link": "https://vnexpress.net/co-phieu-vietnam-airlines-duoc-go-han-che-giao-dich-5096409.html",
+      "summary": "Cổ phiếu HVN của Vietnam Airlines sẽ được đưa ra khỏi diện hạn chế giao dịch từ ngày 14/7, sau khi doanh nghiệp có hai năm liên tiếp báo lãi và vốn chủ sở hữu chuyển dương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T03:17:00+07:00",
+      "fetched": "2026-07-12T12:17:23.735548+07:00"
+    },
+    {
+      "id": "7b5d5dbb3c7265e7716765568324c14a",
+      "title": "Cổ phiếu Vietnam Airlines được gỡ hạn chế giao dịch",
+      "link": "https://vnexpress.net/co-phieu-vietnam-airlines-duoc-go-han-che-giao-dich-5096409.html",
+      "summary": "Cổ phiếu HVN của Vietnam Airlines sẽ được đưa ra khỏi diện hạn chế giao dịch từ ngày 14/7, sau khi doanh nghiệp có hai năm liên tiếp báo lãi và vốn chủ sở hữu chuyển dương.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-12T03:17:00+07:00",
+      "fetched": "2026-07-12T12:17:31.294923+07:00"
+    },
+    {
+      "id": "eacd53d1c974bdaf99440c4fd0a611cf",
+      "title": "Thi thể cạnh vết máu kéo dài ở ven đường",
+      "link": "https://vnexpress.net/thi-the-canh-vet-mau-keo-dai-o-ven-duong-5096440.html",
+      "summary": "Người đàn ông 36 tuổi được phát hiện tử vong ở ven tỉnh lộ 43, bên cạnh vết máu kéo dài ở ngã ba đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T03:12:18+07:00",
+      "fetched": "2026-07-12T12:17:23.735699+07:00"
+    },
+    {
+      "id": "0c66c8d0d5c0debc4fd47fc115c9ac79",
+      "title": "Gia đình David Beckham mừng tuyển Anh chiến thắng",
+      "link": "https://vnexpress.net/gia-dinh-david-beckham-mung-tuyen-anh-chien-thang-5096428.html",
+      "summary": "David Beckham và vợ con ăn mừng trên khán đài sân Hard Rock khi tuyển Anh chiến thắng ở Tứ kết World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T03:10:04+07:00",
+      "fetched": "2026-07-12T12:17:23.735838+07:00"
+    },
+    {
+      "id": "a7acdb825980d21c9768f1629588ac9f",
+      "title": "10 bang có chi phí sống rẻ nhất nước Mỹ",
+      "link": "https://vnexpress.net/10-bang-co-chi-phi-song-re-nhat-nuoc-my-5096355.html",
+      "summary": "Top 10 bang có chi phí sống thấp nhất nước Mỹ chủ yếu thuộc vùng Trung Tây và nội địa, nơi thưa dân, giá nhà thấp, với đứng đầu là Tây Virginia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T03:09:03+07:00",
+      "fetched": "2026-07-12T12:17:23.735968+07:00"
+    },
+    {
+      "id": "a7acdb825980d21c9768f1629588ac9f",
+      "title": "10 bang có chi phí sống rẻ nhất nước Mỹ",
+      "link": "https://vnexpress.net/10-bang-co-chi-phi-song-re-nhat-nuoc-my-5096355.html",
+      "summary": "Top 10 bang có chi phí sống thấp nhất nước Mỹ chủ yếu thuộc vùng Trung Tây và nội địa, nơi thưa dân, giá nhà thấp, với đứng đầu là Tây Virginia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-12T03:09:03+07:00",
+      "fetched": "2026-07-12T12:17:31.295076+07:00"
+    },
+    {
+      "id": "24ddc13c89838c3e439ca5bd4becfaff",
+      "title": "Tuchel và Bellingham trái ý khi miêu tả thắng lợi của Anh",
+      "link": "https://vnexpress.net/tuchel-va-bellingham-trai-y-khi-mieu-ta-thang-loi-cua-anh-5096441.html",
+      "summary": "HLV Thomas Tuchel và chủ nhân của hai bàn thắng Jude Bellingham không đồng quan điểm khi đánh giá về màn ngược dòng của Anh trước Na Uy ở tứ kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-12T03:08:08+07:00",
+      "fetched": "2026-07-12T12:17:36.019554+07:00"
+    },
+    {
+      "id": "f9c0589185fb634940c7f7ffc8d50178",
+      "title": "Bellingham nhận điểm 10 ở tứ kết World Cup",
+      "link": "https://vnexpress.net/bellingham-nhan-diem-10-o-tu-ket-world-cup-5096443.html",
+      "summary": "Jude Bellingham được báo Mỹ ESPN chấm điểm 10 tuyệt đối, sau khi ghi cả hai bàn giúp Anh thắng Na Uy 2-1 ở tứ kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-12T03:04:19+07:00",
+      "fetched": "2026-07-12T12:17:36.019694+07:00"
+    },
+    {
+      "id": "e1c114c887cf702121d156ab7fcbd62b",
+      "title": "Việt Nam chia buồn với Ấn Độ về vụ lật canô tại Phú Quốc",
+      "link": "https://vnexpress.net/viet-nam-chia-buon-voi-an-do-ve-vu-lat-cano-tai-phu-quoc-5096429.html",
+      "summary": "Lãnh đạo Việt Nam gửi điện chia buồn tới lãnh đạo Ấn Độ sau vụ lật canô tại Phú Quốc khiến 15 công dân nước này thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-12T02:45:56+07:00",
+      "fetched": "2026-07-12T12:17:30.353798+07:00"
+    },
+    {
+      "id": "d3d306288d940892de689da243c040c7",
+      "title": "Dung lượng pin của iPhone gập 'chưa đến 5.000 mAh'",
+      "link": "https://vnexpress.net/dung-luong-pin-cua-iphone-gap-chua-den-5-000-mah-5096092.html",
+      "summary": "Mẫu iPhone màn hình gập đầu tiên của Apple bị rò rỉ thông số pin 4.883 mAh, thấp hơn nhiều so với các tin đồn trước đó.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-12T02:00:00+07:00",
+      "fetched": "2026-07-12T12:17:34.739771+07:00"
+    },
+    {
+      "id": "0b307501554953993cf1130ae2db9fe7",
+      "title": "Bellingham, Kane cùng đi vào lịch sử World Cup",
+      "link": "https://vnexpress.net/bellingham-kane-cung-di-vao-lich-su-world-cup-5096425.html",
+      "summary": "Jude Bellingham và Harry Kane giúp Anh trở thành đội tuyển đầu tiên trong lịch sử có hai cầu thủ ghi từ sáu bàn trở lên ở một kỳ World Cup, sau trận thắng Na Uy 2-1 tại tứ kết.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-12T01:59:44+07:00",
+      "fetched": "2026-07-12T12:17:36.019826+07:00"
+    },
+    {
+      "id": "2d42f013d7f75427b7e1be5e882072b7",
+      "title": "Bộ trưởng Quốc phòng Mỹ: 'Iran phải trả giá'",
+      "link": "https://vnexpress.net/bo-truong-quoc-phong-my-iran-phai-tra-gia-5096413.html",
+      "summary": "Bộ trưởng Quốc phòng Mỹ tuyên bố Tehran \"phải trả giá cho lựa chọn tồi\", sau khi Lầu Năm Góc mở đợt không kích mới vào Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-12T01:52:02+07:00",
+      "fetched": "2026-07-12T12:17:30.353944+07:00"
     },
     {
       "id": "6e26027d4c9c00037b8feb37da4531a8",
@@ -651,6 +1261,16 @@ window.newsData_2026_07_12 = {
       "category": "Thể thao",
       "published": "2026-07-11T23:59:21+07:00",
       "fetched": "2026-07-12T08:48:02.630838+07:00"
+    },
+    {
+      "id": "0ab4288dc34021f34011711de894b46f",
+      "title": "Argentina thắng hiệp phụ ở tứ kết World Cup",
+      "link": "https://vnexpress.net/ket-qua-argentina-vs-thuy-si-5096400-tong-thuat.html",
+      "summary": "Sau khi hòa Thụy Sĩ ở hai hiệp chính, Argentina ghi thêm hai bàn trong thế hơn người ở hiệp phụ, để thắng 3-1 tại tứ kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-11T23:59:21+07:00",
+      "fetched": "2026-07-12T12:17:36.020236+07:00"
     },
     {
       "id": "b91c560145267e93cf664ea10d820551",
