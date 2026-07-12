@@ -1,7 +1,97 @@
 window.newsData_2026_07_12 = {
   "date": "2026-07-12",
-  "lastUpdated": "2026-07-12T05:37:41.733956+07:00",
+  "lastUpdated": "2026-07-12T08:48:02.636301+07:00",
   "articles": [
+    {
+      "id": "a678a957b04f589c6c05c69d0b5599ed",
+      "title": "Tin tức sáng 12-7: Tổng giám đốc PNJ đăng ký mua vào 1 triệu cổ phiếu",
+      "link": "https://tuoitre.vn/tin-tuc-sang-12-7-tong-giam-doc-pnj-dang-ky-mua-vao-1-trieu-co-phieu-100260711193942322.htm",
+      "summary": "TP.HCM tập trung hoàn thiện thể chế trên nhiều lĩnh vực trọng tâm; Thực hiện quy định mới về phí bảo vệ môi trường khai thác khoáng sản...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T08:47:56.258552+07:00",
+      "fetched": "2026-07-12T08:47:56.258612+07:00"
+    },
+    {
+      "id": "8dfdee5e73b428deaf91c2b466745914",
+      "title": "Chung kết Wimbledon: Sinner chạm trán Zverev",
+      "link": "https://tuoitre.vn/chung-ket-wimbledon-sinner-cham-tran-zverev-100260712005046655.htm",
+      "summary": "Vào lúc 22h ngày 12-7 (giờ Việt Nam), trận chung kết giải quần vợt Wimbledon 2026 sẽ diễn ra với màn so tài giữa tay vợt số 1 thế giới Jannik Sinner và hạt giống số 2 Alexander Zverev.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T08:47:56.258473+07:00",
+      "fetched": "2026-07-12T08:47:56.258541+07:00"
+    },
+    {
+      "id": "61a9a1d024cd47902be8f62343f0c630",
+      "title": "Thời tiết hôm nay 12-7: Bắc Bộ còn mưa to, đề phòng lũ; Nam Bộ ngày nắng, chiều mưa",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-12-7-bac-bo-con-mua-to-de-phong-lu-nam-bo-ngay-nang-chieu-mua-100260711160435042.htm",
+      "summary": "Hôm nay 12-7, thời tiết Bắc Bộ vẫn còn những trận mưa to, đề phòng lũ, sạt lở. Nam Bộ nhiều mây, nắng gián đoạn, chiều tối mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T08:47:56.258406+07:00",
+      "fetched": "2026-07-12T08:47:56.258463+07:00"
+    },
+    {
+      "id": "feb5289fdc2a9b4867c1bd07d9876389",
+      "title": "Neymar lái xe điện 'chill chill' ở công viên giải trí Universal sau World Cup 2026",
+      "link": "https://tuoitre.vn/neymar-lai-xe-dien-chill-chill-o-cong-vien-giai-tri-universal-sau-world-cup-2026-10026071205013944.htm",
+      "summary": "Siêu sao Neymar vừa được bắt gặp đang thoải mái vi vu trên một chiếc xe điện tại khu nghỉ dưỡng Universal Orlando (Florida, Mỹ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T08:47:56.258339+07:00",
+      "fetched": "2026-07-12T08:47:56.258396+07:00"
+    },
+    {
+      "id": "5e647e9b24736a3dc4496eaa8e948c60",
+      "title": "Running Man Việt Nam giao lưu tại rạp, Quang Tuấn đưa con gái theo cùng",
+      "link": "https://tuoitre.vn/running-man-viet-nam-giao-luu-tai-rap-quang-tuan-dua-con-gai-theo-cung-100260711170733772.htm",
+      "summary": "Tối 11-7, các nghệ sĩ thành viên Running Man Việt Nam có buổi giao lưu với khán giả tại rạp chiếu trong Vạn Hạnh Mall (TP.HCM). Trấn Thành và khách mời CAPTAIN BOY vắng mặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T08:47:56.258270+07:00",
+      "fetched": "2026-07-12T08:47:56.258329+07:00"
+    },
+    {
+      "id": "8d3297c8a46027e9a5e2113945991e22",
+      "title": "Cựu danh thủ Maldini lãnh nhiệm vụ tái thiết bóng đá Ý",
+      "link": "https://tuoitre.vn/cu-danh-thu-maldini-lanh-nhiem-vu-tai-thiet-bong-da-y-100260712061318019.htm",
+      "summary": "Liên đoán Bóng đá Ý (FIGC) vừa bổ nhiệm ông Paolo Maldini làm Giám đốc kỹ thuật và Leonardo giữ vị trí cố vấn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T08:47:56.258200+07:00",
+      "fetched": "2026-07-12T08:47:56.258259+07:00"
+    },
+    {
+      "id": "da551481240e5440c9932ef43c431f64",
+      "title": "Cựu tổng giám đốc Khoáng sản và luyện kim Việt Trung gây thiệt hại 480 tỉ, nhận 'lại quả' 78 tỉ",
+      "link": "https://tuoitre.vn/cuu-tong-giam-doc-khoang-san-va-luyen-kim-viet-trung-gay-thiet-hai-480-ti-nhan-lai-qua-78-ti-100260712021551257.htm",
+      "summary": "Bùi Thanh Bình bị cáo buộc bán quặng dưới giá thị trường, dàn xếp cho một số doanh nghiệp cung cấp than cốc để được \"lại quả\" hàng chục tỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T08:47:56.258127+07:00",
+      "fetched": "2026-07-12T08:47:56.258189+07:00"
+    },
+    {
+      "id": "fa4b74d8eae14a65ad60a394548dcf5b",
+      "title": "Tin tức thế giới 12-7: Iran đóng eo biển Hormuz; Bão Ba Vì đổ bộ Trung Quốc đến 2 lần",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-12-7-iran-dong-eo-bien-hormuz-bao-ba-vi-do-bo-trung-quoc-den-2-lan-10026071206311023.htm",
+      "summary": "Iran tuyên bố không tàu thuyền nào được đi qua Hormuz; Nga tấn công bằng tên lửa, máy bay không người lái và bom dẫn đường vào Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T08:47:56.258048+07:00",
+      "fetched": "2026-07-12T08:47:56.258116+07:00"
+    },
+    {
+      "id": "c284a7fb4f83d5b179b94fe38f3ef310",
+      "title": "Na Uy phản đối bàn thắng của Bellingham vì chạm vào dây cáp camera",
+      "link": "https://tuoitre.vn/na-uy-phan-doi-ban-thang-cua-bellingham-vi-cham-vao-day-cap-camera-100260712064027086.htm",
+      "summary": "Người hâm mộ và các cầu thủ Na Uy đã phản đối bàn thắng gỡ hòa 1-1 của Jude Bellingham vì cho rằng nó \"không hợp lệ\" do chạm vào dây cáp camera gắn trên trần sân vận động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T08:47:56.257896+07:00",
+      "fetched": "2026-07-12T08:47:56.258033+07:00"
+    },
     {
       "id": "5f09a720516a0f4f9d73191468128269",
       "title": "Noskova tưởng nhớ người mẹ đã mất bằng chức vô địch Wimbledon",
@@ -173,6 +263,426 @@ window.newsData_2026_07_12 = {
       "fetched": "2026-07-12T01:44:32.265314+07:00"
     },
     {
+      "id": "7d97efdf93d685eed136aea03f8d9720",
+      "title": "Nên đến trực tiếp trường, phòng VH-XH phường hỏi tuyển sinh đầu cấp, tránh bị lừa đảo",
+      "link": "https://thanhnien.vn/nen-den-truc-tiep-truong-phong-vh-xh-phuong-hoi-tuyen-sinh-dau-cap-tranh-bi-lua-dao-18526071119420827.htm",
+      "summary": "Nhiều trường mầm non, tiểu học ở TP.HCM phát đi thông báo tới phụ huynh để nâng cao cảnh giác trước các đối tượng lừa đảo, khuyên phụ huynh nên trực tiếp đến trường, hoặc phòng Văn hóa - xã hội (VH-XH) phường để hỏi về tuyển sinh đầu cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:36:00+07:00",
+      "fetched": "2026-07-12T08:47:52.860692+07:00"
+    },
+    {
+      "id": "594e25db8ad9ce87e4308f733cabd5c1",
+      "title": "Bổ sung dầu cá omega-3: Uống bao lâu, trước hay sau bữa ăn?",
+      "link": "https://thanhnien.vn/bo-sung-dau-ca-omega-3-uong-bao-lau-truoc-hay-sau-bua-an-185260712083003703.htm",
+      "summary": "Theo chuyên gia, tốt nhất nên uống omega-3 sau bữa ăn có chứa chất béo, vì điều này giúp cải thiện đáng kể khả năng hấp thụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:30:00+07:00",
+      "fetched": "2026-07-12T08:47:52.860885+07:00"
+    },
+    {
+      "id": "a562210d7c225e8d8d73446025f529e3",
+      "title": "Truyền thông Anh hú vía vì đội nhà được 'giải cứu', báo Na Uy nói lời cay đắng",
+      "link": "https://thanhnien.vn/truyen-thong-anh-hu-via-vi-doi-nha-duoc-giai-cuu-bao-na-uy-noi-loi-cay-dang-185260712082152847.htm",
+      "summary": "Đội tuyển Anh giành chiến thắng 2-1 trước Na Uy sau 120 phút để giành vé vào bán kết World Cup 2026, nhưng truyền thông hai nước lại có những góc nhìn hoàn toàn trái ngược.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:30:00+07:00",
+      "fetched": "2026-07-12T08:47:52.861047+07:00"
+    },
+    {
+      "id": "bc66eb380f99a9a496cb59d410e70693",
+      "title": "4 đợt mưa lớn dồn dập ở miền Bắc, nguy cơ có bão số 2",
+      "link": "https://thanhnien.vn/4-dot-mua-lon-don-dap-o-mien-bac-nguy-co-co-bao-so-2-185260712080104582.htm",
+      "summary": "Trong 1 tháng vừa qua, miền Bắc đón liên tiếp 4 đợt mưa lớn dồn dập, riêng khu vực vùng núi và trung du có tổng lượng mưa cao hơn 15 - 50% so với trung bình nhiều năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:18:00+07:00",
+      "fetched": "2026-07-12T08:47:52.861200+07:00"
+    },
+    {
+      "id": "bfa4b1e6e32db36935baa0d9e4006356",
+      "title": "Giá Bitcoin hôm nay 12.7.2026: Nghị sĩ Mỹ kêu gọi điều tra ông Trump vì tiền số",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-1272026-nghi-si-my-keu-goi-dieu-tra-ong-trump-vi-tien-so-185260712072514584.htm",
+      "summary": "Một nhóm thượng nghị sĩ đảng Dân chủ cáo buộc Tổng thống Mỹ Donald Trump trục lợi bất chính từ các dự án tiền số, kêu gọi một cuộc điều tra chính thức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:17:00+07:00",
+      "fetched": "2026-07-12T08:47:52.861354+07:00"
+    },
+    {
+      "id": "a300ff44f64e350370175b1ed3369ab5",
+      "title": "Bellingham gia nhập cuộc đua Vua phá lưới cùng Messi, Mbappe: Là tiền vệ duy nhất!",
+      "link": "https://thanhnien.vn/bellingham-gia-nhap-cuoc-dua-vua-pha-luoi-cung-messi-mbappe-la-tien-ve-duy-nhat-18526071208062333.htm",
+      "summary": "Rạng sáng 12.7 (giờ Việt Nam), Jude Bellingham tỏa sáng rực rỡ với một cú đúp để giúp đội tuyển Anh đánh bại Na Uy 2-1 ở tứ kết World Cup 2026. Ngôi sao của Real Madrid cũng chính thức góp mặt trong cuộc đua đến danh hiệu Chiếc giày vàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:12:00+07:00",
+      "fetched": "2026-07-12T08:47:52.861505+07:00"
+    },
+    {
+      "id": "a9d3abdcde658f27e5fc7925615193ac",
+      "title": "Góp tiền cho chồng mua nhà trước hôn nhân, tôi có được chia khi ly hôn?",
+      "link": "https://vnexpress.net/gop-tien-cho-chong-mua-nha-truoc-hon-nhan-toi-co-duoc-chia-khi-ly-hon-5094188.html",
+      "summary": "Năm 2018, tôi đã góp 700 triệu đồng để chồng mua căn nhà 1,4 tỷ đồng, lúc đó chúng tôi đang yêu nhau chứ chưa kết hôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:10:26+07:00",
+      "fetched": "2026-07-12T08:47:49.943957+07:00"
+    },
+    {
+      "id": "bc263659abefc0e7cba66999f2edf394",
+      "title": "1 thửa đất 'gánh' 3 quy hoạch, Lâm Đồng quyết gỡ nút thắt kéo dài",
+      "link": "https://thanhnien.vn/1-thua-dat-ganh-3-quy-hoach-lam-dong-quyet-go-nut-that-keo-dai-185260711210647443.htm",
+      "summary": "Tỉnh Lâm Đồng yêu cầu các địa phương khẩn trương rà soát những bất cập các quy hoạch cũ để lập quy hoạch phân khu và quy hoạch chi tiết, sau khi tỉnh công bố điều chỉnh quy hoạch tỉnh thời kỳ 2021 - 2030, tầm nhìn đến năm 2050.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:08:00+07:00",
+      "fetched": "2026-07-12T08:47:52.861659+07:00"
+    },
+    {
+      "id": "dc27318455e1388c1a48c5a1857eee23",
+      "title": "Chợ Rẫy mang ECMO chi viện Phú Quốc cứu nạn nhân hôn mê trong vụ lật canô",
+      "link": "https://vnexpress.net/cho-ray-mang-ecmo-chi-vien-phu-quoc-cuu-nan-nhan-hon-me-trong-vu-lat-cano-5096410.html",
+      "summary": "Bệnh viện Chợ Rẫy sáng 12/7 đưa máy ECMO và kíp hồi sức ra Phú Quốc cứu hai nạn nhân vụ lật canô, trong đó một người hôn mê, đa chấn thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:07:03+07:00",
+      "fetched": "2026-07-12T08:47:49.944143+07:00"
+    },
+    {
+      "id": "f7ce55e389698ac64cf9c6d5f4766516",
+      "title": "Khách Việt chi gần một tỷ đồng đến Mỹ xem World Cup",
+      "link": "https://vnexpress.net/khach-viet-chi-gan-mot-ty-dong-den-my-xem-world-cup-5093847.html",
+      "summary": "Nam du khách sống tại TP HCM Vũ Mạnh Tuyền đã \"dắt túi\" gần một tỷ đồng để đến Mỹ xem World Cup 2026 bốn trận: hai trận tứ kết, bán kết và chung kết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:06:14+07:00",
+      "fetched": "2026-07-12T08:47:49.944308+07:00"
+    },
+    {
+      "id": "4bfaa69b41207531faa00df935b0ccba",
+      "title": "Khúc muộn - Thơ của Trần Cao Duyên",
+      "link": "https://thanhnien.vn/khuc-muon-tho-cua-tran-cao-duyen-18526071119183002.htm",
+      "summary": "",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:05:00+07:00",
+      "fetched": "2026-07-12T08:47:54.525546+07:00"
+    },
+    {
+      "id": "c37e5aee94b3e5fabe614ec9405ca6b0",
+      "title": "Hàng không Mỹ hưởng lợi lớn nhờ World Cup 2026",
+      "link": "https://vnexpress.net/hang-khong-my-huong-loi-lon-nho-world-cup-2026-5096390.html",
+      "summary": "Ba ông lớn hàng không Mỹ - Delta Air Lines, American Airlines và United Airlines đều ghi nhận nhu cầu đi lại tăng nhờ World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:04:38+07:00",
+      "fetched": "2026-07-12T08:47:49.944468+07:00"
+    },
+    {
+      "id": "c37e5aee94b3e5fabe614ec9405ca6b0",
+      "title": "Hàng không Mỹ hưởng lợi lớn nhờ World Cup 2026",
+      "link": "https://vnexpress.net/hang-khong-my-huong-loi-lon-nho-world-cup-2026-5096390.html",
+      "summary": "Ba ông lớn hàng không Mỹ - Delta Air Lines, American Airlines và United Airlines đều ghi nhận nhu cầu đi lại tăng nhờ World Cup.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-12T01:04:38+07:00",
+      "fetched": "2026-07-12T08:47:58.453214+07:00"
+    },
+    {
+      "id": "461394903cf0eedbba0eb89ed589c2a3",
+      "title": "TP HCM chuẩn bị mạng lưới bệnh viện cấp cơ bản",
+      "link": "https://vnexpress.net/tp-hcm-chuan-bi-mang-luoi-benh-vien-cap-co-ban-5096325.html",
+      "summary": "Sở Y tế TP HCM bắt đầu đào tạo đội ngũ lãnh đạo các bệnh viện cấp cơ bản, chuẩn bị cho quá trình chuyển đổi hệ thống y tế theo mô hình đa tầng, đa cực, đa trung tâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:00:00+07:00",
+      "fetched": "2026-07-12T08:47:49.944624+07:00"
+    },
+    {
+      "id": "f865ca8444a477ebabd4c1c6b675f67c",
+      "title": "Trúng mánh cặp cá lóc khủng dưới ao rau muống",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-trung-manh-cap-ca-loc-khung-duoi-ao-rau-muong-5095912.html",
+      "summary": "Chỉ một lần kiểm tra bẫy dưới ao rau muống, người đàn ông đã thu về cặp cá lóc khủng khiến ai xem cũng phải trầm trồ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:00:00+07:00",
+      "fetched": "2026-07-12T08:47:49.944807+07:00"
+    },
+    {
+      "id": "876395211e4fdeaa83c28737b5a5fadc",
+      "title": "Peel da có giúp mờ thâm mụn ở lưng?",
+      "link": "https://vnexpress.net/peel-da-co-giup-mo-tham-mun-o-lung-5096372.html",
+      "summary": "Tôi bị nhiều vết thâm do mụn ở lưng. Peel da có làm mờ thâm và có thể tự thực hiện tại nhà được không? (Thanh, Bắc Ninh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:00:00+07:00",
+      "fetched": "2026-07-12T08:47:49.944973+07:00"
+    },
+    {
+      "id": "9ec49626cd894425f8298d1fbf3bdd3d",
+      "title": "Tràn dịch màng phổi tự do có nguy hiểm?",
+      "link": "https://vnexpress.net/tran-dich-mang-phoi-tu-do-co-nguy-hiem-5096313.html",
+      "summary": "Tôi mới được chẩn đoán tràn dịch màng phổi tự do. Tình trạng này có nguy hiểm không và điều trị như thế nào? (Ngọc Lan, 41 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:00:00+07:00",
+      "fetched": "2026-07-12T08:47:49.945128+07:00"
+    },
+    {
+      "id": "0d476bc5d7220834a8a261b3cefd0a2b",
+      "title": "Đau ngực khi hít sâu có phải mắc bệnh phổi?",
+      "link": "https://vnexpress.net/dau-nguc-khi-hit-sau-co-phai-mac-benh-phoi-5096308.html",
+      "summary": "Mỗi lần hít sâu, tôi lại thấy đau nhói một bên ngực, nhất là khi ho hoặc hắt hơi. Đây có phải dấu hiệu của bệnh phổi không? (Minh Trang, TP HCM).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:00:00+07:00",
+      "fetched": "2026-07-12T08:47:49.945292+07:00"
+    },
+    {
+      "id": "c639a0bc78e01d280a37b0311862d0ec",
+      "title": "Vì sao xem bóng đá có cảm giác 'đứng tim'?",
+      "link": "https://vnexpress.net/vi-sao-xem-bong-da-co-cam-giac-dung-tim-5096305.html",
+      "summary": "Mỗi lần xem bóng đá, nhất là khi trận đấu diễn ra sôi nổi hoặc có bàn thắng bất ngờ, tôi thường cảm thấy tim đập thình thịch, thậm chí nghẹn ở ngực như \"đứng tim\". Vì sao như vậy? (Minh Hưng, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:00:00+07:00",
+      "fetched": "2026-07-12T08:47:49.945455+07:00"
+    },
+    {
+      "id": "eed8d015e7be759642e1a6a456e1ee48",
+      "title": "Ung thư phổi có tái phát không?",
+      "link": "https://vnexpress.net/ung-thu-phoi-co-tai-phat-khong-5096148.html",
+      "summary": "Tôi 55 tuổi, từng mắc ung thư phổi đã phẫu thuật triệt căn. Bệnh có tái phát không, làm sao để nhận biết sớm? (Vân Anh, Cần Thơ)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:00:00+07:00",
+      "fetched": "2026-07-12T08:47:49.945611+07:00"
+    },
+    {
+      "id": "00976d2f2392f094dcac8e0da5518f04",
+      "title": "Trường ĐH Ngoại thương tuyển chương trình thương mại số và đổi mới kinh doanh",
+      "link": "https://vnexpress.net/truong-dh-ngoai-thuong-tuyen-chuong-trinh-thuong-mai-so-va-doi-moi-kinh-doanh-5095115.html",
+      "summary": "Trường Đại học Ngoại thương tuyển sinh khóa đầu chương trình Thương mại số thông minh & Đổi mới kinh doanh (SBI), nhằm đào tạo nguồn nhân lực đáp ứng yêu cầu chuyển đổi số và hội nhập quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:00:00+07:00",
+      "fetched": "2026-07-12T08:47:49.945770+07:00"
+    },
+    {
+      "id": "c0a90a86de4c956eb9198a93dd3d9f2f",
+      "title": "3 người trẻ, 3 giải vàng và 1 giấc mơ...",
+      "link": "https://thanhnien.vn/3-nguoi-tre-3-giai-vang-va-1-giac-mo-18526071119274878.htm",
+      "summary": "Tại Liên hoan Nghệ thuật châu Á 2026 diễn ra ở Singapore (từ ngày 6 - 12.7), 3 người trẻ VN đã đoạt 3 giải vàng, nhưng cùng chung một giấc mơ cống hiến cho âm nhạc VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:00:00+07:00",
+      "fetched": "2026-07-12T08:47:54.525740+07:00"
+    },
+    {
+      "id": "f68ed5586cbf0f7e957591a2002abf3f",
+      "title": "Nhàn đàm: Dừng chân trên đèo Ngoạn Mục",
+      "link": "https://thanhnien.vn/nhan-dam-dung-chan-tren-deo-ngoan-muc-185260711191215647.htm",
+      "summary": "Tôi thích đến Đà Lạt bằng hướng đèo Ngoạn Mục. Con đèo này còn có tên tiếng Pháp là Bellevue; còn gọi là đèo Sông Pha.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:00:00+07:00",
+      "fetched": "2026-07-12T08:47:54.525925+07:00"
+    },
+    {
+      "id": "955414c57c7eee314e0f199d30a9e8a2",
+      "title": "Người dùng đổi laptop năm 2026: Vì sao MacBook được cân nhắc nhiều hơn?",
+      "link": "https://thanhnien.vn/nguoi-dung-doi-laptop-nam-2026-vi-sao-macbook-duoc-can-nhac-nhieu-hon-185260711145651285.htm",
+      "summary": "Khi laptop cũ bắt đầu chậm, nóng hoặc pin yếu, nhiều người không chỉ tìm máy mạnh hơn mà còn muốn một thiết bị ổn định để dùng lâu. Vì vậy, MacBook ngày càng xuất hiện nhiều hơn trong danh sách cân nhắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:00:00+07:00",
+      "fetched": "2026-07-12T08:47:54.526083+07:00"
+    },
+    {
+      "id": "14746673ac99a9f696a3bffde46f19fd",
+      "title": "Chân váy midi, maxi: điểm nhấn thanh lịch cho tủ đồ mùa mới",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chan-vay-midi-maxi-diem-nhan-thanh-lich-cho-tu-do-mua-moi-185260707144219741.htm",
+      "summary": "Khi thời tiết đang dịch chuyển sang mùa mới cũng là lúc phái đẹp háo hức làm mới tủ đồ. Chân váy midi và chân váy maxi là hai món đồ thời trang kinh điển, xứng đáng có mặt để giúp nàng thăng hạng phong cách thời trang cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T01:00:00+07:00",
+      "fetched": "2026-07-12T08:47:54.526244+07:00"
+    },
+    {
+      "id": "1c2643ce9c810ad2bfec9037fe593350",
+      "title": "Djokovic - người vừa được ban phước vừa mang lời nguyền",
+      "link": "https://vnexpress.net/djokovic-nguoi-vua-duoc-ban-phuoc-vua-mang-loi-nguyen-5096266.html",
+      "summary": "Tay vợt huyền thoại Novak Djokovic \"mắc kẹt\" ở kỷ lục 24 Grand Slam trong gần 3 năm qua, dù liên tục vào bán kết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T00:59:25+07:00",
+      "fetched": "2026-07-12T08:47:49.945961+07:00"
+    },
+    {
+      "id": "1c2643ce9c810ad2bfec9037fe593350",
+      "title": "Djokovic - người vừa được ban phước vừa mang lời nguyền",
+      "link": "https://vnexpress.net/djokovic-nguoi-vua-duoc-ban-phuoc-vua-mang-loi-nguyen-5096266.html",
+      "summary": "Tay vợt huyền thoại Novak Djokovic \"mắc kẹt\" ở kỷ lục 24 Grand Slam trong gần 3 năm qua, dù liên tục vào bán kết.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-12T00:59:25+07:00",
+      "fetched": "2026-07-12T08:48:02.630480+07:00"
+    },
+    {
+      "id": "87a409dc6c2e06f9af01de6d40045570",
+      "title": "Ibrahimovic chê Madueke chơi như ‘mất hồn’, khiến đội tuyển Anh suýt ôm hận trước Na Uy",
+      "link": "https://thanhnien.vn/ibrahimovic-che-madueke-choi-nhu-mat-hon-khien-doi-tuyen-anh-suyt-om-han-truoc-na-uy-185260712075608498.htm",
+      "summary": "Noni Madueke trở thành tâm điểm chỉ trích sau màn trình diễn đáng quên ở trận tứ kết World Cup 2026 gặp Na Uy. Cựu tiền đạo Zlatan Ibrahimovic cho rằng ngôi sao của Arsenal ‘liên tục đưa ra quyết định sai lầm’, thậm chí khẳng định đội tuyển Anh thi đấu như chỉ còn 10 người trên sân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T00:58:00+07:00",
+      "fetched": "2026-07-12T08:47:54.526399+07:00"
+    },
+    {
+      "id": "be02cdaa2cc2477529eebef91d6e8d90",
+      "title": "FIFA phủ nhận chuyện đội tuyển Anh nhận bàn thắng 'trời cho' nhờ công nghệ đặc biệt",
+      "link": "https://thanhnien.vn/fifa-phu-nhan-chuyen-doi-tuyen-anh-nhan-ban-thang-troi-cho-nho-cong-nghe-dac-biet-185260712075514491.htm",
+      "summary": "Liên đoàn Bóng đá thế giới (FIFA) kết luận bóng đã không chạm dây cáp trong tình huống đội tuyển Anh ghi bàn gỡ hòa vào lưới Na Uy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T00:56:00+07:00",
+      "fetched": "2026-07-12T08:47:54.526544+07:00"
+    },
+    {
+      "id": "6959414f1da8f3fea49e8b92a445c98c",
+      "title": "Tại sao bàn thắng của Na Uy bị từ chối vì Haaland, trọng tài giải thích thế nào?",
+      "link": "https://thanhnien.vn/tai-sao-ban-thang-cua-na-uy-bi-tu-choi-vi-haaland-trong-tai-giai-thich-the-nao-185260712074921952.htm",
+      "summary": "Đội tuyển Na Uy đã có thể nâng tỷ số lên 2-1 trước đội tuyển Anh trong trận tứ kết ngày 12.7, nhưng bàn thắng đã bị hủy bỏ vì VAR, và điều đó đã gây hậu quả nghiêm trọng cho đội bóng Bắc Âu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T00:55:00+07:00",
+      "fetched": "2026-07-12T08:47:54.526702+07:00"
+    },
+    {
+      "id": "0a7fb674a7a8ddbdec4127ddabf0f9dc",
+      "title": "Tây Ban Nha áp sát kỷ lục 37 trận bất bại của Italy",
+      "link": "https://vnexpress.net/tay-ban-nha-ap-sat-ky-luc-37-tran-bat-bai-cua-italy-5096260.html",
+      "summary": "Thắng Bỉ 2-1 ở tứ kết World Cup 2026 là trận bất bại thứ 36 của Tây Ban Nha kể từ năm 2024.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T00:52:37+07:00",
+      "fetched": "2026-07-12T08:47:49.946117+07:00"
+    },
+    {
+      "id": "0a7fb674a7a8ddbdec4127ddabf0f9dc",
+      "title": "Tây Ban Nha áp sát kỷ lục 37 trận bất bại của Italy",
+      "link": "https://vnexpress.net/tay-ban-nha-ap-sat-ky-luc-37-tran-bat-bai-cua-italy-5096260.html",
+      "summary": "Thắng Bỉ 2-1 ở tứ kết World Cup 2026 là trận bất bại thứ 36 của Tây Ban Nha kể từ năm 2024.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-12T00:52:37+07:00",
+      "fetched": "2026-07-12T08:48:02.631462+07:00"
+    },
+    {
+      "id": "26bce172704e7ca23184e0fae18cda06",
+      "title": "HLV Na Uy ném chai nước vào cộng sự",
+      "link": "https://vnexpress.net/hlv-na-uy-nem-chai-nuoc-vao-cong-su-5096406.html",
+      "summary": "HLV Stale Solbakken không thể nén tức giận khi Na Uy bị Anh gỡ hòa trong thất bại ở tứ kết World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T00:35:57+07:00",
+      "fetched": "2026-07-12T08:47:49.946267+07:00"
+    },
+    {
+      "id": "26bce172704e7ca23184e0fae18cda06",
+      "title": "HLV Na Uy ném chai nước vào cộng sự",
+      "link": "https://vnexpress.net/hlv-na-uy-nem-chai-nuoc-vao-cong-su-5096406.html",
+      "summary": "HLV Stale Solbakken không thể nén tức giận khi Na Uy bị Anh gỡ hòa trong thất bại ở tứ kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-12T00:35:57+07:00",
+      "fetched": "2026-07-12T08:48:02.630652+07:00"
+    },
+    {
+      "id": "48ab2b9b5d87fae00280adca01d01765",
+      "title": "5 startup Việt được cấp vốn mồi không hoàn lại",
+      "link": "https://vnexpress.net/5-startup-viet-duoc-cap-von-moi-khong-hoan-lai-5096298.html",
+      "summary": "Năm startup được cấp vốn trị giá 98 triệu đồng mỗi doanh nghiệp để thử nghiệm các giải pháp tăng trưởng mới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-12T00:16:14+07:00",
+      "fetched": "2026-07-12T08:48:01.441433+07:00"
+    },
+    {
+      "id": "eb493b8732c1ee4835ca186a75f29ad2",
+      "title": "CEO PNJ muốn mua 1 triệu cổ phiếu",
+      "link": "https://vnexpress.net/ceo-pnj-muon-mua-1-trieu-co-phieu-5096383.html",
+      "summary": "Nối tiếp lệnh mua của em trai bà Cao Thị Ngọc Dung, CEO Phan Quốc Công đăng ký gom 1 triệu cổ phiếu PNJ giữa lúc thị giá giảm mạnh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-12T00:14:25+07:00",
+      "fetched": "2026-07-12T08:47:58.453385+07:00"
+    },
+    {
+      "id": "082c14c35f111e4a6a2b9dd5cfa32839",
+      "title": "Tên thủ môn tuyển Cape Verde được đặt cho loài sên biển mới",
+      "link": "https://vnexpress.net/ten-thu-mon-tuyen-cape-verde-duoc-dat-cho-loai-sen-bien-moi-5096272.html",
+      "summary": "Nhà sinh vật hâm mộ bóng đá đặt tên cho loài sên biển mới phát hiện là Aldisa vozinha, theo tên thủ thành gây sốt tại World Cup.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-12T00:10:00+07:00",
+      "fetched": "2026-07-12T08:48:01.441086+07:00"
+    },
+    {
+      "id": "8a46205ec0c7ddf77b0cbfa844fd312e",
+      "title": "Người Việt chi hơn 2,7 tỷ USD mua mỹ phẩm",
+      "link": "https://vnexpress.net/nguoi-viet-chi-hon-2-7-ty-usd-mua-my-pham-5096346.html",
+      "summary": "Quy mô thị trường làm đẹp và chăm sóc cá nhân Việt Nam đạt 2,74 tỷ USD vào 2025, tiến đến 3 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-12T00:08:42+07:00",
+      "fetched": "2026-07-12T08:47:58.453545+07:00"
+    },
+    {
+      "id": "5d58fa022b4197da5be68b2fa8dab4d8",
+      "title": "Argentina 1-0 Thụy Sĩ (H1): Messi kiến tạo",
+      "link": "https://vnexpress.net/truc-tiep-argentina-vs-thuy-si-5096400.html",
+      "summary": "Lionel Messi đá phạt góc, tạo điều kiện cho Alexis Mac Allister mở tỷ số ở Thụy Sĩ ở tứ kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-11T23:59:21+07:00",
+      "fetched": "2026-07-12T08:48:02.630838+07:00"
+    },
+    {
+      "id": "b91c560145267e93cf664ea10d820551",
+      "title": "Iran tuyên bố đóng eo biển Hormuz",
+      "link": "https://vnexpress.net/iran-tuyen-bo-dong-eo-bien-hormuz-5096396.html",
+      "summary": "Hải quân IRGC tuyên bố đóng cửa eo biển Hormuz \"cho đến khi có thông báo mới\", sau khi nổ súng cảnh cáo một tàu thương mại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-11T23:53:08+07:00",
+      "fetched": "2026-07-12T08:47:57.309384+07:00"
+    },
+    {
+      "id": "bf4b8f0b6980113a286c3c3f1f4cf934",
+      "title": "Lý do hy hữu khiến bàn thắng của Anh đáng bị hủy",
+      "link": "https://vnexpress.net/ly-do-hy-huu-khien-ban-thang-cua-anh-dang-bi-huy-5096395.html",
+      "summary": "Bàn gỡ hòa 1-1 của Jude Bellingham trong trận Anh - Na Uy ở tứ kết World Cup 2026 gây tranh cãi vì bóng dường như chạm vào dây treo camera trước pha tấn công.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-11T23:47:03+07:00",
+      "fetched": "2026-07-12T08:48:02.631002+07:00"
+    },
+    {
+      "id": "3e74621d45c75838a89cfe1ef424fc53",
+      "title": "Noskova lần đầu vô địch đơn nữ Wimbledon 2026",
+      "link": "https://vnexpress.net/noskova-lan-dau-vo-dich-don-nu-wimbledon-2026-5096391.html",
+      "summary": "Tay vợt 21 tuổi Linda Noskova thắng Karolina Muchova 6-2, 5-7, 6-3 trong trận chung kết đơn nữ Wimbledon 2026, qua đó giành Grand Slam đầu tiên trong sự nghiệp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-11T23:07:05+07:00",
+      "fetched": "2026-07-12T08:48:02.631158+07:00"
+    },
+    {
       "id": "326c4b59e91c76491f990f9c9f073bf6",
       "title": "Mỹ - Iran bỏ ngỏ đàm phán",
       "link": "https://thanhnien.vn/my-iran-bo-ngo-dam-phan-185260711215259452.htm",
@@ -313,6 +823,16 @@ window.newsData_2026_07_12 = {
       "fetched": "2026-07-12T05:37:36.553634+07:00"
     },
     {
+      "id": "fd84d96131edbe8bcbeefb9d89ea56fa",
+      "title": "Hà Nội trước yêu cầu biến khoa học công nghệ thành động lực tăng trưởng mới",
+      "link": "https://vnexpress.net/ha-noi-truoc-yeu-cau-bien-khoa-hoc-cong-nghe-thanh-dong-luc-tang-truong-moi-5095567.html",
+      "summary": "Sau 18 tháng triển khai Nghị quyết 57, Hà Nội được đánh giá tạo dấu ấn trong xây dựng thể chế, hạ tầng dữ liệu và hệ sinh thái đổi mới sáng tạo, nhưng vẫn còn những nút thắt để biến khoa học công nghệ thành động lực tăng trưởng mới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-11T22:00:00+07:00",
+      "fetched": "2026-07-12T08:48:01.441595+07:00"
+    },
+    {
       "id": "db1a6e243bda99c80b1ec2d31cb5dcf6",
       "title": "Sút 11 m khó đến thế sao?",
       "link": "https://thanhnien.vn/sut-11-m-kho-den-the-sao-18526071120314232.htm",
@@ -361,6 +881,16 @@ window.newsData_2026_07_12 = {
       "category": "Thể thao",
       "published": "2026-07-11T20:00:56+07:00",
       "fetched": "2026-07-12T03:38:22.570781+07:00"
+    },
+    {
+      "id": "83f7ee5bd79797c290e949bad277e110",
+      "title": "Bellingham giúp Anh thắng ngược Na Uy ở tứ kết World Cup",
+      "link": "https://vnexpress.net/na-uy-anh-haaland-so-tai-harry-kane-5096342-tong-thuat.html",
+      "summary": "Tiền vệ Jude Bellingham tỏa sáng với cú đúp, giúp Anh thắng ngược Na Uy 2-1 ở tứ kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-11T20:00:56+07:00",
+      "fetched": "2026-07-12T08:48:02.631310+07:00"
     },
     {
       "id": "903731219d8471c9711091aaefcad3de",
