@@ -1,7 +1,27 @@
 window.newsData_2026_07_13 = {
   "date": "2026-07-13",
-  "lastUpdated": "2026-07-13T01:50:54.755984+07:00",
+  "lastUpdated": "2026-07-13T03:35:15.263982+07:00",
   "articles": [
+    {
+      "id": "c351abf86f1d7e73c2b901e9fa29c927",
+      "title": "NÓNG: Mỹ tấn công Iran dọc eo biển Hormuz, nhắm vào mục tiêu nào?",
+      "link": "https://tuoitre.vn/nong-my-tan-cong-iran-doc-eo-bien-hormuz-nham-vao-muc-tieu-nao-100260713000040462.htm",
+      "summary": "Khoảng 23h40 ngày 12-7 (theo giờ Việt Nam), Hãng tin Reuters tường thuật: Mỹ đã tấn công nhiều mục tiêu dọc eo biển Hormuz của Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T03:35:09.521199+07:00",
+      "fetched": "2026-07-13T03:35:09.521274+07:00"
+    },
+    {
+      "id": "b2e3860f17064e793c6b0ca86b7048a4",
+      "title": "Thời tiết hôm nay 13-7: Nam Bộ chiều tối mưa to đến rất to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-13-7-nam-bo-chieu-toi-mua-to-den-rat-to-100260712170222342.htm",
+      "summary": "Hôm nay 13-7, thời tiết các tỉnh phía Nam chiều tối mưa to đến rất to, nhiều nơi khác trên cả nước chiều tối đến đêm cũng có mưa dông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T03:35:09.521025+07:00",
+      "fetched": "2026-07-13T03:35:09.521163+07:00"
+    },
     {
       "id": "8870983d6d46e29cdcdc84078e933a7b",
       "title": "Khánh Hòa khuyến khích đầu tư để đón khách từ thị trường du lịch Halal 350 tỉ USD",
@@ -151,6 +171,16 @@ window.newsData_2026_07_13 = {
       "category": "Tổng hợp",
       "published": "2026-07-13T01:50:48.629167+07:00",
       "fetched": "2026-07-13T01:50:48.629340+07:00"
+    },
+    {
+      "id": "a0504ae1dba4936f771b44141427911a",
+      "title": "3 nhóm người không nên ăn quá nhiều cá biển",
+      "link": "https://thanhnien.vn/3-nhom-nguoi-khong-nen-an-qua-nhieu-ca-bien-185260712235002555.htm",
+      "summary": "Cá biển tốt cho sức khỏe nhờ giàu a xít béo omega 3, vitamin D, i ốt và nhiều khoáng chất khác. Tuy nhiên, ở một số người, ăn quá nhiều cá biển có thể làm tăng nguy cơ sức khỏe, khiến một số bệnh khó kiểm soát hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T19:56:00+07:00",
+      "fetched": "2026-07-13T03:35:07.423419+07:00"
     },
     {
       "id": "71fca8c4c262a3105574ec40a82aff80",
