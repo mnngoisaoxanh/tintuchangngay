@@ -1,6 +1,6 @@
 window.newsData_2026_07_13 = {
   "date": "2026-07-13",
-  "lastUpdated": "2026-07-13T03:35:15.263982+07:00",
+  "lastUpdated": "2026-07-13T05:37:58.922934+07:00",
   "articles": [
     {
       "id": "c351abf86f1d7e73c2b901e9fa29c927",
@@ -171,6 +171,186 @@ window.newsData_2026_07_13 = {
       "category": "Tổng hợp",
       "published": "2026-07-13T01:50:48.629167+07:00",
       "fetched": "2026-07-13T01:50:48.629340+07:00"
+    },
+    {
+      "id": "dc9a943e901ae6082e3ef8a356320b53",
+      "title": "Chung dòng máu Lạc Hồng: Kỳ tích từ sự đồng lòng",
+      "link": "https://thanhnien.vn/chung-dong-mau-lac-hong-ky-tich-tu-su-dong-long-185260712182157116.htm",
+      "summary": "Ở vùng cao Trà Đốc (thành phố Đà Nẵng), lòng nhân ái và tinh thần cống hiến thầm lặng của đồng bào Ca Dong tạo nên một dòng chảy mạnh mẽ tưới mát diện mạo quê hương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T22:35:00+07:00",
+      "fetched": "2026-07-13T05:37:49.886961+07:00"
+    },
+    {
+      "id": "ddc29b5d9c6def66fab13a4dce86eda8",
+      "title": "Đừng bắt một logo gánh cả vùng đất",
+      "link": "https://thanhnien.vn/dung-bat-mot-logo-ganh-ca-vung-dat-185260712165632924.htm",
+      "summary": "Nhiều địa phương đang hào hứng phát động các cuộc thi thiết kế biểu trưng (logo) với kỳ vọng phục vụ quảng bá, xúc tiến đầu tư, phát triển du lịch và xây dựng thương hiệu. Không ít nơi còn kỳ vọng một logo đẹp sẽ khơi dậy niềm tự hào, ý thức gìn giữ giá trị văn hóa, lịch sử của quê hương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T22:33:00+07:00",
+      "fetched": "2026-07-13T05:37:49.887135+07:00"
+    },
+    {
+      "id": "b537bcb0e4dcb9bc5b6511e6962f292f",
+      "title": "Ngăn chặn trốn nghĩa vụ quân sự",
+      "link": "https://thanhnien.vn/ngan-chan-tron-nghia-vu-quan-su-185260712165425688.htm",
+      "summary": "Thông tin Bộ Quốc phòng đề xuất sửa đổi luật Nghĩa vụ quân sự và trả lời cử tri nói rõ về xăm hình, tật khúc xạ trong tuyển nghĩa vụ quân sự nhận được nhiều ý kiến đồng tình và ủng hộ từ bạn đọc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T22:31:00+07:00",
+      "fetched": "2026-07-13T05:37:49.887293+07:00"
+    },
+    {
+      "id": "4b6476000a5cd29b84a9c8b25d1ff42a",
+      "title": "Ukraine xoay xở 'vá' lỗ hổng phòng không",
+      "link": "https://thanhnien.vn/ukraine-xoay-xo-va-lo-hong-phong-khong-185260712203751058.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky đang thay đổi cách tiếp cận ngoại giao nhằm đẩy nhanh việc thực thi các thỏa thuận cung cấp vũ khí từ đồng minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T22:30:00+07:00",
+      "fetched": "2026-07-13T05:37:49.887446+07:00"
+    },
+    {
+      "id": "399bf350150c941d39ff292b07abcec5",
+      "title": "Theo dấu phạt nguội",
+      "link": "https://thanhnien.vn/theo-dau-phat-nguoi-185260712203319277.htm",
+      "summary": "Không thấy CSGT đứng chốt hay camera ghi hình, nhiều tài xế nghĩ mình 'thoát' lỗi vi phạm. Đến khi nhận thông báo gửi về tận nhà, họ mới biết mọi dữ liệu đã được ghi nhận, xác minh qua quy trình phạt nguội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T22:30:00+07:00",
+      "fetched": "2026-07-13T05:37:49.887597+07:00"
+    },
+    {
+      "id": "b50f6ded57dd5845c40ddac485d0ba37",
+      "title": "Trúng độc đắc 2 tỉ xổ số miền Nam, vợ chồng ở TP.HCM đổi thưởng trong đêm",
+      "link": "https://thanhnien.vn/trung-doc-dac-2-ti-xo-so-mien-nam-vo-chong-o-tphcm-doi-thuong-trong-dem-185260712090439445.htm",
+      "summary": "2 vợ chồng ở TP.HCM lấy 10.000 đồng mua vé số, bất ngờ trúng độc đắc 2 tỉ đồng xổ số miền Nam, lập tức đổi thưởng trong đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T22:30:00+07:00",
+      "fetched": "2026-07-13T05:37:49.887747+07:00"
+    },
+    {
+      "id": "7907c610a57f265f7577832d18f86002",
+      "title": "Tiêu điểm quốc tế ngày 13.7: Mỹ không kích Iran | Các nước vùng Vịnh bị tấn công",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-137-my-khong-kich-iran-cac-nuoc-vung-vinh-bi-tan-cong-185260712235028545.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin Tiêu điểm quốc tế ngày 13.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T22:29:00+07:00",
+      "fetched": "2026-07-13T05:37:49.887896+07:00"
+    },
+    {
+      "id": "93708923fd8b2f30d450e136bc0cc889",
+      "title": "Tử vi ngày 13 tháng 7: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-13-thang-7-con-giap-nao-may-man-hom-nay-185260712231146265.htm",
+      "summary": "Tử vi ngày 13 tháng 7 mang đến những gợi ý tham khảo cho 12 con giáp. Có những ngày đáng nhớ không phải vì xảy ra chuyện lớn, mà bởi một cuộc gặp bất ngờ. Một người bạn lâu ngày liên lạc lại, một hàng xóm mới, một người đồng hành trong chuyến xe hay một cuộc trò chuyện ngắn ở quán cà phê cũng có thể...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T22:15:00+07:00",
+      "fetched": "2026-07-13T05:37:49.888079+07:00"
+    },
+    {
+      "id": "edd8e9ef9d99d1b60806fe3c8ce1245e",
+      "title": "Hoài nghi quanh chuyên cơ Không lực Một mới của ông Trump",
+      "link": "https://vnexpress.net/hoai-nghi-quanh-chuyen-co-khong-luc-mot-moi-cua-ong-trump-5096121.html",
+      "summary": "Việc ông Trump bất ngờ đổi chuyên cơ tại Thổ Nhĩ Kỳ làm dấy lên hoài nghi về năng lực bảo vệ và hệ thống phòng thủ của chiếc Không lực Một mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T22:00:00+07:00",
+      "fetched": "2026-07-13T05:37:46.999647+07:00"
+    },
+    {
+      "id": "5a31c02f184165ae9e70f5d870cadbf9",
+      "title": "Ký ức cựu binh về liệt sĩ vừa tìm thấy ở công viên Lê Thị Riêng",
+      "link": "https://vnexpress.net/ky-uc-cuu-binh-ve-liet-si-vua-tim-thay-o-cong-vien-le-thi-rieng-5095189.html",
+      "summary": "Đồng đội hồi tưởng về chiến sĩ Huỳnh Văn Quên sau khi lực lượng chức năng tìm thấy manh mối của ông khi quy tập hài cốt liệt sĩ ở công viên Lê Thị Riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T22:00:00+07:00",
+      "fetched": "2026-07-13T05:37:46.999827+07:00"
+    },
+    {
+      "id": "259b4d153d2ae5e960c5044bfcbfbf19",
+      "title": "Mẹ bỉm hai con 'hồi xuân' sau giảm cân",
+      "link": "https://vnexpress.net/me-bim-hai-con-hoi-xuan-sau-giam-can-5094812.html",
+      "summary": "Tăng cân sau sinh khiến Thảo ngán ngẩm khi nhìn mình trong gương, quyết tập luyện và ăn uống khoa học, giảm 13kg trong 6 tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T22:00:00+07:00",
+      "fetched": "2026-07-13T05:37:47.000021+07:00"
+    },
+    {
+      "id": "92e84d188a7f74c1efc27daa5524ff92",
+      "title": "Người Việt tăng mua ôtô nửa đầu 2026",
+      "link": "https://vnexpress.net/nguoi-viet-tang-mua-oto-nua-dau-2026-5096524.html",
+      "summary": "Nửa đầu 2026, doanh số toàn ngành đạt 328.818 ôtô, tăng 29,3% so với cùng kỳ 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T22:00:00+07:00",
+      "fetched": "2026-07-13T05:37:47.000185+07:00"
+    },
+    {
+      "id": "a045cf4afa6365077b485477228a9fc0",
+      "title": "Chiến sự Ukraine ngày 1.599: Loạt tàu dầu Nga trúng đòn UAV",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1599-loat-tau-dau-nga-trung-don-uav-185260712191841141.htm",
+      "summary": "Nga cáo buộc máy bay không người lái (UAV) của Ukraine đã tấn công tàu chở dầu khi phương tiện này đang tiến vào kênh đào nối biển Azov và biển Đen.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T22:00:00+07:00",
+      "fetched": "2026-07-13T05:37:49.888231+07:00"
+    },
+    {
+      "id": "3dcd1529ae7a1648e0c1c62057bd60e8",
+      "title": "Lịch âm hôm nay 13.7: Ngày cuối cùng tháng Giáp Ngọ, người Việt cần lưu ý",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-137-ngay-cuoi-cung-thang-giap-ngo-nguoi-viet-can-luu-y-185260710120828187.htm",
+      "summary": "Theo lịch âm hôm nay 13.7 là ngày cuối cùng của tháng Giáp Ngọ năm Bính Ngọ 2026. Dân gian quan niệm đây không phải là ngày đẹp, cần lưu ý khi xuất hành, khởi sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T22:00:00+07:00",
+      "fetched": "2026-07-13T05:37:49.888385+07:00"
+    },
+    {
+      "id": "edd8e9ef9d99d1b60806fe3c8ce1245e",
+      "title": "Hoài nghi quanh chuyên cơ Không lực Một mới của ông Trump",
+      "link": "https://vnexpress.net/hoai-nghi-quanh-chuyen-co-khong-luc-mot-moi-cua-ong-trump-5096121.html",
+      "summary": "Việc ông Trump bất ngờ đổi chuyên cơ tại Thổ Nhĩ Kỳ làm dấy lên hoài nghi về năng lực bảo vệ và hệ thống phòng thủ của chiếc Không lực Một mới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-12T22:00:00+07:00",
+      "fetched": "2026-07-13T05:37:53.551393+07:00"
+    },
+    {
+      "id": "9348cbfa63c0714d3ee892e40c461beb",
+      "title": "Con số nào sẽ quyết định trận bán kết World Cup Pháp - Tây Ban Nha",
+      "link": "https://thanhnien.vn/con-so-nao-se-quyet-dinh-tran-ban-ket-world-cup-phap-tay-ban-nha-185260712192308386.htm",
+      "summary": "Trận bán kết World Cup 2026 nhiều khả năng sẽ được định đoạt bởi những con số phía sau như tỷ lệ kiểm soát bóng, khả năng chuyển trạng thái và hiệu quả dứt điểm của đội tuyển Pháp và đội tuyển Tây Ban Nha.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T21:20:00+07:00",
+      "fetched": "2026-07-13T05:37:49.888532+07:00"
+    },
+    {
+      "id": "06b501b387b269ceca0ad72bdf17e18c",
+      "title": "10 ôtô bán ít nhất thị trường Việt Nam tháng 6",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-ban-it-nhat-thi-truong-viet-nam-thang-6-5096483.html",
+      "summary": "Ford Mustang Much-E bàn giao ít xe mới nhất với 6 chiếc, Isuzu mu-X xếp thứ hai với 8 xe, D-Max và Hyundai Elantra cùng bán được 18 xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T21:00:00+07:00",
+      "fetched": "2026-07-13T05:37:47.000342+07:00"
+    },
+    {
+      "id": "985e822c58ea79e63c5b8d6021a9f6e9",
+      "title": "Vòng tứ kết nhiều tranh cãi",
+      "link": "https://thanhnien.vn/vong-tu-ket-nhieu-tranh-cai-185260712214603386.htm",
+      "summary": "Hôm qua, đội tuyển Anh và Argentina giành 2 tấm vé cuối vào vòng bán kết World Cup 2026 nhưng chiến thắng của họ tạo nên tranh cãi lớn trong làng bóng đá thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T21:00:00+07:00",
+      "fetched": "2026-07-13T05:37:49.888679+07:00"
     },
     {
       "id": "a0504ae1dba4936f771b44141427911a",
