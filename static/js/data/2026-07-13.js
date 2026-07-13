@@ -1,7 +1,157 @@
 window.newsData_2026_07_13 = {
   "date": "2026-07-13",
-  "lastUpdated": "2026-07-13T05:37:58.922934+07:00",
+  "lastUpdated": "2026-07-13T08:50:47.111252+07:00",
   "articles": [
+    {
+      "id": "da0d1024315d0b1e2f1de642005ba655",
+      "title": "Khán giả trẻ hào hứng cùng 'Dế Mèn ngoại truyện' qua ngôn ngữ của thế kỷ 21",
+      "link": "https://tuoitre.vn/khan-gia-tre-hao-hung-cung-de-men-ngoai-truyen-qua-ngon-ngu-cua-the-ky-21-100260713000710129.htm",
+      "summary": "Sau hơn 80 năm kể từ khi Dế Mèn phiêu lưu ký của nhà văn Tô Hoài ra đời, nhân vật Dế Mèn trở lại sân khấu với một diện mạo mới, đầy sáng tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T08:50:41.621744+07:00",
+      "fetched": "2026-07-13T08:50:41.621802+07:00"
+    },
+    {
+      "id": "555de208da432076f710d6f7c37ba21a",
+      "title": "Dự đoán Nguyễn Hàn Việt vào top 5 Nam vương Siêu quốc gia 2026",
+      "link": "https://tuoitre.vn/du-doan-nguyen-han-viet-vao-top-5-nam-vuong-sieu-quoc-gia-2026-100260713041817205.htm",
+      "summary": "Trước thềm chung kết Nam vương Siêu quốc gia 2026 diễn ra tại Ba Lan, đại diện Việt Nam Nguyễn Hàn Việt được các chuyên trang sắc đẹp quốc tế đưa vào nhóm ứng viên nổi bật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T08:50:41.621670+07:00",
+      "fetched": "2026-07-13T08:50:41.621733+07:00"
+    },
+    {
+      "id": "fcc734c638a4018d02796b2e7b494c58",
+      "title": "Argentina có giành nổi vé vào chung kết World Cup 2026?",
+      "link": "https://tuoitre.vn/argentina-co-gianh-noi-ve-vao-chung-ket-world-cup-2026-100260713061905897.htm",
+      "summary": "Dù vất vả mới có mặt tại bán kết World Cup 2026, tuyển Argentina vẫn có quyền hy vọng sẽ giành chiến thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T08:50:41.621604+07:00",
+      "fetched": "2026-07-13T08:50:41.621660+07:00"
+    },
+    {
+      "id": "a76f29ed92ca7cd1b62dd35363169b9a",
+      "title": "Tin tức thế giới 13-7: Mỹ tiếp tục không kích Iran; Giá dầu thế giới tăng gần 4%",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-13-7-my-tiep-tuc-khong-kich-iran-gia-dau-the-gioi-tang-gan-4-100260712234105445.htm",
+      "summary": "Nữ thủ tướng Ukraine cầm quyền vừa tròn 1 năm đã bị thay; Tổng thư ký Liên hợp quốc kêu gọi Mỹ và Iran ngừng tấn công nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T08:50:41.621538+07:00",
+      "fetched": "2026-07-13T08:50:41.621594+07:00"
+    },
+    {
+      "id": "6ad59ef1dac2683e0890164163bee889",
+      "title": "Tăng tốc kết nối sân bay Long Thành: Những hình ảnh mới nhất của Tuổi Trẻ trên đại công trường",
+      "link": "https://tuoitre.vn/tang-toc-ket-noi-san-bay-long-thanh-nhung-hinh-anh-moi-nhat-cua-tuoi-tre-tren-nhung-cong-truong-100260710180538235.htm",
+      "summary": "Dự án mở rộng cao tốc TP.HCM - Long Thành đang thay đổi từng ngày khi những hạng mục quan trọng của dự án đã thành hình, dần tạo nên một diện mạo mới cho tuyến giao thông huyết mạch kết nối TP.HCM với Đồng Nai và sân bay Long Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T08:50:41.621469+07:00",
+      "fetched": "2026-07-13T08:50:41.621527+07:00"
+    },
+    {
+      "id": "67daa53acdeee07fffa4990b8e8b202c",
+      "title": "Đánh bại Zverev, Sinner vô địch Wimbledon 2026",
+      "link": "https://tuoitre.vn/danh-bai-zverev-sinner-vo-dich-wimbledon-2026-100260713035548546.htm",
+      "summary": "Đánh bại hạt giống số 2 Alexander Zverev sau 4 set đấu (6-7, 7-6, 6-3, 6-4) vào rạng sáng 13-7, tay vợt số 1 thế giới Jannik Sinner đã chính thức bảo vệ thành công danh hiệu vô địch Wimbledon 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T08:50:41.621399+07:00",
+      "fetched": "2026-07-13T08:50:41.621459+07:00"
+    },
+    {
+      "id": "8e13328d39559e8cbaa5115be227f9c2",
+      "title": "Uruguay chọn huyền thoại Diego Forlan làm HLV sau 'thảm họa' World Cup",
+      "link": "https://tuoitre.vn/uruguay-chon-huyen-thoai-diego-forlan-lam-hlv-sau-tham-hoa-world-cup-100260713064744893.htm",
+      "summary": "Tuyển Uruguay chính thức có HLV mới sau World Cup 2026, với người được lựa chọn là Diego Forlan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T08:50:41.621325+07:00",
+      "fetched": "2026-07-13T08:50:41.621388+07:00"
+    },
+    {
+      "id": "0989f52a05edd28a08905d5466b967a1",
+      "title": "Hành động fair-play của Sinner tại trận chung kết Wimbledon",
+      "link": "https://tuoitre.vn/hanh-dong-fair-play-cua-sinner-tai-tran-chung-ket-wimbledon-100260713044553958.htm",
+      "summary": "Không chỉ bảo vệ thành công chức vô địch Wimbledon bằng màn trình diễn đẳng cấp, tay vợt Jannik Sinner còn chiếm trọn tình cảm của người hâm mộ bằng hành động fair-play trong trận chung kết với Alexander Zverev.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T08:50:41.621218+07:00",
+      "fetched": "2026-07-13T08:50:41.621313+07:00"
+    },
+    {
+      "id": "40d612e1a6368dd44b981c539b1557d8",
+      "title": "Nhân chứng vụ hỏa hoạn 27 người chết ở Thái Lan: Khói và nổ, nạn nhân nằm bất động trên sàn",
+      "link": "https://tuoitre.vn/nhan-chung-vu-hoa-hoan-27-nguoi-chet-o-thai-lan-khoi-va-no-nan-nhan-nam-bat-dong-tren-san-100260713070722171.htm",
+      "summary": "Nhiều nạn nhân được nhìn thấy nằm bất động trên sàn gần khu vực nhà vệ sinh của quán bar (quán rượu) ở Bangkok, Thái Lan. Khói bao trùm toàn bộ quán bar, khiến khách khó thoát ra ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T08:50:41.621107+07:00",
+      "fetched": "2026-07-13T08:50:41.621202+07:00"
+    },
+    {
+      "id": "06f2551ce3f26edaee28c7a3b4f79aa8",
+      "title": "Chứng khoán tuần mới: Chờ 'soi' báo cáo quý 2, dòng tiền có trở lại?",
+      "link": "https://tuoitre.vn/chung-khoan-tuan-moi-cho-soi-bao-cao-quy-2-dong-tien-co-tro-lai-100260713072755359.htm",
+      "summary": "VN-Index vẫn giằng co sau nhiều tuần giao dịch kém sôi động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T08:50:41.620993+07:00",
+      "fetched": "2026-07-13T08:50:41.621089+07:00"
+    },
+    {
+      "id": "4bfa4f6292d94609ae91a4ff7ecd736c",
+      "title": "Xe điện lạ trên phố Hà Nội: Dài hơn Palisade, sạc 10 phút đi được 200km",
+      "link": "https://tuoitre.vn/xe-dien-la-tren-pho-ha-noi-dai-hon-palisade-sac-10-phut-di-duoc-200km-100260713003633126.htm",
+      "summary": "Mẫu SUV Avatr 11 xuất hiện trên đường phố Hà Nội, đánh dấu lần thứ hai mẫu xe điện này có mặt tại Việt Nam sau lần đầu vào tháng 4-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T08:50:41.620847+07:00",
+      "fetched": "2026-07-13T08:50:41.620973+07:00"
+    },
+    {
+      "id": "85538a7134d9a881b2ebbe11e477e50a",
+      "title": "‘Giá cuốc xe rẻ hơn thì tài xế sống bằng gì?’",
+      "link": "https://tuoitre.vn/gia-cuoc-xe-re-hon-thi-tai-xe-song-bang-gi-100260711152714326.htm",
+      "summary": "TADA tung dịch vụ Bike Giá Tốt kèm theo cơn mưa ưu đãi. Liệu đây có phải là một chiêu trò ép giá tài xế, hay thực sự là nước cờ ‘win-win’?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T08:50:41.620740+07:00",
+      "fetched": "2026-07-13T08:50:41.620831+07:00"
+    },
+    {
+      "id": "44248a2e5286c1bc233da2502fde8837",
+      "title": "Tổng Bí thư, Chủ tịch nước: Khẩn trương thúc đẩy kết nối VNeID với hệ thống định danh điện tử Singapore, các nước ASEAN",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-khan-truong-thuc-day-ket-noi-vneid-voi-he-thong-dinh-danh-dien-tu-singapore-cac-nuoc-asean-100260713074058087.htm",
+      "summary": "Kết luận của Tổng Bí thư, Chủ tịch nước Tô Lâm, Trưởng Ban Chỉ đạo,tại phiên họp chuyên đề về chuyển đổi số trong hệ thống chính trị ngày 25-6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T08:50:41.620601+07:00",
+      "fetched": "2026-07-13T08:50:41.620720+07:00"
+    },
+    {
+      "id": "23dcf875001926b2d6efff52fea5c251",
+      "title": "Cước tàu đi Mỹ tăng lên gần 9.000 USD/container",
+      "link": "https://tuoitre.vn/cuoc-tau-di-my-tang-len-gan-9000-usd-container-100260713075328739.htm",
+      "summary": "Cước vận chuyển từ TP.HCM đi Bờ Đông Mỹ tăng gần 17% trong một tuần, lên 8.849 USD/container 40 feet.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T08:50:41.620245+07:00",
+      "fetched": "2026-07-13T08:50:41.620582+07:00"
+    },
+    {
+      "id": "fea22a13af006b95f7c1fb441957d73e",
+      "title": "Khởi tố người phụ nữ làm bột nghệ giả",
+      "link": "https://tuoitre.vn/khoi-to-nguoi-phu-nu-lam-bot-nghe-gia-100260713073504599.htm",
+      "summary": "Đặng Thị Nga đã mua bột ngô và bột sắn không rõ nguồn gốc trên thị trường, sau đó pha trộn với chất tạo màu thực phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T08:50:41.620084+07:00",
+      "fetched": "2026-07-13T08:50:41.620230+07:00"
+    },
     {
       "id": "c351abf86f1d7e73c2b901e9fa29c927",
       "title": "NÓNG: Mỹ tấn công Iran dọc eo biển Hormuz, nhắm vào mục tiêu nào?",
@@ -171,6 +321,456 @@ window.newsData_2026_07_13 = {
       "category": "Tổng hợp",
       "published": "2026-07-13T01:50:48.629167+07:00",
       "fetched": "2026-07-13T01:50:48.629340+07:00"
+    },
+    {
+      "id": "a0dd6bf4ba9748d30594ccdfc65aa992",
+      "title": "Ngủ khi tóc còn ướt sau tắm đêm: Chuyên gia cảnh báo tác hại",
+      "link": "https://thanhnien.vn/ngu-khi-toc-con-uot-sau-tam-dem-chuyen-gia-canh-bao-tac-hai-185260713084523839.htm",
+      "summary": "Trước khi đi ngủ, không ít người tắm để cảm thấy sạch sẽ và dễ chịu hơn sau một ngày dài. Tuy nhiên, việc lên giường khi tóc vẫn còn ướt có thể ảnh hưởng đến nhiều vấn đề sức khỏe nếu lặp lại thường xuyên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T01:45:00+07:00",
+      "fetched": "2026-07-13T08:50:39.827759+07:00"
+    },
+    {
+      "id": "79fd6d326156d4d0a1a8b7a01b68c64a",
+      "title": "Giá xăng dầu hôm nay 13.7.2026: Tăng mạnh",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-1372026-tang-manh-185260713082512547.htm",
+      "summary": "Giá dầu thế giới tăng mạnh trong bối cảnh Mỹ tiến hành các cuộc không kích mới nhằm vào Iran và nước này cũng đáp trả tấn công vào các cơ sở của Mỹ tại các nước trong khu vực Trung Đông, tuyên bố đóng cửa eo biển Hormuz. Giá xăng dầu trong nước tuần này được dự báo sẽ tăng trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T01:43:00+07:00",
+      "fetched": "2026-07-13T08:50:39.827934+07:00"
+    },
+    {
+      "id": "847e79c2d7766e50c6f938dd8a8227e1",
+      "title": "Iran tuyên bố tập kích tổ hợp HIMARS Mỹ ở Kuwait",
+      "link": "https://vnexpress.net/iran-tuyen-bo-tap-kich-to-hop-himars-my-o-kuwait-5096617.html",
+      "summary": "Hãng thông tấn Iran đưa tin lực lượng nước này đã đánh trúng trận địa HIMARS Mỹ ở Kuwait, phá hủy một số bệ phóng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-13T01:42:31+07:00",
+      "fetched": "2026-07-13T08:50:42.969326+07:00"
+    },
+    {
+      "id": "425e70f480960ed06d5705accb2ef6f3",
+      "title": "Mỹ mở đợt tấn công mới, Iran cảnh báo về tình hình eo biển Hormuz",
+      "link": "https://thanhnien.vn/my-mo-dot-tan-cong-moi-iran-canh-bao-ve-tinh-hinh-eo-bien-hormuz-185260713083617113.htm",
+      "summary": "Bộ Ngoại giao Iran đã lên tiếng cảnh báo về tình hình eo biển Hormuz ngay sau khi quân đội Mỹ tuyên bố bắt đầu tiến hành đợt tấn công mới nhằm vào Iran, theo AFP sáng nay 13.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T01:41:00+07:00",
+      "fetched": "2026-07-13T08:50:39.828123+07:00"
+    },
+    {
+      "id": "eea2c89f2e04adc86cdf82f8f5b9609f",
+      "title": "Hàn Quốc tìm thấy thi thể thủy thủ mất tích gần giới tuyến biển liên Triều",
+      "link": "https://thanhnien.vn/han-quoc-tim-thay-thi-the-thuy-thu-mat-tich-gan-gioi-tuyen-bien-lien-trieu-185260713072141346.htm",
+      "summary": "Hải quân Hàn Quốc sáng nay 13.7 thông báo đã tìm thấy thi thể của một thủy thủ mất tích trên biển cuối tuần qua gần giới tuyến biển với CHDCND Triều Tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T01:33:00+07:00",
+      "fetched": "2026-07-13T08:50:39.828277+07:00"
+    },
+    {
+      "id": "9944cbe66c960ae5009b80a830aa6f98",
+      "title": "Roy Keane mỉa mai bố Haaland",
+      "link": "https://vnexpress.net/roy-keane-mia-mai-bo-haaland-5096622.html",
+      "summary": "Cựu đội trưởng Man Utd Roy Kane mỉa mai Alf-Inge Haaland lúc nào cũng như uống rượu lúc xem bóng đá, sau khi danh thủ Na Uy chỉ trích trọng tài trận đội nhà thua Anh ở tứ kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-13T01:22:53+07:00",
+      "fetched": "2026-07-13T08:50:47.102138+07:00"
+    },
+    {
+      "id": "7e622b7b3ba76e1d3963cf0a254a2c5b",
+      "title": "Giá heo hơi hôm nay 13.7.2026: Bất ngờ tăng trở lại",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1372026-bat-ngo-tang-tro-lai-185260713080435382.htm",
+      "summary": "Sau thời gian trầm lắng, thị trường heo hơi bất ngờ tăng giá trở lại tại nhiều địa phương với mức bình quân cả nước hiện 63.500 đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T01:21:00+07:00",
+      "fetched": "2026-07-13T08:50:39.828428+07:00"
+    },
+    {
+      "id": "74c08341a0b472b1e78df9f7e1893682",
+      "title": "Tốt nghiệp thạc sĩ Thanh Hoa sau 17 năm chụp ảnh cùng bố trước cổng trường",
+      "link": "https://vnexpress.net/tot-nghiep-thac-si-thanh-hoa-sau-17-nam-chup-anh-cung-bo-truoc-cong-truong-5096614.html",
+      "summary": "Wu Han gây sốt với bức ảnh cùng bố trước cổng đại học Thanh Hoa năm 9 tuổi và năm 26 tuổi, khi đã tốt nghiệp thạc sĩ tại ngôi trường danh tiếng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-13T01:16:12+07:00",
+      "fetched": "2026-07-13T08:50:42.969512+07:00"
+    },
+    {
+      "id": "852081cf7f45189472c9a4477cca6cd3",
+      "title": "Cổ động viên Anh cảm ơn mẹ của Bellingham",
+      "link": "https://vnexpress.net/co-dong-vien-anh-cam-on-me-cua-bellingham-5096563.html",
+      "summary": "Lời động viên từ mẹ, bà Denise, đã góp phần giúp Jude Bellingham tránh thẻ vàng ở trận Anh gặp Na Uy, để không bỏ lỡ bán kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-13T01:14:54+07:00",
+      "fetched": "2026-07-13T08:50:47.102386+07:00"
+    },
+    {
+      "id": "c7a6f1e62e9a0e69cf4c0c4dc849bd9d",
+      "title": "Giá vàng thế giới giảm, dầu thô bật tăng",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-giam-dau-tho-bat-tang-5096613.html",
+      "summary": "Mỗi ounce vàng mất hơn 50 USD sáng 13/7, trong khi giá dầu tăng gần 4% khi Mỹ tấn công Iran cuối tuần qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-13T01:12:21+07:00",
+      "fetched": "2026-07-13T08:50:44.115121+07:00"
+    },
+    {
+      "id": "0a8534fbbcdde54830518e432ce6da56",
+      "title": "Bán kết Pháp đại chiến Tây Ban Nha: Mbappe và Yamal chưa chắc là chìa khóa, tại sao?",
+      "link": "https://thanhnien.vn/ban-ket-phap-dai-chien-tay-ban-nha-mbappe-va-yamal-chua-chac-la-chia-khoa-tai-sao-185260713080441351.htm",
+      "summary": "Mbappe và Yamal là những cái tên được nhắc đến nhiều nhất trước bán kết World Cup 2026. Nhưng quyền kiểm soát khu trung tuyến mới có thể là yếu tố quyết định đội tuyển Pháp hay đội tuyển Tây Ban Nha giành vé vào chung kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T01:11:00+07:00",
+      "fetched": "2026-07-13T08:50:39.828578+07:00"
+    },
+    {
+      "id": "1442fea8d5d20c03599b10421894680a",
+      "title": "Không phải Mbappe hay Yamal, tuyến giữa mới quyết định bán kết World Cup",
+      "link": "https://thanhnien.vn/khong-phai-mbappe-hay-yamal-tuyen-giua-moi-quyet-dinh-ban-ket-world-cup-185260713081031356.htm",
+      "summary": "Mbappe và Lamine Yamal sẽ là tâm điểm trước bán kết World Cup 2026, nhưng cuộc chiến thực sự nhiều khả năng nằm ở tuyến giữa, nơi đội tuyển Pháp và đội tuyển Tây Ban Nha xây dựng toàn bộ cách vận hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T01:10:00+07:00",
+      "fetched": "2026-07-13T08:50:39.828726+07:00"
+    },
+    {
+      "id": "e201a9ac7dcc72d078167d0ed39b3f99",
+      "title": "Giá Bitcoin hôm nay 13.7.2026: Bitcoin dần miễn nhiễm với chiến sự Mỹ - Iran",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-1372026-bitcoin-dan-mien-nhiem-voi-chien-su-my-iran-185260713073615684.htm",
+      "summary": "Bitcoin duy trì quanh vùng giá 63.000 USD, bất chấp chiến sự Mỹ- Iran leo thang và eo biển Hormuz bị đóng cửa trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T01:10:00+07:00",
+      "fetched": "2026-07-13T08:50:39.828872+07:00"
+    },
+    {
+      "id": "a4ee27792362f2e2376426d24fee14e7",
+      "title": "Đi bộ thể dục: Tuổi 50 nên đi bao lâu mỗi ngày để khỏe mạnh?",
+      "link": "https://thanhnien.vn/di-bo-the-duc-tuoi-50-nen-di-bao-lau-moi-ngay-de-khoe-manh-185260713080146197.htm",
+      "summary": "Đi bộ là một trong những cách tốt nhất để chăm sóc sức khỏe, đặc biệt sau tuổi 50. Đây là bài tập tim mạch tác động thấp giúp kiểm soát cân nặng, giữ thăng bằng, đồng thời giảm nguy cơ tăng huyết áp và tiểu đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T01:01:00+07:00",
+      "fetched": "2026-07-13T08:50:39.829045+07:00"
+    },
+    {
+      "id": "7ad90c1ffb8f0050cdaa8fef5210914c",
+      "title": "Mikel Merino - người chuyên đóng cảnh kết ở đội tuyển Tây Ban Nha",
+      "link": "https://vnexpress.net/mikel-merino-nguoi-chuyen-dong-canh-ket-o-doi-tuyen-tay-ban-nha-5096420.html",
+      "summary": "Trong một thế giới bóng đá tôn thờ các ngôi sao, tiền vệ Mikel Merino luôn biết cách tạo dấu ấn với những bàn quyết định phút cuối sau khi vào sân từ ghế dự bị ở đội tuyển Tây Ban Nha.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-13T01:00:40+07:00",
+      "fetched": "2026-07-13T08:50:47.102655+07:00"
+    },
+    {
+      "id": "990792784aff742b441bb469d97f16e4",
+      "title": "Xin cứu giúp cậu học trò cha mất, mẹ mang sổ bệnh đi xin tiền chạy thận",
+      "link": "https://thanhnien.vn/xin-cuu-giup-cau-hoc-tro-cha-mat-me-mang-so-benh-di-xin-tien-chay-than-185260712181045803.htm",
+      "summary": "Khi biết về hoàn cảnh của cậu học trò khốn khó Lưu Tấn Hưng, chỉ có thể thốt lên: \"Thật quá xót xa!\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T01:00:00+07:00",
+      "fetched": "2026-07-13T08:50:39.829206+07:00"
+    },
+    {
+      "id": "90d5dc76d70df1fae715032c21b073a7",
+      "title": "Doanh nghiệp dẫn dắt: Mảnh ghép tạo nên sức mạnh của những nền kinh tế hàng đầu",
+      "link": "https://thanhnien.vn/doanh-nghiep-dan-dat-manh-ghep-tao-nen-suc-manh-cua-nhung-nen-kinh-te-hang-dau-185260712171843603.htm",
+      "summary": "Từ Samsung (Hàn Quốc), Toyota (Nhật Bản), Apple (Mỹ) đến Alibaba, Tencent (Trung Quốc) và DBS (Singapore)… hành trình vươn lên của nhiều nền kinh tế lớn đều gắn liền với sự trưởng thành của những doanh nghiệp đầu tàu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T01:00:00+07:00",
+      "fetched": "2026-07-13T08:50:39.829354+07:00"
+    },
+    {
+      "id": "169ad2725e907a3118a7aad122194316",
+      "title": "Đẹp cả tuần chỉ với ba gam màu trắng, đen, beige",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dep-ca-tuan-chi-voi-ba-gam-mau-trang-den-beige-185260702121938558.htm",
+      "summary": "Trung thành với ba gam màu trắng, đen, beige, nàng hoàn toàn có thể trải nghiệm cảm giác mặc đẹp cả tuần mà vẫn dạt dào ý tưởng. Hãy mang đến sự biến hóa bất ngờ trong phong cách từ các thiết kế màu trung tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T01:00:00+07:00",
+      "fetched": "2026-07-13T08:50:39.829499+07:00"
+    },
+    {
+      "id": "d7614d913d118480472a364e7ed8e9fb",
+      "title": "Động lực giúp ABBank tăng trưởng kỷ lục",
+      "link": "https://vnexpress.net/dong-luc-giup-abbank-tang-truong-ky-luc-5094893.html",
+      "summary": "Việc tái định vị thương hiệu, đẩy mạnh chuyển đổi số, điều chỉnh phúc lợi cho cán bộ nhân viên đã tạo động lực đưa lợi nhuận trước thuế 6 tháng đầu năm của ABBank đạt kỷ lục 3.016 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-13T01:00:00+07:00",
+      "fetched": "2026-07-13T08:50:44.115792+07:00"
+    },
+    {
+      "id": "7f76aa5eff35414b5e8907d3f8967edc",
+      "title": "Vòng bán kết World Cup 2026 chưa có tiền lệ",
+      "link": "https://vnexpress.net/vong-ban-ket-world-cup-2026-chua-co-tien-le-5096543.html",
+      "summary": "Vòng bán kết World Cup 2026 là lần đầu giải quy tụ cả bốn đội có thứ bậc FIFA cao nhất, lần lượt là Pháp, Argentina, Tây Ban Nha và Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-13T01:00:00+07:00",
+      "fetched": "2026-07-13T08:50:47.102895+07:00"
+    },
+    {
+      "id": "912821d37197bd7df0781d71f28e122b",
+      "title": "Giá cà phê Việt Nam cao hơn thế giới 50 USD/tấn, vì sao?",
+      "link": "https://thanhnien.vn/gia-ca-phe-viet-nam-cao-hon-the-gioi-50-usd-tan-vi-sao-185260713074040822.htm",
+      "summary": "Sau một tuần biến động rất mạnh, tuần này, giá cà phê diễn biến thế nào là điều được nhiều người trông đợi. Đáng chú ý, cà phê có chứng nhận (EUDR) của Việt Nam xuất vào châu Âu (EU) hiện cao hơn thị trường đến 50 USD/tấn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T00:53:00+07:00",
+      "fetched": "2026-07-13T08:50:39.829649+07:00"
+    },
+    {
+      "id": "886fd35d6b76c8e461d906cada9a4f37",
+      "title": "Không yêu cầu người dân, doanh nghiệp kê khai lại thông tin, dữ liệu đã có",
+      "link": "https://thanhnien.vn/khong-yeu-cau-nguoi-dan-doanh-nghiep-ke-khai-lai-thong-tin-du-lieu-da-co-185260713031108095.htm",
+      "summary": "Kết luận của Tổng Bí thư, Chủ tịch nước nêu rõ, đối với thông tin, dữ liệu đã có trong các cơ sở dữ liệu và có thể khai thác, tái sử dụng thì quán triệt nguyên tắc không yêu cầu người dân, doanh nghiệp kê khai, cung cấp lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T00:47:00+07:00",
+      "fetched": "2026-07-13T08:50:39.829794+07:00"
+    },
+    {
+      "id": "fba40421a36bdc6f0f794847803b408d",
+      "title": "Tổng thống Ukraine miễn nhiệm thủ tướng",
+      "link": "https://thanhnien.vn/tong-thong-ukraine-mien-nhiem-thu-tuong-185260713073520778.htm",
+      "summary": "Hãng tin Reuters đưa tin Tổng thống Ukraine Volodymyr Zelensky ngày 12.7 thông báo kế hoạch thay thế Thủ tướng Yulia Svyrydenko chỉ sau một năm bà nắm quyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T00:45:00+07:00",
+      "fetched": "2026-07-13T08:50:39.829936+07:00"
+    },
+    {
+      "id": "106d0a87bc370db79086f51bff5fa4de",
+      "title": "Cháy nhà hàng ở Thái Lan, ít nhất 27 người chết",
+      "link": "https://vnexpress.net/chay-nha-hang-o-thai-lan-it-nhat-27-nguoi-chet-5096594.html",
+      "summary": "Ít nhất 27 người thiệt mạng và hàng chục người bị thương sau vụ cháy tại một nhà hàng ở Thái Lan, nhiều trường hợp đang nguy kịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T00:34:45+07:00",
+      "fetched": "2026-07-13T08:50:36.953471+07:00"
+    },
+    {
+      "id": "0b8ee36e41c92cbd83f971a5bca0f931",
+      "title": "Cháy quán pub ở Thái Lan, ít nhất 27 người chết",
+      "link": "https://vnexpress.net/chay-quan-pub-o-thai-lan-it-nhat-27-nguoi-chet-5096594.html",
+      "summary": "Ít nhất 27 người thiệt mạng và hàng chục người bị thương sau vụ cháy tại một quán pub ở Thái Lan, nhiều trường hợp đang nguy kịch.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-13T00:34:45+07:00",
+      "fetched": "2026-07-13T08:50:42.969679+07:00"
+    },
+    {
+      "id": "df9bf7506f6c42e021b24a498c9b8438",
+      "title": "Chiêu làm giả hàng nghìn phiếu thí nghiệm vật liệu xây dựng",
+      "link": "https://vnexpress.net/chieu-lam-gia-hang-nghin-phieu-thi-nghiem-vat-lieu-xay-dung-5096585.html",
+      "summary": "Công ty Hathaco lập khống phiếu thí nghiệm, dựng số liệu \"đạt chuẩn\", qua mặt quy trình kiểm soát chất lượng để giúp nhà thầu làm hồ sơ nghiệm thu và thanh quyết toán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T00:27:45+07:00",
+      "fetched": "2026-07-13T08:50:36.953674+07:00"
+    },
+    {
+      "id": "4f711a73cfc5ff1ffe49004381250d3b",
+      "title": "Cuộc cải cách môi trường kinh doanh 'chưa từng có'",
+      "link": "https://vnexpress.net/cuoc-cai-cach-moi-truong-kinh-doanh-chua-tung-co-5091182.html",
+      "summary": "Từ sáng sớm đến gần nửa đêm, nhiều cán bộ các bộ, ngành gần như làm việc liên tục tại Bộ Tư pháp. Mỗi khi phát sinh một điểm vướng trong dự thảo nghị quyết, sau vài phút tranh luận, phương án mới được chỉnh sửa ngay trên bản dự thảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T00:25:08+07:00",
+      "fetched": "2026-07-13T08:50:36.953849+07:00"
+    },
+    {
+      "id": "4f711a73cfc5ff1ffe49004381250d3b",
+      "title": "Cuộc cải cách môi trường kinh doanh 'chưa từng có'",
+      "link": "https://vnexpress.net/cuoc-cai-cach-moi-truong-kinh-doanh-chua-tung-co-5091182.html",
+      "summary": "Từ giữa tháng tư đến khi các nghị quyết được ban hành, nhiều cán bộ các bộ, ngành gần như làm việc liên tục tại Bộ Tư pháp. Mỗi khi phát sinh một điểm vướng, họ tranh luận tại chỗ và phương án chỉnh sửa được đưa ra ngay trên bản dự thảo.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-13T00:25:08+07:00",
+      "fetched": "2026-07-13T08:50:44.115307+07:00"
+    },
+    {
+      "id": "0d20c6aeb306ace516cd63c4bcc93c81",
+      "title": "Bí mật sau vụ nổ nhà khiến hai hàng xóm chết oan",
+      "link": "https://vnexpress.net/bi-mat-sau-vu-no-nha-khien-hai-hang-xom-chet-oan-5096584.html",
+      "summary": "Vụ nổ tàn phá khu phố giữa đêm tưởng là tai nạn thảm khốc, nhưng những dấu vết tại hiện trường đã hé lộ âm mưu của chính chủ nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T00:24:08+07:00",
+      "fetched": "2026-07-13T08:50:36.954055+07:00"
+    },
+    {
+      "id": "31c725ea030c52135f5df4a762e147ee",
+      "title": "Bác sĩ tiết lộ 5 thực phẩm giúp hạ cholesterol 'xấu' không cần thuốc",
+      "link": "https://vnexpress.net/bac-si-tiet-lo-5-thuc-pham-giup-ha-cholesterol-xau-khong-can-thuoc-5096562.html",
+      "summary": "Để giảm cholesterol, thay vì chỉ kiêng mỡ, nên bổ sung đậu bắp, cơm ngũ cốc, đậu phụ, hạt chia và thạch sương sáo/ái ngọc vào chế độ ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T00:18:10+07:00",
+      "fetched": "2026-07-13T08:50:36.954222+07:00"
+    },
+    {
+      "id": "82e08724430c09fa2b0d386a7aaece6c",
+      "title": "Có phải tôi hèn khi chồng tạo điều kiện cho ly dị mà lại không dám",
+      "link": "https://vnexpress.net/co-phai-toi-hen-khi-chong-tao-dieu-kien-cho-ly-di-ma-lai-khong-dam-5096506.html",
+      "summary": "Tôi chưa bao giờ được công nhận trong nhà, những gì tôi làm cho gia đình thì anh nói đó là trách nhiệm của người vợ, người mẹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T00:17:41+07:00",
+      "fetched": "2026-07-13T08:50:36.954388+07:00"
+    },
+    {
+      "id": "101be2765741f6bb44d65adba043d2f0",
+      "title": "9 trục động lực của Hà Nội trong quy hoạch 100 năm",
+      "link": "https://vnexpress.net/9-truc-dong-luc-cua-ha-noi-trong-quy-hoach-100-nam-5096278.html",
+      "summary": "Với 9 trục động lực, Hà Nội hướng tới hình thành mạng lưới hành lang phát triển chiến lược, kết nối các cực tăng trưởng mới và định hình không gian đô thị trong nhiều thập kỷ tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T00:00:00+07:00",
+      "fetched": "2026-07-13T08:50:36.954552+07:00"
+    },
+    {
+      "id": "9b23a6cd243a513afa38bad4d293c0e2",
+      "title": "Sen nở rộ ngoại ô Đà Nẵng",
+      "link": "https://vnexpress.net/sen-no-ro-ngoai-o-da-nang-5096094.html",
+      "summary": "Sen ở đầm Trà Lý nở rộ trong nắng sớm hoà với làn sương mờ ảo, thu hút du khách đến tham quan, chụp ảnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T00:00:00+07:00",
+      "fetched": "2026-07-13T08:50:36.954707+07:00"
+    },
+    {
+      "id": "fd98e211bfc1daa217164295e77a47f1",
+      "title": "Mỹ tiếp tục tấn công mục tiêu ở Iran",
+      "link": "https://vnexpress.net/my-tiep-tuc-tan-cong-muc-tieu-o-iran-5096589.html",
+      "summary": "Mỹ tuyên bố tiến hành đợt tập kích mới nhằm vào Iran, sau khi cáo buộc Tehran tấn công tàu hàng ở eo biển Hormuz.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T23:48:12+07:00",
+      "fetched": "2026-07-13T08:50:36.954865+07:00"
+    },
+    {
+      "id": "fd98e211bfc1daa217164295e77a47f1",
+      "title": "Mỹ tiếp tục tấn công mục tiêu ở Iran",
+      "link": "https://vnexpress.net/my-tiep-tuc-tan-cong-muc-tieu-o-iran-5096589.html",
+      "summary": "Mỹ tuyên bố tiến hành đợt tập kích mới nhằm vào Iran, sau khi cáo buộc Tehran tấn công tàu hàng ở eo biển Hormuz.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-12T23:48:12+07:00",
+      "fetched": "2026-07-13T08:50:42.969847+07:00"
+    },
+    {
+      "id": "1b6222758ca3daaf4d9be4ca84b4227e",
+      "title": "Người tiêu dùng tìm mua hàng giảm giá mùa World Cup",
+      "link": "https://vnexpress.net/nguoi-tieu-dung-tim-mua-hang-giam-gia-mua-world-cup-5096484.html",
+      "summary": "Người tiêu dùng tìm mua TV, đồ gia dụng, thực phẩm, thời trang giảm giá khi nhiều nhà bán lẻ đồng loạt tăng ưu đãi mùa World Cup 2026 để thúc đẩy nhu cầu mua sắm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T23:46:22+07:00",
+      "fetched": "2026-07-13T08:50:36.955049+07:00"
+    },
+    {
+      "id": "1b6222758ca3daaf4d9be4ca84b4227e",
+      "title": "Người tiêu dùng tìm mua hàng giảm giá mùa World Cup",
+      "link": "https://vnexpress.net/nguoi-tieu-dung-tim-mua-hang-giam-gia-mua-world-cup-5096484.html",
+      "summary": "Người tiêu dùng tìm mua TV, đồ gia dụng, thực phẩm, thời trang giảm giá khi nhiều nhà bán lẻ đồng loạt tăng ưu đãi mùa World Cup 2026 để thúc đẩy nhu cầu mua sắm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-12T23:46:22+07:00",
+      "fetched": "2026-07-13T08:50:44.115471+07:00"
+    },
+    {
+      "id": "26e74fac84167f130a5a5a01ccb8fdf9",
+      "title": "Zenvo Aurora - siêu xe Đan Mạch mạnh 1.850 mã lực",
+      "link": "https://vnexpress.net/zenvo-aurora-sieu-xe-dan-mach-manh-1-850-ma-luc-5096153.html",
+      "summary": "Mẫu siêu xe sử dụng động cơ V12 mạnh nhất trên một chiếc xe thương mại, dự kiến có hai phiên bản và giới hạn 50 chiếc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T23:31:00+07:00",
+      "fetched": "2026-07-13T08:50:36.955210+07:00"
+    },
+    {
+      "id": "c8f82b26147f2f5d6d182fd5965eb185",
+      "title": "Sinner bảo vệ danh hiệu Wimbledon",
+      "link": "https://vnexpress.net/sinner-bao-ve-danh-hieu-wimbledon-5096593.html",
+      "summary": "Tay vợt Jannik Sinner bảo vệ thành công chức vô địch Wimbledon sau khi thắng Alexander Zverev 6-7(7), 7-6(2), 6-3, 6-4 ở chung kết hôm 12/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T23:20:27+07:00",
+      "fetched": "2026-07-13T08:50:36.955367+07:00"
+    },
+    {
+      "id": "c8f82b26147f2f5d6d182fd5965eb185",
+      "title": "Sinner bảo vệ danh hiệu Wimbledon",
+      "link": "https://vnexpress.net/sinner-bao-ve-danh-hieu-wimbledon-5096593.html",
+      "summary": "Tay vợt Jannik Sinner bảo vệ thành công chức vô địch Wimbledon sau khi thắng Alexander Zverev 6-7(7), 7-6(2), 6-3, 6-4 ở chung kết hôm 12/7.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-12T23:20:27+07:00",
+      "fetched": "2026-07-13T08:50:47.103151+07:00"
+    },
+    {
+      "id": "a7dc3d5641a8167e87ad25555816b071",
+      "title": "Tin World Cup 6h: FIFA nghiên cứu mở rộng World Cup 2030 lên 64 đội | Messi háo hức khi lần đầu chạm trán đội tuyển Anh",
+      "link": "https://vnexpress.net/tin-world-cup-6h-fifa-nghien-cuu-mo-rong-world-cup-2030-len-64-doi-messi-hao-huc-khi-lan-dau-cham-tran-doi-tuyen-anh-5096592.html",
+      "summary": "Đội trưởng Thụy Sĩ: 'Trọng tài phá hỏng trận đấu với Argentina'; Haaland kiệt sức khi Na Uy bị loại;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T23:17:14+07:00",
+      "fetched": "2026-07-13T08:50:36.955526+07:00"
+    },
+    {
+      "id": "1121d387e3ec1ec66733e2bb8c3642de",
+      "title": "Vì sao các ông lớn công nghệ lãi kỷ lục vẫn sa thải hàng loạt?",
+      "link": "https://vnexpress.net/vi-sao-cac-ong-lon-cong-nghe-lai-ky-luc-van-sa-thai-hang-loat-5096583.html",
+      "summary": "Hàng trăm nghìn nhân sự bị cắt giảm dù các \"ông lớn\" công nghệ vẫn lập kỷ lục doanh thu, cho thấy AI là một phần của câu chuyện phía sau làn sóng sa thải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T23:15:06+07:00",
+      "fetched": "2026-07-13T08:50:36.955677+07:00"
+    },
+    {
+      "id": "cb8b79163267374f72ba95ce1dedd1b9",
+      "title": "Messi, Mbappe vào đội hình hay nhất tứ kết World Cup 2026",
+      "link": "https://vnexpress.net/messi-mbappe-vao-doi-hinh-hay-nhat-tu-ket-world-cup-2026-5096548.html",
+      "summary": "Thibaut Courtois, Jude Bellingham, Lionel Messi và Kylian Mbappe góp mặt trong đội hình hay nhất tứ kết World Cup 2026, theo bình chọn của chuyên trang thống kê Sofascore.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-12T23:07:46+07:00",
+      "fetched": "2026-07-13T08:50:36.955834+07:00"
+    },
+    {
+      "id": "cb8b79163267374f72ba95ce1dedd1b9",
+      "title": "Messi, Mbappe vào đội hình hay nhất tứ kết World Cup 2026",
+      "link": "https://vnexpress.net/messi-mbappe-vao-doi-hinh-hay-nhat-tu-ket-world-cup-2026-5096548.html",
+      "summary": "Thibaut Courtois, Jude Bellingham, Lionel Messi và Kylian Mbappe góp mặt trong đội hình hay nhất tứ kết World Cup 2026, theo bình chọn của chuyên trang thống kê Sofascore.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-12T23:07:46+07:00",
+      "fetched": "2026-07-13T08:50:47.103389+07:00"
+    },
+    {
+      "id": "4be2d1a4e5d6ece7539be271df0233d5",
+      "title": "Chứng khoán tuần này có thể giảm tiếp",
+      "link": "https://vnexpress.net/chung-khoan-tuan-nay-co-the-giam-tiep-5096550.html",
+      "summary": "Thanh khoản thị trường đi xuống cùng địa chính trị ở Trung Đông căng thẳng trở lại có thể khiến chứng khoán tuần này giảm điểm, theo chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-12T22:48:37+07:00",
+      "fetched": "2026-07-13T08:50:44.115637+07:00"
     },
     {
       "id": "dc9a943e901ae6082e3ef8a356320b53",
