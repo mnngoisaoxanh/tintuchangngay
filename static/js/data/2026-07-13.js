@@ -1,7 +1,157 @@
 window.newsData_2026_07_13 = {
   "date": "2026-07-13",
-  "lastUpdated": "2026-07-13T19:25:54.656182+07:00",
+  "lastUpdated": "2026-07-13T23:21:03.654780+07:00",
   "articles": [
+    {
+      "id": "510bc28592b31784ee9c21603f3f11f8",
+      "title": "Quyền đăng ký xét tuyển đại học của 328 thí sinh chuyên Tuyên Quang ra sao?",
+      "link": "https://tuoitre.vn/quyen-dang-ky-xet-tuyen-dai-hoc-cua-328-thi-sinh-chuyen-tuyen-quang-ra-sao-100260713191201816.htm",
+      "summary": "Nhiều ý kiến băn khoăn 328 thí sinh tại điểm thi Trường THPT chuyên Tuyên Quang có được đăng ký xét tuyển đại học khi chỉ còn một ngày nữa cổng đăng ký nguyện vọng xét tuyển đại học năm 2026 sẽ đóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:20:56.408070+07:00",
+      "fetched": "2026-07-13T23:20:56.408127+07:00"
+    },
+    {
+      "id": "2c626ee1ade459c0ba7c968669b77cd9",
+      "title": "Lý do khiến Mỹ phải tăng cường an ninh ở trận Anh gặp Argentina",
+      "link": "https://tuoitre.vn/ly-do-khien-my-phai-tang-cuong-an-ninh-o-tran-anh-gap-argentina-100260713194203029.htm",
+      "summary": "Trận bán kết World Cup 2026 giữa Anh và Argentina có thể xảy ra nhiều vụ xô xát giữa CĐV do những mâu thuẫn từ lâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:20:56.408004+07:00",
+      "fetched": "2026-07-13T23:20:56.408060+07:00"
+    },
+    {
+      "id": "d12e94f4478b035601d94fb04bcac374",
+      "title": "Vụ gây rối trật tự trung tâm thương mại ở An Giang: Công an truy xét nhóm 6 thanh thiếu niên",
+      "link": "https://tuoitre.vn/vu-gay-roi-trat-tu-trung-tam-thuong-mai-o-an-giang-cong-an-truy-xet-nhom-6-thanh-thieu-nien-100260713185514266.htm",
+      "summary": "Tối 13-7, Công an tỉnh An Giang phối hợp Công an xã Cần Đăng điều tra, truy xét nhóm 6 thanh thiếu niên có hành vi gây rối trật tự công cộng tại Trung tâm thương mại Cần Đăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:20:56.407935+07:00",
+      "fetched": "2026-07-13T23:20:56.407993+07:00"
+    },
+    {
+      "id": "5ead09cfeb913c5db77ee0244f86569f",
+      "title": "Ukraine tuyên bố đánh trúng 7 tàu dầu Nga trên biển Azov chỉ trong một đêm",
+      "link": "https://tuoitre.vn/ukraine-tuyen-bo-danh-trung-7-tau-dau-nga-tren-bien-azov-chi-trong-mot-dem-100260713190732867.htm",
+      "summary": "Phía Ukraine nói rằng tổng số tàu thuyền Nga bị tấn công trong 8 ngày qua lên tới 105 chiếc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:20:56.407867+07:00",
+      "fetched": "2026-07-13T23:20:56.407924+07:00"
+    },
+    {
+      "id": "328fbef3608a3061cb02e5731139023f",
+      "title": "Những thành phố mơ màng hay Những thành phố kinh hoàng?",
+      "link": "https://tuoitre.vn/nhung-thanh-pho-mo-mang-hay-nhung-thanh-pho-kinh-hoang-100260713194218863.htm",
+      "summary": "Show ‘Những thành phố mơ màng’ bị khán giả gọi là ‘Những thành phố kinh hoàng’, ban tổ chức nói gì?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:20:56.407798+07:00",
+      "fetched": "2026-07-13T23:20:56.407856+07:00"
+    },
+    {
+      "id": "50680276ff737d7930e53c26ae0b66d7",
+      "title": "Đại sứ Mỹ chuyển thông điệp 'tự hào là đối tác của Việt Nam' cùng lời cảm ơn từ Tổng thống Trump",
+      "link": "https://tuoitre.vn/dai-su-my-chuyen-thong-diep-tu-hao-la-doi-tac-cua-viet-nam-cung-loi-cam-on-tu-tong-thong-trump-100260713201050303.htm",
+      "summary": "Thông điệp được Đại sứ Mỹ tại Việt Nam Jennifer Wicks chia sẻ, khi đến chào xã giao Thủ tướng Lê Minh Hưng chiều 13-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:20:56.407730+07:00",
+      "fetched": "2026-07-13T23:20:56.407788+07:00"
+    },
+    {
+      "id": "a1cd6ccdc132715e5e257e82d901e996",
+      "title": "Vụ lật ca nô ở Phú Quốc: Bàn giao 15 thi thể nạn nhân lên chuyến bay về Ấn Độ",
+      "link": "https://tuoitre.vn/vu-lat-ca-no-o-phu-quoc-ban-giao-15-thi-the-nan-nhan-len-chuyen-bay-ve-an-do-100260713194217482.htm",
+      "summary": "18h chiều 13-7, các cơ quan chức năng Việt Nam đã hoàn tất thủ tục bàn giao, đưa thi thể 15 nạn nhân vụ tai nạn tại Phú Quốc lên chuyến bay về Ấn Độ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:20:56.407659+07:00",
+      "fetched": "2026-07-13T23:20:56.407719+07:00"
+    },
+    {
+      "id": "76ede01d908c38b84ed280dbe65ccac0",
+      "title": "Cổ rụt, lưng gù vì ngồi vẹo vọ, bò dài trên bàn: Chữa thế nào?",
+      "link": "https://tuoitre.vn/co-rut-lung-gu-vi-ngoi-veo-vo-bo-dai-tren-ban-chua-the-nao-100260713162036805.htm",
+      "summary": "Các chuyên gia cảnh báo việc ngồi sai tư thế kéo dài sẽ gây ảnh hưởng đến sự phát triển cơ xương ở trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:20:56.407588+07:00",
+      "fetched": "2026-07-13T23:20:56.407648+07:00"
+    },
+    {
+      "id": "e15e6dace8b9538f475a2e3f1c16e2ee",
+      "title": "Phạt chủ quán để hát karaoke ‘ồn quá độ’, buộc trả tiền giám định tiếng ồn",
+      "link": "https://tuoitre.vn/phat-chu-quan-de-hat-karaoke-on-qua-do-buoc-tra-tien-giam-dinh-tieng-on-100260713191124946.htm",
+      "summary": "Chịu không thấu với quán cà phê tổ chức “hát cho nhau nghe”, dân ở Khánh Hòa đo độ ồn, gửi chứng cứ cùng nhiều đơn phản ánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:20:56.407513+07:00",
+      "fetched": "2026-07-13T23:20:56.407577+07:00"
+    },
+    {
+      "id": "7045e451cd23f0f4c5a2be0292a4fa06",
+      "title": "Sốc: Trọng tài FIFA qua đời sau khi bị loại khỏi World Cup 2026",
+      "link": "https://tuoitre.vn/soc-trong-tai-fifa-qua-doi-sau-khi-bi-loai-khoi-world-cup-2026-100260713203006885.htm",
+      "summary": "Tối 13-7, làng bóng đá đỉnh cao bàng hoàng nhận tin trọng tài phòng VAR nổi tiếng người Hà Lan, ông Rob Dieperink đã qua đời ở tuổi 38, sau khi bị loại khỏi World Cup 2026 do một nghi án tấn công tình dục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:20:56.407428+07:00",
+      "fetched": "2026-07-13T23:20:56.407501+07:00"
+    },
+    {
+      "id": "2d5ecb4a3fdb30ca9325ea9f087b71a3",
+      "title": "300.000 đồng cho 3,5km xe dịch vụ trong đêm pháo hoa Đà Nẵng gây tranh cãi",
+      "link": "https://tuoitre.vn/300000-dong-cho-35km-xe-dich-vu-trong-dem-phao-hoa-da-nang-gay-tranh-cai-10026071319514321.htm",
+      "summary": "Một đoạn clip ghi lại cảnh tài xế xe dịch vụ ở Đà Nẵng báo giá 300.000 đồng cho quãng đường khoảng 3,5km trong đêm chung kết Lễ hội pháo hoa quốc tế Đà Nẵng (DIFF) đang thu hút nhiều ý kiến trái chiều trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:20:56.407350+07:00",
+      "fetched": "2026-07-13T23:20:56.407417+07:00"
+    },
+    {
+      "id": "a6728a0d7a2b81897c032b86bed3c18c",
+      "title": "Giá vé World Cup 2026 giảm mạnh sau khi Ronaldo bị loại?",
+      "link": "https://tuoitre.vn/gia-ve-world-cup-2026-giam-manh-sau-khi-ronaldo-bi-loai-100260713103658167.htm",
+      "summary": "Việc Bồ Đào Nha của Cristiano Ronaldo cùng đội chủ nhà Mỹ sớm dừng bước đã khiến giá vé World Cup 2026 sụt giảm ở vòng tứ kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:20:56.407252+07:00",
+      "fetched": "2026-07-13T23:20:56.407337+07:00"
+    },
+    {
+      "id": "e91ba3ff419d97ec4c4e995e6460523b",
+      "title": "Người dân Hà Nội có thể theo dõi ùn tắc, ngập úng qua hàng chục màn hình LED trên đường",
+      "link": "https://tuoitre.vn/nguoi-dan-ha-noi-co-the-theo-doi-un-tac-ngap-ung-qua-hang-chuc-man-hinh-led-tren-duong-100260713202253777.htm",
+      "summary": "Trong giờ cao điểm, màn hình LED hiển thị tình trạng ùn tắc tại nút giao phía trước, hướng dẫn phân luồng hoặc gợi ý lộ trình thay thế để người dân chủ động lựa chọn di chuyển, hạn chế ùn tắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:20:56.407178+07:00",
+      "fetched": "2026-07-13T23:20:56.407241+07:00"
+    },
+    {
+      "id": "2d162ed2710c28c00e2a84ca7ba26a32",
+      "title": "Người dân bất an sống trong chung cư 50 năm tuổi rệu rã",
+      "link": "https://tuoitre.vn/nguoi-dan-bat-an-song-trong-chung-cu-50-nam-tuoi-reu-ra-100260713161244949.htm",
+      "summary": "Sau nửa thế kỷ, nhiều tòa nhà khu chung cư Quang Trung ở Nghệ An xuống cấp nghiêm trọng, khiến cư dân sống trong cảnh bất an, lo lắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:20:56.407096+07:00",
+      "fetched": "2026-07-13T23:20:56.407165+07:00"
+    },
+    {
+      "id": "14a25d2b70911a88697ddf623fb0b687",
+      "title": "Người dân TP.HCM phấn khởi đi khám sức khỏe định kỳ miễn phí",
+      "link": "https://tuoitre.vn/suc-khoe/nguoi-dan-tphcm-phan-khoi-di-kham-suc-khoe-dinh-ky-mien-phi-100260713181640548.htm",
+      "summary": "Nhiều người dân, đặc biệt người cao tuổi, phấn khởi khi các xã phường tại TP.HCM tăng tốc tổ chức khám sức khỏe định kỳ miễn phí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:20:56.406930+07:00",
+      "fetched": "2026-07-13T23:20:56.407082+07:00"
+    },
     {
       "id": "edf81b51dc60ac8cb3041bf66020daa5",
       "title": "Giá vàng thế giới giảm mạnh về 130 triệu đồng/lượng do căng thẳng ở eo biển Hormuz",
@@ -301,6 +451,366 @@ window.newsData_2026_07_13 = {
       "category": "Tổng hợp",
       "published": "2026-07-13T15:48:30.892428+07:00",
       "fetched": "2026-07-13T15:48:30.892570+07:00"
+    },
+    {
+      "id": "8e2c7cfbf7175c60caea587e5e1cf0a6",
+      "title": "Phó thủ tướng Hồ Quốc Dũng làm việc với tỉnh An Giang",
+      "link": "https://thanhnien.vn/pho-thu-tuong-ho-quoc-dung-lam-viec-voi-tinh-an-giang-185260713210942265.htm",
+      "summary": "Phó Thủ tướng Hồ Quốc Dũng đã có buổi làm việc với lãnh đạo tỉnh An Giang về tình hình tăng trưởng kinh tế năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T15:38:00+07:00",
+      "fetched": "2026-07-13T23:20:54.586588+07:00"
+    },
+    {
+      "id": "a97b00d2afbb9ca8c59a2263b7a11068",
+      "title": "Đà Nẵng: Hai chị em ruột nguy kịch sau khi ăn chanh dây rừng còn xanh",
+      "link": "https://thanhnien.vn/da-nang-hai-chi-em-ruot-nguy-kich-sau-khi-an-chanh-day-rung-con-xanh-185260713195955666.htm",
+      "summary": "Hai chị em ruột 5 và 10 tuổi ở Đà Nẵng rơi vào tình trạng suy hô hấp, hôn mê, toan chuyển hóa nặng sau khi ăn một lượng lớn chanh dây rừng còn xanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T15:14:00+07:00",
+      "fetched": "2026-07-13T23:20:54.586757+07:00"
+    },
+    {
+      "id": "771381733c1a896a8f618c2af4ca8471",
+      "title": "Khơi dậy khát vọng hoàn lương từ sự kết hợp giữa nghiêm minh và lòng nhân ái",
+      "link": "https://thanhnien.vn/khoi-day-khat-vong-hoan-luong-tu-su-ket-hop-giua-nghiem-minh-va-long-nhan-ai-185260713211053888.htm",
+      "summary": "Theo Tổng Bí thư, Chủ tịch nước Tô Lâm, khi kết hợp hài hòa giữa sự nghiêm minh của pháp luật với lòng nhân ái, khoan dung của chế độ thì sẽ khơi dậy khát vọng hoàn lương, giúp nhiều người lầm lỗi trở thành công dân có ích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T15:11:00+07:00",
+      "fetched": "2026-07-13T23:20:54.586916+07:00"
+    },
+    {
+      "id": "3d77efad18a18d62170880c29db96e1d",
+      "title": "Thuế ra 'tối hậu thư' xử lý doanh nghiệp ngừng hoạt động nhưng chưa đóng mã số thuế",
+      "link": "https://thanhnien.vn/thue-ra-toi-hau-thu-xu-ly-doanh-nghiep-ngung-hoat-dong-nhung-chua-dong-ma-so-thue-185260713203134112.htm",
+      "summary": "Cục Thuế yêu cầu thuế tỉnh, thành phố công khai danh sách doanh nghiệp ngừng hoạt động nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực mã số thuế, doanh nghiệp không hoạt động tại địa chỉ đã đăng ký; hoàn thành trước ngày 17.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T15:11:00+07:00",
+      "fetched": "2026-07-13T23:20:54.587072+07:00"
+    },
+    {
+      "id": "b06eadefb646227d43c98ec83c7d5e97",
+      "title": "Bộ GD-ĐT chính thức thông báo về việc đăng ký xét tuyển của thí sinh Tuyên Quang",
+      "link": "https://thanhnien.vn/bo-gd-dt-chinh-thuc-thong-bao-ve-viec-dang-ky-xet-tuyen-cua-thi-sinh-tuyen-quang-185260713214841351.htm",
+      "summary": "Trong thông cáo báo chí vừa được phát hành tối 13.7, lần đầu tiên Bộ GD-ĐT lên tiếng chính thức về việc đăng ký xét tuyển của thí sinh dự thi tại điểm thi Trường THPT chuyên Tuyên Quang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T15:10:00+07:00",
+      "fetched": "2026-07-13T23:20:54.587231+07:00"
+    },
+    {
+      "id": "222341fb539386fe3c4e9dd0cd070ca9",
+      "title": "Người Trung Quốc bơi lội, lướt ván trên đường phố ngập lũ",
+      "link": "https://vnexpress.net/nguoi-trung-quoc-boi-loi-luot-van-tren-duong-pho-ngap-lu-5097044.html",
+      "summary": "Người dân Thẩm Dương, thủ phủ tỉnh Liêu Ninh, ra đường chèo thuyền, bơi lội ngay cả khi thành phố phát cảnh báo đỏ vì mưa lũ sau bão Bavi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T15:09:39+07:00",
+      "fetched": "2026-07-13T23:20:51.906796+07:00"
+    },
+    {
+      "id": "222341fb539386fe3c4e9dd0cd070ca9",
+      "title": "Người Trung Quốc bơi lội, lướt ván trên đường phố ngập lũ",
+      "link": "https://vnexpress.net/nguoi-trung-quoc-boi-loi-luot-van-tren-duong-pho-ngap-lu-5097044.html",
+      "summary": "Người dân Thẩm Dương, thủ phủ tỉnh Liêu Ninh, ra đường chèo thuyền, bơi lội ngay cả khi thành phố phát cảnh báo đỏ khi mưa lũ sau bão Bavi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-13T15:09:39+07:00",
+      "fetched": "2026-07-13T23:20:57.863127+07:00"
+    },
+    {
+      "id": "c439495a5fbd1b7148f4d0773f810306",
+      "title": "'Áp thuế 15 USD mỗi tấn CO2 có thể giúp Việt Nam giảm 3% phát thải'",
+      "link": "https://vnexpress.net/ap-thue-15-usd-moi-tan-co2-co-the-giup-viet-nam-giam-3-phat-thai-5096991.html",
+      "summary": "Thuế carbon 15 USD mỗi tấn CO2 sẽ giúp Việt Nam giảm phát thải 3% nhưng có thể đánh đổi bằng tăng trưởng kinh tế, nếu thiếu chính sách hỗ trợ phù hợp, theo giáo sư Đại học Copenhagen.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T15:06:16+07:00",
+      "fetched": "2026-07-13T23:20:51.906979+07:00"
+    },
+    {
+      "id": "c439495a5fbd1b7148f4d0773f810306",
+      "title": "'Áp thuế 15 USD mỗi tấn CO2 có thể giúp Việt Nam giảm 3% phát thải'",
+      "link": "https://vnexpress.net/ap-thue-15-usd-moi-tan-co2-co-the-giup-viet-nam-giam-3-phat-thai-5096991.html",
+      "summary": "Thuế carbon 15 USD mỗi tấn CO2 sẽ giúp Việt Nam giảm phát thải 3% nhưng có thể đánh đổi bằng tăng trưởng kinh tế, nếu thiếu chính sách hỗ trợ phù hợp, theo giáo sư Đại học Copenhagen.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-13T15:06:16+07:00",
+      "fetched": "2026-07-13T23:20:58.803581+07:00"
+    },
+    {
+      "id": "a7832ed578b5d453d38019e8ab7b3fbd",
+      "title": "10 ôtô bàn giao ít nhất nửa đầu năm 2026",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-ban-giao-it-nhat-nua-dau-nam-2026-5096812.html",
+      "summary": "Ford Mustang Much-E là xe bán ít nhất thị trường Việt Nam với 70 xe, Isuzu mu-X xếp thứ hai với 82 xe, Suzuki Jimny giữ hạng ba.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T15:01:54+07:00",
+      "fetched": "2026-07-13T23:20:51.907148+07:00"
+    },
+    {
+      "id": "5d3b46f142fbff426bf824bfb800d799",
+      "title": "Hơn 320 học sinh chuyên Tuyên Quang được đăng ký xét tuyển đại học",
+      "link": "https://vnexpress.net/hon-320-hoc-sinh-chuyen-tuyen-quang-duoc-dang-ky-xet-tuyen-dai-hoc-5097038.html",
+      "summary": "Hơn 320 học sinh trường THPT chuyên Tuyên Quang sẽ đăng ký nguyện vọng đại học bình thường, do chưa có kết luận vụ điểm Toán \"cao bất thường\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T14:54:38+07:00",
+      "fetched": "2026-07-13T23:20:51.907332+07:00"
+    },
+    {
+      "id": "7ca87e118d212d33dddfcab1af798116",
+      "title": "Ukraine điều tra tập đoàn quốc phòng lớn nhất sau vụ nổ kinh hoàng",
+      "link": "https://thanhnien.vn/ukraine-dieu-tra-tap-doan-quoc-phong-lon-nhat-sau-vu-no-kinh-hoang-185260713175138031.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky cho biết các quan chức cấp cao tại Ukroboronprom, tập đoàn quốc phòng nhà nước của Ukraine, đã vi phạm pháp luật khi cho phép đặt các kho vũ khí ở vùng ngoại ô Vyshneve của thủ đô Kyiv.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T14:51:00+07:00",
+      "fetched": "2026-07-13T23:20:54.587412+07:00"
+    },
+    {
+      "id": "75adc17dc276fb99a5ebbb992a837d94",
+      "title": "Vẻ cuốn hút của người hùng 'xé lưới' Bồ Đào Nha, Bỉ",
+      "link": "https://vnexpress.net/ve-cuon-hut-cua-nguoi-hung-xe-luoi-bo-dao-nha-bi-5096057.html",
+      "summary": "Mikel Merino - người hùng giúp đội tuyển Tây Ban Nha hạ Bồ Đào Nha, Bỉ - có gương mặt sáng, nụ cười hiền và lối mặc thanh lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T14:45:59+07:00",
+      "fetched": "2026-07-13T23:20:51.907499+07:00"
+    },
+    {
+      "id": "d7cb07c2ee7e89c16aef86acb6658a8f",
+      "title": "Nghị sĩ đồng minh lớn của ông Trump vì sao đột ngột qua đời?",
+      "link": "https://thanhnien.vn/nghi-si-dong-minh-lon-cua-ong-trump-vi-sao-dot-ngot-qua-doi-185260713203422255.htm",
+      "summary": "Theo kết luận sơ bộ của phía pháp y, thượng nghị sĩ đảng Cộng hòa Lindsey Graham của bang Nam Carolina (Mỹ) đã qua đời do chứng bóc tách động mạch chủ, một dạng bệnh lý nguy hiểm hiếm gặp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T14:45:00+07:00",
+      "fetched": "2026-07-13T23:20:54.587568+07:00"
+    },
+    {
+      "id": "e58494de55769dc0e24a5035bd4e25f5",
+      "title": "Bạn trai chia tay vì nhiều lần bị tôi từ chối 'gần gũi'",
+      "link": "https://vnexpress.net/ban-trai-chia-tay-vi-nhieu-lan-bi-toi-tu-choi-gan-gui-5096939.html",
+      "summary": "Ngay từ đầu tôi đã nói rõ rằng chỉ muốn quan hệ khi đã xác định cưới nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T14:30:00+07:00",
+      "fetched": "2026-07-13T23:20:51.907658+07:00"
+    },
+    {
+      "id": "604ac3d2279d119948f51b1cec5101bd",
+      "title": "Triệt phá đường dây cưa phá đầu đạn, lấy thuốc nổ TNT đi bán",
+      "link": "https://thanhnien.vn/triet-pha-duong-day-cua-pha-dau-dan-lay-thuoc-no-tnt-di-ban-185260713212002228.htm",
+      "summary": "Công an TP.HCM vừa triệt phá thành công một đường dây buôn bán thuốc nổ TNT hoạt động liên tỉnh vô cùng tinh vi, bắt giữ nhiều đối tượng và thu giữ hơn 16 kg thuốc nổ quân dụng nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T14:25:00+07:00",
+      "fetched": "2026-07-13T23:20:54.587720+07:00"
+    },
+    {
+      "id": "0d13ff40776c085508b678aabcf4c2ea",
+      "title": "Xác định kênh phát trực tiếp trận giao hữu đội tuyển Việt Nam - Myanmar: Giờ đấu cực đẹp",
+      "link": "https://thanhnien.vn/xac-dinh-kenh-phat-truc-tiep-tran-giao-huu-doi-tuyen-viet-nam-myanmar-gio-dau-cuc-dep-185260713210747392.htm",
+      "summary": "Trong sự quan tâm đặc biệt của người hâm mộ, ban tổ chức đã xác định kênh trực tiếp trận giao hữu đội tuyển Việt Nam - Myanmar, trên sân Thái Nguyên vào ngày 18.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T14:10:00+07:00",
+      "fetched": "2026-07-13T23:20:54.587871+07:00"
+    },
+    {
+      "id": "c400b2d45169c3ab8ecd0c794eb8b838",
+      "title": "Thủ tướng đề nghị tân Đại sứ Mỹ phát huy vai trò cầu nối song phương",
+      "link": "https://vnexpress.net/thu-tuong-de-nghi-tan-dai-su-my-phat-huy-vai-tro-cau-noi-song-phuong-5097035.html",
+      "summary": "Thủ tướng Lê Minh Hưng tiếp Đại sứ Mỹ Jennifer Wicks, đề nghị bà cùng Việt Nam cụ thể hóa các lĩnh vực hợp tác, phát huy vai trò cầu nối cho quan hệ song phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T14:04:17+07:00",
+      "fetched": "2026-07-13T23:20:51.907817+07:00"
+    },
+    {
+      "id": "c400b2d45169c3ab8ecd0c794eb8b838",
+      "title": "Thủ tướng đề nghị tân Đại sứ Mỹ phát huy vai trò cầu nối song phương",
+      "link": "https://vnexpress.net/thu-tuong-de-nghi-tan-dai-su-my-phat-huy-vai-tro-cau-noi-song-phuong-5097035.html",
+      "summary": "Thủ tướng Lê Minh Hưng tiếp Đại sứ Mỹ Jennifer Wicks, đề nghị bà cùng Việt Nam cụ thể hóa các lĩnh vực hợp tác, phát huy vai trò cầu nối cho quan hệ song phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-13T14:04:17+07:00",
+      "fetched": "2026-07-13T23:20:57.863306+07:00"
+    },
+    {
+      "id": "482499ab36b2bb950fec22183e569713",
+      "title": "Cờ nước nào ẩn chứa hình ảnh của 6 quốc kỳ khác?",
+      "link": "https://vnexpress.net/co-nuoc-nao-an-chua-hinh-anh-cua-6-quoc-ky-khac-5097006.html",
+      "summary": "Được gọi là \"the mother of all flags\" (nguồn gốc của mọi lá cờ), quốc kỳ nước này ẩn chứa hình ảnh quốc kỳ của 6 quốc gia khác, gồm Indonesia, Ba Lan, Phần Lan, Pháp, Hà Lan và Thái Lan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T14:00:00+07:00",
+      "fetched": "2026-07-13T23:20:51.907980+07:00"
+    },
+    {
+      "id": "b4e1e7cd3984e4707b2ddec2953f3dd3",
+      "title": "'Anh trai' DILLAN hạn chế hoạt động, dành một năm học tiếng Việt",
+      "link": "https://thanhnien.vn/anh-trai-dillan-han-che-hoat-dong-danh-mot-nam-hoc-tieng-viet-185260713202849676.htm",
+      "summary": "Sau khi tham gia chương trình 'Anh trai say hi' mùa 2, DILLAN dành nhiều thời gian để học tiếng Việt, luyện thanh và hoàn thiện tư duy âm nhạc để trở lại tự tin hơn ở 'Tinh hà say hi'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T13:52:00+07:00",
+      "fetched": "2026-07-13T23:20:54.588018+07:00"
+    },
+    {
+      "id": "ca0e98f59815825fb2beb4111cacb970",
+      "title": "Việt Nam và Mỹ sớm hoàn tất đàm phán, ký kết Hiệp định thương mại đối ứng",
+      "link": "https://thanhnien.vn/viet-nam-va-my-som-hoan-tat-dam-phan-ky-ket-hiep-dinh-thuong-mai-doi-ung-185260713202642465.htm",
+      "summary": "Ngày 13.7, tại trụ sở Chính phủ, Thủ tướng Lê Minh Hưng đã tiếp Đại sứ Mỹ tại Việt Nam Jennifer Wicks chào xã giao nhân dịp Đại sứ bắt đầu nhiệm kỳ công tác tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T13:42:00+07:00",
+      "fetched": "2026-07-13T23:20:54.588163+07:00"
+    },
+    {
+      "id": "a8ead8cc6f9615fa0c9b99270cf9da20",
+      "title": "Đại tướng Phan Văn Giang hội đàm với Bộ trưởng Quốc phòng Nhật Bản",
+      "link": "https://thanhnien.vn/dai-tuong-phan-van-giang-hoi-dam-voi-bo-truong-quoc-phong-nhat-ban-1852607131949171.htm",
+      "summary": "Chiều 13.7, tại trụ sở Bộ Quốc phòng Nhật Bản ở thủ đô Tokyo, Bộ trưởng Bộ Quốc phòng Nhật Bản Koizumi Shinjiro đã chủ trì lễ đón chính thức đại tướng Phan Văn Giang, Phó thủ tướng Chính phủ, Bộ trưởng Bộ Quốc phòng thăm chính thức Nhật Bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T13:40:00+07:00",
+      "fetched": "2026-07-13T23:20:54.588341+07:00"
+    },
+    {
+      "id": "ddaa55c4a5e5d957b3d7de58e77ca091",
+      "title": "U.21 SHB Đà Nẵng hạ kịch tính U.21 CAHN, chủ nhà PVF thắng đậm ngày ra quân",
+      "link": "https://thanhnien.vn/u21-shb-da-nang-ha-kich-tinh-u21-cahn-chu-nha-pvf-thang-dam-ngay-ra-quan-185260713203821551.htm",
+      "summary": "VCK giải bóng đá U.21 quốc gia – Cúp FPT Play 2026 tiếp tục diễn ra sôi động trong chiều 13.7 với các trận đấu ở bảng C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T13:39:00+07:00",
+      "fetched": "2026-07-13T23:20:54.588503+07:00"
+    },
+    {
+      "id": "9fa0e9bbb514f65e565e1285838453e8",
+      "title": "Sân bay Long Thành dự kiến khai thác thương mại từ 1/12",
+      "link": "https://vnexpress.net/san-bay-long-thanh-du-kien-khai-thac-thuong-mai-tu-1-12-5097034.html",
+      "summary": "ACV dự kiến đưa sân bay Long Thành vào khai thác thương mại từ ngày 1/12 và đề xuất chuyển đổi hoạt động giữa Long Thành và Tân Sơn Nhất theo ba giai đoạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T13:29:37+07:00",
+      "fetched": "2026-07-13T23:20:51.908144+07:00"
+    },
+    {
+      "id": "c4729b660455191ad481c56f55493fd8",
+      "title": "Nhiều người đang lãng phí cổng USB vì cắm chuột, bàn phím sai cách",
+      "link": "https://thanhnien.vn/nhieu-nguoi-dang-lang-phi-cong-usb-vi-cam-chuot-ban-phim-sai-cach-18526071310411699.htm",
+      "summary": "Việc chọn đúng cổng USB cho chuột và bàn phím giúp tối ưu kết nối, đồng thời dành băng thông cho ổ cứng ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T13:29:00+07:00",
+      "fetched": "2026-07-13T23:20:54.588657+07:00"
+    },
+    {
+      "id": "8e95f11305adef054d8f22755df0fcb2",
+      "title": "Huế ra quy định tổ chức tang lễ không quá 72 giờ",
+      "link": "https://thanhnien.vn/hue-ra-quy-dinh-to-chuc-tang-le-khong-qua-72-gio-185260713201206245.htm",
+      "summary": "UBND TP.Huế vừa ban hành quy định mới nhằm thực hiện nếp sống văn minh, yêu cầu thời gian tổ chức tang lễ tối đa không quá 72 giờ và nghiêm cấm việc rải các loại tiền, vàng mã trên đường đưa tang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T13:25:00+07:00",
+      "fetched": "2026-07-13T23:20:54.588809+07:00"
+    },
+    {
+      "id": "312e06c1d307dd8225ca42ed325bd54e",
+      "title": "Ba bạn nhậu bị phạt tiền vì bỏ mặc người say",
+      "link": "https://vnexpress.net/ba-ban-nhau-bi-phat-tien-vi-bo-mac-nguoi-say-5097032.html",
+      "summary": "Ba người đàn ông phải chịu trách nhiệm về cái chết của một bạn nhậu, sau khi uống rượu và chơi mạt chược suốt đêm nhưng không đưa bạn về nhà, bỏ ở cầu thang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T13:21:44+07:00",
+      "fetched": "2026-07-13T23:20:51.908335+07:00"
+    },
+    {
+      "id": "40d9702c43d16c863e9523a4757228a2",
+      "title": "Loạt bất động sản triệu USD của vợ chồng Justin Bieber",
+      "link": "https://vnexpress.net/loat-bat-dong-san-trieu-usd-cua-vo-chong-justin-bieber-5095732.html",
+      "summary": "Sau 8 năm kết hôn, Justin Bieber và vợ có nhiều biệt thự tại Mỹ và Canada, mỗi căn trị giá hàng triệu USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T13:14:12+07:00",
+      "fetched": "2026-07-13T23:20:51.908501+07:00"
+    },
+    {
+      "id": "4ec6e77cebaa4d3fefb6def4d7605b9c",
+      "title": "Cả nước có gần 860.000 doanh nghiệp đang hoạt động",
+      "link": "https://vnexpress.net/ca-nuoc-co-gan-860-000-doanh-nghiep-dang-hoat-dong-5097010.html",
+      "summary": "Đến cuối 2025, cả nước có 859.048 doanh nghiệp đang hoạt động có kết quả sản xuất kinh doanh, tăng 25,5% so với 5 năm trước đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T13:08:02+07:00",
+      "fetched": "2026-07-13T23:20:51.908661+07:00"
+    },
+    {
+      "id": "4ec6e77cebaa4d3fefb6def4d7605b9c",
+      "title": "Cả nước có gần 860.000 doanh nghiệp đang hoạt động",
+      "link": "https://vnexpress.net/ca-nuoc-co-gan-860-000-doanh-nghiep-dang-hoat-dong-5097010.html",
+      "summary": "Đến cuối 2025, cả nước có 859.048 doanh nghiệp đang hoạt động có kết quả sản xuất kinh doanh, tăng 25,5% so với 5 năm trước đó.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-13T13:08:02+07:00",
+      "fetched": "2026-07-13T23:20:58.803756+07:00"
+    },
+    {
+      "id": "19affcda21f7e416154b444f78a09cf7",
+      "title": "Michelob Ultra đồng hành cùng giải Pickleball châu Á mở rộng 2026",
+      "link": "https://vnexpress.net/michelob-ultra-dong-hanh-cung-giai-pickleball-chau-a-mo-rong-2026-5097025.html",
+      "summary": "Thương hiệu bia Mỹ là nhà tài trợ Danh xưng Pickleball Michelob Ultra – châu Á mở rộng 2026, tôn vinh lối sống năng động, cân bằng và kết nối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T13:00:00+07:00",
+      "fetched": "2026-07-13T23:20:51.908815+07:00"
+    },
+    {
+      "id": "b0621ec4053d5230493b7073b193517f",
+      "title": "Mức quy đổi IELTS ngành Ngôn ngữ Trung Quốc của các đại học",
+      "link": "https://vnexpress.net/muc-quy-doi-ielts-nganh-ngon-ngu-trung-quoc-cua-cac-dai-hoc-5092939.html",
+      "summary": "Các trường xét tuyển ngành Ngôn ngữ Trung Quốc bằng 2-16 tổ hợp, cho phép quy đổi hoặc cộng điểm với thí sinh có IELTS từ 4.0 trở lên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T12:55:11+07:00",
+      "fetched": "2026-07-13T23:20:51.908974+07:00"
+    },
+    {
+      "id": "39d355bd793d67272d2d85550c632177",
+      "title": "Iran 'bắn cảnh cáo' hai tàu ở Hormuz",
+      "link": "https://vnexpress.net/iran-ban-canh-cao-hai-tau-o-hormuz-5097023.html",
+      "summary": "Iran thông báo \"bắn cảnh cáo\" hai tàu đang định vượt qua Hormuz, trong lúc giao tranh giữa Tehran và Washington tái bùng phát tại eo biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T12:54:49+07:00",
+      "fetched": "2026-07-13T23:20:51.909128+07:00"
+    },
+    {
+      "id": "39d355bd793d67272d2d85550c632177",
+      "title": "Iran 'bắn cảnh cáo' hai tàu ở Hormuz",
+      "link": "https://vnexpress.net/iran-ban-canh-cao-hai-tau-o-hormuz-5097023.html",
+      "summary": "Iran thông báo \"bắn cảnh cáo\" hai tàu đang định vượt qua Hormuz, trong lúc giao tranh giữa Tehran và Washington tái bùng phát tại eo biển.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-13T12:54:49+07:00",
+      "fetched": "2026-07-13T23:20:57.863502+07:00"
+    },
+    {
+      "id": "68d1211a066c5ea47dee76e5f772a1a8",
+      "title": "Nga tuyên bố ngăn âm mưu tấn công căn cứ không quân chiến lược",
+      "link": "https://vnexpress.net/nga-tuyen-bo-ngan-am-muu-tan-cong-can-cu-khong-quan-chien-luoc-5096970.html",
+      "summary": "An ninh Nga tuyên bố chặn âm mưu tập kích bằng drone quy mô lớn của Ukraine nhằm vào hai căn cứ không quân chiến lược trong lãnh thổ nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-13T12:31:47+07:00",
+      "fetched": "2026-07-13T23:20:57.863666+07:00"
     },
     {
       "id": "4657aa6a9a62ea33fdc60e0f49e34ec5",
