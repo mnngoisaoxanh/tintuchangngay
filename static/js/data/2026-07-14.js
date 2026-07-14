@@ -1,7 +1,157 @@
 window.newsData_2026_07_14 = {
   "date": "2026-07-14",
-  "lastUpdated": "2026-07-14T16:46:39.330587+07:00",
+  "lastUpdated": "2026-07-14T18:17:37.332272+07:00",
   "articles": [
+    {
+      "id": "6a4865d829bffb732966601d98b74f1b",
+      "title": "Trung tướng Đinh Văn Nơi giữ chức Phó bí thư Tỉnh ủy An Giang, kiêm Bí thư Đảng ủy đặc khu Phú Quốc",
+      "link": "https://tuoitre.vn/trung-tuong-dinh-van-noi-giu-chuc-pho-bi-thu-tinh-uy-an-giang-kiem-bi-thu-dang-uy-dac-khu-phu-quoc-100260714163924169.htm",
+      "summary": "Trung tướng Đinh Văn Nơi - Ủy viên Đảng ủy Công an Trung ương, Bí thư Đảng ủy, Cục trưởng Cục An ninh chính trị nội bộ (Bộ Công an) - giữ chức Phó bí thư Tỉnh ủy An Giang nhiệm kỳ 2025-2030, kiêm Bí thư Đảng ủy đặc khu Phú Quốc nhiệm kỳ 2025-2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T18:17:30.300161+07:00",
+      "fetched": "2026-07-14T18:17:30.300238+07:00"
+    },
+    {
+      "id": "d065e47ac548d36c4a59003a67fad1f0",
+      "title": "Việt Nam và Indonesia ký chương trình hành động 5 năm, đặt mục tiêu 18 tỉ USD thương mại song phương",
+      "link": "https://tuoitre.vn/viet-nam-va-indonesia-ky-chuong-trinh-hanh-dong-5-nam-dat-muc-tieu-18-ti-usd-thuong-mai-song-phuong-100260714164226617.htm",
+      "summary": "Văn kiện đề ra những định hướng hợp tác chiến lược giữa Việt Nam và Indonesia, nhất là trong các lĩnh vực mới, quan trọng như công nghệ cao, đổi mới sáng tạo, năng lượng, thanh toán xuyên biên giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T18:17:30.300090+07:00",
+      "fetched": "2026-07-14T18:17:30.300151+07:00"
+    },
+    {
+      "id": "61f67140edb24f38045940195dedada2",
+      "title": "Tranh thủ 'khe hở' của Mỹ, Iran kịp đưa đi 57 triệu thùng dầu",
+      "link": "https://tuoitre.vn/tranh-thu-khe-ho-cua-my-iran-kip-dua-di-57-trieu-thung-dau-100260714163333085.htm",
+      "summary": "Lợi dụng khoảng trống ngắn ngủi giữa hai lệnh phong tỏa của Mỹ, Iran đã kịp xuất khẩu ít nhất 57 triệu thùng dầu ra thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T18:17:30.300025+07:00",
+      "fetched": "2026-07-14T18:17:30.300080+07:00"
+    },
+    {
+      "id": "f908c4a47ad3bb17ec8c885b9fcaf76c",
+      "title": "Phá đường dây mại dâm nam qua website, có khoảng 180 'trai bao' bán dâm",
+      "link": "https://tuoitre.vn/pha-duong-day-mai-dam-nam-qua-website-co-khoang-180-trai-bao-ban-dam-100260714165118288.htm",
+      "summary": "Công an TP Hà Nội triệt phá đường dây môi giới mại dâm nam hoạt động trên toàn quốc, sử dụng nhiều website để kết nối khách mua dâm, với khoảng 180 \"trai bao\" bán dâm, thu lợi bất chính hơn 1 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T18:17:30.299959+07:00",
+      "fetched": "2026-07-14T18:17:30.300015+07:00"
+    },
+    {
+      "id": "e1d9d62915e894760bf6e2e7a41139a3",
+      "title": "Đà Nẵng tạm dừng bổ nhiệm, tuyển dụng cán bộ tại xã phường",
+      "link": "https://tuoitre.vn/da-nang-tam-dung-bo-nhiem-tuyen-dung-can-bo-tai-xa-phuong-100260714163759566.htm",
+      "summary": "Đà Nẵng tạm dừng bổ nhiệm, tuyển dụng, điều động cán bộ tại xã, phường từ ngày 14-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T18:17:30.299892+07:00",
+      "fetched": "2026-07-14T18:17:30.299948+07:00"
+    },
+    {
+      "id": "3b39cefdebad086256adcf80d0b336c0",
+      "title": "Bãi xe container tự phát gây tắc nghẽn đường Võ Chí Công: Vì sao các phường vẫn để tồn tại?",
+      "link": "https://tuoitre.vn/bai-xe-container-tu-phat-gay-tac-nghen-duong-vo-chi-cong-vi-sao-cac-phuong-van-de-ton-tai-100260714121845692.htm",
+      "summary": "Hàng chục bãi xe container dọc trục Võ Chí Công hoạt động hàng chục năm trời dù thiếu cơ sở pháp lý, đe dọa an toàn giao thông, đặt ra câu hỏi trách nhiệm của các địa phương, đơn vị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T18:17:30.299814+07:00",
+      "fetched": "2026-07-14T18:17:30.299881+07:00"
+    },
+    {
+      "id": "12beb3359cb9b271878a3b39ba57a161",
+      "title": "Bắt khẩn cấp 2 người lái xe Porsche và Mitsubishi ẩu đả giữa ngã tư ở trung tâm TP.HCM",
+      "link": "https://tuoitre.vn/bat-khan-cap-2-nguoi-lai-xe-porsche-va-mitsubishi-au-da-giua-nga-tu-o-trung-tam-tphcm-100260714143735602.htm",
+      "summary": "Mâu thuẫn từ việc tạt đầu xe nhau, hai tài xế lái xe Porsche và Mitsubishi đã dừng phương tiện ngay giữa ngã tư ở trung tâm TP.HCM để chửi bới, đập phá tài sản và rượt đuổi nhau gây náo loạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T18:17:30.299748+07:00",
+      "fetched": "2026-07-14T18:17:30.299803+07:00"
+    },
+    {
+      "id": "694688dd4addaa48850459e8d865bb2c",
+      "title": "Anh trai vượt ngàn chông gai mùa 2 vẫn thiếu một người như Soobin?",
+      "link": "https://tuoitre.vn/giai-tri/anh-trai-vuot-ngan-chong-gai-mua-2-van-thieu-mot-nguoi-nhu-soobin-100260714165223827.htm",
+      "summary": "Vẫn thiếu một anh tài ‘toàn năng’ kiểu Soobin để ‘quẩy đục nước’ Anh trai vượt ngàn chông gai 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T18:17:30.299683+07:00",
+      "fetched": "2026-07-14T18:17:30.299737+07:00"
+    },
+    {
+      "id": "837f9312294a2bb09370e8eab69d1fe2",
+      "title": "Ukraine tấn công liên tục, Nga chuẩn bị chuyển hướng xuất khẩu ngũ cốc khỏi biển Azov",
+      "link": "https://tuoitre.vn/ukraine-tan-cong-lien-tuc-nga-chuan-bi-chuyen-huong-xuat-khau-ngu-coc-khoi-bien-azov-100260714165304776.htm",
+      "summary": "Ngày 14-7, Nga thông báo nước này đang chuẩn bị chuyển hướng các lô hàng ngũ cốc khỏi biển Azov, sau khi nhiều tàu Nga bị Ukraine tấn công tại vùng biển này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T18:17:30.299616+07:00",
+      "fetched": "2026-07-14T18:17:30.299673+07:00"
+    },
+    {
+      "id": "4b027e1cb6446d682cfd096775602b75",
+      "title": "Căn cứ lập chứng thư thẩm định giá chưa phù hợp, vẫn đấu giá để cưỡng chế tài sản doanh nghiệp?",
+      "link": "https://tuoitre.vn/can-cu-lap-chung-thu-tham-dinh-gia-chua-phu-hop-van-dau-gia-de-cuong-che-tai-san-doanh-nghiep-100260714151154257.htm",
+      "summary": "Một doanh nghiệp tại Gia Lai phản ánh vừa bị cưỡng chế, bán đấu giá tài sản là nhà xưởng để thi hành nghĩa vụ trả nợ khi chứng thư thẩm định giá được cơ quan chức năng nhận định còn nhiều điểm chưa rõ ràng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T18:17:30.299541+07:00",
+      "fetched": "2026-07-14T18:17:30.299605+07:00"
+    },
+    {
+      "id": "1691837e3d6c35afb37d271cde668fbc",
+      "title": "TP.HCM mong muốn mở rộng hợp tác với Pháp về công nghệ và tài chính",
+      "link": "https://tuoitre.vn/tphcm-mong-muon-mo-rong-hop-tac-voi-phap-ve-cong-nghe-va-tai-chinh-100260714160710584.htm",
+      "summary": "TP.HCM mong muốn tiếp tục mở rộng hợp tác với các đối tác Pháp trong nhiều lĩnh vực mới như tài chính quốc tế, trí tuệ nhân tạo, đổi mới sáng tạo và chuyển đổi xanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T18:17:30.299471+07:00",
+      "fetched": "2026-07-14T18:17:30.299530+07:00"
+    },
+    {
+      "id": "b37111ceb696a1c67ceb8390bab0e36c",
+      "title": "Hơn 100 doanh nghiệp Trung Quốc sang Việt Nam tìm đối tác sầu riêng",
+      "link": "https://tuoitre.vn/hon-100-doanh-nghiep-trung-quoc-sang-viet-nam-tim-doi-tac-sau-rieng-100260714154925543.htm",
+      "summary": "Không chỉ tìm nguồn cung, các doanh nghiệp Trung Quốc đang hướng đến hợp tác sâu hơn với ngành sầu riêng Việt Nam, trong bối cảnh thị trường này ngày càng chú trọng chất lượng và thương hiệu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T18:17:30.299402+07:00",
+      "fetched": "2026-07-14T18:17:30.299460+07:00"
+    },
+    {
+      "id": "fe63ad445498df1fce8e998f78bb2f56",
+      "title": "Doctor Doom của Robert Downey Jr. lộ diện",
+      "link": "https://tuoitre.vn/doctor-doom-cua-robert-downey-jr-lo-dien-100260714165856922.htm",
+      "summary": "Robert Downey Jr., ngôi sao từng gắn liền với Iron Man, sẽ trở lại thủ vai phản diện hoàn toàn mới trong Avengers: Doomsday.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T18:17:30.299331+07:00",
+      "fetched": "2026-07-14T18:17:30.299391+07:00"
+    },
+    {
+      "id": "9a8d5656a40a0d7a41093fb49a9addf1",
+      "title": "Có nên tách riêng 2 kỳ thi THPT và tuyển sinh đại học?",
+      "link": "https://tuoitre.vn/co-nen-tach-rieng-2-ky-thi-thpt-va-tuyen-sinh-dai-hoc-10026071416241587.htm",
+      "summary": "Sau vụ việc \"mưa điểm toán\" tại Tuyên Quang, câu hỏi có nên tách riêng thành 2 kỳ thi THPT và tuyển sinh đại học lại được đặt ra. Chuyên gia giáo dục nói gì với đề xuất này?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T18:17:30.299247+07:00",
+      "fetched": "2026-07-14T18:17:30.299320+07:00"
+    },
+    {
+      "id": "cac3e9e3bc8bad9c62be190ab41ae5a3",
+      "title": "Chuyện hai ngôi mộ liệt sỹ cùng tên và niềm hy vọng vào 'Chiến dịch 500 ngày đêm'",
+      "link": "https://tuoitre.vn/chuyen-hai-ngoi-mo-liet-sy-cung-ten-va-niem-hy-vong-vao-chien-dich-500-ngay-dem-100260714162559313.htm",
+      "summary": "Hàng chục năm qua, nhiều thân nhân liệt sĩ vượt hàng ngàn cây số mong sớm tìm được phần mộ của các liệt sĩ để đưa về quê nhưng không được như ý nguyện. \"Chiến dịch 500 ngày đêm\" được thực hiện, mở thêm hy vọng giúp các gia đình có những thông tin quý giá về nơi yên nghỉ của các anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T18:17:30.299090+07:00",
+      "fetched": "2026-07-14T18:17:30.299231+07:00"
+    },
     {
       "id": "95407050642ec8f7ef0f09e6c1cc19a5",
       "title": "Điện lực Đất Đỏ: Một năm dưới mái nhà EVNHCMC, vững bước vươn xa",
@@ -453,6 +603,306 @@ window.newsData_2026_07_14 = {
       "fetched": "2026-07-14T11:41:02.862969+07:00"
     },
     {
+      "id": "a66ced1445f251d0ecf908a8e93a445d",
+      "title": "Xe bồn lật trên cầu, hàng ngàn lít axit tràn ra đất và suối",
+      "link": "https://thanhnien.vn/xe-bon-lat-tren-cau-hang-ngan-lit-axit-tran-ra-dat-va-suoi-185260714171850439.htm",
+      "summary": "Một chiếc xe bồn chở theo khoảng 5 m3 (tương đương 5.000 lít) axit gặp tai nạn, lật nghiêng trên thành cầu ở Lâm Đồng khiến lượng lớn axit trên xe tràn ra đất và suối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T11:11:00+07:00",
+      "fetched": "2026-07-14T18:17:28.175750+07:00"
+    },
+    {
+      "id": "3331909a4dfce35a56ea2e03828c94aa",
+      "title": "Công an Đà Nẵng phá đường dây cá độ bóng đá World Cup 2026",
+      "link": "https://thanhnien.vn/cong-an-da-nang-pha-duong-day-ca-do-bong-da-world-cup-2026-185260714174245036.htm",
+      "summary": "Công an thành phố Đà Nẵng triệt xóa đường dây tổ chức đánh bạc và đánh bạc dưới hình thức cá độ bóng đá World Cup 2026 trên không gian mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T11:09:00+07:00",
+      "fetched": "2026-07-14T18:17:28.175915+07:00"
+    },
+    {
+      "id": "3cdc7e53e11d61e0ed13ee75fd0357d9",
+      "title": "Billiards: Trần Quyết Chiến gặp đối thủ đầy duyên nợ tại World Cup ở trời Âu",
+      "link": "https://thanhnien.vn/billiards-tran-quyet-chien-gap-doi-thu-day-duyen-no-tai-world-cup-o-troi-au-185260714180544002.htm",
+      "summary": "Tại World Cup billiards Porto - Bồ Đào Nha 2026, Trần Quyết Chiến vẫn xuất phát từ vòng đấu chính. Đối thủ đầu tiên của tay cơ số 1 Việt Nam là cái tên rất quen thuộc người Ai Cập Sameh Sidhom.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T11:07:00+07:00",
+      "fetched": "2026-07-14T18:17:28.176070+07:00"
+    },
+    {
+      "id": "8539829e8bfe6021fa2471ea66c55fb9",
+      "title": "Phát hiện bộ xương người tại khu rẫy rậm rạp từng bị đốt cháy ở Đắk Lắk",
+      "link": "https://thanhnien.vn/phat-hien-bo-xuong-nguoi-tai-khu-ray-ram-rap-tung-bi-dot-chay-o-dak-lak-185260714175554854.htm",
+      "summary": "Lực lượng chức năng tỉnh Đắk Lắk đã khám nghiệm hiện trường và đang điều tra, xác minh danh tính nạn nhân liên quan đến một bộ xương người được phát hiện trong khu rẫy rậm rạp từng bị đốt cháy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T11:05:00+07:00",
+      "fetched": "2026-07-14T18:17:28.176241+07:00"
+    },
+    {
+      "id": "858a3577c4ffe3796cc3d38ab48c9e2c",
+      "title": "Thông tin 'CSGT lập chốt bị dừa rơi trúng đầu tử vong' là bịa đặt",
+      "link": "https://thanhnien.vn/thong-tin-csgt-lap-chot-bi-dua-roi-trung-dau-tu-vong-la-bia-dat-185260714170234677.htm",
+      "summary": "Thông tin lan trên trên mạng xã hội Facebook về việc 'CSGT lập chốt bị dừa rơi trúng đầu tử vong' là thông tin bịa đặt, sai sự thật, lực lượng chức năng đang xác minh xử lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T11:04:00+07:00",
+      "fetched": "2026-07-14T18:17:28.176398+07:00"
+    },
+    {
+      "id": "ff4929ed5928dc37fd10197103cfc286",
+      "title": "Bắt tài xế Porsche và Mitsubishi gây rối ở TP.HCM",
+      "link": "https://thanhnien.vn/bat-tai-xe-porsche-va-mitsubishi-gay-roi-o-tphcm-185260714173306256.htm",
+      "summary": "Công an TP.HCM bắt tài xế điều khiển xe Porsche và Mitsubishi chèn ép rồi dừng phương tiện giữa giao lộ đập phá, đuổi đánh nhau náo loạn công cộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T11:00:00+07:00",
+      "fetched": "2026-07-14T18:17:28.176548+07:00"
+    },
+    {
+      "id": "37c39a5c4da4a2903aff6ab9a32a10e1",
+      "title": "Khi Yamal loay hoay trở thành người kế vị Mbappe",
+      "link": "https://vnexpress.net/khi-yamal-loay-hoay-tro-thanh-nguoi-ke-vi-mbappe-5097386.html",
+      "summary": "Trước trận Pháp - Tây Ban Nha tại bán kết World Cup 2026, những con số cho thấy khoảng cách đáng kể giữa Kylian Mbappe và Lamine Yamal.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-14T11:00:00+07:00",
+      "fetched": "2026-07-14T18:17:37.321383+07:00"
+    },
+    {
+      "id": "c3de5800e3940809b8391d00ff96e3a2",
+      "title": "Pháp ủng hộ những ưu tiên phát triển của Việt Nam",
+      "link": "https://thanhnien.vn/phap-ung-ho-nhung-uu-tien-phat-trien-cua-viet-nam-185260714144932016.htm",
+      "summary": "Trưa nay (14.7), Tổng lãnh sự quán Pháp tại TP.HCM đã tổ chức lễ mừng Quốc khánh lần thứ 237 (1789 - 2026) tại Dinh thự Pháp với sự tham dự của đại diện lãnh đạo thành phố, các cơ quan ban ngành, tổng lãnh sự các nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T10:57:00+07:00",
+      "fetched": "2026-07-14T18:17:28.176697+07:00"
+    },
+    {
+      "id": "4acbbcf6e8bf517c1f46f38f7503cf93",
+      "title": "Tri ân những Anh hùng liệt sĩ 'Sống bám đá đánh giặc, chết hóa đá bất tử'",
+      "link": "https://thanhnien.vn/tri-an-nhung-anh-hung-liet-si-song-bam-da-danh-giac-chet-hoa-da-bat-tu-185260714172731077.htm",
+      "summary": "Đoàn hành trình Tôi yêu Tổ quốc tôi đã dâng hương tại Đền thờ các Anh hùng liệt sĩ mặt trận Vị Xuyên và thăm, tặng quà đội hình thực hiện nhiệm vụ quy tập hài cốt liệt sĩ ở xã Thanh Thủy, tỉnh Tuyên Quang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T10:55:00+07:00",
+      "fetched": "2026-07-14T18:17:28.176852+07:00"
+    },
+    {
+      "id": "5caebd735b483e9cad2b881d0446cd21",
+      "title": "Chiêu trò bẫy livestream cào vé số trúng thưởng giả, chiếm đoạt hơn 500 tỉ đồng",
+      "link": "https://thanhnien.vn/chieu-tro-bay-livestream-cao-ve-so-trung-thuong-gia-chiem-doat-hon-500-ti-dong-185260714172200591.htm",
+      "summary": "Công an tỉnh Đắk Lắk vừa triệt phá và khởi tố 5 bị can tham gia đường dây rửa tiền cho tổ chức lừa đảo xuyên quốc gia hoạt động tại Campuchia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T10:55:00+07:00",
+      "fetched": "2026-07-14T18:17:28.177000+07:00"
+    },
+    {
+      "id": "0ffba343e1167816f520d1b01c7f7ea5",
+      "title": "TP.HCM đã quy tập 74 hài cốt liệt sĩ ở công viên Lê Thị Riêng",
+      "link": "https://thanhnien.vn/tphcm-da-quy-tap-74-hai-cot-liet-si-o-cong-vien-le-thi-rieng-18526071417511272.htm",
+      "summary": "lực lượng làm nhiệm vụ ở công viên Lê Thị Riêng phát hiện, cất bốc thêm 5 hài cốt liệt sĩ cùng 4 bộ di vật, nâng tổng số hài cốt được quy tập lên 74 bộ và 1 bộ hài cốt liệt sĩ tập thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T10:54:00+07:00",
+      "fetched": "2026-07-14T18:17:28.177153+07:00"
+    },
+    {
+      "id": "a71a6992c460ce6feafebe173fd700c0",
+      "title": "Sở Nội vụ Cà Mau: Việc tạm đình chỉ lãnh đạo Công ty Môi trường đô thị chưa đúng trình tự",
+      "link": "https://thanhnien.vn/so-noi-vu-ca-mau-viec-tam-dinh-chi-lanh-dao-cong-ty-moi-truong-do-thi-chua-dung-trinh-tu-18526071417010102.htm",
+      "summary": "Sở Nội vụ tỉnh Cà Mau xác định việc tạm đình chỉ công việc đối với ông Nguyễn Văn Cường, Bí thư Đảng ủy Công ty cổ phần Môi trường đô thị Cà Mau, được thực hiện chưa đúng trình tự pháp luật hiện hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T10:54:00+07:00",
+      "fetched": "2026-07-14T18:17:28.177331+07:00"
+    },
+    {
+      "id": "55f8f3153058f859633ce088a5c745f7",
+      "title": "Iran tấn công căn cứ Mỹ ở Jordan, quân đội Mỹ kết thúc 5 giờ không kích",
+      "link": "https://thanhnien.vn/iran-tan-cong-can-cu-my-o-jordan-quan-doi-my-ket-thuc-5-gio-khong-kich-185260714154914621.htm",
+      "summary": "Hôm 14.7, Lực lượng Vệ binh Cách mạng Hồi giáo Iran (IRGC) cho biết đã phóng tên lửa đạn đạo vào căn cứ không quân của Mỹ tại Jordan, trong khi quân đội Mỹ kết thúc 5 giờ tấn công vào các mục tiêu của Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T10:54:00+07:00",
+      "fetched": "2026-07-14T18:17:28.177488+07:00"
+    },
+    {
+      "id": "1e266346dbe776b6f72c36c8b67919e8",
+      "title": "The Global City khuấy động mùa hè với hàng loạt trải nghiệm lần đầu có tại TP.HCM",
+      "link": "https://thanhnien.vn/the-global-city-khuay-dong-mua-he-voi-hang-loat-trai-nghiem-lan-dau-co-tai-tphcm-185260714174603804.htm",
+      "summary": "Không cần đi xa khỏi TP.HCM, giới trẻ và các gia đình vẫn có thể tận hưởng loạt hoạt động giải trí mang tinh thần quốc tế tại The Global City - khu đô thị trung tâm, biểu tượng toàn cầu của TP.HCM. Bên cạnh không khí sôi động từ chuỗi sự kiện mùa hè, nơi đây còn gây chú ý với những mô hình mới lạ lầ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T10:38:00+07:00",
+      "fetched": "2026-07-14T18:17:28.177641+07:00"
+    },
+    {
+      "id": "bb7037d2983cf92e50205e2854b0ad22",
+      "title": "Giải quyết dứt điểm ngay từ cơ sở, không để khiếu nại, tố cáo vượt cấp",
+      "link": "https://thanhnien.vn/giai-quyet-dut-diem-ngay-tu-co-so-khong-de-khieu-nai-to-cao-vuot-cap-185260714171904512.htm",
+      "summary": "Phó thủ tướng Nguyễn Văn Thắng cho biết, Chính phủ đã yêu cầu chủ tịch UBND các tỉnh, thành trực tiếp chỉ đạo công tác tiếp công dân, giải quyết dứt điểm ngay từ cơ sở, không để phát sinh các vụ việc phức tạp, vượt cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T10:38:00+07:00",
+      "fetched": "2026-07-14T18:17:28.177791+07:00"
+    },
+    {
+      "id": "4d084cef8cf599426c6c5159d1fa2514",
+      "title": "Chuyên gia chỉ ra 3 kỹ năng cốt lõi để làm chủ AI",
+      "link": "https://thanhnien.vn/chuyen-gia-chi-ra-3-ky-nang-cot-loi-de-lam-chu-ai-185260714170650429.htm",
+      "summary": "Tại chương trình AI for Impact 2026 do Đại học Duy Tân và STEAM for Vietnam tổ chức ngày 14.7, chuyên gia đã chỉ ra 3 kỹ năng cốt lõi giúp mỗi người khai thác hiệu quả AI.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T10:37:00+07:00",
+      "fetched": "2026-07-14T18:17:28.177933+07:00"
+    },
+    {
+      "id": "51e07a341a08c4f6c4992fabc2a108c1",
+      "title": "Tài xế Porsche bị bắt sau vụ đánh nhau ở TP HCM",
+      "link": "https://vnexpress.net/tai-xe-porsche-bi-bat-sau-vu-danh-nhau-o-tp-hcm-5097453.html",
+      "summary": "Tức giận sau khi chèn ép nhau trên phố, Dương Quốc Thái, 42 tuổi, dừng xe Porsche giữa ngã tư đập phá phương tiện đối phương và rượt đánh gây náo loạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T10:33:24+07:00",
+      "fetched": "2026-07-14T18:17:25.095459+07:00"
+    },
+    {
+      "id": "309eb93c18e3c93f263c1237b58cd5d1",
+      "title": "Mỗi tháng hết 4 triệu tiền điện, có nên đầu tư 110 triệu đồng lắp pin mặt trời?",
+      "link": "https://vnexpress.net/moi-thang-het-4-trieu-tien-dien-co-nen-dau-tu-110-trieu-dong-lap-pin-mat-troi-5097373.html",
+      "summary": "Gia đình tôi có 5 người, vừa sinh hoạt vừa kinh doanh tại nhà nên lượng điện tiêu thụ khá lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T10:18:00+07:00",
+      "fetched": "2026-07-14T18:17:25.095636+07:00"
+    },
+    {
+      "id": "dd8234e1cf8b1aa109dbbb2fce15959c",
+      "title": "Điểm tin 17h: Bộ Xây dựng bỏ đề xuất 'sở hữu chung cư có thời hạn' | Công an giải thích việc người thân đến nhà ở qua đêm phải thông báo lưu trú",
+      "link": "https://vnexpress.net/diem-tin-17h-bo-xay-dung-bo-de-xuat-so-huu-chung-cu-co-thoi-han-cong-an-giai-thich-viec-nguoi-than-den-nha-o-qua-dem-phai-thong-bao-luu-tru-5097451.html",
+      "summary": "Người dùng VNeID được miễn lệ phí trước bạ xe máy, giảm 50% với ôtô; Thêm ba chủ tiệm vàng lớn ở TP HCM liên quan nhóm buôn lậu 30.000 viên kim cương...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T10:10:29+07:00",
+      "fetched": "2026-07-14T18:17:25.095800+07:00"
+    },
+    {
+      "id": "40bb333dbf4de1d8dbbb9b4a7d78afd3",
+      "title": "Thanh Hiền gây chú ý khi đóng phản diện 'Nợ đời vay trả'",
+      "link": "https://vnexpress.net/thanh-hien-gay-chu-y-khi-dong-phan-dien-no-doi-vay-tra-5096678.html",
+      "summary": "Thể hiện vai người thứ ba hiểm độc trong phim \"Nợ đời vay trả\", diễn viên Thanh Hiền nhận về nhiều phản ứng từ khán giả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T10:00:00+07:00",
+      "fetched": "2026-07-14T18:17:25.095965+07:00"
+    },
+    {
+      "id": "806789de143967ea4c1ae60a5470a552",
+      "title": "Hành lang kinh tế mới thêm động lực phát triển cho Waterpoint",
+      "link": "https://vnexpress.net/hanh-lang-kinh-te-moi-them-dong-luc-phat-trien-cho-waterpoint-5097422.html",
+      "summary": "Waterpoint quy mô 355 ha tiềm năng hút dòng cư dân khi nằm giữa hai hành lang kinh tế Vành đai 3, Vành đai 4, được định hướng phát triển đô thị, công nghiệp, dịch vụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T10:00:00+07:00",
+      "fetched": "2026-07-14T18:17:25.096122+07:00"
+    },
+    {
+      "id": "bbc58b1e24b990117ad9793bc3372c01",
+      "title": "Lý do Iran coi Hormuz ‘quan trọng hơn cả bom hạt nhân’",
+      "link": "https://vnexpress.net/ly-do-iran-coi-hormuz-quan-trong-hon-ca-bom-hat-nhan-5097405.html",
+      "summary": "Những diễn biến quanh Hormuz cho thấy Iran đang theo đuổi một chiến lược dài hạn, coi quyền kiểm soát eo biển là quân bài quan trọng hơn cả vấn đề hạt nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T10:00:00+07:00",
+      "fetched": "2026-07-14T18:17:25.096301+07:00"
+    },
+    {
+      "id": "02657343cada19f1dedd7b6fdfbe64cd",
+      "title": "LivWell mở rộng hệ sinh thái chăm sóc sức khỏe",
+      "link": "https://vnexpress.net/livwell-mo-rong-he-sinh-thai-cham-soc-suc-khoe-5097223.html",
+      "summary": "LivWell mở rộng hệ sinh thái sức khỏe tại Việt Nam qua giải pháp phúc lợi OneHealth và bảo hiểm chuyên biệt, nhằm nâng cao hiệu quả cho doanh nghiệp, cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T10:00:00+07:00",
+      "fetched": "2026-07-14T18:17:25.096462+07:00"
+    },
+    {
+      "id": "ab4526d37deae15abcfcffc2d86d927a",
+      "title": "Điều gì xảy ra khi phái nữ ăn hạt chia thường xuyên?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-phai-nu-an-hat-chia-thuong-xuyen-5097144.html",
+      "summary": "Hạt chia giàu chất xơ, omega-3, protein và khoáng chất có thể hỗ trợ kiểm soát cân nặng, duy trì sức khỏe xương ở phụ nữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T10:00:00+07:00",
+      "fetched": "2026-07-14T18:17:25.096616+07:00"
+    },
+    {
+      "id": "a9f877b79554d9abe2c3091d857b838c",
+      "title": "Ukraine tuyên bố chặn loạt Iskander-M trong đòn tập kích của Nga",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-chan-loat-iskander-m-trong-don-tap-kich-cua-nga-5097412.html",
+      "summary": "Ukraine tuyên bố chặn thành công 5 tên lửa Iskander-M và S-400 hoán cải, trong khi Nga thông báo đã tấn công nhiều nhà máy quốc phòng đối phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T09:50:52+07:00",
+      "fetched": "2026-07-14T18:17:25.096766+07:00"
+    },
+    {
+      "id": "a9f877b79554d9abe2c3091d857b838c",
+      "title": "Ukraine tuyên bố chặn loạt Iskander-M trong đòn tập kích của Nga",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-chan-loat-iskander-m-trong-don-tap-kich-cua-nga-5097412.html",
+      "summary": "Ukraine tuyên bố chặn thành công 5 tên lửa Iskander-M và S-400 hoán cải, trong khi Nga thông báo đã tấn công nhiều nhà máy quốc phòng đối phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-14T09:50:52+07:00",
+      "fetched": "2026-07-14T18:17:31.492044+07:00"
+    },
+    {
+      "id": "f65200adb585b08c5bd05e8ce0707597",
+      "title": "Messi 'gây sốt' khi nhường hào quang cho đàn em",
+      "link": "https://vnexpress.net/messi-gay-sot-khi-nhuong-hao-quang-cho-dan-em-5097390.html",
+      "summary": "Đội trưởng Lionel Messi từ chối lời ca ngợi cá nhân và dành sự công nhận cho tiền đạo trẻ Julian Alvarez sau chiến thắng ở tứ kết World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T09:42:20+07:00",
+      "fetched": "2026-07-14T18:17:25.096923+07:00"
+    },
+    {
+      "id": "f65200adb585b08c5bd05e8ce0707597",
+      "title": "Messi 'gây sốt' khi nhường hào quang cho đàn em",
+      "link": "https://vnexpress.net/messi-gay-sot-khi-nhuong-hao-quang-cho-dan-em-5097390.html",
+      "summary": "Đội trưởng Lionel Messi từ chối lời ca ngợi cá nhân và dành sự công nhận cho tiền đạo trẻ Julian Alvarez sau chiến thắng ở tứ kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-14T09:42:20+07:00",
+      "fetched": "2026-07-14T18:17:37.321557+07:00"
+    },
+    {
+      "id": "6935bf3264d39ab652ea877c84d85d4d",
+      "title": "Mbappe - Yamal: Giao lộ thời gian ở bán kết World Cup 2026",
+      "link": "https://vnexpress.net/mbappe-yamal-giao-lo-thoi-gian-o-ban-ket-world-cup-2026-5097431.html",
+      "summary": "Trận đại chiến giữa Pháp và Tây Ban Nha hôm nay ghi dấu thêm một cuộc đọ tài giữa Kylian Mbappe và Lamine Yamal - hai tài năng vươn lên đỉnh cao theo cùng một kịch bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T09:41:44+07:00",
+      "fetched": "2026-07-14T18:17:25.097083+07:00"
+    },
+    {
+      "id": "6935bf3264d39ab652ea877c84d85d4d",
+      "title": "Mbappe - Yamal: Giao lộ thời gian ở bán kết World Cup 2026",
+      "link": "https://vnexpress.net/mbappe-yamal-giao-lo-thoi-gian-o-ban-ket-world-cup-2026-5097431.html",
+      "summary": "Trận đại chiến giữa Pháp và Tây Ban Nha hôm nay ghi dấu thêm một cuộc đọ tài giữa Kylian Mbappe và Lamine Yamal - hai tài năng vươn lên đỉnh cao theo cùng một kịch bản.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-14T09:41:44+07:00",
+      "fetched": "2026-07-14T18:17:37.321718+07:00"
+    },
+    {
       "id": "d817eb2acbcd910e5547244b52404b50",
       "title": "Thanh Hóa có thêm khu công nghiệp rộng 537 ha",
       "link": "https://thanhnien.vn/thanh-hoa-co-them-khu-cong-nghiep-rong-537-ha-185260714155031018.htm",
@@ -461,6 +911,16 @@ window.newsData_2026_07_14 = {
       "category": "Tổng hợp",
       "published": "2026-07-14T09:40:00+07:00",
       "fetched": "2026-07-14T16:46:29.998394+07:00"
+    },
+    {
+      "id": "9d5bfbbe275a15f7f5606f8527007577",
+      "title": "Dò hốc đá, hang sâu tìm liệt sĩ biên giới phía Bắc",
+      "link": "https://vnexpress.net/do-hoc-da-hang-sau-tim-liet-si-bien-gioi-phia-bac-5096865.html",
+      "summary": "Để quy tập hài cốt liệt sĩ hy sinh bảo vệ biên giới Vị Xuyên, bộ đội phải đu dây dò từng hốc đá, chui vào hang sâu trên các cao điểm từng là chiến địa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T09:38:24+07:00",
+      "fetched": "2026-07-14T18:17:25.097255+07:00"
     },
     {
       "id": "f8d39964f61bac8a3134b080462fe545",
@@ -503,6 +963,16 @@ window.newsData_2026_07_14 = {
       "fetched": "2026-07-14T16:46:26.491428+07:00"
     },
     {
+      "id": "c70682e41ba33ddaef8aeb0c2b6c6426",
+      "title": "Chủ nhà nhảy thoát khỏi đám cháy, người dân kéo đệm đỡ",
+      "link": "https://vnexpress.net/chu-nha-nhay-thoat-khoi-dam-chay-nguoi-dan-keo-dem-do-5097331.html",
+      "summary": "Cửa hàng bán đệm ở phường Hoa Lư bốc cháy tối 13/7 khiến gia đình ba người mắc kẹt, hai bố con nhảy từ tầng 3, người bố được người dân kéo đệm đỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T09:30:45+07:00",
+      "fetched": "2026-07-14T18:17:25.097415+07:00"
+    },
+    {
       "id": "b3681e560221e81e4487ae67ba33d292",
       "title": "5 thói quen tưởng vô hại có thể ảnh hưởng xấu đến phổi",
       "link": "https://vnexpress.net/5-thoi-quen-tuong-vo-hai-co-the-anh-huong-xau-den-phoi-5097259.html",
@@ -521,6 +991,16 @@ window.newsData_2026_07_14 = {
       "category": "Tổng hợp",
       "published": "2026-07-14T09:27:43+07:00",
       "fetched": "2026-07-14T16:46:26.491771+07:00"
+    },
+    {
+      "id": "eb47322c5773c4f7ef38c25ec4c5b734",
+      "title": "Trung tướng Đinh Văn Nơi làm Phó bí thư An Giang",
+      "link": "https://vnexpress.net/trung-tuong-dinh-van-noi-lam-pho-bi-thu-an-giang-5097142.html",
+      "summary": "Ban Bí thư điều động trung tướng Đinh Văn Nơi, Cục trưởng An ninh chính trị nội bộ, Bộ Công an, giữ chức Phó bí thư Tỉnh ủy An Giang kiêm Bí thư đặc khu Phú Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T09:27:43+07:00",
+      "fetched": "2026-07-14T18:17:25.097722+07:00"
     },
     {
       "id": "5fb8b21bdae69a3fecffbddf8c1a7c0e",
