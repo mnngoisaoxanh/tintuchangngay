@@ -1,7 +1,147 @@
 window.newsData_2026_07_14 = {
   "date": "2026-07-14",
-  "lastUpdated": "2026-07-14T05:44:40.840802+07:00",
+  "lastUpdated": "2026-07-14T08:27:30.212331+07:00",
   "articles": [
+    {
+      "id": "1cec46e19f50f011191a65b4a142cc15",
+      "title": "Tin tức sáng 14-7: Bộ GD-ĐT có cơ cấu tổ chức mới; Tổ công tác lập Quy hoạch tổng thể TP.HCM",
+      "link": "https://tuoitre.vn/tin-tuc-sang-14-7-bo-gd-dt-co-co-cau-to-chuc-moi-to-cong-tac-lap-quy-hoach-tong-the-tphcm-10026071323080324.htm",
+      "summary": "Tin tức đáng chú ý: Bộ Giáo dục và Đào tạo có cơ cấu tổ chức mới; Tổ công tác lập Quy hoạch tổng thể TP.HCM; Tung ưu đãi tránh thanh khoản bất động sản giảm sốc; Ngày 15-10 hằng năm là Ngày Công dân số Việt Nam...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T08:27:20.351688+07:00",
+      "fetched": "2026-07-14T08:27:20.351751+07:00"
+    },
+    {
+      "id": "94f3e9b486adda87b4969582930c36d5",
+      "title": "Giá hàng quán tăng rồi khó giảm: Xăng dầu chỉ là một phần câu chuyện",
+      "link": "https://tuoitre.vn/gia-hang-quan-tang-roi-kho-giam-xang-dau-chi-la-mot-phan-cau-chuyen-100260713184555525.htm",
+      "summary": "Theo chuyên gia, việc giá bán tăng do biến động giá xăng dầu khó quay về mức cũ do có nhiều yếu tố tác động, từ cả về mặt thị trường lẫn tâm lý người bán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T08:27:20.351632+07:00",
+      "fetched": "2026-07-14T08:27:20.351677+07:00"
+    },
+    {
+      "id": "7641d3e23f832c3c11f3ca813ac7a672",
+      "title": "Chuyên gia an ninh mạng Hiếu PC vạch trần chiêu thức 'bẫy tình' hàng triệu USDT mới",
+      "link": "https://tuoitre.vn/chuyen-gia-an-ninh-mang-hieu-pc-vach-tran-chieu-thuc-bay-tinh-hang-trieu-usdt-moi-100260713161653149.htm",
+      "summary": "Chuyên gia an ninh mạng Hiếu PC nhận định đằng sau những dòng tin nhắn mùi mẫn, đầy vẻ bi lụy kèm theo mật khẩu tài khoản có sẵn hàng triệu USDT ấy lại là một kịch bản lừa đảo tài chính tàn khốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T08:27:20.351577+07:00",
+      "fetched": "2026-07-14T08:27:20.351624+07:00"
+    },
+    {
+      "id": "587d01c681add22db2dbaa79a1c0989d",
+      "title": "Tin tức thế giới 14-7: Giá dầu thế giới tăng sốc 10%; Nga tấn công Kiev bằng tên lửa đạn đạo",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-14-7-gia-dau-the-gioi-tang-soc-10-nga-tan-cong-kiev-bang-ten-lua-dan-dao-100260714061109495.htm",
+      "summary": "Mỹ hoàn trả 81 tỉ USD thuế quan sau phán quyết của Tòa án tối cao. Giá dầu tăng gần 10% sau thông báo phong tỏa cảng Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T08:27:20.351527+07:00",
+      "fetched": "2026-07-14T08:27:20.351569+07:00"
+    },
+    {
+      "id": "941c21668d1f584d86054c8d0ed00559",
+      "title": "Lịch trực tiếp bán kết World Cup 2026: Pháp đấu Tây Ban Nha",
+      "link": "https://tuoitre.vn/lich-truc-tiep-ban-ket-world-cup-2026-phap-dau-tay-ban-nha-100260713161940645.htm",
+      "summary": "Lúc 2h ngày 15-7, Pháp sẽ chạm trán Tây Ban Nha ở trận bán kết đầu tiên World Cup 2026 tại Texas (Mỹ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T08:27:20.351475+07:00",
+      "fetched": "2026-07-14T08:27:20.351519+07:00"
+    },
+    {
+      "id": "007333e4ff0c2b547fe054c874e0c35b",
+      "title": "Lật từng hốc đá tìm liệt sĩ trên 'Lò vôi thế kỷ' tại mặt trận Vị Xuyên",
+      "link": "https://tuoitre.vn/lat-tung-hoc-da-tim-liet-si-tren-lo-voi-the-ky-tai-mat-tran-vi-xuyen-100260713215940158.htm",
+      "summary": "Trên điểm cao 685 mặt trận Vị Xuyên (Tuyên Quang), nơi được gọi là “Lò vôi thế kỷ”, vẫn còn những người lính nằm lại với đá, với bom đạn suốt hơn 40 năm qua. Những nhát cuốc tìm kiếm phải thật nhẹ nhàng vì phía dưới có liệt sĩ vẫn đang nằm đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T08:27:20.351417+07:00",
+      "fetched": "2026-07-14T08:27:20.351466+07:00"
+    },
+    {
+      "id": "2c04ba2e4b44c4b5a19f6729a7664bdf",
+      "title": "Dự đoán tỉ số World Cup: Tây Ban Nha thắng Pháp lần thứ 3 liên tiếp",
+      "link": "https://tuoitre.vn/du-doan-ti-so-world-cup-tay-ban-nha-thang-phap-lan-thu-3-lien-tiep-100260713151522129.htm",
+      "summary": "2h ngày 15-7 (giờ Việt Nam) sẽ diễn ra trận bán kết đầu tiên của World Cup 2026, khi Pháp đại chiến Tây Ban Nha trên sân vận động Dallas, Texas (Mỹ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T08:27:20.351365+07:00",
+      "fetched": "2026-07-14T08:27:20.351410+07:00"
+    },
+    {
+      "id": "3a5e538b72b4ff07cc8937884a4b6d03",
+      "title": "Tin đồn ác ý nhắm đến trọng tài Letexier khi ông 'bị loại' khỏi World Cup 2026",
+      "link": "https://tuoitre.vn/tin-don-ac-y-nham-den-trong-tai-letexier-khi-ong-bi-loai-khoi-world-cup-2026-100260714061012081.htm",
+      "summary": "Việc trọng tài người Pháp Francois Letexier không được giao nhiệm vụ bắt các trận đấu còn lại World Cup 2026 đã dấy lên nhiều tin đồn thiếu chính xác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T08:27:20.351310+07:00",
+      "fetched": "2026-07-14T08:27:20.351356+07:00"
+    },
+    {
+      "id": "3b9596a968873d61aaf36d961e0d1953",
+      "title": "Giá bán lẻ thịt heo giảm, siêu thị tăng khuyến mãi nhưng sức mua vẫn không cao",
+      "link": "https://tuoitre.vn/gia-ban-le-thit-heo-giam-sieu-thi-tang-khuyen-mai-nhung-suc-mua-van-khong-cao-100260713192929181.htm",
+      "summary": "Giá heo hơi giảm dần thời gian qua kéo giá thịt heo trên thị trường giảm theo. Giá thịt heo bán lẻ trong chương trình bình ổn thị trường tại TP.HCM cũng được điều chỉnh giảm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T08:27:20.351251+07:00",
+      "fetched": "2026-07-14T08:27:20.351302+07:00"
+    },
+    {
+      "id": "f415cd7718a40ac31880ae6a5c7b8eb4",
+      "title": "Tận dụng từng khoảnh khắc để thăng hoa tại VCK Giải bóng đá công nhân, viên chức Việt Nam",
+      "link": "https://tuoitre.vn/tan-dung-tung-khoanh-khac-de-thang-hoa-tai-vck-giai-bong-da-cong-nhan-vien-chuc-viet-nam-100260713233748839.htm",
+      "summary": "Mặc dù đội hình có một vài thay đổi so với vòng loại, nhưng đội bóng Công đoàn Quảng Ninh vẫn quyết tâm tận dụng từng khoảnh khắc để tiến sâu hơn tại VCK Giải bóng đá công nhân, viên chức Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T08:27:20.351178+07:00",
+      "fetched": "2026-07-14T08:27:20.351243+07:00"
+    },
+    {
+      "id": "cddf2eca49b821a97f34850f1bdad80d",
+      "title": "Tương quan sức mạnh giữa Pháp và Tây Ban Nha ở bán kết World Cup 2026",
+      "link": "https://tuoitre.vn/tuong-quan-suc-manh-giua-phap-va-tay-ban-nha-o-ban-ket-world-cup-2026-100260713193345925.htm",
+      "summary": "Tuyển Pháp nhỉnh hơn Tây Ban Nha nhiều thông số khi hai đội đối đầu nhau ở trận bán kết đầu tiên World Cup 2026 tại Texas (Mỹ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T08:27:20.351120+07:00",
+      "fetched": "2026-07-14T08:27:20.351169+07:00"
+    },
+    {
+      "id": "82b6c864de6b910b63241bd4e536741e",
+      "title": "Hướng dẫn viên du lịch 9X ở Sa Pa mua Ford Everest gần 2 tỉ đồng",
+      "link": "https://tuoitre.vn/huong-dan-vien-du-lich-9x-o-sa-pa-mua-ford-everest-gan-2-ti-dong-100260714014930823.htm",
+      "summary": "Việc anh Vàng A Sấu mua chiếc Ford Everest gần 2 tỉ đồng trở thành tâm điểm bàn luận trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T08:27:20.351060+07:00",
+      "fetched": "2026-07-14T08:27:20.351112+07:00"
+    },
+    {
+      "id": "8e23dc84da66b44b27b5d7b0c6ea382b",
+      "title": "Khoa học phát hiện điều thật sự tạo nên ong chúa",
+      "link": "https://tuoitre.vn/khoa-hoc-phat-hien-dieu-that-su-tao-nen-ong-chua-100260713113125999.htm",
+      "summary": "Trong nhiều thập kỷ, giới khoa học cho rằng sữa ong chúa quyết định sự hình thành ong chúa. Nghiên cứu mới cho thấy môi trường do cả đàn ong tạo ra mới là yếu tố then chốt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T08:27:20.350989+07:00",
+      "fetched": "2026-07-14T08:27:20.351051+07:00"
+    },
+    {
+      "id": "73f71f1f5a90908fdcb1e088b9469c9a",
+      "title": "Chứng khoán 14-7: VN-Index mấp mé 1.800 điểm, nên bán hạ tỉ trọng hay mua bắt đáy?",
+      "link": "https://tuoitre.vn/chung-khoan-14-7-vn-index-map-me-1800-diem-nen-ban-ha-ti-trong-hay-mua-bat-day-100260714061211265.htm",
+      "summary": "Thị trường chứng khoán được dự báo chuyển sang xu hướng giảm trong ngắn hạn. Nhà đầu tư nên ưu tiên hạ tỉ trọng và hạn chế mua mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T08:27:20.350827+07:00",
+      "fetched": "2026-07-14T08:27:20.350976+07:00"
+    },
     {
       "id": "594caffd2beb58a4ae3ac6c1ec8a25d9",
       "title": "Thời tiết hôm nay 14-7: Nắng nóng quay lại miền Bắc, Nam Bộ vẫn mưa chiều",
@@ -193,6 +333,406 @@ window.newsData_2026_07_14 = {
       "fetched": "2026-07-14T02:11:50.235423+07:00"
     },
     {
+      "id": "1d059331caa6df1ebdbc2c83ed49e79b",
+      "title": "Ông Trump muốn thu phí 20% hàng hóa qua eo Hormuz, Iran đáp trả",
+      "link": "https://thanhnien.vn/ong-trump-muon-thu-phi-20-hang-hoa-qua-eo-hormuz-iran-dap-tra-185260714075149057.htm",
+      "summary": "Tổng thống Mỹ Donald Trump tuyên bố Washington đang khôi phục lệnh phong tỏa hàng hải đối với Iran, đồng thời cho biết Mỹ sẽ yêu cầu được 'thu phí 20%' tổng giá trị hàng hóa đi qua eo biển Hormuz.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T01:16:00+07:00",
+      "fetched": "2026-07-14T08:27:18.439036+07:00"
+    },
+    {
+      "id": "3f23c9f746c301bc2250d79420682fc4",
+      "title": "90.000 CĐV cùng đội tuyển Na Uy chèo thuyền trước Cung điện Hoàng gia",
+      "link": "https://vnexpress.net/90-000-cdv-cung-doi-tuyen-na-uy-cheo-thuyen-truoc-cung-dien-hoang-gia-5097103.html",
+      "summary": "Các thành viên đội tuyển Na Uy và khoảng 90.000 CĐV tham gia màn chèo thuyền ăn mừng chiến tích lịch sử tại World Cup 2026 trước Cung điện Hoàng gia, nhưng Erling Haaland không góp mặt do phải rời đi sớm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-14T01:13:57+07:00",
+      "fetched": "2026-07-14T08:27:30.206451+07:00"
+    },
+    {
+      "id": "4e220f7dbf56c8db07edf6d7419e60b7",
+      "title": "Mỗi ngày nên ăn bao nhiêu quả trứng? Chuyên gia giải đáp",
+      "link": "https://thanhnien.vn/moi-ngay-nen-an-bao-nhieu-qua-trung-chuyen-gia-giai-dap-185260714081358493.htm",
+      "summary": "Trứng từ lâu là thực phẩm khiến nhiều người băn khoăn. Một mặt, trứng giàu protein và axit béo omega-3. Mặt khác, trứng chứa cholesterol, trong khi các bác sĩ tim mạch thường khuyến cáo cần chú ý đến cholesterol.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T01:13:00+07:00",
+      "fetched": "2026-07-14T08:27:18.439187+07:00"
+    },
+    {
+      "id": "861e0ce0a718278e54d17a99beeaca7e",
+      "title": "Trung Quốc bắt nhà khoa học Mỹ bị cáo buộc làm gián điệp?",
+      "link": "https://thanhnien.vn/trung-quoc-bat-nha-khoa-hoc-my-bi-cao-buoc-lam-gian-diep-185260714070638084.htm",
+      "summary": "Một nhà địa chấn học người Mỹ gốc Hoa từng công bố nhiều nghiên cứu do Mỹ tài trợ về các vụ thử hạt nhân của Triều Tiên đã bị Trung Quốc bắt gần 2 năm qua và sắp ra tòa vì cáo buộc gián điệp, theo hãng tin Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T01:11:00+07:00",
+      "fetched": "2026-07-14T08:27:18.439320+07:00"
+    },
+    {
+      "id": "2918366a8821e098e506138c76b40022",
+      "title": "Ông Trump thông báo quốc hội về nối lại chiến sự Iran, nói vẫn có thể thỏa thuận",
+      "link": "https://thanhnien.vn/ong-trump-thong-bao-quoc-hoi-ve-noi-lai-chien-su-iran-noi-van-co-the-thoa-thuan-185260714072938819.htm",
+      "summary": "Rạng sáng nay (14.7), quân đội Mỹ đã tiến hành đợt tấn công Iran trong ngày thứ ba liên tiếp dù Tổng thống Donald Trump nói rằng vẫn có thể đạt thỏa thuận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T01:03:00+07:00",
+      "fetched": "2026-07-14T08:27:18.439449+07:00"
+    },
+    {
+      "id": "08ab94b057dad5bc82bd330e2d2c7fb9",
+      "title": "Kinh tế đêm Hà Nội: Cần cuộc chơi của nghệ thuật và ánh sáng",
+      "link": "https://thanhnien.vn/kinh-te-dem-ha-noi-can-cuoc-choi-cua-nghe-thuat-va-anh-sang-18526071323205717.htm",
+      "summary": "Khu nghệ thuật trong công viên, chương trình ánh sáng lộng lẫy ý nghĩa…; đó là cuộc chơi đêm của nghệ thuật và ánh sáng mà Hà Nội cần có.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T01:00:00+07:00",
+      "fetched": "2026-07-14T08:27:18.439572+07:00"
+    },
+    {
+      "id": "438e787798599699a99525cf22d84e99",
+      "title": "Bất động sản phường Đông Hòa hưởng lợi theo Quy hoạch đô thị 100 năm",
+      "link": "https://thanhnien.vn/bat-dong-san-phuong-dong-hoa-huong-loi-theo-quy-hoach-do-thi-100-nam-185260713203909233.htm",
+      "summary": "10 vùng phát triển sẽ định hình diện mạo TP.HCM trong 100 năm tới. Trong đó, vùng 2 - cực đổi mới sáng tạo phía đông là một trong những động lực then chốt tạo nền tảng cho siêu đô thị toàn cầu trong tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T01:00:00+07:00",
+      "fetched": "2026-07-14T08:27:18.439702+07:00"
+    },
+    {
+      "id": "c32d0454958310d7fc7551cdb431fe33",
+      "title": "‘Hiểu hết về tiền’: Giải mã cách tiền vận hành trong nền kinh tế",
+      "link": "https://thanhnien.vn/hieu-het-ve-tien-giai-ma-cach-tien-van-hanh-trong-nen-kinh-te-185260713202228458.htm",
+      "summary": "'Hiểu hết về tiền' lý giải cách đồng tiền vận hành trong nền kinh tế, từ những chính sách vĩ mô đến các quyết định tài chính cá nhân, thông qua lối trình bày trực quan, dễ tiếp cận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T01:00:00+07:00",
+      "fetched": "2026-07-14T08:27:18.439847+07:00"
+    },
+    {
+      "id": "f5c936c8aefcb99409bab4caedace8d0",
+      "title": "Bia nội địa nâng tầm chất lượng, đồng hành trải nghiệm ẩm thực chuẩn quốc tế",
+      "link": "https://thanhnien.vn/bia-noi-dia-nang-tam-chat-luong-dong-hanh-trai-nghiem-am-thuc-chuan-quoc-te-185260713200823657.htm",
+      "summary": "Không chỉ xuất hiện trong những bữa cơm gia đình, những chai bia mát lạnh mang thương hiệu Việt đang góp mặt cả trong các không gian ẩm thực được chăm chút hơn về món ăn, dịch vụ và trải nghiệm thưởng thức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T01:00:00+07:00",
+      "fetched": "2026-07-14T08:27:18.439973+07:00"
+    },
+    {
+      "id": "7db682084ef6503992abf486737b85a4",
+      "title": "Từ giảng đường thế giới đến xã đảo Thạnh An: Trở về để gieo yêu thương",
+      "link": "https://thanhnien.vn/tu-giang-duong-the-gioi-den-xa-dao-thanh-an-tro-ve-de-gieo-yeu-thuong-185260713192001731.htm",
+      "summary": "Đội hình gồm 50 du học sinh Việt Nam đang học tập tại Thái Lan, Singapore, Úc và Vương quốc Anh đến xã đảo Thạnh An (TP.HCM) để thực hiện các phần việc giúp người dân, qua đó thấu hiểu cuộc sống nơi đầu sóng và nuôi dưỡng tình yêu quê hương, biển đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T01:00:00+07:00",
+      "fetched": "2026-07-14T08:27:18.440101+07:00"
+    },
+    {
+      "id": "0e7ca129782fff86998496abd1c1bca0",
+      "title": "Những yếu tố làm nên sức hút của Khải Hoàn Imperial",
+      "link": "https://thanhnien.vn/nhung-yeu-to-lam-nen-suc-hut-cua-khai-hoan-imperial-185260713170603687.htm",
+      "summary": "Sự quan tâm mà Khải Hoàn Imperial nhận được trong thời gian vừa qua không chỉ đến từ sức hút của sản phẩm mà còn từ các yếu tố có thể kiểm chứng thông qua tiến độ triển khai, pháp lý và định hướng phát triển dài hạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T01:00:00+07:00",
+      "fetched": "2026-07-14T08:27:18.440222+07:00"
+    },
+    {
+      "id": "d4a9ffaff5f59b5fa6ec02beac8e5f30",
+      "title": "LG gram AI 2026 tối ưu hóa hiệu suất và chuẩn hóa phong cách làm việc On - The - Move",
+      "link": "https://thanhnien.vn/lg-gram-ai-2026-toi-uu-hoa-hieu-suat-va-chuan-hoa-phong-cach-lam-viec-on-the-move-185260713152949063.htm",
+      "summary": "Thế hệ laptop LG gram AI 2026 gia nhập đường đua công nghệ với bước nhảy vọt từ hợp kim tân tiến siêu mỏng nhẹ Aerominum™ cùng đặc quyền sức mạnh công nghệ tối ưu đến từ nền tảng Dual AI. Đây không chỉ là một sự nâng cấp phần cứng từ LG, mà là một chuẩn mực mới cho người dùng tận dụng tối ưu 'thời g...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T01:00:00+07:00",
+      "fetched": "2026-07-14T08:27:18.440341+07:00"
+    },
+    {
+      "id": "d8343eafbcedb3b92d7a6714a15d9d1f",
+      "title": "Cách Solaria Rise ‘đo ni đóng giày’ trải nghiệm sống Resort Living cho từng thế hệ",
+      "link": "https://thanhnien.vn/cach-solaria-rise-do-ni-dong-giay-trai-nghiem-song-resort-living-cho-tung-the-he-185260713150507663.htm",
+      "summary": "Giá trị lớn nhất của một tổ ấm không phải lúc nào cũng nằm ở mét vuông diện tích hay vị trí thuận tiện. Đôi khi, yếu tố khiến một ngôi nhà thực sự trở thành 'nhà' lại nằm ở giá trị khó đo đếm hơn: Mỗi thành viên trong gia đình đều có thể sống đúng nhịp của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T01:00:00+07:00",
+      "fetched": "2026-07-14T08:27:18.440464+07:00"
+    },
+    {
+      "id": "807401c1275a13a6acfffd5ca9f588fc",
+      "title": "Hiểu đúng về chi phí điều trị hiếm muộn để chủ động hành trình tìm con",
+      "link": "https://thanhnien.vn/hieu-dung-ve-chi-phi-dieu-tri-hiem-muon-de-chu-dong-hanh-trinh-tim-con-185260713124654469.htm",
+      "summary": "Bên cạnh nỗi lo về sức khỏe sinh sản, nhiều cặp vợ chồng còn băn khoăn về chi phí điều trị hiếm muộn. Vậy cần chuẩn bị bao nhiêu chi phí và làm thế nào để tối ưu ngân sách trong quá trình tìm con?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T01:00:00+07:00",
+      "fetched": "2026-07-14T08:27:18.440583+07:00"
+    },
+    {
+      "id": "54c1543ecb6cd6f35e52f51ae27d1cd2",
+      "title": "Xu hướng họa tiết dịu dàng, lãng mạn 'lên ngôi' lúc giao mùa",
+      "link": "https://thanhnien.vn/thoi-trang-tre/xu-huong-hoa-tiet-diu-dang-lang-man-len-ngoi-luc-giao-mua-185260710083311029.htm",
+      "summary": "Xu hướng thời trang giao mùa 2026 đánh dấu sự trở lại ấn tượng của các họa tiết dịu dàng và lãng mạn. Họa tiết hoa nhí, họa tiết kẻ ngang... hiện diện trên váy dáng dài, trang phục công sở theo cách nhẹ nhàng mà tươi mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T01:00:00+07:00",
+      "fetched": "2026-07-14T08:27:18.440702+07:00"
+    },
+    {
+      "id": "bd67a38145ad4c8f2f23bfe8c41a3617",
+      "title": "Ý nghĩa biểu tượng hình thư mục trên điện thoại Samsung",
+      "link": "https://thanhnien.vn/y-nghia-bieu-tuong-hinh-thu-muc-tren-dien-thoai-samsung-185260713234744163.htm",
+      "summary": "Một số ứng dụng trên điện thoại Samsung có biểu tượng hình thư mục nhằm báo hiệu người dùng yên tâm hơn là lo lắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T00:59:00+07:00",
+      "fetched": "2026-07-14T08:27:18.440839+07:00"
+    },
+    {
+      "id": "9ce13f8cfd2d7237c31efc61d1c38cac",
+      "title": "Giá vàng thế giới rời mốc 4.000 USD, dầu thô tăng gần 10%",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-roi-moc-4-000-usd-dau-tho-tang-gan-10-5097086.html",
+      "summary": "Mỗi ounce vàng hiện về dưới 4.000 USD, trong khi giá dầu Brent vượt 80 USD khi Mỹ tái áp đặt lệnh phong tỏa cảng biển Iran.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-14T00:43:29+07:00",
+      "fetched": "2026-07-14T08:27:23.811388+07:00"
+    },
+    {
+      "id": "33fdc3249f0643c5c403b33b6991dfbe",
+      "title": "Ông Trump muốn Mỹ được 'bồi hoàn chi phí bảo vệ' đồng minh",
+      "link": "https://vnexpress.net/ong-trump-muon-my-duoc-boi-hoan-chi-phi-bao-ve-dong-minh-5097078.html",
+      "summary": "Tổng thống Trump cho rằng Mỹ nên được bồi hoàn tiền vì nỗ lực bảo vệ các nước đồng minh ở Trung Đông trong cuộc xung đột với Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T00:32:48+07:00",
+      "fetched": "2026-07-14T08:27:14.738085+07:00"
+    },
+    {
+      "id": "33fdc3249f0643c5c403b33b6991dfbe",
+      "title": "Ông Trump muốn Mỹ được 'bồi hoàn chi phí bảo vệ' đồng minh",
+      "link": "https://vnexpress.net/ong-trump-muon-my-duoc-boi-hoan-chi-phi-bao-ve-dong-minh-5097078.html",
+      "summary": "Tổng thống Trump cho rằng Mỹ nên được bồi hoàn tiền vì nỗ lực bảo vệ các nước đồng minh ở Trung Đông trong cuộc xung đột với Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-14T00:32:48+07:00",
+      "fetched": "2026-07-14T08:27:21.723808+07:00"
+    },
+    {
+      "id": "2e453563c2fb3d9fa3333d03565f71f9",
+      "title": "Vượt Mỹ, Trung Quốc thành nước nhập khẩu thuỷ sản Việt Nam nhiều nhất",
+      "link": "https://vnexpress.net/vuot-my-trung-quoc-thanh-nuoc-nhap-khau-thuy-san-viet-nam-nhieu-nhat-5096914.html",
+      "summary": "Trung Quốc nhập gần 1,4 tỷ USD thủy sản Việt trong nửa đầu năm, tăng 40% so với cùng kỳ, vượt Mỹ để trở thành thị trường xuất khẩu lớn nhất của ngành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T00:21:10+07:00",
+      "fetched": "2026-07-14T08:27:14.738253+07:00"
+    },
+    {
+      "id": "2e453563c2fb3d9fa3333d03565f71f9",
+      "title": "Vượt Mỹ, Trung Quốc thành nước nhập khẩu thuỷ sản Việt Nam nhiều nhất",
+      "link": "https://vnexpress.net/vuot-my-trung-quoc-thanh-nuoc-nhap-khau-thuy-san-viet-nam-nhieu-nhat-5096914.html",
+      "summary": "Trung Quốc nhập gần 1,4 tỷ USD thủy sản Việt trong nửa đầu năm, tăng 40% so với cùng kỳ, vượt Mỹ để trở thành thị trường xuất khẩu lớn nhất của ngành.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-14T00:21:10+07:00",
+      "fetched": "2026-07-14T08:27:23.811547+07:00"
+    },
+    {
+      "id": "f1f211729c3f7bc095b293c4e68f6d8b",
+      "title": "Mỹ tập kích Iran đêm thứ ba liên tiếp",
+      "link": "https://vnexpress.net/my-tap-kich-iran-dem-thu-ba-lien-tiep-5097081.html",
+      "summary": "Mỹ tấn công các mục tiêu Iran đêm thứ ba liên tiếp, đánh dấu xung đột leo thang, ngay cả khi ông Trump nói vẫn có thể đạt thỏa thuận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T00:02:15+07:00",
+      "fetched": "2026-07-14T08:27:14.738401+07:00"
+    },
+    {
+      "id": "f1f211729c3f7bc095b293c4e68f6d8b",
+      "title": "Mỹ tập kích Iran đêm thứ ba liên tiếp",
+      "link": "https://vnexpress.net/my-tap-kich-iran-dem-thu-ba-lien-tiep-5097081.html",
+      "summary": "Mỹ tấn công các mục tiêu Iran đêm thứ ba liên tiếp, đánh dấu xung đột leo thang, ngay cả khi ông Trump nói vẫn có thể đạt thỏa thuận.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-14T00:02:15+07:00",
+      "fetched": "2026-07-14T08:27:21.723971+07:00"
+    },
+    {
+      "id": "a8e486946771608ea8312793dc7b440a",
+      "title": "5 vấn đề sức khỏe phụ nữ dễ mắc sau 30 tuổi",
+      "link": "https://vnexpress.net/5-van-de-suc-khoe-phu-nu-de-mac-sau-30-tuoi-5096911.html",
+      "summary": "Rối loạn tuyến giáp, tiểu đường type 2, tăng huyết áp, loãng xương và hội chứng buồng trứng đa nang có xu hướng gia tăng ở phụ nữ sau tuổi 30.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T00:00:00+07:00",
+      "fetched": "2026-07-14T08:27:14.738540+07:00"
+    },
+    {
+      "id": "cf57c1ec59fbf39b5da7248ac03a559d",
+      "title": "Quán phở 30 năm giữ chân thực khách nhờ hương vị xưa",
+      "link": "https://vnexpress.net/quan-pho-30-nam-giu-chan-thuc-khach-nho-huong-vi-xua-5091972.html",
+      "summary": "Quán phở trên phố Huỳnh Thúc Kháng trở thành địa chỉ quen thuộc với nhiều thực khách suốt 30 năm nhờ chủ quán giữ gìn hương vị truyền thống của thế hệ trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T00:00:00+07:00",
+      "fetched": "2026-07-14T08:27:14.738672+07:00"
+    },
+    {
+      "id": "3246cec8c82fa909d47a41d9f779c113",
+      "title": "10 ôtô nhiều khách Việt mua nhất nửa đầu 2026",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-nhieu-khach-viet-mua-nhat-nua-dau-2026-5096845.html",
+      "summary": "Hãng ôtô thương hiệu Việt áp đảo với lượng xe bàn giao nhiều nhất 6 tháng đầu năm, trong đó Limo Green dẫn đầu với 27.927 xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T00:00:00+07:00",
+      "fetched": "2026-07-14T08:27:14.738822+07:00"
+    },
+    {
+      "id": "9bfcc998640c19cbb1985293179ab451",
+      "title": "Vì sao Nhật Bản không còn hấp dẫn với nhiều lao động Việt?",
+      "link": "https://vnexpress.net/vi-sao-nhat-ban-khong-con-hap-dan-voi-nhieu-lao-dong-viet-5096523.html",
+      "summary": "Chi phí sinh hoạt tăng, đồng yen mất giá và chính sách lưu trú mới khiến nhiều lao động Việt quyết định rời Nhật Bản về nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:28:00+07:00",
+      "fetched": "2026-07-14T08:27:14.738952+07:00"
+    },
+    {
+      "id": "79bf01802e9ee41b7e295583363d1311",
+      "title": "Pháp - Tây Ban Nha: Duyên nợ trăm năm của bóng đá châu Âu",
+      "link": "https://vnexpress.net/phap-tay-ban-nha-duyen-no-tram-nam-cua-bong-da-chau-au-5096993.html",
+      "summary": "Trước cuộc đại chiến ở bán kết World Cup 2026 hôm nay, Tây Ban Nha là đối thủ mà Pháp chạm trán nhiều thứ năm trong lịch sử, với nhiều kỷ niệm, huy hoàng lẫn đắng cay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:23:07+07:00",
+      "fetched": "2026-07-14T08:27:14.739095+07:00"
+    },
+    {
+      "id": "79bf01802e9ee41b7e295583363d1311",
+      "title": "Pháp - Tây Ban Nha: Duyên nợ trăm năm của bóng đá châu Âu",
+      "link": "https://vnexpress.net/phap-tay-ban-nha-duyen-no-tram-nam-cua-bong-da-chau-au-5096993.html",
+      "summary": "Trước cuộc đại chiến ở bán kết World Cup 2026 hôm nay, Tây Ban Nha là đối thủ mà Pháp chạm trán nhiều thứ năm trong lịch sử, với nhiều kỷ niệm, huy hoàng lẫn đắng cay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-13T23:23:07+07:00",
+      "fetched": "2026-07-14T08:27:30.206609+07:00"
+    },
+    {
+      "id": "e272d034e37dfc2b8ee86010952ead2b",
+      "title": "Đội tuyển Pháp và những điềm báo từ quá khứ World Cup",
+      "link": "https://vnexpress.net/doi-tuyen-phap-va-nhung-diem-bao-tu-qua-khu-world-cup-5097028.html",
+      "summary": "Dù mang những sắc thái rất riêng, đội tuyển Pháp đang hướng đến hành trình của thế hệ Brazil giai đoạn 1994 đến 2002 – khi vào chung kết World Cup ba lần liên tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:12:36+07:00",
+      "fetched": "2026-07-14T08:27:14.739223+07:00"
+    },
+    {
+      "id": "e272d034e37dfc2b8ee86010952ead2b",
+      "title": "Đội tuyển Pháp và những điềm báo từ quá khứ World Cup",
+      "link": "https://vnexpress.net/doi-tuyen-phap-va-nhung-diem-bao-tu-qua-khu-world-cup-5097028.html",
+      "summary": "Dù mang những sắc thái rất riêng, đội tuyển Pháp đang hướng đến hành trình của thế hệ Brazil giai đoạn 1994 đến 2002 – khi vào chung kết World Cup ba lần liên tiếp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-13T23:12:36+07:00",
+      "fetched": "2026-07-14T08:27:30.206767+07:00"
+    },
+    {
+      "id": "a082019df171541ce9a6e66711ded278",
+      "title": "Tin World Cup 6h: Argentina xin FIFA mặc áo may mắn trước đội tuyển Anh | Rice kịp bình phục, sẵn sàng đá chính trước Argentina",
+      "link": "https://vnexpress.net/tin-world-cup-6h-argentina-xin-fifa-mac-ao-may-man-truoc-doi-tuyen-anh-rice-kip-binh-phuc-san-sang-da-chinh-truoc-argentina-5097077.html",
+      "summary": "Victoria Beckham 'gây bão' vì không ăn mừng bàn thắng tuyển Anh; Man Utd mua đội trưởng Bỉ tại World Cup 2026;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:10:57+07:00",
+      "fetched": "2026-07-14T08:27:14.739353+07:00"
+    },
+    {
+      "id": "2b7182f3d6d72d065290db49a7690308",
+      "title": "Điểm tin 6h: Sân bay Long Thành dự kiến khai thác thương mại từ 1/12 | Ông Trump ra lệnh tái phong tỏa cảng biển Iran",
+      "link": "https://vnexpress.net/diem-tin-6h-san-bay-long-thanh-du-kien-khai-thac-thuong-mai-tu-1-12-ong-trump-ra-lenh-tai-phong-toa-cang-bien-iran-5097076.html",
+      "summary": "Hơn 320 học sinh chuyên Tuyên Quang được đăng ký xét tuyển đại học; Ngân hàng ồ ạt phát hành trái phiếu, lãi suất lên tới 8-9%/năm...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:05:14+07:00",
+      "fetched": "2026-07-14T08:27:14.739486+07:00"
+    },
+    {
+      "id": "2a8f81ee96519cdd71455c4f9d53e3d9",
+      "title": "Bellingham được ví như nhân tố X ở đội tuyển Anh",
+      "link": "https://vnexpress.net/bellingham-duoc-vi-nhu-nhan-to-x-o-doi-tuyen-anh-5096883.html",
+      "summary": "Cựu danh thủ Paul Merson đánh giá Jude Bellingham đang sở hữu những phẩm chất đặc biệt, có thể giúp đội tuyển Anh chinh phục World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:04:34+07:00",
+      "fetched": "2026-07-14T08:27:14.739608+07:00"
+    },
+    {
+      "id": "2a8f81ee96519cdd71455c4f9d53e3d9",
+      "title": "Bellingham được ví như nhân tố X ở đội tuyển Anh",
+      "link": "https://vnexpress.net/bellingham-duoc-vi-nhu-nhan-to-x-o-doi-tuyen-anh-5096883.html",
+      "summary": "Cựu danh thủ Paul Merson đánh giá Jude Bellingham đang sở hữu những phẩm chất đặc biệt, có thể giúp đội tuyển Anh chinh phục World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-13T23:04:34+07:00",
+      "fetched": "2026-07-14T08:27:30.206909+07:00"
+    },
+    {
+      "id": "22a87f7bbbad150c7e633b96d9ad6caf",
+      "title": "Bất lợi về mặt logistics của Tây Ban Nha trước Pháp",
+      "link": "https://vnexpress.net/bat-loi-ve-mat-logistics-cua-tay-ban-nha-truoc-phap-5097017.html",
+      "summary": "Đội tuyển Tây Ban Nha phải rời đại bản doanh và liên tục di chuyển từ đầu World Cup 2026, trong khi Pháp được \"an cư\" và chỉ phải thi đấu ở những địa điểm lân cận nơi đóng quân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:02:49+07:00",
+      "fetched": "2026-07-14T08:27:14.739749+07:00"
+    },
+    {
+      "id": "22a87f7bbbad150c7e633b96d9ad6caf",
+      "title": "Bất lợi về mặt logistics của Tây Ban Nha trước Pháp",
+      "link": "https://vnexpress.net/bat-loi-ve-mat-logistics-cua-tay-ban-nha-truoc-phap-5097017.html",
+      "summary": "Đội tuyển Tây Ban Nha phải rời đại bản doanh và liên tục di chuyển từ đầu World Cup 2026, trong khi Pháp được \"an cư\" và chỉ phải thi đấu ở những địa điểm lân cận nơi đóng quân.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-13T23:02:49+07:00",
+      "fetched": "2026-07-14T08:27:30.207173+07:00"
+    },
+    {
+      "id": "d424956cde2245540a09413aa38dc42d",
+      "title": "Xác định danh tính liệt sĩ bằng ADN thế nào?",
+      "link": "https://vnexpress.net/xac-dinh-danh-tinh-liet-si-bang-adn-the-nao-5097049.html",
+      "summary": "Công nghệ giải trình tự ADN thế hệ mới cho phép nhận diện các đoạn ADN ngắn, bị phân hủy sau nhiều thập kỷ, mở thêm cơ hội xác định danh tính liệt sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:00:00+07:00",
+      "fetched": "2026-07-14T08:27:14.739877+07:00"
+    },
+    {
+      "id": "9318868643e7184142bc032e9093006b",
+      "title": "Giảm 22 kg sau 6 tháng vì bị con chê béo",
+      "link": "https://vnexpress.net/giam-22-kg-sau-6-thang-vi-bi-con-che-beo-5095830.html",
+      "summary": "Câu nói ngây thơ của cậu con trai 8 tuổi chê \"mẹ béo\" trở thành cú hích khiến chị Đinh Thị Mơ, 34 tuổi, thay đổi cả lối sống, giúp giảm 22 kg, đưa cân nặng từ 74 kg về 52 kg.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T23:00:00+07:00",
+      "fetched": "2026-07-14T08:27:14.740000+07:00"
+    },
+    {
+      "id": "247a0ded50f7f2c072f01efb99e25334",
+      "title": "Deschamps: 'Tây Ban Nha ở cửa trên Pháp'",
+      "link": "https://vnexpress.net/deschamps-tay-ban-nha-o-cua-tren-phap-5097030.html",
+      "summary": "Theo HLV Didier Deschamps, Tây Ban Nha là ứng cử viên sáng giá hơn Pháp ở bán kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-13T22:45:42+07:00",
+      "fetched": "2026-07-14T08:27:30.207298+07:00"
+    },
+    {
       "id": "9f583cecd95133321e6c0c938a5b2eaf",
       "title": "Lâm Đồng lấy mẫu ADN 651 phần mộ liệt sĩ chưa rõ danh tính",
       "link": "https://thanhnien.vn/lam-dong-lay-mau-adn-651-phan-mo-liet-si-chua-ro-danh-tinh-185260713211731018.htm",
@@ -201,6 +741,16 @@ window.newsData_2026_07_14 = {
       "category": "Tổng hợp",
       "published": "2026-07-13T22:41:00+07:00",
       "fetched": "2026-07-14T05:44:31.239868+07:00"
+    },
+    {
+      "id": "2754b91e97f2bd1d226fd96dae7403a8",
+      "title": "Cảnh sát điều tra cái chết của cầu thủ vừa dự World Cup 2026",
+      "link": "https://vnexpress.net/canh-sat-dieu-tra-cai-chet-cua-cau-thu-vua-du-world-cup-2026-5097062.html",
+      "summary": "Cảnh sát đang điều tra nguyên nhân cái chết của tiền vệ Jayden Adams, sau khi thi thể cầu thủ 25 tuổi được phát hiện tại một bất động sản ở thành phố Cape Town.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-13T22:39:21+07:00",
+      "fetched": "2026-07-14T08:27:30.207421+07:00"
     },
     {
       "id": "e5e1242db789b02259d1909ad237f863",
