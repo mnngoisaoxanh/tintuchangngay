@@ -1,7 +1,17 @@
 window.newsData_2026_07_16 = {
   "date": "2026-07-16",
-  "lastUpdated": "2026-07-16T00:05:19.196924+07:00",
+  "lastUpdated": "2026-07-16T01:55:09.655437+07:00",
   "articles": [
+    {
+      "id": "f46fbe8e9c67b81049138b9722c81582",
+      "title": "Iran nói chưa có kế hoạch đàm phán với Mỹ, đang tập trung cho quốc phòng",
+      "link": "https://tuoitre.vn/iran-noi-chua-co-ke-hoach-dam-phan-voi-my-dang-tap-trung-cho-quoc-phong-10026071523410354.htm",
+      "summary": "Ngày 15-7, người phát ngôn Bộ Ngoại giao Iran Esmail Baghaei khẳng định hiện Tehran không có kế hoạch tham gia đàm phán với Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T01:55:00.800331+07:00",
+      "fetched": "2026-07-16T01:55:00.800780+07:00"
+    },
     {
       "id": "9f3e0f9dec3e1c027e720636372ef2f2",
       "title": "Nhật Bản thắng kịch tính nhà vô địch bóng chuyền thế giới",
@@ -153,6 +163,96 @@ window.newsData_2026_07_16 = {
       "fetched": "2026-07-16T00:05:12.802848+07:00"
     },
     {
+      "id": "4a4ca9aef353fa0bd3f5f164c177080a",
+      "title": "Tại sao xuất tinh ngoài, 'đối tác' vẫn mang thai?",
+      "link": "https://vnexpress.net/tai-sao-xuat-tinh-ngoai-doi-tac-van-mang-thai-5097336.html",
+      "summary": "Một lượng nhỏ tinh dịch cũng chứa rất nhiều tinh trùng khỏe mạnh có khả năng di chuyển nhanh chóng đến ống dẫn trứng, dẫn đến mang thai ngoài ý muốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T18:02:00+07:00",
+      "fetched": "2026-07-16T01:54:55.417695+07:00"
+    },
+    {
+      "id": "46647268a58275ab1a50b42f34241856",
+      "title": "Đau nửa đầu hay vỡ phình động mạch não? Chuyên gia chỉ cách phân biệt",
+      "link": "https://thanhnien.vn/dau-nua-dau-hay-vo-phinh-dong-mach-nao-chuyen-gia-chi-cach-phan-biet-185260715182300475.htm",
+      "summary": "Đau nửa đầu và vỡ phình động mạch não đều gây đau đầu dữ dội. Tuy nhiên, đây là 2 tình trạng hoàn toàn khác nhau, trong đó vỡ phình động mạch não là cấp cứu y khoa cần xử trí ngay để tránh nguy cơ tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T17:22:00+07:00",
+      "fetched": "2026-07-16T01:54:58.596231+07:00"
+    },
+    {
+      "id": "a3a97d8b0095952920da1bf918826c86",
+      "title": "Nghiên cứu phát hiện tính cách giúp sống thọ, khỏe mạnh đến tuổi 100",
+      "link": "https://thanhnien.vn/nghien-cuu-phat-hien-tinh-cach-giup-song-tho-khoe-manh-den-tuoi-100-18526071518052209.htm",
+      "summary": "Khi nhắc đến lão hóa khỏe mạnh, nhiều người nghĩ ngay đến chế độ ăn, tập thể dục. Tuy nhiên, một nghiên cứu mới cho thấy tính cách cũng có thể đóng vai trò quan trọng, thậm chí liên quan đến khả năng sống khỏe và trường thọ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T17:14:00+07:00",
+      "fetched": "2026-07-16T01:54:58.596369+07:00"
+    },
+    {
+      "id": "ab650d0822b8f88c97046e414df1f9e4",
+      "title": "Doanh nghiệp giữ lạc quan giữa loạt áp lực",
+      "link": "https://vnexpress.net/doanh-nghiep-giu-lac-quan-giua-loat-ap-luc-5097796.html",
+      "summary": "Đối mặt kinh tế toàn cầu bất ổn và môi trường kinh doanh chưa hẳn thuận lợi, niềm tin của doanh nghiệp vẫn cải thiện, theo khảo sát của EuroCham.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T17:10:00+07:00",
+      "fetched": "2026-07-16T01:54:55.417888+07:00"
+    },
+    {
+      "id": "ab650d0822b8f88c97046e414df1f9e4",
+      "title": "Doanh nghiệp giữ lạc quan giữa loạt áp lực",
+      "link": "https://vnexpress.net/doanh-nghiep-giu-lac-quan-giua-loat-ap-luc-5097796.html",
+      "summary": "Đối mặt kinh tế toàn cầu bất ổn và môi trường kinh doanh chưa hẳn thuận lợi, niềm tin của doanh nghiệp vẫn cải thiện, theo khảo sát của EuroCham.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-15T17:10:00+07:00",
+      "fetched": "2026-07-16T01:55:03.584625+07:00"
+    },
+    {
+      "id": "4b6a5a9223938455c84f45e1d7c14fc8",
+      "title": "5 sai lầm khiến acid uric khó giảm",
+      "link": "https://vnexpress.net/5-sai-lam-khien-acid-uric-kho-giam-5097445.html",
+      "summary": "Một số thói quen hằng ngày như chỉ uống nước khi thấy khát, thường xuyên thức khuya, làm dụng nước ép là những sai lầm khiến acid uric khó giảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T17:05:00+07:00",
+      "fetched": "2026-07-16T01:54:55.418036+07:00"
+    },
+    {
+      "id": "402620622b493fccd0edf7a729f032b2",
+      "title": "Mèo hay rắn sẽ cho biết bạn có được thần may mắn ưu ái?",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-tu-vi-ngay-16-7-meo-hay-ran-se-cho-biet-ban-co-duoc-than-may-man-uu-ai-5097458.html",
+      "summary": "Chính lựa chọn tưởng như ngẫu nhiên ấy sẽ mở ra những góc nhìn bất ngờ về con người bạn...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T17:02:00+07:00",
+      "fetched": "2026-07-16T01:54:55.418172+07:00"
+    },
+    {
+      "id": "c1b718dc8f90a549f30f99bf9d35fbc8",
+      "title": "9 thi thể bên đường và kẻ sát nhân biến mất hơn 30 năm",
+      "link": "https://vnexpress.net/9-thi-the-ben-duong-va-ke-sat-nhan-bien-mat-hon-30-nam-5097885.html",
+      "summary": "Trong hơn một năm, 11 phụ nữ biến mất, 9 thi thể bị vứt bỏ gần đường cao tốc quanh thành phố, mở ra cuộc truy tìm kẻ sát nhân hàng loạt kéo dài hơn 30 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T17:01:32+07:00",
+      "fetched": "2026-07-16T01:54:55.418309+07:00"
+    },
+    {
+      "id": "d47f0ddbf334b403c0b9de6902f751cd",
+      "title": "Văn hóa nướng thịt định hình không gian nhà ở Argentina",
+      "link": "https://vnexpress.net/van-hoa-nuong-thit-dinh-hinh-khong-gian-nha-o-argentina-5097651.html",
+      "summary": "Thói quen tụ họp bên bàn tiệc thịt nướng cuối tuần đã định hình nên những thiết kế nhà mang phong cách riêng, ưu tiên không gian mở của người Argentina.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T17:00:36+07:00",
+      "fetched": "2026-07-16T01:54:55.418451+07:00"
+    },
+    {
       "id": "c0c86441c85e5c0d4c9de5f7322a7e13",
       "title": "Tây Ban Nha với lối chơi kiểm soát thượng thừa",
       "link": "https://thanhnien.vn/tay-ban-nha-voi-loi-choi-kiem-soat-thuong-thua-185260715204106699.htm",
@@ -171,6 +271,106 @@ window.newsData_2026_07_16 = {
       "category": "Thể thao",
       "published": "2026-07-15T17:00:00+07:00",
       "fetched": "2026-07-16T00:05:19.192785+07:00"
+    },
+    {
+      "id": "5149a9c2d9db6cdd152a1120abcfed9a",
+      "title": "Đoàn tàu mắc kẹt giữa biển lửa cháy rừng ở Canada",
+      "link": "https://vnexpress.net/doan-tau-mac-ket-giua-bien-lua-chay-rung-o-canada-5097914.html",
+      "summary": "Biển lửa cháy rừng bủa vây một đoàn tàu chở hàng tại vùng nông thôn Canada, khiến nhiều người liên tưởng tới cảnh \"ngày tận thế\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T17:00:00+07:00",
+      "fetched": "2026-07-16T01:54:55.418704+07:00"
+    },
+    {
+      "id": "56127ad968e4fc106db0a50a9b4d8224",
+      "title": "Con học lớp 7 la khóc, quăng đồ khi tôi không cho dùng điện thoại",
+      "link": "https://vnexpress.net/con-hoc-lop-7-la-khoc-quang-do-khi-toi-khong-cho-dung-dien-thoai-5097911.html",
+      "summary": "Tôi không muốn cho bé dùng điện thoại ở tuổi này mà bé nghiện quá nên không chịu đưa lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T17:00:00+07:00",
+      "fetched": "2026-07-16T01:54:55.418843+07:00"
+    },
+    {
+      "id": "69ec9a60d57201faf0fb25497b0da525",
+      "title": "Tôi chọn ở thuê thêm 10 năm rồi cầm 5 tỷ đồng về quê sống",
+      "link": "https://vnexpress.net/gia-nha-can-ho-chung-cu-vay-no-de-mua-toi-chon-ve-que-song-5097846.html",
+      "summary": "Ở quê tôi có sẵn nhà, số tiền này sẽ là lớp phòng thủ tài chính thay vì bây giờ dồn hết mua nhà phố vẫn không đủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T17:00:00+07:00",
+      "fetched": "2026-07-16T01:54:55.418969+07:00"
+    },
+    {
+      "id": "5581f7a25916b3019f7626c5b79d9cda",
+      "title": "Đề xuất phạt nguội không biên bản chỉ áp dụng lỗi dưới một triệu đồng",
+      "link": "https://vnexpress.net/de-xuat-phat-nguoi-khong-bien-ban-chi-ap-dung-loi-duoi-mot-trieu-dong-5097829.html",
+      "summary": "Trước đề xuất phạt nguội không cần lập biên bản, nhiều bộ ngành góp ý chỉ nên áp dụng nếu mức phạt dưới một triệu đồng hoặc cần bổ sung chứng cứ thuyết phục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T17:00:00+07:00",
+      "fetched": "2026-07-16T01:54:55.419154+07:00"
+    },
+    {
+      "id": "0165c4492ac7002e2c7a994c5d858579",
+      "title": "Taxi điện giúp Trung Quốc xoa dịu cú sốc giá dầu",
+      "link": "https://vnexpress.net/taxi-dien-giup-trung-quoc-xoa-diu-cu-soc-gia-dau-5097811.html",
+      "summary": "Trung Quốc đang sở hữu một bộ đệm ngày càng quan trọng trước các cú sốc giá dầu toàn cầu, đó là đội xe taxi chạy điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T17:00:00+07:00",
+      "fetched": "2026-07-16T01:54:55.419297+07:00"
+    },
+    {
+      "id": "cd94aa734ab45bae3bdecf79b1ec914e",
+      "title": "Lượng đặt vé máy bay đến Mỹ xem World Cup tăng vọt",
+      "link": "https://vnexpress.net/luong-dat-ve-may-bay-den-my-xem-world-cup-tang-vot-5097602.html",
+      "summary": "Xu hướng tăng thể hiện rõ nhất từ Argentina khi lượng vé máy bay từ quốc gia này đến Atlanta (Mỹ) tăng 108% ngay sau khi các trận bán kết được xác định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T17:00:00+07:00",
+      "fetched": "2026-07-16T01:54:55.419430+07:00"
+    },
+    {
+      "id": "50d0d0ebc48d85f4dc0051fdf4278f67",
+      "title": "Tại sao điều hòa di động được chuộng tại châu Âu?",
+      "link": "https://vnexpress.net/tai-sao-dieu-hoa-di-dong-duoc-chuong-tai-chau-au-5097364.html",
+      "summary": "Tại nhiều quốc gia ở châu Âu đang \"sốt\" đơn hàng điều hòa di động khiến các nhà cung cấp phải tìm đủ cách để đáp ứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T17:00:00+07:00",
+      "fetched": "2026-07-16T01:54:55.419679+07:00"
+    },
+    {
+      "id": "5149a9c2d9db6cdd152a1120abcfed9a",
+      "title": "Đoàn tàu mắc kẹt giữa biển lửa cháy rừng ở Canada",
+      "link": "https://vnexpress.net/doan-tau-mac-ket-giua-bien-lua-chay-rung-o-canada-5097914.html",
+      "summary": "Biển lửa cháy rừng bủa vây một đoàn tàu chở hàng tại vùng nông thôn Canada, khiến nhiều người liên tưởng tới cảnh \"ngày tận thế\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-15T17:00:00+07:00",
+      "fetched": "2026-07-16T01:55:02.175869+07:00"
+    },
+    {
+      "id": "0165c4492ac7002e2c7a994c5d858579",
+      "title": "Taxi điện giúp Trung Quốc xoa dịu cú sốc giá dầu",
+      "link": "https://vnexpress.net/taxi-dien-giup-trung-quoc-xoa-diu-cu-soc-gia-dau-5097811.html",
+      "summary": "Trung Quốc đang sở hữu một bộ đệm ngày càng quan trọng trước các cú sốc giá dầu toàn cầu, đó là đội xe taxi chạy điện.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-15T17:00:00+07:00",
+      "fetched": "2026-07-16T01:55:03.584809+07:00"
+    },
+    {
+      "id": "50d0d0ebc48d85f4dc0051fdf4278f67",
+      "title": "Tại sao điều hòa di động được chuộng tại châu Âu?",
+      "link": "https://vnexpress.net/tai-sao-dieu-hoa-di-dong-duoc-chuong-tai-chau-au-5097364.html",
+      "summary": "Tại nhiều quốc gia ở châu Âu đang \"sốt\" đơn hàng điều hòa di động khiến các nhà cung cấp phải tìm đủ cách để đáp ứng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-15T17:00:00+07:00",
+      "fetched": "2026-07-16T01:55:07.575889+07:00"
     },
     {
       "id": "cd277dd96a8b6ef5540e8f1a5252b201",
