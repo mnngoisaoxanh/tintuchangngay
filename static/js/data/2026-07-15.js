@@ -1,7 +1,157 @@
 window.newsData_2026_07_15 = {
   "date": "2026-07-15",
-  "lastUpdated": "2026-07-15T20:12:24.838329+07:00",
+  "lastUpdated": "2026-07-15T22:18:03.556002+07:00",
   "articles": [
+    {
+      "id": "80b4ac1de1ced443387871a8b7ef6dd1",
+      "title": "Thanh Hóa tặng bằng khen cho học sinh đoạt giải Olympic quốc tế và khu vực",
+      "link": "https://tuoitre.vn/thanh-hoa-tang-bang-khen-cho-hoc-sinh-doat-giai-olympic-quoc-te-va-khu-vuc-100260715184903276.htm",
+      "summary": "Chiều 15-7, ông Lê Đức Thái - Ủy viên Trung ương Đảng, Bí thư Tỉnh ủy, Trưởng Đoàn đại biểu Quốc hội tỉnh Thanh Hóa - đã gặp mặt, biểu dương học sinh đoạt giải Olympic quốc tế và khu vực năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:17:56.301362+07:00",
+      "fetched": "2026-07-15T22:17:56.301407+07:00"
+    },
+    {
+      "id": "9b4fd59ff55c4c9c789cd765a7d8ff52",
+      "title": "Truyền thông Pháp không hài lòng khi ông Deschamps mỉa mai trọng tài",
+      "link": "https://tuoitre.vn/truyen-thong-phap-khong-hai-long-khi-ong-deschamps-mia-mai-trong-tai-100260715192801153.htm",
+      "summary": "Thay vì hưởng ứng, nhiều trang báo Pháp tỏ thái độ không hài lòng với HLV Didier Deschamps, sau khi vị chiến lược gia kỳ cựu này chê bai trình độ của trọng tài điều khiển trận bán kết World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:17:56.301305+07:00",
+      "fetched": "2026-07-15T22:17:56.301355+07:00"
+    },
+    {
+      "id": "204ea41c1e17df3de3063f886bc408f1",
+      "title": "Đại sứ Hàn Quốc nhận kỷ niệm chương Vì sự nghiệp ngoại giao Việt Nam",
+      "link": "https://tuoitre.vn/dai-su-han-quoc-nhan-ky-niem-chuong-vi-su-nghiep-ngoai-giao-viet-nam-100260715200355169.htm",
+      "summary": "Ông Choi Young Sam, Đại sứ Hàn Quốc tại Việt Nam, được trao kỷ niệm chương vì những đóng góp với quan hệ ngoại giao song phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:17:56.301251+07:00",
+      "fetched": "2026-07-15T22:17:56.301296+07:00"
+    },
+    {
+      "id": "3bceabb5d7184ca445c2fc555c2edca7",
+      "title": "Cụ bà lượm ve chai ấm lòng nhận giấy khai sinh ở tuổi 73",
+      "link": "https://tuoitre.vn/cu-ba-luom-ve-chai-am-long-nhan-giay-khai-sinh-o-tuoi-73-100260715194153685.htm",
+      "summary": "Bà Lê Thị Hoa (73 tuổi, không có giấy tờ tùy thân, làm công việc lượm ve chai) vui mừng khi lần đầu cầm trên tay giấy khai sinh mang tên mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:17:56.301195+07:00",
+      "fetched": "2026-07-15T22:17:56.301242+07:00"
+    },
+    {
+      "id": "e9b838640333e07404c79ac7032be958",
+      "title": "Nhà xuất bản Hội Nhà văn ký hợp đồng 1 tỉ đồng với Nguyễn Thành Nam để in, phát hành sách 'Chuyện với Thanh'",
+      "link": "https://tuoitre.vn/nha-xuat-ban-hoi-nha-van-ky-hop-dong-1-ti-dong-voi-nguyen-thanh-nam-de-in-phat-hanh-sach-chuyen-voi-thanh-100260715201653347.htm",
+      "summary": "Theo VTV, để thực hiện việc in ấn và phát hành cuốn sách 'Chuyện với Thanh', Nhà xuất bản Hội Nhà văn ký hợp đồng hợp tác xuất bản với Nguyễn Thành Nam. Theo hợp đồng, ông Nam nộp 1 tỉ đồng cho nhà xuất bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:17:56.301135+07:00",
+      "fetched": "2026-07-15T22:17:56.301187+07:00"
+    },
+    {
+      "id": "4951e46d5043eed83e4b0ced2f2ff171",
+      "title": "Xác suất cao nhất El Nino đạt cường rất độ mạnh, mưa bão những tháng tới thế nào?",
+      "link": "https://tuoitre.vn/xac-suat-cao-nhat-el-nino-dat-cuong-rat-do-manh-mua-bao-nhung-thang-toi-the-nao-100260715185559868.htm",
+      "summary": "Dự báo từ tháng 10 đến 12-2026, hiện tượng El Nino có khả năng đạt cường độ rất mạnh với xác suất lên đến 81%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:17:56.301079+07:00",
+      "fetched": "2026-07-15T22:17:56.301126+07:00"
+    },
+    {
+      "id": "96b60b2c9beca8ef7a49046e81d7bd43",
+      "title": "Phim của Tống Uy Long phủ sóng màn ảnh Hoa ngữ mùa hè",
+      "link": "https://tuoitre.vn/phim-cua-tong-uy-long-phu-song-man-anh-hoa-ngu-mua-he-100260715202339363.htm",
+      "summary": "'Chó hoang và xương' của Tống Uy Long - Trương Tịnh Nghi vượt trội so với 'Diệu Nhãn' của Quan Hiểu Đồng - Lý Quân Nhuệ, thậm chí được đem ra so sánh với 'Em của thời niên thiếu'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:17:56.301024+07:00",
+      "fetched": "2026-07-15T22:17:56.301071+07:00"
+    },
+    {
+      "id": "9f3e0f9dec3e1c027e720636372ef2f2",
+      "title": "Nhật Bản thắng kịch tính nhà vô địch bóng chuyền thế giới",
+      "link": "https://tuoitre.vn/nhat-ban-thang-kich-tinh-nha-vo-dich-bong-chuyen-the-gioi-100260715202212077.htm",
+      "summary": "Các ngôi sao bóng chuyền nam Nhật Bản tiếp tục phong độ hủy diệt tại siêu giải đấu FIVB Nations League (VNL), kể cả khi đối thủ của họ là nhà vô địch thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:17:56.300969+07:00",
+      "fetched": "2026-07-15T22:17:56.301016+07:00"
+    },
+    {
+      "id": "675e654fe7a7fcbac50e895e0b629f74",
+      "title": "Trì hoãn mang thai chỉ để xem The Odyssey IMAX 70mm",
+      "link": "https://tuoitre.vn/tri-hoan-mang-thai-chi-de-xem-the-odyssey-imax-70mm-100260715194936684.htm",
+      "summary": "Không ít khán giả lựa chọn xem The Odyssey ở định dạng IMAX 70mm bởi họ tin rằng đây sẽ là một trong những sự kiện văn hóa lớn của điện ảnh đại chúng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:17:56.300915+07:00",
+      "fetched": "2026-07-15T22:17:56.300961+07:00"
+    },
+    {
+      "id": "1cb1d59ad8b896e9e42154e43c2fdf32",
+      "title": "Cục Xuất bản có vài chục người, không thể đọc tiền kiểm hơn 50.000 đầu sách mới mỗi năm",
+      "link": "https://tuoitre.vn/cuc-xuat-ban-co-vai-chuc-nguoi-khong-the-doc-tien-kiem-hon-50000-dau-sach-moi-moi-nam-100260715145945112.htm",
+      "summary": "Phó cục trưởng Cục Xuất bản, In và Phát hành Đinh Tiến Dũng cho biết với nhân lực ít ỏi vài chục người cả thảy, Cục Xuất bản, in và Phát hành không thể đọc hơn 50.000 đầu sách mới ra đời mỗi năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:17:56.300858+07:00",
+      "fetched": "2026-07-15T22:17:56.300907+07:00"
+    },
+    {
+      "id": "4c7f0b60e268154b0c787dc754d2cd97",
+      "title": "SHB thắng lớn tại Asian Banking & Finance Awards 2026",
+      "link": "https://tuoitre.vn/shb-thang-lon-tai-asian-banking-finance-awards-2026-100260715203237411.htm",
+      "summary": "Tại Asian Banking & Finance Awards 2026 diễn ra ở Singapore, SHB được trao hai giải thưởng thuộc hệ thống ABF Wholesale Banking Awards 2026, gồm \"Ngân hàng chuyển đổi số của năm tại Việt Nam\" và \"Chương trình ESG tiêu biểu tại Việt Nam\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:17:56.300787+07:00",
+      "fetched": "2026-07-15T22:17:56.300849+07:00"
+    },
+    {
+      "id": "843c48aaa85dd2f2990fcd33a8adff9f",
+      "title": "Những ngôi sao hứa hẹn tỏa sáng tại Giải bóng đá công nhân, viên chức Việt Nam 2026",
+      "link": "https://tuoitre.vn/nhung-ngoi-sao-hua-hen-toa-sang-tai-giai-bong-da-cong-nhan-vien-chuc-viet-nam-2026-100260715204415954.htm",
+      "summary": "Vòng chung kết Giải bóng đá công nhân, viên chức Việt Nam 2026 hứa hẹn sẽ là sân khấu cho các cầu thủ ngôi sao của bóng đá phong trào tỏa sáng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:17:56.300728+07:00",
+      "fetched": "2026-07-15T22:17:56.300779+07:00"
+    },
+    {
+      "id": "98dfea5077ba0ea931d9d7e0a3c4b490",
+      "title": "Thành phố luôn thức ôm ta vào lòng",
+      "link": "https://tuoitre.vn/thanh-pho-luon-thuc-om-ta-vao-long-100260715210024686.htm",
+      "summary": "Cùng mẹ chăm sóc người thân vừa được cứu sống sau ca mổ khó, đêm nay, tại Bệnh viện Đại học Y Dược, tôi viết về TP.HCM, TP không ngủ đang ôm hàng triệu con người vào lòng mình bằng tất cả sự dịu dàng để che chở, bảo vệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:17:56.300644+07:00",
+      "fetched": "2026-07-15T22:17:56.300717+07:00"
+    },
+    {
+      "id": "d88d0917d4f4a158747d0bf28eddf5f5",
+      "title": "Mai Trần và chiếc tivi cũ mùa World Cup 2026",
+      "link": "https://tuoitre.vn/mai-tran-va-chiec-tivi-cu-mua-world-cup-2026-100260715205509012.htm",
+      "summary": "Bà Vân, vợ nghệ sĩ Mai Trần, kể trên trang cá nhân câu chuyện về chiếc tivi cũ, về tình yêu bóng đá của chồng khiến nhiều đồng nghiệp, khán giả thương cho người nghệ sĩ tuổi xế chiều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:17:56.300571+07:00",
+      "fetched": "2026-07-15T22:17:56.300634+07:00"
+    },
+    {
+      "id": "58b56523b6d6e1c3aa4d02ed1e2df903",
+      "title": "Kiev tấn công nhà máy điện ở Crimea, Nga không kích Ukraine khiến 6 người chết",
+      "link": "https://tuoitre.vn/kiev-tan-cong-nha-may-dien-o-crimea-nga-khong-kich-ukraine-khien-6-nguoi-chet-100260715212010219.htm",
+      "summary": "Ngày 15-7, chính quyền địa phương cho biết các cuộc tấn công của Nga trên khắp Ukraine đã khiến ít nhất 6 người thiệt mạng và 20 người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:17:56.300392+07:00",
+      "fetched": "2026-07-15T22:17:56.300558+07:00"
+    },
     {
       "id": "4d5b678eea13e00829a2514a5b4358ff",
       "title": "Vụ 147 điểm 10 toán: Khởi tố Hiệu trưởng Trường THPT chuyên Tuyên Quang và 6 người khác",
@@ -453,6 +603,36 @@ window.newsData_2026_07_15 = {
       "fetched": "2026-07-15T16:50:21.209065+07:00"
     },
     {
+      "id": "2452851398cab949d85a56323d539406",
+      "title": "Nữ tài xế bị phạt 19 triệu đồng vì định vượt gác chắn khi tàu sắp qua",
+      "link": "https://vnexpress.net/nu-tai-xe-bi-phat-19-trieu-dong-vi-dinh-vuot-gac-chan-khi-tau-sap-qua-5097908.html",
+      "summary": "Người phụ nữ bị phạt 19 triệu đồng, tước giấy phép lái xe hai tháng vì cố lái xe bán tải vượt đường sắt, dù đèn cảnh báo đã bật đỏ và gác chắn đang hạ xuống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T15:08:31+07:00",
+      "fetched": "2026-07-15T22:17:50.572402+07:00"
+    },
+    {
+      "id": "e13ebc8c9ad6ad49851fe00268fbf386",
+      "title": "LHQ: Ukraine trải qua tháng thảm khốc nhất với dân thường",
+      "link": "https://vnexpress.net/lhq-ukraine-trai-qua-thang-tham-khoc-nhat-voi-dan-thuong-5097906.html",
+      "summary": "LHQ cho biết tháng 6 là tháng nhiều dân thường Ukraine thiệt mạng nhất kể từ đầu xung đột, khi Nga tăng tập kích các đô thị nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T14:54:22+07:00",
+      "fetched": "2026-07-15T22:17:50.572565+07:00"
+    },
+    {
+      "id": "e13ebc8c9ad6ad49851fe00268fbf386",
+      "title": "LHQ: Ukraine trải qua tháng thảm khốc nhất với dân thường",
+      "link": "https://vnexpress.net/lhq-ukraine-trai-qua-thang-tham-khoc-nhat-voi-dan-thuong-5097906.html",
+      "summary": "LHQ cho biết tháng 6 là tháng nhiều dân thường Ukraine thiệt mạng nhất kể từ đầu xung đột, khi Nga tăng tập kích các đô thị nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-15T14:54:22+07:00",
+      "fetched": "2026-07-15T22:17:57.680546+07:00"
+    },
+    {
       "id": "5e1ce25cb418f58ac4fa9d6812a3393e",
       "title": "Phường 'ách' hồ sơ tính thuế đất ở của dân do thủ tục hành chính tự đặt?",
       "link": "https://tuoitre.vn/phuong-ach-ho-so-tinh-thue-dat-o-cua-dan-do-thu-tuc-hanh-chinh-tu-dat-10026071422102638.htm",
@@ -603,6 +783,186 @@ window.newsData_2026_07_15 = {
       "fetched": "2026-07-15T14:50:19.971820+07:00"
     },
     {
+      "id": "e213896292ab33804afc871c8c397ca4",
+      "title": "Đồng Nai: Bác tin '2 thí sinh mang điện thoại vào phòng thi THPT 2026'",
+      "link": "https://thanhnien.vn/dong-nai-bac-tin-2-thi-sinh-mang-dien-thoai-vao-phong-thi-thpt-2026-185260715202238972.htm",
+      "summary": "Công an thành phố Đồng Nai vừa phối hợp Sở Giáo dục và Đào tạo xác minh, bác thông tin đăng tải trên mạng xã hội liên quan đến 2 thí sinh ở Trường THPT Phước Bình và Long Phước 'mang điện thoại vào phòng thi tốt nghiệp THPT 2026'",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T14:37:00+07:00",
+      "fetched": "2026-07-15T22:17:54.012782+07:00"
+    },
+    {
+      "id": "d9443e6a12340da21fdfe540ba980af2",
+      "title": "Em luôn coi gia đình là điều quý giá nhất",
+      "link": "https://vnexpress.net/em-luon-coi-gia-dinh-la-dieu-quy-gia-nhat-5096756.html",
+      "summary": "Em chỉ mong có người đủ chân thành để cùng đi qua những ngày nắng đẹp, cả những ngày mưa giông, cùng xây dựng một mái ấm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T14:20:13+07:00",
+      "fetched": "2026-07-15T22:17:50.572739+07:00"
+    },
+    {
+      "id": "35dc8af2b2f6b87145ba62b0949071fd",
+      "title": "'Làm khoa học thất bại nhưng không vụ lợi sẽ được miễn trừ trách nhiệm'",
+      "link": "https://vnexpress.net/lam-khoa-hoc-that-bai-nhung-khong-vu-loi-se-duoc-mien-tru-trach-nhiem-5097899.html",
+      "summary": "Phó thủ tướng Hồ Quốc Dũng cho biết, Chính phủ dự kiến trình Quốc hội nghị quyết về xử lý trách nhiệm với người làm khoa học, trong đó quan điểm bảo vệ họ trước rủi ro vốn có của hoạt động nghiên cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T14:14:15+07:00",
+      "fetched": "2026-07-15T22:17:50.572884+07:00"
+    },
+    {
+      "id": "35dc8af2b2f6b87145ba62b0949071fd",
+      "title": "'Làm khoa học thất bại nhưng không vụ lợi sẽ được miễn trừ trách nhiệm'",
+      "link": "https://vnexpress.net/lam-khoa-hoc-that-bai-nhung-khong-vu-loi-se-duoc-mien-tru-trach-nhiem-5097899.html",
+      "summary": "Phó thủ tướng Hồ Quốc Dũng cho biết, Chính phủ dự kiến trình Quốc hội nghị quyết về xử lý trách nhiệm với người làm khoa học, trong đó quan điểm bảo vệ họ trước rủi ro vốn có của hoạt động nghiên cứu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-15T14:14:15+07:00",
+      "fetched": "2026-07-15T22:18:02.448630+07:00"
+    },
+    {
+      "id": "e8df517a4e74aab236e617635ef5e14c",
+      "title": "Tạo môi trường an ninh, an toàn vì cuộc sống bình yên, hạnh phúc của nhân dân",
+      "link": "https://thanhnien.vn/tao-moi-truong-an-ninh-an-toan-vi-cuoc-song-binh-yen-hanh-phuc-cua-nhan-dan-185260715200328016.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước đề nghị lực lượng Công an nhân dân nói chung, lực lượng Công an các cấp của tỉnh Sơn La nói riêng cần không ngừng nỗ lực phấn đấu hoàn thành xuất sắc nhiệm vụ bảo đảm an ninh, trật tự, tạo môi trường an ninh, an toàn, lành mạnh, vì cuộc sống bình yên, hạnh phúc của nhân dâ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T14:02:00+07:00",
+      "fetched": "2026-07-15T22:17:54.012936+07:00"
+    },
+    {
+      "id": "b3809cdd8d5986d8d2b95695446cee0e",
+      "title": "Tôi muốn ly hôn người vợ quá 'ngoan hiền'",
+      "link": "https://vnexpress.net/toi-muon-ly-hon-nguoi-vo-qua-ngoan-hien-5097830.html",
+      "summary": "Tôi không còn yêu vợ nên không có cảm giác muốn quan hệ với cô ấy nữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T14:00:00+07:00",
+      "fetched": "2026-07-15T22:17:50.573017+07:00"
+    },
+    {
+      "id": "2f36e050d31438bd8fd08187bd5b7845",
+      "title": "Tân Đại sứ Mỹ cam kết thúc đẩy quan hệ Việt - Mỹ",
+      "link": "https://thanhnien.vn/tan-dai-su-my-cam-ket-thuc-day-quan-he-viet-my-185260715204449823.htm",
+      "summary": "Trong video ra mắt, tân Đại sứ Mỹ tại Việt Nam Jennifer Wicks khẳng định sẽ thúc đẩy Quan hệ Đối tác Chiến lược Toàn diện, đồng thời nhấn mạnh Việt Nam là một trong những đối tác quan trọng nhất của Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T13:58:00+07:00",
+      "fetched": "2026-07-15T22:17:54.013069+07:00"
+    },
+    {
+      "id": "c966399a8b0c2702589e7e659c114264",
+      "title": "Không có 'đường tắt' trong quốc tế hóa và xếp hạng đại học",
+      "link": "https://thanhnien.vn/khong-co-duong-tat-trong-quoc-te-hoa-va-xep-hang-dai-hoc-185260715190320489.htm",
+      "summary": "Các chuyên gia và các nhà quản lý đều cho rằng không có đường tắt trong xếp hạng đại học, vị thế thực sự chỉ đến từ chất lượng cốt lõi và sự hợp lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T13:55:00+07:00",
+      "fetched": "2026-07-15T22:17:54.013197+07:00"
+    },
+    {
+      "id": "0dbc35bfec5537e3009ab18912eef944",
+      "title": "Đột phá với vật liệu chiết xuất nước từ không khí",
+      "link": "https://thanhnien.vn/dot-pha-voi-vat-lieu-chiet-xuat-nuoc-tu-khong-khi-185260715112222789.htm",
+      "summary": "Đột phá phát minh loại vật liệu 'bọt biển' kỳ diệu hút hàng lít nước sạch từ không khí khô cằn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T13:51:00+07:00",
+      "fetched": "2026-07-15T22:17:54.013325+07:00"
+    },
+    {
+      "id": "2035e7a9bdf262d2010e5aa573ac2dfe",
+      "title": "Sắp khởi tranh giải golf lớn nhất Hà Nội",
+      "link": "https://thanhnien.vn/sap-khoi-tranh-giai-golf-lon-nhat-ha-noi-185260715204944243.htm",
+      "summary": "Đây là giải đấu thường niên uy tín, có quy mô lớn nhất thủ đô do Hội Golf Hà Nội (HNGA) tổ chức, dưới sự bảo trợ của Hiệp hội Golf Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T13:49:00+07:00",
+      "fetched": "2026-07-15T22:17:54.013457+07:00"
+    },
+    {
+      "id": "57d23099ea006459f4304f6291213aa5",
+      "title": "Trực tiếp World Cup 2026, Anh - Argentina: Duyên nợ chồng chất",
+      "link": "https://thanhnien.vn/truc-tiep-world-cup-2026-anh-argentina-duyen-no-chong-chat-185260715184201358.htm",
+      "summary": "Trận đấu đầy duyên nợ giữa đội tuyển Anh và Argentina vào lúc 2 giờ ngày 16.7 thuộc bán kết World Cup 2026 rất khó đoán khi cả hai được đánh giá cân tài cân sức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T13:49:00+07:00",
+      "fetched": "2026-07-15T22:17:54.013585+07:00"
+    },
+    {
+      "id": "5ae96a3a9875f2f56ec9a35ab062c38f",
+      "title": "Xe bán tải giá hơn 900 triệu đồng: Chọn Toyota Hilux hay Ford Ranger?",
+      "link": "https://thanhnien.vn/xe-ban-tai-gia-hon-900-trieu-dong-chon-toyota-hilux-hay-ford-ranger-185260704140355151.htm",
+      "summary": "Sau khi xe bán tải được lưu thông như ô tô con, nhiều khách hàng tỏ ra quan tâm tới hai mẫu xe Ford Ranger Wildtrak và Toyota Hilux Trailhunter đều sử dụng máy dầu, cùng tầm giá hơn 900 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T13:49:00+07:00",
+      "fetched": "2026-07-15T22:17:54.013725+07:00"
+    },
+    {
+      "id": "ac995598806e5541a214a556e1cd551d",
+      "title": "Tổng biên tập NXB Hội Nhà văn thừa nhận đã biên tập nhưng vẫn sai sót",
+      "link": "https://thanhnien.vn/tong-bien-tap-nxb-hoi-nha-van-thua-nhan-da-bien-tap-nhung-van-sai-sot-185260715202343987.htm",
+      "summary": "Làm việc với công an, ông Đào Bá Đoàn, Tổng biên tập NXB Hội Nhà văn, khai nhận quá trình kiểm duyệt, biên tập, ông đã lược bỏ nhiều nội dung nhưng cuốn sách 'Chuyện với Thanh' vẫn còn sót những chi tiết không phù hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T13:48:00+07:00",
+      "fetched": "2026-07-15T22:17:54.013847+07:00"
+    },
+    {
+      "id": "bc0f3d0538c6fbbec3aa9cf9d9340b00",
+      "title": "Nước châu Á nào có hai thành phố trong top 10 đáng sống nhất thế giới?",
+      "link": "https://vnexpress.net/nuoc-chau-a-nao-co-hai-thanh-pho-trong-top-10-dang-song-nhat-the-gioi-5097887.html",
+      "summary": "Hai thành phố ở quốc gia này đạt 96/100 điểm về sự ổn định, giáo dục, cơ sở hạ tầng, lọt top 10 nơi đáng sống nhất thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T13:37:13+07:00",
+      "fetched": "2026-07-15T22:17:50.573148+07:00"
+    },
+    {
+      "id": "8c4b1fbd7d95a156cb8dc6178a9701a1",
+      "title": "Mỹ tấn công Iran vào ban ngày",
+      "link": "https://thanhnien.vn/my-tan-cong-iran-vao-ban-ngay-185260715201636801.htm",
+      "summary": "Quân đội Mỹ vừa hoàn tất một đợt tấn công Iran và điểm khác biệt so với những lần trước là hành động này diễn ra vào ban ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T13:36:00+07:00",
+      "fetched": "2026-07-15T22:17:54.013974+07:00"
+    },
+    {
+      "id": "9f656d77becbdd54c0565adc80c6dd6a",
+      "title": "Regent Phu Quoc góp mặt trong Top 100 khách sạn thế giới",
+      "link": "https://thanhnien.vn/regent-phu-quoc-gop-mat-trong-top-100-khach-san-the-gioi-18526071517504546.htm",
+      "summary": "Khu nghỉ dưỡng do BIM Land, thành viên Tập đoàn BIM đầu tư và phát triển được độc giả Travel + Leisure xếp hạng trong Top 100 toàn cầu, đồng thời giữ vị trí số 1 trong danh sách khu nghỉ dưỡng tại Đông Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T13:28:00+07:00",
+      "fetched": "2026-07-15T22:17:54.014098+07:00"
+    },
+    {
+      "id": "328e4deefb81c03c0e331854f87cef97",
+      "title": "Bò rừng húc người văng lên không trung ở công viên quốc gia Mỹ",
+      "link": "https://vnexpress.net/bo-rung-huc-nguoi-vang-len-khong-trung-o-cong-vien-quoc-gia-my-5097389.html",
+      "summary": "Người đàn ông 65 tuổi khi tham quan Công viên Quốc gia Yellowstone đã bị con bò rừng nặng gần một tấn đuổi theo, húc văng lên không trung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T13:24:17+07:00",
+      "fetched": "2026-07-15T22:17:50.573271+07:00"
+    },
+    {
+      "id": "328e4deefb81c03c0e331854f87cef97",
+      "title": "Bò rừng húc người văng lên không trung ở công viên quốc gia Mỹ",
+      "link": "https://vnexpress.net/bo-rung-huc-nguoi-vang-len-khong-trung-o-cong-vien-quoc-gia-my-5097389.html",
+      "summary": "Người đàn ông 65 tuổi khi tham quan Công viên Quốc gia Yellowstone đã bị con bò rừng nặng gần một tấn đuổi theo, húc văng lên không trung.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-15T13:24:17+07:00",
+      "fetched": "2026-07-15T22:17:57.680720+07:00"
+    },
+    {
       "id": "0d8da5e393ace2c0244c2a889b795163",
       "title": "Cơ thủ Thiện Lương vô địch pool châu Á 2026",
       "link": "https://vnexpress.net/co-thu-thien-luong-vo-dich-pool-chau-a-2026-5097897.html",
@@ -621,6 +981,26 @@ window.newsData_2026_07_15 = {
       "category": "Tổng hợp",
       "published": "2026-07-15T13:07:00+07:00",
       "fetched": "2026-07-15T20:12:15.782427+07:00"
+    },
+    {
+      "id": "59ec496604a389c7ad8c466e165dfcf4",
+      "title": "Giám đốc Nhà xuất bản Hội nhà văn và hai người bị bắt",
+      "link": "https://vnexpress.net/giam-doc-nha-xuat-ban-hoi-nha-van-va-hai-nguoi-bi-bat-5097814.html",
+      "summary": "Giám đốc Nhà xuất bản Hội nhà văn Nguyễn Thúy Hằng bị khởi tố với cáo buộc có sai phạm liên quan cuốn sách \"Chuyện với Thanh - lời kể mới về ánh sáng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T13:06:18+07:00",
+      "fetched": "2026-07-15T22:17:50.573531+07:00"
+    },
+    {
+      "id": "adc008b78d693093b43c58c697e7d805",
+      "title": "Thủ tướng: Vụ điểm thi ở Tuyên Quang 'đặc biệt nghiêm trọng'",
+      "link": "https://vnexpress.net/thu-tuong-vu-diem-thi-o-tuyen-quang-dac-biet-nghiem-trong-5097380.html",
+      "summary": "Thủ tướng Lê Minh Hưng đánh giá vụ vi phạm quy chế thi ở Tuyên Quang là \"đặc biệt nghiêm trọng\", nêu ba nguyên tắc để xử lý vụ việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T13:00:34+07:00",
+      "fetched": "2026-07-15T22:17:50.573656+07:00"
     },
     {
       "id": "5e4e02d267fb676c41fe80e32349fa93",
