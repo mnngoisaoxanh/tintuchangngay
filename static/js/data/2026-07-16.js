@@ -1,7 +1,17 @@
 window.newsData_2026_07_16 = {
   "date": "2026-07-16",
-  "lastUpdated": "2026-07-16T01:55:09.655437+07:00",
+  "lastUpdated": "2026-07-16T03:50:02.968332+07:00",
   "articles": [
+    {
+      "id": "32e8977bc8b656c8439147df3f9dc913",
+      "title": "Thời tiết hôm nay 16-7: Bắc Bộ mưa đêm tới sáng, Nam Bộ mưa chiều tới tối",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-16-7-bac-bo-mua-dem-toi-sang-nam-bo-mua-chieu-toi-toi-100260715153632608.htm",
+      "summary": "Hôm nay 16-7, thời tiết hai miền Nam - Bắc có mưa rào đến mưa to, Trung Bộ lại nắng nóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T03:49:53.942708+07:00",
+      "fetched": "2026-07-16T03:49:53.942850+07:00"
+    },
     {
       "id": "f46fbe8e9c67b81049138b9722c81582",
       "title": "Iran nói chưa có kế hoạch đàm phán với Mỹ, đang tập trung cho quốc phòng",
@@ -161,6 +171,36 @@ window.newsData_2026_07_16 = {
       "category": "Tổng hợp",
       "published": "2026-07-16T00:05:12.802705+07:00",
       "fetched": "2026-07-16T00:05:12.802848+07:00"
+    },
+    {
+      "id": "0919a386f1adc61ae81eb675dda931a6",
+      "title": "Lo ngại 'cháy giờ' ở buổi biểu diễn giữa 2 hiệp đấu chung kết World Cup 2026",
+      "link": "https://thanhnien.vn/lo-ngai-chay-gio-o-buoi-bieu-dien-giua-2-hiep-dau-chung-ket-world-cup-2026-18526071521003377.htm",
+      "summary": "FIFA đã xác nhận dàn khách mời đa dạng cho lễ bế mạc World Cup 2026, bao gồm màn trình diễn lớn chưa từng có khoảng 90 phút trước khi trận chung kết bắt đầu (2 giờ ngày 20.7, giờ VN). Và chương trình 'halftime show' vào giữa trận đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T20:29:00+07:00",
+      "fetched": "2026-07-16T03:49:51.767906+07:00"
+    },
+    {
+      "id": "a677c2143682f6a08a02e6f5bb21896b",
+      "title": "Giám đốc trọng tài FIFA Colina lên tiếng về ‘vua áo đen’ gây tranh cãi trận Pháp thua Tây Ban Nha",
+      "link": "https://thanhnien.vn/giam-doc-trong-tai-fifa-colina-len-tieng-ve-trong-tai-gay-tranh-cai-tran-phap-thua-tay-ban-nha-185260716012452847.htm",
+      "summary": "Sau những chỉ trích của HLV Didier Deschamps về công tác điều hành trận bán kết World Cup 2026 giữa đội tuyển Pháp và Tây Ban Nha, Giám đốc trọng tài FIFA Pierluigi Collina đã chính thức lên tiếng bảo vệ trọng tài Ivan Barton.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T19:28:00+07:00",
+      "fetched": "2026-07-16T03:49:51.768061+07:00"
+    },
+    {
+      "id": "8acc4a64b9602b53c3c21a91490dadc4",
+      "title": "Báo chí thế giới: 'Chiến thắng của đẳng cấp !'",
+      "link": "https://thanhnien.vn/bao-chi-the-gioi-chien-thang-cua-dang-cap-185260715205750115.htm",
+      "summary": "Sau tiếng còi mãn cuộc trên sân Dallas (Mỹ), báo chí thế giới đồng loạt nhận định: Chiến thắng của đội tuyển Tây Ban Nha hoàn toàn xứng đáng. 'La Rojạ' mang dáng dấp của nhà vô địch!",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T19:00:00+07:00",
+      "fetched": "2026-07-16T03:49:51.768196+07:00"
     },
     {
       "id": "4a4ca9aef353fa0bd3f5f164c177080a",
