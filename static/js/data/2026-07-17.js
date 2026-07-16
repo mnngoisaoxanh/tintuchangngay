@@ -1,7 +1,57 @@
 window.newsData_2026_07_17 = {
   "date": "2026-07-17",
-  "lastUpdated": "2026-07-17T00:03:14.432619+07:00",
+  "lastUpdated": "2026-07-17T01:55:39.398546+07:00",
   "articles": [
+    {
+      "id": "47f0e4868bdc9521f02be6541401c65a",
+      "title": "PNJ thuê tổ chức quốc tế đánh giá độc lập chất lượng kim cương, bà Cao Thị Ngọc Dung liên tục xuất hiện",
+      "link": "https://tuoitre.vn/pnj-thue-to-chuc-quoc-te-danh-gia-doc-lap-chat-luong-kim-cuong-ba-cao-thi-ngoc-dung-lien-tuc-xuat-hien-100260716223332256.htm",
+      "summary": "Hội đồng quản trị PNJ đã thông qua chủ trương thuê các tổ chức quốc tế uy tín thực hiện đánh giá độc lập đối với chất lượng sản phẩm và các quy trình nội bộ liên quan đến hoạt động kinh doanh của doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T01:55:31.331467+07:00",
+      "fetched": "2026-07-17T01:55:31.331545+07:00"
+    },
+    {
+      "id": "59c9a6b41f6fab34db7530bdbe2672e8",
+      "title": "Tân Thủ tướng Ukraine: Nhiều thành tích ấn tượng, được mệnh danh là 'nhà quản lý khủng hoảng'",
+      "link": "https://tuoitre.vn/tan-thu-tuong-ukraine-nhieu-thanh-tich-an-tuong-duoc-menh-danh-la-nha-quan-ly-khung-hoang-100260716225508578.htm",
+      "summary": "Quốc hội Ukraine phê chuẩn ông Sergii Koretskyi làm Thủ tướng dù ông chưa từng tham gia chính trường, vì sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T01:55:31.331363+07:00",
+      "fetched": "2026-07-17T01:55:31.331452+07:00"
+    },
+    {
+      "id": "5c82b4745d7c10378e119bc3017abcbc",
+      "title": "Giá vàng thế giới bất ngờ rơi xuống dưới 4.000 USD/ounce",
+      "link": "https://tuoitre.vn/gia-vang-the-gioi-bat-ngo-roi-xuong-duoi-4000-usd-ounce-100260716232803439.htm",
+      "summary": "23h10 ngày 16-7, giá vàng thế giới đã giảm mạnh về 3.997 USD/ounce, giảm tới 64,5 USD/ounce so với hôm qua và chính thức rơi khỏi ngưỡng 4.000 USD/ounce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T01:55:31.331002+07:00",
+      "fetched": "2026-07-17T01:55:31.331343+07:00"
+    },
+    {
+      "id": "18ae3fe4c5ffeefd41728db623483011",
+      "title": "Bị điều tra, đường dây bán phụ gia thực phẩm giả ở TP.HCM tìm cách ‘tác động’ công an",
+      "link": "https://tuoitre.vn/bi-dieu-tra-duong-day-ban-phu-gia-thuc-pham-gia-o-tphcm-tim-cach-tac-dong-cong-an-100260716232934498.htm",
+      "summary": "Quá trình bị công an điều tra, đường dây sản xuất, mua bán phụ gia thực phẩm giả còn tìm cách tác động, hối lộ cán bộ nhằm tránh bị xử lý nhưng lực lượng công an đã kiên quyết đấu tranh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T01:55:31.330928+07:00",
+      "fetched": "2026-07-17T01:55:31.330992+07:00"
+    },
+    {
+      "id": "fcfea5d9e41350c3d6cd53ebb9b7b790",
+      "title": "Mỹ siết visa lưu trú: Du học sinh tối đa 4 năm, phóng viên 240 ngày, riêng phóng viên Trung Quốc 90 ngày",
+      "link": "https://tuoitre.vn/my-siet-visa-luu-tru-du-hoc-sinh-toi-da-4-nam-phong-vien-240-ngay-rieng-phong-vien-trung-quoc-90-ngay-100260716234558467.htm",
+      "summary": "Theo quy định mới của chính quyền Tổng thống Donald Trump, du học sinh chỉ được lưu trú tối đa 4 năm, còn phóng viên tối đa 240 ngày mỗi lần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T01:55:31.330768+07:00",
+      "fetched": "2026-07-17T01:55:31.330915+07:00"
+    },
     {
       "id": "62e59f86e811a1554e38081515a28364",
       "title": "Cần Thơ tìm kiếm tại vị trí nghi ngờ hố chôn tập thể 12 liệt sĩ",
@@ -153,6 +203,96 @@ window.newsData_2026_07_17 = {
       "fetched": "2026-07-17T00:03:08.537362+07:00"
     },
     {
+      "id": "1cf7cd6a58505690859d4cde8fa6903c",
+      "title": "Elon Musk đối mặt nguy cơ bị khởi tố vì chiến dịch phát tiền cho cử tri",
+      "link": "https://vnexpress.net/elon-musk-doi-mat-nguy-co-bi-khoi-to-vi-chien-dich-phat-tien-cho-cu-tri-5098208.html",
+      "summary": "Ủy ban bầu cử Wisconsin cho rằng ông Musk có thể đã vi phạm luật khi hứa phát một triệu USD cho cử tri trong cuộc bầu cử Tòa án Tối cao của bang này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T18:00:00+07:00",
+      "fetched": "2026-07-17T01:55:26.408684+07:00"
+    },
+    {
+      "id": "5417735e5695c7cd6edbdf93ed423e65",
+      "title": "Thách thức Mỹ đối mặt nếu tấn công cơ sở 'bất khả xuyên phá' của Iran",
+      "link": "https://vnexpress.net/thach-thuc-my-doi-mat-neu-tan-cong-co-so-bat-kha-xuyen-pha-cua-iran-5097855.html",
+      "summary": "Hầm ngầm nằm sâu dưới lớp đá granite, cùng nhiều biện pháp gia cố khiến cơ sở hạt nhân ở Núi Pickaxe là mục tiêu rất khó nhằn với Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T18:00:00+07:00",
+      "fetched": "2026-07-17T01:55:26.408849+07:00"
+    },
+    {
+      "id": "1cf7cd6a58505690859d4cde8fa6903c",
+      "title": "Elon Musk đối mặt nguy cơ bị khởi tố vì chiến dịch phát tiền cho cử tri",
+      "link": "https://vnexpress.net/elon-musk-doi-mat-nguy-co-bi-khoi-to-vi-chien-dich-phat-tien-cho-cu-tri-5098208.html",
+      "summary": "Ủy ban bầu cử Wisconsin cho rằng ông Musk có thể đã vi phạm luật khi hứa phát một triệu USD cho cử tri trong cuộc bầu cử Tòa án Tối cao của bang này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-16T18:00:00+07:00",
+      "fetched": "2026-07-17T01:55:33.190944+07:00"
+    },
+    {
+      "id": "5417735e5695c7cd6edbdf93ed423e65",
+      "title": "Thách thức Mỹ đối mặt nếu tấn công cơ sở 'bất khả xuyên phá' của Iran",
+      "link": "https://vnexpress.net/thach-thuc-my-doi-mat-neu-tan-cong-co-so-bat-kha-xuyen-pha-cua-iran-5097855.html",
+      "summary": "Hầm ngầm nằm sâu dưới lớp đá granite, cùng nhiều biện pháp gia cố khiến cơ sở hạt nhân ở Núi Pickaxe là mục tiêu rất khó nhằn với Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-16T18:00:00+07:00",
+      "fetched": "2026-07-17T01:55:33.191100+07:00"
+    },
+    {
+      "id": "aea849da8e7dcdd7810f95a985db0a59",
+      "title": "Ăn trưa cách bữa sáng bao lâu là tốt nhất?",
+      "link": "https://thanhnien.vn/an-trua-cach-bua-sang-bao-lau-la-tot-nhat-185260716092851605.htm",
+      "summary": "Không chỉ ăn gì, ăn vào lúc nào cũng quyết định lớn đến hiệu suất làm việc, sức khỏe. Việc thiết lập  khung giờ ăn trưa hợp lý sẽ tối ưu hóa quá trình trao đổi chất, ngăn ngừa hạ đường huyết cải thiện chất lượng giấc ngủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T17:14:00+07:00",
+      "fetched": "2026-07-17T01:55:29.355183+07:00"
+    },
+    {
+      "id": "bc9d9b3a2aa5372697c043ec6582ffb9",
+      "title": "Bác sĩ dặn: Huyết áp chừng này cần gọi cấp cứu ngay",
+      "link": "https://thanhnien.vn/bac-si-dan-huyet-ap-chung-nay-can-goi-cap-cuu-ngay-185260716193835856.htm",
+      "summary": "Huyết áp cao được mệnh danh là 'kẻ giết người thầm lặng' vì thường tiến triển âm thầm không có triệu chứng nhưng có thể gây đau tim, đột quỵ và nhiều biến chứng nguy hiểm nếu không được phát hiện, kiểm soát kịp thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T17:12:00+07:00",
+      "fetched": "2026-07-17T01:55:29.355354+07:00"
+    },
+    {
+      "id": "ecc37b0646d3a503823bd9cbd9548a54",
+      "title": "3 triệu chứng kéo dài hơn 2 tuần có thể liên quan ung thư",
+      "link": "https://thanhnien.vn/3-trieu-chung-keo-dai-hon-2-tuan-co-the-lien-quan-ung-thu-185260716142345358.htm",
+      "summary": "Ung thư ở giai đoạn sớm thường không gây ra các triệu chứng rõ rệt. Tuy nhiên, khối u và những rối loạn nghiêm trọng bên trong cơ thể đã có khả năng gây một số dấu hiệu bất thường kéo dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T17:10:00+07:00",
+      "fetched": "2026-07-17T01:55:29.355493+07:00"
+    },
+    {
+      "id": "fca1c9d7b5f568f78482451dfdb0bd7d",
+      "title": "Ăn gì cải thiện chất lượng tinh trùng, tăng sinh lý?",
+      "link": "https://vnexpress.net/an-gi-cai-thien-chat-luong-tinh-trung-tang-sinh-ly-5097568.html",
+      "summary": "Các nhóm chất như kẽm, Axit Folic, vitamin C, D, E, B12... là những nhóm thực phẩm nên bổ sung trong chế độ ăn để cái thiện chất lượng tinh trùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T17:03:00+07:00",
+      "fetched": "2026-07-17T01:55:26.408990+07:00"
+    },
+    {
+      "id": "5c0c0f577fd7bfbad44f8fbde95b3b73",
+      "title": "3 con giáp thu nhập khởi sắc cuối tuần",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-tu-vi-ngay-17-7-3-con-giap-gap-van-may-tai-chinh-cuoi-tuan-thu-nhap-khoi-sac-5095983.html",
+      "summary": "Không chỉ tiền bạc hanh thông, vận trình của những con giáp này còn ghi nhận nhiều tín hiệu tích cực trong các mối quan hệ hợp tác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T17:02:00+07:00",
+      "fetched": "2026-07-17T01:55:26.409130+07:00"
+    },
+    {
       "id": "c1a7ec7945320d01e328a532a1ff3e45",
       "title": "HLV đội tuyển Anh hứng bão chỉ trích",
       "link": "https://thanhnien.vn/hlv-doi-tuyen-anh-hung-bao-chi-trich-18526071619480109.htm",
@@ -161,6 +301,166 @@ window.newsData_2026_07_17 = {
       "category": "Tổng hợp",
       "published": "2026-07-16T17:00:00+07:00",
       "fetched": "2026-07-17T00:03:06.789847+07:00"
+    },
+    {
+      "id": "ac1c2c3f4eb4ee50b54f4eeffae8df69",
+      "title": "Trộm đột nhập nhà Yamal sau trận bán kết World Cup",
+      "link": "https://vnexpress.net/trom-dot-nhap-nha-yamal-sau-tran-ban-ket-world-cup-5098327.html",
+      "summary": "Chỉ vài giờ sau khi Yamal cùng tuyển Tây Ban Nha đánh bại Pháp 2-0 ở bán kết World Cup trên sân Arlington (Texas, Mỹ), biệt thự của anh ở Barcelona bị trộm đột nhập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T17:00:00+07:00",
+      "fetched": "2026-07-17T01:55:26.409264+07:00"
+    },
+    {
+      "id": "8d0e4ca1d6010fa8f2f6404025a0ed38",
+      "title": "Hơn 300 ha rau màu chết héo bất thường",
+      "link": "https://vnexpress.net/hon-300-ha-rau-mau-chet-heo-bat-thuong-5098320.html",
+      "summary": "Hơn 300 ha rau màu tại xã Long Hưng, Long Định, Tân Phước 3 có lá bất ngờ chuyển sang trắng, vàng cháy sau đó chết héo, thiệt hại khoảng 20 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T17:00:00+07:00",
+      "fetched": "2026-07-17T01:55:26.409413+07:00"
+    },
+    {
+      "id": "a0fc3ac85746578f973ff84de7f97200",
+      "title": "Cây bút khắc chữ 'Tiến Quy' ở mộ tập thể liệt sĩ",
+      "link": "https://vnexpress.net/cay-but-khac-chu-tien-quy-o-mo-tap-the-liet-si-5098295.html",
+      "summary": "Sau khi phát hiện mộ tập thể chứa 4 hài cốt liệt sĩ, lực lượng quy tập tìm thấy nhiều di vật, trong đó có cây bút bi khắc dòng chữ \"Tiến Quy\" cùng hình đôi chim bồ câu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T17:00:00+07:00",
+      "fetched": "2026-07-17T01:55:26.409546+07:00"
+    },
+    {
+      "id": "7fd4d6f712e197f922e0e9cfcdd64d24",
+      "title": "Đề xuất tội phạm kinh tế được miễn trách nhiệm hình sự nếu khắc phục hết hậu quả trong 3 năm",
+      "link": "https://vnexpress.net/de-xuat-toi-pham-kinh-te-duoc-mien-trach-nhiem-hinh-su-neu-khac-phuc-het-hau-qua-trong-3-nam-5098276.html",
+      "summary": "Bộ Công an đề xuất tạm hoãn truy cứu tối đa 3 năm với một số tội phạm kinh tế để khắc phục hậu quả; nếu khắc phục xong và dự án hiệu quả, được xét miễn trách nhiệm hình sự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T17:00:00+07:00",
+      "fetched": "2026-07-17T01:55:26.409675+07:00"
+    },
+    {
+      "id": "7080e0128875df82cb73b6494a32eea0",
+      "title": "Tôi tốt nghiệp đại học, chồng chỉ có bằng cấp ba",
+      "link": "https://vnexpress.net/toi-tot-nghiep-dai-hoc-chong-chi-co-bang-cap-ba-5098256.html",
+      "summary": "Anh luôn cho rằng tôi học cao hơn nên thích chỉ đạo, muốn gì là làm bằng được, luôn cho mình là đúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T17:00:00+07:00",
+      "fetched": "2026-07-17T01:55:26.409798+07:00"
+    },
+    {
+      "id": "b10220c6d91145ba3ce48bcfbda7561d",
+      "title": "Gặp vợ tương lai nhờ trận Anh đấu Argentina tại World Cup 1986",
+      "link": "https://vnexpress.net/gap-vo-tuong-lai-nho-tran-anh-dau-argentina-tai-world-cup-1986-5098237.html",
+      "summary": "Thất bại của tuyển Anh trước Argentina tại World Cup 1986 lại mở đầu chuyện tình 40 năm của Oliver Craxton.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T17:00:00+07:00",
+      "fetched": "2026-07-17T01:55:26.409925+07:00"
+    },
+    {
+      "id": "751dc210a24b7f94e5ba2c16cd092ea5",
+      "title": "'20 năm kinh nghiệm đầy mình giờ thất nghiệp tuổi 42'",
+      "link": "https://vnexpress.net/that-nghiep-tuoi-trung-nien-20-nam-kinh-nghiem-day-minh-gio-that-nghiep-tuoi-42-5098163.html",
+      "summary": "Quay lại thị trường lao động với bản CV mà nhiều người trẻ phải mơ ước, nhưng bạn tôi không thể xin được việc, đi đâu cũng bị chê già.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T17:00:00+07:00",
+      "fetched": "2026-07-17T01:55:26.410053+07:00"
+    },
+    {
+      "id": "9dbc121b2097b554e9ec21f8ab62c337",
+      "title": "Sông Nhuệ trước kế hoạch 'hồi sinh'",
+      "link": "https://vnexpress.net/song-nhue-truoc-ke-hoach-hoi-sinh-5098073.html",
+      "summary": "Hàng chục năm qua, nước sông Nhuệ đen kịt, ngập rác, ven sông nhà cửa san sát, lấn chiếm hành lang bảo vệ và làm thu hẹp dòng chảy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T17:00:00+07:00",
+      "fetched": "2026-07-17T01:55:26.410176+07:00"
+    },
+    {
+      "id": "baaec9917f83348afbf0ab897e8dfdd7",
+      "title": "Sân chung kết World Cup 2026 - cỗ máy kiếm tiền của thể thao Mỹ",
+      "link": "https://vnexpress.net/san-chung-ket-world-cup-2026-co-may-kiem-tien-cua-the-thao-my-5098041.html",
+      "summary": "MetLife Stadium - nơi diễn ra trận chung kết World Cup 2026 - được xem là sân vận động bận rộn hàng đầu thế giới với 222 sự kiện mỗi năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T17:00:00+07:00",
+      "fetched": "2026-07-17T01:55:26.410311+07:00"
+    },
+    {
+      "id": "43148c743eca4e9312766f3c46e7bf1e",
+      "title": "Chi 3 tỷ đồng cải tạo nhà liền kề, đưa bếp lên tầng cao nhất",
+      "link": "https://vnexpress.net/chi-3-ty-dong-cai-tao-nha-lien-ke-dua-bep-len-tang-cao-nhat-5098021.html",
+      "summary": "Công trình nhà liền kề được tổ chức lại mặt bằng để mở rộng tầm nhìn, tăng ánh sáng và tiện nghi sử dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T17:00:00+07:00",
+      "fetched": "2026-07-17T01:55:26.410433+07:00"
+    },
+    {
+      "id": "d21c692a918b06afb5e395ce276fca08",
+      "title": "Kế hoạch tái đóng băng để cứu Bắc Cực",
+      "link": "https://vnexpress.net/ke-hoach-tai-dong-bang-de-cuu-bac-cuc-5097666.html",
+      "summary": "Các nhà nghiên cứu tiến hành thí nghiệm khoa học đầu tiên nhằm làm dày băng biển ở thị trấn Cambridge, Canada vào mùa đông 2024-2025 và thu được kết quả khả quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T17:00:00+07:00",
+      "fetched": "2026-07-17T01:55:26.410557+07:00"
+    },
+    {
+      "id": "baaec9917f83348afbf0ab897e8dfdd7",
+      "title": "Sân chung kết World Cup 2026 - cỗ máy kiếm tiền của thể thao Mỹ",
+      "link": "https://vnexpress.net/san-chung-ket-world-cup-2026-co-may-kiem-tien-cua-the-thao-my-5098041.html",
+      "summary": "MetLife Stadium - nơi diễn ra trận chung kết World Cup 2026 - được xem là sân vận động bận rộn hàng đầu thế giới với 222 sự kiện mỗi năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-16T17:00:00+07:00",
+      "fetched": "2026-07-17T01:55:34.559627+07:00"
+    },
+    {
+      "id": "d21c692a918b06afb5e395ce276fca08",
+      "title": "Kế hoạch tái đóng băng để cứu Bắc Cực",
+      "link": "https://vnexpress.net/ke-hoach-tai-dong-bang-de-cuu-bac-cuc-5097666.html",
+      "summary": "Các nhà nghiên cứu tiến hành thí nghiệm khoa học đầu tiên nhằm làm dày băng biển ở thị trấn Cambridge, Canada vào mùa đông 2024-2025 và thu được kết quả khả quan.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-16T17:00:00+07:00",
+      "fetched": "2026-07-17T01:55:38.288973+07:00"
+    },
+    {
+      "id": "7e669f5e9a665b34311fb179d5fe0b6a",
+      "title": "Tuchel nối dài 'lời nguyền' HLV ngoại ở World Cup",
+      "link": "https://vnexpress.net/tuchel-noi-dai-loi-nguyen-hlv-ngoai-o-world-cup-5098334.html",
+      "summary": "Cùng tuyển Anh thua Argentina ở bán kết World Cup 2026, Thomas Tuchel không thể trở thành HLV ngoại đầu tiên vô địch giải đấu, qua đó nối dài \"lời nguyền\" tồn tại suốt 96 năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-16T17:00:00+07:00",
+      "fetched": "2026-07-17T01:55:39.393600+07:00"
+    },
+    {
+      "id": "56f24a8902769eda6f17d66f1392b10e",
+      "title": "Argentina sẽ bị phạt thế nào vì thông điệp chính trị?",
+      "link": "https://vnexpress.net/argentina-se-bi-phat-the-nao-vi-thong-diep-chinh-tri-5098325.html",
+      "summary": "Những cầu thủ giương biểu ngữ \"Quần đảo Malvinas thuộc về Argentina\" sau trận thắng Anh có thể bị cấm lên bục nhận huy chương, treo giò, như một cầu thủ Hàn Quốc từng chịu năm 2012.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-16T17:00:00+07:00",
+      "fetched": "2026-07-17T01:55:39.393762+07:00"
+    },
+    {
+      "id": "62222ba5a85d1e616d15c5d2052f7c5e",
+      "title": "Kane xem Messi là cảm hứng để kéo dài sự nghiệp",
+      "link": "https://vnexpress.net/kane-xem-messi-la-cam-hung-de-keo-dai-su-nghiep-5098267.html",
+      "summary": "Đội trưởng tuyển Anh Harry Kane không muốn đặt ra giới hạn nào cho sự nghiệp, sau khi chứng kiến màn trình diễn của Lionel Messi tại World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-16T17:00:00+07:00",
+      "fetched": "2026-07-17T01:55:39.393904+07:00"
     },
     {
       "id": "34a355a9f61899fa8c9302d13c5ded90",
