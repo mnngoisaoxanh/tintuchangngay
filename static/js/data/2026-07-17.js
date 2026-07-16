@@ -1,6 +1,6 @@
 window.newsData_2026_07_17 = {
   "date": "2026-07-17",
-  "lastUpdated": "2026-07-17T03:45:54.266562+07:00",
+  "lastUpdated": "2026-07-17T05:48:52.911370+07:00",
   "articles": [
     {
       "id": "47f0e4868bdc9521f02be6541401c65a",
@@ -201,6 +201,236 @@ window.newsData_2026_07_17 = {
       "category": "Tổng hợp",
       "published": "2026-07-17T00:03:08.537210+07:00",
       "fetched": "2026-07-17T00:03:08.537362+07:00"
+    },
+    {
+      "id": "4de4a9b4f2cc5d3e07609eb1b6add8fb",
+      "title": "Nhiều thí sinh tăng điểm xét tuyển sau khi quy đổi từ IELTS",
+      "link": "https://thanhnien.vn/nhieu-thi-sinh-tang-diem-xet-tuyen-sau-khi-quy-doi-tu-ielts-185260716185229118.htm",
+      "summary": "Từ bảng quy đổi chứng chỉ ngoại ngữ của các trường ĐH, nhiều thí sinh sử dụng tổ hợp có môn tiếng Anh nắm giữ lợi thế cạnh tranh lớn khi điểm xét tuyển có thể tăng từ 1 - 5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:45:00+07:00",
+      "fetched": "2026-07-17T05:48:43.977066+07:00"
+    },
+    {
+      "id": "e96b8018a76eed120a13d5458408e378",
+      "title": "Chó thả rông không rọ mõm 'chiếm' công viên ở TP.HCM, người dân bất an",
+      "link": "https://thanhnien.vn/cho-tha-rong-khong-ro-mom-chiem-cong-vien-o-tphcm-nguoi-dan-bat-an-18526071512265395.htm",
+      "summary": "Dù công viên Cảnh Đồi ở TP.HCM có biển cấm, nhiều người vẫn thản nhiên thả rông chó không rọ mõm. Tình trạng kéo dài khiến người dân đi dạo, tập thể dục bất an. Chính quyền địa phương cho biết sẽ kiểm tra, xử lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:45:00+07:00",
+      "fetched": "2026-07-17T05:48:43.977211+07:00"
+    },
+    {
+      "id": "cc80948f584e650b3747aa487616139c",
+      "title": "3 phút tóm tắt vụ án liên quan cuốn sách 'Chuyện với Thanh'",
+      "link": "https://thanhnien.vn/3-phut-tom-tat-vu-an-lien-quan-cuon-sach-chuyen-voi-thanh-185260717003416377.htm",
+      "summary": "Từ một cuốn sách gây tranh cãi cho đến một vụ án hình sự. Chỉ trong vỏn vẹn chưa đầy ba tháng, vụ việc liên quan đến cuốn sách 'Chuyện với Thanh: Lời kể mới về ánh sáng' đã trở thành tâm điểm chú ý của dư luận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:41:00+07:00",
+      "fetched": "2026-07-17T05:48:43.977348+07:00"
+    },
+    {
+      "id": "f361b89b47567deba39ef06a7b8ce5e2",
+      "title": "Nhiều chuyển động mới trên chính trường Mỹ",
+      "link": "https://thanhnien.vn/nhieu-chuyen-dong-moi-tren-chinh-truong-my-185260716215410733.htm",
+      "summary": "Tại Mỹ vừa có nhiều chuyển biến mới liên quan đến kế hoạch chi tiêu quân sự, việc điều tra rò rỉ thông tin về máy bay Không lực Một và khả năng giải mật tin tình báo về Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:39:00+07:00",
+      "fetched": "2026-07-17T05:48:43.977482+07:00"
+    },
+    {
+      "id": "a68a319eb0eb157b7cf96c0386d2782c",
+      "title": "Nhiều năm kẹt xe, ngập nước, tuyến đường này sắp được mở rộng gấp 6 lần",
+      "link": "https://thanhnien.vn/nhieu-nam-ket-xe-ngap-nuoc-tuyen-duong-nay-sap-duoc-mo-rong-gap-6-lan-185260709154225007.htm",
+      "summary": "Đường Lê Văn Lương là một trong những trục giao thông quan trọng của khu nam TP.HCM đang được nghiên cứu mở rộng từ 6–8 m lên 30–40 m, với tổng vốn đầu tư dự kiến gần 9.900 tỉ đồng",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:37:00+07:00",
+      "fetched": "2026-07-17T05:48:43.977622+07:00"
+    },
+    {
+      "id": "b61b03655cb046487f6d80c85ee759ab",
+      "title": "Tiêu điểm quốc tế 17.7: Biển Azov thành điểm nóng | Lính Mỹ phải kiểm tra testosterone",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-177-bien-azov-thanh-diem-nong-linh-my-phai-kiem-tra-testosterone-185260716225222215.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 17.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:30:00+07:00",
+      "fetched": "2026-07-17T05:48:43.977749+07:00"
+    },
+    {
+      "id": "629c71f0303ae71b68b61874de9d5016",
+      "title": "Đằng sau đợt 'thay máu' nội các của Ukraine",
+      "link": "https://thanhnien.vn/dang-sau-dot-thay-mau-noi-cac-cua-ukraine-185260716200028201.htm",
+      "summary": "Động thái cải tổ nội các tại Ukraine, đặc biệt là việc thay Bộ trưởng Quốc phòng, khiến giới quan sát bất ngờ khi nước này thời gian qua đạt nhiều lợi thế trên chiến trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:30:00+07:00",
+      "fetched": "2026-07-17T05:48:43.977875+07:00"
+    },
+    {
+      "id": "d2b8450d86189b47ba46cd8f0c9face8",
+      "title": "Mua vé có dãy số tiến 56789, trúng xổ số miền Nam đài Cần Thơ",
+      "link": "https://thanhnien.vn/mua-ve-co-day-so-tien-56789-trung-xo-so-mien-nam-dai-can-tho-185260716104427774.htm",
+      "summary": "Người đàn ông ở TP.HCM mua 2 tờ có dãy số tiến 567898 thuộc đài Cần Thơ mừng rỡ khi trúng 100 triệu đồng xổ số miền Nam. Đại lý TP.HCM tiết lộ đây là một trong những lần hiếm hoi dãy số đẹp trúng giải lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:30:00+07:00",
+      "fetched": "2026-07-17T05:48:43.978000+07:00"
+    },
+    {
+      "id": "7b0e34fcf12593b933b9d3a9cf02788a",
+      "title": "Nhịn tiểu và tăng huyết áp: Bác sĩ chỉ ra mối liên hệ ai cũng nên biết",
+      "link": "https://thanhnien.vn/nhin-tieu-va-tang-huyet-ap-bac-si-chi-ra-moi-lien-he-ai-cung-nen-biet-185260716222255117.htm",
+      "summary": "Nhiều người cố nhịn tiểu khi đang làm việc, ngủ hoặc di chuyển mà không biết bàng quang căng đầy có thể khiến huyết áp tăng tạm thời. Ở người vốn bị tăng huyết áp hoặc bệnh tim, điều này không nên xem nhẹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:20:00+07:00",
+      "fetched": "2026-07-17T05:48:43.978126+07:00"
+    },
+    {
+      "id": "c147d199d62f7ba8199ea09de64bf873",
+      "title": "Nắng nóng chết người ở Hà Lan",
+      "link": "https://thanhnien.vn/nang-nong-chet-nguoi-o-ha-lan-18526071620103629.htm",
+      "summary": "Viện Y tế công cộng và Môi trường quốc gia (RIVM) của Hà Lan hôm 15.7 thông báo có 911 ca tử vong trong đợt nắng nóng từ ngày 22.6 đến ngày 5.7, theo Tân Hoa xã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:20:00+07:00",
+      "fetched": "2026-07-17T05:48:43.978252+07:00"
+    },
+    {
+      "id": "066b098379bf57f5daa1acc3742cd2ff",
+      "title": "Tử vi ngày 17 tháng 7: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-17-thang-7-con-giap-nao-may-man-hom-nay-185260716215646544.htm",
+      "summary": "Tử vi ngày 17 tháng 7 mang đến những gợi ý tham khảo cho 12 con giáp. Có những điều chúng ta nghĩ đến rất nhiều nhưng lại chần chừ không nói: một lời cảm ơn, một lời xin lỗi, một lời khen hay một lời đề nghị giúp đỡ. Hãy nói điều cần nói khi còn kịp! Đôi khi, một câu nói ngắn nhưng chân thành có thể...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:15:00+07:00",
+      "fetched": "2026-07-17T05:48:43.978378+07:00"
+    },
+    {
+      "id": "e6f1b2af4cc3263d8e2dfb94651245d0",
+      "title": "Chiến sự Ukraine ngày 1.603: Mâu thuẫn nội bộ cấp cao trong quân đội Ukraine?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1603-mau-thuan-noi-bo-cap-cao-trong-quan-doi-ukraine-185260716215305114.htm",
+      "summary": "Các đòn tập kích của Nga và Ukraine vào cảng và mục tiêu trên biển đã làm gián đoạn tuyến vận tải ngũ cốc. Trong khi đó, nội bộ Ukraine xuất hiện căng thẳng từ đợt cải tổ chính phủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:06:00+07:00",
+      "fetched": "2026-07-17T05:48:43.978511+07:00"
+    },
+    {
+      "id": "3480fbf68e61d0efc4124d353d2eaa17",
+      "title": "Sự thật gây sốc về người mẹ gửi hàng nghìn tin nhắn đe dọa con gái",
+      "link": "https://vnexpress.net/su-that-gay-soc-ve-nguoi-me-gui-hang-nghin-tin-nhan-de-doa-con-gai-5098303.html",
+      "summary": "Lauryn Licari phải chịu đựng hàng nghìn tin nhắn đe dọa, lăng mạ suốt hơn một năm từ nhiều số điện thoại nặc danh, rồi bàng hoàng khi kẻ đứng sau chính là mẹ mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:00:00+07:00",
+      "fetched": "2026-07-17T05:48:40.282292+07:00"
+    },
+    {
+      "id": "b883e0fb09a982719d568443e0990fe9",
+      "title": "Siri AI mới trên iPhone có thể làm những gì?",
+      "link": "https://vnexpress.net/siri-ai-moi-tren-iphone-co-the-lam-nhung-gi-5097928.html",
+      "summary": "Từ iOS 27, trợ lý ảo Siri trên iPhone thay đổi hoàn toàn khi tích hợp AI, có thể hiểu, phân tích yên cầu theo ngữ cảnh cá nhân, hoạt động như chatbot với ứng dụng riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:00:00+07:00",
+      "fetched": "2026-07-17T05:48:40.282449+07:00"
+    },
+    {
+      "id": "00502488b35cccf50b89808e2bd4b4d3",
+      "title": "Cuộc đấu Hormuz có thể đẩy chiến sự Iran vào 'giai đoạn nguy hiểm'",
+      "link": "https://vnexpress.net/cuoc-dau-hormuz-co-the-day-chien-su-iran-vao-giai-doan-nguy-hiem-5097683.html",
+      "summary": "Việc Mỹ - Iran sử dụng biện pháp quân sự để giành quyền kiểm soát eo biển Hormuz đang tạo thêm nhiều biến số mới, có thể khiến xung đột lan rộng ở vùng Vịnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:00:00+07:00",
+      "fetched": "2026-07-17T05:48:40.282606+07:00"
+    },
+    {
+      "id": "942145413aaabfd936bad9a1d2027ef7",
+      "title": "5 nguyên tắc bồi bổ cho người thể trạng sợ lạnh",
+      "link": "https://vnexpress.net/5-nguyen-tac-boi-bo-cho-nguoi-the-trang-so-lanh-5092395.html",
+      "summary": "Những người sợ lạnh, thường xuyên lạnh tay, chân không nên ăn nhiều đồ lạnh, ngủ đủ giấc, giữ ấm kể cả khi trời nóng, vận động nhẹ nhàng để tăng cường sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:00:00+07:00",
+      "fetched": "2026-07-17T05:48:40.282742+07:00"
+    },
+    {
+      "id": "e99b5f11cdab6fb3a0c1b7d027e13827",
+      "title": "Chủ tịch Ford: Không thể ngăn ôtô Trung Quốc mãi mãi",
+      "link": "https://vnexpress.net/chu-tich-ford-khong-the-ngan-oto-trung-quoc-mai-mai-5097963.html",
+      "summary": "Ông Bill Ford cho rằng các hãng xe Mỹ cần sẵn sàng đấu sòng phẳng với các đối thủ Trung Quốc thay vì trông chờ vào rào cản thuế quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:00:00+07:00",
+      "fetched": "2026-07-17T05:48:40.282876+07:00"
+    },
+    {
+      "id": "cda42f138d8a1a5254ecd2d4bef18ec8",
+      "title": "Nghệ An chi 500 tỉ 'giải cứu' 2 tuyến đường xuống cấp nghiêm trọng",
+      "link": "https://thanhnien.vn/nghe-an-chi-500-ti-giai-cuu-2-tuyen-duong-xuong-cap-nghiem-trong-185260716195635731.htm",
+      "summary": "Tỉnh Nghệ An quyết định chi gần 500 tỉ đồng để hoàn thiện việc nâng cấp đường Hải Thượng Lãn Ông và đường Nguyễn Gia Thiều ở TP.Vinh (cũ) sau nhiều năm để dang dở khiến đường giống như ruộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:00:00+07:00",
+      "fetched": "2026-07-17T05:48:43.978636+07:00"
+    },
+    {
+      "id": "7ea786068760fc8488a9ab7b3aea0076",
+      "title": "Lịch âm hôm nay 17.7: Ngày Nhâm Thìn cần đặc biệt lưu ý",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-177-ngay-nham-thin-can-dac-biet-luu-y-185260716161406383.htm",
+      "summary": "Theo lịch âm hôm nay 17.7 là ngày Nhâm Thìn, dân gian quan niệm đây là ngày xấu cần lưu ý. Dương lịch hôm nay có phải ngày đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:00:00+07:00",
+      "fetched": "2026-07-17T05:48:43.978763+07:00"
+    },
+    {
+      "id": "00502488b35cccf50b89808e2bd4b4d3",
+      "title": "Cuộc đấu Hormuz có thể đẩy chiến sự Iran vào 'giai đoạn nguy hiểm'",
+      "link": "https://vnexpress.net/cuoc-dau-hormuz-co-the-day-chien-su-iran-vao-giai-doan-nguy-hiem-5097683.html",
+      "summary": "Việc Mỹ - Iran sử dụng biện pháp quân sự để giành quyền kiểm soát eo biển Hormuz đang tạo thêm nhiều biến số mới, có thể khiến xung đột lan rộng ở vùng Vịnh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-16T22:00:00+07:00",
+      "fetched": "2026-07-17T05:48:47.637863+07:00"
+    },
+    {
+      "id": "b883e0fb09a982719d568443e0990fe9",
+      "title": "Siri AI mới trên iPhone có thể làm những gì?",
+      "link": "https://vnexpress.net/siri-ai-moi-tren-iphone-co-the-lam-nhung-gi-5097928.html",
+      "summary": "Từ iOS 27, trợ lý ảo Siri trên iPhone thay đổi hoàn toàn khi tích hợp AI, có thể hiểu, phân tích yên cầu theo ngữ cảnh cá nhân, hoạt động như chatbot với ứng dụng riêng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-16T22:00:00+07:00",
+      "fetched": "2026-07-17T05:48:52.107568+07:00"
+    },
+    {
+      "id": "06c1378b21aa0e6d8535ce244709d60b",
+      "title": "Dịch Ebola diễn biến phức tạp",
+      "link": "https://thanhnien.vn/dich-ebola-dien-bien-phuc-tap-185260716200852836.htm",
+      "summary": "Số ca nhiễm Ebola được xác nhận ở CHDC Congo đã lên tới 2.011, trong đó có 754 ca tử vong, và dịch bệnh đã lan rộng đến 5 tỉnh của quốc gia Trung Phi này, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T21:42:00+07:00",
+      "fetched": "2026-07-17T05:48:43.978886+07:00"
+    },
+    {
+      "id": "dc43fbe9d64763d1e124c1439fff1103",
+      "title": "Điều chỉnh thiết kế nút giao cao tốc để tránh 6 lô cốt",
+      "link": "https://vnexpress.net/dieu-chinh-thiet-ke-nut-giao-cao-toc-de-tranh-6-lo-cot-5098039.html",
+      "summary": "Ngoài điều chỉnh thiết kế nút giao cao tốc Cam Lộ - La Sơn để tránh lô cốt, chủ đầu tư sẽ xây dựng thêm cầu vượt gần 100 tỷ đồng theo đề xuất của chính quyền TP Huế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T21:00:00+07:00",
+      "fetched": "2026-07-17T05:48:40.283014+07:00"
     },
     {
       "id": "72b29f5dd7a82b50a5fde95144f0aff5",
