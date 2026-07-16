@@ -1,7 +1,87 @@
 window.newsData_2026_07_16 = {
   "date": "2026-07-16",
-  "lastUpdated": "2026-07-16T05:49:21.452162+07:00",
+  "lastUpdated": "2026-07-16T08:44:39.652055+07:00",
   "articles": [
+    {
+      "id": "73ae69fb910a3a0dc8ca32710d6027aa",
+      "title": "Khi Messi vừa là phép màu vừa gây ra bao... tan vỡ",
+      "link": "https://tuoitre.vn/khi-messi-vua-la-phep-mau-vua-gay-ta-bao-tan-vo-100260716051229093.htm",
+      "summary": "Báo chí thế giới một lần nữa ngả mũ trước tài năng của Lionel Messi. Anh đã có 2 pha kiến tạo giúp Argentina lội ngược dòng đánh bại tuyển Anh 2-1 ở bán kết World Cup 2026 sáng 16-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T08:44:32.585655+07:00",
+      "fetched": "2026-07-16T08:44:32.585713+07:00"
+    },
+    {
+      "id": "ae90401210bc26e2281fb4f1f811ca10",
+      "title": "Trung Đông sáng 16-7: Mỹ lại tấn công, chặn tàu chở dầu vào cảng Iran",
+      "link": "https://tuoitre.vn/trung-dong-sang-16-7-my-lai-tan-cong-chan-tau-cho-dau-vao-cang-iran-100260716054134658.htm",
+      "summary": "Mỹ phóng tên lửa Hellfire, chặn tàu chở dầu đi vào cảng Iran ở Vịnh Ba Tư; Iran triệu tập đại sứ Anh để phản đối lệnh cấm nhằm vào IRGC... là một số tin tức đáng chú ý về Trung Đông sáng 16-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T08:44:32.585585+07:00",
+      "fetched": "2026-07-16T08:44:32.585644+07:00"
+    },
+    {
+      "id": "a88dfe6b23046f1e4a902b99d5752a04",
+      "title": "Tiệm vàng Kim Lý dán thông báo tạm ngưng 1 tháng, tiệm Ngọc Tâm tạm ngưng 2 tuần",
+      "link": "https://tuoitre.vn/tiem-vang-kim-ly-dan-thong-bao-tam-ngung-1-thang-tiem-ngoc-tam-tam-ngung-2-tuan-100260715232446922.htm",
+      "summary": "Tiệm vàng Kim Lý đã dán thông báo xin tạm ngưng để sửa chữa, sau 1 tháng sẽ hoạt động lại. Tiệm vàng Ngọc Tâm treo biển thông báo tạm ngưng hoạt động trong 2 tuần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T08:44:32.585516+07:00",
+      "fetched": "2026-07-16T08:44:32.585575+07:00"
+    },
+    {
+      "id": "1e7fb37cc58a568f8ee6174f71c1ce94",
+      "title": "Bellingham tát đầu cầu thủ dự bị Argentina, đồng đội Messi phản ứng gay gắt",
+      "link": "https://tuoitre.vn/bellingham-tat-dau-cau-thu-du-bi-argentina-dong-doi-messi-phan-ung-gay-gat-100260716053310621.htm",
+      "summary": "Sau thất bại 1-2 trước Argentina ở bán kết World Cup 2026, Jude Bellingham bị dư luận quốc tế chỉ trích dữ dội vì hành vi “phi thể thao” với cầu thủ dự bị Valentin Barco bên phía đối thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T08:44:32.585447+07:00",
+      "fetched": "2026-07-16T08:44:32.585506+07:00"
+    },
+    {
+      "id": "da06d6f59ec56245d71fbaa551dde778",
+      "title": "Video Messi hai lần kiến tạo giúp Argentina đánh bại tuyển Anh",
+      "link": "https://tuoitre.vn/video-messi-hai-lan-kien-tao-giup-argentina-danh-bai-tuyen-anh-100260716052359121.htm",
+      "summary": "Rạng sáng 16-7, cú đúp kiến tạo của Messi ở những phút cuối hiệp 2 đã giúp Argentina lội ngược dòng ngoạn mục với tỉ số 2-1 trước tuyển Anh, giành vé vào chơi trận chung kết World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T08:44:32.585377+07:00",
+      "fetched": "2026-07-16T08:44:32.585436+07:00"
+    },
+    {
+      "id": "640fa31491360a3e6c9be5f824b697f1",
+      "title": "Từ chối cấp cứu người bệnh có vi phạm pháp luật không?",
+      "link": "https://tuoitre.vn/tu-choi-cap-cuu-nguoi-benh-co-vi-pham-phap-luat-khong-100260715140356863.htm",
+      "summary": "Ba tôi bị bệnh nặng phải đưa vào cơ sở y tế cấp cứu nhưng bác sĩ trực của cơ sở này từ chối cấp cứu dẫn đến việc ba tôi không qua khỏi, vậy tôi có thể khởi kiện bác sĩ không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T08:44:32.585304+07:00",
+      "fetched": "2026-07-16T08:44:32.585365+07:00"
+    },
+    {
+      "id": "95f1ee1c37b5c672d87ebb2d9f0e3d62",
+      "title": "Tin tức thế giới 16-7: Kiev bị tập kích sau khi Chủ tịch Ủy ban châu Âu đến thủ đô Ukraine",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-16-7-kiev-bi-tap-kich-sau-khi-chu-tich-uy-ban-chau-au-den-thu-do-ukraine-10026071606200524.htm",
+      "summary": "Châu Âu và Ukraine hợp tác sản xuất drone; Liên hợp quốc lo ngại về tình trạng leo thang xung đột tại Trung Đông; Số người chết trong động đất ở Venezuela tiếp tục tăng... là một số tin tức thế giới đáng chú ý sáng 16-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T08:44:32.585222+07:00",
+      "fetched": "2026-07-16T08:44:32.585292+07:00"
+    },
+    {
+      "id": "8a2012b40b457b0342d04ac379b5c39f",
+      "title": "HLV Tuchel nói Anh thua không phải do chiến thuật",
+      "link": "https://tuoitre.vn/hlv-tuchel-noi-anh-thua-khong-phai-do-chien-thuat-100260716062609812.htm",
+      "summary": "HLV Thomas Tuchel khẳng định không hối tiếc về những quyết định chiến thuật trong trận bán kết World Cup 2026, dù tuyển Anh đánh mất lợi thế và thua ngược Argentina 1-2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T08:44:32.585052+07:00",
+      "fetched": "2026-07-16T08:44:32.585207+07:00"
+    },
     {
       "id": "5df87d6c869c33726b914d1cfae2982b",
       "title": "Chấm điểm tuyển Argentina: ai chơi hay thứ 2 sau Messi?",
@@ -71,6 +151,186 @@ window.newsData_2026_07_16 = {
       "category": "Tổng hợp",
       "published": "2026-07-16T01:55:00.800331+07:00",
       "fetched": "2026-07-16T01:55:00.800780+07:00"
+    },
+    {
+      "id": "70e7466793113858ef630be8193970c8",
+      "title": "Người Việt mua sắm ngày càng nhiều ô tô hybrid, hơn 65% chọn xe Toyota",
+      "link": "https://thanhnien.vn/nguoi-viet-mua-sam-ngay-cang-nhieu-o-to-hybrid-hon-65-chon-xe-toyota-185260711151921502.htm",
+      "summary": "Sức mua có tín hiệu hồi phục, tạo động lực giúp doanh số bán ô tô hybrid đạt hơn 2.300 xe trong tháng 6.2026, qua đó khép lại nửa đầu năm 2026 với mức tăng trưởng hơn 51%; trong đó phần lớn khách Việt mua xe hybrid chọn ô tô Toyota.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T01:42:00+07:00",
+      "fetched": "2026-07-16T08:44:30.308847+07:00"
+    },
+    {
+      "id": "e91d4043b572f3c75e4f520d06614427",
+      "title": "Gặp xe công an hú còi ở giao lộ không đèn tín hiệu, nhường đường thế nào?",
+      "link": "https://thanhnien.vn/gap-xe-cong-an-hu-coi-o-giao-lo-khong-den-tin-hieu-nhuong-duong-the-nao-185260715102513281.htm",
+      "summary": "Tình huống gặp xe công an hú còi cùng nhiều phương tiện tiến vào giao lộ khiến không ít tài xế lúng túng khi nhường đường. Chỉ một quyết định sai có thể dẫn đến tai nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T01:35:00+07:00",
+      "fetched": "2026-07-16T08:44:30.309064+07:00"
+    },
+    {
+      "id": "a964c9f5fe3ebd38d41db28137b0a31d",
+      "title": "Thác Trắng Minh Long hút khách bởi vẻ đẹp nguyên sơ",
+      "link": "https://thanhnien.vn/thac-trang-minh-long-hut-khach-boi-ve-dep-nguyen-so-185260715145220773.htm",
+      "summary": "Dòng nước trắng xóa đổ từ vách núi cao, màn sương mỏng bao phủ dưới chân thác cùng không gian xanh mát của rừng nguyên sinh tạo nên bức tranh thiên nhiên đầy cuốn hút ở thác Trắng Minh Long.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T01:33:00+07:00",
+      "fetched": "2026-07-16T08:44:30.309277+07:00"
+    },
+    {
+      "id": "7ff477c0c21cdf987b63dc4b2eb4cff7",
+      "title": "Messi: 'Trận thắng Anh không hề bình thường'",
+      "link": "https://vnexpress.net/messi-tran-thang-anh-khong-he-binh-thuong-5097958.html",
+      "summary": "Tiền đạo 39 tuổi Lionel Messi khẳng định chiến thắng ngược 2-1 trước Anh ở bán kết World Cup 2026 mang ý nghĩa đặc biệt với Argentina, cả trong lẫn ngoài sân cỏ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-16T01:26:41+07:00",
+      "fetched": "2026-07-16T08:44:39.645458+07:00"
+    },
+    {
+      "id": "de93980354a39351a5f225a2babd65a5",
+      "title": "Harry Kane bất lực: 'Messi quá giỏi, đội tuyển Anh cố ngăn cản nhưng không thể'",
+      "link": "https://thanhnien.vn/harry-kane-bat-luc-messi-qua-gioi-doi-tuyen-anh-co-ngan-can-nhung-khong-the-185260716081441584.htm",
+      "summary": "Thủ quân Harry Kane khẳng định đội tuyển Anh đã làm mọi cách để ngăn Lionel Messi, nhưng vẫn không thể ngăn thiên tài Argentina châm ngòi cho cuộc lội ngược dòng ở bán kết World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T01:21:00+07:00",
+      "fetched": "2026-07-16T08:44:30.309442+07:00"
+    },
+    {
+      "id": "c83a3e555bd21cdc36e90ce8b4e6f710",
+      "title": "Phim xưa có còn 'hot'?",
+      "link": "https://thanhnien.vn/phim-xua-co-con-hot-185260715222835419.htm",
+      "summary": "Đối diện nhiều thử thách trong quá trình thực hiện song không thể phủ nhận những bộ phim về Nam bộ xưa nhận được sự quan tâm lớn của khán giả khi lên sóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T01:15:00+07:00",
+      "fetched": "2026-07-16T08:44:30.309598+07:00"
+    },
+    {
+      "id": "b3c80137bf347222d8cfd5fcf86afc01",
+      "title": "Phụ huynh học sinh TP.HCM đánh giá hài lòng dịch vụ giáo dục bậc học nào cao nhất, thấp nhất?",
+      "link": "https://thanhnien.vn/phu-huynh-hoc-sinh-tphcm-danh-gia-hai-long-dich-vu-giao-duc-bac-hoc-nao-cao-nhat-thap-nhat-185260715193109926.htm",
+      "summary": "Sở GD-ĐT TP.HCM đã thực hiện khảo sát đo lường sự hài lòng của người dân đối với dịch vụ giáo dục công trên 724.379 phụ huynh và học sinh. Từ đó đưa ra kết quả về sự hài lòng của phụ huynh học sinh với mỗi bậc học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T01:15:00+07:00",
+      "fetched": "2026-07-16T08:44:30.309756+07:00"
+    },
+    {
+      "id": "1de47e3217615e6b2d031077db907003",
+      "title": "Truyền thông quốc tế: 'Messi bất tử, Argentina ngược dòng vĩ đại'",
+      "link": "https://vnexpress.net/truyen-thong-quoc-te-messi-bat-tu-argentina-nguoc-dong-vi-dai-5097962.html",
+      "summary": "Nhiều từ báo quốc tế nhấn mạnh màn ngược dòng chỉ trong vài phút cuối, đồng thời ca ngợi Lionel Messi là biểu tượng bất tử của bóng đá thế giới, sau trận Argentina thắng Anh ở bán kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-16T01:12:11+07:00",
+      "fetched": "2026-07-16T08:44:39.645637+07:00"
+    },
+    {
+      "id": "caaf1271127b8a8d09d58c7d71d5adfa",
+      "title": "Tỉ phú Elon Musk ủng hộ ứng viên tổng thống cực hữu Pháp",
+      "link": "https://thanhnien.vn/ti-phu-elon-musk-ung-ho-ung-vien-tong-thong-cuc-huu-phap-185260716075519232.htm",
+      "summary": "Tỉ phú Mỹ Elon Musk ngày 15.7 đã bày tỏ sự ủng hộ đối với ứng viên tổng thống cực hữu Pháp Marine Le Pen, sau khi bà quyết định tranh cử bất chấp bản án về tội gian lận, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T01:08:00+07:00",
+      "fetched": "2026-07-16T08:44:30.309905+07:00"
+    },
+    {
+      "id": "b741defbce17ba8acf5cb32dd5dbd509",
+      "title": "Khánh Hòa tính phương án chuyển Trường Hermann Gmeiner Nha Trang thành THPT công lập",
+      "link": "https://thanhnien.vn/khanh-hoa-tinh-phuong-an-chuyen-truong-hermann-gmeiner-nha-trang-thanh-thpt-cong-lap-18526071606481669.htm",
+      "summary": "Phương án sắp xếp, tổ chức lại Trường Hermann Gmeiner Nha Trang đã được trình UBND tỉnh Khánh Hòa xem xét, với quan điểm bảo đảm quyền học tập của học sinh, đặc biệt là trẻ mồ côi đang được nuôi dưỡng tại Làng trẻ em SOS Nha Trang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T01:08:00+07:00",
+      "fetched": "2026-07-16T08:44:30.310055+07:00"
+    },
+    {
+      "id": "b05276dc1c2523fa1ae21e17750ebae9",
+      "title": "Mỹ cân nhắc yêu cầu một số đương đơn thẻ xanh đóng tiền cọc 100.000 USD",
+      "link": "https://thanhnien.vn/my-can-nhac-yeu-cau-mot-so-duong-don-the-xanh-dong-tien-coc-100000-usd-185260716074832626.htm",
+      "summary": "Chính quyền Tổng thống Donald Trump đang cân nhắc áp khoản cọc lên đến 100.000 USD cho một số người nộp đơn xin thẻ xanh tại các cơ quan lãnh sự Mỹ ở nước ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T01:06:00+07:00",
+      "fetched": "2026-07-16T08:44:30.310234+07:00"
+    },
+    {
+      "id": "5b4b7d14a4f3d62d8c2a9c0019b44a8b",
+      "title": "Từ nghịch cảnh, ăn cơm muối ớt đến giấc mơ thành bác sĩ cứu người",
+      "link": "https://thanhnien.vn/tu-nghich-canh-an-com-muoi-ot-den-giac-mo-thanh-bac-si-cuu-nguoi-185260715203720498.htm",
+      "summary": "Sống trong nghèo khó và gia đình gặp biến cố lớn, Nguyễn Hưng (ở P.Hiệp Ninh, Tây Ninh) vẫn học xuất sắc bằng nghị lực hiếm có và tình yêu dành cho người mẹ đã hy sinh cả tuổi xuân vì con.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T01:00:00+07:00",
+      "fetched": "2026-07-16T08:44:30.310387+07:00"
+    },
+    {
+      "id": "5ca5b162b9d4f1901f3bfb83a397af52",
+      "title": "Ravolution 2026: Khi Việt Nam tự tin tạo nên trải nghiệm đẳng cấp quốc tế",
+      "link": "https://thanhnien.vn/ravolution-2026-khi-viet-nam-tu-tin-tao-nen-trai-nghiem-dang-cap-quoc-te-185260715171129704.htm",
+      "summary": "Đồng hành cùng Ravolution 2026 với vai trò nhà tài trợ, Bia Saigon Special đã cùng tạo nên một không gian kết nối, nơi người trẻ Việt Nam và bạn bè quốc tế cùng hòa mình vào những trải nghiệm âm nhạc đẳng cấp thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T01:00:00+07:00",
+      "fetched": "2026-07-16T08:44:30.310543+07:00"
+    },
+    {
+      "id": "ac0a553d520cef7fbedd448a25f6743a",
+      "title": "Cơ hội trúng 2 độc đắc mỗi ngày cùng xổ số quay nhanh Lotto 5/35",
+      "link": "https://thanhnien.vn/co-hoi-trung-2-doc-dac-moi-ngay-cung-xo-so-quay-nhanh-lotto-5-35-185260715164812521.htm",
+      "summary": "Với hai kỳ quay số mỗi ngày vào 13 giờ và 21 giờ, xổ số quay nhanh Lotto 5/35 đang mang đến nhiều cơ hội trúng thưởng cho người chơi. Không chỉ giúp rút ngắn thời gian chờ đợi kết quả, xổ số quay nhanh Lotto 5/35 còn tạo sức hút nhờ tính năng chia giải khi độc đắc vượt mốc 12 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T01:00:00+07:00",
+      "fetched": "2026-07-16T08:44:30.310693+07:00"
+    },
+    {
+      "id": "70b58b91166eb89841d72acc8f60fffa",
+      "title": "Tư vấn sức khỏe: Giảm biến chứng, sống khỏe mạnh nhờ công nghệ lọc máu hiện đại",
+      "link": "https://thanhnien.vn/tu-van-suc-khoe-giam-bien-chung-song-khoe-manh-nho-cong-nghe-loc-mau-hien-dai-185260715141721971.htm",
+      "summary": "Nhiều người lo lắng chạy thận làm suy giảm sức khỏe, tăng nguy cơ biến chứng. Tuy nhiên, với công nghệ lọc máu HDF Online (thẩm tách siêu lọc), độc tố được loại bỏ tốt hơn, giúp người bệnh sống khỏe mạnh lâu dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T01:00:00+07:00",
+      "fetched": "2026-07-16T08:44:30.310850+07:00"
+    },
+    {
+      "id": "4af2acea01d503aa6376e7e6a8bd3619",
+      "title": "Giáo viên 9.0 IELTS: Phát âm tiếng Anh rõ ràng quan trọng hơn nói giọng ‘sang’",
+      "link": "https://thanhnien.vn/giao-vien-90-ielts-phat-am-tieng-anh-ro-rang-quan-trong-hon-noi-giong-sang-185260715123753482.htm",
+      "summary": "Nói về kỹ năng Speaking, điều quan trọng là cần phân biệt sự khác nhau về pronunciation (phát âm tiếng Anh chuẩn) và accent (giọng bản xứ) và yếu tố nào mới ảnh hưởng điểm số trong phần Speaking của IELTS?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T01:00:00+07:00",
+      "fetched": "2026-07-16T08:44:30.311005+07:00"
+    },
+    {
+      "id": "43e5795fa98f50682096dfe03a0f6fcc",
+      "title": "Máy lọc không khí cho không gian kín: Giải pháp nâng cao chất lượng sống gia đình",
+      "link": "https://thanhnien.vn/may-loc-khong-khi-cho-khong-gian-kin-giai-phap-nang-cao-chat-luong-song-gia-dinh-1852607151109109.htm",
+      "summary": "Không gian sống ngày càng được đầu tư về nội thất và tiện nghi, nhưng chất lượng không khí trong nhà lại là yếu tố dễ bị bỏ qua. Tại các căn hộ chung cư, nhà phố liền kề hoặc tầng hầm cải tạo thành không gian sinh hoạt, việc lưu thông không khí tự nhiên thường bị hạn chế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T01:00:00+07:00",
+      "fetched": "2026-07-16T08:44:30.311160+07:00"
+    },
+    {
+      "id": "27417401e3e2670f4163a04b4e2d2e01",
+      "title": "Argentina nguy cơ bị FIFA phạt sau trận thắng Anh",
+      "link": "https://vnexpress.net/argentina-nguy-co-bi-fifa-phat-sau-tran-thang-anh-5097950.html",
+      "summary": "Argentina đối mặt nguy cơ bị FIFA kỷ luật sau khi một số cầu thủ giương biểu ngữ \"Quần đảo Malvinas thuộc về Argentina\", ở trận thắng Anh tại bán kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-16T00:07:11+07:00",
+      "fetched": "2026-07-16T08:44:39.645810+07:00"
     },
     {
       "id": "9f3e0f9dec3e1c027e720636372ef2f2",
@@ -223,6 +483,16 @@ window.newsData_2026_07_16 = {
       "fetched": "2026-07-16T00:05:12.802848+07:00"
     },
     {
+      "id": "b1bd34b205bae9bc1326d2455b085c81",
+      "title": "Tuchel: 'Anh đã chơi hay nhất có thể trước Argentina'",
+      "link": "https://vnexpress.net/tuchel-anh-da-choi-hay-nhat-co-the-truoc-argentina-5097941.html",
+      "summary": "HLV Thomas Tuchel khẳng định không hối tiếc về các quyết định chiến thuật, dù thừa nhận Anh chơi quá thụ động nên thua ngược Argentina 1-2 ở bán kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-15T23:29:24+07:00",
+      "fetched": "2026-07-16T08:44:39.645983+07:00"
+    },
+    {
       "id": "fbd2bbf33659393807884128119a74ce",
       "title": "HLV Scaloni rưng rưng: 'Argentina quá phi thường, càng áp lực đá càng hay, tôi biết ơn cầu thủ của mình’",
       "link": "https://thanhnien.vn/hlv-scaloni-rung-rung-argentina-qua-phi-thuong-cang-ap-luc-da-cang-hay-toi-biet-on-cau-thu-cua-minh-185260716054351182.htm",
@@ -281,6 +551,16 @@ window.newsData_2026_07_16 = {
       "category": "Tổng hợp",
       "published": "2026-07-15T22:40:00+07:00",
       "fetched": "2026-07-16T05:49:12.345007+07:00"
+    },
+    {
+      "id": "58dd7809359d72360526c9492200c496",
+      "title": "Xác định hai trận cuối ở World Cup 2026",
+      "link": "https://vnexpress.net/xac-dinh-hai-tran-cuoi-o-world-cup-2026-5097932.html",
+      "summary": "Argentina sẽ gặp Tây Ban Nha ở chung kết World Cup 2026 trên sân MetLife ngày 19/7, còn Anh và Pháp tranh giải ba tại sân Hard Rock trước đó một ngày.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-15T22:36:29+07:00",
+      "fetched": "2026-07-16T08:44:39.646158+07:00"
     },
     {
       "id": "e6115885cb7867a7483121d32d725323",
@@ -791,6 +1071,16 @@ window.newsData_2026_07_16 = {
       "category": "Thể thao",
       "published": "2026-07-15T17:00:00+07:00",
       "fetched": "2026-07-16T05:49:21.446876+07:00"
+    },
+    {
+      "id": "073491021c878754a2f1a3c17a5b0e2e",
+      "title": "Messi giúp Argentina thắng ngược Anh ở bán kết World Cup",
+      "link": "https://vnexpress.net/ket-qua-anh-vs-argentina-5097918-tong-thuat.html",
+      "summary": "Thủ quân Lionel Messi góp hai kiến tạo trong 5 phút cuối, giúp Argentina thắng ngược đội tuyển Anh 2-1 ở bán kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-15T17:00:00+07:00",
+      "fetched": "2026-07-16T08:44:39.646667+07:00"
     },
     {
       "id": "cd277dd96a8b6ef5540e8f1a5252b201",
