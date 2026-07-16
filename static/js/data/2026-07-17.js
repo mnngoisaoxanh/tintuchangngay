@@ -1,6 +1,6 @@
 window.newsData_2026_07_17 = {
   "date": "2026-07-17",
-  "lastUpdated": "2026-07-17T01:55:39.398546+07:00",
+  "lastUpdated": "2026-07-17T03:45:54.266562+07:00",
   "articles": [
     {
       "id": "47f0e4868bdc9521f02be6541401c65a",
@@ -201,6 +201,16 @@ window.newsData_2026_07_17 = {
       "category": "Tổng hợp",
       "published": "2026-07-17T00:03:08.537210+07:00",
       "fetched": "2026-07-17T00:03:08.537362+07:00"
+    },
+    {
+      "id": "72b29f5dd7a82b50a5fde95144f0aff5",
+      "title": "Sự vĩ đại của Messi",
+      "link": "https://thanhnien.vn/su-vi-dai-cua-messi-18526071619513428.htm",
+      "summary": "Ở tuổi 39, khi đã bước đến những nấc thang cuối sự nghiệp cùng Argentina, Lionel Messi vẫn khiến tất cả ngỡ ngàng bởi thứ đẳng cấp siêu thực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T19:40:00+07:00",
+      "fetched": "2026-07-17T03:45:45.944015+07:00"
     },
     {
       "id": "1cf7cd6a58505690859d4cde8fa6903c",
