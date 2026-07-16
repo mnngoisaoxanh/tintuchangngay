@@ -1,7 +1,157 @@
 window.newsData_2026_07_16 = {
   "date": "2026-07-16",
-  "lastUpdated": "2026-07-16T20:20:27.438949+07:00",
+  "lastUpdated": "2026-07-16T22:25:51.096149+07:00",
   "articles": [
+    {
+      "id": "6e5bd619cef573ff01a8c9f1069fa3d2",
+      "title": "Mở màn Lễ hội ẩm thực Peru: 'Không có khoảng cách giữa Việt Nam và Peru'",
+      "link": "https://tuoitre.vn/mo-man-le-hoi-am-thuc-peru-khong-co-khoang-cach-giua-viet-nam-va-peru-100260716184803775.htm",
+      "summary": "Tại tiệc mừng Quốc khánh Peru ở TP.HCM, Đại sứ Ráez Portocarrero đánh giá quan hệ Việt Nam - Peru đang phát triển thuận lợi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:25:42.560423+07:00",
+      "fetched": "2026-07-16T22:25:42.560466+07:00"
+    },
+    {
+      "id": "ce1ca8b527630abf1c32dd182d7f08f0",
+      "title": "Tổ chức Năm Lượng tử Gia Lai 2026 nhằm kết nối, giải quyết những bài toán thực tiễn",
+      "link": "https://tuoitre.vn/to-chuc-nam-luong-tu-gia-lai-2026-nham-ket-noi-giai-quyet-nhung-bai-toan-thuc-tien-100260716185918506.htm",
+      "summary": "Tỉnh Gia Lai đăng cai tổ chức Năm Lượng tử Gia Lai 2026 với sự phối hợp của các tổ chức khoa học lượng tử, đổi mới sáng tạo và đối tác quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:25:42.560366+07:00",
+      "fetched": "2026-07-16T22:25:42.560415+07:00"
+    },
+    {
+      "id": "e06f59186c8a12d4adfbb3bdd972cb46",
+      "title": "Vì sao ca khúc 'Hey Jude' luôn vang lên mỗi khi Bellingham ra sân?",
+      "link": "https://tuoitre.vn/vi-sao-ca-khuc-hey-jude-luon-vang-len-moi-khi-bellingham-ra-san-100260716183907274.htm",
+      "summary": "Sau khi tuyển Anh thua ở bán kết World Cup 2026, Jude Bellingham vẫn là một trong những ngôi sao nổi bật nhất giải đấu. Tiền vệ Real Madrid cũng gắn liền với những màn đồng ca 'Hey Jude' vang khắp các khán đài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:25:42.560310+07:00",
+      "fetched": "2026-07-16T22:25:42.560358+07:00"
+    },
+    {
+      "id": "f46962f45e08c279b7797c4237cdb28a",
+      "title": "Erling Haaland nhận lời ăn tối của Tom Holland sau màn phớt lờ tin nhắn gây sốt",
+      "link": "https://tuoitre.vn/erling-haaland-nhan-loi-an-toi-cua-tom-holland-sau-man-phot-lo-tin-nhan-gay-sot-100260716192236608.htm",
+      "summary": "Có thể là một trong những ngôi sao điện ảnh đình đám nhất hành tinh, nhưng không phải ai cũng muốn đi chơi cùng Tom Holland.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:25:42.560259+07:00",
+      "fetched": "2026-07-16T22:25:42.560302+07:00"
+    },
+    {
+      "id": "3a7c4a1e149c5f11e048e6eccae5ea24",
+      "title": "Du khách tiên lượng nặng nhất trong vụ lật ca nô ở Phú Quốc đã tỉnh sau 3 ngày điều trị",
+      "link": "https://tuoitre.vn/du-khach-tien-luong-nang-nhat-trong-vu-lat-ca-no-phu-quoc-da-tinh-sau-3-ngay-dieu-tri-100260716191326891.htm",
+      "summary": "Nam du khách 54 tuổi tiên lượng nặng nhất trong vụ lật ca nô ở Phú Quốc đã tỉnh sau 3 ngày điều trị tại Bệnh viện Chợ Rẫy. Xuất huyết não được kiểm soát, tim mạch và hô hấp cải thiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:25:42.560206+07:00",
+      "fetched": "2026-07-16T22:25:42.560251+07:00"
+    },
+    {
+      "id": "8e677aa69cf9f81a34176423fd777762",
+      "title": "Khuất Văn Khang chia tay đội tuyển Việt Nam",
+      "link": "https://tuoitre.vn/khuat-van-khang-chia-tay-doi-tuyen-viet-nam-10026071617455225.htm",
+      "summary": "Cầu thủ Khuất Văn Khang không thể tham dự ASEAN Cup 2026 vì không kịp bình phục chấn thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:25:42.560153+07:00",
+      "fetched": "2026-07-16T22:25:42.560198+07:00"
+    },
+    {
+      "id": "e188eeb41293d2138b3e376f70364d63",
+      "title": "Honda chuyển sản xuất xe máy điện từ Thái Lan về Việt Nam, sẽ thêm xe mới rẻ hơn Vision",
+      "link": "https://tuoitre.vn/honda-chuyen-san-xuat-xe-may-dien-tu-thai-lan-ve-viet-nam-se-them-xe-moi-re-hon-vision-100260716183942644.htm",
+      "summary": "Honda Việt Nam dự định lắp ráp mẫu xe máy điện UC3 tại nhà máy ở Phú Thọ từ tháng 9-2026, thay vì sản xuất tại Thái Lan như kế hoạch ban đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:25:42.560095+07:00",
+      "fetched": "2026-07-16T22:25:42.560145+07:00"
+    },
+    {
+      "id": "fea30e0e42e5942b7d05535385d27095",
+      "title": "Cầu thủ Pháp, Anh đều không muốn đá trận tranh hạng 3 World Cup",
+      "link": "https://tuoitre.vn/cau-thu-phap-anh-deu-khong-muon-da-tran-tranh-hang-3-world-cup-100260716193000389.htm",
+      "summary": "Theo tiết lộ từ giới truyền thông, các thành viên của cả 2 đội tuyển Pháp và Anh đều tỏ thái độ chán nản, không muốn thi đấu trận tranh hạng 3 ở World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:25:42.560030+07:00",
+      "fetched": "2026-07-16T22:25:42.560073+07:00"
+    },
+    {
+      "id": "a22e8ffcdbbca175efbebbcb1934598a",
+      "title": "Hải quan 'lệnh' thông quan ngay sầu riêng, cấm gây khó doanh nghiệp",
+      "link": "https://tuoitre.vn/hai-quan-lenh-thong-quan-ngay-sau-rieng-cam-gay-kho-doanh-nghiep-100260716190519615.htm",
+      "summary": "Cục Hải quan yêu cầu các đơn vị ưu tiên thông quan nông sản ngay trong ngày, không để cán bộ gây phiền hà, làm phát sinh chi phí cho doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:25:42.559977+07:00",
+      "fetched": "2026-07-16T22:25:42.560022+07:00"
+    },
+    {
+      "id": "e8220a201ea977cde84d4d2c92e7868c",
+      "title": "VietinBank tăng 128 bậc trong Top 2.000 doanh nghiệp lớn nhất thế giới",
+      "link": "https://tuoitre.vn/vietinbank-tang-128-bac-trong-top-2000-doanh-nghiep-lon-nhat-the-gioi-100260716194546329.htm",
+      "summary": "VietinBank tăng 128 bậc, lên vị trí 1.031 trong bảng xếp hạng Forbes Global 2000 năm 2026, đồng thời là ngân hàng Việt Nam duy nhất có 15 năm liên tiếp góp mặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:25:42.559918+07:00",
+      "fetched": "2026-07-16T22:25:42.559969+07:00"
+    },
+    {
+      "id": "ba8a603562dbf094fd08fac7254555b6",
+      "title": "Bi kịch của ban nhạc mất 4 thành viên trong vụ cháy quán bar tại Thái Lan",
+      "link": "https://tuoitre.vn/bi-kich-cua-ban-nhac-mat-4-thanh-vien-trong-vu-chay-quan-bar-tai-thai-lan-100260716192527059.htm",
+      "summary": "Bốn thành viên ban nhạc Tossakan thiệt mạng trong vụ cháy quán bar ở Bangkok. Người thân nghẹn ngào tiễn biệt những nghệ sĩ ra đi khi đang biểu diễn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:25:42.559860+07:00",
+      "fetched": "2026-07-16T22:25:42.559910+07:00"
+    },
+    {
+      "id": "62e59f86e811a1554e38081515a28364",
+      "title": "Cần Thơ tìm kiếm tại vị trí nghi ngờ hố chôn tập thể 12 liệt sĩ",
+      "link": "https://tuoitre.vn/can-tho-tim-kiem-tai-vi-tri-nghi-ngo-ho-chon-tap-the-12-liet-si-100260716191314892.htm",
+      "summary": "Ngày 15-7, thông tin từ Bộ Chỉ huy Quân sự TP Cần Thơ, đơn vị vừa phối hợp với Đội K90 (Cục Chính trị Quân khu 9) tiến hành khai quật vị trí nghi có mộ tập thể 12 liệt sĩ tại xã Trường Long Tây, TP Cần Thơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:25:42.559801+07:00",
+      "fetched": "2026-07-16T22:25:42.559852+07:00"
+    },
+    {
+      "id": "435c3f4be6da77da4f2af8028fa09e42",
+      "title": "Gần 3.000 sinh viên thi đầu tư chứng khoán, chung kết giao dịch bằng tiền thật",
+      "link": "https://tuoitre.vn/gan-3000-sinh-vien-thi-dau-tu-chung-khoan-chung-ket-giao-dich-bang-tien-that-100260716184333974.htm",
+      "summary": "Chiều 16-7, Gala chung kết cuộc thi Đầu tư chứng khoán sinh viên Việt Nam 2026 diễn ra tại Trường đại học Tôn Đức Thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:25:42.559739+07:00",
+      "fetched": "2026-07-16T22:25:42.559791+07:00"
+    },
+    {
+      "id": "a76d7f2eedf94eae665fdfc7cfa14972",
+      "title": "Điện Kremlin: Chưa thấy dấu hiệu nối lại đàm phán với Ukraine, bác lo ngại kinh tế Nga",
+      "link": "https://tuoitre.vn/dien-kremlin-chua-thay-dau-hieu-noi-lai-dam-phan-voi-ukraine-bac-lo-ngai-kinh-te-nga-100260716195407031.htm",
+      "summary": "Nga cho biết chưa có dấu hiệu nào cho thấy các cuộc đàm phán hòa bình với Ukraine sẽ sớm được nối lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:25:42.559671+07:00",
+      "fetched": "2026-07-16T22:25:42.559730+07:00"
+    },
+    {
+      "id": "7024caa8514e21a99c8b0fc8d67fd9eb",
+      "title": "Suy thận, nguy kịch vì uống thuốc chứa Phenylbutazone trị đau khớp mua trên mạng",
+      "link": "https://tuoitre.vn/suy-than-nguy-kich-vi-uong-thuoc-chua-phenylbutazone-tri-dau-khop-mua-tren-mang-100260716191837586.htm",
+      "summary": "Tin lời truyền miệng, cụ ông 72 tuổi mua thuốc chứa hoạt chất cấm Phenylbutazone trên mạng để trị đau khớp và rơi vào nguy kịch vì tan máu, suy thận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T22:25:42.559508+07:00",
+      "fetched": "2026-07-16T22:25:42.559657+07:00"
+    },
     {
       "id": "673d5028e025d015bad181e1bd1bb02b",
       "title": "Quy hoạch đảo Trí Nguyên, Hòn Tằm ở Nha Trang: Tập trung phát triển du lịch biển đảo",
@@ -453,6 +603,46 @@ window.newsData_2026_07_16 = {
       "fetched": "2026-07-16T16:56:52.008356+07:00"
     },
     {
+      "id": "e31a58163471e11e8dc9af49c1ed4f38",
+      "title": "Sống chung với thi thể bạn gái cũ suốt 7 tháng",
+      "link": "https://vnexpress.net/song-chung-voi-thi-the-ban-gai-cu-suot-7-thang-5098304.html",
+      "summary": "Matthew Lewinski nhận án chung thân sau khi siết cổ bạn gái cũ tại nhà, che giấu thi thể dưới tầng hầm trong thời gian dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T15:05:48+07:00",
+      "fetched": "2026-07-16T22:25:36.724283+07:00"
+    },
+    {
+      "id": "3eee3a4c061f3c527102297a03d65851",
+      "title": "Chủ quán photocopy làm giả hàng nghìn giấy tờ để bán",
+      "link": "https://vnexpress.net/chu-quan-photocopy-lam-gia-hang-nghin-giay-to-de-ban-5098281.html",
+      "summary": "Lê Văn Chiến bị cáo buộc lợi dụng tiệm photocopy để làm giả hơn 1.000 tài liệu, con dấu, bán cho khách với giá 1-1,5 triệu đồng mỗi loại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T15:02:28+07:00",
+      "fetched": "2026-07-16T22:25:36.724455+07:00"
+    },
+    {
+      "id": "5b010a30d8f0fb0e089eec417271da48",
+      "title": "Ông Tập vượt ông Trump về 'mức độ được quốc tế tin tưởng'",
+      "link": "https://vnexpress.net/ong-tap-vuot-ong-trump-ve-muc-do-duoc-quoc-te-tin-tuong-5098316.html",
+      "summary": "Khảo sát dư luận toàn cầu của tổ chức Pew, có trụ sở tại Mỹ, lần đầu thể hiện mức độ tin tưởng dành cho ông Tập cao hơn ông Trump.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T14:57:06+07:00",
+      "fetched": "2026-07-16T22:25:36.724601+07:00"
+    },
+    {
+      "id": "5b010a30d8f0fb0e089eec417271da48",
+      "title": "Ông Tập vượt ông Trump về 'mức độ được quốc tế tin tưởng'",
+      "link": "https://vnexpress.net/ong-tap-vuot-ong-trump-ve-muc-do-duoc-quoc-te-tin-tuong-5098316.html",
+      "summary": "Khảo sát dư luận toàn cầu của tổ chức Pew, có trụ sở tại Mỹ, lần đầu thể hiện mức độ tin tưởng dành cho ông Tập cao hơn ông Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-16T14:57:06+07:00",
+      "fetched": "2026-07-16T22:25:44.626733+07:00"
+    },
+    {
       "id": "b681705d75cfb99e840bc64f72c3b577",
       "title": "Tiệm vàng Hồng Phúc ở Mỹ Tho tạm ngưng hoạt động, nhiều khách hàng lo lắng",
       "link": "https://tuoitre.vn/tiem-vang-hong-phuc-o-my-tho-tam-ngung-hoat-dong-nhieu-khach-hang-lo-lang-100260716121750083.htm",
@@ -603,6 +793,256 @@ window.newsData_2026_07_16 = {
       "fetched": "2026-07-16T14:55:18.093893+07:00"
     },
     {
+      "id": "c28840ded99e6ac278094010c75c8b11",
+      "title": "Cựu điều dưỡng Nhật Bản bị nghi đầu độc bệnh nhân bằng chất thải",
+      "link": "https://vnexpress.net/cuu-dieu-duong-nhat-ban-bi-nghi-dau-doc-benh-nhan-bang-chat-thai-5098317.html",
+      "summary": "Cơ quan chức năng Nhật Bản vừa bắt giữ một nữ nhân viên y tế với cáo buộc bơm chất thải vào đường truyền tĩnh mạch khiến bệnh nhân nhiễm trùng máu, suy đa tạng rồi tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T14:54:13+07:00",
+      "fetched": "2026-07-16T22:25:36.724735+07:00"
+    },
+    {
+      "id": "d2c27d436ba437a76bdc6e9caa1d93bf",
+      "title": "Huế miễn phí sách giáo khoa từ lớp 1 đến 12",
+      "link": "https://vnexpress.net/hue-mien-phi-sach-giao-khoa-tu-lop-1-den-12-5098292.html",
+      "summary": "Học sinh từ lớp 1 đến 12 được miễn phí sách giáo khoa từ năm học 2026 - 2027, sớm ba năm so với lộ trình chung của cả nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T14:52:05+07:00",
+      "fetched": "2026-07-16T22:25:36.724871+07:00"
+    },
+    {
+      "id": "80af3c28f88354e046b3269f27e23e31",
+      "title": "Thanh Hóa: Sau phúc khảo, thí sinh từ 0 lên 20,7 điểm",
+      "link": "https://thanhnien.vn/thanh-hoa-sau-phuc-khao-thi-sinh-tu-0-len-207-diem-185260716211340534.htm",
+      "summary": "Một thí sinh ở tỉnh Thanh Hóa sau phúc khảo điểm thi vào lớp 10, kết quả từ 0 lên 20,7 điểm. Nguyên nhân được xác định do đánh dấu nhầm là thí sinh vắng thi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T14:52:00+07:00",
+      "fetched": "2026-07-16T22:25:40.171378+07:00"
+    },
+    {
+      "id": "2e10779c8681ee23a2ec481de6699d70",
+      "title": "Đường dây tiêu thụ bột ngọt, hạt nêm giả ở các tiệm tạp hóa",
+      "link": "https://vnexpress.net/duong-day-tieu-thu-bot-ngot-hat-nem-gia-o-cac-tiem-tap-hoa-5098324.html",
+      "summary": "Nguyễn Văn Đại, 39 tuổi, mua nguyên liệu bột ngọt, hạt nêm, bột giặt trôi nổi, rồi đặt làm bao bì, tem giả thương hiệu nổi tiếng để bỏ mối các tiệm tạp hoá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T14:50:29+07:00",
+      "fetched": "2026-07-16T22:25:36.725000+07:00"
+    },
+    {
+      "id": "136784ac2df376bade2b371a6cf8504b",
+      "title": "PNJ tính thuê đơn vị quốc tế kiểm định quy trình và chất lượng kim cương",
+      "link": "https://vnexpress.net/pnj-tinh-thue-don-vi-quoc-te-kiem-dinh-quy-trinh-va-chat-luong-kim-cuong-5098318.html",
+      "summary": "PNJ lên kế hoạch thuê đơn vị kiểm định, kiểm toán và tư vấn độc lập quốc tế để đánh giá toàn bộ quy trình và chất lượng kim cương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T14:38:02+07:00",
+      "fetched": "2026-07-16T22:25:36.725149+07:00"
+    },
+    {
+      "id": "136784ac2df376bade2b371a6cf8504b",
+      "title": "PNJ tính thuê đơn vị quốc tế kiểm định quy trình và chất lượng kim cương",
+      "link": "https://vnexpress.net/pnj-tinh-thue-don-vi-quoc-te-kiem-dinh-quy-trinh-va-chat-luong-kim-cuong-5098318.html",
+      "summary": "PNJ lên kế hoạch thuê đơn vị kiểm định, kiểm toán và tư vấn độc lập quốc tế để đánh giá toàn bộ quy trình và chất lượng kim cương.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-16T14:38:02+07:00",
+      "fetched": "2026-07-16T22:25:47.133079+07:00"
+    },
+    {
+      "id": "cf0c762296a016c00ba998f0c2e4066b",
+      "title": "Không thể ngó lơ những chiếc túi tote cho ngày hè",
+      "link": "https://thanhnien.vn/thoi-trang-tre/khong-the-ngo-lo-nhung-chiec-tui-tote-cho-ngay-he-185260716153456083.htm",
+      "summary": "Nếu những chiếc 'it bag' liên tục thay đổi theo từng mùa mốt, thì túi tote lại âm thầm tồn tại như một biểu tượng của phong cách sống hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T14:33:00+07:00",
+      "fetched": "2026-07-16T22:25:40.171528+07:00"
+    },
+    {
+      "id": "29152081d7ff792f1544b7eff2b429ad",
+      "title": "Tự động hóa 'đang đứng trước vận hội lớn'",
+      "link": "https://vnexpress.net/tu-dong-hoa-dang-dung-truoc-van-hoi-lon-5098176.html",
+      "summary": "Tự động hóa được đánh giá đang đứng trước vận hội lớn trong bối cảnh Việt Nam bước vào kỷ nguyên của công nghệ số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T14:28:30+07:00",
+      "fetched": "2026-07-16T22:25:36.725278+07:00"
+    },
+    {
+      "id": "29152081d7ff792f1544b7eff2b429ad",
+      "title": "Tự động hóa 'đang đứng trước vận hội lớn'",
+      "link": "https://vnexpress.net/tu-dong-hoa-dang-dung-truoc-van-hoi-lon-5098176.html",
+      "summary": "Tự động hóa được đánh giá đang đứng trước vận hội lớn trong bối cảnh Việt Nam bước vào kỷ nguyên của công nghệ số.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-16T14:28:30+07:00",
+      "fetched": "2026-07-16T22:25:49.947217+07:00"
+    },
+    {
+      "id": "9eab0b8868ed5108bbea2698c361dfc6",
+      "title": "Nhiệt độ điều hòa bao nhiêu giúp mát dễ chịu mà ít tốn điện?",
+      "link": "https://thanhnien.vn/nhiet-do-dieu-hoa-bao-nhieu-giup-mat-de-chiu-ma-khong-ton-dien-185260524170928815.htm",
+      "summary": "Vào mùa hè, việc điều chỉnh nhiệt độ điều hòa không khí là một trong những vấn đề được nhiều người quan tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T14:24:00+07:00",
+      "fetched": "2026-07-16T22:25:40.171658+07:00"
+    },
+    {
+      "id": "25fe2b044e75383316e93f488852ad4d",
+      "title": "Lộ diện 4 đội đầu tiên giành vé vào tứ kết giải U.21 quốc gia",
+      "link": "https://thanhnien.vn/lo-dien-4-doi-dau-tien-gianh-ve-vao-tu-ket-giai-u21-quoc-gia-185260716211353903.htm",
+      "summary": "Chiều 16.7, bảng A và bảng B của VCK giải bóng đá vô địch U.21 quốc gia - Cúp FPT Play 2026 đã chính thức khép lại, qua đó xác định 4 đội đầu tiên góp mặt ở vòng tứ kết gồm Hà Nội, PVF-CAND, Thể Công Viettel và SLNA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T14:15:00+07:00",
+      "fetched": "2026-07-16T22:25:40.171783+07:00"
+    },
+    {
+      "id": "950d6ab8560058246327b97fcb12b38b",
+      "title": "Công ty của tỷ phú Warren Buffett sản xuất độc quyền gấu bông World Cup 2026",
+      "link": "https://vnexpress.net/cong-ty-cua-ty-phu-warren-buffett-san-xuat-doc-quyen-gau-bong-world-cup-2026-5098257.html",
+      "summary": "Jazwares, công ty con thuộc Tập đoàn Berkshire Hathaway của tỷ phú Warren Buffett, sản xuất độc quyền gấu bông World Cup 2026 cho FIFA.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T14:14:40+07:00",
+      "fetched": "2026-07-16T22:25:36.725406+07:00"
+    },
+    {
+      "id": "950d6ab8560058246327b97fcb12b38b",
+      "title": "Công ty của tỷ phú Warren Buffett sản xuất độc quyền gấu bông World Cup 2026",
+      "link": "https://vnexpress.net/cong-ty-cua-ty-phu-warren-buffett-san-xuat-doc-quyen-gau-bong-world-cup-2026-5098257.html",
+      "summary": "Jazwares, công ty con thuộc Tập đoàn Berkshire Hathaway của tỷ phú Warren Buffett, sản xuất độc quyền gấu bông World Cup 2026 cho FIFA.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-16T14:14:40+07:00",
+      "fetched": "2026-07-16T22:25:47.133255+07:00"
+    },
+    {
+      "id": "b706e9994f536200ea4c35e08401a3f5",
+      "title": "Loạt thí sinh có IELTS trượt xét tuyển vào Đại học Hà Nội vì hiểu nhầm",
+      "link": "https://vnexpress.net/loat-thi-sinh-co-ielts-truot-xet-tuyen-vao-dai-hoc-ha-noi-vi-hieu-nham-5098248.html",
+      "summary": "Tưởng dùng IELTS để miễn thi tốt nghiệp thì cũng có thể quy đổi trong xét đại học, hơn 130 thí sinh bị Đại học Hà Nội loại vì không có điểm tiếng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T14:02:37+07:00",
+      "fetched": "2026-07-16T22:25:36.725532+07:00"
+    },
+    {
+      "id": "316004132be4d3b8d750b5ef791a0287",
+      "title": "Pháp không còn tâm trạng đấu Anh tranh HCĐ, Mbappe chưa nguôi cơn giận vì thua Tây Ban Nha",
+      "link": "https://thanhnien.vn/phap-khong-con-tam-trang-dau-anh-tranh-hcd-mbappe-chua-nguoi-con-gian-vi-thua-tay-ban-nha-18526071620485168.htm",
+      "summary": "Thất bại 0-2 trước Tây Ban Nha ở bán kết World Cup 2026 khiến Liên đoàn Bóng đá Pháp (FFF) mất khoản tiền thưởng từ nhà tài trợ Nike. Bên cạnh đó, bầu không khí trong phòng thay đồ của ‘Les Bleus’ cũng trở nên căng thẳng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T14:02:00+07:00",
+      "fetched": "2026-07-16T22:25:40.171906+07:00"
+    },
+    {
+      "id": "4b89510ed31d9695d67f85233dd01624",
+      "title": "Chốt tên đại học đầu tiên của Việt Nam ở nước ngoài",
+      "link": "https://thanhnien.vn/chot-ten-dai-hoc-dau-tien-cua-viet-nam-o-nuoc-ngoai-185260716201246647.htm",
+      "summary": "Lào và Việt Nam đã thống nhất tên gọi của trường đại học Việt Nam tại Lào và đang thúc đẩy để sớm khởi công, theo PGS-TS Nguyễn Thu Thủy, Cục trưởng Cục Hợp tác quốc tế (Bộ GD-ĐT).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T14:01:00+07:00",
+      "fetched": "2026-07-16T22:25:40.172030+07:00"
+    },
+    {
+      "id": "be4cb8efa349af672a4cb2d5a7416cf9",
+      "title": "Con bỏ cơm, không nói chuyện với ba mẹ 5 ngày, tôi phải làm sao?",
+      "link": "https://vnexpress.net/nuoi-day-con-toi-thuc-den-3h-sang-choi-game-bi-mang-thi-bo-an-khong-noi-chuyen-voi-ba-me-5098004.html",
+      "summary": "Cháu bị la rầy sau khi thức đến 3h sáng chơi games.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T14:00:00+07:00",
+      "fetched": "2026-07-16T22:25:36.725659+07:00"
+    },
+    {
+      "id": "e856bc959f50730399fb8029decd8255",
+      "title": "U.17 HAGL thua U.17 Thể Công Viettel, U.17 PVF thắng đậm trận ra quân",
+      "link": "https://thanhnien.vn/u17-hagl-thua-u17-the-cong-viettel-u17-pvf-thang-dam-tran-ra-quan-185260716194916589.htm",
+      "summary": "Chiều 16.7, tại sân vận động Pleiku (Gia Lai), Liên đoàn Bóng đá Việt Nam (VFF) phối hợp với Sở VH-TT-DL tỉnh Gia Lai cùng các đơn vị liên quan tổ chức lễ khai mạc vòng chung kết giải bóng đá vô địch U.17 quốc gia – Cúp Rồng Đỏ 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T13:54:00+07:00",
+      "fetched": "2026-07-16T22:25:40.172168+07:00"
+    },
+    {
+      "id": "2572a3a642247b585d3504c6880a4e69",
+      "title": "Người thiết kế chiếc cúp vô địch World Cup cách đây nửa thế kỷ",
+      "link": "https://vnexpress.net/nguoi-thiet-ke-chiec-cup-vo-dich-world-cup-cach-day-nua-the-ky-5098297.html",
+      "summary": "Chiếc cúp FIFA World Cup tượng trưng cho cảm xúc chiến thắng của người hâm mộ và cầu thủ, là tác phẩm của nhà điêu khắc Italy Silvio Gazzaniga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T13:47:03+07:00",
+      "fetched": "2026-07-16T22:25:36.725778+07:00"
+    },
+    {
+      "id": "2572a3a642247b585d3504c6880a4e69",
+      "title": "Người thiết kế chiếc cúp vô địch World Cup cách đây nửa thế kỷ",
+      "link": "https://vnexpress.net/nguoi-thiet-ke-chiec-cup-vo-dich-world-cup-cach-day-nua-the-ky-5098297.html",
+      "summary": "Chiếc cúp FIFA World Cup tượng trưng cho cảm xúc chiến thắng của người hâm mộ và cầu thủ, là tác phẩm của nhà điêu khắc Italy Silvio Gazzaniga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-16T13:47:03+07:00",
+      "fetched": "2026-07-16T22:25:44.626887+07:00"
+    },
+    {
+      "id": "d504bce9ec3aaae2d6c4bbc523d8b0e7",
+      "title": "Đất đá từ đồi tràn xuống khu dân cư ở Lào Cai",
+      "link": "https://vnexpress.net/dat-da-tu-doi-tran-xuong-khu-dan-cu-o-lao-cai-5098314.html",
+      "summary": "Mưa lớn khiến khoảng 500 m3 đất đá từ đồi đổ \"ầm, ầm\" xuống khu dân cư xã Minh Lương, ảnh hưởng gần 10 hộ dân và làm nhiều tuyến đường sạt lở trong ngày 16/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T13:42:21+07:00",
+      "fetched": "2026-07-16T22:25:36.725901+07:00"
+    },
+    {
+      "id": "38f76cee13f63a2d75b8fb23d0adee33",
+      "title": "Sửa luật để chấm dứt cảnh người dân chờ bồi thường thiệt hại quá lâu",
+      "link": "https://thanhnien.vn/sua-luat-de-cham-dut-canh-nguoi-dan-cho-boi-thuong-thiet-hai-qua-lau-185260716191909031.htm",
+      "summary": "Sửa luật Trách nhiệm bồi thường của Nhà nước theo hướng rút ngắn thủ tục, giảm thời gian giải quyết, tránh để người dân bị thiệt hại nhưng vẫn phải chờ quá lâu mới được bồi thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T13:39:00+07:00",
+      "fetched": "2026-07-16T22:25:40.172290+07:00"
+    },
+    {
+      "id": "a4485900519c28afeca1307c35ec7c84",
+      "title": "Tầm soát ung thư vú bằng siêu âm 3D, có gặp khó khi đã đặt túi ngực?",
+      "link": "https://thanhnien.vn/tam-soat-ung-thu-vu-bang-sieu-am-3d-co-gap-kho-khi-da-dat-tui-nguc-185260716193619317.htm",
+      "summary": "Nhiều phụ nữ lo ngại túi ngực sẽ cản trở việc tầm soát ung thư vú. Tuy nhiên, theo chuyên gia, siêu âm 3D có thể đánh giá hiệu quả mô tuyến vú nếu được thực hiện đúng kỹ thuật và chỉ định phù hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T13:34:00+07:00",
+      "fetched": "2026-07-16T22:25:40.172406+07:00"
+    },
+    {
+      "id": "0858030accb4b3d10917c389c28e24b3",
+      "title": "Kiện toàn 1 phó chủ tịch Hội Doanh nhân trẻ Việt Nam",
+      "link": "https://thanhnien.vn/kien-toan-1-pho-chu-tich-hoi-doanh-nhan-tre-viet-nam-185260716194200089.htm",
+      "summary": "Hội nghị của Hội Doanh nhân trẻ Việt Nam đã kiện toàn anh Phan Tấn Đạt, Ủy viên Đoàn Chủ tịch Hội Doanh nhân trẻ Việt Nam, Phó chủ tịch Hội Doanh nhân trẻ TP.HCM, giữ chức Phó chủ tịch Hội Doanh nhân trẻ Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T13:24:00+07:00",
+      "fetched": "2026-07-16T22:25:40.172521+07:00"
+    },
+    {
+      "id": "8f51ccdd384e7803dcfaa513b26e4057",
+      "title": "Nguy kịch sau uống 5 lọ thuốc chứa chất cấm",
+      "link": "https://vnexpress.net/nguy-kich-sau-uong-5-lo-thuoc-chua-chat-cam-5098315.html",
+      "summary": "Sau khi uống 5 lọ thuốc có chứa Phenylbutazone - một hoạt chất đã được cấm tại Việt Nam, người phụ nữ 72 tuổi hôn mê, phải đặt ống thở máy, lọc máu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T13:22:36+07:00",
+      "fetched": "2026-07-16T22:25:36.726018+07:00"
+    },
+    {
       "id": "011291dafb099ec9f78535b4eda623e4",
       "title": "Cụ bà suýt bị lừa 350 triệu vì tin ‘luật sư hỗ trợ thu hồi tiền lừa đảo’",
       "link": "https://thanhnien.vn/cu-ba-suyt-bi-lua-350-trieu-vi-tin-luat-su-ho-tro-thu-hoi-tien-lua-dao-185260716195521103.htm",
@@ -621,6 +1061,16 @@ window.newsData_2026_07_16 = {
       "category": "Tổng hợp",
       "published": "2026-07-16T13:12:00+07:00",
       "fetched": "2026-07-16T20:20:20.243010+07:00"
+    },
+    {
+      "id": "8cdddb0b13bfa5eea61bc117c3f08f42",
+      "title": "Quốc gia châu Âu nào phải đi qua hai nước khác mới tới biển?",
+      "link": "https://vnexpress.net/quoc-gia-chau-au-nao-phai-di-qua-hai-nuoc-khac-moi-toi-bien-5098275.html",
+      "summary": "Cả thế giới chỉ có hai nước được bao quanh hoàn toàn bởi các quốc gia cũng không giáp biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T13:08:27+07:00",
+      "fetched": "2026-07-16T22:25:36.726161+07:00"
     },
     {
       "id": "284c79119942ed70cf4cd78837f7c91f",
