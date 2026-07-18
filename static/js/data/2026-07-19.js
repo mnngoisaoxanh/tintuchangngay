@@ -1,7 +1,17 @@
 window.newsData_2026_07_19 = {
   "date": "2026-07-19",
-  "lastUpdated": "2026-07-19T03:37:22.771121+07:00",
+  "lastUpdated": "2026-07-19T05:38:31.974997+07:00",
   "articles": [
+    {
+      "id": "409ab726736ca1ae530469dc22f4daa3",
+      "title": "Tỏa sáng ở World Cup 2026, Morgan Rogers được Chelsea nhanh tay 'chốt đơn' với giá kỷ lục",
+      "link": "https://tuoitre.vn/toa-sang-o-world-cup-2026-morgan-rogers-duoc-chelsea-nhanh-tay-chot-don-voi-gia-ky-luc-100260719020908597.htm",
+      "summary": "Báo Daily Mail (Anh) đưa tin, tiền vệ 23 tuổi Morgan Rogers sẽ chính thức hoàn tất hợp đồng gia nhập Chelsea với giá kỷ lục 117 triệu bảng Anh từ Aston Vila.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:38:25.825733+07:00",
+      "fetched": "2026-07-19T05:38:25.825905+07:00"
+    },
     {
       "id": "599455c80f1bf067007d84a6ffbb3d1e",
       "title": "Con gái liệt sĩ Trần Văn Kiểu, con trai liệt sĩ Lê Thị Riêng 58 năm nghẹn lòng chờ ngày tìm được hài cốt cha, mẹ",
@@ -151,6 +161,206 @@ window.newsData_2026_07_19 = {
       "category": "Tổng hợp",
       "published": "2026-07-19T01:46:35.393192+07:00",
       "fetched": "2026-07-19T01:46:35.393331+07:00"
+    },
+    {
+      "id": "7319cdcc8c279e7b6329f5367a18771b",
+      "title": "Tiêu điểm quốc tế ngày 19.7: Ông Trump cáo buộc Trung Quốc can thiệp bầu cử | Iran tấn công căn cứ Mỹ",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-197-ong-trump-cao-buoc-trung-quoc-can-thiep-bau-cu-iran-tan-cong-can-cu-my-185260718231100818.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 19.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T22:31:00+07:00",
+      "fetched": "2026-07-19T05:38:24.106693+07:00"
+    },
+    {
+      "id": "bd60df25a65296eedad04273ad40272a",
+      "title": "Chiến sự Mỹ - Iran nguy cơ leo thang toàn diện",
+      "link": "https://thanhnien.vn/chien-su-my-iran-nguy-co-leo-thang-toan-dien-185260718201321404.htm",
+      "summary": "Rạng sáng qua 18.7, Bộ Chỉ huy Trung tâm Mỹ (CENTCOM) thông báo trên mạng xã hội rằng quân đội Mỹ đã tấn công các cơ sở giám sát, hạ tầng hậu cần quân sự, kho vũ khí ngầm và năng lực tác chiến trên biển của Iran, khép lại đêm không kích thứ 7 liên tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T22:30:00+07:00",
+      "fetched": "2026-07-19T05:38:24.106865+07:00"
+    },
+    {
+      "id": "804d91e47057e512813afc14c17a24d9",
+      "title": "Xổ số miền Nam: Nhiều người cùng xóm trúng hơn 22 tỉ, làm điều ý nghĩa",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-nhieu-nguoi-cung-xom-trung-hon-22-ti-lam-dieu-y-nghia-185260718152216149.htm",
+      "summary": "Nhiều người cùng một xóm ở Đồng Nai đã trúng hơn 22 tỉ theo kết quả xổ số miền Nam ngày 14 tháng 7 mới đây. Sau khi lãnh thưởng, họ nhờ đại lý làm điều ý nghĩa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T22:30:00+07:00",
+      "fetched": "2026-07-19T05:38:24.107004+07:00"
+    },
+    {
+      "id": "77bd7d168ac4e28c6c2733ee32e67479",
+      "title": "Mưa lũ ở miền Bắc gây nhiều thiệt hại",
+      "link": "https://thanhnien.vn/mua-lu-o-mien-bac-gay-nhieu-thiet-hai-185260718212202253.htm",
+      "summary": "Những ngày qua, một số tỉnh miền núi phía bắc đã xảy ra mưa lớn, gây ra lũ quét, sạt lở đất gây thiệt hại nghiêm trọng về tính mạng và tài sản của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T22:16:00+07:00",
+      "fetched": "2026-07-19T05:38:24.107131+07:00"
+    },
+    {
+      "id": "2787e6b6b192a33eb5ec2f48ec153a15",
+      "title": "Tử vi ngày 19 tháng 7: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-19-thang-7-con-giap-nao-may-man-hom-nay-185260718224637148.htm",
+      "summary": "Tử vi ngày 19 tháng 7 mang đến những gợi ý tham khảo cho 12 con giáp. Không phải ngày nào cũng diễn ra đúng như kế hoạch. Có thể một cuộc hẹn đổi giờ, cơn mưa làm bạn đi chậm, quán quen bất ngờ đóng cửa hay một cuộc điện thoại khiến lịch trình phải thay đổi. Điều đáng chú ý không phải là những việc ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T22:15:00+07:00",
+      "fetched": "2026-07-19T05:38:24.107261+07:00"
+    },
+    {
+      "id": "4b754c1ce410726d4aab1f22110de803",
+      "title": "Argentina và Tây Ban Nha: Hai con đường khác nhau dẫn tới trận chung kết World Cup 2026",
+      "link": "https://thanhnien.vn/argentina-va-tay-ban-nha-hai-con-duong-khac-nhau-dan-toi-tran-chung-ket-world-cup-2026-185260718193201138.htm",
+      "summary": "Đội tuyển Argentina và đội tuyển Tây Ban Nha đều góp mặt ở chung kết World Cup 2026, nhưng họ đến trận đấu cuối cùng theo hai cách hoàn toàn khác nhau. Một bên chinh phục bằng bản lĩnh của nhà vô địch, bên kia thuyết phục nhờ lối chơi kiểm soát gần như hoàn hảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T22:10:00+07:00",
+      "fetched": "2026-07-19T05:38:24.107388+07:00"
+    },
+    {
+      "id": "366869f116e817c5b698a0a3e90bd29b",
+      "title": "3 nguy cơ gây tổn thương thận khi ăn hải sản vào mùa hè",
+      "link": "https://vnexpress.net/3-nguy-co-gay-ton-thuong-than-khi-an-hai-san-vao-mua-he-5098665.html",
+      "summary": "Bác sĩ cảnh báo nguy cơ gây suy thận khi ăn hải sản mùa hè gồm nhiễm khuẩn gây mất nước, bệnh gout cấp và tích tụ kim loại nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T22:00:00+07:00",
+      "fetched": "2026-07-19T05:38:21.275755+07:00"
+    },
+    {
+      "id": "616fc42e6c6c30390706f2c37c5afc8b",
+      "title": "Suy giảm nhận thức - cuộc chiến dai dẳng sau đột quỵ",
+      "link": "https://vnexpress.net/suy-giam-nhan-thuc-cuoc-chien-dai-dang-sau-dot-quy-5098431.html",
+      "summary": "Y học giành lại sự sống cho người đột quỵ, song họ tiếp tục phải chiến đấu hồi phục trí nhớ, khả năng tư duy và quyền tự chủ của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T22:00:00+07:00",
+      "fetched": "2026-07-19T05:38:21.275965+07:00"
+    },
+    {
+      "id": "dbadb4f0257f9d2b0c65235d406a8293",
+      "title": "Nhu cầu AI có thể khiến mạng 5G nhiều quốc gia phải thiết kế lại",
+      "link": "https://vnexpress.net/nhu-cau-ai-co-the-khien-mang-5g-nhieu-quoc-gia-phai-thiet-ke-lai-5097465.html",
+      "summary": "Nhu cầu sử dụng AI đòi hỏi đường tải lên băng thông lớn, trong khi phần lớn mạng 5G hiện chỉ dành khoảng 10% cho đường tải lên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T22:00:00+07:00",
+      "fetched": "2026-07-19T05:38:21.276110+07:00"
+    },
+    {
+      "id": "67dc7942fc7a4d1e4bb0966b49ec0252",
+      "title": "Xe điện lần đầu tiên vượt doanh số xe xăng ở Đức",
+      "link": "https://vnexpress.net/xe-dien-lan-dau-tien-vuot-doanh-so-xe-xang-o-duc-5098862.html",
+      "summary": "Thị trường xe điện ghi nhận mức tăng trưởng kỷ lục trong tháng 6, cho thấy bước chuyển dịch mạnh mẽ của ngành xe Đức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T22:00:00+07:00",
+      "fetched": "2026-07-19T05:38:21.276251+07:00"
+    },
+    {
+      "id": "12b194aa92f75fc209423f11fde5ab6f",
+      "title": "Chiến sự Ukraine ngày 1.605: UAV Ukraine áp sát thủ đô Nga",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1605-uav-ukraine-ap-sat-thu-do-nga-185260718104829888.htm",
+      "summary": "Các kênh Telegram của Nga đưa tin Ukraine đã mở cuộc tấn công UAV quy mô lớn nhằm vào Moscow trong đêm 17.7 rạng sáng 18.7, được cho là nhắm đến các mục tiêu hạ tầng ở phía đông thủ đô Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T22:00:00+07:00",
+      "fetched": "2026-07-19T05:38:24.107512+07:00"
+    },
+    {
+      "id": "d464c2def48b7eac0d3ed9ad3a7d7ef7",
+      "title": "Lịch âm hôm nay 19.7: Ngày Giáp Ngọ 'cầu tài may mắn'; thế giới có ngày vui vẻ",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-197-ngay-giap-ngo-cau-tai-may-man-the-gioi-co-ngay-vui-ve-185260718090159649.htm",
+      "summary": "Theo lịch âm hôm nay 19.7 là ngày Giáp Ngọ, dân gian quan niệm đây là ngày đẹp để xuất hành sáng sớm, cầu tài gặp may mắn. Dương lịch hôm nay xuất hiện ngày lạ thú vị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T22:00:00+07:00",
+      "fetched": "2026-07-19T05:38:24.107640+07:00"
+    },
+    {
+      "id": "dbadb4f0257f9d2b0c65235d406a8293",
+      "title": "Nhu cầu AI có thể khiến mạng 5G nhiều quốc gia phải thiết kế lại",
+      "link": "https://vnexpress.net/nhu-cau-ai-co-the-khien-mang-5g-nhieu-quoc-gia-phai-thiet-ke-lai-5097465.html",
+      "summary": "Nhu cầu sử dụng AI đòi hỏi đường tải lên băng thông lớn, trong khi phần lớn mạng 5G hiện chỉ dành khoảng 10% cho đường tải lên.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-18T22:00:00+07:00",
+      "fetched": "2026-07-19T05:38:31.149900+07:00"
+    },
+    {
+      "id": "06bf276aa0458874dbc15c1c1511b342",
+      "title": "Đội tuyển Việt Nam nhảy 'điệu samba' ngọt ngào",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-nhay-dieu-samba-ngot-ngao-185260718220429628.htm",
+      "summary": "Ba ngoại binh nhập tịch gốc Brazil là Xuân Son, Hoàng Hên và Tài Lộc đã kết hợp xuất sắc, giúp đội tuyển VN thắng đậm Myanmar 4-0 ở trận giao hữu tại Thái Nguyên vào hôm qua 18.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:59:00+07:00",
+      "fetched": "2026-07-19T05:38:24.107766+07:00"
+    },
+    {
+      "id": "fe347c00d0d2ef6b696f2a41d098e56a",
+      "title": "Lau kính nhà cao tầng: Nghề đặc biệt của những 'người nhện'",
+      "link": "https://thanhnien.vn/lau-kinh-nha-cao-tang-nghe-dac-biet-cua-nhung-nguoi-nhen-185260713121901673.htm",
+      "summary": "Nghề lau kính nhà cao tầng không đòi hỏi bằng cấp, nhưng để bám trụ được lại không hề dễ. Quan trọng nhất là thần kinh phải vững và không sợ độ cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:55:00+07:00",
+      "fetched": "2026-07-19T05:38:24.107907+07:00"
+    },
+    {
+      "id": "891898f79d896876788cb046f1f69f2a",
+      "title": "Bản làng tại Mường Than tan hoang sau trận lũ quét kinh hoàng",
+      "link": "https://thanhnien.vn/ban-lang-tai-muong-than-tan-hoang-sau-tran-lu-quet-kinh-hoang-185260718221344336.htm",
+      "summary": "Chiều 18.7.2026, tại Mường Than, Lai Châu vẫn tiếp tục mưa lớn. Trận lũ quét đã cuốn bay nhà cửa của nhiều hộ dân, khiến bản làng yên bình giờ đây rơi vào cảnh tan hoang, đổ nát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:53:00+07:00",
+      "fetched": "2026-07-19T05:38:24.108037+07:00"
+    },
+    {
+      "id": "927a763fda5ec66d03fbc8788a533d97",
+      "title": "50 năm thân nhân tìm liệt sĩ Trường Sa: Chỉ huy đầu tiên ngã xuống ở đảo Sinh Tồn",
+      "link": "https://thanhnien.vn/50-nam-than-nhan-tim-liet-si-truong-sa-chi-huy-dau-tien-nga-xuong-o-dao-sinh-ton-185260718150818016.htm",
+      "summary": "Suốt 50 năm, ông Trần Văn Hảo và gia đình mỏi mòn tìm thông tin về người anh được cho là đã hy sinh tại đảo Sinh Tồn năm 1976. Qua hành trình tìm lại các đồng đội cũ của trung úy Trần Văn Khôi, Báo Thanh Niên ghi lại những hồi ức góp phần hé mở hành trình tìm lại danh tính người lính Trường Sa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:38:00+07:00",
+      "fetched": "2026-07-19T05:38:24.108163+07:00"
+    },
+    {
+      "id": "5b3baccacce6a93dd773587bdfa594d9",
+      "title": "Cá từ biển lên rừng: Cá chuồn muối từ Hoàng Sa",
+      "link": "https://thanhnien.vn/ca-tu-bien-len-rung-ca-chuon-muoi-tu-hoang-sa-185260706120339625.htm",
+      "summary": "Cá chuồn muối mặn nấu mít non ăn cùng cơm lúa rẫy ngon lắm. Thịt cá mặn mà kết hợp với mít non tạo nên vị ngọt thanh hòa cùng ớt cay khiến nhiều người xuýt xoa khen ngợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:36:00+07:00",
+      "fetched": "2026-07-19T05:38:24.108286+07:00"
+    },
+    {
+      "id": "f012c8ba8031e848e7b231c4df15aa08",
+      "title": "Làm thủ tục đất đai sẽ không phải nộp thêm giấy tờ ngoài quy định",
+      "link": "https://thanhnien.vn/lam-thu-tuc-dat-dai-se-khong-phai-nop-them-giay-to-ngoai-quy-dinh-185260718184030164.htm",
+      "summary": "Bộ Tài chính yêu cầu các địa phương xử lý 100% hồ sơ đất đai bằng điện tử, không yêu cầu người dân, doanh nghiệp nộp thêm giấy tờ ngoài quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:26:00+07:00",
+      "fetched": "2026-07-19T05:38:24.108409+07:00"
+    },
+    {
+      "id": "bc3737bed9f3906774499696efa53a76",
+      "title": "World Cup 2026, Pháp 3-4 Anh: Mbappe ghi bàn thắng thứ 10 tại giải",
+      "link": "https://thanhnien.vn/truc-tiep-world-cup-2026-phap-anh-ai-se-nhan-qua-an-ui-185260718121932776.htm",
+      "summary": "Đội tuyển Anh đang tạm dẫn trước đội Pháp với tỷ số 4-3 trong trận tranh hạng ba World Cup (diễn ra lúc 4 giờ ngày 19.7 trên sân Hard Rock ở Miami Gardens).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T20:47:00+07:00",
+      "fetched": "2026-07-19T05:38:24.108535+07:00"
     },
     {
       "id": "669f04bdb2ae3ee4499990e4a5087f55",
