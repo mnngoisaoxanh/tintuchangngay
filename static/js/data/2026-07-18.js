@@ -1,7 +1,157 @@
 window.newsData_2026_07_18 = {
   "date": "2026-07-18",
-  "lastUpdated": "2026-07-18T16:15:11.610374+07:00",
+  "lastUpdated": "2026-07-18T17:55:32.238378+07:00",
   "articles": [
+    {
+      "id": "7b7e460879fce66acd466ff94dac37a3",
+      "title": "Điện Biên tăng tốc trồng cà phê",
+      "link": "https://tuoitre.vn/dien-bien-tang-toc-trong-ca-phe-100260718153208192.htm",
+      "summary": "Lãnh đạo Sở Nông nghiệp và Môi trường tỉnh Điện Biên cho biết trong 5 năm tới, tỉnh dự kiến mở rộng diện tích cà phê Arabica lên khoảng 20.000ha. Tuy nhiên, nhiều ý kiến lo khi trồng ồ ạt nhưng đầu ra không đảm bảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T17:55:26.860355+07:00",
+      "fetched": "2026-07-18T17:55:26.860444+07:00"
+    },
+    {
+      "id": "869427e3ee760061e4e28055d7666baa",
+      "title": "Sầu riêng, chôm chôm, măng cụt miền Tây đồng loạt rớt giá, nhà vườn than 'làm cả năm không công'",
+      "link": "https://tuoitre.vn/sau-rieng-chom-chom-mang-cut-mien-tay-dong-loat-rot-gia-nha-vuon-than-lam-ca-nam-khong-cong-100260718151209299.htm",
+      "summary": "Miền Tây bước vào cao điểm thu hoạch nhãn, chôm chôm, sầu riêng, măng cụt... nhưng giá đồng loạt giảm mạnh, nhà vườn không có lời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T17:55:26.860280+07:00",
+      "fetched": "2026-07-18T17:55:26.860344+07:00"
+    },
+    {
+      "id": "8e409eccf6d93407d5f4a63a3635d51d",
+      "title": "Điều gì đang diễn ra trên thị trường lãi suất: niêm yết 6%/năm, thực nhận tới 9%/năm?",
+      "link": "https://tuoitre.vn/dieu-gi-dang-dien-ra-tren-thi-truong-lai-suat-niem-yet-6-nam-thuc-nhan-toi-9-nam-100260718155349624.htm",
+      "summary": "Những ngày gần đây, người gửi tiền hoa mắt trước lãi suất huy động của ngân hàng. Trên trang web chính thức, lãi suất huy động kỳ hạn 6 tháng chỉ quanh 6%/năm, nhưng người gửi có thể thực nhận đến 9%/năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T17:55:26.860152+07:00",
+      "fetched": "2026-07-18T17:55:26.860265+07:00"
+    },
+    {
+      "id": "d3736531ac6bb501329ef88aefd333f6",
+      "title": "Nhiều thành phố lớn ở Mỹ chìm trong khói mù nguy hại do cháy rừng từ Canada",
+      "link": "https://tuoitre.vn/nhieu-thanh-pho-lon-o-my-chim-trong-khoi-mu-nguy-hai-do-chay-rung-tu-canada-100260718135801587.htm",
+      "summary": "Nhiều bang miền đông Mỹ chìm trong khói cháy rừng từ Canada, người dân được khuyến cáo hạn chế ra ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T17:55:26.860011+07:00",
+      "fetched": "2026-07-18T17:55:26.860131+07:00"
+    },
+    {
+      "id": "53480aa19ddd2e83f0df17ebe3ed827f",
+      "title": "Thả con vích nặng khoảng 120kg dài gần 1m về biển Cà Mau",
+      "link": "https://tuoitre.vn/tha-con-vich-nang-khoang-120kg-dai-gan-1m-ve-bien-ca-mau-100260718155442307.htm",
+      "summary": "Một con vích dài khoảng 1m, nặng khoảng 120kg dính lưới ngư dân vừa được cứu và lực lượng chức năng đã phối hợp thả về biển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T17:55:26.859927+07:00",
+      "fetched": "2026-07-18T17:55:26.859995+07:00"
+    },
+    {
+      "id": "cb21bcee7c5072128c3773cb1d36c353",
+      "title": "Cần Thơ hỗ trợ tối đa 50 tỉ đồng xây dựng hạ tầng cụm công nghiệp",
+      "link": "https://tuoitre.vn/can-tho-ho-tro-toi-da-50-ti-dong-xay-dung-ha-tang-cum-cong-nghiep-100260718154902266.htm",
+      "summary": "TP Cần Thơ triển khai chính sách hỗ trợ đầu tư hạ tầng kỹ thuật cụm công nghiệp, mức cao nhất 50 tỉ đồng/cụm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T17:55:26.859566+07:00",
+      "fetched": "2026-07-18T17:55:26.859911+07:00"
+    },
+    {
+      "id": "50a1fbd6efac9e5f411843365e6547ce",
+      "title": "Nhịp đập metro",
+      "link": "https://tuoitre.vn/nhip-dap-metro-100260718161705185.htm",
+      "summary": "Nhìn về chặng đường 50 năm tiếp theo của TP.HCM, tôi mơ về một mạng lưới đường sắt đô thị hiện đại phủ khắp các ngả đường, giúp giảm thiểu ùn tắc, bảo vệ môi trường và kiến tạo một lối sống văn minh cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T17:55:26.859497+07:00",
+      "fetched": "2026-07-18T17:55:26.859556+07:00"
+    },
+    {
+      "id": "37bdb608bda5344cfa17aab6008cba15",
+      "title": "Ông Zelensky đưa ra lộ trình 5 điểm để hàn gắn quan hệ với Ba Lan",
+      "link": "https://tuoitre.vn/ong-zelensky-dua-ra-lo-trinh-5-diem-de-han-gan-quan-he-voi-ba-lan-100260718153716738.htm",
+      "summary": "Ông Zelensky đưa ra lộ trình 5 điểm nhằm giải quyết các tranh chấp lịch sử và cải thiện quan hệ Kiev - Warsaw.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T17:55:26.859430+07:00",
+      "fetched": "2026-07-18T17:55:26.859486+07:00"
+    },
+    {
+      "id": "ddf036c069f780faecd2c2a419f9abe6",
+      "title": "Bí ẩn ca khúc vang lên trước giờ bóng lăn ở World Cup 2026",
+      "link": "https://tuoitre.vn/bi-an-ca-khuc-vang-len-truoc-gio-bong-lan-o-world-cup-2026-100260718160746896.htm",
+      "summary": "Âm nhạc trước trận đấu của FIFA liên tục thay đổi với sự góp mặt của Shakira, Burna Boy và Andrea Bocelli, nhưng một bản hit bất ngờ lại đang khiến người hâm mộ bối rối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T17:55:26.859361+07:00",
+      "fetched": "2026-07-18T17:55:26.859420+07:00"
+    },
+    {
+      "id": "860a59010162d7d637e18f9f93c98245",
+      "title": "Rita Ora diện đầm đỏ của Đỗ Long trên thảm đỏ Hollywood",
+      "link": "https://tuoitre.vn/rita-ora-dien-dam-do-cua-do-long-tren-tham-do-hollywood-100260718160932519.htm",
+      "summary": "Ca sĩ, diễn viên Rita Ora trở thành tâm điểm tại buổi công chiếu bộ phim Descendants: Wicked Wonderland ở Los Angeles khi diện đầm đỏ xuyên thấu của nhà thiết kế Đỗ Long.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T17:55:26.859280+07:00",
+      "fetched": "2026-07-18T17:55:26.859350+07:00"
+    },
+    {
+      "id": "154419cbb5dae8b59ee81498f2413465",
+      "title": "Vợ bị 18 tháng tù vì chở chồng nhậu về gặp tai nạn chồng tử vong: Luật sư, kiểm sát viên nói cần có sự khoan hồng",
+      "link": "https://tuoitre.vn/vo-bi-18-thang-tu-vi-cho-chong-nhau-ve-gap-tai-nan-chong-tu-vong-luat-su-kiem-sat-vien-noi-can-co-su-khoan-hong-100260718153745226.htm",
+      "summary": "Bị Tòa án nhân dân tỉnh Cà Mau tuyên 18 tháng tù giam với tội \"Vi phạm quy định về giao thông đường bộ\" chị Nhị đứng trước nguy cơ gia đình tan vỡ khi chồng mất, các con không được học hành\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T17:55:26.859182+07:00",
+      "fetched": "2026-07-18T17:55:26.859267+07:00"
+    },
+    {
+      "id": "5c7681b310d83b0ca70d599383502a48",
+      "title": "Công đoàn Ngân hàng Việt Nam đánh bại SACOMBANK trên chấm luân lưu",
+      "link": "https://tuoitre.vn/cong-doan-ngan-hang-viet-nam-danh-bai-sacombank-tren-cham-luan-luu-100260718162009209.htm",
+      "summary": "Chiều 18-7, Công đoàn Ngân hàng Việt Nam giành chiến thắng trước SACOMBANK ở bán kết Vòng chung kết (VCK) toàn quốc Giải bóng đá công nhân, viên chức Việt Nam 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T17:55:26.859110+07:00",
+      "fetched": "2026-07-18T17:55:26.859171+07:00"
+    },
+    {
+      "id": "44898206c6d3e5812f94c044e3d6ffef",
+      "title": "Từng tự ti vì học trường nghề, nữ sinh TP.HCM vào chung kết cuộc thi thiết kế quốc tế",
+      "link": "https://tuoitre.vn/tung-tu-ti-vi-hoc-truong-nghe-nu-sinh-tphcm-vao-chung-ket-cuoc-thi-thiet-ke-quoc-te-1002607181320216.htm",
+      "summary": "Từng tự ti vì học trường nghề sau khi trượt THPT công lập, Đặng Phương Thảo (18 tuổi, TP.HCM) nay là học sinh trường nghề duy nhất vào chung kết Real Leather. Stay Different Vietnam 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T17:55:26.859018+07:00",
+      "fetched": "2026-07-18T17:55:26.859097+07:00"
+    },
+    {
+      "id": "1e408e5d9cb914f2f967a6b3b6e04b6c",
+      "title": "Đắk Lắk yêu cầu tiếp tục thu hồi hơn 525ha đất của Công ty cổ phần cà phê Thắng Lợi",
+      "link": "https://tuoitre.vn/dak-lak-yeu-cau-tiep-tuc-thu-hoi-hon-525ha-dat-cua-cong-ty-co-phan-ca-phe-thang-loi-100260718154657579.htm",
+      "summary": "UBND tỉnh Đắk Lắk yêu cầu các đơn vị tiếp tục thực hiện quyết định thu hồi hơn 525ha đất của Công ty cổ phần cà phê Thắng Lợi theo kết luận thanh tra về sai phạm \"khoán trắng\", \"khoán gọn\" của doanh nghiệp này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T17:55:26.858934+07:00",
+      "fetched": "2026-07-18T17:55:26.859006+07:00"
+    },
+    {
+      "id": "babbbc6eb33342ef9e6648c1b10a6bcb",
+      "title": "Vitamin C có thể giúp giảm hình thành hợp chất liên quan nguy cơ ung thư",
+      "link": "https://tuoitre.vn/vitamin-c-co-the-giup-giam-hinh-thanh-hop-chat-lien-quan-nguy-co-ung-thu-100260717222604076.htm",
+      "summary": "Một nghiên cứu mới của Đại học Waterloo (Canada) cho thấy vitamin C có thể làm giảm quá trình hình thành các hợp chất N-nitroso trong dạ dày, nhóm chất được cho là có liên quan đến nguy cơ một số loại ung thư đường tiêu hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T17:55:26.858770+07:00",
+      "fetched": "2026-07-18T17:55:26.858917+07:00"
+    },
     {
       "id": "a506791469f8c940e4129883511af4e4",
       "title": "Trung Đông trưa 18-7: Iran tấn công tàu Mỹ ở Ấn Độ Dương, cảnh báo trả đũa các nước cho Mỹ đóng quân",
@@ -433,6 +583,276 @@ window.newsData_2026_07_18 = {
       "fetched": "2026-07-18T11:39:00.803665+07:00"
     },
     {
+      "id": "994623f1c4e89f27047945a77bb19d19",
+      "title": "Hơn 20 năm, chưa thế hệ nào vượt qua dàn 'tứ đại hoa đán' Trung Quốc",
+      "link": "https://thanhnien.vn/hon-20-nam-chua-the-he-nao-vuot-qua-dan-tu-dai-hoa-dan-trung-quoc-185260718160916265.htm",
+      "summary": "Dù làng giải trí Hoa ngữ liên tục sản sinh những thế hệ ngôi sao mới, hơn hai thập kỷ trôi qua, 'tứ đại hoa đán' vẫn được xem là chuẩn mực của một minh tinh hàng đầu. Tài năng diễn xuất, sức ảnh hưởng mạnh mẽ cùng những tác phẩm kinh điển đã giúp họ giữ vững vị thế mà đến nay vẫn chưa có thế hệ nào ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T10:33:00+07:00",
+      "fetched": "2026-07-18T17:55:25.511555+07:00"
+    },
+    {
+      "id": "7102d4e3d13317b07ce02df53765375a",
+      "title": "Việt Nam đấu Myanmar: Lê Giang Patrick bắt chính, hàng công cực mạnh Xuân Son, Hoàng Hên và Tài Lộc",
+      "link": "https://thanhnien.vn/viet-nam-dau-myanmar-le-giang-patrick-bat-chinh-hang-cong-cuc-manh-xuan-son-hoang-hen-va-tai-loc-185260718144303038.htm",
+      "summary": "Chiều 18.7, đội tuyển Việt Nam ra sân với đội hình mạnh, quyết giành chiến thắng trước Myanmar để có bước chạy đà hoàn hảo cho ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T10:31:00+07:00",
+      "fetched": "2026-07-18T17:55:25.511739+07:00"
+    },
+    {
+      "id": "b983cbf91c696fbfb6bedd5e1c0e7117",
+      "title": "CEO hai thập kỷ giải cứu trẻ: 'Đừng nhìn khiếm khuyết, hãy xem các em có tiềm năng gì'",
+      "link": "https://vnexpress.net/ceo-hai-thap-ky-giai-cuu-tre-dung-nhin-khiem-khuyet-hay-xem-cac-em-co-tiem-nang-gi-5098905.html",
+      "summary": "Từng tự tin hơn nhờ những lời động viên từ người lạ, Đỗ Duy Vị áp dụng chính bài học này vào hành trình giải cứu trẻ đường phố tại Blue Dragon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T10:26:11+07:00",
+      "fetched": "2026-07-18T17:55:23.073747+07:00"
+    },
+    {
+      "id": "dcead0a017896680a8f9d06d1191aae1",
+      "title": "Xổ số miền Nam ngày 18 tháng 7: Một người vừa trúng cọc vé đài Hậu Giang",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-18-thang-7-mot-nguoi-vua-trung-coc-ve-dai-hau-giang-185260718172238631.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 18 tháng 7, một người mua cọc vé gồm 160 tờ trúng số đài Hậu Giang đã lãnh thưởng bằng hình thức chuyển khoản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T10:26:00+07:00",
+      "fetched": "2026-07-18T17:55:25.511905+07:00"
+    },
+    {
+      "id": "37b051d0f9bf348e0b4eb00662479269",
+      "title": "Phạm Tuấn Hải bất ngờ chia tay CLB Hà Nội, bến đỗ mới chưa được tiết lộ",
+      "link": "https://thanhnien.vn/pham-tuan-hai-bat-ngo-chia-tay-clb-ha-noi-ben-do-moi-chua-duoc-tiet-lo-185260718172100523.htm",
+      "summary": "Sau 4 mùa giải gắn bó, tiền đạo Phạm Tuấn Hải chính thức nói lời chia tay CLB Hà Nội. Anh rời đội bóng thủ đô với nhiều thành tích đáng tự hào và là một trong những nhân tố quan trọng góp phần mang về cú ăn ba lịch sử ở mùa giải 2022.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T10:26:00+07:00",
+      "fetched": "2026-07-18T17:55:25.512075+07:00"
+    },
+    {
+      "id": "08102ccd40692a7387b4d7b42ab68346",
+      "title": "Cuộc hôn nhân hàng triệu cô gái mơ ước của Anne Hathaway và chồng tài tử",
+      "link": "https://thanhnien.vn/cuoc-hon-nhan-hang-trieu-co-gai-mo-uoc-cua-anne-hathaway-va-chong-tai-tu-18526071814220489.htm",
+      "summary": "Anne Hathaway không chỉ gặt hái thành công rực rỡ trong sự nghiệp mà còn có cuộc hôn nhân hạnh phúc bên chồng là diễn viên, nhà sản xuất Adam Shulman. Sau hơn một thập kỷ gắn bó, cả hai đang chuẩn bị chào đón người con thứ ba, tiếp tục viết nên câu chuyện tình yêu khiến nhiều người ngưỡng mộ, E! New...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T10:21:00+07:00",
+      "fetched": "2026-07-18T17:55:25.512260+07:00"
+    },
+    {
+      "id": "154ef6e0b1ba8718578d7791ee1137e2",
+      "title": "Rực rỡ thương hiệu 'HLV Tây Ban Nha'",
+      "link": "https://thanhnien.vn/ruc-ro-thuong-hieu-hlv-tay-ban-nha-185260717211457304.htm",
+      "summary": "Bức ảnh Lionel Messi tắm cho chú bé 5 tháng tuổi Lamine Yamal đã trở thành biểu tượng, quá quen thuộc trong những ngày này. Ngược lại là hình ảnh ít ai biết đến: De La Fuente trên bục giảng, với học trò Scaloni ngồi ngay bàn đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T10:20:00+07:00",
+      "fetched": "2026-07-18T17:55:25.512432+07:00"
+    },
+    {
+      "id": "d75a6edf464dc6876058ac676d92984e",
+      "title": "Không phải áo dài, Gen Z có thêm lựa chọn mới cho trang phục trong ngày tốt nghiệp",
+      "link": "https://thanhnien.vn/khong-phai-ao-dai-gen-z-co-them-lua-chon-moi-cho-trang-phuc-trong-ngay-tot-nghiep-185260718103800558.htm",
+      "summary": "Thay vì mặc váy hay áo dài như nhiều thế hệ trước, ngày càng nhiều sinh viên lựa chọn mặc Việt phục trong ngày lễ tốt nghiệp. Với họ, đây không đơn thuần là một bộ trang phục để chụp ảnh mà còn là cách lưu giữ một cột mốc trưởng thành bằng dấu ấn văn hóa dân tộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T10:19:00+07:00",
+      "fetched": "2026-07-18T17:55:25.512591+07:00"
+    },
+    {
+      "id": "8ea4d48c640ffa5144353c82f5683dea",
+      "title": "Vì sao thức ăn nấu bằng nồi áp suất không ngon?",
+      "link": "https://vnexpress.net/vi-sao-thuc-an-nau-bang-noi-ap-suat-khong-ngon-5098937.html",
+      "summary": "Việc đun nấu trong môi trường kín ở nhiệt độ cao của nồi áp suất phá hủy nhiều hợp chất tạo hương thơm và ngăn cản quá trình tạo màu sắc cho món ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T10:18:03+07:00",
+      "fetched": "2026-07-18T17:55:23.073938+07:00"
+    },
+    {
+      "id": "5d0a9c24be6ae56ad998a9244eb815a2",
+      "title": "150 công an đồng loạt kiểm tra lưu trú 6 tòa chung cư ở Đà Nẵng",
+      "link": "https://vnexpress.net/150-cong-an-dong-loat-kiem-tra-luu-tru-6-toa-chung-cu-o-da-nang-5098958.html",
+      "summary": "Công an phường Hải Châu huy động 150 cán bộ, chiến sĩ và lực lượng an ninh cơ sở đồng loạt kiểm tra cư trú tại 6 tòa nhà chung cư, phát hiện 6 người dương tính với ma túy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T10:16:37+07:00",
+      "fetched": "2026-07-18T17:55:23.074107+07:00"
+    },
+    {
+      "id": "85f2a10ab90ec32bc33dea5cda2f242f",
+      "title": "Thủ tướng cam kết xử lý đến cùng kiến nghị của doanh nghiệp",
+      "link": "https://vnexpress.net/thu-tuong-cam-ket-xu-ly-den-cung-kien-nghi-cua-doanh-nghiep-5098965.html",
+      "summary": "Thủ tướng Lê Minh Hưng khẳng định kiến nghị của doanh nghiệp sẽ được xử lý đến cùng; bộ ngành, địa phương khi trả lời phải công khai để người dân đánh giá hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T10:16:18+07:00",
+      "fetched": "2026-07-18T17:55:23.074305+07:00"
+    },
+    {
+      "id": "85f2a10ab90ec32bc33dea5cda2f242f",
+      "title": "Thủ tướng cam kết xử lý đến cùng kiến nghị của doanh nghiệp",
+      "link": "https://vnexpress.net/thu-tuong-cam-ket-xu-ly-den-cung-kien-nghi-cua-doanh-nghiep-5098965.html",
+      "summary": "Thủ tướng Lê Minh Hưng khẳng định kiến nghị của doanh nghiệp sẽ được xử lý đến cùng; bộ ngành, địa phương khi trả lời phải công khai để người dân đánh giá hiệu quả.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-18T10:16:18+07:00",
+      "fetched": "2026-07-18T17:55:28.999364+07:00"
+    },
+    {
+      "id": "17d9680ca2080033f246b69fac314a82",
+      "title": "Thêm nhà máy khử mặn của Kuwait bị tập kích",
+      "link": "https://vnexpress.net/them-nha-may-khu-man-cua-kuwait-bi-tap-kich-5098951.html",
+      "summary": "Giới chức Kuwait cáo buộc Iran tấn công thêm một nhà máy điện và khử mặn, gây hỏa hoạn tại cơ sở này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T10:14:29+07:00",
+      "fetched": "2026-07-18T17:55:23.074472+07:00"
+    },
+    {
+      "id": "17d9680ca2080033f246b69fac314a82",
+      "title": "Thêm nhà máy khử mặn của Kuwait bị tập kích",
+      "link": "https://vnexpress.net/them-nha-may-khu-man-cua-kuwait-bi-tap-kich-5098951.html",
+      "summary": "Giới chức Kuwait cáo buộc Iran tấn công thêm một nhà máy điện và khử mặn, gây hỏa hoạn tại cơ sở này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-18T10:14:29+07:00",
+      "fetched": "2026-07-18T17:55:27.913478+07:00"
+    },
+    {
+      "id": "f50c90d911b22e08732a210acd4b0b51",
+      "title": "Phim Châu Tinh Trì bị phản ứng vì 'chế giễu đội bóng Hàn'",
+      "link": "https://vnexpress.net/phim-chau-tinh-tri-bi-phan-ung-vi-che-gieu-doi-bong-han-5098963.html",
+      "summary": "Một giáo sư đại học ở Hàn Quốc cho rằng \"Kungfu nữ túc\" do Châu Tinh Trì đạo diễn có tình tiết châm biếm phụ nữ Hàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T10:13:22+07:00",
+      "fetched": "2026-07-18T17:55:23.074631+07:00"
+    },
+    {
+      "id": "9ab7cd95d0e7334c14d39087a4cf16ea",
+      "title": "Buổi xế chiều nên ăn gì? Chuyên gia gợi ý món quen thuộc",
+      "link": "https://thanhnien.vn/buoi-xe-chieu-nen-an-gi-chuyen-gia-goi-y-mon-quen-thuoc-185260718170321766.htm",
+      "summary": "Khoảng 15 - 17 giờ là thời điểm nhiều người bắt đầu thấy đói và mất năng lượng. Thay vì chọn bánh ngọt, trà sữa hay đồ chiên rán, các chuyên gia dinh dưỡng khuyến khích dùng một bữa xế lành mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T10:02:00+07:00",
+      "fetched": "2026-07-18T17:55:25.512742+07:00"
+    },
+    {
+      "id": "6c36489769beb64eac0d93bcd956c42f",
+      "title": "ShopeeFood đầu tư giải pháp mới, tăng cơ hội kinh doanh cho đối tác",
+      "link": "https://vnexpress.net/shopeefood-dau-tu-giai-phap-moi-tang-co-hoi-kinh-doanh-cho-doi-tac-5098982.html",
+      "summary": "ShopeeFood giới thiệu nhiều giải pháp mới, hướng tới thúc đẩy tăng trưởng và mở rộng cơ hội kinh doanh cho đối tác tại Hội nghị vinh danh nhà hàng và đối tác 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T10:00:00+07:00",
+      "fetched": "2026-07-18T17:55:23.074786+07:00"
+    },
+    {
+      "id": "e3e482b33235c1f4ed669fe7512e478b",
+      "title": "Điểm tin 17h: Miền Bắc tiếp tục mưa lớn | Giáo viên nghỉ hưu được ký hợp đồng dạy toàn thời gian",
+      "link": "https://vnexpress.net/diem-tin-17h-mien-bac-tiep-tuc-mua-lon-giao-vien-nghi-huu-duoc-ky-hop-dong-day-toan-thoi-gian-5098977.html",
+      "summary": "Dự án chống ngập lớn nhất TP HCM phát sinh hơn 2.500 tỷ đồng lãi vay; Mỹ dọa tăng thuế với Canada vì khói cháy rừng...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T10:00:00+07:00",
+      "fetched": "2026-07-18T17:55:23.074955+07:00"
+    },
+    {
+      "id": "605e3aaa2d2ca9d761d9eea4c734d547",
+      "title": "Kích thích buồng trứng nhiều lần có gây mãn kinh sớm?",
+      "link": "https://vnexpress.net/kich-thich-buong-trung-nhieu-lan-co-gay-man-kinh-som-5098906.html",
+      "summary": "Tôi có chỉ số dự trữ buồng trứng (AMH) 0,7 ng/mL, bác sĩ tư vấn nên gom trứng để thụ tinh ống nghiệm. Kích thích buồng trứng nhiều lần có gây mãn kinh sớm không? (Hà, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T10:00:00+07:00",
+      "fetched": "2026-07-18T17:55:23.075125+07:00"
+    },
+    {
+      "id": "1fe1323f93fda6c9ae858301d28ead13",
+      "title": "Toàn cảnh 17h: Lời kể lũ dữ cuốn trôi cả gia đình | Xác minh vụ cô giáo mầm non bắt trẻ ngủ trước toilet",
+      "link": "https://thanhnien.vn/toan-canh-17h-loi-ke-lu-du-cuon-troi-ca-gia-dinh-xac-minh-vu-co-giao-mam-non-bat-tre-ngu-truoc-toilet-18526071816113696.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T10:00:00+07:00",
+      "fetched": "2026-07-18T17:55:25.512900+07:00"
+    },
+    {
+      "id": "afac33e7d7cbb952ba02407f08f70e68",
+      "title": "Giáo sư Vũ Tuyên Hoàng được đặt tên phố ở Thủ đô",
+      "link": "https://vnexpress.net/giao-su-vu-tuyen-hoang-duoc-dat-ten-pho-o-thu-do-5098968.html",
+      "summary": "Cố giáo sư Vũ Tuyên Hoàng, nhà nông nghiệp, nhà di truyền học lớn ở châu Á - Thái Bình Dương, được đặt tên cho tuyến phố dài hơn 1,4 km tại phường Hoàng Liệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T09:56:40+07:00",
+      "fetched": "2026-07-18T17:55:23.075315+07:00"
+    },
+    {
+      "id": "2bf25a6cdfe4e6e0b4161aedf8426387",
+      "title": "'Lãng phí giờ vàng nếu cấm dừng, đỗ xe từ 6h đến 22h'",
+      "link": "https://vnexpress.net/lang-phi-gio-vang-neu-cam-dung-do-xe-tu-6h-den-22h-5098952.html",
+      "summary": "Nhiều tuyến đường ở TP HCM vẫn bị cấm dừng, đỗ xe sau 19h dù thực tế lưu lượng phương tiện đã giảm đáng kể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T09:52:48+07:00",
+      "fetched": "2026-07-18T17:55:23.075488+07:00"
+    },
+    {
+      "id": "2539c7d83b64cfcd38554c75da046680",
+      "title": "Argentina sẽ khóa Lamine Yamal như thế nào ở chung kết World Cup 2026?",
+      "link": "https://thanhnien.vn/argentina-se-khoa-lamine-yamal-nhu-the-nao-o-chung-ket-world-cup-2026-185260718162443658.htm",
+      "summary": "Lamine Yamal là mũi nhọn nguy hiểm nhất của đội tuyển Tây Ban Nha trước trận chung kết World Cup 2026. Tuy nhiên, HLV Lionel Scaloni hiểu rằng Argentina không thể chỉ tập trung vào một cá nhân nếu muốn bảo vệ thành công ngôi vô địch thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T09:38:00+07:00",
+      "fetched": "2026-07-18T17:55:25.513051+07:00"
+    },
+    {
+      "id": "72d51de06b83a8554a544efda2f1ede4",
+      "title": "Apple yêu cầu 40 cựu nhân viên không xóa dữ liệu",
+      "link": "https://vnexpress.net/apple-yeu-cau-40-cuu-nhan-vien-khong-xoa-du-lieu-5098761.html",
+      "summary": "Apple gửi thư cảnh báo pháp lý đến khoảng 40 cựu nhân viên hiện làm tại OpenAI, yêu cầu lưu trữ toàn bộ tài liệu liên quan trong vụ kiện đánh cắp bí mật công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T09:35:34+07:00",
+      "fetched": "2026-07-18T17:55:23.075649+07:00"
+    },
+    {
+      "id": "72d51de06b83a8554a544efda2f1ede4",
+      "title": "Apple yêu cầu 40 cựu nhân viên không xóa dữ liệu",
+      "link": "https://vnexpress.net/apple-yeu-cau-40-cuu-nhan-vien-khong-xoa-du-lieu-5098761.html",
+      "summary": "Apple gửi thư cảnh báo pháp lý đến khoảng 40 cựu nhân viên hiện làm tại OpenAI, yêu cầu lưu trữ toàn bộ tài liệu liên quan trong vụ kiện đánh cắp bí mật công nghệ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-18T09:35:34+07:00",
+      "fetched": "2026-07-18T17:55:31.338697+07:00"
+    },
+    {
+      "id": "b5cf9f9afb5574745a5d48059b662af3",
+      "title": "Liên hiệp các Hội VH-NT TP.HCM hướng tới tự chủ tài chính",
+      "link": "https://thanhnien.vn/lien-hiep-cac-hoi-vh-nt-tphcm-huong-toi-tu-chu-tai-chinh-185260718124107917.htm",
+      "summary": "Trong nhiệm kỳ 2026 - 2031, Liên hiệp các Hội VH-NT TP.HCM đặt mục tiêu từng bước tự chủ tài chính, giảm phụ thuộc ngân sách, tăng cường xã hội hóa và thực hiện các nhiệm vụ theo cơ chế đặt hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T09:31:00+07:00",
+      "fetched": "2026-07-18T17:55:25.513200+07:00"
+    },
+    {
+      "id": "3a445b02651bae53016e3fd915fcbe43",
+      "title": "Bạch Lộc, Triệu Lệ Dĩnh... rời công ty, chuyện gì đang xảy ra với sao Hoa ngữ?",
+      "link": "https://thanhnien.vn/bach-loc-trieu-le-dinh-roi-cong-ty-chuyen-gi-dang-xay-ra-voi-sao-hoa-ngu-185260718133203953.htm",
+      "summary": "Từ Dương Mịch, Triệu Lệ Dĩnh đến Bạch Lộc, ngày càng nhiều ngôi sao hàng đầu Trung Quốc lựa chọn hoạt động độc lập. Đằng sau lựa chọn này là những thay đổi đáng chú ý của thị trường giải trí Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T09:21:00+07:00",
+      "fetched": "2026-07-18T17:55:25.513386+07:00"
+    },
+    {
       "id": "2fcf6e0c81bd16552ca48fd6116dd091",
       "title": "Nữ diễn viên phim 'Ở nhà một mình' qua đời",
       "link": "https://thanhnien.vn/nu-dien-vien-phim-o-nha-mot-minh-qua-doi-185260718161348349.htm",
@@ -453,6 +873,26 @@ window.newsData_2026_07_18 = {
       "fetched": "2026-07-18T16:15:05.620128+07:00"
     },
     {
+      "id": "d61a607466a957d09f9a0f51c5e4b4b8",
+      "title": "HLV Tây Ban Nha không cắt cử người kèm Messi",
+      "link": "https://vnexpress.net/hlv-tay-ban-nha-khong-cat-cu-nguoi-kem-messi-5098911.html",
+      "summary": "HLV Luis de la Fuente khẳng định Tây Ban Nha sẽ không cử một cầu thủ theo kèm Lionel Messi khi gặp Argentina ở chung kết World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T09:08:12+07:00",
+      "fetched": "2026-07-18T17:55:23.075808+07:00"
+    },
+    {
+      "id": "d61a607466a957d09f9a0f51c5e4b4b8",
+      "title": "HLV Tây Ban Nha không cắt cử người kèm Messi",
+      "link": "https://vnexpress.net/hlv-tay-ban-nha-khong-cat-cu-nguoi-kem-messi-5098911.html",
+      "summary": "HLV Luis de la Fuente khẳng định Tây Ban Nha sẽ không cử một cầu thủ theo kèm Lionel Messi khi gặp Argentina ở chung kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-18T09:08:12+07:00",
+      "fetched": "2026-07-18T17:55:32.228006+07:00"
+    },
+    {
       "id": "5333ba9907449a03e03440fb9149dc90",
       "title": "Thủ tướng: Kiến nghị của doanh nghiệp phải được xử lý đến cùng",
       "link": "https://thanhnien.vn/thu-tuong-kien-nghi-cua-doanh-nghiep-phai-duoc-xu-ly-den-cung-185260718154150425.htm",
@@ -463,6 +903,26 @@ window.newsData_2026_07_18 = {
       "fetched": "2026-07-18T16:15:05.620287+07:00"
     },
     {
+      "id": "a67b0f5c8e8df5da27abfa8a8826c31d",
+      "title": "Sân Thái Nguyên lần đầu đón đội tuyển Việt Nam",
+      "link": "https://vnexpress.net/san-thai-nguyen-lan-dau-don-doi-tuyen-viet-nam-5098932.html",
+      "summary": "Sân Thái Nguyên tổ chức trận giao hữu Việt Nam gặp Myanmar tối nay, có sức chứa lớn thứ 5 ở miền Bắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T09:03:29+07:00",
+      "fetched": "2026-07-18T17:55:23.075960+07:00"
+    },
+    {
+      "id": "a67b0f5c8e8df5da27abfa8a8826c31d",
+      "title": "Sân Thái Nguyên lần đầu đón đội tuyển Việt Nam",
+      "link": "https://vnexpress.net/san-thai-nguyen-lan-dau-don-doi-tuyen-viet-nam-5098932.html",
+      "summary": "Sân Thái Nguyên tổ chức trận giao hữu Việt Nam gặp Myanmar tối nay, có sức chứa lớn thứ 5 ở miền Bắc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-18T09:03:29+07:00",
+      "fetched": "2026-07-18T17:55:32.228189+07:00"
+    },
+    {
       "id": "58a2dffc6b4e44d2aff0b5259d677505",
       "title": "Lý do màn hình smartphone đắt tiền vẫn 'xuống sắc' khi ở dưới nắng",
       "link": "https://thanhnien.vn/ly-do-man-hinh-smartphone-dat-tien-van-xuong-sac-khi-o-duoi-nang-185260717183902943.htm",
@@ -471,6 +931,26 @@ window.newsData_2026_07_18 = {
       "category": "Tổng hợp",
       "published": "2026-07-18T09:02:00+07:00",
       "fetched": "2026-07-18T16:15:05.620440+07:00"
+    },
+    {
+      "id": "30409e09899e57dc11c026c9b5f15ded",
+      "title": "Scaloni: 'Hành trình của Argentina phi thường dù vô địch hay không'",
+      "link": "https://vnexpress.net/scaloni-hanh-trinh-cua-argentina-phi-thuong-du-vo-dich-hay-khong-5098921.html",
+      "summary": "HLV Lionel Scaloni khẳng định Argentina xứng đáng góp mặt ở chung kết World Cup 2026, đồng thời cho rằng dù kết quả ra sao, hành trình của đội tuyển vẫn là tấm gương về tinh thần đoàn kết và khát vọng cống hiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T09:00:40+07:00",
+      "fetched": "2026-07-18T17:55:23.076122+07:00"
+    },
+    {
+      "id": "30409e09899e57dc11c026c9b5f15ded",
+      "title": "Scaloni: 'Hành trình của Argentina phi thường dù vô địch hay không'",
+      "link": "https://vnexpress.net/scaloni-hanh-trinh-cua-argentina-phi-thuong-du-vo-dich-hay-khong-5098921.html",
+      "summary": "HLV Lionel Scaloni khẳng định Argentina xứng đáng góp mặt ở chung kết World Cup 2026, đồng thời cho rằng dù kết quả ra sao, hành trình của đội tuyển vẫn là tấm gương về tinh thần đoàn kết và khát vọng cống hiến.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-18T09:00:40+07:00",
+      "fetched": "2026-07-18T17:55:32.228383+07:00"
     },
     {
       "id": "993e3db988f0a9d59d5ff9ffe510658a",
@@ -531,6 +1011,16 @@ window.newsData_2026_07_18 = {
       "category": "Tổng hợp",
       "published": "2026-07-18T08:51:00+07:00",
       "fetched": "2026-07-18T16:15:05.621373+07:00"
+    },
+    {
+      "id": "7189ab709ef7fd78ddc60b004cb77827",
+      "title": "Chủ tịch VCCI: Doanh nghiệp vẫn lo nhiều về rủi ro pháp lý",
+      "link": "https://vnexpress.net/chu-tich-vcci-doanh-nghiep-van-lo-nhieu-ve-rui-ro-phap-ly-5098933.html",
+      "summary": "Trong bối cảnh pháp luật có nhiều thay đổi, quy định cũ hết hiệu lực, văn bản thay thế chưa có, nhiều doanh nghiệp ở tình thế \"tuân thủ cái cũ thì vướng, không tuân thủ thì bị coi là vi phạm\", theo Chủ tịch VCCI Hồ Sỹ Hùng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-18T08:50:24+07:00",
+      "fetched": "2026-07-18T17:55:28.999548+07:00"
     },
     {
       "id": "eefea5f41bd68947901f5aeacee18e3e",
