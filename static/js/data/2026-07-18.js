@@ -1,7 +1,157 @@
 window.newsData_2026_07_18 = {
   "date": "2026-07-18",
-  "lastUpdated": "2026-07-18T17:55:32.238378+07:00",
+  "lastUpdated": "2026-07-18T19:52:23.831736+07:00",
   "articles": [
+    {
+      "id": "b85b90ae6db12d09bfb195b844f1c798",
+      "title": "Điện thoại nghe 'ù tai', thêm cửa hàng kim cương ở TP.HCM thông báo tạm ngừng",
+      "link": "https://tuoitre.vn/dien-thoai-nghe-u-tai-them-cua-hang-kim-cuong-o-tphcm-thong-bao-tam-ngung-100260718163503246.htm",
+      "summary": "Số lượng khách hàng muốn bán lại kim cương tăng mạnh lại yêu cầu được hoàn tiền ngay khiến nhiều cửa hàng rơi vào tình trạng quá tải. Không ít doanh nghiệp phải tạm ngừng hoạt động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T19:52:16.562287+07:00",
+      "fetched": "2026-07-18T19:52:16.562364+07:00"
+    },
+    {
+      "id": "52dd17b2f9ab5bba4fc34f2cc52b33ba",
+      "title": "Scaloni, đã đến ngày anh phải chống lại người Tây Ban Nha và 'cô gái áo đen' yêu dấu!",
+      "link": "https://tuoitre.vn/scaloni-da-den-ngay-anh-phai-chong-lai-nguoi-tay-ban-nha-va-co-gai-ao-den-yeu-dau-100260718125046035.htm",
+      "summary": "\"Cô gái áo đen kia, cô có câu hỏi gì không? Không à? Thật ra, đó là bà xã tôi đó, hahaha\", một khoảnh khắc hài hước rất hiếm thấy của HLV Lionel Scaloni, trong một buổi họp báo tại World Cup 2026. \"Cô gái áo đen\" ấy là Elisa Montero, một phụ nữ xinh đẹp người Tây Ban Nha.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T19:52:16.562204+07:00",
+      "fetched": "2026-07-18T19:52:16.562275+07:00"
+    },
+    {
+      "id": "32eaddd4ee95687c433eaeca991a1286",
+      "title": "Cục CSGT cảnh báo người đi xe máy hay lấn vào làn ô tô  rất nguy hiểm",
+      "link": "https://tuoitre.vn/cuc-csgt-canh-bao-nguoi-di-xe-may-hay-lan-vao-lan-o-to-rat-nguy-hiem-100260718171633619.htm",
+      "summary": "Từ vụ tai nạn giữa xe máy và xe buýt nhanh vào sáng 18-7, Cục Cảnh sát giao thông đưa ra cảnh báo về thói quen tham gia giao thông \"lộn xộn\" của đa phần người điều khiển mô tô, xe máy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T19:52:16.562118+07:00",
+      "fetched": "2026-07-18T19:52:16.562190+07:00"
+    },
+    {
+      "id": "274d3ec4eee9c35cdc1558fd5e369faf",
+      "title": "HLV Kim Sang Sik tung 'tam tấu Brazil' đấu Myanmar",
+      "link": "https://tuoitre.vn/hlv-kim-sang-sik-tung-tam-tau-brazil-dau-myanmar-100260718172231376.htm",
+      "summary": "HLV Kim Sang Sik đã bố trí bộ ba tiền đạo Brazil nhập tịch đá chính trận giao hữu giữa đội tuyển Việt Nam và Myanmar.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T19:52:16.562036+07:00",
+      "fetched": "2026-07-18T19:52:16.562106+07:00"
+    },
+    {
+      "id": "118f53f25aef4de1a0f4e3b9739a090c",
+      "title": "Giải cứu bé gái 10 tuổi mắc kẹt trong hốc đá khi vào rừng hái măng",
+      "link": "https://tuoitre.vn/giai-cuu-be-gai-10-tuoi-mac-ket-trong-hoc-da-khi-vao-rung-hai-mang-100260718161908964.htm",
+      "summary": "Một bé gái 10 tuổi ở xã Đăk Mar (tỉnh Quảng Ngãi) vào rừng hái măng, không may bị trượt chân, mắc kẹt trong hốc đá ven suối đã được công an xã cùng người dân giải cứu an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T19:52:16.561922+07:00",
+      "fetched": "2026-07-18T19:52:16.562022+07:00"
+    },
+    {
+      "id": "c67eefa6201ae1ca524b41ba30f560c7",
+      "title": "Tập đoàn dầu khí Mỹ bắt tay Iraq mở tuyến vận chuyển thay thế eo biển Hormuz",
+      "link": "https://tuoitre.vn/tap-doan-dau-khi-my-bat-tay-iraq-mo-tuyen-van-chuyen-thay-the-eo-bien-hormuz-100260718160643043.htm",
+      "summary": "Các tập đoàn năng lượng phương Tây ký thỏa thuận với Iraq nhằm xây đường ống dầu thay thế eo biển Hormuz.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T19:52:16.561819+07:00",
+      "fetched": "2026-07-18T19:52:16.561907+07:00"
+    },
+    {
+      "id": "f3a0e342b57de39f67ee036d9db98f36",
+      "title": "Trực tuyến Việt Nam - Myanmar (19h): Tuyển Việt Nam ra quân với 'bộ ba nhập tịch' Son, Hên và Lộc",
+      "link": "https://tuoitre.vn/truc-tuyen-viet-nam-myanmar-19h-man-tong-duyet-cua-tuyen-viet-nam-cho-asean-cup-100260718095757299.htm",
+      "summary": "HLV Kim Sang Sik đã công bố đội hình xuất phát của tuyển Việt Nam cho trận giao hữu với Myanmar trên sân Thái Nguyên. Đáng chú ý là hàng công với bộ ba tiền đạo Tài Lộc, Xuân Son và Hoàng Hên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T19:52:16.561708+07:00",
+      "fetched": "2026-07-18T19:52:16.561802+07:00"
+    },
+    {
+      "id": "a97ad4d0f227ad69b8f0013e1d4840f1",
+      "title": "Chứng nhận bà Nguyễn Thị Lệ là vợ liệt sĩ Huỳnh Văn Quên từ sự công nhận của họ tộc nhà chồng",
+      "link": "https://tuoitre.vn/chung-nhan-ba-nguyen-thi-le-la-vo-liet-si-huynh-van-quen-tu-su-cong-nhan-cua-ho-toc-nha-chong-100260718172946902.htm",
+      "summary": "Trường hợp bổ sung vợ liệt sĩ đối với bà Nguyễn Thị Lệ là chưa từng có tiền lệ ở Tây Ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T19:52:16.561617+07:00",
+      "fetched": "2026-07-18T19:52:16.561690+07:00"
+    },
+    {
+      "id": "1f1a7f1aea3bad035a3bfa0a8bce7d35",
+      "title": "Cầu thủ Phạm Tuấn Hải chia tay CLB Hà Nội",
+      "link": "https://tuoitre.vn/cau-thu-pham-tuan-hai-chia-tay-clb-ha-noi-100260718173230328.htm",
+      "summary": "Tiền đạo Phạm Tuấn Hải sẽ dừng thi đấu cho CLB Hà Nội từ ngày 18-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T19:52:16.561540+07:00",
+      "fetched": "2026-07-18T19:52:16.561605+07:00"
+    },
+    {
+      "id": "d11dfd61dc44c812c1c1ca9b46270bac",
+      "title": "Đội nào vô địch World Cup 2026 thì Adidas cũng thắng, Messi không khác 'vua giày'",
+      "link": "https://tuoitre.vn/doi-nao-vo-dich-world-cup-2026-thi-adidas-cung-thang-messi-khong-khac-vua-giay-100260718171717573.htm",
+      "summary": "Trận chung kết World Cup 2026 ngày 20-7 không chỉ quyết định nhà vô địch mà còn mang đến chiến thắng lớn cho một nhà tài trợ trang phục thể thao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T19:52:16.561464+07:00",
+      "fetched": "2026-07-18T19:52:16.561527+07:00"
+    },
+    {
+      "id": "0b0ba7e7a8d2cc025d8da3b54a03a552",
+      "title": "Vùng núi Bắc Bộ tiếp tục mưa lớn đêm nay, có nơi trên 250mm",
+      "link": "https://tuoitre.vn/vung-nui-bac-bo-tiep-tuc-mua-lon-dem-nay-co-noi-tren-250mm-100260718173252612.htm",
+      "summary": "Dự báo từ đêm nay (18-7) đến đêm mai, khu vực trung du và vùng núi Bắc Bộ tiếp tục có mưa lớn, cơ quan khí tượng cảnh báo nguy cơ xảy ra lũ quét, sạt lở đất và ngập úng ở vùng trũng thấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T19:52:16.561402+07:00",
+      "fetched": "2026-07-18T19:52:16.561456+07:00"
+    },
+    {
+      "id": "4576b96d0168ac56d150c478772b8398",
+      "title": "Ukraine tập kích loạt kho hàng và kho dầu Nga, ít nhất 7 người chết",
+      "link": "https://tuoitre.vn/ukraine-tap-kich-loat-kho-hang-va-kho-dau-nga-it-nhat-7-nguoi-chet-100260718173328585.htm",
+      "summary": "Các cuộc tấn công bằng drone của Ukraine đã khiến 7 công nhân kho hàng thiệt mạng ở Nga và gây cháy kho dầu tại vùng Matxcơva.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T19:52:16.561342+07:00",
+      "fetched": "2026-07-18T19:52:16.561394+07:00"
+    },
+    {
+      "id": "66decbb58546a67e2a4d5dbc59a44b49",
+      "title": "Petro Việt Nam gặp Ngân hàng Việt Nam ở chung kết Giải bóng đá công nhân, viên chức",
+      "link": "https://tuoitre.vn/petro-viet-nam-gap-ngan-hang-viet-nam-o-chung-ket-giai-bong-da-cong-nhan-vien-chuc-100260718170800424.htm",
+      "summary": "Công đoàn Petro Việt Nam sẽ chạm trán Công đoàn Ngân hàng Việt Nam ở trận chung kết toàn quốc Giải bóng đá công nhân, viên chức Việt Nam 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T19:52:16.561277+07:00",
+      "fetched": "2026-07-18T19:52:16.561333+07:00"
+    },
+    {
+      "id": "a19329fcd9367e09cca4cb1d32695951",
+      "title": "Hàng ngàn khán giả kéo đến sân vận động Thái Nguyên chờ tuyển Việt Nam đấu Myanmar",
+      "link": "https://tuoitre.vn/hang-ngan-khan-gia-keo-den-san-van-dong-thai-nguyen-cho-tuyen-viet-nam-dau-myanmar-100260718180613897.htm",
+      "summary": "Lần đầu tiên đăng cai tổ chức trận đấu cấp FIFA Days của đội tuyển Việt Nam, sân vận động Thái Nguyên chào đón rất đông khán giả, người hâm mộ và cổ động viên đến xem và cổ vũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T19:52:16.561192+07:00",
+      "fetched": "2026-07-18T19:52:16.561266+07:00"
+    },
+    {
+      "id": "a41cefe7aa6695e3431004a6e201db21",
+      "title": "Giá vàng miếng SJC tăng gần 1 triệu đồng/lượng",
+      "link": "https://tuoitre.vn/gia-vang-mieng-sjc-tang-gan-1-trieu-dong-luong-100260718181543862.htm",
+      "summary": "Sau khi rơi xuống 3.959 USD/ounce, giá vàng thế giới đã hồi phục và kết thúc tuần giao dịch ở mức 4.019,3 USD/ounce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T19:52:16.560680+07:00",
+      "fetched": "2026-07-18T19:52:16.561167+07:00"
+    },
     {
       "id": "7b7e460879fce66acd466ff94dac37a3",
       "title": "Điện Biên tăng tốc trồng cà phê",
@@ -433,6 +583,196 @@ window.newsData_2026_07_18 = {
       "fetched": "2026-07-18T14:27:20.965835+07:00"
     },
     {
+      "id": "41f1bd46ea1db6dde368d818d2732c1b",
+      "title": "Tranh cãi lệnh xét nghiệm testosterone trong quân đội Mỹ",
+      "link": "https://thanhnien.vn/tranh-cai-lenh-xet-nghiem-testosterone-trong-quan-doi-my-18526071819152366.htm",
+      "summary": "Lệnh xét nghiệm testosterone diện rộng trong quân đội Mỹ đang gây tranh cãi, khi Lầu Năm Góc xem đây là biện pháp tăng khả năng sẵn sàng chiến đấu, còn giới y khoa cảnh báo nguy cơ ảnh hưởng khả năng sinh sản của quân nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T12:48:00+07:00",
+      "fetched": "2026-07-18T19:52:14.619345+07:00"
+    },
+    {
+      "id": "8d5a8905358625f418f02ef82909b429",
+      "title": "Ông Tập Cận Bình muốn giúp Thái Lan - Campuchia hòa giải",
+      "link": "https://thanhnien.vn/ong-tap-can-binh-muon-giup-thai-lan-campuchia-hoa-giai-185260718193521605.htm",
+      "summary": "Chủ tịch nước Trung Quốc Tập Cận Bình đã kêu gọi Thái Lan và Campuchia giải quyết tranh chấp biên giới kéo dài nhiều năm, đồng thời nhấn mạnh Bắc Kinh sẵn sàng đóng 'vai trò mang tính xây dựng' trong tiến trình này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T12:47:00+07:00",
+      "fetched": "2026-07-18T19:52:14.619495+07:00"
+    },
+    {
+      "id": "b58f97f489b36dcd9a3f97ac75cdcac5",
+      "title": "Tỷ lệ kiệt sức nghề nghiệp ở nhân viên y tế dao động khoảng 30 - 55%",
+      "link": "https://thanhnien.vn/ty-le-kiet-suc-nghe-nghiep-o-nhan-vien-y-te-dao-dong-khoang-40-55-185260718181441172.htm",
+      "summary": "Tỷ lệ kiệt sức nghề nghiệp ở nhân viên y tế tại Việt Nam lên đến 58%. Áp lực người chữa lành cho người khác thì 'không thể mắc bệnh' khiến nhiều người ngại tìm hỗ trợ tâm lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T12:46:00+07:00",
+      "fetched": "2026-07-18T19:52:14.619629+07:00"
+    },
+    {
+      "id": "fc890eea849eef4c15641966711ce8ea",
+      "title": "Gia đình miền Tây tái hiện nhà xưa qua mô hình mini",
+      "link": "https://vnexpress.net/gia-dinh-mien-tay-tai-hien-nha-xua-qua-mo-hinh-mini-5097570.html",
+      "summary": "Từ thùng xốp, đũa tre và nhiều vật liệu tái chế, vợ chồng anh Trần Vũ Trường chế tác những mô hình nhà cổ miền Tây với từng chi tiết gần như giống nguyên bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T12:36:55+07:00",
+      "fetched": "2026-07-18T19:52:11.811211+07:00"
+    },
+    {
+      "id": "79cd28e60a5fec1f1e433c1c18c7612c",
+      "title": "3 cách tra cứu nợ thuế của hộ kinh doanh",
+      "link": "https://thanhnien.vn/3-cach-tra-cuu-no-thue-cua-ho-kinh-doanh-185260718185010098.htm",
+      "summary": "Hộ kinh doanh có thể nhanh chóng tra cứu nợ thuế qua Cổng thuế điện tử, ứng dụng eTax Mobile hoặc qua tra cứu thông tin cưỡng chế nợ thuế, tạm hoãn xuất cảnh trên Cổng thông tin điện tử của Cục Thuế (Bộ Tài chính).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T12:19:00+07:00",
+      "fetched": "2026-07-18T19:52:14.619761+07:00"
+    },
+    {
+      "id": "2380b593463688599bfb5df94724201f",
+      "title": "Nga có thể sắp tiến công 'khu vực quan trọng nhất' trên tiền tuyến Ukraine",
+      "link": "https://vnexpress.net/nga-co-the-sap-tien-cong-khu-vuc-quan-trong-nhat-tren-tien-tuyen-ukraine-5098979.html",
+      "summary": "Giới quan sát nhận định Nga chuẩn bị tiến công vành đai pháo đài Donetsk, khu vực được đánh giá là quan trọng nhất trên chiến tuyến dài 1.200 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T12:15:58+07:00",
+      "fetched": "2026-07-18T19:52:11.811380+07:00"
+    },
+    {
+      "id": "2380b593463688599bfb5df94724201f",
+      "title": "Nga có thể sắp tiến công 'khu vực quan trọng nhất' trên tiền tuyến Ukraine",
+      "link": "https://vnexpress.net/nga-co-the-sap-tien-cong-khu-vuc-quan-trong-nhat-tren-tien-tuyen-ukraine-5098979.html",
+      "summary": "Giới quan sát nhận định Nga chuẩn bị tiến công vành đai pháo đài Donetsk, khu vực được đánh giá là quan trọng nhất trên chiến tuyến dài 1.200 km.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-18T12:15:58+07:00",
+      "fetched": "2026-07-18T19:52:18.396307+07:00"
+    },
+    {
+      "id": "89616afd7cd732818181e6008def50ab",
+      "title": "BCONS muốn đầu tư loạt dự án đô thị, hạ tầng tại Lâm Đồng",
+      "link": "https://vnexpress.net/bcons-muon-dau-tu-loat-du-an-do-thi-ha-tang-tai-lam-dong-5098961.html",
+      "summary": "BCONS nghiên cứu đầu tư các dự án hạ tầng, đô thị ven biển, khu TOD và công viên đô thị tại Lâm Đồng, trong đó có tuyến đường ven biển gần 9.500 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T12:11:03+07:00",
+      "fetched": "2026-07-18T19:52:11.811525+07:00"
+    },
+    {
+      "id": "69cfc58ab61673b8a56a86a4905289ab",
+      "title": "Hội Doanh nhân trẻ VN đề xuất 5 nhóm giải pháp thúc đẩy tăng trưởng kinh tế",
+      "link": "https://thanhnien.vn/hoi-doanh-nhan-tre-vn-de-xuat-5-nhom-giai-phap-thuc-day-tang-truong-kinh-te-185260718174243755.htm",
+      "summary": "Sáng 18.7, tại Hội nghị Thường trực Chính phủ với cộng đồng doanh nghiệp, ông Đặng Hồng Anh, Chủ tịch Hội Doanh nhân trẻ Việt Nam, đã đề xuất 5 nhóm giải pháp trọng tâm nhằm tháo gỡ điểm nghẽn, tạo động lực cho khu vực kinh tế tư nhân phát triển, đóng góp vào mục tiêu tăng trưởng của đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T12:06:00+07:00",
+      "fetched": "2026-07-18T19:52:14.619889+07:00"
+    },
+    {
+      "id": "dd9b57e5a6b3c07a7f6d235091d4467e",
+      "title": "SAIGON IX kỷ niệm 30 năm thành lập, công bố nhận diện thương hiệu mới",
+      "link": "https://thanhnien.vn/saigon-ix-ky-niem-30-nam-thanh-lap-cong-bo-nhan-dien-thuong-hieu-moi-185260718175931618.htm",
+      "summary": "Tối ngày 16.7, Công ty Cổ phần Xây dựng và Thương mại Sài Gòn 9 (SAIGON IX) trọng thể tổ chức Gala kỷ niệm 30 năm với chủ đề '30 năm dấu son: Thịnh vượng và Bền vững', đánh dấu bước chuyển mình đầy kiêu hãnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T12:05:00+07:00",
+      "fetched": "2026-07-18T19:52:14.620028+07:00"
+    },
+    {
+      "id": "8affab4b2ae9af4541120bc71b0772af",
+      "title": "Hơn 91% kỹ sư, cử nhân HIU tốt nghiệp loại khá trở lên",
+      "link": "https://thanhnien.vn/hon-91-ky-su-cu-nhan-hiu-tot-nghiep-loai-kha-tro-len-185260718175026766.htm",
+      "summary": "Ngày 18.7, Trường Đại học Quốc tế Hồng Bàng (HIU) tổ chức lễ tốt nghiệp và trao bằng cho gần 1.000 kỹ sư, cử nhân thuộc 28 ngành đào tạo. Đợt tốt nghiệp này ghi nhận hơn 91% sinh viên đạt loại khá trở lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T12:05:00+07:00",
+      "fetched": "2026-07-18T19:52:14.620161+07:00"
+    },
+    {
+      "id": "923224863ba052d0fe9bccabdc230920",
+      "title": "Cách World Cup giúp nước Mỹ chinh phục người hâm mộ toàn cầu",
+      "link": "https://vnexpress.net/cach-world-cup-giup-nuoc-my-chinh-phuc-nguoi-ham-mo-toan-cau-5098813.html",
+      "summary": "World Cup 2026 không mang lại thành công cho đội tuyển Mỹ, nhưng lại giúp nước chủ nhà cải thiện hình ảnh và chinh phục người hâm mộ toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T12:00:00+07:00",
+      "fetched": "2026-07-18T19:52:11.811659+07:00"
+    },
+    {
+      "id": "cc6cffb53db7d74bf669028b36fe8f75",
+      "title": "Robot tự động mặc quần áo cho người trong 10 giây",
+      "link": "https://vnexpress.net/robot-tu-dong-mac-quan-ao-cho-nguoi-trong-10-giay-5098709.html",
+      "summary": "Nhóm nghiên cứu Hàn Quốc - Mỹ phát triển hệ thống robot dây leo giúp người dùng mặc quần áo, ví dụ khi trời mưa, mà không cần tay hay người khác hỗ trợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T12:00:00+07:00",
+      "fetched": "2026-07-18T19:52:11.811804+07:00"
+    },
+    {
+      "id": "d0957d24a9edeb4bd421b98c0060a2bf",
+      "title": "Runner xếp hàng dài trải nghiệm gamezone Herbalife tại VM Đà Nẵng",
+      "link": "https://vnexpress.net/runner-xep-hang-dai-trai-nghiem-gamezone-herbalife-tai-vm-da-nang-5098999.html",
+      "summary": "Dù thời tiết nắng nóng, hàng trăm runner vẫn kiên nhẫn xếp hàng để tham gia các trò chơi vận động tại khu gamezone Herbalife trong hai ngày 17-18/7, thuộc khu expo VnExpress Marathon Đà Nẵng 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T12:00:00+07:00",
+      "fetched": "2026-07-18T19:52:11.811939+07:00"
+    },
+    {
+      "id": "677e8170d8730dba58f8c24b0de87d82",
+      "title": "Hai á hậu cùng dàn bóng hồng 'khoe sắc' trước cuộc đua VM Đà Nẵng 2026",
+      "link": "https://vnexpress.net/hai-a-hau-cung-dan-bong-hong-khoe-sac-truoc-cuoc-dua-vm-da-nang-2026-5098960.html",
+      "summary": "Hai Á hậu Nguyễn Thu Ngân, Trương Tâm Như cùng nhiều nữ runner trẻ trung, năng động sẽ cùng chinh phục đường đua, thổi làn gió mát cho VnExpress Marathon Đà Nẵng 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T12:00:00+07:00",
+      "fetched": "2026-07-18T19:52:11.812085+07:00"
+    },
+    {
+      "id": "9c450ce56e38db92597025d5b0eb88da",
+      "title": "Tối nay, mưa sao băng từng được quan sát gần 2.000 năm trước xuất hiện",
+      "link": "https://thanhnien.vn/toi-nay-mua-sao-bang-tung-duoc-quan-sat-gan-2000-nam-truoc-xuat-hien-185260718092706078.htm",
+      "summary": "Từ tối nay 18.7, người yêu thiên văn đã có thể săn tìm các vệt sao băng Perseids, một trong những màn trình diễn sao băng đẹp nhất trong năm 2026. Theo nhiều tài liệu, mưa sao băng này đã được con người quan sát gần 2.000 năm trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T12:00:00+07:00",
+      "fetched": "2026-07-18T19:52:14.620286+07:00"
+    },
+    {
+      "id": "923224863ba052d0fe9bccabdc230920",
+      "title": "Cách World Cup giúp nước Mỹ chinh phục người hâm mộ toàn cầu",
+      "link": "https://vnexpress.net/cach-world-cup-giup-nuoc-my-chinh-phuc-nguoi-ham-mo-toan-cau-5098813.html",
+      "summary": "World Cup 2026 không mang lại thành công cho đội tuyển Mỹ, nhưng lại giúp nước chủ nhà cải thiện hình ảnh và chinh phục người hâm mộ toàn cầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-18T12:00:00+07:00",
+      "fetched": "2026-07-18T19:52:18.396468+07:00"
+    },
+    {
+      "id": "cc6cffb53db7d74bf669028b36fe8f75",
+      "title": "Robot tự động mặc quần áo cho người trong 10 giây",
+      "link": "https://vnexpress.net/robot-tu-dong-mac-quan-ao-cho-nguoi-trong-10-giay-5098709.html",
+      "summary": "Nhóm nghiên cứu Hàn Quốc - Mỹ phát triển hệ thống robot dây leo giúp người dùng mặc quần áo, ví dụ khi trời mưa, mà không cần tay hay người khác hỗ trợ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-18T12:00:00+07:00",
+      "fetched": "2026-07-18T19:52:22.173687+07:00"
+    },
+    {
+      "id": "02f3b2704ee4de74b032fcfeb706d7ca",
+      "title": "Chính thức công nhận vợ liệt sĩ Huỳnh Văn Quên",
+      "link": "https://thanhnien.vn/chinh-thuc-cong-nhan-vo-liet-si-huynh-van-quen-185260718162647126.htm",
+      "summary": "Suốt một đời đơn thân vì người chồng 'không bao giờ cưới', lòng thủy chung son sắt của bà Nguyễn Thị Lệ vừa được sưởi ấm bằng quyết định công nhận là vợ liệt sĩ Huỳnh Văn Quên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T11:42:00+07:00",
+      "fetched": "2026-07-18T19:52:14.620404+07:00"
+    },
+    {
       "id": "5707890b7a73af9c96ede2d523d79d41",
       "title": "Đề xuất án tù dưới 5 năm có thể nộp tiền để hưởng án treo, cộng thời gian thử thách",
       "link": "https://tuoitre.vn/de-xuat-an-tu-duoi-5-nam-co-the-nop-tien-de-huong-an-treo-cong-thoi-gian-thu-thach-100260718092612955.htm",
@@ -583,6 +923,146 @@ window.newsData_2026_07_18 = {
       "fetched": "2026-07-18T11:39:00.803665+07:00"
     },
     {
+      "id": "956c4006def6c493052f8f13d7708038",
+      "title": "'The Odyssey' gây sốt phòng vé Bắc Mỹ",
+      "link": "https://vnexpress.net/the-odyssey-gay-sot-phong-ve-bac-my-5098885.html",
+      "summary": "Bom tấn \"The Odyssey\" của đạo diễn Christopher Nolan lập kỷ lục doanh thu chiếu sớm tại Bắc Mỹ, được giới phê bình lẫn khán giả đánh giá tích cực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T11:30:00+07:00",
+      "fetched": "2026-07-18T19:52:11.812216+07:00"
+    },
+    {
+      "id": "7790327632d32b088af725483b864cad",
+      "title": "Cháy gần nhà máy xử lý rác thải tại Quảng Trị",
+      "link": "https://thanhnien.vn/chay-gan-nha-may-xu-ly-rac-thai-tai-quang-tri-185260718161138509.htm",
+      "summary": "Một vụ cháy đang xảy ra ở bãi tập kết rác thải tại xã Nam Trạch (Quảng Trị), lực lượng chức năng đang nỗ lực dập lửa trước tình hình nắng nóng và gió lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T11:30:00+07:00",
+      "fetched": "2026-07-18T19:52:14.620527+07:00"
+    },
+    {
+      "id": "bac87a7a300c8535bfd0f7bf0c928759",
+      "title": "Vích quý hiếm nặng 120 kg mắc lưới được ngư dân Cà Mau cứu thả về biển",
+      "link": "https://thanhnien.vn/vich-quy-hiem-nang-120-kg-mac-luoi-duoc-ngu-dan-ca-mau-cuu-tha-ve-bien-185260718162544558.htm",
+      "summary": "Phát hiện một cá thể vích nặng khoảng 120 kg mắc lưới, một ngư dân ở Cà Mau đã trình báo lực lượng biên phòng để phối hợp thả về môi trường tự nhiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T11:29:00+07:00",
+      "fetched": "2026-07-18T19:52:14.620646+07:00"
+    },
+    {
+      "id": "13e3e1cca8a0cad3d4a0cccd639308ab",
+      "title": "Đà Nẵng có gần 25.500 mộ liệt sĩ chưa xác định danh tính",
+      "link": "https://thanhnien.vn/da-nang-co-gan-25500-mo-liet-si-chua-xac-dinh-danh-tinh-185260718172216338.htm",
+      "summary": "Đà Nẵng hiện có gần 25.500 mộ liệt sĩ chưa xác định được danh tính và hơn 7.200 liệt sĩ chưa tìm thấy hài cốt, chiếm số lượng rất lớn so với cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T11:24:00+07:00",
+      "fetched": "2026-07-18T19:52:14.620768+07:00"
+    },
+    {
+      "id": "3e42d0ca64c3fe31798c34157ec401c6",
+      "title": "Đã tìm thấy 100 hài cốt liệt sĩ tại công viên Lê Thị Riêng",
+      "link": "https://thanhnien.vn/da-tim-thay-100-hai-cot-liet-si-tai-cong-vien-le-thi-rieng-185260718173817251.htm",
+      "summary": "Ngày 18.7, lực lượng chức năng quy tập thêm 4 hài cốt liệt sĩ tại công viên Lê Thị Riêng, nâng tổng số được tìm thấy lên 100 hài cốt cùng 2 bộ hài cốt liệt sĩ tập thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T11:23:00+07:00",
+      "fetched": "2026-07-18T19:52:14.620886+07:00"
+    },
+    {
+      "id": "bb067464b026cf145df605580f37981e",
+      "title": "Tìm thấy 100 hài cốt liệt sĩ ở công viên Lê Thị Riêng sau hai tuần khai quật",
+      "link": "https://vnexpress.net/tim-thay-100-hai-cot-liet-si-o-cong-vien-le-thi-rieng-sau-hai-tuan-khai-quat-5098693.html",
+      "summary": "Sau hai tuần khai quật rãnh chôn tập thể dài khoảng 30 m tại công viên Lê Thị Riêng, lực lượng chức năng tìm thấy 100 hài cốt liệt sĩ cùng nhiều di vật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T11:18:44+07:00",
+      "fetched": "2026-07-18T19:52:11.812341+07:00"
+    },
+    {
+      "id": "9b0aa7db00bb6fefd1e45ea41f6f24de",
+      "title": "Cài đặt ẩn giúp Samsung Galaxy luôn mượt mà như lúc mới mua",
+      "link": "https://thanhnien.vn/cai-dat-an-giup-samsung-galaxy-luon-muot-ma-nhu-luc-moi-mua-185260718153303029.htm",
+      "summary": "Bí quyết 'cài một lần là xong' giúp hồi sinh tốc độ và kéo dài tuổi thọ pin cho điện thoại Samsung Galaxy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T11:17:00+07:00",
+      "fetched": "2026-07-18T19:52:14.621014+07:00"
+    },
+    {
+      "id": "f735f3fa4cdef8f76e4261308e1b1714",
+      "title": "Chùa 've chai' nằm ở đâu?",
+      "link": "https://vnexpress.net/chua-ve-chai-nam-o-dau-5098918.html",
+      "summary": "Ngôi chùa hơn 70 năm, được trang trí từ hàng trăm nghìn mảnh sành, sứ và vỏ chai, nắm giữ nhiều kỷ lục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T11:14:29+07:00",
+      "fetched": "2026-07-18T19:52:11.812466+07:00"
+    },
+    {
+      "id": "76b3e6d31371a8955c591a084ddd24c6",
+      "title": "1.000 runner quốc tế tham gia giải chạy VM Đà Nẵng",
+      "link": "https://vnexpress.net/1-000-runner-quoc-te-tham-gia-giai-chay-vm-da-nang-5098998.html",
+      "summary": "Với khoảng 1.000 runner quốc tế đăng ký, VM Đà Nẵng trở thành chặng đua có lượng VĐV nước ngoài đông nhất trong hệ thống VnExpress Marathon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T11:07:55+07:00",
+      "fetched": "2026-07-18T19:52:11.812596+07:00"
+    },
+    {
+      "id": "b3b83709e34b1b657e76669582bc85cf",
+      "title": "Việt Nam 2-0 Myanmar (hết H1): Xuân Mạnh ghi thêm bàn",
+      "link": "https://vnexpress.net/viet-nam-vs-myanmar-5098967.html",
+      "summary": "Nguyễn Xuân Son và Phạm Xuân Mạnh ghi bàn giúp Việt Nam dẫn Myanmar 2-0 ở trận giao hữu trước ASEAN Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T11:00:25+07:00",
+      "fetched": "2026-07-18T19:52:11.812723+07:00"
+    },
+    {
+      "id": "b3b83709e34b1b657e76669582bc85cf",
+      "title": "Việt Nam 2-0 Myanmar (hết H1): Xuân Mạnh ghi thêm bàn",
+      "link": "https://vnexpress.net/viet-nam-vs-myanmar-5098967.html",
+      "summary": "Nguyễn Xuân Son và Phạm Xuân Mạnh ghi bàn giúp Việt Nam dẫn Myanmar 2-0 ở trận giao hữu trước ASEAN Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-18T11:00:25+07:00",
+      "fetched": "2026-07-18T19:52:23.820391+07:00"
+    },
+    {
+      "id": "367a8eb88b5410f3bcbab3d991bcbe07",
+      "title": "Bạn trai 'trả' một tỷ đồng cho 10 năm thanh xuân của tôi",
+      "link": "https://vnexpress.net/ban-trai-tra-mot-ty-dong-cho-10-nam-thanh-xuan-cua-toi-5098926.html",
+      "summary": "Với tôi, một tỷ đồng không thể mua lại ba mẹ, chẳng thể mua lại gia đình, càng không thể mua lại 10 năm thanh xuân đã đi qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T11:00:00+07:00",
+      "fetched": "2026-07-18T19:52:11.812847+07:00"
+    },
+    {
+      "id": "904c06d19f77c245a2abf938cb59ed2b",
+      "title": "Hàng nghìn runner VM Đà Nẵng trải nghiệm chuỗi hoạt động Herbalife",
+      "link": "https://vnexpress.net/hang-nghin-runner-vm-da-nang-trai-nghiem-chuoi-hoat-dong-herbalife-5098984.html",
+      "summary": "Hàng nghìn runner đổ về gian hàng Herbalife, chơi minigame, check-in, giao lưu với Lê Văn Công, Châu Tuyết Vân, tạo nên không khí sôi động, lên tinh thần trước cuộc đua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T11:00:00+07:00",
+      "fetched": "2026-07-18T19:52:11.812998+07:00"
+    },
+    {
+      "id": "c0e205150332ebf179218d88a9f90dab",
+      "title": "Mỹ phẩm Mineaderm giới thiệu triết lý chăm da chuyên sâu",
+      "link": "https://vnexpress.net/my-pham-mineaderm-gioi-thieu-triet-ly-cham-da-chuyen-sau-5098983.html",
+      "summary": "Thương hiệu Mineaderm (Thổ Nhĩ Kỳ) lần đầu tổ chức sự kiện chào sân thị trường Việt, giới thiệu triết lý chăm da \"cân bằng, nâng cao\", ngày 17/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T11:00:00+07:00",
+      "fetched": "2026-07-18T19:52:11.813136+07:00"
+    },
+    {
       "id": "994623f1c4e89f27047945a77bb19d19",
       "title": "Hơn 20 năm, chưa thế hệ nào vượt qua dàn 'tứ đại hoa đán' Trung Quốc",
       "link": "https://thanhnien.vn/hon-20-nam-chua-the-he-nao-vuot-qua-dan-tu-dai-hoa-dan-trung-quoc-185260718160916265.htm",
@@ -721,6 +1201,16 @@ window.newsData_2026_07_18 = {
       "category": "Thế giới",
       "published": "2026-07-18T10:14:29+07:00",
       "fetched": "2026-07-18T17:55:27.913478+07:00"
+    },
+    {
+      "id": "874ca90da46e3999211a3b36547f492b",
+      "title": "Kuwait cáo buộc Iran tập kích hạ tầng dân sự, cơ sở trọng yếu",
+      "link": "https://vnexpress.net/kuwait-cao-buoc-iran-tap-kich-ha-tang-dan-su-co-so-trong-yeu-5098951.html",
+      "summary": "Giới chức Kuwait cáo buộc Iran tấn công nhà máy điện và khử mặn, cho rằng hành động này vi phạm luật pháp quốc tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-18T10:14:29+07:00",
+      "fetched": "2026-07-18T19:52:18.396607+07:00"
     },
     {
       "id": "f50c90d911b22e08732a210acd4b0b51",
