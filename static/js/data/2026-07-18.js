@@ -1,7 +1,67 @@
 window.newsData_2026_07_18 = {
   "date": "2026-07-18",
-  "lastUpdated": "2026-07-18T21:43:15.737932+07:00",
+  "lastUpdated": "2026-07-18T23:43:52.486469+07:00",
   "articles": [
+    {
+      "id": "be4aeea05fd1c0e082a4f9c695ba9c43",
+      "title": "HLV Myanmar ước có cầu thủ nhập tịch như Xuân Son, Tài Lộc, Hoàng Hên",
+      "link": "https://tuoitre.vn/hlv-myanmar-uoc-co-cau-thu-nhap-tich-nhu-xuan-son-tai-loc-hoang-hen-100260718205407871.htm",
+      "summary": "HLV đội tuyển Myanmar tâm phục khẩu phục sau trận thua 0-4 trước đội tuyển Việt Nam ở trận giao hữu tối 18-7. Ông cũng khen và \"thèm muốn\" có cầu thủ nhập tịch trong đội để cạnh tranh ở Đông Nam Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T23:43:44.744330+07:00",
+      "fetched": "2026-07-18T23:43:44.744378+07:00"
+    },
+    {
+      "id": "e0eaa1695f90695bf46d58cd5fbee421",
+      "title": "Lê Giang Patrik và Hoàng Hên lần đầu thắng trận cùng tuyển Việt Nam: Rất tự hào!",
+      "link": "https://tuoitre.vn/le-giang-patrik-va-hoang-hen-lan-dau-thang-tran-cung-tuyen-viet-nam-rat-tu-hao-100260718214516252.htm",
+      "summary": "Phát biểu sau trận giao hữu thắng Myanmar 4-0, thủ môn Lê Giang Patrik và tiền đạo Đỗ Hoàng Hên khẳng định đội tuyển Việt Nam đã sẵn sàng vô địch ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T23:43:44.744273+07:00",
+      "fetched": "2026-07-18T23:43:44.744321+07:00"
+    },
+    {
+      "id": "af849f4efb9ae1707540d9992ee261a5",
+      "title": "Video 2 bàn thắng đẳng cấp của Xuân Son, Hoàng Hên vào lưới Myanmar",
+      "link": "https://tuoitre.vn/video-2-ban-thang-dang-cap-cua-xuan-son-hoang-hen-vao-luoi-myanmar-100260718214543087.htm",
+      "summary": "Trong chiến thắng 4-0 của tuyển Việt Nam trước Myanmar, 2 cầu thủ nhập tịch Nguyễn Xuân Son và Đỗ Hoàng Hên để lại dấu ấn đậm nét với các bàn thắng đẹp mắt vào lưới thủ môn Sann Sat Naing.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T23:43:44.744210+07:00",
+      "fetched": "2026-07-18T23:43:44.744265+07:00"
+    },
+    {
+      "id": "de740e30e6e1f8342cbee5417c829c01",
+      "title": "HLV Kim Sang Sik lên tiếng về 'phản ứng khó chịu' giữa Đình Bắc và Xuân Son",
+      "link": "https://tuoitre.vn/hlv-kim-sang-sik-len-tieng-ve-phan-ung-kho-chiu-giua-dinh-bac-va-xuan-son-10026071820455544.htm",
+      "summary": "HLV Kim Sang Sik vui khi cả Đình Bắc và Xuân Son đều khao khát thể hiện mình, trong trận đấu giao hữu với Myanmar tối 18-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T23:43:44.744147+07:00",
+      "fetched": "2026-07-18T23:43:44.744201+07:00"
+    },
+    {
+      "id": "b479625556e153b1bbba1e9324066f51",
+      "title": "Đường phố Nha Trang rực rỡ sắc màu trong lễ hội Carnival",
+      "link": "https://tuoitre.vn/duong-pho-nha-trang-ruc-ro-sac-mau-trong-le-hoi-carnival-100260718220533291.htm",
+      "summary": "Những màn diễu hành đường phố tại lễ hội Carnival đầy màu sắc đã làm say lòng người dân và du khách ở Nha Trang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T23:43:44.744072+07:00",
+      "fetched": "2026-07-18T23:43:44.744138+07:00"
+    },
+    {
+      "id": "ee80411bb90a90d0c75a56288bd0801d",
+      "title": "Iran đình chỉ cam kết ngừng bắn với Mỹ, cảnh báo 'tấn công tổng lực'",
+      "link": "https://tuoitre.vn/iran-dinh-chi-cam-ket-ngung-ban-voi-my-canh-bao-tan-cong-tong-luc-100260718222536362.htm",
+      "summary": "Thứ trưởng Ngoại giao Iran Kazem Gharibabadi cho rằng Mỹ đã có các hành động gây hấn, vi phạm những cam kết của chính mình trong lúc hai bên đang đàm phán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T23:43:44.743886+07:00",
+      "fetched": "2026-07-18T23:43:44.744044+07:00"
+    },
     {
       "id": "1516d7a65298ec873a1f246631e1b824",
       "title": "Tổng thống Donald Trump chỉ trích chiến thuật của HLV tuyển Anh",
@@ -581,6 +641,256 @@ window.newsData_2026_07_18 = {
       "category": "Tổng hợp",
       "published": "2026-07-18T16:15:06.907746+07:00",
       "fetched": "2026-07-18T16:15:06.907885+07:00"
+    },
+    {
+      "id": "4a12a0007708c3884796bb0fd4007259",
+      "title": "Đội tuyển Việt Nam tăng điểm FIFA nhờ thắng đậm Myanmar, bỏ xa Indonesia: Vẫn tốp 99 thế giới",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-tang-diem-fifa-nho-thang-dam-myanmar-bo-xa-indonesia-van-top-99-the-gioi-185260718230839174.htm",
+      "summary": "Chiến thắng thuyết phục 4-0 trước Myanmar trong trận giao hữu tối 18.7 không chỉ mang đến sự tự tin cho đội tuyển Việt Nam trước thềm ASEAN Cup 2026, mà còn giúp thầy trò HLV Kim Sang-sik tích lũy thêm điểm số trên bảng xếp hạng FIFA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T16:10:00+07:00",
+      "fetched": "2026-07-18T23:43:42.496210+07:00"
+    },
+    {
+      "id": "67ea28adec6832b553cf3d9434d9a964",
+      "title": "Huy động chó nghiệp vụ tìm kiếm 4 nạn nhân mất tích ở Lai Châu",
+      "link": "https://thanhnien.vn/huy-dong-cho-nghiep-vu-tim-kiem-4-nan-nhan-mat-tich-o-lai-chau-18526071822323405.htm",
+      "summary": "Dự kiến, ngày mai 19.7, Đội sử dụng chó nghiệp vụ của Trường trung cấp 24 Biên phòng sẽ tham gia tìm kiếm cứu nạn tại bản Chít, xã Mường Than, tỉnh Lai Châu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T16:03:00+07:00",
+      "fetched": "2026-07-18T23:43:42.496367+07:00"
+    },
+    {
+      "id": "c27a456256ecd1f689a3708de095be79",
+      "title": "Canada điều máy bay sơ tán người dân giữa cháy rừng",
+      "link": "https://vnexpress.net/canada-dieu-may-bay-so-tan-nguoi-dan-giua-chay-rung-5099052.html",
+      "summary": "Quân đội Canada chuẩn bị triển khai máy bay để sơ tán khoảng 600 người ở vùng xa xôi đang bị các đám cháy rừng đe dọa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T16:02:54+07:00",
+      "fetched": "2026-07-18T23:43:39.348144+07:00"
+    },
+    {
+      "id": "c27a456256ecd1f689a3708de095be79",
+      "title": "Canada điều máy bay sơ tán người dân giữa cháy rừng",
+      "link": "https://vnexpress.net/canada-dieu-may-bay-so-tan-nguoi-dan-giua-chay-rung-5099052.html",
+      "summary": "Quân đội Canada chuẩn bị triển khai máy bay để sơ tán khoảng 600 người ở vùng xa xôi đang bị các đám cháy rừng đe dọa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-18T16:02:54+07:00",
+      "fetched": "2026-07-18T23:43:46.788085+07:00"
+    },
+    {
+      "id": "848bb3478783f33e02f14e44fa43c9bd",
+      "title": "Phí xem trước bài đăng của ông Trump có thể lên tới 100.000 USD mỗi tháng",
+      "link": "https://vnexpress.net/phi-xem-truoc-bai-dang-cua-ong-trump-co-the-len-toi-100-000-usd-moi-thang-5099046.html",
+      "summary": "Trump Media, chủ sở hữu mạng xã hội Truth Social, có thể thu phí tới 100.000 USD mỗi tháng đối với quyền xem sớm bài đăng của Tổng thống Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T15:56:23+07:00",
+      "fetched": "2026-07-18T23:43:39.348309+07:00"
+    },
+    {
+      "id": "848bb3478783f33e02f14e44fa43c9bd",
+      "title": "Phí xem trước bài đăng của ông Trump có thể lên tới 100.000 USD mỗi tháng",
+      "link": "https://vnexpress.net/phi-xem-truoc-bai-dang-cua-ong-trump-co-the-len-toi-100-000-usd-moi-thang-5099046.html",
+      "summary": "Trump Media, chủ sở hữu mạng xã hội Truth Social, có thể thu phí tới 100.000 USD mỗi tháng đối với quyền xem sớm bài đăng của Tổng thống Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-18T15:56:23+07:00",
+      "fetched": "2026-07-18T23:43:46.788248+07:00"
+    },
+    {
+      "id": "c83a9af5bc3505934e05e35bd3089e92",
+      "title": "Truyền thông Đông Nam Á: ‘Việt Nam chưa phô diễn hết sức mạnh dù thắng Myanmar 4-0’",
+      "link": "https://thanhnien.vn/truyen-thong-dong-nam-a-viet-nam-chua-pho-dien-het-suc-manh-du-thang-myanmar-4-0-185260718223944205.htm",
+      "summary": "Chiến thắng 4-0 của đội tuyển Việt Nam trước Myanmar trong trận giao hữu tối 18.7 nhận được nhiều sự chú ý từ truyền thông Đông Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T15:47:00+07:00",
+      "fetched": "2026-07-18T23:43:42.496504+07:00"
+    },
+    {
+      "id": "f83fd45a7a8b169770bae8f7f1bcae08",
+      "title": "HLV Myanmar lo bị hiểu nhầm khi nói về cầu thủ nhập tịch Việt Nam",
+      "link": "https://vnexpress.net/hlv-myanmar-lo-bi-hieu-nham-khi-noi-ve-cau-thu-nhap-tich-viet-nam-5099028.html",
+      "summary": "HLV Jorn Andersen khẳng định Việt Nam là đội tuyển mạnh và không có vấn đề gì trong việc sử dụng cầu thủ nhập tịch theo quy định của FIFA.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T15:39:02+07:00",
+      "fetched": "2026-07-18T23:43:39.348457+07:00"
+    },
+    {
+      "id": "f83fd45a7a8b169770bae8f7f1bcae08",
+      "title": "HLV Myanmar lo bị hiểu nhầm khi nói về cầu thủ nhập tịch Việt Nam",
+      "link": "https://vnexpress.net/hlv-myanmar-lo-bi-hieu-nham-khi-noi-ve-cau-thu-nhap-tich-viet-nam-5099028.html",
+      "summary": "HLV Jorn Andersen khẳng định Việt Nam là đội tuyển mạnh và không có vấn đề gì trong việc sử dụng cầu thủ nhập tịch theo quy định của FIFA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-18T15:39:02+07:00",
+      "fetched": "2026-07-18T23:43:52.473242+07:00"
+    },
+    {
+      "id": "9a83f51042b25f771f3dc4301d735207",
+      "title": "Messi và 'bé Yamal'",
+      "link": "https://vnexpress.net/messi-va-be-yamal-5099034.html",
+      "summary": "Bức ảnh của Messi và Yamal - hai con người cách nhau cả thế hệ rồi cùng thi đấu trong một trận chung kết World Cup - thực sự đã vượt ra khỏi trí tưởng tượng của con người, vượt qua cả tỷ lệ trúng xổ số ở bất kỳ quốc gia nào trên thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T15:38:00+07:00",
+      "fetched": "2026-07-18T23:43:39.348593+07:00"
+    },
+    {
+      "id": "ccde98a62092ffa52b0b1d5a492ac5ef",
+      "title": "20 năm kiên trì ở thuê thay vì FOMO mua nhà Sài Gòn",
+      "link": "https://vnexpress.net/20-nam-kien-tri-o-thue-thay-vi-fomo-mua-nha-sai-gon-5098962.html",
+      "summary": "Nhiều người khuyên mua nhà bây giờ, 10 năm nữa giá ít nhất cũng gấp đôi, gấp ba lần, nhưng tôi tự hỏi có chắc bán được không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T15:28:45+07:00",
+      "fetched": "2026-07-18T23:43:39.348724+07:00"
+    },
+    {
+      "id": "c5ce34f15b886f09a384cb3e40976d3f",
+      "title": "Tôi không muốn làm mẹ đơn thân cả đời",
+      "link": "https://vnexpress.net/toi-khong-muon-lam-me-don-than-ca-doi-5098949.html",
+      "summary": "Nhiều người nói 'khổ một lần đủ rồi, đừng dại đi bước nữa', nhưng tôi không muốn sống phần đời còn lại trong tâm thế phòng thủ với hạnh phúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T15:26:54+07:00",
+      "fetched": "2026-07-18T23:43:39.348851+07:00"
+    },
+    {
+      "id": "ad475c3021b11bb1d87214248d2b6d69",
+      "title": "Có khả năng vợ ngoại tình với người tôi không ngờ tới",
+      "link": "https://vnexpress.net/co-kha-nang-vo-ngoai-tinh-voi-nguoi-toi-khong-ngo-toi-5098930.html",
+      "summary": "Tôi cầm máy vợ, giả vờ là vợ rồi hỏi người kia ở đâu, hắn trả lời: \"Em về chưa\"; tay tôi run quá không bấm được máy nữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T15:26:42+07:00",
+      "fetched": "2026-07-18T23:43:39.348972+07:00"
+    },
+    {
+      "id": "68116dd27bbca538b49bd9fbb6736874",
+      "title": "HLV Kim Sang-sik: 'Bộ ba nhập tịch giúp Việt Nam mạnh hơn nhiều'",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-bo-ba-nhap-tich-giup-viet-nam-manh-hon-nhieu-5099029.html",
+      "summary": "HLV Kim Sang-sik hài lòng với màn trình diễn của Nguyễn Xuân Son, Đỗ Hoàng Hên và Nguyễn Tài Lộc, khi Việt Nam hạ Myanmar 4-0 trong trận giao hữu trên sân Thái Nguyên tối 18/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T15:21:27+07:00",
+      "fetched": "2026-07-18T23:43:39.349114+07:00"
+    },
+    {
+      "id": "68116dd27bbca538b49bd9fbb6736874",
+      "title": "HLV Kim Sang-sik: 'Bộ ba nhập tịch giúp Việt Nam mạnh hơn nhiều'",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-bo-ba-nhap-tich-giup-viet-nam-manh-hon-nhieu-5099029.html",
+      "summary": "HLV Kim Sang-sik hài lòng với màn trình diễn của Nguyễn Xuân Son, Đỗ Hoàng Hên và Nguyễn Tài Lộc, khi Việt Nam hạ Myanmar 4-0 trong trận giao hữu trên sân Thái Nguyên tối 18/7.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-18T15:21:27+07:00",
+      "fetched": "2026-07-18T23:43:52.473505+07:00"
+    },
+    {
+      "id": "2721e0283a637aa7b804d625f8c8a20f",
+      "title": "Quảng Ngãi: Phát hiện thêm hài cốt liệt sĩ trong khuôn viên nghĩa trang liệt sĩ",
+      "link": "https://thanhnien.vn/quang-ngai-phat-hien-them-hai-cot-liet-si-trong-khuon-vien-nghia-trang-liet-si-185260718204504845.htm",
+      "summary": "Trong quá trình đào các rãnh tìm kiếm tại khu đất trống thuộc khuôn viên Nghĩa trang liệt sĩ phường Đăk Cấm (Quảng Ngãi), lực lượng chức năng phát hiện thêm 1 hài cốt liệt sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T15:16:00+07:00",
+      "fetched": "2026-07-18T23:43:42.496630+07:00"
+    },
+    {
+      "id": "f3aeb96a86a1a572a76db418dabe13ad",
+      "title": "Đài CBS: Binh sĩ Mỹ bị thương vì Iran tấn công",
+      "link": "https://thanhnien.vn/dai-cbs-binh-si-my-bi-thuong-vi-iran-tan-cong-185260718182446658.htm",
+      "summary": "Tehran một lần nữa tập kích các cơ sở quân sự của Mỹ ở Jordan, nơi đã có báo cáo về thương vong trong một cuộc tấn công trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T15:16:00+07:00",
+      "fetched": "2026-07-18T23:43:42.496757+07:00"
+    },
+    {
+      "id": "ec69af1ed11ffdb1687a8cc67accb0a3",
+      "title": "HLV Kim Sang-sik khen ngợi Đình Bắc, tiết lộ sốc về Xuân Son: 'Cậu ấy bị đau...'",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-khen-ngoi-dinh-bac-tiet-lo-soc-ve-xuan-son-cau-ay-bi-dau-185260718210230299.htm",
+      "summary": "HLV Kim Sang-sik tin rằng chiến thắng 4-0 trước Myanmar (tối 18.7) là màn chạy đà hoàn hảo để đội tuyển Việt Nam tự tin hướng tới AFF Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T15:03:00+07:00",
+      "fetched": "2026-07-18T23:43:42.496880+07:00"
+    },
+    {
+      "id": "f68cdd154051bce53323bde7b87c881c",
+      "title": "Đồng minh của Thủ tướng Đức từ chức vì thuê người mang thai hộ",
+      "link": "https://vnexpress.net/dong-minh-cua-thu-tuong-duc-tu-chuc-vi-thue-nguoi-mang-thai-ho-5099025.html",
+      "summary": "Nghị sĩ Jens Spahn từ chức lãnh đạo phe CDU trong quốc hội Đức sau khi gây tranh cãi vì thuê người mang thai hộ ở Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T15:02:17+07:00",
+      "fetched": "2026-07-18T23:43:39.349253+07:00"
+    },
+    {
+      "id": "f68cdd154051bce53323bde7b87c881c",
+      "title": "Đồng minh của Thủ tướng Đức từ chức vì thuê người mang thai hộ",
+      "link": "https://vnexpress.net/dong-minh-cua-thu-tuong-duc-tu-chuc-vi-thue-nguoi-mang-thai-ho-5099025.html",
+      "summary": "Nghị sĩ Jens Spahn từ chức lãnh đạo phe CDU trong quốc hội Đức sau khi gây tranh cãi vì thuê người mang thai hộ ở Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-18T15:02:17+07:00",
+      "fetched": "2026-07-18T23:43:46.788387+07:00"
+    },
+    {
+      "id": "338768977dc14d86b647613fe07602c4",
+      "title": "Hoàng Hên và Lê Giang Patrik hạnh phúc vì đã tỏa sáng giúp đội tuyển Việt Nam thắng lớn",
+      "link": "https://thanhnien.vn/hoang-hen-va-le-giang-patrik-hanh-phuc-toa-sang-giup-doi-tuyen-viet-nam-thang-lon-18526071821471664.htm",
+      "summary": "Thủ thành Lê Giang Patrik tự hào khi lần đầu cống hiến cho đội tuyển Việt Nam, trong khi Hoàng Hên cũng rất hạnh phúc khi tỏa sáng giúp đội tuyển Việt Nam thắng lớn 4-0 trước Myanmar.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T14:51:00+07:00",
+      "fetched": "2026-07-18T23:43:42.497010+07:00"
+    },
+    {
+      "id": "999084fc3383e9f4f20b7d75cacf5ae6",
+      "title": "HLV Myanmar than phiền: ‘Đội tuyển Việt Nam mạnh thật sự, chúng tôi để thủng lưới dễ quá'",
+      "link": "https://thanhnien.vn/hlv-myanmar-than-phien-doi-tuyen-viet-nam-manh-that-su-chung-toi-de-thung-luoi-de-qua-185260718211025852.htm",
+      "summary": "HLV Jorn Andersen 'tâm phục khẩu phục' trước sức mạnh áp đảo của đội tuyển Việt Nam ở trận giao hữu tối 18.7 trên sân Thái Nguyên, khi Myanmar thua đậm 0-4.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T14:48:00+07:00",
+      "fetched": "2026-07-18T23:43:42.497150+07:00"
+    },
+    {
+      "id": "4f07ebeb97d791ae60e7be0b9c43e242",
+      "title": "Xuân Son mở màn, Đình Bắc chốt hạ: Đội tuyển Việt Nam thắng giòn giã Myanmar trước ASEAN Cup",
+      "link": "https://thanhnien.vn/xuan-son-mo-man-dinh-bac-chot-ha-doi-tuyen-viet-nam-thang-gion-gia-myanmar-truoc-asean-cup-18526071821333965.htm",
+      "summary": "Xuân Son mở tỷ số, trước khi Phạm Xuân Mạnh, Hoàng Hên và Đình Bắc lần lượt lập công giúp đội tuyển Việt Nam đánh bại Myanmar 4-0. Chiến thắng mang đến nhiều tín hiệu tích cực cho HLV Kim Sang-sik trước thềm ASEAN Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T14:46:00+07:00",
+      "fetched": "2026-07-18T23:43:42.497271+07:00"
+    },
+    {
+      "id": "2592b5723d3c9eade38b6525ad448a3f",
+      "title": "Tương quan trước trận Pháp - Anh",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-phap-anh-5099035.html",
+      "summary": "Pháp và Anh hy vọng rời World Cup 2026 với niềm vui an ủi, khi đối đầu trong trận tranh giải ba.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T14:37:42+07:00",
+      "fetched": "2026-07-18T23:43:39.349388+07:00"
+    },
+    {
+      "id": "2592b5723d3c9eade38b6525ad448a3f",
+      "title": "Tương quan trước trận Pháp - Anh",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-phap-anh-5099035.html",
+      "summary": "Pháp và Anh hy vọng rời World Cup 2026 với niềm vui an ủi, khi đối đầu trong trận tranh giải ba.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-18T14:37:42+07:00",
+      "fetched": "2026-07-18T23:43:52.473716+07:00"
     },
     {
       "id": "45222e1c20e12aa52a1df351fd9a6120",
