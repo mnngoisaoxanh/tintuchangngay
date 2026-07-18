@@ -1,7 +1,137 @@
 window.newsData_2026_07_18 = {
   "date": "2026-07-18",
-  "lastUpdated": "2026-07-18T14:27:29.237109+07:00",
+  "lastUpdated": "2026-07-18T16:15:11.610374+07:00",
   "articles": [
+    {
+      "id": "a506791469f8c940e4129883511af4e4",
+      "title": "Trung Đông trưa 18-7: Iran tấn công tàu Mỹ ở Ấn Độ Dương, cảnh báo trả đũa các nước cho Mỹ đóng quân",
+      "link": "https://tuoitre.vn/trung-dong-trua-18-7-iran-tan-cong-tau-my-o-an-do-duong-canh-bao-tra-dua-cac-nuoc-cho-my-dong-quan-100260718123654113.htm",
+      "summary": "Iran cảnh báo các quốc gia cho phép quân đội Mỹ trú đóng chuẩn bị đón 'đòn đáp trả tương xứng'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T16:15:06.909296+07:00",
+      "fetched": "2026-07-18T16:15:06.909387+07:00"
+    },
+    {
+      "id": "5500fc44647391ef4b9b259a66e8cbf0",
+      "title": "Chiến sự Mỹ - Iran leo thang, vì sao giá vàng lại rơi xuống dưới 4.000 USD/ounce?",
+      "link": "https://tuoitre.vn/chien-su-my-iran-leo-thang-vi-sao-gia-vang-lai-roi-xuong-duoi-4000-usd-ounce-100260718114841677.htm",
+      "summary": "Giá vàng phản ứng với tổng hòa nhiều yếu tố trên thị trường, không chỉ riêng thông tin bất ổn địa chính trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T16:15:06.909182+07:00",
+      "fetched": "2026-07-18T16:15:06.909279+07:00"
+    },
+    {
+      "id": "a7a06dda1073fdd311e8bcebf6e89b35",
+      "title": "Bộ Xây dựng kiến nghị mở rộng cao tốc Bắc - Nam, ưu tiên các tuyến 2 làn xe",
+      "link": "https://tuoitre.vn/bo-xay-dung-kien-nghi-mo-rong-cao-toc-bac-nam-uu-tien-cac-tuyen-2-lan-xe-100260718121706666.htm",
+      "summary": "Sau khi đánh giá, Bộ Xây dựng kiến nghị cấp có thẩm quyền xem xét, thống nhất chủ trương ưu tiên mở rộng các tuyến cao tốc 2 làn xe lên quy mô cao tốc hoàn chỉnh để bảo đảm an toàn, tránh gây tắc nghẽn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T16:15:06.909059+07:00",
+      "fetched": "2026-07-18T16:15:06.909164+07:00"
+    },
+    {
+      "id": "4d8bb70c9d95a76e1e6004616880ae0a",
+      "title": "Du khách quốc tế đi xe buýt miễn phí tại TP.HCM xác thực ra sao?",
+      "link": "https://tuoitre.vn/du-khach-quoc-te-di-xe-buyt-mien-phi-tai-tphcm-xac-thuc-ra-sao-100260717134130349.htm",
+      "summary": "Người dân đi xe buýt dùng căn cước công dân, quét mã QR VNeID, thẻ ngân hàng để xác thực lượt đi, vậy du khách quốc tế xác thực ra sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T16:15:06.908917+07:00",
+      "fetched": "2026-07-18T16:15:06.909037+07:00"
+    },
+    {
+      "id": "942c5e4d054ea111ea2c0eef8c847190",
+      "title": "Thú cưng đi máy bay cùng chủ: Tốn 3,3 - 5 triệu đồng, có trường hợp phải mua thêm ghế",
+      "link": "https://tuoitre.vn/thu-cung-di-may-bay-cung-chu-ton-33-5-trieu-dong-co-truong-hop-phai-mua-them-ghe-100260718124915483.htm",
+      "summary": "Hiệp hội Vận tải hàng không Quốc tế (IATA) công bố hướng dẫn mới hành trình của thú cưng, từ đặt chỗ, làm thủ tục, soi chiếu an ninh, lên máy bay đến quá cảnh và nhập cảnh. Tại Việt Nam, khách phải trả 3,3 - 5 triệu đồng, thậm chí mua thêm ghế để chó, mèo được đi cùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T16:15:06.908806+07:00",
+      "fetched": "2026-07-18T16:15:06.908896+07:00"
+    },
+    {
+      "id": "a03b0a7d92cd1d854ab6bc246f858385",
+      "title": "Doanh nghiệp nhà nước hiến kế tăng trưởng, tạo chuỗi liên kết dẫn dắt doanh nghiệp nội",
+      "link": "https://tuoitre.vn/doanh-nghiep-nha-nuoc-hien-ke-tang-truong-tao-chuoi-lien-ket-dan-dat-doanh-nghiep-noi-100260718123445755.htm",
+      "summary": "Nhiều doanh nghiệp nhà nước hiến kế thúc đẩy tăng trưởng tại hội nghị Thường trực Chính phủ với cộng đồng doanh nghiệp do Thủ tướng Lê Minh Hưng chủ trì ngày 18-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T16:15:06.908690+07:00",
+      "fetched": "2026-07-18T16:15:06.908787+07:00"
+    },
+    {
+      "id": "e3d450b751a648f1f4813414ed2c5f07",
+      "title": "TP.HCM đề xuất hỗ trợ chi phí chạy thận cho hơn 9.000 người bệnh",
+      "link": "https://tuoitre.vn/tphcm-de-xuat-ho-tro-chi-phi-chay-than-cho-hon-9000-nguoi-benh-100260718131851135.htm",
+      "summary": "TP.HCM đang lấy ý kiến dự thảo nghị quyết hỗ trợ chi phí chạy thận nhân tạo và lọc màng bụng chu kỳ cho hơn 9.000 người bệnh, với kinh phí dự kiến gần 166 tỉ đồng mỗi năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T16:15:06.908616+07:00",
+      "fetched": "2026-07-18T16:15:06.908679+07:00"
+    },
+    {
+      "id": "35874b867498814bf368bb2f7026fa12",
+      "title": "Từ Phú Quốc, tân binh hàng không Việt bứt tốc ra thế giới",
+      "link": "https://tuoitre.vn/tu-phu-quoc-tan-binh-hang-khong-viet-but-toc-ra-the-gioi-100260718114950622.htm",
+      "summary": "Cất cánh thương mại từ tháng 11-2025, Sun PhuQuoc Airways của tập đoàn Sun Group gia nhập ngành hàng không Việt Nam ở thời điểm ngành ghi nhận sự phục hồi bùng nổ nhưng cũng đối mặt với nhiều thách thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T16:15:06.908516+07:00",
+      "fetched": "2026-07-18T16:15:06.908603+07:00"
+    },
+    {
+      "id": "4711526779cd82c840646be99a1df698",
+      "title": "Gia Lai còn 1.054 cơ sở nhà đất dôi dư bỏ trống sau sắp xếp",
+      "link": "https://tuoitre.vn/gia-lai-con-1054-co-so-nha-dat-doi-du-bo-trong-sau-sap-xep-100260718130530576.htm",
+      "summary": "Thanh tra tỉnh Gia Lai xác định có 1.054 cơ sở nhà đất dôi dư bị bỏ trống, trong đó có nhiều nơi bị người dân lấn chiếm xây dựng công trình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T16:15:06.908406+07:00",
+      "fetched": "2026-07-18T16:15:06.908503+07:00"
+    },
+    {
+      "id": "65b65a818de450a6b7585583c92355eb",
+      "title": "Ra mắt Bệnh viện Đa khoa Bình Dương cơ sở 2 tại Bắc Tân Uyên",
+      "link": "https://tuoitre.vn/ra-mat-benh-vien-da-khoa-binh-duong-co-so-2-tai-bac-tan-uyen-100260718133145159.htm",
+      "summary": "Sau hợp nhất, TP.HCM tăng cường nhân lực y tế từ các bệnh viện lớn về cơ sở, trong đó Trung tâm Y tế khu vực Bắc Tân Uyên chính thức thành cơ sở 2 của Bệnh viện Đa khoa Bình Dương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T16:15:06.908288+07:00",
+      "fetched": "2026-07-18T16:15:06.908386+07:00"
+    },
+    {
+      "id": "8481a0009cc4ad6c1dbdc04013c524a3",
+      "title": "Một công ty bất động sản vốn trăm tỉ ở TP.HCM: 14 nhân sự, doanh thu vỏn vẹn 1 triệu đồng/tháng",
+      "link": "https://tuoitre.vn/mot-cong-ty-bat-dong-san-von-tram-ti-o-tphcm-14-nhan-su-doanh-thu-von-ven-1-trieu-dong-thang-100260718134039854.htm",
+      "summary": "Trong 6 tháng đầu năm nay, Công ty CP Phát triển Đô thị (Becamex UDJ) ghi nhận doanh thu 6 triệu đồng, tức bình quân 1 triệu đồng/tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T16:15:06.907978+07:00",
+      "fetched": "2026-07-18T16:15:06.908272+07:00"
+    },
+    {
+      "id": "143089aca5a0387f108b324821a9131b",
+      "title": "TS Alex Võ Đình Thái kể việc giải mã hồ sơ quân sự tại Mỹ để xác định thông tin liệt sĩ",
+      "link": "https://tuoitre.vn/ts-alex-vo-dinh-thai-ke-viec-giai-ma-ho-so-quan-su-tai-my-de-xac-dinh-thong-tin-liet-si-100260718113555649.htm",
+      "summary": "Từ kho tư liệu chiến tranh tại Mỹ, PGS TS Alex Võ Đình Thái và cộng sự đang lần theo những dấu vết còn sót lại để tìm kiếm quân nhân Việt Nam mất tích, góp phần hàn gắn những vết thương chiến tranh để lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T16:15:06.907899+07:00",
+      "fetched": "2026-07-18T16:15:06.907966+07:00"
+    },
+    {
+      "id": "b847e37a3d70d8a4d3ba58e5a4589014",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm: Xây dựng Cảnh sát nhân dân tinh nhuệ, đáp ứng yêu cầu mới",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-xay-dung-canh-sat-nhan-dan-tinh-nhue-dap-ung-yeu-cau-moi-100260718142457833.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu xây dựng lực lượng Cảnh sát nhân dân tinh nhuệ, hiện đại, sẵn sàng đáp ứng yêu cầu trong tình hình mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T16:15:06.907746+07:00",
+      "fetched": "2026-07-18T16:15:06.907885+07:00"
+    },
     {
       "id": "3deb61fc1165ef2e74bede0a89d80afe",
       "title": "Truy tố 3 người thuê ô tô mang đi cầm cố chiếm đoạt hơn 4 tỉ đồng",
@@ -303,6 +433,116 @@ window.newsData_2026_07_18 = {
       "fetched": "2026-07-18T11:39:00.803665+07:00"
     },
     {
+      "id": "2fcf6e0c81bd16552ca48fd6116dd091",
+      "title": "Nữ diễn viên phim 'Ở nhà một mình' qua đời",
+      "link": "https://thanhnien.vn/nu-dien-vien-phim-o-nha-mot-minh-qua-doi-185260718161348349.htm",
+      "summary": "Nữ diễn viên Brenda Fricker, vào vai người phụ nữ vô gia cư trong 'Home Alone 2' (Ở nhà một mình 2) và là người Ireland đầu tiên thắng giải Oscar, đã trút hơi thở cuối cùng vào tối 16.7 (giờ địa phương), thọ 81 tuổi, theo AP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T09:13:00+07:00",
+      "fetched": "2026-07-18T16:15:05.619958+07:00"
+    },
+    {
+      "id": "c8712b4aa35181e0404a1ce4094bc5a8",
+      "title": "Xe gia đình cỡ nhỏ: VinFast nắm gần 60% thị phần, nhóm xe xăng thất thế",
+      "link": "https://thanhnien.vn/xe-gia-dinh-co-nho-vinfast-nam-gan-60-thi-phan-nhom-xe-xang-that-the-185260718101812445.htm",
+      "summary": "Sáu tháng đầu năm 2026, xe gia đình cỡ nhỏ đạt doanh số hơn 63.000 chiếc. Đáng chú ý, sự áp đảo của 2 mẫu ô tô điện VinFast đang làm thay đổi cục diện cạnh tranh ở phân khúc này, đẩy nhiều dòng xe xăng vào thế bám đuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T09:11:00+07:00",
+      "fetched": "2026-07-18T16:15:05.620128+07:00"
+    },
+    {
+      "id": "5333ba9907449a03e03440fb9149dc90",
+      "title": "Thủ tướng: Kiến nghị của doanh nghiệp phải được xử lý đến cùng",
+      "link": "https://thanhnien.vn/thu-tuong-kien-nghi-cua-doanh-nghiep-phai-duoc-xu-ly-den-cung-185260718154150425.htm",
+      "summary": "Chính phủ xác định phát triển doanh nghiệp và hỗ trợ doanh nghiệp thúc đẩy các hoạt động sản xuất, kinh doanh là yêu cầu có ý nghĩa chiến lược quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T09:05:00+07:00",
+      "fetched": "2026-07-18T16:15:05.620287+07:00"
+    },
+    {
+      "id": "58a2dffc6b4e44d2aff0b5259d677505",
+      "title": "Lý do màn hình smartphone đắt tiền vẫn 'xuống sắc' khi ở dưới nắng",
+      "link": "https://thanhnien.vn/ly-do-man-hinh-smartphone-dat-tien-van-xuong-sac-khi-o-duoi-nang-185260717183902943.htm",
+      "summary": "Ngay cả smartphone cao cấp cũng có thể hiển thị kém khi gặp ánh nắng trực tiếp nếu chưa được tối ưu đúng cách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T09:02:00+07:00",
+      "fetched": "2026-07-18T16:15:05.620440+07:00"
+    },
+    {
+      "id": "993e3db988f0a9d59d5ff9ffe510658a",
+      "title": "Xổ số miền Nam ngày 18 tháng 7: Kết quả xổ số hôm nay thứ bảy",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-18-thang-7-ket-qua-xo-so-hom-nay-thu-bay-185260718154341469.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 18 tháng 7. Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay thứ bảy ngày 18.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T09:00:00+07:00",
+      "fetched": "2026-07-18T16:15:05.620610+07:00"
+    },
+    {
+      "id": "73a0508248c84a6204eb21e1c1c249b1",
+      "title": "UOB Việt Nam: Ngân hàng nước ngoài tiên phong hợp tác cùng Park Hyatt Saigon",
+      "link": "https://thanhnien.vn/uob-viet-nam-ngan-hang-nuoc-ngoai-tien-phong-hop-tac-cung-park-hyatt-saigon-185260718135338209.htm",
+      "summary": "Hợp tác với Park Hyatt Saigon đánh dấu bước tiến mới trong chiến lược xây dựng hệ sinh thái đối tác cao cấp của UOB Việt Nam, qua đó củng cố định vị thương hiệu tài chính tiên phong trong kiến tạo trải nghiệm khách hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T09:00:00+07:00",
+      "fetched": "2026-07-18T16:15:05.620771+07:00"
+    },
+    {
+      "id": "519a4cd1f5140443b0e2a83d4a714de8",
+      "title": "Doanh nghiệp 'hiến kế' tăng trưởng với Thủ tướng",
+      "link": "https://thanhnien.vn/doanh-nghiep-hien-ke-tang-truong-voi-thu-tuong-18526071815241262.htm",
+      "summary": "Chia sẻ với Thủ tướng tại hội nghị tháo gỡ điểm nghẽn, thúc đẩy tăng trưởng sáng 18.7, đại diện các doanh nghiệp nhà nước, doanh nghiệp tư nhân cũng như doanh nghiệp nước ngoài đã nêu nhiều hiến kế quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T08:58:00+07:00",
+      "fetched": "2026-07-18T16:15:05.620922+07:00"
+    },
+    {
+      "id": "69682908c79e50231e32f9a32510f69b",
+      "title": "Trực tiếp đội tuyển Việt Nam - Myanmar: Hoàn thiện đội hình cho ASEAN Cup 2026",
+      "link": "https://thanhnien.vn/truc-tiep-doi-tuyen-viet-nam-myanmar-hoan-thien-doi-hinh-cho-asean-cup-2026-185260718064220596.htm",
+      "summary": "Đội tuyển Việt Nam chạm trán đội tuyển Myanmar ở trận giao hữu diễn ra lúc 19 giờ hôm nay  trên SVĐ Thái Nguyên nhằm hoàn thiện đội hình cho ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T08:54:00+07:00",
+      "fetched": "2026-07-18T16:15:05.621070+07:00"
+    },
+    {
+      "id": "92bcb430862748d192f251df2f8cea9a",
+      "title": "Đi câu giữa lòng thành phố, 'chiến lợi phẩm' là những con tôm càng xanh to đùng",
+      "link": "https://thanhnien.vn/di-cau-giua-long-thanh-pho-chien-loi-pham-la-nhung-con-tom-cang-xanh-to-dung-185260718151631324.htm",
+      "summary": "Không cần đi đâu xa, ngay tại TP.HCM nhiều người cũng có thể trải nghiệm cảm giác ngồi câu tôm giữa không gian mát mẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T08:51:00+07:00",
+      "fetched": "2026-07-18T16:15:05.621219+07:00"
+    },
+    {
+      "id": "569a9297c25078870d45e0397235145e",
+      "title": "Cặp đôi vàng pickleball Việt Nam Trương Vinh Hiển - Sophia Huỳnh Trần vươn ra biển lớn",
+      "link": "https://thanhnien.vn/cap-doi-vang-pickleball-viet-nam-truong-vinh-hien-sophia-huynh-tran-vuon-ra-bien-lon-185260718135826528.htm",
+      "summary": "Trương Vinh Hiển cùng bạn gái Sophia Huỳnh Trần có sự tiến bộ vững chắc, từng bước chinh phục làng pickleball chuyên nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T08:51:00+07:00",
+      "fetched": "2026-07-18T16:15:05.621373+07:00"
+    },
+    {
+      "id": "eefea5f41bd68947901f5aeacee18e3e",
+      "title": "Ukraine công bố video vụ đánh bom ám sát triệu phú tại Monaco",
+      "link": "https://thanhnien.vn/ukraine-cong-bo-video-vu-danh-bom-am-sat-trieu-phu-tai-monaco-185260718151050872.htm",
+      "summary": "Doanh nhân Ukraine Vadym Yermolaiev và các thành viên gia đình bị thương hồi tháng 6 khi một quả bom trong ba lô phát nổ bên ngoài tòa nhà nơi họ sinh sống ở Monaco.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T08:50:00+07:00",
+      "fetched": "2026-07-18T16:15:05.621525+07:00"
+    },
+    {
       "id": "ec0600fc5f83854881c6c0cbe5ef9bef",
       "title": "Mỹ không kích Iran đêm thứ 7 liên tiếp, Tehran dọa 'tấn công toàn diện' đáp trả",
       "link": "https://tuoitre.vn/my-khong-kich-iran-dem-thu-7-lien-tiep-tehran-doa-tan-cong-toan-dien-dap-tra-10026071805260887.htm",
@@ -373,6 +613,156 @@ window.newsData_2026_07_18 = {
       "fetched": "2026-07-18T08:28:39.062191+07:00"
     },
     {
+      "id": "12aea8f95d9f6a6a2fc6d0b1a87611d5",
+      "title": "Thêm xã ở Đồng Nai tặng SGK miễn phí cho học sinh từ lớp 1 đến 12",
+      "link": "https://thanhnien.vn/them-xa-o-dong-nai-tang-sgk-mien-phi-cho-hoc-sinh-tu-lop-1-den-12-185260718152013884.htm",
+      "summary": "Xã Nha Bích, thành phố Đồng Nai sẽ tặng sách giáo khoa miễn phí cho học sinh từ lớp 1 đến lớp 12 trên địa bàn xã với tổng số 3.552 bộ sách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T08:26:00+07:00",
+      "fetched": "2026-07-18T16:15:05.621697+07:00"
+    },
+    {
+      "id": "0762e7b3d302676cf5035780e3fc049c",
+      "title": "Xây dựng lực lượng Cảnh sát nhân dân cách mạng, chính quy, tinh nhuệ, hiện đại",
+      "link": "https://thanhnien.vn/xay-dung-luc-luong-canh-sat-nhan-dan-cach-mang-chinh-quy-tinh-nhue-hien-dai-185260718145222037.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu, xây dựng lực lượng Cảnh sát nhân dân cách mạng, chính quy, tinh nhuệ, hiện đại, 'Kỷ luật nhất - Trung thành nhất - Gần dân nhất', đáp ứng yêu cầu, nhiệm vụ trong tình hình mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T08:22:00+07:00",
+      "fetched": "2026-07-18T16:15:05.621854+07:00"
+    },
+    {
+      "id": "4f9c2f0f995eb66656cc429dd5a0ead7",
+      "title": "93% sinh viên Trường ĐH Y dược Buôn Ma Thuột tốt nghiệp loại khá, giỏi",
+      "link": "https://thanhnien.vn/93-sinh-vien-truong-dh-y-duoc-buon-ma-thuot-tot-nghiep-loai-kha-gioi-185260718144120348.htm",
+      "summary": "Trường ĐH Y dược Buôn Ma Thuột tổ chức lễ tốt nghiệp đợt 2 năm 2026, trao bằng cho 283 tân bác sĩ, dược sĩ và cử nhân, chính thức tiếp sức nguồn nhân lực cho ngành y tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T08:20:00+07:00",
+      "fetched": "2026-07-18T16:15:05.622002+07:00"
+    },
+    {
+      "id": "77f3e05ab1b025b6dfdcf9032f59332b",
+      "title": "Nhận định bóng đá Pháp vs Anh: Đôi công hấp dẫn, nhiều bàn thắng",
+      "link": "https://thanhnien.vn/nhan-dinh-bong-da-phap-vs-anh-doi-cong-hap-dan-nhieu-ban-thang-185260718150703988.htm",
+      "summary": "Màn so tài Pháp vs Anh thuộc khuôn khổ trận tranh hạng ba World Cup 2026 diễn ra lúc 4 giờ ngày 19.7. Cuộc chạm trán này nhiều khả năng sẽ chứng kiến thế trận đôi công và màn rượt đuổi tỷ số hấp dẫn của 2 đội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T08:19:00+07:00",
+      "fetched": "2026-07-18T16:15:05.622153+07:00"
+    },
+    {
+      "id": "8ff4396d32e432912f093de18fe64c72",
+      "title": "Trẻ uống sữa chắc chắn sẽ cao lên?",
+      "link": "https://vnexpress.net/tre-uong-sua-chac-chan-se-cao-len-5098674.html",
+      "summary": "Sữa không quyết định tất cả chiều cao của trẻ; trẻ cần phối hợp đủ dinh dưỡng, vitamin D, ngủ ngon và vận động điều độ để phát triển tối đa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T08:15:34+07:00",
+      "fetched": "2026-07-18T16:15:03.157370+07:00"
+    },
+    {
+      "id": "f30f348e32872c5d009a2238ddb0b0c8",
+      "title": "Tập đoàn C.P. mở rộng đầu tư tại Việt Nam",
+      "link": "https://vnexpress.net/tap-doan-c-p-mo-rong-dau-tu-tai-viet-nam-5098931.html",
+      "summary": "Tập đoàn C.P. kế hoạch đẩy mạnh đầu tư vào các dự án chế biến gia cầm, thịt heo tại Việt Nam, tăng cường ứng dụng AI trên toàn chuỗi tích hợp Feed - Farm - Food.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T08:15:00+07:00",
+      "fetched": "2026-07-18T16:15:03.157554+07:00"
+    },
+    {
+      "id": "ef632d49b05cda8322ce192c53d40839",
+      "title": "Khởi động Ngày hội Trí tuệ nhân tạo Việt Nam 2026",
+      "link": "https://vnexpress.net/khoi-dong-ngay-hoi-tri-tue-nhan-tao-viet-nam-2026-5098922.html",
+      "summary": "Ngày hội Trí tuệ nhân tạo Việt Nam (AI4VN) 2026 có chủ đề Agentic AI, kết nối cơ quan quản lý, doanh nghiệp và cộng đồng công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T08:13:27+07:00",
+      "fetched": "2026-07-18T16:15:03.157746+07:00"
+    },
+    {
+      "id": "ef632d49b05cda8322ce192c53d40839",
+      "title": "Khởi động Ngày hội Trí tuệ nhân tạo Việt Nam 2026",
+      "link": "https://vnexpress.net/khoi-dong-ngay-hoi-tri-tue-nhan-tao-viet-nam-2026-5098922.html",
+      "summary": "Ngày hội Trí tuệ nhân tạo Việt Nam (AI4VN) 2026 có chủ đề Agentic AI, kết nối cơ quan quản lý, doanh nghiệp và cộng đồng công nghệ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-18T08:13:27+07:00",
+      "fetched": "2026-07-18T16:15:10.896421+07:00"
+    },
+    {
+      "id": "77d134202673d73c5aa69d1e852469ff",
+      "title": "Đại gia ngoại tăng đầu tư trung tâm thương mại Hà Nội",
+      "link": "https://vnexpress.net/dai-gia-ngoai-tang-dau-tu-trung-tam-thuong-mai-ha-noi-5098936.html",
+      "summary": "Bên cạnh Lotte, Aeon, thị trường bán lẻ Thủ đô ngày càng cạnh tranh với làn sóng mở rộng đầu tư của một số doanh nghiệp ngoại như Keppel, Takashimaya.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T08:00:55+07:00",
+      "fetched": "2026-07-18T16:15:03.157910+07:00"
+    },
+    {
+      "id": "3bd8349b7f2a30b39e2558284eb5dc47",
+      "title": "7 môn học còn thiếu giáo viên ở TP HCM",
+      "link": "https://vnexpress.net/danh-sach-cac-mon-hoc-dang-thieu-giao-vien-o-tp-hcm-5098637.html",
+      "summary": "TP HCM thiếu hơn 2.260 giáo viên trước thềm năm học mới, tập trung ở các môn Tiếng Anh, Tin học và nhóm Nghệ thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T08:00:28+07:00",
+      "fetched": "2026-07-18T16:15:03.158067+07:00"
+    },
+    {
+      "id": "8440c73b882f89c067fea315657e5565",
+      "title": "Xây phòng trên đất của bố mẹ chồng lại sống cạnh ông bà, tôi sợ tiếp tục bị quản lý",
+      "link": "https://vnexpress.net/xay-phong-tren-dat-cua-bo-me-chong-lai-song-canh-ong-ba-toi-so-tiep-tuc-bi-quan-ly-5098819.html",
+      "summary": "Mẹ chồng nhiệt tình với con cháu nhưng thích quản lý mọi việc; cách nuôi con của hai thế hệ có sự khác biệt nên ở chung có xung đột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T08:00:00+07:00",
+      "fetched": "2026-07-18T16:15:03.158223+07:00"
+    },
+    {
+      "id": "b77ed3aad1ea4b119fdb399cb81955fe",
+      "title": "Con gì ngủ nhưng mắt vẫn mở?",
+      "link": "https://vnexpress.net/con-gi-ngu-nhung-mat-van-mo-5098150.html",
+      "summary": "Thiên nhiên luôn ẩn chứa những điều kỳ thú làm đảo lộn suy nghĩ thông thường, bạn có biết loài vật nào dù ngủ nhưng đôi mắt vẫn mở to?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T08:00:00+07:00",
+      "fetched": "2026-07-18T16:15:03.158411+07:00"
+    },
+    {
+      "id": "51b29c0f29e747fbfa33c8cca1cc2c81",
+      "title": "Dự án chống ngập lớn nhất TP HCM phát sinh hơn 2.500 tỷ đồng lãi vay",
+      "link": "https://vnexpress.net/du-an-chong-ngap-lon-nhat-tp-hcm-phat-sinh-hon-2-500-ty-dong-lai-vay-5098940.html",
+      "summary": "Sau nhiều năm trễ hẹn, dự án ngăn triều gần 10.000 tỷ đồng phát sinh hơn 2.535 tỷ đồng lãi vay, hiện tăng bình quân 1,08 tỷ đồng mỗi ngày, theo nhà đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T07:57:31+07:00",
+      "fetched": "2026-07-18T16:15:03.158639+07:00"
+    },
+    {
+      "id": "40652a78319f48b2e82bad20271ad477",
+      "title": "Iran công bố ảnh 'khu nhà lính Mỹ trúng đòn' ở căn cứ Jordan",
+      "link": "https://vnexpress.net/iran-cong-bo-anh-khu-nha-linh-my-trung-don-o-can-cu-jordan-5098835.html",
+      "summary": "Ảnh vệ tinh của Iran cho thấy nhiều công trình, được cho là khu nhà cho binh sĩ Mỹ, bị phá hủy trong đòn tập kích căn cứ King Faisal.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T07:56:32+07:00",
+      "fetched": "2026-07-18T16:15:03.158799+07:00"
+    },
+    {
+      "id": "40652a78319f48b2e82bad20271ad477",
+      "title": "Iran công bố ảnh 'khu nhà lính Mỹ trúng đòn' ở căn cứ Jordan",
+      "link": "https://vnexpress.net/iran-cong-bo-anh-khu-nha-linh-my-trung-don-o-can-cu-jordan-5098835.html",
+      "summary": "Ảnh vệ tinh của Iran cho thấy nhiều công trình, được cho là khu nhà cho binh sĩ Mỹ, bị phá hủy trong đòn tập kích căn cứ King Faisal.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-18T07:56:32+07:00",
+      "fetched": "2026-07-18T16:15:07.927782+07:00"
+    },
+    {
       "id": "4a278b9ef1a2395dcecddc7472dab167",
       "title": "Apple tăng giá gói lưu trữ iCloud+ tại Việt Nam",
       "link": "https://thanhnien.vn/apple-tang-gia-goi-luu-tru-icloud-tai-viet-nam-185260718110503465.htm",
@@ -441,6 +831,16 @@ window.newsData_2026_07_18 = {
       "category": "Tổng hợp",
       "published": "2026-07-18T07:00:00+07:00",
       "fetched": "2026-07-18T14:27:16.084737+07:00"
+    },
+    {
+      "id": "a78b2085adbca76550d67f6b704683ab",
+      "title": "TP HCM muốn đưa công nghệ cao thành nhóm xuất khẩu chủ lực",
+      "link": "https://vnexpress.net/tp-hcm-muon-dua-cong-nghe-cao-thanh-nhom-xuat-khau-chu-luc-5098883.html",
+      "summary": "TP HCM muốn hàng hóa có hàm lượng công nghệ cao và trung bình chiếm 70% kim ngạch xuất khẩu đến năm 2030, khuyến khích doanh nghiệp đầu tư vào R&D, chuyển giao công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T07:00:00+07:00",
+      "fetched": "2026-07-18T16:15:03.159284+07:00"
     },
     {
       "id": "482de1cc24e88e396c115e4955b6351b",
