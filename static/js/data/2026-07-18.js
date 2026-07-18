@@ -1,7 +1,157 @@
 window.newsData_2026_07_18 = {
   "date": "2026-07-18",
-  "lastUpdated": "2026-07-18T19:52:23.831736+07:00",
+  "lastUpdated": "2026-07-18T21:43:15.737932+07:00",
   "articles": [
+    {
+      "id": "1516d7a65298ec873a1f246631e1b824",
+      "title": "Tổng thống Donald Trump chỉ trích chiến thuật của HLV tuyển Anh",
+      "link": "https://tuoitre.vn/tong-thong-donald-trump-chi-trich-chien-thuat-cua-hlv-tuyen-anh-100260718184731934.htm",
+      "summary": "Phát biểu tại buổi tiếp đón của FIFA tổ chức ở Tháp Trump (18-7), Tổng thống Mỹ Donald Trump đã bất ngờ lên tiếng chỉ trích cách HLV Thomas Tuchel sử dụng Harry Kane trong trận đấu giữa tuyển Anh và tuyển Argentina tại bán kết World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:43:09.589034+07:00",
+      "fetched": "2026-07-18T21:43:09.589096+07:00"
+    },
+    {
+      "id": "fed7ca1032c9c76a233276b2eda1b62f",
+      "title": "Phó bí thư Thành ủy TP.HCM Nguyễn Phước Lộc thăm, chúc thọ Mẹ Việt Nam anh hùng",
+      "link": "https://tuoitre.vn/pho-bi-thu-thanh-uy-tphcm-nguyen-phuoc-loc-tham-chuc-tho-me-viet-nam-anh-hung-100260718180158903.htm",
+      "summary": "Ngày 18-7, đoàn Ủy ban MTTQ Việt Nam TP.HCM do ông Nguyễn Phước Lộc - Ủy viên Trung ương Đảng, Phó bí thư Thành ủy, Chủ tịch Ủy ban MTTQ Việt Nam TP.HCM - làm trưởng đoàn đã đến thăm, chúc thọ các Mẹ Việt Nam anh hùng nhân kỷ niệm 79 năm Ngày Thương binh - Liệt sĩ (27-7-1947 - 27-7-2026).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:43:09.588972+07:00",
+      "fetched": "2026-07-18T21:43:09.589024+07:00"
+    },
+    {
+      "id": "827d600b7b716eda839ece2ace36fcf3",
+      "title": "7 bệnh viện đa khoa TP.HCM hỗ trợ chuyên môn toàn diện cho 7 trung tâm y tế",
+      "link": "https://tuoitre.vn/7-benh-vien-da-khoa-tphcm-ho-tro-chuyen-mon-toan-dien-cho-7-trung-tam-y-te-100260718170033509.htm",
+      "summary": "Phó bí thư Thành ủy TP.HCM Nguyễn Phước Lộc chỉ rõ nhiệm vụ trước mắt của ngành y tế là khám sức khỏe toàn dân đảm bảo chất lượng, đồng thời yêu cầu 168 xã, phường, đặc khu sát cánh trong công tác này, xem việc nâng cao sức khỏe người dân là nhiệm vụ chính trị quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:43:09.588909+07:00",
+      "fetched": "2026-07-18T21:43:09.588962+07:00"
+    },
+    {
+      "id": "c53058ddea378be22dd13333f0a12d2d",
+      "title": "Lửa trắng tiếp tục chứng minh sức hút của dòng phim cảnh sát hình sự",
+      "link": "https://tuoitre.vn/lua-trang-tiep-tuc-chung-minh-suc-hut-cua-dong-phim-canh-sat-hinh-su-100260718184010362.htm",
+      "summary": "Lửa trắng thêm một lần nữa chứng minh sức hút của dòng phim cảnh sát hình sự - vốn được xem là 'đặc sản' của Trung tâm phim truyền hình (VFC) - Đài Truyền hình Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:43:09.588840+07:00",
+      "fetched": "2026-07-18T21:43:09.588899+07:00"
+    },
+    {
+      "id": "77fbc8691aaadd4c37180e1e5ae8ce83",
+      "title": "Apple tăng giá iCloud+ tại Việt Nam, gói cao nhất lên gần 1,8 triệu đồng",
+      "link": "https://tuoitre.vn/apple-tang-gia-icloud-tai-viet-nam-goi-cao-nhat-len-gan-18-trieu-dong-100260718185037959.htm",
+      "summary": "Động thái tăng giá của Apple đang được người dùng tại Việt Nam tranh luận sôi nổi trên các mạng xã hội, trong bối cảnh ông lớn công nghệ này cũng vừa tăng giá một loạt sản phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:43:09.588767+07:00",
+      "fetched": "2026-07-18T21:43:09.588829+07:00"
+    },
+    {
+      "id": "28ca2ddda155ae9930016cbcc1032e60",
+      "title": "Dai-ichi Life Việt Nam lan tỏa yêu thương với Chương trình Hiến máu nhân đạo tại Bắc Ninh",
+      "link": "https://tuoitre.vn/dai-ichi-life-viet-nam-lan-toa-yeu-thuong-voi-chuong-trinh-hien-mau-nhan-dao-tai-bac-ninh-100260718190126213.htm",
+      "summary": "Đây là hoạt động thứ hai trong chuỗi chương trình “Kết nối Triệu Yêu Thương – Hiến máu nhân đạo 2026” của Dai-ichi Life Việt Nam với mong muốn chung tay cùng ngành y tế thực hiện sứ mệnh cứu người bằng những hành động thiết thực và nhân văn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:43:09.588696+07:00",
+      "fetched": "2026-07-18T21:43:09.588756+07:00"
+    },
+    {
+      "id": "36baf86bbaa714892002985498f534da",
+      "title": "Mỹ 'đại tu' chính sách visa sau 50 năm, du học sinh chịu ảnh hưởng lớn",
+      "link": "https://tuoitre.vn/my-dai-tu-chinh-sach-visa-sau-50-nam-du-hoc-sinh-chiu-anh-huong-lon-100260718194640994.htm",
+      "summary": "Những thay đổi trong quy định về visa du học Mỹ được dự báo sẽ tác động mạnh đến kế hoạch học tập của hàng triệu sinh viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:43:09.588627+07:00",
+      "fetched": "2026-07-18T21:43:09.588685+07:00"
+    },
+    {
+      "id": "6d813a80b272487586f6b8be4aa46bab",
+      "title": "Hà Nội tổ chức thi tìm phương án sử dụng trụ sở dôi dư hiệu quả",
+      "link": "https://tuoitre.vn/ha-noi-to-chuc-thi-tim-phuong-an-su-dung-tru-so-doi-du-hieu-qua-100260718192658752.htm",
+      "summary": "Hà Nội bắt đầu tổ chức thi tìm kiếm các ý tưởng thiết kế để khai thác hiệu quả hơn các trụ sở dôi dư, cùng với thiết chế văn hóa hoạt động chưa hiệu quả, các quảng trường, công viên, gầm cầu, nhà ga, tuyến phố đi bộ, các làng nghề…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:43:09.588557+07:00",
+      "fetched": "2026-07-18T21:43:09.588616+07:00"
+    },
+    {
+      "id": "599455c80f1bf067007d84a6ffbb3d1e",
+      "title": "Con gái liệt sĩ Trần Văn Kiểu, con trai liệt sĩ Lê Thị Riêng 58 năm nghẹn lòng chờ ngày tìm được hài cốt cha, mẹ",
+      "link": "https://tuoitre.vn/con-gai-liet-si-tran-van-kieu-con-trai-liet-si-le-thi-rieng-58-nam-nghen-long-cho-ngay-tim-duoc-hai-cot-cha-me-100260718190843933.htm",
+      "summary": "Suốt 58 năm sau ngày cha hy sinh, bà Trần Thị Lệ Thu vẫn chỉ có một ước nguyện là tìm được hài cốt liệt sĩ Trần Văn Kiểu để trọn di nguyện của mẹ. Còn ông Lê Chí Công cũng lặng lẽ chờ đưa mẹ mình - liệt sĩ Lê Thị Riêng - trở về.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:43:09.588487+07:00",
+      "fetched": "2026-07-18T21:43:09.588546+07:00"
+    },
+    {
+      "id": "c6745f9646565440476af5174387a4e6",
+      "title": "Thành Đoàn TP.HCM hỗ trợ 5 xã biên giới Cao Bằng",
+      "link": "https://tuoitre.vn/thanh-doan-tphcm-ho-tro-5-xa-bien-gioi-cao-bang-100260718191442378.htm",
+      "summary": "Chiều 18-7, Thành Đoàn TP.HCM và Tỉnh Đoàn Cao Bằng ký kết phối hợp triển khai đề án hỗ trợ 5 xã biên giới đặc biệt khó khăn của tỉnh Cao Bằng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:43:09.588413+07:00",
+      "fetched": "2026-07-18T21:43:09.588475+07:00"
+    },
+    {
+      "id": "d08ac6869d27a178b038b019b49caa03",
+      "title": "SHB chuẩn bị hoàn tất thương vụ bán SHBFinance, sắp thu về nguồn thặng dư vốn lớn",
+      "link": "https://tuoitre.vn/shb-chuan-bi-hoan-tat-thuong-vu-ban-shbfinance-sap-thu-ve-nguon-thang-du-von-lon-100260718193218135.htm",
+      "summary": "SHB sắp thu về nguồn thặng dư vốn lớn sau khi hoàn tất chuyển nhượng 50% vốn còn lại tại SHBFinance cho Krungsri, qua đó tăng năng lực tài chính và tạo thêm dư địa tăng trưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:43:09.588315+07:00",
+      "fetched": "2026-07-18T21:43:09.588399+07:00"
+    },
+    {
+      "id": "bdf0ce8a30d1a0bb37853a7985d7bea4",
+      "title": "Ung thư đại trực tràng ở TP.HCM tăng gần 1,7 lần sau 20 năm",
+      "link": "https://tuoitre.vn/ung-thu-dai-truc-trang-o-tphcm-tang-gan-17-lan-sau-20-nam-100260718172440099.htm",
+      "summary": "Ung thư đại trực tràng đang gia tăng, tại TP.HCM tỉ lệ mắc tăng gần 1,7 lần trong hai thập kỷ qua. Cứ 10 ca ung thư được ghi nhận thì có 1 ca thuộc nhóm bệnh này, trong đó nhiều trường hợp vẫn bị nhầm lẫn với bệnh trĩ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:43:09.588242+07:00",
+      "fetched": "2026-07-18T21:43:09.588304+07:00"
+    },
+    {
+      "id": "dc632500a3e29a3ffb745df5c84c386d",
+      "title": "Bóng chuyền nam Thái Lan thua sốc Campuchia",
+      "link": "https://tuoitre.vn/bong-chuyen-nam-thai-lan-thua-soc-campuchia-100260718193309465.htm",
+      "summary": "Địa chấn xảy ra ở vòng bán kết Giải bóng chuyền nam SEA V.League 2026, khi các VĐV Thái Lan bất ngờ bại trận trước tuyển Campuchia trong trận đấu diễn ra tối 18-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:43:09.588160+07:00",
+      "fetched": "2026-07-18T21:43:09.588230+07:00"
+    },
+    {
+      "id": "ee3e46580dbb368b6abb207b91d99ee9",
+      "title": "Mỹ đảo chiều, cho phép nhân viên liên bang tải TikTok trên thiết bị công vụ",
+      "link": "https://tuoitre.vn/my-dao-chieu-cho-phep-nhan-vien-lien-bang-tai-tiktok-tren-thiet-bi-cong-vu-100260718200321548.htm",
+      "summary": "Bộ Tư pháp Mỹ \"bật đèn xanh\" để nhân viên liên bang tải TikTok trên thiết bị công vụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:43:09.588076+07:00",
+      "fetched": "2026-07-18T21:43:09.588148+07:00"
+    },
+    {
+      "id": "5b45ea11f6b47c3771d912c7084f0bf4",
+      "title": "Rộ tin thời điểm lãnh tụ tối cao Iran Mojtaba Khamenei xuất hiện, sẽ gặp tổng thống Putin?",
+      "link": "https://tuoitre.vn/ro-tin-thoi-diem-lanh-tu-toi-cao-iran-mojtaba-khamenei-xuat-hien-se-gap-tong-thong-putin-100260718201554612.htm",
+      "summary": "Nguồn tin cho biết cuộc tiếp xúc đầu tiên của ông Mojtaba Khamenei có thể sẽ diễn ra với Tổng thống Nga Vladimir Putin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T21:43:09.587931+07:00",
+      "fetched": "2026-07-18T21:43:09.588062+07:00"
+    },
     {
       "id": "b85b90ae6db12d09bfb195b844f1c798",
       "title": "Điện thoại nghe 'ù tai', thêm cửa hàng kim cương ở TP.HCM thông báo tạm ngừng",
@@ -433,6 +583,46 @@ window.newsData_2026_07_18 = {
       "fetched": "2026-07-18T16:15:06.907885+07:00"
     },
     {
+      "id": "45222e1c20e12aa52a1df351fd9a6120",
+      "title": "Phường Tam Bình, TP.HCM kiểm tra toàn bộ cơ sở giữ trẻ, nhóm lớp, trường mầm non",
+      "link": "https://thanhnien.vn/phuong-tam-binh-tphcm-kiem-tra-toan-bo-co-so-giu-tre-nhom-lop-truong-mam-non-185260718194211255.htm",
+      "summary": "Phường Tam Bình, TP.HCM tiếp tục kiểm tra toàn bộ các cơ sở giữ trẻ, nhóm, lớp, trường mầm non trên địa bàn phường, nắm tình hình hoạt động của các cơ sở để hướng dẫn, chấn chỉnh các sai phạm nếu có.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T14:33:00+07:00",
+      "fetched": "2026-07-18T21:43:07.353076+07:00"
+    },
+    {
+      "id": "ecf16d4bf996db9942359416dce6f717",
+      "title": "Thiếu nhi Việt Nam lan tỏa hình ảnh đất nước tại Nhật Bản",
+      "link": "https://thanhnien.vn/thieu-nhi-viet-nam-lan-toa-hinh-anh-dat-nuoc-tai-nhat-ban-18526071820121367.htm",
+      "summary": "Đoàn đại biểu thiếu nhi Việt Nam tham dự Trại hè 'Nhịp cầu' năm 2026 tại Nhật Bản đã tham gia nhiều hoạt động giao lưu văn hóa, trải nghiệm và kết nối với thiếu nhi đến từ nhiều quốc gia, vùng lãnh thổ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T14:32:00+07:00",
+      "fetched": "2026-07-18T21:43:07.353249+07:00"
+    },
+    {
+      "id": "9e92c114ab41d9c486d3aa26d9ce347b",
+      "title": "Highlight đội tuyển Việt Nam 4-0 Myanmar: Chiến thắng áp đảo",
+      "link": "https://thanhnien.vn/highlight-doi-tuyen-viet-nam-4-0-myanmar-chien-thang-ap-dao-185260718213108433.htm",
+      "summary": "Màn trình diễn thuyết phục trước Myanmar giúp HLV Kim Sang-sik có thêm nhiều cơ sở để hoàn thiện đội hình, đồng thời tạo cú hích về tinh thần trước khi bước vào ASEAN Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T14:31:00+07:00",
+      "fetched": "2026-07-18T21:43:07.353436+07:00"
+    },
+    {
+      "id": "38e84e6d840ee24453370d9f246866ce",
+      "title": "Được công nhận là vợ liệt sĩ sau gần 60 năm hứa hôn",
+      "link": "https://vnexpress.net/duoc-cong-nhan-la-vo-liet-si-sau-gan-60-nam-hua-hon-5099033.html",
+      "summary": "Bà Nguyễn Thị Lệ, 79 tuổi, được công nhận là vợ liệt sĩ Huỳnh Văn Quên và hưởng chế độ thân nhân từ tháng 7, gần 60 năm sau khi hai người hứa hôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T14:29:01+07:00",
+      "fetched": "2026-07-18T21:43:04.380210+07:00"
+    },
+    {
       "id": "3deb61fc1165ef2e74bede0a89d80afe",
       "title": "Truy tố 3 người thuê ô tô mang đi cầm cố chiếm đoạt hơn 4 tỉ đồng",
       "link": "https://tuoitre.vn/truy-to-3-nguoi-thue-o-to-mang-di-cam-co-chiem-doat-hon-4-ti-dong-100260718110939201.htm",
@@ -581,6 +771,266 @@ window.newsData_2026_07_18 = {
       "category": "Tổng hợp",
       "published": "2026-07-18T14:27:20.965674+07:00",
       "fetched": "2026-07-18T14:27:20.965835+07:00"
+    },
+    {
+      "id": "20357f2838f3b3194418a4c43b0cc074",
+      "title": "Văn Hậu được trả lại đúng vị trí sở trường, mạnh mẽ và khôn ngoan: Đội tuyển Việt Nam càng thêm hay",
+      "link": "https://thanhnien.vn/van-hau-duoc-tra-lai-dung-vi-tri-so-truong-manh-me-va-khon-ngoan-doi-tuyen-viet-nam-cang-them-hay-185260718210433152.htm",
+      "summary": "Trận giao hữu cuối cùng khi đội tuyển Việt Nam thắng Myanmar 4-0, đánh dấu Văn Hậu trở lại mạnh mẽ nơi biên trái giúp đội tuyển Việt Nam tự tin hướng đến ASEAN Cup 2026...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T14:23:00+07:00",
+      "fetched": "2026-07-18T21:43:07.353600+07:00"
+    },
+    {
+      "id": "7f990ac733a5b909c679d57abe2f45a2",
+      "title": "Quán quân HUTECH Startup Wings 2026: Biến bùn thải, xỉ lò cao thành vật liệu xây dựng xanh",
+      "link": "https://thanhnien.vn/quan-quan-hutech-startup-wings-2026-bien-bun-thai-xi-lo-cao-thanh-vat-lieu-xay-dung-xanh-185260718211241011.htm",
+      "summary": "Từ vật liệu xây dựng xanh, sản phẩm chăm sóc sức khỏe đến các giải pháp hỗ trợ người khuyết tật hay chuyển đổi số di sản Việt..., nhiều ý tưởng khởi nghiệp của sinh viên đã hội tụ tại vòng chung kết cuộc thi HUTECH Startup Wings 2026, diễn ra ngày 17.7 tại Trường ĐH Công nghệ TP.HCM (HUTECH).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T14:12:00+07:00",
+      "fetched": "2026-07-18T21:43:07.353757+07:00"
+    },
+    {
+      "id": "315b3a32caba39cf59ca335e712076f4",
+      "title": "Việt Nam đè bẹp Myanmar 4-0: HLV Kim dùng người quá hay, màn tổng duyệt hoàn hảo trước ASEAN Cup",
+      "link": "https://thanhnien.vn/viet-nam-de-bep-myanmar-4-0-hlv-kim-dung-nguoi-qua-hay-man-tong-duyet-hoan-hao-truoc-asean-cup-185260718203923863.htm",
+      "summary": "Xuân Son mở tỷ số, trước khi Phạm Xuân Mạnh, Hoàng Hên và Đình Bắc lần lượt lập công giúp đội tuyển Việt Nam đánh bại Myanmar 4-0. Chiến thắng mang đến nhiều tín hiệu tích cực cho HLV Kim Sang-sik trước thềm ASEAN Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T14:06:00+07:00",
+      "fetched": "2026-07-18T21:43:07.353913+07:00"
+    },
+    {
+      "id": "bc3737bed9f3906774499696efa53a76",
+      "title": "Trực tiếp World Cup 2026, Pháp - Anh: Ai sẽ nhận quà an ủi?",
+      "link": "https://thanhnien.vn/truc-tiep-world-cup-2026-phap-anh-ai-se-nhan-qua-an-ui-185260718121932776.htm",
+      "summary": "Cả HLV Tuchel (Anh) và Deschamps (Pháp) đều nhấn mạnh tầm quan trọng của trận tranh hạng ba World Cup (diễn ra lúc 4 giờ ngày 19.7 trên sân Hard Rock ở Miami Gardens), không phải là giao hữu, mà là một cuộc chiến để giành vị thứ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T14:06:00+07:00",
+      "fetched": "2026-07-18T21:43:07.354067+07:00"
+    },
+    {
+      "id": "45603b00d112da75c76100e9151a8cd8",
+      "title": "Hương vị phô mai Pháp được runner ưa chuộng",
+      "link": "https://vnexpress.net/huong-vi-pho-mai-phap-duoc-runner-ua-chuong-5099024.html",
+      "summary": "Phô mai Kiri Minisweet với hương vị lấy cảm hứng từ các món tráng miệng Pháp, được nhiều runner dự VM Đà Nẵng đánh giá dễ ăn, phù hợp nạp năng lượng trước giải hoặc dùng thường ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T14:00:00+07:00",
+      "fetched": "2026-07-18T21:43:04.380431+07:00"
+    },
+    {
+      "id": "e4642ed5c1b538c2015208b86ed44857",
+      "title": "Châu Tuyến Vân, Nguyễn Thùy Linh khuấy động gian hàng Herbalife tại VM Đà Nẵng",
+      "link": "https://vnexpress.net/chau-tuyen-van-nguyen-thuy-linh-khuay-dong-gian-hang-herbalife-tai-vm-da-nang-5099000.html",
+      "summary": "Nguyễn Thùy Linh, Châu Tuyết Vân và Lê Văn Công giao lưu tại gian hàng Herbalife thuộc khu expo của giải, thu hút hàng nghìn runner chiều 18/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T14:00:00+07:00",
+      "fetched": "2026-07-18T21:43:04.380605+07:00"
+    },
+    {
+      "id": "a3576070504817b61ee2afeb50b167c2",
+      "title": "Bí mật về căn bệnh suýt chôn vùi sự nghiệp của Messi",
+      "link": "https://vnexpress.net/bi-mat-ve-can-benh-suyt-chon-vui-su-nghiep-cua-messi-5098913.html",
+      "summary": "Trước khi trở thành huyền thoại, sự nghiệp của Lionel Messi suýt tan thành mây khói vì chứng rối loạn nội tiết hiếm gặp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T13:48:51+07:00",
+      "fetched": "2026-07-18T21:43:04.380770+07:00"
+    },
+    {
+      "id": "da5f6fe967f7c52b91810bddd3d1ecf2",
+      "title": "Giá 12 triệu đồng, xe máy điện mới của VinFast trang bị gì?",
+      "link": "https://thanhnien.vn/gia-12-trieu-dong-xe-may-dien-moi-cua-vinfast-trang-bi-gi-185260718124747591.htm",
+      "summary": "Hướng đến nhóm khách hàng học sinh, VinFast Amio S2 có giá 12 triệu đồng, trang bị pin LFP, màn hình LED màu, cốp 12 lít và có thể di chuyển khoảng 65 km sau mỗi lần sạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T13:45:00+07:00",
+      "fetched": "2026-07-18T21:43:07.354225+07:00"
+    },
+    {
+      "id": "d61279339883765e4ab44d5f5245d19b",
+      "title": "Ô tô điện BYD 'gánh' bộ pin 725 kg, đi được 1.000 km sau mỗi lần sạc",
+      "link": "https://thanhnien.vn/o-to-dien-byd-ganh-bo-pin-725-kg-di-duoc-1000-km-sau-moi-lan-sac-18526071807014915.htm",
+      "summary": "Để gia tăng phạm vi hoạt động, mẫu ô tô điện BYD Da Han phải gánh trên mình bộ pin nặng tới 725,9 kg, chiếm hơn 30% trọng lượng xe; bù lại mẫu sedan cỡ lớn này có phạm vi hoạt động lên tới hơn 1.000 km sau mỗi lần sạc đầy pin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T13:44:00+07:00",
+      "fetched": "2026-07-18T21:43:07.354401+07:00"
+    },
+    {
+      "id": "fd9a3c09e88a6b564568e600efa28496",
+      "title": "Áo khoác da của tỷ phú Jensen Huang đạt gần triệu USD",
+      "link": "https://vnexpress.net/ao-khoac-da-cua-ty-phu-jensen-huang-dat-gan-trieu-usd-5098995.html",
+      "summary": "Áo khoác cũ của CEO Nvidia Jensen Huang được trả 960.000 USD trong phiên đấu giá của Sotheby’s.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T13:43:34+07:00",
+      "fetched": "2026-07-18T21:43:04.380928+07:00"
+    },
+    {
+      "id": "4398a74c76e90725a64bb671994fc74d",
+      "title": "Bộ Công thương vẫn giữ đề xuất áp giá điện sinh hoạt theo giờ",
+      "link": "https://thanhnien.vn/bo-cong-thuong-van-giu-de-xuat-ap-gia-dien-sinh-hoat-theo-gio-185260718201951855.htm",
+      "summary": "Bộ Công thương vẫn giữ đề xuất cơ chế giá điện theo giờ áp dụng với khách hàng sinh hoạt khi điều kiện kỹ thuật cho phép; xóa bỏ bù chéo giá điện... tại dự thảo luật sửa đổi, bổ sung một số điều luật Điện lực mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T13:38:00+07:00",
+      "fetched": "2026-07-18T21:43:07.354558+07:00"
+    },
+    {
+      "id": "a6bb6b00b1502b4fbc4506d5f4886f47",
+      "title": "Khoảnh khắc tên lửa Iran 'vượt lưới Patriot, gây nổ tại căn cứ Jordan'",
+      "link": "https://vnexpress.net/khoanh-khac-ten-lua-iran-vuot-luoi-patriot-gay-no-tai-can-cu-jordan-5099017.html",
+      "summary": "Video mới công bố cho thấy tên lửa Iran vượt qua nhiều đạn đánh chặn Patriot, lao xuống sân bay quân sự Jordan và gây ra vụ nổ lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T13:36:59+07:00",
+      "fetched": "2026-07-18T21:43:04.381087+07:00"
+    },
+    {
+      "id": "a6bb6b00b1502b4fbc4506d5f4886f47",
+      "title": "Khoảnh khắc tên lửa Iran 'vượt lưới Patriot, gây nổ tại căn cứ Jordan'",
+      "link": "https://vnexpress.net/khoanh-khac-ten-lua-iran-vuot-luoi-patriot-gay-no-tai-can-cu-jordan-5099017.html",
+      "summary": "Video mới công bố cho thấy tên lửa Iran vượt qua nhiều đạn đánh chặn Patriot, lao xuống sân bay quân sự Jordan và gây ra vụ nổ lớn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-18T13:36:59+07:00",
+      "fetched": "2026-07-18T21:43:11.303373+07:00"
+    },
+    {
+      "id": "4b4806ad769b4b3c1ce0cb24385a5855",
+      "title": "Kết quả xổ số Vietlott Power 6/55 tối 18.7, giải độc đắc tăng 37,9 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-power-6-55-toi-187-giai-doc-dac-tang-379-ti-dong-185260718192254485.htm",
+      "summary": "Tối 18.7, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55 và ghi nhận không có người trúng độc đắc nên số tiền cộng dồn là 37,9 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T13:34:00+07:00",
+      "fetched": "2026-07-18T21:43:07.354706+07:00"
+    },
+    {
+      "id": "98764f7ab5df55c4fae8a276e7bfe313",
+      "title": "Tối ăn gì nhẹ bụng, kiểm soát đường huyết?",
+      "link": "https://thanhnien.vn/toi-an-gi-nhe-bung-kiem-soat-duong-huyet-goi-y-3-mon-quen-thuoc-185260718202847742.htm",
+      "summary": "Ăn tối quá nhiều tinh bột, nhiều chất béo hoặc ăn quá sát giờ ngủ không chỉ gây đầy bụng mà còn khiến đường huyết tăng cao kéo dài trong đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T13:28:00+07:00",
+      "fetched": "2026-07-18T21:43:07.354866+07:00"
+    },
+    {
+      "id": "b514d041503b6d8e7871fe16ee9e9d73",
+      "title": "Nguyễn Quốc Trường Thịnh làm rõ tin đồn 'phim giả tình thật' với Huỳnh Hồng Loan",
+      "link": "https://thanhnien.vn/nguyen-quoc-truong-thinh-lam-ro-tin-don-phim-gia-tinh-that-voi-huynh-hong-loan-185260718143029847.htm",
+      "summary": "Sự ăn ý của Nguyễn Quốc Trường Thịnh và Huỳnh Hồng Loan trong Nợ đời vay trả khiến nhiều khán giả tích cực 'đẩy thuyền' cho cặp đôi. Trước tình cảm của người xem cũng như những đồn đoán về chuyện 'phim giả tình thật', nam diễn viên đã có những chia sẻ đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T13:26:00+07:00",
+      "fetched": "2026-07-18T21:43:07.355018+07:00"
+    },
+    {
+      "id": "aa0ae540a32da89e5a11a040b43477e8",
+      "title": "Sân vận động bóng đá lớn nhất thế giới ở nước nào?",
+      "link": "https://vnexpress.net/san-van-dong-bong-da-lon-nhat-the-gioi-o-nuoc-nao-5099002.html",
+      "summary": "Rộng hơn 20 ha, cao gần 30 m, sân vận động này có thể chứa hơn 110.000 người, nhưng hiếm khi dùng để thi đấu bóng đá quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T13:21:06+07:00",
+      "fetched": "2026-07-18T21:43:04.381246+07:00"
+    },
+    {
+      "id": "8273126fb5d42e9e6f7b5b0dc999356e",
+      "title": "Robot giúp người mặc quần áo",
+      "link": "https://vnexpress.net/robot-giup-nguoi-mac-quan-ao-5099016.html",
+      "summary": "Robot dây leo của Hàn Quốc có thể giúp quần áo tự ướm vào người trong 10 giây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T13:16:16+07:00",
+      "fetched": "2026-07-18T21:43:04.381460+07:00"
+    },
+    {
+      "id": "06cce49185b8e93e8ac2bcb29c39632b",
+      "title": "Tây Ban Nha sẽ đối phó Messi ra sao ở chung kết World Cup 2026?",
+      "link": "https://thanhnien.vn/tay-ban-nha-se-doi-pho-messi-ra-sao-o-chung-ket-world-cup-2026-18526071818005113.htm",
+      "summary": "Lionel Messi vẫn là mối đe dọa lớn nhất của đội tuyển Argentina trước trận chung kết World Cup 2026. Tuy nhiên, HLV Luis de la Fuente khẳng định Tây Ban Nha sẽ không xây dựng kế hoạch chỉ để theo kèm siêu sao 39 tuổi, mà tập trung vào việc đối đầu cả một tập thể đương kim vô địch thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T13:16:00+07:00",
+      "fetched": "2026-07-18T21:43:07.355175+07:00"
+    },
+    {
+      "id": "41cbca1d0bdb10a2bb45690f2fdfcc27",
+      "title": "Mường Than tan hoang sau lũ quét",
+      "link": "https://thanhnien.vn/muong-than-tan-hoang-sau-lu-quet-185260718184607397.htm",
+      "summary": "Chiều 18.7, tại Mường Than, Lai Châu vẫn tiếp tục mưa lớn. Trận lũ quét đã cuốn bay nhà cửa của nhiều hộ dân. Bản làng yên bình giờ đây trong cảnh tan hoang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T13:12:00+07:00",
+      "fetched": "2026-07-18T21:43:07.355327+07:00"
+    },
+    {
+      "id": "dc6b94fdfef6e851b0f97ece3e465da4",
+      "title": "Luật sư bác tin có ma túy trên xe của người nhập cư bị đặc vụ ICE bắn chết",
+      "link": "https://vnexpress.net/luat-su-bac-tin-co-ma-tuy-tren-xe-cua-nguoi-nhap-cu-bi-dac-vu-ice-ban-chet-5098974.html",
+      "summary": "Luật sư của nhân chứng khẳng định các túi bột trắng trong xe của Lorenzo Salgado Araujo, người nhập cư bị đặc vụ ICE bắn chết, chỉ là muối ăn chứ không phải ma túy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T13:00:00+07:00",
+      "fetched": "2026-07-18T21:43:04.381639+07:00"
+    },
+    {
+      "id": "1ad26081875482a105b1d1e28d4b67ef",
+      "title": "Du khách tuyệt vọng săn vé chung kết World Cup",
+      "link": "https://vnexpress.net/du-khach-tuyet-vong-san-ve-chung-ket-world-cup-5098900.html",
+      "summary": "Nhiều du khách đã bỏ cuộc vì giá vé xem trận chung kết World Cup quá cao và chờ vào phép màu để có một chỗ ngồi ở sân MetLife.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T13:00:00+07:00",
+      "fetched": "2026-07-18T21:43:04.381807+07:00"
+    },
+    {
+      "id": "914bf8ddd81f2078a5846a2313dc40b4",
+      "title": "Bộ trưởng Mỹ cảnh báo án tù với các quan chức bầu cử cấp bang",
+      "link": "https://vnexpress.net/bo-truong-my-canh-bao-an-tu-voi-cac-quan-chuc-bau-cu-cap-bang-5098830.html",
+      "summary": "Bộ trưởng An ninh Nội địa Mỹ cho hay quan chức bầu cử tại bang chiến trường có thể bị kết án tù nếu không giao danh sách cử tri cho chính phủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T13:00:00+07:00",
+      "fetched": "2026-07-18T21:43:04.381965+07:00"
+    },
+    {
+      "id": "a118c450cc8de0bb3a1a52886ceda043",
+      "title": "Runner ném bóng, đánh pickleball tại gian hàng Herbalife",
+      "link": "https://vnexpress.net/runner-nem-bong-danh-pickleball-tai-gian-hang-herbalife-5099001.html",
+      "summary": "Các hoạt động trải nghiệm tại gian hàng Herbalife tại VM Đà Nẵng thu hút hàng nghìn lượt khách tham quan, trải nghiệm trong hai ngày 17-18/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T13:00:00+07:00",
+      "fetched": "2026-07-18T21:43:04.382125+07:00"
+    },
+    {
+      "id": "dc6b94fdfef6e851b0f97ece3e465da4",
+      "title": "Luật sư bác tin có ma túy trên xe của người nhập cư bị đặc vụ ICE bắn chết",
+      "link": "https://vnexpress.net/luat-su-bac-tin-co-ma-tuy-tren-xe-cua-nguoi-nhap-cu-bi-dac-vu-ice-ban-chet-5098974.html",
+      "summary": "Luật sư của nhân chứng khẳng định các túi bột trắng trong xe của Lorenzo Salgado Araujo, người nhập cư bị đặc vụ ICE bắn chết, chỉ là muối ăn chứ không phải ma túy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-18T13:00:00+07:00",
+      "fetched": "2026-07-18T21:43:11.303562+07:00"
+    },
+    {
+      "id": "914bf8ddd81f2078a5846a2313dc40b4",
+      "title": "Bộ trưởng Mỹ cảnh báo án tù với các quan chức bầu cử cấp bang",
+      "link": "https://vnexpress.net/bo-truong-my-canh-bao-an-tu-voi-cac-quan-chuc-bau-cu-cap-bang-5098830.html",
+      "summary": "Bộ trưởng An ninh Nội địa Mỹ cho hay quan chức bầu cử tại bang chiến trường có thể bị kết án tù nếu không giao danh sách cử tri cho chính phủ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-18T13:00:00+07:00",
+      "fetched": "2026-07-18T21:43:11.303738+07:00"
     },
     {
       "id": "41f1bd46ea1db6dde368d818d2732c1b",
