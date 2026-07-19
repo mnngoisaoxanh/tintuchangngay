@@ -1,7 +1,157 @@
 window.newsData_2026_07_19 = {
   "date": "2026-07-19",
-  "lastUpdated": "2026-07-19T05:38:31.974997+07:00",
+  "lastUpdated": "2026-07-19T08:46:12.096493+07:00",
   "articles": [
+    {
+      "id": "110538af23b66361480d33613784b571",
+      "title": "Cá de nấu với măng le",
+      "link": "https://tuoitre.vn/ca-de-nau-voi-mang-le-100260718171325689.htm",
+      "summary": "Có những món ăn không cần nguyên liệu đắt tiền nhưng chỉ cần nếm một lần là đủ để nhớ rất lâu. Với người Đà Nẵng, canh cá de nấu măng le là một món như thế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T08:46:06.532360+07:00",
+      "fetched": "2026-07-19T08:46:06.532417+07:00"
+    },
+    {
+      "id": "89fad6adb8ab4280f1334c419745029e",
+      "title": "Chiến dịch 500 ngày đêm tìm kiếm hài cốt liệt sĩ: 'Những tờ giấy báo tử đang sống lại'",
+      "link": "https://tuoitre.vn/chien-dich-500-ngay-dem-tim-kiem-hai-cot-liet-si-nhung-to-giay-bao-tu-dang-song-lai-100260718160823124.htm",
+      "summary": "Những tờ giấy báo tử đã ngả màu theo năm tháng, bởi biết bao lần người thân liệt sĩ mở ra, cất lại. Trên đó là ghi tên, đơn vị, ngày hy sinh và địa danh chiến đấu. Với gia đình các liệt sĩ, đó là niềm hy vọng rất lớn để đưa các anh về nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T08:46:06.532283+07:00",
+      "fetched": "2026-07-19T08:46:06.532349+07:00"
+    },
+    {
+      "id": "5d44331707f3c073f768870457e19ca2",
+      "title": "Toyota Innova Cross 2027 lộ nội thất: Màn lớn hơn, thêm nhiều tiện nghi",
+      "link": "https://tuoitre.vn/toyota-innova-cross-2027-lo-noi-that-man-lon-hon-them-nhieu-tien-nghi-100260719004636297.htm",
+      "summary": "Toyota Innova Cross facelift tiếp tục lộ diện trong quá trình chạy thử, hé lộ nhiều nâng cấp ở khoang nội thất như màn hình giải trí cỡ lớn và loạt tiện nghi mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T08:46:06.532215+07:00",
+      "fetched": "2026-07-19T08:46:06.532273+07:00"
+    },
+    {
+      "id": "012cec168eb8fd6e68fd3868b9c1a6a9",
+      "title": "Vì sao Tiếng hò sông Hậu tạo sức hút",
+      "link": "https://tuoitre.vn/vi-sao-tieng-ho-song-hau-tao-suc-hut-100260719071735657.htm",
+      "summary": "Tối 18-7, tại Nhà hát Trần Hữu Trang đã diễn ra vở cải lương Tiếng hò sông Hậu. Đây là vở nằm trong đợt biểu diễn nghệ thuật chào mừng 50 thành phố ta mang tên Bác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T08:46:06.532142+07:00",
+      "fetched": "2026-07-19T08:46:06.532204+07:00"
+    },
+    {
+      "id": "6f2fcc442f49f30a970fe7dbc7702094",
+      "title": "Olise vượt qua Pele để lập kỷ lục kiến tạo tại World Cup",
+      "link": "https://tuoitre.vn/olise-vuot-qua-pele-de-lap-ky-luc-kien-tao-tai-world-cup-100260719071504924.htm",
+      "summary": "Với cú đúp kiến tạo trong trận thua của tuyển Pháp trước tuyển Anh (tỉ số 4-6), tiền vệ Olise trở thành cầu thủ có nhiều đường kiến tạo nhất trong 1 kỳ World Cup.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T08:46:06.532068+07:00",
+      "fetched": "2026-07-19T08:46:06.532131+07:00"
+    },
+    {
+      "id": "321e1e0c08015c154f4e061324e9c19f",
+      "title": "Chuyên gia Phan Anh Tú: Tuyển Pháp đá cẩu thả, không tha thiết tranh hạng ba",
+      "link": "https://tuoitre.vn/chuyen-gia-phan-anh-tu-tuyen-phap-da-cau-tha-khong-tha-thiet-tranh-hang-ba-100260719073245113.htm",
+      "summary": "Mbappe và đồng đội đã có một hiệp đấu cẩu thả và giúp tuyển Anh dẫn trước 4-0 trong trận tranh hạng 3 ở World Cup 2026 diễn ra vào rạng sáng 19-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T08:46:06.531994+07:00",
+      "fetched": "2026-07-19T08:46:06.532057+07:00"
+    },
+    {
+      "id": "122b72698dfd44f3e15aa9e5fedf4ec1",
+      "title": "Messi nói về bức ảnh tắm cho Yamal trước trận chung kết World Cup 2026",
+      "link": "https://tuoitre.vn/messi-noi-ve-buc-anh-tam-cho-yamal-truoc-tran-chung-ket-world-cup-2026-10026071907425603.htm",
+      "summary": "Trước trận chung kết World Cup 2026, Lionel Messi ngỡ ngàng khi nhắc về Lamine Yamal - cậu bé Messi từng bế trong một bức ảnh từ thiện cách đây 19 năm. Nay Yamal đã trở thành ngôi sao lớn của bóng đá Tây Ban Nha và thế giới, đối đầu trực tiếp với anh ở bên kia chiến tuyến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T08:46:06.531930+07:00",
+      "fetched": "2026-07-19T08:46:06.531984+07:00"
+    },
+    {
+      "id": "f578469eee08f08f1abbd3d3bb8d0477",
+      "title": "Dù có biển cấm, du khách vẫn bẻ san hô ở biển Hòn Chồng mang về",
+      "link": "https://tuoitre.vn/du-co-bien-cam-du-khach-van-be-san-ho-o-bien-hon-chong-mang-ve-100260719072449479.htm",
+      "summary": "Nhóm du khách sau khi tắm biển xong đã bẻ san hô ở biển Hòn Chồng (phường Bắc Nha Trang, tỉnh Khánh Hòa) mang về. Sự việc đang gây bức xúc dư luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T08:46:06.531853+07:00",
+      "fetched": "2026-07-19T08:46:06.531919+07:00"
+    },
+    {
+      "id": "a161f86594389dca8694ab1ecc1f0c75",
+      "title": "Lai Châu tan hoang sau lũ, hàng trăm hộ dân lại di dời khẩn trong đêm",
+      "link": "https://tuoitre.vn/lai-chau-tan-hoang-sau-lu-hang-tram-ho-dan-lai-di-doi-khan-trong-dem-100260719073031798.htm",
+      "summary": "Chưa khắc phục xong hậu quả cơn lũ quét kinh hoàng ngày 17-7 ở Mường Than (Lai Châu), lực lượng chức năng khẩn cấp di dời hàng trăm hộ dân đến nơi ở tạm vì nguy cơ xảy ra trận lũ quét tiếp theo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T08:46:06.531763+07:00",
+      "fetched": "2026-07-19T08:46:06.531822+07:00"
+    },
+    {
+      "id": "3a9129f99ae87e7643ab44f912dee63d",
+      "title": "Sao Mai Central Point: Sức hút từ bất động sản trung tâm",
+      "link": "https://tuoitre.vn/sao-mai-central-point-suc-hut-tu-bat-dong-san-trung-tam-100260718090445488.htm",
+      "summary": "Giữa các chu kỳ biến động của thị trường bất động sản, tâm lý nhà đầu tư ngày càng thận trọng. Một quy luật lại được khẳng định: Khi vùng ven là câu chuyện của kỳ vọng tương lai, thì bất động sản trung tâm mới là nơi ‘trú ẩn’ dòng tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T08:46:06.531693+07:00",
+      "fetched": "2026-07-19T08:46:06.531753+07:00"
+    },
+    {
+      "id": "ed1bd44e49cbd882839757dc611de46d",
+      "title": "Happy One Sora - mỗi tầng cao là một lời hứa với khách hàng",
+      "link": "https://tuoitre.vn/happy-one-sora-moi-tang-cao-la-mot-loi-hua-voi-khach-hang-100260718163458445.htm",
+      "summary": "Happy One Sora đã hoàn thành phần thô theo kế hoạch. Cột mốc cất nóc không chỉ mang ý nghĩa về tiến độ xây dựng mà còn thể hiện trách nhiệm của chủ đầu tư trong việc hiện thực hóa những cam kết với khách hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T08:46:06.531616+07:00",
+      "fetched": "2026-07-19T08:46:06.531682+07:00"
+    },
+    {
+      "id": "2d1572a897c3fbf9d6aac5dcdad70301",
+      "title": "Nhiều ca bệnh tay chân miệng nặng, tăng cường biện pháp phòng bệnh",
+      "link": "https://tuoitre.vn/nhieu-ca-benh-tay-chan-mieng-nang-tang-cuong-bien-phap-phong-benh-100260719072323508.htm",
+      "summary": "Dù không phải cao điểm mùa dịch, nhưng nhiều trường hợp trẻ bị tay chân miệng nặng",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T08:46:06.531547+07:00",
+      "fetched": "2026-07-19T08:46:06.531606+07:00"
+    },
+    {
+      "id": "384c47a81a9cfb8ea404753ded0bb695",
+      "title": "Ngắm các trục đường cửa ngõ mở lối trực tiếp vào sân bay Long Thành",
+      "link": "https://tuoitre.vn/ngam-cac-truc-duong-cua-ngo-mo-loi-truc-tiep-vao-san-bay-long-thanh-100260716155612048.htm",
+      "summary": "Từ nút giao quốc lộ 51, cao tốc Biên Hòa - Vũng Tàu, những tuyến đường 25B, 25C đang dần hiện rõ hình hài, mở lối vào đại công trường sân bay Long Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T08:46:06.531473+07:00",
+      "fetched": "2026-07-19T08:46:06.531536+07:00"
+    },
+    {
+      "id": "cf1d0338b887dbccdc3214a89ccbd7ef",
+      "title": "Đàn cò ốc đậu kín trên các ruộng lúa, nông dân vùng Đồng Tháp Mười vui mừng, khỏi cần xịt thuốc diệt ốc",
+      "link": "https://tuoitre.vn/dan-co-oc-dau-kin-tren-cac-ruong-lua-nong-dan-vung-dong-thap-muoi-vui-mung-khoi-can-xit-thuoc-diet-oc-1002607190737556.htm",
+      "summary": "Cảnh tượng hàng ngàn cánh chim rợp bóng trên những cánh đồng Đồng Tháp là dấu hiệu đáng mừng cho công tác bảo tồn, tín hiệu vui cho người nông dân vùng Đồng Tháp Mười.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T08:46:06.531389+07:00",
+      "fetched": "2026-07-19T08:46:06.531461+07:00"
+    },
+    {
+      "id": "8e56cad20dc5d727de0ea651d88d9f36",
+      "title": "Ký sinh trùng trên rau sống, ăn sao cho an toàn?",
+      "link": "https://tuoitre.vn/ky-sinh-trung-tren-rau-song-an-sao-cho-an-toan-100260718185922746.htm",
+      "summary": "Mùa hè là thời điểm nhiều gia đình Việt Nam ưu tiên những bữa ăn thanh mát với các loại rau sống, rau thơm, xà lách, húng quế, rau mùi... Tuy nhiên, đây cũng là lúc nguy cơ mắc các bệnh lây truyền qua thực phẩm tăng cao, trong đó có bệnh cyclosporiasis, một bệnh đường ruột do ký sinh trùng cyclospor...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T08:46:06.531252+07:00",
+      "fetched": "2026-07-19T08:46:06.531375+07:00"
+    },
     {
       "id": "409ab726736ca1ae530469dc22f4daa3",
       "title": "Tỏa sáng ở World Cup 2026, Morgan Rogers được Chelsea nhanh tay 'chốt đơn' với giá kỷ lục",
@@ -161,6 +311,396 @@ window.newsData_2026_07_19 = {
       "category": "Tổng hợp",
       "published": "2026-07-19T01:46:35.393192+07:00",
       "fetched": "2026-07-19T01:46:35.393331+07:00"
+    },
+    {
+      "id": "4096f77135b2301d232e993bc254b1db",
+      "title": "Rạch Đá Đỏ cạnh metro số 1 vào trung tâm TP.HCM sắp hoàn thiện",
+      "link": "https://thanhnien.vn/rach-da-do-canh-metro-so-1-vao-trung-tam-tphcm-sap-hoan-thien-185260715164715526.htm",
+      "summary": "Sau gần 1 năm thi công, dự án cải tạo rạch Đá Đỏ với vốn hơn 86,7 tỉ đồng dần về đích, góp phần tăng khả năng thoát nước và chỉnh trang đô thị phía đông TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T01:45:00+07:00",
+      "fetched": "2026-07-19T08:46:03.440435+07:00"
+    },
+    {
+      "id": "6b991f0b64491182980cf39064726cf1",
+      "title": "Vừa debut, UPRIZE đã khiến fan 'dậy sóng' với concert riêng",
+      "link": "https://thanhnien.vn/vua-debut-uprize-da-khien-fan-day-song-voi-concert-rieng-185260718140248686.htm",
+      "summary": "Sau fan meeting đầu tiên tại TP.HCM, nhóm nhạc nam UPRIZE bất ngờ thông báo sẽ tổ chức concert riêng tại miền Bắc trong năm 2026, thu hút sự chú ý từ người hâm mộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T01:39:00+07:00",
+      "fetched": "2026-07-19T08:46:03.440607+07:00"
+    },
+    {
+      "id": "da5efe3add1638219abcf2550f39e6e7",
+      "title": "Uống nước ấm pha mật ong mỗi sáng có thật sự tốt cho sức khỏe?",
+      "link": "https://thanhnien.vn/uong-nuoc-am-pha-mat-ong-moi-sang-co-that-su-tot-cho-suc-khoe-185260719083541061.htm",
+      "summary": "Uống một ly mật ong pha nước ấm ngay sau khi thức dậy là thói quen của nhiều người với kỳ vọng thải độc, giảm cân. Tuy nhiên, chuyên gia cho biết lợi ích thực tế của thức uống này không hoàn toàn như nhiều người vẫn nghĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T01:35:00+07:00",
+      "fetched": "2026-07-19T08:46:03.440767+07:00"
+    },
+    {
+      "id": "f4582590a0fbd762bf3afabaae3a1b97",
+      "title": "Phát triển kinh tế di sản",
+      "link": "https://thanhnien.vn/phat-trien-kinh-te-di-san-185260718224439549.htm",
+      "summary": "Không chỉ là ký ức của quá khứ, di sản ngày càng trở thành nguồn lực kinh tế đặc biệt. Khi được khai thác đúng hướng, những giá trị văn hóa bản địa có thể tạo sinh kế, thu hút du lịch và mở ra động lực phát triển bền vững.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T01:30:00+07:00",
+      "fetched": "2026-07-19T08:46:03.440951+07:00"
+    },
+    {
+      "id": "9ffbe10ed40f91b0906a7c64e6929e60",
+      "title": "Dữ liệu di sản là nguyên liệu cho công nghiệp văn hóa",
+      "link": "https://thanhnien.vn/du-lieu-di-san-la-nguyen-lieu-cho-cong-nghiep-van-hoa-185260718221300569.htm",
+      "summary": "Xây dựng kho dữ liệu di sản chính là một trong những việc cần làm để thực hiện Nghị quyết 80 của Bộ Chính trị về phát triển văn hóa VN. Kho dữ liệu này không chỉ giữ ký ức mà còn là nguyên liệu cho công nghiệp văn hóa. Thanh Niên có cuộc trao đổi với PGS-TS Bùi Hoài Sơn (ảnh), Ủy viên thường trực Ủy...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T01:30:00+07:00",
+      "fetched": "2026-07-19T08:46:03.441111+07:00"
+    },
+    {
+      "id": "0af973e6d281c5a03dee2898a8170e2f",
+      "title": "Quốc tự từng được nhiều vua Nguyễn để lại những áng thơ văn ca ngợi cảnh đẹp",
+      "link": "https://thanhnien.vn/quoc-tu-tung-duoc-nhieu-vua-nguyen-de-lai-nhung-ang-tho-van-ca-ngoi-canh-dep-185260718133636323.htm",
+      "summary": "Tọa lạc trên núi Túy Vân bên đầm Cầu Hai, chùa Thánh Duyên là một trong 3 quốc tự danh tiếng của triều Nguyễn còn tồn tại. Nơi đây không chỉ sở hữu lối kiến trúc độc đáo mà còn lưu giữ nhiều áng thơ văn tuyệt tác cùng các bộ tượng cổ quý hiếm bậc nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T01:29:00+07:00",
+      "fetched": "2026-07-19T08:46:03.441277+07:00"
+    },
+    {
+      "id": "d6530ab6001c10ad1776dc0eef1c1281",
+      "title": "Mbappe bị chỉ trích vì hành động 'kỳ lạ', tươi cười ở trận Pháp thua Anh",
+      "link": "https://thanhnien.vn/mbappe-bi-chi-trich-vi-hanh-dong-ky-la-tuoi-cuoi-o-tran-phap-thua-anh-185260719073735186.htm",
+      "summary": "Mbappe trở thành tâm điểm tranh cãi sau khi bị bắt gặp đổi áo với Declan Rice và cười nói vui vẻ cùng HLV Thomas Tuchel ngay trong giờ nghỉ giữa hiệp, thời điểm đội tuyển Pháp đang bị Anh dẫn trước tới 0-4 ở trận tranh hạng ba World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T01:21:00+07:00",
+      "fetched": "2026-07-19T08:46:03.441429+07:00"
+    },
+    {
+      "id": "01910cd7d76111fe2e6e6ee89cd00b89",
+      "title": "Messi đăng thông điệp có thể là lời tạm biệt World Cup sau trận chung kết",
+      "link": "https://thanhnien.vn/messi-dang-thong-diep-co-the-la-loi-tam-biet-world-cup-sau-tran-chung-ket-185260719081404294.htm",
+      "summary": "Messi đã đăng tải một video đầy cảm xúc trên tài khoản mạng xã hội Instagram ngay trước trận chung kết World Cup 2026, 'đó có thể là lời tạm biệt với sự nghiệp World Cup đầy rực rỡ của anh', theo MARCA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T01:18:00+07:00",
+      "fetched": "2026-07-19T08:46:03.441580+07:00"
+    },
+    {
+      "id": "0e46b531e6c29e04429cb5cb872467ab",
+      "title": "Lãnh tụ Tối cao Iran cảnh báo dành cho Mỹ 'bài học khó quên'",
+      "link": "https://vnexpress.net/lanh-tu-toi-cao-iran-canh-bao-danh-cho-my-bai-hoc-kho-quen-5099092.html",
+      "summary": "Ông Mojtaba Khamenei chỉ trích các cuộc tấn công của Mỹ, cảnh báo Iran và đồng minh sẽ dành cho Mỹ những bài học khó quên.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-19T01:16:03+07:00",
+      "fetched": "2026-07-19T08:46:07.969350+07:00"
+    },
+    {
+      "id": "ce07a3d85b03e6906f1f3206b82c2fd4",
+      "title": "World Cup 2026 giúp FIFA 'trúng đậm': Doanh thu vượt xa kỳ vọng",
+      "link": "https://thanhnien.vn/world-cup-2026-giup-fifa-trung-dam-doanh-thu-vuot-xa-ky-vong-185260719081137597.htm",
+      "summary": "FIFA chuẩn bị công bố mức doanh thu kỷ lục 15 tỷ USD (tương đương khoảng 390.000 tỷ đồng) từ World Cup 2026, vượt xa mọi dự báo được đưa ra trước thềm giải đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T01:15:00+07:00",
+      "fetched": "2026-07-19T08:46:03.441736+07:00"
+    },
+    {
+      "id": "5036bc424cf590c1de7c5608cc3083ca",
+      "title": "Giá Bitcoin hôm nay 19.7.2026: Hướng đến mục tiêu giá 72.000 USD",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-1972026-huong-den-muc-tieu-gia-72000-usd-185260719072950816.htm",
+      "summary": "Giá Bitcoin hôm nay có xu hướng phục hồi tốt, tăng đều trên vùng giá 64.000 USD khiến tâm lý lạc quan của thị trường được cải thiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T01:13:00+07:00",
+      "fetched": "2026-07-19T08:46:03.441915+07:00"
+    },
+    {
+      "id": "4635dbe1c6066359de0bd2b45a9ee3da",
+      "title": "Nghĩ về những cơn bão mùa thu - Thơ của Hạ Minh",
+      "link": "https://thanhnien.vn/nghi-ve-nhung-con-bao-mua-thu-tho-cua-ha-minh-185260718180611241.htm",
+      "summary": "Những cơn bão chưa bao giờ là điều chúng ta mong đợi",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T01:05:00+07:00",
+      "fetched": "2026-07-19T08:46:04.906059+07:00"
+    },
+    {
+      "id": "bc3afc5f42bb780a9eaa9f92a9936eb3",
+      "title": "Giá cà phê nội địa tăng nhanh hơn thế giới",
+      "link": "https://thanhnien.vn/gia-ca-phe-noi-dia-tang-nhanh-hon-the-gioi-185260718165529264.htm",
+      "summary": "Tuần này, giá cà phê nội địa tăng nhanh hơn thị trường thế giới, nhưng vẫn còn thấp hơn kỳ vọng của nhiều người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T01:02:00+07:00",
+      "fetched": "2026-07-19T08:46:04.906435+07:00"
+    },
+    {
+      "id": "5f57b89cde38f712b37a5061f600cceb",
+      "title": "Ngày hội bóng đá lớn nhất hành tinh và nỗ lực chạm tới giấc mơ",
+      "link": "https://thanhnien.vn/ngay-hoi-bong-da-lon-nhat-hanh-tinh-va-no-luc-cham-toi-giac-mo-185260718224119019.htm",
+      "summary": "FIFA World Cup 2026™ đã bước đến chặng cuối cùng, trong khi Argentina đứng trước cơ hội bảo vệ ngôi vương sau thì đối thủ nặng ký Tây Ban Nha cũng đã chờ đợi ngày chung kết suốt 16 năm. Những cung bậc cảm xúc đã trải đều xuyên suốt gần 40 ngày bóng lăn tại bên kia bán cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T01:00:00+07:00",
+      "fetched": "2026-07-19T08:46:04.906604+07:00"
+    },
+    {
+      "id": "c44c55b59553c906fbb23b45e9aac185",
+      "title": "Vừa vào giảng đường đã không ngại thử thách, đến năm 2 'ẵm' giải quán quân",
+      "link": "https://thanhnien.vn/vua-vao-giang-duong-da-khong-ngai-thu-thach-den-nam-2-am-giai-quan-quan-185260718195213798.htm",
+      "summary": "Mới học năm 2, Nguyễn Đình Vũ Hoàng, sinh viên ngành logistics và quản lý chuỗi cung ứng, Trường ĐH Giao thông vận tải TP.HCM, lần lượt chinh phục các giải thưởng học thuật ở nhiều quy mô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T01:00:00+07:00",
+      "fetched": "2026-07-19T08:46:04.906765+07:00"
+    },
+    {
+      "id": "8f97a3279f74c1a66ff06a50cfadf0f9",
+      "title": "Nhàn đàm: Đêm mùa hạ phố",
+      "link": "https://thanhnien.vn/nhan-dam-dem-mua-ha-pho-185260718181117169.htm",
+      "summary": "Gió thổi qua con hẻm nhà tôi. Đêm, dừng lại giữa hai hiệp của trận cầu nóng bỏng xứ người. Nóng ở trên khán đài, trên sân và cả thời tiết có khi lên đến trên 35 độ C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T01:00:00+07:00",
+      "fetched": "2026-07-19T08:46:04.906955+07:00"
+    },
+    {
+      "id": "b9b530cf8ec0fa3b22265eb395fd20bc",
+      "title": "Cách người Việt ở Mỹ ứng phó với lạm phát",
+      "link": "https://vnexpress.net/cach-nguoi-viet-o-my-ung-pho-voi-lam-phat-5094909.html",
+      "summary": "Lạm phát tăng cao do chiến sự Iran buộc nhiều người Việt ở Mỹ tìm các giải pháp tiết kiệm chi phí, giảm đi ăn ngoài, gác lại kế hoạch mua nhà.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-19T01:00:00+07:00",
+      "fetched": "2026-07-19T08:46:07.969525+07:00"
+    },
+    {
+      "id": "3069b49f19d9bf56022711e3c2ae9282",
+      "title": "Jannik Sinner - từ cậu bé vùng núi đến vinh quang ở Grand Slam",
+      "link": "https://vnexpress.net/jannik-sinner-tu-cau-be-vung-nui-den-vinh-quang-o-grand-slam-5098910.html",
+      "summary": "Từ một cậu bé tóc dài có vóc dáng nhỏ bé, tay vợt người Italy Jannik Sinner trưởng thành qua từng giai đoạn để lên đỉnh thế giới, hai năm liên tiếp vô địch Wimbledon.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-19T00:55:24+07:00",
+      "fetched": "2026-07-19T08:46:12.090305+07:00"
+    },
+    {
+      "id": "eed0704259745ecd944c048690376d7a",
+      "title": "Hội chứng Marfan",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-marfan-441",
+      "summary": "Hội chứng Marfan là rối loạn di truyền ảnh hưởng đến mô liên kết, dẫn đến các bất thường về mắt, cơ xương khớp và tim mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T00:37:16+07:00",
+      "fetched": "2026-07-19T08:46:00.953539+07:00"
+    },
+    {
+      "id": "025686ebb7684de2b72ada85b9acdba3",
+      "title": "Bên trong sân diễn ra trận chung kết giữa Tây Ban Nha - Argentina",
+      "link": "https://vnexpress.net/ben-trong-san-dien-ra-tran-chung-ket-giua-tay-ban-nha-argentina-5099008.html",
+      "summary": "Sân New York New Jersey, nơi diễn ra chung kết World Cup 2026 giữa Tây Ban Nha và Argentina, có sức chứa hơn 80.000 người và hơn 200 phòng suite.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T00:20:40+07:00",
+      "fetched": "2026-07-19T08:46:00.953718+07:00"
+    },
+    {
+      "id": "ab5be771d907f3754926ab16837492d4",
+      "title": "Dork dancing - 'hot trend' mới của người nước ngoài ở Đà Nẵng",
+      "link": "https://vnexpress.net/dork-dancing-hot-trend-moi-cua-nguoi-nuoc-ngoai-o-da-nang-5099036.html",
+      "summary": "Roshni Ward, 31 tuổi, quyết định kéo dài kỳ nghỉ tại Đà Nẵng thêm một tháng vì \"không dứt được thói quen\" hàng ngày ra bãi biển dork dancing cùng người dân địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T00:00:00+07:00",
+      "fetched": "2026-07-19T08:46:00.953910+07:00"
+    },
+    {
+      "id": "b459ef56c6a5e916064a280d77ea099c",
+      "title": "Bên trong ngôi chùa 500 năm tuổi ở Thanh Hóa",
+      "link": "https://vnexpress.net/ben-trong-ngoi-chua-500-nam-tuoi-o-thanh-hoa-5097058.html",
+      "summary": "Chùa Vĩnh Thái, khoảng 500 năm tuổi, nổi tiếng xứ Thanh nhờ khung cảnh \"sơn thuỷ hữu tình\" và dấu ấn cách mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T00:00:00+07:00",
+      "fetched": "2026-07-19T08:46:00.954075+07:00"
+    },
+    {
+      "id": "e22ba4886407a2cc00598be2295dec60",
+      "title": "Hyundai Palisade Hybrid chào khách Việt",
+      "link": "https://vnexpress.net/hyundai-palisade-hybrid-chao-khach-viet-5099041.html",
+      "summary": "Mẫu SUV cỡ lớn thế hệ mới lắp hệ truyền động hybrid trưng bày tại một trung tâm thương mại ở Thủ đô ngày 17/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T00:00:00+07:00",
+      "fetched": "2026-07-19T08:46:00.954232+07:00"
+    },
+    {
+      "id": "e45e340fc9a76536a05102a5f370f77e",
+      "title": "ROG Zephyrus G14 2026 - laptop gaming mỏng nhẹ, giá 120 triệu đồng",
+      "link": "https://vnexpress.net/rog-zephyrus-g14-2026-laptop-gaming-mong-nhe-gia-120-trieu-dong-5097878.html",
+      "summary": "Asus ROG Zephyrus G14 GU405A có cấu hình mạnh với chip Core Ultra 9 386H, card đồ họa RTX 5080, RAM 32 GB nhưng cân nặng chỉ 1,58 kg, mỏng 1,59 cm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T00:00:00+07:00",
+      "fetched": "2026-07-19T08:46:00.954395+07:00"
+    },
+    {
+      "id": "0e12260055e5c7f869c263b8661c6e68",
+      "title": "Cách tự kiểm tra ngực giúp phát hiện dấu hiệu bất thường",
+      "link": "https://vnexpress.net/cach-tu-kiem-tra-nguc-giup-phat-hien-dau-hieu-bat-thuong-5099049.html",
+      "summary": "Dùng lòng bàn tay ấn từ nhẹ đến mạnh quanh vùng ngực ở tư thế nằm và đứng có thể giúp phát hiện các thay đổi cảnh báo khối u.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T00:00:00+07:00",
+      "fetched": "2026-07-19T08:46:00.954552+07:00"
+    },
+    {
+      "id": "e45e340fc9a76536a05102a5f370f77e",
+      "title": "ROG Zephyrus G14 2026 - laptop gaming mỏng nhẹ, giá 120 triệu đồng",
+      "link": "https://vnexpress.net/rog-zephyrus-g14-2026-laptop-gaming-mong-nhe-gia-120-trieu-dong-5097878.html",
+      "summary": "Asus ROG Zephyrus G14 GU405A có cấu hình mạnh với chip Core Ultra 9 386H, card đồ họa RTX 5080, RAM 32 GB nhưng cân nặng chỉ 1,58 kg, mỏng 1,59 cm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-19T00:00:00+07:00",
+      "fetched": "2026-07-19T08:46:11.427802+07:00"
+    },
+    {
+      "id": "8427c94d14c3e40a1ba73a1251e24061",
+      "title": "Hai lính Mỹ thiệt mạng vì hỏa lực Iran",
+      "link": "https://vnexpress.net/hai-linh-my-thiet-mang-vi-hoa-luc-iran-5099083.html",
+      "summary": "Quân đội Mỹ xác nhận hai binh sĩ nước này thiệt mạng sau đòn tấn công của Iran vào Jordan, đánh dấu trường hợp tử vong đầu tiên kể từ tháng 3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T23:58:57+07:00",
+      "fetched": "2026-07-19T08:46:00.954709+07:00"
+    },
+    {
+      "id": "8427c94d14c3e40a1ba73a1251e24061",
+      "title": "Hai lính Mỹ thiệt mạng vì hỏa lực Iran",
+      "link": "https://vnexpress.net/hai-linh-my-thiet-mang-vi-hoa-luc-iran-5099083.html",
+      "summary": "Quân đội Mỹ xác nhận hai binh sĩ nước này thiệt mạng sau đòn tấn công của Iran vào Jordan, đánh dấu trường hợp tử vong đầu tiên kể từ tháng 3.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-18T23:58:57+07:00",
+      "fetched": "2026-07-19T08:46:07.969688+07:00"
+    },
+    {
+      "id": "8264eadf550e99be8b7f8a4a6fdc65a5",
+      "title": "Nữ sinh viết luận bằng thơ, đỗ Đại học Thanh Hoa",
+      "link": "https://vnexpress.net/nu-sinh-viet-luan-bang-tho-do-dai-hoc-thanh-hoa-5098514.html",
+      "summary": "Tường Anh dùng thơ cổ Trung Quốc để kể về hành trình 7 năm theo đuổi ngôn ngữ này, trúng tuyển Đại học Thanh Hoa và suất học bổng Chính phủ vào Đại học Sư phạm Bắc Kinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T23:56:38+07:00",
+      "fetched": "2026-07-19T08:46:00.954886+07:00"
+    },
+    {
+      "id": "72f936e5307f303634b0c276160b3e8b",
+      "title": "Dự kiến mở rộng định danh điện tử 'mọi thực thể'",
+      "link": "https://vnexpress.net/du-kien-mo-rong-dinh-danh-dien-tu-moi-thuc-the-5099061.html",
+      "summary": "Luật mới dự kiến định danh không chỉ cá nhân, tổ chức mà mọi thực thể môi trường vật lý và điện tử; từ hàng hóa, tàu thuyền, tài sản số đến sự kiện, địa điểm, không gian...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T23:46:37+07:00",
+      "fetched": "2026-07-19T08:46:00.955051+07:00"
+    },
+    {
+      "id": "efa560cab154e43b5bd426476c4d7360",
+      "title": "Siêu máy tính, AI tiếp tục dự đoán Tây Ban Nha vô địch World Cup 2026",
+      "link": "https://vnexpress.net/sieu-may-tinh-ai-tiep-tuc-du-doan-tay-ban-nha-vo-dich-world-cup-2026-5098966.html",
+      "summary": "Đa số AI và siêu máy tính chuyên dự đoán thể thao cho rằng Tây Ban Nha sẽ thắng trận chung kết trước Argentina để trở thành nhà vô địch World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T23:32:10+07:00",
+      "fetched": "2026-07-19T08:46:00.955213+07:00"
+    },
+    {
+      "id": "efa560cab154e43b5bd426476c4d7360",
+      "title": "Siêu máy tính, AI tiếp tục dự đoán Tây Ban Nha vô địch World Cup 2026",
+      "link": "https://vnexpress.net/sieu-may-tinh-ai-tiep-tuc-du-doan-tay-ban-nha-vo-dich-world-cup-2026-5098966.html",
+      "summary": "Đa số AI và siêu máy tính chuyên dự đoán thể thao cho rằng Tây Ban Nha sẽ thắng trận chung kết trước Argentina để trở thành nhà vô địch World Cup 2026.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-18T23:32:10+07:00",
+      "fetched": "2026-07-19T08:46:11.427463+07:00"
+    },
+    {
+      "id": "1c777a91e61e134ae9510bcf1d6880bb",
+      "title": "Lời hứa của Yamal và Cucurella trước trận gặp Argentina",
+      "link": "https://vnexpress.net/loi-hua-cua-yamal-va-cucurella-truoc-tran-gap-argentina-5099014.html",
+      "summary": "Marc Cucurella tuyên bố khép lại sự nghiệp ở tuyển quốc gia, còn Lamine Yamal hứa nuôi râu trong ba tuần nếu Tây Ban Nha đánh bại Argentina để vô địch World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T23:28:00+07:00",
+      "fetched": "2026-07-19T08:46:00.955366+07:00"
+    },
+    {
+      "id": "b6b451d0a46f01e53db4876555684bb6",
+      "title": "Mbappe phá kỷ lục ghi bàn của Messi ở World Cup",
+      "link": "https://vnexpress.net/mbappe-pha-ky-luc-ghi-ban-cua-messi-o-world-cup-5099085.html",
+      "summary": "Với cú đúp trong trận Pháp thua Anh 4-6 ở trận tranh giải ba, Kylian Mbappe vượt Lionel Messi để trở thành cầu thủ ghi nhiều bàn nhất lịch sử World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T23:14:38+07:00",
+      "fetched": "2026-07-19T08:46:00.955524+07:00"
+    },
+    {
+      "id": "b6b451d0a46f01e53db4876555684bb6",
+      "title": "Mbappe phá kỷ lục ghi bàn của Messi ở World Cup",
+      "link": "https://vnexpress.net/mbappe-pha-ky-luc-ghi-ban-cua-messi-o-world-cup-5099085.html",
+      "summary": "Với cú đúp trong trận Pháp thua Anh 4-6 ở trận tranh giải ba, Kylian Mbappe vượt Lionel Messi để trở thành cầu thủ ghi nhiều bàn nhất lịch sử World Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-18T23:14:38+07:00",
+      "fetched": "2026-07-19T08:46:12.090481+07:00"
+    },
+    {
+      "id": "7c904c12d0fe2e968a25e030d7374f45",
+      "title": "Chưa phát hiện dấu hiệu bạo hành bé mầm non ở TP HCM",
+      "link": "https://vnexpress.net/chua-phat-hien-dau-hieu-bao-hanh-be-mam-non-o-tp-hcm-5099066.html",
+      "summary": "Công an phường Tam Bình bước đầu xác định có xảy ra một số tình huống giữa giáo viên và bé trai 5 tuổi tại một lớp mầm non, song chưa phát hiện dấu hiệu bạo hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T23:00:00+07:00",
+      "fetched": "2026-07-19T08:46:00.955680+07:00"
+    },
+    {
+      "id": "694551954bc74e8485459f7ff825bca2",
+      "title": "Vì sao nên uống mật ong, nước ấm mỗi sáng?",
+      "link": "https://vnexpress.net/vi-sao-nen-uong-mat-ong-nuoc-am-moi-sang-5098407.html",
+      "summary": "Mật ong pha nước ấm buổi sáng có thể tạo cảm giác no nhẹ, góp phần kiểm soát cảm giác thèm ăn, kích thích trao đổi chất, cải thiện tiêu hóa...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-18T23:00:00+07:00",
+      "fetched": "2026-07-19T08:46:00.955857+07:00"
+    },
+    {
+      "id": "2c054c74feec7e94933c3c46f880f9dd",
+      "title": "Đình Bắc không hài lòng khi Xuân Son ham ghi bàn",
+      "link": "https://vnexpress.net/dinh-bac-khong-hai-long-khi-xuan-son-ham-ghi-ban-5099059.html",
+      "summary": "Tiền đạo Nguyễn Đình Bắc tỏ vẻ phật ý với Nguyễn Xuân Son ở một pha bóng cuối trận Việt Nam thắng giao hữu Myanmar 4-0, tối 18/7.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-18T22:47:43+07:00",
+      "fetched": "2026-07-19T08:46:12.090644+07:00"
+    },
+    {
+      "id": "e89a4f1c31180aecc3f82b594a480926",
+      "title": "Chelsea chi 158 triệu USD chiêu mộ Morgan Rogers",
+      "link": "https://vnexpress.net/chelsea-chi-158-trieu-usd-chieu-mo-morgan-rogers-5099078.html",
+      "summary": "Chelsea nẫng mục tiêu của Arsenal khi đạt thỏa thuận trị giá 158 triệu USD với Aston Villa để chiêu mộ Morgan Rogers, biến anh thành cầu thủ người Anh đắt giá nhất lịch sử.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-18T22:36:02+07:00",
+      "fetched": "2026-07-19T08:46:12.090804+07:00"
     },
     {
       "id": "7319cdcc8c279e7b6329f5367a18771b",
@@ -393,6 +933,16 @@ window.newsData_2026_07_19 = {
       "fetched": "2026-07-19T03:37:18.730220+07:00"
     },
     {
+      "id": "898aa0b849b7d93e0d3fb89c291a571c",
+      "title": "Anh thắng Pháp 6-4 ở trận tranh giải ba World Cup 2026",
+      "link": "https://vnexpress.net/phap-anh-khep-lai-ky-nguyen-deschamps-5099039-tong-thuat.html",
+      "summary": "Bukayo Saka ghi hat-trick giúp Anh thắng Pháp ở trận tranh giải ba World Cup 2026, đạt thành tích tốt nhất kể từ khi vô địch năm 1966.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-18T20:00:00+07:00",
+      "fetched": "2026-07-19T08:46:12.090991+07:00"
+    },
+    {
       "id": "52eb23c5923bb05bbbc716d5307e7a4b",
       "title": "Lê Văn Hương, Lệ Thị Lam dẫn đầu 42km VM Đà Nẵng",
       "link": "https://vnexpress.net/truc-tiep-vnexpress-marathon-da-nang-2026-5098976.html",
@@ -411,6 +961,16 @@ window.newsData_2026_07_19 = {
       "category": "Thể thao",
       "published": "2026-07-18T19:15:00+07:00",
       "fetched": "2026-07-19T03:37:22.767534+07:00"
+    },
+    {
+      "id": "d7c643d169e2af694241ecd5f0cb3dd3",
+      "title": "Nano Guta Kebede vô địch VnExpress Marathon Đà Nẵng 2026",
+      "link": "https://vnexpress.net/truc-tiep-vnexpress-marathon-da-nang-2026-5098976-tong-thuat.html",
+      "summary": "VĐV Ethiopia Nano Guta Kebede về nhất cự ly 42km nam với thành tích 2 giờ 29 phút 17 giây sau màn rượt đuổi quyết liệt với Lê Văn Hương sáng 19/7.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-18T19:15:00+07:00",
+      "fetched": "2026-07-19T08:46:12.091152+07:00"
     },
     {
       "id": "a32d1baf54c9c1c1b23f110125900ec2",
@@ -701,6 +1261,16 @@ window.newsData_2026_07_19 = {
       "category": "Thế giới",
       "published": "2026-07-18T16:02:54+07:00",
       "fetched": "2026-07-19T01:46:37.124104+07:00"
+    },
+    {
+      "id": "92b2d4dc3289770ef91aac8827062a74",
+      "title": "Mã hóa tài sản thực đang trở thành xu hướng",
+      "link": "https://vnexpress.net/ma-hoa-tai-san-thuc-dang-tro-thanh-xu-huong-5099020.html",
+      "summary": "Mã hóa tài sản thực (RWA) được nhiều chuyên gia đánh giá là xu hướng mới của kinh tế số, cần khung pháp lý và hạ tầng phù hợp để phát triển bền vững.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-18T16:00:00+07:00",
+      "fetched": "2026-07-19T08:46:11.428312+07:00"
     },
     {
       "id": "848bb3478783f33e02f14e44fa43c9bd",
