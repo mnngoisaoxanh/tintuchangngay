@@ -1,6 +1,6 @@
 window.newsData_2026_07_19 = {
   "date": "2026-07-19",
-  "lastUpdated": "2026-07-19T16:51:18.247537+07:00",
+  "lastUpdated": "2026-07-19T18:04:12.618769+07:00",
   "articles": [
     {
       "id": "92672c47384751fe371c2921dded5062",
@@ -453,6 +453,236 @@ window.newsData_2026_07_19 = {
       "fetched": "2026-07-19T12:11:35.515539+07:00"
     },
     {
+      "id": "a5aba2f21a946f79ecc87e7973a24b94",
+      "title": "Cuộc chiến khốc liệt giành ngôi vương sẽ hay chưa từng thấy: Số phận gọi tên ai, Messi hay Yamal?",
+      "link": "https://thanhnien.vn/cuoc-chien-khoc-liet-gianh-ngoi-vuong-se-hay-chua-tung-thay-so-phan-goi-ten-ai-messi-hay-yamal-185260719102542844.htm",
+      "summary": "Đội tuyển Argentina và đội tuyển Tây Ban Nha đều sở hữu dàn cầu thủ đẳng cấp, nhưng trận chung kết World Cup 2026 (2 giờ ngày 20.7)  nhiều khả năng sẽ được định đoạt bởi những chi tiết nhỏ. Dưới đây là 5 yếu tố có thể quyết định đội bóng bước lên ngôi vô địch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T10:59:00+07:00",
+      "fetched": "2026-07-19T18:03:58.724083+07:00"
+    },
+    {
+      "id": "7137f232b399f4be60a4ca9e400f48de",
+      "title": "Bệnh nhân nặng nhất trong vụ lật ca nô ở Phú Quốc đã tự ăn uống được",
+      "link": "https://thanhnien.vn/benh-nhan-nang-nhat-trong-vu-lat-ca-no-o-phu-quoc-da-tu-an-uong-duoc-185260719173356894.htm",
+      "summary": "Sau gần một tuần điều trị tại Bệnh viện Chợ Rẫy, du khách Ấn Độ bị thương nặng nhất trong vụ lật ca nô ở Phú Quốc đã tỉnh táo, ổn định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T10:50:00+07:00",
+      "fetched": "2026-07-19T18:03:58.724262+07:00"
+    },
+    {
+      "id": "5d049f3ee6bbf5f637b0c10c5b9f568a",
+      "title": "Sự thật về lợi ích của cơm nguội với người bị tiểu đường",
+      "link": "https://thanhnien.vn/su-that-ve-loi-ich-cua-com-nguoi-voi-nguoi-bi-tieu-duong-185260719155424398.htm",
+      "summary": "Cơm nguội không thể thay thế việc kiểm soát khẩu phần ăn với người mắc đái tháo đường, và tiềm ẩn nguy cơ bị nhiễm khuẩn thức ăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T10:50:00+07:00",
+      "fetched": "2026-07-19T18:03:58.724431+07:00"
+    },
+    {
+      "id": "df40ce07cac5a62af62dd077a2ae7056",
+      "title": "Hoàng tộc nhà Nguyễn đề nghị tôn trọng sự thật lịch sử trong phim",
+      "link": "https://thanhnien.vn/hoang-toc-nha-nguyen-de-nghi-ton-trong-su-that-lich-su-trong-phim-185260719170728562.htm",
+      "summary": "Giữa những tranh luận về phim 'Hoàng hậu cuối cùng', Hội đồng Nguyễn Phúc tộc Việt Nam vừa ra thông cáo, đề nghị các đoàn phim tôn trọng lịch sử, cân nhắc đổi tên nhân vật nếu lựa chọn hư cấu quá xa sự thật lịch sử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T10:35:00+07:00",
+      "fetched": "2026-07-19T18:03:58.724584+07:00"
+    },
+    {
+      "id": "1f213e33c622ea2c092ace8c73a4cc5e",
+      "title": "VinFast VF 5 đang 'ép giá' nhóm SUV đô thị tại Việt Nam",
+      "link": "https://thanhnien.vn/vinfast-vf-5-dang-ep-gia-nhom-suv-do-thi-tai-viet-nam-185260717070545644.htm",
+      "summary": "Việc VF 5 liên tục điều chỉnh giá không chỉ giúp mẫu xe điện của VinFast tăng sức hút với khách hàng, mà còn gia tăng áp lực cạnh tranh lên mặt bằng giá bán của cả phân khúc xe SUV đô thị tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T10:33:00+07:00",
+      "fetched": "2026-07-19T18:03:58.724734+07:00"
+    },
+    {
+      "id": "6cbca96d3e3121b82792ce7d1c5f4ed7",
+      "title": "TP.HCM chiếu phim miễn phí ở 57 rạp từ ngày 22.7: Xem ở đâu, giờ nào?",
+      "link": "https://thanhnien.vn/tphcm-chieu-phim-mien-phi-o-57-rap-tu-ngay-227-xem-o-dau-gio-nao-185260716201753761.htm",
+      "summary": "Từ ngày 22 - 24.7, TP.HCM chiếu phim miễn phí tại 57 rạp. Xem danh sách địa chỉ, phim và khung giờ cụ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T10:29:00+07:00",
+      "fetched": "2026-07-19T18:03:58.724908+07:00"
+    },
+    {
+      "id": "27cda33bd5cf35995b3a1ffc37629091",
+      "title": "Thanh Hóa quyết tâm không để đội bóng giải thể, vận động doanh nghiệp cứu CLB",
+      "link": "https://thanhnien.vn/thanh-hoa-quyet-tam-khong-de-doi-bong-giai-the-van-dong-doanh-nghiep-cuu-clb-185260719172404536.htm",
+      "summary": "Ông Nguyễn Hồng Phong, Phó bí thư Thường trực, Chủ tịch HĐND tỉnh Thanh Hóa cho biết, tỉnh Thanh Hóa sẽ không để đội bóng đá Thanh Hóa phải giải thể do khó khăn về tài chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T10:28:00+07:00",
+      "fetched": "2026-07-19T18:03:58.725064+07:00"
+    },
+    {
+      "id": "a9e28db45faa421b99743b2db450e883",
+      "title": "Messi có thể vượt Mbappe ở cuộc đua Vua phá lưới và kỷ lục World Cup?",
+      "link": "https://thanhnien.vn/messi-co-the-vuot-mbappe-o-cuoc-dua-vua-pha-luoi-va-ky-luc-world-cup-185260719171048864.htm",
+      "summary": "Kylian Mbappe đã chiếm lợi thế trong cuộc đua Vua phá lưới World Cup 2026 với 10 bàn, đồng thời vượt Lionel Messi để trở thành cầu thủ ghi nhiều bàn thắng nhất lịch sử các kỳ World Cup. Tuy nhiên, trận chung kết với Tây Ban Nha vẫn mở ra cơ hội để siêu sao người Argentina viết lại những cột mốc này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T10:28:00+07:00",
+      "fetched": "2026-07-19T18:03:58.725217+07:00"
+    },
+    {
+      "id": "006526db2a603e6806519f766dc147db",
+      "title": "Xổ số miền Nam ngày 19 tháng 7: Người trúng số đài Tiền Giang lộ diện sớm",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-19-thang-7-nguoi-trung-so-dai-tien-giang-lo-dien-som-185260719151431115.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 19 tháng 7, một người mua 16 vé đài Tiền Giang lập tức lộ diện, được đại lý báo tin vui.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T10:21:00+07:00",
+      "fetched": "2026-07-19T18:03:58.725371+07:00"
+    },
+    {
+      "id": "0357bb5b11d339b793b9ebde2e87139d",
+      "title": "Hy hữu: Lật ô tô trên cầu An Lạc, tài xế bất ngờ nhảy xuống kênh",
+      "link": "https://thanhnien.vn/hy-huu-lat-o-to-tren-cau-an-lac-tai-xe-bat-ngo-nhay-xuong-kenh-185260719163223339.htm",
+      "summary": "Trưa 19.7.2026, một vụ lật ô tô trên cầu An Lạc (TP.HCM) đã xảy ra; đáng nói, sau khi tai nạn xảy ra, nam tài xế có biểu hiện bất thường đã bất ngờ nhảy xuống kênh nước bên dưới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T10:19:00+07:00",
+      "fetched": "2026-07-19T18:03:58.725524+07:00"
+    },
+    {
+      "id": "251f8df499571aaa2a97dd2f99530181",
+      "title": "Khởi tố 6 bị can vận chuyển 250 tấn heo nhiễm bệnh về Quảng Trị tiêu thụ",
+      "link": "https://thanhnien.vn/khoi-to-6-bi-can-van-chuyen-250-tan-heo-nhiem-benh-ve-quang-tri-tieu-thu-185260719164450294.htm",
+      "summary": "Công an tỉnh Quảng Trị vừa triệt phá, khởi tố 6 bị can trong đường dây vận chuyển hàng trăm tấn heo nhiễm bệnh từ các tỉnh phía bắc vào Quảng Trị tiêu thụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T10:15:00+07:00",
+      "fetched": "2026-07-19T18:03:58.725688+07:00"
+    },
+    {
+      "id": "f53b8b9277e50a33d7b036298e7548ce",
+      "title": "Điểm tin 17h: Tuần tới miền Bắc tiếp tục mưa giông | Thêm loạt thương hiệu kim cương đóng cửa",
+      "link": "https://vnexpress.net/diem-tin-17h-tuan-toi-mien-bac-tiep-tuc-mua-giong-them-loat-thuong-hieu-kim-cuong-dong-cua-5099203.html",
+      "summary": "Hàng chục bất động sản liên quan bà Trương Mỹ Lan sẽ được định giá; Hai du khách bẻ hơn 10 kg san hô ở biển Nha Trang...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T10:08:12+07:00",
+      "fetched": "2026-07-19T18:03:55.403380+07:00"
+    },
+    {
+      "id": "79385c0ed1bb154183969d242da62c4d",
+      "title": "Việt Nam giành 6 huy chương tại Olympic toán học quốc tế",
+      "link": "https://thanhnien.vn/viet-nam-gianh-6-huy-chuong-tai-olympic-toan-hoc-quoc-te-185260719164942082.htm",
+      "summary": "Đội tuyển Việt Nam có 6 học sinh dự thi Olympic toán học quốc tế (IMO) năm 2026 đều đoạt huy chương; gồm: 2 huy chương vàng, 3 huy chương bạc, 1 huy chương đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T10:05:00+07:00",
+      "fetched": "2026-07-19T18:03:58.725885+07:00"
+    },
+    {
+      "id": "5a7daab0d6e84b4fafa0124a5e798ab9",
+      "title": "Cứu bé kẹt trong hốc đá: 'Phải cưa cả vào đá để cứu cháu\"",
+      "link": "https://vnexpress.net/cuu-be-ket-trong-hoc-da-phai-cua-ca-vao-da-de-cuu-chau-5099196.html",
+      "summary": "Trong gần một tiếng đồng hồ dưới lòng suối ngập tới rốn, nhóm chiến sỹ công an xã Đăk Mar phải cưa tay thủ công và đục cả vào đá, giải cứu kịp thời bé gái 10 tuổi trước khi đêm xuống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T10:04:42+07:00",
+      "fetched": "2026-07-19T18:03:55.403556+07:00"
+    },
+    {
+      "id": "e0d26d6fcfd4ddf20a90aafdaaefbae3",
+      "title": "Phường Bến Thành lấy ý kiến người dân về metro Thủ Dầu Một vào trung tâm TP.HCM",
+      "link": "https://thanhnien.vn/phuong-ben-thanh-lay-y-kien-nguoi-dan-ve-metro-thu-dau-mot-vao-trung-tam-tphcm-185260719163036252.htm",
+      "summary": "Phường Bến Thành tham vấn ý kiến người dân về hướng tuyến, vị trí công trình tuyến đường sắt đô thị Thủ Dầu Một - TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T10:04:00+07:00",
+      "fetched": "2026-07-19T18:03:58.726060+07:00"
+    },
+    {
+      "id": "44838327219fc15bdc77b9c5ac62f535",
+      "title": "Tương quan trước trận Tây Ban Nha - Argentina",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-tay-ban-nha-argentina-5099192.html",
+      "summary": "ĐKVĐ Argentina đối đầu Tây Ban Nha - đội thể hiện sức mạnh vượt trội từ đầu giải, ở chung kết World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T10:00:00+07:00",
+      "fetched": "2026-07-19T18:03:55.403719+07:00"
+    },
+    {
+      "id": "f3ebfb8f228dc245d535aaf62e11caac",
+      "title": "Xavi: 'Yamal biết cậu ấy khác biệt như Messi'",
+      "link": "https://vnexpress.net/xavi-yamal-biet-cau-ay-khac-biet-nhu-messi-5099154.html",
+      "summary": "Trong bài bình luận trên tờ Athletic dịp World Cup 2026, cựu danh thủ, HLV Barca Xavi xem học trò cũ Lamine Yamal là mẫu cầu thủ độc bản của bóng đá Tây Ban Nha, và có khả năng tạo khác biệt như Lionel Messi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T10:00:00+07:00",
+      "fetched": "2026-07-19T18:03:55.403902+07:00"
+    },
+    {
+      "id": "daa70d4ed059727d44d5cefc454e4249",
+      "title": "Toàn cảnh 17h: Di dời khẩn cấp 219 hộ trong vùng lũ | Điều tra vụ cướp tiệm vàng do nợ nần",
+      "link": "https://thanhnien.vn/toan-canh-17h-di-doi-khan-cap-219-ho-trong-vung-lu-dieu-tra-vu-cuop-tiem-vang-do-no-nan-185260719155323829.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T10:00:00+07:00",
+      "fetched": "2026-07-19T18:03:58.726211+07:00"
+    },
+    {
+      "id": "44838327219fc15bdc77b9c5ac62f535",
+      "title": "Tương quan trước trận Tây Ban Nha - Argentina",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-tay-ban-nha-argentina-5099192.html",
+      "summary": "ĐKVĐ Argentina đối đầu Tây Ban Nha - đội thể hiện sức mạnh vượt trội từ đầu giải, ở chung kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-19T10:00:00+07:00",
+      "fetched": "2026-07-19T18:04:12.608238+07:00"
+    },
+    {
+      "id": "f3ebfb8f228dc245d535aaf62e11caac",
+      "title": "Xavi: 'Yamal biết cậu ấy khác biệt như Messi'",
+      "link": "https://vnexpress.net/xavi-yamal-biet-cau-ay-khac-biet-nhu-messi-5099154.html",
+      "summary": "Trong bài bình luận trên tờ Athletic dịp World Cup 2026, cựu danh thủ, HLV Barca Xavi xem học trò cũ Lamine Yamal là mẫu cầu thủ độc bản của bóng đá Tây Ban Nha, và có khả năng tạo khác biệt như Lionel Messi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-19T10:00:00+07:00",
+      "fetched": "2026-07-19T18:04:12.608413+07:00"
+    },
+    {
+      "id": "e9e0aaaa8336a50444860a24776fbc03",
+      "title": "5 tính năng ẩn trên One UI nên tắt để điện thoại Galaxy mượt hơn",
+      "link": "https://thanhnien.vn/5-tinh-nang-an-tren-one-ui-nen-tat-de-dien-thoai-galaxy-muot-hon-185260719125941922.htm",
+      "summary": "Những tính năng đang âm thầm làm chậm điện thoại Galaxy nên được tắt đi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T09:59:00+07:00",
+      "fetched": "2026-07-19T18:03:58.726359+07:00"
+    },
+    {
+      "id": "a0da3c55c6d852d43eb192b5317ce0e5",
+      "title": "Quan chức Mỹ bênh vực Argentina về biểu ngữ Falkland",
+      "link": "https://vnexpress.net/quan-chuc-my-benh-vuc-argentina-ve-bieu-ngu-falkland-5099181.html",
+      "summary": "Quan chức phụ trách World Cup của Nhà Trắng cho rằng cầu thủ Argentina có quyền căng biểu ngữ về quần đảo tranh chấp Falkland sau trận thắng đội Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T09:55:55+07:00",
+      "fetched": "2026-07-19T18:03:55.404094+07:00"
+    },
+    {
+      "id": "a0da3c55c6d852d43eb192b5317ce0e5",
+      "title": "Quan chức Mỹ bênh vực Argentina về biểu ngữ Falkland",
+      "link": "https://vnexpress.net/quan-chuc-my-benh-vuc-argentina-ve-bieu-ngu-falkland-5099181.html",
+      "summary": "Quan chức phụ trách World Cup của Nhà Trắng cho rằng cầu thủ Argentina có quyền căng biểu ngữ về quần đảo tranh chấp Falkland sau trận thắng đội Anh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-19T09:55:55+07:00",
+      "fetched": "2026-07-19T18:04:06.266619+07:00"
+    },
+    {
       "id": "b92f5a6f799adf2046f4639d9f77426e",
       "title": "Bẻ san hô ở Nha Trang để làm quà, 2 du khách bị phạt 50 triệu",
       "link": "https://thanhnien.vn/be-san-ho-o-nha-trang-de-lam-qua-2-du-khach-bi-phat-50-trieu-185260719162955646.htm",
@@ -471,6 +701,26 @@ window.newsData_2026_07_19 = {
       "category": "Tổng hợp",
       "published": "2026-07-19T09:45:00+07:00",
       "fetched": "2026-07-19T16:51:09.104322+07:00"
+    },
+    {
+      "id": "0d1f251f33590c92142b301a6a91739e",
+      "title": "Cuộc tháo chạy khỏi lũ quét ở Mường Than",
+      "link": "https://vnexpress.net/cuoc-thao-chay-khoi-lu-quet-o-muong-than-5099171.html",
+      "summary": "Thấy dòng lũ đỏ quạch cùng đá, cây lớn lao ầm ầm vào ngôi nhà, ba mẹ con em Hiểu Kỳ leo lên tầng 2, rồi men theo chuồng gà và khối gỗ dạt về để thoát lên đồi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T09:43:47+07:00",
+      "fetched": "2026-07-19T18:03:55.404264+07:00"
+    },
+    {
+      "id": "216d83e2d8afb022d8783d146d35c339",
+      "title": "Việt Nam vào top 5 Olympic Toán quốc tế",
+      "link": "https://vnexpress.net/viet-nam-vao-top-5-olympic-toan-quoc-te-5099194.html",
+      "summary": "Với hai huy chương vàng, ba bạc và một đồng, đội tuyển Việt Nam vượt Hàn Quốc, đứng thứ 5 trên 119 đoàn tại Olympic Toán quốc tế (IMO) 2026, sau Trung Quốc, Mỹ, Nga và Singapore.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T09:40:28+07:00",
+      "fetched": "2026-07-19T18:03:55.404416+07:00"
     },
     {
       "id": "9551aa954250c07336cfff5ffefcf726",
@@ -501,6 +751,16 @@ window.newsData_2026_07_19 = {
       "category": "Tổng hợp",
       "published": "2026-07-19T09:21:00+07:00",
       "fetched": "2026-07-19T16:51:09.104665+07:00"
+    },
+    {
+      "id": "84e34bf750edb6fbab664fff2811d99b",
+      "title": "Hoa hậu Colombia nhảy múa trên phố với chân giả",
+      "link": "https://vnexpress.net/hoa-hau-colombia-nhay-mua-tren-pho-voi-chan-gia-5099032.html",
+      "summary": "Daniella Álvarez - Miss Colombia 2011 - nhận nhiều bình luận tích cực khi đăng video nhảy múa trên phố cùng người qua đường với chiếc chân giả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T09:16:33+07:00",
+      "fetched": "2026-07-19T18:03:55.404734+07:00"
     },
     {
       "id": "2067d83ef7d16f9aa83a4ca40dbe136c",
