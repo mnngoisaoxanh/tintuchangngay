@@ -1,7 +1,157 @@
 window.newsData_2026_07_19 = {
   "date": "2026-07-19",
-  "lastUpdated": "2026-07-19T19:54:29.674525+07:00",
+  "lastUpdated": "2026-07-19T21:46:59.810719+07:00",
   "articles": [
+    {
+      "id": "d8ec6a94172193a8a7eecc20a60736d3",
+      "title": "Israel tính dùng cá sấu canh giữ tù nhân Hamas",
+      "link": "https://tuoitre.vn/israel-tinh-dung-ca-sau-canh-giu-tu-nhan-hamas-100260719194726346.htm",
+      "summary": "Israel đã sửa quy định về việc nuôi giữ cá sấu, mở đường cho việc sử dụng loài vật này vào mục đích an ninh quanh nhà tù.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T21:46:53.227930+07:00",
+      "fetched": "2026-07-19T21:46:53.227963+07:00"
+    },
+    {
+      "id": "401b7e5ecdba4ec388bae625a1aa7cdd",
+      "title": "Nàng thơ The Odyssey gây tranh cãi vì diện cổ vật 3.000 năm tuổi",
+      "link": "https://tuoitre.vn/nang-tho-the-odyssey-gay-tranh-cai-vi-dien-co-vat-3000-nam-tuoi-100260719195022126.htm",
+      "summary": "Đeo đôi hoa tai 3.000 năm tuổi để quảng bá The Odyssey, Zendaya nhận về nhiều ý kiến trái chiều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T21:46:53.227889+07:00",
+      "fetched": "2026-07-19T21:46:53.227924+07:00"
+    },
+    {
+      "id": "0dbcded9436522eb673f60212b404168",
+      "title": "Conan Movie 29, The Odyssey thống lĩnh ngoài rạp, phim Việt thất thế",
+      "link": "https://tuoitre.vn/conan-movie-29-the-odyssey-thong-linh-ngoai-rap-phim-viet-that-the-100260719164514501.htm",
+      "summary": "Các bom tấn Hollywood và anime đang thống trị rạp Việt mùa hè này gồm Conan Movie 29, The Odyssey, Minions và Quái vật...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T21:46:53.227828+07:00",
+      "fetched": "2026-07-19T21:46:53.227863+07:00"
+    },
+    {
+      "id": "d74844d216dceb8829181ac9a2e869ab",
+      "title": "Chuyện nuôi nấng sinh viên của thành phố này",
+      "link": "https://tuoitre.vn/chuyen-nuoi-nang-sinh-vien-cua-thanh-pho-nay-10026071919540658.htm",
+      "summary": "Tính từ ngày bước vào trường y đến khi tốt nghiệp bác sĩ nội trú, tôi có đúng 10 năm học tập ở TP.HCM. 10 năm - khoảng thời gian đủ để tôi hiểu biết, mến thương thành phố này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T21:46:53.227787+07:00",
+      "fetched": "2026-07-19T21:46:53.227822+07:00"
+    },
+    {
+      "id": "83640d0da89c9be91a128f59efa42f2d",
+      "title": "Buồng trứng đa nang: 'Đại dịch' thầm lặng ở phụ nữ trẻ",
+      "link": "https://tuoitre.vn/buong-trung-da-nang-dai-dich-tham-lang-o-phu-nu-tre-100260719195551315.htm",
+      "summary": "Buồng trứng đa nang đang ngày càng được phát hiện nhiều ở phụ nữ trẻ, trở thành một \"đại dịch thầm lặng\" ảnh hưởng đến sức khỏe sinh sản, nội tiết và chuyển hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T21:46:53.227733+07:00",
+      "fetched": "2026-07-19T21:46:53.227781+07:00"
+    },
+    {
+      "id": "3f3ebbd73ce82fd3f2b74f02d8a41371",
+      "title": "Nghề lái máy tìm nguồn nước đang gặp lúc 'trúng mùa'",
+      "link": "https://tuoitre.vn/nghe-lai-may-tim-nguon-nuoc-dang-gap-luc-trung-mua-100260719173220749.htm",
+      "summary": "Giữa nắng nóng miền Đông Nam Bộ, nhiều hộ dân xoay xở tìm nguồn nước cho vườn sầu riêng, cà phê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T21:46:53.227692+07:00",
+      "fetched": "2026-07-19T21:46:53.227727+07:00"
+    },
+    {
+      "id": "be8119c60161c80aebe2b29c41fdf728",
+      "title": "Hàng quán TP.HCM sẵn sàng xuyên đêm cho trận chung kết World Cup 2026",
+      "link": "https://tuoitre.vn/hang-quan-tphcm-san-sang-xuyen-dem-cho-tran-chung-ket-world-cup-2026-100260719201904219.htm",
+      "summary": "Lượng khách tăng mạnh, đặt bàn sớm nên nhiều nhà hàng kéo dài thời gian hoạt động, tăng gấp đôi nguồn hàng và bổ sung nhân sự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T21:46:53.227650+07:00",
+      "fetched": "2026-07-19T21:46:53.227686+07:00"
+    },
+    {
+      "id": "1fdee57b8069af8047ad9a56e3cf5d36",
+      "title": "'Nghèo mà sao ngày nào cũng mua vé số' - trách vậy đã đúng chưa?",
+      "link": "https://tuoitre.vn/ngheo-ma-sao-ngay-nao-cung-mua-ve-so-trach-vay-da-dung-chua-100260719205035393.htm",
+      "summary": "Thuộc lớp nghèo nhưng hầu như ngày nào tôi cũng mua 2 tờ vé số, có ngày 4 tờ. Tính ra một tháng tôi mua vé số hết 700.000 đồng, chiếm hơn 8% thu nhập của tôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T21:46:53.227609+07:00",
+      "fetched": "2026-07-19T21:46:53.227644+07:00"
+    },
+    {
+      "id": "b18bf199b331c9286abcb59edcc43a1b",
+      "title": "Hàng chục máy bay tiếp dầu Mỹ sắp tới Israel: Dấu hiệu chiến sự nóng?",
+      "link": "https://tuoitre.vn/hang-chuc-may-bay-tiep-dau-my-sap-toi-israel-dau-hieu-chien-su-nong-100260719205444065.htm",
+      "summary": "Israel sắp tiếp nhận thêm hàng chục máy bay tiếp dầu của Mỹ, trong bối cảnh xung đột Mỹ - Iran tiếp tục leo thang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T21:46:53.227568+07:00",
+      "fetched": "2026-07-19T21:46:53.227603+07:00"
+    },
+    {
+      "id": "defcde1afbd41ce0ff8b3252afc938c3",
+      "title": "Các danh hiệu VCK toàn quốc Giải bóng đá công nhân, viên chức Việt Nam 2026",
+      "link": "https://tuoitre.vn/cac-danh-hieu-vck-toan-quoc-giai-bong-da-cong-nhan-vien-chuc-viet-nam-2026-100260719194046647.htm",
+      "summary": "Ban tổ chức đã trao hàng loạt giải thưởng cho các tập thể, cá nhân có thành tích xuất sắc tại giải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T21:46:53.227524+07:00",
+      "fetched": "2026-07-19T21:46:53.227561+07:00"
+    },
+    {
+      "id": "c35d8738c9451a3427b1251a326371e5",
+      "title": "Đưa Festival Biển Khánh Hòa trở thành thương hiệu du lịch quốc tế",
+      "link": "https://tuoitre.vn/dua-festival-bien-khanh-hoa-tro-thanh-thuong-hieu-du-lich-quoc-te-100260719163610564.htm",
+      "summary": "Lãnh đạo tỉnh Khánh Hòa cho biết sẽ phát triển Festival Biển Khánh Hòa trở thành thương hiệu du lịch biển quốc tế, tầm cỡ khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T21:46:53.227478+07:00",
+      "fetched": "2026-07-19T21:46:53.227518+07:00"
+    },
+    {
+      "id": "6288ff07cfb6d1e5e272311d71098853",
+      "title": "Phó chủ tịch tỉnh Thanh Hóa kiểm tra hiện trường vụ 5 công nhân tử vong",
+      "link": "https://tuoitre.vn/pho-chu-tich-tinh-thanh-hoa-kiem-tra-hien-truong-vu-5-cong-nhan-tu-vong-100260719205552312.htm",
+      "summary": "Phó chủ tịch UBND tỉnh Thanh Hóa yêu cầu các sở, ngành, địa phương liên quan khẩn trương điều tra toàn diện hoạt động của trang trại DABACO.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T21:46:53.227431+07:00",
+      "fetched": "2026-07-19T21:46:53.227471+07:00"
+    },
+    {
+      "id": "059e8639f0b7d19a2814381ab89ea676",
+      "title": "FIFA xác nhận show giữa giờ chung kết World Cup chỉ kéo dài 11 phút",
+      "link": "https://tuoitre.vn/fifa-xac-nhan-show-giua-gio-chung-ket-world-cup-chi-keo-dai-11-phut-10026071920551942.htm",
+      "summary": "Dù quy tụ dàn line up khủng, màn trình diễn giữa giờ trong trận chung kết World Cup 2026 giữa Tây Ban Nha và Argentina sẽ chỉ kéo dài 11 phút.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T21:46:53.227380+07:00",
+      "fetched": "2026-07-19T21:46:53.227424+07:00"
+    },
+    {
+      "id": "47db11a4a6db15a96672968b1196cb08",
+      "title": "Hai làng cổ ở Hà Nội, nghìn năm qua vẫn gọi nhau là ‘Quan anh’, ‘Đại huynh’",
+      "link": "https://tuoitre.vn/hai-lang-co-o-ha-noi-nghin-nam-qua-van-goi-nhau-la-quan-anh-dai-huynh-100260719204923397.htm",
+      "summary": "Suốt 1.000 năm, người dân hai làng Vạn Phúc - Nga My ở Hà Nội đều kính trọng gọi nhau là ‘Quan anh’, ‘Đại huynh’, trai gái hai làng không lấy nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T21:46:53.227326+07:00",
+      "fetched": "2026-07-19T21:46:53.227374+07:00"
+    },
+    {
+      "id": "0e3ff7915921e2d9a0d5697913f62474",
+      "title": "Hoàng tử William, Meghan Markle nhận đề cử Emmy",
+      "link": "https://tuoitre.vn/hoang-tu-william-meghan-markle-nhan-de-cu-emmy-100260719204929879.htm",
+      "summary": "Với loạt chương trình With Love, Meghan nhận đề cử, còn Hoàng tử William cũng góp mặt trong một chương trình khác đang tranh giải Emmy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T21:46:53.227190+07:00",
+      "fetched": "2026-07-19T21:46:53.227316+07:00"
+    },
     {
       "id": "8275093cea9b9ac86464d0d4c4f50852",
       "title": "Tâm thư của Messi 'phá đảo' mạng xã hội mùa World Cup",
@@ -451,6 +601,246 @@ window.newsData_2026_07_19 = {
       "category": "Tổng hợp",
       "published": "2026-07-19T14:58:58.105505+07:00",
       "fetched": "2026-07-19T14:58:58.105645+07:00"
+    },
+    {
+      "id": "c21c708e155f7d7be7f4da52b7a41762",
+      "title": "Hai 'nhà tiên tri' động vật bất đồng trước chung kết World Cup",
+      "link": "https://vnexpress.net/hai-nha-tien-tri-dong-vat-bat-dong-truoc-chung-ket-world-cup-5099232.html",
+      "summary": "Hươu cao cổ Fali tại vườn thú Tây Ban Nha và hà mã Moo Deng ở Thái Lan đưa ra dự đoán trái ngược trước trận đấu Tây Ban Nha và Argentina tại chung kết World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T14:37:44+07:00",
+      "fetched": "2026-07-19T21:46:48.447262+07:00"
+    },
+    {
+      "id": "4f6e79c8604ff0643992ca05b9361e53",
+      "title": "Trực tiếp chung kết World Cup 2026, Tây Ban Nha - Argentina: Yamal đọ tài Messi",
+      "link": "https://thanhnien.vn/truc-tiep-chung-ket-world-cup-2026-tay-ban-nha-argentina-yamal-do-tai-messi-18526071918575135.htm",
+      "summary": "Tài năng 19 tuổi Yamal (Tây Ban Nha) và siêu sao 39 tuổi Messi (Argentina) là tâm điểm của trận chung kết World Cup 2026 diễn ra lúc 2 giờ ngày 20.7 trên sân MetLife (Mỹ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T14:28:00+07:00",
+      "fetched": "2026-07-19T21:46:51.090052+07:00"
+    },
+    {
+      "id": "a9b783c1b35be9e73eed134e3cedd526",
+      "title": "19 người chết do lũ quét, lở đất ở Ấn Độ",
+      "link": "https://thanhnien.vn/19-nguoi-chet-do-lu-quet-lo-dat-o-an-do-185260719211515419.htm",
+      "summary": "Lũ quét và lở đất do mưa gió mùa gây ra đã khiến ít nhất 19 người thiệt mạng ở Ấn Độ trong ngày 19.7, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T14:22:00+07:00",
+      "fetched": "2026-07-19T21:46:51.090167+07:00"
+    },
+    {
+      "id": "fc02c742cce794b8a48de9a3e09f3a23",
+      "title": "World Cup chưa đá chung kết, bệnh viện Argentina đã đông bệnh nhân vì... quá hồi hộp",
+      "link": "https://thanhnien.vn/world-cup-chua-da-chung-ket-benh-vien-argentina-da-dong-benh-nhan-vi-qua-hoi-hop-185260719211647482.htm",
+      "summary": "World Cup 2026 không chỉ khiến người hâm mộ đứng ngồi không yên trên khán đài. Tại Argentina, các bác sĩ cho biết mỗi khi đội tuyển quốc gia ra sân, số ca cấp cứu liên quan đến tim mạch cũng tăng lên đáng kể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T14:18:00+07:00",
+      "fetched": "2026-07-19T21:46:51.090271+07:00"
+    },
+    {
+      "id": "3355f6aaf74e321bcdfafcecf41f0d9d",
+      "title": "Ngột ngạt vì bạn gái gọi điện, nhắn tin liên tục để kiểm soát",
+      "link": "https://vnexpress.net/ngot-ngat-vi-ban-gai-goi-dien-nhan-tin-lien-tuc-de-kiem-soat-5099182.html",
+      "summary": "Em luôn nghi ngờ tôi còn tình cảm với vợ cũ hoặc có người khác, dù tôi chưa từng làm điều gì có lỗi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T14:00:00+07:00",
+      "fetched": "2026-07-19T21:46:48.447388+07:00"
+    },
+    {
+      "id": "bf226e70babab17d3c16b1e8036dc91a",
+      "title": "6 người bị khởi tố vì tiêu thụ hơn 250 tấn lợn bệnh",
+      "link": "https://vnexpress.net/6-nguoi-bi-khoi-to-vi-tieu-thu-hon-250-tan-lon-benh-5099222.html",
+      "summary": "Sáu người bị cáo buộc mua lợn nhiễm dịch tả châu Phi từ các tỉnh phía Bắc đưa về Quảng Trị giết mổ, tiêu thụ, tổng cộng hơn 250 tấn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:59:28+07:00",
+      "fetched": "2026-07-19T21:46:48.447495+07:00"
+    },
+    {
+      "id": "a1641465d9a92360a1c6e58ec5989b0c",
+      "title": "Quảng Ngãi: Thu gom, xử lý 10 quả bom, đạn sót lại sau chiến tranh",
+      "link": "https://thanhnien.vn/quang-ngai-thu-gom-xu-ly-10-qua-bom-dan-sot-lai-sau-chien-tranh-185260719203818143.htm",
+      "summary": "Lực lượng chức năng phát hiện 10 quả bom, đạn, vật nổ còn sót lại sau chiến tranh nằm rải rác trên địa bàn xã Đông Sơn (Quảng Ngãi). Toàn bộ số vật nổ sau đó được thu gom, vận chuyển và xử lý an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:50:00+07:00",
+      "fetched": "2026-07-19T21:46:51.090370+07:00"
+    },
+    {
+      "id": "7a818f42c214b2acdcb2dbf7892c4d48",
+      "title": "Messi có thể khiến Mbappe mất 2 kỷ lục chỉ sau 1 trận đấu?",
+      "link": "https://thanhnien.vn/messi-co-the-khien-mbappe-mat-2-ky-luc-chi-sau-1-tran-dau-185260719195311618.htm",
+      "summary": "Kylian Mbappe đã vươn lên dẫn đầu cuộc đua Vua phá lưới World Cup 2026 với 10 bàn, đồng thời vượt Lionel Messi để trở thành cầu thủ ghi nhiều bàn thắng nhất lịch sử các kỳ World Cup. Tuy nhiên, siêu sao người Argentina vẫn còn trận chung kết với Tây Ban Nha để nuôi hy vọng tạo nên màn lội ngược dòng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:44:00+07:00",
+      "fetched": "2026-07-19T21:46:51.090470+07:00"
+    },
+    {
+      "id": "a800c866540dbb9307f2c9b946996cb7",
+      "title": "Phiên bản đỉnh cao của Rodri đấu Messi ở chung kết World Cup",
+      "link": "https://vnexpress.net/phien-ban-dinh-cao-cua-rodri-dau-messi-o-chung-ket-world-cup-5099230.html",
+      "summary": "Không thể lấy lại phong độ trong mùa giải 2025-2026, nhưng tiền vệ Rodri kịp tìm lại đẳng cấp để đưa Tây Ban Nha lần thứ hai vào chung kết World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:43:47+07:00",
+      "fetched": "2026-07-19T21:46:48.447599+07:00"
+    },
+    {
+      "id": "a800c866540dbb9307f2c9b946996cb7",
+      "title": "Phiên bản đỉnh cao của Rodri đấu Messi ở chung kết World Cup",
+      "link": "https://vnexpress.net/phien-ban-dinh-cao-cua-rodri-dau-messi-o-chung-ket-world-cup-5099230.html",
+      "summary": "Không thể lấy lại phong độ trong mùa giải 2025-2026, nhưng tiền vệ Rodri kịp tìm lại đẳng cấp để đưa Tây Ban Nha lần thứ hai vào chung kết World Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-19T13:43:47+07:00",
+      "fetched": "2026-07-19T21:46:59.801241+07:00"
+    },
+    {
+      "id": "2bc759cfbcba741dc542ac0704c96a22",
+      "title": "Sắc vóc diễn viên Thanh Huế phim 'Lửa trắng'",
+      "link": "https://vnexpress.net/sac-voc-dien-vien-thanh-hue-phim-lua-trang-5099164.html",
+      "summary": "Thanh Huế, 25 tuổi, được chú ý khi đóng các vai gái hư, tội phạm trong loạt phim hình sự “Độc đạo”, “Biệt dược đen”, “Lửa trắng”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:21:12+07:00",
+      "fetched": "2026-07-19T21:46:48.447698+07:00"
+    },
+    {
+      "id": "297eaecb06cdeae7e10c16690fab5813",
+      "title": "Kết quả xổ số Vietlott Mega 6/45 tối 19.7, giải độc đắc tăng 16,9 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-mega-6-45-toi-197-giai-doc-dac-tang-169-ti-dong-185260719195355098.htm",
+      "summary": "Tối 19.7, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45 và ghi nhận không có người trúng giải độc đắc nên số tiền cộng dồn là 16,9 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:19:00+07:00",
+      "fetched": "2026-07-19T21:46:51.090566+07:00"
+    },
+    {
+      "id": "a785eeaed8478423a95ec37a4c968b3d",
+      "title": "Khẩn thiết tìm thân nhân người chiến sĩ sở hữu chiếc bút khắc tên 'Tiến Quy'",
+      "link": "https://thanhnien.vn/khan-thiet-tim-than-nhan-nguoi-chien-si-so-huu-chiec-but-khac-ten-tien-quy-185260719201041904.htm",
+      "summary": "Nhằm đẩy nhanh tiến độ tìm kiếm trước ngày tổ chức lễ quy tập, Ban Chỉ đạo 515 thành phố Đồng Nai vừa phát đi thông báo khẩn thiết tìm kiếm cựu chiến binh và nhân chứng lịch sử nắm giữ thông tin về các phần mộ tại mặt trận xã Minh Đức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:16:00+07:00",
+      "fetched": "2026-07-19T21:46:51.090660+07:00"
+    },
+    {
+      "id": "23ea9439090d553c19ec3339714daab5",
+      "title": "U.16 Sơn La tạo bất ngờ, bắt đối thủ mạnh U.16 Hà Nội phải chia điểm",
+      "link": "https://thanhnien.vn/u16-son-la-tao-bat-ngo-bat-doi-thu-manh-u16-ha-noi-phai-chia-diem-185260719200211384.htm",
+      "summary": "Chủ nhà Sơn La gây bất ngờ trước Hà Nội ngày khai màn giải bóng đá nữ vô địch U.16 quốc gia 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:16:00+07:00",
+      "fetched": "2026-07-19T21:46:51.090764+07:00"
+    },
+    {
+      "id": "d91bafb9cd0d957372173924b2880ece",
+      "title": "Liên tiếp cháy rừng ở Quảng Trị, lực lượng chức năng căng mình dập lửa",
+      "link": "https://thanhnien.vn/lien-tiep-chay-rung-o-quang-tri-luc-luong-chuc-nang-cang-minh-dap-lua-185260719164619222.htm",
+      "summary": "Liên tiếp các vụ cháy rừng lớn xảy ra tại tỉnh Quảng Trị và khu vực giáp ranh trong hai ngày 18 và 19.7.2026, buộc lực lượng biên phòng, quân sự cùng người dân phải xuyên đêm trắng căng mình dập lửa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:15:00+07:00",
+      "fetched": "2026-07-19T21:46:51.090862+07:00"
+    },
+    {
+      "id": "cbf94fb98caf70746121830c15d15cfd",
+      "title": "Iran công bố video bắn hạ UAV hơn 30 triệu USD của Mỹ",
+      "link": "https://vnexpress.net/iran-cong-bo-video-ban-ha-uav-hon-30-trieu-usd-cua-my-5099226.html",
+      "summary": "Truyền thông Iran đăng video phòng không khóa mục tiêu và bắn rơi UAV MQ-9 Reaper của Mỹ, dường như là chiếc thứ 4 trong vòng 8 ngày qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:13:19+07:00",
+      "fetched": "2026-07-19T21:46:48.447811+07:00"
+    },
+    {
+      "id": "cbf94fb98caf70746121830c15d15cfd",
+      "title": "Iran công bố video bắn hạ UAV hơn 30 triệu USD của Mỹ",
+      "link": "https://vnexpress.net/iran-cong-bo-video-ban-ha-uav-hon-30-trieu-usd-cua-my-5099226.html",
+      "summary": "Truyền thông Iran đăng video phòng không khóa mục tiêu và bắn rơi UAV MQ-9 Reaper của Mỹ, dường như là chiếc thứ 4 trong vòng 8 ngày qua.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-19T13:13:19+07:00",
+      "fetched": "2026-07-19T21:46:54.919468+07:00"
+    },
+    {
+      "id": "83c3a1ce2ea1659f674f002e674a630b",
+      "title": "Xác định đội bóng đầu tiên vào tứ kết giải U.17 quốc gia: U.17 Hà Nội ghi danh",
+      "link": "https://thanhnien.vn/xac-dinh-doi-bong-dau-tien-vao-tu-ket-giai-u17-quoc-gia-u17-ha-noi-ghi-danh-185260719200626874.htm",
+      "summary": "Khẳng định sức mạnh, đội U.17 Hà Nội sớm giành quyền vào tứ kết giải U.17 quốc gia - Cúp Rồng Đỏ 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:09:00+07:00",
+      "fetched": "2026-07-19T21:46:51.090953+07:00"
+    },
+    {
+      "id": "0a75c9e35c18ea860d4ad3546cdb01b9",
+      "title": "Nước nào chiếm gần 30% sản lượng chuối của thế giới?",
+      "link": "https://vnexpress.net/nuoc-nao-chiem-gan-30-san-luong-chuoi-cua-the-gioi-5099215.html",
+      "summary": "Với 37,6 triệu tấn chuối, nước này chiếm 30% sản lượng toàn cầu năm 2024. Bạn có biết đó là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:07:27+07:00",
+      "fetched": "2026-07-19T21:46:48.447913+07:00"
+    },
+    {
+      "id": "839880028761daad5c7bacbf46eccc11",
+      "title": "Xem nhanh 20h ngày 19.7: Khởi tố vụ án gian lận thi ở Quảng Trị | 50 năm thân nhân tìm liệt sĩ Trường Sa",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-197-khoi-to-vu-an-gian-lan-thi-o-quang-tri-50-nam-than-nhan-tim-liet-si-truong-sa-185260719192945464.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 19.7 có nhiều tin tức đáng chú ý về: Vụ gian lận thi tốt nghiệp tại Quảng Trị: Khởi tố vụ án và 2 giáo viên; 50 năm thân nhân tìm liệt sĩ Trường Sa: Chỉ huy đầu tiên ngã xuống ở đảo Sinh Tồn;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:00:00+07:00",
+      "fetched": "2026-07-19T21:46:51.091052+07:00"
+    },
+    {
+      "id": "4d2311424c73620813c9845042f22200",
+      "title": "Lộ diện nhà vô địch giải bóng đá công nhân, viên chức Việt Nam 2026",
+      "link": "https://thanhnien.vn/lo-dien-nha-vo-dich-giai-bong-da-cong-nhan-vien-chuc-viet-nam-2026-185260719194813506.htm",
+      "summary": "Vòng chung kết (VCK) toàn quốc giải bóng đá công nhân, viên chức Việt Nam 2026 khép lại vào chiều tối 19.7 tại sân Trường ĐH Tôn Đức Thắng (TP.HCM), với chức vô địch thuộc về đội Công đoàn Ngân hàng Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T12:59:00+07:00",
+      "fetched": "2026-07-19T21:46:51.091150+07:00"
+    },
+    {
+      "id": "8e11ceb24e36302b3897c6ddbf9aaeb8",
+      "title": "Tìm người mất tích, vớt vát tài sản sau lũ quét",
+      "link": "https://vnexpress.net/tim-nguoi-mat-tich-vot-vat-tai-san-sau-lu-quet-5099216.html",
+      "summary": "Ba ngày sau trận lũ quét ở Mường Than, lực lượng cứu hộ vẫn tìm kiếm người mất tích, còn người dân thu dọn nhà cửa, nhặt nhạnh những tài sản sót lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T12:58:34+07:00",
+      "fetched": "2026-07-19T21:46:48.448013+07:00"
+    },
+    {
+      "id": "da0790b600db499901be40eaf69e2218",
+      "title": "Người mẫu Việt cao 1,78 m, 'gây sốt' vì clip catwalk hút 8,7 triệu lượt xem là ai?",
+      "link": "https://thanhnien.vn/nguoi-mau-viet-cao-178-m-gay-sot-vi-clip-catwalk-hut-87-trieu-luot-xem-la-ai-185260719194453165.htm",
+      "summary": "Hoạt động ở lĩnh vực người mẫu, Mi Lan được nhận xét có nhiều lợi thế, đặc biệt là chiều cao 1,78 m. Gần đây, clip cô catwalk hút hơn 8,7 triệu lượt xem trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T12:56:00+07:00",
+      "fetched": "2026-07-19T21:46:51.091245+07:00"
+    },
+    {
+      "id": "ab40a05f6e8bd46ce364b5a58f97a915",
+      "title": "4 tính năng quan trọng phải có khi chọn mua sạc dự phòng",
+      "link": "https://thanhnien.vn/4-tinh-nang-quan-trong-phai-co-khi-chon-mua-sac-du-phong-185260719123933954.htm",
+      "summary": "Dưới đây là 4 tính năng quyết định cục sạc dự phòng an toàn hay là 'bom nổ chậm'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T12:55:00+07:00",
+      "fetched": "2026-07-19T21:46:51.091339+07:00"
     },
     {
       "id": "44d441fc87d232a4c00ae790c304e5bf",
