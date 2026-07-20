@@ -1,6 +1,6 @@
 window.newsData_2026_07_21 = {
   "date": "2026-07-21",
-  "lastUpdated": "2026-07-21T02:24:54.290863+07:00",
+  "lastUpdated": "2026-07-21T04:00:51.997435+07:00",
   "articles": [
     {
       "id": "172ad38ed9312d23b419b241435edcbc",
@@ -171,6 +171,76 @@ window.newsData_2026_07_21 = {
       "category": "Tổng hợp",
       "published": "2026-07-21T00:22:41.740488+07:00",
       "fetched": "2026-07-21T00:22:41.740629+07:00"
+    },
+    {
+      "id": "05a3ce9339ccc1940e9748756236a913",
+      "title": "Tiếc cho Messi nhưng đúng với Argentina",
+      "link": "https://thanhnien.vn/tiec-cho-messi-nhung-dung-voi-argentina-185260720221839932.htm",
+      "summary": "Không có phép màu của Messi, Argentina bất lực trước Tây Ban Nha quá toàn diện. Một tập thể đồng đều và có triết lý chơi bóng khoa học, hiện đại đã vượt qua đội bóng được dẫn dắt bởi một ngôi sao nhưng các vệ tinh xung quanh lại chưa tạo được sự kết nối tương ứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T20:14:00+07:00",
+      "fetched": "2026-07-21T04:00:41.764117+07:00"
+    },
+    {
+      "id": "b9dd7026dcc1fd5d46ac05a5760252f8",
+      "title": "Đội tuyển Việt Nam phải cẩn trọng trước Timor Leste",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-phai-can-trong-truoc-timor-leste-185260720222322558.htm",
+      "summary": "Dù đẳng cấp vượt trội so với Timor Leste, nhưng đội tuyển VN không được chủ quan ở màn ra quân AFF Cup 2026 ngày 24.7. Ngày 20.7, thầy trò ông Kim đã sang Thái Lan để chuẩn bị cho trận đấu này trên sân Chonburi do đội bạn không đủ điều kiện tổ chức tại quê nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T20:11:00+07:00",
+      "fetched": "2026-07-21T04:00:41.764285+07:00"
+    },
+    {
+      "id": "26ab7547f3b5c7766df59ecbbf4bb4d1",
+      "title": "Cựu trọng tài FIFA chỉ trích đội tuyển Argentina, gọi Paredes là 'nỗi xấu hổ': Đề nghị treo giò 10 trận",
+      "link": "https://thanhnien.vn/cuu-trong-tai-fifa-chi-trich-doi-tuyen-argentina-goi-paredes-la-noi-xau-ho-de-nghi-treo-gio-10-tran-185260721015557552.htm",
+      "summary": "Cựu trọng tài FIFA Keith Hackett cho rằng Leandro Paredes cần nhận án phạt nặng vì những pha gây gổ, triệt hạ cầu thủ Tây Ban Nha ở chung kết World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T20:06:00+07:00",
+      "fetched": "2026-07-21T04:00:41.764444+07:00"
+    },
+    {
+      "id": "85d7cb408802c89d31a41f93f95283d0",
+      "title": "Chứng khoán SSI cho vay kỷ lục hơn 40.000 tỷ đồng",
+      "link": "https://vnexpress.net/chung-khoan-ssi-cho-vay-ky-luc-hon-40-000-ty-dong-5099699.html",
+      "summary": "Cuối quý II, dư nợ của Chứng khoán SSI đạt gần 40.472 tỷ đồng, cao nhất từ trước đến nay, trong đó 99% số tiền được dùng cho hoạt động cho vay ký quỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T19:40:35+07:00",
+      "fetched": "2026-07-21T04:00:38.819565+07:00"
+    },
+    {
+      "id": "85d7cb408802c89d31a41f93f95283d0",
+      "title": "Chứng khoán SSI cho vay kỷ lục hơn 40.000 tỷ đồng",
+      "link": "https://vnexpress.net/chung-khoan-ssi-cho-vay-ky-luc-hon-40-000-ty-dong-5099699.html",
+      "summary": "Cuối quý II, dư nợ của Chứng khoán SSI đạt gần 40.472 tỷ đồng, cao nhất từ trước đến nay, trong đó 99% số tiền được dùng cho hoạt động cho vay ký quỹ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-20T19:40:35+07:00",
+      "fetched": "2026-07-21T04:00:47.724235+07:00"
+    },
+    {
+      "id": "15247c15c07df8fcae9007b75323dcbc",
+      "title": "Hãng tương ớt Cholimex bình quân mỗi ngày thu 12 tỷ đồng",
+      "link": "https://vnexpress.net/hang-tuong-ot-cholimex-binh-quan-moi-ngay-thu-12-ty-dong-5099686.html",
+      "summary": "Hãng tương ớt Cholimex thu hơn 2.160 tỷ đồng trong nửa đầu năm, tương ứng bình quân mỗi ngày 12 tỷ đồng, cao nhất từ trước đến nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T19:34:30+07:00",
+      "fetched": "2026-07-21T04:00:38.819776+07:00"
+    },
+    {
+      "id": "15247c15c07df8fcae9007b75323dcbc",
+      "title": "Hãng tương ớt Cholimex bình quân mỗi ngày thu 12 tỷ đồng",
+      "link": "https://vnexpress.net/hang-tuong-ot-cholimex-binh-quan-moi-ngay-thu-12-ty-dong-5099686.html",
+      "summary": "Hãng tương ớt Cholimex thu hơn 2.160 tỷ đồng trong nửa đầu năm, tương ứng bình quân mỗi ngày 12 tỷ đồng, cao nhất từ trước đến nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-20T19:34:30+07:00",
+      "fetched": "2026-07-21T04:00:47.724410+07:00"
     },
     {
       "id": "40254d7c2ccf820552940f4d40228bed",
