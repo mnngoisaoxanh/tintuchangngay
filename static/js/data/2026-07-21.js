@@ -1,7 +1,17 @@
 window.newsData_2026_07_21 = {
   "date": "2026-07-21",
-  "lastUpdated": "2026-07-21T04:00:51.997435+07:00",
+  "lastUpdated": "2026-07-21T05:46:06.744807+07:00",
   "articles": [
+    {
+      "id": "3b51e30877fe6e0c9625d09eacec6c43",
+      "title": "Thời tiết hôm nay 21-7: Cả nước giảm mưa, trời nắng nóng trở lại",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-21-7-ca-nuoc-giam-mua-troi-nang-nong-tro-lai-100260720161424612.htm",
+      "summary": "Hôm nay 21-7, thời tiết cả nước giảm mưa, nhiều nơi nắng nóng đến nắng nóng gay gắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T05:45:58.590608+07:00",
+      "fetched": "2026-07-21T05:45:58.590739+07:00"
+    },
     {
       "id": "172ad38ed9312d23b419b241435edcbc",
       "title": "Ngoại trưởng Mỹ - Nga có thể gặp nhau tại Hội nghị Ngoại trưởng ASEAN",
@@ -171,6 +181,316 @@ window.newsData_2026_07_21 = {
       "category": "Tổng hợp",
       "published": "2026-07-21T00:22:41.740488+07:00",
       "fetched": "2026-07-21T00:22:41.740629+07:00"
+    },
+    {
+      "id": "407dc28041db91c72d163ce97ff717d4",
+      "title": "Thách thức đang chờ tân Thủ tướng Anh",
+      "link": "https://thanhnien.vn/thach-thuc-dang-cho-tan-thu-tuong-anh-185260720232823802.htm",
+      "summary": "Sau gần 10 năm rời khỏi London để bắt đầu lại sự nghiệp, ông Andy Burnham giờ trở lại trung tâm quyền lực của nước Anh với vai trò và trọng trách mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:45:00+07:00",
+      "fetched": "2026-07-21T05:45:56.896059+07:00"
+    },
+    {
+      "id": "2fa962ce462412856821c2a37ad3d207",
+      "title": "Khám phá Vườn quốc gia Cát Tiên: Cánh rừng nguyên sinh hơn 71.000 ha bên sông Đồng Nai",
+      "link": "https://thanhnien.vn/kham-pha-vuon-quoc-gia-cat-tien-canh-rung-nguyen-sinh-hon-71000-ha-ben-song-dong-nai-185260720202522645.htm",
+      "summary": "Rộng hơn 71.000 ha với hơn 80 km giáp sông Đồng Nai, Vườn quốc gia Cát Tiên sở hữu hệ sinh thái rừng đặc biệt, là nơi sinh sống của hàng nghìn loài động, thực vật và được UNESCO công nhận là Khu dự trữ sinh quyển thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:45:00+07:00",
+      "fetched": "2026-07-21T05:45:56.896229+07:00"
+    },
+    {
+      "id": "34d1a506ba9327014e2054f645c266c5",
+      "title": "Lứa trẻ chào đời mùa dịch vào lớp 1, sĩ số năm nay thế nào ?",
+      "link": "https://thanhnien.vn/lua-tre-chao-doi-mua-dich-vao-lop-1-si-so-nam-nay-the-nao-185260720195047492.htm",
+      "summary": "Lứa trẻ em chào đời đúng mùa dịch Covid-19 năm 2020 nay chuẩn bị vào lớp 1. Hiện các địa phương trên địa bàn TP.HCM đang trong quá trình tuyển sinh đầu cấp, sĩ số các trường biến động ra sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:45:00+07:00",
+      "fetched": "2026-07-21T05:45:56.896386+07:00"
+    },
+    {
+      "id": "fbdf40d90944105d1968ef65286127a4",
+      "title": "KOL, KOC bán hàng trên nền tảng số: Bị khấu trừ 10% thuế tại nguồn đã xong nghĩa vụ?",
+      "link": "https://thanhnien.vn/kol-koc-ban-hang-tren-nen-tang-so-bi-khau-tru-10-thue-tai-nguon-da-xong-nghia-vu-185260721003628522.htm",
+      "summary": "Sự bùng nổ của kinh tế số kéo theo sự gia tăng mạnh mẽ của các cá nhân có thu nhập từ nền tảng trực tuyến như KOL, KOC, afiliate hay freelancer. Tuy nhiên, việc xác định đúng nghĩa vụ thuế theo quy định mới, đặc biệt là Nghị định 253/2026/NĐ-CP, vẫn khiến nhiều người băn khoăn. Chiều 20.7, bà Nguyễn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:44:00+07:00",
+      "fetched": "2026-07-21T05:45:56.896541+07:00"
+    },
+    {
+      "id": "ea6383e97dcd575619add318c9eb6d8a",
+      "title": "Kỳ lạ ‘văn hóa xếp hàng’ bằng túi ni lông trước cổng bệnh viện",
+      "link": "https://thanhnien.vn/ky-la-van-hoa-xep-hang-bang-tui-ni-long-truoc-cong-benh-vien-185260720201811967.htm",
+      "summary": "Mỗi buổi sáng, trên vỉa hè trước cổng số 6 Bệnh viện Chợ Rẫy (TP.HCM), hàng chục túi ni lông, hộp cơm, hũ nhựa được xếp ngay ngắn thành một hàng dài. Nhiều người đi qua tò mò, nhưng ít ai biết đó không phải rác, cũng chẳng phải đồ bị bỏ quên. Mỗi chiếc túi là một “lá phiếu” giữ chỗ cho một suất cơm ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:42:00+07:00",
+      "fetched": "2026-07-21T05:45:56.896695+07:00"
+    },
+    {
+      "id": "242d27d5097027fa9fd675d5413ac655",
+      "title": "Nghịch lý khi Tây Ban Nha vô địch World Cup 2026",
+      "link": "https://vnexpress.net/nghich-ly-khi-tay-ban-nha-vo-dich-world-cup-2026-5099700.html",
+      "summary": "Lối chơi tập thể và kiểm soát bóng của Tây Ban Nha làm lu mờ toàn bộ các siêu sao tấn công trong một kỳ World Cup 2026 ngập tràn bàn thắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:34:19+07:00",
+      "fetched": "2026-07-21T05:45:53.814105+07:00"
+    },
+    {
+      "id": "242d27d5097027fa9fd675d5413ac655",
+      "title": "Nghịch lý khi Tây Ban Nha vô địch World Cup 2026",
+      "link": "https://vnexpress.net/nghich-ly-khi-tay-ban-nha-vo-dich-world-cup-2026-5099700.html",
+      "summary": "Lối chơi tập thể và kiểm soát bóng của Tây Ban Nha làm lu mờ toàn bộ các siêu sao tấn công trong một kỳ World Cup 2026 ngập tràn bàn thắng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-20T22:34:19+07:00",
+      "fetched": "2026-07-21T05:46:06.739356+07:00"
+    },
+    {
+      "id": "1a9f7b5090ffd2b846eb0f38098a41fb",
+      "title": "Tiêu điểm quốc tế ngày 21.7: Không kích leo thang ở Ukraine | Tổn thất Mỹ tăng trong cuộc chiến Iran",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-217-khong-kich-leo-thang-o-ukraine-ton-that-my-tang-trong-cuoc-chien-iran-18526072101000375.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 21.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:30:00+07:00",
+      "fetched": "2026-07-21T05:45:56.896848+07:00"
+    },
+    {
+      "id": "1b9dcfc69a1f3041f554364a4a3fd4d9",
+      "title": "'Hoa hậu cải lương' Như Huỳnh và những ký ức khó quên từ Trường Sa",
+      "link": "https://thanhnien.vn/hoa-hau-cai-luong-nhu-huynh-nhu-va-nhung-ky-uc-kho-quen-tu-truong-sa-185260720184024117.htm",
+      "summary": "Sau chuyến công tác tại Trường Sa, \"hoa hậu cải lương\" Như Huỳnh cho biết cô càng thấm thía tình yêu quê hương, đất nước của những con người nơi đầu sóng ngọn gió.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:30:00+07:00",
+      "fetched": "2026-07-21T05:45:56.897025+07:00"
+    },
+    {
+      "id": "e0f76a7b5d799e07a1021f5ff0056fd3",
+      "title": "Gia Lai kêu gọi người từng ở phía bên kia chiến tuyến giúp tìm mộ liệt sĩ",
+      "link": "https://thanhnien.vn/gia-lai-keu-goi-nguoi-tung-o-phia-ben-kia-chien-tuyen-giup-tim-mo-liet-si-185260720164903727.htm",
+      "summary": "Sau hơn 50 năm thống nhất, Gia Lai vẫn còn nhiều liệt sĩ chưa tìm thấy nơi an táng. Tỉnh kêu gọi người dân, cựu chiến binh và cả những người ở bên kia chiến tuyến cung cấp thông tin để phục vụ tìm kiếm, quy tập hài cốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:30:00+07:00",
+      "fetched": "2026-07-21T05:45:56.897179+07:00"
+    },
+    {
+      "id": "d479650341ae11ca485653a0c70bed47",
+      "title": "Đi đám cưới được người quen cho tờ vé số, trúng độc đắc xổ số miền Nam",
+      "link": "https://thanhnien.vn/di-dam-cuoi-duoc-nguoi-quen-cho-to-ve-so-trung-doc-dac-xo-so-mien-nam-185260720152453271.htm",
+      "summary": "Một người đàn ông ở Tây Ninh được người quen cho tờ vé số, không ngờ trúng độc đắc theo kết quả xổ số miền Nam ngày 18 tháng 7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:30:00+07:00",
+      "fetched": "2026-07-21T05:45:56.897339+07:00"
+    },
+    {
+      "id": "67628197803ff4126a840d1f2f10b3c6",
+      "title": "Chuyển nhượng giữa World Cup diễn ra thế nào",
+      "link": "https://vnexpress.net/chuyen-nhuong-giua-world-cup-dien-ra-the-nao-5099683.html",
+      "summary": "Hàng loạt thương vụ lớn được hoàn tất giữa World Cup 2026, bất chấp những thách thức từ đàm phán, kiểm tra y tế đến áp lực tâm lý với cầu thủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:29:49+07:00",
+      "fetched": "2026-07-21T05:45:53.814311+07:00"
+    },
+    {
+      "id": "67628197803ff4126a840d1f2f10b3c6",
+      "title": "Chuyển nhượng giữa World Cup diễn ra thế nào",
+      "link": "https://vnexpress.net/chuyen-nhuong-giua-world-cup-dien-ra-the-nao-5099683.html",
+      "summary": "Hàng loạt thương vụ lớn được hoàn tất giữa World Cup 2026, bất chấp những thách thức từ đàm phán, kiểm tra y tế đến áp lực tâm lý với cầu thủ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-20T22:29:49+07:00",
+      "fetched": "2026-07-21T05:46:06.739532+07:00"
+    },
+    {
+      "id": "22817b5efb3d70cae33a82ada68c599b",
+      "title": "Chế tài '3 không' với người đứng đầu",
+      "link": "https://thanhnien.vn/che-tai-3-khong-voi-nguoi-dung-dau-18526072019422413.htm",
+      "summary": "Chủ tịch UBND tỉnh Nghệ An Võ Trọng Hải vừa phát đi thông điệp tại kỳ họp HĐND tỉnh này rằng Nghệ An sẽ áp dụng chế tài '3 không' (không hoàn thành - không giữ vị trí - không tiếp tục phân công nhiệm vụ tương đương) đối với người đứng đầu trong giải ngân vốn đầu tư công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:26:00+07:00",
+      "fetched": "2026-07-21T05:45:56.897493+07:00"
+    },
+    {
+      "id": "96dbbbad1b1a359542382a72947dea71",
+      "title": "Sự thống trị của bóng đá Tây Ban Nha",
+      "link": "https://vnexpress.net/su-thong-tri-cua-bong-da-tay-ban-nha-5099654.html",
+      "summary": "World Cup 2026 là danh hiệu thứ 16 trong 5 năm qua của Tây Ban Nha ở cấp ĐTQG nam và nữ, minh chứng cho một nền bóng đá đã tìm được công thức chiến thắng bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:24:55+07:00",
+      "fetched": "2026-07-21T05:45:53.814478+07:00"
+    },
+    {
+      "id": "96dbbbad1b1a359542382a72947dea71",
+      "title": "Sự thống trị của bóng đá Tây Ban Nha",
+      "link": "https://vnexpress.net/su-thong-tri-cua-bong-da-tay-ban-nha-5099654.html",
+      "summary": "World Cup 2026 là danh hiệu thứ 16 trong 5 năm qua của Tây Ban Nha ở cấp ĐTQG nam và nữ, minh chứng cho một nền bóng đá đã tìm được công thức chiến thắng bền vững.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-20T22:24:55+07:00",
+      "fetched": "2026-07-21T05:46:06.739696+07:00"
+    },
+    {
+      "id": "ffe5a8202e25685a346abbded9bfbce3",
+      "title": "TP.HCM tăng tốc dự án trọng điểm: Cấp bách giao mặt bằng cao tốc ngàn tỉ",
+      "link": "https://thanhnien.vn/tphcm-tang-toc-du-an-trong-diem-cap-bach-giao-mat-bang-cao-toc-ngan-ti-185260720210938246.htm",
+      "summary": "Dự án cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành đang thi công được 20 km, hiện còn hơn 20% diện tích đất chưa được bàn giao. UBND TP.HCM yêu cầu các địa phương hoàn thành bàn giao mặt bằng trước ngày 30.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:23:00+07:00",
+      "fetched": "2026-07-21T05:45:56.897651+07:00"
+    },
+    {
+      "id": "ff05155f37e130df3b6d1530ec879d68",
+      "title": "Kiểm soát thực chất khâu đăng kiểm",
+      "link": "https://thanhnien.vn/kiem-soat-thuc-chat-khau-dang-kiem-185260720194548694.htm",
+      "summary": "Bạn đọc Thanh Niên đề nghị ứng dụng công nghệ vào công tác giám sát các khâu đăng kiểm để tránh lặp lại những sai sót, vi phạm từng xảy ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:22:00+07:00",
+      "fetched": "2026-07-21T05:45:56.897806+07:00"
+    },
+    {
+      "id": "91cc6224012e9cfea2f9100ed3f6048d",
+      "title": "Tử vi ngày 21 tháng 7: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-21-thang-7-con-giap-nao-may-man-hom-nay-185260719230350028.htm",
+      "summary": "Tử vi ngày 21 tháng 7 mang đến những gợi ý tham khảo cho 12 con giáp. Cùng một cơn mưa, có người thấy bất tiện, có người lại thấy dễ chịu. Cùng một lời góp ý, có người xem là áp lực, có người coi là cơ hội để hoàn thiện mình. Hôm nay là ngày của những góc nhìn. Đôi khi, thay đổi cách nhìn một vấn đề...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:15:00+07:00",
+      "fetched": "2026-07-21T05:45:56.897979+07:00"
+    },
+    {
+      "id": "8f276061933d6fe68f7e58c580d94daa",
+      "title": "Guyana chạy đua tìm 66 người mất tích sau vụ lật phà",
+      "link": "https://thanhnien.vn/guyana-chay-dua-tim-66-nguoi-mat-tich-sau-vu-lat-pha-18526072023330685.htm",
+      "summary": "Reuters ngày 20.7 đưa tin giới chức Guyana đang nỗ lực tìm kiếm 66 người mất tích sau khi phà MV Barima chở 133 người bị lật ngoài khơi nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:14:00+07:00",
+      "fetched": "2026-07-21T05:45:56.898132+07:00"
+    },
+    {
+      "id": "7c33ccb0554d800ad603753498a21820",
+      "title": "Cuộc hồi sinh dưới chân đồi A Tường",
+      "link": "https://thanhnien.vn/cuoc-hoi-sinh-duoi-chan-doi-a-tuong-185260720230027627.htm",
+      "summary": "Sau trận sạt lở kinh hoàng cuối tháng 10.2025, đồi A Tường không chỉ để lại những vết nứt hằn sâu trên sườn núi mà còn khắc vào ký ức người Cơ Tu ở bản Atêếp (xã A Vương, TP.Đà Nẵng) những ngày chạy đua với thiên tai để giữ lấy sự sống. Nửa năm sau, trên vùng đất từng bị đất đá vùi lấp, nhịp sống đa...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:10:00+07:00",
+      "fetched": "2026-07-21T05:45:56.898280+07:00"
+    },
+    {
+      "id": "f5e8abe523639cb5e51e0c112372b736",
+      "title": "Cơn thịnh nộ của phe 'siêu cứng rắn' Iran với nhóm chủ hòa",
+      "link": "https://vnexpress.net/con-thinh-no-cua-phe-sieu-cung-ran-iran-voi-nhom-chu-hoa-5099530.html",
+      "summary": "Phe \"siêu cứng rắn\" tại Iran đang gia tăng sức ép với nhóm lãnh đạo theo đuổi đàm phán, hé lộ cuộc đấu giành ảnh hưởng trong nội bộ Tehran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:00:00+07:00",
+      "fetched": "2026-07-21T05:45:53.814636+07:00"
+    },
+    {
+      "id": "160cd47dc0b0801db8b2f5e757af3230",
+      "title": "Bối rối vì nhân viên 'hết giờ là ngắt kết nối'",
+      "link": "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
+      "summary": "Khách nhắn cần gấp hoá chất để sản xuất song nhân viên phụ trách đơn hàng của công ty anh Tuấn không phản hồi vì đã hết giờ làm việc khiến quy trình xử lý rối loạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:00:00+07:00",
+      "fetched": "2026-07-21T05:45:53.814791+07:00"
+    },
+    {
+      "id": "2a9dfbe673d8b561e7d5ceceea950d83",
+      "title": "Bác sĩ Mỹ tiết lộ 5 loại rau giúp trẻ hóa đường ruột, kéo dài tuổi thọ",
+      "link": "https://vnexpress.net/bac-si-my-tiet-lo-5-loai-rau-giup-tre-hoa-duong-ruot-keo-dai-tuoi-tho-5098640.html",
+      "summary": "5 nhóm rau gồm họ cải, atisô, củ rễ, rau đắng và nấm hương mỗi ngày để nuôi dưỡng đường ruột và tăng cường sức khỏe, tuổi thọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:00:00+07:00",
+      "fetched": "2026-07-21T05:45:53.814972+07:00"
+    },
+    {
+      "id": "2181f08af87b0dc19c3a77ff8730195e",
+      "title": "Lạm dụng AI 'có thể khiến con người ngốc đi'",
+      "link": "https://vnexpress.net/lam-dung-ai-co-the-khien-con-nguoi-ngoc-di-5098298.html",
+      "summary": "Dù giúp tăng hiệu suất trong ngắn hạn, AI có thể khiến người dùng giảm sự kiên trì và khả năng tư duy khi không còn công cụ hỗ trợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:00:00+07:00",
+      "fetched": "2026-07-21T05:45:53.815131+07:00"
+    },
+    {
+      "id": "15caa601de0763d0673a79544068b61c",
+      "title": "Người phụ nữ đi xe đạp điện lao vào gầm xe tải như tự sát",
+      "link": "https://vnexpress.net/nguoi-phu-nu-di-xe-dap-dien-lao-vao-gam-xe-tai-nhu-tu-sat-5099346.html",
+      "summary": "Xe tải từ trong nhà xưởng nhập làn tỉnh lộ, một người phụ nữ đi xe đạp lao thẳng vào giữa gầm xe, hôm 18/7 tại địa phận Hưng Nguyên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T22:00:00+07:00",
+      "fetched": "2026-07-21T05:45:53.815299+07:00"
+    },
+    {
+      "id": "f5e8abe523639cb5e51e0c112372b736",
+      "title": "Cơn thịnh nộ của phe 'siêu cứng rắn' Iran với nhóm chủ hòa",
+      "link": "https://vnexpress.net/con-thinh-no-cua-phe-sieu-cung-ran-iran-voi-nhom-chu-hoa-5099530.html",
+      "summary": "Phe \"siêu cứng rắn\" tại Iran đang gia tăng sức ép với nhóm lãnh đạo theo đuổi đàm phán, hé lộ cuộc đấu giành ảnh hưởng trong nội bộ Tehran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-20T22:00:00+07:00",
+      "fetched": "2026-07-21T05:45:59.914527+07:00"
+    },
+    {
+      "id": "2181f08af87b0dc19c3a77ff8730195e",
+      "title": "Lạm dụng AI 'có thể khiến con người ngốc đi'",
+      "link": "https://vnexpress.net/lam-dung-ai-co-the-khien-con-nguoi-ngoc-di-5098298.html",
+      "summary": "Dù giúp tăng hiệu suất trong ngắn hạn, AI có thể khiến người dùng giảm sự kiên trì và khả năng tư duy khi không còn công cụ hỗ trợ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-20T22:00:00+07:00",
+      "fetched": "2026-07-21T05:46:05.329408+07:00"
+    },
+    {
+      "id": "74a53cad0e049af35d9b8857f06b25e6",
+      "title": "Huyền thoại bóng đá Anh Kevin Keegan qua đời ở tuổi 75",
+      "link": "https://vnexpress.net/huyen-thoai-bong-da-anh-kevin-keegan-qua-doi-o-tuoi-75-5099708.html",
+      "summary": "Cựu tiền đạo Kevin Keegan, người từng hai lần liên tiếp giành Quả Bóng Vàng, qua đời ở tuổi 75 sau thời gian chống chọi với bệnh ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T21:03:38+07:00",
+      "fetched": "2026-07-21T05:45:53.815462+07:00"
+    },
+    {
+      "id": "74a53cad0e049af35d9b8857f06b25e6",
+      "title": "Huyền thoại bóng đá Anh Kevin Keegan qua đời ở tuổi 75",
+      "link": "https://vnexpress.net/huyen-thoai-bong-da-anh-kevin-keegan-qua-doi-o-tuoi-75-5099708.html",
+      "summary": "Cựu tiền đạo Kevin Keegan, người từng hai lần liên tiếp giành Quả Bóng Vàng, qua đời ở tuổi 75 sau thời gian chống chọi với bệnh ung thư.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-20T21:03:38+07:00",
+      "fetched": "2026-07-21T05:46:06.739855+07:00"
+    },
+    {
+      "id": "921f926143d9fcf748796cf51c32fc66",
+      "title": "VinFast ra mắt xe máy điện Kyo và Kinet, giá từ 30 triệu đồng",
+      "link": "https://vnexpress.net/vinfast-ra-mat-xe-may-dien-kyo-va-kinet-gia-tu-30-trieu-dong-5099624.html",
+      "summary": "Kyo phong cách mượt mà, trung tính, Kinet thể thao, góc cạnh, ra mắt hôm 20/7 với hình thức thuê hoặc kèm pin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T21:00:00+07:00",
+      "fetched": "2026-07-21T05:45:53.815620+07:00"
     },
     {
       "id": "05a3ce9339ccc1940e9748756236a913",
