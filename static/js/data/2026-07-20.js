@@ -1,7 +1,157 @@
 window.newsData_2026_07_20 = {
   "date": "2026-07-20",
-  "lastUpdated": "2026-07-20T13:38:11.584823+07:00",
+  "lastUpdated": "2026-07-20T17:40:50.646383+07:00",
   "articles": [
+    {
+      "id": "a91455f852b9f11844641e3b59e5ef02",
+      "title": "Toàn cảnh hàng trăm dự án vướng mắc ở Đà Nẵng: Điểm nghẽn nằm ở đâu?",
+      "link": "https://tuoitre.vn/toan-canh-hang-tram-du-an-vuong-mac-o-da-nang-diem-nghen-nam-o-dau-100260720152232003.htm",
+      "summary": "Hàng trăm dự án ở Đà Nẵng với quỹ đất và nguồn vốn đầu tư khổng lồ từng rơi vào cảnh “đắp chiếu” nhiều năm vì vướng pháp lý. Sau khi Trung ương ban hành cơ chế đặc thù để tháo gỡ, những khối tài sản \"ngủ quên” này đang đứng trước cơ hội được “đánh thức”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T17:40:44.220894+07:00",
+      "fetched": "2026-07-20T17:40:44.220954+07:00"
+    },
+    {
+      "id": "74483fd6a0d2ff6b39842e1b9b8c9dbf",
+      "title": "Marc Cucurella tuyển Tây Ban Nha xách cúp vô địch World Cup về bằng túi ni lông",
+      "link": "https://tuoitre.vn/marc-cucurella-tuyen-tay-ban-nha-xach-cup-vo-dich-world-cup-ve-bang-tui-ni-long-100260720151334217.htm",
+      "summary": "Thay vì cất trong hộp đựng sang trọng, hậu vệ Marc Cucurella của tuyển Tây Ban Nha khiến khán giả thích thú khi vô tư xách chiếc cúp vô địch World Cup trong một chiếc túi ni lông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T17:40:44.220814+07:00",
+      "fetched": "2026-07-20T17:40:44.220884+07:00"
+    },
+    {
+      "id": "933d99ee2991b8e50fa0d80467b310e2",
+      "title": "Công nhận bà Nguyễn Thị Lệ là vợ liệt sĩ: Quyết định kịp thời và nhân văn",
+      "link": "https://tuoitre.vn/cong-nhan-ba-nguyen-thi-le-la-vo-liet-si-quyet-dinh-kip-thoi-va-nhan-van-100260720105710028.htm",
+      "summary": "Việc công nhận bà Nguyễn Thị Lệ là vợ liệt sĩ là một quyết định nhân văn, kịp thời, hợp lòng dân của chính quyền tỉnh Tây Ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T17:40:44.220747+07:00",
+      "fetched": "2026-07-20T17:40:44.220803+07:00"
+    },
+    {
+      "id": "f0ee3a0f3001920203534cafb3c2272d",
+      "title": "Khẩn trương tìm mộ tập thể 147 liệt sĩ Trung đoàn 96",
+      "link": "https://tuoitre.vn/khan-truong-tim-mo-tap-the-147-liet-si-trung-doan-96-100260720155901064.htm",
+      "summary": "Bà Nguyễn Thị Thanh Lịch, Phó chủ tịch UBND tỉnh Gia Lai, đề nghị cơ quan chức năng và xã Đak Pơ khẩn trương tìm kiếm, xác định và quy tập mộ chôn tập thể 147 liệt sĩ Trung đoàn 96 hy sinh tại trận Đak Pơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T17:40:44.220678+07:00",
+      "fetched": "2026-07-20T17:40:44.220736+07:00"
+    },
+    {
+      "id": "861ed98a463ed1c9ce79b9604cfe99b6",
+      "title": "An Giang có giải pháp gì gỡ khó các dự án chậm tiến độ, không để thất thoát, lãng phí?",
+      "link": "https://tuoitre.vn/an-giang-co-giai-phap-gi-go-kho-cac-du-an-cham-tien-do-khong-de-that-thoat-lang-phi-100260720150956023.htm",
+      "summary": "Một số dự án gặp khó khăn, chậm tiến độ, nguy cơ lãng phí, Thanh tra tỉnh An Giang kiến nghị Chủ tịch UBND tỉnh An Giang nhiều giải pháp để tháo gỡ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T17:40:44.220609+07:00",
+      "fetched": "2026-07-20T17:40:44.220667+07:00"
+    },
+    {
+      "id": "ad2dc471290c7a6d78d53c6336226b38",
+      "title": "Sở Y tế Gia Lai hoàn trả phí 1.542 người dự tuyển viên chức, số tiền 462 triệu đồng",
+      "link": "https://tuoitre.vn/so-y-te-gia-lai-hoan-tra-phi-1542-nguoi-du-tuyen-vien-chuc-so-tien-462-trieu-dong-100260720162146336.htm",
+      "summary": "Sau gần 2 năm vướng quy định, Sở Y tế tỉnh Gia Lai đã có thông báo chính thức về việc chi trả phí dự tuyển cho 1.542 người dự tuyển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T17:40:44.220539+07:00",
+      "fetched": "2026-07-20T17:40:44.220599+07:00"
+    },
+    {
+      "id": "d53381f0120aaf3c3b8013d4bbb592f2",
+      "title": "Không có vé dự World Cup nhưng Trung Quốc vẫn thắng lĩnh vực nào?",
+      "link": "https://tuoitre.vn/khong-co-ve-du-world-cup-nhung-trung-quoc-van-thang-linh-vuc-nao-100260720151255528.htm",
+      "summary": "World Cup 2026 tạo ra lợi nhuận khổng lồ cho các doanh nghiệp Trung Quốc, đặc biệt với những người sản xuất đồ thể thao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T17:40:44.220465+07:00",
+      "fetched": "2026-07-20T17:40:44.220528+07:00"
+    },
+    {
+      "id": "20bffa58e591c87bf4b4f568b8b0ac90",
+      "title": "Trung Đông chiều 20-7: Mỹ đánh vào thành phố hạt nhân Bushehr; Iran giội hỏa lực khắp vùng Vịnh",
+      "link": "https://tuoitre.vn/trung-dong-chieu-20-7-my-danh-vao-thanh-pho-hat-nhan-bushehr-iran-doi-hoa-luc-khap-vung-vinh-100260720150653117.htm",
+      "summary": "Xung đột Mỹ - Iran leo thang khi Mỹ không kích Bushehr. Tehran sau đó tuyên bố tấn công nhiều mục tiêu của Mỹ ở vùng Vịnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T17:40:44.220375+07:00",
+      "fetched": "2026-07-20T17:40:44.220452+07:00"
+    },
+    {
+      "id": "805871049bd0974160e3d6a00127f2b9",
+      "title": "Ông Zelensky tìm hướng giải quyết bất đồng sau vụ miễn nhiệm Bộ trưởng Quốc phòng",
+      "link": "https://tuoitre.vn/ong-zelensky-tim-huong-giai-quyet-bat-dong-sau-vu-mien-nhiem-bo-truong-quoc-phong-100260720151118802.htm",
+      "summary": "Việc Bộ trưởng Quốc phòng Fedorov bất ngờ bị miễn nhiệm đã làm dấy lên làn sóng phản đối trong dư luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T17:40:44.220308+07:00",
+      "fetched": "2026-07-20T17:40:44.220365+07:00"
+    },
+    {
+      "id": "b443e80e6d117fe6b18fda377f015b09",
+      "title": "Người đàn ông Trung Quốc ôm lốp xe bơi 3 tiếng giữa dòng nước lũ về nhà tìm cha",
+      "link": "https://tuoitre.vn/nguoi-dan-ong-trung-quoc-om-lop-xe-boi-3-tieng-giua-dong-nuoc-lu-ve-nha-tim-cha-100260720160155252.htm",
+      "summary": "Sau khi nhận cuộc điện thoại báo tin cha mất tích, một người đàn ông Trung Quốc đã dũng cảm vượt qua dòng nước xiết nguy hiểm để về thăm gia đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T17:40:44.220239+07:00",
+      "fetched": "2026-07-20T17:40:44.220297+07:00"
+    },
+    {
+      "id": "908c008718faad3ef5806a9f3bf78c7c",
+      "title": "Bí thư Hà Nội gửi thư thăm hỏi, hỗ trợ 5 tỉ đồng cho tỉnh Lai Châu sau mưa lũ",
+      "link": "https://tuoitre.vn/bi-thu-ha-noi-gui-thu-tham-hoi-ho-tro-5-ti-dong-cho-tinh-lai-chau-sau-mua-lu-100260720163627106.htm",
+      "summary": "Bí thư Thành ủy Hà Nội Trần Đức Thắng đã gửi thư thăm hỏi, chia sẻ mất mát với người dân vùng lũ, hỗ trợ địa phương 5 tỉ đồng khắc phục hậu quả thiên tai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T17:40:44.220169+07:00",
+      "fetched": "2026-07-20T17:40:44.220228+07:00"
+    },
+    {
+      "id": "80e0681effbbb840f50838b29cc6e492",
+      "title": "Sau khi Tổng giám đốc bị bắt, Nhiệt điện Hải Phòng kinh doanh lãi hơn 508 tỉ đồng",
+      "link": "https://tuoitre.vn/sau-khi-tong-giam-doc-bi-bat-nhiet-dien-hai-phong-kinh-doanh-lai-hon-508-ti-dong-100260720164251481.htm",
+      "summary": "Nhiệt điện Hải Phòng lãi sau thuế hơn 508 tỉ đồng trong 6 tháng năm 2026, tăng gần 25% so với cùng kỳ năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T17:40:44.220098+07:00",
+      "fetched": "2026-07-20T17:40:44.220157+07:00"
+    },
+    {
+      "id": "27c3e9f7d248889d3d3a33349fb05a89",
+      "title": "Bắt chủ tịch xã ở Thanh Hóa nghi tham gia đường dây cá độ bóng đá",
+      "link": "https://tuoitre.vn/bat-chu-tich-xa-o-thanh-hoa-nghi-tham-gia-duong-day-ca-do-bong-da-100260720165113399.htm",
+      "summary": "Chủ tịch UBND xã Thiệu Toán, tỉnh Thanh Hóa vừa bị khởi tố, bắt tạm giam vì liên quan đến đường dây đánh bạc, tổ chức đánh bạc dưới hình thức cá độ bóng đá trong mùa World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T17:40:44.220025+07:00",
+      "fetched": "2026-07-20T17:40:44.220087+07:00"
+    },
+    {
+      "id": "1639360052a929cad10960ad82f2e28a",
+      "title": "Messi có thể phải đấu cho Inter Miami, không về Argentina dự ngày lễ tôn vinh",
+      "link": "https://tuoitre.vn/messi-co-the-phai-dau-cho-inter-miami-khong-ve-argentina-du-ngay-le-ton-vinh-100260720152704591.htm",
+      "summary": "Người hâm mộ Argentina vừa đón nhận một thông tin gây hụt hẫng từ ngôi sao số một của họ - Lionel Messi, khi anh gần như chắc chắn vắng mặt trong buổi đón rước hứa hẹn sôi động tại quê nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T17:40:44.219943+07:00",
+      "fetched": "2026-07-20T17:40:44.220012+07:00"
+    },
+    {
+      "id": "5cce8a0db4c77c21ec53ce0c9df84651",
+      "title": "Miền Bắc oi nóng trước khi mưa rào và dông trở lại",
+      "link": "https://tuoitre.vn/mien-bac-oi-nong-truoc-khi-mua-rao-va-dong-tro-lai-100260720165857933.htm",
+      "summary": "Dự báo từ ngày 21-7, ở Bắc Bộ mưa giảm, trời nắng, riêng đồng bằng có nơi nắng nóng. Từ khoảng đêm 22-7, miền Bắc có khả năng mưa trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T17:40:44.219793+07:00",
+      "fetched": "2026-07-20T17:40:44.219928+07:00"
+    },
     {
       "id": "d11e4da3ef6da9a077005f0d78e0036c",
       "title": "Phát biểu khai mạc Hội nghị Trung ương 3 của Tổng Bí thư, Chủ tịch nước Tô Lâm",
@@ -153,6 +303,336 @@ window.newsData_2026_07_20 = {
       "fetched": "2026-07-20T13:38:02.914283+07:00"
     },
     {
+      "id": "7095fa0ab2259c771d56d3ecbb260b62",
+      "title": "Câu chuyện ít người biết phía sau sự ra đời của cổng USB",
+      "link": "https://thanhnien.vn/cau-chuyen-it-nguoi-biet-phia-sau-su-ra-doi-cua-cong-usb-185260720142622505.htm",
+      "summary": "Một vấn đề đời thường đã thôi thúc kỹ sư Intel Ajay Bhatt tạo ra cổng USB, thay đổi cách kết nối thiết bị mãi mãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T10:35:00+07:00",
+      "fetched": "2026-07-20T17:40:41.988478+07:00"
+    },
+    {
+      "id": "32ccb0e91f69878bc939c58396b37998",
+      "title": "Hậu vệ Tây Ban Nha xách cúp vàng trong túi nilon",
+      "link": "https://vnexpress.net/hau-ve-tay-ban-nha-xach-cup-vang-trong-tui-nilon-5099573.html",
+      "summary": "Hậu vệ Marc Cucurella khiến người hâm mộ thích thú khi đựng bản sao cúp vàng World Cup trong túi nilon để mang về nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T10:28:10+07:00",
+      "fetched": "2026-07-20T17:40:38.756044+07:00"
+    },
+    {
+      "id": "73e080b56a00686c13de58f5f9d29deb",
+      "title": "Khán giả khuyên Jisoo (Black Pink) từ bỏ giấc mơ diễn xuất",
+      "link": "https://thanhnien.vn/khan-gia-khuyen-jisoo-black-pink-tu-bo-giac-mo-dien-xuat-185260720145547322.htm",
+      "summary": "Sau ba dự án phim liên tiếp không nhận được đánh giá tích cực, Jisoo (Black Pink) một lần nữa trở thành tâm điểm tranh luận về khả năng diễn xuất. Nhiều ý kiến cho rằng nữ thần tượng nên tập trung vào âm nhạc thay vì tiếp tục theo đuổi sự nghiệp diễn viên, Kbizoom đưa tin ngày 19.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T10:28:00+07:00",
+      "fetched": "2026-07-20T17:40:41.988654+07:00"
+    },
+    {
+      "id": "9f8ade221f3fcd8307ead9b3ec90ca5c",
+      "title": "Lầu Năm Góc 'giấu' chuyện nhiều binh sĩ bị thương trong xung đột với Iran?",
+      "link": "https://thanhnien.vn/lau-nam-goc-giau-chuyen-nhieu-binh-si-bi-thuong-trong-xung-dot-voi-iran-185260720165613559.htm",
+      "summary": "Giới chức Mỹ cho hay Lầu Năm Góc đã không công khai thông tin hàng chục binh sĩ Mỹ bị thương do Iran không kích các căn cứ của lực lượng Mỹ tại Jordan trong thời gian gần đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T10:15:00+07:00",
+      "fetched": "2026-07-20T17:40:41.988815+07:00"
+    },
+    {
+      "id": "7ae9cfd6f2f6b00877cde7d8d917a30b",
+      "title": "Yang Se Chan (Running Man) kể về tai nạn điện giật và 10 năm chữa ung thư",
+      "link": "https://thanhnien.vn/yang-se-chan-running-man-ke-ve-tai-nan-giat-dien-va-10-nam-chua-ung-thu-185260720142354677.htm",
+      "summary": "Ít ai biết phía sau hình ảnh hài hước, lạc quan trên truyền hình, Yang Se Chan từng trải qua nhiều biến cố nghiêm trọng. Nam nghệ sĩ vừa tiết lộ câu chuyện suýt mất mạng vì điện giật và hành trình hơn một thập kỷ chống chọi với ung thư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T10:14:00+07:00",
+      "fetched": "2026-07-20T17:40:41.988970+07:00"
+    },
+    {
+      "id": "a136bc3de92cc4561a9eba502d235342",
+      "title": "Điểm tin 17h: Tìm thấy hai nạn nhân mất tích sau lũ quét ở Mường Than | VN-Index mất hơn 43 điểm",
+      "link": "https://vnexpress.net/diem-tin-17h-tim-thay-hai-nan-nhan-mat-tich-sau-lu-quet-o-muong-than-vn-index-mat-hon-43-diem-5099627.html",
+      "summary": "Học sinh giỏi Toán bị hủy điểm 10 thi tốt nghiệp THPT; Bộ Quốc phòng muốn chuẩn hóa trang phục môn giáo dục quốc phòng...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T10:12:51+07:00",
+      "fetched": "2026-07-20T17:40:38.756234+07:00"
+    },
+    {
+      "id": "7bb53feacc07a86fbadf831d6d4c8431",
+      "title": "Vé 500.000 đồng xem đội tuyển Việt Nam đấu Singapore 'cháy hàng' qua kênh bán trực tuyến",
+      "link": "https://thanhnien.vn/ve-500000-dong-xem-doi-tuyen-viet-nam-dau-singapore-chay-hang-qua-kenh-ban-truc-tuyen-185260720170321607.htm",
+      "summary": "Hạng vé cao nhất 500.000 đồng trận đội tuyển Việt Nam gặp Singapore tại ASEAN Hyundai Cup 2026 đã được bán hết qua kênh bán trực tuyến. Sức hút của thầy trò HLV Kim Sang-sik tiếp tục được khẳng định ngay trước hành trình bảo vệ ngôi vô địch Đông Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T10:08:00+07:00",
+      "fetched": "2026-07-20T17:40:41.989125+07:00"
+    },
+    {
+      "id": "1c5e1d48ce80e998317e90ed7e3fc969",
+      "title": "Tom Cruise, David Beckham cùng loạt sao hạng A xem chung kết World Cup",
+      "link": "https://thanhnien.vn/tom-cruise-david-beckham-cung-loat-sao-hang-a-xem-chung-ket-world-cup-185260720154145576.htm",
+      "summary": "Hàng loạt ngôi sao đình đám: Tom Cruise, David Beckham, Matt Damon, Beyonce, Kylie Jenner, Timothee Chalamet… gây chú ý ở hàng ghế khán giả để theo dõi trận chung kết World Cup giữa Tây Ban Nha và Argentina.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T10:06:00+07:00",
+      "fetched": "2026-07-20T17:40:41.989275+07:00"
+    },
+    {
+      "id": "8fe9ec1cd0b3df4779a0ef007d4cbcd4",
+      "title": "Khách Trung Quốc đến Nhật Bản giảm hơn 50%",
+      "link": "https://vnexpress.net/khach-trung-quoc-den-nhat-ban-giam-hon-50-5099548.html",
+      "summary": "Lượng khách quốc tế đến Nhật Bản trong nửa đầu năm nay giảm lần đầu kể từ sau đại dịch, chủ yếu do thị trường Trung Quốc đại lục, sụt hơn 56%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T10:04:05+07:00",
+      "fetched": "2026-07-20T17:40:38.756405+07:00"
+    },
+    {
+      "id": "9c60a6f88b41b789f96f9a8d81bddc06",
+      "title": "Ông Trump xuất hiện ở chung kết World Cup 2026: An ninh siết chặt, lễ trao cúp gây bão",
+      "link": "https://thanhnien.vn/ong-trump-xuat-hien-o-chung-ket-world-cup-2026-an-ninh-siet-chat-le-trao-cup-gay-bao-185260720170407455.htm",
+      "summary": "Sự có mặt của Tổng thống Mỹ Donald Trump khiến sân MetLife được đặt trong tình trạng bảo vệ nghiêm ngặt với nhiều vòng kiểm soát của Mật vụ Mỹ và lực lượng an ninh địa phương. Sau lễ trao cúp, ông Trump tiếp tục thu hút sự chú ý khi xuất hiện trong khoảnh khắc đăng quang của đội tuyển Tây Ban Nha.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T10:04:00+07:00",
+      "fetched": "2026-07-20T17:40:41.989425+07:00"
+    },
+    {
+      "id": "e54aae49b2eb4e490a7cc67e2978cd52",
+      "title": "Thanh Hóa: Khởi tố chủ tịch xã vì cá độ bóng đá",
+      "link": "https://thanhnien.vn/thanh-hoa-khoi-to-chu-tich-xa-vi-ca-do-bong-da-185260720164803306.htm",
+      "summary": "Ông Trịnh Đức Hùng, Chủ tịch UBND xã Thiệu Toán (Thanh Hóa) đã bị cơ quan công an khởi tố, bắt tạm giam để điều tra về hành vi đánh bạc bằng hình thức cá độ bóng đá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T10:03:00+07:00",
+      "fetched": "2026-07-20T17:40:41.989601+07:00"
+    },
+    {
+      "id": "283533b3af773586c2a359b32177bdc2",
+      "title": "Chiêu ngậm hàng giả, tráo kim cương thật trong tiệm đá quý",
+      "link": "https://vnexpress.net/chieu-ngam-hang-gia-trao-kim-cuong-that-trong-tiem-da-quy-5099571.html",
+      "summary": "Nghi phạm đặt làm giả kim cương với số serie giống hệt, ngậm vào miệng rồi vào tiệm hỏi mua viên kim cương thật trị giá 200.000 USD (4 tỷ đồng), đánh tráo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T10:01:17+07:00",
+      "fetched": "2026-07-20T17:40:38.756602+07:00"
+    },
+    {
+      "id": "0f5e6360d0fa355cce84d7af2d38a2ee",
+      "title": "Một tuần ông Trump đẩy các đồng minh vào thế khó",
+      "link": "https://vnexpress.net/mot-tuan-ong-trump-day-cac-dong-minh-vao-the-kho-5099568.html",
+      "summary": "Từ ý tưởng thu phí eo biển Hormuz đến việc khơi lại tranh cãi về bầu cử 2020, ông Trump đã trải qua một tuần đầy tranh cãi, làm nản lòng các đồng minh Cộng hòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T10:00:00+07:00",
+      "fetched": "2026-07-20T17:40:38.756765+07:00"
+    },
+    {
+      "id": "877baf5c6abb619b5fcdf823deccbf78",
+      "title": "Saigontourist Group cùng Yan Can Cook phát triển du lịch ẩm thực",
+      "link": "https://vnexpress.net/saigontourist-group-cung-yan-can-cook-phat-trien-du-lich-am-thuc-5099459.html",
+      "summary": "\"Vua bếp\" Yan Can Cook sẽ hợp tác Saigontourist Group tổ chức chuỗi sự kiện, lớp học nấu ăn, phát triển ẩm thực thành sản phẩm du lịch đặc sắc của Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T10:00:00+07:00",
+      "fetched": "2026-07-20T17:40:38.756923+07:00"
+    },
+    {
+      "id": "71238b38320caa81100c7b6143a13e4d",
+      "title": "Toàn cảnh 17h: Đoàn cứu hộ 'căng mình' tại Lai Châu | Cảnh báo nắng nóng 'cao điểm' ở miền trung",
+      "link": "https://thanhnien.vn/toan-canh-17h-doan-cuu-ho-cang-minh-tai-lai-chau-18526072015323243.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T10:00:00+07:00",
+      "fetched": "2026-07-20T17:40:41.989756+07:00"
+    },
+    {
+      "id": "179a1fe1c23954dc3b46ad0fba1208f5",
+      "title": "Nhan sắc cuốn hút của Hoa hậu Giáng My ở tuổi U.60",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhan-sac-cuon-hut-cua-hoa-hau-giang-my-o-tuoi-u60-185260720110155069.htm",
+      "summary": "Dù đã bước vào độ tuổi U.60 nhưng mỗi lần xuất hiện, Hoa hậu đền Hùng Giáng My vẫn nhận được vô số lời khen ngợi cho sự trẻ trung, vóc dáng thon thả cùng gu thời trang sành điệu, rực rỡ nhưng vẫn hài hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T10:00:00+07:00",
+      "fetched": "2026-07-20T17:40:41.989914+07:00"
+    },
+    {
+      "id": "8e521ae190ce99b851e8fa2bfa4267d4",
+      "title": "Khởi kiện nguyên hiệu trưởng chiếm dụng đất trường học suốt 15 năm",
+      "link": "https://thanhnien.vn/khoi-kien-nguyen-hieu-truong-chiem-dung-dat-truong-hoc-suot-15-nam-185260720163810841.htm",
+      "summary": "Viện KSND tỉnh Đắk Lắk đã khởi kiện vụ án dân sự liên quan đến ông N.T.T (nguyên Hiệu trưởng Trường PTDTNT THCS Lắk), yêu cầu tháo dỡ công trình trái phép và trả lại gần 500 m² đất chiếm dụng trong khuôn viên nhà trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:57:00+07:00",
+      "fetched": "2026-07-20T17:40:41.990064+07:00"
+    },
+    {
+      "id": "cb88b96b1ced0e718c7df6116ec12106",
+      "title": "Vì sao nên chủ động bổ sung vitamin K2 trong 1.000 ngày đầu đời của trẻ?",
+      "link": "https://thanhnien.vn/vi-sao-nen-chu-dong-bo-sung-vitamin-k2-trong-1000-ngay-dau-doi-cua-tre-185260720165311853.htm",
+      "summary": "Không ít phụ huynh cho rằng chỉ cần bổ sung đầy đủ canxi và vitamin D3 là đã tạo nền tảng tốt cho hệ xương của trẻ. Thế nhưng trên thực tế, nhiều trẻ vẫn chậm tăng trưởng dù không thiếu 2 vi chất này. Theo các chuyên gia, nguyên nhân có thể nằm ở một 'mảnh ghép' ít được chú ý hơn: vitamin K2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:52:00+07:00",
+      "fetched": "2026-07-20T17:40:41.990219+07:00"
+    },
+    {
+      "id": "17be664965be3032d6e93442a417f3c9",
+      "title": "Tài tử Tạ Hiền qua đời",
+      "link": "https://thanhnien.vn/tai-tu-ta-hien-qua-doi-18526072016444352.htm",
+      "summary": "Theo HK01, nam diễn viên kỳ cựu Tạ Hiền vừa qua đời hôm 20.7. Con trai của ông là Tạ Đình Phong cũng vừa thông báo tin buồn trên trang cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:50:00+07:00",
+      "fetched": "2026-07-20T17:40:41.990369+07:00"
+    },
+    {
+      "id": "282e8be935fc6de8d325bf6f3022580a",
+      "title": "Tây Ban Nha phá những kỷ lục nào sau khi thắng Argentina",
+      "link": "https://vnexpress.net/tay-ban-nha-pha-nhung-ky-luc-nao-sau-khi-thang-argentina-5099560.html",
+      "summary": "Tây Ban Nha lập 5 kỷ lục World Cup sau khi hạ Argentina 1-0 trong trận chung kết ngày 19/7 để lần thứ hai vô địch thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:49:05+07:00",
+      "fetched": "2026-07-20T17:40:38.757087+07:00"
+    },
+    {
+      "id": "c8019204a2c2fe4f3bb60924d31906b6",
+      "title": "Sở GD-ĐT TP.HCM đề xuất 3 phương án sắp xếp 1.891 cơ sở giáo dục công lập",
+      "link": "https://thanhnien.vn/so-gd-dt-tphcm-de-xuat-3-phuong-an-sap-xep-1891-co-so-giao-duc-cong-lap-185260720161934655.htm",
+      "summary": "Sở GD-ĐT TP.HCM đã có tờ trình UBND TP.HCM về việc tham mưu, báo cáo, xin ý kiến chủ trương đối với phương án sắp xếp mạng lưới cơ sở giáo dục mầm non, phổ thông, thường xuyên công lập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:49:00+07:00",
+      "fetched": "2026-07-20T17:40:41.990544+07:00"
+    },
+    {
+      "id": "73743d9995b5f9ee5d81fde251b78cab",
+      "title": "Nhìn lại World Cup 2026: Hiện tượng, bất ngờ và những tranh cãi",
+      "link": "https://thanhnien.vn/nhin-lai-world-cup-2026-hien-tuong-bat-ngo-va-nhung-tranh-cai-185260720162148769.htm",
+      "summary": "World Cup 2026 khép lại với chức vô địch của Tây Ban Nha nhưng điều người hâm mộ nhớ đến không chỉ là chiếc cúp vàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:47:00+07:00",
+      "fetched": "2026-07-20T17:40:41.990706+07:00"
+    },
+    {
+      "id": "59008dc063ee7a5625a818e2d35e5c67",
+      "title": "Chủ mưu sản xuất 13 triệu sản phẩm dinh dưỡng giả bị phạt 26 năm tù",
+      "link": "https://vnexpress.net/chu-muu-san-xuat-13-trieu-san-pham-dinh-duong-gia-bi-phat-26-nam-tu-5099541.html",
+      "summary": "Phạm Vũ Khiêm, Giám đốc Công ty Herbitech, bị kết tội đã chỉ đạo sản xuất 13 triệu sản phẩm dinh dưỡng giả (phần lớn dành cho trẻ em) và hậu quả hầu như chưa được khắc phục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:45:30+07:00",
+      "fetched": "2026-07-20T17:40:38.757246+07:00"
+    },
+    {
+      "id": "4b222068f90b1ba7bbe2aac4929c3a83",
+      "title": "Chủ tịch xã bị bắt do liên quan cá độ bóng đá",
+      "link": "https://vnexpress.net/chu-tich-xa-bi-bat-do-lien-quan-ca-do-bong-da-5099596.html",
+      "summary": "Ông Trịnh Đức Hùng, Chủ tịch UBND xã Thiệu Toán, bị tạm giam để điều tra vụ án cá độ bóng đá trong mùa World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:37:44+07:00",
+      "fetched": "2026-07-20T17:40:38.757403+07:00"
+    },
+    {
+      "id": "bde281d3ab99a67bae024f807785590a",
+      "title": "Những thay đổi ở World Cup 2026 thành công hay thất bại?",
+      "link": "https://vnexpress.net/nhung-thay-doi-o-world-cup-2026-thanh-cong-hay-that-bai-5099588.html",
+      "summary": "Sau kỳ World Cup 2026 lớn nhất lịch sử, phần lớn cải cách của FIFA đạt mục tiêu ban đầu, nhưng cũng không tránh khỏi nhiều tranh cãi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:36:05+07:00",
+      "fetched": "2026-07-20T17:40:38.757601+07:00"
+    },
+    {
+      "id": "bde281d3ab99a67bae024f807785590a",
+      "title": "Những thay đổi ở World Cup 2026 thành công hay thất bại?",
+      "link": "https://vnexpress.net/nhung-thay-doi-o-world-cup-2026-thanh-cong-hay-that-bai-5099588.html",
+      "summary": "Sau kỳ World Cup 2026 lớn nhất lịch sử, phần lớn cải cách của FIFA đạt mục tiêu ban đầu, nhưng cũng không tránh khỏi nhiều tranh cãi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-20T09:36:05+07:00",
+      "fetched": "2026-07-20T17:40:50.637734+07:00"
+    },
+    {
+      "id": "a5e570916d22d17cbe4fd8f38a91058f",
+      "title": "Sun Group ra mắt tháp căn hộ The Fest 2 tại Nha Trang",
+      "link": "https://vnexpress.net/sun-group-ra-mat-thap-can-ho-the-fest-2-tai-nha-trang-5099591.html",
+      "summary": "Sun Group giới thiệu tháp căn hộ The Fest 2 thuộc phân khu Festival Island, đại đô thị Charmora City tại Nha Trang sáng 19/7, thu hút gần 800 khách hàng, đối tác và đại diện 24 đơn vị phân phối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:30:00+07:00",
+      "fetched": "2026-07-20T17:40:38.757762+07:00"
+    },
+    {
+      "id": "37b28de93835ab9855be20cff7ef9e40",
+      "title": "Các đội nhận thưởng bao nhiêu sau World Cup 2026?",
+      "link": "https://vnexpress.net/cac-doi-nhan-thuong-bao-nhieu-sau-world-cup-2026-5099575.html",
+      "summary": "FIFA đã phê duyệt tiền thưởng 655 triệu USD cho các đội tại World Cup 2026, trong đó, nhà vô địch Tây Ban Nha được 50 triệu USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:24:17+07:00",
+      "fetched": "2026-07-20T17:40:38.757928+07:00"
+    },
+    {
+      "id": "37b28de93835ab9855be20cff7ef9e40",
+      "title": "Các đội nhận thưởng bao nhiêu sau World Cup 2026?",
+      "link": "https://vnexpress.net/cac-doi-nhan-thuong-bao-nhieu-sau-world-cup-2026-5099575.html",
+      "summary": "FIFA đã phê duyệt tiền thưởng 655 triệu USD cho các đội tại World Cup 2026, trong đó, nhà vô địch Tây Ban Nha được 50 triệu USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-20T09:24:17+07:00",
+      "fetched": "2026-07-20T17:40:46.871859+07:00"
+    },
+    {
+      "id": "07df130f4c490fc99d38b668e5dc18ba",
+      "title": "Ông lão đoạt mạng bạn nhậu",
+      "link": "https://vnexpress.net/ong-lao-doat-mang-ban-nhau-5099544.html",
+      "summary": "Nghi can Lê Thành Phong khai bạn nhậu xúc phạm mẹ mình nên dùng dao đâm nhiều nhát tại rẫy ở xã Suối Hiệp, khiến tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:15:43+07:00",
+      "fetched": "2026-07-20T17:40:38.758092+07:00"
+    },
+    {
+      "id": "efc56fd739d17fac4e8315c636da85f6",
+      "title": "Em trai 3 tuổi của Yamal ôm Cup vàng cùng anh",
+      "link": "https://vnexpress.net/em-trai-3-tuoi-cua-yamal-om-cup-vang-cung-anh-5099529.html",
+      "summary": "Mặc áo tuyển Tây Ban Nha in tên \"Keyne\", em trai 3 tuổi của Yamal chạy đến ôm anh, cùng chia vui bên chiếc Cup vàng thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:12:34+07:00",
+      "fetched": "2026-07-20T17:40:38.758252+07:00"
+    },
+    {
+      "id": "2be6d5030908ed29e38fc95cf134245e",
+      "title": "Tài tử Tạ Hiền qua đời",
+      "link": "https://vnexpress.net/tai-tu-ta-hien-qua-doi-5099576.html",
+      "summary": "Nghệ sĩ Hong Kong Tạ Hiền, đóng thần bài Long Tứ và là cha của diễn viên Tạ Đình Phong, qua đời ở tuổi 90.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:10:06+07:00",
+      "fetched": "2026-07-20T17:40:38.758413+07:00"
+    },
+    {
+      "id": "1e2760e76d04e4cf22126726da384874",
+      "title": "VN-Index mất hơn 43 điểm",
+      "link": "https://vnexpress.net/vn-index-mat-hon-43-diem-5099561.html",
+      "summary": "Nhà đầu tư bán tháo cổ phiếu trong phiên đầu tuần khiến VN-Index mất hơn 43 điểm, xuống mức thấp nhất từ đầu tháng 4.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-20T09:03:02+07:00",
+      "fetched": "2026-07-20T17:40:46.872035+07:00"
+    },
+    {
       "id": "3a369bd985a68fd9cefac5cfb6584164",
       "title": "The Odyssey phải chào thua Conan Movie 29 tại rạp Việt",
       "link": "https://tuoitre.vn/the-odyssey-phai-chao-thua-conan-movie-29-tai-rap-viet-100260719215934961.htm",
@@ -301,6 +781,96 @@ window.newsData_2026_07_20 = {
       "category": "Tổng hợp",
       "published": "2026-07-20T09:01:35.374399+07:00",
       "fetched": "2026-07-20T09:01:35.374544+07:00"
+    },
+    {
+      "id": "3a43b1deef3cef9a3907570e99719c2d",
+      "title": "Em trai 3 tuổi của Yamal gây sốt tại chung kết World Cup",
+      "link": "https://vnexpress.net/em-trai-3-tuoi-cua-yamal-gay-sot-tai-chung-ket-world-cup-5099538.html",
+      "summary": "Cậu bé Keyne gây chú ý với khoảnh khắc chạy về phía Yamal, lao vào vòng tay anh trai sau khi đội tuyển Tây Ban Nha thắng Argentina 1-0.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-20T09:01:09+07:00",
+      "fetched": "2026-07-20T17:40:45.532414+07:00"
+    },
+    {
+      "id": "4edbe100074061235cfaf212eab2e1cd",
+      "title": "UOB Việt Nam hợp tác Park Hyatt Saigon mở rộng dịch vụ cao cấp",
+      "link": "https://vnexpress.net/uob-viet-nam-hop-tac-park-hyatt-saigon-mo-rong-dich-vu-cao-cap-5098599.html",
+      "summary": "Ngân hàng UOB Việt Nam và Park Hyatt Saigon ký kết hợp tác ngày 16/7, mang đến đặc quyền lưu trú, ẩm thực cao cấp, mở rộng hệ sinh thái trải nghiệm cho khách hàng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-20T09:00:00+07:00",
+      "fetched": "2026-07-20T17:40:46.873021+07:00"
+    },
+    {
+      "id": "1cb387f63c05ee88d5665be93b78e71a",
+      "title": "Oanh tạc cơ Nga gãy đuôi sau đòn tập kích của Ukraine",
+      "link": "https://vnexpress.net/oanh-tac-co-nga-gay-duoi-sau-don-tap-kich-cua-ukraine-5099443.html",
+      "summary": "Ảnh vệ tinh chụp sân bay Engels của Nga cho thấy một oanh tạc cơ Tu-95MS bị phá hủy sau đòn tập kích của Ukraine ngày 17/7.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-20T08:17:55+07:00",
+      "fetched": "2026-07-20T17:40:45.532619+07:00"
+    },
+    {
+      "id": "9b1a6b246aee709c766e574d1a764ea8",
+      "title": "Báo Tây Ban Nha: 'Chúng ta đã cứu vãn bóng đá'",
+      "link": "https://vnexpress.net/bao-tay-ban-nha-chung-ta-da-cuu-van-bong-da-5099488.html",
+      "summary": "Tờ thể thao hàng đầu Tây Ban Nha Marca chỉ trích lối chơi của Argentina, đồng thời nhấn mạnh đội nhà đã chơi bóng đúng nghĩa, chiến thắng xứng đáng ở chung kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-20T08:17:16+07:00",
+      "fetched": "2026-07-20T17:40:50.637910+07:00"
+    },
+    {
+      "id": "917e85039a40898a9309d898c131884a",
+      "title": "Những giao dịch nội gián khiến Nhà Trắng đau đầu",
+      "link": "https://vnexpress.net/nhung-giao-dich-noi-gian-khien-nha-trang-dau-dau-5099316.html",
+      "summary": "Tình trạng lợi dụng thông tin mật nội bộ để cá cược trên các nền tảng đang trở thành vấn đề mới với chính quyền Tổng thống Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-20T08:00:00+07:00",
+      "fetched": "2026-07-20T17:40:45.532789+07:00"
+    },
+    {
+      "id": "d9f21939d2c315dcd861c8df02f7f298",
+      "title": "AI Awards 2026 tìm kiếm sản phẩm, doanh nghiệp và tài năng AI Việt",
+      "link": "https://vnexpress.net/ai-awards-2026-tim-kiem-san-pham-doanh-nghiep-va-tai-nang-ai-viet-5099281.html",
+      "summary": "AI Awards 2026 bắt đầu nhận hồ sơ đề cử nhằm tìm ra các giải pháp, doanh nghiệp và tài năng AI xuất sắc, góp phần thúc đẩy hệ sinh thái trí tuệ nhân tạo tại Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-20T08:00:00+07:00",
+      "fetched": "2026-07-20T17:40:49.325452+07:00"
+    },
+    {
+      "id": "47e6f66541bce73901dedc98c0300b45",
+      "title": "Cầu thủ Tây Ban Nha chụp ảnh bằng 'điện thoại robot'",
+      "link": "https://vnexpress.net/cau-thu-tay-ban-nha-chup-anh-bang-dien-thoai-robot-5099501.html",
+      "summary": "Robot Phone, smartphone của Honor chưa bán trên thị trường, được cầu thủ Eric García dùng ghi lại khoảnh khắc vô địch World Cup 2026.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-20T07:55:10+07:00",
+      "fetched": "2026-07-20T17:40:49.324583+07:00"
+    },
+    {
+      "id": "da586df927ce30eed31d80def7a8d7c8",
+      "title": "Laptop LG gram AI 2026 ra mắt tại Việt Nam",
+      "link": "https://vnexpress.net/laptop-lg-gram-ai-2026-ra-mat-tai-viet-nam-5098703.html",
+      "summary": "LG ra mắt laptop LG gram AI 2026 với chất liệu aerominum và thêm lựa chọn vi xử lý AMD Ryzen 7, hướng đến trải nghiệm làm việc, sáng tạo linh hoạt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-20T07:00:00+07:00",
+      "fetched": "2026-07-20T17:40:49.326112+07:00"
+    },
+    {
+      "id": "305f7d02765237d4f1d415d70f6b13e5",
+      "title": "Bạn gái chúc mừng Yamal vô địch World Cup",
+      "link": "https://vnexpress.net/ban-gai-chuc-mung-yamal-vo-dich-world-cup-5099485.html",
+      "summary": "Ngôi sao mạng xã hội Ines Garcia xuống sân chia vui cùng Lamine Yamal, sau khi bạn trai kém 2 tuổi góp công giúp Tây Ban Nha hạ Argentina ở chung kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-20T06:57:07+07:00",
+      "fetched": "2026-07-20T17:40:50.638074+07:00"
     },
     {
       "id": "e55cc413660116e9affb38be0356e50e",
