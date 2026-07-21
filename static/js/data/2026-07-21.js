@@ -1,7 +1,157 @@
 window.newsData_2026_07_21 = {
   "date": "2026-07-21",
-  "lastUpdated": "2026-07-21T20:16:34.712920+07:00",
+  "lastUpdated": "2026-07-21T22:28:30.012026+07:00",
   "articles": [
+    {
+      "id": "efc6dbe50b57c445576edca98118e993",
+      "title": "Hãy thừa nhận, người Tây Ban Nha là bậc thầy làng bóng đá!",
+      "link": "https://tuoitre.vn/hay-thua-nhan-nguoi-tay-ban-nha-la-bac-thay-lang-bong-da-100260720212101216.htm",
+      "summary": "Giả sử Argentina có là đội chiến thắng trong trận chung kết World Cup, làng bóng đá vẫn phải thừa nhận một sự thật - Tây Ban Nha chính là nền bóng đá hùng mạnh nhất, thành công nhất hiện tại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T22:28:22.984311+07:00",
+      "fetched": "2026-07-21T22:28:22.984370+07:00"
+    },
+    {
+      "id": "c9f0abe0ec73ce45155d2b5e4b9ba705",
+      "title": "Vùng áp thấp ngoài khơi Philippines khả năng phát triển thành bão, có thể vào Biển Đông",
+      "link": "https://tuoitre.vn/vung-ap-thap-ngoai-khoi-philippines-kha-nang-phat-trien-thanh-bao-co-the-vao-bien-dong-100260721185401733.htm",
+      "summary": "Dự báo vùng áp thấp ở vùng biển phía đông Philippines khả năng mạnh lên thành áp thấp nhiệt đới, sau đó là bão và có thể đi vào Biển Đông trong cuối tuần này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T22:28:22.984256+07:00",
+      "fetched": "2026-07-21T22:28:22.984303+07:00"
+    },
+    {
+      "id": "97733403a6155a2580129d6d376b33fb",
+      "title": "Ấn Độ triệu tập đại biện Nga sau vụ 4 công dân của mình thiệt mạng ở Biển Đen",
+      "link": "https://tuoitre.vn/an-do-trieu-tap-dai-bien-nga-sau-vu-4-cong-dan-cua-minh-thiet-mang-o-bien-den-10026072118321309.htm",
+      "summary": "Ấn Độ đã triệu tập đại biện lâm thời của Nga tại New Delhi để phản đối. Trong khi đó, người phát ngôn Điện Kremlin Dmitry Peskov ám chỉ rằng con tàu trên đang vận chuyển vũ khí cho Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T22:28:22.984203+07:00",
+      "fetched": "2026-07-21T22:28:22.984248+07:00"
+    },
+    {
+      "id": "a0d5d7b3289f8a8efe41ab9bd9e47f68",
+      "title": "FE CREDIT tăng tốc chuyển đổi số trong quản trị nguồn nhân lực",
+      "link": "https://tuoitre.vn/fe-credit-tang-toc-chuyen-doi-so-trong-quan-tri-nguon-nhan-luc-100260721191709163.htm",
+      "summary": "FE CREDIT vừa triển khai hệ thống quản trị nhân sự SAP SuccessFactors cùng FPT. Dự án hướng tới số hóa toàn diện quy trình nhân sự, nâng cao hiệu quả quản trị và trải nghiệm cho hơn 12.000 nhân viên, tạo nền tảng cho chiến lược phát triển dài hạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T22:28:22.984148+07:00",
+      "fetched": "2026-07-21T22:28:22.984194+07:00"
+    },
+    {
+      "id": "e1bb16756f484bd6c03d73bdcf8eccd3",
+      "title": "Những cầu thủ trẻ gây ấn tượng nhất World Cup 2026",
+      "link": "https://tuoitre.vn/nhung-cau-thu-tre-gay-an-tuong-nhat-world-cup-2026-100260721160517525.htm",
+      "summary": "World Cup không chỉ là ngày hội bóng đá lớn nhất hành tinh, mà còn là sân khấu đầu tiên cho các cầu thủ trẻ đầy tiềm năng. Hãy cùng nhìn lại dàn “tân binh khủng long” trong kỳ World Cup diễn ra ở Bắc Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T22:28:22.984093+07:00",
+      "fetched": "2026-07-21T22:28:22.984140+07:00"
+    },
+    {
+      "id": "7cc95bc3ecec418e8b3ea463c275bdc2",
+      "title": "502 phần quà tri ân người có công với cách mạng",
+      "link": "https://tuoitre.vn/502-phan-qua-tri-an-nguoi-co-cong-voi-cach-mang-100260721190406089.htm",
+      "summary": "Chiều 21-7, Hội Chữ thập đỏ TP.HCM phối hợp cùng Quỹ khởi sự Từ Tâm đã trao 502 phần quà tri ân các gia đình chính sách, người có công với cách mạng có hoàn cảnh khó khăn dịp 79 năm Ngày Thương binh - Liệt sĩ (27-7).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T22:28:22.984040+07:00",
+      "fetched": "2026-07-21T22:28:22.984086+07:00"
+    },
+    {
+      "id": "0a3c5c324aea23521c6bfb5e35a4a6ff",
+      "title": "An Giang: Khởi tố 32 bị can về tội giết người, gây rối trật tự công cộng",
+      "link": "https://tuoitre.vn/an-giang-khoi-to-32-bi-can-ve-toi-giet-nguoi-gay-roi-trat-tu-cong-cong-100260721193039146.htm",
+      "summary": "Công an tỉnh An Giang đã khởi tố 32 bị can trong vụ án giết người, gây rối trật tự công cộng và sử dụng vũ khí quân dụng trái phép xảy ra tại phường Rạch Giá (tỉnh An Giang) ngày 24-9-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T22:28:22.983986+07:00",
+      "fetched": "2026-07-21T22:28:22.984031+07:00"
+    },
+    {
+      "id": "75b96803cd315bd1ed5f5a61567b67e6",
+      "title": "Budweiser cùng người hâm mộ ăn mừng Tây Ban Nha vô địch World Cup 2026",
+      "link": "https://tuoitre.vn/budweiser-cung-nguoi-ham-mo-an-mung-tay-ban-nha-vo-dich-world-cup-2026-100260721184122584.htm",
+      "summary": "Không khí đêm Budweiser Watch Party vỡ òa cảm xúc khi Tây Ban Nha vô địch World Cup 2026. Bằng sức trẻ, bản lĩnh cùng khoảnh khắc xuất thần sau 120 phút nghẹt thở, đội bóng xứ sở bò tót đã khép lại hành trình chinh phục đỉnh cao một cách trọn vẹn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T22:28:22.983931+07:00",
+      "fetched": "2026-07-21T22:28:22.983978+07:00"
+    },
+    {
+      "id": "7052c49ea3565571c8fddcef50a5eb4b",
+      "title": "Nguồn cảm hứng của Naruto không chỉ đến từ Dragon Ball",
+      "link": "https://tuoitre.vn/nguon-cam-hung-cua-naruto-khong-chi-den-tu-dragon-ball-100260721191654314.htm",
+      "summary": "Tác giả Masashi Kishimoto cho biết bên cạnh Dragon Ball, loạt phim Spider-Man của đạo diễn Sam Raimi cũng là nguồn cảm hứng quan trọng giúp ông xây dựng các nhân vật phản diện trong Naruto.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T22:28:22.983875+07:00",
+      "fetched": "2026-07-21T22:28:22.983923+07:00"
+    },
+    {
+      "id": "4499f7ffbd767f74ca2a12cfd6b3beb5",
+      "title": "Những nền bóng đá hứa hẹn nổi lên sau World Cup 2026",
+      "link": "https://tuoitre.vn/nhung-nen-bong-da-hua-hen-noi-len-sau-world-cup-2026-100260721115853526.htm",
+      "summary": "World Cup 2026 khép lại không chỉ bằng chức vô địch đầy thuyết phục của tuyển Tây Ban Nha, mà còn gây ấn tượng bởi màn trình diễn đến từ các đội bóng được đánh giá không cao trước khi bước vào giải đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T22:28:22.983820+07:00",
+      "fetched": "2026-07-21T22:28:22.983867+07:00"
+    },
+    {
+      "id": "19a5c2cde2bfe7c6b6faa8b2662c17ed",
+      "title": "World Cup 2026 đạt doanh thu kỷ lục 15 tỉ đô, chủ nhà hưởng được bao nhiêu?",
+      "link": "https://tuoitre.vn/world-cup-2026-dat-doanh-thu-ky-luc-15-ti-do-chu-nha-huong-duoc-bao-nhieu-100260721172122002.htm",
+      "summary": "World Cup 2026 tạo ra kỷ lục doanh thu khổng lồ, nhưng câu hỏi đặt ra là “núi tiền” đó sẽ chảy về túi của ai?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T22:28:22.983765+07:00",
+      "fetched": "2026-07-21T22:28:22.983812+07:00"
+    },
+    {
+      "id": "85f9cd5be2a348d06b983b529ed4c287",
+      "title": "Sau World Cup 2026, Vinicius gây xôn xao với diện mạo khác lạ do... phẫu thuật thẩm mỹ",
+      "link": "https://tuoitre.vn/sau-world-cup-2026-vinicius-gay-xon-xao-voi-dien-mao-khac-la-do-phau-thuat-tham-my-100260721195944441.htm",
+      "summary": "Ngôi sao người Brazil Vinicius (Real Madrid) đang tận hưởng kỳ nghỉ sau World Cup 2026, nhưng anh đã trở thành chủ đề được bàn tán sôi nổi trên mạng xã hội. Lý do là diện mạo khác lạ của anh sau một cuộc phẫu thuật thẩm mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T22:28:22.983706+07:00",
+      "fetched": "2026-07-21T22:28:22.983756+07:00"
+    },
+    {
+      "id": "5a65abb149b23b13c115e44dac26d4f9",
+      "title": "Bắt tạm giam Chủ tịch Công ty phân bón Hà Bắc",
+      "link": "https://tuoitre.vn/bat-tam-giam-chu-tich-cong-ty-phan-bon-ha-bac-100260721201234822.htm",
+      "summary": "Chủ tịch HĐQT Công ty cổ phần sản xuất phân bón Hà Bắc bị khởi tố, bắt tạm giam với cáo buộc sản xuất, buôn bán hàng giả là phân bón.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T22:28:22.983627+07:00",
+      "fetched": "2026-07-21T22:28:22.983695+07:00"
+    },
+    {
+      "id": "e143dbc509ae4ddea1b0bee7d568a48b",
+      "title": "Tank 300 2026 dự kiến về Việt Nam: Màn lớn, bổ sung bản hybrid",
+      "link": "https://tuoitre.vn/tank-300-2026-du-kien-ve-viet-nam-man-lon-bo-sung-ban-hybrid-1002607211700121.htm",
+      "summary": "Khả năng GWM Tank 300 2026 về Việt Nam sẽ phụ thuộc vào kế hoạch sản xuất của nhà máy tại Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T22:28:22.983555+07:00",
+      "fetched": "2026-07-21T22:28:22.983617+07:00"
+    },
+    {
+      "id": "2a2bb91adbab6666a85409235106d69b",
+      "title": "Doanh nghiệp Việt cung ứng thiết bị trị giá 60 triệu USD cho trung tâm dữ liệu, nhà máy điện khí Mỹ",
+      "link": "https://tuoitre.vn/doanh-nghiep-viet-cung-ung-thiet-bi-tri-gia-60-trieu-usd-cho-trung-tam-du-lieu-nha-may-dien-khi-my-100260721194929716.htm",
+      "summary": "Một doanh nghiệp Việt vừa tạo nên bước ngoặt lớn khi ký thành công bản hợp đồng trị giá hơn 60 triệu USD, xuất khẩu thiết bị cơ khí công nghệ cao sang thị trường Hoa Kỳ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T22:28:22.983399+07:00",
+      "fetched": "2026-07-21T22:28:22.983542+07:00"
+    },
     {
       "id": "61d004e24e7f857665967496009bcb82",
       "title": "Hà Nội được vinh danh thành phố có dịch vụ thân thiện top 2 thế giới",
@@ -153,6 +303,26 @@ window.newsData_2026_07_21 = {
       "fetched": "2026-07-21T18:41:33.183486+07:00"
     },
     {
+      "id": "73dbed9a3c44736533141ed1aed62bea",
+      "title": "Ấn Độ triệu tập đại biện Nga vì 4 công dân thiệt mạng trên Biển Đen",
+      "link": "https://vnexpress.net/an-do-trieu-tap-dai-bien-nga-vi-4-cong-dan-thiet-mang-tren-bien-den-5100122.html",
+      "summary": "Ấn Độ triệu tập đại biện Nga để phản đối vụ tập kích tàu hàng khiến 4 công dân nước này thiệt mạng ngoài khơi tỉnh Odessa, Ukraine cuối tuần trước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-21T15:16:17+07:00",
+      "fetched": "2026-07-21T22:28:24.293533+07:00"
+    },
+    {
+      "id": "e601dcaab2d88a70859af5aafc522b0b",
+      "title": "Nhiều kết quả từ sự phối hợp giữa Bộ Công an và Bộ Khoa học và Công nghệ",
+      "link": "https://vnexpress.net/nhieu-ket-qua-tu-su-phoi-hop-giua-bo-cong-an-va-bo-khoa-hoc-va-cong-nghe-5100109.html",
+      "summary": "Bộ Công an và Bộ Khoa học và Công nghệ phối hợp triển khai nhiều hoạt động thúc đẩy nghiên cứu phát triển, đổi mới sáng tạo, chuyển đổi số và đạt được nhiều thành tựu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-21T15:15:12+07:00",
+      "fetched": "2026-07-21T22:28:28.655121+07:00"
+    },
+    {
       "id": "b6fd9648e02d00e6e614e95ebb7b1055",
       "title": "Hơn 100 người, chó nghiệp vụ tìm thiếu niên 14 tuổi mất tích suốt 4 ngày ở Đắk Lắk",
       "link": "https://tuoitre.vn/hon-100-nguoi-cho-nghiep-vu-tim-thieu-nien-14-tuoi-mat-tich-suot-4-ngay-o-dak-lak-100260721114943998.htm",
@@ -293,6 +463,266 @@ window.newsData_2026_07_21 = {
       "fetched": "2026-07-21T15:07:20.514082+07:00"
     },
     {
+      "id": "c55876ec879a803fc9df832bee1a52e7",
+      "title": "Vì sao ‘Như chưa hề có cuộc chia ly’ bất ngờ trở lại sóng truyền hình?",
+      "link": "https://thanhnien.vn/vi-sao-nhu-chua-he-co-cuoc-chia-ly-bat-ngo-tro-lai-song-truyen-hinh-185260721214252888.htm",
+      "summary": "Từng thông báo dừng sóng VTV1 vì thiếu nhân sự, “Như chưa hề có cuộc chia ly” bất ngờ trở lại truyền hình từ tháng 8.2026 với khung phát sóng mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T15:05:00+07:00",
+      "fetched": "2026-07-21T22:28:20.942581+07:00"
+    },
+    {
+      "id": "8245ecd18750e79ed5f5307e3480bcb5",
+      "title": "Dàn sao đội tuyển Việt Nam có gì để liên tưởng đến Messi và Argentina?",
+      "link": "https://thanhnien.vn/dan-sao-doi-tuyen-viet-nam-co-gi-de-lien-tuong-den-messi-va-argentina-185260721215130073.htm",
+      "summary": "Trong buổi tập đầu tiên của đội tuyển Việt Nam trên đất Thái Lan, các ngôi sao như Nguyễn Tài Lộc, Đỗ Hoàng Hên để lộ hình xăm, khiến nhiều người hâm mộ liên tưởng đến Argentina.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T15:02:00+07:00",
+      "fetched": "2026-07-21T22:28:20.942749+07:00"
+    },
+    {
+      "id": "740850b90ae031c673c5e36517b1f82d",
+      "title": "Iran tuyên bố tấn công trung tâm dữ liệu Amazon ở Bahrain",
+      "link": "https://vnexpress.net/iran-tuyen-bo-tan-cong-trung-tam-du-lieu-amazon-o-bahrain-5100108.html",
+      "summary": "Vệ binh Cách mạng Iran thông báo phóng tên lửa nhằm vào trung tâm dữ liệu của Amazon ở Bahrain và \"phá hủy\" cơ sở này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-21T14:41:20+07:00",
+      "fetched": "2026-07-21T22:28:24.293705+07:00"
+    },
+    {
+      "id": "851cc096ecf402e7597b79780c3f39e1",
+      "title": "Ngăn chặn 39 thanh thiếu niên phóng nhanh, nẹt pô gây náo loạn giữa đêm",
+      "link": "https://thanhnien.vn/ngan-chan-39-thanh-thieu-nien-phong-nhanh-net-po-gay-nao-loan-giua-dem-185260721202011106.htm",
+      "summary": "Đêm 20.7.2026, lực lượng Cảnh sát giao thông tỉnh Vĩnh Long đã kịp thời ngăn chặn, bắt giữ hai nhóm gồm 39 thanh thiếu niên điều khiển mô tô phóng nhanh, nẹt pô gây náo loạn các tuyến đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T14:34:00+07:00",
+      "fetched": "2026-07-21T22:28:20.942886+07:00"
+    },
+    {
+      "id": "352a2bdf7248c4a5415251a827f7db7d",
+      "title": "DJ Mie tái xuất điện ảnh, nói gì khi đóng cặp cùng mỹ nam 'Mưa đỏ'?",
+      "link": "https://thanhnien.vn/dj-mie-tai-xuat-dien-anh-noi-gi-khi-dong-cap-cung-my-nam-mua-do-185260721202413017.htm",
+      "summary": "Trở lại với điện ảnh sau dự án 'Quỷ cẩu', Mie bày tỏ sự hào hứng khi đóng cặp cùng với Đỗ Nhật Hoàng - nam diễn viên từng gây chú ý trong 'Mưa đỏ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T14:32:00+07:00",
+      "fetched": "2026-07-21T22:28:20.943021+07:00"
+    },
+    {
+      "id": "502eba597a5cf78dfc6ce86153b48320",
+      "title": "Thành Long, Châu Tinh Trì và loạt sao Hồng Kông tiễn biệt tài tử Tạ Hiền",
+      "link": "https://thanhnien.vn/thanh-long-chau-tinh-tri-va-loat-sao-hong-kong-tien-biet-tai-tu-ta-hien-185260721195937283.htm",
+      "summary": "Nhiều đồng nghiệp, hậu bối thân thiết của Tạ Hiền như Thành Long, Châu Tinh Trì, Tiết Gia Yến, Xa Thi Mạn… nhớ về 'Tứ ca' với phong thái cuốn hút, tính cách gần gũi, chân thành cùng sự tận tâm với nghề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T14:22:00+07:00",
+      "fetched": "2026-07-21T22:28:20.943148+07:00"
+    },
+    {
+      "id": "500e6a426529465a1058212ac76e0aaa",
+      "title": "Messi cùng gia đình đã về Argentina, nỗi buồn thua chung kết World Cup vẫn đọng lại",
+      "link": "https://thanhnien.vn/messi-cung-gia-dinh-da-ve-argentina-noi-buon-thua-chung-ket-world-cup-van-dong-lai-185260721211212065.htm",
+      "summary": "Messi đã trở về quê nhà Rosario cùng vợ và ba con sau khi khép lại World Cup 2026 với ngôi á quân. Dù được gia đình chào đón sau hành trình dài, nỗi tiếc nuối vì thất bại trước Tây Ban Nha ở trận chung kết vẫn hiện rõ trong tâm trạng của đội trưởng đội tuyển Argentina.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T14:14:00+07:00",
+      "fetched": "2026-07-21T22:28:20.943278+07:00"
+    },
+    {
+      "id": "bf69e22006a2a43a530fd42680ac27c4",
+      "title": "Xác định 2 đội cuối vào bán kết giải U.21 quốc gia: HAGL thắng nghẹt thở",
+      "link": "https://thanhnien.vn/xac-dinh-2-doi-cuoi-vao-ban-ket-giai-u21-quoc-gia-hagl-thang-nghet-tho-185260721204938498.htm",
+      "summary": "Hai tấm vé cuối cùng vào bán kết VCK giải bóng đá vô địch U.21 quốc gia - Cúp FPT Play 2026 đã thuộc về U.21 HAGL và U.21 SLNA sau những màn trình diễn đầy bản lĩnh ở loạt trận tứ kết diễn ra chiều 21.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T14:13:00+07:00",
+      "fetched": "2026-07-21T22:28:20.943413+07:00"
+    },
+    {
+      "id": "9f377b1e72c8945664afd2ab7508171e",
+      "title": "World Cup bước sang chương mới",
+      "link": "https://thanhnien.vn/world-cup-buoc-sang-chuong-moi-185260720222106526.htm",
+      "summary": "Hàng loạt siêu cường đã tự đánh mất thương hiệu trong bản đồ bóng đá đỉnh cao. Tuổi nghề đang được mở rộng đến mức tối đa. Đó là hai đặc điểm lớn trong chương mới của đấu trường World Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T14:13:00+07:00",
+      "fetched": "2026-07-21T22:28:20.943546+07:00"
+    },
+    {
+      "id": "6fac4e7df51c9f1aaf53a30e681d23fd",
+      "title": "Ngậm kim cương giả để đánh tráo viên thật hơn 4 tỉ đồng",
+      "link": "https://thanhnien.vn/ngam-kim-cuong-gia-de-danh-trao-vien-that-hon-4-ti-dong-185260721202818795.htm",
+      "summary": "Hai nam du khách người Ấn Độ đã bị bắt giữ tại sân bay sau khi thực hiện trót lọt phi vụ đánh tráo viên kim cương tại một cửa hàng trang sức ở Singapore bằng thủ đoạn ngậm hàng giả trong miệng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T14:10:00+07:00",
+      "fetched": "2026-07-21T22:28:20.943694+07:00"
+    },
+    {
+      "id": "9c665745edf32548724934b4a4b6a97f",
+      "title": "Cao Lãnh làm mới Lễ giỗ ông, bà Đỗ Công Tường sau 206 năm",
+      "link": "https://thanhnien.vn/cao-lanh-lam-moi-le-gio-ong-ba-do-cong-tuong-sau-206-nam-185260721190359096.htm",
+      "summary": "Lễ giỗ ông, bà Đỗ Công Trường lần thứ 206 diễn ra với nhiều hoạt động truyền thống đan xen hiện đại, góp phần tạo dấu ấn cho ngày hội văn hóa, tôn vinh giá trị lịch sử và bản sắc vùng đất giàu truyền thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T14:05:00+07:00",
+      "fetched": "2026-07-21T22:28:20.943830+07:00"
+    },
+    {
+      "id": "1efe0f75e5cadfd1f4314d962dc1b7e7",
+      "title": "Con trai cựu tiền đạo Quang Hải tỏa sáng, đưa U.17 TP.HCM vào tứ kết",
+      "link": "https://thanhnien.vn/con-trai-cuu-tien-dao-quang-hai-toa-sang-dua-u17-tphcm-vao-tu-ket-185260721190438493.htm",
+      "summary": "Chiều 21.7, lượt trận cuối cùng tại bảng B và bảng C VCK U.17 quốc gia – Cúp Rồng Đỏ 2026 đã khép lại, qua đó xác định đầy đủ 8 đội bóng giành quyền vào tứ kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T14:03:00+07:00",
+      "fetched": "2026-07-21T22:28:20.943959+07:00"
+    },
+    {
+      "id": "ecceef9c56aa7928f698905d3fe70e7c",
+      "title": "Nghệ sĩ Bình Tinh nộp đơn tố giác lên Công an TP.HCM",
+      "link": "https://thanhnien.vn/nghe-si-binh-tinh-nop-don-to-giac-len-cong-an-tphcm-185260721203102239.htm",
+      "summary": "Công an TP.HCM đã tiếp nhận đơn tố giác của nghệ sĩ Bình Tinh về việc bà bị xúc phạm và vu khống trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T14:01:00+07:00",
+      "fetched": "2026-07-21T22:28:20.944084+07:00"
+    },
+    {
+      "id": "f16bccc372fa62ce24bf4e0d3faa751f",
+      "title": "Vợ tránh hôn tôi suốt hai năm qua",
+      "link": "https://vnexpress.net/vo-tranh-hon-toi-suot-hai-nam-qua-5100032.html",
+      "summary": "Mỗi lần tôi muốn hôn, em đều quay mặt đi hoặc chỉ cười rồi bảo: \"Thôi, ngại lắm\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T14:00:00+07:00",
+      "fetched": "2026-07-21T22:28:17.718518+07:00"
+    },
+    {
+      "id": "eb907f761574e10b0a88114f85e371f5",
+      "title": "Vì sao vợ tôi mua rất nhiều hàng online dù nhiều gói vẫn chưa mở?",
+      "link": "https://vnexpress.net/vi-sao-vo-toi-mua-rat-nhieu-hang-online-du-nhieu-goi-van-chua-mo-5100030.html",
+      "summary": "Hỏi thì vợ bảo 'để đó rồi sẽ dùng' nhưng mãi vẫn chưa thấy khui hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T14:00:00+07:00",
+      "fetched": "2026-07-21T22:28:17.718697+07:00"
+    },
+    {
+      "id": "219fa65baf96e273710e0af5297cabe7",
+      "title": "Vẻ nóng bỏng của bạn gái 'Cầu thủ đẹp nhất World Cup 2026'",
+      "link": "https://vnexpress.net/ve-nong-bong-cua-ban-gai-cau-thu-dep-nhat-world-cup-2026-5096060.html",
+      "summary": "Ca sĩ Tini - bạn gái De Paul, \"Cầu thủ đẹp nhất World Cup 2026\" - có vẻ đẹp đậm chất Mỹ Latin, gu mặc táo bạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T14:00:00+07:00",
+      "fetched": "2026-07-21T22:28:17.718845+07:00"
+    },
+    {
+      "id": "b445b575bafdeebfc36bdecfb35d4a14",
+      "title": "Đội tuyển Việt Nam hào hứng tập luyện tại Thái Lan",
+      "link": "https://vnexpress.net/doi-tuyen-viet-nam-hao-hung-tap-luyen-tai-thai-lan-5100111.html",
+      "summary": "Thầy trò HLV Kim Sang-sik tích cực tập luyện để chuẩn bị cho trận ra quân ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T13:59:55+07:00",
+      "fetched": "2026-07-21T22:28:17.718978+07:00"
+    },
+    {
+      "id": "b445b575bafdeebfc36bdecfb35d4a14",
+      "title": "Đội tuyển Việt Nam hào hứng tập luyện tại Thái Lan",
+      "link": "https://vnexpress.net/doi-tuyen-viet-nam-hao-hung-tap-luyen-tai-thai-lan-5100111.html",
+      "summary": "Thầy trò HLV Kim Sang-sik tích cực tập luyện để chuẩn bị cho trận ra quân ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-21T13:59:55+07:00",
+      "fetched": "2026-07-21T22:28:30.000429+07:00"
+    },
+    {
+      "id": "a987b756b2fb45f1c7745d91a1ef6713",
+      "title": "Tiền đạo Tuấn Hải gia nhập Nam Định với hợp đồng 3 năm, sát cánh cùng tân binh Việt kiều Mỹ",
+      "link": "https://thanhnien.vn/tien-dao-pham-tuan-hai-chia-tay-ha-noi-gia-nhap-nam-dinh-voi-hop-dong-3-nam-185260721204727861.htm",
+      "summary": "Chia tay đội Hà Nội, tiền đạo Phạm Tuấn Hải chính thức có bến đỗ mới là CLB Nam Định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T13:56:00+07:00",
+      "fetched": "2026-07-21T22:28:20.944216+07:00"
+    },
+    {
+      "id": "49df1cf035c83eae99d06ef928bb4d29",
+      "title": "Người dân gửi clip đến Cục trưởng CSGT, tài xế xe ba gác ở TP.HCM bị phạt",
+      "link": "https://thanhnien.vn/nguoi-dan-gui-clip-den-cuc-truong-csgt-tai-xe-xe-ba-gac-o-tphcm-bi-phat-185260721094005121.htm",
+      "summary": "Từ clip người dân gửi đến đường dây nóng của Cục trưởng Cục CSGT, một tài xế xe ba gác chở hàng cồng kềnh tại TP.HCM đã bị xử phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T13:51:00+07:00",
+      "fetched": "2026-07-21T22:28:20.944336+07:00"
+    },
+    {
+      "id": "87b4a87160b5fa8500c533953315782f",
+      "title": "'Chuyến phiêu lưu kỳ diệu của Edward Tulane' - bài học về yêu thương",
+      "link": "https://vnexpress.net/chuyen-phieu-luu-ky-dieu-cua-edward-tulane-bai-hoc-ve-yeu-thuong-5099914.html",
+      "summary": "Đọc ''Chuyến phiêu lưu kỳ diệu của Edward Tulane'', tôi hiểu nơi nào có tình yêu thương, nơi đó có hơi ấm của nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T13:50:44+07:00",
+      "fetched": "2026-07-21T22:28:17.719114+07:00"
+    },
+    {
+      "id": "a047069bded3dac66b7d24ba80936b44",
+      "title": "Ninh Bình xây dựng đề án lên thành phố trực thuộc Trung ương năm 2030",
+      "link": "https://vnexpress.net/ninh-binh-xay-dung-de-an-len-thanh-pho-truc-thuoc-trung-uong-nam-2030-5100079.html",
+      "summary": "Phó thủ tướng Nguyễn Văn Thắng giao tỉnh Ninh Bình xây dựng đề án trở thành thành phố trực thuộc Trung ương vào năm 2030, mang đặc trưng đô thị di sản thiên niên kỷ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T13:35:59+07:00",
+      "fetched": "2026-07-21T22:28:17.719248+07:00"
+    },
+    {
+      "id": "193385efe1acf07ef8f31deac3dca3b0",
+      "title": "Vì sao nhiều người khỏe mạnh bỗng mắc tiền tiểu đường mà không hề hay biết?",
+      "link": "https://thanhnien.vn/vi-sao-nhieu-nguoi-khoe-manh-bong-mac-tien-tieu-duong-ma-khong-he-hay-biet-185260721203658072.htm",
+      "summary": "Ngày càng nhiều người ở độ tuổi 20, 30 bất ngờ phát hiện mắc tiền tiểu đường trong khi kiểm tra sức khỏe định kỳ, dù cơ thể thon gọn, cảm thấy hoàn toàn khỏe mạnh và không có triệu chứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T13:35:00+07:00",
+      "fetched": "2026-07-21T22:28:20.944455+07:00"
+    },
+    {
+      "id": "ab22424016d7521c906c6ce4b6e7696b",
+      "title": "Nhật Bản nói tàu Trung Quốc diễn tập bắn đạn thật 'trong EEZ'",
+      "link": "https://vnexpress.net/nhat-ban-noi-tau-trung-quoc-dien-tap-ban-dan-that-trong-eez-5100099.html",
+      "summary": "Tokyo cho biết khu trục hạm Trung Quốc diễn tập bắn đạn thật \"trong EEZ của Nhật Bản\" gần Okinotori, Bắc Kinh gọi đây là hành động \"bôi nhọ và thổi phồng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T13:20:26+07:00",
+      "fetched": "2026-07-21T22:28:17.719376+07:00"
+    },
+    {
+      "id": "ab22424016d7521c906c6ce4b6e7696b",
+      "title": "Nhật Bản nói tàu Trung Quốc diễn tập bắn đạn thật 'trong EEZ'",
+      "link": "https://vnexpress.net/nhat-ban-noi-tau-trung-quoc-dien-tap-ban-dan-that-trong-eez-5100099.html",
+      "summary": "Tokyo cho biết khu trục hạm Trung Quốc diễn tập bắn đạn thật \"trong EEZ của Nhật Bản\" gần Okinotori, Bắc Kinh gọi đây là hành động \"bôi nhọ và thổi phồng\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-21T13:20:26+07:00",
+      "fetched": "2026-07-21T22:28:24.293851+07:00"
+    },
+    {
+      "id": "916df7989075bc5dd83f8a4eead81c89",
+      "title": "Đề xuất cho chủ đầu tư nhận đặt cọc mua nhà trước khi đủ điều kiện mở bán",
+      "link": "https://vnexpress.net/de-xuat-cho-chu-dau-tu-nhan-dat-coc-mua-nha-truoc-khi-du-dieu-kien-mo-ban-5100102.html",
+      "summary": "HoREA đề xuất cho phép chủ đầu tư thu tiền đặt cọc tối đa 5% giá trị bất động sản ngay khi dự án hoàn tất một số thủ tục pháp lý, thay vì chờ đủ điều kiện mở bán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T13:19:00+07:00",
+      "fetched": "2026-07-21T22:28:17.719508+07:00"
+    },
+    {
       "id": "a09d630966006a168200e8630f8e6f53",
       "title": "Tăng cường sự lãnh đạo của Đảng đối với hoạt động xuất bản",
       "link": "https://thanhnien.vn/tang-cuong-su-lanh-dao-cua-dang-doi-voi-hoat-dong-xuat-ban-185260721193515377.htm",
@@ -301,6 +731,16 @@ window.newsData_2026_07_21 = {
       "category": "Tổng hợp",
       "published": "2026-07-21T13:09:00+07:00",
       "fetched": "2026-07-21T20:16:26.935148+07:00"
+    },
+    {
+      "id": "3b0d13306445aa5a0acd558065c57b1a",
+      "title": "Tỉnh nào tăng trưởng mạnh nhất 6 tháng qua?",
+      "link": "https://vnexpress.net/tinh-nao-tang-truong-manh-nhat-6-thang-qua-5100069.html",
+      "summary": "Nhiều tỉnh, thành phố ghi nhận GRDP tăng trên 10% trong 6 tháng đầu năm, địa phương nào dẫn đầu?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T13:03:00+07:00",
+      "fetched": "2026-07-21T22:28:17.719633+07:00"
     },
     {
       "id": "11a4d188454e71a0dc9dccb3418af12b",
@@ -331,6 +771,56 @@ window.newsData_2026_07_21 = {
       "category": "Thế giới",
       "published": "2026-07-21T13:00:00+07:00",
       "fetched": "2026-07-21T20:16:29.712017+07:00"
+    },
+    {
+      "id": "477b80815482913f29904a3603cfcef4",
+      "title": "Bé trai 15 tháng tuổi bị ong vò vẽ đốt 60 nốt",
+      "link": "https://vnexpress.net/be-trai-15-thang-tuoi-bi-ong-vo-ve-dot-60-not-5100041.html",
+      "summary": "Bị ong vò vẽ đốt khoảng 60 nốt trên cơ thể, bé trai suy đa cơ quan, được các bác sĩ nỗ lực cứu sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T13:00:00+07:00",
+      "fetched": "2026-07-21T22:28:17.719781+07:00"
+    },
+    {
+      "id": "393f3a61cce104ec1047b6ba329b7746",
+      "title": "Có nên để dầu gió ở đầu giường?",
+      "link": "https://vnexpress.net/co-nen-de-dau-gio-o-dau-giuong-5099623.html",
+      "summary": "Tôi hay để một lọ dầu gió đầu giường để đêm thoa nếu nghẹt mũi, đau đầu, giúp cơ thể dễ chịu hơn, dễ ngủ, điều này có nên? (Hường, 38 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T13:00:00+07:00",
+      "fetched": "2026-07-21T22:28:17.720026+07:00"
+    },
+    {
+      "id": "c8299d055d6de998be7d3708e0ba721f",
+      "title": "Không khí náo nhiệt đêm chung kết World Cup tại Budweiser Watch Party",
+      "link": "https://vnexpress.net/khong-khi-nao-nhiet-dem-chung-ket-world-cup-tai-budweiser-watch-party-5100078.html",
+      "summary": "Sự kiện Budweiser Watch Party tại The Gangs Central (phường Sài Gòn, TP HCM) thu hút đông đảo người hâm mộ đến chứng kiến màn so tài giữa Argentina và Tây Ban Nha trong trận chung kết FIFA World Cup 2026, rạng sáng 20/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T13:00:00+07:00",
+      "fetched": "2026-07-21T22:28:17.720151+07:00"
+    },
+    {
+      "id": "2851de2ca13195652027feb157956822",
+      "title": "Những thách thức khi trẻ học tiếng Anh cùng AI",
+      "link": "https://vnexpress.net/nhung-thach-thuc-khi-tre-hoc-tieng-anh-cung-ai-5100068.html",
+      "summary": "AI được ví là \"thức ăn nhanh\", nếu học sinh chỉ hỏi để lấy đáp án thì các em có kiến thức bề mặt nhưng khó thể có năng lực tư duy\", theo Nghiên cứu sinh Hà Đặng Như Quỳnh (9.0 IELTS).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T13:00:00+07:00",
+      "fetched": "2026-07-21T22:28:17.720275+07:00"
+    },
+    {
+      "id": "94a031b95b9b11e5def7bc90986e2613",
+      "title": "Lượng khách Việt đến Trung Quốc lớn thứ 4 thế giới",
+      "link": "https://vnexpress.net/luong-khach-viet-den-trung-quoc-lon-thu-4-the-gioi-5100017.html",
+      "summary": "Việt Nam là thị trường gửi khách đến Trung Quốc lớn thứ 4 thế giới, vượt các thị trường truyền thống như Mỹ, Nhật Bản và Australia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:57:53+07:00",
+      "fetched": "2026-07-21T22:28:17.720396+07:00"
     },
     {
       "id": "3b328b42f80d0a6b5b9ef0a0f0ee5f92",
