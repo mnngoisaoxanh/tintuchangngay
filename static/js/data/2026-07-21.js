@@ -1,6 +1,6 @@
 window.newsData_2026_07_21 = {
   "date": "2026-07-21",
-  "lastUpdated": "2026-07-21T18:41:40.393805+07:00",
+  "lastUpdated": "2026-07-21T20:16:34.712920+07:00",
   "articles": [
     {
       "id": "61d004e24e7f857665967496009bcb82",
@@ -291,6 +291,316 @@ window.newsData_2026_07_21 = {
       "category": "Tổng hợp",
       "published": "2026-07-21T15:07:20.513939+07:00",
       "fetched": "2026-07-21T15:07:20.514082+07:00"
+    },
+    {
+      "id": "a09d630966006a168200e8630f8e6f53",
+      "title": "Tăng cường sự lãnh đạo của Đảng đối với hoạt động xuất bản",
+      "link": "https://thanhnien.vn/tang-cuong-su-lanh-dao-cua-dang-doi-voi-hoat-dong-xuat-ban-185260721193515377.htm",
+      "summary": "Ông Ngô Văn Cương, Phó bí thư Đảng ủy Mặt trận Tổ quốc, các đoàn thể Trung ương, nhấn mạnh: 'Hoạt động xuất bản không có chỗ cho sự chủ quan; mỗi sơ suất có thể phải trả giá rất đắt'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T13:09:00+07:00",
+      "fetched": "2026-07-21T20:16:26.935148+07:00"
+    },
+    {
+      "id": "11a4d188454e71a0dc9dccb3418af12b",
+      "title": "Biển Đông sắp đón bão, miền Bắc mưa lớn trở lại",
+      "link": "https://thanhnien.vn/bien-dong-sap-don-bao-mien-bac-mua-lon-tro-lai-185260721194441308.htm",
+      "summary": "Theo dự báo, khoảng cuối tuần này, khu vực Biển Đông có khả năng đón cơn bão số 2 trong năm 2026 với xác suất cao nhất 70%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T13:02:00+07:00",
+      "fetched": "2026-07-21T20:16:26.935320+07:00"
+    },
+    {
+      "id": "afe92eebdedf9275e20da8a1944d400d",
+      "title": "Xem nhanh 20h ngày 21.7: Kết quả xác minh gian lận thi ở Ninh Bình | Metro đánh thức văn hóa đi bộ ở TP.HCM",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-217-ket-qua-xac-minh-gian-lan-thi-o-ninh-binh-metro-danh-thuc-van-hoa-di-bo-o-tphcm-185260721185132504.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 21.7 có nhiều tin tức đáng chú ý về: Kết quả xác minh thông tin 'tố' gian lận thi tốt nghiệp THPT ở Ninh Bình; Giấc mơ Metro: Văn hóa đi bộ ‘thức giấc’ giữa lòng đô thị;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T13:00:00+07:00",
+      "fetched": "2026-07-21T20:16:26.935481+07:00"
+    },
+    {
+      "id": "6cfb259c443a165d8300a3432871abda",
+      "title": "4 người thiệt mạng khi lao xuống sông cứu nạn nhân đuối nước",
+      "link": "https://vnexpress.net/4-nguoi-thiet-mang-khi-lao-xuong-song-cuu-nan-nhan-duoi-nuoc-5100020.html",
+      "summary": "4 người lao xuống cứu một thành viên trong nhóm đi câu bị đuối nước trên con sông ở bang Ohio, dẫn đến cả 5 người tử vong.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-21T13:00:00+07:00",
+      "fetched": "2026-07-21T20:16:29.712017+07:00"
+    },
+    {
+      "id": "3b328b42f80d0a6b5b9ef0a0f0ee5f92",
+      "title": "Mỹ chặn gần 100 triệu USD chuyển nhầm cho người chết",
+      "link": "https://thanhnien.vn/my-chan-gan-100-trieu-usd-chuyen-nham-cho-nguoi-chet-18526072119462372.htm",
+      "summary": "Chính quyền Mỹ đã tiến hành rà soát và phát hiện hàng ngàn tài khoản sắp được nhận tiền thuộc về những người đã qua đời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:54:00+07:00",
+      "fetched": "2026-07-21T20:16:26.935636+07:00"
+    },
+    {
+      "id": "fb73865dfb89378643c828f757c33056",
+      "title": "CMES Vietnam 2026: Triển lãm máy công cụ chuyên ngành trở lại với quy mô gấp đôi",
+      "link": "https://thanhnien.vn/cmes-vietnam-2026-trien-lam-may-cong-cu-chuyen-nganh-tro-lai-voi-quy-mo-gap-doi-185260721195756464.htm",
+      "summary": "Triển lãm Máy công cụ Quốc tế Việt Nam lần thứ 2 (CMES Vietnam 2026) chính thức mở cổng đăng ký tham quan. Sự kiện sẽ diễn ra từ ngày 26 - 28.8.2026 tại Trung tâm Triển lãm Việt Nam (VEC), Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:50:00+07:00",
+      "fetched": "2026-07-21T20:16:26.935808+07:00"
+    },
+    {
+      "id": "d07d2717812c81593232bbf4ab697bf2",
+      "title": "Hàn Quốc mạnh tay trấn áp vi phạm tiền số",
+      "link": "https://thanhnien.vn/han-quoc-manh-tay-tran-ap-vi-pham-tien-so-185260721185015584.htm",
+      "summary": "Cơ quan quản lý Hàn Quốc công bố điều tra hơn 30 trường hợp vi phạm liên quan đến giao dịch tiền mã hóa bất hợp pháp nhằm \"làm sạch\" ngành công nghiệp mới nổi này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:49:00+07:00",
+      "fetched": "2026-07-21T20:16:26.935984+07:00"
+    },
+    {
+      "id": "a570ba1c52c40a5f27c9acda3a1bdd06",
+      "title": "Nhìn lại 4 'cỗ máy' ghi bàn của World Cup 2026",
+      "link": "https://vnexpress.net/nhin-lai-4-co-may-ghi-ban-cua-world-cup-2026-5100105.html",
+      "summary": "Từ hiệu suất ghi bàn, vị trí dứt điểm đến khả năng kiến tạo, 4 ngôi sao tấn công hàng đầu giải đấu đều có những điểm mạnh riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:42:51+07:00",
+      "fetched": "2026-07-21T20:16:24.566214+07:00"
+    },
+    {
+      "id": "2556d15e0a4e6d6243b9f86e510670d8",
+      "title": "UBND xã đình chỉ đồ chơi học liệu mầm non bạo lực, vi phạm pháp luật",
+      "link": "https://thanhnien.vn/ubnd-xa-dinh-chi-do-choi-hoc-lieu-mam-non-bao-luc-vi-pham-phap-luat-185260720180127941.htm",
+      "summary": "Đồ chơi học liệu phải bảo đảm tiêu chuẩn kỹ thuật về đồ chơi cho trẻ em theo quy định của pháp luật. UBND cấp xã sẽ đình chỉ sử dụng đồ chơi, học liệu không phù hợp, vi phạm pháp luật tại các cơ sở mầm non.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:42:00+07:00",
+      "fetched": "2026-07-21T20:16:26.936144+07:00"
+    },
+    {
+      "id": "6f952adc2d86afda848d53d49520e3ad",
+      "title": "FIFA bất ngờ xóa thẻ đỏ của Paredes, lên tiếng về màn ẩu đả sau chung kết World Cup",
+      "link": "https://thanhnien.vn/fifa-bat-ngo-xoa-the-do-cua-paredes-len-tieng-ve-man-au-da-sau-chung-ket-world-cup-185260721190715934.htm",
+      "summary": "Liên đoàn Bóng đá thế giới (FIFA) đã chính thức lên tiếng về vụ xô xát hỗn loạn sau trận chung kết World Cup 2026 giữa Argentina và Tây Ban Nha rạng sáng 20.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:41:00+07:00",
+      "fetched": "2026-07-21T20:16:26.936295+07:00"
+    },
+    {
+      "id": "f0c750a42b8dcac7be5db2dd4371b4e4",
+      "title": "Sếp giao việc lúc 9 giờ tối dù tôi không có nhu cầu kiếm tiền làm thêm",
+      "link": "https://vnexpress.net/sep-giao-viec-luc-9-gio-toi-du-toi-khong-co-nhu-cau-kiem-tien-lam-them-5100059.html",
+      "summary": "Lấy lý do công ty có cơ chế trả thưởng khi làm việc ngoài giờ, sếp tôi tối nào cũng nhắn tin, gọi điện giao việc 'đột xuất'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:32:00+07:00",
+      "fetched": "2026-07-21T20:16:24.566404+07:00"
+    },
+    {
+      "id": "87b5c19e9e89e5cefdad3d9665b8d7b7",
+      "title": "Siêu anh hùng Marvel đối đầu Doctor Doom trong 'Avengers: Doomsday'",
+      "link": "https://vnexpress.net/sieu-anh-hung-marvel-doi-dau-doctor-doom-trong-avengers-doomsday-5099775.html",
+      "summary": "Các siêu anh hùng Marvel, trong đó có Captain America và nhóm X-Men, chạm trán Doctor Doom trong trailer đầu tiên của \"Avengers: Doomsday\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:31:00+07:00",
+      "fetched": "2026-07-21T20:16:24.566573+07:00"
+    },
+    {
+      "id": "5ac51ff8b06b6a10ecb972089162a266",
+      "title": "Giải chạy 81 năm ngành Công an ưu đãi 20% giá vé",
+      "link": "https://vnexpress.net/giai-chay-81-nam-nganh-cong-an-uu-dai-20-gia-ve-5100081.html",
+      "summary": "Giải \"Hành trình 81 năm - Vì An ninh Tổ quốc\" ưa đãi 20% giá vé tất cả cự ly trong thời gian 22-24/7, tạo cơ hội để runner kết hợp chạy bộ, xem pháo hoa và du lịch Phan Thiết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:30:00+07:00",
+      "fetched": "2026-07-21T20:16:24.566753+07:00"
+    },
+    {
+      "id": "85bd8ad952282305a5f4a1dd3a05b64d",
+      "title": "Nguồn cung nhà ở Hạ Long xu hướng dịch chuyển về phía Cửa Lục",
+      "link": "https://vnexpress.net/nguon-cung-nha-o-ha-long-xu-huong-dich-chuyen-ve-phia-cua-luc-5099987.html",
+      "summary": "Quy hoạch mở rộng đô thị về phía Bắc cùng mạng lưới hạ tầng mở rộng đang đưa khu vực vịnh Cửa Lục trở thành không gian phát triển mới của Hạ Long, nơi tập trung nhiều khu đô thị quy mô lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:30:00+07:00",
+      "fetched": "2026-07-21T20:16:24.566951+07:00"
+    },
+    {
+      "id": "a7c248d9a8011f446fec59d911cb4ca2",
+      "title": "Kết quả xổ số Vietlott Power 6/55 tối 21.7, giải độc đắc tăng 40,2 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-power-6-55-toi-217-giai-doc-dac-tang-402-ti-dong-185260721190108354.htm",
+      "summary": "Tối 21.7, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55 và ghi nhận không có người trúng độc đắc nên số tiền cộng dồn là 40,2 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:24:00+07:00",
+      "fetched": "2026-07-21T20:16:26.936447+07:00"
+    },
+    {
+      "id": "d9e3a5adbab979e1f31dc330fce7a15a",
+      "title": "Cựu binh Mỹ phóng hỏa bên ngoài tòa nhà liên bang khi phản đối ICE",
+      "link": "https://vnexpress.net/cuu-binh-my-phong-hoa-ben-ngoai-toa-nha-lien-bang-khi-phan-doi-ice-5099998.html",
+      "summary": "Cựu binh Mỹ mang tấm biển phản đối ICE, châm lửa và bắn súng hơi bên ngoài tòa nhà liên bang ở New York, làm bị thương một số người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:14:45+07:00",
+      "fetched": "2026-07-21T20:16:24.567112+07:00"
+    },
+    {
+      "id": "d9e3a5adbab979e1f31dc330fce7a15a",
+      "title": "Cựu binh Mỹ phóng hỏa bên ngoài tòa nhà liên bang khi phản đối ICE",
+      "link": "https://vnexpress.net/cuu-binh-my-phong-hoa-ben-ngoai-toa-nha-lien-bang-khi-phan-doi-ice-5099998.html",
+      "summary": "Cựu binh Mỹ mang tấm biển phản đối ICE, châm lửa và bắn súng hơi bên ngoài tòa nhà liên bang ở New York, làm bị thương một số người.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-21T12:14:45+07:00",
+      "fetched": "2026-07-21T20:16:29.712202+07:00"
+    },
+    {
+      "id": "3ae73a1a2f0394026047228b4b3b7442",
+      "title": "Những năm cuối đời của huyền thoại màn ảnh Tạ Hiền",
+      "link": "https://thanhnien.vn/nhung-nam-cuoi-doi-cua-huyen-thoai-man-anh-ta-hien-185260721155924174.htm",
+      "summary": "Những năm qua, tài tử Tạ Hiền sống kín tiếng, tập trung tĩnh dưỡng vì sức khỏe suy giảm. Trong bức hiếm hoi được tiết lộ cách đây ít lâu, ông không thể tự đi lại, phải ngồi xe lăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:11:00+07:00",
+      "fetched": "2026-07-21T20:16:26.936600+07:00"
+    },
+    {
+      "id": "cb143ab9ca80fde631eb345db2046989",
+      "title": "Tranh giành khách, nhóm tài xế xe công nghệ mang dao gây rối",
+      "link": "https://vnexpress.net/tranh-gianh-khach-nhom-tai-xe-xe-cong-nghe-mang-dao-gay-roi-5100088.html",
+      "summary": "Nghe tin hai tài xế cùng nhóm mâu thuẫn với nhóm khác do tranh giành khách, Lê Trường Vửng và Nguyễn Chí Hùng cùng một số người mang dao tự chế đến quán bia gây rối, đập phá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:10:13+07:00",
+      "fetched": "2026-07-21T20:16:24.567280+07:00"
+    },
+    {
+      "id": "a9553a187a1bb11b4adb9c8a18dd292e",
+      "title": "Đà Nẵng phát lệnh tăng tốc 'giải cứu' hàng ngàn dự án kéo dài nhiều năm",
+      "link": "https://thanhnien.vn/da-nang-phat-lenh-tang-toc-giai-cuu-hang-ngan-du-an-keo-dai-nhieu-nam-185260721175832123.htm",
+      "summary": "UBND thành phố Đà Nẵng đã xử lý 1.985 trên tổng số 2.035 dự án tồn đọng, vướng mắc nhằm khơi thông nguồn lực đất đai, vốn đầu tư và cải thiện môi trường kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:10:00+07:00",
+      "fetched": "2026-07-21T20:16:26.936759+07:00"
+    },
+    {
+      "id": "b76df25e430027e1c82ebf7a1b3231d6",
+      "title": "'Siêu El Nino' có thể gây thiệt hại 350.000 ha lúa đông xuân 2026 ở ĐBSCL",
+      "link": "https://thanhnien.vn/sieu-el-nino-co-the-gay-thiet-hai-350000-ha-lua-dong-xuan-2026-o-dbscl-185260721174601541.htm",
+      "summary": "Theo Cục Khí tượng thủy văn (Bộ Nông nghiệp và Môi trường), trong kịch bản rủi ro rất cao, 'siêu El Nino' sẽ tác động trực tiếp và ảnh hưởng đến năng suất 350.000 ha lúa đông xuân năm 2026 ở ĐBSCL.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:09:00+07:00",
+      "fetched": "2026-07-21T20:16:26.936945+07:00"
+    },
+    {
+      "id": "15019585b7b5283e6b0d2ca4cbffedac",
+      "title": "Khánh Hòa đón thêm dự án công nghiệp hỗ trợ đóng tàu quy mô 630 tỉ đồng",
+      "link": "https://thanhnien.vn/khanh-hoa-don-them-du-an-cong-nghiep-ho-tro-dong-tau-quy-mo-630-ti-dong-185260721174720336.htm",
+      "summary": "Ngày 21.7, tại khu công nghiệp Ninh Thủy (phường Đông Ninh Hòa, tỉnh Khánh Hòa), Công ty Sejin Heavy Industries (Hàn Quốc) tổ chức lễ động thổ dự án nhà máy sản xuất Deck House với tổng vốn đầu tư hơn 630 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:07:00+07:00",
+      "fetched": "2026-07-21T20:16:26.937094+07:00"
+    },
+    {
+      "id": "acd7701b2fd8c561c154637b863b2a1e",
+      "title": "CBM - Cờ bạc mạng | Phim ngắn Vietnamese 2026",
+      "link": "https://thanhnien.vn/cbm-co-bac-mang-phim-ngan-vietnamese-2026-185260721175726014.htm",
+      "summary": "Phim ngắn 'CBM - Cờ bạc mạng' là tác phẩm tham dự cuộc thi phim ngắn Vietnamese 2026. Cuộc thi do Báo Thanh Niên phối hợp cùng Hiệp hội Xúc tiến phát triển điện ảnh Việt Nam tổ chức với sự đồng hành của Sở Du lịch TP.HCM, Sở Văn hóa - Thể thao TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:06:00+07:00",
+      "fetched": "2026-07-21T20:16:26.937242+07:00"
+    },
+    {
+      "id": "0a2b5e510d5a82155a110b239b011a33",
+      "title": "Nông nghiệp thông minh mang lại hiệu quả kinh tế cao",
+      "link": "https://thanhnien.vn/nong-nghiep-thong-minh-mang-lai-hieu-qua-kinh-te-cao-185260721152637579.htm",
+      "summary": "Mô hình trang trại nông nghiệp thông minh, ứng dụng công nghệ Internet vạn vật (IoT) ở tỉnh Lâm Đồng mang lại hiệu quả kinh tế cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:06:00+07:00",
+      "fetched": "2026-07-21T20:16:26.937387+07:00"
+    },
+    {
+      "id": "825d4212a5be4f452e380ee884cc209a",
+      "title": "Bán thiếu nữ ra nước ngoài làm vợ, giá hàng trăm triệu đồng",
+      "link": "https://vnexpress.net/ban-thieu-nu-ra-nuoc-ngoai-lam-vo-gia-hang-tram-trieu-dong-5100095.html",
+      "summary": "Lương Thị Toàn cùng 5 đồng phạm bị cáo buộc dụ dỗ, lừa bán hai thiếu nữ và một trẻ em làm vợ những người đàn ông nước ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:02:01+07:00",
+      "fetched": "2026-07-21T20:16:24.567436+07:00"
+    },
+    {
+      "id": "7004d56411cbb78c81be062ec1bae63e",
+      "title": "Hệ lụy tiềm ẩn với thế giới khi Houthi phong tỏa biển Đỏ",
+      "link": "https://vnexpress.net/he-luy-tiem-an-voi-the-gioi-khi-houthi-phong-toa-bien-do-5099749.html",
+      "summary": "Việc Houthi tuyên bố phong tỏa hàng hải đối với Arab Saudi có thể làm tăng giá dầu, chi phí vận tải biển, nguy cơ giáng thêm đòn vào kinh tế toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:00:00+07:00",
+      "fetched": "2026-07-21T20:16:24.567595+07:00"
+    },
+    {
+      "id": "d34b235ad3c667fc07dd33c7eedb2c59",
+      "title": "Nhà sáng lập 9x bỏ Mỹ về Trung Quốc, ra AI 'gây xôn xao'",
+      "link": "https://vnexpress.net/nha-sang-lap-9x-bo-my-ve-trung-quoc-ra-ai-gay-xon-xao-5099660.html",
+      "summary": "Yang Zhilin, nhà sáng lập Moonshot AI với mô hình Kimi K3 đang thu hút sự chú ý, từ chối làm việc tại Mỹ để về Trung Quốc khởi nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:00:00+07:00",
+      "fetched": "2026-07-21T20:16:24.567764+07:00"
+    },
+    {
+      "id": "79986fded3408fd51857677408f6dce7",
+      "title": "Hôn môi có thể lây não mô cầu không?",
+      "link": "https://vnexpress.net/hon-moi-co-the-lay-nao-mo-cau-khong-5100075.html",
+      "summary": "Con trai 17 tuổi đã có bạn gái, có nguy cơ lây nhiễm vi khuẩn gây viêm não mô cầu ở mũi họng khi hôn đúng không? (Quang Khải, 42 tuổi, Tuyên Quang)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:00:00+07:00",
+      "fetched": "2026-07-21T20:16:24.567945+07:00"
+    },
+    {
+      "id": "c250e60450631fe4af062ecfe8be3242",
+      "title": "Những ông chồng coi phòng HPV là 'chuyện của vợ'",
+      "link": "https://vnexpress.net/nhung-ong-chong-coi-phong-hpv-la-chuyen-cua-vo-5099863.html",
+      "summary": "Khi được vợ rủ cùng đi nghe tư vấn về sức khỏe sinh sản, trong đó có HPV, anh Hoàng, 38 tuổi, ở Hà Nội, không đồng thuận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T12:00:00+07:00",
+      "fetched": "2026-07-21T20:16:24.568099+07:00"
+    },
+    {
+      "id": "7004d56411cbb78c81be062ec1bae63e",
+      "title": "Hệ lụy tiềm ẩn với thế giới khi Houthi phong tỏa biển Đỏ",
+      "link": "https://vnexpress.net/he-luy-tiem-an-voi-the-gioi-khi-houthi-phong-toa-bien-do-5099749.html",
+      "summary": "Việc Houthi tuyên bố phong tỏa hàng hải đối với Arab Saudi có thể làm tăng giá dầu, chi phí vận tải biển, nguy cơ giáng thêm đòn vào kinh tế toàn cầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-21T12:00:00+07:00",
+      "fetched": "2026-07-21T20:16:29.712365+07:00"
+    },
+    {
+      "id": "d34b235ad3c667fc07dd33c7eedb2c59",
+      "title": "Nhà sáng lập 9x bỏ Mỹ về Trung Quốc, ra AI 'gây xôn xao'",
+      "link": "https://vnexpress.net/nha-sang-lap-9x-bo-my-ve-trung-quoc-ra-ai-gay-xon-xao-5099660.html",
+      "summary": "Yang Zhilin, nhà sáng lập Moonshot AI với mô hình Kimi K3 đang thu hút sự chú ý, từ chối làm việc tại Mỹ để về Trung Quốc khởi nghiệp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-21T12:00:00+07:00",
+      "fetched": "2026-07-21T20:16:33.634174+07:00"
     },
     {
       "id": "97bf80cb9663cca3cb9ca60726fe37d3",
