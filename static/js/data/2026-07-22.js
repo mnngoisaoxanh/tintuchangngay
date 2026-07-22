@@ -1,6 +1,6 @@
 window.newsData_2026_07_22 = {
   "date": "2026-07-22",
-  "lastUpdated": "2026-07-22T18:41:34.907389+07:00",
+  "lastUpdated": "2026-07-22T20:21:35.904296+07:00",
   "articles": [
     {
       "id": "f35279909a17a787748345c7dce9bd74",
@@ -303,6 +303,426 @@ window.newsData_2026_07_22 = {
       "fetched": "2026-07-22T15:08:03.614435+07:00"
     },
     {
+      "id": "50b73787db4b6b81c9121da417f85999",
+      "title": "Viêm cơ tim tối cấp khiến bé gái 10 tuổi ngưng tim, được cứu sống nhờ ECMO",
+      "link": "https://thanhnien.vn/viem-co-tim-toi-cap-khien-be-gai-10-tuoi-ngung-tim-duoc-cuu-song-nho-ecmo-185260722182100015.htm",
+      "summary": "Bệnh viện Phụ sản - Nhi Đà Nẵng vừa cứu sống 1 bệnh nhi 10 tuổi bị viêm cơ tim tối cấp dẫn đến sốc tim, rối loạn nhịp tim nặng và ngưng tim nhờ triển khai kịp thời kỹ thuật tim phổi nhân tạo (ECMO).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:19:00+07:00",
+      "fetched": "2026-07-22T20:21:26.400279+07:00"
+    },
+    {
+      "id": "2d362c1088740c6cebc79778dfedc715",
+      "title": "Thanh tra chỉ nhiều tồn tại trong quản lý thuốc tại Bệnh viện đa khoa Đầm Dơi",
+      "link": "https://thanhnien.vn/thanh-tra-chi-nhieu-ton-tai-trong-quan-ly-thuoc-tai-benh-vien-da-khoa-dam-doi-18526072217253304.htm",
+      "summary": "Thanh tra tỉnh Cà Mau chỉ ra nhiều tồn tại trong quản lý, sử dụng thuốc và ứng dụng công nghệ thông tin tại Bệnh viện đa khoa Đầm Dơi, đồng thời kiến nghị kiểm điểm, rút kinh nghiệm đối với lãnh đạo và một số cá nhân liên quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:17:00+07:00",
+      "fetched": "2026-07-22T20:21:26.400435+07:00"
+    },
+    {
+      "id": "3298d4090f6e629ec34988edbf9e7e07",
+      "title": "Uống cà phê đá giúp bù nước hay khiến cơ thể thiếu nước?",
+      "link": "https://thanhnien.vn/uong-ca-phe-da-giup-bu-nuoc-hay-khien-co-the-thieu-nuoc-185260722200814395.htm",
+      "summary": "Nhiều người cho rằng cà phê có tác dụng lợi tiểu nên dễ khiến cơ thể thiếu nước. Tuy nhiên, điều này có đúng với cà phê đá hay không? Các chuyên gia đã đưa ra câu trả lời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:07:00+07:00",
+      "fetched": "2026-07-22T20:21:26.400569+07:00"
+    },
+    {
+      "id": "935212a1fd509235cfb5aaebbcfaf6a7",
+      "title": "Galaxy Z Fold8 - smartphone gập với kiểu dáng mới",
+      "link": "https://vnexpress.net/galaxy-z-fold8-smartphone-gap-voi-kieu-dang-moi-5100146.html",
+      "summary": "Samsung Galaxy Z Fold8 ra mắt đúng với tin đồn trước đó về thiết kế màn hình tỷ lệ rộng hơn, tập trung vào hiển thị nội dung giải trí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:05:00+07:00",
+      "fetched": "2026-07-22T20:21:23.399858+07:00"
+    },
+    {
+      "id": "dc07c3c6ae6feb95cdb642a71d223c67",
+      "title": "Galaxy Z Flip8 trở lại dùng chip Snapdragon",
+      "link": "https://vnexpress.net/galaxy-z-flip8-tro-lai-dung-chip-snapdragon-5100148.html",
+      "summary": "Mẫu điện thoại gập vỏ sò Galaxy Z Flip8 mỏng hơn và nếp gập màn hình gần như biến mất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:04:00+07:00",
+      "fetched": "2026-07-22T20:21:23.400022+07:00"
+    },
+    {
+      "id": "dc07c3c6ae6feb95cdb642a71d223c67",
+      "title": "Galaxy Z Flip8 trở lại dùng chip Snapdragon",
+      "link": "https://vnexpress.net/galaxy-z-flip8-tro-lai-dung-chip-snapdragon-5100148.html",
+      "summary": "Mẫu điện thoại gập vỏ sò Galaxy Z Flip8 mỏng hơn và nếp gập màn hình gần như biến mất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-22T13:04:00+07:00",
+      "fetched": "2026-07-22T20:21:34.210465+07:00"
+    },
+    {
+      "id": "dfe8ee70915dbdb20b03d3ba9f4d14f0",
+      "title": "Samsung ra mắt Galaxy Z Fold8 Ultra, nâng cấp màn hình và pin",
+      "link": "https://vnexpress.net/samsung-ra-mat-galaxy-z-fold8-ultra-nang-cap-man-hinh-va-pin-5100149.html",
+      "summary": "Samsung công bố ba smartphone gập gồm Galaxy Z Flip8, Z Fold8 và Z Fold8 Ultra, trong đó mẫu cuối cùng là bản cao cấp nhất với màn hình gần như không nếp gấp, pin 5.000 mAh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:03:00+07:00",
+      "fetched": "2026-07-22T20:21:23.400167+07:00"
+    },
+    {
+      "id": "dfe8ee70915dbdb20b03d3ba9f4d14f0",
+      "title": "Samsung ra mắt Galaxy Z Fold8 Ultra, nâng cấp màn hình và pin",
+      "link": "https://vnexpress.net/samsung-ra-mat-galaxy-z-fold8-ultra-nang-cap-man-hinh-va-pin-5100149.html",
+      "summary": "Samsung công bố ba smartphone gập gồm Galaxy Z Flip8, Z Fold8 và Z Fold8 Ultra, trong đó mẫu cuối cùng là bản cao cấp nhất với màn hình gần như không nếp gấp, pin 5.000 mAh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-22T13:03:00+07:00",
+      "fetched": "2026-07-22T20:21:34.210624+07:00"
+    },
+    {
+      "id": "cc6db8c15e5e11962660bea92e8ae29c",
+      "title": "Samsung lần đầu dùng chip Qualcomm cho Galaxy Watch",
+      "link": "https://vnexpress.net/samsung-lan-dau-dung-chip-qualcomm-cho-galaxy-watch-5100150.html",
+      "summary": "Samsung ra mắt đồng hồ Watch 9 và Watch Ultra 2 với chip Snapdragon Wear Elite 3 nm, NPU AI chuyên dụng và là thiết bị đầu tiên của hãng dùng pin silicon-carbon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:02:00+07:00",
+      "fetched": "2026-07-22T20:21:23.400303+07:00"
+    },
+    {
+      "id": "cc6db8c15e5e11962660bea92e8ae29c",
+      "title": "Samsung lần đầu dùng chip Qualcomm cho Galaxy Watch",
+      "link": "https://vnexpress.net/samsung-lan-dau-dung-chip-qualcomm-cho-galaxy-watch-5100150.html",
+      "summary": "Samsung ra mắt đồng hồ Watch 9 và Watch Ultra 2 với chip Snapdragon Wear Elite 3 nm, NPU AI chuyên dụng và là thiết bị đầu tiên của hãng dùng pin silicon-carbon.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-22T13:02:00+07:00",
+      "fetched": "2026-07-22T20:21:34.210764+07:00"
+    },
+    {
+      "id": "bffeff525e9a6c0fb5b0e8d1979383fa",
+      "title": "Xem nhanh 20h ngày 22.7: Bắt Trưởng phòng Kinh doanh của SJC | Đi xe đạp dính nồng độ cồn, phạt bao nhiêu?",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-227-bat-truong-phong-kinh-doanh-cua-sjc-di-xe-dap-dinh-nong-do-con-phat-bao-nhieu-185260722193643566.htm",
+      "summary": "'Xem nhanh 20h' ngày 22.7 có nhiều tin tức đáng chú ý về: Bắt Trưởng phòng Kinh doanh của SJC; Đi nhậu bằng xe đạp, hơn 200 người bị CSGT TP.HCM xử phạt chỉ trong 1 tháng;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:00:00+07:00",
+      "fetched": "2026-07-22T20:21:26.400702+07:00"
+    },
+    {
+      "id": "68ed2e45b3f327f828d1141e83211a59",
+      "title": "Linearthinking: Phương pháp học tiếng Anh hiệu quả cho trẻ tiểu học và THCS thời đại AI",
+      "link": "https://thanhnien.vn/linearthinking-phuong-phap-hoc-tieng-anh-hieu-qua-cho-tre-tieu-hoc-va-thcs-thoi-dai-ai-185260722144711548.htm",
+      "summary": "Sự bùng nổ của AI (Trí tuệ nhân tạo) đang thay đổi mạnh mẽ cách trẻ tiểu học, THCS học tiếng Anh. Giáo viên và phụ huynh cần có những lưu ý gì khi trẻ học với AI?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:00:00+07:00",
+      "fetched": "2026-07-22T20:21:26.400853+07:00"
+    },
+    {
+      "id": "896a2696dfda4ba5a952debd1d6ba7e8",
+      "title": "Điều khiển xe khách chạy loạng choạng trên QL24, tài xế say xỉn bị CSGT xử lý",
+      "link": "https://thanhnien.vn/dieu-khien-xe-khach-chay-loang-choang-tren-ql24-tai-xe-say-xin-bi-csgt-xu-ly-185260722183623824.htm",
+      "summary": "Tài xế điều khiển xe khách chạy với tốc độ không ổn định, liên tục tăng ga, rồ máy lớn gây tiếng ồn, đánh lái đột ngột khiến nhiều người tham gia giao thông hoảng sợ bị lực lượng tổ chức chốt chặn, xử lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:58:00+07:00",
+      "fetched": "2026-07-22T20:21:26.400987+07:00"
+    },
+    {
+      "id": "5f7adf39041e655842940ec0d3efd4fd",
+      "title": "Tài sản của các tỷ phú Việt giảm hơn 3 tỷ USD",
+      "link": "https://vnexpress.net/tai-san-cua-cac-ty-phu-viet-giam-hon-3-ty-usd-5100486.html",
+      "summary": "Tài sản của các tỷ phú Việt giảm 3,1 tỷ USD sau phiên chứng khoán \"bốc hơi\" hơn 60 điểm hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:56:25+07:00",
+      "fetched": "2026-07-22T20:21:23.400431+07:00"
+    },
+    {
+      "id": "5f7adf39041e655842940ec0d3efd4fd",
+      "title": "Tài sản của các tỷ phú Việt giảm hơn 3 tỷ USD",
+      "link": "https://vnexpress.net/tai-san-cua-cac-ty-phu-viet-giam-hon-3-ty-usd-5100486.html",
+      "summary": "Tài sản của các tỷ phú Việt giảm 3,1 tỷ USD sau phiên chứng khoán \"bốc hơi\" hơn 60 điểm hôm nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-22T12:56:25+07:00",
+      "fetched": "2026-07-22T20:21:32.167879+07:00"
+    },
+    {
+      "id": "3f0cb0db6adb1ed06e6a85ed02ff8109",
+      "title": "Tranh cãi vụ thí sinh hoa hậu biểu diễn áo tắm trước học sinh nhỏ tuổi",
+      "link": "https://thanhnien.vn/tranh-cai-vu-thi-sinh-hoa-hau-bieu-dien-ao-tam-truoc-hoc-sinh-nho-tuoi-185260722194805881.htm",
+      "summary": "Liên quan đến hình ảnh thí sinh một cuộc thi hoa hậu biểu diễn áo tắm trước nhiều học sinh nhỏ tuổi, phía ban tổ chức đã có những phản hồi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:54:00+07:00",
+      "fetched": "2026-07-22T20:21:26.401110+07:00"
+    },
+    {
+      "id": "0b9a8c09e1e8f5f6c1a7486650d804b1",
+      "title": "Kết quả xổ số Vietlott Mega 6/45 tối 22.7, giải độc đắc tăng 18,9 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-mega-6-45-toi-227-giai-doc-dac-tang-189-ti-dong-185260722192408454.htm",
+      "summary": "Tối 22.7, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45 và ghi nhận không có người trúng giải độc đắc nên số tiền cộng dồn là 18,9 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:50:00+07:00",
+      "fetched": "2026-07-22T20:21:26.401230+07:00"
+    },
+    {
+      "id": "036d8871dd0de1e452778405c7c4a548",
+      "title": "Hội nghị Ngoại trưởng ASEAN bắc cầu cho các cuộc gặp Mỹ - Trung, Mỹ - Nga",
+      "link": "https://thanhnien.vn/hoi-nghi-ngoai-truong-asean-bac-cau-cho-cac-cuoc-gap-my-trung-my-nga-185260722192321719.htm",
+      "summary": "Hôm nay, Ngoại trưởng Mỹ Marco Rubio gặp người đồng cấp Trung Quốc Vương Nghị bên lề Hội nghị Bộ trưởng Ngoại giao ASEAN ở Manila (Philippines), và đến mai ông Rubio sẽ gặp Ngoại trưởng Nga Sergei Lavrov.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:50:00+07:00",
+      "fetched": "2026-07-22T20:21:26.401349+07:00"
+    },
+    {
+      "id": "82c48a9e8ef2d5543345b730ee246216",
+      "title": "Ba thách thức lớn khi triển khai AI chủ quyền",
+      "link": "https://vnexpress.net/ba-thach-thuc-lon-khi-trien-khai-ai-chu-quyen-5100489.html",
+      "summary": "Theo chuyên gia, việc triển khai AI chủ quyền cần giải quyết thách thức về bảo mật dữ liệu, tuân thủ pháp lý và kiểm soát vận hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:40:16+07:00",
+      "fetched": "2026-07-22T20:21:23.400557+07:00"
+    },
+    {
+      "id": "82c48a9e8ef2d5543345b730ee246216",
+      "title": "Ba thách thức lớn khi triển khai AI chủ quyền",
+      "link": "https://vnexpress.net/ba-thach-thuc-lon-khi-trien-khai-ai-chu-quyen-5100489.html",
+      "summary": "Theo chuyên gia, việc triển khai AI chủ quyền cần giải quyết thách thức về bảo mật dữ liệu, tuân thủ pháp lý và kiểm soát vận hành.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-22T12:40:16+07:00",
+      "fetched": "2026-07-22T20:21:34.210914+07:00"
+    },
+    {
+      "id": "c2681d3070c50bb2396eb239cfaed7fe",
+      "title": "Italy sẵn sàng chi đậm cho Guardiola",
+      "link": "https://vnexpress.net/italy-san-sang-chi-dam-cho-guardiola-5100509.html",
+      "summary": "Liên đoàn Bóng đá Italy (FIGC) sẵn sàng phá lệ về tài chính để thuyết phục Pep Guardiola dẫn dắt đội tuyển quốc gia, sau khi lỡ World Cup ba kỳ liên tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:33:18+07:00",
+      "fetched": "2026-07-22T20:21:23.400684+07:00"
+    },
+    {
+      "id": "c2681d3070c50bb2396eb239cfaed7fe",
+      "title": "Italy sẵn sàng chi đậm cho Guardiola",
+      "link": "https://vnexpress.net/italy-san-sang-chi-dam-cho-guardiola-5100509.html",
+      "summary": "Liên đoàn Bóng đá Italy (FIGC) sẵn sàng phá lệ về tài chính để thuyết phục Pep Guardiola dẫn dắt đội tuyển quốc gia, sau khi lỡ World Cup ba kỳ liên tiếp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-22T12:33:18+07:00",
+      "fetched": "2026-07-22T20:21:35.893002+07:00"
+    },
+    {
+      "id": "e62c860f06caa4acecc214a83a276167",
+      "title": "Messi được IFFHS vinh danh là Cầu thủ hay nhất World Cup 2026",
+      "link": "https://vnexpress.net/messi-duoc-iffhs-vinh-danh-la-cau-thu-hay-nhat-world-cup-2026-5100507.html",
+      "summary": "Dù Argentina thua Tây Ban Nha trong trận chung kết và tiền vệ Rodri giành Bóng Vàng World Cup 2026, Liên đoàn Thống kê và Lịch sử Bóng đá Quốc tế (IFFHS) vẫn trao danh hiệu Cầu thủ hay nhất giải cho Lionel Messi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:31:26+07:00",
+      "fetched": "2026-07-22T20:21:23.400829+07:00"
+    },
+    {
+      "id": "e62c860f06caa4acecc214a83a276167",
+      "title": "Messi được IFFHS vinh danh là Cầu thủ hay nhất World Cup 2026",
+      "link": "https://vnexpress.net/messi-duoc-iffhs-vinh-danh-la-cau-thu-hay-nhat-world-cup-2026-5100507.html",
+      "summary": "Dù Argentina thua Tây Ban Nha trong trận chung kết và tiền vệ Rodri giành Bóng Vàng World Cup 2026, Liên đoàn Thống kê và Lịch sử Bóng đá Quốc tế (IFFHS) vẫn trao danh hiệu Cầu thủ hay nhất giải cho Lionel Messi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-22T12:31:26+07:00",
+      "fetched": "2026-07-22T20:21:35.893163+07:00"
+    },
+    {
+      "id": "de51758a1d759d2bebfed2dddd60b454",
+      "title": "Timor Leste gọi 6 cầu thủ ở châu Âu đấu Việt Nam",
+      "link": "https://vnexpress.net/timor-leste-goi-6-cau-thu-o-chau-au-dau-viet-nam-5100506.html",
+      "summary": "Timor Leste xếp thứ hai ASEAN Cup 2026 về số lượng cầu thủ thi đấu ở nước ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:29:33+07:00",
+      "fetched": "2026-07-22T20:21:23.400959+07:00"
+    },
+    {
+      "id": "de51758a1d759d2bebfed2dddd60b454",
+      "title": "Timor Leste gọi 6 cầu thủ ở châu Âu đấu Việt Nam",
+      "link": "https://vnexpress.net/timor-leste-goi-6-cau-thu-o-chau-au-dau-viet-nam-5100506.html",
+      "summary": "Timor Leste xếp thứ hai ASEAN Cup 2026 về số lượng cầu thủ thi đấu ở nước ngoài.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-22T12:29:33+07:00",
+      "fetched": "2026-07-22T20:21:35.893298+07:00"
+    },
+    {
+      "id": "eca5d25c08ec37eafaa003056cd19f82",
+      "title": "15 tỉnh, thành phải ứng phó với đợt mưa lũ mới",
+      "link": "https://thanhnien.vn/15-tinh-thanh-phai-ung-pho-voi-dot-mua-lu-moi-185260722173955921.htm",
+      "summary": "Ban Chỉ đạo Phòng thủ dân sự quốc gia đã có văn bản đề nghị 15 tỉnh, thành phố khu vực miền Bắc ứng phó với đợt mưa lũ sắp xảy ra từ 23 - 25.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:29:00+07:00",
+      "fetched": "2026-07-22T20:21:26.401471+07:00"
+    },
+    {
+      "id": "2858765d5ed02a9d3274d69d3b99f887",
+      "title": "Nam thanh niên mất tích ở mỏ đá Hóa An",
+      "link": "https://thanhnien.vn/nam-thanh-nien-mat-tich-o-mo-da-hoa-an-185260722190105369.htm",
+      "summary": "Hai tuần sau cảnh báo của Báo Thanh Niên về hiểm họa chết người tại mỏ đá Hóa An nếu không kịp thời rào chắn, ngăn người dân xuống hồ, sáng nay (22.7), nam thanh niên 19 tuổi đã mất tích khi tắm cùng nhóm bạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:28:00+07:00",
+      "fetched": "2026-07-22T20:21:26.401599+07:00"
+    },
+    {
+      "id": "0171da02c25047e716dad62a8314c261",
+      "title": "Bắc Ninh: Trang sức giả bày bán công khai",
+      "link": "https://thanhnien.vn/bac-ninh-trang-suc-gia-bay-ban-cong-khai-185260722172411363.htm",
+      "summary": "Quá trình kiểm tra, Công an tỉnh Bắc Ninh thu giữ hàng trăm sản phẩm trang sức giả mạo các nhãn hiệu nổi tiếng trên thế giới với giá trị gần 4 tỉ đồng, đang được Phạm Thị Huyền bày bán công khai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:28:00+07:00",
+      "fetched": "2026-07-22T20:21:26.401722+07:00"
+    },
+    {
+      "id": "213fe42da44064f6b684e05c768beb6c",
+      "title": "Các 'ông lớn' ngành vàng đang mua lại vàng của nhau ra sao?",
+      "link": "https://thanhnien.vn/cac-ong-lon-nganh-vang-dang-mua-lai-vang-cua-nhau-ra-sao-185260722171344473.htm",
+      "summary": "Thông thường, các doanh nghiệp kinh doanh vàng vẫn mua lại vàng của thương hiệu khác. Mức giá thu mua lại rẻ hơn mua lại vàng của chính thương hiệu đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:25:00+07:00",
+      "fetched": "2026-07-22T20:21:26.401857+07:00"
+    },
+    {
+      "id": "b40f7abd1e63c9fcd2debedc1a2a29b0",
+      "title": "Việt Nam đề xuất biện pháp thúc đẩy quan hệ ASEAN với các đối tác",
+      "link": "https://vnexpress.net/viet-nam-de-xuat-bien-phap-thuc-day-quan-he-asean-voi-cac-doi-tac-5100502.html",
+      "summary": "Bộ trưởng Ngoại giao Lê Hoài Trung nêu các đề xuất để thúc đẩy quan hệ ASEAN với các đối tác lớn như Mỹ, Nga và Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:20:36+07:00",
+      "fetched": "2026-07-22T20:21:23.401095+07:00"
+    },
+    {
+      "id": "b40f7abd1e63c9fcd2debedc1a2a29b0",
+      "title": "Việt Nam đề xuất biện pháp thúc đẩy quan hệ ASEAN với các đối tác",
+      "link": "https://vnexpress.net/viet-nam-de-xuat-bien-phap-thuc-day-quan-he-asean-voi-cac-doi-tac-5100502.html",
+      "summary": "Bộ trưởng Ngoại giao Lê Hoài Trung nêu các đề xuất để thúc đẩy quan hệ ASEAN với các đối tác lớn như Mỹ, Nga và Trung Quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-22T12:20:36+07:00",
+      "fetched": "2026-07-22T20:21:30.232328+07:00"
+    },
+    {
+      "id": "7a316f6fb1840bdb4cc4b262fd001a22",
+      "title": "Cần làm gì để thu hút người nước ngoài du học Việt Nam?",
+      "link": "https://thanhnien.vn/can-lam-gi-de-thu-hut-nguoi-nuoc-ngoai-du-hoc-viet-nam-185260722165742921.htm",
+      "summary": "Đó là vấn đề được đặt ra tại chương trình tập huấn về quốc tế hóa giáo dục ĐH do Bộ GD-ĐT phối hợp tổ chức với Hội đồng Anh và APAIE tuần qua, với hàng chục trường trong và ngoài nước tham dự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:10:00+07:00",
+      "fetched": "2026-07-22T20:21:26.401979+07:00"
+    },
+    {
+      "id": "fad7b7a628532acf60301ba83a5ecccd",
+      "title": "Bát cháo lươn 250.000 đồng ở Cửa Lò bị tố 'chém đẹp'",
+      "link": "https://vnexpress.net/bat-chao-luon-250-000-dong-o-cua-lo-bi-to-chem-dep-5100456.html",
+      "summary": "Giới chức Cửa Lò đã làm việc với chủ quán ăn đêm sau khi khách phản ánh bị \"chém đẹp\" 250.000 đồng cho một bát cháo lươn cỡ lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:06:58+07:00",
+      "fetched": "2026-07-22T20:21:23.401221+07:00"
+    },
+    {
+      "id": "759bc8ef756942e4c683ed7712fd0a18",
+      "title": "Ông Mai Xuân Liêm điều hành UBND tỉnh Thanh Hóa",
+      "link": "https://vnexpress.net/ong-mai-xuan-liem-dieu-hanh-ubnd-tinh-thanh-hoa-5100504.html",
+      "summary": "Phó chủ tịch Thường trực Mai Xuân Liêm được phân công phụ trách Đảng bộ và điều hành UBND tỉnh Thanh Hóa trong thời gian kiện toàn chức danh chủ tịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:03:22+07:00",
+      "fetched": "2026-07-22T20:21:23.401346+07:00"
+    },
+    {
+      "id": "6ba3fa43bf69d2c289c9a5c403c28a67",
+      "title": "Tân Tổng tư lệnh 'được lòng quân, dân' của Ukraine",
+      "link": "https://vnexpress.net/tan-tong-tu-lenh-duoc-long-quan-dan-cua-ukraine-5100237.html",
+      "summary": "Mykhailo Drapatyi, sĩ quan mới nhậm chức Tổng tư lệnh quân đội Ukraine, được cả binh sĩ và người dân tôn trọng nhờ các chiến công trong quá khứ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:00:00+07:00",
+      "fetched": "2026-07-22T20:21:23.401477+07:00"
+    },
+    {
+      "id": "02c2b15caf28810c3a2cafa139fa8d54",
+      "title": "Nữ người mẫu kể về cuộc sống trụy lạc của tỷ phú ấu dâm Epstein",
+      "link": "https://vnexpress.net/nu-nguoi-mau-ke-ve-cuoc-song-truy-lac-cua-ty-phu-au-dam-epstein-5099935.html",
+      "summary": "Tội ác của Epstein ngay cả trong thời gian thụ án được hé lộ qua lời kể từ một người mẫu từng là nạn nhân bị ông ta xâm hại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:00:00+07:00",
+      "fetched": "2026-07-22T20:21:23.401602+07:00"
+    },
+    {
+      "id": "ee784354c1c3ce5e2410e182d735dce3",
+      "title": "Cuộc sống ở nhà thuê của Hoa hậu Diễm Hương",
+      "link": "https://vnexpress.net/cuoc-song-o-nha-thue-cua-hoa-hau-diem-huong-5098939.html",
+      "summary": "Hoa hậu Diễm Hương nói vợ chồng cô chọn thuê nhà chứ không mua trả góp vì muốn tránh áp lực nợ nần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:00:00+07:00",
+      "fetched": "2026-07-22T20:21:23.401731+07:00"
+    },
+    {
+      "id": "857e4e44b8061e3a5bc9e1b699c90455",
+      "title": "Những yếu tố có thể làm gia tăng nguy cơ sốt xuất huyết Dengue tại Đồng Nai",
+      "link": "https://thanhnien.vn/nhung-yeu-to-co-the-lam-gia-tang-nguy-co-sot-xuat-huyet-dengue-tai-dong-nai-185260722161029095.htm",
+      "summary": "Những cơn mưa đầu mùa đang tạo điều kiện thuận lợi cho muỗi truyền bệnh sinh sôi, khiến nguy cơ sốt xuất huyết Dengue (SXHD) gia tăng. Tại các khu nhà trọ và khu công nghiệp đông dân cư, việc phòng chống dịch bệnh càng cần được chú trọng để hạn chế nguy cơ lây lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T12:00:00+07:00",
+      "fetched": "2026-07-22T20:21:26.402100+07:00"
+    },
+    {
+      "id": "6ba3fa43bf69d2c289c9a5c403c28a67",
+      "title": "Tân Tổng tư lệnh 'được lòng quân, dân' của Ukraine",
+      "link": "https://vnexpress.net/tan-tong-tu-lenh-duoc-long-quan-dan-cua-ukraine-5100237.html",
+      "summary": "Mykhailo Drapatyi, sĩ quan mới nhậm chức Tổng tư lệnh quân đội Ukraine, được cả binh sĩ và người dân tôn trọng nhờ các chiến công trong quá khứ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-22T12:00:00+07:00",
+      "fetched": "2026-07-22T20:21:30.232482+07:00"
+    },
+    {
+      "id": "02c2b15caf28810c3a2cafa139fa8d54",
+      "title": "Nữ người mẫu kể về cuộc sống trụy lạc của tỷ phú ấu dâm Epstein",
+      "link": "https://vnexpress.net/nu-nguoi-mau-ke-ve-cuoc-song-truy-lac-cua-ty-phu-au-dam-epstein-5099935.html",
+      "summary": "Tội ác của Epstein ngay cả trong thời gian thụ án được hé lộ qua lời kể từ một người mẫu từng là nạn nhân bị ông ta xâm hại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-22T12:00:00+07:00",
+      "fetched": "2026-07-22T20:21:30.232617+07:00"
+    },
+    {
+      "id": "d1243a129c5dc451c4302f04c70ff363",
+      "title": "VinFast xuất khẩu lô xe điện thứ 38",
+      "link": "https://vnexpress.net/vinfast-xuat-khau-lo-xe-dien-thu-38-5100496.html",
+      "summary": "Hơn 5.000 ôtô điện VinFast được hãng vận chuyển trên 2 tàu vận tải đến các thị trường châu Âu và khu vực, ngày 20-21/7.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-22T12:00:00+07:00",
+      "fetched": "2026-07-22T20:21:32.169791+07:00"
+    },
+    {
       "id": "3b4fba190c28d8a0cd982df7e3b94c8c",
       "title": "Tiếp viên đường sắt trả lại gần 123 triệu cho khách bỏ quên",
       "link": "https://tuoitre.vn/tiep-vien-duong-sat-tra-lai-gan-123-trieu-cho-khach-bo-quen-100260722100806459.htm",
@@ -451,6 +871,26 @@ window.newsData_2026_07_22 = {
       "category": "Tổng hợp",
       "published": "2026-07-22T11:58:56.430431+07:00",
       "fetched": "2026-07-22T11:58:56.430574+07:00"
+    },
+    {
+      "id": "4f10562ace534f139c62f41d9cda3fd1",
+      "title": "Kho hàng tập đoàn bán lẻ Nga bốc cháy sau đòn tập kích của Ukraine",
+      "link": "https://vnexpress.net/kho-hang-tap-doan-ban-le-nga-boc-chay-sau-don-tap-kich-cua-ukraine-5100480.html",
+      "summary": "Ukraine tiến hành cuộc tập kích nhằm vào hai nhà kho của Wildberries, nhà bán lẻ trực tuyến lớn nhất tại Nga, gây ra hỏa hoạn lớn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-22T11:54:30+07:00",
+      "fetched": "2026-07-22T20:21:30.232753+07:00"
+    },
+    {
+      "id": "5591484bdcb41495580b4ac37288845c",
+      "title": "Tiền đạo nhập tịch chấn thương trước ASEAN Cup 2026",
+      "link": "https://vnexpress.net/tien-dao-nhap-tich-chan-thuong-truoc-asean-cup-2026-5100500.html",
+      "summary": "Tiền đạo gốc Brazil Nguyễn Tài Lộc gặp vấn đề ở bắp chân, không thể tập chung cùng đội tuyển Việt Nam chiều 22/7.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-22T11:44:31+07:00",
+      "fetched": "2026-07-22T20:21:35.893424+07:00"
     },
     {
       "id": "74b3eaf05dddf02253c88872786a330c",
