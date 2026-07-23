@@ -1,7 +1,157 @@
 window.newsData_2026_07_23 = {
   "date": "2026-07-23",
-  "lastUpdated": "2026-07-23T20:24:29.064997+07:00",
+  "lastUpdated": "2026-07-23T22:47:12.171219+07:00",
   "articles": [
+    {
+      "id": "f564c28b632f102d4cd54d0ce4a5ae36",
+      "title": "Tây Ninh đẩy nhanh tiến độ giải phóng mặt bằng vành đai 4 TP.HCM, có xã đã đạt 100% tiến độ",
+      "link": "https://tuoitre.vn/tay-ninh-day-nhanh-tien-do-giai-phong-mat-bang-vanh-dai-4-tphcm-co-xa-da-dat-100-tien-do-100260723185245717.htm",
+      "summary": "Công tác bồi thường, hỗ trợ, tái định cư và giải phóng mặt bằng dự án vành đai 4 TP.HCM đoạn qua địa bàn tỉnh Tây Ninh đạt được nhiều kết quả tích cực, có xã đã bàn giao 100% mặt bằng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T22:47:03.973281+07:00",
+      "fetched": "2026-07-23T22:47:03.973374+07:00"
+    },
+    {
+      "id": "314297a1844e07507f7c3c188805b485",
+      "title": "Xe đạp điện thay được ô tô với giá chỉ ngang Honda Lead, cabin có thể gập gọn để vừa giỏ",
+      "link": "https://tuoitre.vn/xe-dap-dien-thay-duoc-o-to-voi-gia-chi-ngang-honda-lead-cabin-co-the-gap-gon-de-vua-gio-100260723173810987.htm",
+      "summary": "Xe đạp điện Flyer Via Pro phù hợp với những người có nhu cầu tìm một chiếc xe nhỏ gọn, tiện dụng mà vẫn thoải mái đưa đón con đi học hay đi chợ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T22:47:03.973168+07:00",
+      "fetched": "2026-07-23T22:47:03.973264+07:00"
+    },
+    {
+      "id": "485d19ef20ffff1f65525774a00e9836",
+      "title": "Kiều bào trẻ giao lưu với chiến sĩ, học viên Học viện Hải quân tại Nha Trang",
+      "link": "https://tuoitre.vn/kieu-bao-tre-giao-luu-voi-chien-si-hoc-vien-hoc-vien-hai-quan-tai-nha-trang-100260723195410358.htm",
+      "summary": "Tại Nha Trang, kiều bào trẻ tham dự Trại hè Việt Nam được tìm hiểu về chủ quyền biển, đảo và giao lưu với tuổi trẻ Học viện Hải quân, cùng nhau tạo những kỷ niệm đẹp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T22:47:03.973041+07:00",
+      "fetched": "2026-07-23T22:47:03.973141+07:00"
+    },
+    {
+      "id": "b2b66b79c82bd68454c99e4da5769954",
+      "title": "Sắc áo xanh lan tỏa đạo lý 'Uống nước nhớ nguồn' tháng 7 tri ân",
+      "link": "https://tuoitre.vn/sac-ao-xanh-lan-toa-dao-ly-uong-nuoc-nho-nguon-thang-7-tri-an-100260723200244507.htm",
+      "summary": "Hướng tới kỷ niệm 79 năm Ngày Thương binh - Liệt sĩ (27-7-1947 - 27-7-2026), nhiều Đoàn thanh niên xã, phường, đặc khu tại TP.HCM đã tổ chức các hoạt động 'Uống nước nhớ nguồn', 'Đền ơn đáp nghĩa'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T22:47:03.972907+07:00",
+      "fetched": "2026-07-23T22:47:03.973018+07:00"
+    },
+    {
+      "id": "7afa8fc4f4fe22761a48dc62dd17e0d8",
+      "title": "Không nhường đường cho xe ưu tiên, ba tài xế bị phạt 21 triệu đồng",
+      "link": "https://tuoitre.vn/khong-nhuong-duong-cho-xe-uu-tien-ba-tai-xe-bi-phat-21-trieu-dong-100260723205224999.htm",
+      "summary": "Đoàn xe ưu tiên phát tín hiệu, dùng loa yêu cầu tài xế nhanh chóng nhường đường. Tuy nhiên các tài xế vẫn không chấp hành, gây cản trở việc lưu thông của đoàn xe. Cảnh sát giao thông Quảng Ngãi phạt ba tài xế 21 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T22:47:03.972774+07:00",
+      "fetched": "2026-07-23T22:47:03.972885+07:00"
+    },
+    {
+      "id": "5b60a358dafc9d4a344baacf694b8f23",
+      "title": "Công cụ kiểm tra AI liên tục 'bắt nhầm', sinh viên Trung Quốc điêu đứng mùa tốt nghiệp",
+      "link": "https://tuoitre.vn/cong-cu-kiem-tra-ai-lien-tuc-bat-nham-sinh-vien-trung-quoc-dieu-dung-mua-tot-nghiep-100260723172434828.htm",
+      "summary": "Nhiều sinh viên Trung Quốc 'kêu trời' khi luận văn tự viết vẫn bị công cụ kiểm tra chấm có tỉ lệ AI rất cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T22:47:03.972657+07:00",
+      "fetched": "2026-07-23T22:47:03.972756+07:00"
+    },
+    {
+      "id": "514824ccc2425d313c3fcb38b62b5238",
+      "title": "Tiệm phế liệu bốc cháy, hàng xóm đập cửa cứu người đàn ông bị tai biến",
+      "link": "https://tuoitre.vn/tiem-phe-lieu-boc-chay-hang-xom-dap-cua-cuu-nguoi-dan-ong-bi-tai-bien-100260723202247851.htm",
+      "summary": "Điểm thu mua phế liệu bốc cháy, người dân phát hiện kịp thời, nhanh chóng đập cửa đưa một người đàn ông bị tai biến, nằm một chỗ ra ngoài an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T22:47:03.972549+07:00",
+      "fetched": "2026-07-23T22:47:03.972644+07:00"
+    },
+    {
+      "id": "248518cfcdf724fda0b2c5e0d873b5b6",
+      "title": "Từ tin báo của người dân, Đội K71 Tây Ninh quy tập được một bộ hài cốt liệt sĩ ở Tân Thành",
+      "link": "https://tuoitre.vn/tu-tin-bao-cua-nguoi-dan-doi-k71-tay-ninh-quy-tap-duoc-mot-bo-hai-cot-liet-si-o-tan-thanh-100260723205240376.htm",
+      "summary": "Theo thông tin người dân địa phương cung cấp, khu vực vừa quy tập bộ hài cốt liệt sĩ có khoảng 4 - 5 liệt sĩ chưa được quy tập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T22:47:03.972474+07:00",
+      "fetched": "2026-07-23T22:47:03.972538+07:00"
+    },
+    {
+      "id": "6c067148619c7e33d6b1a86dd9849835",
+      "title": "Ông Trump bất ngờ thêm điều kiện cho thỏa thuận hạt nhân với Saudi Arabia",
+      "link": "https://tuoitre.vn/ong-trump-bat-ngo-them-dieu-kien-cho-thoa-thuan-hat-nhan-voi-saudi-arabia-100260723210842624.htm",
+      "summary": "Tổng thống Trump bổ sung điều kiện mới cho thỏa thuận hạt nhân với Saudi Arabia, giữa lúc Israel lo ngại nguy cơ chạy đua hạt nhân ở khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T22:47:03.972359+07:00",
+      "fetched": "2026-07-23T22:47:03.972459+07:00"
+    },
+    {
+      "id": "0d75743120506564a0b3bf1bf42d9658",
+      "title": "Ba quản lý của Vietnam Airlines tại Singapore bị truy tố vì nhận hối lộ",
+      "link": "https://tuoitre.vn/ba-quan-ly-vietnam-airlines-tai-singapore-bi-truy-to-vi-nhan-hoi-lo-100260723201752588.htm",
+      "summary": "Singapore truy tố 5 người, trong đó có 3 quản lý Vietnam Airlines, trong vụ án hối lộ liên quan đến cước phí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T22:47:03.972242+07:00",
+      "fetched": "2026-07-23T22:47:03.972338+07:00"
+    },
+    {
+      "id": "5b472af3b4707d130468d78548d3f21d",
+      "title": "AI lần đầu đạt điểm tuyệt đối tại Olympic toán học quốc tế",
+      "link": "https://tuoitre.vn/ai-lan-dau-dat-diem-tuyet-doi-tai-olympic-toan-hoc-quoc-te-100260723212829347.htm",
+      "summary": "Hai công ty Trung Quốc ngày 23-7 cho biết các mô hình AI của họ đều đạt 42/42 điểm, tương đương điểm tuyệt đối theo thang chấm chính thức của IMO 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T22:47:03.971930+07:00",
+      "fetched": "2026-07-23T22:47:03.972225+07:00"
+    },
+    {
+      "id": "8fc0fa565189f38b379252de7a506575",
+      "title": "Phút nghẹn ngào khi liệt sĩ Huỳnh Văn Quên đã có ảnh thờ sau hàng chục năm mong mỏi",
+      "link": "https://tuoitre.vn/phut-nghen-ngao-khi-liet-si-huynh-van-quen-da-co-anh-tho-sau-hang-chuc-nam-mong-moi-100260723204811748.htm",
+      "summary": "Tối 23-7, tại điểm cầu truyền hình công viên Lê Thị Riêng, gia đình liệt sĩ Huỳnh Văn Quên đã bật khóc khi chân dung ông được phục dựng, nhiều người tham dự cũng không kìm được nước mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T22:47:03.971861+07:00",
+      "fetched": "2026-07-23T22:47:03.971920+07:00"
+    },
+    {
+      "id": "b65fb76c9a39333a77835a0885667ddf",
+      "title": "Cựu Bộ trưởng Quốc phòng Ukraine được ông Zelensky 'mời' làm Phó thủ tướng",
+      "link": "https://tuoitre.vn/cuu-bo-truong-quoc-phong-ukraine-duoc-ong-zelensky-moi-lam-pho-thu-tuong-100260723213744868.htm",
+      "summary": "Tổng thống Zelensky đã đề nghị cựu Bộ trưởng Quốc phòng Mykhailo Fedorov đảm nhận chức Phó thủ tướng phụ trách đổi mới sáng tạo trong lĩnh vực quân sự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T22:47:03.971789+07:00",
+      "fetched": "2026-07-23T22:47:03.971850+07:00"
+    },
+    {
+      "id": "9b5fa11bdedb7e0020197d1970daf7e6",
+      "title": "Bóng đá Anh chấn động trước video cầu thủ U16 đánh đập đồng đội trong khách sạn",
+      "link": "https://tuoitre.vn/bong-da-anh-chan-dong-truoc-video-cau-thu-u16-danh-dap-dong-doi-trong-khach-san-100260723214013486.htm",
+      "summary": "Làng bóng đá Anh vừa chứng kiến cảnh tượng gây sốc khi một tuyển thủ U16 nước này bị đồng đội hành hung dã man trong khách sạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T22:47:03.971710+07:00",
+      "fetched": "2026-07-23T22:47:03.971778+07:00"
+    },
+    {
+      "id": "148f2c580642df975c04cc77339bc3d8",
+      "title": "Lễ hội Tận hưởng Đà Nẵng khai mạc với loạt hoạt động trải nghiệm hấp dẫn",
+      "link": "https://tuoitre.vn/le-hoi-tan-huong-da-nang-khai-mac-voi-loat-hoat-dong-trai-nghiem-hap-dan-10026072321542238.htm",
+      "summary": "Tối 23-7, tại Công viên Biển Đông, UBND TP Đà Nẵng khai mạc Lễ hội Tận hưởng Đà Nẵng 2026 (Enjoy Danang Festival 2026), mở đầu chuỗi hoạt động văn hóa, du lịch và giải trí diễn ra từ nay đến 26-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T22:47:03.971534+07:00",
+      "fetched": "2026-07-23T22:47:03.971694+07:00"
+    },
     {
       "id": "8bc38e78ef4db5ee55568bccf77f3313",
       "title": "Ghép da đầu ‘cứu’ đôi chân cho bé trai bị rắn hổ mang cắn",
@@ -303,6 +453,66 @@ window.newsData_2026_07_23 = {
       "fetched": "2026-07-23T18:45:12.434656+07:00"
     },
     {
+      "id": "cde1da600bb33059af7c68e200075e7a",
+      "title": "GS Đàm Thanh Sơn nói chuyện về vật lý lượng tử với học sinh ở Gia Lai",
+      "link": "https://thanhnien.vn/gs-dam-thanh-son-noi-chuyen-ve-vat-ly-luong-tu-voi-hoc-sinh-o-gia-lai-185260723205428572.htm",
+      "summary": "GS Đàm Thanh Sơn chia sẻ về liên đới lượng tử, công nghệ lượng tử và khuyến khích học sinh xây dựng nền tảng vật lý vững chắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T15:33:00+07:00",
+      "fetched": "2026-07-23T22:47:01.931063+07:00"
+    },
+    {
+      "id": "d293d58606d485741682128c22331a4c",
+      "title": "Việt Nam kêu gọi ARF chuyển tư duy sang 'quản lý rủi ro chủ động'",
+      "link": "https://vnexpress.net/viet-nam-keu-goi-arf-chuyen-tu-duy-sang-quan-ly-rui-ro-chu-dong-5100958.html",
+      "summary": "Bộ trưởng Lê Hoài Trung cho rằng các thành viên Diễn đàn Khu vực ASEAN cần nâng cao năng lực dự báo, ngăn ngừa leo thang trong bối cảnh thế giới bất ổn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T15:21:11+07:00",
+      "fetched": "2026-07-23T22:46:58.787830+07:00"
+    },
+    {
+      "id": "d293d58606d485741682128c22331a4c",
+      "title": "Việt Nam kêu gọi ARF chuyển tư duy sang 'quản lý rủi ro chủ động'",
+      "link": "https://vnexpress.net/viet-nam-keu-goi-arf-chuyen-tu-duy-sang-quan-ly-rui-ro-chu-dong-5100958.html",
+      "summary": "Bộ trưởng Lê Hoài Trung cho rằng các thành viên Diễn đàn Khu vực ASEAN cần nâng cao năng lực dự báo, ngăn ngừa leo thang trong bối cảnh thế giới bất ổn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-23T15:21:11+07:00",
+      "fetched": "2026-07-23T22:47:05.826436+07:00"
+    },
+    {
+      "id": "b4d09dfccf8f4273824d1003c01676f0",
+      "title": "Liên tiếp sai phạm tại phòng khám 'bơm sữa đậu nành' lừa hàng nghìn người bệnh",
+      "link": "https://vnexpress.net/lien-tiep-sai-pham-tai-phong-kham-bom-sua-dau-nanh-lua-hang-nghin-nguoi-benh-5100957.html",
+      "summary": "Trước khi đối mặt cáo buộc \"vẽ bệnh\" bằng thủ đoạn dùng sữa đậu nành tạo dịch mủ giả, Phòng khám Đa khoa Y học Nghệ An từng nhiều lần bị xử phạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T15:20:29+07:00",
+      "fetched": "2026-07-23T22:46:58.788012+07:00"
+    },
+    {
+      "id": "d3e62e6f4a1d0303532867a0719ac4a3",
+      "title": "Xác định 2 đội vào chung kết U.21 quốc gia 2026: HAGL và Hà Nội gục ngã",
+      "link": "https://thanhnien.vn/xac-dinh-2-doi-vao-chung-ket-u21-quoc-gia-2026-hagl-va-ha-noi-guc-nga-185260723220951804.htm",
+      "summary": "U.21 SLNA và U.21 Thể Công Viettel đã vượt qua hai trận bán kết đầy kịch tính để giành quyền góp mặt ở trận chung kết VCK giải bóng đá vô địch U.21 quốc gia – Cúp FPT Play 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T15:13:00+07:00",
+      "fetched": "2026-07-23T22:47:01.931229+07:00"
+    },
+    {
+      "id": "52f81e0fde9a673b3c1a6d631be8ff61",
+      "title": "Vụ thí sinh hoa hậu biểu diễn áo tắm trước học sinh: Ban tổ chức xin lỗi",
+      "link": "https://thanhnien.vn/vu-thi-sinh-hoa-hau-bieu-dien-ao-tam-truoc-hoc-sinh-ban-to-chuc-xin-loi-185260723220833385.htm",
+      "summary": "Liên quan đến vụ thí sinh hoa hậu biểu diễn áo tắm trước học sinh gây bức xúc, ban tổ chức lên tiếng xin lỗi, cho biết sẽ siết chặt toàn bộ quy trình tổ chức cho đêm chung kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T15:13:00+07:00",
+      "fetched": "2026-07-23T22:47:01.931387+07:00"
+    },
+    {
       "id": "773d7427abf3f7ddbfa6cd0a778936dd",
       "title": "Chuyên gia cảnh báo 'con dao 2 lưỡi' AI trong đầu tư chứng khoán",
       "link": "https://tuoitre.vn/chuyen-gia-canh-bao-con-dao-2-luoi-ai-trong-dau-tu-chung-khoan-100260723130330593.htm",
@@ -453,6 +663,196 @@ window.newsData_2026_07_23 = {
       "fetched": "2026-07-23T15:11:37.208223+07:00"
     },
     {
+      "id": "176ec93db42e68f63f4313ed50a35f90",
+      "title": "Trao di ảnh phục dựng liệt sĩ Huỳnh Văn Quên sau gần 60 năm mong chờ",
+      "link": "https://thanhnien.vn/trao-di-anh-phuc-dung-liet-si-huynh-van-quen-sau-gan-60-nam-mong-cho-185260723214222532.htm",
+      "summary": "Tại cầu truyền hình 'Tìm lại tên anh', gia đình liệt sĩ Huỳnh Văn Quên xúc động đón nhận di ảnh phục dựng sau gần 60 năm mong chờ ông trở về.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T14:58:00+07:00",
+      "fetched": "2026-07-23T22:47:01.931542+07:00"
+    },
+    {
+      "id": "097e0a863b9c8c63342b6f9287f43b0a",
+      "title": "Phía Tạ Đình Phong đáp trả loạt tin đồn thất thiệt về tài tử Tạ Hiền",
+      "link": "https://thanhnien.vn/phia-ta-dinh-phong-dap-tra-loat-tin-don-that-thiet-ve-tai-tu-ta-hien-185260723214757848.htm",
+      "summary": "Sau khi tài tử Tạ Hiền qua đời, nhiều tin đồn liên quan đến sức khỏe của ông cũng như vấn đề phân chia tài sản bị lan truyền rầm rộ. Hôm 23.7, phía Tạ Đình Phong đưa ra thông báo liên quan đến vấn đề này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T14:54:00+07:00",
+      "fetched": "2026-07-23T22:47:01.931722+07:00"
+    },
+    {
+      "id": "23e44cb771e2b45b7ce4aa86b9062799",
+      "title": "HLV Timor Leste muốn chơi theo kiểu Tây Ban Nha",
+      "link": "https://vnexpress.net/hlv-timor-leste-muon-choi-theo-kieu-tay-ban-nha-5100942.html",
+      "summary": "Dù biết khoảng cách rất xa, HLV Jose Pedro tuyên bố trước trận ra quân gặp Việt Nam tại ASEAN Cup 2026 rằng muốn xây dựng Timor Leste thành một tập thể có lối chơi như Tây Ban Nha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T14:29:42+07:00",
+      "fetched": "2026-07-23T22:46:58.788179+07:00"
+    },
+    {
+      "id": "23e44cb771e2b45b7ce4aa86b9062799",
+      "title": "HLV Timor Leste muốn chơi theo kiểu Tây Ban Nha",
+      "link": "https://vnexpress.net/hlv-timor-leste-muon-choi-theo-kieu-tay-ban-nha-5100942.html",
+      "summary": "Dù biết khoảng cách rất xa, HLV Jose Pedro tuyên bố trước trận ra quân gặp Việt Nam tại ASEAN Cup 2026 rằng muốn xây dựng Timor Leste thành một tập thể có lối chơi như Tây Ban Nha.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-23T14:29:42+07:00",
+      "fetched": "2026-07-23T22:47:12.158698+07:00"
+    },
+    {
+      "id": "2f03f9bee3ff36eb9d93d85aa5a72e23",
+      "title": "Đề xuất trẻ em chỉ được chơi game 60 phút mỗi ngày",
+      "link": "https://vnexpress.net/de-xuat-tre-em-chi-duoc-choi-game-60-phut-moi-ngay-5100959.html",
+      "summary": "Dự thảo Nghị định 147 (sửa đổi ) quy định trẻ dưới 16 tuổi chỉ được chơi game 60 phút mỗi ngày, thay vì 180 phút như văn bản hiện hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T14:19:02+07:00",
+      "fetched": "2026-07-23T22:46:58.788341+07:00"
+    },
+    {
+      "id": "2f03f9bee3ff36eb9d93d85aa5a72e23",
+      "title": "Đề xuất trẻ em chỉ được chơi game 60 phút mỗi ngày",
+      "link": "https://vnexpress.net/de-xuat-tre-em-chi-duoc-choi-game-60-phut-moi-ngay-5100959.html",
+      "summary": "Dự thảo Nghị định 147 (sửa đổi ) quy định trẻ dưới 16 tuổi chỉ được chơi game 60 phút mỗi ngày, thay vì 180 phút như văn bản hiện hành.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-23T14:19:02+07:00",
+      "fetched": "2026-07-23T22:47:10.415501+07:00"
+    },
+    {
+      "id": "72e2685d3be0ea311216dea8bc53085f",
+      "title": "Một cuộc thi thu hút hơn 20 trường đại học uy tín trên thế giới tham gia",
+      "link": "https://thanhnien.vn/mot-cuoc-thi-thu-hut-hon-20-truong-dai-hoc-uy-tin-tren-the-gioi-tham-gia-185260723205342668.htm",
+      "summary": "Trung ương Hội Sinh viên Việt Nam vừa tổ chức cuộc thi Vietnamese Student HackAIthon 2026, thu hút sinh viên từ 10 quốc gia, với hơn 20 trường đại học uy tín trên thế giới tham gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T14:16:00+07:00",
+      "fetched": "2026-07-23T22:47:01.931878+07:00"
+    },
+    {
+      "id": "38810dc37adab3aff9a69222a0cb6af5",
+      "title": "Muốn mạch máu khỏe, phòng đột quỵ: Bác sĩ khuyên làm 5 điều này",
+      "link": "https://thanhnien.vn/muon-mach-mau-khoe-phong-dot-quy-bac-si-khuyen-lam-5-dieu-nay-185260723210501074.htm",
+      "summary": "Đột quỵ thường xảy ra khi mạch máu não bị tắc hoặc vỡ. Theo các chuyên gia, nhiều yếu tố nguy cơ có thể được kiểm soát nếu duy trì lối sống lành mạnh và chăm sóc sức khỏe mạch máu từ sớm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T14:04:00+07:00",
+      "fetched": "2026-07-23T22:47:01.932030+07:00"
+    },
+    {
+      "id": "9d52f78d81022dcbb014ddb0f58f13ce",
+      "title": "Bốn nhà toán học thắng giải Fields 2026",
+      "link": "https://vnexpress.net/bon-nha-toan-hoc-thang-giai-fields-2026-5100637.html",
+      "summary": "Ba trong 4 gương mặt thắng giải Fields 2026 từng giành huy chương vàng Toán, Tin quốc tế, hai người lớn lên ở Trung Quốc - là lần đầu tiên trong lịch sử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T14:02:19+07:00",
+      "fetched": "2026-07-23T22:46:58.788503+07:00"
+    },
+    {
+      "id": "3f3d3356a64a7f7676218610b262be3c",
+      "title": "Công an vào cuộc vụ 'tố' học sinh bị nhét bút vào hậu môn",
+      "link": "https://thanhnien.vn/cong-an-vao-cuoc-vu-to-hoc-sinh-bi-nhet-but-vao-hau-mon-18526072320114449.htm",
+      "summary": "Chính quyền sở tại đã giao cơ quan công an phối hợp với ban giám hiệu nhà trường xác minh thông tin 'tố' việc một học sinh lớp 6 bị nhét bút vào hậu môn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T13:56:00+07:00",
+      "fetched": "2026-07-23T22:47:01.932188+07:00"
+    },
+    {
+      "id": "ab9bc246d234ba6b1672897ed4dd2e8e",
+      "title": "Biển lửa cháy rừng áp sát điểm du lịch Pháp, hàng ngàn du khách phải sơ tán",
+      "link": "https://thanhnien.vn/bien-lua-chay-rung-ap-sat-diem-du-lich-phap-hang-ngan-du-khach-phai-so-tan-185260723204914901.htm",
+      "summary": "Hơn 20.000 người, trong đó có hàng ngàn du khách tại các khu cắm trại và cơ sở nghỉ dưỡng, đã được sơ tán khi một đám cháy rừng 'đặc biệt dữ dội' lan nhanh dọc bờ biển Đại Tây Dương, tây nam nước Pháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T13:55:00+07:00",
+      "fetched": "2026-07-23T22:47:01.932348+07:00"
+    },
+    {
+      "id": "58632c206860bdc1d7edf79a76d35ff5",
+      "title": "Kết quả xổ số Vietlott Power 6/55 tối 23.7, giải độc đắc tăng 43,1 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-power-6-55-toi-237-giai-doc-dac-tang-431-ti-dong-185260723193640787.htm",
+      "summary": "Tối 23.7, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55 và ghi nhận không có người trúng độc đắc nên số tiền cộng dồn là 43,1 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T13:52:00+07:00",
+      "fetched": "2026-07-23T22:47:01.932498+07:00"
+    },
+    {
+      "id": "24bafe47c4417fb411f1dfb77d79ee5c",
+      "title": "Máy bay nghi là tiêm kích Su-57 Nga rơi ở tỉnh Moskva",
+      "link": "https://vnexpress.net/may-bay-nghi-la-tiem-kich-su-57-nga-roi-o-tinh-moskva-5100948.html",
+      "summary": "Bộ Quốc phòng Nga thông báo máy bay huấn luyện chiến đấu rơi tại tỉnh Moskva, truyền thông nước này nhận định đó là tiêm kích Su-57.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T13:51:44+07:00",
+      "fetched": "2026-07-23T22:46:58.788688+07:00"
+    },
+    {
+      "id": "24bafe47c4417fb411f1dfb77d79ee5c",
+      "title": "Máy bay nghi là tiêm kích Su-57 Nga rơi ở tỉnh Moskva",
+      "link": "https://vnexpress.net/may-bay-nghi-la-tiem-kich-su-57-nga-roi-o-tinh-moskva-5100948.html",
+      "summary": "Bộ Quốc phòng Nga thông báo máy bay huấn luyện chiến đấu rơi tại tỉnh Moskva, truyền thông nước này nhận định đó là tiêm kích Su-57.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-23T13:51:44+07:00",
+      "fetched": "2026-07-23T22:47:05.826635+07:00"
+    },
+    {
+      "id": "1b5ee81053cc8a71f108f6e8924663b4",
+      "title": "Đề nghị nghiên cứu cơ chế phù hợp đối với các sai phạm hành chính về thuế",
+      "link": "https://thanhnien.vn/de-nghi-nghien-cuu-co-che-phu-hop-doi-voi-cac-sai-pham-hanh-chinh-ve-thue-185260723201312802.htm",
+      "summary": "Tại vòng đối thoại địa phương Diễn đàn Kinh tế tư nhân Việt Nam 2026 (VPSF 2026) - Phiên đối thoại tỉnh Ninh Bình, các doanh nhân đề nghị nghiên cứu cơ chế phù hợp đối với các sai phạm hành chính về thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T13:49:00+07:00",
+      "fetched": "2026-07-23T22:47:01.932675+07:00"
+    },
+    {
+      "id": "dd4a87bca8341a24cb7d96b629a53b60",
+      "title": "CLB Công an TP.HCM và VSSG đồng tổ chức giải bóng đá trẻ quy mô quốc gia",
+      "link": "https://thanhnien.vn/clb-cong-an-tphcm-va-vssg-dong-to-chuc-giai-bong-da-tre-quy-mo-quoc-gia-185260723203935157.htm",
+      "summary": "Chiều 23.7, Công ty CP Giải pháp Thể thao Việt Nam (VSSG) phối hợp CLB Công an TP.HCM tổ chức lễ công bố Football Festival U.9, U.11, U.13 Việt Nam 2026 với chủ đề 'Khởi đầu đam mê, đánh thức tiềm năng'. Đây là giải bóng đá trẻ quy mô quốc gia đầu tiên dành riêng cho các trung tâm bóng đá cộng đồng ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T13:45:00+07:00",
+      "fetched": "2026-07-23T22:47:01.932832+07:00"
+    },
+    {
+      "id": "8b153c10589bd08cf73a59b17bf95118",
+      "title": "Đội tuyển Nhật Bản thay HLV sau Asian Cup: Ông Moriyasu rời ghế 'nóng', người quen thế chỗ",
+      "link": "https://thanhnien.vn/doi-tuyen-nhat-ban-thay-hlv-ong-moriyasu-roi-ghe-nong-nguoi-quen-the-cho-185260723203636762.htm",
+      "summary": "Sau gần một thập kỷ dẫn dắt đội tuyển Nhật Bản, HLV Hajime Moriyasu sẽ rời 'ghế nóng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T13:42:00+07:00",
+      "fetched": "2026-07-23T22:47:01.933072+07:00"
+    },
+    {
+      "id": "b1e86b356b2a2a54ba24f53ad44936f1",
+      "title": "Sông Hương về đêm sẽ có diện mạo mới",
+      "link": "https://thanhnien.vn/song-huong-ve-dem-se-co-dien-mao-moi-18526072319204574.htm",
+      "summary": "Thành phố Huế đang nghiên cứu đầu tư dự án mới nhằm thắp sáng hai bờ sông Hương về đêm, đoạn từ Cồn Hến đến khu vực Văn thánh Huế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T13:31:00+07:00",
+      "fetched": "2026-07-23T22:47:01.933234+07:00"
+    },
+    {
+      "id": "4e5f4533cba7bcabb0a86dac0f8f653b",
+      "title": "6 tiêu chí bổ nhiệm hiệu trưởng khi sắp xếp trường học ở Hà Nội",
+      "link": "https://vnexpress.net/6-tieu-chi-bo-nhiem-hieu-truong-sau-sap-xep-o-ha-noi-5100933.html",
+      "summary": "Người hoàn thành tốt nhiệm vụ ba năm liên tiếp, trình độ chuyên môn cao hơn yêu cầu, độ tuổi phù hợp... được ưu tiên cho vị trí hiệu trưởng trường học sau sắp xếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T13:30:34+07:00",
+      "fetched": "2026-07-23T22:46:58.788856+07:00"
+    },
+    {
       "id": "86f456c102652e0392ca36314cf60d4c",
       "title": "Trao tặng ảnh liệt sĩ phục dựng: Hồi sinh những ký ức thiêng liêng",
       "link": "https://thanhnien.vn/trao-tang-anh-liet-si-phuc-dung-hoi-sinh-nhung-ky-uc-thieng-lieng-185260723194748293.htm",
@@ -461,6 +861,16 @@ window.newsData_2026_07_23 = {
       "category": "Tổng hợp",
       "published": "2026-07-23T13:16:00+07:00",
       "fetched": "2026-07-23T20:24:21.281363+07:00"
+    },
+    {
+      "id": "3c26cc2ffd981c06be78a1be887240fc",
+      "title": "HLV Kim Sang-sik: 'Áp lực vì chúng tôi từng vô địch'",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-ap-luc-vi-chung-toi-tung-vo-dich-5100945.html",
+      "summary": "HLV tuyển Việt Nam cho biết đội chịu nhiều áp lực khi bước vào giải với tư cách nhà đương kim vô địch, nhưng tin sức ép ấy sẽ được chuyển hóa thành sự tự tin tại ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T13:07:12+07:00",
+      "fetched": "2026-07-23T22:46:58.789020+07:00"
     },
     {
       "id": "827b26141143407cf44941b33195f0b6",
