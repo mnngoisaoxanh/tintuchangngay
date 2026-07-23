@@ -1,7 +1,157 @@
 window.newsData_2026_07_23 = {
   "date": "2026-07-23",
-  "lastUpdated": "2026-07-23T18:45:17.861922+07:00",
+  "lastUpdated": "2026-07-23T20:24:29.064997+07:00",
   "articles": [
+    {
+      "id": "8bc38e78ef4db5ee55568bccf77f3313",
+      "title": "Ghép da đầu ‘cứu’ đôi chân cho bé trai bị rắn hổ mang cắn",
+      "link": "https://tuoitre.vn/ghep-da-dau-cuu-doi-chan-cho-be-trai-bi-ran-ho-mang-can-100260723191034697.htm",
+      "summary": "Bị rắn hổ mang cắn, bé trai hơn 3 tuổi rơi vào tình trạng hoại tử lan rộng từ bàn chân lên đùi, nguy cơ phải cắt bỏ chi thể. Bằng kỹ thuật ghép da đầu tự thân, các bác sĩ Bệnh viện Bạch Mai đã che phủ thành công vùng khuyết hổng lớn, bảo tồn được đôi chân cho bệnh nhi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T20:24:23.301887+07:00",
+      "fetched": "2026-07-23T20:24:23.301923+07:00"
+    },
+    {
+      "id": "d5107b86d3d42f14cb76a82d499d962c",
+      "title": "Nguyễn Nhật tạo 'địa chấn', thắng hàng loạt siêu sao cầu lông",
+      "link": "https://tuoitre.vn/nguyen-nhat-tao-dia-chan-thang-hang-loat-sieu-sao-cau-long-100260723190925806.htm",
+      "summary": "Nguyễn Nhật - tay vợt người Ireland gốc Việt - đã tạo \"địa chấn\" ở siêu giải cầu lông Trung Quốc mở rộng (China Open) 2026, khi đánh bại hàng loạt tay vợt hùng mạnh trong top đầu thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T20:24:23.301836+07:00",
+      "fetched": "2026-07-23T20:24:23.301880+07:00"
+    },
+    {
+      "id": "c817a83900c9cccb376e6f57d1fb6f93",
+      "title": "Phó chủ tịch thường trực UBND TP.HCM Nguyễn Lộc Hà thăm thương binh tại Dĩ An, An Phú",
+      "link": "https://tuoitre.vn/pho-chu-tich-thuong-truc-ubnd-tphcm-nguyen-loc-ha-tham-thuong-binh-tai-di-an-an-phu-100260723185906993.htm",
+      "summary": "Khi lãnh đạo UBND TP.HCM thăm nhân kỷ niệm Ngày Thương binh - Liệt sĩ (27-7), các thương binh đều xúc động nhớ về đồng đội, cho biết rất cảm động khi theo dõi thông tin cuộc tìm kiếm liệt sĩ tại công viên Lê Thị Riêng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T20:24:23.301788+07:00",
+      "fetched": "2026-07-23T20:24:23.301828+07:00"
+    },
+    {
+      "id": "86d0dcf35d2e5f24259948246ab13020",
+      "title": "Ukraine liên tục tập kích 'Amazon của Nga', quyết gây sức ép kinh tế",
+      "link": "https://tuoitre.vn/ukraine-lien-tuc-tap-kich-amazon-cua-nga-quyet-gay-suc-ep-kinh-te-100260723192715226.htm",
+      "summary": "Drone Ukraine liên tục tấn công hệ thống kho bãi của Wildberries, nền tảng thương mại điện tử lớn nhất ở Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T20:24:23.301754+07:00",
+      "fetched": "2026-07-23T20:24:23.301783+07:00"
+    },
+    {
+      "id": "b613d71264d759cb58552b95df3b4865",
+      "title": "SASCO của tỉ phú Johnathan Hạnh Nguyễn lãi 2,4 tỉ đồng mỗi ngày",
+      "link": "https://tuoitre.vn/sasco-cua-ti-phu-johnathan-hanh-nguyen-lai-24-ti-dong-moi-ngay-100260723152332916.htm",
+      "summary": "Công ty dịch vụ hàng không do ông Johnathan Hạnh Nguyễn làm chủ tịch hội đồng quản trị báo lãi sau thuế 216 tỉ đồng trong quý 2, gấp đôi cùng kỳ năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T20:24:23.301717+07:00",
+      "fetched": "2026-07-23T20:24:23.301749+07:00"
+    },
+    {
+      "id": "174a81c5458a2118378260356fc43953",
+      "title": "Tranh cãi về việc thử nghiệm AI nhận diện khuôn mặt tại Australia",
+      "link": "https://tuoitre.vn/tranh-cai-ve-viec-thu-nghiem-ai-nhan-dien-khuon-mat-tai-australia-100260723144919881.htm",
+      "summary": "Lo ngại trước những tác động trái chiều, giới chuyên gia an ninh và bảo mật thông  tin tại Australia đã phát đi những cảnh  báo quan trọng về phạm vi ứng dụng của  công nghệ này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T20:24:23.301674+07:00",
+      "fetched": "2026-07-23T20:24:23.301712+07:00"
+    },
+    {
+      "id": "b125e03c51b05fd99791b56f498c2e3d",
+      "title": "Giá vàng thế giới bất ngờ giảm mạnh",
+      "link": "https://tuoitre.vn/gia-vang-the-gioi-bat-ngo-giam-manh-100260723193529635.htm",
+      "summary": "Tối 23-7, giá vàng thế giới bất ngờ giảm 48 USD/ounce, xuống còn 4.084 USD/ounce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T20:24:23.301418+07:00",
+      "fetched": "2026-07-23T20:24:23.301666+07:00"
+    },
+    {
+      "id": "f657c71e0cadd937b7df318f0ece8424",
+      "title": "Asiad 2026: Bóng đá nam và nữ Việt Nam có cơ hội vào tứ kết",
+      "link": "https://tuoitre.vn/asiad-2026-bong-da-nam-va-nu-viet-nam-co-co-hoi-vao-tu-ket-100260723142711817.htm",
+      "summary": "Kết quả bốc thăm môn bóng đá Asiad 2026 cho thấy đội tuyển U23 Việt Nam và đội tuyển nữ Việt Nam có thể vào tứ kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T20:24:23.301383+07:00",
+      "fetched": "2026-07-23T20:24:23.301413+07:00"
+    },
+    {
+      "id": "b403026f97a5f3221b82c7d8cda02c72",
+      "title": "Indonesia áp đảo về danh sách cầu thủ đắt giá nhất ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/indonesia-ap-dao-ve-danh-sach-cau-thu-dat-gia-nhat-asean-cup-2026-100260723165623705.htm",
+      "summary": "Trong số 10 ngôi sao đắt giá nhất ASEAN Cup 2026, Indonesia sở hữu đến 8 cầu thủ (chiếm tỉ lệ 80%). Bên cạnh đó là Xuân Son của Việt Nam và Teerasak Poeiphimai từ Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T20:24:23.301347+07:00",
+      "fetched": "2026-07-23T20:24:23.301378+07:00"
+    },
+    {
+      "id": "c54fa34899999c42cdca1b248cb99fb9",
+      "title": "Phạt chủ tiệm bánh mì ở Nha Trang 14 triệu đồng vì vi phạm nhiều quy định an toàn thực phẩm",
+      "link": "https://tuoitre.vn/phat-chu-tiem-banh-mi-o-nha-trang-14-trieu-dong-vi-vi-pham-nhieu-quy-dinh-an-toan-thuc-pham-100260723192401274.htm",
+      "summary": "UBND phường Nha Trang (Khánh Hòa) xử phạt chủ tiệm bánh mì nghi gây ngộ độc thực phẩm cho một số người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T20:24:23.301312+07:00",
+      "fetched": "2026-07-23T20:24:23.301342+07:00"
+    },
+    {
+      "id": "11e512aa0399527e5f7314a488b172f5",
+      "title": "Những hiện tượng 'gây bão' mạng xã hội tại World Cup 2026",
+      "link": "https://tuoitre.vn/nhung-hien-tuong-gay-bao-mang-xa-hoi-tai-world-cup-2026-100260723124312556.htm",
+      "summary": "Bên cạnh những trận cầu kịch tính, World Cup 2026 còn ghi dấu ấn đậm nét trên các nền tảng mạng xã hội nhờ những câu chuyện truyền cảm hứng, các hiện tượng độc đáo đến từ các cầu thủ và đội tuyển quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T20:24:23.301274+07:00",
+      "fetched": "2026-07-23T20:24:23.301307+07:00"
+    },
+    {
+      "id": "cb31b5208d24e23cdd59fe972a63c126",
+      "title": "Liên kết nông hộ để giữ 'chuẩn' cà phê Robusta từ vườn",
+      "link": "https://tuoitre.vn/lien-ket-nong-ho-de-giu-chuan-ca-phe-robusta-tu-vuon-100260723165310463.htm",
+      "summary": "Ở chiếc bàn tròn cuối xưởng, bà Nguyễn Thị Thủy, Trưởng phòng chất lượng Công ty cổ phần Golden Coffee, tuần tự ngửi bột cà phê khô, rót nước nóng ngửi hương ướt, hớt bọt rồi nếm theo quy trình thử nếm (cupping) chuẩn toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T20:24:23.301236+07:00",
+      "fetched": "2026-07-23T20:24:23.301269+07:00"
+    },
+    {
+      "id": "721f264181377637db7a486e6bb8104f",
+      "title": "VPBank SME kiến tạo hành trình học tập dành cho CEO doanh nghiệp",
+      "link": "https://tuoitre.vn/vpbank-sme-kien-tao-hanh-trinh-hoc-tap-danh-cho-ceo-doanh-nghiep-100260723194450031.htm",
+      "summary": "Alibaba Study Tour không chỉ là chuyến tham quan doanh nghiệp mà là chương trình đào tạo dành cho CEO. VPBank SME kỳ vọng đồng hành cùng doanh nghiệp nhỏ và vừa trong nâng cao năng lực quản trị, đổi mới và tăng trưởng bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T20:24:23.301194+07:00",
+      "fetched": "2026-07-23T20:24:23.301230+07:00"
+    },
+    {
+      "id": "44cde778d24894ac508943be8b5522f8",
+      "title": "'Bữa cơm tri ân' của lòng biết ơn",
+      "link": "https://tuoitre.vn/bua-com-tri-an-cua-long-biet-on-100260723190025856.htm",
+      "summary": "Ngày 23-7, nhiều cơ sở Đoàn tại TP.HCM tổ chức 'bữa cơm tri ân' tại các gia đình chính sách, gia đình liệt sĩ hướng về 79 năm Ngày Thương binh - Liệt sĩ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T20:24:23.301146+07:00",
+      "fetched": "2026-07-23T20:24:23.301188+07:00"
+    },
+    {
+      "id": "fb8399870fd9146d1728d2427f2b4379",
+      "title": "Đà Nẵng chưa có chủ trương di dời trung tâm hành chính về phía Nam",
+      "link": "https://tuoitre.vn/da-nang-chua-co-chu-truong-di-doi-trung-tam-hanh-chinh-ve-phia-nam-100260723190542715.htm",
+      "summary": "Đại diện Sở Xây dựng Đà Nẵng khẳng định thành phố chưa có bất kỳ chủ trương hay quyết định chính thức nào liên quan đến việc di dời trung tâm hành chính thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T20:24:23.301010+07:00",
+      "fetched": "2026-07-23T20:24:23.301137+07:00"
+    },
     {
       "id": "1e58e28d98304fa08072d5f51cd23d4d",
       "title": "Điều chỉnh giá xăng dầu sẽ không cố định theo ngày, doanh nghiệp được tự quyết",
@@ -303,6 +453,166 @@ window.newsData_2026_07_23 = {
       "fetched": "2026-07-23T15:11:37.208223+07:00"
     },
     {
+      "id": "86f456c102652e0392ca36314cf60d4c",
+      "title": "Trao tặng ảnh liệt sĩ phục dựng: Hồi sinh những ký ức thiêng liêng",
+      "link": "https://thanhnien.vn/trao-tang-anh-liet-si-phuc-dung-hoi-sinh-nhung-ky-uc-thieng-lieng-185260723194748293.htm",
+      "summary": "Thực hiện 'Chiến dịch cao điểm 500 ngày đêm đẩy mạnh tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ', Bộ Tư lệnh TP.HCM triển khai nhiều hoạt động tri ân thiết thực, nhân văn. Nổi bật trong đó là chương trình phục dựng miễn phí ảnh chân dung các anh hùng liệt sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T13:16:00+07:00",
+      "fetched": "2026-07-23T20:24:21.281363+07:00"
+    },
+    {
+      "id": "827b26141143407cf44941b33195f0b6",
+      "title": "Người dân nước nào sống thọ nhất châu Á năm 2100?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-nao-song-tho-nhat-chau-a-nam-2100-5100935.html",
+      "summary": "Tuổi thọ trung bình của người dân nước này được dự báo lên đến gần 95 tuổi vào năm 2100.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T13:03:00+07:00",
+      "fetched": "2026-07-23T20:24:18.308015+07:00"
+    },
+    {
+      "id": "059c697ef656be4e11f59696bdf7caf2",
+      "title": "Cách lấy lại vài GB bộ nhớ trên điện thoại Galaxy",
+      "link": "https://thanhnien.vn/cach-lay-lai-vai-gb-bo-nho-tren-dien-thoai-galaxy-185260722225850798.htm",
+      "summary": "Chỉ với một mã quay số, người dùng Galaxy có thể xóa tệp nhật ký hệ thống và giải phóng tới 2 GB dung lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T13:02:00+07:00",
+      "fetched": "2026-07-23T20:24:21.281462+07:00"
+    },
+    {
+      "id": "881cb0d65461612434d5050fd6e88edc",
+      "title": "Phong cách Hoàng tử George ở tuổi 13",
+      "link": "https://vnexpress.net/phong-cach-hoang-tu-george-o-tuoi-13-5100909.html",
+      "summary": "Hoàng tử George cao khoảng 1,75 m, diện đồ thanh lịch và giản dị khi bước vào tuổi niên thiếu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T13:00:00+07:00",
+      "fetched": "2026-07-23T20:24:18.308137+07:00"
+    },
+    {
+      "id": "3ff13730dd3058dc67b56266bcdc0ac1",
+      "title": "'Quỹ phụ huynh 5 triệu một năm chủ yếu chi cho giáo viên, ban giám hiệu'",
+      "link": "https://vnexpress.net/hoi-phu-huynh-ban-dai-dien-cha-me-hoc-sinh-quy-phu-huynh-5-trieu-mot-nam-chu-yeu-chi-cho-giao-vien-ban-giam-hieu-5100851.html",
+      "summary": "Phần lớn các khoản chi đều dành cho giáo viên, ban giám hiệu vào các dịp 20/11, lễ, Tết... trong khi học sinh đi dã ngoại vẫn phải đóng riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T13:00:00+07:00",
+      "fetched": "2026-07-23T20:24:18.308255+07:00"
+    },
+    {
+      "id": "4df3091d20c03e016a7284dbdd863e0f",
+      "title": "Hối hận vì lấy chồng chạy bầu",
+      "link": "https://vnexpress.net/bao-hanh-gia-dinh-hoi-han-vi-lay-chong-chay-bau-5100811.html",
+      "summary": "Có lần anh đi nhậu đến gần nửa đêm mới về, tôi chỉ hỏi vài câu vì lo lắng, anh hất đổ mâm cơm rồi tát tôi ngay trước cửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T13:00:00+07:00",
+      "fetched": "2026-07-23T20:24:18.308374+07:00"
+    },
+    {
+      "id": "1942812a0f6aed1f389e91361333259b",
+      "title": "30 năm chủ động kiểm soát đường huyết",
+      "link": "https://vnexpress.net/30-nam-chu-dong-kiem-soat-duong-huyet-5100833.html",
+      "summary": "Mắc đái tháo đường type 1 từ năm 5 tuổi, Minh Ngọc (33 tuổi, Hà Nội) sống kỷ luật từ bữa ăn, giấc ngủ và theo dõi đường huyết liên tục để kiểm soát bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T13:00:00+07:00",
+      "fetched": "2026-07-23T20:24:18.308474+07:00"
+    },
+    {
+      "id": "bd540ab2074dd4598636aedaab33b9ac",
+      "title": "Xem nhanh 20h ngày 23.7: Vì sao Metro nhanh nhưng chưa đủ tiện? | Cán bộ đến nhà làm sổ đỏ cho dân",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-237-vi-sao-metro-nhanh-nhung-chua-du-tien-can-bo-den-nha-lam-so-do-cho-dan-185260723185019028.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 23.7 có nhiều tin tức đáng chú ý về: Cán bộ đến tận nhà làm sổ đỏ cho dân; giấc mơ Metro: Nút thắt dặm cuối;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T13:00:00+07:00",
+      "fetched": "2026-07-23T20:24:21.281550+07:00"
+    },
+    {
+      "id": "60a9ace68ac4d7d9b72ae140ce38c6a5",
+      "title": "Gia cảnh éo le của gia đình có 2 chị em bị sét đánh tử vong",
+      "link": "https://thanhnien.vn/gia-canh-eo-le-cua-gia-dinh-co-2-chi-em-bi-set-danh-tu-vong-185260723111948531.htm",
+      "summary": "Đi làm nương về trong cơn giông, 3 mẹ con ở xã Mường Nhé (Điện Biên) bị sét đánh trúng. Hậu quả, 2 người con tử vong, người mẹ bị thương phải đưa đi cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T12:55:00+07:00",
+      "fetched": "2026-07-23T20:24:21.281635+07:00"
+    },
+    {
+      "id": "1436a32163ccf4a461182432d3a7bfb5",
+      "title": "Hàn Quốc bất ngờ 'chuyển hướng tiếp cận' Triều Tiên",
+      "link": "https://thanhnien.vn/han-quoc-bat-ngo-chuyen-huong-tiep-can-trieu-tien-185260723193805619.htm",
+      "summary": "Bộ trưởng Thống nhất Hàn Quốc Chung Dong-young tuyên bố Seoul đang chuyển từ cách tiếp cận 'phi hạt nhân hóa trước tiên' sang 'hòa bình trước tiên' trong chính sách với CHDCND Triều Tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T12:46:00+07:00",
+      "fetched": "2026-07-23T20:24:21.281736+07:00"
+    },
+    {
+      "id": "9cc75dbfae4d29e6928398b1162723c2",
+      "title": "'Soái ca' phim truyền hình phía nam giờ ra sao?",
+      "link": "https://thanhnien.vn/soai-ca-phim-truyen-hinh-phia-nam-gio-ra-sao-185260723184614242.htm",
+      "summary": "Là gương mặt quen thuộc của màn ảnh phía nam với những vai 'soái ca' phong trần, lãng tử, diễn viên Thanh Thức vừa đóng máy một dự án phim truyền hình được quay ở các tỉnh miền Tây Nam bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T12:46:00+07:00",
+      "fetched": "2026-07-23T20:24:21.281828+07:00"
+    },
+    {
+      "id": "e89b1f433e54f21d73b9092894fbfdb3",
+      "title": "Tài xế lúng túng khi CSGT kiểm tra dụng cụ thoát hiểm trên xe khách",
+      "link": "https://vnexpress.net/tai-xe-lung-tung-khi-csgt-kiem-tra-dung-cu-thoat-hiem-tren-xe-khach-5100821.html",
+      "summary": "Lực lượng chức năng kiểm tra hàng loạt xe khách trên Đại lộ Thăng Long, phát hiện nhiều phương tiện thiếu hoặc bố trí không đúng quy định búa phá kính, dây đai an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T12:45:49+07:00",
+      "fetched": "2026-07-23T20:24:18.308567+07:00"
+    },
+    {
+      "id": "e2ec197fdbfeee50ad975678eb159c91",
+      "title": "3 ngày 2 đêm ngắm sao, xem trình diễn tên lửa tại Tuần lễ Thiên văn quốc tế",
+      "link": "https://thanhnien.vn/3-ngay-2-dem-ngam-sao-xem-trinh-dien-ten-lua-tai-tuan-le-thien-van-quoc-te-185260720140450531.htm",
+      "summary": "Ngày mai 24.6, Tuần lễ Thiên văn cộng đồng quốc tế 2026 chính thức bắt đầu và kéo dài trong 3 ngày 2 đêm với nhiều hoạt động 'phiêu lưu cùng vũ trụ trăng sao' đặc sắc trong dịp hè 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T12:45:00+07:00",
+      "fetched": "2026-07-23T20:24:21.281913+07:00"
+    },
+    {
+      "id": "7708461c9dfc74f94cccc4a807f7a0bc",
+      "title": "Iran tuyên bố phá hủy 'radar mắt thần' của lá chắn THAAD Mỹ",
+      "link": "https://vnexpress.net/iran-tuyen-bo-pha-huy-radar-mat-than-cua-la-chan-thaad-my-5100925.html",
+      "summary": "Vệ binh Iran thông báo tập kích trả đũa Mỹ và phá hủy nhiều khí tài phòng không đối phương, trong đó có radar AN/TPY-2 của lá chắn THAAD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T12:37:49+07:00",
+      "fetched": "2026-07-23T20:24:18.308683+07:00"
+    },
+    {
+      "id": "7708461c9dfc74f94cccc4a807f7a0bc",
+      "title": "Iran tuyên bố phá hủy 'radar mắt thần' của lá chắn THAAD Mỹ",
+      "link": "https://vnexpress.net/iran-tuyen-bo-pha-huy-radar-mat-than-cua-la-chan-thaad-my-5100925.html",
+      "summary": "Vệ binh Iran thông báo tập kích trả đũa Mỹ và phá hủy nhiều khí tài phòng không đối phương, trong đó có radar AN/TPY-2 của lá chắn THAAD.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-23T12:37:49+07:00",
+      "fetched": "2026-07-23T20:24:24.622330+07:00"
+    },
+    {
+      "id": "f260d996a9f38cf31f021342378ba7a2",
+      "title": "TP.HCM chốt thời hạn xử lý các bãi xe container trên đường Võ Chí Công",
+      "link": "https://thanhnien.vn/tphcm-chot-thoi-han-xu-ly-cac-bai-xe-container-tren-duong-vo-chi-cong-185260723164056614.htm",
+      "summary": "Sau nhiều phản ánh về tình trạng xe container cắt ngang dòng xe, gây ùn tắc và mất an toàn giao thông, TP.HCM đã chốt thời hạn xử lý các điểm kết nối từ bãi xe container ra đường Võ Chí Công trước ngày 25.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T12:17:00+07:00",
+      "fetched": "2026-07-23T20:24:21.281997+07:00"
+    },
+    {
       "id": "368751b176b2052f1fb20195d02daf17",
       "title": "Vì sao MacBook, iPad bất ngờ tăng giá hàng triệu đồng tại Việt Nam?",
       "link": "https://tuoitre.vn/vi-sao-macbook-ipad-bat-ngo-tang-gia-hang-trieu-dong-tai-viet-nam-100260723082529483.htm",
@@ -451,6 +761,176 @@ window.newsData_2026_07_23 = {
       "category": "Tổng hợp",
       "published": "2026-07-23T12:16:15.811983+07:00",
       "fetched": "2026-07-23T12:16:15.812116+07:00"
+    },
+    {
+      "id": "fe878d8beeb958a3889e05c6fdc8f493",
+      "title": "Cà Mau gia hạn gói thầu bệnh viện 1.200 giường đến ngày 15.9",
+      "link": "https://thanhnien.vn/ca-mau-gia-han-goi-thau-benh-vien-1200-giuong-den-ngay-159-185260723180040924.htm",
+      "summary": "Nhận định gia hạn gói thầu số 60 sau khi hợp đồng đã hết thời gian thực hiện là chưa phù hợp quy định, Sở Xây dựng vẫn kiến nghị UBND tỉnh Cà Mau chấp thuận chủ trương để tháo gỡ khó khăn, sớm hoàn thành bệnh viện 1.200 giường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T12:12:00+07:00",
+      "fetched": "2026-07-23T20:24:21.282080+07:00"
+    },
+    {
+      "id": "bb6ac3ba619a18833bc4dd5cae2cbc12",
+      "title": "Việt Nam đặt mục tiêu vào nhóm 75 trung tâm tài chính hàng đầu thế giới",
+      "link": "https://thanhnien.vn/viet-nam-dat-muc-tieu-vao-nhom-75-trung-tam-tai-chinh-hang-dau-the-gioi-185260723184230759.htm",
+      "summary": "Phó thủ tướng Nguyễn Văn Thắng vừa ký quyết định phê duyệt Kế hoạch phát triển Trung tâm Tài chính quốc tế tại Việt Nam đến năm 2035.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T12:03:00+07:00",
+      "fetched": "2026-07-23T20:24:21.282161+07:00"
+    },
+    {
+      "id": "c935d3914d97db611411b037f80f3587",
+      "title": "Phú Quốc trong top 10 đảo được quan tâm nhất thế giới",
+      "link": "https://vnexpress.net/phu-quoc-trong-top-10-dao-duoc-quan-tam-nhat-the-gioi-5100716.html",
+      "summary": "Phú Quốc nổi lên như hòn đảo hấp dẫn bậc nhất toàn cầu năm 2026 nhờ những trải nghiệm cao cấp nhưng giá hợp lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T12:00:00+07:00",
+      "fetched": "2026-07-23T20:24:18.308805+07:00"
+    },
+    {
+      "id": "c56e6096f75e8aa66eb6d9a4e6d5724d",
+      "title": "Tính toán của Mỹ khi dồn thêm quân, vũ khí tới gần Iran",
+      "link": "https://vnexpress.net/tinh-toan-cua-my-khi-don-them-quan-vu-khi-toi-gan-iran-5100578.html",
+      "summary": "Mỹ liên tiếp điều thêm tiêm kích, đặc nhiệm tới Trung Đông, dường như nhằm chuẩn bị nhiều kịch bản quân sự và gia tăng sức ép với Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T12:00:00+07:00",
+      "fetched": "2026-07-23T20:24:18.308908+07:00"
+    },
+    {
+      "id": "1bbe93f80849f29ed6c1eda5ce7780cf",
+      "title": "Vì sao bố mẹ khỏe mạnh vẫn sinh con mắc bệnh hiểm nghèo?",
+      "link": "https://vnexpress.net/vi-sao-bo-me-khoe-manh-van-sinh-con-mac-benh-hiem-ngheo-5099609.html",
+      "summary": "Nhiều cặp vợ chồng sở hữu thể trạng hoàn toàn bình thường, gia đình không có tiền sử bệnh tật nhưng vẫn sinh con mắc các dị tật di truyền nghiêm trọng do gene lặn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T12:00:00+07:00",
+      "fetched": "2026-07-23T20:24:18.308999+07:00"
+    },
+    {
+      "id": "47712bde3c6eb3791e6bb942fb35c7d4",
+      "title": "Wink Unscripted by Hyatt tặng đêm nghỉ miễn phí ngày 24/7",
+      "link": "https://vnexpress.net/wink-unscripted-by-hyatt-tang-dem-nghi-mien-phi-ngay-24-7-5100887.html",
+      "summary": "Wink Unscripted by Hyatt chọn ngày 24/7 làm Brand Day, quảng bá mô hình Stay24 với chương trình tặng một đêm nghỉ miễn phí cùng chuỗi hoạt động trải nghiệm tại hệ thống khách sạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T12:00:00+07:00",
+      "fetched": "2026-07-23T20:24:18.309098+07:00"
+    },
+    {
+      "id": "a02a8e0740e6a8c3c290e640150aa2ca",
+      "title": "Mùa hè ăn măng cụt thay rau được không?",
+      "link": "https://vnexpress.net/mua-he-an-mang-cut-thay-rau-duoc-khong-5100880.html",
+      "summary": "Tôi nghe nói măng cụt rất giàu vitamin C, có thể ăn thay rau để tăng cường sức đề kháng được không? (Thanh Hậu, 52 tuổi, Nghệ An)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T12:00:00+07:00",
+      "fetched": "2026-07-23T20:24:18.309209+07:00"
+    },
+    {
+      "id": "f2cab006724dc8381079d81e194fe52c",
+      "title": "200 cán bộ, nhân viên Vedan Việt Nam hiến máu nhân đạo",
+      "link": "https://vnexpress.net/200-can-bo-nhan-vien-vedan-viet-nam-hien-mau-nhan-dao-5100878.html",
+      "summary": "Chương trình hiến máu nhân đạo trở thành một hoạt động thường niên của Vedan Việt Nam với sự hưởng ứng tích cực từ cán bộ nhân viên, từ 2020.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T12:00:00+07:00",
+      "fetched": "2026-07-23T20:24:18.309314+07:00"
+    },
+    {
+      "id": "87a5a5887d6ff58ee6745144c97abdbc",
+      "title": "Cụ ông 70 tuổi vượt qua hai ca mổ ung thư phổi trong 13 ngày",
+      "link": "https://vnexpress.net/cu-ong-70-tuoi-vuot-qua-hai-ca-mo-ung-thu-phoi-trong-13-ngay-5100656.html",
+      "summary": "Sau ca mổ xác định giai đoạn bệnh, bệnh nhân được phẫu thuật triệt căn bằng robot khi ung thư còn ở giai đoạn sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T12:00:00+07:00",
+      "fetched": "2026-07-23T20:24:18.309404+07:00"
+    },
+    {
+      "id": "c56e6096f75e8aa66eb6d9a4e6d5724d",
+      "title": "Tính toán của Mỹ khi dồn thêm quân, vũ khí tới gần Iran",
+      "link": "https://vnexpress.net/tinh-toan-cua-my-khi-don-them-quan-vu-khi-toi-gan-iran-5100578.html",
+      "summary": "Mỹ liên tiếp điều thêm tiêm kích, đặc nhiệm tới Trung Đông, dường như nhằm chuẩn bị nhiều kịch bản quân sự và gia tăng sức ép với Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-23T12:00:00+07:00",
+      "fetched": "2026-07-23T20:24:24.622440+07:00"
+    },
+    {
+      "id": "30e145853210b074adae51bb5ef42fa7",
+      "title": "Nhiều ô tô thủng lốp vì mảnh kim loại sắc nhọn trên cao tốc Đà Nẵng - Quảng Ngãi",
+      "link": "https://thanhnien.vn/nhieu-o-to-thung-lop-vi-manh-kim-loai-sac-nhon-tren-cao-toc-da-nang-quang-ngai-185260723181732583.htm",
+      "summary": "Hàng loạt mảnh kim loại sắc nhọn bất ngờ xuất hiện trên cao tốc Đà Nẵng - Quảng Ngãi khiến nhiều ô tô đang lưu thông bị thủng lốp, phải dừng khẩn cấp tại điểm dừng xe để chờ cứu hộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T11:58:00+07:00",
+      "fetched": "2026-07-23T20:24:21.282242+07:00"
+    },
+    {
+      "id": "a50b1e845c8e0cfba3c32c900dd746b0",
+      "title": "Đội tuyển Việt Nam tổng duyệt trước trận ra quân ASEAN Cup",
+      "link": "https://vnexpress.net/doi-tuyen-viet-nam-tong-duyet-truoc-tran-ra-quan-asean-cup-5100931.html",
+      "summary": "Thầy trò HLV Kim Sang-sik có buổi tập làm quen sân Chonburi trước trận ra quân gặp Timor Leste ASEAN Cup 2026, chiều 23/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T11:57:51+07:00",
+      "fetched": "2026-07-23T20:24:18.309505+07:00"
+    },
+    {
+      "id": "a50b1e845c8e0cfba3c32c900dd746b0",
+      "title": "Đội tuyển Việt Nam tổng duyệt trước trận ra quân ASEAN Cup",
+      "link": "https://vnexpress.net/doi-tuyen-viet-nam-tong-duyet-truoc-tran-ra-quan-asean-cup-5100931.html",
+      "summary": "Thầy trò HLV Kim Sang-sik có buổi tập làm quen sân Chonburi trước trận ra quân gặp Timor Leste ASEAN Cup 2026, chiều 23/7.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-23T11:57:51+07:00",
+      "fetched": "2026-07-23T20:24:29.056728+07:00"
+    },
+    {
+      "id": "9453bbc669d73accfb48000c9de0287a",
+      "title": "Đề xuất cấm trẻ dưới 16 tuổi bình luận, chia sẻ trên mạng xã hội",
+      "link": "https://vnexpress.net/de-xuat-cam-tre-duoi-16-tuoi-binh-luan-chia-se-tren-mang-xa-hoi-5100915.html",
+      "summary": "Dự thảo sửa đổi Nghị định 147/2024 về quản lý sử dụng Internet đề xuất trẻ dưới 16 tuổi sẽ không được đăng bài, bình luận hay chia sẻ trên mạng xã hội.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-23T11:57:11+07:00",
+      "fetched": "2026-07-23T20:24:27.750157+07:00"
+    },
+    {
+      "id": "d6bcd0994bc661e7476958fa29b69a5d",
+      "title": "Kiến nghị cơ chế lãi suất để huy động 500.000 tỉ đồng tiền nhàn rỗi trong dân",
+      "link": "https://thanhnien.vn/kien-nghi-co-che-lai-suat-de-huy-dong-500000-ti-dong-tien-nhan-roi-trong-dan-185260723142926471.htm",
+      "summary": "Khoảng 500.000 tỉ đồng tiền nhàn rỗi trong dân nhưng chưa huy động được vào nền kinh tế và cần có cơ chế lãi suất, giải pháp hợp lý để khơi thông nguồn lực tài chính khổng lồ này, từng bước giảm phụ thuộc vào tín dụng ngân hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T11:54:00+07:00",
+      "fetched": "2026-07-23T20:24:21.282327+07:00"
+    },
+    {
+      "id": "13fb95d2bc1335cb8ebe4d481bacd9b3",
+      "title": "Đường 4 làn xe trên kênh thoát nước sân bay Tân Sơn Nhất dần thành hình",
+      "link": "https://thanhnien.vn/duong-4-lan-xe-tren-kenh-thoat-nuoc-san-bay-tan-son-nhat-dan-thanh-hinh-185260723183521457.htm",
+      "summary": "Dự án cải tạo kênh A41 thoát nước cho sân bay Tân Sơn Nhất (TP.HCM) đạt 65% khối lượng, dự kiến hình thành đường 4 làn xe và thông xe tháng 12.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T11:50:00+07:00",
+      "fetched": "2026-07-23T20:24:21.282406+07:00"
+    },
+    {
+      "id": "b0c90e9005d44f9bb4a9066a13446ab3",
+      "title": "Máy bay cảnh báo sớm Mỹ phát tín hiệu khẩn giữa đợt tập kích Iran",
+      "link": "https://vnexpress.net/may-bay-canh-bao-som-my-phat-tin-hieu-khan-giua-dot-tap-kich-iran-5100882.html",
+      "summary": "Máy bay E-3 Sentry phát tín hiệu khẩn nguy trên vùng trời Arab Saudi, giữa lúc Mỹ tiến hành chiến dịch tập kích Iran, chưa rõ nguyên nhân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-23T11:44:19+07:00",
+      "fetched": "2026-07-23T20:24:24.622542+07:00"
     },
     {
       "id": "9d809711cce4f33a9add1a9e24401b73",
