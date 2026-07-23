@@ -1,7 +1,87 @@
 window.newsData_2026_07_24 = {
   "date": "2026-07-24",
-  "lastUpdated": "2026-07-24T00:08:55.664224+07:00",
+  "lastUpdated": "2026-07-24T01:59:08.932672+07:00",
   "articles": [
+    {
+      "id": "9193b3d65b6c59c4cbe5b600ac301f38",
+      "title": "Nghịch lý y tế Hàn Quốc: Ít bác sĩ nhưng tuổi thọ tốp đầu thế giới",
+      "link": "https://tuoitre.vn/nghich-ly-y-te-han-quoc-it-bac-si-nhung-tuoi-tho-top-dau-the-gioi-100260723213452545.htm",
+      "summary": "Số liệu mới cho thấy Hàn Quốc đang đạt tuổi thọ thuộc nhóm cao nhất trong các nước phát triển dù là một trong những quốc gia có tỉ lệ bác sĩ thấp nhất OECD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:59:00.609278+07:00",
+      "fetched": "2026-07-24T01:59:00.609345+07:00"
+    },
+    {
+      "id": "07813c850a8ae85aa4816a9eb8998e66",
+      "title": "EVN được, mất gì khi mở rộng đối tượng tham gia cơ chế mua bán điện trực tiếp?",
+      "link": "https://tuoitre.vn/evn-duoc-mat-gi-khi-mo-rong-doi-tuong-tham-gia-co-che-mua-ban-dien-truc-tiep-10026072317480852.htm",
+      "summary": "Việc mở rộng đối tượng tham gia cơ chế mua bán điện trực tiếp liệu có tạo nên những lo ngại trục lợi chính sách mà EVN đặt ra khi thị trường điện cạnh tranh chưa phát triển hoàn chỉnh?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:59:00.609206+07:00",
+      "fetched": "2026-07-24T01:59:00.609268+07:00"
+    },
+    {
+      "id": "9571c122c4af7a81bf83e7397f3dca37",
+      "title": "Xúc động hành trình gọi tên những anh hùng đã hóa thành Tổ quốc",
+      "link": "https://tuoitre.vn/xuc-dong-hanh-trinh-goi-ten-nhung-anh-hung-da-hoa-thanh-to-quoc-100260723171251889.htm",
+      "summary": "Tọa đàm - cầu truyền hình Tìm lại tên Anh do Đài Phát thanh - Truyền hình TP.HCM (HTV) thực hiện là cuộc gặp gỡ thiêng liêng giữa quá khứ và hiện tại, giữa những người còn sống với những người đã ngã xuống vì độc lập dân tộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:59:00.609126+07:00",
+      "fetched": "2026-07-24T01:59:00.609195+07:00"
+    },
+    {
+      "id": "99bfb5e929197049f713cb1ec713abb0",
+      "title": "World Cup 2034 sắp có thay đổi lịch sử",
+      "link": "https://tuoitre.vn/world-cup-2034-sap-co-thay-doi-lich-su-100260723223512728.htm",
+      "summary": "Liên đoàn Bóng đá thế giới (FIFA) đã bắt tay vào công việc chuẩn bị cho hai kỳ World Cup tiếp theo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:59:00.609033+07:00",
+      "fetched": "2026-07-24T01:59:00.609093+07:00"
+    },
+    {
+      "id": "05cd2739ac42536681de553063cc886f",
+      "title": "Doanh nghiệp Việt muốn có quy định ràng buộc để thuận lợi trong kết nối với khối FDI",
+      "link": "https://tuoitre.vn/doanh-nghiep-viet-muon-co-quy-dinh-rang-buoc-de-thuan-loi-trong-ket-noi-voi-khoi-fdi-100260723212636756.htm",
+      "summary": "Ngày 23-7, Hội Doanh nhân trẻ Việt Nam phối hợp với UBND tỉnh Ninh Bình và Hội Doanh nhân trẻ tỉnh Ninh Bình tổ chức vòng đối thoại địa phương Diễn đàn Kinh tế tư nhân Việt Nam 2026 (VPSF 2026).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:59:00.608959+07:00",
+      "fetched": "2026-07-24T01:59:00.609022+07:00"
+    },
+    {
+      "id": "5ab1078bce6c977eb5a487644418fbf4",
+      "title": "EU thông qua gói trừng phạt lớn nhất trong 4 năm nhằm vào Nga",
+      "link": "https://tuoitre.vn/eu-thong-qua-goi-trung-phat-lon-nhat-trong-4-nam-nham-vao-nga-100260723223824865.htm",
+      "summary": "Gói trừng phạt tập trung siết lĩnh vực tài chính, tiền mã hóa và giữ nguyên mức giá trần đối với dầu Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:59:00.608884+07:00",
+      "fetched": "2026-07-24T01:59:00.608948+07:00"
+    },
+    {
+      "id": "725f7d5376b69633d71401cb5da2471e",
+      "title": "Venezuela cần đến 50 tỉ USD để tái thiết sau thảm họa động đất",
+      "link": "https://tuoitre.vn/venezuela-can-den-50-ti-usd-de-tai-thiet-sau-tham-hoa-dong-dat-100260723224704956.htm",
+      "summary": "Thảm họa động đất Venezuela đã gây thiệt hại vật chất ước tính 19,6 tỉ USD, nhưng chi phí tái thiết có thể lên đến 50 tỉ USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:59:00.608797+07:00",
+      "fetched": "2026-07-24T01:59:00.608871+07:00"
+    },
+    {
+      "id": "469e6ac80587b2ce016dd24176da4bdf",
+      "title": "Giá dầu vượt mốc 100 USD/thùng, thị trường chứng khoán nhiều nơi phản ứng tiêu cực",
+      "link": "https://tuoitre.vn/gia-dau-vuot-moc-100-usd-thung-thi-truong-chung-khoan-nhieu-noi-phan-ung-tieu-cuc-1002607232323243.htm",
+      "summary": "Giá dầu thế giới tăng sốc sau khi lực lượng Houthi do Iran hậu thuẫn tiếp tục tấn công tàu thuyền trên Biển Đỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:59:00.608623+07:00",
+      "fetched": "2026-07-24T01:59:00.608781+07:00"
+    },
     {
       "id": "f564c28b632f102d4cd54d0ce4a5ae36",
       "title": "Tây Ninh đẩy nhanh tiến độ giải phóng mặt bằng vành đai 4 TP.HCM, có xã đã đạt 100% tiến độ",
@@ -151,6 +231,226 @@ window.newsData_2026_07_24 = {
       "category": "Tổng hợp",
       "published": "2026-07-24T00:08:47.347913+07:00",
       "fetched": "2026-07-24T00:08:47.348085+07:00"
+    },
+    {
+      "id": "964d878215e4010e9381927a16e10bef",
+      "title": "4 xét nghiệm giúp phát hiện sớm bệnh tim trước khi có triệu chứng",
+      "link": "https://thanhnien.vn/4-xet-nghiem-giup-phat-hien-som-benh-tim-truoc-khi-co-trieu-chung-185260723003950036.htm",
+      "summary": "Không ít người chỉ phát hiện mình bị bệnh tim sau khi bị đau tim, suy tim hoặc đột quỵ. Do vậy, tầm soát sớm rất quan trọng, đặc biệt ở người có nguy cơ cao như bị huyết áp cao, tiểu đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T18:07:00+07:00",
+      "fetched": "2026-07-24T01:58:58.242174+07:00"
+    },
+    {
+      "id": "32d844bb5aba28185ba741e437fa82c0",
+      "title": "6 thực phẩm tốt cho sức khỏe khi về già",
+      "link": "https://vnexpress.net/6-thuc-pham-tot-cho-suc-khoe-khi-ve-gia-5100863.html",
+      "summary": "Cá béo, rau lá xanh, quả mọng, dầu ô liu giàu dưỡng chất, hỗ trợ tim mạch, não bộ, xương và cơ bắp khi tuổi tác tăng lên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T18:00:00+07:00",
+      "fetched": "2026-07-24T01:58:55.069620+07:00"
+    },
+    {
+      "id": "f31c337c16f483f8cce2efa0ae0bbbd6",
+      "title": "Cảnh sát Michigan phát hiện chiêu gắn ốc vít để 'đổ ké' ở trạm xăng",
+      "link": "https://vnexpress.net/canh-sat-michigan-phat-hien-chieu-gan-oc-vit-de-do-ke-o-tram-xang-5100818.html",
+      "summary": "Kẻ gian lận tại Michigan khoan một lỗ vào bộ phận giữ vòi bơm xăng để số tiền mua xăng được tính vào giao dịch của khách hàng trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T18:00:00+07:00",
+      "fetched": "2026-07-24T01:58:55.069806+07:00"
+    },
+    {
+      "id": "b8422f43e4d7ca5fe4aca9568e500c84",
+      "title": "Lỗ hổng bảo mật có thể giúp Iran tập kích lính Mỹ ở vùng Vịnh",
+      "link": "https://vnexpress.net/lo-hong-bao-mat-co-the-giup-iran-tap-kich-linh-my-o-vung-vinh-5099878.html",
+      "summary": "Lỗ hổng trong giao thức chuyển vùng và dữ liệu định vị quảng cáo dường như đã giúp Iran tìm vị trí lính Mỹ tại Trung Đông để tập kích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T18:00:00+07:00",
+      "fetched": "2026-07-24T01:58:55.069981+07:00"
+    },
+    {
+      "id": "f31c337c16f483f8cce2efa0ae0bbbd6",
+      "title": "Cảnh sát Michigan phát hiện chiêu gắn ốc vít để 'đổ ké' ở trạm xăng",
+      "link": "https://vnexpress.net/canh-sat-michigan-phat-hien-chieu-gan-oc-vit-de-do-ke-o-tram-xang-5100818.html",
+      "summary": "Kẻ gian lận tại Michigan khoan một lỗ vào bộ phận giữ vòi bơm xăng để số tiền mua xăng được tính vào giao dịch của khách hàng trước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-23T18:00:00+07:00",
+      "fetched": "2026-07-24T01:59:02.360706+07:00"
+    },
+    {
+      "id": "b8422f43e4d7ca5fe4aca9568e500c84",
+      "title": "Lỗ hổng bảo mật có thể giúp Iran tập kích lính Mỹ ở vùng Vịnh",
+      "link": "https://vnexpress.net/lo-hong-bao-mat-co-the-giup-iran-tap-kich-linh-my-o-vung-vinh-5099878.html",
+      "summary": "Lỗ hổng trong giao thức chuyển vùng và dữ liệu định vị quảng cáo dường như đã giúp Iran tìm vị trí lính Mỹ tại Trung Đông để tập kích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-23T18:00:00+07:00",
+      "fetched": "2026-07-24T01:59:02.360882+07:00"
+    },
+    {
+      "id": "e36ef0ec605ba0fe3560d117448aea06",
+      "title": "3 việc không nên làm trong 30 phút trước khi đo huyết áp",
+      "link": "https://thanhnien.vn/3-viec-khong-nen-lam-trong-30-phut-truoc-khi-do-huyet-ap-185260723183034026.htm",
+      "summary": "Đo huyết áp giúp phát hiện sớm nguy cơ huyết áp cao, bệnh tim và đột quỵ. Nhưng chỉ số huyết áp có thể tăng hoặc giảm tạm thời do một số thói quen, khiến kết quả không phản ánh đúng huyết áp thực tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T17:16:00+07:00",
+      "fetched": "2026-07-24T01:58:58.242355+07:00"
+    },
+    {
+      "id": "04cc9c1305d7f32f2bffe5b0f2b07d70",
+      "title": "Đi bộ tốc độ nào giúp đốt mỡ hiệu quả nhất?",
+      "link": "https://thanhnien.vn/di-bo-toc-do-nao-giup-dot-mo-hieu-qua-nhat-185260723183653683.htm",
+      "summary": "Tốc độ đi bộ sẽ ảnh hưởng đến cách thức cơ thể sử dụng và mức tiêu hao calo. Đi quá chậm sẽ đốt ít calo, trong khi đi quá nhanh lại khó duy trì lâu dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T17:13:00+07:00",
+      "fetched": "2026-07-24T01:58:58.242518+07:00"
+    },
+    {
+      "id": "f0b80799428b64649864c321c95b555f",
+      "title": "5 món giàu magie giúp ngủ ngon",
+      "link": "https://vnexpress.net/5-mon-giau-magie-giup-ngu-ngon-5100377.html",
+      "summary": "Đậu nành Nhật, đậu đen, hạt chia, chocolate đen và hạt điều cung cấp magie, hỗ trợ thư giãn hệ thần kinh, giúp cơ thể dễ vào giấc ngủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T17:07:00+07:00",
+      "fetched": "2026-07-24T01:58:55.070192+07:00"
+    },
+    {
+      "id": "53d36c49d0ea01074ba3bc666ab8f560",
+      "title": "Né gần gũi vợ nhiều tháng, người đàn ông phát hiện rối loạn chuyển hóa",
+      "link": "https://vnexpress.net/ne-gan-gui-vo-nhieu-thang-nguoi-dan-ong-phat-hien-roi-loan-chuyen-hoa-5099961.html",
+      "summary": "Kết hôn đã 12 năm, anh Thành, 43 tuổi, chưa từng nghĩ có ngày mình phải đến phòng khám nam khoa chỉ vì không còn muốn gần gũi vợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T17:03:00+07:00",
+      "fetched": "2026-07-24T01:58:55.070369+07:00"
+    },
+    {
+      "id": "f34a9fe23c464bb039b31c5ecfa3e141",
+      "title": "Ba con giáp giàu có an nhàn tuổi già",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-tu-vi-ngay-24-7-ba-con-giap-la-thanh-tiet-kiem-giau-co-an-nhan-tuoi-gia-5100908.html",
+      "summary": "Theo thời gian, sự kiên trì và kỷ luật ấy giúp họ tích lũy được khối tài sản đáng kể...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T17:02:00+07:00",
+      "fetched": "2026-07-24T01:58:55.070535+07:00"
+    },
+    {
+      "id": "2ac56d11c151ec5dd7edd7b10ad12409",
+      "title": "Chủ nhân Fields 2026 Yu Deng và bài toán thế kỷ",
+      "link": "https://vnexpress.net/chu-nhan-fields-2026-yu-deng-va-bai-toan-the-ky-5100289.html",
+      "summary": "Trả lời VnExpress, Yu Deng - người thắng giải 'Nobel Toán học' 2026 nói hầu như không có tài liệu tham khảo, phải tự phát triển mọi công cụ khi đi tìm lời giải cho bài toán đã bế tắc hơn trăm năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T17:02:00+07:00",
+      "fetched": "2026-07-24T01:58:55.070710+07:00"
+    },
+    {
+      "id": "defe7120c3a7588d8d96157ce6300df6",
+      "title": "Mỗi năm tôi phá của ba mẹ cả trăm triệu nhưng chưa dừng được",
+      "link": "https://vnexpress.net/moi-nam-toi-pha-cua-ba-me-ca-tram-trieu-nhung-chua-dung-duoc-5100963.html",
+      "summary": "Cứ nghĩ đến số tiền đã mất, tôi lại muốn ăn thêm rồi thua rồi lại đi cắm xe, điện thoại, rồi ba hoặc mẹ lại chuộc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T17:00:00+07:00",
+      "fetched": "2026-07-24T01:58:55.070872+07:00"
+    },
+    {
+      "id": "bf625b0f6af562e21ea175f203649d22",
+      "title": "Gần 330 tỷ đồng xây cầu vượt thép ở công trường Dân Chủ",
+      "link": "https://vnexpress.net/gan-330-ty-dong-xay-cau-vuot-thep-o-cong-truong-dan-chu-5100961.html",
+      "summary": "Sau nhiều năm chưa triển khai, cầu vượt ở vòng xoay Dân Chủ được đề xuất điều chỉnh với chiều dài 260 m, rộng 8 m, nối đường Võ Thị Sáu sang 3/2, tổng vốn 329 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T17:00:00+07:00",
+      "fetched": "2026-07-24T01:58:55.071040+07:00"
+    },
+    {
+      "id": "504dc6e4b826c9bd6e7764b6b3e34b5a",
+      "title": "25 năm giấu xác bạn gái cũ dưới sàn phòng ngủ",
+      "link": "https://vnexpress.net/25-nam-giau-xac-ban-gai-cu-duoi-san-phong-ngu-5100932.html",
+      "summary": "Kimberly Langwell biến mất sau khi rời chỗ làm vào năm 1999, phải gần 25 năm sau, cảnh sát mới tìm thấy hài cốt nhờ lời khai muộn màng của nhân chứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T17:00:00+07:00",
+      "fetched": "2026-07-24T01:58:55.071226+07:00"
+    },
+    {
+      "id": "528da92a98f216338e5917ec153ea150",
+      "title": "Vườn mít 50 cây 'chán vô cùng' trên mảnh đất tiền tỷ",
+      "link": "https://vnexpress.net/gia-dat-vuon-tinh-dat-ngoai-o-vuon-mit-coi-coi-tren-manh-dat-tien-ty-5100875.html",
+      "summary": "Mỗi lần có ai hỏi tôi ở quê có đất đai gì không, tôi đều khoe: 'Có một miếng đất tiền tỷ'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T17:00:00+07:00",
+      "fetched": "2026-07-24T01:58:55.071395+07:00"
+    },
+    {
+      "id": "153332edced03bcccfc06c226846e3fc",
+      "title": "Người và 'giống loài' AI",
+      "link": "https://vnexpress.net/nguoi-va-giong-loai-ai-5100795.html",
+      "summary": "Tháng 6 vừa rồi, tôi đứng lớp trong chủ đề AI tại một trại hè dành cho 60 học sinh 12-20 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T17:00:00+07:00",
+      "fetched": "2026-07-24T01:58:55.071560+07:00"
+    },
+    {
+      "id": "14ec4b1247159dda1d295ab726779504",
+      "title": "Chuyện tình từ chốn lao tù của nữ điệp báo anh hùng",
+      "link": "https://vnexpress.net/chuyen-tinh-tu-chon-lao-tu-cua-nu-diep-bao-anh-hung-5100763.html",
+      "summary": "Hơn nửa thế kỷ, nữ điệp báo Ngô Thị Huệ sống trọn vẹn với tình yêu được nhen nhóm từ tận cùng nỗi đau thể xác nơi ngục tù tăm tối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T17:00:00+07:00",
+      "fetched": "2026-07-24T01:58:55.071726+07:00"
+    },
+    {
+      "id": "010f4742c18ba6657e62a16d6216e108",
+      "title": "Bab el-Mandeb - 'Cổng Nước mắt' án ngữ huyết mạch hàng hải thế giới",
+      "link": "https://vnexpress.net/bab-el-mandeb-cong-nuoc-mat-an-ngu-huyet-mach-hang-hai-the-gioi-5100667.html",
+      "summary": "Lời đe dọa phong tỏa từ Houthi khiến Bab el-Mandeb, eo biển được mệnh danh \"Cổng Nước mắt\", trở thành tâm điểm chú ý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T17:00:00+07:00",
+      "fetched": "2026-07-24T01:58:55.071889+07:00"
+    },
+    {
+      "id": "bdf464cfd7bfa81dc11d3d049b52d181",
+      "title": "Phát hiện xác máy bay biến mất bí ẩn sau 74 năm",
+      "link": "https://vnexpress.net/phat-hien-xac-may-bay-bien-mat-bi-an-sau-74-nam-5100443.html",
+      "summary": "Đội tìm kiếm tìm thấy vị trí xác máy bay của hãng Pan Am từng khiến 52 người thiệt mạng cách đây hơn 7 thập kỷ trong thảm họa làm thay đổi toàn bộ ngành hàng không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T17:00:00+07:00",
+      "fetched": "2026-07-24T01:58:55.072051+07:00"
+    },
+    {
+      "id": "010f4742c18ba6657e62a16d6216e108",
+      "title": "Bab el-Mandeb - 'Cổng Nước mắt' án ngữ huyết mạch hàng hải thế giới",
+      "link": "https://vnexpress.net/bab-el-mandeb-cong-nuoc-mat-an-ngu-huyet-mach-hang-hai-the-gioi-5100667.html",
+      "summary": "Lời đe dọa phong tỏa từ Houthi khiến Bab el-Mandeb, eo biển được mệnh danh \"Cổng Nước mắt\", trở thành tâm điểm chú ý.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-23T17:00:00+07:00",
+      "fetched": "2026-07-24T01:59:02.361046+07:00"
+    },
+    {
+      "id": "bdf464cfd7bfa81dc11d3d049b52d181",
+      "title": "Phát hiện xác máy bay biến mất bí ẩn sau 74 năm",
+      "link": "https://vnexpress.net/phat-hien-xac-may-bay-bien-mat-bi-an-sau-74-nam-5100443.html",
+      "summary": "Đội tìm kiếm tìm thấy vị trí xác máy bay của hãng Pan Am từng khiến 52 người thiệt mạng cách đây hơn 7 thập kỷ trong thảm họa làm thay đổi toàn bộ ngành hàng không.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-23T17:00:00+07:00",
+      "fetched": "2026-07-24T01:59:07.478396+07:00"
     },
     {
       "id": "c581ffc4c4f99c2df42bb9fa5cd1af5f",
