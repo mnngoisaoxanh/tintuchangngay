@@ -1,7 +1,17 @@
 window.newsData_2026_07_25 = {
   "date": "2026-07-25",
-  "lastUpdated": "2026-07-25T03:55:08.270847+07:00",
+  "lastUpdated": "2026-07-25T05:53:01.554309+07:00",
   "articles": [
+    {
+      "id": "09a91f088b8657ccc93709fb9493d755",
+      "title": "Cựu tiền đạo Amaobi: Thắng đậm Timor-Leste chưa đánh giá được sức mạnh tuyển Việt Nam",
+      "link": "https://tuoitre.vn/cuu-tien-dao-amaobi-thang-dam-timor-leste-chua-danh-gia-duoc-suc-manh-tuyen-viet-nam-100260724233345807.htm",
+      "summary": "Cựu tiền đạo nhập tịch Việt Nam Đặng Amaobi cho rằng Timor-Leste quá yếu để có thể đưa ra đánh giá đúng các cầu thủ nhập tịch của tuyển Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:52:54.427823+07:00",
+      "fetched": "2026-07-25T05:52:54.427965+07:00"
+    },
     {
       "id": "19172547068ba88d20265964d36638ba",
       "title": "Ông Trump cảnh báo Nga và Trung Quốc không bán vũ khí cho Iran",
@@ -181,6 +191,226 @@ window.newsData_2026_07_25 = {
       "category": "Tổng hợp",
       "published": "2026-07-25T00:20:18.647140+07:00",
       "fetched": "2026-07-25T00:20:18.647285+07:00"
+    },
+    {
+      "id": "a6f7c83293320d9efc3455f52ff6a862",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 25.7.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2572026-185260724230621163.htm",
+      "summary": "Tin tức EU siết quản lý, nông sản VN ứng phó thế nào?; Hơn phân nửa thí sinh chuyên Tuyên Quang vào nhóm 'tinh hoa' cả nước; Bước ngoặt nguy hiểm mới của cuộc chiến Iran... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 25.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T22:51:00+07:00",
+      "fetched": "2026-07-25T05:52:52.839205+07:00"
+    },
+    {
+      "id": "1ffdb36435c0998343e5d64a257243f4",
+      "title": "Cuộc đua vào ĐH: Hơn phân nửa thí sinh chuyên Tuyên Quang vào nhóm 'tinh hoa' cả nước",
+      "link": "https://thanhnien.vn/cuoc-dua-vao-dh-hon-phan-nua-thi-sinh-chuyen-tuyen-quang-vao-nhom-tinh-hoa-ca-nuoc-185260724195149745.htm",
+      "summary": "56,1% thí sinh trong tệp dữ liệu Trường THPT chuyên Tuyên Quang vào nhóm 'tinh hoa' xét tuyển ĐH của cả nước, hầu hết nhờ tổ hợp có môn toán, với 99 điểm 10 của môn này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T22:45:00+07:00",
+      "fetched": "2026-07-25T05:52:52.839396+07:00"
+    },
+    {
+      "id": "f5cc09fd5265dbd92e8e5635a591c195",
+      "title": "Khám phá vườn chim Bạc Liêu: Hơn 100 loài chim tụ hội giữa rừng ngập mặn",
+      "link": "https://thanhnien.vn/kham-pha-vuon-chim-bac-lieu-hon-100-loai-chim-tu-hoi-giua-rung-ngap-man-18526072413515979.htm",
+      "summary": "Với diện tích 125 ha, vườn chim Bạc Liêu là nơi cư trú của 105 loài chim, ước tính từ 20.000 - 30.000 cá thể, trở thành một trong những 'vương quốc chim' lớn nhất vùng Đồng bằng sông Cửu Long.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T22:45:00+07:00",
+      "fetched": "2026-07-25T05:52:52.839576+07:00"
+    },
+    {
+      "id": "21039e3c548eeba56a7f5cf2bb7bd89d",
+      "title": "Có gì trong thỏa thuận hạt nhân Mỹ - Ả Rập Xê Út?",
+      "link": "https://thanhnien.vn/co-gi-trong-thoa-thuan-hat-nhan-my-a-rap-xe-ut-18526072422342112.htm",
+      "summary": "Mỹ và Ả Rập Xê Út đã đạt được thỏa thuận về điện hạt nhân dân sự. Nhưng thỏa thuận này bao gồm những gì, và nó có ý nghĩa gì đối với khả năng hạt nhân của Ả Rập Xê Út?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T22:41:00+07:00",
+      "fetched": "2026-07-25T05:52:52.839733+07:00"
+    },
+    {
+      "id": "49f7d4e3d628921ca086f117e19c236e",
+      "title": "CLB Hà Lan không chịu 'nhả’ quân, Indonesia nguy cơ mất trụ cột đấu đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/clb-ha-lan-khong-chiu-nha-quan-indonesia-nguy-co-mat-tru-cot-dau-doi-tuyen-viet-nam-185260725041837226.htm",
+      "summary": "Đội tuyển Indonesia đang đối mặt với nguy cơ tổn thất lớn về lực lượng ngay trước thềm ASEAN Cup 2026 (AFF Cup), khi CLB Fortuna Sittard không cho phép trung vệ nhập tịch Justin Hubner trở về khoác áo đội tuyển quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T22:40:00+07:00",
+      "fetched": "2026-07-25T05:52:52.839889+07:00"
+    },
+    {
+      "id": "548cd5febb8766fb672f19a0569cf092",
+      "title": "Tài xế xe chở khách có thể bị phạt 1,5 triệu đồng vì quên thao tác này",
+      "link": "https://thanhnien.vn/tai-xe-xe-cho-khach-co-the-bi-phat-15-trieu-dong-vi-quen-thao-tac-nay-185260724154323126.htm",
+      "summary": "Nhiều tài xế xe chở khách bị CSGT lập biên bản vì bỏ qua một thao tác bắt buộc trước khi điều khiển phương tiện. Đây là lỗi tài xế vẫn mắc do chủ quan hoặc không kiểm tra lại thiết bị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T22:35:00+07:00",
+      "fetched": "2026-07-25T05:52:52.840045+07:00"
+    },
+    {
+      "id": "6336f37d30a1e40c3a372578abe29c82",
+      "title": "Tiêu điểm quốc tế 25.7: Ông Trump mất kiên nhẫn với Iran? | Hàn Quốc 'chuyển hướng tiếp cận' Triều Tiên",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-257-ong-trump-mat-kien-nhan-voi-iran-han-quoc-chuyen-huong-tiep-can-trieu-tien-185260724222752936.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 25.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T22:30:00+07:00",
+      "fetched": "2026-07-25T05:52:52.840226+07:00"
+    },
+    {
+      "id": "04dc519a34ffa46423238b61334c7496",
+      "title": "Giữ lại 7 tờ, 2 người bán dạo trúng độc đắc 14 tỉ xổ số miền Nam",
+      "link": "https://thanhnien.vn/giu-lai-7-to-2-nguoi-ban-dao-trung-doc-dac-14-ti-xo-so-mien-nam-185260724155637048.htm",
+      "summary": "Một đại lý vé số ở Vĩnh Long đã đổi thưởng 7 tờ vé số trúng độc đắc theo kết quả xổ số miền Nam ngày 22 tháng 7 cùng nhiều vé trúng an ủi khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T22:30:00+07:00",
+      "fetched": "2026-07-25T05:52:52.840382+07:00"
+    },
+    {
+      "id": "d96f78743eef2101bb6a86626b2602aa",
+      "title": "Chiến sự Ukraine ngày 1.612: Ukraine tấn công chuỗi 'Amazon Nga', ông Zelensky sắp thăm Mỹ",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1612-ukraine-tan-cong-chuoi-amazon-nga-ong-zelensky-sap-tham-my-185260724210603679.htm",
+      "summary": "Ukraine tập kích các cơ sở của Wildberries, doanh nghiệp đóng vai trò trung tâm của thị trường tiêu dùng Nga, trong khi Tổng thống Ukraine Volodymyr Zelensky dự kiến thăm Mỹ và gặp Tổng thống Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T22:29:00+07:00",
+      "fetched": "2026-07-25T05:52:52.840535+07:00"
+    },
+    {
+      "id": "30893e8e8f0ec55df457f268b877539f",
+      "title": "Tử vi ngày 25 tháng 7: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-25-thang-7-con-giap-nao-may-man-hom-nay-185260724211346637.htm",
+      "summary": "Tử vi ngày 25 tháng 7 mang đến những gợi ý tham khảo cho 12 con giáp. Ai cũng có một danh sách những việc 'để hôm khác': một cuộc gọi chưa thực hiện, một cuốn sách còn đọc dở, một món đồ cần sửa hay một lời hẹn đã nhiều lần lùi lại. Hôm nay là ngày thích hợp để hoàn thành ít nhất một điều trong số đ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T22:15:00+07:00",
+      "fetched": "2026-07-25T05:52:52.840688+07:00"
+    },
+    {
+      "id": "ba771ae40409e35187374a5086b79530",
+      "title": "Vụ cháy xe khách ở Đồng Nai: Có dấu hiệu hoạt động không đúng quy định",
+      "link": "https://thanhnien.vn/vu-chay-xe-khach-o-dong-nai-co-dau-hieu-hoat-dong-khong-dung-quy-dinh-185260724203320453.htm",
+      "summary": "Sau vụ cháy xe khách làm 7 người chết ở Đồng Nai, Sở Xây dựng TP.HCM xác định phương tiện có dấu hiệu hoạt động không đúng quy định và quyết định kiểm tra đột xuất doanh nghiệp vận tải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T22:07:00+07:00",
+      "fetched": "2026-07-25T05:52:52.840864+07:00"
+    },
+    {
+      "id": "0f528ee593f537a07e2debc74a295ed4",
+      "title": "Công chứng viên lo ngại phải 'mua lại' nơi mình cống hiến hàng chục năm",
+      "link": "https://thanhnien.vn/cong-chung-vien-lo-ngai-phai-mua-lai-noi-minh-cong-hien-hang-chuc-nam-185260724210946479.htm",
+      "summary": "Việc chuyển đổi từ phòng công chứng sang văn phòng công chứng đang nhận được nhiều ý kiến về trách nhiệm bồi thường và áp lực lưu trữ hàng triệu hồ sơ với số tiền hàng chục tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T22:01:00+07:00",
+      "fetched": "2026-07-25T05:52:52.841015+07:00"
+    },
+    {
+      "id": "c30bd32913ef155817660361d561a456",
+      "title": "Nỗi lo thoát hiểm trên xe giường nằm",
+      "link": "https://vnexpress.net/noi-lo-thoat-hiem-tren-xe-giuong-nam-5101420.html",
+      "summary": "Xe giường nằm 24-40 chỗ có lối đi hẹp, khi gặp sự cố cháy nổ, lật nghiêng khiến hành khách bên trong nháo nhào, khó xoay xở tìm đường thoát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T22:00:00+07:00",
+      "fetched": "2026-07-25T05:52:49.633200+07:00"
+    },
+    {
+      "id": "afd1b3f9dd6eebdaa6f4f0bec0a150a5",
+      "title": "Các nước kiểm soát trẻ dùng mạng xã hội thế nào?",
+      "link": "https://vnexpress.net/cac-nuoc-kiem-soat-tre-dung-mang-xa-hoi-the-nao-5101191.html",
+      "summary": "Nhiều nước đã lên kế hoạch hoặc ban hành lệnh cấm trẻ vị thành niên dùng mạng xã hội, trong đó Australia tiên phong còn Pháp mới thông qua ngày 21/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T22:00:00+07:00",
+      "fetched": "2026-07-25T05:52:49.633404+07:00"
+    },
+    {
+      "id": "96a01e4c1d5bfee97e9d62ea452a5d34",
+      "title": "Những tuyên bố chưa thành hiện thực của ông Trump về Iran",
+      "link": "https://vnexpress.net/nhung-tuyen-bo-chua-thanh-hien-thuc-cua-ong-trump-ve-iran-5101021.html",
+      "summary": "Nhiều tuyên bố của ông Trump về việc quân đội Iran bị xóa sổ hay giá dầu giảm mạnh đều chưa thành hiện thực sau gần nửa năm chiến sự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T22:00:00+07:00",
+      "fetched": "2026-07-25T05:52:49.633587+07:00"
+    },
+    {
+      "id": "94cf4436120cb539e6c789bc0cbef79e",
+      "title": "Tập sức mạnh 3 giờ mỗi tuần, trẻ hóa cơ thể 8 tuổi",
+      "link": "https://vnexpress.net/tap-suc-manh-3-gio-moi-tuan-tre-hoa-co-the-8-tuoi-5100729.html",
+      "summary": "Dành 180 phút tập sức mạnh mỗi tuần giúp giảm tuổi sinh học đến 8 năm nhờ tác động bảo vệ các nhiễm sắc thể, theo nghiên cứu mới đăng trên tạp chí khoa học Biology.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T22:00:00+07:00",
+      "fetched": "2026-07-25T05:52:49.633754+07:00"
+    },
+    {
+      "id": "ce8e3a2ebe73deccf820e025fea158ec",
+      "title": "'Khi chiếc búa bị cấm thoát hiểm'",
+      "link": "https://vnexpress.net/khi-chiec-bua-bi-cam-thoat-hiem-5101243.html",
+      "summary": "Vị trí để búa thoát hiểm trên xe bị bỏ trống, thậm chí nhiều nhà xe còn \"khóa\" chặt không thể sử dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T22:00:00+07:00",
+      "fetched": "2026-07-25T05:52:49.633928+07:00"
+    },
+    {
+      "id": "cb6e78c19eb6c8804329cfef378a23c6",
+      "title": "Cú sốc thuế quan mới từ Tổng thống Trump",
+      "link": "https://thanhnien.vn/cu-soc-thue-quan-moi-tu-tong-thong-trump-185260724204935995.htm",
+      "summary": "Ngay khi các mức thuế cũ hết hiệu lực, Tổng thống Mỹ Donald Trump vận dụng một điều luật khác để áp thuế mới đối với hàng nhập khẩu từ hàng chục đối tác, dẫn đến phản ứng của nhiều bên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T22:00:00+07:00",
+      "fetched": "2026-07-25T05:52:52.841193+07:00"
+    },
+    {
+      "id": "98dbc667ff39ecddba099882b17966eb",
+      "title": "Lịch âm hôm nay 25.7: Cẩn trọng ngày Canh Tý, cần lưu ý gì?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-257-can-trong-ngay-canh-ty-can-luu-y-gi-185260724111606109.htm",
+      "summary": "Theo lịch âm hôm nay 25.7 là ngày Canh Tý, dân gian quan niệm đây không phải là ngày đẹp để xuất hành, khởi sự. Dương lịch có ngày gì cần lưu ý?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T22:00:00+07:00",
+      "fetched": "2026-07-25T05:52:52.841349+07:00"
+    },
+    {
+      "id": "96a01e4c1d5bfee97e9d62ea452a5d34",
+      "title": "Những tuyên bố chưa thành hiện thực của ông Trump về Iran",
+      "link": "https://vnexpress.net/nhung-tuyen-bo-chua-thanh-hien-thuc-cua-ong-trump-ve-iran-5101021.html",
+      "summary": "Nhiều tuyên bố của ông Trump về việc quân đội Iran bị xóa sổ hay giá dầu giảm mạnh đều chưa thành hiện thực sau gần nửa năm chiến sự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-24T22:00:00+07:00",
+      "fetched": "2026-07-25T05:52:55.290332+07:00"
+    },
+    {
+      "id": "afd1b3f9dd6eebdaa6f4f0bec0a150a5",
+      "title": "Các nước kiểm soát trẻ dùng mạng xã hội thế nào?",
+      "link": "https://vnexpress.net/cac-nuoc-kiem-soat-tre-dung-mang-xa-hoi-the-nao-5101191.html",
+      "summary": "Nhiều nước đã lên kế hoạch hoặc ban hành lệnh cấm trẻ vị thành niên dùng mạng xã hội, trong đó Australia tiên phong còn Pháp mới thông qua ngày 21/7.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-24T22:00:00+07:00",
+      "fetched": "2026-07-25T05:52:59.788368+07:00"
+    },
+    {
+      "id": "7ef083930adfa590c1fc7b2adb13ffaa",
+      "title": "Điều gì giúp Công ty PouYuen 'giữ lửa' quan hệ lao động ổn định suốt nhiều năm?",
+      "link": "https://thanhnien.vn/dieu-gi-giup-cong-ty-pouyuen-giu-lua-quan-he-lao-dong-on-dinh-suot-nhieu-nam-185260724131453593.htm",
+      "summary": "Công ty PouYuen có đông công nhân nhất TP.HCM với gần 41.000 người lao động đã thực hiện dân chủ cơ sở, xây dựng quan hệ lao động hài hòa, ổn định trong nhiều năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T21:56:00+07:00",
+      "fetched": "2026-07-25T05:52:52.841504+07:00"
     },
     {
       "id": "70a759e71f42eb497045517d78e92dad",
