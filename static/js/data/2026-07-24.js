@@ -1,7 +1,157 @@
 window.newsData_2026_07_24 = {
   "date": "2026-07-24",
-  "lastUpdated": "2026-07-24T05:46:57.023266+07:00",
+  "lastUpdated": "2026-07-24T08:48:40.744214+07:00",
   "articles": [
+    {
+      "id": "8d6ee161b22c0d6062efe1769d007702",
+      "title": "Miss Grand Vietnam 2026 diễn bikini uốn éo gây bàn tán",
+      "link": "https://tuoitre.vn/miss-grand-vietnam-2026-dien-bikini-uon-eo-gay-ban-tan-100260724023745064.htm",
+      "summary": "Sau màn trình diễn bikini gây tranh cãi của thí sinh Miss Grand Vietnam 2026, ban tổ chức cho biết họ tự ý thay đổi một số động tác so với phần tổng duyệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T08:48:32.778692+07:00",
+      "fetched": "2026-07-24T08:48:32.778738+07:00"
+    },
+    {
+      "id": "74b5e2c6ff35cb5f0ff82038a5bafefa",
+      "title": "Ngôi sao gốc Tây Ban Nha muốn vô địch ASEAN Cup cùng tuyển Indonesia",
+      "link": "https://tuoitre.vn/ngoi-sao-goc-tay-ban-nha-muon-vo-dich-asean-cup-cung-tuyen-indonesia-100260724042753534.htm",
+      "summary": "Hậu vệ Jordi Amat rất tự tin trước thềm ASEAN Cup 2026, khi tuyên bố sẽ dẫn dắt tuyển Indonesia lần đầu tiên lên ngôi vô địch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T08:48:32.778637+07:00",
+      "fetched": "2026-07-24T08:48:32.778685+07:00"
+    },
+    {
+      "id": "119acef7cced552cfe648d1dbbc9b750",
+      "title": "Không nhuộm trái mặc nưa, không phải Lãnh Mỹ A",
+      "link": "https://tuoitre.vn/khong-nhuom-trai-mac-nua-khong-phai-lanh-my-a-100260724010645038.htm",
+      "summary": "Không chỉ giới thiệu các bộ sưu tập gắn với tên tuổi, Lãnh Mỹ A show của Võ Việt Chung còn kết hợp thời trang, ẩm thực và nghệ thuật truyền thống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T08:48:32.778584+07:00",
+      "fetched": "2026-07-24T08:48:32.778629+07:00"
+    },
+    {
+      "id": "2544912565b5cc6c2c07608c71415755",
+      "title": "Số hóa dữ liệu văn hóa không chỉ là lưu trữ",
+      "link": "https://tuoitre.vn/so-hoa-du-lieu-van-hoa-khong-chi-la-luu-tru-100260724041601882.htm",
+      "summary": "Theo các chuyên gia, số hóa dữ liệu văn hóa sẽ khó phát huy hiệu quả nếu chỉ dừng ở việc lưu trữ. Điều quan trọng là xây dựng hệ sinh thái dữ liệu mở, kết nối cộng đồng và khai thác di sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T08:48:32.778527+07:00",
+      "fetched": "2026-07-24T08:48:32.778576+07:00"
+    },
+    {
+      "id": "465a9dbd6332ed7a7a918c1222c2c547",
+      "title": "Kiện OpenAI vì ChatGPT tư vấn sức khỏe sai lầm",
+      "link": "https://tuoitre.vn/kien-openai-vi-chatgpt-tu-van-suc-khoe-sai-lam-100260723191431458.htm",
+      "summary": "Một người đàn ông cáo buộc các lời khuyên của ChatGPT khiến mình mắc chứng thuyên tắc phổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T08:48:32.778473+07:00",
+      "fetched": "2026-07-24T08:48:32.778519+07:00"
+    },
+    {
+      "id": "742e2cab34d65e39373aecd3a79cbdd9",
+      "title": "Robusta Việt Nam: Từ nguyên liệu pha trộn đến vị thế dẫn đầu thế giới",
+      "link": "https://tuoitre.vn/robusta-viet-nam-tu-nguyen-lieu-pha-tron-den-vi-the-dan-dau-the-gioi-100260722145614646.htm",
+      "summary": "Từ chỗ chủ yếu được xem là nguyên liệu pha trộn giá rẻ, Robusta Việt Nam hiện giữ vị trí số 1 thế giới về xuất khẩu và ngày càng được nhìn nhận là một dòng cà phê có bản sắc riêng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T08:48:32.778385+07:00",
+      "fetched": "2026-07-24T08:48:32.778463+07:00"
+    },
+    {
+      "id": "b56975ea7d04ec00933196f8f90947bf",
+      "title": "Hơn 170.000 viên đá quý, bình quân 6.000 đồng/viên: Hiểu thế nào cho đúng?",
+      "link": "https://tuoitre.vn/hon-170000-vien-da-quy-binh-quan-6000-dong-vien-hieu-the-nao-cho-dung-100260724073141703.htm",
+      "summary": "Dư luận đang xôn xao trước thông tin 170.876 viên đá quý, đá màu theo dõi ngoại bảng của SJC có giá vốn chỉ khoảng 6.000 đồng/viên. Dưới góc nhìn chuyên gia, nếu không hiểu rõ \"ngoại bảng\" là gì sẽ dễ dẫn đến tâm lý hoang mang không đáng có.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T08:48:32.778274+07:00",
+      "fetched": "2026-07-24T08:48:32.778371+07:00"
+    },
+    {
+      "id": "04e019b4c972182f49f418f59391d1da",
+      "title": "Đà Nẵng chạy đua chuẩn bị cho ngày vận hành 6 trường nội trú liên biên giới",
+      "link": "https://tuoitre.vn/da-nang-chay-dua-chuan-bi-cho-ngay-van-hanh-6-truong-noi-tru-lien-bien-gioi-100260724073817644.htm",
+      "summary": "Công trình xây dựng 6 trường nội trú liên cấp vùng biên giới đang được các lực lượng đẩy nhanh tốc độ để bàn giao trước ngày 25-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T08:48:32.778190+07:00",
+      "fetched": "2026-07-24T08:48:32.778261+07:00"
+    },
+    {
+      "id": "c31d16a6aa16622f72fee07da649c7af",
+      "title": "Bão Noul vừa hình thành, đêm nay sẽ vào Biển Đông",
+      "link": "https://tuoitre.vn/bao-noul-vua-hinh-thanh-dem-nay-se-vao-bien-dong-100260724074212879.htm",
+      "summary": "Sáng sớm nay (24-7), áp thấp nhiệt đới ở vùng biển phía đông Philippines đã mạnh lên thành bão Noul.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T08:48:32.778110+07:00",
+      "fetched": "2026-07-24T08:48:32.778178+07:00"
+    },
+    {
+      "id": "bea40fad7cf057f3fa5bb3de88da41f2",
+      "title": "Bộ ba đặc sản của quán Cafe 360° tại Vũng Tàu",
+      "link": "https://tuoitre.vn/bo-ba-dac-san-cua-quan-cafe-360-tai-vung-tau-100260723113912519.htm",
+      "summary": "Khi danh sách món nên thử ở Vũng Tàu ngày càng đa dạng, các món kem làm từ bơ, sầu riêng và dừa xuất vẫn hiện nhiều trong gợi ý của du khách. Quán Cafe 360° trên đường Quang Trung, Bãi Trước, là địa chỉ duy trì những món kem này suốt gần hai thập kỷ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T08:48:32.778028+07:00",
+      "fetched": "2026-07-24T08:48:32.778098+07:00"
+    },
+    {
+      "id": "2801da810788fe31258e972df7d78b1c",
+      "title": "Tuổi 60 vẫn bán Vietlott mỗi ngày vì thích được gặp khách hàng",
+      "link": "https://tuoitre.vn/tuoi-60-van-ban-vietlott-moi-ngay-vi-thich-duoc-gap-khach-hang-100260723163305361.htm",
+      "summary": "Mỗi sáng, khi nhiều người cùng trang lứa đã dành thời gian nghỉ ngơi bên con cháu, bà Nguyễn Thị Phương Anh vẫn mở cửa điểm bán Vietlott trên đường Lê Thanh Nghị (TP Đà Nẵng).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T08:48:32.777945+07:00",
+      "fetched": "2026-07-24T08:48:32.778016+07:00"
+    },
+    {
+      "id": "a0efb7bb84955abf7713c0e7eb72090d",
+      "title": "Từ thành công của Vinamilk, doanh nghiệp cần có khát vọng, bản lĩnh và tầm nhìn",
+      "link": "https://tuoitre.vn/tu-thanh-cong-cua-vinamilk-doanh-nghiep-can-co-khat-vong-ban-linh-va-tam-nhin-100260724063936458.htm",
+      "summary": "Tại lễ kỷ niệm 50 năm thành lập (tối 23-7), Công ty Cổ phần Sữa Việt Nam (Vinamilk) đã vinh dự đón nhận danh hiệu Anh hùng Lao động lần thứ hai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T08:48:32.777855+07:00",
+      "fetched": "2026-07-24T08:48:32.777932+07:00"
+    },
+    {
+      "id": "fc0ef5764fe883200b386c1577d85f7b",
+      "title": "Người đàn ông nhảy cầu ở Đồng Nai được cứu sau chưa đầy 20 phút",
+      "link": "https://tuoitre.vn/nguoi-dan-ong-nhay-cau-o-dong-nai-duoc-cuu-sau-chua-day-20-phut-100260724080303077.htm",
+      "summary": "Lực lượng cứu nạn Đồng Nai đã cứu được người đàn ông nhảy cầu Hóa An trong đêm tối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T08:48:32.777753+07:00",
+      "fetched": "2026-07-24T08:48:32.777840+07:00"
+    },
+    {
+      "id": "0ebc989677767d882a7aff98bce4848b",
+      "title": "Đọc nhanh 24-7: Giá vàng giảm mạnh; một doanh nghiệp may ở TP.HCM báo lỗ vì không có đơn hàng",
+      "link": "https://tuoitre.vn/doc-nhanh-24-7-gia-vang-giam-manh-mot-doanh-nghiep-may-o-tphcm-bao-lo-vi-khong-co-don-hang-100260724081441868.htm",
+      "summary": "Giá vàng thế giới sáng nay tiếp tục giảm về 4.049 USD/ounce. Trong nước, nhiều tin tức doanh nghiệp đáng chú ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T08:48:32.777377+07:00",
+      "fetched": "2026-07-24T08:48:32.777738+07:00"
+    },
+    {
+      "id": "7530bf627521644d7689c90770254256",
+      "title": "Chiến dịch 100 ngày cập nhật Sổ sức khỏe điện tử trên VNeID: Người dân cần làm gì và tiện ích thế nào?",
+      "link": "https://tuoitre.vn/chien-dich-100-ngay-cap-nhat-so-suc-khoe-dien-tu-tren-vneid-nguoi-dan-can-lam-gi-va-tien-ich-the-nao-100260723135145715.htm",
+      "summary": "Bộ Y tế đang triển khai Chiến dịch 100 ngày tạo lập, cập nhật Sổ sức khỏe điện tử trên VNeID.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T08:48:32.777189+07:00",
+      "fetched": "2026-07-24T08:48:32.777363+07:00"
+    },
     {
       "id": "e1ca0ea5513ff0dac960d5c7099a1617",
       "title": "Anderson ca ngợi Man City là 'vua của Manchester' sau khi ký hợp đồng hơn 3000 tỷ",
@@ -111,6 +261,336 @@ window.newsData_2026_07_24 = {
       "category": "Tổng hợp",
       "published": "2026-07-24T01:59:00.608623+07:00",
       "fetched": "2026-07-24T01:59:00.608781+07:00"
+    },
+    {
+      "id": "89b8a3c181efe0fc6ab08b1a5a35fd77",
+      "title": "HLV Indonesia nhầm lẫn to về cầu thủ nhập tịch Việt Nam, lo ngay ngáy sức mạnh của Campuchia",
+      "link": "https://thanhnien.vn/hlv-indonesia-nham-lan-to-ve-cau-thu-nhap-tich-viet-nam-lo-ngay-ngay-suc-manh-cua-campuchia-185260724083839866.htm",
+      "summary": "HLV John Herdman của đội tuyển Indonesia vừa lên tiếng đánh giá về các đối thủ cùng bảng A ASEAN Cup 2026, với đội tuyển Việt Nam đã có 'đến 5 cầu thủ nhập tịch Brazil, còn Campuchia tới 10 người'. Sẽ là thử thách lớn cho đội bóng xứ vạn đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:43:00+07:00",
+      "fetched": "2026-07-24T08:48:30.805219+07:00"
+    },
+    {
+      "id": "270b8e931d443d84b45fd120b49ccdca",
+      "title": "Giá heo hơi hôm nay 24.7.2026: Lại lùi về mức 63.000 đồng/kg",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-2472026-lai-lui-ve-muc-63000-dong-kg-185260724083255561.htm",
+      "summary": "Giá heo hơi duy trì đà giảm tại miền Bắc và miền Trung - Tây nguyên, đưa giá bình quân cả nước lùi về mức 63.700 đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:40:00+07:00",
+      "fetched": "2026-07-24T08:48:30.805414+07:00"
+    },
+    {
+      "id": "953cb5d1c9370ac193b8f8492a32389c",
+      "title": "Giá xăng dầu hôm nay 24.7.2026: Tăng đồng loạt",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-2472026-tang-dong-loat-185260724075853534.htm",
+      "summary": "Giá dầu thế giới tăng mạnh do căng thẳng Trung Đông leo thang, trong khi xăng dầu trong nước cũng vừa được điều chỉnh tăng trên 1.000 đồng/lít dù đã có chi sử dụng Quỹ bình ổn (tạm ứng từ ngân sách Nhà nước).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:38:00+07:00",
+      "fetched": "2026-07-24T08:48:30.805551+07:00"
+    },
+    {
+      "id": "9eda9139d6b5a81791ddb904a6834671",
+      "title": "Về nơi khởi nguồn câu ca dao 'Đồng Đăng có phố Kỳ Lừa'",
+      "link": "https://thanhnien.vn/ve-noi-khoi-nguon-cau-ca-dao-dong-dang-co-pho-ky-lua-185260723153328493.htm",
+      "summary": "Từ ga Đồng Đăng, men theo những dãy núi đá về phố chợ Kỳ Lừa, hành trình khám phá xứ Lạng cũng là cuộc trở về miền ký ức đã được lưu giữ qua nhiều thế hệ trong câu ca dao: 'Đồng Đăng có phố Kỳ Lừa...'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:33:00+07:00",
+      "fetched": "2026-07-24T08:48:30.805695+07:00"
+    },
+    {
+      "id": "b054e98aa0c7f8fe9517c2eceebe8e5d",
+      "title": "Lễ tổng kết và trao giải cuộc thi viết và ảnh: Tự hào 50 năm ngành điện thành phố mang tên Bác",
+      "link": "https://thanhnien.vn/le-tong-ket-va-trao-giai-cuoc-thi-viet-va-anh-tu-hao-50-nam-nganh-dien-thanh-pho-mang-ten-bac-185260723112038756.htm",
+      "summary": "Ngày 24.7.2026, Báo Thanh Niên phối hợp cùng Tổng công ty Điện lực TP.HCM (EVNHCMC) tổ chức chương trình truyền hình trực tiếp với chủ đề: “Lễ tổng kết và trao giải cuộc thi viết và ảnh: Tự hào 50 năm ngành điện thành phố mang tên Bác\". Chương trình được trực tuyến tại địa chỉ: thanhnien.vn, fanpage...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:30:00+07:00",
+      "fetched": "2026-07-24T08:48:30.805831+07:00"
+    },
+    {
+      "id": "c602816dd82e2ce83fca19e15e5de2d4",
+      "title": "50 năm phụng sự khát vọng Việt, Vinamilk đón nhận danh hiệu Anh hùng Lao động lần 2",
+      "link": "https://thanhnien.vn/50-nam-phung-su-khat-vong-viet-vinamilk-don-nhan-danh-hieu-anh-hung-lao-dong-lan-2-185260724080819534.htm",
+      "summary": "Tối 23.7, tại Hà Nội, Công ty cổ phần Sữa Việt Nam (Vinamilk) trang trọng tổ chức lễ kỷ niệm 50 năm thành lập và đón nhận danh hiệu Anh hùng Lao động lần thứ 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:27:00+07:00",
+      "fetched": "2026-07-24T08:48:30.805959+07:00"
+    },
+    {
+      "id": "b8ae4d65052bca550be8471421ccbbc9",
+      "title": "Giá Bitcoin hôm nay 24.7.2026: Suy yếu, sàn tiền số đóng cửa sau 11 năm",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-2472026-suy-yeu-san-tien-so-dong-cua-sau-11-nam-185260724074741314.htm",
+      "summary": "Giá Bitcoin hôm nay suy yếu trong bối cảnh căng thẳng ở Iran leo thang, đẩy giá dầu lên cao và sàn giao dịch tiền mã hóa BitMEX thông báo đóng cửa sau 11 năm hoạt động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:21:00+07:00",
+      "fetched": "2026-07-24T08:48:30.806090+07:00"
+    },
+    {
+      "id": "3861e8e656112fcbeb8c7bd12195ea6a",
+      "title": "Đội tuyển Việt Nam có hàng thủ cực cao: Sẽ 'khóa' tiền đạo 1,96 m của Indonesia",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-co-hang-thu-cuc-cao-se-khoa-tien-dao-196-m-cua-indonesia-185260723173826901.htm",
+      "summary": "Đội tuyển Việt Nam từng ba lần liên tiếp thua Indonesia đầu năm 2024 bởi chênh lệch thể hình, đó là bài học trò thầy trò HLV Kim Sang-sik ở lần tái đấu đối thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:20:00+07:00",
+      "fetched": "2026-07-24T08:48:30.806216+07:00"
+    },
+    {
+      "id": "98668967bc7cc2a824ed32af00638709",
+      "title": "Giá dầu thế giới vượt 100 USD, giá vàng giảm mạnh",
+      "link": "https://vnexpress.net/gia-dau-the-gioi-vuot-100-usd-gia-vang-giam-manh-5101011.html",
+      "summary": "Căng thẳng Trung Đông leo thang nhanh chóng khiến giá dầu Brent hiện lên trên 100 USD, trong khi giá vàng mất mốc 4.100 USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-24T01:12:53+07:00",
+      "fetched": "2026-07-24T08:48:35.391970+07:00"
+    },
+    {
+      "id": "3a1a2de3fd215a0e9b609dff4a4d241b",
+      "title": "Bão số 2 (bão Noul) sắp vào Biển Đông",
+      "link": "https://thanhnien.vn/bao-so-2-bao-noul-sap-vao-bien-dong-185260724080443062.htm",
+      "summary": "Dự báo trong đêm nay 24.7 và sáng sớm mai 25.7, bão Noul sẽ đi vào vùng biển phía đông bắc Biển Đông, là cơn bão số 2 trong năm nay, gây ra những cột sóng cao 6 m.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:10:00+07:00",
+      "fetched": "2026-07-24T08:48:30.806361+07:00"
+    },
+    {
+      "id": "402392b15fc97f114e846b361f870b41",
+      "title": "4 thói quen buổi sáng giúp cơ thể hấp thụ vitamin D tốt hơn",
+      "link": "https://thanhnien.vn/4-thoi-quen-buoi-sang-giup-co-the-hap-thu-vitamin-d-tot-hon-18526072408064155.htm",
+      "summary": "Chỉ với vài thay đổi nhỏ vào buổi sáng, bạn có thể giúp cơ thể hấp thụ vitamin D tốt hơn, từ đó hỗ trợ sức khỏe xương, miễn dịch và nhiều chức năng quan trọng khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:05:00+07:00",
+      "fetched": "2026-07-24T08:48:30.806486+07:00"
+    },
+    {
+      "id": "d75e00d78d3bb1dc6b3d8e98037a2e5d",
+      "title": "Cô nàng bầm dập khi bạn trai bế vào phòng ngủ",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-co-nang-bam-dap-khi-ban-trai-be-vao-phong-ngu-5100421.html",
+      "summary": "Muốn ghi điểm bằng hành động ga lăng, chàng trai lại liên tục để đầu và chân người yêu va vào tường, cửa khiến cả hai dở khóc dở cười.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:00:00+07:00",
+      "fetched": "2026-07-24T08:48:27.620333+07:00"
+    },
+    {
+      "id": "dfdc440f5905f561f277417fa9ecb919",
+      "title": "Can thiệp hai túi phình động mạch cho người đàn ông",
+      "link": "https://vnexpress.net/can-thiep-hai-tui-phinh-dong-mach-cho-nguoi-dan-ong-5101015.html",
+      "summary": "Ông Khoa, 58 tuổi, có hai túi phình động mạch dưới đòn hai bên kèm huyết khối, được bác sĩ can thiệp loại bỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:00:00+07:00",
+      "fetched": "2026-07-24T08:48:27.620502+07:00"
+    },
+    {
+      "id": "c58ca92b1d23da5657cfa6ce7c3ab21d",
+      "title": "Về Việt Nam phẫu thuật u máu gan",
+      "link": "https://vnexpress.net/ve-viet-nam-phau-thuat-u-mau-gan-5101007.html",
+      "summary": "Chị Điệp, 42 tuổi, khám sức khỏe ở Mỹ phát hiện u máu gan đường kính 5 cm, quyết định về Việt Nam điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:00:00+07:00",
+      "fetched": "2026-07-24T08:48:27.620641+07:00"
+    },
+    {
+      "id": "e0994c7856aa33354671954ea3d7502a",
+      "title": "OCB làm mới diện mạo, hướng đến trải nghiệm đồng bộ",
+      "link": "https://vnexpress.net/ocb-lam-moi-dien-mao-huong-den-trai-nghiem-dong-bo-5100921.html",
+      "summary": "OCB giới thiệu bộ sưu tập đồng phục OCB Uniform Collection 2026 với thiết kế hiện đại, góp phần chuẩn hóa hình ảnh thương hiệu, tăng tính đồng bộ, nâng trải nghiệm tại các điểm giao dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:00:00+07:00",
+      "fetched": "2026-07-24T08:48:27.620783+07:00"
+    },
+    {
+      "id": "0772781335435f12b7903bf43b2d0e81",
+      "title": "T&amp;T cất nóc đài kiểm soát không lưu tại sân bay Quảng Trị",
+      "link": "https://vnexpress.net/t-t-cat-noc-dai-kiem-soat-khong-luu-tai-san-bay-quang-tri-5100898.html",
+      "summary": "Đài kiểm soát không lưu tại cảng hàng không Quảng Trị hoàn thành phần kết cấu, chuyển sang giai đoạn hoàn thiện và lắp đặt thiết bị chuyên ngành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:00:00+07:00",
+      "fetched": "2026-07-24T08:48:27.620915+07:00"
+    },
+    {
+      "id": "e5525b34381297a3176fedf9fee3651f",
+      "title": "Hue Legacy Residence kết hợp an cư và đầu tư",
+      "link": "https://vnexpress.net/hue-legacy-residence-ket-hop-an-cu-va-dau-tu-5100807.html",
+      "summary": "Hue Legacy Residence phát triển theo mô hình shophouse kết hợp nhu cầu an cư và đầu tư nhờ lợi thế vị trí trung tâm, nguồn cung giới hạn cùng thiết kế đa công năng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:00:00+07:00",
+      "fetched": "2026-07-24T08:48:27.621050+07:00"
+    },
+    {
+      "id": "a3090120b1cc7cb18a33106622b49fc6",
+      "title": "The Privé ưu đãi lãi suất mua nhà trong 5 năm",
+      "link": "https://vnexpress.net/the-prive-uu-dai-lai-suat-mua-nha-trong-5-nam-5100587.html",
+      "summary": "Người mua căn hộ The Privé được miễn lãi trong hai năm, cố định lãi suất ở mức 9,9% trong ba năm tiếp theo, ân hạn gốc 60 tháng tùy điều kiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:00:00+07:00",
+      "fetched": "2026-07-24T08:48:27.621177+07:00"
+    },
+    {
+      "id": "f09fc842447304a5a7c60313faec13c0",
+      "title": "LG Swing - thiết bị giải trí xoay đa hướng, độ phân giải 4K",
+      "link": "https://vnexpress.net/lg-swing-thiet-bi-giai-tri-xoay-da-huong-do-phan-giai-4k-5099449.html",
+      "summary": "LG Swing kế thừa thiết bị StandbyME, nâng kích thước lên 31,5 inch, độ phân giải 4K, hỗ trợ xoay đa hướng, đáp ứng nhu cầu giải trí tại gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:00:00+07:00",
+      "fetched": "2026-07-24T08:48:27.621316+07:00"
+    },
+    {
+      "id": "f25b909d4fa786720ba8f6af7fcb0ba1",
+      "title": "Hành trình nâng cấp kỹ thuật của Toyota Innova",
+      "link": "https://vnexpress.net/hanh-trinh-nang-cap-ky-thuat-cua-toyota-innova-5094536.html",
+      "summary": "Từ dòng xe nổi tiếng “ăn chắc mặc bền” với khung gầm sắt xi rời, Toyota trang bị nền tảng khung gầm liền khối hợp thời hơn cho Innova Cross.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:00:00+07:00",
+      "fetched": "2026-07-24T08:48:27.621443+07:00"
+    },
+    {
+      "id": "2a25fb90bf005c29780bf91419af8e05",
+      "title": "Chuyên gia cảnh báo: Những đồ chơi có thể gây nguy hiểm cho trẻ",
+      "link": "https://thanhnien.vn/chuyen-gia-canh-bao-nhung-do-choi-co-the-gay-nguy-hiem-cho-tre-18526072406162856.htm",
+      "summary": "Mùa hè là thời điểm trẻ em vui chơi. Đây cũng là thời điểm thị trường đồ chơi trở nên sôi động khi nhiều phụ huynh chọn mua quà cho con, giúp trẻ giải trí và hạn chế thời gian sử dụng các thiết bị điện tử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:00:00+07:00",
+      "fetched": "2026-07-24T08:48:30.806605+07:00"
+    },
+    {
+      "id": "d72d55da9236780f484af9e04b0b40b1",
+      "title": "Những phận đời làm nên sức sống kịch nói",
+      "link": "https://thanhnien.vn/nhung-phan-doi-lam-nen-suc-song-kich-noi-185260723203158715.htm",
+      "summary": "Từ những người bán hàng rong, lao động nghèo đến các phận đời chật vật mưu sinh, hình ảnh người bình dân luôn là chất liệu giàu sức sống của sân khấu kịch nói TP.HCM. Những câu chuyện rất đời ấy đã giữ chân khán giả qua nhiều thế hệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:00:00+07:00",
+      "fetched": "2026-07-24T08:48:30.806725+07:00"
+    },
+    {
+      "id": "16da7eafcc36919cc01c1fd8f078d8c2",
+      "title": "My Trầm 'Nghệ sĩ PMU' Việt Nam: Hành trình chinh phục sân khấu làm đẹp quốc tế",
+      "link": "https://thanhnien.vn/my-tram-nghe-si-pmu-viet-nam-hanh-trinh-chinh-phuc-san-khau-lam-dep-quoc-te-185260723153657203.htm",
+      "summary": "Không chỉ là một người làm nghề thực thụ, My Trầm đã từng bước khẳng định vị thế của một chuyên gia phun xăm thẩm mỹ (PMU) uy tín, được tin tưởng đảm nhận nhiều vai trò chuyên môn tại các sự kiện và đấu trường làm đẹp quốc tế từ châu Á đến châu Âu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:00:00+07:00",
+      "fetched": "2026-07-24T08:48:30.806896+07:00"
+    },
+    {
+      "id": "02528e90fa7d447148a1cbb56c99e162",
+      "title": "Dư địa phát triển của thị trường mỹ phẩm dành cho người Việt",
+      "link": "https://thanhnien.vn/du-dia-phat-trien-cua-thi-truong-my-pham-danh-cho-nguoi-viet-185260723140741183.htm",
+      "summary": "Khi phần lớn mỹ phẩm lưu hành tại Việt Nam là hàng ngoại nhập, thì nhu cầu về các sản phẩm được nghiên cứu phù hợp với làn da và cơ địa người Việt ngày càng được quan tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:00:00+07:00",
+      "fetched": "2026-07-24T08:48:30.807024+07:00"
+    },
+    {
+      "id": "6e2944ab48d26202f82d13957754589c",
+      "title": "Tư vấn sức khỏe: Phòng viêm não, viêm màng não ngày hè thế nào?",
+      "link": "https://thanhnien.vn/tu-van-suc-khoe-phong-viem-nao-viem-mang-nao-ngay-he-the-nao-185260723104245516.htm",
+      "summary": "Hè là dịp trẻ nhỏ về quê, đi du lịch và vui chơi, tiếp xúc gần tại nhiều khu giải trí, nhà bóng, bể bơi, tạo điều kiện cho mầm bệnh lây lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T01:00:00+07:00",
+      "fetched": "2026-07-24T08:48:30.807156+07:00"
+    },
+    {
+      "id": "0772781335435f12b7903bf43b2d0e81",
+      "title": "T&amp;T cất nóc đài kiểm soát không lưu tại sân bay Quảng Trị",
+      "link": "https://vnexpress.net/t-t-cat-noc-dai-kiem-soat-khong-luu-tai-san-bay-quang-tri-5100898.html",
+      "summary": "Đài kiểm soát không lưu tại cảng hàng không Quảng Trị hoàn thành phần kết cấu, chuyển sang giai đoạn hoàn thiện và lắp đặt thiết bị chuyên ngành.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-24T01:00:00+07:00",
+      "fetched": "2026-07-24T08:48:35.392723+07:00"
+    },
+    {
+      "id": "f09fc842447304a5a7c60313faec13c0",
+      "title": "LG Swing - thiết bị giải trí xoay đa hướng, độ phân giải 4K",
+      "link": "https://vnexpress.net/lg-swing-thiet-bi-giai-tri-xoay-da-huong-do-phan-giai-4k-5099449.html",
+      "summary": "LG Swing kế thừa thiết bị StandbyME, nâng kích thước lên 31,5 inch, độ phân giải 4K, hỗ trợ xoay đa hướng, đáp ứng nhu cầu giải trí tại gia.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-24T01:00:00+07:00",
+      "fetched": "2026-07-24T08:48:38.558025+07:00"
+    },
+    {
+      "id": "2ab5fe790f0154fdd5c48cec5b6aa35c",
+      "title": "Cựu bộ trưởng quốc phòng Ukraine muốn được phục chức",
+      "link": "https://vnexpress.net/cuu-bo-truong-quoc-phong-ukraine-muon-duoc-phuc-chuc-5101012.html",
+      "summary": "Cựu bộ trưởng Mykhailo Fedorov từ chối lời mời đảm nhận vai trò mới trong chính phủ Ukraine, tuyên bố chỉ chấp nhận được bổ nhiệm vào vị trí cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T00:53:45+07:00",
+      "fetched": "2026-07-24T08:48:27.621571+07:00"
+    },
+    {
+      "id": "2ab5fe790f0154fdd5c48cec5b6aa35c",
+      "title": "Cựu bộ trưởng quốc phòng Ukraine muốn được phục chức",
+      "link": "https://vnexpress.net/cuu-bo-truong-quoc-phong-ukraine-muon-duoc-phuc-chuc-5101012.html",
+      "summary": "Cựu bộ trưởng Mykhailo Fedorov từ chối lời mời đảm nhận vai trò mới trong chính phủ Ukraine, tuyên bố chỉ chấp nhận được bổ nhiệm vào vị trí cũ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-24T00:53:45+07:00",
+      "fetched": "2026-07-24T08:48:34.080426+07:00"
+    },
+    {
+      "id": "b5f8b363ce82ae5f70f9e19f6600ab46",
+      "title": "Mật vụ Mỹ bị điều tra vì lộ tin ông Vance 'điều trực thăng đưa con đi đánh golf'",
+      "link": "https://vnexpress.net/mat-vu-my-bi-dieu-tra-vi-lo-tin-ong-vance-dieu-truc-thang-dua-con-di-danh-golf-5101005.html",
+      "summary": "Cận vệ của Phó tổng thống Vance bị điều tra với cáo buộc rò rỉ thông tin về lịch trình cá nhân của ông và gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T00:32:14+07:00",
+      "fetched": "2026-07-24T08:48:27.621705+07:00"
+    },
+    {
+      "id": "b5f8b363ce82ae5f70f9e19f6600ab46",
+      "title": "Mật vụ Mỹ bị điều tra vì lộ tin ông Vance 'điều trực thăng đưa con đi đánh golf'",
+      "link": "https://vnexpress.net/mat-vu-my-bi-dieu-tra-vi-lo-tin-ong-vance-dieu-truc-thang-dua-con-di-danh-golf-5101005.html",
+      "summary": "Cận vệ của Phó tổng thống Vance bị điều tra với cáo buộc rò rỉ thông tin về lịch trình cá nhân của ông và gia đình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-24T00:32:14+07:00",
+      "fetched": "2026-07-24T08:48:34.080596+07:00"
+    },
+    {
+      "id": "c4c81bbf37cf33198352b128436c5982",
+      "title": "Thuế nhập khẩu mới của Mỹ lên 60 nền kinh tế sắp có hiệu lực",
+      "link": "https://vnexpress.net/thue-nhap-khau-moi-cua-my-len-60-nen-kinh-te-sap-co-hieu-luc-5101003.html",
+      "summary": "Mỹ sẽ áp thuế nhập khẩu mới từ ngày 24/7 với hàng chục đối tác thương mại, thay thế mức thuế tạm thời 10% hiện tại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T00:19:41+07:00",
+      "fetched": "2026-07-24T08:48:27.621845+07:00"
+    },
+    {
+      "id": "c4c81bbf37cf33198352b128436c5982",
+      "title": "Thuế nhập khẩu mới của Mỹ lên 60 nền kinh tế sắp có hiệu lực",
+      "link": "https://vnexpress.net/thue-nhap-khau-moi-cua-my-len-60-nen-kinh-te-sap-co-hieu-luc-5101003.html",
+      "summary": "Mỹ sẽ áp thuế nhập khẩu mới từ ngày 24/7 với hàng chục đối tác thương mại, thay thế mức thuế tạm thời 10% hiện tại.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-24T00:19:41+07:00",
+      "fetched": "2026-07-24T08:48:35.392124+07:00"
     },
     {
       "id": "f564c28b632f102d4cd54d0ce4a5ae36",
@@ -261,6 +741,76 @@ window.newsData_2026_07_24 = {
       "category": "Tổng hợp",
       "published": "2026-07-24T00:08:47.347913+07:00",
       "fetched": "2026-07-24T00:08:47.348085+07:00"
+    },
+    {
+      "id": "0f75b6512307c16d2d1cc88e46a61e5e",
+      "title": "Làng Lò trước cơ hội thành 'làng du lịch tốt nhất thế giới'",
+      "link": "https://vnexpress.net/lang-lo-truoc-co-hoi-thanh-lang-du-lich-tot-nhat-the-gioi-5096317.html",
+      "summary": "Làng chài Lò 3 được đề cử giải thưởng \"Làng du lịch tốt nhất thế giới\" của UN Tourism nhưng đối mặt những tranh luận về tốc độ phát triển, tính cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T00:05:57+07:00",
+      "fetched": "2026-07-24T08:48:27.621973+07:00"
+    },
+    {
+      "id": "ed085ebb0debd3424ca03235e203dde8",
+      "title": "Tổng thống Mỹ ra điều kiện để duyệt thỏa thuận hạt nhân với Arab Saudi",
+      "link": "https://vnexpress.net/tong-thong-my-ra-dieu-kien-de-duyet-thoa-thuan-hat-nhan-voi-arab-saudi-5100973.html",
+      "summary": "Tổng thống Trump bất ngờ yêu cầu Arab Saudi bình thường hóa quan hệ với Israel để thỏa thuận hạt nhân được thông qua, điều Riyadh khó thực hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T00:02:00+07:00",
+      "fetched": "2026-07-24T08:48:27.622095+07:00"
+    },
+    {
+      "id": "ed085ebb0debd3424ca03235e203dde8",
+      "title": "Tổng thống Mỹ ra điều kiện để duyệt thỏa thuận hạt nhân với Arab Saudi",
+      "link": "https://vnexpress.net/tong-thong-my-ra-dieu-kien-de-duyet-thoa-thuan-hat-nhan-voi-arab-saudi-5100973.html",
+      "summary": "Tổng thống Trump bất ngờ yêu cầu Arab Saudi bình thường hóa quan hệ với Israel để thỏa thuận hạt nhân được thông qua, điều Riyadh khó thực hiện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-24T00:02:00+07:00",
+      "fetched": "2026-07-24T08:48:34.080738+07:00"
+    },
+    {
+      "id": "c336258528753bdb6e466c95f5a1202d",
+      "title": "Startup xây trung tâm dữ liệu 1 GW, có thể chỉ dùng chip Trung Quốc",
+      "link": "https://vnexpress.net/startup-xay-trung-tam-du-lieu-1-gw-co-the-chi-dung-chip-trung-quoc-5100463.html",
+      "summary": "Công ty Trung Quốc Z.ai (Zhipu AI) được cho là đã xây xong và bắt đầu vận hành trung tâm dữ liệu khổng lồ sử dụng hoàn toàn chip nội địa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T00:00:00+07:00",
+      "fetched": "2026-07-24T08:48:27.622221+07:00"
+    },
+    {
+      "id": "c336258528753bdb6e466c95f5a1202d",
+      "title": "Startup xây trung tâm dữ liệu 1 GW, có thể chỉ dùng chip Trung Quốc",
+      "link": "https://vnexpress.net/startup-xay-trung-tam-du-lieu-1-gw-co-the-chi-dung-chip-trung-quoc-5100463.html",
+      "summary": "Công ty Trung Quốc Z.ai (Zhipu AI) được cho là đã xây xong và bắt đầu vận hành trung tâm dữ liệu khổng lồ sử dụng hoàn toàn chip nội địa.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-24T00:00:00+07:00",
+      "fetched": "2026-07-24T08:48:38.557727+07:00"
+    },
+    {
+      "id": "a956fcaacd346347c3f007e042619d02",
+      "title": "Timor Leste – Việt Nam: Bắt đầu bảo vệ ngôi vương Đông Nam Á",
+      "link": "https://vnexpress.net/timor-leste-viet-nam-bat-dau-bao-ve-ngoi-vuong-dong-nam-a-5100980.html",
+      "summary": "Tham vọng của Việt Nam trong hành trình bảo vệ chức vô địch ASEAN Cup được đánh dấu từ hôm nay, với trận ra quân gặp Timor Leste ở bảng A.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-23T23:51:33+07:00",
+      "fetched": "2026-07-24T08:48:40.737597+07:00"
+    },
+    {
+      "id": "b36d130c6f0ce1696564771a94f6f7b1",
+      "title": "Ông Trump: 'Tôi đang cân nhắc tập kích lớn chưa từng thấy vào Iran'",
+      "link": "https://vnexpress.net/ong-trump-toi-dang-can-nhac-tap-kich-lon-chua-tung-thay-vao-iran-5100990.html",
+      "summary": "Tổng thống Mỹ tuyên bố đang xem xét tập kích quy mô lớn nhằm vào Iran, cho rằng nước này \"chưa chịu đủ đau đớn\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-23T23:23:28+07:00",
+      "fetched": "2026-07-24T08:48:34.080877+07:00"
     },
     {
       "id": "f504577a72757ee2ca38a4218f1cf611",
