@@ -1,6 +1,6 @@
 window.newsData_2026_07_26 = {
   "date": "2026-07-26",
-  "lastUpdated": "2026-07-26T03:39:58.187901+07:00",
+  "lastUpdated": "2026-07-26T05:43:07.748986+07:00",
   "articles": [
     {
       "id": "bf5466b8236318929763ab83c1888ed3",
@@ -161,6 +161,176 @@ window.newsData_2026_07_26 = {
       "category": "Tổng hợp",
       "published": "2026-07-26T01:52:47.928846+07:00",
       "fetched": "2026-07-26T01:52:47.928988+07:00"
+    },
+    {
+      "id": "44d8aa7585c10b178a934ac992d9d5df",
+      "title": "Hiểm họa tiềm tàng từ mô hình AI nổi loạn",
+      "link": "https://thanhnien.vn/hiem-hoa-tiem-tang-tu-mo-hinh-ai-noi-loan-185260725213213889.htm",
+      "summary": "Vụ việc các mô hình trí tuệ nhân tạo (AI) thuộc Công ty OpenAI (Mỹ) \"vượt rào\" trong quá trình thử nghiệm mới đây đã gióng hồi chuông báo động, khiến các nhà lập pháp Mỹ đề xuất dự luật mới nhằm ngăn ngừa thảm họa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:39:00+07:00",
+      "fetched": "2026-07-26T05:42:58.070987+07:00"
+    },
+    {
+      "id": "b3d12ff64c345eeafa83cf8a173acd31",
+      "title": "Không bất ngờ với Hoàng Hên",
+      "link": "https://thanhnien.vn/khong-bat-ngo-voi-hoang-hen-185260725213207577.htm",
+      "summary": "Đỗ Hoàng Hên tiếp tục khẳng định đẳng cấp của mình bằng màn trình diễn chói sáng trước Timor Leste, điều mà người hâm mộ đã được chứng kiến trong suốt mùa giải V-League 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:39:00+07:00",
+      "fetched": "2026-07-26T05:42:58.071101+07:00"
+    },
+    {
+      "id": "66ad6c903d526427d790628653af6b0f",
+      "title": "Mở thêm hy vọng đưa liệt sĩ về với gia đình",
+      "link": "https://thanhnien.vn/mo-them-hy-vong-dua-liet-si-ve-voi-gia-dinh-185260725212256914.htm",
+      "summary": "Từng chiếc răng, mẩu xương được làm sạch, mã hóa và bảo quản nghiêm ngặt, mang theo hy vọng xác định danh tính liệt sĩ sau gần 60 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:35:00+07:00",
+      "fetched": "2026-07-26T05:42:58.071203+07:00"
+    },
+    {
+      "id": "de88edc55a628116a7ac2f4803da7f5f",
+      "title": "Tái thiết không gian đô thị",
+      "link": "https://thanhnien.vn/tai-thiet-khong-gian-do-thi-185260725215823477.htm",
+      "summary": "Bạn đọc tán thành di dời cảng ra khỏi nội đô TP.HCM, đồng thời đề nghị hoàn thiện các tuyến kết nối vận tải để rút ngắn thời gian vận chuyển từ cảng ra đường bộ liên vùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:34:00+07:00",
+      "fetched": "2026-07-26T05:42:58.071303+07:00"
+    },
+    {
+      "id": "da62fb7e9fa8cdcb8504091f4b93ef1b",
+      "title": "Tiêu điểm quốc tế 26.7: Liên quân Ả Rập Xê Út tấn công Houthi | Tập trận đánh chìm tàu chiến Mỹ",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-267-lien-quan-a-rap-xe-ut-tan-cong-houthi-tap-tran-danh-chim-tau-chien-my-185260725215552764.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 26.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:30:00+07:00",
+      "fetched": "2026-07-26T05:42:58.071399+07:00"
+    },
+    {
+      "id": "316c9b511c867dc62d403415ba98813d",
+      "title": "Mua 7 tờ vé, một người ở TP.HCM bất ngờ trúng 2 giải xổ số miền Nam",
+      "link": "https://thanhnien.vn/mua-7-to-ve-mot-nguoi-o-tphcm-bat-ngo-trung-2-giai-xo-so-mien-nam-185260725130032851.htm",
+      "summary": "7 tờ vé số trúng 2 giải xổ số miền Nam được một người ở TP.HCM mang tới đại lý đổi thưởng có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:30:00+07:00",
+      "fetched": "2026-07-26T05:42:58.071493+07:00"
+    },
+    {
+      "id": "ec66d83771898c7c00f92c7e9a2fdc3a",
+      "title": "Ban ngày buồn ngủ, ban đêm trằn trọc: Cơ thể đang cảnh báo điều gì?",
+      "link": "https://thanhnien.vn/ban-ngay-buon-ngu-ban-dem-tran-troc-co-the-dang-canh-bao-dieu-gi-18526072521543542.htm",
+      "summary": "Nếu thường xuyên buồn ngủ vào ban ngày nhưng lại trằn trọc, khó đi vào giấc ngủ vào ban đêm, đó có thể liên quan đến nguy cơ tăng huyết áp - một yếu tố nguy cơ tim mạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:27:00+07:00",
+      "fetched": "2026-07-26T05:42:58.071585+07:00"
+    },
+    {
+      "id": "32df8a14455fc450f62577e57e3c97d3",
+      "title": "Những phiên tòa ly hôn 'khó tin nhưng có thật'",
+      "link": "https://thanhnien.vn/nhung-phien-toa-ly-hon-kho-tin-nhung-co-that-185260706194115714.htm",
+      "summary": "Trong thực tiễn xét xử các vụ án hôn nhân và gia đình, những lý do ly hôn đôi khi khiến nhiều người ngỡ ngàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:25:00+07:00",
+      "fetched": "2026-07-26T05:42:58.071676+07:00"
+    },
+    {
+      "id": "b622bb1986b3c144a7fa8f42c70c67eb",
+      "title": "Tử vi ngày 26 tháng 7: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-26-thang-7-con-giap-nao-may-man-hom-nay-185260725223023764.htm",
+      "summary": "Tử vi ngày 26 tháng 7 mang đến những gợi ý tham khảo cho 12 con giáp. Chúng ta quen đong đếm nhiều thứ bằng con số: thời gian, tiền bạc, thành tích hay số việc hoàn thành trong một ngày. Thế nhưng, có những điều quan trọng nhất lại không thể đo đếm: một giấc ngủ ngon, một bữa cơm đủ người, một cuộc ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:15:00+07:00",
+      "fetched": "2026-07-26T05:42:58.071779+07:00"
+    },
+    {
+      "id": "c67abe3690678485ebf15bb71c13ef14",
+      "title": "Chiến dịch 500 ngày đêm: Dốc sức từ rừng sâu đến nghĩa trang liệt sĩ",
+      "link": "https://thanhnien.vn/chien-dich-500-ngay-dem-doc-suc-tu-rung-sau-den-nghia-trang-liet-si-185260721113821234.htm",
+      "summary": "Những người lính tại Quảng Trị miệt mài băng rừng lần theo từng dấu tích để đưa các liệt sĩ trở về.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:10:00+07:00",
+      "fetched": "2026-07-26T05:42:58.071871+07:00"
+    },
+    {
+      "id": "27fa9a0ce539c0c93db57ab895e0162e",
+      "title": "Phòng khám đa khoa Đà Lạt liên tiếp bị xử phạt, chế tài đã đủ sức răn đe?",
+      "link": "https://thanhnien.vn/phong-kham-da-khoa-da-lat-lien-tiep-bi-xu-phat-che-tai-da-du-suc-ran-de-185260725212308116.htm",
+      "summary": "Sau hơn một năm đi vào hoạt động, Phòng khám đa khoa Đà Lạt liên tiếp bị các cơ quan chức năng xử lý vì nhiều sai phạm trong hoạt động khám chữa bệnh, thuế và hóa đơn. Nhưng liệu việc chế tài đã đủ sức răn đe?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:00:00+07:00",
+      "fetched": "2026-07-26T05:42:58.071968+07:00"
+    },
+    {
+      "id": "69f10c2e932eee985e873fe04e73d941",
+      "title": "Lật ca nô ở Phú Quốc: Bệnh nhân hồi phục, bác sĩ theo chăm sóc đến tận Ấn Độ",
+      "link": "https://thanhnien.vn/lat-ca-no-o-phu-quoc-benh-nhan-hoi-phuc-bac-si-theo-cham-soc-den-tan-an-do-185260725205713452.htm",
+      "summary": "Sau 12 ngày điều trị chuyên sâu tại Bệnh viện Chợ Rẫy, đến ngày 25.7, nạn nhân nặng nhất trong vụ lật ca nô ở Phú Quốc đã chính thức được xuất viện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:00:00+07:00",
+      "fetched": "2026-07-26T05:42:58.072058+07:00"
+    },
+    {
+      "id": "3075a9965c0654596472e2c2e1f88fdd",
+      "title": "Chiến sự Ukraine ngày 1.613: Nga - Ukraine đều tấn công, một nước NATO triển khai F-16",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1613-nga-ukraine-deu-tan-cong-mot-nuoc-nato-trien-khai-f-16-185260725182046558.htm",
+      "summary": "Ukraine cáo buộc Nga phóng gần 160 tên lửa và UAV trong một đêm, trong khi Bộ Quốc phòng Nga tuyên bố đã chặn, phá hủy hơn 320 UAV do Ukraine phóng vào 21 vùng thuộc Nga, bán đảo Crimea và biển Azov.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:00:00+07:00",
+      "fetched": "2026-07-26T05:42:58.072151+07:00"
+    },
+    {
+      "id": "5529104ceab7c895d80f59714a1e3b3f",
+      "title": "Hôm nay 26.7 là ngày gì? Theo lịch âm, ngày Tân Sửu có gì đáng lưu ý?",
+      "link": "https://thanhnien.vn/hom-nay-267-la-ngay-gi-theo-lich-am-ngay-tan-suu-co-gi-dang-luu-y-185260724113753467.htm",
+      "summary": "Theo lịch âm hôm nay 26.7 là ngày Tân Sửu, dân gian quan niệm đây không phải là ngày đẹp để xuất hành, khởi sự. Dương lịch có ngày gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:00:00+07:00",
+      "fetched": "2026-07-26T05:42:58.072241+07:00"
+    },
+    {
+      "id": "4cb37351d88c79eecef5eca61ba92222",
+      "title": "Những người trẻ Trung Quốc 'tháo chạy' khỏi Bắc Kinh",
+      "link": "https://vnexpress.net/nhung-nguoi-tre-trung-quoc-thao-chay-khoi-bac-kinh-5098581.html",
+      "summary": "Nhiều người trẻ Trung Quốc chọn rời Bắc Kinh khi chi phí đắt đỏ và áp lực đè nặng, mở ra xu hướng chuyển dịch tới các thành phố phát triển khác.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-25T22:00:00+07:00",
+      "fetched": "2026-07-26T05:43:01.534949+07:00"
+    },
+    {
+      "id": "ccc6be9a6dd287a4c6af289b8c5a9230",
+      "title": "Số nhân viên Google ngày càng tăng trong làn sóng AI",
+      "link": "https://vnexpress.net/so-nhan-vien-google-ngay-cang-tang-trong-lan-song-ai-5101083.html",
+      "summary": "Khác với hầu hết \"ông lớn\" công nghệ mạnh tay sa thải hàng nghìn nhân sự trong làn sóng AI, Google mở rộng lực lượng lao động thêm 11.830 người.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-25T22:00:00+07:00",
+      "fetched": "2026-07-26T05:43:06.717677+07:00"
+    },
+    {
+      "id": "bec549297e3e8301c2e562f1febc93f5",
+      "title": "Hưởng ứng Chiến dịch 500 ngày đêm: Năm học 'giáo dục truyền thống', tại sao không?",
+      "link": "https://thanhnien.vn/huong-ung-chien-dich-500-ngay-dem-nam-hoc-giao-duc-truyen-thong-tai-sao-khong-185260724105047507.htm",
+      "summary": "Chiến dịch 500 ngày đêm tìm kiếm, quy tập hài cốt liệt sĩ, có ý nghĩa như một hành trình đưa những người con nước Việt trở về.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T21:59:00+07:00",
+      "fetched": "2026-07-26T05:42:58.072332+07:00"
     },
     {
       "id": "d828e4cc8c867d057d4a750ebd48e42c",
