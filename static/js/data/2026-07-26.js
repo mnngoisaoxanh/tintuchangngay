@@ -1,7 +1,17 @@
 window.newsData_2026_07_26 = {
   "date": "2026-07-26",
-  "lastUpdated": "2026-07-26T01:52:56.512476+07:00",
+  "lastUpdated": "2026-07-26T03:39:58.187901+07:00",
   "articles": [
+    {
+      "id": "bf5466b8236318929763ab83c1888ed3",
+      "title": "Thời tiết hôm nay 26-7: Bắc Bộ giảm mưa, Nam Bộ đề phòng mưa dông chiều tối",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-26-7-bac-bo-giam-mua-nam-bo-de-phong-mua-dong-chieu-toi-10026072515573989.htm",
+      "summary": "Hôm nay 26-7, thời tiết Bắc Bộ giảm mưa, Nam Bộ đề phòng mưa dông chiều tối. Cơn bão số 2 dự báo sẽ đổ bộ Quảng Đông (Trung Quốc), không có khả năng ảnh hưởng tới nước ta.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T03:39:50.743791+07:00",
+      "fetched": "2026-07-26T03:39:50.743926+07:00"
+    },
     {
       "id": "ee498f0ef5397c2ab8de21c39633d494",
       "title": "Bị miễn nhiệm, cựu Bộ trưởng Quốc phòng Ukraine được Bộ trưởng Ý mời làm cố vấn",
