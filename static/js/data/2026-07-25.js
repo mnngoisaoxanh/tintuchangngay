@@ -1,7 +1,157 @@
 window.newsData_2026_07_25 = {
   "date": "2026-07-25",
-  "lastUpdated": "2026-07-25T18:01:44.348415+07:00",
+  "lastUpdated": "2026-07-25T20:01:09.446137+07:00",
   "articles": [
+    {
+      "id": "3d77194251ea1e88ab583b7e5fa575eb",
+      "title": "Sức hút của ASEAN trong thế giới 'bất khả dự báo' và vai trò ngày càng lớn của Việt Nam",
+      "link": "https://tuoitre.vn/suc-hut-cua-asean-trong-the-gioi-bat-kha-du-bao-va-vai-tro-ngay-cang-lon-cua-viet-nam-100260725171716473.htm",
+      "summary": "Chuỗi Hội nghị Bộ trưởng Ngoại giao ASEAN thứ 59 (AMM-59) vừa khép lại tại Philippines cho thấy sức hút của khối, cùng vai trò và đóng góp ngày càng lớn của Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T20:01:00.076850+07:00",
+      "fetched": "2026-07-25T20:01:00.076896+07:00"
+    },
+    {
+      "id": "cf063dd04bdc06dafab729778562b468",
+      "title": "NSND Đỗ Quốc Hưng làm Giám đốc Nhạc viện TP.HCM",
+      "link": "https://tuoitre.vn/nsnd-do-quoc-hung-lam-giam-doc-nhac-vien-tphcm-100260725170430331.htm",
+      "summary": "Chiều 25-7, tại TP.HCM đã diễn ra lễ công bố và trao quyết định điều động, bổ nhiệm TS NSND Đỗ Quốc Hưng giữ chức Giám đốc Nhạc viện TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T20:01:00.076767+07:00",
+      "fetched": "2026-07-25T20:01:00.076832+07:00"
+    },
+    {
+      "id": "ee31ca27d644d949f7f2627bb6e659e7",
+      "title": "Cháy lớn kho chứa đồ gia dụng ở xã Bình Hưng, nhiều ô tô, xe máy được di dời kịp thời",
+      "link": "https://tuoitre.vn/chay-lon-kho-chua-do-gia-dung-o-xa-binh-hung-nhieu-o-to-xe-may-duoc-di-doi-kip-thoi-100260725180626933.htm",
+      "summary": "Chiều 25-7, một vụ hỏa hoạn lớn xảy ra tại nhà kho chứa hàng hóa là các mặt hàng gia dụng nằm gần ngã tư Nguyễn Văn Linh - Phạm Hùng, xã Bình Hưng (TP.HCM), thiêu rụi khoảng 350/1.000m² nhà kho cùng nhiều hàng hóa, vật dụng bên trong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T20:01:00.076442+07:00",
+      "fetched": "2026-07-25T20:01:00.076752+07:00"
+    },
+    {
+      "id": "610990ace61fc6e9d9e4ade92138cc8c",
+      "title": "Huy động xe cuốc hỗ trợ người dân tháo dỡ nhà, giao mặt bằng dự án nâng cấp quốc lộ 22 TP.HCM",
+      "link": "https://tuoitre.vn/huy-dong-xe-cuoc-ho-tro-nguoi-dan-thao-do-nha-giao-mat-bang-du-an-nang-cap-quoc-lo-22-tphcm-100260725175501061.htm",
+      "summary": "Xã Xuân Thới Sơn (TP.HCM) huy động xe cuốc cùng nhân công hỗ trợ người dân tháo dỡ nhà để bàn giao mặt bằng cho dự án cải tạo, nâng cấp quốc lộ 22 (nay là đường Lê Quang Đạo).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T20:01:00.076391+07:00",
+      "fetched": "2026-07-25T20:01:00.076434+07:00"
+    },
+    {
+      "id": "848999708949b2debd1f4fc3fde2e122",
+      "title": "Dòng người tiễn đưa 34 liệt sĩ về Nghĩa trang liệt sĩ quốc gia Vị Xuyên",
+      "link": "https://tuoitre.vn/dong-nguoi-tien-dua-34-liet-si-ve-nghia-trang-liet-si-quoc-gia-vi-xuyen-100260725164540409.htm",
+      "summary": "Dọc tuyến đường hơn 40km, từ xã Thanh Thủy đến Nghĩa trang liệt sĩ quốc gia Vị Xuyên, hàng trăm người đã đội nắng tiễn đưa 34 liệt sĩ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T20:01:00.076341+07:00",
+      "fetched": "2026-07-25T20:01:00.076383+07:00"
+    },
+    {
+      "id": "485966f95d59a42457671dcd6278c81b",
+      "title": "Giải tỏa áp lực, tập tiết chế qua nét cọ thư pháp",
+      "link": "https://tuoitre.vn/giai-toa-ap-luc-tap-tiet-che-qua-net-co-thu-phap-100260725161126405.htm",
+      "summary": "Không dành ngày nghỉ lướt mạng xã hội hay xem phim, nhiều học sinh, sinh viên và cả những bạn trẻ đã đi làm tại TP.HCM tìm đến thư pháp chữ Việt như một cách thư giãn, giải tỏa áp lực và rèn sự kiên nhẫn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T20:01:00.076290+07:00",
+      "fetched": "2026-07-25T20:01:00.076334+07:00"
+    },
+    {
+      "id": "6feb08266a0a7848c41fa2cdb92ae9d2",
+      "title": "Rưng rưng cảnh bộ đội hành quân trở về trong vòng tay yêu thương của nhân dân",
+      "link": "https://tuoitre.vn/rung-rung-canh-bo-doi-hanh-quan-tro-ve-trong-vong-tay-yeu-thuong-cua-nhan-dan-100260725174219137.htm",
+      "summary": "Hình ảnh những người lính hành quân với ba lô, cây súng và chiếc xe đạp thồ, trở về sau chiến thắng trong vòng tay chào đón yêu thương của nhân dân khiến người xem xúc động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T20:01:00.076241+07:00",
+      "fetched": "2026-07-25T20:01:00.076282+07:00"
+    },
+    {
+      "id": "42e739ed7b18acee58995dadac86e789",
+      "title": "Lào - Thái Lan (20h): Yooyen làm đội trưởng, 'voi chiến' chưa bung sức",
+      "link": "https://tuoitre.vn/lao-thai-lan-20h-yooyen-lam-doi-truong-voi-chien-chua-bung-suc-10026072512255889.htm",
+      "summary": "Tuyển Thái Lan không tung ra sân đội hình mạnh nhất trong chuyến làm khách của Lào ở lượt trận đầu tiên bảng B - ASEAN Cup 2026. Trận đấu bắt đầu lúc 20h hôm nay 25-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T20:01:00.076191+07:00",
+      "fetched": "2026-07-25T20:01:00.076233+07:00"
+    },
+    {
+      "id": "2d21389950a0ff4ff106b1e85c61fc6f",
+      "title": "Vingroup tặng 50% giá vé show Đất nước thiên hùng ca",
+      "link": "https://tuoitre.vn/vingroup-tang-50-gia-ve-show-dat-nuoc-thien-hung-ca-100260725185209381.htm",
+      "summary": "Để tri ân người có công với đất nước, động viên người cao tuổi và lan tỏa lòng tự hào dân tộc tới học sinh, sinh viên, Tập đoàn Vingroup triển khai tặng 50% giá vé chương trình nghệ thuật Đất nước thiên hùng ca cho các khán giả trên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T20:01:00.076141+07:00",
+      "fetched": "2026-07-25T20:01:00.076184+07:00"
+    },
+    {
+      "id": "681433e26d1ad622e35cf35fdc9814ce",
+      "title": "'Mét tư' vẫn lên hình làm mẫu, tạo kênh để thêm thu nhập",
+      "link": "https://tuoitre.vn/met-tu-van-len-hinh-lam-mau-tao-kenh-de-them-thu-nhap-100260724105913873.htm",
+      "summary": "'Cao 1,44m, nặng 38kg mặc gì?' - Lưu Thị May (26 tuổi, Hà Nội) mở đầu clip chủ đề mặc đẹp với câu hỏi ấy kèm những bộ váy dài, áo kiểu đủ màu sắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T20:01:00.076092+07:00",
+      "fetched": "2026-07-25T20:01:00.076134+07:00"
+    },
+    {
+      "id": "6b6737a6a26eaa430931e3304aa95814",
+      "title": "Bộ trưởng Giáo dục Ấn Độ từ chức sau bê bối lộ đề thi",
+      "link": "https://tuoitre.vn/bo-truong-giao-duc-an-do-tu-chuc-sau-be-boi-lo-de-thi-100260725172311039.htm",
+      "summary": "Bộ trưởng Giáo dục Ấn Độ từ chức sau nhiều tuần sinh viên biểu tình phản đối lộ đề thi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T20:01:00.076044+07:00",
+      "fetched": "2026-07-25T20:01:00.076085+07:00"
+    },
+    {
+      "id": "73477e62824578ebb05e4df583541a39",
+      "title": "BIDV và VietinBank thu xếp 7.300 tỉ đồng cho Nhà máy Nhiệt điện Ô Môn IV",
+      "link": "https://tuoitre.vn/bidv-va-vietinbank-thu-xep-7300-ti-dong-cho-nha-may-nhiet-dien-o-mon-iv-10026072517594879.htm",
+      "summary": "BIDV và VietinBank vừa thu xếp khoản tín dụng 7.300 tỉ đồng cho Petrovietnam triển khai Dự án Nhà máy Nhiệt điện Ô Môn IV, góp phần tăng cường an ninh năng lượng quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T20:01:00.075990+07:00",
+      "fetched": "2026-07-25T20:01:00.076036+07:00"
+    },
+    {
+      "id": "81de25e4cd84bfed6104662d4ecf1fdb",
+      "title": "Tìm người biết thông tin về 5 hài cốt liệt sĩ, có di vật ghi chữ THU - DO 'T62 - 20'",
+      "link": "https://tuoitre.vn/tim-nguoi-biet-thong-tin-ve-5-hai-cot-liet-si-co-di-vat-ghi-chu-thu-do-t62-20-100260725175501125.htm",
+      "summary": "Trong 3 ngày tìm kiếm, Đội quy tập hài cốt liệt sĩ Đoàn Kinh tế - Quốc phòng 337 đã quy tập 5 hài cốt liệt sĩ, trong đó có bàn chải đánh răng màu xanh có chữ THU - DO (hoặc ĐO) 'T62 - 20'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T20:01:00.075934+07:00",
+      "fetched": "2026-07-25T20:01:00.075982+07:00"
+    },
+    {
+      "id": "6f9e3b45397f285bdea0460a40184433",
+      "title": "Sóng to, dông lốc, tàu cá cùng 38 ngư dân bị hỏng bánh lái ở Trường Sa",
+      "link": "https://tuoitre.vn/song-to-dong-loc-tau-ca-cung-38-ngu-dan-bi-hong-banh-lai-o-truong-sa-100260725185914601.htm",
+      "summary": "Đang di chuyển tìm nơi tránh dông lốc tại khu vực đảo Đá Nam (quần đảo Trường Sa), tàu cá bị rơi bánh lái khỏi trục, mất khả năng điều khiển giữa sóng to gió lớn. 38 ngư dân trên tàu đang được các lực lượng tích cực hỗ trợ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T20:01:00.075870+07:00",
+      "fetched": "2026-07-25T20:01:00.075925+07:00"
+    },
+    {
+      "id": "16165131e8299de92c499ab733afce69",
+      "title": "Chủ tịch DIG Corp Nguyễn Hùng Cường không còn là cổ đông lớn sau loạt đợt bị bán giải chấp",
+      "link": "https://tuoitre.vn/chu-tich-dig-corp-nguyen-hung-cuong-khong-con-la-co-dong-lon-sau-loat-dot-bi-ban-giai-chap-100260725184929188.htm",
+      "summary": "Sau khi bị các công ty chứng khoán liên tục bán giải chấp lượng lớn cổ phiếu trong những ngày qua, ông Nguyễn Hùng Cường - chủ tịch Hội đồng quản trị DIG đã chính thức không còn là cổ đông lớn tại doanh nghiệp này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T20:01:00.075718+07:00",
+      "fetched": "2026-07-25T20:01:00.075860+07:00"
+    },
     {
       "id": "36db6d07c9dfbbc20d7c39c760752fc4",
       "title": "Thắp ngọn nến tri ân, đến thăm Mẹ Việt Nam anh hùng",
@@ -453,6 +603,276 @@ window.newsData_2026_07_25 = {
       "fetched": "2026-07-25T14:49:57.862297+07:00"
     },
     {
+      "id": "14f2ec605c145ea8b72bf10a60c0b06c",
+      "title": "Houthi tấn công đáp trả Ả Rập Xê Út",
+      "link": "https://thanhnien.vn/houthi-tan-cong-dap-tra-a-rap-xe-ut-185260725191947979.htm",
+      "summary": "Lực lượng Houthi ở Yemen vừa nhận trách nhiệm về vụ tấn công bằng tên lửa vào Ả Rập Xê Út hôm nay 25.7, khi giao tranh giữa đồng minh khu vực của Mỹ và Iran leo thang ở một mặt trận mới, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:50:00+07:00",
+      "fetched": "2026-07-25T20:00:58.372512+07:00"
+    },
+    {
+      "id": "f73df7193ce9b12257cbbdb8013ac65d",
+      "title": "Cháy quán bia, lan sang lán xưởng tạm ở Hà Nội",
+      "link": "https://vnexpress.net/chay-quan-bia-lan-sang-lan-xuong-tam-o-ha-noi-5101631.html",
+      "summary": "Quán bia trên đường Tân Triều mới, phường Thanh Liệt bốc cháy ngùn ngụt, sau đó lan sang lán xưởng tạm phía sau, chiều 25/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:45:19+07:00",
+      "fetched": "2026-07-25T20:00:55.194773+07:00"
+    },
+    {
+      "id": "a79287e65c4114c3ce9047642082c0f9",
+      "title": "Highlight đội tuyển Myanmar 1-2 Malaysia: Ngược dòng kịch tính | ASEAN Cup 2026",
+      "link": "https://thanhnien.vn/highlight-doi-tuyen-myanmar-1-2-malaysia-nguoc-dong-kich-tinh-asean-cup-2026-18526072519434067.htm",
+      "summary": "Đội tuyển Malaysia lội ngược dòng đánh bại đội tuyển Myanmar với tỷ số 2-1 ở lượt trận mở màn ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:43:00+07:00",
+      "fetched": "2026-07-25T20:00:58.372673+07:00"
+    },
+    {
+      "id": "7a3a174a619c181ca5c01076d3d40756",
+      "title": "Quảng Ngãi: Đồng bào Xơ Đăng đổi súng tự chế lấy quà",
+      "link": "https://thanhnien.vn/quang-ngai-dong-bao-xo-dang-doi-sung-tu-che-lay-qua-185260725190911589.htm",
+      "summary": "Hưởng ứng chương trình đổi súng tự chế, nhận quà dân sinh, các hộ dân Xơ Đăng ở xã Tu Mơ Rông (Quảng Ngãi) đã tự nguyện giao nộp 15 khẩu súng tự chế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:42:00+07:00",
+      "fetched": "2026-07-25T20:00:58.372810+07:00"
+    },
+    {
+      "id": "c9d14bfe73c1899fa058d493a570c815",
+      "title": "Bộ Công an tri ân thương binh, liệt sĩ tại An Giang",
+      "link": "https://thanhnien.vn/bo-cong-an-tri-an-thuong-binh-liet-si-tai-an-giang-185260725184253683.htm",
+      "summary": "Đoàn đại biểu Đảng ủy Công an T.Ư do thượng tướng Lê Văn Tuyến, Ủy viên T.Ư Đảng, Thứ trưởng Bộ Công an, làm trưởng đoàn đã đến An Giang tổ chức nhiều hoạt động ý nghĩa, nhân kỷ niệm 79 năm Ngày Thương binh - liệt sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:36:00+07:00",
+      "fetched": "2026-07-25T20:00:58.372941+07:00"
+    },
+    {
+      "id": "957d3b5f74a2e589146b81867a0e0800",
+      "title": "U.21 SLNA vô địch kịch tính, sao U.23 Việt Nam Cao Văn Bình giành cú đúp danh hiệu",
+      "link": "https://thanhnien.vn/u21-slna-vo-dich-kich-tinh-sao-u23-viet-nam-cao-van-binh-gianh-cu-dup-danh-hieu-185260725190856584.htm",
+      "summary": "U.21 SLNA xuất sắc đánh bại U.21 Thể Công Viettel với tỷ số 1-0 ở trận chung kết diễn ra chiều 25.7 trên sân PVF (Hưng Yên), qua đó đăng quang giải bóng đá vô địch U.21 quốc gia – Cúp FPT Play 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:34:00+07:00",
+      "fetched": "2026-07-25T20:00:58.373070+07:00"
+    },
+    {
+      "id": "29169d7ff95d0fd3492d3525a8cb24d9",
+      "title": "Kết quả xổ số Vietlott Power 6/55 tối 25.7, giải độc đắc tăng 45,7 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-power-6-55-toi-257-giai-doc-dac-tang-457-ti-dong-185260725190320397.htm",
+      "summary": "Tối 25.7, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55 và ghi nhận không có người trúng độc đắc nên số tiền cộng dồn là 45,7 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:33:00+07:00",
+      "fetched": "2026-07-25T20:00:58.373193+07:00"
+    },
+    {
+      "id": "c18be5787c599c5798f79b17fb76c646",
+      "title": "Danh sách 58.153 doanh nghiệp tại Hà Nội ngừng hoạt động nhưng chưa đóng mã số thuế",
+      "link": "https://thanhnien.vn/danh-sach-58153-doanh-nghiep-tai-ha-noi-ngung-hoat-dong-nhung-chua-dong-ma-so-thue-185260725184302156.htm",
+      "summary": "Thuế TP.Hà Nội vừa công khai danh sách 150.461 người nộp thuế có mã số thuế ở trạng thái 03 (ngừng hoạt động nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực mã số thuế) và 06 (không hoạt động tại địa chỉ đã đăng ký).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:30:00+07:00",
+      "fetched": "2026-07-25T20:00:58.373319+07:00"
+    },
+    {
+      "id": "0be4ed9ee7fccb02768dfc6c2e022c4f",
+      "title": "Thi đạt 2 - 3 điểm môn chuyên vẫn đỗ vào trường chuyên: Có đúng quy chế?",
+      "link": "https://thanhnien.vn/thi-dat-2-3-diem-mon-chuyen-van-do-vao-truong-chuyen-co-dung-quy-che-185260725183248354.htm",
+      "summary": "Trước băn khoăn của phụ huynh về việc thí sinh chỉ đạt khoảng 2 - 3 điểm thi môn chuyên vẫn trúng tuyển vào trường chuyên ở Đắk Lắk, lãnh đạo tỉnh khẳng định tuyển sinh đúng quy chế, đề thi có sự phân hóa cao, chọn lọc học sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:25:00+07:00",
+      "fetched": "2026-07-25T20:00:58.373440+07:00"
+    },
+    {
+      "id": "55c309a9acb4609d074324ff0fb40e7b",
+      "title": "Đại tướng Phan Văn Giang dâng hương tưởng niệm liệt sĩ tại công viên Lê Thị Riêng",
+      "link": "https://thanhnien.vn/dai-tuong-phan-van-giang-dang-huong-tuong-niem-liet-si-tai-cong-vien-le-thi-rieng-185260725183123912.htm",
+      "summary": "Sáng 25.7.2026, đại tướng Phan Văn Giang cùng đoàn công tác Bộ Quốc phòng đã đến dâng hương tưởng niệm các anh hùng liệt sĩ tại công viên Lê Thị Riêng (TP.HCM), đồng thời trực tiếp kiểm tra hiện trường, thăm hỏi và trao quà động viên lực lượng đang làm nhiệm vụ quy tập hài cốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:24:00+07:00",
+      "fetched": "2026-07-25T20:00:58.373561+07:00"
+    },
+    {
+      "id": "d9807e7c25dd0c8f8b9f3b8002fffdae",
+      "title": "Bí thư Thành ủy TP.HCM Trần Lưu Quang thăm, tặng quà cho cựu tù Côn Đảo",
+      "link": "https://thanhnien.vn/bi-thu-thanh-uy-tphcm-tran-luu-quang-tham-tang-cuu-tu-con-dao-185260725190948338.htm",
+      "summary": "Đoàn công tác của Thành ủy, HĐND, UBND, Ủy ban MTTQ Việt Nam TP.HCM do Bí thư Thành ủy TP.HCM Trần Lưu Quang dẫn đầu đã thăm, tặng quà cho các cựu tù chính trị, gia đình liệt sĩ, người có công với cách mạng tại đặc khu Côn Đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:23:00+07:00",
+      "fetched": "2026-07-25T20:00:58.373701+07:00"
+    },
+    {
+      "id": "d098d89a11388a1ddd09a71187e312c7",
+      "title": "Vingroup giảm 50% giá vé show 'Đất nước thiên hùng ca'",
+      "link": "https://vnexpress.net/vingroup-giam-50-gia-ve-show-dat-nuoc-thien-hung-ca-5101605.html",
+      "summary": "Vingroup ưu đãi 50% giá vé show \"Đất nước thiên hùng ca\" cho cựu chiến binh, người cao tuổi và học sinh, sinh viên, từ nay đến 31/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:15:00+07:00",
+      "fetched": "2026-07-25T20:00:55.194935+07:00"
+    },
+    {
+      "id": "d42a6b90f8130d37f84202c5a1a05356",
+      "title": "ASEAN Cup 2026, Lào 0-0 Thái Lan: Chủ nhà khó tạo địa chấn",
+      "link": "https://thanhnien.vn/truc-tiep-doi-tuyen-lao-dau-thai-lan-asean-cup-2026-chu-nha-kho-tao-dia-chan-185260725180052264.htm",
+      "summary": "Được thi đấu trên sân nhà nhưng đội tuyển Lào khó tạo bất ngờ cho Thái Lan ở trận đấu diễn ra lúc 20 giờ hôm nay trong khuôn khổ bảng B, ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:12:00+07:00",
+      "fetched": "2026-07-25T20:00:58.373831+07:00"
+    },
+    {
+      "id": "7bd5a5ea5fccea238983c5fac807e888",
+      "title": "ASEAN Cup 2026: Malaysia lội ngược dòng, thắng nghẹt thở trên sân Myanmar",
+      "link": "https://thanhnien.vn/asean-cup-2026-malaysia-loi-nguoc-dong-thang-nghet-tho-tren-san-myanmar-185260725190343943.htm",
+      "summary": "Ở trận mở màn bàng B ASEAN Cup 2026, Myanmar đã sớm có bàn thắng và tạo ra nhiều cơ hội, tiếc rằng sự thiếu kinh nghiệm đã để Malaysia thắng ngược 2-1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:11:00+07:00",
+      "fetched": "2026-07-25T20:00:58.373952+07:00"
+    },
+    {
+      "id": "308f8471b56d79ff865a4c087252b1bb",
+      "title": "Lại Mai Hoa: 'Tôi đắt show không phải nhờ may mắn'",
+      "link": "https://vnexpress.net/lai-mai-hoa-toi-dat-show-khong-phai-nho-may-man-5094158.html",
+      "summary": "Người mẫu Gen Z Lại Mai Hoa nói việc cô liên tục xuất hiện trên sàn diễn lớn không đến từ may mắn mà là kết quả của quá trình rèn luyện, kỷ luật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:07:22+07:00",
+      "fetched": "2026-07-25T20:00:55.195073+07:00"
+    },
+    {
+      "id": "f178e72e79680c8757a70402262ca199",
+      "title": "Bộ trưởng Giáo dục Ấn Độ từ chức sau bê bối lộ đề thi",
+      "link": "https://vnexpress.net/bo-truong-giao-duc-an-do-tu-chuc-sau-be-boi-lo-de-thi-5101618.html",
+      "summary": "Bộ trưởng Giáo dục Ấn Độ Pradhan từ chức sau làn sóng biểu tình yêu cầu ông chịu trách nhiệm với bê bối lộ đề trong kỳ tuyển sinh đại học y quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:01:11+07:00",
+      "fetched": "2026-07-25T20:00:55.195202+07:00"
+    },
+    {
+      "id": "f178e72e79680c8757a70402262ca199",
+      "title": "Bộ trưởng Giáo dục Ấn Độ từ chức sau bê bối lộ đề thi",
+      "link": "https://vnexpress.net/bo-truong-giao-duc-an-do-tu-chuc-sau-be-boi-lo-de-thi-5101618.html",
+      "summary": "Bộ trưởng Giáo dục Ấn Độ Pradhan từ chức sau làn sóng biểu tình yêu cầu ông chịu trách nhiệm với bê bối lộ đề trong kỳ tuyển sinh đại học y quốc gia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-25T12:01:11+07:00",
+      "fetched": "2026-07-25T20:01:01.592835+07:00"
+    },
+    {
+      "id": "17201d538fe78cebc014ee03407128b5",
+      "title": "Lào - Thái Lan: Đội khách dùng lực lượng mới mẻ",
+      "link": "https://vnexpress.net/lao-vs-thai-lan-5101617.html",
+      "summary": "Bóng lăn lúc 20h. Đương kim á quân Thái Lan ra quân gặp chủ nhà Lào ở bảng B ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:00:00+07:00",
+      "fetched": "2026-07-25T20:00:55.195329+07:00"
+    },
+    {
+      "id": "54089da49f794c52ec71dec00925326d",
+      "title": "Vợ chồng ở trọ dù mẹ chồng có hai căn hộ cho thuê",
+      "link": "https://vnexpress.net/vo-chong-o-tro-du-me-chong-co-hai-can-ho-cho-thue-5101578.html",
+      "summary": "Có hai căn hộ cho thuê nhưng không cho con trai con dâu ở, mẹ chồng cho rằng muốn ở riêng thì phải tự lập về tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:00:00+07:00",
+      "fetched": "2026-07-25T20:00:55.195450+07:00"
+    },
+    {
+      "id": "17a4f7f8e99808e3af04ee3b1f9c063f",
+      "title": "Ông Trump dần cạn hy vọng đàm phán với Iran",
+      "link": "https://vnexpress.net/ong-trump-dan-can-hy-vong-dam-phan-voi-iran-5101237.html",
+      "summary": "Sau nhiều tháng theo đuổi giải pháp ngoại giao, ông Trump dường như dần mất niềm tin vào việc đạt được thỏa thuận với Iran và nghiêng về giải pháp quân sự cứng rắn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:00:00+07:00",
+      "fetched": "2026-07-25T20:00:55.195571+07:00"
+    },
+    {
+      "id": "88d4099fa27e38dae95f5716417aca28",
+      "title": "Giới chuyên gia nói gì khi Moonshot bị tố 'chưng cất' AI Mỹ?",
+      "link": "https://vnexpress.net/gioi-chuyen-gia-noi-gi-khi-moonshot-bi-to-chung-cat-ai-my-5101167.html",
+      "summary": "Một số chuyên gia nhận định chưa có bằng chứng nào thể hiện Moonshot AI \"chưng cất\" các mô hình trí tuệ nhân tạo của Anthropic để phát triển Kimi K3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:00:00+07:00",
+      "fetched": "2026-07-25T20:00:55.195711+07:00"
+    },
+    {
+      "id": "16f3f6347a498b0678da97c8e0bb9bd8",
+      "title": "Bơi có làm lây thủy đậu?",
+      "link": "https://vnexpress.net/boi-co-lam-lay-thuy-dau-5101516.html",
+      "summary": "Một người sống cùng tòa chung cư mắc zona thần kinh đã bơi chung với con tôi, vậy con tôi có khả năng bị lây bệnh không? (Hồng Lĩnh, 32 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:00:00+07:00",
+      "fetched": "2026-07-25T20:00:55.195832+07:00"
+    },
+    {
+      "id": "8be16e93ac478c275b8d0ecf72ae7c01",
+      "title": "Nam Long Gallery khai trương tại Thủ Thiêm",
+      "link": "https://vnexpress.net/nam-long-gallery-khai-truong-tai-thu-thiem-5100589.html",
+      "summary": "Nam Long Gallery đặt tại khu đô thị Sala (Thủ Thiêm), khai trương ngày 25/7, mang đến không gian trải nghiệm các dự án đô thị tích hợp như Izumi City, Elyse Island.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:00:00+07:00",
+      "fetched": "2026-07-25T20:00:55.195955+07:00"
+    },
+    {
+      "id": "e7e3d808543f568553e7354f53387a3b",
+      "title": "Bỏ túi 'bí kíp' của sinh viên cho năm học mới năng động",
+      "link": "https://thanhnien.vn/bo-tui-bi-kip-cua-sinh-vien-cho-nam-hoc-moi-nang-dong-185260725164712521.htm",
+      "summary": "Một mùa tựu trường lại đang đến khi tất cả các sinh viên đã chuẩn bị rục rịch cho hành trang trở lại với giảng đường, trong số đó, hàng nghìn bạn trẻ tân sinh viên đang bắt đầu một hành trình hoàn toàn mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:00:00+07:00",
+      "fetched": "2026-07-25T20:00:58.374076+07:00"
+    },
+    {
+      "id": "17a4f7f8e99808e3af04ee3b1f9c063f",
+      "title": "Ông Trump dần cạn hy vọng đàm phán với Iran",
+      "link": "https://vnexpress.net/ong-trump-dan-can-hy-vong-dam-phan-voi-iran-5101237.html",
+      "summary": "Sau nhiều tháng theo đuổi giải pháp ngoại giao, ông Trump dường như dần mất niềm tin vào việc đạt được thỏa thuận với Iran và nghiêng về giải pháp quân sự cứng rắn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-25T12:00:00+07:00",
+      "fetched": "2026-07-25T20:01:01.592992+07:00"
+    },
+    {
+      "id": "88d4099fa27e38dae95f5716417aca28",
+      "title": "Giới chuyên gia nói gì khi Moonshot bị tố 'chưng cất' AI Mỹ?",
+      "link": "https://vnexpress.net/gioi-chuyen-gia-noi-gi-khi-moonshot-bi-to-chung-cat-ai-my-5101167.html",
+      "summary": "Một số chuyên gia nhận định chưa có bằng chứng nào thể hiện Moonshot AI \"chưng cất\" các mô hình trí tuệ nhân tạo của Anthropic để phát triển Kimi K3.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-25T12:00:00+07:00",
+      "fetched": "2026-07-25T20:01:07.822077+07:00"
+    },
+    {
+      "id": "17201d538fe78cebc014ee03407128b5",
+      "title": "Lào - Thái Lan: CĐV đội khách đến sân sớm",
+      "link": "https://vnexpress.net/lao-vs-thai-lan-5101617.html",
+      "summary": "Bóng lăn lúc 20h. Thái Lan ra quân gặp chủ nhà Lào ở bảng B ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-25T12:00:00+07:00",
+      "fetched": "2026-07-25T20:01:09.435012+07:00"
+    },
+    {
       "id": "0c5301afcea87a47b5a0c6e27074fb2c",
       "title": "Vụ ông Trump áp thuế quan mới với 60 đối tác toàn cầu: 2 doanh nghiệp Mỹ khởi kiện",
       "link": "https://tuoitre.vn/vu-ong-trump-ap-thue-quan-moi-voi-60-doi-tac-toan-cau-2-doanh-nghiep-my-khoi-kien-100260725094052978.htm",
@@ -601,6 +1021,96 @@ window.newsData_2026_07_25 = {
       "category": "Tổng hợp",
       "published": "2026-07-25T11:56:44.884132+07:00",
       "fetched": "2026-07-25T11:56:44.884276+07:00"
+    },
+    {
+      "id": "687dd55dbf0293d41b1d9200375e238c",
+      "title": "Indonesia gọi cầu thủ dù CLB Hà Lan chưa đồng ý",
+      "link": "https://vnexpress.net/indonesia-goi-cau-thu-du-clb-ha-lan-chua-dong-y-5101616.html",
+      "summary": "Fortuna Sittard bất ngờ khi đội tuyển Indonesia triệu tập trung vệ Justin Hubner, dù CLB đã xác nhận không nhả người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T11:56:39+07:00",
+      "fetched": "2026-07-25T20:00:55.196075+07:00"
+    },
+    {
+      "id": "687dd55dbf0293d41b1d9200375e238c",
+      "title": "Indonesia gọi cầu thủ dù CLB Hà Lan chưa đồng ý",
+      "link": "https://vnexpress.net/indonesia-goi-cau-thu-du-clb-ha-lan-chua-dong-y-5101616.html",
+      "summary": "Fortuna Sittard bất ngờ khi đội tuyển Indonesia triệu tập trung vệ Justin Hubner, dù CLB đã xác nhận không nhả người.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-25T11:56:39+07:00",
+      "fetched": "2026-07-25T20:01:09.435167+07:00"
+    },
+    {
+      "id": "2d441e2243ae10989b7b39712a8edd3e",
+      "title": "Mở rộng đối tượng được công nhận là người có công với cách mạng",
+      "link": "https://thanhnien.vn/mo-rong-doi-tuong-duoc-cong-nhan-la-nguoi-co-cong-voi-cach-mang-185260725174612692.htm",
+      "summary": "Những người làm nhiệm vụ ở biên giới, hải đảo; làm nghĩa vụ quốc tế ở Lào, Campuchia và được Nhà nước khen tặng Huân chương Chiến công sẽ được công nhận là người có công với cách mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T11:54:00+07:00",
+      "fetched": "2026-07-25T20:00:58.374196+07:00"
+    },
+    {
+      "id": "9c734e352b632279e6ce33ee8087431b",
+      "title": "Hà Nội: Đang cháy lớn tại xưởng giấy ở Thanh Liệt",
+      "link": "https://thanhnien.vn/ha-noi-dang-chay-lon-tai-xuong-giay-o-thanh-liet-18526072519124253.htm",
+      "summary": "Chiều 25.7, tại P.Thanh Liệt (Hà Nội) bất ngờ xảy ra vụ cháy lớn bắt nguồn từ một xưởng giấy trong khu vực. Hiện chưa ghi nhận thiệt hại về người, lực lượng cứu hỏa đã khẩn trương tới hiện trường để khống chế đám cháy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T11:45:00+07:00",
+      "fetched": "2026-07-25T20:00:58.374320+07:00"
+    },
+    {
+      "id": "0359bb1da1953254fc6a8f6f9923a54d",
+      "title": "NSND Quốc Hưng làm Giám đốc Nhạc viện TP HCM",
+      "link": "https://vnexpress.net/nsnd-quoc-hung-lam-giam-doc-nhac-vien-tp-hcm-5101600.html",
+      "summary": "Nghệ sĩ Nhân dân Quốc Hưng - giọng ca opera hàng đầu trong nước - được bổ nhiệm làm Giám đốc Nhạc viện TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T11:41:24+07:00",
+      "fetched": "2026-07-25T20:00:55.196195+07:00"
+    },
+    {
+      "id": "f4e4b1c6bcf99d9d6d34a42082103160",
+      "title": "Hà Nội dự kiến có thêm hơn 162.000 căn hộ đến năm 2030",
+      "link": "https://vnexpress.net/ha-noi-du-kien-co-them-hon-162-000-can-ho-den-nam-2030-5101609.html",
+      "summary": "Hà Nội vừa cập nhật danh mục 40 dự án nhà ở, khu đô thị với tổng nguồn cung trên 170.000 căn hộ, trong đó 95% hoàn thành đến 2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T11:32:28+07:00",
+      "fetched": "2026-07-25T20:00:55.196312+07:00"
+    },
+    {
+      "id": "e08eb60b6b187085c02c17b982f7a919",
+      "title": "Dự kiến bỏ thời hạn tối đa 12 tháng ủy quyền nhận lương hưu",
+      "link": "https://vnexpress.net/du-kien-bo-thoi-han-toi-da-12-thang-uy-quyen-nhan-luong-huu-5101610.html",
+      "summary": "Bộ Nội vụ đề xuất người hưởng lương hưu, chế độ bảo hiểm xã hội (BHXH) vẫn làm văn bản ủy quyền song bỏ thời hạn tối đa 12 tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T11:31:42+07:00",
+      "fetched": "2026-07-25T20:00:55.196432+07:00"
+    },
+    {
+      "id": "b350563393726fdcfba7e2dd5325cb4c",
+      "title": "Hưng Yên được định hướng lên thành phố trực thuộc Trung ương trước năm 2030",
+      "link": "https://vnexpress.net/hung-yen-duoc-dinh-huong-len-thanh-pho-truc-thuoc-trung-uong-truoc-nam-2030-5101573.html",
+      "summary": "Phó thủ tướng yêu cầu tỉnh Hưng Yên đẩy nhanh tiến độ lập quy hoạch đô thị và nông thôn, đáp ứng phát triển đa mục tiêu, phấn đấu lên thành phố trực thuộc Trung ương trước năm 2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T11:22:05+07:00",
+      "fetched": "2026-07-25T20:00:55.196554+07:00"
+    },
+    {
+      "id": "adaf64c07054a97a172ba645be578133",
+      "title": "LG gram Pro AI - laptop 16 inch siêu mỏng nhẹ",
+      "link": "https://vnexpress.net/lg-gram-pro-ai-laptop-16-inch-sieu-mong-nhe-5101430.html",
+      "summary": "LG gram Pro AI trang bị màn hình 16 inch nhưng mỏng 12,4 mm và nặng 1,2 kg, có thể chạy nhiều tính năng AI không cần kết nối Internet.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-25T11:17:39+07:00",
+      "fetched": "2026-07-25T20:01:07.822648+07:00"
     },
     {
       "id": "2632d79eb2850f83ad483fefd0a2fffa",
