@@ -1,7 +1,157 @@
 window.newsData_2026_07_25 = {
   "date": "2026-07-25",
-  "lastUpdated": "2026-07-25T16:27:40.091531+07:00",
+  "lastUpdated": "2026-07-25T18:01:44.348415+07:00",
   "articles": [
+    {
+      "id": "36db6d07c9dfbbc20d7c39c760752fc4",
+      "title": "Thắp ngọn nến tri ân, đến thăm Mẹ Việt Nam anh hùng",
+      "link": "https://tuoitre.vn/thap-ngon-nen-tri-an-den-tham-me-viet-nam-anh-hung-100260725102330947.htm",
+      "summary": "Hòa trong chuỗi hoạt động hướng về Ngày Thương binh - Liệt sĩ, các bạn trẻ tại TP.HCM đã tổ chức lễ thắp nến tri ân, đến thăm các Mẹ Việt Nam anh hùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T18:01:37.956065+07:00",
+      "fetched": "2026-07-25T18:01:37.956135+07:00"
+    },
+    {
+      "id": "ddff19d728263f2882f76f8754a5cc94",
+      "title": "Tân Bí thư Cần Thơ cam kết 'nói ít làm nhiều, làm đến cùng'",
+      "link": "https://tuoitre.vn/tan-bi-thu-can-tho-cam-ket-noi-it-lam-nhieu-lam-den-cung-100260725155433319.htm",
+      "summary": "Tân Bí thư Cần Thơ Đỗ Thanh Bình đã có những chia sẻ trong lần thứ 2 ông được giữ chức vụ Bí thư Thành ủy Cần Thơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T18:01:37.955956+07:00",
+      "fetched": "2026-07-25T18:01:37.956050+07:00"
+    },
+    {
+      "id": "bbb1e26ec5e65c457745266b2687951b",
+      "title": "Hàng công quá mượt của đội tuyển Việt Nam",
+      "link": "https://tuoitre.vn/hang-cong-qua-muot-cua-doi-tuyen-viet-nam-100260725160547674.htm",
+      "summary": "Đình Bắc ra mắt ASEAN Cup 2026 bằng một hat-trick vào lưới Timor-Leste. Nhưng điều đáng chú ý hơn cả chính là sự ăn ý của hàng công đội tuyển Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T18:01:37.955874+07:00",
+      "fetched": "2026-07-25T18:01:37.955945+07:00"
+    },
+    {
+      "id": "3d0f4f4a4ced5f5b1a4012670751c102",
+      "title": "Chìm tàu cá ở Trường Sa: Đang tìm kiếm 3 ngư dân mất tích",
+      "link": "https://tuoitre.vn/chim-tau-ca-o-truong-sa-dang-tim-kiem-3-ngu-dan-mat-tich-100260725155728419.htm",
+      "summary": "Tàu cá QNg-95267-TS chở 36 ngư dân bị chìm do gặp dông lốc mạnh trên vùng biển Trường Sa. 33 ngư dân được cứu, 3 người vẫn đang mất tích. Hiện nhiều lực lượng và ngư dân phối hợp tìm kiếm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T18:01:37.955750+07:00",
+      "fetched": "2026-07-25T18:01:37.955859+07:00"
+    },
+    {
+      "id": "f4d9f50e678562bee5208a4d44b5090a",
+      "title": "Bão số 2 mạnh lên cấp 12, giật cấp 15, liệu có đổi hướng vào Việt Nam?",
+      "link": "https://tuoitre.vn/bao-so-2-manh-len-cap-12-giat-cap-15-lieu-co-doi-huong-vao-viet-nam-100260725155218926.htm",
+      "summary": "Chiều nay 25-7, gió bão số 2 (Noul) tiếp tục mạnh lên cấp 12 (118-133km/h), giật cấp 15 và đang tiếp tục hướng về phía Trung Quốc, gần như không có khả năng đổi hướng đi về phía Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T18:01:37.955406+07:00",
+      "fetched": "2026-07-25T18:01:37.955725+07:00"
+    },
+    {
+      "id": "f7797464faf7f56895d0a5479e9e2a45",
+      "title": "Giới thiệu những điểm mới của Pháp lệnh Ưu đãi người có công với cách mạng",
+      "link": "https://tuoitre.vn/gioi-thieu-nhung-diem-moi-cua-phap-lenh-uu-dai-nguoi-co-cong-voi-cach-mang-100260725161709572.htm",
+      "summary": "Chiều 25-7, Văn phòng Chủ tịch nước tổ chức họp báo công bố các pháp lệnh đã được Ủy ban Thường vụ Quốc hội khóa XVI thông qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T18:01:37.955338+07:00",
+      "fetched": "2026-07-25T18:01:37.955396+07:00"
+    },
+    {
+      "id": "b632d62c8df147544082ca9db7d5b91a",
+      "title": "Ông Trump bất ngờ đổi chuyên cơ vì lo bị nhắm mục tiêu",
+      "link": "https://tuoitre.vn/ong-trump-bat-ngo-doi-chuyen-co-vi-lo-bi-nham-muc-tieu-100260725160324669.htm",
+      "summary": "Ông Trump đã đổi chuyên cơ tại Thổ Nhĩ Kỳ sau khi có thông tin tình báo cho rằng ông có thể bị lực lượng thân Iran nhắm mục tiêu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T18:01:37.955271+07:00",
+      "fetched": "2026-07-25T18:01:37.955328+07:00"
+    },
+    {
+      "id": "fe6c00ba6a3c7ad7d7ad899c9e0e3d63",
+      "title": "Nửa đầu năm 2026, BSR lập kỷ lục sản lượng và doanh thu",
+      "link": "https://tuoitre.vn/nua-dau-nam-2026-bsr-lap-ky-luc-san-luong-va-doanh-thu-100260725162557958.htm",
+      "summary": "Tổng Công ty Lọc hóa dầu Việt Nam (BSR) đã ghi nhận kết quả sản xuất kinh doanh cao nhất kể từ khi đi vào hoạt động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T18:01:37.955203+07:00",
+      "fetched": "2026-07-25T18:01:37.955260+07:00"
+    },
+    {
+      "id": "cd8fc82ef1291d28ee8f17ae183e5268",
+      "title": "Các kỳ thủ Việt Nam thi đấu xuất sắc tại Giải cờ vua trẻ châu Á 2026",
+      "link": "https://tuoitre.vn/cac-ky-thu-viet-nam-thi-dau-xuat-sac-tai-giai-co-vua-tre-chau-a-2026-100260725163952209.htm",
+      "summary": "Khép lại hành trình tranh tài tại Giải cờ vua trẻ châu Á vào ngày 24-7, các kỳ thủ Việt Nam đã để lại dấu ấn đậm nét ở cả ba nội dung cờ tiêu chuẩn, cờ nhanh và cờ chớp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T18:01:37.955127+07:00",
+      "fetched": "2026-07-25T18:01:37.955193+07:00"
+    },
+    {
+      "id": "fe4fcde0b9e169a371229bc3f17f4fa1",
+      "title": "Xung đột Mỹ - Iran khiến Biển Đỏ 'dậy sóng', Iran có thêm đòn bẩy?",
+      "link": "https://tuoitre.vn/xung-dot-my-iran-khien-bien-do-day-song-iran-co-them-don-bay-100260725164311976.htm",
+      "summary": "Việc Houthi phong tỏa Bab el-Mandeb cho thấy Iran đang nắm giữ lợi thế đòn bẩy chưa từng có tại Trung Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T18:01:37.955055+07:00",
+      "fetched": "2026-07-25T18:01:37.955116+07:00"
+    },
+    {
+      "id": "92ed1f8a754d400ee9058d4c20ff0bc4",
+      "title": "Xử lý nhóm hơn 40 thanh thiếu niên rượt đuổi, đánh nhau ở Nha Trang",
+      "link": "https://tuoitre.vn/xu-ly-nhom-hon-40-thanh-thieu-nien-ruot-duoi-danh-nhau-o-nha-trang-100260725161655064.htm",
+      "summary": "Nhóm khoảng 40 thanh thiếu niên cầm chổi rượt đuổi, đánh nhau ở phường Nam Nha Trang (Khánh Hòa) khiến náo loạn cả khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T18:01:37.954960+07:00",
+      "fetched": "2026-07-25T18:01:37.955042+07:00"
+    },
+    {
+      "id": "b656cda59adb262ae2fc621fa06ee345",
+      "title": "Nhiều tổng lãnh sự cùng rảo bước khắp trung tâm TP.HCM",
+      "link": "https://tuoitre.vn/nhieu-tong-lanh-su-cung-rao-buoc-khap-trung-tam-tphcm-10026072516132895.htm",
+      "summary": "Tổng lãnh sự và nhân viên ngoại giao các nước tại TP.HCM đã đi bộ qua các công trình biểu tượng để tìm hiểu lịch sử và trải nghiệm đời sống người dân TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T18:01:37.954890+07:00",
+      "fetched": "2026-07-25T18:01:37.954949+07:00"
+    },
+    {
+      "id": "9dd2fb4425b7732962ab21d38c04c07d",
+      "title": "Vụ ngộ độc khí tại trang trại nuôi heo: 8 nạn nhân từ nguy kịch đã hồi phục, được xuất viện",
+      "link": "https://tuoitre.vn/vu-ngo-doc-khi-tai-trang-trai-nuoi-heo-8-nan-nhan-tu-nguy-kich-da-hoi-phuc-duoc-xuat-vien-100260725163535423.htm",
+      "summary": "Hai nạn nhân cuối cùng trong vụ ngộ độc khí sun phua hydro (H2S) tại một trang trại chăn nuôi heo ở Thanh Hóa đã được xuất viện sau nhiều ngày điều trị tại Bệnh viện Bạch Mai cơ sở Ninh Bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T18:01:37.954809+07:00",
+      "fetched": "2026-07-25T18:01:37.954879+07:00"
+    },
+    {
+      "id": "6d6339b84b2cbc535c12a57945ec4ad3",
+      "title": "Thêm hài cốt liệt sĩ tìm thấy ở hang đá, bộ đội được yêu cầu tiếp tục bám trụ trong rừng tìm kiếm",
+      "link": "https://tuoitre.vn/them-hai-cot-liet-si-tim-thay-o-hang-da-bo-doi-duoc-yeu-cau-tiep-tuc-bam-tru-trong-rung-tim-kiem-100260725162947597.htm",
+      "summary": "Ngày 25-7, trong quá trình tiếp tục mở rộng phạm vi tìm kiếm tại khu vực sâu bên trong hang Đá Sập (K600), xã Hà Nha, Đội Tìm kiếm, quy tập hài cốt liệt sĩ Bộ Chỉ huy Quân sự thành phố Đà Nẵng đã phát hiện và cất bốc thêm 1 hài cốt liệt sĩ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T18:01:37.954728+07:00",
+      "fetched": "2026-07-25T18:01:37.954797+07:00"
+    },
+    {
+      "id": "cbe9f8d403a932fb7e8933bb4231a72d",
+      "title": "TP.HCM đạt mốc 1 triệu người dân được khám sức khỏe và lập Hồ sơ sức khỏe điện tử",
+      "link": "https://tuoitre.vn/tphcm-dat-moc-1-trieu-nguoi-dan-duoc-kham-suc-khoe-va-lap-ho-so-suc-khoe-dien-tu-100260725162129525.htm",
+      "summary": "Chỉ sau 2 tháng kể từ khi UBND TP.HCM ban hành Kế hoạch khám sức khỏe toàn dân, thành phố đã đạt mốc 1 triệu người dân được khám sức khỏe và lập Hồ sơ sức khỏe điện tử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T18:01:37.954576+07:00",
+      "fetched": "2026-07-25T18:01:37.954713+07:00"
+    },
     {
       "id": "b0a0b889763e7735fe1fb8da8c7801e0",
       "title": "Phú Quốc vào top 10 hòn đảo hấp dẫn nhất thế giới của Expedia",
@@ -453,6 +603,236 @@ window.newsData_2026_07_25 = {
       "fetched": "2026-07-25T11:56:44.884276+07:00"
     },
     {
+      "id": "2632d79eb2850f83ad483fefd0a2fffa",
+      "title": "Tôn vinh dáng cổ kiêu kỳ từ những chiếc dây chuyền mảnh",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ton-vinh-dang-co-kieu-ky-tu-nhung-chiec-day-chuyen-manh-185260724204039144.htm",
+      "summary": "Chỉ một sợi dây chuyền mảnh ôm nhẹ làn da, điểm xuyết viên đá lấp lánh, cũng đủ khiến thần thái của người phụ nữ trở nên kiêu kỳ mà không cần bất kỳ sự phô trương nào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T11:00:00+07:00",
+      "fetched": "2026-07-25T18:01:36.528792+07:00"
+    },
+    {
+      "id": "183c3c1ae074a7322141bfda6bfdc498",
+      "title": "Bộ trưởng GD-ĐT: Xây dựng chương trình hành động về trung thực",
+      "link": "https://thanhnien.vn/bo-truong-gd-dt-xay-dung-chuong-trinh-hanh-dong-ve-trung-thuc-185260725170942983.htm",
+      "summary": "Bộ trưởng Bộ GD-ĐT Hoàng Minh Sơn cho biết, tại Hội nghị Trung ương vừa qua, Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu cần đưa nội dung về trung thực vào nội hàm phát triển giáo dục. Bộ GD-ĐT khẳng định quyết tâm xây dựng chương trình hành động về nội dung này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T10:59:00+07:00",
+      "fetched": "2026-07-25T18:01:36.528962+07:00"
+    },
+    {
+      "id": "6b6ac2cbb78fb6cd75687468ac7c733e",
+      "title": "Đà Nẵng chấp thuận đầu tư Khu công nghiệp VSIP 138 triệu USD",
+      "link": "https://thanhnien.vn/da-nang-chap-thuan-dau-tu-khu-cong-nghiep-vsip-138-trieu-usd-185260725172133078.htm",
+      "summary": "UBND thành phố Đà Nẵng vừa chấp thuận chủ trương đầu tư, đồng thời chấp thuận nhà đầu tư thực hiện dự án Khu công nghiệp VSIP Đà Nẵng với tổng vốn đầu tư hơn 138 triệu USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T10:57:00+07:00",
+      "fetched": "2026-07-25T18:01:36.529188+07:00"
+    },
+    {
+      "id": "5ad5b7b5bcad1e51285819ea6bb5171d",
+      "title": "Quảng Trị: Phát hiện 5 hài cốt liệt sĩ cùng di vật khắc ký hiệu",
+      "link": "https://thanhnien.vn/quang-tri-phat-hien-5-hai-cot-liet-si-cung-di-vat-khac-ky-hieu-185260725172549559.htm",
+      "summary": "Đội Tìm kiếm, quy tập hài cốt liệt sĩ Đoàn Kinh tế - Quốc phòng 337 vừa tìm kiếm, quy tập được 5 hài cốt liệt sĩ cùng nhiều di vật có chứa ký hiệu, thông tin liệt sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T10:56:00+07:00",
+      "fetched": "2026-07-25T18:01:36.529352+07:00"
+    },
+    {
+      "id": "6f4a5bae4b06379ef936309f77eaaee5",
+      "title": "Sun PhuQuoc Airways mở 2 đường bay, kín khách ngay ngày đầu",
+      "link": "https://thanhnien.vn/sun-phuquoc-airways-mo-2-duong-bay-kin-khach-ngay-ngay-dau-185260725163905932.htm",
+      "summary": "2 đường bay Hải Phòng đi TP.HCM và Phú Quốc do Sun PhuQuoc Airways khai thác chính thức cất cánh từ ngày 25.7 đều đạt tỷ lệ lấp đầy rất cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T10:53:00+07:00",
+      "fetched": "2026-07-25T18:01:36.529507+07:00"
+    },
+    {
+      "id": "e5357efc7a2ae73bfb381c3d78e36447",
+      "title": "Phát hiện thêm hài cốt liệt sĩ tại Hang Đá Sập, khoanh vùng vị trí mới",
+      "link": "https://thanhnien.vn/phat-hien-them-hai-cot-liet-si-tai-hang-da-sap-khoanh-vung-vi-tri-moi-185260725170040124.htm",
+      "summary": "Mở rộng phạm vi tìm kiếm tại hang Đá Sập ở Đà Nẵng, lực lượng quy tập hài cốt liệt sĩ vừa phát hiện thêm 1 hài cốt và tiếp tục khoanh vùng một vị trí có nhiều dấu hiệu nghi còn hài cốt liệt sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T10:51:00+07:00",
+      "fetched": "2026-07-25T18:01:36.529661+07:00"
+    },
+    {
+      "id": "e00615933976a971bae14aa681dd2999",
+      "title": "Khánh Hòa đề xuất làm mới không gian nghệ thuật ven biển sau gần 20 năm",
+      "link": "https://thanhnien.vn/khanh-hoa-de-xuat-lam-moi-khong-gian-nghe-thuat-ven-bien-sau-gan-20-nam-185260725173024198.htm",
+      "summary": "Sau gần 20 năm chịu tác động của nắng, gió và hơi muối biển, nhiều tác phẩm điêu khắc ven biển Nha Trang đã xuống cấp. Khánh Hòa đang đề xuất phục hồi, bổ sung tác phẩm mới để làm sống lại không gian nghệ thuật ven biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T10:46:00+07:00",
+      "fetched": "2026-07-25T18:01:36.529813+07:00"
+    },
+    {
+      "id": "3f670700998fe91874fc392395c2c0e9",
+      "title": "Người đàn ông ở Cà Mau được ghép thận lần thứ ba",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-o-ca-mau-duoc-ghep-than-lan-thu-ba-185260725170626361.htm",
+      "summary": "Đây là ca ghép thận lần thứ ba đầu tiên ở Bệnh viện Nhân dân 115 và là ca thứ hai tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T10:45:00+07:00",
+      "fetched": "2026-07-25T18:01:36.529963+07:00"
+    },
+    {
+      "id": "c20cc7ea8dab22ee534ad19fac22b5aa",
+      "title": "Đội tuyển Việt Nam ra quân ấn tượng, truyền thông Indonesia và Thái Lan thán phục",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-ra-quan-an-tuong-truyen-thong-indonesia-va-thai-lan-than-phuc-185260725173245385.htm",
+      "summary": "Sau chiến thắng đậm 7-0 của đội tuyển Việt Nam trước Timor Leste tối 24.7, truyền thông Thái Lan lẫn Indonesia đồng loạt dành những lời có cánh để khen đội bóng đang được dẫn dắt bởi HLV Kim Sang-sik.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T10:42:00+07:00",
+      "fetched": "2026-07-25T18:01:36.530148+07:00"
+    },
+    {
+      "id": "8370025f196e5bcc4de77de00d8c1b9a",
+      "title": "Tân Bí thư Thành ủy Cần Thơ Đỗ Thanh Bình nói về những việc cần làm ngay",
+      "link": "https://thanhnien.vn/tan-bi-thu-thanh-uy-can-tho-do-thanh-binh-noi-ve-nhung-viec-can-lam-ngay-185260725161642956.htm",
+      "summary": "Lần thứ hai giữ chức Bí thư Thành ủy Cần Thơ, ông Đỗ Thanh Bình bày tỏ cảm xúc gần gũi, quen thuộc nhưng cũng nhiều suy nghĩ, trăn trở về sự phát triển của thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T10:41:00+07:00",
+      "fetched": "2026-07-25T18:01:36.530314+07:00"
+    },
+    {
+      "id": "0f8bfcb6771a96b002c7d11d28d9c412",
+      "title": "Xổ số miền Nam ngày 25 tháng 7: Một người trúng số 1,6 tỉ đài Hậu Giang",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-25-thang-7-mot-nguoi-trung-so-16-ti-dai-hau-giang-185260725163730637.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 25 tháng 7, một người trúng số 1,6 tỉ đài Hậu Giang sau khi chi 1,6 triệu đồng mua 160 vé.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T10:28:00+07:00",
+      "fetched": "2026-07-25T18:01:36.530475+07:00"
+    },
+    {
+      "id": "9a535ed73683348007a02be4e7058eb9",
+      "title": "Độc đáo tranh bích họa kể câu chuyện về một Việt Nam thống nhất ở Côn Đảo",
+      "link": "https://thanhnien.vn/doc-dao-tranh-bich-hoa-ke-cau-chuyen-ve-mot-viet-nam-thong-nhat-o-con-dao-185260725170129956.htm",
+      "summary": "Tranh bích họa ở Côn Đảo không chỉ tái hiện vẻ đẹp của đất nước trong giai đoạn phát triển sau quá trình sắp xếp, sáp nhập các đơn vị hành chính, công trình còn kể câu chuyện về một Việt Nam thống nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T10:27:00+07:00",
+      "fetched": "2026-07-25T18:01:36.530630+07:00"
+    },
+    {
+      "id": "265741f74522d71eae10f7967e942aa0",
+      "title": "Lâm Đồng xác minh thông tin người dân bị gây khó khi làm sổ đỏ",
+      "link": "https://thanhnien.vn/lam-dong-xac-minh-thong-tin-nguoi-dan-bi-gay-kho-khi-lam-so-do-185260724220235057.htm",
+      "summary": "Lãnh đạo tỉnh Lâm Đồng yêu cầu xác minh thông tin người dân phản ánh bị gây khó khi làm thủ tục cấp sổ đỏ; đồng thời làm rõ trách nhiệm của tổ chức, cá nhân liên quan nếu có sai phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T10:24:00+07:00",
+      "fetched": "2026-07-25T18:01:36.530778+07:00"
+    },
+    {
+      "id": "baea6b62328a520c30ccd46b3bb7fb43",
+      "title": "Houthi tuyên bố phóng tên lửa trả đũa Arab Saudi",
+      "link": "https://vnexpress.net/houthi-tuyen-bo-phong-ten-lua-tra-dua-arab-saudi-5101583.html",
+      "summary": "Houthi thông báo đã phóng tên lửa vào Arab Saudi để đáp trả sau khi liên minh do Riyadh dẫn đầu tập kích nhóm vũ trang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T10:18:40+07:00",
+      "fetched": "2026-07-25T18:01:32.749089+07:00"
+    },
+    {
+      "id": "baea6b62328a520c30ccd46b3bb7fb43",
+      "title": "Houthi tuyên bố phóng tên lửa trả đũa Arab Saudi",
+      "link": "https://vnexpress.net/houthi-tuyen-bo-phong-ten-lua-tra-dua-arab-saudi-5101583.html",
+      "summary": "Houthi thông báo đã phóng tên lửa vào Arab Saudi để đáp trả sau khi liên minh do Riyadh dẫn đầu tập kích nhóm vũ trang.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-25T10:18:40+07:00",
+      "fetched": "2026-07-25T18:01:38.960222+07:00"
+    },
+    {
+      "id": "b9b8499d32dbd31065e6c0c64d72ccbb",
+      "title": "Gel chấm mụn nên dùng khi nào? Những lưu ý trước khi chấm mụn",
+      "link": "https://thanhnien.vn/gel-cham-mun-nen-dung-khi-nao-nhung-luu-y-truoc-khi-cham-mun-185260725171006456.htm",
+      "summary": "Gel chấm mụn là sản phẩm được nhiều người lựa chọn khi xuất hiện các nốt mụn. Tuy nhiên, không phải cứ thấy mụn là chấm, cũng không phải chấm càng nhiều thì mụn càng nhanh khỏi. Theo các chuyên gia, việc sử dụng gel chấm mụn đúng thời điểm và kết hợp routine phù hợp sẽ hỗ trợ cải thiện tình trạng mụ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T10:18:00+07:00",
+      "fetched": "2026-07-25T18:01:36.530927+07:00"
+    },
+    {
+      "id": "be92e88495095d433b91da618b5dbdea",
+      "title": "Samsung sắp mang One UI 9 đến với nhiều thiết bị Galaxy cũ",
+      "link": "https://thanhnien.vn/samsung-sap-mang-one-ui-9-den-voi-nhieu-thiet-bi-galaxy-cu-185260725145519187.htm",
+      "summary": "Xuất hiện tín hiệu cho thấy bản cập nhật One UI 9 Beta sắp được triển khai rộng rãi hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T10:13:00+07:00",
+      "fetched": "2026-07-25T18:01:36.531107+07:00"
+    },
+    {
+      "id": "44196590cc0539bc1f498d2f2ed53d16",
+      "title": "Điểm tin 17h: Việt Nam lên tiếng về việc Mỹ áp mức thuế mới 12,5% | Những đề xuất mới về cấp sổ đỏ",
+      "link": "https://vnexpress.net/diem-tin-17h-viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-nhung-de-xuat-moi-ve-cap-so-do-5101599.html",
+      "summary": "Khoản đóng hưởng tăng khi lương tối thiểu điều chỉnh từ 1/1/2027; Gần 1.500 hài cốt liệt sĩ được quy tập sau 4 tháng;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T10:02:50+07:00",
+      "fetched": "2026-07-25T18:01:32.749277+07:00"
+    },
+    {
+      "id": "110606b3b9a619743c92b597b704e7c6",
+      "title": "Ba nhóm người nên hạn chế dùng nước hầm xương",
+      "link": "https://vnexpress.net/ba-nhom-nguoi-nen-han-che-dung-nuoc-ham-xuong-5101261.html",
+      "summary": "Trẻ ăn dặm, người mắc bệnh chuyển hóa và người cao tuổi loãng xương cần hạn chế sử dụng nước hầm xương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T10:00:00+07:00",
+      "fetched": "2026-07-25T18:01:32.749447+07:00"
+    },
+    {
+      "id": "fa2cdf4bbda50d62cc3b8296e49e3e6e",
+      "title": "Hẹn anh một ngày gần nhất ở Việt Nam",
+      "link": "https://vnexpress.net/hen-anh-mot-ngay-gan-nhat-o-viet-nam-5100692.html",
+      "summary": "Mình thuộc típ người tự lập, một mình vẫn ổn và luôn tự tìm niềm vui cho bản thân mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T10:00:00+07:00",
+      "fetched": "2026-07-25T18:01:32.749609+07:00"
+    },
+    {
+      "id": "7cb210d4fe23eba1c2ea9f3a8ae56e71",
+      "title": "Cựu CEO Techcombank làm Chủ tịch Eximbank",
+      "link": "https://vnexpress.net/cuu-ceo-techcombank-lam-chu-tich-eximbank-5101585.html",
+      "summary": "Eximbank vừa bầu cựu CEO Techcombank, ông Nguyễn Lê Quốc Anh làm chủ tịch, đồng thời có dàn hội đồng quản trị mới đa phần là người nước ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T09:49:09+07:00",
+      "fetched": "2026-07-25T18:01:32.749768+07:00"
+    },
+    {
+      "id": "7cb210d4fe23eba1c2ea9f3a8ae56e71",
+      "title": "Cựu CEO Techcombank làm Chủ tịch Eximbank",
+      "link": "https://vnexpress.net/cuu-ceo-techcombank-lam-chu-tich-eximbank-5101585.html",
+      "summary": "Eximbank vừa bầu cựu CEO Techcombank, ông Nguyễn Lê Quốc Anh làm chủ tịch, đồng thời có dàn hội đồng quản trị mới đa phần là người nước ngoài.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-25T09:49:09+07:00",
+      "fetched": "2026-07-25T18:01:39.825601+07:00"
+    },
+    {
+      "id": "86c3f38ac62989823561846413b77ac9",
+      "title": "Đòi tiền bất thành, đánh 'con nợ' tử vong",
+      "link": "https://vnexpress.net/doi-tien-bat-thanh-danh-con-no-tu-vong-5101588.html",
+      "summary": "Khi không đòi được tiền, nhóm Bùi Trường Thành đã đánh hội đồng trong 15 phút khiến người vay tử vong",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T09:33:38+07:00",
+      "fetched": "2026-07-25T18:01:32.749925+07:00"
+    },
+    {
       "id": "bc1579cf322e4b82f808313eafee2b75",
       "title": "NTK Trần Hùng: Trở về 'nhà' để tiếp tục mang thời trang Việt ra thế giới",
       "link": "https://thanhnien.vn/thoi-trang-tre/ntk-tran-hung-tro-ve-nha-de-tiep-tuc-mang-thoi-trang-viet-ra-the-gioi-185260724190353027.htm",
@@ -461,6 +841,16 @@ window.newsData_2026_07_25 = {
       "category": "Tổng hợp",
       "published": "2026-07-25T09:23:00+07:00",
       "fetched": "2026-07-25T16:27:30.839372+07:00"
+    },
+    {
+      "id": "8009bdb07af24de4ae663fae2244ad72",
+      "title": "VĐV trải nghiệm không khí lễ hội trước giờ xuất phát Hoiana Aquaman 2026",
+      "link": "https://vnexpress.net/vdv-trai-nghiem-khong-khi-le-hoi-truoc-gio-xuat-phat-hoiana-aquaman-2026-5101462.html",
+      "summary": "Hàng trăm VĐV trong và ngoài nước đến Hoiana Resort & Golf ngày 25/7 để nhận bib, race-kit, tham quan expo và chuẩn bị thi đấu giải hai môn phối hợp sáng hôm sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T09:20:00+07:00",
+      "fetched": "2026-07-25T18:01:32.750124+07:00"
     },
     {
       "id": "81fcb2afe14a46e28d774826630e5a06",
