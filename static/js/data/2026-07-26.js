@@ -1,7 +1,157 @@
 window.newsData_2026_07_26 = {
   "date": "2026-07-26",
-  "lastUpdated": "2026-07-26T18:13:10.660252+07:00",
+  "lastUpdated": "2026-07-26T19:58:24.357303+07:00",
   "articles": [
+    {
+      "id": "18342893803ab1081484e446a90a810f",
+      "title": "Dấu vết dài 10.000km hé lộ sao Kim chưa 'chết'",
+      "link": "https://tuoitre.vn/dau-vet-dai-10000-km-he-lo-sao-kim-chua-chet-100260726165912742.htm",
+      "summary": "Những thung lũng đứt gãy khổng lồ cùng dấu vết núi lửa hoạt động cho thấy sao Kim có thể vẫn là một hành tinh 'sống', với lớp vỏ tiếp tục bị kéo giãn bởi nguồn nhiệt mạnh từ sâu bên trong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T19:58:16.988518+07:00",
+      "fetched": "2026-07-26T19:58:16.988555+07:00"
+    },
+    {
+      "id": "feddaac5aecf9fbd1018876244d52e08",
+      "title": "Lấy trộm 21 triệu, bị bắt sau 1 năm rời khỏi địa phương",
+      "link": "https://tuoitre.vn/lay-trom-21-trieu-bi-bat-sau-1-nam-roi-khoi-dia-phuong-100260726170406668.htm",
+      "summary": "Ngày 26-7, thông tin từ Công an phường Sóc Trăng, TP Cần Thơ cho hay vừa tống đạt quyết định khởi tố bị can của cơ quan cảnh sát điều tra đối với Trần Phương về tội “trộm cắp tài sản”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T19:58:16.988477+07:00",
+      "fetched": "2026-07-26T19:58:16.988512+07:00"
+    },
+    {
+      "id": "9ea7f834b89807f3ea2789979cde5937",
+      "title": "AI mở cánh cửa tiếp cận di sản Hán Nôm sau hơn 1.000 năm",
+      "link": "https://tuoitre.vn/ai-mo-canh-cua-tiep-can-di-san-han-nom-sau-hon-1000-nam-100260726164556536.htm",
+      "summary": "Với việc xây dựng thành công hệ thống dịch tự động Hán Nôm bằng AI, đề tài của PGS.TS Đinh Điền và các cộng sự ở Trường ĐH Khoa học tự nhiên (ĐH Quốc gia TP.HCM) vừa được đánh giá hoàn thành loại xuất sắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T19:58:16.988434+07:00",
+      "fetched": "2026-07-26T19:58:16.988470+07:00"
+    },
+    {
+      "id": "4828b15f8431ac0934eb8ad03f893698",
+      "title": "Thành Đoàn TP.HCM tiếp lửa chiến sĩ Mùa hè xanh tại  miền Tây",
+      "link": "https://tuoitre.vn/thanh-doan-tphcm-tiep-lua-chien-si-mua-he-xanh-tai-mien-tay-100260725213748007.htm",
+      "summary": "Đoàn công tác Thành Đoàn TP.HCM đã thăm, động viên các chiến sĩ tình nguyện Mùa hè xanh tại mặt trận tỉnh An Giang, Cà Mau và Đồng Tháp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T19:58:16.988390+07:00",
+      "fetched": "2026-07-26T19:58:16.988428+07:00"
+    },
+    {
+      "id": "aa46900774419fdb48717847795f5ed3",
+      "title": "Tranh cãi bùng nổ, lãnh đạo giới công nghệ chia hai vì AI Trung Quốc",
+      "link": "https://tuoitre.vn/tranh-cai-bung-no-lanh-dao-gioi-cong-nghe-chia-hai-vi-ai-trung-quoc-100260726131625112.htm",
+      "summary": "Trước nguy cơ Mỹ có thể giới hạn các mô hình mã nguồn mở, CEO Nvidia, Google, Microsoft, Meta... cùng nhau ký tên vào một lá thư kiến nghị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T19:58:16.988346+07:00",
+      "fetched": "2026-07-26T19:58:16.988384+07:00"
+    },
+    {
+      "id": "8b5f081138d908a2493e2f1b71983f9b",
+      "title": "Tên lửa Kheibar Shekan: Át chủ bài mới của Iran khiến Mỹ đau đầu",
+      "link": "https://tuoitre.vn/ten-lua-kheibar-shekan-at-chu-bai-moi-cua-iran-khien-my-dau-dau-100260726172824376.htm",
+      "summary": "Tên lửa đạn đạo Kheibar Shekan đang ngày càng giữ vai trò trung tâm trong chiến dịch tấn công của Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T19:58:16.988304+07:00",
+      "fetched": "2026-07-26T19:58:16.988340+07:00"
+    },
+    {
+      "id": "3c65217cc11bb4a00adfba59c9daff72",
+      "title": "Di sản tiếng Việt của những người trẻ lớn lên ở nước ngoài",
+      "link": "https://tuoitre.vn/di-san-tieng-viet-cua-nhung-nguoi-tre-lon-len-o-nuoc-ngoai-100260722213338666.htm",
+      "summary": "Lớn lên trong những nền văn hóa khác nhau, sử dụng nhiều ngôn ngữ khác nhau, nhưng khi trở về Việt Nam, các bạn trẻ vẫn tìm thấy một điểm chung để kết nối: tiếng Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T19:58:16.988258+07:00",
+      "fetched": "2026-07-26T19:58:16.988298+07:00"
+    },
+    {
+      "id": "9796d4bd8b18427ac77bfc9c0e407726",
+      "title": "Thị trường bất động sản TP.HCM ra sao khi loạt dự án được gỡ vướng, nguồn cung bùng nổ?",
+      "link": "https://tuoitre.vn/thi-truong-bat-dong-san-tphcm-ra-sao-khi-loat-du-an-duoc-go-vuong-nguon-cung-bung-no-100260726172720961.htm",
+      "summary": "Sự quyết liệt trong tháo gỡ pháp lý của chính quyền TP.HCM đã tạo điều kiện cho hàng loạt dự án \"đắp chiếu\" nhiều năm nay tái khởi động. Cùng lúc khi thị trường sắp có thêm hơn 21.165 căn đủ điều kiện mở bán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T19:58:16.988213+07:00",
+      "fetched": "2026-07-26T19:58:16.988251+07:00"
+    },
+    {
+      "id": "0482f87dd2c47c2c36fc4f80f2fa583a",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn dâng hương anh hùng liệt sĩ tại công viên Lê Thị Riêng",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-tran-thanh-man-dang-huong-anh-hung-liet-si-tai-cong-vien-le-thi-rieng-100260726102014861.htm",
+      "summary": "Đoàn công tác lãnh đạo Đảng và Nhà nước đã đến dâng hương, dâng hoa và động viên lực lượng tìm kiếm hài cốt liệt sĩ tại công viên Lê Thị Riêng chiều 26-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T19:58:16.988168+07:00",
+      "fetched": "2026-07-26T19:58:16.988206+07:00"
+    },
+    {
+      "id": "d35fb52bb62aa064db33975c825571b2",
+      "title": "Spider-Man mất lợi thế vì The Odyssey 'độc chiếm' IMAX",
+      "link": "https://tuoitre.vn/spider-man-mat-loi-the-vi-the-odyssey-doc-chiem-imax-100260726175616761.htm",
+      "summary": "Kỳ vọng dành cho Spider-Man: Brand New Day đang tăng nhanh khi doanh số vé bán trước liên tục vượt dự báo, nhưng The Odyssey lại có 'át chủ bài' chặn đường Người Nhện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T19:58:16.988122+07:00",
+      "fetched": "2026-07-26T19:58:16.988161+07:00"
+    },
+    {
+      "id": "4b825f6f13831560a18cb1b10d8e38a8",
+      "title": "Tay vợt 36 tuổi tạo 'địa chấn' làng cầu lông",
+      "link": "https://tuoitre.vn/tay-vot-36-tuoi-tao-dia-chan-lang-cau-long-100260726172520445.htm",
+      "summary": "Ở tuổi 36, Chou Tien Chen (Châu Thiên Thành) bất ngờ đạt đến đỉnh cao sự nghiệp khi chinh phục siêu giải đấu cầu lông - Trung Quốc mở rộng 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T19:58:16.988076+07:00",
+      "fetched": "2026-07-26T19:58:16.988115+07:00"
+    },
+    {
+      "id": "b66505d116bddde5d6102c1198a35ac6",
+      "title": "Đưa 34 liệt sĩ hy sinh ở mặt trận Vị Xuyên về với đồng đội",
+      "link": "https://tuoitre.vn/dua-34-liet-si-hy-sinh-o-mat-tran-vi-xuyen-ve-voi-dong-doi-1002607261740078.htm",
+      "summary": "34 liệt sĩ được tìm thấy ở các điểm cao tại mặt trận Vị Xuyên (tỉnh Tuyên Quang) được truy điệu trọng thể và an táng cạnh đồng đội tại Nghĩa trang liệt sĩ quốc gia Vị Xuyên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T19:58:16.988026+07:00",
+      "fetched": "2026-07-26T19:58:16.988070+07:00"
+    },
+    {
+      "id": "af1535bf48dd3c6926ba526bbde6c47f",
+      "title": "Bóng chuyền nam Campuchia lại gây ấn tượng",
+      "link": "https://tuoitre.vn/bong-chuyen-nam-campuchia-lai-gay-an-tuong-100260726174343102.htm",
+      "summary": "Dù không thể tiếp tục tạo nên địa chấn, tuyển bóng chuyền nam Campuchia vẫn tạo nên màn chia tay đẹp ở SEA V.Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T19:58:16.987976+07:00",
+      "fetched": "2026-07-26T19:58:16.988019+07:00"
+    },
+    {
+      "id": "74b799d945174ae85f081af62bb3de70",
+      "title": "Trao phương tiện sinh kế, đồng hành với bạn trẻ có hoàn cảnh khó khăn",
+      "link": "https://tuoitre.vn/trao-phuong-tien-sinh-ke-dong-hanh-voi-ban-tre-co-hoan-canh-kho-khan-100260726172203963.htm",
+      "summary": "Trao phương tiện mưu sinh cho bạn trẻ khó khăn, tư vấn định hướng nghề nghiệp cho học sinh là một trong những hoạt động Đoàn - Hội tại TP.HCM đồng hành cùng bạn trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T19:58:16.987918+07:00",
+      "fetched": "2026-07-26T19:58:16.987969+07:00"
+    },
+    {
+      "id": "d3f05f457e7bede91bf6d1810f33712d",
+      "title": "Nhựa hóa hẻm vào nhà Mẹ Việt Nam anh hùng Nguyễn Thị Bún: Dấu ấn tình đoàn kết quân - dân",
+      "link": "https://tuoitre.vn/nhua-hoa-hem-vao-nha-me-viet-nam-anh-hung-nguyen-thi-bun-dau-an-tinh-doan-ket-quan-dan-100260726175048572.htm",
+      "summary": "Mẹ Việt Nam anh hùng Nguyễn Thị Bún và gia đình bày tỏ niềm vui khi hẻm dẫn vào nhà vừa được xã Thái Mỹ (TP.HCM) phối hợp với Trung đoàn 2, Sư đoàn 9, Quân đoàn 34 nâng cấp, nhựa hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T19:58:16.987779+07:00",
+      "fetched": "2026-07-26T19:58:16.987908+07:00"
+    },
     {
       "id": "b8944dc5dceff234ac60be45fe5a55fe",
       "title": "Thanh niên tình nguyện TP.HCM hành động tưởng nhớ các anh hùng thương binh liệt sĩ",
@@ -303,6 +453,66 @@ window.newsData_2026_07_26 = {
       "fetched": "2026-07-26T15:07:58.278996+07:00"
     },
     {
+      "id": "e234bd60e5ef76f48740953098316e3d",
+      "title": "Á hậu Việt khóc nghẹn trên truyền hình, làm điều đặc biệt cho bé gái 12 tuổi",
+      "link": "https://thanhnien.vn/a-hau-viet-khoc-nghen-tren-truyen-hinh-lam-dieu-dac-biet-cho-be-gai-12-tuoi-18526072619223204.htm",
+      "summary": "Xót xa trước cô bé sống thiếu thốn tình thương, Á hậu Hương Ly quyết định tài trợ toàn bộ chi phí học tập đến lớp 12, động viên em vươn lên trong cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T12:52:00+07:00",
+      "fetched": "2026-07-26T19:58:15.502031+07:00"
+    },
+    {
+      "id": "63b845dbbb2300d873e4ab6278d3b520",
+      "title": "Tàu cổ ở Hội An lại lộ rõ hình hài sau gần 3 năm",
+      "link": "https://thanhnien.vn/tau-co-o-hoi-an-lai-lo-ro-hinh-hai-sau-gan-3-nam-185260726172114179.htm",
+      "summary": "Sau gần 3 năm được phát hiện, con tàu cổ nghi có niên đại thế kỷ 14 - 16 bất ngờ lộ rõ hình hài dưới lớp cát ven biển Hội An (TP.Đà Nẵng) sau những đợt sóng lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T12:49:00+07:00",
+      "fetched": "2026-07-26T19:58:15.502186+07:00"
+    },
+    {
+      "id": "49c2d248546dfdfa9f9e6cdeacf5a4bd",
+      "title": "Phòng không Mỹ 'cố tình bỏ lọt' tên lửa, UAV Iran để tiết kiệm đạn",
+      "link": "https://vnexpress.net/phong-khong-my-co-tinh-bo-lot-ten-lua-uav-iran-de-tiet-kiem-dan-5101819.html",
+      "summary": "Các đơn vị phòng thủ Mỹ tại Trung Đông đang bỏ qua những mục tiêu không trực tiếp đe dọa binh sĩ, nhằm tránh nguy cơ cạn kiệt vũ khí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T12:41:04+07:00",
+      "fetched": "2026-07-26T19:58:12.982131+07:00"
+    },
+    {
+      "id": "49c2d248546dfdfa9f9e6cdeacf5a4bd",
+      "title": "Phòng không Mỹ 'cố tình bỏ lọt' tên lửa, UAV Iran để tiết kiệm đạn",
+      "link": "https://vnexpress.net/phong-khong-my-co-tinh-bo-lot-ten-lua-uav-iran-de-tiet-kiem-dan-5101819.html",
+      "summary": "Các đơn vị phòng thủ Mỹ tại Trung Đông đang bỏ qua những mục tiêu không trực tiếp đe dọa binh sĩ, nhằm tránh nguy cơ cạn kiệt vũ khí.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-26T12:41:04+07:00",
+      "fetched": "2026-07-26T19:58:18.473734+07:00"
+    },
+    {
+      "id": "d5defffaecdd6b51d65c0ecfa7fab93c",
+      "title": "Khám phá bí ẩn công nghệ màn hình trên TV OLED",
+      "link": "https://thanhnien.vn/kham-pha-bi-an-cong-nghe-man-hinh-tren-tv-oled-185260628123842173.htm",
+      "summary": "Tiết lộ bí mật đằng sau sắc đen tuyệt đối của công nghệ màn hình trên TV OLED.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T12:41:00+07:00",
+      "fetched": "2026-07-26T19:58:15.502306+07:00"
+    },
+    {
+      "id": "23288e1570fcb1479cb32fd9b8e83472",
+      "title": "7 tỉnh miền Bắc sắp hứng mưa lớn trên 250 mm trong hơn 1 ngày",
+      "link": "https://thanhnien.vn/7-tinh-mien-bac-sap-hung-mua-lon-tren-250-mm-trong-hon-1-ngay-185260726185438529.htm",
+      "summary": "Cơ quan khí tượng dự báo, từ chiều 27.7 đến đêm 28.7, các tỉnh Thái Nguyên, Tuyên Quang, Phú Thọ, Lào Cai, Lai Châu, Điện Biên, Sơn La sẽ hứng đợt mưa lớn với lượng mưa phổ biến 50 - 120 mm, có nơi trên 250 mm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T12:33:00+07:00",
+      "fetched": "2026-07-26T19:58:15.502425+07:00"
+    },
+    {
       "id": "68ba65bd5ba012f720ebd1a7267e5cad",
       "title": "Spider-Man: Brand New Day khác xa nguyên tác",
       "link": "https://tuoitre.vn/spider-man-brand-new-day-khac-xa-nguyen-tac-100260725203307861.htm",
@@ -451,6 +661,166 @@ window.newsData_2026_07_26 = {
       "category": "Tổng hợp",
       "published": "2026-07-26T12:22:01.991012+07:00",
       "fetched": "2026-07-26T12:22:01.991152+07:00"
+    },
+    {
+      "id": "4822a69ee14e3ead2faa059de4433df3",
+      "title": "Kết quả xổ số Vietlott Mega 6/45 tối 26.7, giải độc đắc tăng 23,2 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-mega-6-45-toi-267-giai-doc-dac-tang-232-ti-dong-185260726190614652.htm",
+      "summary": "Tối 26.7, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45 và ghi nhận không có người trúng giải độc đắc nên số tiền cộng dồn là 23,2 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T12:11:00+07:00",
+      "fetched": "2026-07-26T19:58:15.502539+07:00"
+    },
+    {
+      "id": "fbc3e6157889165cf50b0018fb94a7b9",
+      "title": "Tuổi 22 của Á hậu Châu Anh",
+      "link": "https://vnexpress.net/tuoi-22-cua-a-hau-chau-anh-5101789.html",
+      "summary": "Á hậu Châu Anh cho biết cân bằng giữa tham gia hoạt động showbiz và hoàn thành nhiệm vụ của một thượng úy ở tuổi 22.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T12:00:00+07:00",
+      "fetched": "2026-07-26T19:58:12.982270+07:00"
+    },
+    {
+      "id": "a620ff501c1032233d9e3b6da496d2d9",
+      "title": "Nhà khoa học tạo enzyme tiêu diệt hợp chất gây lão hóa ở người",
+      "link": "https://vnexpress.net/nha-khoa-hoc-tao-enzyme-tieu-diet-hop-chat-gay-lao-hoa-o-nguoi-5101749.html",
+      "summary": "Các nhà nghiên cứu tìm ra giải pháp loại bỏ hợp chất độc hại AGE được xem như \"thủ phạm\" chính gây lão hóa và thúc đẩy bệnh mãn tính ở người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T12:00:00+07:00",
+      "fetched": "2026-07-26T19:58:12.982390+07:00"
+    },
+    {
+      "id": "56dfd7ca1858dfdc9c05b8412d5f0ba4",
+      "title": "Vợ chồng cùng thất nghiệp, nợ hai tỷ đồng và cuộc gọi thay đổi đời tôi",
+      "link": "https://vnexpress.net/vo-chong-cung-that-nghiep-no-hai-ty-dong-va-cuoc-goi-thay-doi-doi-toi-5101698.html",
+      "summary": "Sau tất cả, tôi nhận ra tài sản quý giá nhất không phải tiền bạc mà là uy tín và các mối quan hệ được xây bằng sự tử tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T12:00:00+07:00",
+      "fetched": "2026-07-26T19:58:12.982505+07:00"
+    },
+    {
+      "id": "6057a310d46d5a9d2ac70a8a17ba9806",
+      "title": "4 đồ uống dùng buổi tối tốt cho đường ruột",
+      "link": "https://vnexpress.net/4-do-uong-dung-buoi-toi-tot-cho-duong-ruot-5101650.html",
+      "summary": "Nước lọc, sữa ít béo và một số loại nước ép trái cây, rau củ có thể hỗ trợ tiêu hóa, giảm đầy bụng khi được sử dụng hợp lý vào buổi tối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T12:00:00+07:00",
+      "fetched": "2026-07-26T19:58:12.982614+07:00"
+    },
+    {
+      "id": "5ec168433907b829fc92824eaadb98ae",
+      "title": "Victoria Village mở đầu giai đoạn bàn giao các dự án của Novaland tại trung tâm TP.HCM",
+      "link": "https://thanhnien.vn/victoria-village-mo-dau-giai-doan-ban-giao-cac-du-an-cua-novaland-tai-trung-tam-tphcm-185260726141116079.htm",
+      "summary": "Những ngày đầu tháng 7.2026, Novaland tăng tốc triển khai bàn giao nhà tại Victoria Village. Đây là dự án đầu tiên của Novaland tại khu vực trung tâm TP.HCM hoàn thành xây dựng và bàn giao sau hơn ba năm nỗ lực phục hồi, đánh dấu cột mốc quan trọng trong giai đoạn phục hồi và phát triển bền vững của...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T12:00:00+07:00",
+      "fetched": "2026-07-26T19:58:15.502669+07:00"
+    },
+    {
+      "id": "a620ff501c1032233d9e3b6da496d2d9",
+      "title": "Nhà khoa học tạo enzyme tiêu diệt hợp chất gây lão hóa ở người",
+      "link": "https://vnexpress.net/nha-khoa-hoc-tao-enzyme-tieu-diet-hop-chat-gay-lao-hoa-o-nguoi-5101749.html",
+      "summary": "Các nhà nghiên cứu tìm ra giải pháp loại bỏ hợp chất độc hại AGE được xem như \"thủ phạm\" chính gây lão hóa và thúc đẩy bệnh mãn tính ở người.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-26T12:00:00+07:00",
+      "fetched": "2026-07-26T19:58:23.064931+07:00"
+    },
+    {
+      "id": "3dfafb04c35c7ef6d2374b9e366a529c",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn dâng hương anh hùng liệt sĩ tại công viên Lê Thị Riêng",
+      "link": "https://thanhnien.vn/chu-tich-quoc-hoi-tran-thanh-man-dang-huong-anh-hung-liet-si-tai-cong-vien-le-thi-rieng-185260726183608695.htm",
+      "summary": "Đoàn công tác do Chủ tịch Quốc hội Trần Thanh Mẫn làm trưởng đoàn đến dâng hương và thăm lực lượng quy tập hài cốt liệt sĩ tại công viên Lê Thị Riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T11:52:00+07:00",
+      "fetched": "2026-07-26T19:58:15.502787+07:00"
+    },
+    {
+      "id": "1f9a4187b83d4268a16ab3f7f63fb7d1",
+      "title": "Có nên thay lốp thể thao cho ô tô phổ thông?",
+      "link": "https://thanhnien.vn/co-nen-thay-lop-the-thao-cho-o-to-pho-thong-185260724100718492.htm",
+      "summary": "Lốp thể thao có thể giúp ô tô phổ thông bám đường tốt hơn, phản hồi lái nhanh và chính xác hơn. Tuy nhiên, người dùng cũng phải chấp nhận đánh đổi một số yếu tố đáng cân nhắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T11:51:00+07:00",
+      "fetched": "2026-07-26T19:58:15.502902+07:00"
+    },
+    {
+      "id": "8c55969104c0b7b0f536400b20149830",
+      "title": "HLV Indonesia nói đùa bị Argentina từ chối đá giao hữu",
+      "link": "https://vnexpress.net/hlv-indonesia-noi-dua-bi-argentina-tu-choi-da-giao-huu-5101811.html",
+      "summary": "HLV John Herdman nhắc đến những đội tuyển hàng đầu thế giới như Argentina, Anh và Brazil, khi nhận được câu hỏi về quá trình chuẩn bị thiếu thực chiến của đội tuyển Indonesia cho ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T11:50:09+07:00",
+      "fetched": "2026-07-26T19:58:12.982741+07:00"
+    },
+    {
+      "id": "8c55969104c0b7b0f536400b20149830",
+      "title": "HLV Indonesia nói đùa bị Argentina từ chối đá giao hữu",
+      "link": "https://vnexpress.net/hlv-indonesia-noi-dua-bi-argentina-tu-choi-da-giao-huu-5101811.html",
+      "summary": "HLV John Herdman nhắc đến những đội tuyển hàng đầu thế giới như Argentina, Anh và Brazil, khi nhận được câu hỏi về quá trình chuẩn bị thiếu thực chiến của đội tuyển Indonesia cho ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-26T11:50:09+07:00",
+      "fetched": "2026-07-26T19:58:24.349649+07:00"
+    },
+    {
+      "id": "3225797b1f57b955babdc69c616749f3",
+      "title": "Người dân gửi tiền ngân hàng tăng cao kỷ lục",
+      "link": "https://thanhnien.vn/nguoi-dan-gui-tien-ngan-hang-tang-cao-ky-luc-18526072618291921.htm",
+      "summary": "Ngân hàng Nhà nước vừa công bố lượng tiền gửi của khách hàng cá nhân tại các ngân hàng tính đến cuối tháng 5 tăng lên mức cao kỷ lục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T11:46:00+07:00",
+      "fetched": "2026-07-26T19:58:15.503014+07:00"
+    },
+    {
+      "id": "7521ed20bafd30321f2b0e7b7edf30eb",
+      "title": "Lũ quét làm 10 người cắm trại thiệt mạng tại Trung Quốc",
+      "link": "https://thanhnien.vn/lu-quet-lam-10-nguoi-cam-trai-thiet-mang-tai-trung-quoc-18526072618382182.htm",
+      "summary": "Một trận lũ quét do mưa lớn đã khiến 10 người thiệt mạng và nhiều người khác bị mắc kẹt tại một khu cắm trại ở tỉnh Cam Túc, tây bắc Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T11:42:00+07:00",
+      "fetched": "2026-07-26T19:58:15.503126+07:00"
+    },
+    {
+      "id": "9508cfc3c80e4f7a208b2b997b579689",
+      "title": "Madam Pang chiêu mộ sao Thái Lan từ nước Anh, kịp bổ sung ASEAN Cup 2026?",
+      "link": "https://thanhnien.vn/madam-pang-chieu-mo-sao-thai-lan-tu-nuoc-anh-kip-bo-sung-asean-cup-2026-185260726182124929.htm",
+      "summary": "CLB Port FC thuộc sở hữu của gia đình Madam Pang, vừa chiêu mộ tiền đạo Jude Soonsup-Bell để thi đấu tại giải Thai League mùa 2026 - 2027. Liệu cầu thủ này có được bổ sung vào đội tuyển Thái Lan dự ASEAN Cup 2026?.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T11:23:00+07:00",
+      "fetched": "2026-07-26T19:58:15.503241+07:00"
+    },
+    {
+      "id": "d3491c71fd15e200a24f22a688a1bcdc",
+      "title": "Nam sinh Hưng Yên giành vé thứ ba vào chung kết Olympia",
+      "link": "https://vnexpress.net/nam-sinh-hung-yen-gianh-ve-thu-ba-vao-chung-ket-olympia-5101779.html",
+      "summary": "Hưng Yên có học sinh vào chung kết Đường lên đỉnh Olympia, sau chiến thắng của Quang Minh, trường THPT chuyên Thái Bình, trong trận chung kết quý III.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T11:18:57+07:00",
+      "fetched": "2026-07-26T19:58:12.982851+07:00"
+    },
+    {
+      "id": "3816cb8d25c271ac2a0730db2ffe18a5",
+      "title": "Ăn cơm cùng Mẹ Việt Nam anh hùng, xây nhà cho người có công với cách mạng",
+      "link": "https://thanhnien.vn/an-com-cung-me-viet-nam-anh-hung-xay-nha-cho-nguoi-co-cong-voi-cach-mang-185260726124021635.htm",
+      "summary": "Nhân kỷ niệm 79 năm Ngày Thương binh - Liệt sĩ, thanh niên Quảng Trị đã có hành trình tri ân 20 Mẹ Việt Nam anh hùng và người có công cách mạng tại xã Cửa Tùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T11:17:00+07:00",
+      "fetched": "2026-07-26T19:58:15.503352+07:00"
     },
     {
       "id": "e6c6bf6b3a6c4891d52611eac1ba86f8",
