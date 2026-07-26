@@ -1,7 +1,107 @@
 window.newsData_2026_07_26 = {
   "date": "2026-07-26",
-  "lastUpdated": "2026-07-26T21:56:15.351736+07:00",
+  "lastUpdated": "2026-07-26T23:47:45.061613+07:00",
   "articles": [
+    {
+      "id": "49402d04371c558101f86d139b3f821b",
+      "title": "Trao di vật liệt sĩ Huỳnh Văn Quên cho gia đình ở Vàm Cỏ, hài cốt tìm thấy là anh 'Hai Quên'",
+      "link": "https://tuoitre.vn/trao-di-vat-liet-si-huynh-van-quen-cho-gia-dinh-o-vam-co-hai-cot-tim-thay-la-anh-hai-quen-100260708235325305.htm",
+      "summary": "Những di vật được tìm thấy bên cạnh hài cốt liệt sĩ Huỳnh Văn Quên ở công viên Lê Thị Riêng (TP.HCM) đã được trao cho gia đình ở xã Vàm Cỏ, Tây Ninh trong tối 26-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T23:47:39.006554+07:00",
+      "fetched": "2026-07-26T23:47:39.006618+07:00"
+    },
+    {
+      "id": "e9a3abaef28c7bd53ce60814817a9b61",
+      "title": "Ngược dòng thắng Thái Lan, Việt Nam lần đầu vô địch Giải bóng chuyền SEA V.Cup",
+      "link": "https://tuoitre.vn/nguoc-dong-thang-thai-lan-viet-nam-lan-dau-vo-dich-sea-vcup-100260726202354566.htm",
+      "summary": "Sau nhiều năm chờ đợi, tuyển bóng chuyền nam Việt Nam cuối cùng cũng đã giải cơn khát danh hiệu ở Giải bóng chuyền Đông Nam Á SEA V.Cup.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T23:47:39.006484+07:00",
+      "fetched": "2026-07-26T23:47:39.006543+07:00"
+    },
+    {
+      "id": "056b636df7d5224a4d883b04c1e25d9d",
+      "title": "Tàu chở dầu va phải thủy lôi, phát nổ ở eo biển Hormuz",
+      "link": "https://tuoitre.vn/tau-cho-dau-va-phai-thuy-loi-phat-no-o-eo-bien-hormuz-100260726210626883.htm",
+      "summary": "Truyền thông Iran ngày 26-7 cho biết con tàu đã đi chệch khỏi tuyến hàng hải do Tehran chỉ định ở eo biển Hormuz.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T23:47:39.006409+07:00",
+      "fetched": "2026-07-26T23:47:39.006472+07:00"
+    },
+    {
+      "id": "668f9993f1204fb8cc93694c2a37612d",
+      "title": "Ai ghi nhiều điểm nhất giúp bóng chuyền Việt Nam đánh bại Thái Lan?",
+      "link": "https://tuoitre.vn/ai-ghi-nhieu-diem-nhat-giup-bong-chuyen-viet-nam-danh-bai-thai-lan-100260726214746449.htm",
+      "summary": "Tối 26-7, tuyển bóng chuyền nam Việt Nam đã làm nên lịch sử khi thắng kịch tính Thái Lan 3-2 trong trận chung kết chặng 2 SEA V.Cup 2026, qua đó lần đầu tiên lên ngôi vô địch giải đấu này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T23:47:39.006332+07:00",
+      "fetched": "2026-07-26T23:47:39.006393+07:00"
+    },
+    {
+      "id": "2ce19099e21a70710ee99b4d5200ecd5",
+      "title": "Ngọc Thuân nhận danh hiệu cao quý nhất ở Giải bóng chuyền SEA V.Cup",
+      "link": "https://tuoitre.vn/ngoc-thuan-nhan-danh-hieu-cao-quy-nhat-o-giai-bong-chuyen-sea-vcup-100260726222800876.htm",
+      "summary": "Với những màn thể hiện áp đảo, tay đập Nguyễn Ngọc Thuân của tuyển bóng chuyền nam Việt Nam được trao tới 2 danh hiệu cá nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T23:47:39.006259+07:00",
+      "fetched": "2026-07-26T23:47:39.006321+07:00"
+    },
+    {
+      "id": "d005916f978fe8a519bd58b337193968",
+      "title": "Brad Pitt ghét phim sử thi Hy Lạp 'Troy', gọi đó là sai lầm trong sự nghiệp",
+      "link": "https://tuoitre.vn/brad-pitt-ghet-phim-su-thi-hy-lap-troy-goi-do-la-sai-lam-trong-su-nghiep-100260726193523383.htm",
+      "summary": "Trước khi Matt Damon phải chiến đấu để trở về quê hương sau cuộc chiến thành Troy trong The Odyssey của Christopher Nolan, Brad Pitt từng thủ vai Achilles trong phim sử thi Hy Lạp Troy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T23:47:39.006186+07:00",
+      "fetched": "2026-07-26T23:47:39.006247+07:00"
+    },
+    {
+      "id": "8d243dd70354fefcc5fef5fbb2fe91ef",
+      "title": "Phim Nhà nước đặt hàng khởi đầu tích cực giữa cơn sốt Conan và The Odyssey",
+      "link": "https://tuoitre.vn/phim-nha-nuoc-dat-hang-khoi-dau-tich-cuc-giua-con-sot-conan-va-the-odyssey-100260726100124341.htm",
+      "summary": "Giữa cuộc cạnh tranh của loạt bom tấn ngoại, 'Thanh âm vượt đại dương' - phim Nhà nước đầu tiên phát hành thương mại - gây chú ý khi có màn khởi đầu khả quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T23:47:39.006111+07:00",
+      "fetched": "2026-07-26T23:47:39.006174+07:00"
+    },
+    {
+      "id": "0f088f0c2017e61240a787395bee9d48",
+      "title": "Truyền thông thế giới ca ngợi chiến tích lịch sử của bóng chuyền Việt Nam",
+      "link": "https://tuoitre.vn/truyen-thong-the-gioi-ca-ngoi-chien-tich-lich-su-cua-bong-chuyen-viet-nam-100260726213758011.htm",
+      "summary": "Nhiều trang báo trong khu vực, thậm chí là các chuyên trang bóng chuyền hàng đầu thế giới đã gửi lời chúc mừng, khen ngợi đến tuyển bóng chuyền nam Việt Nam, sau chiến tích lần đầu vô địch SEA V.Cup.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T23:47:39.006030+07:00",
+      "fetched": "2026-07-26T23:47:39.006099+07:00"
+    },
+    {
+      "id": "c4cf0e21cd54b233f1470b1a71d32048",
+      "title": "Cầu truyền hình ‘Sao sáng dẫn đường’ đẫm nước mắt: Cô Nhớ tìm thấy manh mối về cha liệt sĩ rồi!",
+      "link": "https://tuoitre.vn/cau-truyen-hinh-sao-sang-dan-duong-dam-nuoc-mat-co-nho-tim-thay-manh-moi-ve-cha-liet-si-roi-100260726224251885.htm",
+      "summary": "Anh em cô Nhớ ở Tuyên Quang tìm thấy bộ hồ sơ quý giá chứa các kỷ vật còn loang vết máu của cha mình nhưng nhiều người theo dõi chương trình lại khóc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T23:47:39.005948+07:00",
+      "fetched": "2026-07-26T23:47:39.006018+07:00"
+    },
+    {
+      "id": "b5eb1c2075f49cefab0b7f2e7f54e0e2",
+      "title": "Mỹ hé lộ lý do dừng không kích, Iran phát tín hiệu hạ nhiệt",
+      "link": "https://tuoitre.vn/my-he-lo-ly-do-dung-khong-kich-iran-phat-tin-hieu-ha-nhiet-100260726224628678.htm",
+      "summary": "Mỹ, Iran cùng phát tín hiệu hạ nhiệt khi Washington dừng không kích, còn Iran tuyên bố sẽ ngừng đáp trả nếu Mỹ không tấn công trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T23:47:39.005775+07:00",
+      "fetched": "2026-07-26T23:47:39.005933+07:00"
+    },
     {
       "id": "3bb5172ea3ee2f73d6de9c82cf3af31e",
       "title": "Choáng với thu nhập của thủ thành Vozinha sau World Cup 2026",
@@ -453,6 +553,76 @@ window.newsData_2026_07_26 = {
       "fetched": "2026-07-26T18:13:05.111733+07:00"
     },
     {
+      "id": "c72a56e03778cd8d512163fbac1bed5f",
+      "title": "Trao di vật liệt sĩ tìm thấy ở công viên Lê Thị Riêng cho thân nhân",
+      "link": "https://vnexpress.net/trao-di-vat-liet-si-tim-thay-o-cong-vien-le-thi-rieng-cho-than-nhan-5101843.html",
+      "summary": "Bút máy, lược, ví, chai dầu gió cùng giấy tờ của liệt sĩ Huỳnh Văn Quên, được tìm thấy tại công viên Lê Thị Riêng, đã được trao cho thân nhân ở xã Vàm Cỏ, Tây Ninh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T16:12:17+07:00",
+      "fetched": "2026-07-26T23:47:34.798130+07:00"
+    },
+    {
+      "id": "9b22111b32eced699abea62c05a68695",
+      "title": "Mảnh đạn chưa từng được lấy ra",
+      "link": "https://vnexpress.net/manh-dan-chua-tung-duoc-lay-ra-5100864.html",
+      "summary": "Cha tôi qua đời khi cơ thể vẫn còn những mảnh đạn mà bác sĩ không dám lấy ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T15:51:37+07:00",
+      "fetched": "2026-07-26T23:47:34.798321+07:00"
+    },
+    {
+      "id": "da225fa06af7587cb8ac446ac3123599",
+      "title": "23 năm son sắt của vợ chồng Matt Damon",
+      "link": "https://vnexpress.net/23-nam-son-sat-cua-vo-chong-matt-damon-5101822.html",
+      "summary": "Matt Damon - tài tử bom tấn \"The Odyssey\" - cho biết được luôn ở bên vợ là điều tuyệt vời nhất trên đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T15:46:59+07:00",
+      "fetched": "2026-07-26T23:47:34.798493+07:00"
+    },
+    {
+      "id": "2043ca82759696a486b7786d90a29b53",
+      "title": "Lãnh đạo Đảng, Nhà nước tri ân anh hùng liệt sĩ",
+      "link": "https://vnexpress.net/lanh-dao-dang-nha-nuoc-tri-an-anh-hung-liet-si-5101838.html",
+      "summary": "Tối 26/7, lãnh đạo Đảng, Nhà nước dự chương trình truyền hình tại 4 điểm cầu Hà Nội, TP HCM, Tuyên Quang và Quảng Trị, tri ân sự hy sinh của các anh hùng liệt sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T15:42:06+07:00",
+      "fetched": "2026-07-26T23:47:34.798679+07:00"
+    },
+    {
+      "id": "ac44bdc9b38e9b1e1b0853035d18f0a7",
+      "title": "Đưa bóng chuyền nam Việt Nam lên đỉnh Đông Nam Á, Nguyễn Ngọc Thuân được vinh danh",
+      "link": "https://thanhnien.vn/dua-bong-chuyen-nam-viet-nam-len-dinh-dong-nam-a-nguyen-ngoc-thuan-duoc-vinh-danh-185260726222929053.htm",
+      "summary": "Rực sáng ở chung kết, Nguyễn Ngọc Thuân giúp đội tuyển bóng chuyền Việt Nam đánh bại Thái Lan, lần đầu vô địch SEA V.Cup. Anh cũng được vinh danh với cú đúp danh hiệu cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T15:36:00+07:00",
+      "fetched": "2026-07-26T23:47:37.248755+07:00"
+    },
+    {
+      "id": "ddf01e2c9c1a3420b6e5d3af3153edd0",
+      "title": "Hà Nội sẽ khép kín 5 tuyến vành đai vào năm 2027",
+      "link": "https://vnexpress.net/ha-noi-se-khep-kin-5-tuyen-vanh-dai-vao-nam-2027-5101828.html",
+      "summary": "Vành đai 1 hoàn thành trong năm nay, các dự án của vành đai 2,5 cũng hoàn thành trong năm (riêng đoạn đường Lĩnh Nam năm sau), ba vành đai 3; 3,5 và 4 theo kế hoạch cũng hoàn thành toàn bộ vào năm 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T15:28:49+07:00",
+      "fetched": "2026-07-26T23:47:34.798853+07:00"
+    },
+    {
+      "id": "55909946cd5aba79550d3053622fa4f5",
+      "title": "Đại tướng Phan Văn Giang dâng hương tại Nghĩa trang liệt sĩ quốc gia Đường 9",
+      "link": "https://thanhnien.vn/dai-tuong-phan-van-giang-dang-huong-tai-nghia-trang-liet-si-quoc-gia-duong-9-185260726154348548.htm",
+      "summary": "Nhân kỷ niệm 79 năm Ngày Thương binh - Liệt sĩ (27.7.1947 - 27.7.2026), đại tướng Phan Văn Giang, Phó thủ tướng Chính phủ, Bộ trưởng Bộ Quốc phòng, cùng đoàn công tác Trung ương đã đến dâng hương tại Nghĩa trang liệt sĩ quốc gia Đường 9 và tham dự cầu truyền hình \"Sao sáng dẫn đường\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T15:27:00+07:00",
+      "fetched": "2026-07-26T23:47:37.248932+07:00"
+    },
+    {
       "id": "26a0a4eaddc6ecfbff6086f0e1488be8",
       "title": "Một doanh nghiệp tại Cần Thơ 'xung phong' hợp tác, bao tiêu lúa Nhật ở Vĩnh Long",
       "link": "https://tuoitre.vn/mot-doanh-nghiep-tai-can-tho-xung-phong-hop-tac-bao-tieu-lua-nhat-o-vinh-long-100260726092510076.htm",
@@ -603,6 +773,16 @@ window.newsData_2026_07_26 = {
       "fetched": "2026-07-26T15:07:58.278996+07:00"
     },
     {
+      "id": "d9471c6796b206bf93e228ab29113ec8",
+      "title": "Liệt sĩ Huỳnh Văn Quên chính thức 'trở về' với gia đình",
+      "link": "https://thanhnien.vn/liet-si-huynh-van-quen-chinh-thuc-tro-ve-voi-gia-dinh-185260726214027544.htm",
+      "summary": "Sau gần 60 năm, liệt sĩ Huỳnh Văn Quên chính thức 'trở về' với gia đình khi Ban Chỉ đạo quốc gia về tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ công bố kết quả xác minh hồ sơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T15:00:00+07:00",
+      "fetched": "2026-07-26T23:47:37.249091+07:00"
+    },
+    {
       "id": "e6377661c2628a1235bbe92884195262",
       "title": "Vì sao Costco bán xăng giá rẻ tại Mỹ",
       "link": "https://vnexpress.net/vi-sao-costco-ban-xang-gia-re-tai-my-5101736.html",
@@ -611,6 +791,16 @@ window.newsData_2026_07_26 = {
       "category": "Kinh doanh",
       "published": "2026-07-26T14:41:48+07:00",
       "fetched": "2026-07-26T21:56:11.908264+07:00"
+    },
+    {
+      "id": "ca0f9b004e9b8ed27eb47ca8329a66cc",
+      "title": "Lý giải mật mã của phi công",
+      "link": "https://vnexpress.net/ly-giai-mat-ma-cua-phi-cong-5101704.html",
+      "summary": "\"Tiên cá\" là thuật ngữ tổ bay thường dùng để miêu tả những khách nằm dài chiếm cả hàng ghế còn \"Code 300\" báo hiệu có người đang gặp nguy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T14:39:48+07:00",
+      "fetched": "2026-07-26T23:47:34.799171+07:00"
     },
     {
       "id": "57e5e108083c66c79a596fc376ace3d2",
@@ -661,6 +851,36 @@ window.newsData_2026_07_26 = {
       "category": "Kinh doanh",
       "published": "2026-07-26T14:19:32+07:00",
       "fetched": "2026-07-26T21:56:11.908602+07:00"
+    },
+    {
+      "id": "23c633bcea3f0db14e55c2d15daae0bb",
+      "title": "Người phụ nữ New Zealand đến Việt Nam phẫu thuật thay khớp",
+      "link": "https://vnexpress.net/nguoi-phu-nu-new-zealand-den-viet-nam-phau-thuat-thay-khop-5101810.html",
+      "summary": "Sau gần 10 năm chịu đựng những cơn đau khớp háng và 4 năm chờ lịch phẫu thuật tại New Zealand, người phụ nữ 51 tuổi quyết định sang Việt Nam thay khớp háng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T14:19:15+07:00",
+      "fetched": "2026-07-26T23:47:34.799857+07:00"
+    },
+    {
+      "id": "15c53bc46e30ffd72858c83b86804dab",
+      "title": "Khi nào dân số Việt Nam ngừng tăng?",
+      "link": "https://vnexpress.net/khi-nao-dan-so-viet-nam-ngung-tang-5101799.html",
+      "summary": "Thời kỳ dân số vàng kết thúc sớm hơn dự kiến, Việt Nam đối mặt với nguy cơ dân số ngừng tăng trong tương lai không xa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T14:18:56+07:00",
+      "fetched": "2026-07-26T23:47:34.800019+07:00"
+    },
+    {
+      "id": "89af60a11f2d64574100337e4a50c27b",
+      "title": "Đà Nẵng sẽ có khu công nghiệp VSIP hơn 3.700 tỷ đồng",
+      "link": "https://vnexpress.net/da-nang-se-co-khu-cong-nghiep-vsip-hon-3-700-ty-dong-5101815.html",
+      "summary": "UBND TP Đà Nẵng vừa chấp thuận chủ trương đầu tư Khu công nghiệp VSIP Đà Nẵng ở phường Điện Bàn Bắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T14:15:17+07:00",
+      "fetched": "2026-07-26T23:47:34.800177+07:00"
     },
     {
       "id": "093e004d4a00a2fccf59e25db0cc74a8",
