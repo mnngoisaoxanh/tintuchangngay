@@ -1,7 +1,117 @@
 window.newsData_2026_07_26 = {
   "date": "2026-07-26",
-  "lastUpdated": "2026-07-26T05:43:07.748986+07:00",
+  "lastUpdated": "2026-07-26T08:51:20.101421+07:00",
   "articles": [
+    {
+      "id": "1943b0b783a59a174a2eeda4ac05ad39",
+      "title": "Bão số 2 đổ bộ vào Trung Quốc với cường độ cấp 12-13, giật cấp 16",
+      "link": "https://tuoitre.vn/bao-so-2-do-bo-vao-trung-quoc-voi-cuong-do-cap-12-13-giat-cap-16-100260725235937297.htm",
+      "summary": "Sáng sớm nay, bão số 2 (Noul) đã đổ bộ vào khu vực tỉnh Quảng Đông (Trung Quốc) với cường độ mạnh cấp 12-13 (118-149km/h), giật cấp 16.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T08:51:12.074710+07:00",
+      "fetched": "2026-07-26T08:51:12.074769+07:00"
+    },
+    {
+      "id": "e62df5f7483315c5caae7aa342a90f05",
+      "title": "Cựu tuyển thủ Thái Lan bất ngờ chỉ trích đội nhà",
+      "link": "https://tuoitre.vn/cuu-tuyen-thu-thai-lan-bat-ngo-chi-trich-doi-nha-100260726053301033.htm",
+      "summary": "Dù đánh bại Lào với tỉ số đậm đà 5-0 ở trận ra quân ASEAN Cup 2026 tối 25-7 nhưng màn trình diễn của tuyển Thái Lan vẫn chưa mang đến sự yên tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T08:51:12.074642+07:00",
+      "fetched": "2026-07-26T08:51:12.074700+07:00"
+    },
+    {
+      "id": "4654e0857f5b0c233c60b8f1883958fc",
+      "title": "Kỳ thủ 'cờ tướng giang hồ' đấu 3 trận bất bại với Lại Lý Huynh",
+      "link": "https://tuoitre.vn/ky-thu-co-tuong-giang-ho-dau-3-tran-bat-bai-voi-lai-ly-huynh-1002607251446594.htm",
+      "summary": "Chuyện khó tin xuất hiện ở Giải cờ tướng giao hữu quốc tế Việt Nam - Quảng Đông (Trung Quốc) đang diễn ra tại Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T08:51:12.074569+07:00",
+      "fetched": "2026-07-26T08:51:12.074631+07:00"
+    },
+    {
+      "id": "6755f77ea23b204dda6c8275d2ccfd19",
+      "title": "Lịch thi đấu chung kết bóng chuyền nam SEA V.Cup 2026 ngày 26-7: Việt Nam đấu Thái Lan",
+      "link": "https://tuoitre.vn/lich-thi-dau-chung-ket-bong-chuyen-nam-sea-vcup-2026-ngay-26-7-viet-nam-dau-thai-lan-100260725191342948.htm",
+      "summary": "Vào ngày 26-7 sẽ diễn ra trận tranh hạng 3 và chung kết chặng 2, Giải bóng chuyền nam SEA V.Cup 2026, với tâm điểm là màn so tài giữa Việt Nam và Thái Lan để tranh ngôi vô địch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T08:51:12.074488+07:00",
+      "fetched": "2026-07-26T08:51:12.074557+07:00"
+    },
+    {
+      "id": "21095beaa617f88425029d10da943599",
+      "title": "Tin tức thế giới 26-7: Iran tố Ukraine tấn công tàu hàng; 30.000 lính Triều Tiên sắp tham chiến với Ukraine?",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-26-7-iran-to-ukraine-tan-cong-tau-hang-30000-linh-trieu-tien-sap-tham-chien-voi-ukraine-100260726064316991.htm",
+      "summary": "Nga tố Ukraine tấn công resort, nhiều trẻ em thiệt mạng; Nga và Triều Tiên đều chưa bình luận về phát ngôn của ông Zelensky.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T08:51:12.074404+07:00",
+      "fetched": "2026-07-26T08:51:12.074476+07:00"
+    },
+    {
+      "id": "4c39edfabd8166431f4646ba56aaf0d8",
+      "title": "Xe van cháy trơ khung trên cao tốc TP.HCM - Long Thành - Dầu Giây, tài xế kịp thoát thân",
+      "link": "https://tuoitre.vn/xe-van-chay-tro-khung-tren-cao-toc-tphcm-long-thanh-dau-giay-tai-xe-kip-thoat-than-100260726063902613.htm",
+      "summary": "Lực lượng chức năng đang điều tra nguyên nhân vụ cháy xe trên cao tốc TP.HCM - Long Thành - Dầu Giây, đoạn qua địa bàn TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T08:51:12.074262+07:00",
+      "fetched": "2026-07-26T08:51:12.074387+07:00"
+    },
+    {
+      "id": "32edbead75507b6041c0041e890dc76e",
+      "title": "Tiền chờ của nhà đầu tư 'bốc hơi' gần 9.000 tỉ đồng tại VPS, điều gì đang xảy ra?",
+      "link": "https://tuoitre.vn/tien-cho-cua-nha-dau-tu-boc-hoi-gan-9000-ti-dong-tai-vps-dieu-gi-dang-xay-ra-100260725204417387.htm",
+      "summary": "Số dư tiền gửi của nhà đầu tư tại các công ty chứng khoán đồng loạt giảm mạnh trong quý 2-2026, phản ánh lượng tiền chờ giải ngân đang thu hẹp đáng kể.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T08:51:12.074139+07:00",
+      "fetched": "2026-07-26T08:51:12.074247+07:00"
+    },
+    {
+      "id": "f1de560d34b83f242af55b2c779b3a76",
+      "title": "Học sinh chế bộ lọc ống xả, giảm tới 74% khí thải xe xăng dầu",
+      "link": "https://tuoitre.vn/hoc-sinh-che-bo-loc-ong-xa-giam-toi-74-khi-thai-xe-xang-dau-100260726011722569.htm",
+      "summary": "Một bộ lọc khí thải gắn vào ống xả, sử dụng vi tảo sống để hấp thụ khí CO₂, do hai học sinh 18 tuổi tại Mỹ phát triển đang thu hút sự chú ý khi được giới thiệu có thể giúp giảm tới 74% lượng khí thải từ xe động cơ đốt trong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T08:51:12.073992+07:00",
+      "fetched": "2026-07-26T08:51:12.074117+07:00"
+    },
+    {
+      "id": "1b579c91a7d5e548d2297fc9bb1fafa2",
+      "title": "Nam sinh vừa học vừa tập kinh doanh, trở thành thủ khoa Trường đại học Kinh tế",
+      "link": "https://tuoitre.vn/nam-sinh-vua-hoc-vua-tap-kinh-doanh-tro-thanh-thu-khoa-truong-dai-hoc-kinh-te-100260725212152107.htm",
+      "summary": "Đó là trường hợp Nguyễn Trường Giang, 22 tuổi, quê Bắc Ninh, sinh viên ngành kinh tế quốc tế với điểm GPA 3.88/4.0.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T08:51:12.073593+07:00",
+      "fetched": "2026-07-26T08:51:12.073969+07:00"
+    },
+    {
+      "id": "ed78c71a9e4f8712278f058ba319af00",
+      "title": "Tin tức sáng 26-7: TP.HCM tăng kiểm soát bán hàng đa cấp; Đổi mới quản lý chất lượng giáo dục",
+      "link": "https://tuoitre.vn/tin-tuc-sang-26-7-tphcm-tang-kiem-soat-ban-hang-da-cap-doi-moi-quan-ly-chat-luong-giao-duc-100260726071132241.htm",
+      "summary": "Tin tức đáng chú ý: Ca sốt xuất huyết ở TP.HCM tăng; TP.HCM tăng cường quản lý hoạt động bán hàng đa cấp; Đổi mới quản lý chất lượng giáo dục...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T08:51:12.073504+07:00",
+      "fetched": "2026-07-26T08:51:12.073581+07:00"
+    },
+    {
+      "id": "751aec9e1288cead88278cf572f17a56",
+      "title": "Người phụ nữ hơn 40 năm lặng thầm chăm lo những ngôi mộ liệt sĩ",
+      "link": "https://tuoitre.vn/nguoi-phu-nu-hon-40-nam-lang-tham-cham-lo-nhung-ngoi-mo-liet-si-100260725090155313.htm",
+      "summary": "Từ một cô bé theo cha đi quy tập hài cốt liệt sĩ, bà Nguyễn Thị Ngọc Hiệp trở thành người chăm lo nơi yên nghỉ của họ trong suốt 44 năm qua",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T08:51:12.073312+07:00",
+      "fetched": "2026-07-26T08:51:12.073488+07:00"
+    },
     {
       "id": "bf5466b8236318929763ab83c1888ed3",
       "title": "Thời tiết hôm nay 26-7: Bắc Bộ giảm mưa, Nam Bộ đề phòng mưa dông chiều tối",
@@ -161,6 +271,336 @@ window.newsData_2026_07_26 = {
       "category": "Tổng hợp",
       "published": "2026-07-26T01:52:47.928846+07:00",
       "fetched": "2026-07-26T01:52:47.928988+07:00"
+    },
+    {
+      "id": "c77c67ac4c02b4c688f038e48db0154f",
+      "title": "Những 'hiệp sĩ áo xanh' ở xã đảo giúp người dân bị sự cố giao thông",
+      "link": "https://thanhnien.vn/nhung-hiep-si-ao-xanh-o-xa-dao-giup-nguoi-dan-bi-su-co-giao-thong-185260725194055655.htm",
+      "summary": "Bất kể ngày đêm và luôn có mặt nhanh nhất sau khi nhận được cuộc gọi cần giúp đỡ, Đội SOS thanh niên xã Tân Long (tỉnh Đồng Tháp) trở thành điểm tựa cho người dân mỗi khi gặp sự cố giao thông giữa đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:45:00+07:00",
+      "fetched": "2026-07-26T08:51:08.105117+07:00"
+    },
+    {
+      "id": "7a638cf61ef495d881d296acd8b64c9d",
+      "title": "Cà Mau tăng tốc tìm lại danh tính hơn 3.300 liệt sĩ bằng ADN",
+      "link": "https://thanhnien.vn/ca-mau-tang-toc-tim-lai-danh-tinh-hon-3300-liet-si-bang-adn-185260725180133045.htm",
+      "summary": "Cà Mau còn 3.382 phần mộ liệt sĩ chưa xác định được danh tính. Để tìm lại tên cho những người đã hy sinh, tỉnh đang triển khai Chiến dịch 500 ngày đêm, phấn đấu hoàn thành lấy mẫu ADN trong quý 1/2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:37:00+07:00",
+      "fetched": "2026-07-26T08:51:08.105309+07:00"
+    },
+    {
+      "id": "9760c22211a240824e4f4ab269dc4a4c",
+      "title": "Seen | Phim ngắn Vietnamese 2026",
+      "link": "https://thanhnien.vn/seen-phim-ngan-vietnamese-2026-185260726082913326.htm",
+      "summary": "Phim ngắn 'Seen' là tác phẩm tham dự cuộc thi phim ngắn Vietnamese 2026. Cuộc thi do Báo Thanh Niên phối hợp cùng Hiệp hội Xúc tiến phát triển điện ảnh Việt Nam tổ chức với sự đồng hành của Sở Du lịch TP.HCM, Sở Văn hóa - Thể thao TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:29:00+07:00",
+      "fetched": "2026-07-26T08:51:08.105554+07:00"
+    },
+    {
+      "id": "6dd8a0f2b022355ccb9b69aaeeb3c58b",
+      "title": "Thanh niên tiếp nối tri ân người có công",
+      "link": "https://thanhnien.vn/thanh-nien-tiep-noi-tri-an-nguoi-co-cong-185260725194709795.htm",
+      "summary": "Ngày 25.7, T.Ư Đoàn tổ chức nhiều hoạt động an sinh, thăm hỏi, tặng quà tại Nghệ An để tri ân các gia đình thương binh, người có công nhân kỷ niệm 79 năm Ngày Thương binh - Liệt sĩ (27.7.1947 - 27.7.2026), góp phần lan tỏa truyền thống uống nước nhớ nguồn của thanh niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:18:00+07:00",
+      "fetched": "2026-07-26T08:51:08.105719+07:00"
+    },
+    {
+      "id": "315a49dc898fdd2c6927fb3a0d485c23",
+      "title": "Đức rúng động vì vụ lao xe tại lễ hội Pride, 18 người thương vong",
+      "link": "https://thanhnien.vn/duc-rung-dong-vi-vu-lao-xe-tai-le-hoi-pride-18-nguoi-thuong-vong-185260726075938013.htm",
+      "summary": "Một người thiệt mạng và 17 người bị thương sau khi một chiếc xe lao vào đám đông gần lễ hội Pride ở Berlin tối 25.7, khiến cảnh sát mở cuộc truy tìm tài xế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:14:00+07:00",
+      "fetched": "2026-07-26T08:51:08.105876+07:00"
+    },
+    {
+      "id": "7f5ae4a5806bd0a6b701ecbfc0dac6bd",
+      "title": "Cháy rừng lịch sử tàn phá Pháp và Tây Ban Nha, hơn 250.000 người sơ tán",
+      "link": "https://thanhnien.vn/chay-rung-lich-su-tan-pha-phap-va-tay-ban-nha-hon-250000-nguoi-so-tan-185260726075207576.htm",
+      "summary": "Giới chức, người dân Pháp và Tây Ban Nha đang phải gồng mình đối phó với thảm họa cháy rừng tồi tệ chưa từng có, buộc hơn 250.000 người ở hai quốc gia phải sơ tán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:14:00+07:00",
+      "fetched": "2026-07-26T08:51:08.106031+07:00"
+    },
+    {
+      "id": "06600888b52fc49d098e8fc92fafe9b5",
+      "title": "Sông - Thơ của Trần Việt Hoàng",
+      "link": "https://thanhnien.vn/song-tho-cua-tran-viet-hoang-185260725181338855.htm",
+      "summary": "Những con sông quê mìnhcòn chở lòng cho tangười đã đi xa mơ lần về bày tỏ",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:05:00+07:00",
+      "fetched": "2026-07-26T08:51:09.980333+07:00"
+    },
+    {
+      "id": "814a86a2492395f673e8d35b49889fd0",
+      "title": "Bộ Công thương yêu cầu các địa phương tăng kiểm tra hoạt động bán lẻ xăng dầu",
+      "link": "https://thanhnien.vn/bo-cong-thuong-yeu-cau-cac-dia-phuong-tang-kiem-tra-hoat-dong-ban-le-xang-dau-185260726074807263.htm",
+      "summary": "Cục Quản lý và Phát triển thị trường trong nước (Bộ Công thương) vừa có công văn gửi Sở Công thương các tỉnh, thành phố về việc tăng cường công tác kiểm tra hoạt động kinh doanh bán lẻ xăng dầu trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:02:00+07:00",
+      "fetched": "2026-07-26T08:51:09.980719+07:00"
+    },
+    {
+      "id": "06c805e6cbfc8f659408c7d198987301",
+      "title": "10 'thành phố căng thẳng' nhất nước Mỹ",
+      "link": "https://vnexpress.net/10-thanh-pho-cang-thang-nhat-nuoc-my-5101543.html",
+      "summary": "Detroit, Baltimore, Cleveland đứng đầu danh sách các thành phố người dân gặp nhiều căng thảng nhất nước Mỹ do tỷ lệ tội phạm, thất nghiệp cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:00:00+07:00",
+      "fetched": "2026-07-26T08:51:03.525820+07:00"
+    },
+    {
+      "id": "61f89ee168a750ea3360a7ae5ebde35d",
+      "title": "5 thói quen giúp người Nhật khỏe mạnh khi về già",
+      "link": "https://vnexpress.net/5-thoi-quen-giup-nguoi-nhat-khoe-manh-khi-ve-gia-5101531.html",
+      "summary": "Ăn vừa đủ no, duy trì vận động, uống matcha và dành thời gian hòa mình vào thiên nhiên là những thói quen được nhiều người Nhật duy trì để bảo vệ sức khỏe khi lớn tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:00:00+07:00",
+      "fetched": "2026-07-26T08:51:03.526064+07:00"
+    },
+    {
+      "id": "06b4c4056da5e4d93916e2db55578f16",
+      "title": "Mỹ nhân điên tiết vì tạo dáng chụp ảnh giống cún cưng",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-my-nhan-dien-tiet-vi-tao-dang-chup-anh-giong-cun-cung-5101325.html",
+      "summary": "Chỉ với một màn gợi ý tạo dáng vô hại, cô gái đã khiến bạn thân rơi vào “cái bẫy” giống hệt tư thế của hai chú cún cưng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:00:00+07:00",
+      "fetched": "2026-07-26T08:51:03.526234+07:00"
+    },
+    {
+      "id": "d1a6d21351084f25835f79e98c9b9941",
+      "title": "Mức lãi suất nào khiến người mua nhà sẵn sàng đi vay?",
+      "link": "https://vnexpress.net/muc-lai-suat-nao-khien-nguoi-mua-nha-san-sang-di-vay-5101188.html",
+      "summary": "Hầu hết người mua nhà chỉ sẵn sàng đi vay khi lãi suất dưới 9% một năm, trong khi mặt bằng lãi vay hiện phổ biến 12-14%, tạo khoảng cách lớn giữa kỳ vọng và thực tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:00:00+07:00",
+      "fetched": "2026-07-26T08:51:03.526458+07:00"
+    },
+    {
+      "id": "22e910259b03a43b1957251a3f1c9a36",
+      "title": "Kia Syros EV - xe điện gầm cao giá từ 14.000 USD",
+      "link": "https://vnexpress.net/kia-syros-ev-xe-dien-gam-cao-gia-tu-14-000-usd-5101158.html",
+      "summary": "Mẫu xe gầm cao chạy điện lắp một môtơ điện, hai gói pin, phạm vi hoạt động 443-526 km, giá cao nhất 20.700 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:00:00+07:00",
+      "fetched": "2026-07-26T08:51:03.526629+07:00"
+    },
+    {
+      "id": "7bf641f19b20c1a0e6bf72d40bb07db8",
+      "title": "Ăn yến mạch mỗi ngày có giúp giảm mỡ máu?",
+      "link": "https://vnexpress.net/an-yen-mach-moi-ngay-co-giup-giam-mo-mau-5101594.html",
+      "summary": "Tôi được chẩn đoán cholesterol cao nên đang ăn yến mạch mỗi sáng. Thực phẩm này có giúp giảm mỡ máu không? (Hoàng Trần, 55 tuổi, Thái Nguyên)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:00:00+07:00",
+      "fetched": "2026-07-26T08:51:03.526787+07:00"
+    },
+    {
+      "id": "2a0fcc95a832e4d493ef7c184139005e",
+      "title": "Bác sĩ chỉ cách cai thuốc lá",
+      "link": "https://vnexpress.net/bac-si-chi-cach-cai-thuoc-la-5101592.html",
+      "summary": "Người muốn cai thuốc lá có thể cất bỏ gạt tàn, bật lửa, đánh răng, uống một ly nước mát hoặc tập thể dục để giảm cơn thèm hút thuốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:00:00+07:00",
+      "fetched": "2026-07-26T08:51:03.526941+07:00"
+    },
+    {
+      "id": "a77efa7abd6786f84049bbe648313da6",
+      "title": "Có nên cho trẻ ăn chay phòng dậy thì sớm?",
+      "link": "https://vnexpress.net/co-nen-cho-tre-an-chay-phong-day-thi-som-5101589.html",
+      "summary": "Con gái tôi 7 tuổi, nặng 35 kg, bắt đầu phát triển ngực. Tôi có nên cho con ăn chay 5 ngày mỗi tuần để tránh dậy thì sớm? (Hòa, Ninh Bình)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:00:00+07:00",
+      "fetched": "2026-07-26T08:51:03.527094+07:00"
+    },
+    {
+      "id": "edc0930428e373fa5231b354d0be9c31",
+      "title": "Vì sao trẻ biếng ăn?",
+      "link": "https://vnexpress.net/vi-sao-tre-bieng-an-5101587.html",
+      "summary": "Những thay đổi về sự phát triển của cơ thể, vị giác có thể khiến trẻ biếng ăn sinh lý trong khoảng 2-4 tuần nhưng vẫn phát triển tốt mà không cần can thiệp y tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:00:00+07:00",
+      "fetched": "2026-07-26T08:51:03.527258+07:00"
+    },
+    {
+      "id": "a1652191ccd838a11f65d5bd1637fe4a",
+      "title": "5 thực phẩm giàu kẽm có lợi cho mắt",
+      "link": "https://vnexpress.net/5-thuc-pham-giau-kem-co-loi-cho-mat-5101509.html",
+      "summary": "Hàu, thịt bò nạc, cua, các loại đậu và hạt bí ngô giàu kẽm, giúp vận chuyển vitamin A đến võng mạc, hỗ trợ thị lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:00:00+07:00",
+      "fetched": "2026-07-26T08:51:03.527448+07:00"
+    },
+    {
+      "id": "4b44377ed8a184bdd03193bf914438e4",
+      "title": "The Reverie Boutique - Hai Tọa Độ Đắt Giá Một Trải Nghiệm Bánh Thủ Công Tinh Tuyển",
+      "link": "https://thanhnien.vn/the-reverie-boutique-hai-toa-do-dat-gia-mot-trai-nghiem-banh-thu-cong-tinh-tuyen-185260725195832003.htm",
+      "summary": "Giữa tâm điểm rực rỡ của Sài Gòn, The Reverie Boutique mở ra một điểm đến tinh hoa - nơi những dòng bánh thủ công, ẩm thực đa phong cách hội ngộ cùng những tặng phẩm tinh tuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:00:00+07:00",
+      "fetched": "2026-07-26T08:51:09.980892+07:00"
+    },
+    {
+      "id": "46c4b74d132f75a4d4d3dcc7acf5d5c5",
+      "title": "Nhàn đàm: Về Đường 9",
+      "link": "https://thanhnien.vn/nhan-dam-ve-duong-9-185260725180713528.htm",
+      "summary": "Tôi đi qua nhiều mùa khô miền Trung, qua vô vàn đồi tranh xơ xác gió Lào và cơ man thung sâu thẳm dọc tuyến Đường 9. Lần được chỉ định đi hỗ trợ các gia đình có nguyện vọng tìm hài cốt liệt sĩ, lần tự nguyện đi theo đoàn công tác giúp việc khoa học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:00:00+07:00",
+      "fetched": "2026-07-26T08:51:09.981050+07:00"
+    },
+    {
+      "id": "9f29667e44871ba82bdb62890e05c3b1",
+      "title": "Đầm dự tiệc tối giản nhưng sang trọng, đẹp xuất sắc dưới mọi góc nhìn",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dam-du-tiec-toi-gian-nhung-sang-trong-dep-xuat-sac-duoi-moi-goc-nhin-18526072116171969.htm",
+      "summary": "Đầm dự tiệc mùa thu ưu tiên các thiết kế tối giản, chất vải mềm nhẹ thoáng mát nhưng vẫn có điểm nhấn riêng. Dưới đây là những gợi ý để nàng chọn được thiết kế dự tiệc đẹp xuất sắc, gây ấn tượng ngay từ ánh nhìn đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:00:00+07:00",
+      "fetched": "2026-07-26T08:51:09.981209+07:00"
+    },
+    {
+      "id": "2861bce212fd706c14e1cc085e5f4965",
+      "title": "Ngọc Châu quyết đầu tư ‘tới bến’ để Cẩm Ly ‘in top’ Miss Cosmo 2026",
+      "link": "https://thanhnien.vn/ngoc-chau-quyet-dau-tu-toi-ben-de-cam-ly-in-top-miss-cosmo-2026-185260409194647843.htm",
+      "summary": "Chia sẻ về hành trình chinh phục vương miện Miss Cosmo 2026, Đỗ Cẩm Ly thừa nhận áp lực trước kỳ vọng của khán giả khi mang sash Việt Nam. Người đẹp quê Phú Thọ cho biết sẽ nỗ lực hoàn thiện bản thân, trong khi Giám đốc quốc gia Ngọc Châu tin tưởng cô đủ tiềm năng, quyết đầu tư bài bản để cô có thể ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T01:00:00+07:00",
+      "fetched": "2026-07-26T08:51:09.981391+07:00"
+    },
+    {
+      "id": "ba7332eef949f90ade7904e0c4b2d03f",
+      "title": "Một triệu người dân TP HCM đã được khám sức khỏe miễn phí",
+      "link": "https://vnexpress.net/mot-trieu-nguoi-dan-tp-hcm-da-duoc-kham-suc-khoe-mien-phi-5101687.html",
+      "summary": "Một triệu người dân TP HCM đã được khám sức khỏe và lập hồ sơ sức khỏe điện tử sau hai tháng triển khai chương trình khám sức khỏe toàn dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T00:47:22+07:00",
+      "fetched": "2026-07-26T08:51:03.527603+07:00"
+    },
+    {
+      "id": "0c9c979e4d2407e40dcab5402df05675",
+      "title": "Lăng Vạn Vạn ở Huế: tảng đá khóa lối vào huyệt mộ",
+      "link": "https://thanhnien.vn/lang-van-van-o-hue-tang-da-khoa-loi-vao-huyet-mo-185260725204001342.htm",
+      "summary": "Lăng Vạn Vạn ở Huế có thạch thất đá nằm trên huyệt mộ. Theo lời kể, quan tài được đưa qua lối ngầm rồi bịt kín bằng tảng đá lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T00:45:00+07:00",
+      "fetched": "2026-07-26T08:51:09.981553+07:00"
+    },
+    {
+      "id": "008f5c592868b4336b030a6a19c0121d",
+      "title": "Đài Loan quảng bá du lịch qua trải nghiệm văn hóa cùng Isaac",
+      "link": "https://thanhnien.vn/dai-loan-quang-ba-du-lich-qua-trai-nghiem-van-hoa-cung-isaac-185260725155157733.htm",
+      "summary": "Từ trà sữa trân châu, góc phố cổ Cửu Phần đến những câu chuyện du lịch của ca sĩ Isaac, Đài Loan giới thiệu bản sắc văn hóa tại TP.HCM qua chuỗi trải nghiệm, góp phần kết nối công chúng Việt bằng những cảm xúc chân thực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T00:39:00+07:00",
+      "fetched": "2026-07-26T08:51:09.981712+07:00"
+    },
+    {
+      "id": "eb69ea8e77bff8bd29d84d3004fee7c6",
+      "title": "Chiếc bật lửa bé mọn kể câu chuyện thảm họa nhân đạo ở Gaza",
+      "link": "https://thanhnien.vn/chiec-bat-lua-be-mon-ke-cau-chuyen-tham-hoa-nhan-dao-o-gaza-185260724231643667.htm",
+      "summary": "Trong những trại lều rộng lớn ở phía nam Gaza, một chiếc bật lửa dùng một lần đã trở thành vật sở hữu quý giá bất ngờ - thiết yếu như nước và thức ăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T00:35:00+07:00",
+      "fetched": "2026-07-26T08:51:09.981866+07:00"
+    },
+    {
+      "id": "636bc3100821fcb0793ff60bf62d32c5",
+      "title": "Thí sinh dùng IELTS xét tuyển đại học tiếp đà tăng",
+      "link": "https://vnexpress.net/thi-sinh-dung-ielts-xet-tuyen-dai-hoc-tiep-da-tang-5101180.html",
+      "summary": "Dù quy chế thắt chặt, giảm một nửa điểm cộng song thí sinh dùng chứng chỉ ngoại ngữ, phổ biến là IELTS, để xét tuyển đại học tăng ở nhiều trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T00:04:00+07:00",
+      "fetched": "2026-07-26T08:51:03.527764+07:00"
+    },
+    {
+      "id": "72ff2dbbef68c97e20cb781f8ca0bf55",
+      "title": "Phương án bố trí hai ga metro ngầm dưới sân bay Tân Sơn Nhất",
+      "link": "https://vnexpress.net/phuong-an-bo-tri-hai-ga-metro-ngam-duoi-san-bay-tan-son-nhat-5101624.html",
+      "summary": "Metro Tân Sơn Nhất - Phú Hữu dự kiến có 2 ga ngầm kết nối các nhà ga T1, T2, T3 và liên thông nhiều tuyến đường sắt đô thị, hình thành đầu mối trung chuyển hành khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T00:00:00+07:00",
+      "fetched": "2026-07-26T08:51:03.527921+07:00"
+    },
+    {
+      "id": "ef014c5dcac8d67b3c024b08b8ad2752",
+      "title": "Người đàn ông được vợ hiến thận cứu sống trong đợt ghép thứ 3",
+      "link": "https://vnexpress.net/nguoi-dan-ong-duoc-vo-hien-than-cuu-song-trong-dot-ghep-thu-3-5101596.html",
+      "summary": "Sau hai lần ghép thận thất bại và phải quay lại chạy thận nhân tạo, người đàn ông 57 tuổi được vợ hiến một quả thận, mở ra cơ hội sống trong ca ghép được đánh giá đặc biệt khó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T00:00:00+07:00",
+      "fetched": "2026-07-26T08:51:03.528072+07:00"
+    },
+    {
+      "id": "1b59563a5f25c65f771f922c1a474a28",
+      "title": "Xem phim trên ôtô kiểu Mỹ ở TP HCM",
+      "link": "https://vnexpress.net/xem-phim-tren-oto-kieu-my-o-tp-hcm-5101483.html",
+      "summary": "Không cần bước vào rạp, khán giả có thể ngồi trong ôtô riêng, xem phim ngoài trời như ở Mỹ với giá 299.000 đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T00:00:00+07:00",
+      "fetched": "2026-07-26T08:51:03.528227+07:00"
+    },
+    {
+      "id": "58e25fe511c0e134ca08719da34dfeca",
+      "title": "Lao xe vào đám đông gần cuộc tuần hành ủng hộ LGBT ở Đức",
+      "link": "https://vnexpress.net/lao-xe-vao-dam-dong-gan-cuoc-tuan-hanh-ung-ho-lgbt-o-duc-5101680.html",
+      "summary": "Chiếc xe đâm vào đám đông gần cuộc tuần hành ủng hộ LGBT tại Berlin, khiến ít nhất một người thiệt mạng và 15 người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-25T23:57:56+07:00",
+      "fetched": "2026-07-26T08:51:13.364414+07:00"
+    },
+    {
+      "id": "b2ac4b5b712767567e378cb6e26107dd",
+      "title": "Vozinha gia nhập CLB mới sau World Cup 2026",
+      "link": "https://vnexpress.net/vozinha-gia-nhap-clb-moi-sau-world-cup-2026-5101675.html",
+      "summary": "Thủ môn kỳ cựu người Cape Verde đạt thỏa thuận gia nhập CLB giàu truyền thống nhất Chile Colo-Colo, sau màn trình diễn ấn tượng tại World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-25T23:57:40+07:00",
+      "fetched": "2026-07-26T08:51:20.095339+07:00"
+    },
+    {
+      "id": "27f77f9a47e48a528a82b08b2874c198",
+      "title": "Vũ Đình Duân vô địch Hoiana Aquaman",
+      "link": "https://vnexpress.net/1-500-van-dong-vien-chinh-phuc-giai-boi-chay-hoiana-aquaman-5101656.html",
+      "summary": "Tuyển thủ quốc gia Vũ Đình Duân lần thứ tư vô địch cự ly bơi 2km, chạy 21km Aquaman Vietnam với thành tích 2 tiếng 1 phút 53 giây.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-25T22:50:00+07:00",
+      "fetched": "2026-07-26T08:51:20.096203+07:00"
     },
     {
       "id": "44d8aa7585c10b178a934ac992d9d5df",
