@@ -1,7 +1,157 @@
 window.newsData_2026_07_27 = {
   "date": "2026-07-27",
-  "lastUpdated": "2026-07-27T16:31:16.733147+07:00",
+  "lastUpdated": "2026-07-27T19:50:21.178075+07:00",
   "articles": [
+    {
+      "id": "16e8a2be8dd77fc322e0516f8f92906d",
+      "title": "TP.HCM 'đẩy' tiến độ, sẽ công bố quy hoạch tổng thể vào đầu tháng 11-2026",
+      "link": "https://tuoitre.vn/tphcm-day-tien-do-se-cong-bo-quy-hoach-tong-the-vao-dau-thang-11-2026-100260727170501048.htm",
+      "summary": "UBND TP.HCM vừa phê duyệt điều chỉnh kế hoạch lập Quy hoạch tổng thể TP.HCM với tiến độ được 'đẩy' lên, hoàn thành phê duyệt quy hoạch sớm hơn, công bố vào đầu tháng 11-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T19:50:13.668645+07:00",
+      "fetched": "2026-07-27T19:50:13.668705+07:00"
+    },
+    {
+      "id": "ebb62372800950600833eeca6b57ae6e",
+      "title": "Con cua Cà Mau đã được 'cởi trói' khỏi sợi dây to ngâm nước",
+      "link": "https://tuoitre.vn/con-cua-ca-mau-da-duoc-coi-troi-khoi-soi-day-to-ngam-nuoc-10026072716214417.htm",
+      "summary": "Nhiều người mua và thương lái cua Cà Mau đã \"quay đầu\" với cua trói nhiều dây và kiểu \"lọc lừa\", bởi cua Cà Mau phần lớn đã được soi đèn để xác định được tỉ lệ thịt và gạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T19:50:13.668569+07:00",
+      "fetched": "2026-07-27T19:50:13.668631+07:00"
+    },
+    {
+      "id": "6975e74c57e3ebc5e55766683b6365bc",
+      "title": "Vụ sản phụ mất vận động hai chân sau sinh mổ: Bệnh viện Thanh Nhàn lên tiếng",
+      "link": "https://tuoitre.vn/vu-san-phu-mat-van-dong-hai-chan-sau-sinh-mo-benh-vien-thanh-nhan-len-tieng-100260727164306547.htm",
+      "summary": "Sau phản ánh của sản phụ mất vận động hai chân sau sinh mổ, Bệnh viện Thanh Nhàn cho biết đây là tai biến y khoa không mong muốn và chưa phát hiện bằng chứng về sai sót kỹ thuật trực tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T19:50:13.668498+07:00",
+      "fetched": "2026-07-27T19:50:13.668559+07:00"
+    },
+    {
+      "id": "53c5a8cfd4690e0067df3c0c22ef5e36",
+      "title": "Bắc Bộ, Tây Nguyên và Nam Bộ mưa lớn diện rộng từ chiều tối nay",
+      "link": "https://tuoitre.vn/bac-bo-tay-nguyen-va-nam-bo-mua-lon-dien-rong-tu-chieu-toi-nay-10026072716201661.htm",
+      "summary": "Dự báo từ chiều tối nay (27-7), khu vực Bắc Bộ, Tây Nguyên và Nam Bộ bắt đầu đợt mưa lớn diện rộng. Cơ quan khí tượng cảnh báo nguy cơ ngập úng ở vùng trũng thấp và sạt lở đất, lũ quét ở vùng núi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T19:50:13.668432+07:00",
+      "fetched": "2026-07-27T19:50:13.668488+07:00"
+    },
+    {
+      "id": "a1ef4412b2efd231ec781456c87a6ba0",
+      "title": "Tuyển Ý nhận tin dữ, tan vỡ kế hoạch 'phục hưng'",
+      "link": "https://tuoitre.vn/tuyen-y-nhan-tin-du-tan-vo-ke-hoach-phuc-hung-100260727170645172.htm",
+      "summary": "Sau nhiều đồn đoán, cựu danh thủ Andrea Pirlo cuối cùng đã đưa ra quyết định giã từ kế hoạch nhậm chức HLV trưởng tuyển Ý vào chiều 27-7 (giờ Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T19:50:13.668367+07:00",
+      "fetched": "2026-07-27T19:50:13.668423+07:00"
+    },
+    {
+      "id": "57ab4c7501bd016872fe52573c4e4435",
+      "title": "Thêm một cây cầu 'chờ đường' ở Đà Nẵng được chốt ngày thi công",
+      "link": "https://tuoitre.vn/them-mot-cay-cau-cho-duong-o-da-nang-duoc-chot-ngay-thi-cong-100260727171400182.htm",
+      "summary": "Sau nhiều năm 'nằm chờ' đường dẫn, cầu ĐH7 qua sông Vĩnh Điện được yêu cầu thi công từ ngày 1-8, hoàn tất giải phóng mặt bằng trước 20-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T19:50:13.668302+07:00",
+      "fetched": "2026-07-27T19:50:13.668357+07:00"
+    },
+    {
+      "id": "c8c700e147b315cf3501dfe5a90a65e6",
+      "title": "Khai thác 'chui' hơn 956 tấn quặng antimon, 2 người bị khởi tố",
+      "link": "https://tuoitre.vn/khai-thac-chui-hon-956-tan-quang-antimon-2-nguoi-bi-khoi-to-100260727172241336.htm",
+      "summary": "Đến thời điểm bị khởi tố, Công an tỉnh Ninh Bình xác định 2 người đàn ông đã câu kết khai thác 'chui' hơn 956 tấn quặng antimon có tổng trị giá trên 6 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T19:50:13.668237+07:00",
+      "fetched": "2026-07-27T19:50:13.668292+07:00"
+    },
+    {
+      "id": "56a6576b4748c0389ea84674435e3248",
+      "title": "Cần Thơ yêu cầu đẩy nhanh đấu giá 23 khu đất",
+      "link": "https://tuoitre.vn/can-tho-yeu-cau-day-nhanh-dau-gia-23-khu-dat-100260727162849813.htm",
+      "summary": "UBND TP Cần Thơ yêu cầu Trung tâm Phát triển quỹ đất tổ chức đấu giá 23 khu đất có diện tích hơn 111ha và có báo cáo kết quả trong tháng 9-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T19:50:13.668172+07:00",
+      "fetched": "2026-07-27T19:50:13.668227+07:00"
+    },
+    {
+      "id": "19bb4d25b1392014b6f63f182ace3913",
+      "title": "Triệu tập kỳ họp không thường lệ thứ nhất, Quốc hội khóa XVI",
+      "link": "https://tuoitre.vn/trieu-tap-ky-hop-khong-thuong-le-thu-nhat-quoc-hoi-khoa-xvi-100260727173912689.htm",
+      "summary": "Ủy ban Thường vụ Quốc hội vừa có văn bản triệu tập kỳ họp không thường lệ thứ nhất, Quốc hội khóa XVI từ ngày 3 đến 24-8, chia thành 2 đợt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T19:50:13.668105+07:00",
+      "fetched": "2026-07-27T19:50:13.668162+07:00"
+    },
+    {
+      "id": "b8bc22825c0340471300b16f1ff8ae9d",
+      "title": "Khai thác trở lại đường bay Cần Thơ - Đà Lạt từ ngày 19-8",
+      "link": "https://tuoitre.vn/khai-thac-tro-lai-duong-bay-can-tho-da-lat-tu-ngay-19-8-100260727150350451.htm",
+      "summary": "Sau hơn 5 tháng gián đoạn, hành khách từ Cần Thơ sẽ có thể bay thẳng đến Đà Lạt từ ngày 19-8 với tần suất hằng ngày trong tháng đầu khai thác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T19:50:13.668007+07:00",
+      "fetched": "2026-07-27T19:50:13.668093+07:00"
+    },
+    {
+      "id": "9438723ceb182a5edbf17db306c4814c",
+      "title": "Đặng Văn Lâm đã có thể đi tập, tuyển Việt Nam 'đóng cửa luyện công' đấu Singapore",
+      "link": "https://tuoitre.vn/dang-van-lam-da-co-the-di-tap-tuyen-viet-nam-dong-cua-luyen-cong-dau-singapore-100260727173229074.htm",
+      "summary": "Thủ môn Đặng Văn Lâm đi tập với các đồng đội trong buổi tập chiều 27-7 của đội tuyển Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T19:50:13.667939+07:00",
+      "fetched": "2026-07-27T19:50:13.667996+07:00"
+    },
+    {
+      "id": "c1a6494d64c887cf156aaf06c22bd20a",
+      "title": "Nâng chất Robusta Việt từ gốc",
+      "link": "https://tuoitre.vn/nang-chat-robusta-viet-tu-goc-100260724165030332.htm",
+      "summary": "Trong nhiều thập niên, thành công của Robusta chủ yếu được đo bằng sản lượng. Nhưng, thị trường đang yêu cầu nhiều hơn về chất lượng và phát triển bền vững. Để tham gia chuỗi cung ứng toàn cầu, Robusta Việt đang đứng trước yêu cầu phải đổi mới: \"Chuyển đổi từ bán sản lượng sang bán giá trị\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T19:50:13.667875+07:00",
+      "fetched": "2026-07-27T19:50:13.667929+07:00"
+    },
+    {
+      "id": "285c47f2beb4c8210599cd75b3fa0296",
+      "title": "Tạm giam thanh niên 17 tuổi trộm cắp không thành, hiếp dâm chủ tiệm tạp hóa 62 tuổi",
+      "link": "https://tuoitre.vn/tam-giam-thanh-nien-17-tuoi-trom-cap-khong-thanh-hiep-dam-chu-tiem-tap-hoa-62-tuoi-100260727173905592.htm",
+      "summary": "Đột nhập tiệm tạp hóa để trộm cắp nhưng không lấy được tài sản, thanh niên 17 tuổi dùng dao khống chế nữ chủ tiệm 62 tuổi để thực hiện hành vi hiếp dâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T19:50:13.667804+07:00",
+      "fetched": "2026-07-27T19:50:13.667864+07:00"
+    },
+    {
+      "id": "dadc8af4910985b8d1f3d8449702f4a7",
+      "title": "Khán giả xúc động khi Hà Linh đăng giấy chứng nhận liệt sĩ của mẹ Thanh Nga",
+      "link": "https://tuoitre.vn/khan-gia-xuc-dong-khi-ha-linh-dang-giay-chung-nhan-liet-si-cua-me-thanh-nga-100260727175832683.htm",
+      "summary": "Nhân Ngày Thương binh - Liệt sĩ 27-7, con trai cố nghệ sĩ Thanh Nga, nghệ sĩ Hà Linh, đăng giấy chứng nhận liệt sĩ Thanh Nga khiến khán giả yêu quý bà hết sức xúc động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T19:50:13.667727+07:00",
+      "fetched": "2026-07-27T19:50:13.667793+07:00"
+    },
+    {
+      "id": "57b451f071cdede4928fa964c0ded424",
+      "title": "Đắk Lắk thưởng nóng đội học sinh vô địch Mô hình hóa toán học Việt Nam",
+      "link": "https://tuoitre.vn/dak-lak-thuong-nong-doi-hoc-sinh-vo-dich-mo-hinh-hoa-toan-hoc-viet-nam-100260727175002241.htm",
+      "summary": "UBND tỉnh Đắk Lắk đã tặng bằng khen và thưởng nóng cho đội tuyển 4 học sinh Trường THPT chuyên Lương Văn Chánh (phường Tuy Hòa) đoạt giải nhất trong kỳ thi Mô hình hóa toán học Việt Nam năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T19:50:13.667576+07:00",
+      "fetched": "2026-07-27T19:50:13.667713+07:00"
+    },
     {
       "id": "a8929e73b6698d9648223805cf814daa",
       "title": "Hai vợ chồng chết đuối thương tâm khi đi mò hến trên sông",
@@ -303,6 +453,206 @@ window.newsData_2026_07_27 = {
       "fetched": "2026-07-27T12:49:58.571184+07:00"
     },
     {
+      "id": "205cd55e6389233b3a0975a2460b49af",
+      "title": "350 VĐV tranh tài sôi nổi giải pickleball HOSE 26",
+      "link": "https://thanhnien.vn/350-vdv-tranh-tai-soi-noi-giai-pickleball-hose-26-18526072719064191.htm",
+      "summary": "Giải pickleball HOSE 26 vừa kết thúc thành công tại cụm sân Swin (P.Tân Hưng, TP.HCM) thu hút 350 VĐV tranh tài sôi nổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T12:41:00+07:00",
+      "fetched": "2026-07-27T19:50:11.475602+07:00"
+    },
+    {
+      "id": "e0fad6e7d5f76e7f4251c1fec6f40a6e",
+      "title": "Kinh tế Iran chật vật trong 'cơn bão' mới khi giao tranh tạm lắng",
+      "link": "https://vnexpress.net/kinh-te-iran-chat-vat-trong-con-bao-moi-khi-giao-tranh-tam-lang-5101906.html",
+      "summary": "Chiến sự tạm lắng nhưng \"cơn bão\" kinh tế vẫn chưa qua với Iran, khi phong tỏa hàng hải, cấm vận và những tổn thất hạ tầng tiếp tục đẩy đất nước vào khủng hoảng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-27T12:40:38+07:00",
+      "fetched": "2026-07-27T19:50:15.018460+07:00"
+    },
+    {
+      "id": "fbfc638bcb96fb5ab06900c3919971c1",
+      "title": "Người đứng đầu phải tiếp dân, đối thoại, giải quyết từ nơi phát sinh",
+      "link": "https://thanhnien.vn/nguoi-dung-dau-phai-tiep-dan-doi-thoai-giai-quyet-tu-noi-phat-sinh-185260727192027993.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm nhấn mạnh, ngành thanh tra cần tạo chuyển biến trong tiếp công dân, giải quyết khiếu nại, tố cáo. Người đứng đầu phải tiếp dân, đối thoại, giải quyết từ nơi phát sinh; không chuyển đơn lòng vòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T12:33:00+07:00",
+      "fetched": "2026-07-27T19:50:11.475777+07:00"
+    },
+    {
+      "id": "a8bdbe23eb65a4bd590c3ab47533d290",
+      "title": "TP.HCM: Khai giảng lớp tập huấn kỹ năng báo chí số cho 27 nhà báo Campuchia",
+      "link": "https://thanhnien.vn/tphcm-khai-giang-lop-tap-huan-ky-nang-bao-chi-so-cho-27-nha-bao-campuchia-185260727192331179.htm",
+      "summary": "Sáng 27.7.2026, lớp tập huấn với chủ đề \"Kỹ năng tác nghiệp thông minh trong kỷ nguyên số\" dành cho 27 nhà báo Campuchia đã khai giảng tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T12:24:00+07:00",
+      "fetched": "2026-07-27T19:50:11.475936+07:00"
+    },
+    {
+      "id": "0c3aa7cca2b2ad39556e07d463907e64",
+      "title": "Khởi tố, bắt giam thanh niên hiếp dâm chủ quán tạp hóa 62 tuổi ở Đắk Lắk",
+      "link": "https://thanhnien.vn/khoi-to-bat-giam-nghi-can-hiep-dam-chu-quan-tap-hoa-62-tuoi-o-dak-lak-185260727183105325.htm",
+      "summary": "Thanh niên 17 tuổi ở Đắk Lắk bị khởi tố, bắt tạm giam sau khi bị cáo buộc mang dao đột nhập cửa hàng, khống chế rồi hiếp dâm chủ quán tạp hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T12:24:00+07:00",
+      "fetched": "2026-07-27T19:50:11.476125+07:00"
+    },
+    {
+      "id": "e6cae6027f44990a8c29652354ca4f6f",
+      "title": "19 tỉnh, thành phố ứng phó mưa lớn, gió mạnh trên biển",
+      "link": "https://thanhnien.vn/19-tinh-thanh-pho-ung-pho-mua-lon-gio-manh-tren-bien-185260727182137388.htm",
+      "summary": "Ban Chỉ đạo Phòng thủ dân sự quốc gia đề nghị 19 tỉnh, thành phố chủ động ứng phó mưa lớn, ngập lụt, nguy cơ lũ quét ở vùng núi và gió mạnh trên biển trong những ngày tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T12:22:00+07:00",
+      "fetched": "2026-07-27T19:50:11.476285+07:00"
+    },
+    {
+      "id": "29beeab211e49f1ae22b3459b5735870",
+      "title": "Điều 'siêu tàu' SAR631 tìm kiếm nạn nhân vụ chìm tàu Khôi Nguyên 18",
+      "link": "https://thanhnien.vn/dieu-sieu-tau-sar631-tim-kiem-nan-nhan-vu-chim-tau-khoi-nguyen-18-185260727181529421.htm",
+      "summary": "Tại hiện trường vụ chìm tàu Khôi Nguyên 18 đang có 43 phương tiện tìm kiếm 14 nạn nhân mất tích. Trong đó, Việt Nam điều động 33 tàu, 2 máy bay, Trung Quốc điều động 7 tàu và 1 máy bay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T12:20:00+07:00",
+      "fetched": "2026-07-27T19:50:11.476439+07:00"
+    },
+    {
+      "id": "1364f807a443a14f671d67a214f857f4",
+      "title": "Tặng mỗi Mẹ Việt Nam Anh hùng, thương binh nặng một căn nhà trị giá 700 triệu",
+      "link": "https://thanhnien.vn/tang-moi-me-viet-nam-anh-hung-thuong-binh-nang-mot-can-nha-tri-gia-700-trieu-185260727181148046.htm",
+      "summary": "3 Mẹ Việt Nam Anh hùng và 57 thương binh hạng nặng (hạng 1/4) ở 5 xã của Nghệ An là những người đầu tiên trong cả nước được tặng nhà (trị giá 700 triệu đồng mỗi căn) do Tập đoàn Vingroup tài trợ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T12:16:00+07:00",
+      "fetched": "2026-07-27T19:50:11.476590+07:00"
+    },
+    {
+      "id": "5cda6055f6d4fdaf2ad51e57f82f46ab",
+      "title": "Indonesia 0-0 Campuchia, ASEAN Cup 2026: 'Xứ vạn đảo' thị uy sức mạnh",
+      "link": "https://thanhnien.vn/indonesia-0-0-campuchia-asean-cup-2026-xu-van-dao-thi-uy-suc-manh-185260727172635837.htm",
+      "summary": "Việc nghỉ thi đấu lượt đầu vòng bảng ASEAN Cup 2026 giúp Indonesia nắm lợi thế quan sát đối thủ trước trận ra quân gặp Campuchia vào lúc 20 giờ 30 ngày 27.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T12:08:00+07:00",
+      "fetched": "2026-07-27T19:50:11.476740+07:00"
+    },
+    {
+      "id": "d11303d2f45c4d984997d47f4694417b",
+      "title": "Bí mật khổng lồ về ly Laura Cà phê của Nhật Kim Anh",
+      "link": "https://thanhnien.vn/bi-mat-khong-lo-ve-ly-laura-ca-phe-cua-nhat-kim-anh-1852607271752571.htm",
+      "summary": "'Trong lúc chờ đợi, mình sẽ pha một ly Laura Cà phê của ca sĩ Nhật Kim Anh, vị Đông Trùng Hạ Thảo…' câu nói mở đầu cho một cơn sốt trải nghiệm, chia sẻ sôi nổi về Laura Cà phê trên mạng xã hội. Một hiện tượng có thể bắt đầu từ sự tò mò, nhưng chất lượng mới quyết định nó tồn tại bao lâu. Thị trường ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T12:00:00+07:00",
+      "fetched": "2026-07-27T19:50:11.476910+07:00"
+    },
+    {
+      "id": "8eec4338b9451bc248ff245f1c043293",
+      "title": "Cục CSGT đề xuất sử dụng làn trái cao tốc làm 'làn vượt xe'",
+      "link": "https://thanhnien.vn/cuc-csgt-de-xuat-su-dung-lan-trai-cao-toc-lam-lan-vuot-xe-185260727182037845.htm",
+      "summary": "Cục CSGT đề nghị nghiên cứu bố trí làn trái (làn đường sát dải phân cách giữa trên đường cao tốc) thành \"làn vượt xe\". Tức phương tiện chỉ sử dụng làn này khi cần vượt và phải trở về làn bên phải sau khi hoàn tất thao tác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T11:58:00+07:00",
+      "fetched": "2026-07-27T19:50:11.477090+07:00"
+    },
+    {
+      "id": "8d89f193b9f552dd82bc0f83b58b887f",
+      "title": "Dự án 1.000 bộ gene người Việt giúp tăng khả năng định danh liệt sĩ",
+      "link": "https://vnexpress.net/du-an-1-000-bo-gene-nguoi-viet-giup-tang-kha-nang-dinh-danh-liet-si-5102029.html",
+      "summary": "Dự án giải mã gene người Việt giúp cải thiện khả năng đối chiếu ADN liệt sĩ với cơ sở dữ liệu gene thân nhân trong các công nghệ xét nghiệm gene mà Việt Nam đang sử dụng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-27T11:46:03+07:00",
+      "fetched": "2026-07-27T19:50:19.813411+07:00"
+    },
+    {
+      "id": "0f104e97af7cd2f1c7426785a86227d7",
+      "title": "Nhiều trường công lập của TP.HCM tuyển bổ sung lớp mầm non, lớp 1, 6",
+      "link": "https://thanhnien.vn/nhieu-truong-cong-lap-cua-tphcm-tuyen-bo-sung-lop-mam-non-lop-1-6-185260727175406971.htm",
+      "summary": "Kết thúc giai đoạn tuyển sinh chính thức theo phân tuyến mầm non, lớp 1, lớp 6, một số phường tại TP.HCM thông báo tuyển bổ sung vào các trường mầm non, tiểu học, THCS năm học 2026-2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T11:46:00+07:00",
+      "fetched": "2026-07-27T19:50:11.477244+07:00"
+    },
+    {
+      "id": "bda2b94914fe41d87403d13af1af897b",
+      "title": "Quảng Trị: Tiếp nhận thêm thông tin về mộ nữ liệt sĩ tại Lào",
+      "link": "https://thanhnien.vn/quang-tri-tiep-nhan-them-thong-tin-ve-mo-nu-liet-si-tai-lao-185260727174015127.htm",
+      "summary": "Đồn biên phòng Hướng Phùng (Quảng Trị) vừa tiếp nhận thêm thông tin của người dân tại Lào về vị trí nghi có mộ của một nữ liệt sĩ là bộ đội Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T11:46:00+07:00",
+      "fetched": "2026-07-27T19:50:11.477402+07:00"
+    },
+    {
+      "id": "142bedb80c3c18bbdc91bf04c882a300",
+      "title": "Lý do camera 360 độ ngày càng trở thành trang bị đáng giá trên ô tô",
+      "link": "https://thanhnien.vn/ly-do-camera-360-do-ngay-cang-tro-thanh-trang-bi-dang-gia-tren-o-to-185260727182809134.htm",
+      "summary": "Từ quan sát lề đường đến phát hiện chướng ngại vật, camera 360 độ mang lại nhiều lợi ích hơn đa số người dùng vẫn nghĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T11:36:00+07:00",
+      "fetched": "2026-07-27T19:50:11.477553+07:00"
+    },
+    {
+      "id": "bd49173959d1327fdd2892b44d493c7f",
+      "title": "Bóc tách thành công 2 bộ hài cốt liệt sĩ tập thể tại công viên Lê Thị Riêng",
+      "link": "https://thanhnien.vn/boc-tach-thanh-cong-2-bo-hai-cot-liet-si-tap-the-tai-cong-vien-le-thi-rieng-185260727182230268.htm",
+      "summary": "Lực lượng chức năng đã bóc tách thành công 2 bộ hài cốt liệt sĩ tập thể được quy tập tại công viên Lê Thị Riêng và phát hiện thêm 8 hài cốt liệt sĩ, nâng lên tổng cộng 125 hài cốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T11:36:00+07:00",
+      "fetched": "2026-07-27T19:50:11.477701+07:00"
+    },
+    {
+      "id": "30a49ab91279738337673f3cf50f446d",
+      "title": "Đường sách TP.HCM đẩy mạnh sự kiện, tìm cách vực sức mua sách",
+      "link": "https://thanhnien.vn/duong-sach-tphcm-day-manh-su-kien-tim-cach-vuc-suc-mua-sach-185260727164633956.htm",
+      "summary": "Trong khi các hoạt động, sự kiện tại Đường sách TP.HCM ngày càng sôi động, lượng sách tiêu thụ lại có dấu hiệu giảm do sức mua chững lại. Thực trạng này đang đặt ra không ít trăn trở cho ban điều hành và các đơn vị xuất bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T11:21:00+07:00",
+      "fetched": "2026-07-27T19:50:11.477856+07:00"
+    },
+    {
+      "id": "954632e86578ac6824851cd9a65022a0",
+      "title": "GPU Nvidia có thể bay lên Mặt Trăng năm nay",
+      "link": "https://vnexpress.net/gpu-nvidia-co-the-bay-len-mat-trang-nam-nay-5101770.html",
+      "summary": "Jetson của Nvidia dự kiến theo robot tự hành bay lên Mặt Trăng vào cuối năm, trở thành GPU đầu tiên hoạt động trên bề mặt thiên thể này.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-27T11:00:00+07:00",
+      "fetched": "2026-07-27T19:50:19.814097+07:00"
+    },
+    {
+      "id": "1f69ecbfba927cc565db92326673600c",
+      "title": "Sức ép đẩy người trẻ 'tháo chạy' khỏi Bắc Kinh",
+      "link": "https://vnexpress.net/suc-ep-day-nguoi-tre-thao-chay-khoi-bac-kinh-5102155.html",
+      "summary": "Nhiều người trẻ Trung Quốc chọn rời Bắc Kinh khi chi phí đắt đỏ và áp lực đè nặng, mở ra xu hướng chuyển dịch tới các thành phố phát triển khác.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-27T10:00:00+07:00",
+      "fetched": "2026-07-27T19:50:15.018636+07:00"
+    },
+    {
+      "id": "72cf827a3ee269f73b98bf63294a7f41",
+      "title": "Sống sót sau một tháng trôi dạt như 'con mồi chờ chết'",
+      "link": "https://vnexpress.net/song-sot-sau-mot-thang-troi-dat-nhu-con-moi-cho-chet-5102127.html",
+      "summary": "Trong tuần đầu tiên trôi dạt trên biển, Sato thấy bất lực, khóc rất nhiều và nghĩ đến cái chết nhưng sau đó anh đã xốc lại tinh thần.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-27T09:52:44+07:00",
+      "fetched": "2026-07-27T19:50:15.018797+07:00"
+    },
+    {
       "id": "3cf0034c86f6bb5c14dd9241d2cdbfc0",
       "title": "Phát hiện bức ảnh tập thể trong mộ tập thể ở xã Minh Đức, Đồng Nai",
       "link": "https://thanhnien.vn/phat-hien-buc-anh-tap-the-trong-mo-tap-the-o-xa-minh-duc-dong-nai-18526072715433397.htm",
@@ -311,6 +661,16 @@ window.newsData_2026_07_27 = {
       "category": "Tổng hợp",
       "published": "2026-07-27T09:28:00+07:00",
       "fetched": "2026-07-27T16:31:07.570727+07:00"
+    },
+    {
+      "id": "fa0295cbc912ccb5bc5a8b0d2432267d",
+      "title": "Nhựa Tiền Phong lãi cao chưa từng có",
+      "link": "https://vnexpress.net/nhua-tien-phong-lai-cao-chua-tung-co-5102150.html",
+      "summary": "Nhựa Tiền Phong, doanh nghiệp nhựa sở hữu thị phần lớn ở phía Bắc, có cổ đông lớn là người Nhật, lập kỷ lục lợi nhuận gần 478 tỷ đồng trong quý II.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-27T09:27:59+07:00",
+      "fetched": "2026-07-27T19:50:17.069563+07:00"
     },
     {
       "id": "f405b55668cfdf2eb1066554ff842f1c",
@@ -711,6 +1071,16 @@ window.newsData_2026_07_27 = {
       "category": "Thế giới",
       "published": "2026-07-27T08:11:26+07:00",
       "fetched": "2026-07-27T16:31:10.516884+07:00"
+    },
+    {
+      "id": "ad889dcfedef6600e9a5df9aa7dbcc69",
+      "title": "Đô đốc Mỹ 'khuyên ông Trump dừng chiến dịch không kích Iran'",
+      "link": "https://vnexpress.net/do-doc-my-khuyen-ong-trump-dung-chien-dich-khong-kich-iran-5102117.html",
+      "summary": "Đô đốc Cooper, lãnh đạo Bộ tư lệnh Trung tâm, được cho là đã khuyên Tổng thống Trump dừng chiến dịch không kích vì không còn mục tiêu tại Iran để nhắm tới, theo truyền thông Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-27T08:11:26+07:00",
+      "fetched": "2026-07-27T19:50:15.018956+07:00"
     },
     {
       "id": "169a6b9c7835a8c3340dc8bea6350d95",
@@ -1653,6 +2023,16 @@ window.newsData_2026_07_27 = {
       "fetched": "2026-07-27T08:58:49.970121+07:00"
     },
     {
+      "id": "8bbc6e794275e0e1400f4250cdf02085",
+      "title": "Hơn 350.000 người sơ tán vì loạt đám cháy rừng tại châu Âu",
+      "link": "https://vnexpress.net/hon-350-000-nguoi-so-tan-vi-loat-dam-chay-rung-tai-chau-au-5101886.html",
+      "summary": "Hàng trăm nghìn người tại Pháp và Tây Ban Nha phải sơ tán khi các vụ cháy rừng lớn tiếp tục lan rộng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-27T01:10:51+07:00",
+      "fetched": "2026-07-27T19:50:15.020594+07:00"
+    },
+    {
       "id": "42a097ba74cbec1f75da2cf5b5ef2d0b",
       "title": "Tổng thống Milei: 'Brazil phát động chiến dịch chống Argentina tại World Cup'",
       "link": "https://vnexpress.net/tong-thong-milei-brazil-phat-dong-chien-dich-chong-argentina-tai-world-cup-5101893.html",
@@ -2461,6 +2841,16 @@ window.newsData_2026_07_27 = {
       "category": "Thể thao",
       "published": "2026-07-26T17:00:00+07:00",
       "fetched": "2026-07-27T01:56:28.829325+07:00"
+    },
+    {
+      "id": "97ade3fc330e8020cc1c595afaac94b4",
+      "title": "Nhà khoa học tự 'đầu độc' khí carbon monoxide để thí nghiệm",
+      "link": "https://vnexpress.net/nha-khoa-hoc-tu-dau-doc-khi-carbon-monoxide-de-thi-nghiem-5100902.html",
+      "summary": "Nhà sinh lý học John Scott Haldane giam mình trong hòm kín như quan tài suốt 8 tiếng, tự đầu độc khí carbon monoxide và clo, từ đó ra đời những phát minh cứu sống nhiều sinh mạng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-26T17:00:00+07:00",
+      "fetched": "2026-07-27T19:50:19.813915+07:00"
     },
     {
       "id": "c72a56e03778cd8d512163fbac1bed5f",
