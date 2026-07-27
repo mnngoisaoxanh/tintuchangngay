@@ -1,6 +1,6 @@
 window.newsData_2026_07_28 = {
   "date": "2026-07-28",
-  "lastUpdated": "2026-07-28T02:12:43.266799+07:00",
+  "lastUpdated": "2026-07-28T04:02:18.568095+07:00",
   "articles": [
     {
       "id": "e51bae5267554b705aede6094ba7f47f",
@@ -151,6 +151,36 @@ window.newsData_2026_07_28 = {
       "category": "Tổng hợp",
       "published": "2026-07-28T02:12:37.909105+07:00",
       "fetched": "2026-07-28T02:12:37.909260+07:00"
+    },
+    {
+      "id": "ef60e4027f061e59346a38e49832d3e6",
+      "title": "Cú hích lớn cho bóng chuyền Việt Nam",
+      "link": "https://thanhnien.vn/cu-hich-lon-cho-bong-chuyen-viet-nam-185260727203737332.htm",
+      "summary": "Đội tuyển bóng chuyền nam VN hứa hẹn gặt hái thêm thành công sau chiến tích lần đầu vô địch giải bóng chuyền Đông Nam Á (SEA V.Cup).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T20:45:00+07:00",
+      "fetched": "2026-07-28T04:02:09.905531+07:00"
+    },
+    {
+      "id": "04d278e34396e5377280b24d20fdc2eb",
+      "title": "Nhận định, dự đoán tỷ số Malaysia vs Lào: Mưa bàn thắng cho 'hổ Mã Lai'",
+      "link": "https://thanhnien.vn/nhan-dinh-du-doan-ty-so-malaysia-vs-lao-mua-ban-thang-cho-ho-ma-lai-185260728030037385.htm",
+      "summary": "Trận Malaysia vs Lào diễn ra lúc 20 giờ ngày 28.7, thuộc khuôn khổ lượt trận thứ hai bảng B giải ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T20:38:00+07:00",
+      "fetched": "2026-07-28T04:02:09.905687+07:00"
+    },
+    {
+      "id": "bc5769654a069791accd3a04d55ce66d",
+      "title": "Một ngân hàng giảm gần 700 nhân viên nửa đầu năm",
+      "link": "https://vnexpress.net/mot-ngan-hang-giam-gan-700-nhan-vien-nua-dau-nam-5102252.html",
+      "summary": "VIB giảm gần 7% nhân viên trong nửa đầu năm, còn 9.250 người, khi tập trung phát triển nhân lực chất lượng và có năng suất làm việc cao.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-27T20:37:50+07:00",
+      "fetched": "2026-07-28T04:02:14.660688+07:00"
     },
     {
       "id": "0ae0963e2d03cc2364e27578d56c393e",
@@ -381,6 +411,16 @@ window.newsData_2026_07_28 = {
       "category": "Công nghệ",
       "published": "2026-07-27T17:00:00+07:00",
       "fetched": "2026-07-28T02:12:42.087989+07:00"
+    },
+    {
+      "id": "8e685f5af3130b2db1a272fb26a0b044",
+      "title": "Hà Nội sẽ tái chế phế thải xây dựng ngay tại công trường",
+      "link": "https://vnexpress.net/ha-noi-se-tai-che-phe-thai-xay-dung-ngay-tai-cong-truong-5102241.html",
+      "summary": "Thành phố yêu cầu các dự án trong giai đoạn giải phóng mặt bằng phải tái chế chất thải rắn ngay tại công trường, sản phẩm tái chế dùng san lấp, đắp nền, làm móng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T17:00:00+07:00",
+      "fetched": "2026-07-28T04:02:07.228930+07:00"
     },
     {
       "id": "72ae1ceefe1ff64152cdb22b5eababaa",
