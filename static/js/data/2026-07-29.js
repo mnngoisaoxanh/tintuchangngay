@@ -1,7 +1,147 @@
 window.newsData_2026_07_29 = {
   "date": "2026-07-29",
-  "lastUpdated": "2026-07-29T00:23:26.021252+07:00",
+  "lastUpdated": "2026-07-29T02:11:45.769418+07:00",
   "articles": [
+    {
+      "id": "2489d00091281e65cba6c5dd00f87d80",
+      "title": "Airbus thử nghiệm thành công chuyến bay thẳng hơn 24 giờ từ Úc đến Pháp",
+      "link": "https://tuoitre.vn/airbus-thu-nghiem-thanh-cong-chuyen-bay-thang-hon-24-gio-tu-uc-den-phap-100260728203337673.htm",
+      "summary": "Airbus vừa hoàn thành chuyến bay thử nghiệm hơn 24 giờ từ Úc đến Pháp, đánh dấu bước tiến trong kế hoạch khai thác các chuyến bay thẳng dài nhất thế giới của Qantas.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T02:11:39.457584+07:00",
+      "fetched": "2026-07-29T02:11:39.457645+07:00"
+    },
+    {
+      "id": "19fe11b3c642aa28afed0cf980ce1596",
+      "title": "Bê bối dầu ăn bẩn ở Đài Loan gây ảnh hưởng nghiêm trọng cho cả ngàn doanh nghiệp",
+      "link": "https://tuoitre.vn/be-boi-dau-an-ban-o-dai-loan-gay-anh-huong-nghiem-trong-cho-ca-ngan-doanh-nghiep-100260728211628119.htm",
+      "summary": "Vụ bê bối liên quan đến hàm lượng chất gây ung thư vượt quá mức cho phép trong dầu ăn ở Đài Loan tiếp tục leo thang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T02:11:39.457515+07:00",
+      "fetched": "2026-07-29T02:11:39.457574+07:00"
+    },
+    {
+      "id": "c666e4f1691d3f56bd09e53cfd9e4f9e",
+      "title": "Khởi tố 27 thanh thiếu niên đua xe, cầm hung khí 'diễu phố', đăng clip tạo thanh thế",
+      "link": "https://tuoitre.vn/khoi-to-27-thanh-thieu-nien-dua-xe-cam-hung-khi-dieu-pho-dang-clip-tao-thanh-the-100260728222635645.htm",
+      "summary": "Sau mỗi lần đụng độ, các bên lại đăng clip lên mạng xã hội để giành danh tiếng, với mục tiêu cuối cùng là chứng tỏ nhóm mình là \"số 1\", \"top 1\" của khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T02:11:39.457444+07:00",
+      "fetched": "2026-07-29T02:11:39.457500+07:00"
+    },
+    {
+      "id": "7cb0b8eab359ba82954c9cb3c7e27b9a",
+      "title": "Khởi tố nữ giám đốc công ty thủy sản 4 tội danh vụ buôn lậu gần 1.000 tỉ đồng",
+      "link": "https://tuoitre.vn/khoi-to-nu-giam-doc-cong-ty-thuy-san-4-toi-danh-vu-buon-lau-gan-1000-ti-dong-100260728224114439.htm",
+      "summary": "Cơ quan điều tra khởi tố nữ giám đốc Công ty TNHH thủy sản Sỹ Hưng trong vụ án buôn lậu gần 1.000 tỉ đồng, trốn thuế hơn 40 tỉ đồng và đưa, nhận hối lộ hơn 2,3 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T02:11:39.457373+07:00",
+      "fetched": "2026-07-29T02:11:39.457433+07:00"
+    },
+    {
+      "id": "579ec67b02ca5408e9819353ce6d81e4",
+      "title": "Bắt tạm giam Thứ trưởng Bộ Nông nghiệp và Môi trường Hoàng Trung",
+      "link": "https://tuoitre.vn/bat-tam-giam-thu-truong-bo-nong-nghiep-va-moi-truong-hoang-trung-100260728230547448.htm",
+      "summary": "Ông Hoàng Trung, Thứ trưởng Bộ Nông nghiệp và Môi trường, bị khởi tố, bắt tạm giam với cáo buộc nhận hối lộ liên quan vụ án xuất khẩu sầu riêng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T02:11:39.457265+07:00",
+      "fetched": "2026-07-29T02:11:39.457361+07:00"
+    },
+    {
+      "id": "b9ac1f5dcd204c299321f6e7c6c413a9",
+      "title": "IFAB: Trọng tài 'sai luật' khi đuổi Embolo ở trận gặp Argentina tại World Cup 2026",
+      "link": "https://tuoitre.vn/ifab-trong-tai-sai-luat-khi-duoi-embolo-o-tran-gap-argentina-tai-world-cup-2026-100260728230002857.htm",
+      "summary": "Ban điều hành Liên đoàn bóng đá quốc tế (IFAB) đã thừa nhận rằng tiền đạo Breel Embolo của Thụy Sĩ không nên bị truất quyền thi đấu trong trận thua Argentina ở tứ kết World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T02:11:39.457132+07:00",
+      "fetched": "2026-07-29T02:11:39.457250+07:00"
+    },
+    {
+      "id": "e51d78f14f56afca6d8a4861239dd8da",
+      "title": "Đăng clip cợt nhả chương trình cầu truyền hình về các liệt sĩ, 3 người bị công an triệu tập",
+      "link": "https://tuoitre.vn/dang-clip-cot-nha-chuong-trinh-cau-truyen-hinh-ve-cac-liet-si-3-nguoi-bi-cong-an-trieu-tap-100260728225940595.htm",
+      "summary": "Công an tỉnh Ninh Bình vừa triệu tập, làm việc với 3 người liên quan đến đoạn video đăng trên mạng xã hội có nội dung cợt nhả, thiếu tôn trọng khi diễn lại một cảnh trong chương trình cầu truyền hình 'Sao sáng dẫn đường - Hành trình tìm kiếm, quy tập hài cốt liệt sĩ'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T02:11:39.457070+07:00",
+      "fetched": "2026-07-29T02:11:39.457122+07:00"
+    },
+    {
+      "id": "7bc9af03944f8407ad60ceedf92b8fbc",
+      "title": "Tạm đình chỉ cơ sở nấu ăn bị tố có giòi trong món gà",
+      "link": "https://tuoitre.vn/tam-dinh-chi-co-so-nau-an-bi-to-co-gioi-trong-mon-ga-100260728204252101.htm",
+      "summary": "Tạm đình chỉ hoạt động cơ sở nấu ăn ở xã Ea Ktur (Đắk Lắk) và đề xuất xử phạt hành chính sau khi cơ sở này bị thực khách tố thức ăn có giòi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T02:11:39.456994+07:00",
+      "fetched": "2026-07-29T02:11:39.457059+07:00"
+    },
+    {
+      "id": "3b5320177312d8e4c78b38c25989c639",
+      "title": "Tuyển nữ Việt Nam nhận tin buồn trước Asiad 2026",
+      "link": "https://tuoitre.vn/tuyen-nu-viet-nam-nhan-tin-buon-truoc-asiad-2026-100260728224528613.htm",
+      "summary": "Đội tuyển nữ Việt Nam sẽ không có trung vệ Trần Thị Duyên tại Asiad 2026 sắp tới do chấn thương gặp phải ở Giải bóng đá nữ VĐQG - Cúp Thái Sơn Bắc 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T02:11:39.456867+07:00",
+      "fetched": "2026-07-29T02:11:39.456975+07:00"
+    },
+    {
+      "id": "0a7be5a273003d02e326c82002e3eeac",
+      "title": "TP.HCM hướng về nạn nhân chất độc da cam, tổ chức đi bộ đồng hành, gây quỹ hỗ trợ",
+      "link": "https://tuoitre.vn/chuong-trinh-di-bo-lan-toa-yeu-thuong-chung-tay-vi-nan-nhan-chat-doc-da-cam-100260728231036877.htm",
+      "summary": "Sáng 28-7, Hội Nạn nhân chất độc da cam/dioxin TP.HCM tổ chức họp báo giới thiệu chương trình đi bộ Vì nạn nhân chất độc da cam năm 2026, nhân 65 năm Ngày Thảm họa da cam ở Việt Nam (10-8-1961 - 10-8-2026).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T02:11:39.456525+07:00",
+      "fetched": "2026-07-29T02:11:39.456840+07:00"
+    },
+    {
+      "id": "69c5d4b9cc08b059374cb9f947e827cd",
+      "title": "Chưa ghi nhận người Việt thương vong trong động đất mạnh ở Nhật Bản",
+      "link": "https://tuoitre.vn/chua-ghi-nhan-nguoi-viet-thuong-vong-trong-dong-dat-manh-o-nhat-ban-100260728230503821.htm",
+      "summary": "Các cơ quan đại diện Việt Nam tại Nhật Bản sẽ tiếp tục theo sát tình hình, giữ liên lạc với các hội đoàn người Việt để kịp thời tiến hành bảo hộ công dân trong trường hợp cần thiết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T02:11:39.456455+07:00",
+      "fetched": "2026-07-29T02:11:39.456515+07:00"
+    },
+    {
+      "id": "93ff961aabbfbb451ce51ca45575160b",
+      "title": "Tái hiện tiệc trà ngoại giao cấp cao trong Ngày hội Văn hóa trà Việt Nam",
+      "link": "https://tuoitre.vn/tai-hien-tiec-tra-ngoai-giao-cap-cao-trong-ngay-hoi-van-hoa-tra-viet-nam-100260728192957202.htm",
+      "summary": "Ngày hội Văn hóa trà Việt Nam lần đầu tiên tổ chức ngày 28-7 tại TP.HCM không chỉ giới thiệu những giá trị đặc sắc của nghệ thuật trà mà còn tái hiện không gian tiệc trà từng phục vụ hoạt động đối ngoại cấp cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T02:11:39.456381+07:00",
+      "fetched": "2026-07-29T02:11:39.456444+07:00"
+    },
+    {
+      "id": "2b0bf8f05effb637ab91a8d2b9297b62",
+      "title": "Video: Siêu phẩm sút phạt của cầu thủ Malaysia vào lưới tuyển Lào",
+      "link": "https://tuoitre.vn/video-sieu-pham-sut-phat-cua-cau-thu-malaysia-vao-luoi-tuyen-lao-100260728234012658.htm",
+      "summary": "Cầu thủ vào sân thay người bên phía Malaysia - Aliff Haiqal đã ghi bàn thắng đẹp mắt vào lưới tuyển Lào trong chiến thắng đậm của đội nhà vào tối 28-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T02:11:39.456303+07:00",
+      "fetched": "2026-07-29T02:11:39.456371+07:00"
+    },
+    {
+      "id": "b55c5b93fa96ab016d7c4bc198894551",
+      "title": "Ông Trump khó chịu vì Thủ tướng Israel để lộ nội dung bàn về Iran",
+      "link": "https://tuoitre.vn/ong-trump-kho-chiu-vi-thu-tuong-israel-de-lo-noi-dung-ban-ve-iran-100260728235529068.htm",
+      "summary": "Tổng thống Trump đã bày tỏ sự khó chịu với Thủ tướng Israel vì nội dung thảo luận về Iran đã bị tiết lộ với truyền thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T02:11:39.456154+07:00",
+      "fetched": "2026-07-29T02:11:39.456288+07:00"
+    },
     {
       "id": "5850649c65f262fe940a5a2436184f2f",
       "title": "Áp lực tứ phía khiến ông Trump tạm dừng không kích Iran",
@@ -153,6 +293,96 @@ window.newsData_2026_07_29 = {
       "fetched": "2026-07-29T00:23:18.908741+07:00"
     },
     {
+      "id": "9c6ccdc625d8d041a697049095991a36",
+      "title": "TP HCM muốn cán bộ, công chức chuyển sang xe điện trước năm 2030",
+      "link": "https://vnexpress.net/tp-hcm-muon-can-bo-cong-chuc-chuyen-sang-xe-dien-truoc-nam-2030-5102717.html",
+      "summary": "Thành phố yêu cầu đẩy nhanh việc thay ôtô, xe máy công vụ và phương tiện cá nhân của cán bộ, công chức, viên chức bằng xe điện, năng lượng xanh trước năm 2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T18:00:00+07:00",
+      "fetched": "2026-07-29T02:07:06.850091+07:00"
+    },
+    {
+      "id": "5f099ffc26be9adb6b523536f4adcfad",
+      "title": "Màn cứu người giữa sóng lớn khiến con trai ông Trump thán phục",
+      "link": "https://vnexpress.net/man-cuu-nguoi-giua-song-lon-khien-con-trai-ong-trump-than-phuc-5102595.html",
+      "summary": "Con trai ông Trump kêu gọi trao \"danh hiệu cao quý nhất\" cho nhân viên cứu hộ 16 tuổi đã vật lộn giữa sóng dữ để cứu người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T18:00:00+07:00",
+      "fetched": "2026-07-29T02:07:06.850324+07:00"
+    },
+    {
+      "id": "8a35460f9d0821ff13394bd569c5d210",
+      "title": "Quân đội Mỹ tranh luận về ứng dụng AI trong quân sự",
+      "link": "https://vnexpress.net/quan-doi-my-tranh-luan-ve-ung-dung-ai-trong-quan-su-5080660.html",
+      "summary": "Lầu Năm Góc muốn sử dụng AI theo \"mọi cách phù hợp\", trong đó có xác định mục tiêu, nhưng một số quan chức lại tỏ ra thận trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T18:00:00+07:00",
+      "fetched": "2026-07-29T02:07:06.850500+07:00"
+    },
+    {
+      "id": "5f099ffc26be9adb6b523536f4adcfad",
+      "title": "Màn cứu người giữa sóng lớn khiến con trai ông Trump thán phục",
+      "link": "https://vnexpress.net/man-cuu-nguoi-giua-song-lon-khien-con-trai-ong-trump-than-phuc-5102595.html",
+      "summary": "Con trai ông Trump kêu gọi trao \"danh hiệu cao quý nhất\" cho nhân viên cứu hộ 16 tuổi đã vật lộn giữa sóng dữ để cứu người.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-28T18:00:00+07:00",
+      "fetched": "2026-07-29T02:11:41.070206+07:00"
+    },
+    {
+      "id": "8a35460f9d0821ff13394bd569c5d210",
+      "title": "Quân đội Mỹ tranh luận về ứng dụng AI trong quân sự",
+      "link": "https://vnexpress.net/quan-doi-my-tranh-luan-ve-ung-dung-ai-trong-quan-su-5080660.html",
+      "summary": "Lầu Năm Góc muốn sử dụng AI theo \"mọi cách phù hợp\", trong đó có xác định mục tiêu, nhưng một số quan chức lại tỏ ra thận trọng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-28T18:00:00+07:00",
+      "fetched": "2026-07-29T02:11:41.070381+07:00"
+    },
+    {
+      "id": "ff061eabbd74f1b5f1bb186882289802",
+      "title": "Công an làm việc với 3 người trong vụ đăng clip cợt nhả chương trình 'Sao sáng dẫn đường'",
+      "link": "https://thanhnien.vn/cong-an-lam-viec-voi-3-nguoi-trong-vu-dang-clip-cot-nha-chuong-trinh-sao-sang-dan-duong-185260728225325148.htm",
+      "summary": "3 thanh niên có hành vi nhại lại lời nhiều phân cảnh của chương trình 'Sao sáng dẫn đường' trên VTV, đã bị Công an tỉnh Ninh Bình yêu cầu đến trụ sở làm rõ về hành vi đưa thông tin có nội dung xấu, độc lên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T17:49:00+07:00",
+      "fetched": "2026-07-29T02:11:37.944937+07:00"
+    },
+    {
+      "id": "e615f04f8c77bfd11f8a17d8966a7a06",
+      "title": "Nỗi đau của người bác chăm cháu ung thư",
+      "link": "https://vnexpress.net/noi-dau-cua-nguoi-bac-cham-chau-ung-thu-5102256.html",
+      "summary": "Nửa năm nay chị Thanh Nhung, 41 tuổi, gửi bốn con cho ông bà nội, cùng chồng thay nhau xuống Hà Nội chăm đứa cháu mắc u não.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T17:33:18+07:00",
+      "fetched": "2026-07-29T02:07:06.850660+07:00"
+    },
+    {
+      "id": "91a5c17ade2787513fc1f8230ed62719",
+      "title": "Cán bộ xã bơi ra giữa dòng nước xiết cứu bé trai",
+      "link": "https://vnexpress.net/can-bo-xa-boi-ra-giua-dong-nuoc-xiet-cuu-be-trai-5102644.html",
+      "summary": "Phát hiện bé trai 4 tuổi bị cuốn trôi trên sông Công, anh Trần Quang Đáng đã nhảy xuống bơi ra giữa dòng cứu nạn nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T17:27:38+07:00",
+      "fetched": "2026-07-29T02:07:06.850816+07:00"
+    },
+    {
+      "id": "b0c4c1a605fcd033ff1a566ed662af05",
+      "title": "Nhà phố 120 m2 bo cong mặt tiền, phòng khách cao hai tầng",
+      "link": "https://vnexpress.net/nha-pho-120-m2-bo-cong-mat-tien-phong-khach-cao-hai-tang-5102430.html",
+      "summary": "Hệ cửa kính, ban công trồng cây và sân vườn phía trước nhà giúp đưa ánh sáng, thông gió và mang cảnh quan vào không gian sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T17:20:56+07:00",
+      "fetched": "2026-07-29T02:07:06.850973+07:00"
+    },
+    {
       "id": "671bacc58ad49eab48d0786d6921bd52",
       "title": "Bệnh thận thường âm thầm: 8 dấu hiệu cần nhận biết sớm",
       "link": "https://thanhnien.vn/benh-than-thuong-am-tham-8-dau-hieu-can-nhan-biet-som-18526072821125373.htm",
@@ -191,6 +421,66 @@ window.newsData_2026_07_29 = {
       "category": "Tổng hợp",
       "published": "2026-07-28T17:11:00+07:00",
       "fetched": "2026-07-29T00:23:17.007613+07:00"
+    },
+    {
+      "id": "24997c59e4b355fce7756150756e59da",
+      "title": "Khoảnh khắc vụ nổ ở trung tâm thương mại Aeon Mall sau động đất Nhật Bản",
+      "link": "https://vnexpress.net/khoanh-khac-vu-no-o-trung-tam-thuong-mai-aeon-mall-sau-dong-dat-nhat-ban-5102723.html",
+      "summary": "Ngay sau trận động đất 7,1 độ chiều 28/7 ở tỉnh Kumamoto, một vụ nổ đã xảy ra tại trung tâm thương mại Aeon Mall ở thị trấn Kashima, cách tâm chấn khoảng 20 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T17:10:40+07:00",
+      "fetched": "2026-07-29T02:07:06.851127+07:00"
+    },
+    {
+      "id": "3afa009f9dedbd93451cec65f50d89ff",
+      "title": "5 lợi ích ngâm chân nước ấm trước khi ngủ",
+      "link": "https://vnexpress.net/5-loi-ich-ngam-chan-nuoc-am-truoc-khi-ngu-5102168.html",
+      "summary": "Ngâm chân đúng cách có thể giúp thư giãn, giảm đau nhức, cải thiện tuần hoàn máu và chất lượng giấc ngủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T17:05:00+07:00",
+      "fetched": "2026-07-29T02:07:06.851304+07:00"
+    },
+    {
+      "id": "c380a5d7d059b229d7080d9c840b0af9",
+      "title": "Thoát vị thành bụng",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/thoat-vi-thanh-bung-443",
+      "summary": "Thoát vị thành bụng là tình trạng tạng trong ổ bụng chui qua điểm yếu hoặc lỗ hở của thành bụng, gây đau khi ho, mang vác nặng hoặc gắng sức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T17:04:00+07:00",
+      "fetched": "2026-07-29T02:07:06.851458+07:00"
+    },
+    {
+      "id": "6ba30e88883e886e59ceac66e9f89297",
+      "title": "Làn trái cao tốc và 'luật mềm' vượt xe",
+      "link": "https://vnexpress.net/lan-trai-cao-toc-va-luat-mem-vuot-xe-5102719.html",
+      "summary": "Đề xuất của Cục Cảnh sát giao thông quy định làn sát dải phân cách trên cao tốc chỉ dùng để vượt xe đang tạo ra ý kiến trái chiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T17:02:51+07:00",
+      "fetched": "2026-07-29T02:07:06.851621+07:00"
+    },
+    {
+      "id": "fc9d49705a4a1be7c17b5677af4f1bf0",
+      "title": "Ba con giáp đón vận khí giàu sang mạnh nhất cuối tháng 7",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-tu-vi-ba-con-giap-don-van-khi-giau-sang-manh-nhat-cuoi-thang-7-5102626.html",
+      "summary": "Họ có cơ hội đón nhận nguồn tài lộc dồi dào, quý nhân xuất hiện đúng lúc để tháo gỡ khó khăn, mở ra nhiều cánh cửa phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T17:02:00+07:00",
+      "fetched": "2026-07-29T02:07:06.851780+07:00"
+    },
+    {
+      "id": "20c2fc374ffadc3dec6c06c74585af38",
+      "title": "Thưởng tiền khuyến sinh và bài toán người trẻ ngại đẻ",
+      "link": "https://vnexpress.net/thuong-tien-khuyen-sinh-va-bai-toan-nguoi-tre-ngai-de-5101222.html",
+      "summary": "33 tuổi, con gái gần 5 tuổi, chị Lan nhiều lần bàn với chồng về chuyện sinh thêm em bé nhưng mỗi lần tính chi phí thì ý định ấy lại chùng xuống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T17:02:00+07:00",
+      "fetched": "2026-07-29T02:07:06.851932+07:00"
     },
     {
       "id": "847a807b8e62aa90e858a4f5e5b52a99",
