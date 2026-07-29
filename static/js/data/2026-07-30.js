@@ -1,7 +1,37 @@
 window.newsData_2026_07_30 = {
   "date": "2026-07-30",
-  "lastUpdated": "2026-07-30T00:04:06.696879+07:00",
+  "lastUpdated": "2026-07-30T01:57:34.600181+07:00",
   "articles": [
+    {
+      "id": "14543c2a3aa60c3a8c9dc1a6ad31532a",
+      "title": "NÓNG: CEO công ty drone quân sự của Nga bị mưu sát",
+      "link": "https://tuoitre.vn/nong-ceo-cong-ty-drone-quan-su-cua-nga-bi-muu-sat-100260729223755101.htm",
+      "summary": "Giám đốc kiêm nhà sáng lập một công ty sản xuất máy bay không người lái (drone) của Nga vừa bị thương trong vụ nổ súng rạng sáng 29-7. Các công tố viên mô tả đây là một vụ mưu sát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T01:57:29.388369+07:00",
+      "fetched": "2026-07-30T01:57:29.388475+07:00"
+    },
+    {
+      "id": "d66d8cd5ea9ad064c5bf16130c2b2a0c",
+      "title": "Mạo danh Công ty SJC thu mua kim cương từ PNJ, Kim Lý",
+      "link": "https://tuoitre.vn/mao-danh-cong-ty-sjc-thu-mua-kim-cuong-tu-pnj-kim-ly-100260729225544481.htm",
+      "summary": "Công ty SJC cho biết fanpage 'SJC Hồ Chí Minh' là giả mạo, Công ty SJC cũng không có chính sách thu mua như rao trên trang đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T01:57:29.388240+07:00",
+      "fetched": "2026-07-30T01:57:29.388350+07:00"
+    },
+    {
+      "id": "c9b98307517c3fb577b3c15c0c5f684e",
+      "title": "Giá vàng thế giới đi xuống sau tin ông Trump tuyên bố sẽ đánh Iran 'tả tơi'",
+      "link": "https://tuoitre.vn/gia-vang-the-gioi-di-xuong-sau-tin-ong-trump-tuyen-bo-se-danh-iran-ta-toi-100260729233734634.htm",
+      "summary": "Từng chạm mốc 4.050 USD/ounce nhưng tối nay, 29-7, giá vàng thế giới đã quay đầu giảm sau khi căng thẳng Trung Đông tiếp tục leo thang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T01:57:29.387767+07:00",
+      "fetched": "2026-07-30T01:57:29.388212+07:00"
+    },
     {
       "id": "221b383c80ce6dafca835a8d77c56d5f",
       "title": "Mùa hè sôi động cùng học ngoại ngữ, bung đam mê hát nhảy",
@@ -153,6 +183,116 @@ window.newsData_2026_07_30 = {
       "fetched": "2026-07-30T00:04:01.288214+07:00"
     },
     {
+      "id": "997a2baa1e2507fbdeb026c7959b259b",
+      "title": "Fed tiếp tục giữ nguyên lãi suất",
+      "link": "https://vnexpress.net/fed-tiep-tuc-giu-nguyen-lai-suat-5103125.html",
+      "summary": "Cục Dự trữ Liên bang Mỹ (Fed) giữ nguyên lãi suất lần thứ 5 liên tiếp, đúng như dự báo của thị trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T18:08:30+07:00",
+      "fetched": "2026-07-30T01:57:25.520853+07:00"
+    },
+    {
+      "id": "997a2baa1e2507fbdeb026c7959b259b",
+      "title": "Fed tiếp tục giữ nguyên lãi suất",
+      "link": "https://vnexpress.net/fed-tiep-tuc-giu-nguyen-lai-suat-5103125.html",
+      "summary": "Cục Dự trữ Liên bang Mỹ (Fed) giữ nguyên lãi suất lần thứ 5 liên tiếp, đúng như dự báo của thị trường.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-29T18:08:30+07:00",
+      "fetched": "2026-07-30T01:57:31.767058+07:00"
+    },
+    {
+      "id": "60b502d722199d225d257b57d755f014",
+      "title": "5 cách giúp ngủ nhanh, tránh trằn trọc",
+      "link": "https://vnexpress.net/5-cach-giup-ngu-nhanh-tranh-tran-troc-5102532.html",
+      "summary": "Rời khỏi giường, đọc sách dưới ánh sáng dịu, tránh dùng điện thoại, giữ phòng ngủ mát mẻ là những việc có thể giúp bạn dễ ngủ hơn nếu nằm mãi mà vẫn tỉnh táo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T18:04:00+07:00",
+      "fetched": "2026-07-30T01:57:25.521039+07:00"
+    },
+    {
+      "id": "ceadcb6e55dbfc954389458210230345",
+      "title": "Những cái chết vì lao lực đằng sau dịch vụ giao hàng xuyên đêm ở Hàn Quốc",
+      "link": "https://vnexpress.net/nhung-cai-chet-vi-lao-luc-dang-sau-dich-vu-giao-hang-xuyen-dem-o-han-quoc-5103004.html",
+      "summary": "Một tuần trước khi qua đời, Jang Deok-jun vẫn không nghe lời mẹ xin nghỉ việc dù đã giảm 15 kg và mệt mỏi vì phải làm ca đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T18:00:00+07:00",
+      "fetched": "2026-07-30T01:57:25.521209+07:00"
+    },
+    {
+      "id": "ceadcb6e55dbfc954389458210230345",
+      "title": "Những cái chết vì lao lực đằng sau dịch vụ giao hàng xuyên đêm ở Hàn Quốc",
+      "link": "https://vnexpress.net/nhung-cai-chet-vi-lao-luc-dang-sau-dich-vu-giao-hang-xuyen-dem-o-han-quoc-5103004.html",
+      "summary": "Một tuần trước khi qua đời, Jang Deok-jun vẫn không nghe lời mẹ xin nghỉ việc dù đã giảm 15 kg và mệt mỏi vì phải làm ca đêm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-29T18:00:00+07:00",
+      "fetched": "2026-07-30T01:57:30.619474+07:00"
+    },
+    {
+      "id": "6f03d386c0a402bf914b58b309d40039",
+      "title": "Hành khách vội sơ tán khi khói tràn vào toa tàu metro ở Barcelona",
+      "link": "https://vnexpress.net/hanh-khach-voi-so-tan-khi-khoi-tran-vao-toa-tau-metro-o-barcelona-5103122.html",
+      "summary": "Khói từ một đám cháy gần đường ray tràn vào đoàn tàu metro ở Barcelona, buộc các  hành khách sơ tán khẩn cấp, gần 40 người phải chuyển đến cơ sở y tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T17:40:42+07:00",
+      "fetched": "2026-07-30T01:57:25.521392+07:00"
+    },
+    {
+      "id": "fdba180e9029d8ad74c9aad04185482e",
+      "title": "Lãnh đạo công ty UAV Nga bị bắn ba phát ngay trước nhà",
+      "link": "https://vnexpress.net/lanh-dao-cong-ty-uav-nga-bi-ban-ba-phat-ngay-truoc-nha-5103110.html",
+      "summary": "Andrey Cherezov, giám đốc công ty nghiên cứu phát triển UAV của Nga, bị tay súng phục kích và bắn trọng thương ngay bên ngoài nhà riêng ở Tula.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T17:12:00+07:00",
+      "fetched": "2026-07-30T01:57:25.521555+07:00"
+    },
+    {
+      "id": "fdba180e9029d8ad74c9aad04185482e",
+      "title": "Lãnh đạo công ty UAV Nga bị bắn ba phát ngay trước nhà",
+      "link": "https://vnexpress.net/lanh-dao-cong-ty-uav-nga-bi-ban-ba-phat-ngay-truoc-nha-5103110.html",
+      "summary": "Andrey Cherezov, giám đốc công ty nghiên cứu phát triển UAV của Nga, bị tay súng phục kích và bắn trọng thương ngay bên ngoài nhà riêng ở Tula.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-29T17:12:00+07:00",
+      "fetched": "2026-07-30T01:57:30.619663+07:00"
+    },
+    {
+      "id": "57934a8886a6552eb2e136059c891978",
+      "title": "Dragon Capital: Định giá nhiều doanh nghiệp hấp dẫn để đầu tư 2-3 năm",
+      "link": "https://vnexpress.net/dragon-capital-dinh-gia-nhieu-doanh-nghiep-hap-dan-de-dau-tu-2-3-nam-5103109.html",
+      "summary": "Dragon Capital dự báo chứng khoán trong ngắn hạn còn biến động mạnh, nhưng định giá nhiều doanh nghiệp đã hấp dẫn sau nhịp điều chỉnh sâu, phù hợp tích lũy cho 2-3 năm tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T17:05:00+07:00",
+      "fetched": "2026-07-30T01:57:25.521727+07:00"
+    },
+    {
+      "id": "b2ac093ab76eccf0a2395b674ca67975",
+      "title": "Cận cảnh biệt thự 8,5 triệu USD nằm giữa rừng cây của Matt Damon",
+      "link": "https://vnexpress.net/can-canh-biet-thu-8-5-trieu-usd-nam-giua-rung-cay-cua-matt-damon-5103005.html",
+      "summary": "Không gian ở được tổ chức như khu nghỉ dưỡng, với các phòng chính hướng ra vườn và hệ tiện ích trải rộng trên khu đất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T17:05:00+07:00",
+      "fetched": "2026-07-30T01:57:25.521917+07:00"
+    },
+    {
+      "id": "57934a8886a6552eb2e136059c891978",
+      "title": "Dragon Capital: Định giá nhiều doanh nghiệp hấp dẫn để đầu tư 2-3 năm",
+      "link": "https://vnexpress.net/dragon-capital-dinh-gia-nhieu-doanh-nghiep-hap-dan-de-dau-tu-2-3-nam-5103109.html",
+      "summary": "Dragon Capital dự báo chứng khoán trong ngắn hạn còn biến động mạnh, nhưng định giá nhiều doanh nghiệp đã hấp dẫn sau nhịp điều chỉnh sâu, phù hợp tích lũy cho 2-3 năm tới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-29T17:05:00+07:00",
+      "fetched": "2026-07-30T01:57:31.767235+07:00"
+    },
+    {
       "id": "3cd1f900dc73b8f72ac06b25132cb1b2",
       "title": "Giảm 7 kg, thức trắng đêm, nhiều thí sinh Hoa hậu Việt Nam gây chú ý",
       "link": "https://thanhnien.vn/giam-7-kg-thuc-trang-dem-nhieu-thi-sinh-hoa-hau-viet-nam-gay-chu-y-185260729220329644.htm",
@@ -161,6 +301,126 @@ window.newsData_2026_07_30 = {
       "category": "Tổng hợp",
       "published": "2026-07-29T17:02:00+07:00",
       "fetched": "2026-07-30T00:04:00.033842+07:00"
+    },
+    {
+      "id": "10e811398233594d52dfbf6ed5754b3a",
+      "title": "Cô gái chọn đầu tiên sẽ tiết lộ tính cách của bạn",
+      "link": "https://vnexpress.net/co-gai-chon-dau-tien-se-tiet-lo-tinh-cach-cua-ban-5102983.html",
+      "summary": "Sự lựa chọn đầu tiên ấy thường xuất phát từ trực giác và cũng là \"manh mối\" hé lộ những nét tính cách nổi bật của bạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T17:02:00+07:00",
+      "fetched": "2026-07-30T01:57:25.522081+07:00"
+    },
+    {
+      "id": "9a86563d4b1432f4b0691f8579688074",
+      "title": "Người đàn ông lo lắng vì sở thích tình dục khác thường, bác sĩ nói 'không phải bệnh'",
+      "link": "https://vnexpress.net/nguoi-dan-ong-lo-lang-vi-so-thich-tinh-duc-khac-thuong-bac-si-noi-khong-phai-benh-5101802.html",
+      "summary": "Người đàn ông 34 tuổi, kết hôn 6 năm, đi khám vì khoảng một năm nay nhận thấy mình hứng thú với những tình huống nhập vai, trong đó người vợ chủ động hơn còn anh ở vị trí tiếp nhận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T17:02:00+07:00",
+      "fetched": "2026-07-30T01:57:25.522244+07:00"
+    },
+    {
+      "id": "2bd4f73e8f546e2cb6c5fdbec3ee5477",
+      "title": "'Ông lớn' môi giới nhà hạng sang toàn cầu vào thị trường Việt Nam",
+      "link": "https://vnexpress.net/ong-lon-moi-gioi-nha-hang-sang-toan-cau-vao-thi-truong-viet-nam-5103098.html",
+      "summary": "Sotheby's International Realty (Mỹ), mạng lưới môi giới bất động sản hạng sang toàn cầu, gia nhập thị trường Việt Nam qua đối tác nhượng quyền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T17:02:00+07:00",
+      "fetched": "2026-07-30T01:57:25.522400+07:00"
+    },
+    {
+      "id": "4ed234b1a9582684cfff4d5ab23de126",
+      "title": "Tham vọng phủ xe điện để giảm ô nhiễm ở thủ đô Ấn Độ",
+      "link": "https://vnexpress.net/tham-vong-phu-xe-dien-de-giam-o-nhiem-o-thu-do-an-do-5102919.html",
+      "summary": "Để giảm ô nhiễm không khí, chính quyền Delhi trợ cấp cho người dân mua xe điện và chấm dứt cho đăng ký mới xe xăng hai bánh từ 2028.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T17:01:36+07:00",
+      "fetched": "2026-07-30T01:57:25.522557+07:00"
+    },
+    {
+      "id": "4ed234b1a9582684cfff4d5ab23de126",
+      "title": "Tham vọng phủ xe điện để giảm ô nhiễm ở thủ đô Ấn Độ",
+      "link": "https://vnexpress.net/tham-vong-phu-xe-dien-de-giam-o-nhiem-o-thu-do-an-do-5102919.html",
+      "summary": "Để giảm ô nhiễm không khí, chính quyền Delhi trợ cấp cho người dân mua xe điện và chấm dứt cho đăng ký mới xe xăng hai bánh từ 2028.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-29T17:01:36+07:00",
+      "fetched": "2026-07-30T01:57:31.767401+07:00"
+    },
+    {
+      "id": "e524666b0c586c730910d67e3d7f9742",
+      "title": "HLV Park Hang-seo nổi nóng xông vào sân ở Thái Lan",
+      "link": "https://vnexpress.net/hlv-park-hang-seo-noi-nong-xong-vao-san-o-thai-lan-5103120.html",
+      "summary": "HLV Park Hang-seo bất bình khi chứng kiến học trò ở Kanchanaburi FC bị gây hấn trong trận giao hữu thắng Eastern SC 2-0 trên sân nhà tối nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T17:00:00+07:00",
+      "fetched": "2026-07-30T01:57:25.522724+07:00"
+    },
+    {
+      "id": "5c109528bf3770d2bc74f3f2ed7bd07a",
+      "title": "Cựu giám đốc CDC và Bệnh viện Bình Thuận lĩnh án vì gây thiệt hại hơn 67 tỷ đồng",
+      "link": "https://vnexpress.net/cuu-giam-doc-cdc-va-benh-vien-binh-thuan-linh-an-vi-gay-thiet-hai-hon-67-ty-dong-5103108.html",
+      "summary": "Ông Đinh Thế Hùng, cựu Giám đốc CDC Bình Thuận và Nguyễn Văn Thành, cựu Giám đốc Bệnh viện Đa khoa tỉnh, bị xác định vi phạm đấu thầu, gây thiệt hại hơn 67 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T17:00:00+07:00",
+      "fetched": "2026-07-30T01:57:25.522910+07:00"
+    },
+    {
+      "id": "a3158837201ead447cbfda6bf7dcf1da",
+      "title": "Lừa nhà đầu tư, Giám đốc Công ty Nhà Tiến Phát lĩnh án tù chung thân",
+      "link": "https://vnexpress.net/lua-nha-dau-tu-giam-doc-cong-ty-nha-tien-phat-linh-an-tu-chung-than-5103089.html",
+      "summary": "Ngô Sĩ Linh, Giám đốc Công ty Nhà Tiến Phát bị phạt tù chung thân và bồi thường thêm 102 tỷ đồng cho gần 270 bị hại đã góp vốn đầu tư kinh doanh nhà trọ \"ảo\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T17:00:00+07:00",
+      "fetched": "2026-07-30T01:57:25.523071+07:00"
+    },
+    {
+      "id": "2403f157c93209c6752b5ebe02927551",
+      "title": "Vụ trộm phanh phui âm mưu đầu độc của hai mẹ con",
+      "link": "https://vnexpress.net/vu-trom-phanh-phui-am-muu-dau-doc-cua-hai-me-con-5103068.html",
+      "summary": "Một vụ trộm tưởng như không liên quan bất ngờ dẫn cảnh sát đến 7.000 tin nhắn của người vợ đầu độc chồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T17:00:00+07:00",
+      "fetched": "2026-07-30T01:57:25.523230+07:00"
+    },
+    {
+      "id": "ad79b09880971ad3006e32211aabe0a6",
+      "title": "Công ty của bầu Đức lãi gần 2.300 tỷ đồng nửa đầu năm",
+      "link": "https://vnexpress.net/cong-ty-cua-bau-duc-lai-gan-2-300-ty-dong-nua-dau-nam-5102947.html",
+      "summary": "Hoàng Anh Gia Lai lãi sau thuế gần 2.300 tỷ đồng trong nửa đầu năm, tăng 161% so với cùng kỳ, chủ yếu nhờ được miễn hơn 1.500 tỷ lãi vay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-29T17:00:00+07:00",
+      "fetched": "2026-07-30T01:57:31.767563+07:00"
+    },
+    {
+      "id": "52ef0ed37773ca016039c6aa3887a20f",
+      "title": "Máy tính giải mã tuyệt mật giúp kết thúc sớm Thế chiến II",
+      "link": "https://vnexpress.net/may-tinh-giai-ma-tuyet-mat-giup-ket-thuc-som-the-chien-ii-5102652.html",
+      "summary": "Sự ra đời của Colossus, máy tính điện tử có thể lập trình đầu tiên trên thế giới, góp phần giúp quân Đồng minh giành thắng lợi trong Thế chiến II, tạo tiền đề phát triển công nghệ máy tính hiện đại.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-29T17:00:00+07:00",
+      "fetched": "2026-07-30T01:57:33.469101+07:00"
+    },
+    {
+      "id": "e524666b0c586c730910d67e3d7f9742",
+      "title": "HLV Park Hang-seo nổi nóng xông vào sân ở Thái Lan",
+      "link": "https://vnexpress.net/hlv-park-hang-seo-noi-nong-xong-vao-san-o-thai-lan-5103120.html",
+      "summary": "HLV Park Hang-seo bất bình khi chứng kiến học trò ở Kanchanaburi FC bị gây hấn trong trận giao hữu thắng Eastern SC 2-0 trên sân nhà tối nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-29T17:00:00+07:00",
+      "fetched": "2026-07-30T01:57:34.594969+07:00"
     },
     {
       "id": "33c06db3379f5840abdfe3faaeedc598",
@@ -311,6 +571,16 @@ window.newsData_2026_07_30 = {
       "category": "Tổng hợp",
       "published": "2026-07-29T14:00:00+07:00",
       "fetched": "2026-07-30T00:03:57.995498+07:00"
+    },
+    {
+      "id": "56c5596d5e635afadaa020240b92f31c",
+      "title": "Chính quyền Tổng thống Trump có lãnh đạo tình báo mới",
+      "link": "https://thanhnien.vn/chinh-quyen-tong-thong-trump-co-lanh-dao-tinh-bao-moi-185260729194311334.htm",
+      "summary": "Thượng viện Mỹ tối 28.7 đã bỏ phiếu phê chuẩn ông Jay Clayton làm giám đốc tình báo quốc gia, khép lại nhiệm kỳ tạm quyền ngắn ngủi nhưng đầy tranh cãi của ông Bill Pulte.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T14:00:00+07:00",
+      "fetched": "2026-07-30T01:57:27.908338+07:00"
     },
     {
       "id": "6c9e9db6087658e2597d294dd58875d8",
