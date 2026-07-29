@@ -1,7 +1,157 @@
 window.newsData_2026_07_29 = {
   "date": "2026-07-29",
-  "lastUpdated": "2026-07-29T20:45:26.627794+07:00",
+  "lastUpdated": "2026-07-29T22:45:04.686488+07:00",
   "articles": [
+    {
+      "id": "cf808dc694d1883a53ff7e969a47b1ff",
+      "title": "Cận cảnh showroom Mercedes-Benz Vietnam Star Phú Mỹ Hưng theo chuẩn toàn cầu",
+      "link": "https://tuoitre.vn/can-canh-showroom-mercedes-benz-vietnam-star-phu-my-hung-theo-chuan-toan-cau-100260729133728178.htm",
+      "summary": "Mercedes-Benz Vietnam Star Phú Mỹ Hưng chính thức trở lại sau khi được nâng cấp theo tiêu chuẩn Mercedes-Benz Retail Architecture 20X (MAR20X).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:45:00.027326+07:00",
+      "fetched": "2026-07-29T22:45:00.027461+07:00"
+    },
+    {
+      "id": "631c09ff6371a4d38a00e4755a560adc",
+      "title": "Vụ người dân cất bốc, lo hương khói 17 hài cốt nghi liệt sĩ ở Đà Nẵng: Lấy ý kiến nhân chứng để xác minh",
+      "link": "https://tuoitre.vn/vu-nguoi-dan-cat-boc-lo-huong-khoi-17-hai-cot-nghi-liet-si-o-da-nang-lay-y-kien-nhan-chung-de-xac-minh-100260729185421643.htm",
+      "summary": "Chiều 29-7, Bộ Chỉ huy quân sự TP Đà Nẵng tổ chức hội nghị khảo sát, lấy ý kiến các nhân chứng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:45:00.027184+07:00",
+      "fetched": "2026-07-29T22:45:00.027315+07:00"
+    },
+    {
+      "id": "797637ab446f67fcf9de8843c2b6c33d",
+      "title": "TP.HCM sẽ kiểm tra đột xuất xe khách, sau vụ cháy xe làm 7 người chết ở Đồng Nai",
+      "link": "https://tuoitre.vn/tphcm-se-kiem-tra-dot-xuat-xe-khach-sau-vu-chay-xe-lam-7-nguoi-chet-o-dong-nai-100260729185146913.htm",
+      "summary": "UBND TP.HCM vừa có văn bản chỉ đạo các sở, ngành và UBND cấp xã, phường tăng cường công tác bảo đảm trật tự, an toàn giao thông và nâng cao hiệu quả quản lý nhà nước đối với hoạt động vận tải hành khách tại TP.HCM, sau vụ cháy xe khách làm 7 người chết ở TP Đồng Nai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:45:00.027120+07:00",
+      "fetched": "2026-07-29T22:45:00.027174+07:00"
+    },
+    {
+      "id": "035b8824ea79897cc4b0a92c9086177c",
+      "title": "Tháo gỡ khó khăn cho dự án khu công nghiệp tại Khu kinh tế Vân Phong",
+      "link": "https://tuoitre.vn/thao-go-kho-khan-cho-du-an-khu-cong-nghiep-tai-khu-kinh-te-van-phong-100260729190542914.htm",
+      "summary": "Dự án Khu công nghiệp Dốc Đá Trắng được Thủ tướng Chính phủ quyết định chủ trương đầu tư, tại Khu kinh tế Vân Phong (tỉnh Khánh Hòa), vừa được tháo gỡ khó khăn, vướng mắc, giao đủ toàn bộ diện tích đất 288ha cho nhà đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:45:00.026959+07:00",
+      "fetched": "2026-07-29T22:45:00.027109+07:00"
+    },
+    {
+      "id": "b367772eb78eb5f57b1f526b2ce43b31",
+      "title": "'Tổng tài' Việt 23 tuổi nắm khối tài sản gần 6.000 tỉ đồng là ai?",
+      "link": "https://tuoitre.vn/tong-tai-viet-23-tuoi-nam-khoi-tai-san-gan-6000-ti-dong-la-ai-100260729190859452.htm",
+      "summary": "Trong bản cáo bạch vừa công bố, Chứng khoán LPBank giới thiệu chi tiết hồ sơ các lãnh đạo, đáng chú ý có ông Nguyễn Xuân Thái (sinh năm 2003), một lãnh đạo doanh nghiệp thuộc tốp trẻ nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:45:00.026807+07:00",
+      "fetched": "2026-07-29T22:45:00.026948+07:00"
+    },
+    {
+      "id": "31906fc9a862733f571c77d7298ea735",
+      "title": "Quân chủng Phòng không - Không quân yêu cầu bộ đội xây xong trường nội trú ở Đà Nẵng trước 15-8",
+      "link": "https://tuoitre.vn/quan-chung-phong-khong-khong-quan-yeu-cau-bo-doi-xay-xong-truong-noi-tru-o-da-nang-truoc-15-8-100260729193013653.htm",
+      "summary": "Trực tiếp kiểm tra và động viên bộ đội Sư đoàn 372, Sư đoàn 375 hỗ trợ xây trường nội trú ở TP Đà Nẵng chiều 29-7, Thiếu tướng Nguyễn Huy Tuấn, Phó chính ủy Quân chủng Phòng không - Không quân, yêu cầu bộ đội tập trung thi công và bàn giao phần việc của mình trước ngày 15-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:45:00.026655+07:00",
+      "fetched": "2026-07-29T22:45:00.026794+07:00"
+    },
+    {
+      "id": "cb2a0f2aa961b101634125e4a37f2074",
+      "title": "Tượng Luffy trong One Piece vẫn hiên ngang sau trận động đất rung chuyển Nhật Bản",
+      "link": "https://tuoitre.vn/tuong-luffy-trong-one-piece-van-hien-ngang-sau-tran-dong-dat-rung-chuyen-nhat-ban-100260729194551557.htm",
+      "summary": "Bức tượng đồng của Luffy, nhân vật chính trong One Piece, vẫn đứng vững sau trận động đất mạnh 6,8 độ xảy ra tại tỉnh Kumamoto (Nhật Bản), trở thành biểu tượng tiếp thêm hy vọng cho người dân trong thời điểm thiên tai tiếp tục gây nhiều thiệt hại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:45:00.026374+07:00",
+      "fetched": "2026-07-29T22:45:00.026511+07:00"
+    },
+    {
+      "id": "ddde173abb02abda09f9dc4e8ff44d78",
+      "title": "Lãnh đạo xã tạo diễn đàn để lắng nghe ý kiến thiếu nhi",
+      "link": "https://tuoitre.vn/lanh-dao-xa-tao-dien-dan-de-lang-nghe-y-kien-thieu-nhi-100260729183518434.htm",
+      "summary": "Ngày 29-7, Ban chỉ đạo hè xã Xuyên Mộc (TP.HCM) cùng Đoàn thanh niên xã đã tổ chức chương trình 'Lãnh đạo xã Xuyên Mộc gặp gỡ, lắng nghe thiếu nhi' năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:45:00.026203+07:00",
+      "fetched": "2026-07-29T22:45:00.026362+07:00"
+    },
+    {
+      "id": "2161dcc57f0d7e3292590f69d2441125",
+      "title": "Flycam vị trí xây cầu Bến Thủy 3 hơn 2.500 tỉ đồng nối Nghệ An - Hà Tĩnh",
+      "link": "https://tuoitre.vn/flycam-vi-tri-xay-cau-ben-thuy-3-hon-2500-ti-dong-noi-nghe-an-ha-tinh-100260729165551482.htm",
+      "summary": "Cầu Bến Thủy 3 có tổng mức đầu tư hơn 2.500 tỉ đồng sẽ là cây cầu thứ 6 bắc qua sông Lam, nối hai tỉnh Nghệ An và Hà Tĩnh",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:45:00.026056+07:00",
+      "fetched": "2026-07-29T22:45:00.026189+07:00"
+    },
+    {
+      "id": "e7bd941c5773708bcafe99a6f2254d4d",
+      "title": "Những ‘góc khuất’ của ngành xuất khẩu sầu riêng",
+      "link": "https://tuoitre.vn/nhung-goc-khuat-cua-nganh-xuat-khau-sau-rieng-100260729082948007.htm",
+      "summary": "Từ mạo danh, mua bán mã số vùng trồng, cơ sở đóng gói đến những bất cập trong kiểm nghiệm sầu riêng đã bộc lộ trước khi cơ quan công an khởi tố vụ án và bắt nhiều cán bộ, doanh nghiệp liên quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:45:00.025908+07:00",
+      "fetched": "2026-07-29T22:45:00.026042+07:00"
+    },
+    {
+      "id": "8881b97c0c690b5433955396a0aeaa81",
+      "title": "'Cao tốc Trump' ở Morocco dài hơn ngàn km",
+      "link": "https://tuoitre.vn/cao-toc-trump-o-morocco-dai-hon-ngan-km-100260729173127858.htm",
+      "summary": "Morocco đã quyết định đặt tên một tuyến đường cao tốc lớn mới xây theo tên ông Trump. Diễn biến này cho thấy quan hệ giữa hai nước đang ngày càng được củng cố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:45:00.025836+07:00",
+      "fetched": "2026-07-29T22:45:00.025898+07:00"
+    },
+    {
+      "id": "6449f4dafe8260abd3d0956239067862",
+      "title": "Phim 'Án mạng núi cấm' gây tranh cãi đổi tên thành 'Án mạng karaoke'",
+      "link": "https://tuoitre.vn/phim-an-mang-nui-cam-gay-tranh-cai-doi-ten-thanh-an-mang-karaoke-100260729192840502.htm",
+      "summary": "Ngày 29-7, phim điện ảnh Án mạng karaoke tung first look cùng poster đầu tiên, hé lộ vụ án mạng kinh hoàng xảy ra trong một chuyến du lịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:45:00.025686+07:00",
+      "fetched": "2026-07-29T22:45:00.025825+07:00"
+    },
+    {
+      "id": "5344e3827908101985563950e4020da0",
+      "title": "Đại hội đại biểu Liên hiệp các tổ chức hữu nghị TP.HCM và những con số ấn tượng",
+      "link": "https://tuoitre.vn/dai-hoi-dai-bieu-lien-hiep-cac-to-chuc-huu-nghi-tphcm-va-nhung-con-so-an-tuong-100260729144032882.htm",
+      "summary": "Tổ chức 300 hoạt động, sự kiện đối ngoại Nhân dân; vận động cam kết viện trợ phi chính phủ nước ngoài đạt 3.300 tỉ đồng; trồng 5.000 cây xanh tại TP.HCM... nằm trong số những chỉ tiêu ấn tượng được nêu ra tại đại hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:45:00.025494+07:00",
+      "fetched": "2026-07-29T22:45:00.025671+07:00"
+    },
+    {
+      "id": "221b383c80ce6dafca835a8d77c56d5f",
+      "title": "Mùa hè sôi động cùng học ngoại ngữ, bung đam mê hát nhảy",
+      "link": "https://tuoitre.vn/mua-he-soi-dong-cung-hoc-ngoai-ngu-bung-dam-me-hat-nhay-100260729124804166.htm",
+      "summary": "Các chiến sĩ tình nguyện Mùa hè xanh đã mang đến chuỗi hoạt động ngoại ngữ, công nghệ số và năng khiếu, tạo môi trường vui chơi, học tập bổ ích cho thiếu nhi trong dịp hè.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:45:00.025337+07:00",
+      "fetched": "2026-07-29T22:45:00.025422+07:00"
+    },
+    {
+      "id": "b9660e749c9780d19475edf098f3ef96",
+      "title": "Màu áo xanh đứng vào hàng ngũ của Đảng giữa mùa tình nguyện",
+      "link": "https://tuoitre.vn/mau-ao-xanh-dung-vao-hang-ngu-cua-dang-giua-mua-tinh-nguyen-100260729200326219.htm",
+      "summary": "Trong chiến dịch tình nguyện hè TP.HCM năm 2026, nhiều đoàn viên ưu tú được kết nạp vào Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:45:00.025035+07:00",
+      "fetched": "2026-07-29T22:45:00.025261+07:00"
+    },
     {
       "id": "a6d5e51db2885c300f9119466f442803",
       "title": "Cầu thủ nhận án phạt 'lạ chưa từng thấy' sau khi khiến đối thủ gãy chân",
@@ -303,6 +453,166 @@ window.newsData_2026_07_29 = {
       "fetched": "2026-07-29T15:19:52.444561+07:00"
     },
     {
+      "id": "c285149b88589a38feb636b85e1a61e8",
+      "title": "Học sinh 3 phường ở Quảng Ninh được xe buýt đưa đón miễn phí",
+      "link": "https://vnexpress.net/hoc-sinh-3-phuong-o-quang-ninh-duoc-xe-buyt-dua-don-mien-phi-5103083.html",
+      "summary": "Học sinh ở phường Hồng Gai, Hạ Long và Hà Tu sẽ được đưa đón miễn phí bằng xe buýt điện, có ứng dụng điểm danh và ngăn ngừa nguy cơ bị bỏ quên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T15:00:37+07:00",
+      "fetched": "2026-07-29T22:44:55.958727+07:00"
+    },
+    {
+      "id": "c4a62b7d893257112cac55cfbbfe6434",
+      "title": "Các đội tốp đầu đồng loạt giành chiến thắng, giải vô địch nữ quốc gia ngày càng hay",
+      "link": "https://thanhnien.vn/cac-doi-top-dau-dong-loat-gianh-chien-thang-giai-vo-dich-nu-quoc-gia-ngay-cang-hay-185260729211608368.htm",
+      "summary": "Chiều 29.7, lượt trận thứ 9 giải bóng đá nữ VĐQG – Cúp Thái Sơn Bắc 2026 tiếp tục diễn ra với ưu thế thuộc về các đội bóng mạnh. Thái Nguyên T&T, TP.HCM I và Hà Nội I đều giành trọn 3 điểm, qua đó tiếp tục cuộc đua ở nhóm dẫn đầu bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T14:46:00+07:00",
+      "fetched": "2026-07-29T22:44:58.299168+07:00"
+    },
+    {
+      "id": "e0d2dc16c2d75419e758cad7e1502d55",
+      "title": "Ca sĩ Quang Lê đính chính",
+      "link": "https://thanhnien.vn/ca-si-quang-le-dinh-chinh-185260729205541735.htm",
+      "summary": "Bị kẻ xấu mạo danh với mục đích trục lợi, ca sĩ Quang Lê đăng tải bài viết dài trên trang cá nhân, bày tỏ thái độ bức xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T14:42:00+07:00",
+      "fetched": "2026-07-29T22:44:58.299340+07:00"
+    },
+    {
+      "id": "2a371e64885bc41e25c94d636a0b13dd",
+      "title": "Ông Trump dọa 'đánh Iran tơi bời'",
+      "link": "https://vnexpress.net/ong-trump-doa-danh-iran-toi-boi-5103090.html",
+      "summary": "Ông Trump nói quân đội nước này sẽ giáng đòn mạnh vào Iran sau khi lực lượng Mỹ ở Trung Đông bị tấn công bất ngờ bằng tên lửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T14:22:27+07:00",
+      "fetched": "2026-07-29T22:44:55.958914+07:00"
+    },
+    {
+      "id": "2a371e64885bc41e25c94d636a0b13dd",
+      "title": "Ông Trump dọa 'đánh Iran tơi bời'",
+      "link": "https://vnexpress.net/ong-trump-doa-danh-iran-toi-boi-5103090.html",
+      "summary": "Ông Trump nói quân đội nước này sẽ giáng đòn mạnh vào Iran sau khi lực lượng Mỹ ở Trung Đông bị tấn công bất ngờ bằng tên lửa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-29T14:22:27+07:00",
+      "fetched": "2026-07-29T22:45:00.911145+07:00"
+    },
+    {
+      "id": "62bb42ac5f468c1afa94b7c768ce5ea8",
+      "title": "Giải mã thành công hiện tượng U.17 Huế, U.17 PVF đăng quang thuyết phục giải U.17 quốc gia 2026",
+      "link": "https://thanhnien.vn/giai-ma-thanh-cong-hien-tuong-u17-hue-u17-pvf-dang-quang-thuyet-phuc-giai-u17-quoc-gia-2026-185260729211833136.htm",
+      "summary": "Giải U.17 quốc gia - Cúp Rồng Đỏ 2026 khép lại hôm nay trên sân Pleiku (Gia Lai) với danh hiệu vô địch thuộc về U.17 PVF.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T14:21:00+07:00",
+      "fetched": "2026-07-29T22:44:58.299497+07:00"
+    },
+    {
+      "id": "9b4c21248f9d4ae6a37255f81de5c832",
+      "title": "U.23 Việt Nam ngày đầu vắng thầy Kim!",
+      "link": "https://thanhnien.vn/u23-viet-nam-ngay-dau-vang-thay-kim-185260729210050438.htm",
+      "summary": "Chiều 29.7, đội U.23 Việt Nam tích cực tập luyện tại Trung tâm Đào tạo Bóng đá trẻ Việt Nam để chuẩn bị cho ASIAD 20, diễn ra tại Nagoya (Nhật Bản) vào tháng 9 tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T14:09:00+07:00",
+      "fetched": "2026-07-29T22:44:58.299681+07:00"
+    },
+    {
+      "id": "f203f9eaee3128645a99ae38868ba250",
+      "title": "Bộ Chính trị: Giảm tối thiểu 20% đầu mối cơ sở giáo dục đại học công lập",
+      "link": "https://thanhnien.vn/bo-chinh-tri-giam-toi-thieu-20-dau-moi-co-so-giao-duc-dai-hoc-cong-lap-185260729202725289.htm",
+      "summary": "Kế hoạch của Bộ Chính trị yêu cầu, cần sắp xếp, tổ chức lại các cơ sở giáo dục đại học công lập, giảm tối thiểu 20% đầu mối cơ sở giáo dục đại học công lập, 30% số cơ sở giáo dục nghề nghiệp công lập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T14:09:00+07:00",
+      "fetched": "2026-07-29T22:44:58.299845+07:00"
+    },
+    {
+      "id": "2e21cdb38fb1984d1f47250c910fb65c",
+      "title": "Trường ĐH Tân Tạo muốn tiếp nhận sinh viên ngành y khoa của Trường ĐH Kinh Bắc",
+      "link": "https://thanhnien.vn/truong-dh-tan-tao-muon-tiep-nhan-sinh-vien-nganh-y-khoa-cua-truong-dh-kinh-bac-185260729170938416.htm",
+      "summary": "Theo một công văn hướng dẫn Bộ GD-ĐT gửi Trường ĐH Tân Tạo, trường này đang tìm hiểu thủ tục và có kế hoạch tiếp nhận sinh viên y khoa của Trường ĐH Kinh Bắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T14:06:00+07:00",
+      "fetched": "2026-07-29T22:44:58.299997+07:00"
+    },
+    {
+      "id": "1022f345b218c4121e42f70f3141af7b",
+      "title": "Chung cư xây mới sẽ có thời hạn sử dụng",
+      "link": "https://thanhnien.vn/chung-cu-xay-moi-se-co-thoi-han-su-dung-185260729182408847.htm",
+      "summary": "Đây là điểm mới được nêu trong Nghị quyết 21-NQ/TW của Hội nghị Trung ương 3 về quan điểm, định hướng sửa đổi luật Đất đai và các luật có liên quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T14:01:00+07:00",
+      "fetched": "2026-07-29T22:44:58.300145+07:00"
+    },
+    {
+      "id": "55a2199bff8978fc888db1ff13bcc033",
+      "title": "Mẹ chồng muốn chúng tôi sửa nhà để sau em chồng lấy vợ ở cùng",
+      "link": "https://vnexpress.net/me-chong-muon-chung-toi-sua-nha-de-sau-em-chong-lay-vo-o-cung-5103017.html",
+      "summary": "Chồng tôi không rượu chè, cờ bạc hay ngoại tình, cũng thương vợ con nhưng chuyện gì cũng nghe mẹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T14:00:00+07:00",
+      "fetched": "2026-07-29T22:44:55.959080+07:00"
+    },
+    {
+      "id": "6c9e9db6087658e2597d294dd58875d8",
+      "title": "Hành động lạ của thủ môn Lào khi thua Malaysia",
+      "link": "https://vnexpress.net/hanh-dong-la-cua-thu-mon-lao-khi-thua-malaysia-5103013.html",
+      "summary": "Thủ môn Lào Keo Souvannasangso gây tranh luận khi rụt tay lại ở quả đá phạt thành bàn thắng Malaysia, tại lượt hai bảng B ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T13:50:24+07:00",
+      "fetched": "2026-07-29T22:44:55.959249+07:00"
+    },
+    {
+      "id": "6c9e9db6087658e2597d294dd58875d8",
+      "title": "Hành động lạ của thủ môn Lào khi thua Malaysia",
+      "link": "https://vnexpress.net/hanh-dong-la-cua-thu-mon-lao-khi-thua-malaysia-5103013.html",
+      "summary": "Thủ môn Lào Keo Souvannasangso gây tranh luận khi rụt tay lại ở quả đá phạt thành bàn thắng Malaysia, tại lượt hai bảng B ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-29T13:50:24+07:00",
+      "fetched": "2026-07-29T22:45:04.675072+07:00"
+    },
+    {
+      "id": "7b19549cc73e7faaf247d833a4cc5408",
+      "title": "Nhà báo Singapore ví Xuân Son như Haaland, ám ảnh chuỗi 16 trận không thắng nổi Việt Nam",
+      "link": "https://thanhnien.vn/nha-bao-singapore-vi-xuan-son-nhu-haaland-am-anh-chuoi-16-tran-khong-thang-noi-viet-nam-185260729204143719.htm",
+      "summary": "Chỉ hai ngày trước cuộc đối đầu giữa đội tuyển Việt Nam và Singapore tại ASEAN Cup 2026, truyền thông Singapore đã dành sự quan tâm đặc biệt đến Nguyễn Xuân Son.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T13:48:00+07:00",
+      "fetched": "2026-07-29T22:44:58.300294+07:00"
+    },
+    {
+      "id": "2f14c59655bf730be597feea7f602b52",
+      "title": "Thùy Linh thắng dễ ở giải Đài Loan Mở rộng",
+      "link": "https://vnexpress.net/thuy-linh-thang-de-o-giai-dai-loan-mo-rong-5103086.html",
+      "summary": "Tay vợt Nguyễn Thùy Linh chỉ mất 37 phút để thắng Pai Yu-po 21-18, 21-14 ở vòng một giải cầu lông quốc tế Đài Loan Mở rộng 2026, tối 29/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T13:41:43+07:00",
+      "fetched": "2026-07-29T22:44:55.959409+07:00"
+    },
+    {
+      "id": "2f14c59655bf730be597feea7f602b52",
+      "title": "Thùy Linh thắng dễ ở giải Đài Loan Mở rộng",
+      "link": "https://vnexpress.net/thuy-linh-thang-de-o-giai-dai-loan-mo-rong-5103086.html",
+      "summary": "Tay vợt Nguyễn Thùy Linh chỉ mất 37 phút để thắng Pai Yu-po 21-18, 21-14 ở vòng một giải cầu lông quốc tế Đài Loan Mở rộng 2026, tối 29/7.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-29T13:41:43+07:00",
+      "fetched": "2026-07-29T22:45:04.677009+07:00"
+    },
+    {
       "id": "6f81e1851efe192e4f993227704bcaf0",
       "title": "Việt Nam mở thêm thị trường lao động Albania, tuyển tới 30.000 lao động",
       "link": "https://thanhnien.vn/viet-nam-mo-them-thi-truong-lao-dong-albania-tuyen-toi-30000-lao-dong-185260729174800503.htm",
@@ -333,6 +643,16 @@ window.newsData_2026_07_29 = {
       "fetched": "2026-07-29T20:45:13.275004+07:00"
     },
     {
+      "id": "a50f30cb80903477a03f5e85c34ea2aa",
+      "title": "Nước nào có sa mạc khô cằn nhất thế giới?",
+      "link": "https://vnexpress.net/nuoc-nao-co-sa-mac-kho-can-nhat-the-gioi-5103040.html",
+      "summary": "Sa mạc này rất ít mưa, thậm chí một số điểm chưa từng có mưa - được ghi nhận là sa mạc khô cằn nhất thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T13:17:12+07:00",
+      "fetched": "2026-07-29T22:44:55.959591+07:00"
+    },
+    {
       "id": "fecc0cee40d7d48ad8d3f89cb93e4d2f",
       "title": "Chủ tịch VFF nói gì trước ngày đội tuyển Việt Nam ‘đòi’ lại ngôi đầu bảng từ tay Singapore?",
       "link": "https://thanhnien.vn/chu-tich-vff-noi-gi-truoc-ngay-doi-tuyen-viet-nam-doi-lai-ngoi-dau-bang-tu-tay-singapore-185260729200850929.htm",
@@ -351,6 +671,16 @@ window.newsData_2026_07_29 = {
       "category": "Tổng hợp",
       "published": "2026-07-29T13:09:47+07:00",
       "fetched": "2026-07-29T20:45:10.138161+07:00"
+    },
+    {
+      "id": "7f2d3053c5f7bfc86db2003fca76aab3",
+      "title": "Tình bạn của sáu nghệ sĩ Nhà hát Tuổi trẻ",
+      "link": "https://vnexpress.net/tinh-ban-cua-sau-nghe-si-nha-hat-tuoi-tre-5102571.html",
+      "summary": "Các nghệ sĩ Lê Khanh, Ngọc Huyền, Ngọc Bích, Khánh Huyền, Tú Oanh, Như Trang gắn bó khi nghỉ hưu, được yêu mến nhờ năng lượng tươi trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T13:09:47+07:00",
+      "fetched": "2026-07-29T22:44:55.959759+07:00"
     },
     {
       "id": "58c478e479ca8b4bab4fa2fdcb518351",
