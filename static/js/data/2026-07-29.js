@@ -1,7 +1,157 @@
 window.newsData_2026_07_29 = {
   "date": "2026-07-29",
-  "lastUpdated": "2026-07-29T15:19:58.348018+07:00",
+  "lastUpdated": "2026-07-29T18:54:00.553594+07:00",
   "articles": [
+    {
+      "id": "a6d5e51db2885c300f9119466f442803",
+      "title": "Cầu thủ nhận án phạt 'lạ chưa từng thấy' sau khi khiến đối thủ gãy chân",
+      "link": "https://tuoitre.vn/cau-thu-nhan-an-phat-la-chua-tung-thay-sau-khi-khien-doi-thu-gay-chan-100260729170440004.htm",
+      "summary": "Victor Gabriel, cầu thủ người Brazil, vừa bị tòa án tuyên phạt mức án hết sức lạ lùng sau một va chạm trên sân cỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T18:53:53.412863+07:00",
+      "fetched": "2026-07-29T18:53:53.412894+07:00"
+    },
+    {
+      "id": "916bc01e252dc791a7f0c09c17882b0a",
+      "title": "Quân khu 7 kêu gọi cung cấp thông tin tìm hài cốt liệt sĩ ở Gò Cát - Lái Thiêu, gần Bệnh viện quốc tế Becamex",
+      "link": "https://tuoitre.vn/quan-khu-7-keu-goi-cung-cap-thong-tin-tim-hai-cot-liet-si-o-go-cat-lai-thieu-gan-benh-vien-quoc-te-becamex-100260729172910779.htm",
+      "summary": "Ban Chỉ đạo tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ Quân khu 7 kêu gọi cựu chiến binh, thân nhân liệt sĩ và người dân cung cấp thông tin để tìm hài cốt liệt sĩ ở khu vực Gò Cát - Lái Thiêu, gần Bệnh viện quốc tế Becamex, TP.HCM trong giai đoạn 1971-1972.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T18:53:53.412832+07:00",
+      "fetched": "2026-07-29T18:53:53.412858+07:00"
+    },
+    {
+      "id": "7184c458b890d1cbc9e7235347ca35cd",
+      "title": "Vụ ngộ độc thực phẩm sau khi ăn bánh mì Hồng Ngọc: Khen thưởng đột xuất y bác sĩ Bệnh viện Quân y 120",
+      "link": "https://tuoitre.vn/vu-ngo-doc-thuc-pham-sau-khi-an-banh-mi-hong-ngoc-khen-thuong-dot-xuat-y-bac-si-benh-vien-quan-y-120-100260729173619545.htm",
+      "summary": "Các tập thể, cá nhân tại Bệnh viện Quân y 120 được trao thưởng vì những nỗ lực vượt bậc trong việc cứu chữa hàng loạt bệnh nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T18:53:53.412798+07:00",
+      "fetched": "2026-07-29T18:53:53.412827+07:00"
+    },
+    {
+      "id": "076aab3caae1657eac124fde449cd084",
+      "title": "Cần Thơ dự kiến giảm 525 trường học sau sáp nhập",
+      "link": "https://tuoitre.vn/can-tho-du-kien-giam-525-truong-hoc-sau-sap-nhap-100260729172707429.htm",
+      "summary": "Cần Thơ dự kiến giảm 525 trường học sau sáp nhập và thực hiện miễn phí sách giáo khoa cho học sinh theo lộ trình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T18:53:53.412762+07:00",
+      "fetched": "2026-07-29T18:53:53.412793+07:00"
+    },
+    {
+      "id": "471bfed6726f899259f8c9062f7ff07b",
+      "title": "Kenya lúng túng vì 15 con voi chết bí ẩn trong thời gian ngắn",
+      "link": "https://tuoitre.vn/kenya-lung-tung-vi-15-con-voi-chet-bi-an-trong-thoi-gian-ngan-100260729164407352.htm",
+      "summary": "Giới chức Kenya điều tra cái chết của 15 con voi tại Công viên quốc gia Amboseli, sau khi 10 con có dấu hiệu bị liệt trước khi chết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T18:53:53.412723+07:00",
+      "fetched": "2026-07-29T18:53:53.412756+07:00"
+    },
+    {
+      "id": "7f45a7bc0d029647a19f373523d89804",
+      "title": "Mặt bằng cao tốc TP.HCM - Mộc Bài qua Tây Ninh đã giải phóng hơn 99%",
+      "link": "https://tuoitre.vn/mat-bang-cao-toc-tphcm-moc-bai-qua-tay-ninh-da-giai-phong-hon-99-100260729175016432.htm",
+      "summary": "Đến nay chỉ còn 27/2.274 trường hợp bị ảnh hưởng chưa đồng ý nhận tiền, chưa bàn giao mặt bằng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T18:53:53.412463+07:00",
+      "fetched": "2026-07-29T18:53:53.412715+07:00"
+    },
+    {
+      "id": "4a53971daf6afb9a890e4acaa82fb415",
+      "title": "Chiến sự Trung Đông đang nóng ở những điểm nào?",
+      "link": "https://tuoitre.vn/chien-su-trung-dong-dang-nong-o-nhung-diem-nao-100260729174128507.htm",
+      "summary": "Sau vài ngày tạm lắng nhờ nỗ lực trung gian, xung đột tại Trung Đông đang leo thang trở lại .",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T18:53:53.412429+07:00",
+      "fetched": "2026-07-29T18:53:53.412458+07:00"
+    },
+    {
+      "id": "87c0bbcc90a108e54eae36a41dcfa8cb",
+      "title": "Đăng tin giả về sáp nhập xã trên Facebook, thanh niên ở Nghệ An bị phạt 12,5 triệu đồng",
+      "link": "https://tuoitre.vn/dang-tin-gia-ve-sap-nhap-xa-tren-facebook-thanh-nien-o-nghe-an-bi-phat-125-trieu-dong-100260729182024031.htm",
+      "summary": "Một thanh niên ở Nghệ An bị xử phạt 12,5 triệu đồng sau khi đăng tải thông tin sai sự thật về sáp nhập đơn vị hành chính cấp xã trên Facebook, gây ảnh hưởng đến an ninh, trật tự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T18:53:53.412394+07:00",
+      "fetched": "2026-07-29T18:53:53.412424+07:00"
+    },
+    {
+      "id": "e913d3f6229ddf4626859bc52b68584b",
+      "title": "Nhà báo, cán bộ quản lý báo chí Campuchia tham quan tòa soạn Báo điện tử Tuổi Trẻ",
+      "link": "https://tuoitre.vn/nha-bao-can-bo-quan-ly-bao-chi-campuchia-tham-quan-toa-soan-bao-dien-tu-tuoi-tre-100260729175227925.htm",
+      "summary": "Tuổi Trẻ đón đoàn nhà báo Campuchia đến tham quan tòa soạn, trong khuôn khổ chương trình đào tạo do chính phủ hai nước phối hợp tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T18:53:53.412357+07:00",
+      "fetched": "2026-07-29T18:53:53.412388+07:00"
+    },
+    {
+      "id": "84f924fdb9007c5329c2d405db9804b0",
+      "title": "Bệnh nhân được ghép thận đến 3 lần",
+      "link": "https://tuoitre.vn/benh-nhan-duoc-ghep-than-den-3-lan-100260729151856592.htm",
+      "summary": "\"Quả thận hồng trở lại, nước tiểu phun thành tia, cả ê kíp gần như vỡ òa\", bác sĩ Trương Hoàng Minh nhớ lại khoảnh khắc đáng nhớ trong ca ghép thận lần thứ ba hiếm gặp vừa được thực hiện thành công tại Bệnh viện Nhân dân 115 (TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T18:53:53.412308+07:00",
+      "fetched": "2026-07-29T18:53:53.412351+07:00"
+    },
+    {
+      "id": "3ec63be3b1a7e5995cf1239d794168ef",
+      "title": "Có hẹn Sri Lanka vào tháng 8",
+      "link": "https://tuoitre.vn/co-hen-sri-lanka-vao-thang-8-100260729171248311.htm",
+      "summary": "Ít ai biết rằng, chỉ cách TP.HCM chưa đầy 5 giờ bay thẳng là một \"viên ngọc Ấn Độ Dương\" vẫn còn khá mới mẻ với phần lớn du khách Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T18:53:53.412272+07:00",
+      "fetched": "2026-07-29T18:53:53.412303+07:00"
+    },
+    {
+      "id": "68c10a971810b17ca22b347c7491352e",
+      "title": "Lạ mắt dòng bán tải ‘lai’ xe tải nhẹ, bỏ ghế sau chở hơn 1 tấn hàng",
+      "link": "https://tuoitre.vn/la-mat-dong-ban-tai-lai-xe-tai-nhe-bo-ghe-sau-cho-hon-1-tan-hang-100260729164050734.htm",
+      "summary": "Bỏ hàng ghế sau để kéo dài thùng xe, mẫu bán tải mới vừa tung ra thị trường Việt Nam chở được hơn 1 tấn hàng, hướng đến nhu cầu vận chuyển trong đô thị với giá 492 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T18:53:53.412219+07:00",
+      "fetched": "2026-07-29T18:53:53.412266+07:00"
+    },
+    {
+      "id": "500b0692df953c005a372e9ff41f257f",
+      "title": "NCB lãi 6 tháng tăng 57% so với cùng kỳ",
+      "link": "https://tuoitre.vn/ncb-lai-6-thang-tang-57-so-voi-cung-ky-100260729182039822.htm",
+      "summary": "Kết thúc 6 tháng đầu năm, NCB ghi nhận nhiều chỉ tiêu kinh doanh tăng trưởng tích cực, lợi nhuận sau thuế tăng 57% so với cùng kỳ. Kết quả này tiếp tục phản ánh hiệu quả của quá trình tái cơ cấu và chuyển đổi toàn diện sau 5 năm triển khai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T18:53:53.412179+07:00",
+      "fetched": "2026-07-29T18:53:53.412214+07:00"
+    },
+    {
+      "id": "aafc83e4e1f26933f2bcbdc70c99ea24",
+      "title": "Bé trai 16 tháng tuổi tím tái, suy hô hấp vì hóc hạt chôm chôm",
+      "link": "https://tuoitre.vn/be-trai-16-thang-tuoi-tim-tai-suy-ho-hap-vi-hoc-hat-chom-chom-100260729171133526.htm",
+      "summary": "Một bé trai 16 tháng tuổi ở Nghệ An nhập viện trong tình trạng tím tái, suy hô hấp nặng do hạt chôm chôm mắc ở đường thở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T18:53:53.412131+07:00",
+      "fetched": "2026-07-29T18:53:53.412172+07:00"
+    },
+    {
+      "id": "7267e90c8bfcd1e9e340201997fba615",
+      "title": "Xây dựng hệ thống định danh điện tử giám sát phương tiện giao thông, thiết bị bay không người lái",
+      "link": "https://tuoitre.vn/xay-dung-he-thong-dinh-danh-dien-tu-giam-sat-phuong-tien-giao-thong-thiet-bi-bay-khong-nguoi-lai-100260729181636717.htm",
+      "summary": "Đó là nội dung được nêu trong kế hoạch hành động 100 ngày xử lý các điểm nghẽn về chuyển đổi số do Thủ tướng Chính phủ ban hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T18:53:53.411993+07:00",
+      "fetched": "2026-07-29T18:53:53.412123+07:00"
+    },
     {
       "id": "380ceb90991aa44b5f61246cb9266e7d",
       "title": "11.000 cuộc gọi, một cánh cổng và hàng vạn ký ức chờ được trở về",
@@ -301,6 +451,396 @@ window.newsData_2026_07_29 = {
       "category": "Tổng hợp",
       "published": "2026-07-29T11:59:44.274801+07:00",
       "fetched": "2026-07-29T11:59:44.274930+07:00"
+    },
+    {
+      "id": "0a25421a6b8c398e54341618ebd19a89",
+      "title": "Ukraine tuyên bố tập kích nhà máy lọc dầu lớn của Nga",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-tap-kich-nha-may-loc-dau-lon-cua-nga-5103060.html",
+      "summary": "Quân đội Ukraine tuyên bố một nhà máy lọc dầu lớn và trung tâm hậu cần tại tỉnh Ryazan của Nga đã bị đánh trúng và bốc cháy trong đòn tập kích mới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-29T11:48:05+07:00",
+      "fetched": "2026-07-29T18:53:55.244588+07:00"
+    },
+    {
+      "id": "24f5dffe9cc4bf5b0441f056aba33c38",
+      "title": "Mối nguy hiểm nào rình rập đội tuyển Việt Nam khi đụng độ Singapore?",
+      "link": "https://thanhnien.vn/moi-nguy-hiem-nao-rinh-rap-doi-tuyen-viet-nam-khi-dung-do-singapore-185260729163042201.htm",
+      "summary": "Chạm trán Singapore ở lượt trận thứ ba vòng bảng ASEAN Cup 2026, đội tuyển Việt Nam hướng tới chiến thắng để đòi lại ngôi đầu. Tuy nhiên, đoàn quân của HLV Kim Sang-sik cần phải hết sức thận trọng trước 'ngòi nổ' nguy hiểm bên phía đối phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T11:33:00+07:00",
+      "fetched": "2026-07-29T18:53:51.245431+07:00"
+    },
+    {
+      "id": "4abf17c11f01871c0e3b24a5472e6a5f",
+      "title": "Chồng nhậu say vẫn cố lái xe đưa con về",
+      "link": "https://vnexpress.net/chong-nhau-say-van-co-lai-xe-dua-con-ve-5102825.html",
+      "summary": "Có lần anh uống say khướt vẫn lái xe đưa con về, về đến nhà không thay nổi bộ quần áo, lên giường ngủ ngay lập tức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T11:00:00+07:00",
+      "fetched": "2026-07-29T18:53:48.386525+07:00"
+    },
+    {
+      "id": "8e17d2602c0609fa1d131e683653bca1",
+      "title": "Southern Group nhận bằng khen của UBND TP HCM",
+      "link": "https://vnexpress.net/southern-group-nhan-bang-khen-cua-ubnd-tp-hcm-5103056.html",
+      "summary": "Southern Homes Việt Nam, thành viên Southern Group được UBND TP HCM trao Bằng khen vì có thành tích xuất sắc trong phong trào đổi mới sáng tạo giai đoạn 2023-2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T11:00:00+07:00",
+      "fetched": "2026-07-29T18:53:48.386633+07:00"
+    },
+    {
+      "id": "208e730e12c51009c3d30be738372523",
+      "title": "AI cá nhân hóa chăm sóc sức khỏe cho người dùng Galaxy S26 series",
+      "link": "https://vnexpress.net/ai-ca-nhan-hoa-cham-soc-suc-khoe-cho-nguoi-dung-galaxy-s26-series-5102928.html",
+      "summary": "Galaxy AI phân tích những thay đổi nhỏ trong giấc ngủ, nhịp tim, thể trạng… rồi trực quan hóa, kèm những gợi ý dễ thực hiện để giúp người dùng cải thiện sức khỏe từng ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T11:00:00+07:00",
+      "fetched": "2026-07-29T18:53:48.386728+07:00"
+    },
+    {
+      "id": "3b7f5b85eee101bb93f41015f220c6b0",
+      "title": "Hội đàm giữa Tổng thống Zelensky với Tổng thống Trump bàn chuyện gì?",
+      "link": "https://thanhnien.vn/hoi-dam-giua-tong-thong-zelensky-voi-tong-thong-trump-ban-chuyen-gi-185260729165357519.htm",
+      "summary": "Sau cuộc gặp kín tại Washington D.C., Tổng thống Ukraine Volodymyr Zelensky cho hay ông đã thảo luận với Tổng thống Mỹ Donald Trump về việc cấp phép sản xuất tên lửa Patriot cũng như khôi phục tiến trình ngoại giao nhằm chấm dứt xung đột với Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T11:00:00+07:00",
+      "fetched": "2026-07-29T18:53:51.245531+07:00"
+    },
+    {
+      "id": "46b3c10ebf1f4c040b1359d6258293e4",
+      "title": "Khăn lụa trở thành 'ngôn ngữ' mới của thời trang đường phố",
+      "link": "https://thanhnien.vn/thoi-trang-tre/khan-lua-tro-thanh-ngon-ngu-moi-cua-thoi-trang-duong-pho-185260728143110842.htm",
+      "summary": "Khi xu hướng ăn mặc ngày càng đề cao tính linh hoạt và dấu ấn cá nhân, khăn lụa đang trở lại mạnh mẽ như một trong những phụ kiện được các tín đồ thời trang ưu ái nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T11:00:00+07:00",
+      "fetched": "2026-07-29T18:53:51.245619+07:00"
+    },
+    {
+      "id": "208e730e12c51009c3d30be738372523",
+      "title": "AI cá nhân hóa chăm sóc sức khỏe cho người dùng Galaxy S26 series",
+      "link": "https://vnexpress.net/ai-ca-nhan-hoa-cham-soc-suc-khoe-cho-nguoi-dung-galaxy-s26-series-5102928.html",
+      "summary": "Galaxy AI phân tích những thay đổi nhỏ trong giấc ngủ, nhịp tim, thể trạng… rồi trực quan hóa, kèm những gợi ý dễ thực hiện để giúp người dùng cải thiện sức khỏe từng ngày.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-29T11:00:00+07:00",
+      "fetched": "2026-07-29T18:53:59.608746+07:00"
+    },
+    {
+      "id": "2a43160bc4855a8800b8e3598b517f07",
+      "title": "Từ 240.000 đồng đến gần 9 triệu đồng: JBL đang phủ thị trường tai nghe ra sao?",
+      "link": "https://thanhnien.vn/tu-240000-dong-den-gan-9-trieu-dong-jbl-dang-phu-thi-truong-tai-nghe-ra-sao-185260729180124972.htm",
+      "summary": "JBL đang xây dựng dải sản phẩm rộng, từ tai nghe có dây phổ thông đến các mẫu không dây cao cấp. Cách phân tầng này giúp hãng tiếp cận nhiều nhóm người dùng, từ học tập, làm việc đến giải trí và di chuyển hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:58:00+07:00",
+      "fetched": "2026-07-29T18:53:51.245703+07:00"
+    },
+    {
+      "id": "012dd053f0f0628beb8a4cfa992102ba",
+      "title": "Lãi suất liên ngân hàng xuống thấp nhất đầu năm",
+      "link": "https://vnexpress.net/lai-suat-lien-ngan-hang-xuong-thap-nhat-dau-nam-5103024.html",
+      "summary": "Lãi suất vay mượn kỳ hạn qua đêm giữa các ngân hàng xuống 2,2% - thấp nhất kể từ đầu năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:52:56+07:00",
+      "fetched": "2026-07-29T18:53:48.386820+07:00"
+    },
+    {
+      "id": "012dd053f0f0628beb8a4cfa992102ba",
+      "title": "Lãi suất liên ngân hàng xuống thấp nhất đầu năm",
+      "link": "https://vnexpress.net/lai-suat-lien-ngan-hang-xuong-thap-nhat-dau-nam-5103024.html",
+      "summary": "Lãi suất vay mượn kỳ hạn qua đêm giữa các ngân hàng xuống 2,2% - thấp nhất kể từ đầu năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-29T10:52:56+07:00",
+      "fetched": "2026-07-29T18:53:56.498065+07:00"
+    },
+    {
+      "id": "956729e99a24a1b5b15ec55f315eb1e1",
+      "title": "Mẹo giúp lấy lại hàng GB dung lượng trên iPhone chỉ trong vài phút",
+      "link": "https://thanhnien.vn/meo-giup-lay-lai-hang-gb-dung-luong-tren-iphone-chi-trong-vai-phut-185260729101910663.htm",
+      "summary": "Chỉ với vài thao tác trong phần Cài đặt, người dùng có thể dọn dẹp dữ liệu trên iPhone để tối ưu hiệu năng và lưu trữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:49:00+07:00",
+      "fetched": "2026-07-29T18:53:51.245786+07:00"
+    },
+    {
+      "id": "065f84cbc038250488b9fcd73874c255",
+      "title": "Đồng Nai phục dựng ảnh tập thể tìm thấy trong mộ liệt sĩ ở xã Minh Đức",
+      "link": "https://thanhnien.vn/dong-nai-phuc-dung-anh-tap-the-tim-thay-trong-mo-liet-si-o-xa-minh-duc-185260729172219871.htm",
+      "summary": "Sau khi phát hiện 26 hài cốt liệt sĩ tại khu vực tìm kiếm ở xã Minh Đức, lực lượng Đội K72 đang khẩn trương lấy mẫu sinh phẩm để giám định ADN, đồng thời phục dựng các di ảnh tìm thấy trong hầm mộ với kỳ vọng sớm xác định danh tính, đưa các liệt sĩ trở về với gia đình sau nhiều năm nằm lại chiến trư...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:48:00+07:00",
+      "fetched": "2026-07-29T18:53:51.245867+07:00"
+    },
+    {
+      "id": "f4cd0ec6579fb3969009a45021d6b4ca",
+      "title": "Giá vàng tăng liên tiếp chiều 29.7",
+      "link": "https://thanhnien.vn/gia-vang-tang-lien-tiep-chieu-297-185260729170204085.htm",
+      "summary": "Chiều 29.7, giá vàng miếng SJC tăng 2 nhịp liên tiếp với tổng mức tăng 1 triệu đồng/lượng so với giá niêm yết đầu ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:48:00+07:00",
+      "fetched": "2026-07-29T18:53:51.245948+07:00"
+    },
+    {
+      "id": "2593eefd02274777be052a60cdb9713c",
+      "title": "Xe khách bốc cháy dữ dội trên đường ven biển Nha Trang",
+      "link": "https://thanhnien.vn/xe-khach-boc-chay-du-doi-tren-duong-ven-bien-nha-trang-185260729161829177.htm",
+      "summary": "Một xe khách đang lưu thông trên đường biển Phạm Văn Đồng, đoạn gần Trường Đại học Nha Trang, thì bất ngờ bốc cháy. May mắn vụ việc không gây thiệt hại về người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:46:00+07:00",
+      "fetched": "2026-07-29T18:53:51.246028+07:00"
+    },
+    {
+      "id": "837ce587119d2df643ef706fbce7b22d",
+      "title": "Camera hồng ngoại và camera nhìn đêm có màu",
+      "link": "https://thanhnien.vn/camera-hong-ngoai-va-camera-nhin-dem-co-mau-185260729175001826.htm",
+      "summary": "Khi chọn camera giám sát, nhiều người phân vân giữa hồng ngoại và camera nhìn đêm có màu. Thực tế, còn phụ thuộc vào nơi lắp đặt, mức độ ánh sáng ban đêm và mục tiêu theo dõi của bạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:44:00+07:00",
+      "fetched": "2026-07-29T18:53:51.246108+07:00"
+    },
+    {
+      "id": "440d348bcf1b7e3682d206bf62d767b7",
+      "title": "Cựu trưởng công an phường bỏ trốn sau vụ nhận tiền 'giải cứu' dân chơi ma túy",
+      "link": "https://vnexpress.net/cuu-truong-cong-an-phuong-bo-tron-sau-vu-nhan-tien-giai-cuu-dan-choi-ma-tuy-5103048.html",
+      "summary": "Bị cáo buộc nhận gần 100 triệu đồng để \"giải cứu\" hai người sử dụng ma túy, cựu Trưởng Công an phường An Phú đã bỏ trốn trước khi bị xét xử vắng mặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:38:40+07:00",
+      "fetched": "2026-07-29T18:53:48.386908+07:00"
+    },
+    {
+      "id": "0535c69c196d7a011fd9ab552526689d",
+      "title": "Đánh giá Logitech K380s: Bàn phím nhỏ gọn còn phù hợp làm việc năm 2026?",
+      "link": "https://thanhnien.vn/danh-gia-logitech-k380s-ban-phim-nho-gon-con-phu-hop-lam-viec-nam-2026-185260729174313939.htm",
+      "summary": "Logitech K380s phù hợp với người cần bàn phím nhỏ gọn, kết nối nhiều thiết bị, nhưng layout compact và thiếu cụm số có thể hạn chế một số công việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:38:00+07:00",
+      "fetched": "2026-07-29T18:53:51.246191+07:00"
+    },
+    {
+      "id": "2270da85741d0428dfe45c9046428a57",
+      "title": "Giả mạo Công ty SJC thu mua kim cương thương hiệu khác",
+      "link": "https://thanhnien.vn/gia-mao-cong-ty-sjc-thu-mua-kim-cuong-thuong-hieu-khac-185260729173612864.htm",
+      "summary": "Hiện trên trang Facebook, các hội nhóm mua bán kim cương lan truyền thông báo của Công ty SJC triển khai chương trình thu mua tài sản của các thương hiệu khác. Đại diện Công ty vàng bạc đá quý Sài Gòn - SJC cảnh báo đây là thông tin giả mạo công ty và khách hàng cẩn thận lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:37:00+07:00",
+      "fetched": "2026-07-29T18:53:51.246270+07:00"
+    },
+    {
+      "id": "96b7fbadd6cd6f86cdc3b35c1a63945a",
+      "title": "Quân khu 7 kêu gọi cung cấp thông tin tìm hài cốt liệt sĩ tại Gò Cát",
+      "link": "https://thanhnien.vn/quan-khu-7-keu-goi-cung-cap-thong-tin-tim-hai-cot-liet-si-tai-go-cat-185260729165252534.htm",
+      "summary": "Quân khu 7 kêu gọi nhân chứng, cựu chiến binh và người dân cung cấp manh mối về khu vực nghi có nhiều hố chôn hài cốt liệt sĩ tại Gò Cát - Lái Thiêu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:31:00+07:00",
+      "fetched": "2026-07-29T18:53:51.246363+07:00"
+    },
+    {
+      "id": "14a70b938b0d42ffd424ee8702fce7f4",
+      "title": "Quy tập được 150 hài cốt liệt sĩ tại công viên Lê Thị Riêng",
+      "link": "https://thanhnien.vn/quy-tap-duoc-150-hai-cot-liet-si-tai-cong-vien-le-thi-rieng-185260729171025057.htm",
+      "summary": "Ngày 29.7, lực lượng chức năng quy tập thêm 6 hài cốt liệt sĩ tại khu B, trong đó 4 trường hợp có di vật, nâng tổng số được tìm thấy lên 150 hài cốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:28:00+07:00",
+      "fetched": "2026-07-29T18:53:51.246446+07:00"
+    },
+    {
+      "id": "143fd5865867df72c8c4a3de1dd0cba5",
+      "title": "Lệ Quyên tiết lộ tính cách của Lâm Bảo Châu khi làm việc chung",
+      "link": "https://thanhnien.vn/le-quyen-tiet-lo-tinh-cach-cua-lam-bao-chau-khi-lam-viec-chung-185260729162133038.htm",
+      "summary": "Cùng thực hiện dự án 'Giá như anh là em', Lệ Quyên tiết lộ Lâm Bảo Châu là người kỹ tính, thậm chí nhiều lần nhắc nhở khiến cô 'cảm thấy bực'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:25:00+07:00",
+      "fetched": "2026-07-29T18:53:51.246525+07:00"
+    },
+    {
+      "id": "ed5e8c184df241c6c113fee38272c473",
+      "title": "Đội ngũ y tế trẻ đồng hành chăm sóc thương binh, bệnh binh tại Ninh Bình",
+      "link": "https://thanhnien.vn/doi-ngu-y-te-tre-dong-hanh-cham-soc-thuong-binh-benh-binh-tai-ninh-binh-185260729173730489.htm",
+      "summary": "Đồng hành cùng Viện Chiến lược và chính sách y tế (Bộ Y tế), đội ngũ Hệ thống Nhà thuốc và Tiêm chủng Long Châu đã tận tay gửi trao nhiều phần quà sức khỏe ý nghĩa, bày tỏ lòng tri ân và sự biết ơn sâu sắc đến những các thương binh, bệnh binh đang được chăm sóc tại Trung tâm Điều dưỡng thương binh D...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:22:00+07:00",
+      "fetched": "2026-07-29T18:53:51.246607+07:00"
+    },
+    {
+      "id": "1de886d8ecaaeeb8e450881fd9686495",
+      "title": "Mời anh về với đội của em",
+      "link": "https://vnexpress.net/moi-anh-ve-voi-doi-cua-em-5101980.html",
+      "summary": "Em mong người đồng hành tương lai sẽ xem trọng sự thấu hiểu, tình cảm và trách nhiệm của hai người hơn là những điều định kiến đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:08:08+07:00",
+      "fetched": "2026-07-29T18:53:48.386996+07:00"
+    },
+    {
+      "id": "c4be3615e5a22f320c3247ed9daa91f1",
+      "title": "Cha dượng đánh bé trai 'chấn động não' bị tạm giữ",
+      "link": "https://vnexpress.net/cha-duong-danh-be-trai-chan-dong-nao-bi-tam-giu-5103039.html",
+      "summary": "Nguyễn Hữu Nam, 33 tuổi, bị cáo buộc đánh con riêng 3 tuổi của vợ khiến bé nhập viện với nhiều vết bầm tím, chấn động não.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:07:52+07:00",
+      "fetched": "2026-07-29T18:53:48.387085+07:00"
+    },
+    {
+      "id": "be0e4f95f9ae62ee1e458effa3698126",
+      "title": "Anh là 'trạm sạc' bình yên giữa cuộc sống hối hả",
+      "link": "https://vnexpress.net/anh-la-tram-sac-binh-yen-giua-cuoc-song-hoi-ha-5102440.html",
+      "summary": "Đã 31 xuân xanh trôi qua, giữa thành phố lúc nào cũng vội vã, em chọn cho mình nhịp sống chậm rãi hơn chút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:07:16+07:00",
+      "fetched": "2026-07-29T18:53:48.387168+07:00"
+    },
+    {
+      "id": "96c9cf0abaad7ffa08d77da109770b0d",
+      "title": "Điểm tin 17h: Nghiên cứu áp thuế cao hơn với đất bỏ hoang | Mỹ cấm nhập khẩu robot hình người Trung Quốc",
+      "link": "https://vnexpress.net/diem-tin-17h-nghien-cuu-ap-thue-cao-hon-voi-dat-bo-hoang-my-cam-nhap-khau-robot-hinh-nguoi-trung-quoc-5103042.html",
+      "summary": "Nhiều nhà thầu dự án sân bay Long Thành sẽ bị điều tra; Thống nhất lộ trình khai thác sân bay Long Thành theo ba giai đoạn...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:05:38+07:00",
+      "fetched": "2026-07-29T18:53:48.387253+07:00"
+    },
+    {
+      "id": "6e393fd8b3b148298e150000041443fa",
+      "title": "Mỹ tốn 1,4 tỷ USD rã xác tàu sân bay hạt nhân đầu tiên trên thế giới",
+      "link": "https://vnexpress.net/my-ton-1-4-ty-usd-ra-xac-tau-san-bay-hat-nhan-dau-tien-tren-the-gioi-5103012.html",
+      "summary": "Hải quân Mỹ tốn khoảng 1,4 tỷ USD cho quá trình tháo dỡ USS Enterprise, tàu sân bay hạt nhân bị loại biên từ 14 năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:04:15+07:00",
+      "fetched": "2026-07-29T18:53:48.387359+07:00"
+    },
+    {
+      "id": "8768b417bb119493b723765e704f8182",
+      "title": "Google triển khai AI Agent cho người dùng Việt Nam",
+      "link": "https://vnexpress.net/google-trien-khai-ai-agent-cho-nguoi-dung-viet-nam-5102904.html",
+      "summary": "Gemini Spark, trợ lý AI cá nhân hoạt động 24/7 và có thể giúp người dùng thực hiện nhiều tác vụ tự động, bắt đầu được triển khai đến những người dùng trả phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:04:15+07:00",
+      "fetched": "2026-07-29T18:53:48.387447+07:00"
+    },
+    {
+      "id": "6e393fd8b3b148298e150000041443fa",
+      "title": "Mỹ tốn 1,4 tỷ USD rã xác tàu sân bay hạt nhân đầu tiên trên thế giới",
+      "link": "https://vnexpress.net/my-ton-1-4-ty-usd-ra-xac-tau-san-bay-hat-nhan-dau-tien-tren-the-gioi-5103012.html",
+      "summary": "Hải quân Mỹ tốn khoảng 1,4 tỷ USD cho quá trình tháo dỡ USS Enterprise, tàu sân bay hạt nhân bị loại biên từ 14 năm trước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-29T10:04:15+07:00",
+      "fetched": "2026-07-29T18:53:55.244694+07:00"
+    },
+    {
+      "id": "8768b417bb119493b723765e704f8182",
+      "title": "Google triển khai AI Agent cho người dùng Việt Nam",
+      "link": "https://vnexpress.net/google-trien-khai-ai-agent-cho-nguoi-dung-viet-nam-5102904.html",
+      "summary": "Gemini Spark, trợ lý AI cá nhân hoạt động 24/7 và có thể giúp người dùng thực hiện nhiều tác vụ tự động, bắt đầu được triển khai đến những người dùng trả phí.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-29T10:04:15+07:00",
+      "fetched": "2026-07-29T18:53:59.608047+07:00"
+    },
+    {
+      "id": "df7cdbdc5c17b78e0520fd2eebd722cb",
+      "title": "'Trùm' đường dây buôn lậu dầu vào Cần Thơ bị bắt",
+      "link": "https://vnexpress.net/trum-duong-day-buon-lau-dau-vao-can-tho-bi-bat-5103029.html",
+      "summary": "Vương Lê Anh Tú bị cáo buộc tổ chức đường dây buôn lậu 830.000 lít dầu diesel từ nước ngoài về Việt Nam, chuẩn bị chứng từ khống để qua mặt cơ quan chức năng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:01:24+07:00",
+      "fetched": "2026-07-29T18:53:48.387537+07:00"
+    },
+    {
+      "id": "a90de31ee29199ededc70c812b14f5f5",
+      "title": "Mộng hạt nhân dang dở của Arab Saudi khi ông Trump ‘quay xe’",
+      "link": "https://vnexpress.net/mong-hat-nhan-dang-do-cua-arab-saudi-khi-ong-trump-quay-xe-5102990.html",
+      "summary": "Arab Saudi tưởng đã đạt thỏa thuận hạt nhân lịch sử với Mỹ, nhưng tuyên bố bất ngờ của ông Trump khiến Riyadh đối mặt nguy cơ mọi tính toán đổ vỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:00:00+07:00",
+      "fetched": "2026-07-29T18:53:48.387622+07:00"
+    },
+    {
+      "id": "42bb329bf4049b7ca5b76f73bbbc44a7",
+      "title": "Bác sĩ nêu 6 yếu tố kiểm soát được giúp ngừa cơn đột quỵ",
+      "link": "https://vnexpress.net/bac-si-neu-6-yeu-to-kiem-soat-duoc-giup-ngua-con-dot-quy-5102889.html",
+      "summary": "Đột quỵ không xảy ra ngẫu nhiên, phần lớn trường hợp liên quan 6 yếu tố nguy cơ có thể kiểm soát như tăng huyết áp, tiểu đường, cholesterol cao, bệnh tim, hút thuốc và béo phì.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:00:00+07:00",
+      "fetched": "2026-07-29T18:53:48.387706+07:00"
+    },
+    {
+      "id": "51c76bce10cb5f800ad55cbb8caed2cf",
+      "title": "'8X và 9X làm sếp còn Gen Z phải làm 2-3 việc'",
+      "link": "https://vnexpress.net/gen-z-lam-hai-ba-viec-cung-luc-9x-lam-truong-phong-gen-z-sinh-nam-nao-co-hoi-nghe-nghiep-gen-z-5102819.html",
+      "summary": "Nếu có cơ hội phát triển nghề nghiệp, thăng tiến rõ ràng, việc gì Gen Z phải thức đêm làm 2-3 công việc cùng lúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T10:00:00+07:00",
+      "fetched": "2026-07-29T18:53:48.387791+07:00"
+    },
+    {
+      "id": "a90de31ee29199ededc70c812b14f5f5",
+      "title": "Mộng hạt nhân dang dở của Arab Saudi khi ông Trump ‘quay xe’",
+      "link": "https://vnexpress.net/mong-hat-nhan-dang-do-cua-arab-saudi-khi-ong-trump-quay-xe-5102990.html",
+      "summary": "Arab Saudi tưởng đã đạt thỏa thuận hạt nhân lịch sử với Mỹ, nhưng tuyên bố bất ngờ của ông Trump khiến Riyadh đối mặt nguy cơ mọi tính toán đổ vỡ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-29T10:00:00+07:00",
+      "fetched": "2026-07-29T18:53:55.244794+07:00"
+    },
+    {
+      "id": "9ceac059e3e5548d508e1d6a4242f30e",
+      "title": "VN-Index tăng mạnh nhất một tháng",
+      "link": "https://vnexpress.net/vn-index-tang-manh-nhat-mot-thang-5103025.html",
+      "summary": "Cổ phiếu \"họ\" Vingroup đồng loạt hút tiền, giúp VN-Index tăng 24 điểm và lấy lại mốc tâm lý 1.700 điểm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-29T09:43:14+07:00",
+      "fetched": "2026-07-29T18:53:56.498172+07:00"
+    },
+    {
+      "id": "d3b279f6b57312bbdf39454ff23cd70e",
+      "title": "Nga phát lệnh truy nã quốc tế với ông chủ Telegram",
+      "link": "https://vnexpress.net/nga-phat-lenh-truy-na-quoc-te-voi-ong-chu-telegram-5102992.html",
+      "summary": "Nga truy tố người sáng lập kiêm CEO Telegram với cáo buộc \"tiếp tay cho hoạt động khủng bố\", phát lệnh truy nã quốc tế đối với ông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-29T09:42:12+07:00",
+      "fetched": "2026-07-29T18:53:55.244886+07:00"
+    },
+    {
+      "id": "a213baff2690cb66b4d51b76ae203544",
+      "title": "Iran hé lộ tướng không quân từng 'lái cường kích tấn công căn cứ Mỹ'",
+      "link": "https://vnexpress.net/iran-he-lo-tuong-khong-quan-tung-lai-cuong-kich-tan-cong-can-cu-my-5102938.html",
+      "summary": "Iran cho biết tướng Kazemi là một trong các phi công Su-24 thiệt mạng khi tham gia không kích sân bay Al Udeid ở Qatar hồi tháng 3.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-29T09:10:10+07:00",
+      "fetched": "2026-07-29T18:53:55.244973+07:00"
     },
     {
       "id": "a05f50b5921c0e6db1fed6eaa064f557",
