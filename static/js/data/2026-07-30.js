@@ -1,6 +1,6 @@
 window.newsData_2026_07_30 = {
   "date": "2026-07-30",
-  "lastUpdated": "2026-07-30T01:57:34.600181+07:00",
+  "lastUpdated": "2026-07-30T03:42:14.571362+07:00",
   "articles": [
     {
       "id": "14543c2a3aa60c3a8c9dc1a6ad31532a",
@@ -181,6 +181,16 @@ window.newsData_2026_07_30 = {
       "category": "Tổng hợp",
       "published": "2026-07-30T00:04:01.288088+07:00",
       "fetched": "2026-07-30T00:04:01.288214+07:00"
+    },
+    {
+      "id": "6a2ba9a0207f7a817dc57ed2459f8b1a",
+      "title": "4 nhóm thực phẩm giúp người tiểu đường kéo dài tuổi thọ",
+      "link": "https://vnexpress.net/4-nhom-thuc-pham-giup-nguoi-tieu-duong-keo-dai-tuoi-tho-5101750.html",
+      "summary": "Chế độ ăn giàu rau quả, sữa, đậu và ngũ cốc giúp kháng viêm, chống oxy hóa, hỗ trợ kiểm soát đường huyết và giảm tới 75% nguy cơ tử vong ở người tiểu đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T20:00:00+07:00",
+      "fetched": "2026-07-30T03:42:04.535216+07:00"
     },
     {
       "id": "997a2baa1e2507fbdeb026c7959b259b",
