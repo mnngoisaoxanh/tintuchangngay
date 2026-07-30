@@ -1,7 +1,157 @@
 window.newsData_2026_07_30 = {
   "date": "2026-07-30",
-  "lastUpdated": "2026-07-30T20:26:52.124729+07:00",
+  "lastUpdated": "2026-07-30T22:44:46.466679+07:00",
   "articles": [
+    {
+      "id": "6e2f38cc5796802580cf606a7c1ec2e1",
+      "title": "EU muốn tự chủ AI, chi 10 tỉ euro xây 7 siêu nhà máy",
+      "link": "https://tuoitre.vn/eu-muon-tu-chu-ai-chi-10-ti-euro-xay-7-sieu-nha-may-100260730200428293.htm",
+      "summary": "Liên minh châu Âu mở thầu xây tối đa 7 siêu nhà máy AI, kỳ vọng thu hút thêm 20 tỉ euro vốn tư nhân để nâng năng lực tính toán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:44:38.562197+07:00",
+      "fetched": "2026-07-30T22:44:38.562259+07:00"
+    },
+    {
+      "id": "3bfd5faf56461862bba12791654d034b",
+      "title": "Phó bí thư Thành ủy Nguyễn Phước Lộc: Không để trẻ em mắc bệnh hiểm nghèo bị bỏ lại phía sau",
+      "link": "https://tuoitre.vn/pho-bi-thu-thanh-uy-nguyen-phuoc-loc-khong-de-tre-em-mac-benh-hiem-ngheo-bi-bo-lai-phia-sau-10026073019402725.htm",
+      "summary": "Ông Nguyễn Phước Lộc, Ủy viên Trung ương Đảng, Phó bí thư Thành ủy TP.HCM, Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam TP.HCM, nhấn mạnh cần kết nối nguồn lực xã hội để hỗ trợ kịp thời trẻ em mắc bệnh hiểm nghèo, không để bất kỳ em nào bị bỏ lại phía sau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:44:38.562130+07:00",
+      "fetched": "2026-07-30T22:44:38.562187+07:00"
+    },
+    {
+      "id": "19f8f33f7891dd4d5ceb5281179d7dbe",
+      "title": "Công an đã nắm thông tin vụ 'giang hồ mạng' Khánh Sky đến nhà TikToker Vua Quạt livestream chửi bới",
+      "link": "https://tuoitre.vn/cong-an-da-nam-thong-tin-vu-giang-ho-mang-khanh-sky-den-nha-tiktoker-vua-quat-livestream-chui-boi-100260730201242596.htm",
+      "summary": "Lãnh đạo xã Tam Giang cho biết công an và chính quyền địa phương đã nắm thông tin vụ việc \"giang hồ mạng\" Khánh Sky cùng một số người đến nhà TikToker Vua Quạt ở Bắc Ninh livestream, chửi bới, đe dọa, thách thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:44:38.562062+07:00",
+      "fetched": "2026-07-30T22:44:38.562119+07:00"
+    },
+    {
+      "id": "dbb7f8e38872a2487d0d8fd3e94c459d",
+      "title": "Xác định đối thủ tiếp theo của Thùy Linh: Hạt giống số 1 giải cầu lông Đài Bắc",
+      "link": "https://tuoitre.vn/xac-dinh-doi-thu-tiep-theo-cua-thuy-linh-hat-giong-so-1-giai-cau-long-dai-bac-100260730175254827.htm",
+      "summary": "Thùy Linh sẽ gặp phải đối thủ nhiều duyên nợ tại tứ kết Giải cầu lông Đài Bắc mở rộng, diễn ra tại Đài Bắc Trung Hoa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:44:38.561995+07:00",
+      "fetched": "2026-07-30T22:44:38.562052+07:00"
+    },
+    {
+      "id": "8c062ea7737827b990e284c88e04fa26",
+      "title": "TP.HCM phê duyệt đề án phát triển đô thị thông minh giai đoạn 2026 - 2030, tầm nhìn đến năm 2045",
+      "link": "https://tuoitre.vn/tphcm-phe-duyet-de-an-phat-trien-do-thi-thong-minh-giai-doan-2026-2030-tam-nhin-den-nam-2045-100260730203030662.htm",
+      "summary": "Phó chủ tịch UBND TP.HCM Nguyễn Mạnh Cường vừa ký quyết định phê duyệt đề án phát triển đô thị thông minh TP.HCM giai đoạn 2026 - 2030, tầm nhìn đến năm 2045.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:44:38.561928+07:00",
+      "fetched": "2026-07-30T22:44:38.561985+07:00"
+    },
+    {
+      "id": "daad8cbd752db9eb62f4244f3bca2f59",
+      "title": "Tiếp sức chiến sĩ Hoa phượng đỏ",
+      "link": "https://tuoitre.vn/tiep-suc-chien-si-hoa-phuong-do-100260730163018713.htm",
+      "summary": "Những lời động viên, chăm lo từ tổ chức Đoàn đã tiếp thêm động lực để các chiến sĩ Hoa phượng đỏ TP.HCM thêm tự tin, trưởng thành qua mỗi hoạt động cộng đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:44:38.561860+07:00",
+      "fetched": "2026-07-30T22:44:38.561918+07:00"
+    },
+    {
+      "id": "1275d467597005658407882af9244b3b",
+      "title": "Động đất mạnh 3,6 độ ở Cao Bằng",
+      "link": "https://tuoitre.vn/dong-dat-manh-36-do-o-cao-bang-100260730205439681.htm",
+      "summary": "Tối 30-7, tại khu vực xã Bảo Lạc, tỉnh Cao Bằng xảy ra một trận động đất mạnh 3,6 độ (độ lớn M). Trung tâm Báo tin động đất và Cảnh báo sóng thần - Viện Các khoa học Trái đất vẫn đang tiếp tục theo dõi trận động đất này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:44:38.561791+07:00",
+      "fetched": "2026-07-30T22:44:38.561850+07:00"
+    },
+    {
+      "id": "cd3fa2202d63c2508e67d17cb7fe87f9",
+      "title": "Tỉ phú Elon Musk: AI sẽ vượt trí tuệ loài người trong 5 năm, tiền bạc rồi sẽ vô nghĩa",
+      "link": "https://tuoitre.vn/ti-phu-elon-musk-ai-se-vuot-tri-tue-loai-nguoi-trong-5-nam-tien-bac-roi-se-vo-nghia-100260730205832073.htm",
+      "summary": "Ông Musk đề xuất các công ty AI hàng đầu nên tự kiểm tra lẫn nhau trước khi phát hành sản phẩm, nhằm kịp thời phát hiện rủi ro trong bối cảnh công nghệ đang phát triển quá nhanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:44:38.561715+07:00",
+      "fetched": "2026-07-30T22:44:38.561780+07:00"
+    },
+    {
+      "id": "359c4eb0026bd30450b4e9e4d36d1792",
+      "title": "The Odyssey ra mắt tại Bắc Kinh, khán giả Trung Quốc hát mừng sinh nhật Christopher Nolan",
+      "link": "https://tuoitre.vn/the-odyssey-ra-mat-tai-bac-kinh-khan-gia-trung-quoc-hat-mung-sinh-nhat-christopher-nolan-100260730201346842.htm",
+      "summary": "The Odyssey ra mắt tại Bắc Kinh, Matt Damon và Charlize Theron cùng khán giả chúc mừng sinh nhật Christopher Nolan bằng tiếng Trung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:44:38.561647+07:00",
+      "fetched": "2026-07-30T22:44:38.561705+07:00"
+    },
+    {
+      "id": "f06ca37969dfc577e89b476d5bba69c0",
+      "title": "NATO kích hoạt phòng không sau khi tên lửa nghi của Nga rơi xuống Ba Lan",
+      "link": "https://tuoitre.vn/nato-kich-hoat-phong-khong-sau-khi-ten-lua-nghi-cua-nga-roi-xuong-ba-lan-100260730211022947.htm",
+      "summary": "NATO đã kích hoạt hệ thống phòng thủ trên không và mặt đất sau khi tên lửa nghi là Kh-101 của Nga rơi vào lãnh thổ Ba Lan, tạo ra một hố rộng 10m.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:44:38.561578+07:00",
+      "fetched": "2026-07-30T22:44:38.561637+07:00"
+    },
+    {
+      "id": "4a46e6a6af135d12ff66a68be90b9d30",
+      "title": "Xe khách tông xe ben đang quay đầu, 4 người bị thương",
+      "link": "https://tuoitre.vn/xe-khach-tong-xe-ben-dang-quay-dau-4-nguoi-bi-thuong-10026073021045254.htm",
+      "summary": "Tối 30-7, vụ tai nạn giao thông giữa xe khách với xe ben đang quay đầu trên quốc lộ 1, đoạn qua phường Xuân Đài, tỉnh Đắk Lắk, đã khiến 4 người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:44:38.561506+07:00",
+      "fetched": "2026-07-30T22:44:38.561568+07:00"
+    },
+    {
+      "id": "48d2c8238c1d7eb0d04f587d33f912d7",
+      "title": "Doanh nghiệp và người nuôi cá trong hồ thủy lợi Ia Mơ đạt 'tiếng nói chung'",
+      "link": "https://tuoitre.vn/doanh-nghiep-va-nguoi-nuoi-ca-trong-ho-thuy-loi-ia-mo-dat-tieng-noi-chung-100260730190455394.htm",
+      "summary": "Doanh nghiệp và ngư dân trên lòng hồ thủy lợi Ia Mơ (tỉnh Gia Lai) đã có tiếng nói chung, tránh bức xúc kéo dài, đảm bảo hài hòa lợi ích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:44:38.561410+07:00",
+      "fetched": "2026-07-30T22:44:38.561494+07:00"
+    },
+    {
+      "id": "9d4f66d75db393f8f995515eaf098a6e",
+      "title": "Ông Trịnh Văn Quyết: Báo chí không chỉ đưa tin mà phải chạm tới trái tim, khơi dậy khát vọng cống hiến",
+      "link": "https://tuoitre.vn/ong-trinh-van-quyet-bao-chi-khong-chi-dua-tin-ma-phai-cham-toi-trai-tim-khoi-day-khat-vong-cong-hien-100260730205412837.htm",
+      "summary": "Trưởng Ban Tuyên giáo và Dân vận Trung ương Trịnh Văn Quyết nhấn mạnh báo chí cần tăng cường phối hợp với các cơ quan quản lý nhà nước, tham gia hiệu quả vào công tác truyền thông chính sách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:44:38.561335+07:00",
+      "fetched": "2026-07-30T22:44:38.561399+07:00"
+    },
+    {
+      "id": "6b54cacfdb330d8b17b4767eebe99954",
+      "title": "Sân vận động 135.000 chỗ tại Hà Nội chính thức mang tên VinFast",
+      "link": "https://tuoitre.vn/san-van-dong-135000-cho-tai-ha-noi-chinh-thuc-mang-ten-vinfast-100260730210035478.htm",
+      "summary": "Tối 30-7, Tập đoàn Vingroup đã chính thức công bố tên gọi \"VinFast\" cho sân vận động lớn nhất thế giới đang được xây dựng tại Khu đô thị thể thao quốc tế Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:44:38.561255+07:00",
+      "fetched": "2026-07-30T22:44:38.561323+07:00"
+    },
+    {
+      "id": "933d401d56f451213d9cc6dcc51c8c3d",
+      "title": "Nhịp cầu văn hóa của thiếu nhi Việt Nam - Lào - Campuchia",
+      "link": "https://tuoitre.vn/nhip-cau-van-hoa-cua-thieu-nhi-viet-nam-lao-campuchia-100260730164321639.htm",
+      "summary": "Tối 30-7, Chương trình giao lưu văn hóa và tổng kết Liên hoan thiếu nhi 3 nước \"Việt Nam - Lào - Campuchia\" lần thứ 8, năm 2026 đã diễn ra tại Nhà thiếu nhi TP.HCM",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:44:38.561106+07:00",
+      "fetched": "2026-07-30T22:44:38.561240+07:00"
+    },
     {
       "id": "4d5bfd6bbbd43c604494e07ac8cefe3d",
       "title": "Mở được thị trường, nông sản Việt vẫn lo bị đẩy ra",
@@ -303,6 +453,16 @@ window.newsData_2026_07_30 = {
       "fetched": "2026-07-30T18:44:59.581154+07:00"
     },
     {
+      "id": "c5029411c5fb1a2efba1041eed5bc500",
+      "title": "Muốn hạ Singapore, đội tuyển Việt Nam phải ‘giải bài toán’ Ilhan Fandi",
+      "link": "https://thanhnien.vn/muon-ha-singapore-doi-tuyen-viet-nam-phai-giai-bai-toan-ilhan-fandi-185260730221320916.htm",
+      "summary": "Cuộc tiếp đón Singapore trên sân Mỹ Đình lúc 20 giờ ngày 31.7 mới được xem là bài kiểm tra thực sự cho thầy trò HLV Kim Sang-sik. Muốn giành trọn 3 điểm và chiếm lợi thế trong cuộc đua vào bán kết, đội tuyển Việt Nam cần đặc biệt cảnh giác với tiền đạo Ilhan Fandi cùng lối chơi tấn công biên rất khó...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T15:13:00+07:00",
+      "fetched": "2026-07-30T22:44:36.724356+07:00"
+    },
+    {
       "id": "b9710b4c59e578b87c07e417636354f2",
       "title": "Anthropic xử lý sự cố khiến đoạn chat Claude xuất hiện trên Google",
       "link": "https://tuoitre.vn/anthropic-xu-ly-su-co-khien-doan-chat-claude-xuat-hien-tren-google-100260730104947264.htm",
@@ -453,6 +613,166 @@ window.newsData_2026_07_30 = {
       "fetched": "2026-07-30T15:07:05.685084+07:00"
     },
     {
+      "id": "9456df78552e3a3558b14e1dff76bb79",
+      "title": "Thanh Hóa: Giám đốc sở phải dành 1/3 thời gian làm việc trong tháng để đi cơ sở",
+      "link": "https://thanhnien.vn/thanh-hoa-giam-doc-so-phai-danh-1-3-thoi-gian-lam-viec-trong-thang-de-di-co-so-185260730205253917.htm",
+      "summary": "Giám đốc các sở, thủ trưởng các ban, ngành, đơn vị phải dành tối thiểu 1/3 gian mỗi tháng để đi cơ sở, khi đến cơ sở không được phô trương, hình thức… Đó là một trong những yêu cầu bắt buộc mà Chủ tịch UBND tỉnh Thanh Hóa Tô Anh Dũng vừa ký ban hành chỉ thị để 'sốc' lại lề lối làm việc của cán bộ, c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T15:06:00+07:00",
+      "fetched": "2026-07-30T22:44:36.724579+07:00"
+    },
+    {
+      "id": "15024d6ace73a857945f8a6e7fe5f6ad",
+      "title": "Tổng Bí thư, Chủ tịch nước: Không để Nghị quyết 57 dừng ở khẩu hiệu",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-khong-de-nghi-quyet-57-dung-o-khau-hieu-5103490.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu nhiệm vụ theo Nghị quyết 57 phải làm đến cùng, tạo sản phẩm và kết quả đo lường được, không dừng ở những khẩu hiệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T14:53:48+07:00",
+      "fetched": "2026-07-30T22:44:33.513459+07:00"
+    },
+    {
+      "id": "15024d6ace73a857945f8a6e7fe5f6ad",
+      "title": "Tổng Bí thư, Chủ tịch nước: Không để Nghị quyết 57 dừng ở khẩu hiệu",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-khong-de-nghi-quyet-57-dung-o-khau-hieu-5103490.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu nhiệm vụ theo Nghị quyết 57 phải làm đến cùng, tạo sản phẩm và kết quả đo lường được, không dừng ở những khẩu hiệu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-30T14:53:48+07:00",
+      "fetched": "2026-07-30T22:44:45.074310+07:00"
+    },
+    {
+      "id": "276496ced724e12ac8e4607fd3555031",
+      "title": "Lao động Việt vi phạm pháp luật tại Nhật Bản gia tăng",
+      "link": "https://thanhnien.vn/lao-dong-viet-vi-pham-phap-luat-tai-nhat-ban-gia-tang-185260730191802329.htm",
+      "summary": "Tình trạng lao động Việt Nam vi phạm pháp luật tại Nhật Bản có chiều hướng gia tăng, nhất là trong nhóm lao động phổ thông, thời vụ, đặc định. Thực trạng này đang đặt ra yêu cầu nâng chất lượng tuyển chọn, đào tạo định hướng cho người lao động trước khi xuất cảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T14:50:00+07:00",
+      "fetched": "2026-07-30T22:44:36.724753+07:00"
+    },
+    {
+      "id": "bc457925bbe4b070040dfb54969a29ee",
+      "title": "Tôi sinh hai con dù không nhà, không xe, không tiết kiệm",
+      "link": "https://vnexpress.net/toi-sinh-hai-con-du-khong-nha-khong-xe-khong-tiet-kiem-5103383.html",
+      "summary": "Nếu đợi đủ điều kiện mới sinh con, có thể cả đời tôi cũng không bao giờ thấy mình đủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T14:35:45+07:00",
+      "fetched": "2026-07-30T22:44:33.513650+07:00"
+    },
+    {
+      "id": "20e87a4daf8eb60d7ae769abd3c3a6ca",
+      "title": "Động đất độ lớn M3.6 ở Cao Bằng",
+      "link": "https://thanhnien.vn/dong-dat-do-lon-m36-o-cao-bang-185260730211355977.htm",
+      "summary": "Trận động đất vừa xảy ra tối nay ở xã Bảo Lạc, tỉnh Cao Bằng là động đất tự nhiên, do đới đứt gãy kiến tạo vẫn đang hoạt động, liên tục tích tụ năng lượng và giải phóng định kỳ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T14:32:00+07:00",
+      "fetched": "2026-07-30T22:44:36.724917+07:00"
+    },
+    {
+      "id": "b394e8ed6f4a0504788e298b024249d8",
+      "title": "Bản đồ của Bộ Ngoại giao Mỹ đảo lộn hàng loạt nước châu Phi",
+      "link": "https://thanhnien.vn/ban-do-cua-bo-ngoai-giao-my-dao-lon-hang-loat-nuoc-chau-phi-185260730201605233.htm",
+      "summary": "Bộ Ngoại giao Mỹ nhận hoàn toàn trách nhiệm về sự nhầm lẫn và cho biết bản đồ châu Phi đó do một thành viên trong nhóm vội vàng chỉnh sửa trước sự kiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T14:11:00+07:00",
+      "fetched": "2026-07-30T22:44:36.725078+07:00"
+    },
+    {
+      "id": "572f06684fc3549de2ba42ab119fd2cc",
+      "title": "Chính thức: Sân vận động lớn nhất thế giới được đặt tên VinFast, xây xong vào tháng 7.2027",
+      "link": "https://thanhnien.vn/chinh-thuc-san-van-dong-lon-nhat-the-gioi-duoc-dat-ten-vinfast-xay-xong-vao-thang-72027-185260730204019407.htm",
+      "summary": "Vingroup vừa chính thức công bố 'VinFast' là tên gọi cho sân vận động lớn nhất thế giới với sức chứa 135.000 chỗ, đặt tại Khu đô thị Thể thao quốc tế Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T13:43:00+07:00",
+      "fetched": "2026-07-30T22:44:36.725240+07:00"
+    },
+    {
+      "id": "b95583ff3046273b909b66b65d662b06",
+      "title": "Bị khởi tố vì cho người nước ngoài có nồng độ cồn thuê xe máy",
+      "link": "https://vnexpress.net/bi-khoi-to-vi-cho-nguoi-nuoc-ngoai-co-nong-do-con-thue-xe-may-5103489.html",
+      "summary": "Bà Lê Thị Hải Anh, 51 tuổi, bị cáo buộc cho người đàn ông quốc tịch Nga thuê xe máy và người này sau đó tông chết người đi đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T13:41:07+07:00",
+      "fetched": "2026-07-30T22:44:33.513818+07:00"
+    },
+    {
+      "id": "7aca15067f5697729ed24792923a9c96",
+      "title": "Cách giúp Google Maps giải phóng hàng GB bộ nhớ điện thoại",
+      "link": "https://thanhnien.vn/cach-giup-google-maps-giai-phong-hang-gb-bo-nho-dien-thoai-185260728114708152.htm",
+      "summary": "Bản đồ ngoại tuyến và dữ liệu đệm tích lũy lâu ngày có thể khiến Google Maps chiếm hàng trăm MB, thậm chí vài GB bộ nhớ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T13:41:00+07:00",
+      "fetched": "2026-07-30T22:44:36.725396+07:00"
+    },
+    {
+      "id": "543834400325c18391fa3e5b5a05f160",
+      "title": "Kéo dài metro Bến Thành - Suối Tiên đến sân bay Long Thành theo hình thức cấp bách",
+      "link": "https://thanhnien.vn/keo-dai-metro-ben-thanh-suoi-tien-den-san-bay-long-thanh-theo-hinh-thuc-cap-bach-185260730201453402.htm",
+      "summary": "Chính phủ thống nhất chủ trương đầu tư tuyến metro Bến Thành - Suối Tiên kéo dài đến sân bay Long Thành và trung tâm TP.Đồng Nai theo hình thức công trình cấp bách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T13:38:00+07:00",
+      "fetched": "2026-07-30T22:44:36.725583+07:00"
+    },
+    {
+      "id": "3698a0d5d12692a43cce09ad734b1e22",
+      "title": "Nga liệt ông chủ Telegram vào danh sách khủng bố",
+      "link": "https://vnexpress.net/nga-liet-ong-chu-telegram-vao-danh-sach-khung-bo-5103488.html",
+      "summary": "Giới chức Nga đưa Pavel Durov, người sáng lập kiêm CEO Telegram, vào danh sách \"phần tử khủng bố và cực đoan\" sau khi phát lệnh truy nã quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T13:35:10+07:00",
+      "fetched": "2026-07-30T22:44:33.513983+07:00"
+    },
+    {
+      "id": "3698a0d5d12692a43cce09ad734b1e22",
+      "title": "Nga liệt ông chủ Telegram vào danh sách khủng bố",
+      "link": "https://vnexpress.net/nga-liet-ong-chu-telegram-vao-danh-sach-khung-bo-5103488.html",
+      "summary": "Giới chức Nga đưa Pavel Durov, người sáng lập kiêm CEO Telegram, vào danh sách \"phần tử khủng bố và cực đoan\" sau khi phát lệnh truy nã quốc tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-30T13:35:10+07:00",
+      "fetched": "2026-07-30T22:44:39.894390+07:00"
+    },
+    {
+      "id": "7be10703700456a0a730e8d098ba1b94",
+      "title": "Nước nào ở Đông Nam Á thuộc nhóm thu nhập cao?",
+      "link": "https://vnexpress.net/nuoc-nao-o-dong-nam-a-thuoc-nhom-thu-nhap-cao-5103461.html",
+      "summary": "Tổng thu nhập quốc dân bình quân đầu người ở nước này cao gấp nhiều lần so với tiêu chuẩn của thế giới. Bạn có biết đây là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T13:34:24+07:00",
+      "fetched": "2026-07-30T22:44:33.514144+07:00"
+    },
+    {
+      "id": "e298ad2a05864fdea1791d5d4c4baa10",
+      "title": "TP.HCM xác định tìm kiếm hài cốt liệt sĩ là nhiệm vụ lâu dài",
+      "link": "https://thanhnien.vn/tphcm-xac-dinh-tim-kiem-hai-cot-liet-si-la-nhiem-vu-lau-dai-185260730195257206.htm",
+      "summary": "Phó chủ tịch UBND TP.HCM Nguyễn Mạnh Cường nhấn mạnh, tìm kiếm hài cốt liệt sĩ là công việc phải làm lâu dài bằng trách nhiệm và sự tri ân, không chỉ giới hạn trong \"Chiến dịch 500 ngày đêm\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T13:33:00+07:00",
+      "fetched": "2026-07-30T22:44:36.725741+07:00"
+    },
+    {
+      "id": "49ba06330712345122a35cbb65fabd81",
+      "title": "Hải Phòng mở ‘siêu’ khu thương mại tự do",
+      "link": "https://thanhnien.vn/hai-phong-mo-sieu-khu-thuong-mai-tu-do-185260730195740387.htm",
+      "summary": "Khu thương mại tự do Hải Phòng quy mô gần 6.300 ha cùng Khu kinh tế chuyên biệt phía tây mở ra cấu trúc phát triển mới, tạo thêm động lực thu hút đầu tư, logistics và công nghệ cao cho thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T13:27:00+07:00",
+      "fetched": "2026-07-30T22:44:36.725898+07:00"
+    },
+    {
       "id": "1b5baec7654aa291e84138a937e05920",
       "title": "Lao động sáng tạo phải trở thành nguồn lực quan trọng nhất của quốc gia trong tương lai",
       "link": "https://thanhnien.vn/lao-dong-sang-tao-phai-tro-thanh-nguon-luc-quan-trong-nhat-cua-quoc-gia-trong-tuong-lai-185260730193352027.htm",
@@ -523,6 +843,26 @@ window.newsData_2026_07_30 = {
       "fetched": "2026-07-30T20:26:41.944487+07:00"
     },
     {
+      "id": "9f7d14452af72f45366baa1111cf91e0",
+      "title": "Tôi bị bệnh hiểm nghèo, chồng vẫn muốn vợ phải kiếm tiền",
+      "link": "https://vnexpress.net/toi-bi-benh-hiem-ngheo-chong-van-muon-vo-phai-kiem-tien-5103365.html",
+      "summary": "Dường như trong mắt chồng, tôi phải là người kiếm tiền, gánh vác gia đình, không được phép dừng lại cả khi sức khỏe không như trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T13:00:00+07:00",
+      "fetched": "2026-07-30T22:44:33.514500+07:00"
+    },
+    {
+      "id": "243f6422e4018178c6c69e03a9ee421a",
+      "title": "Ăn yến mạch thế nào hỗ trợ giảm cân",
+      "link": "https://vnexpress.net/an-yen-mach-the-nao-ho-tro-giam-can-5103429.html",
+      "summary": "Ưu tiên yến mạch nguyên hạt hoặc cán dẹt, sử dụng 30-50 g trong mỗi bữa, kết hợp với trứng luộc, ức gà, cá, để tăng cảm giác no giúp giảm cân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T13:00:00+07:00",
+      "fetched": "2026-07-30T22:44:33.514822+07:00"
+    },
+    {
       "id": "cc4dd7551a6663e0b65e89d7fd1f00ba",
       "title": "PNJ lỗ kỷ lục vì dự phòng mua lại kim cương, vàng",
       "link": "https://vnexpress.net/pnj-lo-ky-luc-vi-du-phong-mua-lai-kim-cuong-vang-5103486.html",
@@ -591,6 +931,16 @@ window.newsData_2026_07_30 = {
       "category": "Tổng hợp",
       "published": "2026-07-30T12:35:51+07:00",
       "fetched": "2026-07-30T20:26:38.974731+07:00"
+    },
+    {
+      "id": "9390548f4df81791af639a7061af969e",
+      "title": "CSGT: Quan niệm xe to đền xe bé đã lỗi thời",
+      "link": "https://vnexpress.net/csgt-quan-niem-xe-to-den-xe-be-da-loi-thoi-5103484.html",
+      "summary": "Việc xác định đúng/sai không phải do kích thước phương tiện mà cần dựa trên nguyên tắc nhường đường tại nơi đường giao nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T12:35:51+07:00",
+      "fetched": "2026-07-30T22:44:33.515297+07:00"
     },
     {
       "id": "e3adca941a72e49a14b7b25c3130c214",
@@ -1351,6 +1701,16 @@ window.newsData_2026_07_30 = {
       "category": "Kinh doanh",
       "published": "2026-07-30T10:05:00+07:00",
       "fetched": "2026-07-30T18:45:02.034475+07:00"
+    },
+    {
+      "id": "8f246698774c9e2dc93909aa032c3849",
+      "title": "Vietnam Airlines lãi hơn 3.800 tỷ đồng",
+      "link": "https://vnexpress.net/vietnam-airlines-lai-hon-3-800-ty-dong-5103370.html",
+      "summary": "Dù giá nhiên liệu lên cao ảnh hưởng đến hoạt động quý II, Vietnam Airlines vẫn lãi hơn 3.800 tỷ đồng nửa đầu năm nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-30T10:05:00+07:00",
+      "fetched": "2026-07-30T22:44:41.666887+07:00"
     },
     {
       "id": "487efe86c9ca2db8e829589976fb7148",
