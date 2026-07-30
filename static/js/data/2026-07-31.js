@@ -1,6 +1,6 @@
 window.newsData_2026_07_31 = {
   "date": "2026-07-31",
-  "lastUpdated": "2026-07-31T02:09:17.995031+07:00",
+  "lastUpdated": "2026-07-31T03:55:54.339249+07:00",
   "articles": [
     {
       "id": "9d4f66d75db393f8f995515eaf098a6e",
@@ -151,6 +151,16 @@ window.newsData_2026_07_31 = {
       "category": "Tổng hợp",
       "published": "2026-07-31T00:14:46.468599+07:00",
       "fetched": "2026-07-31T00:14:46.468735+07:00"
+    },
+    {
+      "id": "36039d7ffb91e6097768cdebb218cd54",
+      "title": "Mắc bệnh lậu sau oral sex với tình một đêm",
+      "link": "https://vnexpress.net/mac-benh-lau-sau-oral-sex-voi-tinh-mot-dem-5102368.html",
+      "summary": "Trong lần đầu tiên ân ái với bạn nữa quen qua facebook, có sử dụng bao cao su, \"dạo đầu\" bằng miệng, người đàn ông 30 tuổi tiểu buốt và chảy dịch vùng kín, sau đó bất ngờ phát hiện mắc bệnh lậu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T19:03:00+07:00",
+      "fetched": "2026-07-31T03:55:42.409498+07:00"
     },
     {
       "id": "7b054294ef1005c7c4649580ae2afd6e",
