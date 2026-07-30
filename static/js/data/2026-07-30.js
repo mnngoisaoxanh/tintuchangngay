@@ -1,7 +1,157 @@
 window.newsData_2026_07_30 = {
   "date": "2026-07-30",
-  "lastUpdated": "2026-07-30T15:07:11.182853+07:00",
+  "lastUpdated": "2026-07-30T18:45:05.714733+07:00",
   "articles": [
+    {
+      "id": "ea13dbd8d9b5d3868d5f94ed9332b0c9",
+      "title": "TP.HCM khởi động kế hoạch thu hút chuyên gia, thu nhập đến 100 triệu đồng/tháng",
+      "link": "https://tuoitre.vn/tphcm-khoi-dong-ke-hoach-thu-hut-chuyen-gia-thu-nhap-den-100-trieu-dong-thang-100260730164657675.htm",
+      "summary": "TP.HCM đang tái khởi động kế hoạch thu hút chuyên gia, nhà khoa học và người có tài năng đặc biệt sau thời gian tạm dừng để sắp xếp bộ máy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T18:44:59.581938+07:00",
+      "fetched": "2026-07-30T18:44:59.581985+07:00"
+    },
+    {
+      "id": "63390f50812a43ce8b0d2eab56814a3e",
+      "title": "Rào chắn một phần nút giao Lý Thái Tổ - Hùng Vương làm đường thoát nước, hoàn thành trước 2-9",
+      "link": "https://tuoitre.vn/rao-chan-mot-phan-nut-giao-ly-thai-to-hung-vuong-lam-duong-thoat-nuoc-hoan-thanh-truoc-2-9-100260730161536679.htm",
+      "summary": "UBND phường Vườn Lài (TP.HCM) thông tin về việc tổ chức rào chắn xây dựng nút giao Lý Thái Tổ - Hùng Vương. Việc phân luồng đến nay chưa ghi nhận tình trạng ùn tắc giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T18:44:59.581880+07:00",
+      "fetched": "2026-07-30T18:44:59.581929+07:00"
+    },
+    {
+      "id": "42662246288988ec5a1c1638d53b4b21",
+      "title": "Tô Châu để hệ thống 'cãi hộ' shipper: Dừng đèn đỏ không còn bị trừ giờ",
+      "link": "https://tuoitre.vn/to-chau-de-he-thong-cai-ho-shipper-dung-den-do-khong-con-bi-tru-gio-100260730160437431.htm",
+      "summary": "Thành phố Tô Châu, tỉnh Giang Tô, Trung Quốc sẽ thí điểm cách tính giờ giao hàng mới từ đầu tháng 8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T18:44:59.581829+07:00",
+      "fetched": "2026-07-30T18:44:59.581872+07:00"
+    },
+    {
+      "id": "e2b2a4c156188fba43cae9889fdaca3f",
+      "title": "Sở Văn hóa làm việc với rapper MCK vì ca từ tục tĩu, phản cảm",
+      "link": "https://tuoitre.vn/so-van-hoa-lam-viec-voi-rapper-mck-vi-ca-tu-tuc-tiu-phan-cam-100260730164721411.htm",
+      "summary": "Sau phản ánh về việc nhiều ca khúc trong album HVL của rapper MCK sử dụng ngôn từ tục tĩu, Sở Văn hóa đã mời rapper MCK đến làm việc, tiếp tục rà soát vụ việc theo quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T18:44:59.581768+07:00",
+      "fetched": "2026-07-30T18:44:59.581821+07:00"
+    },
+    {
+      "id": "8bbf8a6a4fec7bb144b4484bfafe473b",
+      "title": "Bắt 9 bị can trong đường dây cá độ bóng đá hơn 70 tỉ đồng",
+      "link": "https://tuoitre.vn/bat-9-bi-can-trong-duong-day-ca-do-bong-da-hon-70-ti-dong-100260730170018468.htm",
+      "summary": "Công an tỉnh Gia Lai vừa triệt phá một đường dây cá độ bóng đá qua mạng với số tiền giao dịch lên tới trên 70 tỉ đồng, bắt 9 tạm giam bị can.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T18:44:59.581716+07:00",
+      "fetched": "2026-07-30T18:44:59.581760+07:00"
+    },
+    {
+      "id": "05a7fb9e29b21c0bb06fe30d7d4e79c4",
+      "title": "Doanh nghiệp Việt mở Trung tâm Công nghệ toàn cầu tại Nhật Bản",
+      "link": "https://tuoitre.vn/doanh-nghiep-viet-mo-trung-tam-cong-nghe-toan-cau-tai-nhat-ban-100260730153519117.htm",
+      "summary": "Trung tâm Công nghệ toàn cầu này sẽ đóng vai trò then chốt trong việc hỗ trợ chuyển đổi số và chuyển đổi AI cho các công ty thành viên thuộc một tập đoàn của Nhật Bản trên toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T18:44:59.581661+07:00",
+      "fetched": "2026-07-30T18:44:59.581708+07:00"
+    },
+    {
+      "id": "cc4922d01c544a0d6f2252faf76e49b0",
+      "title": "IRGC thề trả đũa ngay hôm nay sau đòn không kích quy mô lớn của Mỹ",
+      "link": "https://tuoitre.vn/irgc-the-tra-dua-ngay-hom-nay-sau-don-khong-kich-quy-mo-lon-cua-my-100260730170304044.htm",
+      "summary": "Lực lượng Vệ binh Cách mạng Hồi giáo Iran tuyên bố trừng phạt \"kẻ xâm lược\" ngay trong ngày 30-7, sau khi Mỹ không kích quy mô lớn vào Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T18:44:59.581607+07:00",
+      "fetched": "2026-07-30T18:44:59.581653+07:00"
+    },
+    {
+      "id": "5028775dbdfeef104fed43c1a01de07a",
+      "title": "Đề xuất Vĩnh Long làm dự án cao tốc nối TP.HCM đến Sóc Trăng",
+      "link": "https://tuoitre.vn/de-xuat-vinh-long-lam-du-an-cao-toc-noi-tphcm-den-soc-trang-100260730144338703.htm",
+      "summary": "HĐND thành phố Cần Thơ thông qua nghị quyết thống nhất đề xuất giao UBND tỉnh Vĩnh Long là cơ quan có thẩm quyền đầu tư dự án cao tốc CT.33 từ TP.HCM tới Sóc Trăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T18:44:59.581555+07:00",
+      "fetched": "2026-07-30T18:44:59.581599+07:00"
+    },
+    {
+      "id": "cb742137107ec9fefa3b0ff6c78c0f74",
+      "title": "Á hậu say xỉn ném đá vào nhà dân, vương miện 'toàn là kim cương giả': Sở Văn hóa nói gì?",
+      "link": "https://tuoitre.vn/a-hau-say-xin-nem-da-vao-nha-dan-vuong-mien-toan-la-kim-cuong-gia-so-van-hoa-noi-gi-100260730171619265.htm",
+      "summary": "Trước những vụ việc gây tranh cãi tại một số cuộc thi sắc đẹp thời gian qua, đại diện Sở Văn hóa và Thể thao TP.HCM cho biết thí sinh vi phạm quy chế cuộc thi nào thì ban tổ chức cuộc thi đó có trách nhiệm xử lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T18:44:59.581498+07:00",
+      "fetched": "2026-07-30T18:44:59.581546+07:00"
+    },
+    {
+      "id": "0691f0c71fdb81bd349fd0105f872407",
+      "title": "Newcastle chia tay HLV Eddie Howe sau 5 năm",
+      "link": "https://tuoitre.vn/newcastle-chia-tay-hlv-eddie-howe-sau-5-nam-10026073017150809.htm",
+      "summary": "Truyền thông châu Âu đã đưa tin HLV Eddie Howe (48 tuổi) chính thức chia tay CLB Newcastle sau 5 năm gắn bó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T18:44:59.581423+07:00",
+      "fetched": "2026-07-30T18:44:59.581488+07:00"
+    },
+    {
+      "id": "97c2b1ebefeca4d9664120e30877ae3a",
+      "title": "Vô cớ chặn đường, dùng rựa đuổi chém công an rồi cố thủ suốt 3 tiếng",
+      "link": "https://tuoitre.vn/vo-co-chan-duong-dung-rua-duoi-chem-cong-an-roi-co-thu-suot-3-tieng-100260730170852717.htm",
+      "summary": "Trần Hoàng Diệu vô cớ chặn đường, dùng rựa chém một cảnh sát khu vực đang trên đường thực hiện nhiệm vụ tại Quảng Trị, rồi bỏ về nhà cố thủ suốt 3 tiếng đồng hồ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T18:44:59.581366+07:00",
+      "fetched": "2026-07-30T18:44:59.581414+07:00"
+    },
+    {
+      "id": "4e5477eaf50f6b0fa2e502bfe466896b",
+      "title": "'Tây' mê đồ ăn sáng Việt Nam: Nào bò né, bánh cuốn, xôi mặn... chưa kể phở với bún bò",
+      "link": "https://tuoitre.vn/tay-me-do-an-sang-viet-nam-nao-bo-ne-banh-cuon-xoi-man-chua-ke-pho-voi-bun-bo-10026073016335086.htm",
+      "summary": "Họ mê vì ngon, vì đa dạng, và cái cảm giác dậy thật sớm để hòa chung nhịp sống với người dân địa phương khi thành phố từ từ tỉnh giấc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T18:44:59.581303+07:00",
+      "fetched": "2026-07-30T18:44:59.581357+07:00"
+    },
+    {
+      "id": "db77e11dda603f19367ed808c145e9da",
+      "title": "782 tuyến đường trùng tên và trùng số ở TP.HCM có được giữ nguyên?",
+      "link": "https://tuoitre.vn/782-tuyen-duong-trung-ten-va-trung-so-o-tphcm-co-duoc-giu-nguyen-100260730171841829.htm",
+      "summary": "TP.HCM dự kiến giữ nguyên các tuyến đường trùng tên nếu thuộc các phường, xã khác nhau, chỉ xem xét đổi tên khi thật sự cần thiết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T18:44:59.581241+07:00",
+      "fetched": "2026-07-30T18:44:59.581295+07:00"
+    },
+    {
+      "id": "978451ead2e2cc7062f87f5c39d3c1f3",
+      "title": "Căng bạt dầm mưa, nỗ lực đưa 2 trường nội trú vùng biên Lâm Đồng về đích",
+      "link": "https://tuoitre.vn/cang-bat-dam-mua-no-luc-dua-2-truong-noi-tru-vung-bien-lam-dong-ve-dich-100260730145042494.htm",
+      "summary": "Tỉnh Lâm Đồng đang nỗ lực tháo gỡ khó khăn, hỗ trợ nhà thầu hoàn thành 2 dự án Trường phổ thông nội trú tiểu học và trung học cơ sở ở 2 xã Thuận An, Quảng Trực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T18:44:59.581168+07:00",
+      "fetched": "2026-07-30T18:44:59.581231+07:00"
+    },
+    {
+      "id": "74ef695c4cc35e2b73482ec0794e034f",
+      "title": "Cách chức tất cả các chức vụ trong Đảng với Chủ tịch Hội Nhà văn Việt Nam Nguyễn Quang Thiều",
+      "link": "https://tuoitre.vn/cach-chuc-tat-ca-cac-chuc-vu-trong-dang-voi-chu-tich-hoi-nha-van-viet-nam-nguyen-quang-thieu-100260730173623394.htm",
+      "summary": "Ủy ban Kiểm tra Trung ương quyết định cách chức tất cả các chức vụ trong Đảng với Chủ tịch Hội Nhà văn Việt Nam Nguyễn Quang Thiều và khai trừ Đảng với 3 người khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T18:44:59.580987+07:00",
+      "fetched": "2026-07-30T18:44:59.581154+07:00"
+    },
     {
       "id": "b9710b4c59e578b87c07e417636354f2",
       "title": "Anthropic xử lý sự cố khiến đoạn chat Claude xuất hiện trên Google",
@@ -303,6 +453,416 @@ window.newsData_2026_07_30 = {
       "fetched": "2026-07-30T11:47:57.685821+07:00"
     },
     {
+      "id": "e96c9caab24dfa600baa4dae6063c038",
+      "title": "Chuyên gia Singapore: 'Thật khó để thắng trên sân nhà của Việt Nam, 1 điểm đã là quá tốt'",
+      "link": "https://thanhnien.vn/chuyen-gia-singapore-that-kho-de-thang-tren-san-nha-cua-viet-nam-1-diem-da-la-qua-tot-185260730183308441.htm",
+      "summary": "Trước trận đấu trên sân Mỹ Đình (ngày 31.7), chuyên gia bóng đá Gabriel Tan của ESPN châu Á nhận định Singapore sẽ gặp rất nhiều khó khăn trước đội tuyển Việt Nam. Theo ông, nếu giành được 1 điểm, đó cũng đã là kết quả rất tích cực với đội tuyển Singapore.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T11:44:00+07:00",
+      "fetched": "2026-07-30T18:44:57.623120+07:00"
+    },
+    {
+      "id": "d054b008b2fe69417c3a825547045231",
+      "title": "Tàu sân bay Mỹ USS George Washington cập cảng Đà Nẵng",
+      "link": "https://thanhnien.vn/tau-san-bay-my-uss-george-washington-cap-cang-da-nang-185260730175201099.htm",
+      "summary": "Tàu sân bay USS George Washington cùng 2 tàu chiến của Hải quân Mỹ cập cảng Tiên Sa (thành phố Đà Nẵng), bắt đầu chuyến thăm VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T11:41:00+07:00",
+      "fetched": "2026-07-30T18:44:57.623272+07:00"
+    },
+    {
+      "id": "0d0d0de979fff8c30eadbe1f7e590c9f",
+      "title": "Gần 10.000 chết do nắng nóng ở Đức",
+      "link": "https://thanhnien.vn/gan-10000-chet-do-nang-nong-o-duc-185260730160052256.htm",
+      "summary": "Viện Robert Koch (RKI), cơ quan kiểm soát dịch bệnh của Đức, ước tính từ đầu năm đến nay có khoảng 9.800 người trên khắp nước này đã tử vong do các nguyên nhân liên quan đến nắng nóng, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T11:37:00+07:00",
+      "fetched": "2026-07-30T18:44:57.623401+07:00"
+    },
+    {
+      "id": "eb6fe2368fd2e05068be0e9b87af9530",
+      "title": "Á hậu ném gạch vào nhà dân, vương miện 'kim cương giả': Sở VH-TT TP.HCM nói gì?",
+      "link": "https://thanhnien.vn/a-hau-nem-gach-vao-nha-dan-vuong-mien-kim-cuong-gia-so-vh-tt-tphcm-noi-gi-185260730175857692.htm",
+      "summary": "Sở VH-TT TP.HCM vừa phản hồi một số vấn đề được dư luận quan tâm liên quan đến hoạt động các cuộc thi sắc đẹp đang gây tranh cãi thời gian qua, đồng thời làm rõ thẩm quyền quản lý và trách nhiệm xử lý các trường hợp vi phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T11:36:00+07:00",
+      "fetched": "2026-07-30T18:44:57.623549+07:00"
+    },
+    {
+      "id": "43c8f07b02b9c8c53250a30a7fd34e4f",
+      "title": "Hàng rong lại xuất hiện quanh công viên Lý Thái Tổ: Phường Vườn Lài lý giải",
+      "link": "https://thanhnien.vn/hang-rong-lai-xuat-hien-quanh-cong-vien-ly-thai-to-phuong-vuon-lai-ly-giai-185260730164103438.htm",
+      "summary": "Sau thời gian công viên Lý Thái Tổ được chỉnh trang, hàng rong lại xuất hiện vào chiều tối khiến nhiều người băn khoăn. UBND phường Vườn Lài cho biết phần lớn là người bán lưu động từ nơi khác đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T11:23:00+07:00",
+      "fetched": "2026-07-30T18:44:57.623675+07:00"
+    },
+    {
+      "id": "bf1244c34252cfba48e2b3a2e6930189",
+      "title": "Người sử dụng AI cần bảo đảm tính chính xác của thông tin",
+      "link": "https://thanhnien.vn/nguoi-su-dung-ai-can-bao-dam-tinh-chinh-xac-cua-thong-tin-185260730180310914.htm",
+      "summary": "Đó là khuyến cáo của chuyên gia tại Chương trình tập huấn ứng dụng trí tuệ nhân tạo (AI) và công cụ số dành cho cán bộ trẻ và Mạng lưới Đại sứ truyền thông của VNPT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T11:19:00+07:00",
+      "fetched": "2026-07-30T18:44:57.623804+07:00"
+    },
+    {
+      "id": "45a7ac6474ba9ebd725df703a54a2d5a",
+      "title": "Đề xuất cơ chế đặc biệt kéo dài metro đến sân bay Long Thành",
+      "link": "https://vnexpress.net/de-xuat-co-che-dac-biet-keo-dai-metro-den-san-bay-long-thanh-5103451.html",
+      "summary": "Phó thủ tướng Thường trực Phạm Gia Túc đề nghị áp dụng cơ chế đặc biệt theo hướng khẩn cấp để triển khai tuyến metro kéo dài từ Bến Thành - Suối Tiên đến trung tâm hành chính TP Đồng Nai và sân bay Long Thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T11:08:19+07:00",
+      "fetched": "2026-07-30T18:44:54.685991+07:00"
+    },
+    {
+      "id": "c0c86e9ff9a6462fd7ab5304ecfd1d35",
+      "title": "Dời bia tưởng niệm ở công viên Lê Thị Riêng để mở rộng tìm kiếm liệt sĩ",
+      "link": "https://thanhnien.vn/doi-bia-tuong-niem-o-cong-vien-le-thi-rieng-de-mo-rong-tim-kiem-liet-si-185260730174728454.htm",
+      "summary": "Bộ Tư lệnh TP.HCM chuẩn bị di dời bia tưởng niệm tại công viên Lê Thị Riêng để mở rộng khai quật khu A; tổng số hài cốt liệt sĩ quy tập đã lên 155.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T11:05:00+07:00",
+      "fetched": "2026-07-30T18:44:57.623924+07:00"
+    },
+    {
+      "id": "a602f2a9b2c9b8a40bc893e412130b9d",
+      "title": "Cách chức tất cả các chức vụ trong Đảng với ông Nguyễn Quang Thiều",
+      "link": "https://thanhnien.vn/cach-chuc-tat-ca-cac-chuc-vu-trong-dang-voi-ong-nguyen-quang-thieu-185260730175442913.htm",
+      "summary": "Ủy ban Kiểm tra Trung ương quyết định cách chức tất cả các chức vụ trong Đảng với Chủ tịch Hội Nhà văn Việt Nam Nguyễn Quang Thiều và khai trừ Đảng với 3 người khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T11:04:00+07:00",
+      "fetched": "2026-07-30T18:44:57.624042+07:00"
+    },
+    {
+      "id": "36dc2412cb0f04f870708ef51e0054c7",
+      "title": "Sân bay Long Thành tuyển nhân viên phục vụ phòng VIP",
+      "link": "https://thanhnien.vn/san-bay-long-thanh-tuyen-nhan-vien-phuc-vu-phong-vip-185260730163257361.htm",
+      "summary": "Sân bay Long Thành đang tuyển dụng lao động làm việc tại 2 vị trí: nhân viên thông tin trợ giúp và nhân viên phục vụ phòng VIP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T11:03:00+07:00",
+      "fetched": "2026-07-30T18:44:57.624164+07:00"
+    },
+    {
+      "id": "8e69ca8333346a2804b3391290ceae0c",
+      "title": "Chủ công ty bán đồ giả mạo nhãn hiệu nổi tiếng ở Phú Quốc ra đầu thú",
+      "link": "https://thanhnien.vn/chu-cong-ty-ban-do-gia-mao-nhan-hieu-noi-tieng-o-phu-quoc-ra-dau-thu-185260730163938639.htm",
+      "summary": "Phạm Thị Kim Xuyến (29 tuổi, ở Đà Nẵng) đã đến Cơ quan Cảnh sát điều tra Công an tỉnh An Giang đầu thú và thành khẩn khai nhận hành vi phạm tội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T11:01:00+07:00",
+      "fetched": "2026-07-30T18:44:57.624288+07:00"
+    },
+    {
+      "id": "53bcecf070d5d6e9015ea8b818e05865",
+      "title": "VinFast mang dàn xe điện đến triển lãm ôtô Indonesia",
+      "link": "https://vnexpress.net/vinfast-mang-dan-xe-dien-den-trien-lam-oto-indonesia-5103444.html",
+      "summary": "Hãng xe Việt Nam trở lại triển lãm ôtô quốc tế Gaikindo Indonesia (GIIAS) 2026, giới thiệu dải sản phẩm VF 3, VF 6, VF 7, VF MPV 7 và dòng xe Green, hôm 29/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T11:00:00+07:00",
+      "fetched": "2026-07-30T18:44:54.686158+07:00"
+    },
+    {
+      "id": "8cd1220082a3f85bc71094c4d77e8724",
+      "title": "Cách chọn laptop Acer theo nhu cầu thực tế",
+      "link": "https://vnexpress.net/cach-chon-laptop-acer-theo-nhu-cau-thuc-te-5103311.html",
+      "summary": "Mỗi dòng laptop Acer hướng đến một nhóm người dùng, Aspire Lite hướng đến học tập, văn phòng, Aspire 7 hỗ trợ xử lý đa năng, Nitro và Predator dành cho gaming, đồ họa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T11:00:00+07:00",
+      "fetched": "2026-07-30T18:44:54.686304+07:00"
+    },
+    {
+      "id": "7c0280298f472c7c50fa9c01beade220",
+      "title": "Cú trở lại ngoạn mục sau sóng gió của 'mỹ nam đẹp hơn hoa' Tomohisa Yamashita",
+      "link": "https://thanhnien.vn/cu-tro-lai-ngoan-muc-sau-song-gio-cua-my-nam-dep-hon-hoa-tomohisa-yamashita-185260730175751929.htm",
+      "summary": "Từng là 'mỹ nam quốc dân' làm say đắm nhiều khán giả châu Á, Tomohisa Yamashita vướng phải ồn ào đời tư khiến bản thân phải ở ẩn nhiều năm. Sau biến cố tưởng chừng nhấn chìm tất cả, anh đã viết lại sự nghiệp bằng những năm kỷ luật thép và nỗ lực không ngừng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T10:57:00+07:00",
+      "fetched": "2026-07-30T18:44:57.624411+07:00"
+    },
+    {
+      "id": "fbab364b61bb9189862c4a867d5c34a7",
+      "title": "Số vàng của cán bộ đi B lưu lạc hơn 50 năm, Đà Nẵng tìm người nhận",
+      "link": "https://thanhnien.vn/so-vang-cua-can-bo-di-b-luu-lac-hon-50-nam-da-nang-tim-nguoi-nhan-185260730175040257.htm",
+      "summary": "Có đầy đủ họ tên, quê quán và thông tin gia đình, nhưng sau hơn 50 năm, số vàng cùng kỷ vật của một số cán bộ đi B vẫn chưa tìm được người nhận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T10:57:00+07:00",
+      "fetched": "2026-07-30T18:44:57.624545+07:00"
+    },
+    {
+      "id": "886e697e69527595fd3ba263a91e2fc6",
+      "title": "Thanh niên xăm mình than thở vì xin làm bảo vệ bị từ chối",
+      "link": "https://vnexpress.net/thanh-nien-xam-minh-than-tho-vi-xin-lam-bao-ve-bi-tu-choi-5103422.html",
+      "summary": "Nếu xem hình xăm là cá tính thì cũng nên chấp nhận nó là rào cản khi xin việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T10:55:38+07:00",
+      "fetched": "2026-07-30T18:44:54.686440+07:00"
+    },
+    {
+      "id": "86bc847b27d9ac1917bf0dd9278c0ed0",
+      "title": "Ông Nguyễn Quang Thiều bị cách tất cả chức vụ trong Đảng",
+      "link": "https://vnexpress.net/ong-nguyen-quang-thieu-bi-cach-tat-ca-chuc-vu-trong-dang-5103464.html",
+      "summary": "Ủy ban Kiểm tra Trung ương cách tất cả chức vụ trong Đảng đối với ông Nguyễn Quang Thiều, Bí thư Đảng ủy, Chủ tịch Hội Nhà văn Việt Nam, do để xảy ra vi phạm tại Nhà xuất bản Hội Nhà văn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T10:55:18+07:00",
+      "fetched": "2026-07-30T18:44:54.686607+07:00"
+    },
+    {
+      "id": "65a9a83ddc9fc787bac2dd730c57e736",
+      "title": "Bắt người đàn ông dùng rựa chém 3 cán bộ công an rồi cố thủ",
+      "link": "https://thanhnien.vn/bat-nguoi-dan-ong-dung-rua-chem-3-can-bo-cong-an-roi-co-thu-18526073017085404.htm",
+      "summary": "Sau khi dùng rựa để chém 1 cán bộ công an không thành, Diệu đã về nhà cố thủ. Khi lực lượng công an đến triệu tập làm việc, người này tiếp tục dùng hung khí chém 2 cán bộ công an khác bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T10:55:00+07:00",
+      "fetched": "2026-07-30T18:44:57.624667+07:00"
+    },
+    {
+      "id": "5ffaa06e0644d046cde8028262abaafd",
+      "title": "Phim 'Án mạng núi cấm' đổi tên sau làn sóng tranh cãi",
+      "link": "https://thanhnien.vn/phim-an-mang-nui-cam-doi-ten-sau-lan-song-tranh-cai-185260730172407651.htm",
+      "summary": "Sau những tranh cãi quanh tựa phim 'Án mạng núi cấm' vì dễ gây liên tưởng đến địa danh Núi Cấm (An Giang), nhà sản xuất chính thức đổi tên tác phẩm thành 'Án mạng karaoke'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T10:54:00+07:00",
+      "fetched": "2026-07-30T18:44:57.624786+07:00"
+    },
+    {
+      "id": "44e273cbdce9d9b317909dbf3c7343d5",
+      "title": "CSGT thành phố Huế phát hiện xe khách chở hơn 27.000 bao thuốc lá lậu",
+      "link": "https://thanhnien.vn/csgt-thanh-pho-hue-phat-hien-xe-khach-cho-hon-27000-bao-thuoc-la-lau-185260730172451835.htm",
+      "summary": "Trong lúc tuần tra trên quốc lộ 1, lực lượng CSGT trạm Phú Lộc (thành phố Huế) đã phát hiện xe khách chở 27.070 bao thuốc lá lậu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T10:53:00+07:00",
+      "fetched": "2026-07-30T18:44:57.624900+07:00"
+    },
+    {
+      "id": "516e80fc212727e6657f1c44ae0a3390",
+      "title": "Sân vận động dự kiến lớn nhất thế giới được đổi tên thành VinFast",
+      "link": "https://vnexpress.net/san-van-dong-du-kien-lon-nhat-the-gioi-duoc-doi-ten-thanh-vinfast-5103454.html",
+      "summary": "Sân vận động 135.000 chỗ - dự kiến lớn nhất thế giới ở khu đô thị thể thao quốc tế Hà Nội - vừa được đổi tên thành VinFast.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T10:52:36+07:00",
+      "fetched": "2026-07-30T18:44:54.686745+07:00"
+    },
+    {
+      "id": "516e80fc212727e6657f1c44ae0a3390",
+      "title": "Sân vận động dự kiến lớn nhất thế giới được đổi tên thành VinFast",
+      "link": "https://vnexpress.net/san-van-dong-du-kien-lon-nhat-the-gioi-duoc-doi-ten-thanh-vinfast-5103454.html",
+      "summary": "Sân vận động 135.000 chỗ - dự kiến lớn nhất thế giới ở khu đô thị thể thao quốc tế Hà Nội - vừa được đổi tên thành VinFast.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-30T10:52:36+07:00",
+      "fetched": "2026-07-30T18:45:05.704680+07:00"
+    },
+    {
+      "id": "7ba0a627a48e717038f86df1794114ad",
+      "title": "Bị khống chế sau nhiều giờ cầm dao cố thủ, chém hai công an xã",
+      "link": "https://vnexpress.net/bi-khong-che-sau-nhieu-gio-cam-dao-co-thu-chem-hai-cong-an-xa-5103457.html",
+      "summary": "Trần Hoàng Diệu gây gổ với một cảnh sát khu vực gặp trên đường, sau đó dùng rựa chém hai công an xã tại nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T10:46:44+07:00",
+      "fetched": "2026-07-30T18:44:54.686870+07:00"
+    },
+    {
+      "id": "c2d5096b85c7118b2051d45bf5c97e9e",
+      "title": "Thủ đoạn 'đu dây, cắt mái tôn' đột nhập ba tiệm vàng của bác sĩ đa khoa",
+      "link": "https://vnexpress.net/thu-doan-du-day-cat-mai-ton-dot-nhap-ba-tiem-vang-cua-bac-si-da-khoa-5103307.html",
+      "summary": "Do nợ nần, Nguyễn Duy Nhật, 30 tuổi, khi đang là bác sĩ Bệnh viện Trung ương Huế đã đột nhập ba tiệm vàng, lấy trộm số trang sức tổng cộng hơn 5 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T10:32:19+07:00",
+      "fetched": "2026-07-30T18:44:54.686995+07:00"
+    },
+    {
+      "id": "1c5f64ef9bfa8988c68ce813aec70367",
+      "title": "Đề xuất khống chế giờ làm của nhân viên bức xạ có nguy cơ phơi nhiễm",
+      "link": "https://vnexpress.net/de-xuat-khong-che-gio-lam-cua-nhan-vien-buc-xa-co-nguy-co-phoi-nhiem-5103442.html",
+      "summary": "Bộ Khoa học và Công nghệ đề xuất phân loại công việc bức xạ theo ba nhóm nguy cơ phơi nhiễm để quy định thời giờ làm việc, nghỉ ngơi phù hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T10:31:04+07:00",
+      "fetched": "2026-07-30T18:44:54.687121+07:00"
+    },
+    {
+      "id": "1c5f64ef9bfa8988c68ce813aec70367",
+      "title": "Đề xuất khống chế giờ làm của nhân viên bức xạ có nguy cơ phơi nhiễm",
+      "link": "https://vnexpress.net/de-xuat-khong-che-gio-lam-cua-nhan-vien-buc-xa-co-nguy-co-phoi-nhiem-5103442.html",
+      "summary": "Bộ Khoa học và Công nghệ đề xuất phân loại công việc bức xạ theo ba nhóm nguy cơ phơi nhiễm để quy định thời giờ làm việc, nghỉ ngơi phù hợp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-30T10:31:04+07:00",
+      "fetched": "2026-07-30T18:45:04.504037+07:00"
+    },
+    {
+      "id": "1c624e657f3ee9a7dd915465b1028f7c",
+      "title": "Chủ tịch FIFA ra tối hậu thư để đẩy nhanh cổ phần hóa World Cup",
+      "link": "https://vnexpress.net/chu-tich-fifa-ra-toi-hau-thu-de-day-nhanh-co-phan-hoa-world-cup-5103441.html",
+      "summary": "Chủ tịch FIFA Gianni Infantino ấn định hạn chót ngày 19/9 để các liên đoàn thành viên thông qua kế hoạch thành lập công ty cổ phần quản lý World Cup, nếu từ chối họ sẽ chỉ nhận mức tài trợ ít hơn 75%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T10:30:09+07:00",
+      "fetched": "2026-07-30T18:44:54.687248+07:00"
+    },
+    {
+      "id": "1c624e657f3ee9a7dd915465b1028f7c",
+      "title": "Chủ tịch FIFA ra tối hậu thư để đẩy nhanh cổ phần hóa World Cup",
+      "link": "https://vnexpress.net/chu-tich-fifa-ra-toi-hau-thu-de-day-nhanh-co-phan-hoa-world-cup-5103441.html",
+      "summary": "Chủ tịch FIFA Gianni Infantino ấn định hạn chót ngày 19/9 để các liên đoàn thành viên thông qua kế hoạch thành lập công ty cổ phần quản lý World Cup, nếu từ chối họ sẽ chỉ nhận mức tài trợ ít hơn 75%.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-30T10:30:09+07:00",
+      "fetched": "2026-07-30T18:45:05.704842+07:00"
+    },
+    {
+      "id": "061d06f2a25ccab44725c5ed6c515c7d",
+      "title": "Sinner ngủ 10 tiếng mỗi ngày để chuẩn bị cho Cincinnati Masters",
+      "link": "https://vnexpress.net/sinner-ngu-10-tieng-moi-ngay-de-chuan-bi-cho-cincinnati-masters-5103410.html",
+      "summary": "Sau hai tuần nghỉ ngơi kể từ chức vô địch Wimbledon, tay vợt Jannik Sinner tập luyện tại Monte Carlo để hướng đến loạt sự kiện sân cứng tại Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T10:20:04+07:00",
+      "fetched": "2026-07-30T18:44:54.687368+07:00"
+    },
+    {
+      "id": "061d06f2a25ccab44725c5ed6c515c7d",
+      "title": "Sinner ngủ 10 tiếng mỗi ngày để chuẩn bị cho Cincinnati Masters",
+      "link": "https://vnexpress.net/sinner-ngu-10-tieng-moi-ngay-de-chuan-bi-cho-cincinnati-masters-5103410.html",
+      "summary": "Sau hai tuần nghỉ ngơi kể từ chức vô địch Wimbledon, tay vợt Jannik Sinner tập luyện tại Monte Carlo để hướng đến loạt sự kiện sân cứng tại Mỹ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-30T10:20:04+07:00",
+      "fetched": "2026-07-30T18:45:05.706251+07:00"
+    },
+    {
+      "id": "1b503bd3e234aea9301dcc3f37f37116",
+      "title": "HLV Eddie Howe chia tay Newcastle",
+      "link": "https://vnexpress.net/hlv-eddie-howe-chia-tay-newcastle-5103434.html",
+      "summary": "HLV Eddie Howe rời Newcastle sau gần 5 năm gắn bó, khi CLB đang trải qua kỳ chuyển nhượng nhiều biến động và xuất hiện bất đồng về định hướng phát triển lực lượng trước mùa giải mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T10:16:25+07:00",
+      "fetched": "2026-07-30T18:44:54.687513+07:00"
+    },
+    {
+      "id": "1b503bd3e234aea9301dcc3f37f37116",
+      "title": "HLV Eddie Howe chia tay Newcastle",
+      "link": "https://vnexpress.net/hlv-eddie-howe-chia-tay-newcastle-5103434.html",
+      "summary": "HLV Eddie Howe rời Newcastle sau gần 5 năm gắn bó, khi CLB đang trải qua kỳ chuyển nhượng nhiều biến động và xuất hiện bất đồng về định hướng phát triển lực lượng trước mùa giải mới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-30T10:16:25+07:00",
+      "fetched": "2026-07-30T18:45:05.706373+07:00"
+    },
+    {
+      "id": "23e7032093996d2f6b0555a305b7953c",
+      "title": "Thứ trưởng Y tế chỉ 4 thói quen nhỏ tạo thay đổi lớn sức khỏe",
+      "link": "https://vnexpress.net/thu-truong-y-te-chi-4-thoi-quen-nho-tao-thay-doi-lon-suc-khoe-5103345.html",
+      "summary": "Thứ trưởng Y tế Trần Văn Thuấn khuyên ăn uống lành mạnh, tập luyện thường xuyên, ngủ đủ giấc và khám sức khỏe định kỳ là cách đơn giản nhưng có thể tạo nên những thay đổi lớn cho sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T10:13:01+07:00",
+      "fetched": "2026-07-30T18:44:54.687642+07:00"
+    },
+    {
+      "id": "e22b576f24c4ec6cd72ca7387e385e40",
+      "title": "Điểm tin 17h: Giá xăng tiếp tục tăng | Andrea Aybar, Chi Dân sắp ra tòa trong vụ ma túy liên quan 4 tiếp viên hàng không",
+      "link": "https://vnexpress.net/diem-tin-17h-gia-xang-tiep-tuc-tang-andrea-aybar-chi-dan-sap-ra-toa-trong-vu-ma-tuy-lien-quan-4-tiep-vien-hang-khong-5103440.html",
+      "summary": "Tám nhà thầu sân bay Long Thành dùng 936 tỷ đồng tạm ứng để gửi tiết kiệm lấy lãi; Siêu bão Dolphin có khả năng gây gió mạnh trên Biển Đông...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T10:06:50+07:00",
+      "fetched": "2026-07-30T18:44:54.687768+07:00"
+    },
+    {
+      "id": "057eab6572b36d9a704a032384438d8e",
+      "title": "Vietnam Airlines vẫn có lãi trong 6 tháng đầu năm",
+      "link": "https://vnexpress.net/vietnam-airlines-van-co-lai-trong-6-thang-dau-nam-5103370.html",
+      "summary": "Dù giá nhiên liệu lên cao ảnh hưởng đến hoạt động quý II, Vietnam Airlines vẫn lãi hơn 3.800 tỷ đồng nửa đầu năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T10:05:00+07:00",
+      "fetched": "2026-07-30T18:44:54.687888+07:00"
+    },
+    {
+      "id": "057eab6572b36d9a704a032384438d8e",
+      "title": "Vietnam Airlines vẫn có lãi trong 6 tháng đầu năm",
+      "link": "https://vnexpress.net/vietnam-airlines-van-co-lai-trong-6-thang-dau-nam-5103370.html",
+      "summary": "Dù giá nhiên liệu lên cao ảnh hưởng đến hoạt động quý II, Vietnam Airlines vẫn lãi hơn 3.800 tỷ đồng nửa đầu năm nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-30T10:05:00+07:00",
+      "fetched": "2026-07-30T18:45:02.034475+07:00"
+    },
+    {
+      "id": "487efe86c9ca2db8e829589976fb7148",
+      "title": "Niềm tin khiến Iran không vội nối lại đàm phán với Mỹ",
+      "link": "https://vnexpress.net/niem-tin-khien-iran-khong-voi-noi-lai-dam-phan-voi-my-5103426.html",
+      "summary": "Dù giao tranh tạm lắng, Iran không vội đàm phán lại với Mỹ, dường như vì tin rằng họ có thể chịu áp lực tốt hơn và đang nắm lợi thế tại Hormuz.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-30T10:00:00+07:00",
+      "fetched": "2026-07-30T18:45:00.807395+07:00"
+    },
+    {
+      "id": "5f87edd424c967d3e47c9af9a11849f4",
+      "title": "Thế Giới Di Động báo lãi gần gấp đôi",
+      "link": "https://vnexpress.net/the-gioi-di-dong-bao-lai-gan-gap-doi-5103339.html",
+      "summary": "Lợi nhuận nửa đầu năm của Thế Giới Di Động tăng gần gấp đôi lên hơn 6.100 tỷ đồng, khi cả hoạt động kinh doanh cốt lõi và doanh thu tài chính đều tăng cao.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-30T09:55:36+07:00",
+      "fetched": "2026-07-30T18:45:02.034644+07:00"
+    },
+    {
+      "id": "20dd7de807c12870fc23a0b2efff0fdc",
+      "title": "Công ty khai thác vàng bạc duy nhất trên sàn báo lãi kỷ lục",
+      "link": "https://vnexpress.net/cong-ty-khai-thac-vang-bac-duy-nhat-tren-san-bao-lai-ky-luc-5103425.html",
+      "summary": "Vimico, công ty chuyên khai thác vàng, bạc duy nhất trên sàn chứng khoán, báo lãi sau thuế 1.531 tỷ đồng, nhờ sản lượng khai thác và giá thành phẩm tăng vọt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-30T09:54:55+07:00",
+      "fetched": "2026-07-30T18:45:02.034785+07:00"
+    },
+    {
+      "id": "80873395c768c671314f69d9ebf4703a",
+      "title": "Nga tuyên bố tấn công loạt nhà máy tên lửa, UAV của Ukraine",
+      "link": "https://vnexpress.net/nga-tuyen-bo-tan-cong-loat-nha-may-ten-lua-uav-cua-ukraine-5103349.html",
+      "summary": "Quân đội Nga thông báo mở đợt tập kích hiệp đồng nhằm vào cơ sở chế tạo tên lửa, UAV và tàu hàng bị nghi chở vũ khí cho Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-30T08:50:49+07:00",
+      "fetched": "2026-07-30T18:45:00.807575+07:00"
+    },
+    {
+      "id": "5f16421e45163c95712c3b2fda611a41",
+      "title": "Mỹ tuyên bố hơn 50.000 lính đang 'sẵn sàng cao độ' gần Iran",
+      "link": "https://vnexpress.net/my-tuyen-bo-hon-50-000-linh-dang-san-sang-cao-do-gan-iran-5103328.html",
+      "summary": "CENTCOM cho biết đã tiến hành đợt tập kích dữ dội vào Iran và các binh sĩ của họ đang sẵn sàng chiến đấu cao độ cho những diễn biến tiếp theo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-30T08:32:02+07:00",
+      "fetched": "2026-07-30T18:45:00.807717+07:00"
+    },
+    {
       "id": "db5c01785342a034c160a3fafa74539c",
       "title": "FIFA sẽ kỷ luật các cầu thủ Argentina vì thông điệp chính trị, điều tra xô xát sau trận chung kết",
       "link": "https://tuoitre.vn/fifa-se-ky-luat-cac-cau-thu-argentina-vi-thong-diep-chinh-tri-dieu-tra-xo-xat-sau-tran-chung-ket-100260730052216048.htm",
@@ -391,6 +951,26 @@ window.newsData_2026_07_30 = {
       "category": "Tổng hợp",
       "published": "2026-07-30T08:26:01.493145+07:00",
       "fetched": "2026-07-30T08:26:01.493276+07:00"
+    },
+    {
+      "id": "a689fb438785ad372fb71aa104443a87",
+      "title": "Chứng khoán tăng mạnh nhất gần 4 tháng",
+      "link": "https://vnexpress.net/chung-khoan-tang-manh-nhat-gan-4-thang-5103372.html",
+      "summary": "Lực cầu áp đảo, được dẫn dắt bởi cổ phiếu chứng khoán, bán lẻ, ngân hàng… giúp VN-Index tăng gần 40 điểm, mạnh nhất kể từ đầu tháng 4.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-30T08:25:22+07:00",
+      "fetched": "2026-07-30T18:45:02.034916+07:00"
+    },
+    {
+      "id": "8d8ecd7a9d50795eb2900dd5a10de83b",
+      "title": "Tướng Mỹ lo căn cứ hứng đòn của Iran vì bài đăng trên mạng",
+      "link": "https://vnexpress.net/tuong-my-lo-can-cu-hung-don-cua-iran-vi-bai-dang-tren-mang-5103205.html",
+      "summary": "Chỉ huy lực lượng Mỹ tại Trung Đông cảnh báo nguy cơ các căn cứ bị Iran tập kích vì những bài đăng của binh sĩ trên mạng xã hội.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-30T08:02:43+07:00",
+      "fetched": "2026-07-30T18:45:00.807853+07:00"
     },
     {
       "id": "69c18a713f233a13c02f3b92b2cb7016",
@@ -1201,6 +1781,16 @@ window.newsData_2026_07_30 = {
       "category": "Thế giới",
       "published": "2026-07-30T03:39:24+07:00",
       "fetched": "2026-07-30T11:47:58.853821+07:00"
+    },
+    {
+      "id": "83d458bd4a632b625d46d23f444aeb82",
+      "title": "Cách người Triều Tiên đặt xe, thanh toán QR bằng điện thoại",
+      "link": "https://vnexpress.net/cach-nguoi-trieu-tien-dat-xe-thanh-toan-qr-bang-dien-thoai-5102342.html",
+      "summary": "Dù không kết nối Internet, điện thoại thông minh đang ngày càng trở nên phổ biến ở Triều Tiên, cho thấy những tiến bộ công nghệ của nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-30T03:39:24+07:00",
+      "fetched": "2026-07-30T18:45:00.808772+07:00"
     },
     {
       "id": "e9c7a1615f6b1662287f13d6ff69282c",
