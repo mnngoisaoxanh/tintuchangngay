@@ -1,6 +1,6 @@
 window.newsData_2026_07_31 = {
   "date": "2026-07-31",
-  "lastUpdated": "2026-07-31T00:14:53.697674+07:00",
+  "lastUpdated": "2026-07-31T02:09:17.995031+07:00",
   "articles": [
     {
       "id": "9d4f66d75db393f8f995515eaf098a6e",
@@ -153,6 +153,86 @@ window.newsData_2026_07_31 = {
       "fetched": "2026-07-31T00:14:46.468735+07:00"
     },
     {
+      "id": "7b054294ef1005c7c4649580ae2afd6e",
+      "title": "5 việc nên làm mỗi ngày giúp não khỏe",
+      "link": "https://vnexpress.net/5-viec-nen-lam-moi-ngay-giup-nao-khoe-5102881.html",
+      "summary": "Duy trì những thói quen đơn giản ngủ đủ giấc, vận động, ăn uống cân bằng, học hỏi điều mới và giảm căng thẳng có thể giúp bảo vệ não theo thời gian.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T18:03:00+07:00",
+      "fetched": "2026-07-31T02:09:04.464533+07:00"
+    },
+    {
+      "id": "4bdeb4ccbc33e92a0ed6ce51415c8eda",
+      "title": "Hệ lụy kép khi trẻ bị lé mắt",
+      "link": "https://vnexpress.net/he-luy-kep-khi-tre-bi-le-mat-5102088.html",
+      "summary": "Trẻ bị lé mắt đối mặt nguy cơ nhược thị có thể gây mất thị lực vĩnh viễn và dễ tạo mặc cảm trong cuộc sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T18:00:00+07:00",
+      "fetched": "2026-07-31T02:09:04.464701+07:00"
+    },
+    {
+      "id": "4872c9f0c98121baefd29a9c77b3e3fa",
+      "title": "Hải Phòng khởi động khu thương mại tự do 6.200 ha",
+      "link": "https://vnexpress.net/hai-phong-khoi-dong-khu-thuong-mai-tu-do-6-200-ha-5103432.html",
+      "summary": "Phó thủ tướng Lê Tiến Châu yêu cầu Hải Phòng coi thời gian, chi phí của doanh nghiệp là nguồn lực xã hội khi triển khai khu thương mại tự do 6.200 ha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T17:53:19+07:00",
+      "fetched": "2026-07-31T02:09:04.464847+07:00"
+    },
+    {
+      "id": "4872c9f0c98121baefd29a9c77b3e3fa",
+      "title": "Hải Phòng khởi động khu thương mại tự do 6.200 ha",
+      "link": "https://vnexpress.net/hai-phong-khoi-dong-khu-thuong-mai-tu-do-6-200-ha-5103432.html",
+      "summary": "Phó thủ tướng Lê Tiến Châu yêu cầu Hải Phòng coi thời gian, chi phí của doanh nghiệp là nguồn lực xã hội khi triển khai khu thương mại tự do 6.200 ha.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-30T17:53:19+07:00",
+      "fetched": "2026-07-31T02:09:13.055089+07:00"
+    },
+    {
+      "id": "d4fe444e079de311a761a363625fcbaa",
+      "title": "Tranh cãi quanh 'bệ phóng' của nữ chủ nhân giải Fields",
+      "link": "https://vnexpress.net/tranh-cai-quanh-be-phong-den-giai-fields-cua-wang-hong-5103402.html",
+      "summary": "Tốt nghiệp đại học ở Trung Quốc, tìm thấy sự tự tin tại Pháp và chạm đỉnh cao nghiên cứu ở Mỹ, hành trình của Wang Hong châm ngòi tranh luận về nơi tạo nên thành công của cô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T17:25:16+07:00",
+      "fetched": "2026-07-31T02:09:04.464983+07:00"
+    },
+    {
+      "id": "099aff95ab51ad43fed11b88808c3ca0",
+      "title": "3 món không ngọt nhưng vẫn khiến đường huyết tăng",
+      "link": "https://thanhnien.vn/3-mon-khong-ngot-nhung-van-khien-duong-huyet-tang-185260730183740912.htm",
+      "summary": "Bánh kẹo, nước ngọt và các món tráng miệng dễ làm tăng đường huyết vì chứa nhiều đường. Nhưng thực tế, không ít thực phẩm gần như không có vị ngọt nhưng vẫn có thể làm đường huyết tăng cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T17:19:00+07:00",
+      "fetched": "2026-07-31T02:09:08.114176+07:00"
+    },
+    {
+      "id": "e06aadf07c17a7ee4c11620b3327ada5",
+      "title": "Doanh nghiệp FDI tại TP HCM tăng 41% sau 5 năm",
+      "link": "https://vnexpress.net/doanh-nghiep-fdi-tai-tp-hcm-tang-41-sau-5-nam-5103495.html",
+      "summary": "Số lượng doanh nghiệp FDI ở TP HCM tăng 41% trong 5 năm qua, nhanh nhất trong các khu vực, theo tổng điều tra của địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T17:13:13+07:00",
+      "fetched": "2026-07-31T02:09:04.465116+07:00"
+    },
+    {
+      "id": "e06aadf07c17a7ee4c11620b3327ada5",
+      "title": "Doanh nghiệp FDI tại TP HCM tăng 41% sau 5 năm",
+      "link": "https://vnexpress.net/doanh-nghiep-fdi-tai-tp-hcm-tang-41-sau-5-nam-5103495.html",
+      "summary": "Số lượng doanh nghiệp FDI ở TP HCM tăng 41% trong 5 năm qua, nhanh nhất trong các khu vực, theo tổng điều tra của địa phương.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-30T17:13:13+07:00",
+      "fetched": "2026-07-31T02:09:13.054962+07:00"
+    },
+    {
       "id": "bceff74f152ce1b368c56b197bf7dc7d",
       "title": "Càng nghỉ ngơi càng thấy mệt: Điều gì xảy ra bên trong cơ thể?",
       "link": "https://thanhnien.vn/cang-nghi-ngoi-cang-thay-met-dieu-gi-xay-ra-ben-trong-co-the-185260730184029551.htm",
@@ -161,6 +241,116 @@ window.newsData_2026_07_31 = {
       "category": "Tổng hợp",
       "published": "2026-07-30T17:12:00+07:00",
       "fetched": "2026-07-31T00:14:44.986741+07:00"
+    },
+    {
+      "id": "ab919f8a43874aab6facd2446f439b01",
+      "title": "Nhà 388 m2 biến ánh sáng thành vật liệu thiết kế",
+      "link": "https://vnexpress.net/nha-388-m2-bien-anh-sang-thanh-vat-lieu-thiet-ke-5103285.html",
+      "summary": "Công trình nằm bên sườn dốc nhìn ra hồ dùng hệ mái lấy sáng để đưa nắng vào sâu bên trong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T17:05:00+07:00",
+      "fetched": "2026-07-31T02:09:04.465243+07:00"
+    },
+    {
+      "id": "c55a932fe393e5e159db6cfd4d81a148",
+      "title": "Vì sao thực phẩm hữu cơ khó rẻ?",
+      "link": "https://vnexpress.net/vi-sao-thuc-pham-huu-co-kho-re-5102321.html",
+      "summary": "Giá thực phẩm hữu cơ tại Việt Nam vẫn cao gấp 2-3 lần sản phẩm thông thường do chi phí sản xuất lớn, quy mô canh tác nhỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T17:03:00+07:00",
+      "fetched": "2026-07-31T02:09:04.465384+07:00"
+    },
+    {
+      "id": "c55a932fe393e5e159db6cfd4d81a148",
+      "title": "Vì sao thực phẩm hữu cơ khó rẻ?",
+      "link": "https://vnexpress.net/vi-sao-thuc-pham-huu-co-kho-re-5102321.html",
+      "summary": "Giá thực phẩm hữu cơ tại Việt Nam vẫn cao gấp 2-3 lần sản phẩm thông thường do chi phí sản xuất lớn, quy mô canh tác nhỏ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-30T17:03:00+07:00",
+      "fetched": "2026-07-31T02:09:13.054521+07:00"
+    },
+    {
+      "id": "5bd4ce5afd2fc44ce4f76ea83f3bc4d2",
+      "title": "Những người nên ăn trứng thường xuyên",
+      "link": "https://vnexpress.net/nhung-nguoi-nen-an-trung-thuong-xuyen-5102952.html",
+      "summary": "Ăn trứng điều độ có thể mang lại nhiều lợi ích cho người lớn tuổi, phụ nữ mang thai và người thường xuyên tập luyện hoặc làm việc trí óc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T17:02:00+07:00",
+      "fetched": "2026-07-31T02:09:04.465512+07:00"
+    },
+    {
+      "id": "c503d8971121b03297aafa14ca1c4441",
+      "title": "Kiện đòi 844 gram vàng bị công an tịch thu 36 năm trước",
+      "link": "https://vnexpress.net/kien-doi-844-gram-vang-bi-cong-an-tich-thu-36-nam-truoc-5103481.html",
+      "summary": "Năm 1990, ông Miêu bị bắt và tịch thu 844g vàng do nghi ngờ đầu cơ, sau đó được thả nhưng sau 36 năm, tang vật không được trả lại cho ông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T17:01:50+07:00",
+      "fetched": "2026-07-31T02:09:04.465637+07:00"
+    },
+    {
+      "id": "e73870319bdcdd70740833097605e11f",
+      "title": "Kinh tế Mỹ tăng trưởng chậm lại",
+      "link": "https://vnexpress.net/kinh-te-my-tang-truong-cham-lai-5103491.html",
+      "summary": "Sau khi tăng tốc quý đầu năm, GDP Mỹ tăng chậm lại trong quý II và được dự báo tiếp tục chịu sức ép nửa cuối năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T17:01:00+07:00",
+      "fetched": "2026-07-31T02:09:04.465759+07:00"
+    },
+    {
+      "id": "62b7bf4f688bccdf81e1489ec35901e9",
+      "title": "Có nên tham gia chứng khoán khi cổ phiếu đang 'rẻ'?",
+      "link": "https://vnexpress.net/co-nen-tham-gia-chung-khoan-khi-co-phieu-dang-re-5103268.html",
+      "summary": "Theo chuyên gia, định giá VN-Index đang ở vùng hấp dẫn, nhưng nhà đầu tư chỉ nên giải ngân một phần vào cổ phiếu doanh nghiệp đầu ngành thay vì dồn toàn bộ tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T17:01:00+07:00",
+      "fetched": "2026-07-31T02:09:04.465881+07:00"
+    },
+    {
+      "id": "0e76e71d38e2c8c63a220c1bfce159f9",
+      "title": "Ba con giáp sống hưởng thụ trong những năm cuối đời",
+      "link": "https://vnexpress.net/ba-con-giap-song-huong-thu-trong-nhung-nam-cuoi-doi-5103053.html",
+      "summary": "Ngoài tài chính ổn định, họ còn nhận được sự yêu thương của gia đình, sự kính trọng của mọi người và tận hưởng cuộc sống bình yên, đủ đầy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T17:01:00+07:00",
+      "fetched": "2026-07-31T02:09:04.466004+07:00"
+    },
+    {
+      "id": "e73870319bdcdd70740833097605e11f",
+      "title": "Kinh tế Mỹ tăng trưởng chậm lại",
+      "link": "https://vnexpress.net/kinh-te-my-tang-truong-cham-lai-5103491.html",
+      "summary": "Sau khi tăng tốc quý đầu năm, GDP Mỹ tăng chậm lại trong quý II và được dự báo tiếp tục chịu sức ép nửa cuối năm nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-30T17:01:00+07:00",
+      "fetched": "2026-07-31T02:09:13.054680+07:00"
+    },
+    {
+      "id": "62b7bf4f688bccdf81e1489ec35901e9",
+      "title": "Có nên tham gia chứng khoán khi cổ phiếu đang 'rẻ'?",
+      "link": "https://vnexpress.net/co-nen-tham-gia-chung-khoan-khi-co-phieu-dang-re-5103268.html",
+      "summary": "Theo chuyên gia, định giá VN-Index đang ở vùng hấp dẫn, nhưng nhà đầu tư chỉ nên giải ngân một phần vào cổ phiếu doanh nghiệp đầu ngành thay vì dồn toàn bộ tiền.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-30T17:01:00+07:00",
+      "fetched": "2026-07-31T02:09:13.054830+07:00"
+    },
+    {
+      "id": "a1b60b62ece188ea1ade0c63c84346d2",
+      "title": "Trồng tre lục trúc, thu nửa tỷ đồng mỗi ha",
+      "link": "https://vnexpress.net/trong-tre-luc-truc-thu-nua-ty-dong-moi-ha-5103385.html",
+      "summary": "Sau ba năm thử nghiệm, bà Lê Thị Lan Hương chuyển đất gò đồi trồng cao su sang tre lục trúc lấy măng, cho nguồn thu khoảng 500 triệu đồng mỗi ha từ năm thứ tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T17:00:49+07:00",
+      "fetched": "2026-07-31T02:09:04.466120+07:00"
     },
     {
       "id": "5da319cd8e06adf8fcda9b40f491ab0d",
@@ -191,6 +381,26 @@ window.newsData_2026_07_31 = {
       "category": "Thể thao",
       "published": "2026-07-30T17:00:00+07:00",
       "fetched": "2026-07-31T00:14:53.695201+07:00"
+    },
+    {
+      "id": "18587de75f90e2d043311aa50a6d10ed",
+      "title": "Hối hận vì dành tình cảm cho người đàn ông quen qua mạng",
+      "link": "https://vnexpress.net/hoi-han-vi-danh-tinh-cam-cho-nguoi-dan-ong-quen-qua-mang-5103498.html",
+      "summary": "Có lẽ với anh, tôi chỉ là người đi ngang qua cuộc sống, một mối quan hệ mà anh giữ lại vì những tính toán và mục đích riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T17:00:00+07:00",
+      "fetched": "2026-07-31T02:09:04.466239+07:00"
+    },
+    {
+      "id": "f8897ffebfb4aae8ef075936876d938d",
+      "title": "TP HCM muốn mở rộng mạng lưới metro lên 255 km vào năm 2030",
+      "link": "https://vnexpress.net/tp-hcm-muon-mo-rong-mang-luoi-metro-len-255-km-vao-nam-2030-5103453.html",
+      "summary": "Ngoài metro Bến Thành - Suối Tiên dài gần 20 km, gần 5 năm tới TP HCM đặt mục tiêu hoàn thành thêm 8 tuyến, nâng tổng chiều dài đường sắt đô thị lên 255 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T17:00:00+07:00",
+      "fetched": "2026-07-31T02:09:04.466377+07:00"
     },
     {
       "id": "e532669ebbf8a5726bcb2fc651897f89",
