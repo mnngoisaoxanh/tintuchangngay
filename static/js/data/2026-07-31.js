@@ -1,7 +1,47 @@
 window.newsData_2026_07_31 = {
   "date": "2026-07-31",
-  "lastUpdated": "2026-07-31T03:55:54.339249+07:00",
+  "lastUpdated": "2026-07-31T05:56:03.740029+07:00",
   "articles": [
+    {
+      "id": "82d4db06dc0a1d1519e7caebef561a11",
+      "title": "Thời tiết hôm nay 31-7: Mưa to từ Thanh Hóa đến Quảng Ngãi, cao nguyên Trung Bộ và Nam Bộ",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-31-7-mua-to-tu-thanh-hoa-den-quang-ngai-cao-nguyen-trung-bo-va-nam-bo-100260730162203007.htm",
+      "summary": "Trung tâm Dự báo khí tượng thủy văn quốc gia cho biết hôm nay 31-7, nhiều tỉnh thành miền Trung, cao nguyên Trung Bộ và Nam Bộ có mưa to đến rất to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T05:55:57.869769+07:00",
+      "fetched": "2026-07-31T05:55:57.869836+07:00"
+    },
+    {
+      "id": "cfb8566af24236bd83396936d9c1045d",
+      "title": "Lịch trực tiếp SEA V.Cup ngày 31-7: Bóng chuyền nữ Việt Nam ra quân",
+      "link": "https://tuoitre.vn/lich-truc-tiep-sea-vcup-ngay-31-7-bong-chuyen-nu-viet-nam-ra-quan-100260731010027052.htm",
+      "summary": "Lúc 19h ngày 31-7, tuyển bóng chuyền nữ Việt Nam sẽ thi đấu trận đầu tiên tại chặng 1 Giải bóng chuyền SEA V.Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T05:55:57.869643+07:00",
+      "fetched": "2026-07-31T05:55:57.869746+07:00"
+    },
+    {
+      "id": "420b245d45c2858c1e05e3f99d43a6c5",
+      "title": "UEFA ra tuyên bố tẩy chay World Cup vì kế hoạch bán cổ phần của FIFA",
+      "link": "https://tuoitre.vn/uefa-ra-tuyen-bo-tay-chay-world-cup-vi-ke-hoach-ban-co-phan-cua-fifa-10026073101194707.htm",
+      "summary": "Các liên đoàn thành viên của Liên đoàn Bóng đá châu Âu (UEFA) đã nhất trí bỏ phiếu tẩy chay World Cup và các giải đấu của FIFA, để phản đối kế hoạch bán cổ phần cho các nhà đầu tư bên ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T05:55:57.869560+07:00",
+      "fetched": "2026-07-31T05:55:57.869631+07:00"
+    },
+    {
+      "id": "4db62c0f578d3f3f0e85d6719818c0f3",
+      "title": "Dự đoán tỉ số ASEAN Cup 2026: Việt Nam giữ sạch lưới trước Singapore",
+      "link": "https://tuoitre.vn/du-doan-ti-so-asean-cup-2026-viet-nam-giu-sach-luoi-truoc-singapore-100260730151225838.htm",
+      "summary": "Dù Singapore là đội bóng khó chịu, tuyển Việt Nam vẫn có thể giành 3 điểm khi hai đội gặp nhau tại ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T05:55:57.869449+07:00",
+      "fetched": "2026-07-31T05:55:57.869546+07:00"
+    },
     {
       "id": "9d4f66d75db393f8f995515eaf098a6e",
       "title": "Ông Trịnh Văn Quyết: Báo chí không chỉ đưa tin mà phải chạm tới trái tim, khơi dậy khát vọng cống hiến",
@@ -151,6 +191,286 @@ window.newsData_2026_07_31 = {
       "category": "Tổng hợp",
       "published": "2026-07-31T00:14:46.468599+07:00",
       "fetched": "2026-07-31T00:14:46.468735+07:00"
+    },
+    {
+      "id": "3e720fd930de6428a858edc0b2886da0",
+      "title": "Ancelotti: 'Quãng nghỉ uống nước khiến Brazil sớm rời World Cup'",
+      "link": "https://vnexpress.net/ancelotti-quang-nghi-uong-nuoc-khien-brazil-som-roi-world-cup-5103527.html",
+      "summary": "HLV Carlo Ancelotti cho rằng Brazil sớm bị loại khỏi World Cup 2026 vì quãng nghỉ uống nước giữa hiệp, nhưng tin thất bại đó là điểm khởi đầu cho cuộc tái thiết.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-30T22:48:37+07:00",
+      "fetched": "2026-07-31T05:56:03.734625+07:00"
+    },
+    {
+      "id": "1a4034031b8a0786bf1729b7b3422344",
+      "title": "Cần cải cách hệ thống đánh giá thay vì loay hoay phần ngọn thi cử",
+      "link": "https://thanhnien.vn/can-cai-cach-he-thong-danh-gia-thay-vi-loay-hoay-phan-ngon-thi-cu-185260730224603982.htm",
+      "summary": "Nhìn lại chặng đường hơn 20 năm đổi mới, cải cách thi cử ở nước ta có thể thấy mới chủ yếu giải quyết những vấn đề trong tổ chức thi, phần ngọn, chưa đi vào cốt lõi là xây dựng một hệ thống đánh giá giáo dục khoa học, tin cậy, hội nhập quốc tế, phù hợp với yêu cầu phát triển của đất nước trong giai ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:45:00+07:00",
+      "fetched": "2026-07-31T05:55:56.520250+07:00"
+    },
+    {
+      "id": "b711b7f0ed059d3303a4ecc9e3676518",
+      "title": "Nhận định bóng đá Việt Nam vs Singapore: Chủ nhà thể hiện đẳng cấp",
+      "link": "https://thanhnien.vn/nhan-dinh-bong-da-viet-nam-vs-singapore-chu-nha-the-hien-dang-cap-18526073017301255.htm",
+      "summary": "Trận Việt Nam vs Singapore thuộc bảng A giải ASEAN Cup 2026 diễn ra lúc 20 giờ ngày 31.7. Với đà hưng phấn và lợi thế sân nhà, thầy trò HLV Kim Sang-sik được đánh giá sẽ giành chiến thắng cách biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:43:00+07:00",
+      "fetched": "2026-07-31T05:55:56.520421+07:00"
+    },
+    {
+      "id": "f47a13a8c094ec85635a8435e759668a",
+      "title": "Nhà Trắng dự kiến chi hơn 22 tỉ USD cải tạo sân bay thủ đô",
+      "link": "https://thanhnien.vn/nha-trang-du-kien-chi-hon-22-ti-usd-cai-tao-san-bay-thu-do-185260730224605387.htm",
+      "summary": "AP hôm qua (30.7) đưa tin Tổng thống Mỹ Donald Trump vừa công bố kế hoạch cải tạo toàn diện sân bay quốc tế Washington Dulles (bang Virginia), với tổng chi phí lên đến 22,5 tỉ USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:38:00+07:00",
+      "fetched": "2026-07-31T05:55:56.520582+07:00"
+    },
+    {
+      "id": "5721975db6ee1ed41af0d90fb0eb05ef",
+      "title": "Các đội tuyển châu Âu dọa tẩy chay World Cup",
+      "link": "https://vnexpress.net/cac-doi-tuyen-chau-au-doa-tay-chay-world-cup-5103529.html",
+      "summary": "UEFA tuyên bố các đội tuyển châu Âu sẽ không tham dự bất kỳ giải đấu nào do FIFA tổ chức, kể cả World Cup, nếu Chủ tịch Gianni Infantino không từ bỏ kế hoạch huy động 20 tỷ USD từ các nhà đầu tư tư nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:37:22+07:00",
+      "fetched": "2026-07-31T05:55:53.874438+07:00"
+    },
+    {
+      "id": "5721975db6ee1ed41af0d90fb0eb05ef",
+      "title": "Các đội tuyển châu Âu dọa tẩy chay World Cup",
+      "link": "https://vnexpress.net/cac-doi-tuyen-chau-au-doa-tay-chay-world-cup-5103529.html",
+      "summary": "UEFA tuyên bố các đội tuyển châu Âu sẽ không tham dự bất kỳ giải đấu nào do FIFA tổ chức, kể cả World Cup, nếu Chủ tịch Gianni Infantino không từ bỏ kế hoạch huy động 20 tỷ USD từ các nhà đầu tư tư nhân.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-30T22:37:22+07:00",
+      "fetched": "2026-07-31T05:56:03.734449+07:00"
+    },
+    {
+      "id": "bbf81ac6a4d6a4a26a49477fd00bbac7",
+      "title": "Bố mẹ tôi không chịu lên chung cư vì tiếc nhà đất cũ nát",
+      "link": "https://vnexpress.net/bo-me-toi-khong-chiu-len-chung-cu-vi-tiec-nha-dat-cu-nat-5103416.html",
+      "summary": "Tôi nhiều lần đặt vấn đề bán hoặc cho thuê căn nhà mặt đất hiện tại, chuyển đến ở một căn hộ chung cư nhưng bố mẹ đều gạt đi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:34:00+07:00",
+      "fetched": "2026-07-31T05:55:53.874621+07:00"
+    },
+    {
+      "id": "6ab384bb3c85de2ae9c71a7e792fd8bc",
+      "title": "Quân đội Mỹ ký hợp đồng lớn mua tên lửa Patriot",
+      "link": "https://thanhnien.vn/quan-doi-my-ky-hop-dong-lon-mua-ten-lua-patriot-185260730213805965.htm",
+      "summary": "Lục quân Mỹ đã ký hợp đồng trị giá 58,6 tỉ USD với Lockheed Martin để sản xuất tên lửa đánh chặn Patriot, trong bối cảnh các cuộc xung đột ở Iran và Ukraine đang làm tiêu hao kho vũ khí Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:32:00+07:00",
+      "fetched": "2026-07-31T05:55:56.520765+07:00"
+    },
+    {
+      "id": "1fefb2ce6e90b5ec3009450a3ea72f52",
+      "title": "Tiêu điểm quốc tế 31.7: F-16 Ukraine rơi | Mỹ nối lại không kích Iran",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-317-f-16-ukraine-roi-my-noi-lai-khong-kich-iran-185260730215851398.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin Tiêu điểm quốc tế ngày 31.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:30:00+07:00",
+      "fetched": "2026-07-31T05:55:56.520924+07:00"
+    },
+    {
+      "id": "b1af98cd0a0cf8dee600f85b56e75729",
+      "title": "Mua 9 tờ vé số ế giúp người bán dạo, cặp vợ chồng trúng xổ số miền Nam",
+      "link": "https://thanhnien.vn/mua-9-to-ve-so-e-giup-nguoi-ban-dao-cap-vo-chong-trung-xo-so-mien-nam-18526073015135082.htm",
+      "summary": "Vợ chồng ở Tây Ninh đã trúng 9 tờ vé số an ủi đài Đà Lạt theo kết quả xổ số miền Nam ngày 26 tháng 7 sau khi mua giúp người bán dạo sát giờ xổ số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:30:00+07:00",
+      "fetched": "2026-07-31T05:55:56.521078+07:00"
+    },
+    {
+      "id": "e9990383fb3d2017f010da0141ffa531",
+      "title": "Vì sao ngày càng có nhiều cuộc hôn nhân đổ vỡ?",
+      "link": "https://thanhnien.vn/vi-sao-ngay-cang-co-nhieu-cuoc-hon-nhan-do-vo-185260713102209577.htm",
+      "summary": "Sau những câu chuyện về những vụ ly hôn nghìn tỉ, những lá đơn với lý do tưởng chừng khó tin hay các tranh chấp gay gắt về con cái, tài sản, điều còn lại là một câu hỏi lớn: vì sao ngày càng có nhiều cuộc hôn nhân đổ vỡ?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:17:00+07:00",
+      "fetched": "2026-07-31T05:55:56.521231+07:00"
+    },
+    {
+      "id": "43820cb29bd7e1d034c32e37dad083dd",
+      "title": "Tử vi ngày 31 tháng 7: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-31-thang-7-con-giap-nao-may-man-hom-nay-185260730235133564.htm",
+      "summary": "Tử vi ngày 31 tháng 7 mang đến những gợi ý tham khảo cho 12 con giáp. Có những thay đổi diễn ra rất chậm nên chúng ta khó nhận ra. Chỉ khi ngoái lại, bạn mới thấy mình đã bình tĩnh hơn trước áp lực, biết lắng nghe hơn, mạnh dạn hơn khi đứng trước cơ hội hay đơn giản là học được cách chăm sóc bản thâ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:15:00+07:00",
+      "fetched": "2026-07-31T05:55:56.521385+07:00"
+    },
+    {
+      "id": "5f4b0f4d8afdbbf599ec196946185c21",
+      "title": "Chiến sự Ukraine ngày 1.618: Nga ồ ạt không kích, Ukraine đánh nhiều mục tiêu hạ tầng",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1618-nga-o-at-khong-kich-ukraine-danh-nhieu-muc-tieu-ha-tang-185260730181454184.htm",
+      "summary": "Nga không kích Ukraine với hàng trăm tên lửa và máy bay không người lái, trong khi Ukraine nhắm mục tiêu vào hàng loạt cơ sở hạ tầng trọng yếu của đối phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:12:00+07:00",
+      "fetched": "2026-07-31T05:55:56.521537+07:00"
+    },
+    {
+      "id": "111b3ebb67add0ba233b8e239fe68940",
+      "title": "Bản quyền FIFA ASEAN Cup 2026 tại Việt Nam: Bài toán khó vì mức giá 'khủng' 3 triệu USD",
+      "link": "https://thanhnien.vn/ban-quyen-fifa-asean-cup-2026-tai-viet-nam-bai-toan-kho-vi-muc-gia-khung-3-trieu-usd-185260730162731301.htm",
+      "summary": "Giải bóng đá tầm cỡ khu vực lần đầu tiên do FIFA trực tiếp quản lý, dự kiến khởi tranh từ ngày 24.9 - 3.10, nhưng khán giả VN có nguy cơ không được thưởng thức trên các kênh sóng tại VN vì giá bản quyền quá cao. Bài toán thu hồi vốn và cân đối tài chính đang là thử thách lớn cho các nhà đài và doanh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:11:00+07:00",
+      "fetched": "2026-07-31T05:55:56.521721+07:00"
+    },
+    {
+      "id": "3ec6d664810f02d891a220e197d43ab3",
+      "title": "Hành trình tha hoá của người đàn bà si mê gã lừa đảo",
+      "link": "https://vnexpress.net/hanh-trinh-tha-hoa-cua-nguoi-dan-ba-si-me-ga-lua-dao-5103473.html",
+      "summary": "Biết bị Raymond Fernandez tiếp cận để lừa tiền, Martha Beck vẫn tự nguyện bỏ con, bất chấp tất cả đi theo giúp hắn săn tìm phụ nữ, cho đến khi lên ghế điện cùng nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:00:47+07:00",
+      "fetched": "2026-07-31T05:55:53.874813+07:00"
+    },
+    {
+      "id": "43e677cddc9ae6503ba5d04e96a5ad37",
+      "title": "Cuộc họp thúc đẩy ông Trump lên kế hoạch đánh lớn vào Iran",
+      "link": "https://vnexpress.net/cuoc-hop-thuc-day-ong-trump-len-ke-hoach-danh-lon-vao-iran-5103151.html",
+      "summary": "Đề xuất mở chiến dịch không kích quy mô lớn nhằm vào Iran của tư lệnh CENTCOM đã làm lộ bất đồng trong chính quyền ông Trump về cách leo thang xung đột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:00:00+07:00",
+      "fetched": "2026-07-31T05:55:53.874981+07:00"
+    },
+    {
+      "id": "3df1bf3d55084f6d36ae68d985e77318",
+      "title": "Áp lực trực tuyến thúc đẩy xu hướng 'ngắt kết nối' sau giờ làm",
+      "link": "https://vnexpress.net/ap-luc-truc-tuyen-thuc-day-xu-huong-ngat-ket-noi-sau-gio-lam-5102724.html",
+      "summary": "Sau nhiều tháng vừa chăm con vừa theo nhóm chat công việc đến khuya, Quỳnh Anh bỏ mức lương 25 triệu đồng để được \"ngắt kết nối\" và tìm môi trường cân bằng hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:00:00+07:00",
+      "fetched": "2026-07-31T05:55:53.875146+07:00"
+    },
+    {
+      "id": "8788a2559ae54830eb60e5293789ebf9",
+      "title": "Nghề cho thuê khuôn mặt thời AI",
+      "link": "https://vnexpress.net/nghe-cho-thue-khuon-mat-thoi-ai-5102640.html",
+      "summary": "Tại Trung Quốc, người dùng có thể lên các nền tảng để “bán” quyền sử dụng khuôn mặt cho nội dung AI, nhưng tiềm ẩn nhiều rủi ro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:00:00+07:00",
+      "fetched": "2026-07-31T05:55:53.875303+07:00"
+    },
+    {
+      "id": "61c43cfa2a4266e54c8b7b8aad5b9526",
+      "title": "Nửa thế kỷ từ 'sinh đẻ có kế hoạch' đến vợ chồng được quyền tự quyết số con",
+      "link": "https://vnexpress.net/nua-the-ky-tu-sinh-de-co-ke-hoach-den-vo-chong-duoc-quyen-tu-quyet-so-con-5100523.html",
+      "summary": "Nửa thế kỷ trước, cán bộ dân số đi từng ngõ gõ từng nhà để vận động gia đình chỉ sinh một đến hai con, nay Nhà nước khuyến khích vợ chồng sinh con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:00:00+07:00",
+      "fetched": "2026-07-31T05:55:53.875466+07:00"
+    },
+    {
+      "id": "d2a49473a88afbfca85dadace53edd0b",
+      "title": "Nghệ sĩ Thanh Hiền miệt mài đóng phim ở tuổi 74",
+      "link": "https://vnexpress.net/nghe-si-thanh-hien-miet-mai-dong-phim-o-tuoi-74-5100249.html",
+      "summary": "Nghệ sĩ Thanh Hiền nói bà đắt show đóng phim, giữ được sức khỏe và năng lượng nhờ chăm vận động, làm việc cùng giới trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:00:00+07:00",
+      "fetched": "2026-07-31T05:55:53.875625+07:00"
+    },
+    {
+      "id": "c187e2065cd40e962f219848c965f37e",
+      "title": "Mercedes GLA thế hệ mới tăng kích thước, thêm bản thuần điện",
+      "link": "https://vnexpress.net/mercedes-gla-the-he-moi-tang-kich-thuoc-them-ban-thuan-dien-5103253.html",
+      "summary": "Mẫu crossover của thương hiệu Đức tăng kích thước, nâng cấp công nghệ cùng nhiều tùy chọn hệ truyền động hybrid và thuần điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:00:00+07:00",
+      "fetched": "2026-07-31T05:55:53.875810+07:00"
+    },
+    {
+      "id": "9a2e3e02ad509f0bc1c9b51486cac390",
+      "title": "FBI siết quản lý drone sau World Cup 2026, chuẩn cho Super Bowl và Olympic Los Angeles",
+      "link": "https://thanhnien.vn/fbi-siet-quan-ly-drone-sau-world-cup-2026-chuan-cho-super-bowl-va-olympic-los-angeles-185260730230145326.htm",
+      "summary": "Việc hàng trăm máy bay không người lái (drone) xâm nhập trái phép khu vực tổ chức World Cup 2026 đã gióng lên hồi chuông cảnh báo đối với công tác an ninh tại các sự kiện thể thao quy mô lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:00:00+07:00",
+      "fetched": "2026-07-31T05:55:56.521875+07:00"
+    },
+    {
+      "id": "7dd4c0a1287988de6e9b3c7f11e50fe1",
+      "title": "Mỹ và Iran lại 'ăn miếng trả miếng'",
+      "link": "https://thanhnien.vn/my-va-iran-lai-an-mieng-tra-mieng-185260730224943304.htm",
+      "summary": "Mỹ triển khai cuộc tấn công đáp trả mạnh mẽ sau khi bị Iran tập kích các cơ sở ở Trung Đông, trong khi tình hình eo biển Hormuz tiếp tục căng thẳng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:00:00+07:00",
+      "fetched": "2026-07-31T05:55:56.522031+07:00"
+    },
+    {
+      "id": "7d173c743e14c4b807966d69dfb17828",
+      "title": "Kỹ sư người Tày chinh phục thành công loài 'vương mộc'",
+      "link": "https://thanhnien.vn/ky-su-nguoi-tay-chinh-phuc-thanh-cong-loai-vuong-moc-185260730185653422.htm",
+      "summary": "Tốt nghiệp đại học rồi yên vị với công việc nhà nước, nhưng khát vọng làm giàu từ chính sản vật quê hương đã thôi thúc anh Hoàng Ngọc Vũ (xã Đình Lập, Lạng Sơn) rẽ hướng. Anh không chỉ chinh phục thành công loài 'vương mộc' hoàng đàn tuyết nổi tiếng khó trồng, mà còn viết cẩm nang chia sẻ bí kíp cho...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:00:00+07:00",
+      "fetched": "2026-07-31T05:55:56.522183+07:00"
+    },
+    {
+      "id": "65b801172ac5e6b4ff603e198f6a352c",
+      "title": "Hôm nay ngày cuối cùng tháng 7: Ngày 31.7 là ngày gì?",
+      "link": "https://thanhnien.vn/hom-nay-ngay-cuoi-cung-thang-7-ngay-317-la-ngay-gi-185260730084107739.htm",
+      "summary": "Hôm nay là ngày cuối cùng của tháng 7 dương lịch. Theo lịch dương, lịch âm hôm nay 31.7 là ngày gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:00:00+07:00",
+      "fetched": "2026-07-31T05:55:56.522333+07:00"
+    },
+    {
+      "id": "1872c457dd96c340c8cf9cf529fae307",
+      "title": "Chữ 'Kiệm': Tối ưu hóa nguồn lực công bằng tư duy kiến tạo",
+      "link": "https://thanhnien.vn/chu-kiem-toi-uu-hoa-nguon-luc-cong-bang-tu-duy-kien-tao-185260727164950517.htm",
+      "summary": "Nếu chữ 'Cần' ở kỳ trước là động lực để vượt qua tâm lý 'nghe ngóng', dùng chăm chỉ, siêng năng thay thế sự chờ đợi; thì bước sang giai đoạn hậu sáp nhập, thử thách quản trị lớn nhất chính là thực hành chữ 'Kiệm' để tối ưu hóa nguồn lực công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T22:00:00+07:00",
+      "fetched": "2026-07-31T05:55:56.522483+07:00"
+    },
+    {
+      "id": "43e677cddc9ae6503ba5d04e96a5ad37",
+      "title": "Cuộc họp thúc đẩy ông Trump lên kế hoạch đánh lớn vào Iran",
+      "link": "https://vnexpress.net/cuoc-hop-thuc-day-ong-trump-len-ke-hoach-danh-lon-vao-iran-5103151.html",
+      "summary": "Đề xuất mở chiến dịch không kích quy mô lớn nhằm vào Iran của tư lệnh CENTCOM đã làm lộ bất đồng trong chính quyền ông Trump về cách leo thang xung đột.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-30T22:00:00+07:00",
+      "fetched": "2026-07-31T05:55:59.470938+07:00"
+    },
+    {
+      "id": "8788a2559ae54830eb60e5293789ebf9",
+      "title": "Nghề cho thuê khuôn mặt thời AI",
+      "link": "https://vnexpress.net/nghe-cho-thue-khuon-mat-thoi-ai-5102640.html",
+      "summary": "Tại Trung Quốc, người dùng có thể lên các nền tảng để “bán” quyền sử dụng khuôn mặt cho nội dung AI, nhưng tiềm ẩn nhiều rủi ro.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-30T22:00:00+07:00",
+      "fetched": "2026-07-31T05:56:02.874273+07:00"
     },
     {
       "id": "36039d7ffb91e6097768cdebb218cd54",
