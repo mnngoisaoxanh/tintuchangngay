@@ -1,7 +1,97 @@
 window.newsData_2026_08_01 = {
   "date": "2026-08-01",
-  "lastUpdated": "2026-08-01T00:19:08.361147+07:00",
+  "lastUpdated": "2026-08-01T02:08:10.874464+07:00",
   "articles": [
+    {
+      "id": "664246238e52be2821fd679f022aece7",
+      "title": "Tắc trách trước vụ đánh bom khiến hơn 260 người thiệt mạng, cựu tổng thanh tra Sri Lanka bị kết án tử hình",
+      "link": "https://tuoitre.vn/tac-trach-truoc-vu-danh-bom-khien-hon-260-nguoi-thiet-mang-cuu-tong-thanh-tra-sri-lanka-bi-ket-an-tu-hinh-100260731224613855.htm",
+      "summary": "Cựu Tổng thanh tra Cảnh sát Sri Lanka Pujith Jayasundara bị tuyên án tử hình vì tắc trách trong vụ đánh bom Lễ Phục sinh năm 2019 khiến hơn 260 người thiệt mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T02:08:03.093960+07:00",
+      "fetched": "2026-08-01T02:08:03.094025+07:00"
+    },
+    {
+      "id": "f09916201292b435cb1a392b8fd70d96",
+      "title": "Video: Hai lần tuyển Việt Nam đưa bóng trúng xà ngang Singapore",
+      "link": "https://tuoitre.vn/video-hai-lan-tuyen-viet-nam-dua-bong-trung-xa-ngang-singapore-100260731230657264.htm",
+      "summary": "Tuyển Việt Nam đã có 2 lần dứt điểm đưa bóng trúng xà ngang trong trận hòa 0-0 trước Singapore.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T02:08:03.093893+07:00",
+      "fetched": "2026-08-01T02:08:03.093949+07:00"
+    },
+    {
+      "id": "936327f17825724b7de76186cfe4c064",
+      "title": "Tuyển Việt Nam sút 22 lần nhưng bàn thắng kỳ vọng còn thấp hơn Singapore",
+      "link": "https://tuoitre.vn/tuyen-viet-nam-sut-22-lan-nhung-ban-thang-ky-vong-con-thap-hon-singapore-100260731225029727.htm",
+      "summary": "Ở trận gặp Singapore, tuyển Việt Nam rất chăm dứt điểm, nhưng lại không thể có được bàn thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T02:08:03.093825+07:00",
+      "fetched": "2026-08-01T02:08:03.093882+07:00"
+    },
+    {
+      "id": "7942bf97550a9eb7c92dc157df053221",
+      "title": "CĐV Đông Nam Á bất ngờ khi Singapore cầm hòa Việt Nam",
+      "link": "https://tuoitre.vn/cdv-dong-nam-a-bat-ngo-khi-singapore-cam-hoa-viet-nam-10026073123122274.htm",
+      "summary": "Tối 31-7, Singapore cầm hòa 0-0 trước tuyển Việt Nam ngay trên sân Mỹ Đình trong khuôn khổ lượt trận thứ 3 bảng A ASEAN Cup 2026. Nhiều CĐV Đông Nam Á bất ngờ khi chứng kiến kết quả này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T02:08:03.093755+07:00",
+      "fetched": "2026-08-01T02:08:03.093815+07:00"
+    },
+    {
+      "id": "8fd57ee4dd97f1cd245f6129a0893b46",
+      "title": "Đình Bắc nói gì về việc bị HLV Kim Sang Sik thay ra sớm ở trận Việt Nam - Singapore?",
+      "link": "https://tuoitre.vn/dinh-bac-noi-gi-ve-viec-bi-hlv-kim-sang-sik-thay-ra-som-o-tran-viet-nam-singapore-100260731155009038.htm",
+      "summary": "Cầu thủ Nguyễn Đình Bắc thừa nhận bản thân anh không đáp ứng yêu cầu của HLV Kim Sang Sik ở trận đội tuyển Việt Nam hòa Singapore 0-0 vào tối 31-7, trong khuôn khổ ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T02:08:03.093684+07:00",
+      "fetched": "2026-08-01T02:08:03.093744+07:00"
+    },
+    {
+      "id": "555dabb90283f0c6f565b26963956baf",
+      "title": "Cửa đi tiếp của Việt Nam sau trận hòa Singapore ra sao?",
+      "link": "https://tuoitre.vn/cua-di-tiep-cua-viet-nam-sau-tran-hoa-singapore-ra-sao-100260731232733998.htm",
+      "summary": "Tuyển Việt Nam lâm vào thế khó trong cuộc đua giành vé đi tiếp ở ASEAN Cup 2026 sau trận hòa 0-0 với Singapore tại lượt trận thứ 3 bảng A trên sân nhà tối 31-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T02:08:03.093612+07:00",
+      "fetched": "2026-08-01T02:08:03.093673+07:00"
+    },
+    {
+      "id": "253138dd69ec47b3b38235c9e9bd0e67",
+      "title": "Cựu tuyển thủ Nguyễn Tuấn Phong: Tuyển Việt Nam tự đưa mình vào thế khó",
+      "link": "https://tuoitre.vn/cuu-tuyen-thu-nguyen-tuan-phong-tuyen-viet-nam-tu-dua-minh-vao-the-kho-100260731233547949.htm",
+      "summary": "Bình luận sau trận hòa 0-0 của đội tuyển Việt Nam trước Singapore ở ASEAN Cup 2026, cựu tuyển thủ Nguyễn Tuấn Phong cho rằng thầy trò HLV Kim Sang Sik đã tự đưa mình vào thế khó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T02:08:03.093537+07:00",
+      "fetched": "2026-08-01T02:08:03.093600+07:00"
+    },
+    {
+      "id": "c58ccfaae5d1f85f4c37fd10918f6959",
+      "title": "Vua phá lưới ASEAN Cup 2026: Đình Bắc bị tiền đạo 1m96 Indonesia vượt mặt",
+      "link": "https://tuoitre.vn/vua-pha-luoi-asean-cup-2026-dinh-bac-bi-tien-dao-1m96-indonesia-vuot-mat-100260731235700955.htm",
+      "summary": "Nguyễn Đình Bắc đã bị Mitchell Baker (Indonesia) vượt qua ở cuộc đua Vua phá lưới ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T02:08:03.093456+07:00",
+      "fetched": "2026-08-01T02:08:03.093525+07:00"
+    },
+    {
+      "id": "f4d82b9d1da7c62fafa900c2fbf73146",
+      "title": "Tiền vệ Chelsea thoát án treo giò nhờ quy định chống doping mới",
+      "link": "https://tuoitre.vn/tien-ve-chelsea-thoat-an-treo-gio-nho-quy-dinh-chong-doping-moi-100260801000840635.htm",
+      "summary": "Mới đây, Liên đoàn Bóng đá Anh (FA) và Chelsea ra thông báo Mykhailo Mudryk sẽ trở lại thi đấu ở mùa giải tới sau khi được dỡ bỏ án treo giò liên quan đến bê bối doping (chất cấm).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T02:08:03.093302+07:00",
+      "fetched": "2026-08-01T02:08:03.093441+07:00"
+    },
     {
       "id": "e6719208b1ad5e46fe1bd73441636ffb",
       "title": "Chính phủ ban hành nghị quyết đơn giản hóa thủ tục cấp mã số vùng trồng, gỡ khó cho nông sản, sầu riêng xuất khẩu",
@@ -153,6 +243,166 @@ window.newsData_2026_08_01 = {
       "fetched": "2026-08-01T00:19:02.516227+07:00"
     },
     {
+      "id": "731181aa9448910efe577e9521855acc",
+      "title": "Quang Hải chỉ nguyên nhân đội tuyển Việt Nam bị Singaore chia điểm, Tài Lộc nói lời xúc động",
+      "link": "https://thanhnien.vn/quang-hai-chi-nguyen-nhan-doi-tuyen-viet-nam-chia-diem-tai-loc-noi-dieu-xuc-dong-185260801002843981.htm",
+      "summary": "Quang Hải và Tài Lộc đều bày tỏ sự tiếc nuối sau khi đội tuyển Việt Nam bị Singapore cầm hòa 0-0 trên sân Mỹ Đình tối 31.7. Cả hai khẳng định toàn đội sẽ nhanh chóng rút kinh nghiệm để hướng đến trận đấu quan trọng gặp Indonesia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T18:37:00+07:00",
+      "fetched": "2026-08-01T02:08:01.082698+07:00"
+    },
+    {
+      "id": "a567225b7c97814736595ec3fcca0e55",
+      "title": "Gan âm thầm tổn thương: Bác sĩ cảnh báo dấu hiệu không nên bỏ qua",
+      "link": "https://thanhnien.vn/gan-am-tham-ton-thuong-bac-si-canh-bao-dau-hieu-khong-nen-bo-qua-185260801013012755.htm",
+      "summary": "Gan hiếm khi phát tín hiệu cảnh báo sớm dù đang bị tổn thương. Cơ quan này đảm nhiệm nhiều chức năng sống còn, từ lọc độc tố, hỗ trợ tiêu hóa đến dự trữ dưỡng chất và sản xuất các protein quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T18:28:00+07:00",
+      "fetched": "2026-08-01T02:08:01.082871+07:00"
+    },
+    {
+      "id": "7ddc5baa980c885a23e8807cde35fda5",
+      "title": "'Bông hồng lai' Emoura Phạm đăng quang Miss Grand Vietnam 2026",
+      "link": "https://vnexpress.net/bong-hong-lai-emoura-pham-dang-quang-miss-grand-vietnam-2026-5103940.html",
+      "summary": "Emoura Phạm, 26 tuổi, mang hai dòng máu Việt - Anh, vượt qua 29 thí sinh để đăng quang cuộc thi và giành suất thi Miss Grand International, tối 31/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T18:13:47+07:00",
+      "fetched": "2026-08-01T02:07:57.819854+07:00"
+    },
+    {
+      "id": "2516185073373e7ee467ec71013989d2",
+      "title": "Ung thư vòi trứng",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/ung-thu-voi-trung-444",
+      "summary": "Ung thư vòi trứng xảy ra khi các tế bào bất thường phát triển trong vòi trứng, thường không gây triệu chứng ở giai đoạn đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T18:02:30+07:00",
+      "fetched": "2026-08-01T02:07:57.820036+07:00"
+    },
+    {
+      "id": "6e823e2ece8bdc146d573c21fa47ad22",
+      "title": "Sự cố 'nhầm cờ lê' khiến ICBM Mỹ nổ tung trong bệ phóng năm 1980",
+      "link": "https://vnexpress.net/su-co-nham-co-le-khien-icbm-my-no-tung-trong-be-phong-nam-1980-5102583.html",
+      "summary": "Kỹ thuật viên Mỹ mang cờ lê sai tiêu chuẩn khi kiểm tra tên lửa Titan II, mở đầu chuỗi sự cố làm quả đạn nổ tung trong giếng phóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T18:00:00+07:00",
+      "fetched": "2026-08-01T02:07:57.820227+07:00"
+    },
+    {
+      "id": "6e823e2ece8bdc146d573c21fa47ad22",
+      "title": "Sự cố 'nhầm cờ lê' khiến ICBM Mỹ nổ tung trong bệ phóng năm 1980",
+      "link": "https://vnexpress.net/su-co-nham-co-le-khien-icbm-my-no-tung-trong-be-phong-nam-1980-5102583.html",
+      "summary": "Kỹ thuật viên Mỹ mang cờ lê sai tiêu chuẩn khi kiểm tra tên lửa Titan II, mở đầu chuỗi sự cố làm quả đạn nổ tung trong giếng phóng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-31T18:00:00+07:00",
+      "fetched": "2026-08-01T02:08:04.606102+07:00"
+    },
+    {
+      "id": "2be0ba1b7f7ed48f6318e52a5fb87219",
+      "title": "'Người đẹp lai' Việt - Anh Emoura Phạm đăng quang Miss Grand Vietnam 2026",
+      "link": "https://thanhnien.vn/nguoi-dep-lai-viet-anh-emoura-pham-dang-quang-miss-grand-vietnam-2026-185260731202437991.htm",
+      "summary": "Vượt qua 29 thí sinh, người đẹp Emoura Phạm xuất sắc giành vương miện Miss Grand Vietnam 2026. Đêm chung kết diễn ra vào tối 31.7 tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T17:59:00+07:00",
+      "fetched": "2026-08-01T02:08:01.083031+07:00"
+    },
+    {
+      "id": "1ae47025f47d5a993f27b7e52d43d518",
+      "title": "Nhận định, dự đoán tỷ số trận Thái Lan vs Malaysia: ‘Voi chiến’ thắng sát nút ‘Mãnh hổ’",
+      "link": "https://thanhnien.vn/nhan-dinh-du-doan-ty-so-tran-thai-lan-vs-malaysia-voi-chien-thang-sat-nut-manh-ho-185260731121719785.htm",
+      "summary": "Nhận định trận Thái Lan vs Malaysia rất thú vị, khi Harimau Malaya sẽ dốc hết sức để bảo vệ ngôi đầu bảng A ASEAN Cup 2026, nhưng đó cũng là lúc Voi chiến thể hiện sức mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T17:59:00+07:00",
+      "fetched": "2026-08-01T02:08:01.083208+07:00"
+    },
+    {
+      "id": "57636afc24f8df041ea6dd7d16972037",
+      "title": "Mỡ nội tạng âm thầm gây hại cho thận như thế nào?",
+      "link": "https://thanhnien.vn/mo-noi-tang-am-tham-gay-hai-cho-than-nhu-the-nao-185260731182438275.htm",
+      "summary": "Mỡ nội tạng tích tụ nhiều trong thời gian dài có thể làm tổn thương thận. Những tác động này thường diễn ra âm thầm trong nhiều năm trước khi các xét nghiệm chức năng thận phát hiện bất thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T17:42:00+07:00",
+      "fetched": "2026-08-01T02:08:01.083371+07:00"
+    },
+    {
+      "id": "245bd194129639c527483bb3b4e93c7a",
+      "title": "Yến Nhi ngã môtô trên sân khấu Miss Grand Vietnam 2026",
+      "link": "https://vnexpress.net/yen-nhi-nga-moto-tren-san-khau-miss-grand-vietnam-2026-5103659.html",
+      "summary": "Hoa hậu Yến Nhi lái môtô đồng diễn cùng thí sinh nhưng gặp sự cố ngã ra sàn, trước khi thực hiện màn catwalk kết thúc nhiệm kỳ Miss Grand Vietnam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T17:41:59+07:00",
+      "fetched": "2026-08-01T02:07:57.820402+07:00"
+    },
+    {
+      "id": "150623881e4d7b0c869b765058973568",
+      "title": "Trên 40 tuổi, bụng to: Nên đi bộ thế nào để giảm mỡ mà không hại khớp?",
+      "link": "https://thanhnien.vn/tren-40-tuoi-bung-to-nen-di-bo-the-nao-de-giam-mo-ma-khong-hai-khop-185260731182708156.htm",
+      "summary": "Mỡ bụng không chỉ ảnh hưởng vóc dáng mà còn tăng nguy cơ tiểu đường, bệnh tim mạch, gan nhiễm mỡ. Ngoài ra, do thừa cân, nhiều người cũng gặp vấn đề khớp gối, háng hoặc cột sống, khiến khó chạy bộ hay tập cường độ cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T17:38:00+07:00",
+      "fetched": "2026-08-01T02:08:01.083527+07:00"
+    },
+    {
+      "id": "3e668b90bba01ff6296ade460dcfa54e",
+      "title": "HLV Kim Sang-sik: 'Thật khó để chỉ ra điểm sáng trong trận hòa Singapore'",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-that-kho-de-chi-ra-diem-sang-trong-tran-hoa-singapore-5103956.html",
+      "summary": "HLV Kim Sang-sik cho biết không hài lòng khi các học trò phung phí nhiều cơ hội, để Singapore cầm hòa 0-0 ở lượt hai bảng A ASEAN Cup, tối 31/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T17:24:10+07:00",
+      "fetched": "2026-08-01T02:07:57.820560+07:00"
+    },
+    {
+      "id": "c8ef0538f39f9d8936f9dc7d017cbdd2",
+      "title": "Chính sách nổi bật có hiệu lực từ tháng 8",
+      "link": "https://vnexpress.net/chinh-sach-noi-bat-co-hieu-luc-tu-thang-8-5103576.html",
+      "summary": "Quy định về phạt cảnh cáo khi chở trẻ em trên ôtô không có ghế an toàn, xử phạt hành vi dắt chó không rọ mõm, miễn giảm phí trước bạ với người dùng VNeID là chính sách nổi bật có hiệu lực từ tháng 8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T17:18:17+07:00",
+      "fetched": "2026-08-01T02:07:57.820724+07:00"
+    },
+    {
+      "id": "83eb4313dfb019d7f517d24b78cde9cc",
+      "title": "5 thực phẩm tốt cho đường ruột bạn nên ăn thường xuyên",
+      "link": "https://vnexpress.net/5-thuc-pham-tot-cho-duong-ruot-ban-nen-an-thuong-xuyen-5103420.html",
+      "summary": "Sữa chua, thực phẩm lên men và rau củ giàu chất xơ giúp nuôi dưỡng lợi khuẩn, hỗ trợ tiêu hóa và duy trì hệ vi sinh đường ruột khỏe mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T17:08:00+07:00",
+      "fetched": "2026-08-01T02:07:57.820881+07:00"
+    },
+    {
+      "id": "a5d31ffc9f7731891397b9b25403a8df",
+      "title": "Mắc hai bệnh tình dục sau 'cuộc vui' massage",
+      "link": "https://vnexpress.net/mac-hai-benh-tinh-duc-sau-cuoc-vui-massage-5103731.html",
+      "summary": "Sau \"cuộc cui\" khi đi massage, nam thanh niên 22 tuổi thấy nốt u nhú nhỏ ở dương vật, bác sĩ phát hiện mắc hai bệnh tình dục là sùi mào gà và Chlamydia - đe dọa khả năng sinh sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T17:02:00+07:00",
+      "fetched": "2026-08-01T02:07:57.821040+07:00"
+    },
+    {
+      "id": "fc639f393e416b42304932c2f514f198",
+      "title": "4 con giáp ngập tràn may mắn vào cuối tuần",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-tu-vi-ngay-1-thang-8-4-con-giap-ngap-tran-may-man-vao-cuoi-tuan-5103458.html",
+      "summary": "Bên cạnh sự nỗ lực của bản thân, yếu tố may mắn đôi khi cũng đóng vai trò quan trọng giúp con đường phía trước trở nên dễ dàng hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T17:01:00+07:00",
+      "fetched": "2026-08-01T02:07:57.821215+07:00"
+    },
+    {
       "id": "78bc00f6eb5991dd34f3e03629ba56c4",
       "title": "Robot thu thập lithium từ nước biển",
       "link": "https://vnexpress.net/robot-thu-thap-lithium-tu-nuoc-bien-5103272.html",
@@ -171,6 +421,66 @@ window.newsData_2026_08_01 = {
       "category": "Thể thao",
       "published": "2026-07-31T17:00:00+07:00",
       "fetched": "2026-08-01T00:19:08.356410+07:00"
+    },
+    {
+      "id": "58c2e95359b9e962b59f54248566447e",
+      "title": "10 người nước ngoài bị bắt trong đường dây ma túy ở TP HCM",
+      "link": "https://vnexpress.net/10-nguoi-nuoc-ngoai-bi-bat-trong-duong-day-ma-tuy-o-tp-hcm-5103946.html",
+      "summary": "Cảnh sát triệt phá đường dây bơm tinh dầu chứa ma túy vào thuốc lá điện tử, bắt 65 người, trong đó 10 người nước ngoài giữ vai trò chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T17:00:00+07:00",
+      "fetched": "2026-08-01T02:07:57.821382+07:00"
+    },
+    {
+      "id": "87f3fbbcc61f564427a3154703e7cc71",
+      "title": "40 tuổi 'đã toan về già'",
+      "link": "https://vnexpress.net/40-tuoi-da-toan-ve-gia-5103923.html",
+      "summary": "10 năm trước, tôi gặp người đứng đầu cơ quan thuế của một quận trung tâm ở Tokyo. Lúc bấy giờ, ông đang nóng lòng mong hoàn thành thật tốt hai năm cuối cùng của sự nghiệp để được nghỉ hưu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T17:00:00+07:00",
+      "fetched": "2026-08-01T02:07:57.821544+07:00"
+    },
+    {
+      "id": "0239d8e6a27ca4ea6b31b323509d2c87",
+      "title": "Viện kiểm sát thắng kiện trong vụ án dân sự công ích đầu tiên, đòi tiền nợ thuế",
+      "link": "https://vnexpress.net/vien-kiem-sat-thang-kien-trong-vu-an-dan-su-cong-ich-dau-tien-doi-tien-no-thue-5103895.html",
+      "summary": "Lần đầu tiên tại Hà Nội, Viện kiểm sát trực tiếp khởi kiện và thắng kiện doanh nghiệp nợ thuế, đòi hơn 5,4 tỷ đồng cho ngân sách Nhà nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T17:00:00+07:00",
+      "fetched": "2026-08-01T02:07:57.821698+07:00"
+    },
+    {
+      "id": "5486a3ab73fddc44027d0b463b760831",
+      "title": "Vụ bắt cóc con gái trùm casino và manh mối từ tiền chuộc",
+      "link": "https://vnexpress.net/vu-bat-coc-con-gai-trum-casino-va-manh-moi-tu-tien-chuoc-5103893.html",
+      "summary": "Con gái trùm casino Steve Wynn bị bắt cóc tại Las Vegas năm 1993, buộc ông tự thương lượng và dùng 1,45 triệu USD tiền mặt chuộc con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T17:00:00+07:00",
+      "fetched": "2026-08-01T02:07:57.821848+07:00"
+    },
+    {
+      "id": "2d937e1872e5a88dc40617aa8568fbca",
+      "title": "Tìm lại gia đình cán bộ đi B trả lại vàng",
+      "link": "https://vnexpress.net/tim-lai-gia-dinh-can-bo-di-b-tra-lai-vang-5103824.html",
+      "summary": "Trung tâm Lưu trữ quốc gia III đang tìm lại chủ nhân để trao trả hiện vật vàng, sổ tiết kiệm của nhiều cán bộ gửi lại miền Bắc trước ngày lên đường đi B.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T17:00:00+07:00",
+      "fetched": "2026-08-01T02:07:57.822003+07:00"
+    },
+    {
+      "id": "adc3605afd97da19e17a4dc440313c34",
+      "title": "Chồng trách tôi ích kỷ vì chỉ muốn sinh một con",
+      "link": "https://vnexpress.net/chong-trach-toi-ich-ky-vi-chi-muon-sinh-mot-con-5103772.html",
+      "summary": "Tôi chỉ mong dồn hết khả năng để chăm sóc và đầu tư cho con thật tốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T17:00:00+07:00",
+      "fetched": "2026-08-01T02:07:57.822160+07:00"
     },
     {
       "id": "997239f04a60bbb5faf4b8e64e0d46ec",
