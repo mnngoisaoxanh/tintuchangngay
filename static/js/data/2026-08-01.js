@@ -1,7 +1,157 @@
 window.newsData_2026_08_01 = {
   "date": "2026-08-01",
-  "lastUpdated": "2026-08-01T21:51:40.710832+07:00",
+  "lastUpdated": "2026-08-01T23:48:50.354087+07:00",
   "articles": [
+    {
+      "id": "95685e5d79a1474dc939f44b0136dd83",
+      "title": "Bình luận sai sự thật về công an trên fanpage báo, bị phạt 12,5 triệu đồng",
+      "link": "https://tuoitre.vn/binh-luan-sai-su-that-ve-cong-an-tren-fanpage-bao-bi-phat-125-trieu-dong-100260801155620037.htm",
+      "summary": "Một người đàn ông ở Nghệ An bị xử phạt 12,5 triệu đồng sau khi đăng bình luận sai sự thật về lực lượng công an dưới bài viết trên fanpage Báo Nghệ An.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T23:48:42.993202+07:00",
+      "fetched": "2026-08-01T23:48:42.993261+07:00"
+    },
+    {
+      "id": "d1dd50af237ed3ff29aa8413aa42387c",
+      "title": "AI phát hiện sớm nguy cơ sa sút trí tuệ bằng cách đọc sóng não người khi ngủ",
+      "link": "https://tuoitre.vn/ai-phat-hien-som-nguy-co-sa-sut-tri-tue-bang-cach-doc-song-nao-nguoi-khi-ngu-100260801122040476.htm",
+      "summary": "AI có thể phân tích sóng não trong lúc ngủ để ước tính 'tuổi não', qua đó phát hiện nguy cơ sa sút trí tuệ nhiều năm trước khi triệu chứng xuất hiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T23:48:42.993123+07:00",
+      "fetched": "2026-08-01T23:48:42.993178+07:00"
+    },
+    {
+      "id": "d5891759b1410b5fe389cd42cf6da0b5",
+      "title": "Bí quyết du lịch Đài Loan qua 10 chuyến tự túc ít tốn tiền, đầy trải nghiệm",
+      "link": "https://tuoitre.vn/bi-quyet-du-lich-dai-loan-qua-10-chuyen-tu-tuc-it-ton-tien-day-trai-nghiem-100260728181038533.htm",
+      "summary": "Tôi rút ra nhiều kinh nghiệm sau 10 chuyến đi Đài Loan tự túc tiết kiệm mà vẫn 'chanh sả' với chỉ 8 triệu đồng mỗi chuyến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T23:48:42.993055+07:00",
+      "fetched": "2026-08-01T23:48:42.993112+07:00"
+    },
+    {
+      "id": "174c2353f49c075a631aee017ea95c69",
+      "title": "Nhiều hoạt động hè giúp thiếu nhi TP.HCM học kỹ năng, rèn kỷ luật",
+      "link": "https://tuoitre.vn/nhieu-hoat-dong-he-giup-thieu-nhi-tphcm-hoc-ky-nang-ren-ky-luat-100260801205445618.htm",
+      "summary": "Nhiều hoạt động dành cho thiếu nhi ngày hè đã được nhiều Đoàn phường tại TP.HCM tổ chức hôm nay 1-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T23:48:42.992984+07:00",
+      "fetched": "2026-08-01T23:48:42.993045+07:00"
+    },
+    {
+      "id": "f2ec0aa1b305b8274687f76b11640705",
+      "title": "Gay cấn màn đấu giá cây sâm Ngọc Linh 35 năm tuổi",
+      "link": "https://tuoitre.vn/gay-can-man-dau-gia-cay-sam-ngoc-linh-35-nam-tuoi-100260801210756728.htm",
+      "summary": "Cây sâm Ngọc Linh 35 năm tuổi, nặng 9 lạng được doanh nhân đấu giá thành công với giá 725 triệu đồng rồi gửi lại ban tổ chức để bảo tồn nguồn gene.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T23:48:42.992885+07:00",
+      "fetched": "2026-08-01T23:48:42.992970+07:00"
+    },
+    {
+      "id": "a04d4049cbec9c24bfaec724a8237218",
+      "title": "Video: Tình huống ‘gà đẻ trứng’ của thủ môn Philippines",
+      "link": "https://tuoitre.vn/video-tinh-huong-ga-de-trung-cua-thu-mon-philippines-100260801205104376.htm",
+      "summary": "Thủ môn Kammeraad của Philippines lóng ngóng “đẻ trứng gà”, biếu bàn mở tỉ số cho tuyển Lào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T23:48:42.992819+07:00",
+      "fetched": "2026-08-01T23:48:42.992875+07:00"
+    },
+    {
+      "id": "1e084ee3ff1ec7f8668ce374475056e9",
+      "title": "Thắng Indonesia, bóng chuyền nữ Việt Nam chờ đại chiến với Thái Lan",
+      "link": "https://tuoitre.vn/thang-indonesia-bong-chuyen-nu-viet-nam-cho-dai-chien-voi-thai-lan-100260801212050957.htm",
+      "summary": "Bóng chuyền nữ Việt Nam có chiến thắng quan trọng trước Indonesia tại lượt trận thứ 2 của chặng 1 SEA V.Cup 2026, tối 1-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T23:48:42.992752+07:00",
+      "fetched": "2026-08-01T23:48:42.992809+07:00"
+    },
+    {
+      "id": "0599c70ecd2e9218580cdf13386d1ffa",
+      "title": "Vào diện truy thu thuế, ngành môi giới bất động sản mong muốn được 'hiểu đúng, tính đủ'",
+      "link": "https://tuoitre.vn/vao-dien-truy-thu-thue-nganh-moi-gioi-bat-dong-san-mong-muon-duoc-hieu-dung-tinh-du-10026080121330261.htm",
+      "summary": "Thông tin Thuế TP.HCM sẽ rà soát truy thu thuế với nhiều nhóm người có thu nhập cao từ nhiều nguồn, có phát sinh thuế, trong đó có môi giới bất động sản khiến nhiều người không khỏi giật mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T23:48:42.992684+07:00",
+      "fetched": "2026-08-01T23:48:42.992741+07:00"
+    },
+    {
+      "id": "e785cd0502aea6a8e749d594da7b1941",
+      "title": "Khởi tố giám đốc Việt KTV vì copy hàng ngàn bài hát vào đầu karaoke",
+      "link": "https://tuoitre.vn/khoi-to-giam-doc-viet-ktv-vi-copy-hang-ngan-bai-hat-vao-dau-karaoke-100260801211618202.htm",
+      "summary": "Giám đốc Việt KTV Vũ Phi Điệp bị khởi tố vì chỉ đạo sao chép trái phép hàng ngàn tác phẩm âm nhạc, tích hợp vào đầu karaoke.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T23:48:42.992616+07:00",
+      "fetched": "2026-08-01T23:48:42.992673+07:00"
+    },
+    {
+      "id": "f0cfe475bda705d3f4582d76848eaf92",
+      "title": "Sacombank giảm hơn 3.700 nhân sự; VPBank tuyển thêm gần 1.000 người",
+      "link": "https://tuoitre.vn/sacombank-giam-hon-3700-nhan-su-vpbank-tuyen-them-gan-1000-nguoi-100260801213359595.htm",
+      "summary": "Tính đến ngày 30-6, Sacombank có 12.112 người, ít hơn 3.739 người so với ngày 31-12-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T23:48:42.992548+07:00",
+      "fetched": "2026-08-01T23:48:42.992606+07:00"
+    },
+    {
+      "id": "f4b5b11b4473376b2a96618156847212",
+      "title": "Hai ông lớn ngành bia cùng đón 'gió thuận', vì sao Sabeco và Habeco có lãi trái ngược?",
+      "link": "https://tuoitre.vn/hai-ong-lon-nganh-bia-cung-don-gio-thuan-vi-sao-sabeco-va-habeco-co-lai-trai-nguoc-100260801213501656.htm",
+      "summary": "Giá malt, gạo hạ nhiệt giúp Sabeco và Habeco cải thiện biên lợi nhuận gộp. Thế nhưng, lợi nhuận của hai doanh nghiệp bia lớn nhất trên sàn chứng khoán lại diễn biến trái ngược.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T23:48:42.992467+07:00",
+      "fetched": "2026-08-01T23:48:42.992537+07:00"
+    },
+    {
+      "id": "e9e504cfcfdbd8e4ff81c496592e92ae",
+      "title": "Cử nhân, sinh viên công nghệ bị khởi tố vì lập ứng dụng, website chiếu phim lậu",
+      "link": "https://tuoitre.vn/cu-nhan-sinh-vien-cong-nghe-bi-khoi-to-vi-lap-ung-dung-website-chieu-phim-lau-100260801212923825.htm",
+      "summary": "Hai cử nhân công nghệ và một sinh viên kỹ thuật phần mềm bị khởi tố vì lập ứng dụng, website chiếu phim lậu, thu phí thành viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T23:48:42.992397+07:00",
+      "fetched": "2026-08-01T23:48:42.992456+07:00"
+    },
+    {
+      "id": "fe0146b77b44ec94bda5f2479c45ec3c",
+      "title": "Phân bón Cà Mau khoác ‘áo mới’ cho những con đường quê",
+      "link": "https://tuoitre.vn/phan-bon-ca-mau-khoac-ao-moi-cho-nhung-con-duong-que-100260801005706882.htm",
+      "summary": "Trong tháng 7-2026, Tổng Công ty Phân bón Dầu khí Cà Mau đã phối hợp chính quyền địa phương khánh thành ba công trình đèn chiếu sáng giao thông nông thôn bằng năng lượng mặt trời tại Đồng Nai, Lâm Đồng và Khánh Hòa, với tổng kinh phí 1 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T23:48:42.992321+07:00",
+      "fetched": "2026-08-01T23:48:42.992386+07:00"
+    },
+    {
+      "id": "efdba871ab1d27e0f25e04c5f47ab088",
+      "title": "Như chưa hề có cuộc chia ly: 69 năm bị bắt cóc và những cuộc bỏ trốn không thành",
+      "link": "https://tuoitre.vn/nhu-chua-he-co-cuoc-chia-ly-69-nam-bi-bat-coc-va-nhung-cuoc-bo-tron-khong-thanh-100260801214431908.htm",
+      "summary": "Tập 203 Như chưa hề có cuộc chia ly kể câu chuyện đặc biệt về một vụ bắt cóc trẻ em xảy ra cách đây 69 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T23:48:42.992241+07:00",
+      "fetched": "2026-08-01T23:48:42.992309+07:00"
+    },
+    {
+      "id": "056f50160c318084c71ecac9e16a4c4e",
+      "title": "Google tạm dừng AI tạo ảnh trên Google Earth vì lo ảnh vệ tinh giả",
+      "link": "https://tuoitre.vn/google-tam-dung-ai-tao-anh-tren-google-earth-vi-lo-anh-ve-tinh-gia-100260801212001232.htm",
+      "summary": "Google phải tạm dừng tính năng 'Tạo hình ảnh' trên Google Earth chỉ một ngày sau khi ra mắt, do lo ngại công cụ có thể tạo ảnh vệ tinh giả mạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T23:48:42.992078+07:00",
+      "fetched": "2026-08-01T23:48:42.992225+07:00"
+    },
     {
       "id": "a22cd4b065958a0a209f82ea79229b9a",
       "title": "Lễ trao giải cuộc thi clip ‘50 năm Điện lực TP.HCM - Kiến tạo tương lai’",
@@ -403,6 +553,96 @@ window.newsData_2026_08_01 = {
       "fetched": "2026-08-01T18:10:16.011980+07:00"
     },
     {
+      "id": "125c20e6617ee6ddb2895bf2361bde5f",
+      "title": "Madam Pang khiến CĐV tranh luận, Malaysia bị chỉ trích vì thua toàn diện Thái Lan",
+      "link": "https://thanhnien.vn/madam-pang-khien-cdv-tranh-luan-malaysia-bi-chi-trich-vi-thua-toan-dien-thai-lan-185260801231739157.htm",
+      "summary": "Thái Lan đánh bại Malaysia 2-0 ở bảng B ASEAN Cup 2026 để vươn lên dẫn đầu, nhưng sau trận đấu, Madam Pang đã khiến CĐV tranh luận khi đăng thông tin về lượng khán giả đến sân Rajamangala. Ở chiều ngược lại, truyền thông Malaysia chỉ ra nhiều hạn chế của đội nhà sau thất bại trước ‘Voi chiến’.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T16:28:00+07:00",
+      "fetched": "2026-08-01T23:48:41.172484+07:00"
+    },
+    {
+      "id": "0ae03d67d76447e6e05d4d8d51765456",
+      "title": "Mỹ khuyến cáo công dân rời khỏi Trung Đông",
+      "link": "https://vnexpress.net/my-khuyen-cao-cong-dan-roi-khoi-trung-dong-5104193.html",
+      "summary": "Chính phủ Mỹ khuyến cáo công dân nước này đang ở Trung Đông cân nhắc rời khỏi khu vực nếu căng thẳng tiếp tục leo thang.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-01T16:00:52+07:00",
+      "fetched": "2026-08-01T23:48:44.431359+07:00"
+    },
+    {
+      "id": "e4bde2a30a4b9102a1f6478ec08b10a8",
+      "title": "Nam sinh 'phát lậu' phim Mưa đỏ khiến nhà sản xuất thiệt hại 3 tỷ đồng",
+      "link": "https://vnexpress.net/nam-sinh-phat-lau-phim-mua-do-khien-nha-san-xuat-thiet-hai-3-ty-dong-5104178.html",
+      "summary": "Vũ Huy Hoàng tạo lập hệ thống đa nền tảng phimne.live để trình chiếu trái phép nhiều tác phẩm điện ảnh có bản quyền, trong đó bộ phim Mưa đỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T15:56:28+07:00",
+      "fetched": "2026-08-01T23:48:38.509808+07:00"
+    },
+    {
+      "id": "896befbc65c8d5a6f17830e575074a45",
+      "title": "Highlight đội tuyển Thái Lan 2-0 Malaysia | ASEAN Cup 2026",
+      "link": "https://thanhnien.vn/highlight-doi-tuyen-thai-lan-2-0-malaysia-asean-cup-2026-185260801224731907.htm",
+      "summary": "Chiến thắng 2-0 trước Malaysia trên sân nhà Rajamangala giúp đội tuyển Thái Lan vươn lên dẫn đầu bảng B ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T15:47:00+07:00",
+      "fetched": "2026-08-01T23:48:41.172653+07:00"
+    },
+    {
+      "id": "02b1722d2294c353da14da42b4d3ce33",
+      "title": "Highlight đội tuyển Lào 1-4 Philippines | ASEAN Cup 2026",
+      "link": "https://thanhnien.vn/highlight-doi-tuyen-lao-1-4-philippines-asean-cup-2026-185260801224610267.htm",
+      "summary": "Đội tuyển Philippines chơi thăng hoa để hạ Lào 4-1, qua đó cải thiện vị trí trên bảng xếp hạng bảng B ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T15:46:00+07:00",
+      "fetched": "2026-08-01T23:48:41.172811+07:00"
+    },
+    {
+      "id": "6fd7802f4c63d5779fdb0afefc1f9bbe",
+      "title": "Đạo chích đập kính nhiều ôtô ở Đà Nẵng bị bắt",
+      "link": "https://vnexpress.net/dao-chich-dap-kinh-nhieu-oto-o-da-nang-bi-bat-5104192.html",
+      "summary": "Mai Văn Lạc, 41 tuổi, bị bắt với cáo buộc mang tua vít, kìm bấm đi đập kính gần 10 ôtô đỗ bên đường để trộm tài sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T15:45:24+07:00",
+      "fetched": "2026-08-01T23:48:38.510023+07:00"
+    },
+    {
+      "id": "f4a7bb2cacba159b0bec865429572adf",
+      "title": "Đội tuyển Việt Nam cần dè chừng gì trước Indonesia?",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-can-de-chung-gi-truoc-indonesia-185260801213819318.htm",
+      "summary": "Sở hữu dàn cầu thủ nhập tịch chất lượng cùng lối chơi giàu sức mạnh, đội tuyển Indonesia được đánh giá là thử thách lớn nhất của đội tuyển Việt Nam tại bảng A ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T15:39:00+07:00",
+      "fetched": "2026-08-01T23:48:41.172991+07:00"
+    },
+    {
+      "id": "29dd14999a3143ecdb103f5f305bf6b4",
+      "title": "Khởi tố 3 ông chủ ứng dụng phim lậu ‘phimne’",
+      "link": "https://thanhnien.vn/khoi-to-3-ong-chu-ung-dung-phim-lau-phimne-185260801221154298.htm",
+      "summary": "Ba đối tượng vừa bị Công an Hà Nội khởi tố với cáo buộc vận hành 2 hệ thống phim lậu, thu hút hàng chục nghìn lượt truy cập và gây thiệt hại hàng tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T15:21:00+07:00",
+      "fetched": "2026-08-01T23:48:41.173151+07:00"
+    },
+    {
+      "id": "319ba04091305233c41843a9b884bc45",
+      "title": "Khởi tố ‘ông trùm’ đầu hát karaoke Việt KTV",
+      "link": "https://thanhnien.vn/khoi-to-ong-trum-dau-hat-karaoke-viet-ktv-185260801215527512.htm",
+      "summary": "Ông Vũ Phi Điệp, Giám đốc Công ty trách nhiệm hữu hạn Tập đoàn Điện tử Việt KTV, vừa bị khởi tố với cáo buộc đã xâm phạm quyền tác giả, quyền liên quan, thu lợi bất chính 852 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T15:18:00+07:00",
+      "fetched": "2026-08-01T23:48:41.173306+07:00"
+    },
+    {
       "id": "ade46cc7f58ea0b915fd599df151517e",
       "title": "Nhiều hồ chứa nước thủy lợi ở Quảng Ngãi cạn trơ đáy",
       "link": "https://tuoitre.vn/nhieu-ho-chua-nuoc-thuy-loi-o-quang-ngai-can-tro-day-100260801112813588.htm",
@@ -581,6 +821,16 @@ window.newsData_2026_08_01 = {
       "category": "Tổng hợp",
       "published": "2026-08-01T14:25:00+07:00",
       "fetched": "2026-08-01T21:51:31.829360+07:00"
+    },
+    {
+      "id": "197cdd30f958b97f8d56f5be08a2fab4",
+      "title": "Chi Pu dự đêm hội cùng Baifern Pimchanok, Huỳnh Tông Trạch",
+      "link": "https://vnexpress.net/chi-pu-du-dem-hoi-cung-baifern-pimchanok-huynh-tong-trach-5104154.html",
+      "summary": "Ca sĩ Chi Pu diện váy \"tiên nữ hoa sen\", cùng nhiều nghệ sĩ châu Á tham gia gala giao lưu văn hóa do mạng xã hội Weibo tổ chức, ngày 1/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T14:20:23+07:00",
+      "fetched": "2026-08-01T23:48:38.510194+07:00"
     },
     {
       "id": "a42f2a65be9955ef79cee275d4f1ad36",
