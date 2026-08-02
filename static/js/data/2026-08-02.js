@@ -1,7 +1,157 @@
 window.newsData_2026_08_02 = {
   "date": "2026-08-02",
-  "lastUpdated": "2026-08-02T21:53:52.624604+07:00",
+  "lastUpdated": "2026-08-02T23:47:21.533142+07:00",
   "articles": [
+    {
+      "id": "ade6776007807bbb2fe81173635ea828",
+      "title": "Jujutsu Kaisen mùa 3 tiếp tục gây sốt",
+      "link": "https://tuoitre.vn/jujutsu-kaisen-mua-3-tiep-tuc-gay-sot-100260802195445013.htm",
+      "summary": "Sau khi được phát hành trên Netflix tại Mỹ, Jujutsu Kaisen mùa 3 nhanh chóng tạo hiệu ứng toàn cầu, lọt top 10 chương trình không nói tiếng Anh được xem nhiều nhất và thu hút hơn 1,5 triệu lượt xem trong tuần đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T23:47:13.858148+07:00",
+      "fetched": "2026-08-02T23:47:13.858218+07:00"
+    },
+    {
+      "id": "0a973be8be185058aecbd9a56b747303",
+      "title": "HLV tuyển Indonesia: Chúng tôi sẽ chơi áp đặt và ghi bàn vào lưới Việt Nam",
+      "link": "https://tuoitre.vn/hlv-tuyen-indonesia-chung-toi-se-choi-ap-dat-va-ghi-ban-vao-luoi-viet-nam-100260802202531696.htm",
+      "summary": "HLV trưởng John Herdman của tuyển Indonesia thích thú khi chuẩn bị đối đầu đương kim vô địch trong hoàn cảnh sống còn của cả hai đội tại ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T23:47:13.858081+07:00",
+      "fetched": "2026-08-02T23:47:13.858138+07:00"
+    },
+    {
+      "id": "551841ba2e8af1aa4588f9a8d46acf74",
+      "title": "14 nam nữ thanh niên bị điều tra sau vụ hỗn chiến tại Quán Nhỏ",
+      "link": "https://tuoitre.vn/14-nam-nu-thanh-nien-bi-dieu-tra-sau-vu-hon-chien-tai-quan-nho-100260802202335869.htm",
+      "summary": "Mâu thuẫn khi chúc rượu trong tiệc sinh nhật tại nhà hàng Quán Nhỏ (Hà Nội), hai nhóm thanh niên dùng dao, kiếm hỗn chiến khiến một người bị thương, công an đã khởi tố vụ án để điều tra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T23:47:13.858010+07:00",
+      "fetched": "2026-08-02T23:47:13.858070+07:00"
+    },
+    {
+      "id": "052b1fdae73a7683a4de407a68bab943",
+      "title": "Bóng chuyền nữ Việt Nam thua 'trắng' Thái Lan",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-viet-nam-thua-trang-thai-lan-100260802203010755.htm",
+      "summary": "Tối 2-8, tại trận đấu quyết định của chặng 1 SEA V.Cup 2026, tuyển bóng chuyền nữ Việt Nam nhận thất bại nặng nề 0-3 trước Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T23:47:13.857919+07:00",
+      "fetched": "2026-08-02T23:47:13.857997+07:00"
+    },
+    {
+      "id": "a76c584b518d913a23f8fa5ca1a089b2",
+      "title": "Bộ trưởng Lê Hoài Trung: Đối ngoại địa phương phải có sản phẩm cụ thể, kết quả có giá trị thực tiễn",
+      "link": "https://tuoitre.vn/bo-truong-le-hoai-trung-doi-ngoai-dia-phuong-phai-co-san-pham-cu-the-ket-qua-co-gia-tri-thuc-tien-100260802201502654.htm",
+      "summary": "Đối ngoại địa phương phải có sản phẩm cụ thể, kết quả mang lại giá trị thực tiễn, đúng tiến độ và được nhân dân tín nhiệm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T23:47:13.857849+07:00",
+      "fetched": "2026-08-02T23:47:13.857909+07:00"
+    },
+    {
+      "id": "f59c17eb20a721aa6182d86d451539a1",
+      "title": "Điểm đáng lưu ý về thời gian cấp mã vùng trồng sầu riêng xuất khẩu sang Trung Quốc",
+      "link": "https://tuoitre.vn/diem-dang-luu-y-ve-thoi-gian-cap-ma-vung-trong-sau-rieng-xuat-khau-sang-trung-quoc-100260724010035126.htm",
+      "summary": "Nghị quyết mới của Chính phủ đã đơn giản hóa về thủ tục, hồ sơ và thời gian cấp mã vùng trồng, cơ sở đóng gói nông sản, sầu riêng. Trường hợp mã số phải được nước nhập khẩu phê duyệt thì thời gian cấp mã sẽ phụ thuộc vào nước nhập khẩu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T23:47:13.857782+07:00",
+      "fetched": "2026-08-02T23:47:13.857839+07:00"
+    },
+    {
+      "id": "8c0e47aa8523dc600b8c5e51f05c7dfd",
+      "title": "Huyền thoại leo núi thiệt mạng vì tuyết lở khi chinh phục đỉnh Broad Peak",
+      "link": "https://tuoitre.vn/huyen-thoai-leo-nui-thiet-mang-vi-tuyet-lo-khi-chinh-phuc-dinh-broad-peak-100260802204002004.htm",
+      "summary": "Nhà leo núi nổi tiếng người Nepal Nirmal Purja cùng các đồng đội đã qua đời sau một trận lở tuyết kinh hoàng trên dãy Karakoram, Pakistan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T23:47:13.857716+07:00",
+      "fetched": "2026-08-02T23:47:13.857772+07:00"
+    },
+    {
+      "id": "913e3d1dfdd79893255d8ba66e3fb76f",
+      "title": "Tuyển futsal Việt Nam thắng đậm New Zealand",
+      "link": "https://tuoitre.vn/tuyen-futsal-viet-nam-thang-dam-new-zealand-100260802204842332.htm",
+      "summary": "Đội tuyển futsal Việt Nam đã thắng đậm New Zealand 4-1 ở Giải giao hữu vô địch futsal châu lục - Thái Lan 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T23:47:13.857649+07:00",
+      "fetched": "2026-08-02T23:47:13.857705+07:00"
+    },
+    {
+      "id": "efd162410e550eb5d21c3cfae9bc0bae",
+      "title": "Lê Giang Patrik: Indonesia mạnh, nhưng tôi sẽ làm đất nước tự hào",
+      "link": "https://tuoitre.vn/le-giang-patrik-indonesia-manh-nhung-toi-se-lam-dat-nuoc-tu-hao-100260802204727836.htm",
+      "summary": "Thủ môn Lê Giang Patrik quyết tâm thi đấu tốt để mang lại niềm vui cho người hâm mộ Việt Nam ở trận đấu với Indonesia tại ASEAN Cup 2026, diễn ra ngày mai 3-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T23:47:13.857581+07:00",
+      "fetched": "2026-08-02T23:47:13.857638+07:00"
+    },
+    {
+      "id": "3d10a34e508fc93ebd5d70f690845d68",
+      "title": "Bác sĩ, luật sư, môi giới bất động sản sẽ bị rà soát thuế trong bao nhiêu năm?",
+      "link": "https://tuoitre.vn/bac-si-luat-su-moi-gioi-bat-dong-san-se-bi-ra-soat-thue-trong-bao-nhieu-nam-10026080220520053.htm",
+      "summary": "Theo luật quản lý thuế số 38, hành vi trốn thuế nhưng chưa đến mức truy cứu trách nhiệm hình sự hoặc khai sai dẫn đến thiếu số tiền thuế phải nộp thì thời hiệu xử phạt là 5 năm kể từ ngày thực hiện hành vi vi phạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T23:47:13.857511+07:00",
+      "fetched": "2026-08-02T23:47:13.857570+07:00"
+    },
+    {
+      "id": "39a482f21a5e8f92156d6edd9aa0c503",
+      "title": "Cộng đồng người Việt dần ổn định sau động đất ở Nhật Bản",
+      "link": "https://tuoitre.vn/cong-dong-nguoi-viet-dan-on-dinh-sau-dong-dat-o-nhat-ban-100260802205955016.htm",
+      "summary": "Ngoài một lao động thiệt mạng và một người bị thương, chưa ghi nhận thêm trường hợp thương vong nào trong cộng đồng người Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T23:47:13.857441+07:00",
+      "fetched": "2026-08-02T23:47:13.857500+07:00"
+    },
+    {
+      "id": "45f5448a12ac3c075c8912ceae5bcbd3",
+      "title": "Mỹ đón chuỗi thất bại khó tin nhất lịch sử làng bóng chuyền",
+      "link": "https://tuoitre.vn/my-don-chuoi-that-bai-kho-tin-nhat-lich-su-lang-bong-chuyen-100260802204459553.htm",
+      "summary": "Tối 2-8 (giờ Việt Nam), tuyển bóng chuyền Mỹ đã bị Ba Lan đánh bại với tỉ số 2-3 trong trận chung kết bóng chuyền nam FIVB Nations League (VNL) 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T23:47:13.857371+07:00",
+      "fetched": "2026-08-02T23:47:13.857431+07:00"
+    },
+    {
+      "id": "9413b84cb7ca9c26067f590c8af01a8e",
+      "title": "Muốn hút vốn Mỹ, địa phương phải chuẩn bị sẵn dự án, hạ tầng và nhân lực",
+      "link": "https://tuoitre.vn/muon-hut-von-my-dia-phuong-phai-chuan-bi-san-du-an-ha-tang-va-nhan-luc-100260802213306807.htm",
+      "summary": "Đại sứ Việt Nam tại Mỹ cho rằng quyết định đầu tư của doanh nghiệp Mỹ hiện phụ thuộc vào nhiều yếu tố hơn là ưu đãi thuế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T23:47:13.857298+07:00",
+      "fetched": "2026-08-02T23:47:13.857360+07:00"
+    },
+    {
+      "id": "c3a6a9fd921c28332dfb8b3a050f29ac",
+      "title": "Chuyển đổi số Quốc hội: Quyết tâm cao từ nhận thức đến hành động",
+      "link": "https://tuoitre.vn/chuyen-doi-so-quoc-hoi-quyet-tam-cao-tu-nhan-thuc-den-hanh-dong-100260802211104235.htm",
+      "summary": "Chuyển đổi số là một quyết tâm chính trị lớn để nâng cao chất lượng hoạt động của Quốc hội, phục vụ mục tiêu tăng trưởng 2 con số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T23:47:13.857211+07:00",
+      "fetched": "2026-08-02T23:47:13.857285+07:00"
+    },
+    {
+      "id": "de488332112f71e42e226e6a9eae34ad",
+      "title": "Không chiêu trò rầm rộ, Đen trở về nơi khởi đầu với Mùa hè 26",
+      "link": "https://tuoitre.vn/khong-chieu-tro-ram-ro-den-tro-ve-noi-khoi-dau-voi-mua-he-26-100260802215141017.htm",
+      "summary": "Tối 2-8, Đen bất ngờ phát hành MV Mùa hè 26 mà gần như không có bất kỳ chiến dịch quảng bá rầm rộ nào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T23:47:13.857055+07:00",
+      "fetched": "2026-08-02T23:47:13.857195+07:00"
+    },
     {
       "id": "3d3a2e68e91c6ec5db243c1502bd7408",
       "title": "Hơn 10.500 runner chinh phục VPBank Ho Chi Minh City Music Half Marathon 2026",
@@ -453,6 +603,16 @@ window.newsData_2026_08_02 = {
       "fetched": "2026-08-02T18:10:09.500462+07:00"
     },
     {
+      "id": "d7e0bce2432ac97e049259aabdd5fd71",
+      "title": "CLB Công an TP.HCM giành danh hiệu phong cách ở giải doanh nhân trẻ miền Nam 2026",
+      "link": "https://thanhnien.vn/clb-cong-an-tphcm-gianh-danh-hieu-phong-cach-o-giai-doanh-nhan-tre-mien-nam-2026-185260802224008517.htm",
+      "summary": "Giải bóng đá Doanh nhân trẻ miền Nam lần I - 2026 tranh cúp PIMA khép lại tại TPHCM với chức vô địch serie A thuộc về Đồng Tháp, serie B thuộc về Tây Ninh, trong khi CLB Công an TP.HCM là 1 trong 8 đội tham dự và nhận giải phong cách serie A.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T16:09:00+07:00",
+      "fetched": "2026-08-02T23:47:11.967297+07:00"
+    },
+    {
       "id": "562cae4ff3b05ead21716f478829f9f7",
       "title": "Vụ khởi tố giám đốc Việt KTV 'xài chùa' hàng ngàn bài hát đưa vào đầu karaoke, luật sư nói gì?",
       "link": "https://tuoitre.vn/vu-khoi-to-giam-doc-viet-ktv-xai-chua-hang-ngan-bai-hat-dua-vao-dau-karaoke-luat-su-noi-gi-100260802111551073.htm",
@@ -601,6 +761,36 @@ window.newsData_2026_08_02 = {
       "category": "Tổng hợp",
       "published": "2026-08-02T15:05:13.458450+07:00",
       "fetched": "2026-08-02T15:05:13.458608+07:00"
+    },
+    {
+      "id": "bec1fe0533206998dde5102074972b26",
+      "title": "Khai mạc liên hoan quốc tế võ cổ truyền Việt Nam lần thứ 9",
+      "link": "https://thanhnien.vn/khai-mac-lien-hoan-quoc-te-vo-co-truyen-viet-nam-lan-thu-9-18526080221460086.htm",
+      "summary": "Liên hoan quốc tế võ cổ truyền Việt Nam lần thứ 9 chính thức khai mạc, quy tụ hàng ngàn võ sư, võ sinh trong nước và quốc tế tham dự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T15:01:00+07:00",
+      "fetched": "2026-08-02T23:47:11.967487+07:00"
+    },
+    {
+      "id": "1d6184d5442be13f90a8c815cb0974e8",
+      "title": "Trực thăng cứu hỏa va chạm, rơi khi chữa cháy rừng",
+      "link": "https://vnexpress.net/truc-thang-cuu-hoa-va-cham-roi-khi-chua-chay-rung-5104352.html",
+      "summary": "Hai trực thăng va chạm trên không, khi tham gia chữa cháy ở khu rừng phía tây thủ đô Athens, khiến một chiếc bốc cháy và rơi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T14:56:32+07:00",
+      "fetched": "2026-08-02T23:47:09.067338+07:00"
+    },
+    {
+      "id": "1d6184d5442be13f90a8c815cb0974e8",
+      "title": "Trực thăng cứu hỏa va chạm, rơi khi chữa cháy rừng",
+      "link": "https://vnexpress.net/truc-thang-cuu-hoa-va-cham-roi-khi-chua-chay-rung-5104352.html",
+      "summary": "Hai trực thăng va chạm trên không, khi tham gia chữa cháy ở khu rừng phía tây thủ đô Athens, khiến một chiếc bốc cháy và rơi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-02T14:56:32+07:00",
+      "fetched": "2026-08-02T23:47:15.491659+07:00"
     },
     {
       "id": "5478895960959ef2dc459b50974204b5",
