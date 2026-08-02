@@ -1,7 +1,27 @@
 window.newsData_2026_08_03 = {
   "date": "2026-08-03",
-  "lastUpdated": "2026-08-03T01:55:16.547252+07:00",
+  "lastUpdated": "2026-08-03T03:42:31.381511+07:00",
   "articles": [
+    {
+      "id": "d3c0b5e9b016be211f1658c2d4ec2b0c",
+      "title": "Mỹ - Israel tạm hoãn tấn công Iran, giá vàng tuần này sẽ ra sao?",
+      "link": "https://tuoitre.vn/my-israel-tam-hoan-tan-cong-iran-gia-vang-tuan-nay-se-ra-sao-100260803000621568.htm",
+      "summary": "Mỹ - Israel đã thống nhất tạm hoãn các cuộc tấn công mới nhằm vào Iran, diễn biến sẽ tác động đến hướng đi của giá vàng trong tuần này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T03:42:25.747682+07:00",
+      "fetched": "2026-08-03T03:42:25.747757+07:00"
+    },
+    {
+      "id": "b0370c8bf3fa4d0270274536e8421863",
+      "title": "Thi thể cụ bà 91 tuổi trong rừng ở Nhật, nghi liên quan người Việt",
+      "link": "https://tuoitre.vn/thi-the-cu-ba-91-tuoi-trong-rung-o-nhat-nghi-lien-quan-nguoi-viet-100260802232507369.htm",
+      "summary": "Ngày 2-8, hàng loạt tờ báo của Nhật Bản đưa tin cảnh sát phát hiện thi thể cụ bà 91 tuổi trong khu rừng ở tỉnh Saitama. Một người Việt 33 tuổi ám chỉ mình đã sát hại nạn nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T03:42:25.747539+07:00",
+      "fetched": "2026-08-03T03:42:25.747668+07:00"
+    },
     {
       "id": "f59c17eb20a721aa6182d86d451539a1",
       "title": "Điểm đáng lưu ý về thời gian cấp mã vùng trồng sầu riêng xuất khẩu sang Trung Quốc",
@@ -161,6 +181,16 @@ window.newsData_2026_08_03 = {
       "category": "Tổng hợp",
       "published": "2026-08-02T18:00:00+07:00",
       "fetched": "2026-08-03T01:55:01.438226+07:00"
+    },
+    {
+      "id": "fcb6b21897f54e1aa7298f5dc1ce4b01",
+      "title": "Bị phạt đến 75 triệu đồng nếu không khám sức khỏe định kỳ cho lao động",
+      "link": "https://vnexpress.net/bi-phat-den-75-trieu-dong-neu-khong-kham-suc-khoe-dinh-ky-cho-lao-dong-5104365.html",
+      "summary": "Người sử dụng lao động không tổ chức khám sức khỏe định kỳ hàng năm bị phạt 1-3 triệu đồng khi vi phạm với mỗi lao động, tối đa 75 triệu đồng, từ ngày 10/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T18:00:00+07:00",
+      "fetched": "2026-08-03T03:42:21.858280+07:00"
     },
     {
       "id": "8b8e9c64a5ae60950fc0330cea34bde3",
