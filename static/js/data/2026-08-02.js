@@ -1,7 +1,157 @@
 window.newsData_2026_08_02 = {
   "date": "2026-08-02",
-  "lastUpdated": "2026-08-02T05:44:05.590088+07:00",
+  "lastUpdated": "2026-08-02T08:50:33.880368+07:00",
   "articles": [
+    {
+      "id": "531ccb87fa192ffbf6a35ab094160ac7",
+      "title": "Người châu Phi rủ nhau vào châu Âu theo mấy tuyến đường chính?",
+      "link": "https://tuoitre.vn/nguoi-chau-phi-ru-nhau-vao-chau-au-theo-may-tuyen-duong-chinh-100260802060856735.htm",
+      "summary": "Đây đều là những hành trình băng qua sa mạc và vượt biển đầy hiểm nguy để người châu Phi đến được châu Âu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T08:50:26.004525+07:00",
+      "fetched": "2026-08-02T08:50:26.004580+07:00"
+    },
+    {
+      "id": "d7b1c660e7dd4d4374579499fd2d012d",
+      "title": "Cuối tuần đến Đường sách TP.HCM trải nghiệm Ngày hội sách và văn hóa đêm",
+      "link": "https://tuoitre.vn/cuoi-tuan-den-duong-sach-tphcm-trai-nghiem-ngay-hoi-sach-va-van-hoa-dem-100260802004600025.htm",
+      "summary": "Ngày hội sách và văn hóa đêm lần thứ 7 diễn ra tại Đường sách TP.HCM, mang đến nhiều hoạt động đọc sách, trải nghiệm văn hóa, workshop và các chương trình biểu diễn nghệ thuật truyền thống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T08:50:26.004459+07:00",
+      "fetched": "2026-08-02T08:50:26.004515+07:00"
+    },
+    {
+      "id": "4d30b02a5080a83198f4a4eef9717e0a",
+      "title": "Bảng xếp hạng Giải bóng chuyền nữ SEA V.Cup: Việt Nam đứng nhất",
+      "link": "https://tuoitre.vn/bang-xep-hang-giai-bong-chuyen-nu-sea-vcup-viet-nam-dung-nhat-100260802070552351.htm",
+      "summary": "Sau 2 lượt trận của chặng 1 SEA V.Cup 2026, bóng chuyền nữ Việt Nam đã chiếm được ngôi đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T08:50:26.004388+07:00",
+      "fetched": "2026-08-02T08:50:26.004448+07:00"
+    },
+    {
+      "id": "af4a9ad24962189c90019dc61be9f991",
+      "title": "NÓNG: Hai người Nga bị giết ở Thái Lan, hung thủ khai thêm hố chôn 3 thi thể khác chung gia đình",
+      "link": "https://tuoitre.vn/hai-nguoi-nga-bi-giet-o-thai-lan-hung-thu-khai-them-ho-chon-3-nguoi-khac-thu-tuong-thai-dich-than-thi-sat-100260802072928598.htm",
+      "summary": "Khi thị sát hiện trường vụ án khiến 2 anh em người Nga và 3 người trong một gia đình Thái Lan thiệt mạng, Thủ tướng Thái Lan thừa nhận vụ việc đã làm tổn hại hình ảnh đất nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T08:50:26.004323+07:00",
+      "fetched": "2026-08-02T08:50:26.004378+07:00"
+    },
+    {
+      "id": "dc9c108b47c296f6885786470f11e751",
+      "title": "Tuyển Việt Nam phải dè chừng 'cơn ác mộng' tuyến giữa của Indonesia",
+      "link": "https://tuoitre.vn/tuyen-viet-nam-phai-de-chung-con-ac-mong-tuyen-giua-cua-indonesia-100260801184214724.htm",
+      "summary": "Thom Haye là \"ngòi nổ\" lợi hại của Indonesia tại ASEAN Cup 2026. Làm sao ngăn chặn được ngôi sao gốc Hà Lan này là điều không đơn giản cho đội tuyển Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T08:50:26.004256+07:00",
+      "fetched": "2026-08-02T08:50:26.004312+07:00"
+    },
+    {
+      "id": "e0afb2c6160f1e38ff1dd8694dd4dc3e",
+      "title": "Quang Hùng MasterD và Dương Domic đối đầu, định hình cục diện Livestage 3 Tinh hà say hi",
+      "link": "https://tuoitre.vn/quang-hung-masterd-va-duong-domic-doi-dau-dinh-hinh-cuc-dien-livestage-3-tinh-ha-say-hi-100260802073512085.htm",
+      "summary": "Tập 5 'Tinh hà say hi' đánh dấu bước ngoặt khi lần đầu tiên Quang Hùng MasterD và Dương Domic trở thành hai Liên quân trưởng, trực tiếp xây dựng đội hình cho Livestage 3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T08:50:26.004189+07:00",
+      "fetched": "2026-08-02T08:50:26.004246+07:00"
+    },
+    {
+      "id": "cb86edf8bad01fb6a93e7cda799bbe15",
+      "title": "Christopher Nolan đút túi bao nhiêu nếu The Odyssey đạt 1 tỉ USD?",
+      "link": "https://tuoitre.vn/christopher-nolan-dut-tui-bao-nhieu-neu-the-odyssey-dat-1-ti-usd-100260801221508646.htm",
+      "summary": "Ở tuổi 55, Christopher Nolan từ lâu đã trở thành một 'thương hiệu' trong mắt khán giả đại chúng. Người xem rất tò mò số tiền thực nhận của ông sau khi The Odyssey kết thúc chiếu rạp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T08:50:26.004118+07:00",
+      "fetched": "2026-08-02T08:50:26.004178+07:00"
+    },
+    {
+      "id": "f591bfcb6ee4b2b63e290911e415fb3b",
+      "title": "Nhân vật được yêu thích nhất Hunter x Hunter không phải Killua",
+      "link": "https://tuoitre.vn/nhan-vat-duoc-yeu-thich-nhat-hunter-x-hunter-khong-phai-killua-100260802011832262.htm",
+      "summary": "Kết quả khảo sát mới của Animate Times cho thấy Kurapika là nhân vật được yêu thích nhất Hunter x Hunter tại Nhật Bản. Đây là kết quả gây chú ý khi khác với nhiều cuộc bình chọn quốc tế, nơi Killua thường chiếm ưu thế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T08:50:26.004040+07:00",
+      "fetched": "2026-08-02T08:50:26.004108+07:00"
+    },
+    {
+      "id": "c298afce13bcad8d8edbbd26df5e8e86",
+      "title": "Toyota Fortuner thêm bản chạy được xăng sinh học 'liều cao'",
+      "link": "https://tuoitre.vn/toyota-fortuner-them-ban-chay-duoc-xang-sinh-hoc-lieu-cao-100260802011323797.htm",
+      "summary": "Toyota Fortuner sử dụng xăng sinh học nồng độ ethanol cao xuất hiện tại Triển lãm Ô tô Indonesia 2026, nhưng hiện chỉ dừng ở mức xe trình diễn công nghệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T08:50:26.003974+07:00",
+      "fetched": "2026-08-02T08:50:26.004030+07:00"
+    },
+    {
+      "id": "095aee1aecb4bcca8aabc11a3775eab7",
+      "title": "Công an Thanh Hóa tìm bị hại trong vụ buôn bán yến sào giả",
+      "link": "https://tuoitre.vn/cong-an-thanh-hoa-tim-bi-hai-trong-vu-buon-ban-yen-sao-gia-100260802072556913.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Công an tỉnh Thanh Hóa đang tìm bị hại trong vụ án hình sự sản xuất, buôn bán hàng giả là thực phẩm xảy ra năm 2026 tại phường Nguyệt Viên, tỉnh Thanh Hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T08:50:26.003907+07:00",
+      "fetched": "2026-08-02T08:50:26.003964+07:00"
+    },
+    {
+      "id": "99ef470968706178909e51db498708f7",
+      "title": "Mô tô nước 'bay' trái phép trên biển Sầm Sơn, lạng lách giữa đông người",
+      "link": "https://tuoitre.vn/mo-to-nuoc-bay-trai-phep-tren-bien-sam-son-lang-lach-giua-dong-nguoi-10026080206522704.htm",
+      "summary": "Trong thời gian qua, hàng chục mô tô nước hoạt động trái phép tại các bãi tắm biển Sầm Sơn, tỉnh Thanh Hóa khiến du khách lo lắng, bức xúc bởi ảnh hưởng đến an toàn khi tắm biển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T08:50:26.003838+07:00",
+      "fetched": "2026-08-02T08:50:26.003897+07:00"
+    },
+    {
+      "id": "f5811a5875cc20a8879403130d919147",
+      "title": "Bão Dolphin hướng về Trung Quốc, phía đông Philippines sắp có thêm bão mới",
+      "link": "https://tuoitre.vn/bao-dolphin-huong-ve-trung-quoc-phia-dong-philippines-sap-co-them-bao-moi-100260802080008195.htm",
+      "summary": "Ở vùng biển phía đông Philippines vừa hình thành một áp thấp nhiệt đới và có khả năng mạnh lên thành bão. Trong khi đó, bão Dolphin vẫn đang hướng về phía đông Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T08:50:26.003768+07:00",
+      "fetched": "2026-08-02T08:50:26.003828+07:00"
+    },
+    {
+      "id": "8ad37ff075ed1a359dd82aed626a8345",
+      "title": "Ăn ít tinh bột làm giảm hay tăng cholesterol?",
+      "link": "https://tuoitre.vn/an-it-tinh-bot-lam-giam-hay-tang-cholesterol-100260731223753901.htm",
+      "summary": "Chế độ ăn ít tinh bột (low-carb) được nhiều người lựa chọn để giảm cân và cải thiện sức khỏe tim mạch. Tuy nhiên, không phải ai cũng nhận được kết quả giống nhau. Trong khi một số người ghi nhận cholesterol LDL giảm, những người khác lại thấy chỉ số này tăng đáng kể dù áp dụng cùng một chế độ ăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T08:50:26.003700+07:00",
+      "fetched": "2026-08-02T08:50:26.003757+07:00"
+    },
+    {
+      "id": "bacbc79afc4448497ed21027a3214382",
+      "title": "HLV Thái Lan vẫn chưa hài lòng dù thắng dễ Malaysia",
+      "link": "https://tuoitre.vn/hlv-thai-lan-van-chua-hai-long-du-thang-de-malaysia-100260802080056953.htm",
+      "summary": "Dù dễ dàng đánh bại Malaysia, HLV trưởng tuyển Thái Lan Anthony Hudson vẫn không hài lòng về thể lực của các cầu thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T08:50:26.003614+07:00",
+      "fetched": "2026-08-02T08:50:26.003688+07:00"
+    },
+    {
+      "id": "7b628feded9208bd929d2d502966c530",
+      "title": "Loạt sai phạm tại Bệnh viện Sản - Nhi Đắk Lắk, thu hồi tiền chi cho bác sĩ đi học trái quy định",
+      "link": "https://tuoitre.vn/loat-sai-pham-tai-benh-vien-san-nhi-dak-lak-thu-hoi-tien-chi-cho-bac-si-di-hoc-trai-quy-dinh-100260801150309328.htm",
+      "summary": "Thanh tra tỉnh Đắk Lắk kết luận Bệnh viện Sản - Nhi (Đắk Lắk) để xảy ra nhiều sai phạm trong quản lý tài chính, đấu thầu, khám chữa bệnh..., trong đó có yêu cầu thu hồi hơn 15,3 triệu đồng hỗ trợ học phí chi sai quy định cho một bác sĩ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T08:50:26.003446+07:00",
+      "fetched": "2026-08-02T08:50:26.003581+07:00"
+    },
     {
       "id": "438995edb4cf1c53adfb02f1adedc09f",
       "title": "Thời tiết hôm nay 2-8: Cả nước có mưa, trên biển dông gió, đề phòng lốc xoáy",
@@ -161,6 +311,386 @@ window.newsData_2026_08_02 = {
       "category": "Tổng hợp",
       "published": "2026-08-02T01:54:18.645343+07:00",
       "fetched": "2026-08-02T01:54:18.645482+07:00"
+    },
+    {
+      "id": "459c8792828ebb04c0c1e6066e51a5a1",
+      "title": "Vì sao matcha ngày càng mắc?",
+      "link": "https://thanhnien.vn/vi-sao-matcha-ngay-cang-mac-185260730223508091.htm",
+      "summary": "Matcha đang nhanh chóng trở thành thức uống không thể thiếu trong các quán cà phê ở nhiều nơi trên thế giới. Cơn sốt matcha bùng nổ trên toàn cầu đang gây ra tình trạng thiếu hụt và đẩy giá của thức uống này lên mức cao kỷ lục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:48:00+07:00",
+      "fetched": "2026-08-02T08:50:22.602216+07:00"
+    },
+    {
+      "id": "ad1bb5455e2e78a8b790045fb1630944",
+      "title": "Nổ bom tự chế tại nhà hàng ở Moskva, ba người chết",
+      "link": "https://vnexpress.net/no-bom-tu-che-tai-nha-hang-o-moskva-ba-nguoi-chet-5104227.html",
+      "summary": "Bom tự chế được một phụ nữ mang theo phát nổ tại nhà hàng ở Moskva, khiến người này và hai nạn nhân thiệt mạng, 21 người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-02T01:47:18+07:00",
+      "fetched": "2026-08-02T08:50:28.428741+07:00"
+    },
+    {
+      "id": "f866532e516ad526113c70eadffe304e",
+      "title": "Báo Indonesia dè dặt trước trận đại chiến đội tuyển Việt Nam: Thử thách thật sự là đây!",
+      "link": "https://thanhnien.vn/bao-indonesia-de-dat-truoc-cuoc-gap-doi-tuyen-viet-nam-thu-thach-that-su-la-day-185260802083537579.htm",
+      "summary": "Theo CNN Indonesia, đội bóng xứ vạn đảo sẽ đối mặt thử thách thật sự trong cuộc gặp đội tuyển Việt Nam lúc 20 giờ 30 ngày 3.8 dù có ưu thế sân nhà tại Pakansari ở Bogor, trong trận thứ 3 tại bảng A ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:39:00+07:00",
+      "fetched": "2026-08-02T08:50:22.602382+07:00"
+    },
+    {
+      "id": "1fb614aa7a86b82b94f6a883241321a3",
+      "title": "Diễn viên Lê Vũ Long tái xuất màn ảnh",
+      "link": "https://vnexpress.net/dien-vien-le-vu-long-tai-xuat-man-anh-5104175.html",
+      "summary": "Lê Vũ Long - Phong lãng tử của phim \"Xin hãy tin em\" thập niên 1990 - trở lại màn ảnh, đóng Đinh Tiên Hoàng trong \"Hộ linh tráng sĩ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:38:35+07:00",
+      "fetched": "2026-08-02T08:50:20.130865+07:00"
+    },
+    {
+      "id": "ec44dd7432515f54bf7c49c5c0a9ec1f",
+      "title": "Chồng đang ở tù, nếu ly hôn có được chia tài sản?",
+      "link": "https://vnexpress.net/chong-dang-o-tu-neu-ly-hon-co-duoc-chia-tai-san-5104171.html",
+      "summary": "Chồng tôi bị khởi tố, tạm giam về nhiều hành vi và có khả năng đối mặt án tù khá dài. Tôi muốn ly hôn và nuôi 3 con, chỉ còn băn khoăn việc chia tài sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:34:32+07:00",
+      "fetched": "2026-08-02T08:50:20.131045+07:00"
+    },
+    {
+      "id": "dc0ebb495c4548b38e9879fed64dbc78",
+      "title": "Thực phẩm giàu magie giúp hạ huyết áp đúng hay sai?",
+      "link": "https://thanhnien.vn/thuc-pham-giau-magie-giup-ha-huyet-ap-dung-hay-sai-185260729111220996.htm",
+      "summary": "Magie là một khoáng chất quan trọng xuất hiện phổ biến trong chế độ ăn kiểm soát huyết áp. Tuy nhiên, Cục Quản lý Thực phẩm và Dược phẩm Mỹ cảnh báo rằng, mối liên hệ thực sự giữa việc bổ sung magie và khả năng giảm nguy cơ cao huyết áp lại đang nhận về những đánh giá đầy bất ngờ, đòi hỏi người bệnh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:27:00+07:00",
+      "fetched": "2026-08-02T08:50:22.602540+07:00"
+    },
+    {
+      "id": "82c57a5d1e6d8f0b23e8b0e24cd30674",
+      "title": "Từ nguyên liệu ở Chợ Lớn thành 10.000 hũ kem 'Made in Mỹ, Thái'",
+      "link": "https://vnexpress.net/tu-nguyen-lieu-o-cho-lon-thanh-10-000-hu-kem-made-in-my-thai-5104177.html",
+      "summary": "Lâm Thị Kim Nương bị cáo buộc mua nguyên liệu tại Chợ Lớn, công ty dược, ​​​thuê nhân viên pha chế, sang chiết rồi dán nhãn các hãng nước ngoài để bán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:24:04+07:00",
+      "fetched": "2026-08-02T08:50:20.131212+07:00"
+    },
+    {
+      "id": "cb1f716f34701a2a078189c246c94579",
+      "title": "12 điểm ăn uống tại Hội An theo phong cách địa phương",
+      "link": "https://vnexpress.net/12-diem-an-uong-tai-hoi-an-theo-phong-cach-dia-phuong-5104019.html",
+      "summary": "Tạp chí Time Out giới thiệu các điểm ăn và uống được người địa phương đánh giá cao tại Hội An.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:22:20+07:00",
+      "fetched": "2026-08-02T08:50:20.131374+07:00"
+    },
+    {
+      "id": "428c4d0adac5d350986e52430a005d6a",
+      "title": "Vụ án 5 thi thể bị chôn trong rừng gây rúng động Thái Lan",
+      "link": "https://vnexpress.net/vu-an-5-thi-the-bi-chon-trong-rung-gay-rung-dong-thai-lan-5104200.html",
+      "summary": "Điều tra vụ chị em người Nga mất tích ở Chon Buri, cảnh sát tìm thấy thi thể hai nạn nhân trong rừng cùng một gia đình 3 người bị chôn cách đó 2 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:15:14+07:00",
+      "fetched": "2026-08-02T08:50:20.131533+07:00"
+    },
+    {
+      "id": "8b6385338756ce1962ec5ad37310660a",
+      "title": "OpenAI vượt mốc một tỷ người dùng",
+      "link": "https://vnexpress.net/openai-vuot-moc-mot-ty-nguoi-dung-5104202.html",
+      "summary": "Sau khi giảm giá mô hình mới GPT-5.6, OpenAI thông báo đạt cột mốc quan trọng về số lượng người dùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:15:00+07:00",
+      "fetched": "2026-08-02T08:50:20.131720+07:00"
+    },
+    {
+      "id": "8b6385338756ce1962ec5ad37310660a",
+      "title": "OpenAI vượt mốc một tỷ người dùng",
+      "link": "https://vnexpress.net/openai-vuot-moc-mot-ty-nguoi-dung-5104202.html",
+      "summary": "Sau khi giảm giá mô hình mới GPT-5.6, OpenAI thông báo đạt cột mốc quan trọng về số lượng người dùng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-02T01:15:00+07:00",
+      "fetched": "2026-08-02T08:50:32.328626+07:00"
+    },
+    {
+      "id": "39412972cc9626b84c33b549e10e0e80",
+      "title": "Đà Nẵng: Bắt nghi phạm nhiều lần đập kính ô tô giữa đêm để trộm tài sản",
+      "link": "https://thanhnien.vn/da-nang-bat-nghi-pham-nhieu-lan-dap-kinh-o-to-giua-dem-de-trom-tai-san-185260801200141923.htm",
+      "summary": "Chỉ trong khoảng 10 ngày, nghi phạm có 7 tiền án đã liên tiếp gây ra gần 10 vụ đập kính ô tô đỗ ven đường ở thành phố Đà Nẵng để trộm cắp tài sản. Công an vừa bắt giữ nghi phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:13:00+07:00",
+      "fetched": "2026-08-02T08:50:22.602724+07:00"
+    },
+    {
+      "id": "02b8a165706806eb2158228e5c51e37b",
+      "title": "2027 khởi công tuyến metro đầu tiên ở khu Nam TP.HCM, xuyên lòng đất tới trung tâm",
+      "link": "https://thanhnien.vn/2027-khoi-cong-tuyen-metro-dau-tien-o-khu-nam-tphcm-xuyen-long-dat-toi-trung-tam-185260802080648555.htm",
+      "summary": "Công ty CP Tập đoàn Sovico, đơn vị đề xuất thực hiện Dự án metro số 4 TP.HCM, đang nghiên cứu phương án tuyến đi ngầm qua sân bay Tân Sơn Nhất và khu vực trung tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:11:00+07:00",
+      "fetched": "2026-08-02T08:50:22.602879+07:00"
+    },
+    {
+      "id": "19fb076cb7dedc0d6699c28cef38073e",
+      "title": "Những tổ công nghệ số cộng đồng tại từng khu phố",
+      "link": "https://thanhnien.vn/nhung-to-cong-nghe-so-cong-dong-tai-tung-khu-pho-18526080121224864.htm",
+      "summary": "Ngày 1.8, 39 tổ công nghệ số cộng đồng của 39 khu phố tại P.Tam Bình (TP.HCM) chính thức đồng hành cùng người dân trên hành trình trở thành công dân số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:08:00+07:00",
+      "fetched": "2026-08-02T08:50:22.603041+07:00"
+    },
+    {
+      "id": "db12c1ed96fb56944b2c2e2d3a05dd4c",
+      "title": "Giải mã bí ẩn bên dưới Nhà thờ Đức Bà",
+      "link": "https://thanhnien.vn/giai-ma-bi-an-ben-duoi-nha-tho-duc-ba-185260728140537967.htm",
+      "summary": "Cuộc khai quật được mệnh danh là 'phát hiện khảo cổ của thế kỷ' hứa hẹn giải mã bí ẩn hàng nghìn năm lịch sử của thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:06:00+07:00",
+      "fetched": "2026-08-02T08:50:22.603190+07:00"
+    },
+    {
+      "id": "bf379744a51f96ca4700e91eb96f11c5",
+      "title": "Như những mùa thu trước - Thơ của Nguyễn Hoàng Anh Thư",
+      "link": "https://thanhnien.vn/nhu-nhung-mua-thu-truoc-tho-cua-nguyen-hoang-anh-thu-185260801185240188.htm",
+      "summary": "con thấy bầu trời mở ra như tấm áo choàng của thần Zeus",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:05:00+07:00",
+      "fetched": "2026-08-02T08:50:24.114778+07:00"
+    },
+    {
+      "id": "eb3b7a405a8e99ce05d646edafd32006",
+      "title": "GS Nguyễn Đức Khương: Cần đào tạo tư duy làm chủ công nghệ thay vì để AI dẫn dắt",
+      "link": "https://vnexpress.net/gs-nguyen-duc-khuong-can-dao-tao-tu-duy-lam-chu-cong-nghe-thay-vi-de-ai-dan-dat-5104160.html",
+      "summary": "Theo GS Nguyễn Đức Khương, công nghệ - chìa khoá để chuyển đổi mô hình tăng trưởng của Việt Nam - chỉ phát huy tác dụng khi đi cùng nguồn nhân lực đủ khả năng hấp thụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:00:00+07:00",
+      "fetched": "2026-08-02T08:50:20.131880+07:00"
+    },
+    {
+      "id": "69408f74b624c1a29341730c6cf4e973",
+      "title": "Chiến sự phủ bóng mùa du lịch hè của người Nga",
+      "link": "https://vnexpress.net/chien-su-phu-bong-mua-du-lich-he-cua-nguoi-nga-5103853.html",
+      "summary": "Tình trạng thiếu nhiên liệu, nguy cơ bị UAV tập kích đã gây ra làn sóng hủy phòng và tâm lý thận trọng của người Nga trong kỳ nghỉ hè.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:00:00+07:00",
+      "fetched": "2026-08-02T08:50:20.132056+07:00"
+    },
+    {
+      "id": "6e99127f7c8aa03b4027867600fd54ac",
+      "title": "Tiếng rao bán sò lông Cà Mau 'chà bá' gây chú ý",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-tieng-rao-ban-so-long-ca-mau-cha-ba-gay-chu-y-5103812.html",
+      "summary": "Không cần câu từ hoa mỹ, tiếng rao mộc mạc của người bán sò lông Cà Mau vẫn đủ sức khiến người đi đường chú ý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:00:00+07:00",
+      "fetched": "2026-08-02T08:50:20.132211+07:00"
+    },
+    {
+      "id": "a53f10cc37ebb24589d948e669a1dbe8",
+      "title": "Có nên đeo kính áp tròng khi bơi?",
+      "link": "https://vnexpress.net/co-nen-deo-kinh-ap-trong-khi-boi-5104121.html",
+      "summary": "Tôi bị cận thị, mỗi lần đi bơi đều rất khó quan sát. Tôi có thể đeo kính áp tròng khi bơi để nhìn rõ hơn không? (Đức Mạnh, 21 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:00:00+07:00",
+      "fetched": "2026-08-02T08:50:20.132369+07:00"
+    },
+    {
+      "id": "62816ed633207ff41bcece15438685a1",
+      "title": "5 món ít calo, giàu protein giúp tăng cơ",
+      "link": "https://vnexpress.net/5-mon-it-calo-giau-protein-giup-tang-co-5104111.html",
+      "summary": "Thịt gà không da, cá ngừ, đậu phụ, thịt bò nạc giàu protein, ít calo có thể giúp người ăn no lâu hơn, hỗ trợ giảm cân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:00:00+07:00",
+      "fetched": "2026-08-02T08:50:20.132532+07:00"
+    },
+    {
+      "id": "b99d98ae916d9c5b66e9e73fa4996dfc",
+      "title": "Ba thói quen dùng điều hòa có thể ảnh hưởng đến tai",
+      "link": "https://vnexpress.net/ba-thoi-quen-dung-dieu-hoa-co-the-anh-huong-den-tai-5104108.html",
+      "summary": "Bật điều hòa quá lạnh, để gió thổi trực tiếp vào tai, không duy trì độ ẩm phòng phù hợp, có thể làm lạnh tai, tăng áp lực vòi nhĩ, gây đau nhức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:00:00+07:00",
+      "fetched": "2026-08-02T08:50:20.132735+07:00"
+    },
+    {
+      "id": "6386e19f9693b5d4de0965d40788ad36",
+      "title": "Nhiễm trùng đường ruột kéo dài bao lâu?",
+      "link": "https://vnexpress.net/nhiem-trung-duong-ruot-keo-dai-bao-lau-5104102.html",
+      "summary": "Tôi bị nhiễm trùng đường ruột, dễ tiêu chảy nên phải kiêng khem nhiều loại thực phẩm. Nhiễm trùng đường ruột kéo dài bao lâu, có khỏi hoàn toàn được không? (Hà, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:00:00+07:00",
+      "fetched": "2026-08-02T08:50:20.132897+07:00"
+    },
+    {
+      "id": "b214987fde16e58a323060c4061923bc",
+      "title": "Lật cổ chân bao lâu có thể chơi thể thao trở lại?",
+      "link": "https://vnexpress.net/lat-co-chan-bao-lau-co-the-choi-the-thao-tro-lai-5103924.html",
+      "summary": "Tôi 35 tuổi, bị lật cổ chân khi chơi pickleball, bác sĩ chẩn đoán phù tủy xương sên. Xin hỏi tình trạng này bao lâu thì hồi phục? Có cần phẫu thuật không? (Anh Ngọc, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:00:00+07:00",
+      "fetched": "2026-08-02T08:50:20.133052+07:00"
+    },
+    {
+      "id": "5c80e7709867d9f0664785691421fa4b",
+      "title": "Tướng Mỹ cảnh báo Lầu Năm Góc thiếu tàu chiến để tiếp tục bảo vệ Israel",
+      "link": "https://thanhnien.vn/tuong-my-canh-bao-lau-nam-goc-thieu-tau-chien-de-tiep-tuc-bao-ve-israel-185260802072614063.htm",
+      "summary": "Tướng Alexus Grynkewich, đứng đầu Bộ Tư lệnh châu Âu của Mỹ (EUCOM), đã cảnh báo Lầu Năm Góc về việc thiếu lực lượng hải quân để có thể tiếp tục bảo vệ Israel trước các cuộc tấn công bằng tên lửa đạn đạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:00:00+07:00",
+      "fetched": "2026-08-02T08:50:24.115162+07:00"
+    },
+    {
+      "id": "83be30c62efa8246c75165d429abf543",
+      "title": "Xu hướng 'bản địa hóa' trải nghiệm du lịch",
+      "link": "https://thanhnien.vn/xu-huong-ban-dia-hoa-trai-nghiem-du-lich-18526080119595122.htm",
+      "summary": "Du khách ngày nay không còn hài lòng với việc \"đi để ngắm\", mà ngày càng mong muốn được \"đi để sống\" như một người bản địa. Và một số khách sạn, khu nghỉ dưỡng quốc tế cao cấp tại VN đã không chỉ là nơi lưu trú, mà trở thành một \"nơi kể chuyện\" về VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:00:00+07:00",
+      "fetched": "2026-08-02T08:50:24.115339+07:00"
+    },
+    {
+      "id": "b3f82bff9f059d69edc62a796c219f8e",
+      "title": "Nhàn đàm: Hãy dành cho sức khỏe mình một suất ưu tiên",
+      "link": "https://thanhnien.vn/nhan-dam-hay-danh-cho-suc-khoe-minh-mot-suat-uu-tien-185260801184712407.htm",
+      "summary": "Ở hàng ghế chờ trước phòng bác sĩ, tôi nghe thấy tiếng thút thít của một cô gái. Không khó để nhận ra đó là tiếng khóc, nhất là trong không gian và bối cảnh ảm đạm này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:00:00+07:00",
+      "fetched": "2026-08-02T08:50:24.115501+07:00"
+    },
+    {
+      "id": "343fbadc0b5e982e7369996cd5f732ae",
+      "title": "Giá vàng hôm nay 2.8.2026: Sụt giảm trong tuần, người mua liên tục thua lỗ",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-282026-sut-giam-trong-tuan-nguoi-mua-lien-tuc-thua-lo-185260801172849325.htm",
+      "summary": "Giá vàng ghi nhận đi lùi trong tuần khiến người mua vào thời điểm nào cũng bị thua lỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T01:00:00+07:00",
+      "fetched": "2026-08-02T08:50:24.115683+07:00"
+    },
+    {
+      "id": "69408f74b624c1a29341730c6cf4e973",
+      "title": "Chiến sự phủ bóng mùa du lịch hè của người Nga",
+      "link": "https://vnexpress.net/chien-su-phu-bong-mua-du-lich-he-cua-nguoi-nga-5103853.html",
+      "summary": "Tình trạng thiếu nhiên liệu, nguy cơ bị UAV tập kích đã gây ra làn sóng hủy phòng và tâm lý thận trọng của người Nga trong kỳ nghỉ hè.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-02T01:00:00+07:00",
+      "fetched": "2026-08-02T08:50:28.428918+07:00"
+    },
+    {
+      "id": "eb3b7a405a8e99ce05d646edafd32006",
+      "title": "GS Nguyễn Đức Khương: Cần đào tạo tư duy làm chủ công nghệ thay vì để AI dẫn dắt",
+      "link": "https://vnexpress.net/gs-nguyen-duc-khuong-can-dao-tao-tu-duy-lam-chu-cong-nghe-thay-vi-de-ai-dan-dat-5104160.html",
+      "summary": "Theo GS Nguyễn Đức Khương, công nghệ - chìa khoá để chuyển đổi mô hình tăng trưởng của Việt Nam - chỉ phát huy tác dụng khi đi cùng nguồn nhân lực đủ khả năng hấp thụ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-02T01:00:00+07:00",
+      "fetched": "2026-08-02T08:50:29.976265+07:00"
+    },
+    {
+      "id": "ee245ccc34ff8115c9216fa4064a09c4",
+      "title": "Giá USD hôm nay 2.8.2026: Tuần giảm ngược chiều euro, bảng Anh",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-282026-tuan-giam-nguoc-chieu-euro-bang-anh-185260801175215579.htm",
+      "summary": "Giá USD trong các ngân hàng thương mại ghi nhận một tuần đi xuống trong khi euro, bảng Anh đồng loạt tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T00:59:00+07:00",
+      "fetched": "2026-08-02T08:50:24.115845+07:00"
+    },
+    {
+      "id": "44173502441e6771e63ca9d7304aecce",
+      "title": "Mãn nhãn màn trình diễn 'thép' của Cảnh sát đặc nhiệm giữa mưa Đà Nẵng",
+      "link": "https://thanhnien.vn/man-nhan-man-trinh-dien-thep-cua-canh-sat-dac-nhiem-giua-mua-da-nang-185260801233552832.htm",
+      "summary": "Hàng nghìn người dân, du khách đội mưa tại công viên Biển Đông (thành phố Đà Nẵng) để chứng kiến những màn trình diễn võ thuật, nghiệp vụ đặc sắc của lực lượng Công an nhân dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T00:49:00+07:00",
+      "fetched": "2026-08-02T08:50:24.116007+07:00"
+    },
+    {
+      "id": "e8e93ce7a1c3efe5cba90a23e7ba9983",
+      "title": "AI - trợ thủ đắc lực cho bác sĩ trong phòng nội soi tiêu hóa",
+      "link": "https://vnexpress.net/ai-tro-thu-dac-luc-cho-bac-si-trong-phong-noi-soi-tieu-hoa-5104074.html",
+      "summary": "Trí tuệ nhân tạo (AI) và các kỹ thuật nội soi hiện đại đang mở ra bước đột phá, giúp phát hiện sớm các tổn thương tiền ung thư và giảm thiểu tối đa nguy cơ bỏ sót u tuyến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T00:46:54+07:00",
+      "fetched": "2026-08-02T08:50:20.133229+07:00"
+    },
+    {
+      "id": "e1ca5e8c21753bf28d80713ffc0580c2",
+      "title": "Thu Minh - Hương Tràm hóa giải mâu thuẫn sau 13 năm",
+      "link": "https://thanhnien.vn/thu-minh-huong-tram-hoa-giai-mau-thuan-sau-13-nam-185260802022338304.htm",
+      "summary": "Màn xuất hiện bất ngờ của Thu Minh trong Concert Phao cứu sinh của Hương Tràm khiến cả sân khấu vỡ òa. Cả hai không chỉ gửi đến khán giả những bản song ca mà còn trải lòng về những chuyện trong quá khứ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T00:46:00+07:00",
+      "fetched": "2026-08-02T08:50:24.116162+07:00"
+    },
+    {
+      "id": "99584a814b0cdfb6b293d86ffff8fc77",
+      "title": "Iran dọa đáp trả tương xứng nếu Mỹ đánh lớn",
+      "link": "https://vnexpress.net/iran-doa-dap-tra-tuong-xung-neu-my-danh-lon-5104208.html",
+      "summary": "Iran cảnh báo sẵn sàng trả đũa \"kiên quyết và tương xứng\" nếu Mỹ châm ngòi chiến tranh tổng lực, sau khi ông Trump nói sẽ giáng đòn vào Tehran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-02T00:28:50+07:00",
+      "fetched": "2026-08-02T08:50:28.429080+07:00"
+    },
+    {
+      "id": "3880f31c4c8ef231132f38b2c7f5b63d",
+      "title": "Ukraine thừa nhận chỉ chặn được một tên lửa đạn đạo Nga",
+      "link": "https://vnexpress.net/ukraine-thua-nhan-chi-chan-duoc-mot-ten-lua-dan-dao-nga-5104206.html",
+      "summary": "Tổng thống Zelensky cho biết do thiếu đạn Patriot, Ukraine chỉ chặn được một trong 27 tên lửa đạn đạo trong đòn tập kích hôm qua của Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-01T23:26:58+07:00",
+      "fetched": "2026-08-02T08:50:28.429247+07:00"
+    },
+    {
+      "id": "34b630a9e9c47a8fb61ed4c2c2c3c833",
+      "title": "UEFA dọa phế truất Chủ tịch FIFA Gianni Infantino",
+      "link": "https://vnexpress.net/uefa-doa-phe-truat-chu-tich-fifa-gianni-infantino-5104199.html",
+      "summary": "UEFA yêu cầu Chủ tịch FIFA Gianni Infantino từ chức nếu không sẽ xúc tiến cuộc bỏ phiếu bất tín nhiệm, sau đề xuất bán 20% cổ phần đơn vị quản lý các giải đấu lớn gây tranh cãi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-01T22:46:39+07:00",
+      "fetched": "2026-08-02T08:50:33.874434+07:00"
+    },
+    {
+      "id": "3d1e07a4e5e070ea463a55eeceb5faef",
+      "title": "Man Utd thắng ngược Atletico, giành Cup giao hữu",
+      "link": "https://vnexpress.net/man-utd-thang-nguoc-atletico-gianh-cup-giao-huu-5104207.html",
+      "summary": "Bị dẫn từ sớm, Man Utd vẫn thắng Atletico Madrid 2-1 nhờ cú đúp của tiền đạo Bryan Mbeumo để giành Cup Snapdragon tối 1/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-01T22:44:54+07:00",
+      "fetched": "2026-08-02T08:50:33.874630+07:00"
     },
     {
       "id": "22c1d5f5c530ed44c0b527caa639f20f",
@@ -351,6 +881,16 @@ window.newsData_2026_08_02 = {
       "category": "Thể thao",
       "published": "2026-08-01T20:30:00+07:00",
       "fetched": "2026-08-02T05:44:05.585340+07:00"
+    },
+    {
+      "id": "384cc40fbe0d91217f75a5d3a96d3072",
+      "title": "Phạm Ngọc Phan vô địch giải chạy 81 năm ngành Công an",
+      "link": "https://vnexpress.net/5-000-runner-chuan-bi-cho-cuoc-dua-mung-81-nam-nganh-cong-an-5104173-tong-thuat.html",
+      "summary": "Chân chạy Phạm Ngọc Phan ngược dòng ngoạn mục để thắng cự ly 42km nam trên sân nhà sau 2 tiếng 39 phút 16 giây.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-01T20:30:00+07:00",
+      "fetched": "2026-08-02T08:50:33.875122+07:00"
     },
     {
       "id": "e07e935152bdba3b597da84856f3f17d",
