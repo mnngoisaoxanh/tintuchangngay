@@ -1,7 +1,157 @@
 window.newsData_2026_08_02 = {
   "date": "2026-08-02",
-  "lastUpdated": "2026-08-02T18:10:16.485568+07:00",
+  "lastUpdated": "2026-08-02T19:59:19.844571+07:00",
   "articles": [
+    {
+      "id": "c7c4cc5e515892aa93314d056a04e1be",
+      "title": "Bé gái sơ sinh còn đỏ hỏn bị bỏ rơi bên đường, nhiều người xin nhận nuôi",
+      "link": "https://tuoitre.vn/be-gai-so-sinh-con-do-hon-bi-bo-roi-ben-duong-nhieu-nguoi-xin-nhan-nuoi-100260802163551411.htm",
+      "summary": "Bé gái sơ sinh nặng khoảng 3kg, còn nguyên dây rốn, được người dân phát hiện bị bỏ rơi ven đường ở xã Lương Hòa Lạc (Đồng Tháp). Sau khi được công an tiếp nhận, bé đã được chuyển đến bệnh viện để chăm sóc, đồng thời nhiều người bày tỏ mong muốn nhận nuôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T19:58:48.633534+07:00",
+      "fetched": "2026-08-02T19:58:48.633599+07:00"
+    },
+    {
+      "id": "7deffbb62dabbcd374ae412df5373eca",
+      "title": "Công ty thuộc Vingroup được chọn đầu tư điện gió ven bờ hơn 9.100 tỉ ở Quảng Trị",
+      "link": "https://tuoitre.vn/cong-ty-thuoc-vingroup-duoc-chon-dau-tu-dien-gio-ven-bo-hon-9100-ti-o-quang-tri-10026080216390087.htm",
+      "summary": "Công ty thuộc Tập đoàn Vingroup vừa đăng ký đầu tư nhà máy điện gió với tổng mức đầu tư hơn 9.100 tỉ đồng tại vùng biển ven bờ Quảng Trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T19:58:48.633456+07:00",
+      "fetched": "2026-08-02T19:58:48.633523+07:00"
+    },
+    {
+      "id": "4bddce366ad3000e3bb602f50fe943fa",
+      "title": "Bão Dolphin hướng về Trung Quốc, tỉnh Chiết Giang triển khai ứng phó",
+      "link": "https://tuoitre.vn/bao-dolphin-huong-ve-trung-quoc-tinh-chiet-giang-trien-khai-ung-pho-100260802170011516.htm",
+      "summary": "Mô hình dự báo số của Trung Quốc dự báo bão Dolphin có khả năng đổ bộ vào khu vực miền đông nước này vào khoảng ngày 8-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T19:58:48.633365+07:00",
+      "fetched": "2026-08-02T19:58:48.633444+07:00"
+    },
+    {
+      "id": "9871361bf1e0f3c3a4aa28db6b54d486",
+      "title": "Những chiếc rương sách cũ bên bờ sông Seine ẩn chứa chiều dài lịch sử",
+      "link": "https://tuoitre.vn/nhung-chiec-ruong-sach-cu-ben-bo-song-seine-an-chua-chieu-dai-lich-su-100260802130014905.htm",
+      "summary": "Đã sống ở ngoại ô Paris hơn thập kỷ mà mỗi dịp dạo chơi cuối tuần vào trung tâm thành phố, tôi lại như du khách say mê khám phá. Bên bờ sông Seine, bao chuyện lịch sử ẩn chứa trong những chiếc rương sách cũ bạc màu thời gian.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T19:58:48.633295+07:00",
+      "fetched": "2026-08-02T19:58:48.633354+07:00"
+    },
+    {
+      "id": "6ec38eed49504ccbc0449a3577276315",
+      "title": "Quá hạn thông báo doanh thu, tài khoản ngân hàng, hộ kinh doanh có thể bị phạt đến 7,5 triệu đồng",
+      "link": "https://tuoitre.vn/qua-han-thong-bao-doanh-thu-tai-khoan-ngan-hang-ho-kinh-doanh-co-the-bi-phat-den-75-trieu-dong-100260802164258612.htm",
+      "summary": "Không ít hộ kinh doanh đến nay vẫn chưa kịp thông báo doanh thu, tài khoản ngân hàng. Theo quy định, người nộp thuế quá hạn có thể bị cảnh cáo hoặc phạt tiền, mức cao nhất lên tới 7,5 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T19:58:48.633218+07:00",
+      "fetched": "2026-08-02T19:58:48.633284+07:00"
+    },
+    {
+      "id": "f047cbdb633008a3bb71748622e46940",
+      "title": "Ukraine tập kích nhiều mục tiêu sâu trong lãnh thổ Nga khiến 2 người thiệt mạng",
+      "link": "https://tuoitre.vn/ukraine-tap-kich-nhieu-muc-tieu-sau-trong-lanh-tho-nga-khien-2-nguoi-thiet-mang-10026080216553981.htm",
+      "summary": "Ukraine xác nhận đã tấn công nhiều mục tiêu trên lãnh thổ Nga. Phía Nga cho biết ít nhất 2 người thiệt mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T19:58:48.633148+07:00",
+      "fetched": "2026-08-02T19:58:48.633208+07:00"
+    },
+    {
+      "id": "1b3d4431c827a80a84d6d208d47dc391",
+      "title": "Đồng Tháp chấm điểm giải ngân, quy trách nhiệm người đứng đầu",
+      "link": "https://tuoitre.vn/dong-thap-cham-diem-giai-ngan-quy-trach-nhiem-nguoi-dung-dau-100260802162253797.htm",
+      "summary": "Người đứng đầu của đơn vị chủ đầu tư chịu trách nhiệm trước chủ tịch UBND tỉnh nếu để xảy ra tình trạng chậm chiến độ, giải ngân thấp, không hoàn thành kế hoạch vốn được giao do nguyên nhân chủ quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T19:58:48.633078+07:00",
+      "fetched": "2026-08-02T19:58:48.633137+07:00"
+    },
+    {
+      "id": "27befbaaf366ae3812ef830aa9ef0b6f",
+      "title": "Khởi tố người phụ nữ bán rượu pha từ cồn công nghiệp với nước lã",
+      "link": "https://tuoitre.vn/khoi-to-nguoi-phu-nu-ban-ruou-pha-tu-con-cong-nghiep-voi-nuoc-la-100260802171419213.htm",
+      "summary": "Một phụ nữ bị khởi tố sau khi công an phát hiện người này dùng cồn công nghiệp pha với nước lã thành rượu trắng, bán cho người dân mua về uống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T19:58:48.633007+07:00",
+      "fetched": "2026-08-02T19:58:48.633067+07:00"
+    },
+    {
+      "id": "7f7d075cd7c29f3cf43423bcf3ed0872",
+      "title": "HLV Kim Sang Sik: Tuyển Việt Nam đến Indonesia để thắng chứ không phải hòa",
+      "link": "https://tuoitre.vn/hlv-kim-sang-sik-tuyen-viet-nam-den-indonesia-de-thang-chu-khong-phai-hoa-100260802173121519.htm",
+      "summary": "HLV Kim Sang Sik khẳng định đội tuyển Việt Nam quyết tâm giành 3 điểm trên sân của Indonesia nhằm nuôi hy vọng vượt qua vòng bảng ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T19:58:48.632936+07:00",
+      "fetched": "2026-08-02T19:58:48.632997+07:00"
+    },
+    {
+      "id": "07003a40364133782b1ce1a9038f5a9c",
+      "title": "Tấm nhôm ghi 'liệt sĩ NG T TRO': Đã có người liên hệ, nhận là thân nhân",
+      "link": "https://tuoitre.vn/tam-nhom-ghi-liet-si-ng-t-tro-da-co-nguoi-lien-he-nhan-la-than-nhan-100260802170129174.htm",
+      "summary": "Sau khi lực lượng quân sự lấy mẫu sinh phẩm phục vụ xét nghiệm ADN ở một phần mộ, tìm thấy tấm bia khắc bằng nhôm ghi các thông tin: Liệt sĩ NG T TRO, đến nay đã có người nhận là người thân liệt sĩ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T19:58:48.632857+07:00",
+      "fetched": "2026-08-02T19:58:48.632924+07:00"
+    },
+    {
+      "id": "f0276e3ecf777a33bfae23c52eedc7b1",
+      "title": "Phà chở khoảng 250 người bốc cháy ngoài khơi Indonesia, ít nhất 5 người chết, 41 người mất tích",
+      "link": "https://tuoitre.vn/pha-cho-khoang-250-nguoi-boc-chay-ngoai-khoi-indonesia-it-nhat-5-nguoi-chet-41-nguoi-mat-tich-100260802174210867.htm",
+      "summary": "Ít nhất 5 người thiệt mạng và 41 người mất tích sau khi phà KMP Mutiara Sentosa 2 bốc cháy ngoài khơi đảo Madura, tỉnh Đông Java (Indonesia).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T19:58:48.632786+07:00",
+      "fetched": "2026-08-02T19:58:48.632847+07:00"
+    },
+    {
+      "id": "dca8a93f89874e8cf8925207f18d4e72",
+      "title": "FIFA lại báo tin vui, Việt Nam tăng cơ hội dự World Cup 2030",
+      "link": "https://tuoitre.vn/fifa-lai-bao-tin-vui-viet-nam-tang-co-hoi-du-world-cup-2030-100260801190644056.htm",
+      "summary": "Sau khi chấm dứt dự án tranh cãi \"bán World Cup\", FIFA giờ đây chuyển hướng tập trung sang dự án tích cực hơn, đó là kế hoạch mở rộng quy mô kỳ World Cup tiếp theo lên 64 đội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T19:58:48.632713+07:00",
+      "fetched": "2026-08-02T19:58:48.632775+07:00"
+    },
+    {
+      "id": "1129909396faa4850a0ba86455e3b202",
+      "title": "Trộm két sắt của dì đầu tư tiền ảo, cô gái ra tự thú vì bị lừa mất tiền",
+      "link": "https://tuoitre.vn/trom-ket-sat-cua-di-dau-tu-tien-ao-co-gai-ra-tu-thu-vi-bi-lua-mat-tien-100260802172022935.htm",
+      "summary": "Một cô gái 21 tuổi ở xã Tân Thạnh (TP Cần Thơ) đã trộm két sắt của dì ruột để đầu tư vào tiền ảo, sau đó cô này bị lừa đảo mất tiền, khi được vận động, cô đã ra tự thú.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T19:58:48.632638+07:00",
+      "fetched": "2026-08-02T19:58:48.632701+07:00"
+    },
+    {
+      "id": "f489690887bad180057f2b89189c664f",
+      "title": "Dự báo mới nhất về đường đi của bão Dolphin",
+      "link": "https://tuoitre.vn/du-bao-moi-nhat-ve-duong-di-cua-bao-dolphin-100260802161936463.htm",
+      "summary": "Dự báo, bão Dolphin ở tây bắc Thái Bình Dương đi về phía Okinawa (Nhật Bản), sau đó hướng vào Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T19:58:48.632558+07:00",
+      "fetched": "2026-08-02T19:58:48.632626+07:00"
+    },
+    {
+      "id": "c54e96072c1538bdb3374e547e709c86",
+      "title": "Iran phản ứng sau khi ông Trump nói Tehran đề nghị ngừng tấn công",
+      "link": "https://tuoitre.vn/iran-phan-ung-sau-khi-ong-trump-noi-tehran-de-nghi-ngung-tan-cong-100260802173224829.htm",
+      "summary": "Truyền thông Iran cho rằng tuyên bố của ông Trump 'không gì khác ngoài một lời nói dối mới'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T19:58:48.632368+07:00",
+      "fetched": "2026-08-02T19:58:48.632542+07:00"
+    },
     {
       "id": "5bcd75158d2d1c237f41728f5e933e77",
       "title": "Rừng ngập nước Bầu Đá: Điểm hẹn du lịch sinh thái mới của Đắk Lắk",
@@ -303,6 +453,96 @@ window.newsData_2026_08_02 = {
       "fetched": "2026-08-02T15:05:13.458608+07:00"
     },
     {
+      "id": "cb479d30b674cb20ea25987bcaa31d64",
+      "title": "18.000 VĐV tranh tài giải chạy duy nhất Việt Nam cấp Nhãn Thế giới",
+      "link": "https://thanhnien.vn/18000-vdv-tranh-tai-giai-chay-duy-nhat-viet-nam-cap-nhan-the-gioi-185260802160748923.htm",
+      "summary": "Giải Marathon quốc tế Di sản Hạ Long 2026 tiếp tục được World Athletics cấp Nhãn Thế giới, đồng thời khẳng định vị thế đường chạy nhanh nhất khu vực, dự kiến thu hút khoảng 18.000 vận động viên (VĐV) trong nước và quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T12:55:00+07:00",
+      "fetched": "2026-08-02T19:58:46.661760+07:00"
+    },
+    {
+      "id": "331abd1c220700c9a736dc866661097d",
+      "title": "Những giọt máu hồng thắm tình quân dân của chiến sĩ 'sao vuông' ở Quảng Ngãi",
+      "link": "https://thanhnien.vn/nhung-giot-mau-hong-tham-tinh-quan-dan-cua-chien-si-sao-vuong-o-quang-ngai-185260802191623684.htm",
+      "summary": "Không chỉ vững vàng trong nhiệm vụ quốc phòng, những chiến sĩ dân quân 'sao vuông' ở Quảng Ngãi còn lặng lẽ lan tỏa nghĩa cử nhân ái bằng những giọt máu hồng, góp phần cứu người và bồi đắp tình đoàn kết quân - dân ngày càng bền chặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T12:51:00+07:00",
+      "fetched": "2026-08-02T19:58:46.661931+07:00"
+    },
+    {
+      "id": "fc585b7c64a2a43750e36a41c759f8bb",
+      "title": "Nên mua điện thoại mới tại cửa hàng hay lên mạng 'chốt đơn'?",
+      "link": "https://thanhnien.vn/nen-mua-dien-thoai-moi-tai-cua-hang-hay-len-mang-chot-don-185260720094319721.htm",
+      "summary": "Mua điện thoại mới bạn nên click chuột trên web chờ giao hàng hay ra ngay cửa hàng để không bị hớ?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T12:44:00+07:00",
+      "fetched": "2026-08-02T19:58:46.662089+07:00"
+    },
+    {
+      "id": "d6287251b75fd0e3a04bfa64669ba0e0",
+      "title": "Tủ lạnh nên đặt cách tường bao xa?",
+      "link": "https://thanhnien.vn/tu-lanh-nen-dat-cach-tuong-bao-xa-185260720102459396.htm",
+      "summary": "Khoảng cách giữa tủ lạnh và tường không cố định cho mọi mẫu máy, nhưng nhà sản xuất đều khuyến nghị chừa không gian thông gió.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T12:33:00+07:00",
+      "fetched": "2026-08-02T19:58:46.662247+07:00"
+    },
+    {
+      "id": "01338c3f8829e31f7e09b2a97ad36c07",
+      "title": "Sao Thủy ly giác cực đại: Người Việt còn quan sát được đến khi nào?",
+      "link": "https://thanhnien.vn/sao-thuy-ly-giac-cuc-dai-nguoi-viet-con-quan-sat-duoc-den-khi-nao-185260802162527092.htm",
+      "summary": "Sao Thủy vừa đạt ly giác cực đại về phía tây, mở ra thời điểm thuận lợi để quan sát hành tinh nhỏ nhất hệ mặt trời. Những ngày tới, sao Thủy còn có những cuộc \"hội ngộ\" đáng chú ý trên bầu trời tháng 8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T12:30:00+07:00",
+      "fetched": "2026-08-02T19:58:46.662433+07:00"
+    },
+    {
+      "id": "efb43a75daac7af267c76efcd3f3dce3",
+      "title": "Lê Giang Patrik: ‘Indonesia mạnh, nhưng đội tuyển Việt Nam cũng đã sẵn sàng’",
+      "link": "https://thanhnien.vn/le-giang-patrik-indonesia-manh-nhung-doi-tuyen-viet-nam-cung-da-san-sang-185260802190248907.htm",
+      "summary": "Trước cuộc đối đầu mang tính bản lề với Indonesia tại ASEAN Cup 2026, thủ môn Lê Giang Patrik khẳng định đội tuyển Việt Nam đã chuẩn bị kỹ lưỡng, đồng thời nhấn mạnh toàn đội sẽ tập trung vào lối chơi của mình để hướng đến kết quả tốt nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T12:29:00+07:00",
+      "fetched": "2026-08-02T19:58:46.662608+07:00"
+    },
+    {
+      "id": "f0b7933c7f3540f7e45f2c16a5f6c13d",
+      "title": "HLV Kim Sang-sik tự tin trước đại chiến Indonesia: ‘Chúng tôi sẽ trả lời bằng màn trình diễn trên sân’",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-tu-tin-truoc-dai-chien-indonesia-chung-toi-se-tra-loi-bang-man-trinh-dien-tren-san-185260802184209202.htm",
+      "summary": "HLV Kim Sang-sik khẳng định đội tuyển Việt Nam đã chuẩn bị kỹ lưỡng cho cuộc đối đầu với Indonesia tại bảng A ASEAN Cup 2026. Nhà cầm quân người Hàn Quốc tin tưởng các học trò sẽ thể hiện bộ mặt tốt hơn sau trận hòa Singapore.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T12:26:00+07:00",
+      "fetched": "2026-08-02T19:58:46.662763+07:00"
+    },
+    {
+      "id": "63ebfaaeb14aec3a0352fb82ca47d735",
+      "title": "Cách đọc 'sức khỏe' pin laptop đơn giản trên Windows",
+      "link": "https://thanhnien.vn/cach-doc-suc-khoe-pin-laptop-don-gian-tren-windows-185260802134913688.htm",
+      "summary": "Mẹo giúp phát hiện pin laptop sắp có nguy cơ hư hỏng ngay trên Windows.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T12:25:00+07:00",
+      "fetched": "2026-08-02T19:58:46.662914+07:00"
+    },
+    {
+      "id": "76212b915963eb25cd518921583aeba7",
+      "title": "Lắp pin mặt trời, dùng xe điện để 'xanh hóa' nhà kho",
+      "link": "https://vnexpress.net/lap-pin-mat-troi-dung-xe-dien-de-xanh-hoa-nha-kho-5104295.html",
+      "summary": "Nhiều chủ đầu tư nhà kho vận đang tích cực lắp điện mặt trời, dùng xe nâng điện để đáp ứng tiêu chí môi trường, giảm phát thải từ các tập đoàn toàn cầu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-02T12:23:09+07:00",
+      "fetched": "2026-08-02T19:58:51.829082+07:00"
+    },
+    {
       "id": "ceb1422299ff5152686a0128bf325719",
       "title": "Hàng ngàn khán giả 'cháy' cùng Bích Phương, Hoàng Dũng tại đại nhạc hội VPBank Prime's Night",
       "link": "https://tuoitre.vn/hang-ngan-khan-gia-chay-cung-bich-phuong-hoang-dung-tai-dai-nhac-hoi-vpbank-primes-night-100260802042629594.htm",
@@ -451,6 +691,186 @@ window.newsData_2026_08_02 = {
       "category": "Tổng hợp",
       "published": "2026-08-02T12:17:47.572852+07:00",
       "fetched": "2026-08-02T12:17:47.573023+07:00"
+    },
+    {
+      "id": "4a4aca5b98a8487e2cddc11bf46ec757",
+      "title": "Phát hiện bia nhôm khắc thông tin liệt sĩ: 1 người liên hệ nhận là thân nhân",
+      "link": "https://thanhnien.vn/phat-hien-bia-nhom-khac-thong-tin-liet-si-1-nguoi-lien-he-nhan-la-than-nhan-185260802185605782.htm",
+      "summary": "Sau khi tấm bia nhôm khắc thông tin 'liệt sĩ: NG T TRO' được phát hiện trong phần mộ tại Nghĩa trang liệt sĩ Bắc Trà My ở thành phố Đà Nẵng, có một người ở Hà Tây cũ đã liên hệ, nhận là cháu ruột của liệt sĩ Nguyễn Tiến Trò.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T12:15:00+07:00",
+      "fetched": "2026-08-02T19:58:46.663064+07:00"
+    },
+    {
+      "id": "e7fc53b93ec8cc089974cfa8c82414ec",
+      "title": "Iran mỉa mai ông Trump vì tuyên bố 'hủy cuộc tấn công lớn chưa từng thấy'",
+      "link": "https://vnexpress.net/iran-mia-mai-ong-trump-vi-tuyen-bo-huy-cuoc-tan-cong-lon-chua-tung-thay-5104336.html",
+      "summary": "Truyền thông Iran phủ nhận phát biểu của ông Trump rằng Tehran đề nghị Washington ngừng không kích, nhấn mạnh Mỹ đã \"một lần nữa rút lui\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-02T12:13:57+07:00",
+      "fetched": "2026-08-02T19:58:49.981961+07:00"
+    },
+    {
+      "id": "1cbca05fec536379d96ef51f6983ce64",
+      "title": "Bố bị tước bằng lái vì để hai con ngồi trên đuôi xe",
+      "link": "https://vnexpress.net/bo-bi-tuoc-bang-lai-vi-de-hai-con-ngoi-tren-duoi-xe-5103995.html",
+      "summary": "Người đàn ông bị phạt tiền và tước bằng lái sau khi cho hai con trai ngồi phía sau chiếc Porsche đang chạy để \"trải nghiệm\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T12:02:22+07:00",
+      "fetched": "2026-08-02T19:58:42.370311+07:00"
+    },
+    {
+      "id": "0d3fc66be9ef1f5eedb0864a29f446d0",
+      "title": "Vì sao tuổi 40 người an yên, người chật vật?",
+      "link": "https://vnexpress.net/vi-sao-tuoi-40-nguoi-an-yen-nguoi-chat-vat-5104256.html",
+      "summary": "Hai bức tranh hoàn toàn khác nhau về tuổi 40: Người thấy đủ đầy, an yên, người vẫn lo toan từng khoản chi và tương lai phía trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T12:00:00+07:00",
+      "fetched": "2026-08-02T19:58:42.370514+07:00"
+    },
+    {
+      "id": "c0caf6bf82b370748bd2d4e831555ae3",
+      "title": "Thông điệp trái ngược từ hai đồng minh với ông Trump trong chiến sự Iran",
+      "link": "https://vnexpress.net/thong-diep-trai-nguoc-tu-hai-dong-minh-voi-ong-trump-trong-chien-su-iran-5103985.html",
+      "summary": "Arab Saudi và Israel mang đến Nhà Trắng hai thông điệp trái ngược về chiến sự Iran, buộc Tổng thống Trump phải lựa chọn giữa hạ nhiệt hay leo thang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T12:00:00+07:00",
+      "fetched": "2026-08-02T19:58:42.370687+07:00"
+    },
+    {
+      "id": "3a5579202f3a4ce8369755623144dc16",
+      "title": "'Nghỉ hè sợ nghỉ hưu' cùng loạt phim ra rạp tháng 8",
+      "link": "https://vnexpress.net/nghi-he-so-nghi-huu-cung-loat-phim-ra-rap-thang-8-5103801.html",
+      "summary": "Phim Việt \"Nghỉ hè sợ nghỉ hưu\" cùng tác phẩm gây sốt phòng vé Trung Quốc \"Thư tình gửi ngoại\" ra mắt màn ảnh rộng trong nước tháng 8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T12:00:00+07:00",
+      "fetched": "2026-08-02T19:58:42.370848+07:00"
+    },
+    {
+      "id": "c0caf6bf82b370748bd2d4e831555ae3",
+      "title": "Thông điệp trái ngược từ hai đồng minh với ông Trump trong chiến sự Iran",
+      "link": "https://vnexpress.net/thong-diep-trai-nguoc-tu-hai-dong-minh-voi-ong-trump-trong-chien-su-iran-5103985.html",
+      "summary": "Arab Saudi và Israel mang đến Nhà Trắng hai thông điệp trái ngược về chiến sự Iran, buộc Tổng thống Trump phải lựa chọn giữa hạ nhiệt hay leo thang.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-02T12:00:00+07:00",
+      "fetched": "2026-08-02T19:58:49.982139+07:00"
+    },
+    {
+      "id": "d7cd3a1befb404fd4ba52135ac9f4e18",
+      "title": "Ăn cơm chan nước canh có làm hỏng dạ dày?",
+      "link": "https://vnexpress.net/an-com-chan-nuoc-canh-co-lam-hong-da-day-5104253.html",
+      "summary": "Từ nhỏ tôi đã được bố mẹ nhắc không nên vừa ăn cơm vừa chan canh vì sẽ nuốt nhanh, không nhai kỹ, lâu ngày dễ đau dạ dày, chỉ nên uống canh riêng. Điều này có đúng không? (Lan, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T11:43:10+07:00",
+      "fetched": "2026-08-02T19:58:42.371003+07:00"
+    },
+    {
+      "id": "af57868c87b47d1fab7804ea44a2cd68",
+      "title": "Madam Pang viết tâm thư dài cho đội tuyển Thái Lan, hứa thưởng 1,5 tỉ đồng nếu…",
+      "link": "https://thanhnien.vn/madam-pang-viet-tam-thu-dai-cho-doi-tuyen-thai-lan-hua-thuong-15-ti-dong-neu-185260802182646876.htm",
+      "summary": "Sau khi đội tuyển Thái Lan giành 6 điểm tuyệt đối và chưa để thủng lưới tại ASEAN Cup 2026, Madam Pang lên tiếng động viên các cầu thủ, đồng thời hứa thưởng 2 triệu baht nếu ‘Voi chiến’ đứng đầu bảng B và vào bán kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T11:38:00+07:00",
+      "fetched": "2026-08-02T19:58:46.663214+07:00"
+    },
+    {
+      "id": "bc16f4bcf59ae19107055136e430fe70",
+      "title": "Capital One nói đóng 300 tài khoản của Tập đoàn Trump do lo ngại rửa tiền",
+      "link": "https://vnexpress.net/capital-one-noi-dong-300-tai-khoan-cua-tap-doan-trump-do-lo-ngai-rua-tien-5104331.html",
+      "summary": "Capital One bác đơn kiện của Tập đoàn Trump, khẳng định đóng 300 tài khoản doanh nghiệp do lo ngại rửa tiền chứ không mang mục đích chính trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T11:32:58+07:00",
+      "fetched": "2026-08-02T19:58:42.371165+07:00"
+    },
+    {
+      "id": "bc16f4bcf59ae19107055136e430fe70",
+      "title": "Capital One nói đóng 300 tài khoản của Tập đoàn Trump do lo ngại rửa tiền",
+      "link": "https://vnexpress.net/capital-one-noi-dong-300-tai-khoan-cua-tap-doan-trump-do-lo-ngai-rua-tien-5104331.html",
+      "summary": "Capital One bác đơn kiện của Tập đoàn Trump, khẳng định đóng 300 tài khoản doanh nghiệp do lo ngại rửa tiền chứ không mang mục đích chính trị.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-02T11:32:58+07:00",
+      "fetched": "2026-08-02T19:58:51.829258+07:00"
+    },
+    {
+      "id": "a868c4497c31473e720c536b96ff5eed",
+      "title": "Đội tuyển Việt Nam làm quen sân đấu Indonesia",
+      "link": "https://vnexpress.net/doi-tuyen-viet-nam-lam-quen-san-dau-indonesia-5104337.html",
+      "summary": "Các cầu thủ Việt Nam chỉ có một tiếng làm quen sân Pakansari, trước khi đối đầu chủ nhà Indonesia ở lượt 4 bảng A ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T11:32:10+07:00",
+      "fetched": "2026-08-02T19:58:42.371327+07:00"
+    },
+    {
+      "id": "a868c4497c31473e720c536b96ff5eed",
+      "title": "Đội tuyển Việt Nam làm quen sân đấu Indonesia",
+      "link": "https://vnexpress.net/doi-tuyen-viet-nam-lam-quen-san-dau-indonesia-5104337.html",
+      "summary": "Các cầu thủ Việt Nam chỉ có một tiếng làm quen sân Pakansari, trước khi đối đầu chủ nhà Indonesia ở lượt 4 bảng A ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-02T11:32:10+07:00",
+      "fetched": "2026-08-02T19:59:19.834510+07:00"
+    },
+    {
+      "id": "ac622c521c3c13c59b33ccf03c2531cf",
+      "title": "‘Không hợp thức hóa những bất cập của thực tiễn bằng pháp luật’",
+      "link": "https://thanhnien.vn/khong-hop-thuc-hoa-nhung-bat-cap-cua-thuc-tien-bang-phap-luat-185260802180054032.htm",
+      "summary": "Chủ tịch Quốc hội nhấn mạnh, cần đánh giá kỹ tác động của từng chính sách; không hợp thức hóa những bất cập của thực tiễn bằng pháp luật, nhưng cũng không cầu toàn đến mức làm chậm quá trình đổi mới và phát triển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T11:29:00+07:00",
+      "fetched": "2026-08-02T19:58:46.663370+07:00"
+    },
+    {
+      "id": "834b088c730caafb12e4718ad9701290",
+      "title": "Đội tuyển Việt Nam rạng rỡ trước cuộc đại chiến Indonesia, Xuân Son gây chú ý vì trang phục ‘lạ’",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-rang-ro-truoc-cuoc-dai-chien-indonesia-xuan-son-gay-chu-y-vi-trang-phuc-la-185260802175831498.htm",
+      "summary": "Chiều 2.8, trong buổi tập làm quen sân Pakansari trước cuộc đối đầu Indonesia, đội tuyển Việt Nam cho thấy đã gạt đi trận hòa đáng tiếc trước Singapore và tỏ ra cực kỳ thoải mái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T11:25:00+07:00",
+      "fetched": "2026-08-02T19:58:46.663546+07:00"
+    },
+    {
+      "id": "2ef9446d86add85a106826ddda38b47f",
+      "title": "Patrik Lê Giang: 'Mọi đối thủ đều như nhau, kể cả Indonesia'",
+      "link": "https://vnexpress.net/patrik-le-giang-moi-doi-thu-deu-nhu-nhau-ke-ca-indonesia-5104335.html",
+      "summary": "Đánh giá cao Indonesia, nhưng thủ môn Patrik Lê Giang khẳng định Việt Nam xem mọi đối thủ như nhau và tập trung chủ yếu vào công việc của chính mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T11:23:27+07:00",
+      "fetched": "2026-08-02T19:58:42.371510+07:00"
+    },
+    {
+      "id": "2ef9446d86add85a106826ddda38b47f",
+      "title": "Patrik Lê Giang: 'Mọi đối thủ đều như nhau, kể cả Indonesia'",
+      "link": "https://vnexpress.net/patrik-le-giang-moi-doi-thu-deu-nhu-nhau-ke-ca-indonesia-5104335.html",
+      "summary": "Đánh giá cao Indonesia, nhưng thủ môn Patrik Lê Giang khẳng định Việt Nam xem mọi đối thủ như nhau và tập trung chủ yếu vào công việc của chính mình.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-02T11:23:27+07:00",
+      "fetched": "2026-08-02T19:59:19.834684+07:00"
+    },
+    {
+      "id": "c1046391a69d3f8eeeeb21d07377fb20",
+      "title": "Cô gái sở hữu IELTS 8.5, Hoa khôi Ngoại thương ghi danh Hoa hậu Việt Nam",
+      "link": "https://thanhnien.vn/co-gai-so-huu-ielts-85-hoa-khoi-ngoai-thuong-ghi-danh-hoa-hau-viet-nam-185260802180046983.htm",
+      "summary": "Vòng sơ khảo phía nam của Hoa hậu Việt Nam thu hút khoảng 100 thí sinh tranh tài, trong đó nhiều ứng viên có trình độ học vấn tốt, từng là hoa khôi ở trường đại học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T11:11:00+07:00",
+      "fetched": "2026-08-02T19:58:46.663701+07:00"
     },
     {
       "id": "0d04992e0651853df0d56dc1ad856b50",
