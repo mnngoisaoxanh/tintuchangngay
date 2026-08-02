@@ -1,6 +1,6 @@
 window.newsData_2026_08_03 = {
   "date": "2026-08-03",
-  "lastUpdated": "2026-08-03T03:42:31.381511+07:00",
+  "lastUpdated": "2026-08-03T05:44:51.557433+07:00",
   "articles": [
     {
       "id": "d3c0b5e9b016be211f1658c2d4ec2b0c",
@@ -171,6 +171,186 @@ window.newsData_2026_08_03 = {
       "category": "Tổng hợp",
       "published": "2026-08-03T01:55:07.824448+07:00",
       "fetched": "2026-08-03T01:55:07.824613+07:00"
+    },
+    {
+      "id": "d2dcd867d04a8dcb379a230ef3fdeacc",
+      "title": "Khai mạc kỳ họp Quốc hội không thường lệ",
+      "link": "https://thanhnien.vn/khai-mac-ky-hop-quoc-hoi-khong-thuong-le-18526080221345447.htm",
+      "summary": "Sáng nay 3.8, kỳ họp không thường lệ lần thứ nhất, Quốc hội khóa XVI sẽ chính thức khai mạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T22:43:00+07:00",
+      "fetched": "2026-08-03T05:44:43.906699+07:00"
+    },
+    {
+      "id": "1ac7ea8421cc87857c60783b2ea53280",
+      "title": "Dữ liệu camera giúp công an lần theo dấu nghi phạm",
+      "link": "https://thanhnien.vn/du-lieu-camera-giup-cong-an-lan-theo-dau-nghi-pham-185260802220326648.htm",
+      "summary": "Mạng lưới camera tại TP.HCM hỗ trợ công an giám sát địa bàn, nhận diện biển số, khuôn mặt và lần theo dấu nghi phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T22:40:00+07:00",
+      "fetched": "2026-08-03T05:44:43.906815+07:00"
+    },
+    {
+      "id": "9dc56a1e69440d8b21ce49de4346ca31",
+      "title": "TP.HCM đang vận hành camera thông minh thế nào ?",
+      "link": "https://thanhnien.vn/tphcm-dang-van-hanh-camera-thong-minh-the-nao-185260802215801313.htm",
+      "summary": "Khoảng 2.000 camera đang hoạt động trên các tuyến đường TP.HCM, từ quan sát, đo đếm dòng xe đến phát hiện sự cố, vi phạm… giúp điều hành giao thông như thế nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T22:37:00+07:00",
+      "fetched": "2026-08-03T05:44:43.906922+07:00"
+    },
+    {
+      "id": "8751f353cb40d54ea6ae69a3c865842b",
+      "title": "Tiêu điểm quốc tế ngày 3.8: Mỹ lại hủy đánh Iran | Nổ bom nhà hàng Moscow",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-38-my-lai-huy-danh-iran-no-bom-nha-hang-moscow-185260802233358809.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 3.8.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T22:30:00+07:00",
+      "fetched": "2026-08-03T05:44:43.907021+07:00"
+    },
+    {
+      "id": "78cb1e593d20a0c91ed5ae7b161941a9",
+      "title": "42 tờ vé trúng hơn 1,6 tỉ đồng xổ số miền Nam, lộ diện 4 chủ nhân",
+      "link": "https://thanhnien.vn/42-to-ve-trung-hon-16-ti-dong-xo-so-mien-nam-lo-dien-4-chu-nhan-185260802120123017.htm",
+      "summary": "Một đại lý ở Lâm Đồng vừa đổi thưởng 42 tờ vé số trúng giải an ủi và khuyến khích xổ số miền Nam ngày 30 tháng 7. Số vé may mắn này thuộc về 4 người khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T22:30:00+07:00",
+      "fetched": "2026-08-03T05:44:43.907133+07:00"
+    },
+    {
+      "id": "9943a0d8ba21305d4738b160b9a9166b",
+      "title": "Từ tháng 8, ưu đãi 5% cho nhà đầu tư ứng dụng công nghệ tiên tiến, siết quản lý AI rủi ro cao",
+      "link": "https://thanhnien.vn/tu-thang-8-uu-dai-5-cho-nha-dau-tu-ung-dung-cong-nghe-tien-tien-siet-quan-ly-ai-rui-ro-cao-185260802184827173.htm",
+      "summary": "Từ tháng 8, nhiều chính sách mới trong lĩnh vực trí tuệ nhân tạo (AI), ưu đãi đầu tư công nghệ cao và đơn giản hóa thủ tục khi mua hàng miễn thuế chính thức đi vào đời sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T22:29:00+07:00",
+      "fetched": "2026-08-03T05:44:43.907229+07:00"
+    },
+    {
+      "id": "e6afe03a25446a1c5bfd1e2fe83e9ea7",
+      "title": "Buổi sáng nên uống gì để hỗ trợ chức năng thận?",
+      "link": "https://thanhnien.vn/buoi-sang-nen-uong-gi-de-ho-tro-chuc-nang-than-185260803002711438.htm",
+      "summary": "Theo các chuyên gia, ngoài nước lọc, một số đồ uống như cà phê không đường và trà xanh cũng có thể góp phần hỗ trợ sức khỏe thận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T22:25:00+07:00",
+      "fetched": "2026-08-03T05:44:43.907324+07:00"
+    },
+    {
+      "id": "3a7f52113b54a84d2e9173eb7376ac4e",
+      "title": "80 ý tưởng khởi nghiệp tranh tài: Từ AI đến thực phẩm, sức khỏe",
+      "link": "https://thanhnien.vn/80-y-tuong-khoi-nghiep-tranh-tai-tu-ai-den-thuc-pham-suc-khoe-185260802092844572.htm",
+      "summary": "Từ 244 dự án đăng ký, 80 ý tưởng khởi nghiệp được chọn vào bán kết HUIT Startup 2026, với nhiều giải pháp sáng tạo hướng đến giải quyết những vấn đề thực tế và phát triển bền vững.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T22:25:00+07:00",
+      "fetched": "2026-08-03T05:44:43.907416+07:00"
+    },
+    {
+      "id": "758485fb482c9d93c30390b2c82d489f",
+      "title": "Tử vi ngày 3 tháng 8: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-3-thang-8-con-giap-nao-may-man-hom-nay-185260802223233257.htm",
+      "summary": "Tử vi ngày 3 tháng 8 mang đến những gợi ý tham khảo cho 12 con giáp, với câu chuyện đáng chú ý hôm nay nằm ở cách mỗi người sử dụng tiền bạc. Một ly cà phê mua vội, vài chục ngàn phí giao hàng, món đồ đang giảm giá hay lời rủ góp tiền cho một cuộc vui đều là những quyết định rất nhỏ, nhưng cộng lại ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T22:15:00+07:00",
+      "fetched": "2026-08-03T05:44:43.907512+07:00"
+    },
+    {
+      "id": "d3da7f113c683c4c2242abaa745532cd",
+      "title": "Chiến sự Ukraine ngày 1.621: Căn cứ không quân Nga bị tấn công?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1621-can-cu-khong-quan-nga-bi-tan-cong-185260802185520504.htm",
+      "summary": "Quân đội Ukraine tuyên bố đã tấn công một căn cứ không quân Nga chứa các máy bay ném bom chiến lược Tu-95MS và Tu-160, trong khi Bộ Quốc phòng Nga khẳng định Ukraine mất 1.415 binh sĩ trong 24 giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T22:12:00+07:00",
+      "fetched": "2026-08-03T05:44:43.907609+07:00"
+    },
+    {
+      "id": "9f7b420ac4df0039104efac1f8df252a",
+      "title": "Nắng nóng, cháy rừng lại hoành hành châu Âu",
+      "link": "https://thanhnien.vn/nang-nong-chay-rung-lai-hoanh-hanh-chau-au-185260802200818689.htm",
+      "summary": "Một quốc gia châu Âu buộc phải đóng cửa nhà máy điện hạt nhân duy nhất của mình khi nhiệt độ tăng cao, trong khi 3 nước khác lại đối phó các đám cháy rừng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T22:04:00+07:00",
+      "fetched": "2026-08-03T05:44:43.907706+07:00"
+    },
+    {
+      "id": "42f5c2f368ac8187f878b7b5bfd85edb",
+      "title": "Lịch âm hôm nay 3.8: Lưu ý việc không nên làm ngày Kỷ Dậu",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-38-luu-y-viec-khong-nen-lam-ngay-ky-dau-185260802104935775.htm",
+      "summary": "Lịch âm hôm nay 3.8 ngày Kỷ Dậu, là ngày rất xấu theo quan niệm dân gian. Cần lưu ý gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T22:00:00+07:00",
+      "fetched": "2026-08-03T05:44:43.907802+07:00"
+    },
+    {
+      "id": "ecc3029d3b39dbc04c8b2c4d3d43fd57",
+      "title": "'Kim bài Trump' của ông Netanyahu mất dần hiệu lực",
+      "link": "https://vnexpress.net/kim-bai-trump-cua-ong-netanyahu-mat-dan-hieu-luc-5102793.html",
+      "summary": "Từng là lợi thế chính trị lớn nhất của Thủ tướng Netanyahu, mối quan hệ với Tổng thống Trump đang mất dần sức nặng khi bất đồng Mỹ - Israel ngày càng lộ rõ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-02T22:00:00+07:00",
+      "fetched": "2026-08-03T05:44:46.551992+07:00"
+    },
+    {
+      "id": "9e2ef1c57676a0591bdc6cc54fb9d9e3",
+      "title": "Mô hình AI gian lận, phản bội để bán hàng trong thử nghiệm",
+      "link": "https://vnexpress.net/mo-hinh-ai-gian-lan-phan-boi-de-ban-hang-trong-thu-nghiem-5103898.html",
+      "summary": "Trong bài kiểm tra vận hành máy bán hàng tự động, các mô hình AI tiên tiến lập liên minh ấn định giá, nhưng sau đó phản bội nhau để kiếm tiền.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-02T22:00:00+07:00",
+      "fetched": "2026-08-03T05:44:49.906597+07:00"
+    },
+    {
+      "id": "33db034327dc60f53c5e11df1acbdb1e",
+      "title": "Flycam ngắm chợ nổi ‘độc nhất vô nhị’ ở Quảng Ngãi",
+      "link": "https://thanhnien.vn/flycam-ngam-cho-noi-doc-nhat-vo-nhi-o-quang-ngai-185260802155424798.htm",
+      "summary": "Chỉ họp trong hơn 2 giờ vào rạng sáng, chợ nổi Cửa Đại (xã An Phú, tỉnh Quảng Ngãi) là nơi hải sản được mua bán ngay trên mặt nước, tạo nên nét sinh hoạt độc đáo của ngư dân vùng cửa biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T21:48:00+07:00",
+      "fetched": "2026-08-03T05:44:43.907894+07:00"
+    },
+    {
+      "id": "47318123e2dafc4d74d0d506c49e4980",
+      "title": "Đứa trẻ lớn lên giữa thiên nhiên sẽ được gì?",
+      "link": "https://vnexpress.net/dua-tre-lon-len-giua-thien-nhien-se-duoc-gi-5103093.html",
+      "summary": "Có một phép thử đơn giản là đưa một đứa trẻ thành phố ra bãi cỏ, cất điện thoại đi, và đếm xem bao lâu thì nó bắt đầu lật một hòn đá lên xem bên dưới có gì.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T21:00:00+07:00",
+      "fetched": "2026-08-03T05:44:39.916692+07:00"
+    },
+    {
+      "id": "a7649ca5d68ad9f7949048b7283fda95",
+      "title": "Các hãng xe Nhật Bản lập kỷ lục nhập khẩu ngược",
+      "link": "https://vnexpress.net/cac-hang-xe-nhat-ban-lap-ky-luc-nhap-khau-nguoc-5104047.html",
+      "summary": "Tận dụng chi phí nhân công rẻ tại Ấn Độ hay Thái Lan, Suzuki và Toyota đang đẩy mạnh việc nhập khẩu xe về thị trường nội địa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T21:00:00+07:00",
+      "fetched": "2026-08-03T05:44:39.916817+07:00"
+    },
+    {
+      "id": "264c62c30804e1cefc9a2ecda0ea9a5c",
+      "title": "Lý do người cao tuổi nên ăn một quả trứng mỗi sáng",
+      "link": "https://vnexpress.net/ly-do-nguoi-cao-tuoi-nen-an-mot-qua-trung-moi-sang-5104112.html",
+      "summary": "Mỗi sáng ăn một quả trứng sẽ giúp cải thiện sức mạnh cơ bắp ở người cao tuổi, hỗ trợ sức khỏe tim mạch, tác động đến nhận thức và góp phần bảo vệ sức khỏe xương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T20:00:00+07:00",
+      "fetched": "2026-08-03T05:44:39.916929+07:00"
     },
     {
       "id": "23d8f6eb1297b065ac6f3c03c2b022f1",
