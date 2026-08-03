@@ -1,7 +1,17 @@
 window.newsData_2026_08_04 = {
   "date": "2026-08-04",
-  "lastUpdated": "2026-08-04T02:19:04.383622+07:00",
+  "lastUpdated": "2026-08-04T03:54:40.100370+07:00",
   "articles": [
+    {
+      "id": "dcab63e7ff5bc95fad9bc96685b7251f",
+      "title": "Đội tuyển Việt Nam khẩn trương về nước sau trận thắng Indonesia",
+      "link": "https://tuoitre.vn/doi-tuyen-viet-nam-khan-truong-ve-nuoc-sau-tran-thang-indonesia-100260804004141725.htm",
+      "summary": "Sau trận thắng Indonesia 3-0 tối 3-8, đội tuyển Việt Nam sẽ về nước vào chiều 4-8 để nhanh chóng chuẩn bị cho trận đấu với Campuchia tại ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T03:54:31.882712+07:00",
+      "fetched": "2026-08-04T03:54:31.882842+07:00"
+    },
     {
       "id": "4fd63be6b5c267caa38a6f89ab2f96ba",
       "title": "Đánh bại Indonesia, Việt Nam đi tiếp trong trường hợp nào ở ASEAN Cup 2026?",
@@ -153,6 +163,46 @@ window.newsData_2026_08_04 = {
       "fetched": "2026-08-04T02:18:55.443224+07:00"
     },
     {
+      "id": "7db28f4415d68fd9edb707d53d59bedf",
+      "title": "Hai Long lý giải màn ăn mừng trước Indonesia, chấn thương đầu của Việt Anh ra sao?",
+      "link": "https://thanhnien.vn/hai-long-ly-giai-man-an-mung-truoc-indonesia-chan-thuong-dau-cua-viet-anh-ra-sao-185260804032102329.htm",
+      "summary": "Tiền vệ Nguyễn Hai Long đã lên tiếng lý giải hành động ăn mừng sau khi ghi bàn vào lưới Indonesia, trong khi trung vệ Bùi Hoàng Việt Anh cũng mang đến tin vui về tình trạng chấn thương sau chiến thắng 3-0 của đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T20:43:00+07:00",
+      "fetched": "2026-08-04T03:54:30.060399+07:00"
+    },
+    {
+      "id": "84cd491e58d7653d2f8ce3609df670f3",
+      "title": "Phát hiện cơ sở kinh doanh thịt heo mắc bệnh dịch tả châu Phi",
+      "link": "https://vnexpress.net/phat-hien-co-so-kinh-doanh-thit-heo-mac-benh-dich-ta-chau-phi-5104712.html",
+      "summary": "Lực lượng chức năng phát hiện gần một tấn thịt heo không rõ nguồn gốc tại một cơ sở, trong đó 7/9 mẫu dương tính với virus dịch tả heo châu Phi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T20:42:03+07:00",
+      "fetched": "2026-08-04T03:54:26.881958+07:00"
+    },
+    {
+      "id": "09d98e9c60c9b543a26d00aa068ec934",
+      "title": "Phút huy hoàng của Hai Long: Nhắc cả Đông Nam Á ai là đương kim vô địch",
+      "link": "https://thanhnien.vn/phut-huy-hoang-cua-hai-long-nhac-ca-dong-nam-a-ai-la-duong-kim-vo-dich-185260804030610829.htm",
+      "summary": "Sau khi sút tung lưới Indonesia, Nguyễn Hai Long có pha ăn mừng cực kỳ ấn tượng, khiến 'chảo lửa' Pakansari thành 'chảo nguội'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T20:42:00+07:00",
+      "fetched": "2026-08-04T03:54:30.060568+07:00"
+    },
+    {
+      "id": "d980cd41afc0a67554b86e706acae61f",
+      "title": "3 loại nước ép màu đỏ hỗ trợ kiểm soát huyết áp",
+      "link": "https://vnexpress.net/3-loai-nuoc-ep-mau-do-ho-tro-kiem-soat-huyet-ap-5103700.html",
+      "summary": "Nghiên cứu chứng minh các dưỡng chất dồi dào trong nước ép củ dền, cà chua, lựu có khả năng làm giãn mạch máu, góp phần hạ chỉ số huyết áp tâm thu lẫn tâm trương cho người bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T20:00:00+07:00",
+      "fetched": "2026-08-04T03:54:26.882144+07:00"
+    },
+    {
       "id": "8398c437cee467793e13f8bc0fbdc350",
       "title": "Chuyên gia châu Á: ‘Việt Nam thắng Indonesia thật ấn tượng, biết tung những đòn quyết định’",
       "link": "https://thanhnien.vn/chuyen-gia-chau-a-viet-nam-thang-indonesia-that-an-tuong-biet-tung-nhung-don-quyet-dinh-185260804020121313.htm",
@@ -171,6 +221,26 @@ window.newsData_2026_08_04 = {
       "category": "Tổng hợp",
       "published": "2026-08-03T19:04:00+07:00",
       "fetched": "2026-08-04T02:18:53.407753+07:00"
+    },
+    {
+      "id": "1fe1f8981a4c6e935c8d9436c7989c29",
+      "title": "'Cao bồi nhí' quăng dây thòng lọng cứu người đuối nước",
+      "link": "https://vnexpress.net/cao-boi-nhi-quang-day-thong-long-cuu-nguoi-duoi-nuoc-5104747.html",
+      "summary": "Thấy người đàn ông bị dòng nước xiết cuốn trôi, Jory Thomas nhanh trí dùng sợi dây thòng lọng chăn bò quăng trúng nạn nhân rồi kéo vào bờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T19:00:00+07:00",
+      "fetched": "2026-08-04T03:54:26.882311+07:00"
+    },
+    {
+      "id": "1fe1f8981a4c6e935c8d9436c7989c29",
+      "title": "'Cao bồi nhí' quăng dây thòng lọng cứu người đuối nước",
+      "link": "https://vnexpress.net/cao-boi-nhi-quang-day-thong-long-cuu-nguoi-duoi-nuoc-5104747.html",
+      "summary": "Thấy người đàn ông bị dòng nước xiết cuốn trôi, Jory Thomas nhanh trí dùng sợi dây thòng lọng chăn bò quăng trúng nạn nhân rồi kéo vào bờ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-03T19:00:00+07:00",
+      "fetched": "2026-08-04T03:54:33.708761+07:00"
     },
     {
       "id": "2dfcba9d51a21045703f991e568ecf5f",
