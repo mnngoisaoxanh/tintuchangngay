@@ -1,7 +1,17 @@
 window.newsData_2026_08_04 = {
   "date": "2026-08-04",
-  "lastUpdated": "2026-08-04T03:54:40.100370+07:00",
+  "lastUpdated": "2026-08-04T05:52:13.783839+07:00",
   "articles": [
+    {
+      "id": "9b8a3389062e524baa9799d76fa68796",
+      "title": "AFC khen ngợi tuyển Việt Nam sau chiến thắng trước Indonesia",
+      "link": "https://tuoitre.vn/afc-khen-ngoi-tuyen-viet-nam-sau-chien-thang-truoc-indonesia-100260803235837385.htm",
+      "summary": "Liên đoàn Bóng đá châu Á (AFC) dành nhiều lời có cánh cho tuyển Việt Nam khi đánh bại Indonesia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T05:52:07.463077+07:00",
+      "fetched": "2026-08-04T05:52:07.463207+07:00"
+    },
     {
       "id": "dcab63e7ff5bc95fad9bc96685b7251f",
       "title": "Đội tuyển Việt Nam khẩn trương về nước sau trận thắng Indonesia",
@@ -161,6 +171,336 @@ window.newsData_2026_08_04 = {
       "category": "Tổng hợp",
       "published": "2026-08-04T02:18:55.443077+07:00",
       "fetched": "2026-08-04T02:18:55.443224+07:00"
+    },
+    {
+      "id": "f187572644aae54b829bd02c3a760af0",
+      "title": "Đối ngoại từ địa phương",
+      "link": "https://thanhnien.vn/doi-ngoai-tu-dia-phuong-185260803232958575.htm",
+      "summary": "Thực tiễn cho thấy chưa có quốc gia, địa phương, tổ chức hay doanh nghiệp nào phát triển thành công mà không thông qua hội nhập quốc tế dưới những hình thức phù hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:52:00+07:00",
+      "fetched": "2026-08-04T05:52:05.625116+07:00"
+    },
+    {
+      "id": "e48cbabe2066738831f386d7e24b1a20",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 4.8.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-482026-185260803234006161.htm",
+      "summary": "Tin tức Thị trường lao động \"chuyển làn\"; Đội tuyển VN thể hiện đẳng cấp; Tại sao Tổng thống Trump giải cứu tiền yen của Nhật?... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 4.8.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:50:00+07:00",
+      "fetched": "2026-08-04T05:52:05.625243+07:00"
+    },
+    {
+      "id": "a4b96caadd13cdc134c7ac9c55007c19",
+      "title": "Thị trường lao động 'chuyển làn'",
+      "link": "https://thanhnien.vn/thi-truong-lao-dong-chuyen-lan-185260803221402282.htm",
+      "summary": "Nơi giảm người hàng loạt, nhưng có nơi cần tuyển cả ngàn người vẫn không có. Thị trường lao động đang thay đổi nhanh theo tốc độ tăng trưởng kinh tế, nhưng nhìn chung nhiều doanh nghiệp đang khát lao động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:47:00+07:00",
+      "fetched": "2026-08-04T05:52:05.625354+07:00"
+    },
+    {
+      "id": "3f857fb6eaad769d230ef75f1bb1d5dd",
+      "title": "Miss Heritage Global lần đầu đến châu Á, quy tụ hơn 50 quốc gia, vùng lãnh thổ",
+      "link": "https://thanhnien.vn/miss-heritage-global-lan-dau-den-chau-a-quy-tu-hon-50-quoc-gia-vung-lanh-tho-185260803212843033.htm",
+      "summary": "Chiều qua (3.8), tại TP.Đà Nẵng, Ban tổ chức Miss Heritage Global 2026 (Hoa hậu Di sản toàn cầu) công bố bộ vương miện chính thức, đồng thời giới thiệu hành trình cuộc thi tại VN và thông báo điều chỉnh thời gian tổ chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:45:00+07:00",
+      "fetched": "2026-08-04T05:52:05.625460+07:00"
+    },
+    {
+      "id": "636c022e005e8de602df520cf3defe41",
+      "title": "Bài toán 'học thật, thi thật': Phá thế độc đạo cửa hẹp một kỳ thi",
+      "link": "https://thanhnien.vn/bai-toan-hoc-that-thi-that-pha-the-doc-dao-cua-hep-mot-ky-thi-185260803193257501.htm",
+      "summary": "Mệnh lệnh đầy quyết liệt của Bộ trưởng Bộ GD-ĐT Hoàng Minh Sơn 'Phải học thật, thi thật, tài năng thật' tại hội nghị Giám đốc Sở GD-ĐT mới đây một lần nữa làm nóng lên một từ khóa vốn đã âm ỉ suốt nhiều năm qua: trả lại chất lượng giáo dục thực chất thông qua bài toán 'học thật, thi thật'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:45:00+07:00",
+      "fetched": "2026-08-04T05:52:05.625581+07:00"
+    },
+    {
+      "id": "394dd2fa3b80217a2c3aaed73a04f1f2",
+      "title": "Biệt thự, xe sang khắp buôn làng Đắk Lắk nhờ sầu riêng được mùa được giá",
+      "link": "https://thanhnien.vn/biet-thu-xe-sang-khap-buon-lang-dak-lak-nho-sau-rieng-duoc-mua-duoc-gia-185260803172927985.htm",
+      "summary": "Nhờ sầu riêng được mùa được giá những năm gần đây, cuộc sống người dân buôn Jung (Đắk Lắk) đổi thay rõ rệt, nhiều gia đình xây nhà tiền tỉ, sắm ô tô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:45:00+07:00",
+      "fetched": "2026-08-04T05:52:05.625690+07:00"
+    },
+    {
+      "id": "1a6fe13b1cd08c0acbe1bbbd4227da98",
+      "title": "Xe hút đinh chạy hơn 2 giờ ở cửa ngõ phía tây TP.HCM, kết quả bất ngờ",
+      "link": "https://thanhnien.vn/xe-hut-dinh-chay-hon-2-gio-o-cua-ngo-phia-tay-tphcm-ket-qua-bat-ngo-185260803095904751.htm",
+      "summary": "CSGT cùng công an địa phương dùng xe gắn nam châm rà hơn 2 giờ trên 2 tuyến đường cửa ngõ phía tây TP.HCM để hút đinh, vật sắc nhọn và ghi nhận kết quả bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:35:00+07:00",
+      "fetched": "2026-08-04T05:52:05.625791+07:00"
+    },
+    {
+      "id": "6f8c6ac411035a0150cdf54f5bb64a43",
+      "title": "Đội tuyển Việt Nam khiến HLV Indonesia 'vỡ kế hoạch': Không thể đứng yên",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-khien-hlv-indonesia-vo-ke-hoach-khong-the-dung-yen-185260804024352517.htm",
+      "summary": "HLV John Herdman có thói quen theo dõi trận đấu và chỉ đạo từ khán đài nhưng thuyền trưởng của Indonesia buộc phải thay đổi trong thất bại 0-3 trước đội tuyển Việt Nam vào tối 4.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:33:00+07:00",
+      "fetched": "2026-08-04T05:52:05.625891+07:00"
+    },
+    {
+      "id": "08fbc07834ed6c014c469f432d96ebbf",
+      "title": "Các dự án sai phạm phải được xử lý nghiêm",
+      "link": "https://thanhnien.vn/cac-du-an-sai-pham-phai-duoc-xu-ly-nghiem-185260803160417429.htm",
+      "summary": "Hàng loạt sai phạm tại các dự án ở Khu du lịch quốc gia hồ Tuyền Lâm và Khu du lịch thác Damb'ri vừa được Thanh tra Lâm Đồng phát hiện. Nhưng việc xử lý sau thanh tra ra sao đang được dư luận quan tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:33:00+07:00",
+      "fetched": "2026-08-04T05:52:05.625993+07:00"
+    },
+    {
+      "id": "795685cbdeacc1233a5c2b62d5378145",
+      "title": "Vì sao Xuân Son vỡ òa khi đội tuyển Việt Nam gần như nắm chắc chiến thắng?",
+      "link": "https://thanhnien.vn/vi-sao-xuan-son-vo-oa-khi-doi-tuyen-viet-nam-gan-nhu-nam-chac-chien-thang-18526080403260661.htm",
+      "summary": "Tối 3.8, tiền đạo Nguyễn Xuân Son đã có pha ăn mừng cực kỳ cảm xúc sau khi ghi bàn ấn định chiến thắng 3-0 cho đội tuyển Việt Nam trước Indonesia trên sân Pakansari.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:32:00+07:00",
+      "fetched": "2026-08-04T05:52:05.626098+07:00"
+    },
+    {
+      "id": "4fb2f010953b73fdd97ef1eb286fa0ab",
+      "title": "Tiếp tục mở rộng tìm hài cốt liệt sĩ",
+      "link": "https://thanhnien.vn/tiep-tuc-mo-rong-tim-hai-cot-liet-si-18526080323164472.htm",
+      "summary": "Ngày 3.8, các lực lượng thuộc Quân khu 7 tiếp tục mở rộng phạm vi tìm kiếm, quy tập hài cốt liệt sĩ tại công viên Lê Thị Riêng (TP.HCM), xã Minh Đức cùng nhiều khu vực thuộc TP.Đồng Nai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:32:00+07:00",
+      "fetched": "2026-08-04T05:52:05.626196+07:00"
+    },
+    {
+      "id": "a7b21957535a27fbfc4cd425c6309f0c",
+      "title": "Tiêu điểm quốc tế ngày 4.8: Vì sao Mỹ thiếu đạn dược? | Ông Maduro có thông điệp bất ngờ",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-48-vi-sao-my-thieu-dan-duoc-ong-maduro-co-thong-diep-bat-ngo-185260803233740626.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 4.8.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:30:00+07:00",
+      "fetched": "2026-08-04T05:52:05.626298+07:00"
+    },
+    {
+      "id": "90cddcf69692faf072f0d366cece2339",
+      "title": "Thượng viện Mỹ ngăn chính phủ đóng cửa lần 3",
+      "link": "https://thanhnien.vn/thuong-vien-my-ngan-chinh-phu-dong-cua-lan-3-18526080322011383.htm",
+      "summary": "Hôm qua (giờ VN), lãnh đạo Thượng viện Mỹ đã đạt thỏa thuận ngân sách chặn đứng nguy cơ chính phủ đóng cửa ngay giữa giai đoạn cao điểm của chiến dịch tranh cử giữa kỳ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:30:00+07:00",
+      "fetched": "2026-08-04T05:52:05.626400+07:00"
+    },
+    {
+      "id": "d507de1610a885daff58cc1043a0c03f",
+      "title": "Giữ cho sông Sài Gòn, sông Đồng Nai xanh trong",
+      "link": "https://thanhnien.vn/giu-cho-song-sai-gon-song-dong-nai-xanh-trong-185260803160202194.htm",
+      "summary": "Ngoài triển khai kế hoạch quản lý chất lượng môi trường nước, bạn đọc đề nghị cơ quan chức năng phải sát sao kiểm tra khi thực hiện thì mới mong cải thiện chất lượng nguồn nước nội thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:30:00+07:00",
+      "fetched": "2026-08-04T05:52:05.626500+07:00"
+    },
+    {
+      "id": "762e363b63bd2596c00eca8296d75b21",
+      "title": "Mua tờ vé số dãy ngẫu nhiên, người phụ nữ trúng độc đắc xổ số miền Nam",
+      "link": "https://thanhnien.vn/mua-to-ve-so-day-ngau-nhien-nguoi-phu-nu-trung-doc-dac-xo-so-mien-nam-185260803154121889.htm",
+      "summary": "Người phụ nữ ở Tây Ninh đã trúng độc đắc tờ vé số theo kết quả xổ số miền Nam ngày 2 tháng 8. Người này nhờ đại lý đến nhà đổi thưởng và nhận tiền mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:30:00+07:00",
+      "fetched": "2026-08-04T05:52:05.626611+07:00"
+    },
+    {
+      "id": "2ff325b7f59f1bf1d9d92204ab7661b4",
+      "title": "Làm sao nhận biết con chậm phát triển chiều cao?",
+      "link": "https://vnexpress.net/lam-sao-nhan-biet-con-cham-phat-trien-chieu-cao-5103514.html",
+      "summary": "Chiều cao thấp hơn chuẩn trẻ cùng lứa hoặc tăng trưởng không quá 4 cm trong một năm cảnh báo bé chậm phát triển chiều cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:04:00+07:00",
+      "fetched": "2026-08-04T05:52:03.056322+07:00"
+    },
+    {
+      "id": "266380619c06b4dba50443965323c8e8",
+      "title": "Sát thủ đào hoa gieo chết chóc qua những cuộc tình chóng vánh",
+      "link": "https://vnexpress.net/sat-thu-dao-hoa-gieo-chet-choc-qua-nhung-cuoc-tinh-chong-vanh-5104788.html",
+      "summary": "Glen Rogers, được truyền thông đặt biệt danh \"Sát thủ Casanova\", dùng vẻ ngoài cuốn hút để tiếp cận phụ nữ nhẹ dạ ở quán bar, rồi biến những cuộc tình tưởng như lãng mạn thành án mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:00:00+07:00",
+      "fetched": "2026-08-04T05:52:03.056504+07:00"
+    },
+    {
+      "id": "c8c8fd9496c02ff8f68bed300d94467f",
+      "title": "Nỗi ám ảnh ở Ceuta sau dòng thác di cư",
+      "link": "https://vnexpress.net/noi-am-anh-o-ceuta-sau-dong-thac-di-cu-5104414.html",
+      "summary": "Hơn 60.000 người di cư đã rời Ceuta sau 5 ngày tràn vào thành phố, nhưng nỗi ám ảnh, chia rẽ và hệ lụy địa chính trị mà cuộc khủng hoảng để lại vẫn còn âm ỉ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:00:00+07:00",
+      "fetched": "2026-08-04T05:52:03.056689+07:00"
+    },
+    {
+      "id": "8ffd924a01448b75d762880f4c62ae84",
+      "title": "Bài học AI từ những tranh cãi về VAR tại World Cup",
+      "link": "https://vnexpress.net/bai-hoc-ai-tu-nhung-tranh-cai-ve-var-tai-world-cup-5104375.html",
+      "summary": "Những màn ăn mừng, dừng lại chờ rồi hụt hẫng khi bàn thắng bị hủy tại World Cup phản ánh thách thức khi triển khai AI, cho thấy khả năng phán đoán của con người vẫn quan trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:00:00+07:00",
+      "fetched": "2026-08-04T05:52:03.056809+07:00"
+    },
+    {
+      "id": "ec4b445473380b9a4947775818669265",
+      "title": "Nỗi cô đơn của những người vợ 'siêu nhân'",
+      "link": "https://vnexpress.net/noi-co-don-cua-nhung-nguoi-vo-sieu-nhan-5103558.html",
+      "summary": "'Tối muộn, dọn xong mâm cơm, Ngọc, 33 tuổi, khựng lại khi thông báo trên điện thoại hiện lên: 'Hôm nay là sinh nhật bạn'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:00:00+07:00",
+      "fetched": "2026-08-04T05:52:03.056920+07:00"
+    },
+    {
+      "id": "589e71c2cd24bfe263c791d160ab13f8",
+      "title": "Lãi suất vay neo cao",
+      "link": "https://vnexpress.net/lai-suat-vay-neo-cao-5102903.html",
+      "summary": "Lãi suất ưu đãi cho các khoản vay tiêu dùng phổ biến 9-11% một năm trong khi lãi vay sản xuất kinh doanh cũng tăng mạnh, được dự báo khó hạ trước quý IV.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:00:00+07:00",
+      "fetched": "2026-08-04T05:52:03.057028+07:00"
+    },
+    {
+      "id": "c84e9478d3b9d395f201cd4e17f764d9",
+      "title": "Xe buýt đến metro chậm hơn xe máy bao nhiêu lần?",
+      "link": "https://vnexpress.net/xe-buyt-den-metro-cham-hon-xe-may-bao-nhieu-lan-5100710.html",
+      "summary": "Trong phạm vi dưới 60 phút di chuyển, hành trình đi xe buýt đến bất kỳ ga Metro số 1 nào cũng chậm hơn xe máy, với thời gian trung bình gấp đôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:00:00+07:00",
+      "fetched": "2026-08-04T05:52:03.057137+07:00"
+    },
+    {
+      "id": "9e406a1d4fd75d62b235a8ad6ce81d29",
+      "title": "Lợi nhuận ngành ôtô: kẻ rủng rỉnh, người chật vật",
+      "link": "https://vnexpress.net/loi-nhuan-nganh-oto-ke-rung-rinh-nguoi-chat-vat-5104410.html",
+      "summary": "Thị trường ôtô thế giới chia rẽ sâu sắc giữa các hãng thắng lớn nhờ bán tải tại Mỹ và những thương hiệu đang hụt hơi ở Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T22:00:00+07:00",
+      "fetched": "2026-08-04T05:52:03.057242+07:00"
+    },
+    {
+      "id": "c8c8fd9496c02ff8f68bed300d94467f",
+      "title": "Nỗi ám ảnh ở Ceuta sau dòng thác di cư",
+      "link": "https://vnexpress.net/noi-am-anh-o-ceuta-sau-dong-thac-di-cu-5104414.html",
+      "summary": "Hơn 60.000 người di cư đã rời Ceuta sau 5 ngày tràn vào thành phố, nhưng nỗi ám ảnh, chia rẽ và hệ lụy địa chính trị mà cuộc khủng hoảng để lại vẫn còn âm ỉ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-03T22:00:00+07:00",
+      "fetched": "2026-08-04T05:52:09.062139+07:00"
+    },
+    {
+      "id": "589e71c2cd24bfe263c791d160ab13f8",
+      "title": "Lãi suất vay neo cao",
+      "link": "https://vnexpress.net/lai-suat-vay-neo-cao-5102903.html",
+      "summary": "Lãi suất ưu đãi cho các khoản vay tiêu dùng phổ biến 9-11% một năm trong khi lãi vay sản xuất kinh doanh cũng tăng mạnh, được dự báo khó hạ trước quý IV.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-03T22:00:00+07:00",
+      "fetched": "2026-08-04T05:52:10.945437+07:00"
+    },
+    {
+      "id": "8ffd924a01448b75d762880f4c62ae84",
+      "title": "Bài học AI từ những tranh cãi về VAR tại World Cup",
+      "link": "https://vnexpress.net/bai-hoc-ai-tu-nhung-tranh-cai-ve-var-tai-world-cup-5104375.html",
+      "summary": "Những màn ăn mừng, dừng lại chờ rồi hụt hẫng khi bàn thắng bị hủy tại World Cup phản ánh thách thức khi triển khai AI, cho thấy khả năng phán đoán của con người vẫn quan trọng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-03T22:00:00+07:00",
+      "fetched": "2026-08-04T05:52:12.807070+07:00"
+    },
+    {
+      "id": "4df600b706442dc430e1af12f0019e82",
+      "title": "Hàng chục xe máy cháy rụi ở TP HCM",
+      "link": "https://vnexpress.net/hang-chuc-xe-may-chay-rui-o-tp-hcm-5104858.html",
+      "summary": "Lửa bùng lên tại khu vực tập kết xe máy cũ ở phường Dĩ An, lan nhanh khiến hàng chục phương tiện bị thiêu rụi, tối 3/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T21:27:38+07:00",
+      "fetched": "2026-08-04T05:52:03.057396+07:00"
+    },
+    {
+      "id": "da0f81e76cb73cca704ea16567bfc2f9",
+      "title": "Vụ 'hack' Bitcoin gần 89 triệu USD làm lung lay niềm tin vào ví lạnh",
+      "link": "https://vnexpress.net/vu-hack-bitcoin-gan-89-trieu-usd-lam-lung-lay-niem-tin-vao-vi-lanh-5104762.html",
+      "summary": "Hàng nghìn ví lạnh Coldcard bị \"hack\" gần 89 triệu USD Bitcoin, dấy lên tranh luận về mức độ an toàn của mô hình tự lưu ký tài sản số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T21:18:06+07:00",
+      "fetched": "2026-08-04T05:52:03.057502+07:00"
+    },
+    {
+      "id": "da0f81e76cb73cca704ea16567bfc2f9",
+      "title": "Vụ 'hack' Bitcoin gần 89 triệu USD làm lung lay niềm tin vào ví lạnh",
+      "link": "https://vnexpress.net/vu-hack-bitcoin-gan-89-trieu-usd-lam-lung-lay-niem-tin-vao-vi-lanh-5104762.html",
+      "summary": "Hàng nghìn ví lạnh Coldcard bị \"hack\" gần 89 triệu USD Bitcoin, dấy lên tranh luận về mức độ an toàn của mô hình tự lưu ký tài sản số.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-03T21:18:06+07:00",
+      "fetched": "2026-08-04T05:52:10.945575+07:00"
+    },
+    {
+      "id": "def08a5f47c0c4520c43633bbc8774f7",
+      "title": "Người mua nhà đối mặt lãi vay 13-15% sau ưu đãi",
+      "link": "https://vnexpress.net/nguoi-mua-nha-doi-mat-lai-vay-13-15-sau-uu-dai-5104630.html",
+      "summary": "Lãi suất vay mua nhà sau ưu đãi phổ biến 13-15% một năm, tăng mạnh so với năm ngoái tạo áp lực lên thanh khoản trong bối cảnh giá bất động sản vẫn neo cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T21:10:59+07:00",
+      "fetched": "2026-08-04T05:52:03.057633+07:00"
+    },
+    {
+      "id": "be6945a777a483765566a2447dfaae03",
+      "title": "Đằng sau việc Mỹ giúp Nhật Bản cứu đồng yen",
+      "link": "https://vnexpress.net/dang-sau-viec-my-giup-nhat-ban-cuu-dong-yen-5104756.html",
+      "summary": "Giới phân tích cho rằng khi mua yen, Mỹ có nhiều tính toán hơn là chỉ hỗ trợ vì \"tình hữu nghị\" như ông Trump tuyên bố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T21:01:46+07:00",
+      "fetched": "2026-08-04T05:52:03.057751+07:00"
+    },
+    {
+      "id": "be6945a777a483765566a2447dfaae03",
+      "title": "Đằng sau việc Mỹ giúp Nhật Bản cứu đồng yen",
+      "link": "https://vnexpress.net/dang-sau-viec-my-giup-nhat-ban-cuu-dong-yen-5104756.html",
+      "summary": "Giới phân tích cho rằng khi mua yen, Mỹ có nhiều tính toán hơn là chỉ hỗ trợ vì \"tình hữu nghị\" như ông Trump tuyên bố.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-03T21:01:46+07:00",
+      "fetched": "2026-08-04T05:52:10.945694+07:00"
+    },
+    {
+      "id": "015ea3ab8e998b5853cd24d61ebbb891",
+      "title": "Zendaya và khối bất động sản gần 19 triệu USD tại Mỹ",
+      "link": "https://vnexpress.net/zendaya-va-khoi-bat-dong-san-gan-19-trieu-usd-tai-my-5104619.html",
+      "summary": "Danh mục bất động sản của Zendaya trải từ nhà phong cách Địa Trung Hải, khu nhà vườn rộng hơn 15.000 m2 đến căn hộ ven sông và hai khu đất liền kề tại Hollywood Hills.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T20:49:24+07:00",
+      "fetched": "2026-08-04T05:52:03.057858+07:00"
     },
     {
       "id": "7db28f4415d68fd9edb707d53d59bedf",
