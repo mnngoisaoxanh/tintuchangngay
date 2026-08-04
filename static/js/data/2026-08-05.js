@@ -1,6 +1,6 @@
 window.newsData_2026_08_05 = {
   "date": "2026-08-05",
-  "lastUpdated": "2026-08-05T02:18:01.645715+07:00",
+  "lastUpdated": "2026-08-05T04:01:49.748599+07:00",
   "articles": [
     {
       "id": "b58716007daae2e80a267e9525033d3f",
@@ -151,6 +151,26 @@ window.newsData_2026_08_05 = {
       "category": "Tổng hợp",
       "published": "2026-08-05T02:17:53.717812+07:00",
       "fetched": "2026-08-05T02:17:53.717956+07:00"
+    },
+    {
+      "id": "2a80ae223c815293297d6cd589c03cd8",
+      "title": "Madam Pang reo lên ‘đây rồi’ khi Thái Lan vượt khó, HLV Hudson muốn thắng mọi trận đấu",
+      "link": "https://thanhnien.vn/madam-pang-reo-len-day-roi-khi-thai-lan-vuot-kho-hlv-hudson-muon-thang-moi-tran-dau-185260804232032993.htm",
+      "summary": "Đội tuyển Thái Lan tiếp tục duy trì thành tích toàn thắng tại ASEAN Cup 2026 sau khi vượt qua Philippines 1-0 trong trận đấu diễn ra tối 4.8. Khoảnh khắc quyết định khiến Chủ tịch Liên đoàn Bóng đá Thái Lan (FAT) Nualphan Lamsam, thường được gọi là Madam Pang không kiềm được cảm xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T20:42:00+07:00",
+      "fetched": "2026-08-05T04:01:40.712530+07:00"
+    },
+    {
+      "id": "7210632c45b981aa2333782b733ed555",
+      "title": "'Trái tim' của đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/trai-tim-cua-doi-tuyen-viet-nam-185260804222224905.htm",
+      "summary": "Màn trình diễn ấn tượng trước Indonesia một lần nữa khẳng định tầm ảnh hưởng lớn của Nguyễn Hoàng Đức. Khi được chơi đúng sở trường, tiền vệ sinh năm 1998 là 'trái tim' trong lối chơi của đội tuyển VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T20:38:00+07:00",
+      "fetched": "2026-08-05T04:01:40.712697+07:00"
     },
     {
       "id": "dfe0c6166fd5e478303198693e64d0d5",
