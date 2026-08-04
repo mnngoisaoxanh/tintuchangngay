@@ -1,7 +1,37 @@
 window.newsData_2026_08_05 = {
   "date": "2026-08-05",
-  "lastUpdated": "2026-08-05T04:01:49.748599+07:00",
+  "lastUpdated": "2026-08-05T05:56:49.213916+07:00",
   "articles": [
+    {
+      "id": "d94253ed57eebb9221926c081a28a4f0",
+      "title": "Thời tiết hôm nay 5-8: Mưa như trút ở Bắc Bộ, Biển Đông có áp thấp nhiệt đới xa",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-5-8-mua-nhu-trut-o-bac-bo-bien-dong-co-ap-thap-nhiet-doi-xa-100260804162438661.htm",
+      "summary": "Hôm nay 5-8, thời tiết các tỉnh Bắc Bộ có đợt mưa rất to, trên Biển Đông có vùng áp thấp nhiệt đới đang hoạt động ở phía tây Philippines.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T05:56:43.512355+07:00",
+      "fetched": "2026-08-05T05:56:43.512415+07:00"
+    },
+    {
+      "id": "2f42c62dc442a1b60b3007809e2908d9",
+      "title": "Vua phá lưới ASEAN Cup 2026: Đình Bắc dưới tiền đạo 1m96 Indonesia",
+      "link": "https://tuoitre.vn/vua-pha-luoi-asean-cup-2026-dinh-bac-duoi-tien-dao-1m96-indonesia-100260804235314246.htm",
+      "summary": "Nguyễn Đình Bắc chưa thể vượt lên dẫn đầu bảng xếp hạng Vua phá lưới ASEAN Cup 2026 sau khi kết thúc lượt trận thứ 4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T05:56:43.512275+07:00",
+      "fetched": "2026-08-05T05:56:43.512343+07:00"
+    },
+    {
+      "id": "9e7c94aa0b3c20a2e364e3c70996fc07",
+      "title": "Vì sao tỉnh giấc lúc 3h sáng? Khoa học có lời giải về giấc ngủ",
+      "link": "https://tuoitre.vn/vi-sao-tinh-giac-luc-3h-sang-khoa-hoc-co-loi-giai-ve-giac-ngu-100260805004318391.htm",
+      "summary": "Giấc ngủ diễn ra theo các chu kỳ kéo dài khoảng 90 - 110 phút, trải qua các giai đoạn ngủ nông, ngủ sâu và ngủ REM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T05:56:43.512115+07:00",
+      "fetched": "2026-08-05T05:56:43.512260+07:00"
+    },
     {
       "id": "b58716007daae2e80a267e9525033d3f",
       "title": "Tiệc ma túy trên bãi biển và đường dây 'chạy' bệnh án tâm thần: Cựu viện trưởng nhận hối lộ 8 tỉ đồng",
@@ -151,6 +181,246 @@ window.newsData_2026_08_05 = {
       "category": "Tổng hợp",
       "published": "2026-08-05T02:17:53.717812+07:00",
       "fetched": "2026-08-05T02:17:53.717956+07:00"
+    },
+    {
+      "id": "4ed12dd9dd306d95faae635249a92014",
+      "title": "Cơ hội để nhà trường bớt phụ thuộc mạng xã hội",
+      "link": "https://thanhnien.vn/co-hoi-de-nha-truong-bot-phu-thuoc-mang-xa-hoi-185260804215044157.htm",
+      "summary": "Việc cấm trẻ tương tác trên mạng xã hội vừa giúp giảm bớt rủi ro trực tuyến, vừa là cơ hội để các hoạt động giáo dục bước vào không gian phù hợp hơn, theo chuyên gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T22:54:00+07:00",
+      "fetched": "2026-08-05T05:56:42.025394+07:00"
+    },
+    {
+      "id": "e1fa56de2fe178a28793e220e66a1b76",
+      "title": "Con em chúng ta ăn gì ở trường?",
+      "link": "https://thanhnien.vn/con-em-chung-ta-an-gi-o-truong-185260804202647735.htm",
+      "summary": "Dự kiến một tuần trước khai giảng năm học mới 2026 - 2027, UBND TP.Hà Nội sẽ công bố quy chế quản lý tạm thời và vận hành HanoiCheck - nền tảng số giúp cha mẹ của hơn 1,18 triệu học sinh có thể tra cứu thực đơn, nguồn gốc thực phẩm, theo dõi bữa ăn bán trú của con em mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T22:52:00+07:00",
+      "fetched": "2026-08-05T05:56:42.025572+07:00"
+    },
+    {
+      "id": "7c65578caee6dde68080a51c870767f0",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 5.8.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-582026-185260804222348764.htm",
+      "summary": "Tin tức đặc biệt trên báo in Thanh Niên 5.8.2026. Tin tức Tổng lực hỗ trợ doanh nghiệp nhỏ và vừa; ASEAN Cup 2026: Đương kim vô địch rũ bỏ áp lực; Villa, homestay mọc như nấm trong rừng phòng hộ… có thể đón xem trên Báo Thanh Niên số ra ngày 5.8.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T22:48:00+07:00",
+      "fetched": "2026-08-05T05:56:42.025734+07:00"
+    },
+    {
+      "id": "0e374793fccc322fc48a949f7b8dfba6",
+      "title": "Tuyển sinh ĐH 2026: Dự báo điểm chuẩn những ngành học 'được lòng' thí sinh",
+      "link": "https://thanhnien.vn/tuyen-sinh-dh-2026-du-bao-diem-chuan-nhung-nganh-hoc-duoc-long-thi-sinh-18526080420145872.htm",
+      "summary": "Từ nay đến 17 giờ ngày 9.8, các trường ĐH, dưới sự chủ trì của Bộ GD-ĐT, tổ chức quy trình lọc ảo, xử lý nguyện vọng xét tuyển của thí sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T22:45:00+07:00",
+      "fetched": "2026-08-05T05:56:42.025891+07:00"
+    },
+    {
+      "id": "fdebf34c0a0174fd7bc3e53abfb4b2b3",
+      "title": "Tiệm sách cũ ở Nha Trang từng có 300 lượt khách mỗi ngày, giờ ra sao?",
+      "link": "https://thanhnien.vn/tiem-sach-cu-o-nha-trang-tung-co-300-luot-khach-moi-ngay-gio-ra-sao-185260802130626001.htm",
+      "summary": "Từng đón 200 - 300 lượt khách mỗi ngày, tiệm sách cũ ở Nha Trang là điểm hẹn của nhiều thế hệ học sinh. Giữa thời smartphone, tiệm sách ấy giờ ra sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T22:45:00+07:00",
+      "fetched": "2026-08-05T05:56:42.026074+07:00"
+    },
+    {
+      "id": "a1d97afdd3b82156a6492734f8d6f12c",
+      "title": "Đương kim vô địch ASEAN Cup rũ bỏ áp lực",
+      "link": "https://thanhnien.vn/duong-kim-vo-dich-asean-cup-ru-bo-ap-luc-18526080422145197.htm",
+      "summary": "Chiến thắng 3-0 trước Indonesia không chỉ giúp đội tuyển VN giành lại ngôi đầu bảng A, mà còn cởi bỏ toàn bộ gánh nặng tâm lý đã đè lên vai thầy trò HLV Kim Sang-sik suốt nhiều ngày qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T22:39:00+07:00",
+      "fetched": "2026-08-05T05:56:42.026232+07:00"
+    },
+    {
+      "id": "f99cf8ad6498820ca01975a300429001",
+      "title": "Mỹ nhân điền kinh Trung Quốc gây sốt với bộ ảnh sinh nhật",
+      "link": "https://vnexpress.net/my-nhan-dien-kinh-trung-quoc-gay-sot-voi-bo-anh-sinh-nhat-5105276.html",
+      "summary": "Wu Yanni gây chú ý với loạt ảnh mới nhân sinh nhật tuổi 29, khoe vẻ đẹp cá tính, thần thái mạnh mẽ và sự kết hợp hài hòa giữa nét quyến rũ cùng sức mạnh thể thao.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-04T22:35:35+07:00",
+      "fetched": "2026-08-05T05:56:49.208609+07:00"
+    },
+    {
+      "id": "72270166140c4f0a8cff76d1cf9d4663",
+      "title": "Đàm phán Mỹ - Iran chưa thoát bế tắc",
+      "link": "https://thanhnien.vn/dam-phan-my-iran-chua-thoat-be-tac-185260804224048813.htm",
+      "summary": "Mỹ và Iran tiếp tục phát tín hiệu trái chiều về đàm phán, trong khi cuộc tranh giành quyền kiểm soát eo biển Hormuz khiến cánh cửa ngoại giao càng khó mở rộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T22:35:00+07:00",
+      "fetched": "2026-08-05T05:56:42.026385+07:00"
+    },
+    {
+      "id": "bba955c4d44cc0a5e544d64af9fe67ef",
+      "title": "Bằng lái bị tạm giữ vẫn lái xe, tài xế và chủ xe bị phạt 176 triệu",
+      "link": "https://thanhnien.vn/bang-lai-bi-tam-giu-van-lai-xe-tai-xe-va-chu-bi-phat-176-trieu-185260804210754985.htm",
+      "summary": "Bằng lái đang bị tạm giữ, tài xế vẫn lái xe đầu kéo trên cao tốc. Khi CSGT kiểm tra, hàng loạt vi phạm được phát hiện khiến tài xế và chủ xe bị phạt tổng cộng 176 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T22:35:00+07:00",
+      "fetched": "2026-08-05T05:56:42.026533+07:00"
+    },
+    {
+      "id": "3c7ef98b3ef95ac05f01329b1a48c097",
+      "title": "Tiêu điểm quốc tế ngày 5.8: Ukraine không cần gia nhập NATO | Ông Trump trách đại gia dầu khí",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-58-ukraine-khong-can-gia-nhap-nato-ong-trump-trach-dai-gia-dau-khi-185260805002828501.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 5.8.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T22:30:00+07:00",
+      "fetched": "2026-08-05T05:56:42.026681+07:00"
+    },
+    {
+      "id": "b78acd3e74f599ca03c997f143194771",
+      "title": "Người phụ nữ trúng 4,1 tỉ xổ số miền Nam, cùng đại lý ra ngân hàng rút tiền",
+      "link": "https://thanhnien.vn/nguoi-phu-nu-trung-41-ti-xo-so-mien-nam-cung-dai-ly-ra-ngan-hang-rut-tien-185260803105447536.htm",
+      "summary": "Một người phụ nữ ngoài 60 tuổi may mắn trúng 4,1 tỉ đồng xổ số miền Nam, cùng đại lý ra ngân hàng rút hết tiền mặt mang về nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T22:30:00+07:00",
+      "fetched": "2026-08-05T05:56:42.026830+07:00"
+    },
+    {
+      "id": "ae8dbbceb5770b20a6b0afb8bc299edc",
+      "title": "Cử tri Mỹ đánh giá đảng Dân chủ cao hơn đảng Cộng hòa về kinh tế",
+      "link": "https://thanhnien.vn/cu-tri-my-danh-gia-dang-dan-chu-cao-hon-dang-cong-hoa-ve-kinh-te-185260804222806104.htm",
+      "summary": "Theo kết quả khảo sát mới nhất của Reuters/Ipsos được công bố ngày 3.8, lần đầu tiên trong gần một thập niên, cử tri Mỹ đánh giá đảng Dân chủ có năng lực quản lý nền kinh tế tốt hơn đảng Cộng hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T22:28:00+07:00",
+      "fetched": "2026-08-05T05:56:42.027001+07:00"
+    },
+    {
+      "id": "771c09110328dba1b663341fec54a14a",
+      "title": "Xúc động bức thư cuối cùng của người lính và lời hẹn ngày thống nhất Tổ quốc",
+      "link": "https://thanhnien.vn/xuc-dong-buc-thu-cuoi-cung-cua-nguoi-linh-va-loi-hen-ngay-thong-nhat-to-quoc-185260804175202001.htm",
+      "summary": "Gia đình ông Nguyễn Văn Tiến hiện vẫn còn lưu giữ nhiều kỷ vật, nhật ký và những bức thư đã ngả màu thời gian của người cha - liệt sĩ Nguyễn Đức Dục. Trong đó, bức thư cuối cùng gửi về từ chiến trường với lời hẹn ngày thống nhất Tổ quốc vẫn khiến thân nhân không khỏi xúc động mỗi khi nhắc lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T22:28:00+07:00",
+      "fetched": "2026-08-05T05:56:42.027169+07:00"
+    },
+    {
+      "id": "667da7b7fb4a784705f474c08454fe05",
+      "title": "Eala giành danh hiệu WTA 500 đầu tiên cho Đông Nam Á",
+      "link": "https://vnexpress.net/eala-gianh-danh-hieu-wta-500-dau-tien-cho-dong-nam-a-5105287.html",
+      "summary": "Tay vợt Alexandra Eala viết nên lịch sử cho quần vợt Đông Nam Á khi hạ Jessica Pegula 4-6, 6-4, 6-0 trong trận chung kết Washington Mở rộng hôm 4/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-04T22:25:43+07:00",
+      "fetched": "2026-08-05T05:56:49.208786+07:00"
+    },
+    {
+      "id": "e8b0687afda0a7f44580448003f183a7",
+      "title": "Lăng kính bạn đọc: Nỗi lo miền Tây 'đói lũ'",
+      "link": "https://thanhnien.vn/lang-kinh-ban-doc-noi-lo-mien-tay-doi-lu-185260804175504154.htm",
+      "summary": "Bài viết Miền Tây 'đói lũ' trên Báo Thanh Niên thu hút nhiều bình luận của bạn đọc thể hiện tâm trạng buồn man mác và nỗi lo lắng trước biến đổi khí hậu ngày càng dị thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T22:24:00+07:00",
+      "fetched": "2026-08-05T05:56:42.027325+07:00"
+    },
+    {
+      "id": "359936bc1fd78d1dd4593a9dc2c09108",
+      "title": "Villa, homestay mọc như nấm trong rừng phòng hộ",
+      "link": "https://thanhnien.vn/villa-homestay-moc-nhu-nam-trong-rung-phong-ho-185260804200532626.htm",
+      "summary": "Trong khi vi phạm cũ ở khu vực quy hoạch rừng phòng hộ Sóc Sơn (Hà Nội) chưa được xử lý dứt điểm thì những công trình nghỉ dưỡng tiếp tục mọc như nấm. Có nơi, đồi núi bị cạo trọc, thung lũng bị san gạt làm biến dạng cảnh quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T22:23:00+07:00",
+      "fetched": "2026-08-05T05:56:42.027476+07:00"
+    },
+    {
+      "id": "99f789a5fb52f9a104a0fb71f8d2ae34",
+      "title": "Hà Nội phải giãn dân mới có thể chấn chỉnh đô thị",
+      "link": "https://thanhnien.vn/ha-noi-phai-gian-dan-moi-co-the-chan-chinh-do-thi-18526080422035472.htm",
+      "summary": "Ngày 4.8, Quốc hội dành trọn ngày làm việc thứ 2 của kỳ họp không thường lệ để thảo luận tại tổ về nhiều dự án luật và nghị quyết quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T22:18:00+07:00",
+      "fetched": "2026-08-05T05:56:42.027629+07:00"
+    },
+    {
+      "id": "29283ce4078182554f81071ed64865bc",
+      "title": "Thuốc ung thư ngày càng đắt, nhiều loại giá tiền tỷ",
+      "link": "https://vnexpress.net/thuoc-ung-thu-ngay-cang-dat-nhieu-loai-gia-tien-ty-5105030.html",
+      "summary": "Thuốc điều trị ung thư ngày càng hiệu quả nhưng càng đắt đỏ, có loại giá hàng tỷ đồng, đặt ra bài toán mở rộng cơ hội tiếp cận cho người bệnh và bảo đảm chi trả từ BHYT.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T22:00:00+07:00",
+      "fetched": "2026-08-05T05:52:12.184300+07:00"
+    },
+    {
+      "id": "aebd9fcd61093e3fcad64437ae7b645a",
+      "title": "Lý do Iran không lùi bước trước lời đe dọa của ông Trump",
+      "link": "https://vnexpress.net/ly-do-iran-khong-lui-buoc-truoc-loi-de-doa-cua-ong-trump-5104886.html",
+      "summary": "Những lần dọa đánh rồi thôi liên tục của ông Trump đã giúp Iran củng cố niềm tin rằng Mỹ mới là bên e ngại đối đầu và đang đánh mất lợi thế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T22:00:00+07:00",
+      "fetched": "2026-08-05T05:52:12.184483+07:00"
+    },
+    {
+      "id": "c19e79e2b39926fdaedea27bf31bf682",
+      "title": "Video dọc đang thay đổi mạng xã hội",
+      "link": "https://vnexpress.net/video-doc-dang-thay-doi-mang-xa-hoi-5104483.html",
+      "summary": "Các mạng xã hội hiện dồn lực vào video dọc và ngắn để khai thác thói quen giải trí qua smartphone, giữ người dùng ở lại lâu hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T22:00:00+07:00",
+      "fetched": "2026-08-05T05:52:12.184651+07:00"
+    },
+    {
+      "id": "e7f4aaac9c61abeca2b46c4f461d0e2d",
+      "title": "Đề xuất làn trái chỉ vượt: Đi thế nào cho đúng",
+      "link": "https://vnexpress.net/de-xuat-lan-trai-chi-vuot-di-the-nao-cho-dung-5104575.html",
+      "summary": "Chuyển sang làn trái để vượt, rồi trở về làn phù hợp giúp tạo khoảng thông thoáng, giảm ùn tắc và tăng an toàn trên cao tốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T22:00:00+07:00",
+      "fetched": "2026-08-05T05:52:12.184812+07:00"
+    },
+    {
+      "id": "aebd9fcd61093e3fcad64437ae7b645a",
+      "title": "Lý do Iran không lùi bước trước lời đe dọa của ông Trump",
+      "link": "https://vnexpress.net/ly-do-iran-khong-lui-buoc-truoc-loi-de-doa-cua-ong-trump-5104886.html",
+      "summary": "Những lần dọa đánh rồi thôi liên tục của ông Trump đã giúp Iran củng cố niềm tin rằng Mỹ mới là bên e ngại đối đầu và đang đánh mất lợi thế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-04T22:00:00+07:00",
+      "fetched": "2026-08-05T05:56:44.569465+07:00"
+    },
+    {
+      "id": "c19e79e2b39926fdaedea27bf31bf682",
+      "title": "Video dọc đang thay đổi mạng xã hội",
+      "link": "https://vnexpress.net/video-doc-dang-thay-doi-mang-xa-hoi-5104483.html",
+      "summary": "Các mạng xã hội hiện dồn lực vào video dọc và ngắn để khai thác thói quen giải trí qua smartphone, giữ người dùng ở lại lâu hơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-04T22:00:00+07:00",
+      "fetched": "2026-08-05T05:56:48.268059+07:00"
+    },
+    {
+      "id": "b289c4e46ff874f9949dbc2f753dba76",
+      "title": "Gờ giảm tốc kiểu phá xe trên quốc lộ",
+      "link": "https://vnexpress.net/go-giam-toc-kieu-pha-xe-tren-quoc-lo-5105026.html",
+      "summary": "Tất cả các phương tiện đều giảm tốc và từ từ chạy qua 6 gờ giảm tốc cỡ lớn liền nhau như đặt bẫy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T21:00:00+07:00",
+      "fetched": "2026-08-05T05:52:12.184969+07:00"
     },
     {
       "id": "2a80ae223c815293297d6cd589c03cd8",
