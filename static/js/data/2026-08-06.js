@@ -1,7 +1,17 @@
 window.newsData_2026_08_06 = {
   "date": "2026-08-06",
-  "lastUpdated": "2026-08-06T03:57:09.128367+07:00",
+  "lastUpdated": "2026-08-06T05:49:01.361040+07:00",
   "articles": [
+    {
+      "id": "bc49d144eb283e99b70b310dbfa69f9c",
+      "title": "Tin tức sáng 6-8: Sáng nay, trình Quốc hội đề xuất lập thành phố Quảng Ninh, Bắc Ninh",
+      "link": "https://tuoitre.vn/tin-tuc-sang-6-8-sang-nay-trinh-quoc-hoi-de-xuat-lap-thanh-pho-quang-ninh-bac-ninh-100260805223012421.htm",
+      "summary": "Tin tức đáng chú ý: Sáng nay trình Quốc hội đề xuất lập thành phố Quảng Ninh, Bắc Ninh; TP.HCM đã giải quyết hơn một nửa kiến nghị cử tri; Lãi suất qua đêm vượt 6% sau khi lùi về 0,7%...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T05:48:52.862350+07:00",
+      "fetched": "2026-08-06T05:48:52.862497+07:00"
+    },
     {
       "id": "9bebb77053824f55f6727e08c279a086",
       "title": "Thời tiết hôm nay 6-8: Bắc Bộ mưa to, bão trên Biển Đông suy yếu",
@@ -221,6 +231,256 @@ window.newsData_2026_08_06 = {
       "category": "Tổng hợp",
       "published": "2026-08-06T00:19:58.924195+07:00",
       "fetched": "2026-08-06T00:19:58.924326+07:00"
+    },
+    {
+      "id": "a97c241fef04aee9dc1aa8569b69df34",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 6.8.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-682026-185260805225237735.htm",
+      "summary": "Tin tức Vốn FDI tăng từ lượng đến chất; Thi lại không phải để xóa bỏ vi phạm với thí sinh chuyên Tuyên Quang; Thương chiến Mỹ - Trung đang âm thầm leo thang thế nào?... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 6.8.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T22:48:00+07:00",
+      "fetched": "2026-08-06T05:48:50.914475+07:00"
+    },
+    {
+      "id": "bd5082aa7421823b737566fa447688e6",
+      "title": "Thi lại không phải để xóa bỏ vi phạm với thí sinh chuyên Tuyên Quang",
+      "link": "https://thanhnien.vn/thi-lai-khong-phai-de-xoa-bo-vi-pham-voi-thi-sinh-chuyen-tuyen-quang-185260805212734269.htm",
+      "summary": "Dù quyết định tổ chức cho toàn bộ thí sinh tại điểm thi Trường THPT chuyên Tuyên Quang thi lại kỳ thi tốt nghiệp THPT năm 2026, nhưng Bộ GD-ĐT khẳng định vẫn xử lý những thí sinh vi phạm sau khi có kết luận điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T22:45:00+07:00",
+      "fetched": "2026-08-06T05:48:50.914640+07:00"
+    },
+    {
+      "id": "ee97bc2dd72d58aaecde9623c6c71d68",
+      "title": "Liên hoan Guitar quốc tế Sài Gòn 2026 thu hút nhiều nghệ sĩ, giảng viên nước ngoài",
+      "link": "https://thanhnien.vn/lien-hoan-guitar-quoc-te-sai-gon-2026-thu-hut-nhieu-nghe-si-giang-vien-nuoc-ngoai-185260805202346282.htm",
+      "summary": "Từ ngày 5 - 9.8, Liên hoan Guitar quốc tế Sài Gòn 2026 (Saigon International Guitar Festival - SIGF 2026) diễn ra tại Nhạc viện TP.HCM, quy tụ các nghệ sĩ, giảng viên và thí sinh guitar cổ điển đến từ nhiều quốc gia: Argentina, Ba Lan, Đan Mạch, Cộng hòa Czech, Nhật Bản, Hàn Quốc, Indonesia, Thái La...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T22:45:00+07:00",
+      "fetched": "2026-08-06T05:48:50.914774+07:00"
+    },
+    {
+      "id": "52d3a46facc72ae300e4edbe0d46e9cd",
+      "title": "Vì sao nhiều gia đình miền Tây đá trái dừa khô vào gầm giường trẻ sơ sinh?",
+      "link": "https://thanhnien.vn/vi-sao-nhieu-gia-dinh-mien-tay-da-trai-dua-kho-vao-gam-giuong-tre-so-sinh-18526072016293436.htm",
+      "summary": "Ở miền Tây, nhiều gia đình còn giữ phong tục đá trái dừa khô vào gầm giường của trẻ sơ sinh khi mới xuất viện về nhà. 'Vật vía' này được để ở đó nhiều năm cùng sự lớn lên của đứa trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T22:45:00+07:00",
+      "fetched": "2026-08-06T05:48:50.914904+07:00"
+    },
+    {
+      "id": "7db0612b7482601466fdc68db561cd1d",
+      "title": "Tổng thống Trump nỗ lực khơi thông điểm nghẽn Hormuz",
+      "link": "https://thanhnien.vn/tong-thong-trump-no-luc-khoi-thong-diem-nghen-hormuz-185260805215533673.htm",
+      "summary": "Tình hình eo biển Hormuz có những chuyển biến tích cực với dự báo lạc quan của Tổng thống Mỹ Donald Trump, trong khi ông đối diện áp lực phải kết thúc cuộc xung đột.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T22:32:00+07:00",
+      "fetched": "2026-08-06T05:48:50.915028+07:00"
+    },
+    {
+      "id": "9a1d5ad5a1290abcf8f660f11a4e5212",
+      "title": "Một ngân hàng phát hành trái phiếu với lãi suất 10%",
+      "link": "https://vnexpress.net/mot-ngan-hang-phat-hanh-trai-phieu-voi-lai-suat-10-5105704.html",
+      "summary": "Sacombank vừa hút 3.650 tỷ đồng qua kênh trái phiếu với lãi suất cố định 10% mỗi năm, cao nhất trong hàng trăm lô trái phiếu ngân hàng từ đầu năm đến nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T22:30:00+07:00",
+      "fetched": "2026-08-06T05:48:47.883751+07:00"
+    },
+    {
+      "id": "a827df8f88f24358da4a10cc014ccbb8",
+      "title": "Tiêu điểm quốc tế ngày 6.8: Mỹ 'đốt' tên lửa vì Iran | Lộ 'đá đói' dưới đáy sông",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-68-my-dot-ten-lua-vi-iran-lo-da-doi-duoi-day-song-185260805224159133.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 6.8.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T22:30:00+07:00",
+      "fetched": "2026-08-06T05:48:50.915148+07:00"
+    },
+    {
+      "id": "539d1b70814c6e64f0ce86150b642e49",
+      "title": "Cần giải mã lớp văn hóa sớm dưới thành lũy phòng thủ ở đèo Hải Vân",
+      "link": "https://thanhnien.vn/can-giai-ma-lop-van-hoa-som-duoi-thanh-luy-phong-thu-o-deo-hai-van-185260805201914142.htm",
+      "summary": "Kết quả khai quật tại trạm Nam Chơn và đồn Chơn Sảng (Đà Nẵng) không chỉ làm rõ hệ thống phòng thủ thời Nguyễn mà còn ghi nhận dấu hiệu có thể tồn tại các lớp văn hóa, di tích có niên đại sớm hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T22:30:00+07:00",
+      "fetched": "2026-08-06T05:48:50.915266+07:00"
+    },
+    {
+      "id": "25a3a3663498d91ddadd41eb68ecd703",
+      "title": "Trúng độc đắc xổ số miền Nam, chàng trai đổi thưởng lúc 3 giờ sáng",
+      "link": "https://thanhnien.vn/trung-doc-dac-xo-so-mien-nam-chang-trai-doi-thuong-luc-3-gio-sang-185260805153617001.htm",
+      "summary": "Chàng trai đi du lịch ở Đà Lạt và mua tờ vé số không ngờ trúng độc đắc xổ số miền Nam đài Vũng Tàu. Vì quá háo hức, người này gọi nhờ đại lý đổi thưởng lúc 3 giờ sáng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T22:30:00+07:00",
+      "fetched": "2026-08-06T05:48:50.915384+07:00"
+    },
+    {
+      "id": "de20043be1471feeb6b94e5d79eb28a9",
+      "title": "Nỗi lo sâu keo mùa thu và chuột đồng loạt tấn công cây ngô ở Gia Lai",
+      "link": "https://thanhnien.vn/noi-lo-sau-keo-mua-thu-va-chuot-dong-loat-tan-cong-cay-ngo-o-gia-lai-185260805152919937.htm",
+      "summary": "Sâu keo mùa thu và chuột gây hại cùng lúc tấn công cây trồng, đe dọa năng suất mùa vụ tại các xã Kông Chro, Ya Ma… (tỉnh Gia Lai).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T22:30:00+07:00",
+      "fetched": "2026-08-06T05:48:50.915533+07:00"
+    },
+    {
+      "id": "9a1d5ad5a1290abcf8f660f11a4e5212",
+      "title": "Một ngân hàng phát hành trái phiếu với lãi suất 10%",
+      "link": "https://vnexpress.net/mot-ngan-hang-phat-hanh-trai-phieu-voi-lai-suat-10-5105704.html",
+      "summary": "Sacombank vừa hút 3.650 tỷ đồng qua kênh trái phiếu với lãi suất cố định 10% mỗi năm, cao nhất trong hàng trăm lô trái phiếu ngân hàng từ đầu năm đến nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-05T22:30:00+07:00",
+      "fetched": "2026-08-06T05:48:55.446157+07:00"
+    },
+    {
+      "id": "f4603fbd29d3cb52769313aef74053f7",
+      "title": "Từng phải 'bịt mũi, nín thở' khi đi qua, người dân mong chờ ngày rạch Đá Đỏ hồi sinh ra sao?",
+      "link": "https://thanhnien.vn/tung-phai-bit-mui-nin-tho-khi-di-qua-nguoi-dan-mong-cho-ngay-rach-da-do-hoi-sinh-ra-sao-185260801231725501.htm",
+      "summary": "Sau nhiều năm phải chịu cảnh ô nhiễm, người dân sống quanh rạch Đá Đỏ, P.An Khánh, TP.HCM giờ đã có thể nhìn thấy những đổi thay đầu tiên. Công trình cải tạo đang dần khơi thông dòng chảy, mở ra kỳ vọng về một không gian đô thị xanh hơn, sạch hơn và đáng sống hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T22:28:00+07:00",
+      "fetched": "2026-08-06T05:48:50.915659+07:00"
+    },
+    {
+      "id": "76a751f81401b3be448d09d523b758ba",
+      "title": "Lái quá 4 giờ liên tục, tài xế bị CSGT phát hiện thế nào?",
+      "link": "https://thanhnien.vn/lai-qua-4-gio-lien-tuc-tai-xe-bi-csgt-phat-hien-the-nao-185260804165057673.htm",
+      "summary": "Từ dữ liệu giám sát hành trình, CSGT phát hiện tài xế lái xe quá 4 giờ liên tục, có trường hợp kéo dài 4 giờ 51 phút 30 giây. Chủ xe cũng bị xử phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T22:25:00+07:00",
+      "fetched": "2026-08-06T05:48:50.915785+07:00"
+    },
+    {
+      "id": "cde18730428acdafa6dfeefa3c4ed8c8",
+      "title": "Hai biến thể Covid-19 đang lưu hành tại TP HCM",
+      "link": "https://vnexpress.net/hai-bien-the-covid-19-dang-luu-hanh-tai-tp-hcm-5105686.html",
+      "summary": "Hai biến thể NB.1.8.1 và XFG.1.1 đang chiếm ưu thế tại TP HCM, song chưa có bằng chứng gây bệnh nặng hơn các chủng trước đây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T22:20:00+07:00",
+      "fetched": "2026-08-06T05:48:47.883913+07:00"
+    },
+    {
+      "id": "cea2432fefffe2b9dee7e7eccc07b764",
+      "title": "Lầu Năm Góc chưa bổ nhiệm được Tham mưu trưởng lục quân",
+      "link": "https://thanhnien.vn/lau-nam-goc-chua-bo-nhiem-duoc-tham-muu-truong-luc-quan-185260805220230173.htm",
+      "summary": "Sau khi sa thải tướng Randy George khỏi ghế Tham mưu trưởng lục quân Mỹ hồi tháng 4, Bộ trưởng Chiến tranh Pete Hegseth tích cực thúc đẩy việc bổ nhiệm người thay thế là tướng Christopher LaNeve.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T22:17:00+07:00",
+      "fetched": "2026-08-06T05:48:50.915905+07:00"
+    },
+    {
+      "id": "c060d41708bda77465222cecdee1f84f",
+      "title": "Tử vi ngày 6 tháng 8: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-6-thang-8-con-giap-nao-may-man-hom-nay-185260805144524781.htm",
+      "summary": "Tử vi ngày 6 tháng 8 mang đến những gợi ý tham khảo cho 12 con giáp. Có những rắc rối trong ngày hoàn toàn có thể tránh được nếu chúng ta chịu khó kiểm tra thêm một lần: thời gian cuộc hẹn, số tiền trên hóa đơn, thực phẩm còn trong tủ lạnh hay tên người nhận trước khi chuyển khoản. Đừng bỏ qua những...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T22:15:00+07:00",
+      "fetched": "2026-08-06T05:48:50.916033+07:00"
+    },
+    {
+      "id": "39c1e2588548d15c7189fc07c0ad63b3",
+      "title": "Honda ra mắt Accord 2027, giá cao nhất gần 40.000 USD",
+      "link": "https://vnexpress.net/honda-ra-mat-accord-2027-gia-cao-nhat-gan-40-000-usd-5105530.html",
+      "summary": "Mẫu sedan cỡ D phiên bản mới tinh chỉnh thiết kế ngoại thất, tập trung vào công nghệ, nâng cấp hệ thống hỗ trợ lái, giá từ 37.000 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T22:08:00+07:00",
+      "fetched": "2026-08-06T05:48:47.884055+07:00"
+    },
+    {
+      "id": "2fd5c0786c3f62a56c31d6d492129343",
+      "title": "Lý do Nga liên tiếp tập kích trạm xăng Ukraine",
+      "link": "https://vnexpress.net/ly-do-nga-lien-tiep-tap-kich-tram-xang-ukraine-5105325.html",
+      "summary": "Các cuộc không kích vào loạt trạm xăng ở Ukraine được cho là chiến thuật mới của Nga nhằm gieo rắc sự hoảng loạn và gây áp lực tâm lý lên người dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T22:00:00+07:00",
+      "fetched": "2026-08-06T05:48:47.884189+07:00"
+    },
+    {
+      "id": "c53a7b4355875b84b8332d8def12b166",
+      "title": "Cuộc đua công nghệ Mỹ - Trung 'tăng nhiệt' dưới đáy biển",
+      "link": "https://vnexpress.net/cuoc-dua-cong-nghe-my-trung-tang-nhiet-duoi-day-bien-5104998.html",
+      "summary": "Không chỉ bán dẫn hay robot, cuộc đua công nghệ Mỹ - Trung còn diễn ra dưới đáy biểu với mục tiêu kiểm soát hạ tầng cáp quang biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T22:00:00+07:00",
+      "fetched": "2026-08-06T05:48:47.884317+07:00"
+    },
+    {
+      "id": "8c19ab36738d57858abca321650f6d40",
+      "title": "Thực đơn 7 ngày detox, giảm mỡ bụng, cải thiện tiêu hóa",
+      "link": "https://vnexpress.net/thuc-don-7-ngay-detox-giam-mo-bung-cai-thien-tieu-hoa-5104894.html",
+      "summary": "Bác sĩ Phan Thái Tân, chuẩn luyện viên dinh dưỡng, giảm cân, gợi ý thực đơn chi tiết detox, giảm mỡ bụng, cải thiện tiêu hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T22:00:00+07:00",
+      "fetched": "2026-08-06T05:48:47.884448+07:00"
+    },
+    {
+      "id": "fa279b03d547ed028aeb68c611cc4695",
+      "title": "Hôm nay 6.8 là ngày gì ở Việt Nam mà nhiều người quan tâm, chia sẻ?",
+      "link": "https://thanhnien.vn/hom-nay-68-la-ngay-gi-o-viet-nam-ma-nhieu-nguoi-quan-tam-chia-se-185260805092942057.htm",
+      "summary": "Hôm nay 6.8 là ngày gì ở Việt Nam? Theo lịch âm hôm nay có gì đặc biệt cần lưu ý?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T22:00:00+07:00",
+      "fetched": "2026-08-06T05:48:50.916149+07:00"
+    },
+    {
+      "id": "2fd5c0786c3f62a56c31d6d492129343",
+      "title": "Lý do Nga liên tiếp tập kích trạm xăng Ukraine",
+      "link": "https://vnexpress.net/ly-do-nga-lien-tiep-tap-kich-tram-xang-ukraine-5105325.html",
+      "summary": "Các cuộc không kích vào loạt trạm xăng ở Ukraine được cho là chiến thuật mới của Nga nhằm gieo rắc sự hoảng loạn và gây áp lực tâm lý lên người dân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-05T22:00:00+07:00",
+      "fetched": "2026-08-06T05:48:54.299083+07:00"
+    },
+    {
+      "id": "c53a7b4355875b84b8332d8def12b166",
+      "title": "Cuộc đua công nghệ Mỹ - Trung 'tăng nhiệt' dưới đáy biển",
+      "link": "https://vnexpress.net/cuoc-dua-cong-nghe-my-trung-tang-nhiet-duoi-day-bien-5104998.html",
+      "summary": "Không chỉ bán dẫn hay robot, cuộc đua công nghệ Mỹ - Trung còn diễn ra dưới đáy biểu với mục tiêu kiểm soát hạ tầng cáp quang biển.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-05T22:00:00+07:00",
+      "fetched": "2026-08-06T05:48:59.105309+07:00"
+    },
+    {
+      "id": "aec22941d7886e8cf03bdc20dad11bc5",
+      "title": "TP.HCM thông báo lịch nghỉ lễ Quốc khánh của cán bộ, công chức, người lao động",
+      "link": "https://thanhnien.vn/tphcm-thong-bao-lich-nghi-le-quoc-khanh-cua-can-bo-cong-chuc-nguoi-lao-dong-185260805220652787.htm",
+      "summary": "Trong dịp nghỉ lễ Quốc khánh năm 2026, cán bộ, công chức, người lao động ở TP.HCM được nghỉ 5 ngày liên tục, từ 29.8 đến hết 2.9.2026 theo phương án hoán đổi ngày làm việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T21:31:00+07:00",
+      "fetched": "2026-08-06T05:48:50.916267+07:00"
+    },
+    {
+      "id": "bf7376153e0174dbc2a5f2b09ecfcffa",
+      "title": "Minivan bùng nổ doanh số, Kia đạt kỷ lục mới",
+      "link": "https://vnexpress.net/minivan-bung-no-doanh-so-kia-dat-ky-luc-moi-5105300.html",
+      "summary": "Kia ghi nhận tháng 7 thành công nhất lịch sử tại Mỹ nhờ sức hút từ mẫu Carnival cùng chuỗi tăng trưởng ấn tượng của các dòng xe hybrid.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-05T21:00:00+07:00",
+      "fetched": "2026-08-06T05:48:47.884603+07:00"
     },
     {
       "id": "3f985c27f37fb2aabff6096bcd1334ca",
