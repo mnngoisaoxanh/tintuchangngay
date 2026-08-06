@@ -1,7 +1,157 @@
 window.newsData_2026_08_06 = {
   "date": "2026-08-06",
-  "lastUpdated": "2026-08-06T08:41:31.786425+07:00",
+  "lastUpdated": "2026-08-06T11:56:01.997168+07:00",
   "articles": [
+    {
+      "id": "9c743d7513ac69e52b9884b8fcd56da0",
+      "title": "Vì sao ngày càng nhiều tiểu thuyết viết về 'người vợ truyền thống'?",
+      "link": "https://tuoitre.vn/vi-sao-ngay-cang-nhieu-tieu-thuyet-viet-ve-nguoi-vo-truyen-thong-100260805221146229.htm",
+      "summary": "Sau khi gây sốt trên TikTok và Instagram, hình tượng 'tradwife' (người vợ theo lối sống truyền thống) đang trở thành nguồn cảm hứng cho nhiều tiểu thuyết mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T11:55:54.203044+07:00",
+      "fetched": "2026-08-06T11:55:54.203083+07:00"
+    },
+    {
+      "id": "a7eba736c4236a2b5b5ca39f10926acd",
+      "title": "452 phim đắp chiếu, 20 tỉ tệ bị chôn: Núi hàng tồn của màn ảnh Trung Quốc",
+      "link": "https://tuoitre.vn/452-phim-dap-chieu-20-ti-te-bi-chon-nui-hang-ton-cua-man-anh-trung-quoc-100260805224151442.htm",
+      "summary": "Đằng sau cú lội ngược dòng hiếm hoi của các 'ngựa ô' màn ảnh là núi phim tồn kho mà ngành giải trí Trung Quốc vẫn chưa thể giải quyết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T11:55:54.202999+07:00",
+      "fetched": "2026-08-06T11:55:54.203038+07:00"
+    },
+    {
+      "id": "06b16f3bfbbacee56c79970092af67ca",
+      "title": "Tiếp tục đầu tư ngân sách hơn 6.200 tỉ đồng cho cảng Liên Chiểu",
+      "link": "https://tuoitre.vn/tiep-tuc-dau-tu-ngan-sach-hon-6200-ti-dong-cho-cang-lien-chieu-100260806094648582.htm",
+      "summary": "Siêu cảng Liên Chiểu ở Đà Nẵng sẽ tiếp tục được đầu tư 6.209 tỉ đồng để từng bước hình thành cảng cửa ngõ quốc tế khu vực miền Trung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T11:55:54.202935+07:00",
+      "fetched": "2026-08-06T11:55:54.202991+07:00"
+    },
+    {
+      "id": "a16c5a4b25e0e798d5e470006222697a",
+      "title": "Tìm được thân nhân liệt sĩ nhờ tấm nhôm viết tên chôn cùng",
+      "link": "https://tuoitre.vn/tim-duoc-than-nhan-liet-si-nho-tam-ton-viet-ten-chon-cung-100260806093606326.htm",
+      "summary": "Khi khai quật một ngôi mộ trong Nghĩa trang liệt sĩ Chư Prông (Gia Lai), Đội K52 phát hiện 1 tấm nhôm viết rõ thông tin liệt sĩ Puih Tong. Anh đã được 'đoàn tụ' cùng gia đình sau gần 60 năm xa cách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T11:55:54.202862+07:00",
+      "fetched": "2026-08-06T11:55:54.202924+07:00"
+    },
+    {
+      "id": "0119d8b79dd095188bf53e8fe0de9c78",
+      "title": "MG ZS đời mới đã về Việt Nam, giá dự kiến dưới 600 triệu, có ADAS, tùy chọn hybrid",
+      "link": "https://tuoitre.vn/mg-zs-doi-moi-da-ve-viet-nam-gia-du-kien-duoi-600-trieu-co-adas-tuy-chon-hybrid-100260806082841476.htm",
+      "summary": "MG ZS thế hệ mới được cho là đang trong giai đoạn hoàn tất thủ tục để chuẩn bị ra mắt Việt Nam. Mẫu SUV cỡ B này được nâng cấp toàn diện về thiết kế, công nghệ và nhiều khả năng sẽ sử dụng hệ truyền động hybrid.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T11:55:54.202788+07:00",
+      "fetched": "2026-08-06T11:55:54.202850+07:00"
+    },
+    {
+      "id": "5d23e40bd1e1fb44451eab57ff4cd71c",
+      "title": "Thoái toàn bộ 40% vốn tại dự án Empire City Thủ Thiêm, Keppel thu về bao nhiêu?",
+      "link": "https://tuoitre.vn/thoai-toan-bo-40-von-tai-du-an-empire-city-thu-thiem-keppel-thu-ve-bao-nhieu-100260806100604595.htm",
+      "summary": "Tập đoàn Keppel (Singapore) vừa chính thức ký thỏa thuận chuyển nhượng toàn bộ 40% cổ phần tại liên doanh phát triển siêu dự án Empire City tại Khu đô thị mới Thủ Thiêm (TP.HCM) với giá trị giao dịch khoảng 7.000 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T11:55:54.202715+07:00",
+      "fetched": "2026-08-06T11:55:54.202778+07:00"
+    },
+    {
+      "id": "a19d6c9bb19f204848e45cc319a9c0c0",
+      "title": "HLV Koji Gyotoku bước vào phòng họp báo, lộ rõ vẻ mệt mỏi",
+      "link": "https://tuoitre.vn/truc-tuyen-hlv-koji-gyotoku-tra-loi-hop-bao-truoc-tran-viet-nam-dau-campuchia-100260806095104741.htm",
+      "summary": "HLV Koji Gyotoku đã bước vào phòng họp báo trước trận Campuchia gặp chủ nhà Việt Nam ở lượt trận cuối cùng bảng A ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T11:55:54.202646+07:00",
+      "fetched": "2026-08-06T11:55:54.202706+07:00"
+    },
+    {
+      "id": "50064e86a71f78c8b12040a5117e93b3",
+      "title": "Trực tuyến HLV Kim Sang Sik trả lời họp báo trước trận Việt Nam gặp Campuchia",
+      "link": "https://tuoitre.vn/truc-tuyen-hlv-kim-sang-sik-tra-loi-hop-bao-truoc-tran-viet-nam-gap-campuchia-100260806093818877.htm",
+      "summary": "Lúc 11h30 hôm nay 6-8, HLV Kim Sang Sik sẽ tham dự họp báo trước trận Việt Nam gặp Campuchia ở lượt trận cuối cùng bảng A ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T11:55:54.202554+07:00",
+      "fetched": "2026-08-06T11:55:54.202634+07:00"
+    },
+    {
+      "id": "ffa7141c224542042d9b53a8a80eb52c",
+      "title": "Từ 15-8 thay đổi quan trọng về ghế cho trẻ em, biển số xe và ưu đãi lệ phí trước bạ",
+      "link": "https://tuoitre.vn/tu-15-8-thay-doi-quan-trong-ve-ghe-cho-tre-em-bien-so-xe-va-uu-dai-le-phi-truoc-ba-100260806102327713.htm",
+      "summary": "Từ ngày 15-8, Nghị định 238/2026 và Nghị quyết 66.22/2026 chính thức có hiệu lực với nhiều điều chỉnh quan trọng. Trong đó, nổi bật là các quy định liên quan đến việc chở trẻ em dưới 10 tuổi, hành vi làm sai lệch biển số hay đăng ký xe trên VNeID.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T11:55:54.202489+07:00",
+      "fetched": "2026-08-06T11:55:54.202544+07:00"
+    },
+    {
+      "id": "73ff7c6896649b3d9b3addb48bf039f6",
+      "title": "Kiểm tra 21 tiệm vàng ở Vĩnh Long, phát hiện 17 vụ vi phạm",
+      "link": "https://tuoitre.vn/kiem-tra-21-tiem-vang-o-vinh-long-phat-hien-17-vu-vi-pham-100260806074742603.htm",
+      "summary": "Kiểm tra 21 cơ sở kinh doanh vàng, kim cương, lực lượng quản lý thị trường Vĩnh Long phát hiện 17 vụ vi phạm, tạm giữ 22 nhẫn vàng, phạt hơn 90,5 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T11:55:54.202424+07:00",
+      "fetched": "2026-08-06T11:55:54.202479+07:00"
+    },
+    {
+      "id": "507d017c9d4bffa2e969508f361f754b",
+      "title": "Chuyện chưa kể về hành trình xác minh, tìm thông tin 17 hài cốt nghi liệt sĩ đặc công",
+      "link": "https://tuoitre.vn/chuyen-chua-ke-ve-hanh-trinh-xac-minh-tim-thong-tin-17-hai-cot-nghi-liet-si-dac-cong-100260806091619328.htm",
+      "summary": "Hội thảo tìm kiếm, xác minh thông tin 17 hài cốt tập thể nghi liệt sĩ do một người dân cất bốc tại xã Hiệp Đức, TP Đà Nẵng để lại nhiều cảm xúc cho những người có mặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T11:55:54.202375+07:00",
+      "fetched": "2026-08-06T11:55:54.202417+07:00"
+    },
+    {
+      "id": "f0437a93894c78f999a2bf48d8b494f9",
+      "title": "Chính phủ đề xuất tăng hơn 86.000 tỉ đồng cho dự án đường sắt Lào Cai - Hà Nội - Hải Phòng",
+      "link": "https://tuoitre.vn/chinh-phu-de-xuat-tang-hon-86000-ti-dong-cho-du-an-duong-sat-lao-cai-ha-noi-hai-phong-100260806100742677.htm",
+      "summary": "Chính phủ đề xuất Quốc hội điều chỉnh chủ trương đầu tư dự án tuyến đường sắt Lào Cai - Hà Nội - Hải Phòng, tăng thêm hơn 86.000 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T11:55:54.202327+07:00",
+      "fetched": "2026-08-06T11:55:54.202369+07:00"
+    },
+    {
+      "id": "ccd424caa8159d69fac222a3f57431d3",
+      "title": "Thủ tướng: Cắt giảm các kỳ thi không cần thiết, không chạy theo tỉ lệ tốt nghiệp",
+      "link": "https://tuoitre.vn/thu-tuong-cat-giam-cac-ky-thi-khong-can-thiet-khong-chay-theo-ti-le-tot-nghiep-100260806101939517.htm",
+      "summary": "Thủ tướng yêu cầu ngành giáo dục đổi mới kiểm tra, đánh giá theo hướng thực chất, không chạy theo tỉ lệ lên lớp, tốt nghiệp; đồng thời tăng cường phòng chống gian lận, nhất là trong kỳ thi tốt nghiệp THPT.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T11:55:54.202273+07:00",
+      "fetched": "2026-08-06T11:55:54.202320+07:00"
+    },
+    {
+      "id": "77257ad2dbecb75d878432d4a077159c",
+      "title": "Giá vàng thế giới tăng không ngừng, trong nước tăng 2 triệu đồng/lượng",
+      "link": "https://tuoitre.vn/gia-vang-the-gioi-tang-khong-ngung-trong-nuoc-tang-2-trieu-dong-luong-100260806104821505.htm",
+      "summary": "Giá vàng thế giới đã tăng gần 300 USD/ounce chỉ trong vòng hai ngày. Sáng nay 6-8, có lúc giá vàng thế giới chạm mức 4.305 USD/ounce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T11:55:54.201977+07:00",
+      "fetched": "2026-08-06T11:55:54.202262+07:00"
+    },
+    {
+      "id": "9c7b2b18866fbe6c87a4f3ad6eeedad6",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm sắp thăm Úc và New Zealand",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-sap-tham-uc-va-new-zealand-100260806092503537.htm",
+      "summary": "Đây sẽ là chuyến thăm đầu tiên của Tổng Bí thư, Chủ tịch nước Tô Lâm đến châu Đại dương trên cương vị người đứng đầu Đảng, Nhà nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T11:55:54.201840+07:00",
+      "fetched": "2026-08-06T11:55:54.201967+07:00"
+    },
     {
       "id": "2c229d558d059a69f5f8a9b73d805ded",
       "title": "Chuyên gia Thái Lan: 'Nền bóng đá có chiều sâu, Việt Nam dẫn đầu Đông Nam Á trong cuộc đua đến World Cup 2030'",
@@ -103,6 +253,366 @@ window.newsData_2026_08_06 = {
       "fetched": "2026-08-06T05:48:52.862497+07:00"
     },
     {
+      "id": "0ec86ef2886a30a4bd6ba6a99454b84c",
+      "title": "Xác định em trai liệt sĩ qua di vật khắc tên 'Dương Văn Hải'",
+      "link": "https://thanhnien.vn/xac-dinh-em-trai-liet-si-qua-di-vat-khac-ten-duong-van-hai-185260806094816965.htm",
+      "summary": "Sau khi tiếp nhận thông tin về phần mộ liệt sĩ có di vật khắc tên 'Dương Văn Hải', UBND xã La Hiên đã chủ động liên hệ và xác định được thân nhân của liệt sĩ là ông Dương Văn Khôi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:55:00+07:00",
+      "fetched": "2026-08-06T11:55:52.085114+07:00"
+    },
+    {
+      "id": "87504a73adaf4c323eb134bc65101e11",
+      "title": "Hiện tượng hiếm thấy ở giải Ngoại hạng Anh",
+      "link": "https://thanhnien.vn/hien-tuong-hiem-thay-o-giai-ngoai-hang-anh-185260805204107182.htm",
+      "summary": "Chưa bao giờ giải Ngoại hạng Anh đứng trước mùa bóng kỳ lạ như thế này khi có đến 9 đội vào cuộc dưới sự dẫn dắt của HLV mới. Kinh nghiệm vô địch Ngoại hạng Anh của tổng cộng 20 nhà cầm quân là… 1 lần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:53:00+07:00",
+      "fetched": "2026-08-06T11:55:52.085246+07:00"
+    },
+    {
+      "id": "2d6b161b7d65438501560b35aaef8815",
+      "title": "Quy định mới liên quan đến ô tô áp dụng từ 15.8, người dùng cần chú ý",
+      "link": "https://thanhnien.vn/quy-dinh-moi-lien-quan-den-o-to-ap-dung-tu-158-nguoi-dung-can-chu-y-185260805090313604.htm",
+      "summary": "Từ ngày 15.8 tới đây, một số quy định mới liên quan đến việc sử dụng ô tô để chở trẻ em, dùng ô tô cá nhân chở khách thu tiền… sẽ bị xử phạt, bên cạnh đó nếu dùng VNeID đăng ký sở hữu xe cũ sẽ được giảm 50% lệ phí trước bạ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:47:00+07:00",
+      "fetched": "2026-08-06T11:55:52.085367+07:00"
+    },
+    {
+      "id": "18e1b53320f8631f9b8bbc8c679352e0",
+      "title": "Nhiều ôtô thủng lốp vì sắt nhọn rơi trên cao tốc",
+      "link": "https://vnexpress.net/nhieu-oto-thung-lop-vi-sat-nhon-roi-tren-cao-toc-5105932.html",
+      "summary": "Hơn 10 ôtô bị thủng lốp khi chạy qua các tuyến cao tốc từ Quảng Ngãi đến Khánh Hòa, nghi do sắt vụn rơi từ xe tải chở phế liệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:46:34+07:00",
+      "fetched": "2026-08-06T11:55:48.930207+07:00"
+    },
+    {
+      "id": "7844acf9a2f2aa3283f13b20c636f0b3",
+      "title": "Chuyên gia: 5 năm tới xe Trung Quốc sẽ vượt xe Hàn tại Việt Nam",
+      "link": "https://vnexpress.net/chuyen-gia-5-nam-toi-xe-trung-quoc-se-vuot-xe-han-tai-viet-nam-5105571.html",
+      "summary": "Theo chuyên gia, với lượng thương hiệu áp đảo, thay đổi từ chất lượng sản phẩm đến chiến lược kinh doanh, doanh số xe Trung Quốc sẽ vượt xe Hàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:45:04+07:00",
+      "fetched": "2026-08-06T11:55:48.930352+07:00"
+    },
+    {
+      "id": "fb26e089afbcc67ffc7133abdfcfbb46",
+      "title": "Ronaldo rút ngắn kỳ nghỉ để gặp tân HLV Postecoglu",
+      "link": "https://vnexpress.net/ronaldo-rut-ngan-ky-nghi-de-gap-tan-hlv-postecoglu-5105867.html",
+      "summary": "Trong khi đi nghỉ cùng gia đình, Cristiano Ronaldo tranh thủ ghé thăm trại huấn luyện của Al Nassr và gặp HLV Ange Postecoglu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:44:43+07:00",
+      "fetched": "2026-08-06T11:55:48.930478+07:00"
+    },
+    {
+      "id": "fb26e089afbcc67ffc7133abdfcfbb46",
+      "title": "Ronaldo rút ngắn kỳ nghỉ để gặp tân HLV Postecoglu",
+      "link": "https://vnexpress.net/ronaldo-rut-ngan-ky-nghi-de-gap-tan-hlv-postecoglu-5105867.html",
+      "summary": "Trong khi đi nghỉ cùng gia đình, Cristiano Ronaldo tranh thủ ghé thăm trại huấn luyện của Al Nassr và gặp HLV Ange Postecoglu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-06T04:44:43+07:00",
+      "fetched": "2026-08-06T11:56:01.990889+07:00"
+    },
+    {
+      "id": "b6ca3de27d5318b4491a3fef58f87994",
+      "title": "Sẽ tháo dỡ quán cà phê và công trình sai phép tại dự án Huế Times Square",
+      "link": "https://thanhnien.vn/se-thao-do-quan-ca-phe-va-cong-trinh-sai-phep-tai-du-an-hue-times-square-185260806105446155.htm",
+      "summary": "Chính quyền địa phương đã ban hành quyết định cưỡng chế tháo dỡ hàng loạt hạng mục xây dựng sai phép tại dự án Huế Times Square (ven sông Hương, thành phố Huế) bao gồm cả quán cà phê Katinat - điểm đến 'hot' của giới trẻ thời gian qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:43:00+07:00",
+      "fetched": "2026-08-06T11:55:52.085485+07:00"
+    },
+    {
+      "id": "d03e3685ab8a250423bcdf7970e7a32e",
+      "title": "Hướng dẫn viên Hội An mời khách Tây ra ngoài vì mặc đồ hở hang",
+      "link": "https://vnexpress.net/huong-dan-vien-hoi-an-moi-khach-tay-ra-ngoai-vi-mac-do-ho-hang-5105827.html",
+      "summary": "Nữ hướng dẫn viên địa phương nhận được sự ủng hộ khi lịch sự mời khách nước ngoài ra khỏi Chùa Cầu, Hội An, vì mặc váy xuyên thấu, xẻ cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:42:25+07:00",
+      "fetched": "2026-08-06T11:55:48.930610+07:00"
+    },
+    {
+      "id": "c44cb8584f9602f5672e2e2005aa8f2b",
+      "title": "Quảng Ngãi: Tìm thấy hài cốt liệt sĩ cùng lọ thủy tinh đựng dầu chống vắt, muỗi",
+      "link": "https://thanhnien.vn/quang-ngai-tim-thay-hai-cot-liet-si-cung-lo-thuy-tinh-dung-dau-chong-vat-muoi-185260806105701028.htm",
+      "summary": "Từ những thông tin do người dân cung cấp, lực lượng chức năng đã cất bốc được 1 hài cốt liệt sĩ chôn cùng lọ thủy tinh đựng dầu chống vắt, muỗi và hộp quẹt, thắt lưng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:34:00+07:00",
+      "fetched": "2026-08-06T11:55:52.085620+07:00"
+    },
+    {
+      "id": "5f2c60cd9d5c0e994ba7cb7a1426641e",
+      "title": "Vợ quyết không tha thứ việc tôi lỡ xúc phạm em do ghen",
+      "link": "https://vnexpress.net/vo-quyet-khong-tha-thu-vi-toi-lo-xuc-pham-em-do-ghen-5105916.html",
+      "summary": "Tôi xin lỗi, rồi bố mẹ và người thân bên tôi nhiều lần sang xin lỗi, mong vợ cho tôi cơ hội sửa sai nhưng cô ấy quyết ly hôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:30:50+07:00",
+      "fetched": "2026-08-06T11:55:48.930727+07:00"
+    },
+    {
+      "id": "b4c1da9f5c59dfcbe735cd8e58ea01f2",
+      "title": "Trường hợp nào phải báo UBND xã khi thuê giúp việc gia đình để tránh bị phạt?",
+      "link": "https://vnexpress.net/truong-hop-nao-phai-bao-ubnd-xa-khi-thue-giup-viec-gia-dinh-de-tranh-bi-phat-5105888.html",
+      "summary": "Người sử dụng lao động thuê giúp việc gia đình làm thường xuyên phải báo với UBND xã trong 10 ngày từ khi ký hoặc chấm dứt hợp đồng, vi phạm bị phạt 1-3 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:30:31+07:00",
+      "fetched": "2026-08-06T11:55:48.930841+07:00"
+    },
+    {
+      "id": "5124acb440b2889e1c9b551dd79fe2d8",
+      "title": "HLV Campuchia: 'Chúng tôi đã thua Việt Nam 11 lần nhưng lần 12 này có thể sẽ thắng’",
+      "link": "https://thanhnien.vn/hlv-campuchia-chung-toi-da-thua-viet-nam-11-lan-nhung-lan-12-nay-co-the-se-thang-185260806111935651.htm",
+      "summary": "HLV Gyotoku Koji của Campuchia muốn thắng đội tuyển Việt Nam, nhưng thừa nhận đây là đối thủ rất mạnh, nên mục tiêu khả dĩ là học hỏi để tích lũy kinh nghiệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:30:00+07:00",
+      "fetched": "2026-08-06T11:55:52.085739+07:00"
+    },
+    {
+      "id": "c5ee8af26ab1e70e2b444ab76bc46774",
+      "title": "Công an vào cuộc vụ người đàn ông bị đạp ngã xuống đường ở Đắk Lắk",
+      "link": "https://thanhnien.vn/cong-an-vao-cuoc-vu-nguoi-dan-ong-bi-dap-nga-xuong-duong-o-dak-lak-18526080610383398.htm",
+      "summary": "Công an tỉnh Đắk Lắk đã làm việc với người liên quan trong vụ người đàn ông đi xe máy bị đạp ngã xuống đường gây xôn xao dư luận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:30:00+07:00",
+      "fetched": "2026-08-06T11:55:52.085849+07:00"
+    },
+    {
+      "id": "5e2a363c3fd61c7413a2805e81dc6b76",
+      "title": "Chiến hạm lớp Trump cần ngân sách khủng",
+      "link": "https://thanhnien.vn/chien-ham-lop-trump-can-ngan-sach-khung-185260806110528896.htm",
+      "summary": "Lớp tàu chiến mới, còn gọi là tàu chiến lớp Trump, chạy bằng năng lượng hạt nhân của Hải quân Mỹ dự kiến sẽ mất khoảng 275 tỉ USD để đóng, theo ước tính mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:29:00+07:00",
+      "fetched": "2026-08-06T11:55:52.085967+07:00"
+    },
+    {
+      "id": "d0846c933fe461b1fc7af94efa47b936",
+      "title": "FPT trở thành đối tác toàn cầu của OpenAI, khai phá thị trường 240 tỉ USD",
+      "link": "https://thanhnien.vn/fpt-tro-thanh-doi-tac-toan-cau-cua-openai-khai-pha-thi-truong-240-ti-usd-185260806110405038.htm",
+      "summary": "Hợp tác hướng tới việc giúp doanh nghiệp tối ưu chi phí vận hành mô hình AI thông qua quản lý hiệu quả token, đồng thời khai thác mô hình ngôn ngữ lớn GPT-5.6 và công cụ ChatGPT Work vào hoạt động vận hành chiến lược.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:28:00+07:00",
+      "fetched": "2026-08-06T11:55:52.086090+07:00"
+    },
+    {
+      "id": "876b3b31367a096063a1654b85347c96",
+      "title": "Tổng Bí thư, Chủ tịch nước sắp thăm Australia, New Zealand",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-sap-tham-australia-new-zealand-5105895.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm sẽ thăm cấp nhà nước tới Australia và New Zealand ngày 9-14/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:26:50+07:00",
+      "fetched": "2026-08-06T11:55:48.930952+07:00"
+    },
+    {
+      "id": "526c5af78b7ebb58336e92c740a39781",
+      "title": "Bộ Giáo dục chấn chỉnh việc 'đánh tụt' hạng lương giáo viên",
+      "link": "https://vnexpress.net/thong-tu-xep-hang-luong-giao-vien-moi-nhat-theo-du-kien-cua-bo-giao-duc-5105799.html",
+      "summary": "Các tỉnh, thành phải dừng việc \"đánh tụt\" từ hạng II xuống hạng III, ảnh hưởng tiền lương của những thầy cô đã đủ điều kiện, theo dự kiến của Bộ Giáo dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:26:22+07:00",
+      "fetched": "2026-08-06T11:55:48.931062+07:00"
+    },
+    {
+      "id": "1a0482f017a5d6c0aee086e4d7ee80da",
+      "title": "Mỹ sắp áp thêm thuế để chặn tham vọng chip của Trung Quốc",
+      "link": "https://vnexpress.net/my-sap-ap-them-thue-de-chan-tham-vong-chip-cua-trung-quoc-5105918.html",
+      "summary": "Reuters cho biết sớm nhất là hôm nay chính quyền Tổng thống Trump sẽ công bố thuế nhập khẩu 15% và giá sàn với các sản phẩm làm từ polysilicon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:26:03+07:00",
+      "fetched": "2026-08-06T11:55:48.931181+07:00"
+    },
+    {
+      "id": "1a0482f017a5d6c0aee086e4d7ee80da",
+      "title": "Mỹ sắp áp thêm thuế để chặn tham vọng chip của Trung Quốc",
+      "link": "https://vnexpress.net/my-sap-ap-them-thue-de-chan-tham-vong-chip-cua-trung-quoc-5105918.html",
+      "summary": "Reuters cho biết sớm nhất là hôm nay chính quyền Tổng thống Trump sẽ công bố thuế nhập khẩu 15% và giá sàn với các sản phẩm làm từ polysilicon.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-06T04:26:03+07:00",
+      "fetched": "2026-08-06T11:55:56.431831+07:00"
+    },
+    {
+      "id": "81b3c95e5d1cb7f69e8db825ca30fea1",
+      "title": "Giá Bitcoin hôm nay 6.8.2026: 'Quy tắc 500 ngày của Bitcoin' có đang đổ vỡ?",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-682026-quy-tac-500-ngay-cua-bitcoin-co-dang-do-vo-18526080610103997.htm",
+      "summary": "Giá Bitcoin hôm nay dao động quanh mốc 64.000 USD trong khi quy tắc \"500 ngày của Bitcoin\" đang không còn phản ánh đúng diễn biến thực tế của thị trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:26:00+07:00",
+      "fetched": "2026-08-06T11:55:52.086212+07:00"
+    },
+    {
+      "id": "4d8d96669d5a176ea63db044e608ed46",
+      "title": "Lý Tu Hiền hứng chỉ trích vì chế giễu Châu Tinh Trì không con cái",
+      "link": "https://thanhnien.vn/ly-tu-hien-hung-chi-trich-vi-che-gieu-chau-tinh-tri-khong-con-cai-185260806103451423.htm",
+      "summary": "Mối quan hệ 'từ bạn hóa thù' của Châu Tinh Trì - Lý Tu Hiền lại gây bàn tán trở lại khi nghệ sĩ họ Lý công khai chế giễu Tinh gia trên mạng xã hội. Sự việc khiến ông hứng chỉ trích dữ dội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:24:00+07:00",
+      "fetched": "2026-08-06T11:55:52.086332+07:00"
+    },
+    {
+      "id": "935dd26151a05f4567d6047d94022559",
+      "title": "Nghịch lý 'dân gốc' mòn mỏi chờ sổ đỏ, villa/homestay vẫn mọc trong rừng phòng hộ",
+      "link": "https://thanhnien.vn/nghich-ly-dan-goc-mon-moi-cho-so-do-villa-homestay-van-moc-trong-rung-phong-ho-185260806092330049.htm",
+      "summary": "Trong khi hộ dân khai hoang hàng chục năm vẫn mòn mỏi chờ được cấp sổ đỏ vì việc bóc tách đất rừng, đất ở còn chưa ngã ngũ thì trong phạm vi quy hoạch rừng phòng hộ Sóc Sơn (Hà Nội) tiếp tục xuất hiện nhiều villa, homestay, khu nghỉ dưỡng quy mô lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:24:00+07:00",
+      "fetched": "2026-08-06T11:55:52.086454+07:00"
+    },
+    {
+      "id": "36161c33aaadd5dd9511a39838beb84b",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm sẽ thăm cấp nhà nước Úc và New Zealand",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-se-tham-cap-nha-nuoc-uc-va-new-zealand-185260806110500116.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm cùng đoàn đại biểu cấp cao Việt Nam sẽ thăm cấp nhà nước tới Úc và New Zealand từ ngày 9 - 14.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:20:00+07:00",
+      "fetched": "2026-08-06T11:55:52.086587+07:00"
+    },
+    {
+      "id": "a26d6f50fce34b829de27c99761b93e3",
+      "title": "Mỗi người dân là 'lá chắn số' chủ động bảo vệ an ninh mạng",
+      "link": "https://thanhnien.vn/moi-nguoi-dan-la-la-chan-so-chu-dong-bao-ve-an-ninh-mang-185260806104448579.htm",
+      "summary": "Thủ tướng Chính phủ Lê Minh Hưng đề nghị mỗi người dân cần tự trang bị kỹ năng số, nâng cao nhận thức, khả năng tự bảo vệ và ứng xử văn minh trên không gian mạng để trở thành một 'lá chắn số chủ động' tham gia bảo vệ an ninh mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:20:00+07:00",
+      "fetched": "2026-08-06T11:55:52.086724+07:00"
+    },
+    {
+      "id": "0ef831b8d3ebfb5f2b9a54dc5636c558",
+      "title": "Mỹ điều tra sự cố an toàn liên quan trực thăng chở Tổng thống Trump",
+      "link": "https://thanhnien.vn/my-dieu-tra-su-co-an-toan-lien-quan-truc-thang-cho-tong-thong-trump-185260806103513013.htm",
+      "summary": "Cục Hàng không Liên bang Mỹ (FAA) cho biết một trực thăng quân sự chở Tổng thống Donald Trump đã bay quá gần một máy bay chở khách vừa cất cánh từ sân bay quốc gia Reagan Washington ngày 4.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:20:00+07:00",
+      "fetched": "2026-08-06T11:55:52.086846+07:00"
+    },
+    {
+      "id": "579640cc5b713137a209f14385ffae34",
+      "title": "Tài xế bị phạt 38 triệu đồng vì bỏ chạy sau tai nạn",
+      "link": "https://vnexpress.net/tai-xe-bi-phat-38-trieu-dong-vi-bo-chay-sau-tai-nan-5105886.html",
+      "summary": "Ngày 6/8, tài xế 26 tuổi ở TP Hải Phòng bị phạt 38 triệu đồng sau khi lấn đường, tông trúng xe máy chở gia đình bốn người rồi bỏ chạy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:18:27+07:00",
+      "fetched": "2026-08-06T11:55:48.931292+07:00"
+    },
+    {
+      "id": "3f87080d99c0664ab24d9c43f397c1fb",
+      "title": "Cổ phiếu Điện Máy Xanh lên HoSE, vốn hóa hơn 100.000 tỷ đồng",
+      "link": "https://vnexpress.net/co-phieu-dien-may-xanh-len-hose-von-hoa-hon-100-000-ty-dong-5105865.html",
+      "summary": "Với hơn 1,26 tỷ cổ phiếu giao dịch trên HoSE hôm nay, Điện Máy Xanh trở thành doanh nghiệp bán lẻ vốn hóa lớn nhất sàn chứng khoán với hơn 101.000 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:17:38+07:00",
+      "fetched": "2026-08-06T11:55:48.931404+07:00"
+    },
+    {
+      "id": "3f87080d99c0664ab24d9c43f397c1fb",
+      "title": "Cổ phiếu Điện Máy Xanh lên HoSE, vốn hóa hơn 100.000 tỷ đồng",
+      "link": "https://vnexpress.net/co-phieu-dien-may-xanh-len-hose-von-hoa-hon-100-000-ty-dong-5105865.html",
+      "summary": "Với hơn 1,26 tỷ cổ phiếu giao dịch trên HoSE hôm nay, Điện Máy Xanh trở thành doanh nghiệp bán lẻ vốn hóa lớn nhất sàn chứng khoán với hơn 101.000 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-06T04:17:38+07:00",
+      "fetched": "2026-08-06T11:55:56.431964+07:00"
+    },
+    {
+      "id": "f08a11a36028a5eee9dbc6746308a024",
+      "title": "HLV Kim Sang-sik: 'Việt Nam sẽ dùng đội hình mạnh nhất đấu Campuchia'",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-viet-nam-se-dung-doi-hinh-manh-nhat-dau-campuchia-5105870.html",
+      "summary": "HLV Kim Sang-sik đưa ra những đánh giá ở họp báo sáng nay, trước trận gặp Campuchia ở lượt cuối bảng A ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:15:00+07:00",
+      "fetched": "2026-08-06T11:55:48.931513+07:00"
+    },
+    {
+      "id": "43f003c2ff3f8483444a77a3b134602a",
+      "title": "HLV Kim Sang-sik đáp trả cầu thủ Indonesia",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-dap-tra-cau-thu-indonesia-5105870.html",
+      "summary": "HLV Kim Sang-sik đưa ra những đánh giá ở họp báo sáng nay, trước trận gặp Campuchia ở lượt cuối bảng A ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-06T04:15:00+07:00",
+      "fetched": "2026-08-06T11:56:01.990174+07:00"
+    },
+    {
+      "id": "69d29283a2ec8dbfd984b4cb2ee6267c",
+      "title": "Giảm thính lực tạm thời sau 4 giờ nghe tiếng ve sầu",
+      "link": "https://vnexpress.net/giam-thinh-luc-tam-thoi-sau-4-gio-nghe-tieng-ve-sau-5105877.html",
+      "summary": "Nam sinh 18 tuổi suy giảm thính lực tạm thời sau chuyến đi cắm trại trong rừng và nghe thấy tiếng ve sầu kêu liên tục suốt nhiều giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:14:43+07:00",
+      "fetched": "2026-08-06T11:55:48.931671+07:00"
+    },
+    {
+      "id": "da1b7e7d0232b3b79da23633efd04f25",
+      "title": "Houthi tuyên bố mở rộng phong tỏa hàng hải đến kênh đào Suez",
+      "link": "https://vnexpress.net/houthi-tuyen-bo-mo-rong-phong-toa-hang-hai-den-kenh-dao-suez-5105774.html",
+      "summary": "Lực lượng Houthi mở rộng phong tỏa đối với tàu thuyền Arab Saudi đến phía bắc Biển Đỏ, khu vực nối với kênh đào Suez để ra Địa Trung Hải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:12:08+07:00",
+      "fetched": "2026-08-06T11:55:48.931791+07:00"
+    },
+    {
+      "id": "ddeeeee67ec16d8738c90ff4b21ab36e",
+      "title": "Neymar bị gọi là 'gã đê tiện'",
+      "link": "https://vnexpress.net/neymar-bi-goi-la-ga-de-tien-5105740.html",
+      "summary": "Chủ tịch CLB Remo cáo buộc tiền đạo Santos, Neymar có hành động khiêu khích sau trận đấu ở Cup Brazil hôm 4/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:11:57+07:00",
+      "fetched": "2026-08-06T11:55:48.931914+07:00"
+    },
+    {
+      "id": "ddeeeee67ec16d8738c90ff4b21ab36e",
+      "title": "Neymar bị gọi là 'gã đê tiện'",
+      "link": "https://vnexpress.net/neymar-bi-goi-la-ga-de-tien-5105740.html",
+      "summary": "Chủ tịch CLB Remo cáo buộc tiền đạo Santos, Neymar có hành động khiêu khích sau trận đấu ở Cup Brazil hôm 4/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-06T04:11:57+07:00",
+      "fetched": "2026-08-06T11:56:01.991018+07:00"
+    },
+    {
+      "id": "c3bf191c3f05ae8a67b9a4d3c50072ea",
+      "title": "FIFA nhận sai sau bê bối cổ phần hóa World Cup",
+      "link": "https://vnexpress.net/fifa-nhan-sai-sau-be-boi-co-phan-hoa-world-cup-5105766.html",
+      "summary": "Liên đoàn Bóng đá Thế giới thừa nhận mắc sai lầm trong quá trình thúc đẩy kế hoạch bán một phần quyền thương mại các giải đấu, trong đó có World Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-06T04:11:06+07:00",
+      "fetched": "2026-08-06T11:56:01.990332+07:00"
+    },
+    {
       "id": "9bebb77053824f55f6727e08c279a086",
       "title": "Thời tiết hôm nay 6-8: Bắc Bộ mưa to, bão trên Biển Đông suy yếu",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-6-8-bac-bo-mua-to-bao-tren-bien-dong-suy-yeu-10026080516194987.htm",
@@ -111,6 +621,116 @@ window.newsData_2026_08_06 = {
       "category": "Tổng hợp",
       "published": "2026-08-06T03:56:59.282032+07:00",
       "fetched": "2026-08-06T03:56:59.282180+07:00"
+    },
+    {
+      "id": "d68fcb53cd0643dfc335a8ac948df3a6",
+      "title": "Ông Trump 'từ chối' chuyển hàng trăm tên lửa Patriot cho Ukraine",
+      "link": "https://vnexpress.net/ong-trump-tu-choi-chuyen-hang-tram-ten-lua-patriot-cho-ukraine-5105750.html",
+      "summary": "Tổng thống Zelensky muốn Mỹ cung cấp hàng trăm tên lửa cho tổ hợp Patriot, song ông Trump dường như đã bác bỏ đề xuất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-06T03:45:08+07:00",
+      "fetched": "2026-08-06T11:55:55.418443+07:00"
+    },
+    {
+      "id": "4d42643c3d1a113533f34ff0caf230d6",
+      "title": "Bệnh viện đầu tiên phẫu thuật ung thư với hai robot tại Việt Nam",
+      "link": "https://vnexpress.net/benh-vien-dau-tien-phau-thuat-ung-thu-voi-hai-robot-tai-viet-nam-5105852.html",
+      "summary": "Hai bác sĩ bệnh viện Tâm Anh đồng thời cắt ung thư tuyến tiền liệt tận gốc, tái tạo bàng quang cho bệnh nhân 73 tuổi chỉ trong hơn 40 phút, với hai robot Da Vinci Xi (Mỹ).",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-06T03:30:00+07:00",
+      "fetched": "2026-08-06T11:56:00.982442+07:00"
+    },
+    {
+      "id": "3f7d20a364a7dab82263445bfbac0024",
+      "title": "FPT thành đối tác toàn cầu của OpenAI",
+      "link": "https://vnexpress.net/fpt-thanh-doi-tac-toan-cau-cua-openai-5105767.html",
+      "summary": "FPT trở thành đối tác toàn cầu (Select Partner) của OpenAI trong việc giải bài toán an ninh mạng, vận hành, năng suất cho doanh nghiệp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-06T03:08:34+07:00",
+      "fetched": "2026-08-06T11:56:00.982223+07:00"
+    },
+    {
+      "id": "2e49a6b4393da3ff4e18022951dd1820",
+      "title": "Giá vàng miếng lên cao nhất hai tuần",
+      "link": "https://vnexpress.net/gia-vang-mieng-len-cao-nhat-hai-tuan-5105860.html",
+      "summary": "Các thương hiệu bán ra mỗi lượng vàng miếng quanh 143,3 triệu đồng, tăng 1,5 triệu đồng so với hôm qua và cũng là mức cao nhất từ 22/7.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-06T03:01:03+07:00",
+      "fetched": "2026-08-06T11:55:56.432085+07:00"
+    },
+    {
+      "id": "024ecc5b3dbddbbb4aac2dbe29b81437",
+      "title": "Google 'xóa sổ' Assistant trên thiết bị Android từ tháng 9",
+      "link": "https://vnexpress.net/google-xoa-so-assistant-tren-thiet-bi-android-tu-thang-9-5105711.html",
+      "summary": "Google thông báo sẽ chấm dứt hoạt động của trợ lý Assistant trên điện thoại Android, máy tính bảng và thiết bị đeo thông minh từ ngày 4/9 để chuyển sang Gemini.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-06T03:00:19+07:00",
+      "fetched": "2026-08-06T11:56:00.982333+07:00"
+    },
+    {
+      "id": "be032dd7d9b8e5c51813d2f07ca68ac6",
+      "title": "Real tự phá kỷ lục chuyển nhượng để mua Diomande",
+      "link": "https://vnexpress.net/real-tu-pha-ky-luc-chuyen-nhuong-de-mua-diomande-5105783.html",
+      "summary": "Real Madrid đạt thỏa thuận chiêu mộ Yan Diomande từ RB Leipzig với mức phí kỷ lục của CLB là 156 triệu USD.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-06T02:56:11+07:00",
+      "fetched": "2026-08-06T11:56:01.990476+07:00"
+    },
+    {
+      "id": "b1f285f1bcfd872c7cc551a486263647",
+      "title": "Khi phái đẹp chạy Ultra Marathon xuyên đêm",
+      "link": "https://vnexpress.net/khi-phai-dep-chay-ultra-marathon-xuyen-dem-5105790.html",
+      "summary": "Thử thách Ultra Night của câu lạc bộ Goldmark City tại Hà Nội cuối tuần qua chứng kiến màn bứt phá ngoạn mục khi các nữ runner phong trào chinh phục những chặng đường siêu dài, tới 100km.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-06T02:54:01+07:00",
+      "fetched": "2026-08-06T11:56:01.990623+07:00"
+    },
+    {
+      "id": "47b14492614ad973551cdf5e36fc5fc1",
+      "title": "Lính Nga xâm nhập 'thành trì phản công' của Ukraine ở Zaporizhzhia",
+      "link": "https://vnexpress.net/linh-nga-xam-nhap-thanh-tri-phan-cong-cua-ukraine-o-zaporizhzhia-5105627.html",
+      "summary": "Trinh sát đặc nhiệm Nga bắt đầu xâm nhập Orekhov, nơi tập kết lực lượng phản công chủ lực của Ukraine tại tỉnh Zaporizhizhia hồi năm 2023.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-06T02:47:50+07:00",
+      "fetched": "2026-08-06T11:55:55.418601+07:00"
+    },
+    {
+      "id": "dbeadfb3685fd7ad7b0594d2b6dd7d0d",
+      "title": "Triều Tiên cáo buộc Nhật 'hiếu chiến' khi thử tên lửa Tomahawk",
+      "link": "https://vnexpress.net/trieu-tien-cao-buoc-nhat-hieu-chien-khi-thu-ten-lua-tomahawk-5105753.html",
+      "summary": "Triều Tiên cáo buộc Nhật Bản đang \"trở thành quốc gia hiếu chiến\", khi Tokyo tăng cường năng lực quân sự và phóng thử tên lửa Tomahawk.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-06T02:45:04+07:00",
+      "fetched": "2026-08-06T11:55:55.418737+07:00"
+    },
+    {
+      "id": "87907662b4c639929c2754f093c7df34",
+      "title": "Chiếc ô an ninh khiến Jordan lọt tầm ngắm tên lửa Iran",
+      "link": "https://vnexpress.net/chiec-o-an-ninh-khien-jordan-lot-tam-ngam-ten-lua-iran-5104649.html",
+      "summary": "Là đồng minh thân cận được Mỹ bảo trợ an ninh, Jordan trở thành mục tiêu tập kích liên tục của Iran, khiến nước này hứng chịu sức ép rất lớn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-06T02:21:37+07:00",
+      "fetched": "2026-08-06T11:55:55.418861+07:00"
+    },
+    {
+      "id": "0a8f245512c35617101867c4e1cef6ce",
+      "title": "'Quái kiệt AI' người Việt rời Google, mở startup",
+      "link": "https://vnexpress.net/quai-kiet-ai-nguoi-viet-roi-google-mo-startup-5105758.html",
+      "summary": "TS Lê Viết Quốc cùng ba nhà khoa học rời Google, thành lập công ty Discovery Loop, xây dựng giải pháp dùng AI để tối ưu việc nghiên cứu khoa học.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-06T02:17:40+07:00",
+      "fetched": "2026-08-06T11:56:00.981853+07:00"
     },
     {
       "id": "1822b121e8a506dadc0c7f8fa6b56478",
@@ -171,6 +791,46 @@ window.newsData_2026_08_06 = {
       "category": "Tổng hợp",
       "published": "2026-08-06T02:14:12.251831+07:00",
       "fetched": "2026-08-06T02:14:12.251977+07:00"
+    },
+    {
+      "id": "f68861504da6d62c36bf71608ce85b1e",
+      "title": "Messi tỏa sáng ở trận đầu sau World Cup",
+      "link": "https://vnexpress.net/messi-toa-sang-o-tran-dau-sau-world-cup-5105787.html",
+      "summary": "Lionel Messi chơi hay nhất trận với hai bàn thắng và một kiến tạo, giúp Inter Miami hạ Atletico San Luis (Mexico) 4-2 ở vòng một Leagues Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-06T02:11:20+07:00",
+      "fetched": "2026-08-06T11:56:01.990760+07:00"
+    },
+    {
+      "id": "f9a6205cffb1662ff7a2889ce4e0990e",
+      "title": "Ông Trump đuổi theo ngăn em bé chạy khỏi sân khấu",
+      "link": "https://vnexpress.net/ong-trump-duoi-theo-ngan-em-be-chay-khoi-san-khau-5105762.html",
+      "summary": "Ông Trump, 80 tuổi, phản ứng một cách nhanh nhạy khi đuổi theo, ngăn một cậu bé chạy khỏi sân khấu trong lúc bố mẹ phát biểu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-06T02:02:27+07:00",
+      "fetched": "2026-08-06T11:55:55.418982+07:00"
+    },
+    {
+      "id": "35cac31a552c2c4e87b3fca75256654f",
+      "title": "Drone tự sát xuất hiện gần vận tải cơ Ukraine tại Đức",
+      "link": "https://vnexpress.net/drone-tu-sat-xuat-hien-gan-van-tai-co-ukraine-tai-duc-5105725.html",
+      "summary": "Đức phát hiện drone mang thuốc nổ gần vận tải cơ An-124 Ukraine tại sân bay Leipzig-Halle, khiến cơ sở này bị phong tỏa trong nhiều giờ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-06T01:53:35+07:00",
+      "fetched": "2026-08-06T11:55:55.419101+07:00"
+    },
+    {
+      "id": "e203135d4317311d44c961308a7d19a7",
+      "title": "'Ác mộng' giành chỗ đỗ xe ở Costco",
+      "link": "https://vnexpress.net/ac-mong-gianh-cho-do-xe-o-costco-5104884.html",
+      "summary": "Sau hai thập kỷ trung thành với Costco, Ma-Kellams giờ rất hiếm khi ghé mua sắm bởi bãi đỗ xe nơi đây đã trở thành \"một mớ hỗn độn\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-06T01:41:41+07:00",
+      "fetched": "2026-08-06T11:55:55.419219+07:00"
     },
     {
       "id": "17ddd0dc83ffd8b2c738eb3c43a72d80",
@@ -503,6 +1163,16 @@ window.newsData_2026_08_06 = {
       "fetched": "2026-08-06T08:41:25.845104+07:00"
     },
     {
+      "id": "8503626e1643fa207ab66768b8a0a011",
+      "title": "Phi cơ dân dụng bay sát bất thường với trực thăng chở ông Trump",
+      "link": "https://vnexpress.net/phi-co-dan-dung-bay-sat-bat-thuong-voi-truc-thang-cho-ong-trump-5105717.html",
+      "summary": "Máy bay thương mại cất cánh gần như cùng thời điểm với trực thăng chở Tổng thống Trump và có thời điểm hai phi cơ bay rất gần nhau, làm dấy lên nghi vấn về quy trình kiểm soát không lưu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-06T00:51:43+07:00",
+      "fetched": "2026-08-06T11:55:55.419457+07:00"
+    },
+    {
       "id": "e1484b1e611c5a26c94c40710371fdd5",
       "title": "Truyền thông Thái Lan hài hước 'chế' cảnh Việt Nam bị loại ở ASEAN Cup",
       "link": "https://tuoitre.vn/truyen-thong-thai-lan-hai-huoc-che-canh-viet-nam-bi-loai-o-asean-cup-10026080517002146.htm",
@@ -671,6 +1341,16 @@ window.newsData_2026_08_06 = {
       "category": "Kinh doanh",
       "published": "2026-08-05T23:00:00+07:00",
       "fetched": "2026-08-06T08:41:26.930843+07:00"
+    },
+    {
+      "id": "9003b45f49e5ac2acbbd777d895b45e7",
+      "title": "Nhiều hàng hóa giảm giá",
+      "link": "https://vnexpress.net/nhieu-hang-hoa-giam-gia-5105629.html",
+      "summary": "Giá thịt, cá, rau củ, trái cây và xăng dầu đồng loạt giảm so với nửa đầu năm, giúp chi phí sinh hoạt của nhiều gia đình \"dễ thở\" hơn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-05T23:00:00+07:00",
+      "fetched": "2026-08-06T11:55:56.432322+07:00"
     },
     {
       "id": "a97c241fef04aee9dc1aa8569b69df34",
