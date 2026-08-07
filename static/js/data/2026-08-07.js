@@ -1,7 +1,157 @@
 window.newsData_2026_08_07 = {
   "date": "2026-08-07",
-  "lastUpdated": "2026-08-07T15:45:58.884091+07:00",
+  "lastUpdated": "2026-08-07T17:42:19.523887+07:00",
   "articles": [
+    {
+      "id": "0db9bd49fc51c428df82864007507242",
+      "title": "Bắt giữ 2 nghi phạm có lệnh truy nã quốc tế trốn ở Nha Trang",
+      "link": "https://tuoitre.vn/bat-giu-2-nghi-pham-co-lenh-truy-na-quoc-te-tron-o-nha-trang-100260807161930029.htm",
+      "summary": "Công an tỉnh Khánh Hòa bắt giữ 2 người đàn ông quốc tịch Hàn Quốc và Kazakhstan có lệnh truy nã quốc tế đang lẩn trốn ở Nha Trang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T17:42:14.331933+07:00",
+      "fetched": "2026-08-07T17:42:14.331989+07:00"
+    },
+    {
+      "id": "4d7915f8ef9c6425f9fb2175c0390588",
+      "title": "Những hồ chứa nước nào ở TP.HCM cần nạo vét để tăng dung tích, phòng lũ?",
+      "link": "https://tuoitre.vn/nhung-ho-chua-nuoc-nao-o-tphcm-can-nao-vet-de-tang-dung-tich-phong-lu-100260807153703108.htm",
+      "summary": "Sau khi nạo vét, dự kiến làm tăng thêm 27.083.979m³ dung tích chứa nước phòng lũ và khối lượng nạo vét dự kiến của các công trình là 33.854.974m³.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T17:42:14.331866+07:00",
+      "fetched": "2026-08-07T17:42:14.331922+07:00"
+    },
+    {
+      "id": "d126714b4c7a36b66a497b6c6dae2722",
+      "title": "Bắt 'trùm cát tặc' trên sông Cái Nha Trang",
+      "link": "https://tuoitre.vn/bat-trum-cat-tac-tren-song-cai-nha-trang-100260807160552254.htm",
+      "summary": "Công an tỉnh Khánh Hòa bắt giữ Nguyễn Trần Đình Duy là 'trùm cát tặc', chuyên hút cát lậu trên sông Cái Nha Trang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T17:42:14.331799+07:00",
+      "fetched": "2026-08-07T17:42:14.331856+07:00"
+    },
+    {
+      "id": "5294dbcbf562570c386426406b41251b",
+      "title": "Ngày đẫm máu tại Yemen: 58 binh sĩ tử trận sau đòn tập kích của Houthi",
+      "link": "https://tuoitre.vn/ngay-dam-mau-tai-yemen-58-binh-si-tu-tran-sau-don-tap-kich-cua-houthi-100260807150924994.htm",
+      "summary": "Ít nhất 58 binh sĩ Chính phủ Yemen đã thiệt mạng, sau khi lực lượng Houthi tấn công bằng tên lửa và drone.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T17:42:14.331734+07:00",
+      "fetched": "2026-08-07T17:42:14.331789+07:00"
+    },
+    {
+      "id": "d0856dd9d513019dc02cf2347b834838",
+      "title": "Nghệ An ‘hồi sinh’ khu đất vàng để đấu giá, khởi điểm hơn 824 tỉ đồng",
+      "link": "https://tuoitre.vn/nghe-an-hoi-sinh-khu-dat-vang-de-dau-gia-khoi-diem-hon-824-ti-dong-100260807154906244.htm",
+      "summary": "Tỉnh Nghệ An sẽ tổ chức đấu giá khu đất vàng từng bỏ hoang hơn 10 năm ở trung tâm thành phố Vinh (cũ), với giá khởi điểm hơn 824 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T17:42:14.331667+07:00",
+      "fetched": "2026-08-07T17:42:14.331724+07:00"
+    },
+    {
+      "id": "f8a46c40624616bcc26145dd6f7fb22b",
+      "title": "Hà Tĩnh chấp thuận chủ trương đầu tư 4 dự án điện gió tổng vốn đầu tư 7.810 tỉ đồng",
+      "link": "https://tuoitre.vn/ha-tinh-chap-thuan-chu-truong-dau-tu-4-du-an-dien-gio-tong-von-dau-tu-7810-ti-dong-10026080716113999.htm",
+      "summary": "4 dự án điện gió với công suất 225MW, tổng vốn đầu tư 7.810 tỉ đồng, được kỳ vọng sẽ hình thành trung tâm năng lượng tái tạo mới của tỉnh Hà Tĩnh, góp phần bảo đảm an ninh năng lượng quốc gia và thúc đẩy tăng trưởng xanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T17:42:14.331595+07:00",
+      "fetched": "2026-08-07T17:42:14.331654+07:00"
+    },
+    {
+      "id": "08e9f9cdeece1437dae0458646057daa",
+      "title": "Kiến tạo mô hình 'Bệnh viện Thông minh - Tinh gọn - Nhân văn'",
+      "link": "https://tuoitre.vn/kien-tao-mo-hinh-benh-vien-thong-minh-tinh-gon-nhan-van-100260806183932787.htm",
+      "summary": "Sự kết hợp giữa tư duy Lean (quản lý tinh gọn), văn hóa an toàn người bệnh và năng lực số đang trở thành chìa khóa giúp các cơ sở y tế tối ưu hóa vận hành, giảm hao phí và nâng cao chất lượng điều trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T17:42:14.331520+07:00",
+      "fetched": "2026-08-07T17:42:14.331584+07:00"
+    },
+    {
+      "id": "1155b6e9bc4c58170076506e574c29ee",
+      "title": "Lâm Đồng lần đầu đánh giá chất lượng điều hành",
+      "link": "https://tuoitre.vn/lam-dong-lan-dau-danh-gia-chat-luong-dieu-hanh-100260807155847447.htm",
+      "summary": "Lâm Đồng triển khai khảo sát doanh nghiệp để đánh giá chất lượng điều hành của các sở, ngành và chính quyền cơ sở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T17:42:14.331451+07:00",
+      "fetched": "2026-08-07T17:42:14.331509+07:00"
+    },
+    {
+      "id": "cd3e407df25e9216f0963dfc5ceb3c6d",
+      "title": "Chiến dịch 500 ngày đêm TP.HCM để lại dấu ấn sâu đậm, sẽ rà soát 12 vị trí nghi ngờ có mộ liệt sĩ",
+      "link": "https://tuoitre.vn/chien-dich-500-ngay-dem-tphcm-de-lai-dau-an-sau-dam-se-ra-soat-12-vi-tri-nghi-ngo-co-mo-liet-si-100260807161835246.htm",
+      "summary": "Ủy viên dự khuyết Trung ương Đảng, Phó chủ tịch UBND, Trưởng Ban Chỉ đạo 515 TP.HCM Nguyễn Mạnh Cường nhận định Chiến dịch 500 ngày đêm đã để lại dấu ấn sâu đậm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T17:42:14.331374+07:00",
+      "fetched": "2026-08-07T17:42:14.331439+07:00"
+    },
+    {
+      "id": "84b252cd04e0da69223b6a3ea42010a9",
+      "title": "Bất ngờ danh tính những trọng tài trong vụ 'hối lộ tình dục' ở bóng đá Hàn Quốc",
+      "link": "https://tuoitre.vn/bat-ngo-danh-tinh-nhung-trong-tai-trong-vu-hoi-lo-tinh-duc-o-bong-da-han-quoc-100260807163629098.htm",
+      "summary": "Sau khi các bằng về việc Liên đoàn Bóng đá Hàn Quốc (KFA) \"chiêu đãi tình dục\" các trọng tài quốc tế được công bố, dư luận lập tức réo tên những ông vua áo đen được cho là có liên quan. Vậy họ là những ai?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T17:42:14.331285+07:00",
+      "fetched": "2026-08-07T17:42:14.331363+07:00"
+    },
+    {
+      "id": "e1d55d1233f8335e95b9662d10d39660",
+      "title": "Tin lời người quen qua mạng, nhiều bạn trẻ mất trắng hàng chục triệu đồng",
+      "link": "https://tuoitre.vn/tin-loi-nguoi-quen-qua-mang-nhieu-ban-tre-mat-trang-hang-chuc-trieu-dong-10026080716380878.htm",
+      "summary": "Vì tin lời người quen trên mạng hay nóng lòng muốn vay tiền để giải quyết khó khăn, nhiều người trẻ đã rơi vào bẫy của kẻ lừa đảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T17:42:14.331194+07:00",
+      "fetched": "2026-08-07T17:42:14.331252+07:00"
+    },
+    {
+      "id": "829e44dbdcb854ec6ec7a45d904dfdf0",
+      "title": "25 năm Kỳ nghỉ hồng: Lấy chuyên môn phục vụ cộng đồng",
+      "link": "https://tuoitre.vn/25-nam-ky-nghi-hong-lay-chuyen-mon-phuc-vu-cong-dong-100260807153649277.htm",
+      "summary": "Chiến dịch Kỳ nghỉ hồng với phương châm hoạt động 'Lấy chuyên môn làm tình nguyện, lấy chuyên môn phục vụ cộng đồng' đã bước sang năm thứ 25. Đây cũng là dịp để các cơ sở Đoàn chia sẻ với nhau về tham luận, công trình tình nguyện tiêu biểu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T17:42:14.331123+07:00",
+      "fetched": "2026-08-07T17:42:14.331184+07:00"
+    },
+    {
+      "id": "ccef4c7f642239bff24cde74c937a544",
+      "title": "Cần Thơ điều động, bổ nhiệm 60 cán bộ: Phó chủ tịch UBND TP làm Bí thư phường Ninh Kiều",
+      "link": "https://tuoitre.vn/can-tho-dieu-dong-bo-nhiem-60-can-bo-pho-chu-tich-ubnd-tp-lam-bi-thu-phuong-ninh-kieu-100260807162850127.htm",
+      "summary": "Nhiều giám đốc sở, ngành và bí thư, chủ tịch phường, xã ở Cần Thơ được điều động, chỉ định, bổ nhiệm chiều 7-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T17:42:14.331052+07:00",
+      "fetched": "2026-08-07T17:42:14.331113+07:00"
+    },
+    {
+      "id": "6ea8c720c3e115da2477d4d1b3180185",
+      "title": "Bóng chuyền nữ Việt Nam trả giá đắt sau trận thua 'sốc' Indonesia",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-viet-nam-tra-gia-dat-sau-tran-thua-soc-indonesia-100260807164953556.htm",
+      "summary": "Thất bại trước Indonesia tại SEA V.Cup gây ảnh hưởng rất lớn đến tuyển bóng chuyền nữ Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T17:42:14.330972+07:00",
+      "fetched": "2026-08-07T17:42:14.331040+07:00"
+    },
+    {
+      "id": "e7c52732a7b4d16a66dece3fc5e73b76",
+      "title": "Công an TP.HCM truy nã đối tượng Đường Công Hoàng",
+      "link": "https://tuoitre.vn/cong-an-tphcm-truy-na-doi-tuong-duong-cong-hoang-100260807170202068.htm",
+      "summary": "Cơ quan An ninh điều tra, Công an TP.HCM tiến hành phục hồi điều tra vụ án “Tổ chức cho người khác trốn đi nước ngoài” do Đường Công Hoàng (sinh năm 1988; HKTT: số 31, ngõ 31, đường Nguyễn Xí, phường Bắc Hồng Lĩnh, tỉnh Hà Tĩnh) thực hiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T17:42:14.330819+07:00",
+      "fetched": "2026-08-07T17:42:14.330958+07:00"
+    },
     {
       "id": "57b8d692b33258c8a76515db1bfa9dc2",
       "title": "Vì sao có những ký ức tưởng mất lại bất ngờ quay trở lại?",
@@ -453,6 +603,336 @@ window.newsData_2026_08_07 = {
       "fetched": "2026-08-07T12:27:17.106121+07:00"
     },
     {
+      "id": "78df7790c793c7014e04ce42a0d50311",
+      "title": "Ngày 7.8, quy tập thêm 17 hài cốt liệt sĩ tại công viên Lê Thị Riêng",
+      "link": "https://thanhnien.vn/ngay-78-quy-tap-them-17-hai-cot-liet-si-tai-cong-vien-le-thi-rieng-18526080717201747.htm",
+      "summary": "Ngày 7.8, lực lượng chức năng quy tập thêm 17 hài cốt liệt sĩ tại công viên Lê Thị Riêng, nâng tổng số hài cốt liệt sĩ được tìm thấy lên 227.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T10:35:00+07:00",
+      "fetched": "2026-08-07T17:42:12.560686+07:00"
+    },
+    {
+      "id": "bb616d6b3603dc1641ea0a7e7a55abbe",
+      "title": "3 án tử hình trong vụ mua bán gần 50 kg ma túy",
+      "link": "https://thanhnien.vn/3-an-tu-hinh-trong-vu-mua-ban-gan-50-kg-ma-tuy-185260807170504236.htm",
+      "summary": "Đây là đường dây tội phạm ma túy xuyên quốc gia và liên tỉnh, hoạt động tinh vi thông qua các ứng dụng công nghệ và dịch vụ bưu chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T10:30:00+07:00",
+      "fetched": "2026-08-07T17:42:12.560855+07:00"
+    },
+    {
+      "id": "c7701e12d908252dad262f02c6f874cc",
+      "title": "Ban đại diện cha mẹ học sinh không được thu hộ các khoản của trường",
+      "link": "https://thanhnien.vn/ban-dai-dien-cha-me-hoc-sinh-khong-duoc-thu-ho-cac-khoan-cua-truong-185260807170612314.htm",
+      "summary": "Bộ GD-ĐT dự kiến quy định cơ sở giáo dục không được giao cho ban đại diện cha mẹ học sinh thu hộ các khoản thuộc trách nhiệm thu của cơ sở giáo dục. Khoản hỗ trợ tự nguyện không được sử dụng để thay thế trách nhiệm của Nhà nước hoặc cơ sở giáo dục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T10:29:00+07:00",
+      "fetched": "2026-08-07T17:42:12.561014+07:00"
+    },
+    {
+      "id": "65efbc9f7c02b6fc67e6255f21b6048b",
+      "title": "Mưa lớn gây sạt lở nhiều nơi ở Thanh Hóa",
+      "link": "https://thanhnien.vn/mua-lon-gay-sat-lo-nhieu-noi-o-thanh-hoa-185260807165257704.htm",
+      "summary": "Mưa lớn kéo dài những ngày qua đã gây sạt lở nhiều vị trí trên địa bàn một số xã ở khu vực miền núi Thanh Hóa. Đài khí tượng thủy văn Thanh Hóa cảnh báo nhiều nơi 'đất đã no nước' trong khi mưa vẫn tiếp diễn dẫn tới nguy cơ xảy ra lũ quét, sạt lở đất ở mức cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T10:28:00+07:00",
+      "fetched": "2026-08-07T17:42:12.561172+07:00"
+    },
+    {
+      "id": "c01080bd6d5ac2d4d993f1ae347b7fc8",
+      "title": "Khoảnh khắc Iskander-M tập kích tàu chở 'radar chục triệu USD' của Ukraine",
+      "link": "https://vnexpress.net/khoanh-khac-iskander-m-tap-kich-tau-cho-radar-chuc-trieu-usd-cua-ukraine-5106545.html",
+      "summary": "Nga công bố video UAV, tên lửa Iskander-M tập kích đoàn tàu chở \"pháo tự hành và radar phản pháo AN/TPQ-53\" tại tỉnh Dnipropetrovsk.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-07T10:26:23+07:00",
+      "fetched": "2026-08-07T17:42:15.290220+07:00"
+    },
+    {
+      "id": "47af5de7398871e7a3ec03470ebb17f0",
+      "title": "Đầm cưới lấy cảm hứng từ gốm Bát Tràng",
+      "link": "https://vnexpress.net/dam-cuoi-lay-cam-hung-tu-gom-bat-trang-5106104.html",
+      "summary": "Nhà thiết kế Linh Nga ra mắt bộ sưu tập váy cưới lấy cảm hứng từ đường cong trên sản phẩm gốm Bát Tràng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T10:24:38+07:00",
+      "fetched": "2026-08-07T17:42:10.281695+07:00"
+    },
+    {
+      "id": "e2e5c2cb5b7dff961b3e743db5a2ec58",
+      "title": "Xổ số miền Nam ngày 7 tháng 8: Hai người trúng các cọc vé đài Trà Vinh",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-7-thang-8-hai-nguoi-trung-cac-coc-ve-dai-tra-vinh-185260807170103454.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 7 tháng 8, các đại lý vé số ở TP.HCM, Vĩnh Long thông báo đã bán và đổi thưởng cho khách các cọc vé trúng đài Trà Vinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T10:21:00+07:00",
+      "fetched": "2026-08-07T17:42:12.561356+07:00"
+    },
+    {
+      "id": "f58475f0aeb235dd73ec2d747a2c4696",
+      "title": "Di vật ống thở cao su giúp xác minh hai liệt sĩ đặc công",
+      "link": "https://vnexpress.net/di-vat-ong-tho-cao-su-giup-xac-minh-hai-liet-si-dac-cong-5106524.html",
+      "summary": "Đội Tìm kiếm, quy tập hài cốt liệt sĩ vừa cất bốc 3 hài cốt tại phường Điện Bàn, trong đó di vật ống thở cao su giúp xác định liệt sĩ thuộc lực lượng đặc công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T10:20:30+07:00",
+      "fetched": "2026-08-07T17:42:10.281883+07:00"
+    },
+    {
+      "id": "4e49b8b35264ce0793e68c836b51c11f",
+      "title": "Hàn Quốc lập cơ quan điều tra tội phạm nghiêm trọng, tách quyền của công tố viên",
+      "link": "https://thanhnien.vn/han-quoc-lap-co-quan-dieu-tra-toi-pham-nghiem-trong-tach-quyen-cua-cong-to-vien-185260807170256595.htm",
+      "summary": "Cơ quan điều tra tội phạm nghiêm trọng (SCIA) của Hàn Quốc sẽ chính thức thành lập vào ngày 2.10, nhằm tách biệt chức năng điều tra và truy tố để tập trung xử lý các vụ án nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T10:20:00+07:00",
+      "fetched": "2026-08-07T17:42:12.561521+07:00"
+    },
+    {
+      "id": "478e468cc70f3de4850d618c8ccab1d2",
+      "title": "Kỹ năng nào quan trọng để đưa tiếng Anh thành ngôn ngữ thứ hai?",
+      "link": "https://thanhnien.vn/ky-nang-nao-quan-trong-de-dua-tieng-anh-thanh-ngon-ngu-thu-hai-185260807164144392.htm",
+      "summary": "Nhiều nghiên cứu và kinh nghiệm thực tiễn của các chuyên gia về tiếng Anh đã chỉ ra những kỹ năng, phương pháp ưu việt để hướng đến việc đưa tiếng Anh thành ngôn ngữ thứ hai tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T10:16:00+07:00",
+      "fetched": "2026-08-07T17:42:12.561677+07:00"
+    },
+    {
+      "id": "9daf3a0384db06900ab054e41b73cd87",
+      "title": "Điểm tin 17h: Lịch nghỉ lễ, Tết năm 2027 dao động 22-25 ngày | Trình Quốc hội cắt giảm 47 điều kiện kinh doanh công nghệ",
+      "link": "https://vnexpress.net/diem-tin-17h-lich-nghi-le-tet-nam-2027-dao-dong-22-25-ngay-trinh-quoc-hoi-cat-giam-47-dieu-kien-kinh-doanh-cong-nghe-5106558.html",
+      "summary": "Đề xuất giảm 30% thuế cho hộ kinh doanh, doanh nghiệp thu đến 10 tỷ đồng; TP HCM cấm ôtô một chiều trên đường Cách Mạng Tháng Tám;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T10:08:18+07:00",
+      "fetched": "2026-08-07T17:42:10.282052+07:00"
+    },
+    {
+      "id": "f11e021b696805ee227e3f2d8a8bfb0f",
+      "title": "Cần Thơ điều động 10 cán bộ cấp thành phố về xã, phường",
+      "link": "https://thanhnien.vn/can-tho-dieu-dong-10-can-bo-cap-thanh-pho-ve-xa-phuong-185260807164229133.htm",
+      "summary": "Theo quyết định của Thành ủy Cần Thơ, trong 10 cán bộ cấp thành phố được điều động về xã, phường có Phó chủ tịch UBND thành phố và Phó giám đốc các sở Tư pháp, Xây dựng, Tài chính…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T10:07:00+07:00",
+      "fetched": "2026-08-07T17:42:12.561832+07:00"
+    },
+    {
+      "id": "7bace6b6f6656dad3c668dc651641123",
+      "title": "TP.HCM: Giám sát đặc biệt an toàn thực phẩm từ bếp ăn trường học đến nhà máy",
+      "link": "https://thanhnien.vn/tphcm-giam-sat-dac-biet-an-toan-thuc-pham-tu-bep-an-truong-hoc-den-nha-may-1852608071605524.htm",
+      "summary": "Chiều 7.8, HĐND TP.HCM có buổi giám sát chuyên đề công tác quản lý nhà nước về an toàn thực phẩm trên địa bàn phường Thuận Giao, đặc biệt trong các bếp ăn công nhân, trường học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T10:03:00+07:00",
+      "fetched": "2026-08-07T17:42:12.561984+07:00"
+    },
+    {
+      "id": "c52c10abd46877295d56c340114f1fc8",
+      "title": "Google Maps nâng cấp với AI Gemini, không còn chỉ để dẫn đường",
+      "link": "https://thanhnien.vn/google-maps-nang-cap-voi-ai-gemini-khong-con-chi-de-dan-duong-18526080715002411.htm",
+      "summary": "Với AI Gemini, Google Maps đang tiến gần mục tiêu trở thành trợ lý cá nhân hỗ trợ cả di chuyển lẫn cuộc sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T10:01:00+07:00",
+      "fetched": "2026-08-07T17:42:12.562147+07:00"
+    },
+    {
+      "id": "b78ac751a2985c45d64d92fbb6e7fa27",
+      "title": "Nỗi bất an khi ông Trump siết luật ‘sinh ở Mỹ là công dân Mỹ’",
+      "link": "https://vnexpress.net/noi-bat-an-khi-ong-trump-siet-luat-sinh-o-my-la-cong-dan-my-5106489.html",
+      "summary": "Các sắc lệnh mới nhằm siết luật \"sinh ở Mỹ là công dân Mỹ\" của ông Trump gây nhiều lo ngại về cách thực thi và có thể đối mặt loạt thách thức pháp lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T10:00:00+07:00",
+      "fetched": "2026-08-07T17:42:10.282212+07:00"
+    },
+    {
+      "id": "c315926bcccc6ca144da3af6ca330b63",
+      "title": "'Được nhiều hơn mất khi hoán đổi để có 4 ngày nghỉ lễ Văn hóa Việt Nam'",
+      "link": "https://vnexpress.net/hoan-doi-nghi-le-duoc-nhieu-hon-mat-khi-hoan-doi-de-co-bon-ngay-nghi-le-van-hoa-viet-nam-5106466.html",
+      "summary": "Người Việt có thể kiếm được nhiều tiền hơn, nhưng chưa chắc có nhiều ngày nghỉ cùng gia đình hơn cách đây 10 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T10:00:00+07:00",
+      "fetched": "2026-08-07T17:42:10.282401+07:00"
+    },
+    {
+      "id": "5ecd48e7f40f9e6f1f128af1e57511f4",
+      "title": "Hạ tầng giao thông, dịch vụ thúc đẩy địa ốc Nam Đà Nẵng",
+      "link": "https://vnexpress.net/ha-tang-giao-thong-dich-vu-thuc-day-dia-oc-nam-da-nang-5106528.html",
+      "summary": "Cầu Đồng Nò 2 đưa vào khai thác, Aeon Mall cùng nhiều dự án quy mô được quy hoạch, triển khai góp phần hoàn thiện hạ tầng phía Nam trung tâm Đà Nẵng, tạo thêm dư địa cho thị trường bất động sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T10:00:00+07:00",
+      "fetched": "2026-08-07T17:42:10.282570+07:00"
+    },
+    {
+      "id": "926ef3570717df4474460d494ebf9bfc",
+      "title": "Vì sao nam giới có thể 'nhịn yêu'?",
+      "link": "https://vnexpress.net/vi-sao-nam-gioi-co-the-nhin-yeu-5106451.html",
+      "summary": "Chuyện chăn gối của vợ chồng tôi trước đây khá điều độ, tuy nhiên gần một năm nay không còn như trước. Nam giới có thể \"nhịn yêu\" được hay chồng tôi gặp vấn đề gì? (Thu Trà, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T10:00:00+07:00",
+      "fetched": "2026-08-07T17:42:10.282728+07:00"
+    },
+    {
+      "id": "c7cf69e756c927bfade7286bda11aab4",
+      "title": "Mẹo giảm căng thẳng bớt đau đầu",
+      "link": "https://vnexpress.net/meo-giam-cang-thang-bot-dau-dau-5106324.html",
+      "summary": "Ăn uống lành mạnh, giảm áp lực công việc và thư giãn cuối tuần góp phần làm dịu hệ thần kinh, bớt căng thẳng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T10:00:00+07:00",
+      "fetched": "2026-08-07T17:42:10.282890+07:00"
+    },
+    {
+      "id": "a35105f1da18d3592fc6083be5b2e641",
+      "title": "Những loại hải sản có vỏ tốt cho tim mạch, não bộ",
+      "link": "https://vnexpress.net/nhung-loai-hai-san-co-vo-tot-cho-tim-mach-nao-bo-5106292.html",
+      "summary": "Tôm, cua, sò điệp và hàu giàu protein, omega-3, vitamin B12, kẽm, góp phần bảo vệ tim mạch và hỗ trợ chức năng não bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T10:00:00+07:00",
+      "fetched": "2026-08-07T17:42:10.283055+07:00"
+    },
+    {
+      "id": "06e0bd5be32b0972a1b2dfa7f4712ad7",
+      "title": "Toàn cảnh 17h: Khởi tố cha dượng bạo hành con riêng của vợ | Vì sao áp thấp nhiệt đới liên tục xuất hiện?",
+      "link": "https://thanhnien.vn/toan-canh-17h-khoi-to-cha-duong-bao-hanh-con-rieng-cua-vo-vi-sao-ap-thap-nhiet-doi-lien-tuc-xuat-hien-185260807165739345.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T10:00:00+07:00",
+      "fetched": "2026-08-07T17:42:12.562325+07:00"
+    },
+    {
+      "id": "b78ac751a2985c45d64d92fbb6e7fa27",
+      "title": "Nỗi bất an khi ông Trump siết luật ‘sinh ở Mỹ là công dân Mỹ’",
+      "link": "https://vnexpress.net/noi-bat-an-khi-ong-trump-siet-luat-sinh-o-my-la-cong-dan-my-5106489.html",
+      "summary": "Các sắc lệnh mới nhằm siết luật \"sinh ở Mỹ là công dân Mỹ\" của ông Trump gây nhiều lo ngại về cách thực thi và có thể đối mặt loạt thách thức pháp lý.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-07T10:00:00+07:00",
+      "fetched": "2026-08-07T17:42:15.290420+07:00"
+    },
+    {
+      "id": "4a248db72ceaa9ceeaf4634f38abb07c",
+      "title": "Tuyến đường gần 200 tỉ đồng ở Huế nhếch nhác sau 8 năm thi công",
+      "link": "https://thanhnien.vn/tuyen-duong-gan-200-ti-dong-o-hue-nhech-nhac-sau-8-nam-thi-cong-185260807164002007.htm",
+      "summary": "Rác thải chất đống, biển báo ngã nghiêng, cỏ dại mọc um tùm là hiện trạng trên tuyến đường Chợ Mai – Tân Mỹ (thành phố Huế) sau 8 năm thi công dang dở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:57:00+07:00",
+      "fetched": "2026-08-07T17:42:12.562479+07:00"
+    },
+    {
+      "id": "34ddde21ce137098e62c9543a67d100f",
+      "title": "Dấu mốc quan trọng trong quan hệ Việt Nam - Úc",
+      "link": "https://thanhnien.vn/dau-moc-quan-trong-trong-quan-he-viet-nam-uc-185260807165333403.htm",
+      "summary": "Đại sứ Phạm Hùng Tâm, Đại sứ Việt Nam tại Úc đã chia sẻ về ý nghĩa chuyến thăm Úc của Tổng Bí thư, Chủ tịch nước Tô Lâm, những kết quả nổi bật sau hơn 2 năm hai nước nâng cấp quan hệ lên Đối tác chiến lược toàn diện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:56:00+07:00",
+      "fetched": "2026-08-07T17:42:12.562629+07:00"
+    },
+    {
+      "id": "39a7cdba540b612ac22c1e1cbf653802",
+      "title": "Xã Mường Than lên tiếng về quà từ thiện của Huấn Hoa Hồng",
+      "link": "https://thanhnien.vn/xa-muong-than-len-tieng-ve-qua-tu-thien-cua-huan-hoa-hong-185260807151810695.htm",
+      "summary": "Đại diện xã Mường Than xác nhận xã chỉ tiếp nhận 24 téc nước ủng hộ các hộ dân bị ảnh hưởng sau thảm họa lũ quét từ đoàn từ thiện của Huấn Hoa Hồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:54:00+07:00",
+      "fetched": "2026-08-07T17:42:12.562784+07:00"
+    },
+    {
+      "id": "6dc350d553e3f5dcde065c7b96025146",
+      "title": "Hàng loạt xe bị đâm thủng lốp trên cao tốc Quảng Ngãi - Quy Nhơn",
+      "link": "https://thanhnien.vn/hang-loat-xe-bi-dam-thung-lop-tren-cao-toc-quang-ngai-quy-nhon-185260807151208927.htm",
+      "summary": "Khu Quản lý đường bộ III cho biết, đã phát hiện ra xe tải khả nghi làm rơi vãi vật sắc nhọn, khiến hàng loạt ô tô bị đâm thủng lốp trên cao tốc Quảng Ngãi - Hoài Nhơn và Hoài Nhơn - Quy Nhơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:53:00+07:00",
+      "fetched": "2026-08-07T17:42:12.562936+07:00"
+    },
+    {
+      "id": "d2723e3c85382789250f42a813b6d33f",
+      "title": "Bị bắt vì 'bùng' hơn 2.000 đơn hàng online",
+      "link": "https://vnexpress.net/bi-bat-vi-bung-hon-2-000-don-hang-online-5106487.html",
+      "summary": "Bị bắt với cáo buộc đặt 2.100 đơn hàng online tổng giá trị 27 triệu USD rồi không nhận, Mayu nói muốn mua sắm để giải tỏa stress nhưng không có tiền trả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:44:45+07:00",
+      "fetched": "2026-08-07T17:42:10.283213+07:00"
+    },
+    {
+      "id": "8577d9b04f622f10a7ba983cba29512c",
+      "title": "Chồng từ bỏ ba mẹ con tôi để theo người phụ nữ lớn hơn 10 tuổi",
+      "link": "https://vnexpress.net/chong-tu-bo-ba-me-con-toi-de-theo-nguoi-phu-nu-lon-hon-10-tuoi-5106446.html",
+      "summary": "Chị ta có hai con, chồng đã mất; tôi nghĩ anh bỏ rơi mẹ con tôi vì người trẻ đẹp hơn, không ngờ là phụ nữ lớn tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:40:39+07:00",
+      "fetched": "2026-08-07T17:42:10.283432+07:00"
+    },
+    {
+      "id": "b4d0b91f933bc7720a2cab229bc52104",
+      "title": "2.500 runner nhí đổ về bãi biển Nha Trang nhận BIB trước ngày đua",
+      "link": "https://vnexpress.net/2-500-runner-nhi-do-ve-bai-bien-nha-trang-nhan-bib-truoc-ngay-dua-5106508.html",
+      "summary": "Từ sáng 7/8, nhiều phụ huynh đưa con đến Quảng trường 2/4 nhận BIB, làm quen không gian sự kiện trước thềm Kun Marathon Nha Trang 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:28:01+07:00",
+      "fetched": "2026-08-07T17:42:10.283602+07:00"
+    },
+    {
+      "id": "7d3cdbeb0626731797a2c4a697b18a17",
+      "title": "Em chắc chắn nếu gặp nhau, anh sẽ không thất vọng",
+      "link": "https://vnexpress.net/em-chac-chan-neu-gap-nhau-anh-se-khong-that-vong-5106263.html",
+      "summary": "Em cao 1,6 m, làm marketing cho một hãng thời trang nam, thỉnh thoảng sẽ đi làm thêm ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:27:24+07:00",
+      "fetched": "2026-08-07T17:42:10.283765+07:00"
+    },
+    {
+      "id": "99333c4019bcb142e191290c67c375b7",
+      "title": "Chàng kỹ sư xây dựng hiền lành, vui vẻ tìm người thương",
+      "link": "https://vnexpress.net/chang-ky-su-xay-dung-hien-lanh-vui-ve-tim-nguoi-thuong-5106264.html",
+      "summary": "Chào em, người sau này sẽ cùng anh đồng hành nốt quãng đời còn lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:20:43+07:00",
+      "fetched": "2026-08-07T17:42:10.283920+07:00"
+    },
+    {
+      "id": "5dc377276a7846f18476d90d09dc661c",
+      "title": "Tìm chàng trai không bụng mỡ và có một trái tim ấm áp",
+      "link": "https://vnexpress.net/tim-chang-trai-khong-bung-mo-va-co-mot-trai-tim-am-ap-5106267.html",
+      "summary": "Em thích hát và cũng yêu âm nhạc, yêu cây đàn và luôn dễ rung động trước những điều dễ thương nhỏ bé.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:17:50+07:00",
+      "fetched": "2026-08-07T17:42:10.284078+07:00"
+    },
+    {
+      "id": "a511ec8cb0d603d339d3866b0da97ab6",
+      "title": "Cổ phiếu doanh nghiệp nhà nước nổi sóng",
+      "link": "https://vnexpress.net/co-phieu-doanh-nghiep-nha-nuoc-noi-song-5106459.html",
+      "summary": "Nhóm cổ phiếu doanh nghiệp nhà nước thu hút dòng tiền, trở thành động lực chính của VN-Index trong phiên chứng khoán tăng điểm nhưng phân hoá.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-07T09:07:37+07:00",
+      "fetched": "2026-08-07T17:42:16.631124+07:00"
+    },
+    {
       "id": "d0c6e6ce8622ecdfd103319a90b1539d",
       "title": "Thời tiết hôm nay 7-8: Miền Bắc giảm mưa từ chiều nay, Biển Đông dông gió",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-7-8-mien-bac-giam-mua-tu-chieu-nay-bien-dong-dong-gio-100260806161324511.htm",
@@ -591,6 +1071,26 @@ window.newsData_2026_08_07 = {
       "category": "Tổng hợp",
       "published": "2026-08-07T09:07:17.589702+07:00",
       "fetched": "2026-08-07T09:07:17.589845+07:00"
+    },
+    {
+      "id": "7d95e23191ebf2fc43de6a7f7e42cccc",
+      "title": "Cựu tổng tư lệnh Ukraine: Nga đã khắc chế hầu hết vũ khí NATO",
+      "link": "https://vnexpress.net/cuu-tong-tu-lenh-ukraine-nga-da-khac-che-hau-het-vu-khi-nato-5106356.html",
+      "summary": "Cựu tổng tư lệnh quân đội Ukraine cho biết nước này đã sử dụng gần như mọi vũ khí NATO có, thừa nhận Nga đã \"khắc chế được tất cả\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-07T09:05:08+07:00",
+      "fetched": "2026-08-07T17:42:15.290593+07:00"
+    },
+    {
+      "id": "dda315137ac254d76bd280f91072fc44",
+      "title": "Công ty Mỹ dùng muỗi trị muỗi",
+      "link": "https://vnexpress.net/cong-ty-my-dung-muoi-tri-muoi-5106248.html",
+      "summary": "Todd Montgomery bật nắp một ống nghiệm nhỏ rồi vỗ nhẹ cho hàng trăm con muỗi bay ra khu sân sau của một ngôi nhà vùng ngoại ô Washington DC.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-07T08:42:11+07:00",
+      "fetched": "2026-08-07T17:42:15.290754+07:00"
     },
     {
       "id": "1d829e3696eb1d130e621cf4e31d6bd6",
