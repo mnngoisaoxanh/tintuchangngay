@@ -1,7 +1,147 @@
 window.newsData_2026_08_07 = {
   "date": "2026-08-07",
-  "lastUpdated": "2026-08-07T06:49:20.760210+07:00",
+  "lastUpdated": "2026-08-07T09:07:24.977420+07:00",
   "articles": [
+    {
+      "id": "d0c6e6ce8622ecdfd103319a90b1539d",
+      "title": "Thời tiết hôm nay 7-8: Miền Bắc giảm mưa từ chiều nay, Biển Đông dông gió",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-7-8-mien-bac-giam-mua-tu-chieu-nay-bien-dong-dong-gio-100260806161324511.htm",
+      "summary": "Hôm nay 7-8, thời tiết Bắc Bộ buổi sáng vẫn còn mưa to, sau đó về chiều mưa dông giảm dần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:07:17.590564+07:00",
+      "fetched": "2026-08-07T09:07:17.590608+07:00"
+    },
+    {
+      "id": "d5708f24f2d88cdfddaed4af8d53502f",
+      "title": "Quan chức bóng đá Hàn Quốc: 'Hối lộ tình dục' cho trọng tài quốc tế là 'thông lệ'",
+      "link": "https://tuoitre.vn/quan-chuc-bong-da-han-quoc-hoi-lo-tinh-duc-cho-trong-tai-quoc-te-la-thong-le-100260806213023196.htm",
+      "summary": "Thông tin Liên đoàn Bóng đá Hàn Quốc (KFA) từng dùng các dịch vụ giải trí để hối lộ trọng tài quốc tế ngay lập tức tạo một làn sóng phẫn nộ trong cộng đồng người hâm mộ xứ sở kim chi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:07:17.590509+07:00",
+      "fetched": "2026-08-07T09:07:17.590556+07:00"
+    },
+    {
+      "id": "c44cb65018bbbf00dca0d104084ed5de",
+      "title": "Dự đoán tỉ số ASEAN Cup: Việt Nam thắng tưng bừng trước Campuchia",
+      "link": "https://tuoitre.vn/du-doan-ti-so-asean-cup-viet-nam-thang-tung-bung-truoc-campuchia-100260806152353515.htm",
+      "summary": "Trước đối thủ đã hết động lực tại ASEAN Cup là Campuchia, tuyển Việt Nam có thể tạo ra một cơn mưa bàn thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:07:17.590452+07:00",
+      "fetched": "2026-08-07T09:07:17.590496+07:00"
+    },
+    {
+      "id": "90cc3e259daf9c82b479ee5f8671c97b",
+      "title": "Tự hào 50 năm Điện lực TP.HCM: Vượt khó vươn tầm, khẳng định ‘top’ đầu khu vực",
+      "link": "https://tuoitre.vn/tu-hao-50-nam-dien-luc-tphcm-vuot-kho-vuon-tam-khang-dinh-top-dau-khu-vuc-100260805180311993.htm",
+      "summary": "Sau ngày đất nước thống nhất, yêu cầu phục hồi sản xuất, tái thiết trở thành ưu tiên hàng đầu của chính quyền và nhân dân TP.HCM. Và ngành điện đóng vai trò đặc biệt quan trọng để vận hành guồng máy kinh tế còn non trẻ.\nNửa thế kỷ đồng hành cùng những thăng trầm và bứt phá của một đô thị năng động b...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:07:17.590398+07:00",
+      "fetched": "2026-08-07T09:07:17.590444+07:00"
+    },
+    {
+      "id": "770feb38cdfb84344b6cd3665c2521f7",
+      "title": "Dự đoán tỉ số ASEAN Cup: Singapore tiễn Indonesia rời giải",
+      "link": "https://tuoitre.vn/du-doan-ti-so-asean-cup-singapore-tien-indonesia-roi-giai-100260806145005379.htm",
+      "summary": "20h ngày 7-8 (giờ Việt Nam) sẽ diễn ra trận cầu tâm điểm của bảng A, ASEAN Cup 2026, khi Indonesia đến làm khách trên sân của Singapore với nhiệm vụ buộc phải thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:07:17.590346+07:00",
+      "fetched": "2026-08-07T09:07:17.590391+07:00"
+    },
+    {
+      "id": "4c0c9293ebdde85a31890a46af35f9e0",
+      "title": "Lịch trực tiếp ASEAN Cup 2026: Việt Nam gặp Campuchia, Singapore quyết đấu Indonesia",
+      "link": "https://tuoitre.vn/lich-truc-tiep-asean-cup-2026-viet-nam-gap-campuchia-singapore-quyet-dau-indonesia-100260806164324329.htm",
+      "summary": "Hôm nay 7-8, bảng A ASEAN Cup 2026 sẽ bước vào lượt đấu cuối cùng với 2 trận đấu: Việt Nam gặp Campuchia và Singapore đấu Indonesia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:07:17.590292+07:00",
+      "fetched": "2026-08-07T09:07:17.590337+07:00"
+    },
+    {
+      "id": "c62b81511a26cf2b161874253edf57bf",
+      "title": "Concert BIGBANG chưa mở bán vé, lượng tìm kiếm khách sạn Hà Nội tăng tới 50%",
+      "link": "https://tuoitre.vn/concert-bigbang-chua-mo-ban-ve-luong-tim-kiem-khach-san-ha-noi-tang-toi-50-100260806151150627.htm",
+      "summary": "Hai đêm diễn của BigBang tại Đông Nam Á không chỉ tạo nên cuộc đua săn vé được dự báo khốc liệt mà còn kéo theo các nhu cầu khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:07:17.590239+07:00",
+      "fetched": "2026-08-07T09:07:17.590285+07:00"
+    },
+    {
+      "id": "6e8e96a1c331fab460b999b96444e48f",
+      "title": "HLV Indonesia: 'Singapore sẽ phải đối mặt một tập thể đang bị tổn thương'",
+      "link": "https://tuoitre.vn/hlv-indonesia-singapore-se-phai-doi-mat-mot-tap-the-dang-bi-ton-thuong-100260806205822642.htm",
+      "summary": "Trong buổi họp báo trước trận đấu với Singapore - được tổ chức vào tối 6-8, HLV tuyển Indonesia, ông John Herdman đưa ra phát biểu đáng chú ý về tinh thần thi đấu của các học trò.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:07:17.590186+07:00",
+      "fetched": "2026-08-07T09:07:17.590231+07:00"
+    },
+    {
+      "id": "d1a3b7ee90bee5d3ef1c7da867ff57e3",
+      "title": "Kịch bản để Việt Nam, Singapore, Indonesia đi tiếp ở ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/kich-ban-de-viet-nam-singapore-indonesia-di-tiep-o-asean-cup-2026-100260806190809408.htm",
+      "summary": "Dù Việt Nam, Singapore và Indonesia còn nguyên cơ hội đi tiếp ở ASEAN Cup 2026 nhưng điều kiện để các đội có mặt ở bán kết lại rất khác nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:07:17.590129+07:00",
+      "fetched": "2026-08-07T09:07:17.590177+07:00"
+    },
+    {
+      "id": "18e0c78d00345783698f8130dd0d7112",
+      "title": "Tin tức thế giới 7-8: Mỹ kiểm tra mạng xã hội người xin visa; Iran trêu ghẹo ông Trump",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-7-8-my-kiem-tra-mang-xa-hoi-nguoi-xin-visa-iran-treu-gheo-ong-trump-10026080706202458.htm",
+      "summary": "Mỹ tính kiểm tra mạng xã hội của người xin visa, kể cả nhà báo; Iran tuyên bố Mỹ đã theo đuổi một ‘chiến lược thất bại’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:07:17.590069+07:00",
+      "fetched": "2026-08-07T09:07:17.590121+07:00"
+    },
+    {
+      "id": "e3f5e7143673714b08c843af9ad4bd61",
+      "title": "Lịch trực tiếp bóng chuyền nữ SEA V.Cup 7-8: Việt Nam đấu Indonesia",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-chuyen-nu-sea-vcup-7-8-viet-nam-dau-indonesia-100260807062205188.htm",
+      "summary": "Vào lúc 13h ngày 7-8, tuyển bóng chuyền nữ Việt Nam sẽ thi đấu trận đầu tiên của chặng 2 SEA V.Cup 2026 diễn ra tại thành phố Chiang Mai, Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:07:17.590008+07:00",
+      "fetched": "2026-08-07T09:07:17.590060+07:00"
+    },
+    {
+      "id": "8369e895b8bd013cf9ea90afeb7d5282",
+      "title": "Vì sao fan Lưu Diệc Phi, Địch Lệ Nhiệt Ba bất ngờ 'đại chiến'?",
+      "link": "https://tuoitre.vn/vi-sao-fan-luu-diec-phi-dich-le-nhiet-ba-bat-ngo-dai-chien-100260806225903351.htm",
+      "summary": "Hai đỉnh lưu không làm gì, fan lại công kích lẫn nhau: cuối cùng họ đang tranh cãi điều gì?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:07:17.589947+07:00",
+      "fetched": "2026-08-07T09:07:17.590000+07:00"
+    },
+    {
+      "id": "64aa3c8e346880811e40a8cc88272cae",
+      "title": "Nga tuyên bố: Phương Tây muốn 'thay đổi chế độ' ở Nga, nhưng thất bại hoàn toàn",
+      "link": "https://tuoitre.vn/nga-tuyen-bo-phuong-tay-muon-thay-doi-che-do-o-nga-nhung-that-bai-hoan-toan-100260807064633901.htm",
+      "summary": "Thứ trưởng Ngoại giao Nga cho rằng 'thay đổi chế độ' là 1 trong 4 mục tiêu mà phương Tây theo đuổi nhằm vào Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:07:17.589872+07:00",
+      "fetched": "2026-08-07T09:07:17.589937+07:00"
+    },
+    {
+      "id": "2f765d496309b242d85fd85e6ada8ac2",
+      "title": "Việt Nam - Campuchia: Cơ hội cho Xuân Son và Đình Bắc đua 'Vua phá lưới'",
+      "link": "https://tuoitre.vn/viet-nam-campuchia-co-hoi-cho-xuan-son-va-dinh-bac-dua-vua-pha-luoi-100260806142222535.htm",
+      "summary": "Trước một Campuchia yếu hơn, đội tuyển Việt Nam sẽ không khó để giành chiến thắng ở lượt cuối bảng A ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T09:07:17.589702+07:00",
+      "fetched": "2026-08-07T09:07:17.589845+07:00"
+    },
     {
       "id": "804b09bae0dc611cd763176bd1335cb4",
       "title": "Huấn Hoa Hồng từng vướng những vụ việc 'ồn ào' nào?",
@@ -151,6 +291,356 @@ window.newsData_2026_08_07 = {
       "category": "Tổng hợp",
       "published": "2026-08-07T06:49:11.124088+07:00",
       "fetched": "2026-08-07T06:49:11.124234+07:00"
+    },
+    {
+      "id": "0f744fb68da0439c6e7746e90ad16d9e",
+      "title": "Giá xăng dầu hôm nay 7.8.2026: Thế giới tăng, xăng E10 giảm hơn 1.000 đồng/lít",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-782026-the-gioi-tang-xang-e10-giam-hon-1000-dong-lit-185260807085337459.htm",
+      "summary": "Giá dầu thế giới tăng khi xuất hiện thông tin một ủy ban của Quốc hội Iran đang xem xét dự luật cấm tàu của Mỹ và Israel đi qua eo biển Hormuz. Trong nước, giá xăng dầu vừa được điều chỉnh giảm đồng loạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T02:05:00+07:00",
+      "fetched": "2026-08-07T09:07:15.697886+07:00"
+    },
+    {
+      "id": "6b35abbc92bf128af55bd3aa56048b71",
+      "title": "Lãnh đạo Foton: Việt Nam là trung tâm chiến lược của chúng tôi tại ASEAN",
+      "link": "https://thanhnien.vn/lanh-dao-foton-viet-nam-la-trung-tam-chien-luoc-cua-chung-toi-tai-asean-185260806164704204.htm",
+      "summary": "Sau hơn 20 năm hiện diện, Foton cho biết Việt Nam không chỉ là thị trường tiêu thụ xe thương mại mà đã trở thành trung tâm chiến lược của hãng tại ASEAN, nơi kiểm chứng mô hình 'sản phẩm đi kèm dịch vụ' trước khi mở rộng ra khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T02:00:00+07:00",
+      "fetched": "2026-08-07T09:07:15.698040+07:00"
+    },
+    {
+      "id": "87fc7d3d40ddb4c81976c6e612a67607",
+      "title": "Lệ Quyên và những bước chân không mỏi vì cộng đồng",
+      "link": "https://thanhnien.vn/le-quyen-va-nhung-buoc-chan-khong-moi-vi-cong-dong-18526080510243372.htm",
+      "summary": "Ít ai biết cô gái nhỏ nhắn, lớn lên trong một gia đình chỉ đủ ăn đủ mặc, lại bền bỉ lan tỏa yêu thương đến trẻ em, người già, người bệnh và những hoàn cảnh khó khăn, góp phần mang đến cho họ cuộc sống ấm áp, tươi sáng hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T02:00:00+07:00",
+      "fetched": "2026-08-07T09:07:15.698172+07:00"
+    },
+    {
+      "id": "05f8b6a5cf61529f3247a59b44dd879b",
+      "title": "Mùa bóng kiểm chứng năng lực của HLV Michael Carrick",
+      "link": "https://thanhnien.vn/mua-bong-kiem-chung-nang-luc-cua-hlv-michael-carrick-185260806221644312.htm",
+      "summary": "CLB M.U của HLV Michael Carrick không chỉ thi đấu ở Champions League trong mùa bóng sắp tới, mà còn dự cúp FA và cúp Liên đoàn. Đây sẽ là lần 'đầu tiên Carrick làm chuyện ấy': chiến đấu trên 4 mặt trận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:59:00+07:00",
+      "fetched": "2026-08-07T09:07:15.698305+07:00"
+    },
+    {
+      "id": "cb4c4c99c79186ae2f8583571c84112c",
+      "title": "Biến cố dồn dập, hai mẹ con mong được tiếp sức",
+      "link": "https://thanhnien.vn/bien-co-don-dap-hai-me-con-mong-duoc-tiep-suc-185260806185700625.htm",
+      "summary": "\"Chồng mất bởi dịch Covid-19, giờ lại mất thêm một đứa con trai nữa, chỉ còn bé Hải Yến và em thôi. Giờ em không biết phải làm sao nữa\", câu nói nấc nghẹn và đứt quãng của chị Hà qua điện thoại khiến chúng tôi lặng người...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:56:00+07:00",
+      "fetched": "2026-08-07T09:07:15.698427+07:00"
+    },
+    {
+      "id": "c5f85e805036f61a7f45793abb48c25b",
+      "title": "Buôn bán lấn chiếm lòng, lề đường",
+      "link": "https://thanhnien.vn/buon-ban-lan-chiem-long-le-duong-185260806185148935.htm",
+      "summary": "Trên đường Hoàng Hoa Thám, P.Gia Định, TP.HCM, hàng quán lấn chiếm vỉa hè, lòng đường cản trở giao thông và gây nguy hiểm cho người đi bộ (ảnh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:56:00+07:00",
+      "fetched": "2026-08-07T09:07:15.698552+07:00"
+    },
+    {
+      "id": "3ec3b6d6225e3ccffccd035679f768fb",
+      "title": "Từng thua Việt Nam vì 3 sai lầm chí mạng, Indonesia dễ bị Singapore loại nếu...",
+      "link": "https://thanhnien.vn/3-sai-lam-khien-indonesia-de-bi-loai-truoc-singapore-tu-tran-thua-doi-tuyen-viet-nam-185260807084703985.htm",
+      "summary": "CNN Indonesia đã chỉ ra 3 sai lầm của đội tuyển Indonesia không được phép lặp lại khi đối đầu Singapore lúc 20 giờ tối nay (7.8), trong trận quyết đấu tranh vé vào bán kết ASEAN Cup 2026 ở bảng A.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:55:00+07:00",
+      "fetched": "2026-08-07T09:07:15.698675+07:00"
+    },
+    {
+      "id": "fa00946e20059c48ebfe751bbea6be5e",
+      "title": "Đối mặt án tù vì lẻn lên máy bay và ngủ qua đêm",
+      "link": "https://thanhnien.vn/doi-mat-an-tu-vi-len-len-may-bay-va-ngu-qua-dem-185260807074754449.htm",
+      "summary": "Một người đàn ông được phát hiện ngủ trên máy bay sau khi trèo qua hàng rào sân bay và lẻn lên khoang hành khách trong lúc bảo trì.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:51:00+07:00",
+      "fetched": "2026-08-07T09:07:15.698794+07:00"
+    },
+    {
+      "id": "90168a40b01e351fd52d8406216b95c7",
+      "title": "125 năm Đại hội La Vang qua những tư liệu hiếm",
+      "link": "https://thanhnien.vn/125-nam-dai-hoi-la-vang-qua-nhung-tu-lieu-hiem-185260804094259813.htm",
+      "summary": "Đại hội La Vang lần thứ 32 sẽ diễn ra tại Quảng Trị vào giữa tháng 8. Cùng nhìn lại những tư liệu hiếm ghi dấu 125 năm Đại hội La Vang và hành trình gìn giữ đức tin của cộng đồng Công giáo nơi đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:51:00+07:00",
+      "fetched": "2026-08-07T09:07:15.698925+07:00"
+    },
+    {
+      "id": "5cee19543ae5f7f4459c627fe5f09ca5",
+      "title": "Giá USD hôm nay 7.8.2026: Tỷ giá trung tâm tăng mạnh",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-782026-ty-gia-trung-tam-tang-manh-185260807084003454.htm",
+      "summary": "Tỷ giá trung tâm tăng mạnh trong những ngày gần đây. Các ngân hàng thương mại cũng tăng giá USD nhưng mức tăng không nhanh bằng tỷ giá trung tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:50:00+07:00",
+      "fetched": "2026-08-07T09:07:15.699049+07:00"
+    },
+    {
+      "id": "f7d09eaf0e34cf886f02a67e3f20aa02",
+      "title": "Giá vàng hôm nay 7.8.2026: Giảm 500.000 đồng nhưng vẫn cao hơn thế giới trên 7 triệu",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-782026-giam-500000-dong-nhung-van-cao-hon-the-gioi-tren-7-trieu-185260807073647086.htm",
+      "summary": "Giá vàng quay đầu giảm khi nhà đầu tư kỳ vọng về tiến triển trong đàm phán chấm dứt xung đột giữa Iran và Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:49:00+07:00",
+      "fetched": "2026-08-07T09:07:15.699172+07:00"
+    },
+    {
+      "id": "dc47987017924d3a7200c6c3c6c8fcc5",
+      "title": "Vụ bạo hành con gái riêng của nhân tình: Người cha ruột nói gì?",
+      "link": "https://thanhnien.vn/vu-bao-hanh-con-gai-rieng-cua-nhan-tinh-nguoi-cha-ruot-noi-gi-185260807074623089.htm",
+      "summary": "Liên quan đến vụ con gái bị nhân tình của vợ cũ bạo hành tại Đồng Nai, người cha ruột cảm thấy đau đớn và mong muốn xã hội lên án hành vi này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:41:00+07:00",
+      "fetched": "2026-08-07T09:07:15.699289+07:00"
+    },
+    {
+      "id": "c52026f59a3abed21c22be76c2c6a36e",
+      "title": "Nhận định, dự đoán tỷ số Singapore vs Indonesia: Ít bàn thắng, kết quả sít sao",
+      "link": "https://thanhnien.vn/nhan-dinh-du-doan-ty-so-singapore-vs-indonesia-it-ban-thang-ket-qua-sit-sao-18526080708344672.htm",
+      "summary": "Trận Singapore vs Indonesia diễn ra lúc 20 giờ ngày 7.8. Ở trận này, đội bóng xứ sở vạn đảo là cửa trên và nhiều khả năng sẽ có chiến thắng nhọc nhằn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:37:00+07:00",
+      "fetched": "2026-08-07T09:07:15.699410+07:00"
+    },
+    {
+      "id": "a2214cc5a21635a6a7330248dfc2779d",
+      "title": "Đầu gối kêu lục cục khi đứng lên, ngồi xuống: Có đáng lo?",
+      "link": "https://thanhnien.vn/dau-goi-keu-luc-cuc-khi-dung-len-ngoi-xuong-co-dang-lo-185260807083303982.htm",
+      "summary": "Nhiều người nhận thấy đầu gối phát ra tiếng lục cục khi thực hiện những động tác rất bình thường. Đó có phải là dấu hiệu sớm của thoái hóa khớp, hay chỉ là hiện tượng sinh lý bình thường?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:31:00+07:00",
+      "fetched": "2026-08-07T09:07:15.699527+07:00"
+    },
+    {
+      "id": "cfb6acdaf8a7ec35ac389ddc90685c2c",
+      "title": "Quảng Trị ra mắt đội hình tình nguyện viên 'Bình dân học vụ số vùng biên'",
+      "link": "https://thanhnien.vn/quang-tri-ra-mat-doi-hinh-tinh-nguyen-vien-binh-dan-hoc-vu-so-vung-bien-185260806180002853.htm",
+      "summary": "Đội hình 'Bình dân học vụ số vùng biên' sẽ phát huy vai trò của thanh niên trong hỗ trợ người dân khu vực biên giới Quảng Trị tiếp cận công nghệ số, nâng cao kỹ năng sử dụng các nền tảng và dịch vụ số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:31:00+07:00",
+      "fetched": "2026-08-07T09:07:15.699643+07:00"
+    },
+    {
+      "id": "eb05357b4aa4afea0799d0aa2e8d36f7",
+      "title": "Tổng thống Trump lần đầu thừa nhận Mỹ thiếu nguồn cung vũ khí tối tân",
+      "link": "https://vnexpress.net/tong-thong-trump-lan-dau-thua-nhan-my-thieu-nguon-cung-vu-khi-toi-tan-5106189.html",
+      "summary": "Tổng thống Trump nói rằng nguồn cung một số loại đạn đang \"eo hẹp hơn\" sau nhiều tháng xung đột, song khẳng định Mỹ vẫn còn nhiều vũ khí.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-07T01:22:40+07:00",
+      "fetched": "2026-08-07T09:07:18.670024+07:00"
+    },
+    {
+      "id": "bfff5464dae604dfe96d2240c2dadd46",
+      "title": "Bị khởi tố vì đi bộ ngược chiều dẫn đến tai nạn chết người",
+      "link": "https://vnexpress.net/bi-khoi-to-vi-di-bo-nguoc-chieu-dan-den-tai-nan-chet-nguoi-5106153.html",
+      "summary": "Ông Hồ Văn Vai, 40 tuổi, sau khi uống rượu bia đi ngược chiều dẫn đến va chạm giao thông khiến một người tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:14:21+07:00",
+      "fetched": "2026-08-07T09:07:11.086607+07:00"
+    },
+    {
+      "id": "259075d245d1ba93adc45c11ca23f9cd",
+      "title": "Nhiều điểm du lịch Trung Quốc gây tranh cãi vì trang trí sặc sỡ",
+      "link": "https://vnexpress.net/nhieu-diem-du-lich-trung-quoc-gay-tranh-cai-vi-trang-tri-sac-so-5106099.html",
+      "summary": "Ngày càng nhiều du khách Trung Quốc lên tiếng phản đối các khu du lịch được trang trí sặc sỡ, phô trương, gây phản cảm về thẩm mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:00:00+07:00",
+      "fetched": "2026-08-07T09:07:11.086772+07:00"
+    },
+    {
+      "id": "6ef750a88bcdfaab43228276eb02a59f",
+      "title": "'Internet không chết, nhưng đang thay đổi hình thái'",
+      "link": "https://vnexpress.net/internet-khong-chet-nhung-dang-thay-doi-hinh-thai-5106073.html",
+      "summary": "Giám đốc nghiên cứu Sergey Lozhkin của Kaspersky nhận định Internet sẽ không chết, nhưng những gì đang diễn ra không theo chiều hướng tích cực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:00:00+07:00",
+      "fetched": "2026-08-07T09:07:11.086931+07:00"
+    },
+    {
+      "id": "0442721bb4a25060e51ec75c6bb46c68",
+      "title": "Đuổi bắt cá lớn bơi giữa khu chợ ngập nước",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-duoi-bat-ca-lon-boi-giua-khu-cho-ngap-nuoc-5105589.html",
+      "summary": "Nước lên biến đường phố thành dòng sông, tạo nên cảnh tượng hiếm gặp khi một con cá lớn ung dung bơi giữa khu chợ khiến nhiều người thích thú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:00:00+07:00",
+      "fetched": "2026-08-07T09:07:11.087070+07:00"
+    },
+    {
+      "id": "425fed6ee4905fc24b690ded19af7e36",
+      "title": "Tưởng nhồi máu cơ tim hóa rối loạn tâm thần",
+      "link": "https://vnexpress.net/tuong-nhoi-mau-co-tim-hoa-roi-loan-tam-than-5106067.html",
+      "summary": "Chị Hoa, 26 tuổi, đau tức ngực, tim đập nhanh, chóng mặt tưởng nhồi máu cơ tim hay đột quỵ, song bác sĩ chẩn đoán rối loạn tâm thần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:00:00+07:00",
+      "fetched": "2026-08-07T09:07:11.087205+07:00"
+    },
+    {
+      "id": "5cae0afc838fe54852aacf3642e64651",
+      "title": "Thủng màng nhĩ có gây điếc vĩnh viễn?",
+      "link": "https://vnexpress.net/thung-mang-nhi-co-gay-diec-vinh-vien-5106064.html",
+      "summary": "Tôi thủng màng nhĩ, nghe kém, được chỉ định phải vá màng nhĩ. Thủng nhĩ có gây điếc vĩnh viễn, sau phẫu thuật thính lực có hồi phục không? (Lâm Trần, 35 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:00:00+07:00",
+      "fetched": "2026-08-07T09:07:11.087342+07:00"
+    },
+    {
+      "id": "5aa8de9025da5f35ce0c7ed58c774177",
+      "title": "Ung thư di căn do đột biến gene",
+      "link": "https://vnexpress.net/ung-thu-di-can-do-dot-bien-gene-5106057.html",
+      "summary": "Bà Hằng, 84 tuổi, ung thư đường mật di căn gan giai đoạn cuối, bác sĩ phát hiện ba đột biến gene, được dùng thuốc trúng đích giảm 80% kích thước u.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:00:00+07:00",
+      "fetched": "2026-08-07T09:07:11.087465+07:00"
+    },
+    {
+      "id": "850166a0a6b830d944c09bc74b8e4328",
+      "title": "Tưởng đột quỵ hóa rối loạn chuyển hóa",
+      "link": "https://vnexpress.net/tuong-dot-quy-hoa-roi-loan-chuyen-hoa-5106050.html",
+      "summary": "Bà Hiền, 55 tuổi, mệt mỏi, đau đầu, choáng váng, đau bụng, buồn nôn khoảng 10 ngày, tưởng đột quỵ, bác sĩ chẩn đoán tăng lipid máu, acid uric và đường huyết cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:00:00+07:00",
+      "fetched": "2026-08-07T09:07:11.087589+07:00"
+    },
+    {
+      "id": "fc715f766b3282e6bc0dc254bc71d911",
+      "title": "6 tính năng AI hỗ trợ học tập trên Asus Vivobook S14",
+      "link": "https://vnexpress.net/6-tinh-nang-ai-ho-tro-hoc-tap-tren-asus-vivobook-s14-5105905.html",
+      "summary": "Asus Vivobook S14 theo chuẩn Copilot+ PC trang bị sáu tính năng AI, hỗ trợ tìm tài liệu, dịch thuật, tạo phụ đề, xử lý nội dung và học tập hàng ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:00:00+07:00",
+      "fetched": "2026-08-07T09:07:11.087711+07:00"
+    },
+    {
+      "id": "ee571bf730671bc8d4b42aed56ce23fb",
+      "title": "Đại học Đại Nam đào tạo nhân lực ngành y dược theo hướng toàn diện",
+      "link": "https://vnexpress.net/dai-hoc-dai-nam-dao-tao-nhan-luc-nganh-y-duoc-theo-huong-toan-dien-5105901.html",
+      "summary": "Đại học Đại Nam định hướng đào tạo nhân lực ngành y - dược theo hướng toàn diện về kiến thức, kỹ năng và bản lĩnh nghề nghiệp, đáp ứng yêu cầu của ngành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:00:00+07:00",
+      "fetched": "2026-08-07T09:07:11.087839+07:00"
+    },
+    {
+      "id": "65f34985f2f8ce992afeebc07a08093e",
+      "title": "Herbalife Việt Nam đồng hành cùng cuộc thi 'Tôi khỏe đẹp hơn'",
+      "link": "https://vnexpress.net/herbalife-viet-nam-dong-hanh-cung-cuoc-thi-toi-khoe-dep-hon-5105617.html",
+      "summary": "Herbalife Việt Nam năm thứ 5 liên tiếp đồng hành cùng chương trình góp phần lan tỏa thông điệp sống khỏe thông qua xây dựng những thói quen lành mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:00:00+07:00",
+      "fetched": "2026-08-07T09:07:11.087975+07:00"
+    },
+    {
+      "id": "3b9eb365fffc454daab1bad0925e7064",
+      "title": "Dạ Dining kết hợp ẩm thực với nghệ thuật trình diễn Trung Hoa",
+      "link": "https://vnexpress.net/da-dining-ket-hop-am-thuc-voi-nghe-thuat-trinh-dien-trung-hoa-5105560.html",
+      "summary": "Nhà hàng trên tầng 26 Centec Tower đưa ẩm thực Trung Hoa hiện đại kết hợp âm nhạc, ánh sáng và sân khấu, mang đến trải nghiệm đa giác quan trong cùng một bữa tối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:00:00+07:00",
+      "fetched": "2026-08-07T09:07:11.088101+07:00"
+    },
+    {
+      "id": "bc4f83da3efeb6e15a017c2d4ef409b1",
+      "title": "Unscripted by Hyatt mang đến dịch vụ lưu trú trọn 24 giờ",
+      "link": "https://vnexpress.net/unscripted-by-hyatt-mang-den-dich-vu-luu-tru-tron-24-gio-5105415.html",
+      "summary": "Wink Unscripted by Hyatt áp dụng mô hình nhận phòng giờ nào trả phòng giờ đó, trao quyền chủ động về thời gian lưu trú và nâng trải nghiệm cho du khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:00:00+07:00",
+      "fetched": "2026-08-07T09:07:11.088233+07:00"
+    },
+    {
+      "id": "6045897951249ee512a24f6f6ff61f6c",
+      "title": "Du lịch Hoàn Mỹ làm mới thương hiệu sau gần ba thập kỷ",
+      "link": "https://vnexpress.net/du-lich-hoan-my-lam-moi-thuong-hieu-sau-gan-ba-thap-ky-5102957.html",
+      "summary": "Du lịch Hoàn Mỹ giới thiệu bộ nhận diện thương hiệu mới, đồng thời tái định vị với thông điệp \"Hoàn mỹ trong từng trải nghiệm\", hướng tới thế hệ du khách mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T01:00:00+07:00",
+      "fetched": "2026-08-07T09:07:11.088350+07:00"
+    },
+    {
+      "id": "6ef750a88bcdfaab43228276eb02a59f",
+      "title": "'Internet không chết, nhưng đang thay đổi hình thái'",
+      "link": "https://vnexpress.net/internet-khong-chet-nhung-dang-thay-doi-hinh-thai-5106073.html",
+      "summary": "Giám đốc nghiên cứu Sergey Lozhkin của Kaspersky nhận định Internet sẽ không chết, nhưng những gì đang diễn ra không theo chiều hướng tích cực.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-07T01:00:00+07:00",
+      "fetched": "2026-08-07T09:07:22.972996+07:00"
+    },
+    {
+      "id": "fc715f766b3282e6bc0dc254bc71d911",
+      "title": "6 tính năng AI hỗ trợ học tập trên Asus Vivobook S14",
+      "link": "https://vnexpress.net/6-tinh-nang-ai-ho-tro-hoc-tap-tren-asus-vivobook-s14-5105905.html",
+      "summary": "Asus Vivobook S14 theo chuẩn Copilot+ PC trang bị sáu tính năng AI, hỗ trợ tìm tài liệu, dịch thuật, tạo phụ đề, xử lý nội dung và học tập hàng ngày.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-07T01:00:00+07:00",
+      "fetched": "2026-08-07T09:07:22.973418+07:00"
+    },
+    {
+      "id": "6dd892f28d84c55e4d15ccfec9b54a29",
+      "title": "Houthi tập kích lớn chưa từng thấy nhằm vào lực lượng thân Arab Saudi",
+      "link": "https://vnexpress.net/houthi-tap-kich-lon-chua-tung-thay-nham-vao-luc-luong-than-arab-saudi-5106190.html",
+      "summary": "Lực lượng Houthi mở đợt tập kích tên lửa và UAV lớn chưa từng thấy trong nhiều năm, nhằm vào quân đội chính phủ Yemen được Arab Saudi hậu thuẫn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T00:52:56+07:00",
+      "fetched": "2026-08-07T09:07:11.088466+07:00"
+    },
+    {
+      "id": "6dd892f28d84c55e4d15ccfec9b54a29",
+      "title": "Houthi tập kích lớn chưa từng thấy nhằm vào lực lượng thân Arab Saudi",
+      "link": "https://vnexpress.net/houthi-tap-kich-lon-chua-tung-thay-nham-vao-luc-luong-than-arab-saudi-5106190.html",
+      "summary": "Lực lượng Houthi mở đợt tập kích tên lửa và UAV lớn chưa từng thấy trong nhiều năm, nhằm vào quân đội chính phủ Yemen được Arab Saudi hậu thuẫn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-07T00:52:56+07:00",
+      "fetched": "2026-08-07T09:07:18.670180+07:00"
+    },
+    {
+      "id": "f14637fbaecec25ab01740bee5f1a160",
+      "title": "Ông Trump ký sắc lệnh hạn chế luật 'sinh ở Mỹ là công dân Mỹ'",
+      "link": "https://vnexpress.net/ong-trump-ky-sac-lenh-han-che-luat-sinh-o-my-la-cong-dan-my-5106183.html",
+      "summary": "Ông Trump ký sắc lệnh tiếp tục hạn chế quyền công dân Mỹ theo nơi sinh, nhắm vào người nhập cảnh bằng visa du lịch nhưng thực chất nhằm sinh con.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-07T00:10:16+07:00",
+      "fetched": "2026-08-07T09:07:18.670325+07:00"
     },
     {
       "id": "b764fd1dd7934af2cd434cb197f7f7d0",
@@ -503,6 +993,16 @@ window.newsData_2026_08_07 = {
       "fetched": "2026-08-07T06:49:15.028810+07:00"
     },
     {
+      "id": "3e25cb4e443d980565fea61a8bce1d84",
+      "title": "Hưng Thịnh Land lỗ ba năm liên tiếp",
+      "link": "https://vnexpress.net/hung-thinh-land-lo-ba-nam-lien-tiep-5106157.html",
+      "summary": "Hưng Thịnh Land năm ngoái lỗ sau thuế 834 tỷ đồng, nối dài chuỗi lỗ từ 2023.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-06T19:37:28+07:00",
+      "fetched": "2026-08-07T09:07:20.622210+07:00"
+    },
+    {
       "id": "946dfb123354a8bf00bc7bcf075cccd7",
       "title": "600.000 sản phẩm Việt Nam có mặt trên Alibaba",
       "link": "https://vnexpress.net/600-000-san-pham-viet-nam-co-mat-tren-alibaba-5106152.html",
@@ -593,6 +1093,16 @@ window.newsData_2026_08_07 = {
       "fetched": "2026-08-07T06:49:20.757448+07:00"
     },
     {
+      "id": "f30eac4b509f34a7ad0c07d1fbd88a2f",
+      "title": "Bơi 160 km xuyên biển Baltic trong 56 giờ liên tục",
+      "link": "https://vnexpress.net/boi-160-km-xuyen-bien-baltic-trong-56-gio-lien-tuc-5106148.html",
+      "summary": "VĐV Ba Lan Bartłomiej Kubkowski trở thành người đầu tiên trong lịch sử bơi xuyên biển Baltic, vượt qua khoảng 160 km trong gần 56 giờ không nghỉ, nhằm gây quỹ hỗ trợ trẻ em mắc ung thư.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-06T17:00:00+07:00",
+      "fetched": "2026-08-07T09:07:24.973006+07:00"
+    },
+    {
       "id": "9fa3f66a9efa72986d4307ccc306b1f0",
       "title": "CEO Nestlé Việt Nam kể chuyện hỗ trợ một doanh nghiệp Việt tăng quy mô gấp 10 lần",
       "link": "https://vnexpress.net/ceo-nestle-viet-nam-ke-chuyen-ho-tro-mot-doanh-nghiep-viet-tang-quy-mo-gap-10-lan-5106131.html",
@@ -621,6 +1131,16 @@ window.newsData_2026_08_07 = {
       "category": "Thế giới",
       "published": "2026-08-06T14:12:44+07:00",
       "fetched": "2026-08-07T06:49:13.103989+07:00"
+    },
+    {
+      "id": "b34fd38deee42b10ac814e25ae57b568",
+      "title": "Xuất hiện ảnh drone lạ nằm sát máy bay Ukraine 'chứa đầy đạn dược' ở Đức",
+      "link": "https://vnexpress.net/xuat-hien-anh-drone-la-nam-sat-may-bay-ukraine-chua-day-dan-duoc-o-duc-5106129.html",
+      "summary": "Truyền thông Ukraine đăng ảnh hiện trường tại sân bay Leipzig/Halle, cho thấy drone lạ nằm gần vận tải cơ An-124 của Antonov Airlines.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-06T14:12:44+07:00",
+      "fetched": "2026-08-07T09:07:18.670840+07:00"
     },
     {
       "id": "766dc6928b23c2582fe6bea48d8007a4",
