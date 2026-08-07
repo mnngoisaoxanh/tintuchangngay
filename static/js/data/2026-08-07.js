@@ -1,7 +1,157 @@
 window.newsData_2026_08_07 = {
   "date": "2026-08-07",
-  "lastUpdated": "2026-08-07T13:59:51.832418+07:00",
+  "lastUpdated": "2026-08-07T15:45:58.884091+07:00",
   "articles": [
+    {
+      "id": "57b8d692b33258c8a76515db1bfa9dc2",
+      "title": "Vì sao có những ký ức tưởng mất lại bất ngờ quay trở lại?",
+      "link": "https://tuoitre.vn/vi-sao-co-nhung-ky-uc-tuong-mat-lai-bat-ngo-quay-tro-lai-100260807125940484.htm",
+      "summary": "Nghiên cứu mới cho thấy nhiều ký ức tưởng đã biến mất thực ra vẫn được não lưu giữ ở trạng thái 'im lặng' và có thể được đánh thức trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:45:51.567080+07:00",
+      "fetched": "2026-08-07T15:45:51.567121+07:00"
+    },
+    {
+      "id": "34a44b3fe5fd0519ec89561234337931",
+      "title": "Phê duyệt khu đất hơn 254ha để đấu thầu dự án khu đô thị 49.000 tỉ đồng ở Nha Trang",
+      "link": "https://tuoitre.vn/phe-duyet-khu-dat-hon-254ha-de-dau-thau-du-an-khu-do-thi-49000-ti-dong-o-nha-trang-100260807140352911.htm",
+      "summary": "Khu đô thị hỗn hợp Vĩnh Lương có tổng vốn hơn 49.000 tỉ đồng, quy mô dân số khoảng 11.709 người, thời gian hoạt động của dự án là 50 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:45:51.567029+07:00",
+      "fetched": "2026-08-07T15:45:51.567072+07:00"
+    },
+    {
+      "id": "bf82a0cd406c563ed07cec0d179cc288",
+      "title": "Loạt công ty của Huấn Hoa Hồng bị xác định không hoạt động tại địa chỉ đăng ký",
+      "link": "https://tuoitre.vn/loat-cong-ty-cua-huan-hoa-hong-bi-xac-dinh-khong-hoat-dong-tai-dia-chi-dang-ky-100260807141550853.htm",
+      "summary": "Theo dữ liệu của Cục Thuế cập nhật đến ngày 7-8, hàng loạt doanh nghiệp của ông Bùi Xuân Huấn (Huấn Hoa Hồng) đều ở tình trạng \"người nộp thuế không hoạt động tại địa chỉ đã đăng ký\", thuộc nhóm người nộp thuế có rủi ro về thuế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:45:51.566960+07:00",
+      "fetched": "2026-08-07T15:45:51.567021+07:00"
+    },
+    {
+      "id": "d6bd6c844fd20336265ebee3dc51689f",
+      "title": "Người dân vùng cao Thanh Hóa phải sơ tán vì sạt lở do mưa lớn",
+      "link": "https://tuoitre.vn/nguoi-dan-vung-cao-thanh-hoa-phai-so-tan-vi-sat-lo-do-mua-lon-100260807142606334.htm",
+      "summary": "Do mưa lớn kéo dài, tại xã vùng cao Quan Sơn, tỉnh Thanh Hóa đang xuất hiện nhiều điểm sạt lở đất đá, đe dọa các khu dân cư, ảnh hưởng đến đường giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:45:51.566908+07:00",
+      "fetched": "2026-08-07T15:45:51.566952+07:00"
+    },
+    {
+      "id": "d7fd1c3b6425e5ed05328506e9503785",
+      "title": "Công ty Điện lực Quảng Trị lan tỏa nghĩa tình vì cộng đồng",
+      "link": "https://tuoitre.vn/cong-ty-dien-luc-quang-tri-lan-toa-nghia-tinh-vi-cong-dong-100260807143858472.htm",
+      "summary": "Ngày 7-8, Công ty Điện lực Quảng Trị đã phối hợp với Hội Chữ thập đỏ tỉnh Quảng Trị tổ chức lễ khánh thành và bàn giao nhà tình nghĩa cho gia đình ông Hồ Văn Tuấn (thôn A Rồng, xã Hướng Hiệp) và gia đình ông Hồ Văn Ly (xã Ba Lòng).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:45:51.566855+07:00",
+      "fetched": "2026-08-07T15:45:51.566899+07:00"
+    },
+    {
+      "id": "2feb9c9908ecf19a23a19a851ff250f1",
+      "title": "10 địa phương dự kiến giảm hơn 50% đầu mối trường công lập sau sắp xếp",
+      "link": "https://tuoitre.vn/10-dia-phuong-du-kien-giam-hon-50-dau-moi-truong-cong-lap-sau-sap-xep-10026080713441162.htm",
+      "summary": "TP.HCM là địa phương dự kiến giảm đầu mối trường công lập thấp nhất cả nước, khoảng 32,18%. Có 10 địa phương dự kiến giảm đầu mối trên 50%, mức cao nhất cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:45:51.566800+07:00",
+      "fetched": "2026-08-07T15:45:51.566847+07:00"
+    },
+    {
+      "id": "1dff20cfe30424196ed1f48c40a4616c",
+      "title": "Chi 50.000 đồng ra tiệm cà phê luyện nói tiếng Anh cũng 'hời'",
+      "link": "https://tuoitre.vn/chi-50000-dong-ra-tiem-ca-phe-luyen-noi-tieng-anh-cung-hoi-10026080612034051.htm",
+      "summary": "Với 50.000 - 100.000 đồng tiền nước, không ít bạn trẻ tại TP.HCM đến các câu lạc bộ ở quán cà phê rèn phản xạ, sửa lỗi và vượt qua tâm lý ngại nói tiếng Anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:45:51.566745+07:00",
+      "fetched": "2026-08-07T15:45:51.566792+07:00"
+    },
+    {
+      "id": "d66641b5fa2404c729b88db1a8156501",
+      "title": "An ninh nước: Tầm nhìn chiến lược cho TP.HCM mới",
+      "link": "https://tuoitre.vn/an-ninh-nuoc-tam-nhin-chien-luoc-cho-tphcm-moi-100260807105904354.htm",
+      "summary": "Đã đến lúc thành phố cần nhìn nước không phải như một vấn đề cần giải quyết, mà như một tài sản chiến lược cần đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:45:51.566689+07:00",
+      "fetched": "2026-08-07T15:45:51.566736+07:00"
+    },
+    {
+      "id": "095db60868fd1303dd98d8db95e003c8",
+      "title": "Meta phải nộp thêm 567 triệu USD vì gây hại cho trẻ em trên mạng xã hội",
+      "link": "https://tuoitre.vn/meta-phai-nop-them-567-trieu-usd-vi-gay-hai-cho-tre-em-tren-mang-xa-hoi-10026080712501498.htm",
+      "summary": "Tòa án bang New Mexico (Mỹ) tuyên phạt Tập đoàn Meta tổng cộng 942 triệu USD sau hai giai đoạn xét xử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:45:51.566636+07:00",
+      "fetched": "2026-08-07T15:45:51.566680+07:00"
+    },
+    {
+      "id": "5766e177ab08ba8cbd39caa5993b2c00",
+      "title": "Tổng kết cuộc thi vẽ tranh thiếu nhi 'Mắt sáng tự do - Em vẽ rõ nét hè' tại Suối Tiên ngày 8-8",
+      "link": "https://tuoitre.vn/tong-ket-cuoc-thi-ve-tranh-thieu-nhi-mat-sang-tu-do-em-ve-ro-net-he-tai-suoi-tien-ngay-8-8-100260806125319754.htm",
+      "summary": "Sau gần 2 tháng, cuộc thi vẽ tranh 'Mắt sáng tự do - Em vẽ rõ nét hè' sẽ khép lại với vòng chung kết và trao giải vào ngày 8-8 tại Công viên văn hóa Suối Tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:45:51.566582+07:00",
+      "fetched": "2026-08-07T15:45:51.566628+07:00"
+    },
+    {
+      "id": "4f77438e437a142f0635ff14a76f18c2",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2026: ‘Liều thuốc tinh thần’ cho bệnh nhân ung thư",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-lieu-thuoc-tinh-than-cho-benh-nhan-ung-thu-100260807132819062.htm",
+      "summary": "Giữa những ngày điều trị nhiều thử thách, một lớp yoga miễn phí vào mỗi cuối tuần đã trở thành nơi họ tìm lại sức khỏe, kết nối với những người cùng hoàn cảnh và tiếp thêm niềm tin để những bệnh nhân ung thư vững vàng bước tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:45:51.566525+07:00",
+      "fetched": "2026-08-07T15:45:51.566573+07:00"
+    },
+    {
+      "id": "1be980b3d834e295bcb0ff3a87601c66",
+      "title": "Lực lượng gìn giữ hòa bình Việt Nam và Trung Quốc giao lưu văn hóa, thể thao tại Abyei",
+      "link": "https://tuoitre.vn/luc-luong-gin-giu-hoa-binh-viet-nam-va-trung-quoc-giao-luu-van-hoa-the-thao-tai-abyei-100260807134306829.htm",
+      "summary": "Lực lượng gìn giữ hòa bình Việt Nam và Trung Quốc tổ chức nhiều hoạt động giao lưu văn hóa, thể thao như cầu lông, bóng bàn, cờ tướng, múa sạp; đồng thời giới thiệu ẩm thực đặc trưng của Việt Nam như phở, bánh mì, cà phê đến bạn bè quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:45:51.566465+07:00",
+      "fetched": "2026-08-07T15:45:51.566516+07:00"
+    },
+    {
+      "id": "74967e973089ee8eaceaeba6c8ccb601",
+      "title": "Chủ sở hữu hưởng lợi của doanh nghiệp cũng bị tạm hoãn xuất cảnh như người đại diện pháp luật",
+      "link": "https://tuoitre.vn/chu-so-huu-huong-loi-cua-doanh-nghiep-cung-bi-tam-hoan-xuat-canh-nhu-nguoi-dai-dien-phap-luat-100260807144505559.htm",
+      "summary": "Không chỉ có người đại diện theo pháp luật của doanh nghiệp, mà cá nhân là chủ sở hữu hưởng lợi của doanh nghiệp cũng thuộc trường hợp bị tạm hoãn xuất cảnh nếu bỏ địa chỉ kinh doanh quá 120 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:45:51.566386+07:00",
+      "fetched": "2026-08-07T15:45:51.566455+07:00"
+    },
+    {
+      "id": "6d8b024baf1b6fdd03c7bf819605b3f8",
+      "title": "Dự án nhà xưởng 7 năm chưa làm, đất dự án đã biến thành núi đá",
+      "link": "https://tuoitre.vn/du-an-nha-xuong-7-nam-chua-lam-dat-du-an-da-bien-thanh-nui-da-100260807142800436.htm",
+      "summary": "Dự án nhiều năm chưa thi công trong khi một lượng đất đá lên tới gần 1 triệu m³ lại được đưa vào khu vực dự án để lưu chứa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:45:51.566315+07:00",
+      "fetched": "2026-08-07T15:45:51.566377+07:00"
+    },
+    {
+      "id": "8752748221a5bed07ef39579e0a8f26f",
+      "title": "Tấm nhôm đục lỗ dưới mộ sâu dẫn lối liệt sĩ về quê nhà Thái Nguyên",
+      "link": "https://tuoitre.vn/tam-nhom-duc-lo-duoi-mo-sau-dan-loi-liet-si-ve-que-nha-thai-nguyen-100260807144215956.htm",
+      "summary": "Từ tấm nhôm đục lỗ viết tên người trong ngôi mộ ở Nghĩa trang liệt sĩ tỉnh Gia Lai, chính quyền xã La Hiên, tỉnh Thái Nguyên đã xác thực thông tin liệt sĩ Dương Thế Hải, mở ra cơ hội đưa anh trở về quê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:45:51.566136+07:00",
+      "fetched": "2026-08-07T15:45:51.566302+07:00"
+    },
     {
       "id": "699993d97aa2e0ec5dad4863d2485c2f",
       "title": "An ninh mạng Công an TP.HCM nhất bảng cuộc thi 'Hành trình truy vết tội phạm mạng'",
@@ -441,6 +591,376 @@ window.newsData_2026_08_07 = {
       "category": "Tổng hợp",
       "published": "2026-08-07T09:07:17.589702+07:00",
       "fetched": "2026-08-07T09:07:17.589845+07:00"
+    },
+    {
+      "id": "1d829e3696eb1d130e621cf4e31d6bd6",
+      "title": "Mẹo giải quyết tình trạng sóng yếu của điện thoại",
+      "link": "https://thanhnien.vn/meo-giai-quyet-tinh-trang-song-yeu-cua-dien-thoai-18526080711190511.htm",
+      "summary": "Mẹo nhỏ đơn giản giúp bạn lấy lại 'phong độ' cho cột sóng di động mà không tốn thêm tiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T08:29:00+07:00",
+      "fetched": "2026-08-07T15:45:49.725284+07:00"
+    },
+    {
+      "id": "aa5cc093fe28475d09bdab2778a01e66",
+      "title": "Việt Nam - Campuchia: Ba mục tiêu của thầy trò Kim Sang-sik",
+      "link": "https://vnexpress.net/viet-nam-campuchia-ba-muc-tieu-cua-thay-tro-kim-sang-sik-5106424.html",
+      "summary": "Trận đấu ở lượt cuối bảng A tối 7/8 là cơ hội để đội tuyển Việt Nam lấy lại niềm tin chiến thắng trên sân Mỹ Đình, xoay vòng lực lượng, đồng thời tạo lợi thế tại bán kết ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-07T08:21:11+07:00",
+      "fetched": "2026-08-07T15:45:58.875211+07:00"
+    },
+    {
+      "id": "f405ababed682641ae38da2b097cde36",
+      "title": "PGS.TS Hà Đình Đức qua đời",
+      "link": "https://vnexpress.net/pgs-ts-ha-dinh-duc-qua-doi-5106443.html",
+      "summary": "PGS.TS Hà Đình Đức, người được biết đến với biệt danh \"nhà rùa học\" với những nghiên cứu về rùa Hồ Gươm, qua đời ở tuổi 86 tuổi, sáng 7/8.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-07T08:19:24+07:00",
+      "fetched": "2026-08-07T15:45:57.906613+07:00"
+    },
+    {
+      "id": "628c7d34f6c5cd5d7889f60ba8d3c6ad",
+      "title": "Philippines và Úc lên tiếng về hành động của Trung Quốc ở Biển Đông",
+      "link": "https://thanhnien.vn/philippines-va-uc-len-tieng-ve-hanh-dong-cua-trung-quoc-o-bien-dong-185260807150547471.htm",
+      "summary": "Thông cáo chung tại Hội nghị Bộ trưởng Quốc phòng Philippines - Úc lần thứ 3 bày tỏ quan ngại về tình hình tại Biển Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T08:17:00+07:00",
+      "fetched": "2026-08-07T15:45:49.725455+07:00"
+    },
+    {
+      "id": "e4de740676c43a6bfed7b4f33a9b834b",
+      "title": "Khánh Hòa yêu cầu rà soát lại phương án  sắp xếp cơ sở giáo dục",
+      "link": "https://thanhnien.vn/khanh-hoa-yeu-cau-ra-soat-lai-phuong-an-sap-xep-co-so-giao-duc-185260807142750707.htm",
+      "summary": "Các xã, phường tại Khánh Hòa được yêu cầu khẩn trương điều chỉnh phương án sắp xếp cơ sở giáo dục mầm non, phổ thông, hướng tới mỗi xã có 1 trường mầm non, 1 tiểu học, 1 THCS.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T08:17:00+07:00",
+      "fetched": "2026-08-07T15:45:49.725596+07:00"
+    },
+    {
+      "id": "61d12ac2ffebf321537bb0cc302804fb",
+      "title": "Thành uỷ Hà Nội chỉ đạo kiểm tra, làm rõ trách nhiệm vụ ‘xẻ thịt’ rừng phòng hộ",
+      "link": "https://thanhnien.vn/thanh-uy-ha-noi-chi-dao-kiem-tra-lam-ro-trach-nhiem-vu-xe-thit-rung-phong-ho-18526080712404304.htm",
+      "summary": "Trong công văn chỉ đạo sau loạt bài 'Villa, homestay mọc như nấm trong rừng phòng hộ' mà Báo Thanh Niên đăng tải, Thường trực Thành ủy giao Công an TP.Hà Nội nắm tình hình, làm rõ dấu hiệu vi phạm liên quan để xử lý nghiêm theo quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T08:17:00+07:00",
+      "fetched": "2026-08-07T15:45:49.725726+07:00"
+    },
+    {
+      "id": "446984476efd72cd186a85a52b2717e8",
+      "title": "Lãnh đạo Úc mong đợi được tiếp đón Tổng Bí thư, Chủ tịch nước Tô Lâm",
+      "link": "https://thanhnien.vn/lanh-dao-uc-mong-doi-duoc-tiep-don-tong-bi-thu-chu-tich-nuoc-to-lam-18526080713180822.htm",
+      "summary": "Thủ tướng Úc Anthony Albanese mong đợi được tiếp đón Tổng Bí thư, Chủ tịch nước Tô Lâm tới Úc và trao đổi về cách tăng cường hơn nữa hợp tác giữa hai quốc gia. Quan hệ Việt Nam - Úc được xây dựng trên nền tảng niềm tin chiến lược sâu sắc với các lợi ích chung và khát vọng chung về tương lai của khu ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T08:11:00+07:00",
+      "fetched": "2026-08-07T15:45:49.725851+07:00"
+    },
+    {
+      "id": "843c541619cebbc236aa2ddef545236b",
+      "title": "Đã có lịch tựu trường, thi tốt nghiệp THPT năm học mới",
+      "link": "https://thanhnien.vn/da-co-lich-tuu-truong-thi-tot-nghiep-thpt-nam-hoc-moi-185260807130507173.htm",
+      "summary": "Học sinh cả nước tựu trường sớm nhất trước 1 tuần so với ngày tổ chức khai giảng. Riêng đối với lớp 1, lớp 9, lớp 12 tựu trường sớm nhất trước 2 tuần; lịch thi tốt nghiệp THPT dự kiến vào 11 và 12.6 hằng năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T08:10:00+07:00",
+      "fetched": "2026-08-07T15:45:49.726003+07:00"
+    },
+    {
+      "id": "fb54a2305d2cfe27e3ab403a6a9bd2e7",
+      "title": "Lâm Đồng: Khen thưởng hơn 300 học sinh để nuôi dưỡng khát vọng học tập",
+      "link": "https://thanhnien.vn/lam-dong-khen-thuong-hon-300-hoc-sinh-de-nuoi-duong-khat-vong-hoc-tap-185260807151158985.htm",
+      "summary": "Hơn 300 học sinh tiêu biểu, xuất sắc năm học 2025 - 2026 trên địa bàn phường Lâm Viên - Đà Lạt được biểu dương, khen thưởng góp phần nuôi dưỡng khát vọng học tập, sáng tạo trong thế hệ trẻ, tiếp nối truyền thống hiếu học của phố núi Đà Lạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T08:04:00+07:00",
+      "fetched": "2026-08-07T15:45:49.726133+07:00"
+    },
+    {
+      "id": "73dd09ac3210646d614b759306775278",
+      "title": "Samsung ViewFinity đoạt giải màn hình máy tính được yêu thích",
+      "link": "https://vnexpress.net/samsung-viewfinity-doat-giai-man-hinh-may-tinh-duoc-yeu-thich-5106272.html",
+      "summary": "Độ phân giải 5K trên màn hình 27 inch cùng khả năng kết nối linh hoạt giúp Samsung ViewFinity S8 S80HF 5K chiến thắng ở số bình chọn đầu tiên của Sản phẩm tôi yêu 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T08:00:00+07:00",
+      "fetched": "2026-08-07T15:45:46.877901+07:00"
+    },
+    {
+      "id": "bbc700db3230c6bdcbea3833dc139649",
+      "title": "Áp xe do lông mọc ngược vào da",
+      "link": "https://vnexpress.net/ap-xe-do-long-moc-nguoc-vao-da-5106062.html",
+      "summary": "Việt, 20 tuổi, sưng đau vùng mông, bác sĩ chẩn đoán xoang tổ lông do lông mọc ngược vào da gây áp xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T08:00:00+07:00",
+      "fetched": "2026-08-07T15:45:46.878062+07:00"
+    },
+    {
+      "id": "525de2d64dde477db42803216f72e22f",
+      "title": "Hệ thống giáo dục 70 năm của Mỹ mở trường đầu tiên tại Việt Nam",
+      "link": "https://vnexpress.net/he-thong-giao-duc-70-nam-cua-my-mo-truong-dau-tien-tai-viet-nam-5103583.html",
+      "summary": "Trường Quốc tế Fairmont Việt Nam ra mắt và tuyển sinh từ năm học 2026–2027, trở thành cơ sở đầu tiên của hệ thống Fairmont Schools tại Việt Nam và Đông Nam Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T08:00:00+07:00",
+      "fetched": "2026-08-07T15:45:46.878206+07:00"
+    },
+    {
+      "id": "2322efb4d956940214f39ad5536ec520",
+      "title": "'Cô Tấm' xinh đẹp xuất hiện trên đường chạy, thu hút nhiều ánh nhìn",
+      "link": "https://thanhnien.vn/co-tam-xinh-dep-xuat-hien-tren-duong-chay-thu-hut-nhieu-anh-nhin-1852608062110592.htm",
+      "summary": "Không chạy để lập thành tích, chị Thảo quyết định hóa thân thành nhân vật cô Tấm tham gia cự ly 21 km tại một giải chạy marathon 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T08:00:00+07:00",
+      "fetched": "2026-08-07T15:45:49.726258+07:00"
+    },
+    {
+      "id": "73dd09ac3210646d614b759306775278",
+      "title": "Samsung ViewFinity đoạt giải màn hình máy tính được yêu thích",
+      "link": "https://vnexpress.net/samsung-viewfinity-doat-giai-man-hinh-may-tinh-duoc-yeu-thich-5106272.html",
+      "summary": "Độ phân giải 5K trên màn hình 27 inch cùng khả năng kết nối linh hoạt giúp Samsung ViewFinity S8 S80HF 5K chiến thắng ở số bình chọn đầu tiên của Sản phẩm tôi yêu 2026.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-07T08:00:00+07:00",
+      "fetched": "2026-08-07T15:45:57.907568+07:00"
+    },
+    {
+      "id": "b14db20e82260fda0e38e6ca52b57290",
+      "title": "Công ty Điện lực Quảng Trị bàn giao 2 nhà tình nghĩa",
+      "link": "https://thanhnien.vn/cong-ty-dien-luc-quang-tri-ban-giao-2-nha-tinh-nghia-185260807150345985.htm",
+      "summary": "Ngày 7.8, Công ty Điện lực Quảng Trị phối hợp Hội Chữ thập đỏ tỉnh Quảng Trị tổ chức khánh thành, bàn giao nhà tình nghĩa cho gia đình ông Hồ Văn Tuấn (thôn A Rồng, xã Hướng Hiệp) và ông Hồ Văn Ly (xã Ba Lòng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T07:59:00+07:00",
+      "fetched": "2026-08-07T15:45:49.726377+07:00"
+    },
+    {
+      "id": "9f0cbd50c86fd6b6d6e72d19a04e4279",
+      "title": "10 tỉnh, thành dự kiến giảm đầu mối trường công mạnh nhất",
+      "link": "https://vnexpress.net/so-truong-hoc-bi-sap-xep-sap-nhap-cua-34-tinh-thanh-5106323.html",
+      "summary": "10 địa phương dự kiến giảm trên 50% đầu mối trường công lập, trong khi mức trung bình cả nước là 46,7%, tương đương 17.350 trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T07:47:01+07:00",
+      "fetched": "2026-08-07T15:45:46.878340+07:00"
+    },
+    {
+      "id": "ac4789dc14ce38ed21a44187c9ea48ef",
+      "title": "Hàng nghìn lượt giao dịch bán ma túy 'cỏ' cho công nhân, học sinh",
+      "link": "https://vnexpress.net/hang-nghin-luot-giao-dich-ban-ma-tuy-co-cho-cong-nhan-hoc-sinh-5106379.html",
+      "summary": "Võ Tá Hoành cùng 16 đồng phạm lập đường dây bán ma túy \"cỏ\" cho học sinh, sinh viên, trong 7 tháng giao dịch hơn 9.000 lượt qua tài khoản với hơn 10 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T07:46:11+07:00",
+      "fetched": "2026-08-07T15:45:46.878490+07:00"
+    },
+    {
+      "id": "fbdf3cffc29171633cc1f3da25cf5344",
+      "title": "Vụ người Mỹ rời Thái Lan sang Việt Nam sống khiến báo Thái 'sục sôi'",
+      "link": "https://thanhnien.vn/vu-nguoi-my-roi-thai-lan-sang-viet-nam-song-khien-bao-thai-suc-soi-185260807142616128.htm",
+      "summary": "Ben Marriott, người sức ảnh hưởng và là nhà sáng lập kênh YouTube 'The Borderless Office', đã rời Thái Lan sau 6 năm sinh sống để chuyển đến TP.HCM. Câu chuyện chẳng có gì ầm ĩ nếu ông không kể ra những lý do vì sao chuyển đi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T07:45:00+07:00",
+      "fetched": "2026-08-07T15:45:49.726510+07:00"
+    },
+    {
+      "id": "0be2fa16125b4b510e8d6a1a987aa0c1",
+      "title": "Bố mẹ chồng sống tiết kiệm nhưng thường xuyên gửi đồ cho con cháu",
+      "link": "https://vnexpress.net/bo-me-chong-song-tiet-kiem-nhung-thuong-xuyen-gui-do-cho-con-chau-5106346.html",
+      "summary": "Ông bà không dùng những gì mình cho con cái để đòi hỏi báo đáp; không kể công, không nói bố mẹ đã làm cho con bao nhiêu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T07:41:31+07:00",
+      "fetched": "2026-08-07T15:45:46.878633+07:00"
+    },
+    {
+      "id": "d2017ed052444a12a23f024e56afe379",
+      "title": "Ông Trump gọi nỗi lo hết pin của người đi xe điện là 'căn bệnh'",
+      "link": "https://vnexpress.net/ong-trump-goi-noi-lo-het-pin-cua-nguoi-di-xe-dien-la-can-benh-5106198.html",
+      "summary": "Tổng thống Mỹ gọi tình trạng lo lắng về phạm vi hoạt động của xe điện là \"căn bệnh\", đồng thời chỉ trích các chính sách thúc đẩy xe xanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T07:41:17+07:00",
+      "fetched": "2026-08-07T15:45:46.878765+07:00"
+    },
+    {
+      "id": "ba71aaf66a3112deb1b64cdb977401fa",
+      "title": "Dự án mở rộng đường ĐT.744 hơn 835 tỉ đồng ở TP.HCM hiện ra sao?",
+      "link": "https://thanhnien.vn/du-an-mo-rong-duong-dt744-hon-835-ti-dong-o-tphcm-hien-ra-sao-185260807142151782.htm",
+      "summary": "Dự án nâng cấp, mở rộng đường ĐT.744 đi qua phường Phú An và Tây Nam (Bình Dương cũ, TP.HCM) có tổng vốn hơn 835 tỉ đồng, hiện còn vướng mặt bằng ở một số đoạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T07:39:00+07:00",
+      "fetched": "2026-08-07T15:45:49.726631+07:00"
+    },
+    {
+      "id": "7de2cf2348ec70847c89b187ed381fe9",
+      "title": "Con gì biết gáy nhưng không phải gà?",
+      "link": "https://vnexpress.net/con-gi-biet-gay-nhung-khong-phai-ga-5103627.html",
+      "summary": "Nghe đến tiếng gáy, hầu hết mọi người đều nghĩ ngay đến gà, nhưng còn một loài vật khác cũng nổi tiếng với tiếng gáy rất đặc trưng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T07:37:19+07:00",
+      "fetched": "2026-08-07T15:45:46.878897+07:00"
+    },
+    {
+      "id": "0a08fa78149038eacfb26d0d102ca231",
+      "title": "Đề xuất giảm 30% thuế cho hộ kinh doanh, cá nhân và doanh nghiệp siêu nhỏ",
+      "link": "https://thanhnien.vn/de-xuat-giam-30-thue-cho-ho-kinh-doanh-ca-nhan-va-doanh-nghiep-sieu-nho-185260807143456303.htm",
+      "summary": "Bộ Tài chính đề xuất giảm 30% thuế thu nhập trong năm 2026 - 2027 cho hộ kinh doanh và doanh nghiệp có khoản thu tối đa 10 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T07:36:00+07:00",
+      "fetched": "2026-08-07T15:45:49.726751+07:00"
+    },
+    {
+      "id": "d95929f6d995204422caf9f87910ccfd",
+      "title": "Mỹ sắp sản xuất 'bom lai tên lửa' có tầm bay hơn 500 km",
+      "link": "https://vnexpress.net/my-sap-san-xuat-bom-lai-ten-lua-co-tam-bay-hon-500-km-5106274.html",
+      "summary": "Boeing được cho phép bắt đầu sản xuất bom lượn JDAM-LR lắp động cơ phản lực, được coi như tên lửa hành trình giá rẻ với tầm bắn 555 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T07:34:39+07:00",
+      "fetched": "2026-08-07T15:45:46.879022+07:00"
+    },
+    {
+      "id": "d95929f6d995204422caf9f87910ccfd",
+      "title": "Mỹ sắp sản xuất 'bom lai tên lửa' có tầm bay hơn 500 km",
+      "link": "https://vnexpress.net/my-sap-san-xuat-bom-lai-ten-lua-co-tam-bay-hon-500-km-5106274.html",
+      "summary": "Boeing được cho phép bắt đầu sản xuất bom lượn JDAM-LR lắp động cơ phản lực, được coi như tên lửa hành trình giá rẻ với tầm bắn 555 km.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-07T07:34:39+07:00",
+      "fetched": "2026-08-07T15:45:53.312098+07:00"
+    },
+    {
+      "id": "63dbce9f1967b48d5fff23cd43350f3c",
+      "title": "Thực hiện cuộc gọi rác ở Pháp có thể bị phạt 75.000 euro",
+      "link": "https://vnexpress.net/thuc-hien-cuoc-goi-rac-o-phap-co-the-bi-phat-75-000-euro-5106306.html",
+      "summary": "Pháp cấm các cuộc gọi tiếp thị làm phiền người dân, cá nhân vi phạm có thể bị phạt tới 75.000 euro, mức phạt với tổ chức là 375.000 euro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T07:32:32+07:00",
+      "fetched": "2026-08-07T15:45:46.879148+07:00"
+    },
+    {
+      "id": "63dbce9f1967b48d5fff23cd43350f3c",
+      "title": "Thực hiện cuộc gọi rác ở Pháp có thể bị phạt 75.000 euro",
+      "link": "https://vnexpress.net/thuc-hien-cuoc-goi-rac-o-phap-co-the-bi-phat-75-000-euro-5106306.html",
+      "summary": "Pháp cấm các cuộc gọi tiếp thị làm phiền người dân, cá nhân vi phạm có thể bị phạt tới 75.000 euro, mức phạt với tổ chức là 375.000 euro.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-07T07:32:32+07:00",
+      "fetched": "2026-08-07T15:45:53.312254+07:00"
+    },
+    {
+      "id": "d50a7da5c8cb36788531d303aa59eb92",
+      "title": "Hanwha Life vào top 'bảo hiểm nhân thọ uy tín' suốt một thập kỷ",
+      "link": "https://vnexpress.net/hanwha-life-vao-top-bao-hiem-nhan-tho-uy-tin-suot-mot-thap-ky-5106416.html",
+      "summary": "Hanwha Life Việt Nam được Vietnam Report vinh danh Top 10 công ty bảo hiểm nhân thọ uy tín 2026, đánh dấu 10 năm liên tiếp góp mặt nhờ nền tảng tài chính và vị thế vững chắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T07:30:00+07:00",
+      "fetched": "2026-08-07T15:45:46.879272+07:00"
+    },
+    {
+      "id": "cd9b2b0ad7ea928505c2ea7aa6bde53f",
+      "title": "Cà rốt hay khoai tây ít làm tăng đường huyết hơn?",
+      "link": "https://vnexpress.net/ca-rot-hay-khoai-tay-it-lam-tang-duong-huyet-hon-5106281.html",
+      "summary": "Khoai tây và cà rốt đều giàu chất xơ, vitamin, khoáng chất nhưng khác biệt về chỉ số đường huyết khiến chúng tác động đến lượng đường trong máu không giống nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T07:30:00+07:00",
+      "fetched": "2026-08-07T15:45:46.879392+07:00"
+    },
+    {
+      "id": "4b840781999783b1f5ef0688c149b734",
+      "title": "Những dấu hiệu ở mắt có thể liên quan mỡ máu",
+      "link": "https://vnexpress.net/nhung-dau-hieu-o-mat-co-the-lien-quan-mo-mau-5106280.html",
+      "summary": "Mảng vàng quanh mắt, vòng trắng xám ở giác mạc và các bất thường ở mạch máu võng mạc là những dấu hiệu có thể xuất hiện ở người bị rối loạn mỡ máu kéo dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T07:30:00+07:00",
+      "fetched": "2026-08-07T15:45:46.879588+07:00"
+    },
+    {
+      "id": "92b5b13b61828be6aaa4444103704653",
+      "title": "OpenAI 'cởi trói' người dùng ChatGPT miễn phí, tạo áp lực lớn lên Gemini",
+      "link": "https://thanhnien.vn/openai-coi-troi-nguoi-dung-chatgpt-mien-phi-tao-ap-luc-lon-len-gemini-185260807115214282.htm",
+      "summary": "Bản miễn phí của ChatGPT sẽ không còn giới hạn số lượt nhắn tin văn bản, giúp người dùng sử dụng chatbot AI này thuận tiện hơn mỗi ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T07:25:00+07:00",
+      "fetched": "2026-08-07T15:45:49.726871+07:00"
+    },
+    {
+      "id": "acf68be35d4c1ca205506d90a5de0782",
+      "title": "Gần 500 máy bay Boeing bị kiểm tra do nguy cơ nứt thân",
+      "link": "https://thanhnien.vn/gan-500-may-bay-boeing-bi-kiem-tra-do-nguy-co-nut-than-185260807142023266.htm",
+      "summary": "Cơ quan Hàng không liên bang Mỹ (FAA) vừa ban hành chỉ thị yêu cầu các hãng hàng không kiểm tra gần 500 máy bay Boeing 737 MAX đang đăng ký hoạt động tại Mỹ sau khi phát hiện nguy cơ xuất hiện các vết nứt trên kết cấu thân máy bay, cảnh báo tình trạng này có thể ảnh hưởng đến độ bền kết cấu nếu khôn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T07:24:00+07:00",
+      "fetched": "2026-08-07T15:45:49.726993+07:00"
+    },
+    {
+      "id": "54d4eec389a757f25f8b96720ebea8a5",
+      "title": "Khánh Hòa đề xuất làm khu đô thị hỗn hợp hơn 49.000 tỷ đồng",
+      "link": "https://vnexpress.net/khanh-hoa-de-xuat-lam-khu-do-thi-hon-hop-hon-49-000-ty-dong-5106406.html",
+      "summary": "Khu đô thị hỗn hợp Vĩnh Lương, tổng vốn hơn 49.000 tỷ đồng vừa được UBND Khánh Hòa trình HĐND tỉnh phê duyệt danh mục khu đất để đấu thầu lựa chọn nhà đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T07:21:18+07:00",
+      "fetched": "2026-08-07T15:45:46.879723+07:00"
+    },
+    {
+      "id": "1b852210387a48672664de44e7d000c8",
+      "title": "Cập nhật vụ xả súng rúng động ở Thái Lan: 9 người thiệt mạng",
+      "link": "https://thanhnien.vn/cap-nhat-vu-no-sung-chan-dong-o-thai-lan-9-nguoi-thiet-mang-18526080713575311.htm",
+      "summary": "Cảnh sát Thái Lan vừa cập nhật số người thương vong trong vụ học sinh nổ súng trong trường học ở tỉnh Nonthaburi, phía bắc thủ đô Bangkok ngày 7.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T07:20:00+07:00",
+      "fetched": "2026-08-07T15:45:49.727114+07:00"
+    },
+    {
+      "id": "32c376cc41fa50abe835289881ee84d9",
+      "title": "Lịch nghỉ lễ, Tết năm 2027 dao động 22-25 ngày",
+      "link": "https://vnexpress.net/lich-nghi-le-tet-nam-2027-dao-dong-22-25-ngay-5106407.html",
+      "summary": "Do Tết Nguyên đán có hai phương án nghỉ 7 hoặc 10 ngày nên số ngày nghỉ lễ,Tết năm sau dự kiến là 22 hoặc 25 gồm ngày chính thức liền kề cuối tuần và nghỉ bù.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T07:18:44+07:00",
+      "fetched": "2026-08-07T15:45:46.879854+07:00"
+    },
+    {
+      "id": "c140cf1f4998ca5790445c4031673752",
+      "title": "Nam sinh xả súng ở Thái Lan, 8 người chết",
+      "link": "https://vnexpress.net/nam-sinh-xa-sung-o-thai-lan-8-nguoi-chet-5106404.html",
+      "summary": "Một nam sinh ở tỉnh Nonthaburi bắn chết ông bà rồi tới trường xả súng, khiến thêm 6 người thiệt mạng, nghi phạm cũng tử vong tại hiện trường.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-07T07:17:34+07:00",
+      "fetched": "2026-08-07T15:45:53.312392+07:00"
+    },
+    {
+      "id": "e7f816bd6360c642299be9aad9298ffe",
+      "title": "Mỹ phát hiện mỏ kim loại quý khổng lồ",
+      "link": "https://vnexpress.net/my-phat-hien-mo-kim-loai-quy-khong-lo-5106055.html",
+      "summary": "Mỏ tungsten (wolfram) trị giá khoảng 152 tỷ USD ở bang Nevada còn chứa nhiều khoáng sản thiết yếu khác như lithium, kali và boron.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-07T07:00:00+07:00",
+      "fetched": "2026-08-07T15:45:57.906771+07:00"
     },
     {
       "id": "59caa30b957ff8fd629530d8b6fd3be8",
