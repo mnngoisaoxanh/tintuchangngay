@@ -1,7 +1,17 @@
 window.newsData_2026_08_08 = {
   "date": "2026-08-08",
-  "lastUpdated": "2026-08-08T01:39:41.204468+07:00",
+  "lastUpdated": "2026-08-08T03:29:29.909546+07:00",
   "articles": [
+    {
+      "id": "7df8f618f9165d8f831068656449be7f",
+      "title": "CĐV Indonesia kêu gọi HLV John Herdman từ chức",
+      "link": "https://tuoitre.vn/cdv-indonesia-keu-goi-hlv-john-herdman-tu-chuc-100260808004529364.htm",
+      "summary": "Hòa Singapore và bị loại khỏi ASEAN Cup 2026 khiến HLV John Herdman nhận về “cơn bão” chỉ trích từ dư luận Indonesia. Không ít CĐV nước này kêu gọi chiến lược gia 51 tuổi từ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T03:29:24.069694+07:00",
+      "fetched": "2026-08-08T03:29:24.069848+07:00"
+    },
     {
       "id": "fcf9c4359ae9213cbc01156f343a5779",
       "title": "Indonesia bị chê cười vì 'cả làng bóng đá không tìm nổi một thủ môn'",
@@ -153,6 +163,26 @@ window.newsData_2026_08_08 = {
       "fetched": "2026-08-08T01:39:33.787400+07:00"
     },
     {
+      "id": "436029ffa77e1968167f5d417991f8f2",
+      "title": "Chủ tịch PSSI lên tiếng nóng khi Indonesia bị loại sốc, đội trưởng Ridho xin lỗi CĐV",
+      "link": "https://thanhnien.vn/chu-tich-pssi-len-tieng-nong-khi-indonesia-bi-loai-soc-doi-truong-ridho-xin-loi-cdv-185260807235119407.htm",
+      "summary": "Chủ tịch Liên đoàn Bóng đá Indonesia (PSSI) Erick Thohir lên tiếng sau khi đội tuyển Indonesia bị loại ngay vòng bảng ASEAN Cup 2026, trong khi đội trưởng Rizky Ridho gửi lời xin lỗi đến người hâm mộ vì kết quả thất vọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T20:00:00+07:00",
+      "fetched": "2026-08-08T03:29:22.391653+07:00"
+    },
+    {
+      "id": "87fb33987caeb0cdccc6c157e4e639b4",
+      "title": "5 việc nên làm khi tỉnh giấc giữa đêm",
+      "link": "https://vnexpress.net/5-viec-nen-lam-khi-tinh-giac-giua-dem-5106559.html",
+      "summary": "Thả lỏng cơ thể, giữ phòng ngủ tối, nghe nhạc nhẹ và giảm tiếng ồn có thể giúp bạn nhanh chóng chìm vào giấc ngủ trở lại khi tỉnh giấc giữa đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T19:05:00+07:00",
+      "fetched": "2026-08-08T03:29:19.742230+07:00"
+    },
+    {
       "id": "9c0852191770a8b42b15a2974ac73f2a",
       "title": "HLV Kim: 'Rút ra bài học từ những sai sót trận gặp Campuchia'",
       "link": "https://vnexpress.net/hlv-kim-rut-ra-bai-hoc-tu-nhung-sai-sot-tran-gap-campuchia-5106659.html",
@@ -161,6 +191,16 @@ window.newsData_2026_08_08 = {
       "category": "Tổng hợp",
       "published": "2026-08-07T18:21:35+07:00",
       "fetched": "2026-08-08T01:39:29.112579+07:00"
+    },
+    {
+      "id": "97041a0e84e06b242419ef99c02b251c",
+      "title": "HLV Kim: 'Rút bài học từ những sai sót trận gặp Campuchia'",
+      "link": "https://vnexpress.net/hlv-kim-rut-bai-hoc-tu-nhung-sai-sot-tran-gap-campuchia-5106659.html",
+      "summary": "Sau chiến thắng 3-1 trước Campuchia, HLV Kim Sang-sik thừa nhận tuyển Việt Nam mắc vài lỗi và có một số khoảnh khắc mất tập trung, dẫn đến bàn thua đầu tiên tại ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T18:21:35+07:00",
+      "fetched": "2026-08-08T03:29:19.742414+07:00"
     },
     {
       "id": "07e1f658d2366d8544bcbd57f4d92b52",
