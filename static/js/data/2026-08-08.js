@@ -1,7 +1,157 @@
 window.newsData_2026_08_08 = {
   "date": "2026-08-08",
-  "lastUpdated": "2026-08-08T13:34:52.415244+07:00",
+  "lastUpdated": "2026-08-08T15:27:59.545578+07:00",
   "articles": [
+    {
+      "id": "86382aad3729f9994896a2ebc1e5792b",
+      "title": "Status của con trai ông Shin Tae Yong 'sống lại' sau khi Indonesia bị loại khỏi ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/status-cua-con-trai-ong-shin-tae-yong-song-lai-sau-khi-indonesia-bi-loai-khoi-asean-cup-2026-100260808134550448.htm",
+      "summary": "Sau khi Indonesia bị Singapore cầm chân và bị loại khỏi ASEAN Cup 2026, CĐV và truyền thông Indonesia bất ngờ nhắc lại câu nói nổi tiếng của con trai cựu HLV Shin Tae Yong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:27:51.235139+07:00",
+      "fetched": "2026-08-08T15:27:51.235184+07:00"
+    },
+    {
+      "id": "61c78dd2fe478c96602c30c6dc48e6df",
+      "title": "Khởi tố, bắt giam nữ TikToker Nguyễn Thị Bích Phượng",
+      "link": "https://tuoitre.vn/khoi-to-bat-giam-nu-tik-toker-nguyen-thi-bich-phuong-100260808131939225.htm",
+      "summary": "TikToker Nguyễn Thị Bích Phượng sử dụng 5 tài khoản mạng xã hội để đăng tải thông tin có nội dung sai sự thật, công kích chính quyền, lực lượng công an.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:27:51.235087+07:00",
+      "fetched": "2026-08-08T15:27:51.235131+07:00"
+    },
+    {
+      "id": "599761f66fa204a4bd9509dc4f2ec954",
+      "title": "Hai nhóm hỗn chiến, khiến chủ quán nhậu van xin đến ngất xỉu, khởi tố thêm 4 bị can",
+      "link": "https://tuoitre.vn/hai-nhom-hon-chien-khien-chu-quan-nhau-van-xin-den-ngat-xiu-khoi-to-them-4-bi-can-100260808135224064.htm",
+      "summary": "Chỉ từ mâu thuẫn trong cuộc nhậu, hai nhóm người đã lao vào hỗn chiến, ném chai bia, ly thủy tinh, chén đĩa khiến chủ quán phải khóc lóc van xin rồi ngất xỉu. Công an Quảng Ngãi vừa khởi tố thêm 4 bị can, nâng tổng số lên 12 bị can.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:27:51.235030+07:00",
+      "fetched": "2026-08-08T15:27:51.235076+07:00"
+    },
+    {
+      "id": "24ddb7358e595f1528c3456d9c8ce604",
+      "title": "Công an xác định nghi can trộm 2 bánh xe hơi rồi kê lại bằng gạch",
+      "link": "https://tuoitre.vn/cong-an-xac-dinh-nghi-can-trom-2-banh-xe-hoi-roi-ke-lai-bang-gach-100260808140536806.htm",
+      "summary": "Lực lượng chức năng xác định nghi can gây án là Trịnh Duy Linh (sinh năm 1994, trú tại Hà Nội). Linh khai nhận thêm một số vụ việc tương tự tại nhiều địa bàn khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:27:51.234974+07:00",
+      "fetched": "2026-08-08T15:27:51.235022+07:00"
+    },
+    {
+      "id": "b35ad084e96556edc758f61ec4cb1d18",
+      "title": "Người dân vùng sạt lở TP Đà Nẵng được hỗ trợ sửa nhà, tặng quà",
+      "link": "https://tuoitre.vn/nguoi-dan-vung-sat-lo-tp-da-nang-duoc-ho-tro-sua-nha-tang-qua-100260808134307692.htm",
+      "summary": "Trong hai ngày 7 và 8-8, Ban Quản lý Khu công nghệ cao và các khu công nghiệp Đà Nẵng (DSEZA) phối hợp Cơ quan thường trú khu vực miền Trung - Đài Tiếng nói Việt Nam cùng các đơn vị đồng hành tổ chức chương trình trao quà cho người dân khó khăn tại xã Hùng Sơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:27:51.234925+07:00",
+      "fetched": "2026-08-08T15:27:51.234966+07:00"
+    },
+    {
+      "id": "625ae2c9e98f8f914e1ccfb2722a74e7",
+      "title": "Aerobic Cúp Nestlé MILO 2026: Sân chơi giúp học sinh rèn kỹ năng sống",
+      "link": "https://tuoitre.vn/aerobic-cup-nestle-milo-2026-san-choi-giup-hoc-sinh-ren-ky-nang-song-100260808120742608.htm",
+      "summary": "Sau nhiều tháng luyện tập, hàng nghìn học sinh TP.HCM đã khép lại mùa hè bằng những bài biểu diễn Aerobic sôi động tại Giải Thể dục Aerobic - Aerobic Dance - Cheerdance Cúp Nestlé MILO năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:27:51.234870+07:00",
+      "fetched": "2026-08-08T15:27:51.234917+07:00"
+    },
+    {
+      "id": "3c2b11e07e2d2d787b35a95c395ae464",
+      "title": "Hàng thủ còn thiếu chắc chắn của tuyển Việt Nam tại ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/hang-thu-con-thieu-chac-chan-cua-tuyen-viet-nam-tai-asean-cup-2026-100260808135111117.htm",
+      "summary": "Giành trọn 3 điểm trước Campuchia ở lượt cuối bảng A ASEAN Cup 2026, nhưng màn trình diễn của hàng thủ đội tuyển Việt Nam khiến HLV Kim Sang Sik không khỏi lo lắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:27:51.234813+07:00",
+      "fetched": "2026-08-08T15:27:51.234861+07:00"
+    },
+    {
+      "id": "6c6a7e45bedcb4448032b062052b135d",
+      "title": "ChatGPT sắp cho người dùng miễn phí trò chuyện không giới hạn",
+      "link": "https://tuoitre.vn/chatgpt-sap-cho-nguoi-dung-mien-phi-tro-chuyen-khong-gioi-han-100260808135310527.htm",
+      "summary": "OpenAI chuẩn bị gỡ giới hạn chat văn bản trên ChatGPT Free và Go, đồng thời thêm nút Think để xử lý các câu hỏi phức tạp hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:27:51.234758+07:00",
+      "fetched": "2026-08-08T15:27:51.234805+07:00"
+    },
+    {
+      "id": "a8a16af4b436c7442c6119ffc68f10ab",
+      "title": "Một xe ô tô biển Hà Nội 'dính' phạt nguội gần 100 lần, tháng gần nhất vi phạm tốc độ 21 lần",
+      "link": "https://tuoitre.vn/mot-xe-o-to-bien-ha-noi-dinh-phat-nguoi-gan-100-lan-thang-gan-nhat-vi-pham-toc-do-21-lan-100260808144545346.htm",
+      "summary": "Từ tháng 2 đến tháng 7, một chiếc xe ô tô mang biển kiểm soát Hà Nội 'dính' phạt nguội gần 100 lần ở Phú Thọ, trong đó tháng 7 vừa qua chiếc xe này vi phạm tốc độ tới 21 lần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:27:51.234684+07:00",
+      "fetched": "2026-08-08T15:27:51.234750+07:00"
+    },
+    {
+      "id": "c55946899b8896a1a72c7fc006f3e207",
+      "title": "Công an truy tìm Dương Thị Quỳnh Tâm",
+      "link": "https://tuoitre.vn/cong-an-truy-tim-duong-thi-quynh-tam-100260808144339751.htm",
+      "summary": "Cơ quan Cảnh sát điều tra đang truy tìm Dương Thị Quỳnh Tâm để phục vụ công tác điều tra về hành vi lợi dụng các quyền tự do dân chủ xâm phạm lợi ích của Nhà nước; quyền, lợi ích hợp pháp của tổ chức, cá nhân",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:27:51.234628+07:00",
+      "fetched": "2026-08-08T15:27:51.234676+07:00"
+    },
+    {
+      "id": "e28080a96f82f62225fa3a458db58b4a",
+      "title": "Bảo mẫu bạo hành trẻ mầm non tại TP.HCM: 'Hành vi của tôi là sai trái, thành thật ăn năn'",
+      "link": "https://tuoitre.vn/bao-mau-bao-hanh-tre-mam-non-tai-tphcm-hanh-vi-cua-toi-la-sai-trai-thanh-that-an-nan-100260808143326392.htm",
+      "summary": "Tại cơ quan công an, nữ bảo mẫu trường mầm non gửi lời xin lỗi đến các bé, gia đình, nhà trường và xin nghiêm túc nhận trách nhiệm về hành vi bạo hành của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:27:51.234571+07:00",
+      "fetched": "2026-08-08T15:27:51.234619+07:00"
+    },
+    {
+      "id": "a8ac29ca9325f7aedc1d43c8c2d6588a",
+      "title": "Hai căn nhà dân bị thiêu rụi trong đêm ở Cà Mau",
+      "link": "https://tuoitre.vn/hai-can-nha-dan-bi-thieu-rui-trong-dem-o-ca-mau-100260808144831117.htm",
+      "summary": "Hai căn nhà dân cùng nhiều tải sản trị giá khoảng 400 triệu đồng bị thiêu rụi trong đêm. Rất may, lực lượng chức năng đã khống chế đám cháy không để cháy lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:27:51.234510+07:00",
+      "fetched": "2026-08-08T15:27:51.234563+07:00"
+    },
+    {
+      "id": "6fd38f3bddc8d41ee3d196b0cece964c",
+      "title": "CUBHCM được vinh danh tại giải thưởng fintech châu Á",
+      "link": "https://tuoitre.vn/cubhcm-duoc-vinh-danh-tai-giai-thuong-fintech-chau-a-100260807142555577.htm",
+      "summary": "Với quy trình từ định danh khách hàng, thẩm định đến giải ngân được thực hiện hoàn toàn trực tuyến, ứng dụng CUB Vietnam giúp người dùng tiếp cận tín dụng thuận tiện hơn và ứng dụng này vừa được vinh danh tại Asian Banking & Finance Fintech Awards 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:27:51.234434+07:00",
+      "fetched": "2026-08-08T15:27:51.234500+07:00"
+    },
+    {
+      "id": "2e1ec31250e7b34b2f7e15c42bf187e3",
+      "title": "Like Tour Việt Nam - Mang đến trải nghiệm du lịch đa dạng",
+      "link": "https://tuoitre.vn/like-tour-viet-nam-mang-den-trai-nghiem-du-lich-da-dang-100260808104014171.htm",
+      "summary": "Sở hữu hơn 8 năm kinh nghiệm, Công Ty TNHH Dịch vụ Du lịch và Thương Mại Quốc tế Like Tour Việt Nam không ngừng nâng cao chất lượng dịch vụ, mang đến những hành trình trải nghiệm trọn vẹn cho khách hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:27:51.234344+07:00",
+      "fetched": "2026-08-08T15:27:51.234424+07:00"
+    },
+    {
+      "id": "587de085cb9e053765fbafb88d929ff0",
+      "title": "CORTIS phá kỷ lục 5 năm của K-pop",
+      "link": "https://tuoitre.vn/cortis-pha-ky-luc-5-nam-cua-k-pop-10026080814205949.htm",
+      "summary": "CORTIS vừa vượt 15 triệu người theo dõi trên Instagram, trở thành nhóm K-pop duy nhất ra mắt trong 5 năm gần đây đạt thành tích này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:27:51.234165+07:00",
+      "fetched": "2026-08-08T15:27:51.234331+07:00"
+    },
     {
       "id": "961fba183f6c58f2a4aaa1449dba08c2",
       "title": "Công an công bố các tài khoản ngân hàng bị can dùng lừa đảo trong vụ án ở Nam Nha Trang",
@@ -453,6 +603,76 @@ window.newsData_2026_08_08 = {
       "fetched": "2026-08-08T10:16:14.068007+07:00"
     },
     {
+      "id": "be80fb74b954f8cbed641504f6bf13d3",
+      "title": "Nga bác cáo buộc dùng UAV tấn công sân bay Đức",
+      "link": "https://thanhnien.vn/nga-bac-cao-buoc-dung-uav-tan-cong-san-bay-duc-185260808131334751.htm",
+      "summary": "Đại sứ quán Nga tại Berlin hôm 7.8 tuyên bố vụ việc một máy bay không người lái (UAV) nghi ngờ tấn công một trung tâm vận tải hàng không lớn của Đức trong tuần này là \"hành động khiêu khích có dàn dựng\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T08:22:00+07:00",
+      "fetched": "2026-08-08T15:27:49.071722+07:00"
+    },
+    {
+      "id": "202760986b4c1911f6012aabc897cd06",
+      "title": "Đại tướng Phan Văn Giang nói về việc bố trí thao trường cho quân sự cấp xã",
+      "link": "https://thanhnien.vn/dai-tuong-phan-van-giang-noi-ve-viec-bo-tri-thao-truong-cho-quan-su-cap-xa-185260808145219842.htm",
+      "summary": "Giải trình trước Quốc hội về dự án luật sửa 9 luật về quốc phòng, quân sự, đại tướng Phan Văn Giang, Phó thủ tướng, Bộ trưởng Bộ Quốc phòng, đã đề cập đến việc bố trí thao trường cho lực lượng quân sự cấp xã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T08:19:00+07:00",
+      "fetched": "2026-08-08T15:27:49.071874+07:00"
+    },
+    {
+      "id": "9a31f3dabf63558e2bfce89eadfd8a91",
+      "title": "Người đồng bào Cơ Tu được khám bệnh miễn phí: 'Chúng tôi mừng và yên tâm lắm!'",
+      "link": "https://thanhnien.vn/nguoi-dong-bao-co-tu-duoc-kham-benh-mien-phi-chung-toi-mung-va-yen-tam-lam-18526080813301656.htm",
+      "summary": "Sáng 8.8, gần 200 người dân Cơ Tu từ những nóc nhà nằm sâu giữa núi rừng đã vượt đường xa đến nhà cộng đồng thôn Cutchrun (xã Bến Hiên, Đà Nẵng) để được khám bệnh, tư vấn sức khỏe, nhận thuốc và quà miễn phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T08:18:00+07:00",
+      "fetched": "2026-08-08T15:27:49.072006+07:00"
+    },
+    {
+      "id": "998d1938789488ae72cb6121565da3ac",
+      "title": "Chủ tịch tỉnh Gia Lai: Chính quyền sẽ là 'bệ đỡ' cho ý tưởng của thanh niên",
+      "link": "https://thanhnien.vn/chu-tich-tinh-gia-lai-chinh-quyen-se-la-be-do-cho-y-tuong-cua-thanh-nien-185260808135412716.htm",
+      "summary": "Chủ tịch UBND tỉnh Gia Lai Phạm Anh Tuấn kêu gọi thanh niên hãy mạnh dạn đề xuất những ý tưởng phát triển lớn, chính quyền sẽ đồng hành, hỗ trợ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T08:15:00+07:00",
+      "fetched": "2026-08-08T15:27:49.072131+07:00"
+    },
+    {
+      "id": "fec3120bfe4500089c8c118b63eb9359",
+      "title": "Công an làm rõ người rời khỏi hiện trường trong vụ tai nạn chết",
+      "link": "https://thanhnien.vn/cong-an-lam-ro-nguoi-roi-khoi-hien-truong-trong-vu-tai-nan-chet-185260808142126685.htm",
+      "summary": "Sau vụ tai nạn khiến người phụ nữ rơi xuống mương kênh tử vong, người đàn ông điều khiển phương tiện rời khỏi hiện trường. Người này đã bị công an phát hiện và mời lên làm rõ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T08:13:00+07:00",
+      "fetched": "2026-08-08T15:27:49.072256+07:00"
+    },
+    {
+      "id": "24de8728c49a5682c9dadf0b1244a720",
+      "title": "Ông Trump bất bình vì tòa ra lệnh ngừng xây phòng khiêu vũ 400 triệu USD",
+      "link": "https://vnexpress.net/ong-trump-bat-binh-vi-toa-ra-lenh-ngung-xay-phong-khieu-vu-400-trieu-usd-5106664.html",
+      "summary": "Ông Trump chỉ trích tòa phúc thẩm liên bang ở Washington vì yêu cầu chính quyền dừng thi công phòng khiêu vũ trị giá 400 triệu USD tại Nhà Trắng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-08T08:00:00+07:00",
+      "fetched": "2026-08-08T15:27:52.930990+07:00"
+    },
+    {
+      "id": "718cdd8884c315339874ba0a440428c7",
+      "title": "Xe đầu kéo chở theo nhiều xe ô tô Lexus bốc cháy trên cao tốc",
+      "link": "https://thanhnien.vn/xe-dau-keo-cho-theo-nhieu-xe-o-to-lexus-boc-chay-tren-cao-toc-185260808144908485.htm",
+      "summary": "Chiếc xe đầu kéo chở 5 xe ô tô Lexus đã xảy ra hỏa hoạn trên cao tốc Hà Nội - Hải Phòng. Tài xế đưa xe vào làn khẩn cấp và dùng bình chữa cháy dập lửa nhưng bất thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:59:00+07:00",
+      "fetched": "2026-08-08T15:27:49.072376+07:00"
+    },
+    {
       "id": "a1574989878d8713ca26f8db6ada3192",
       "title": "Thông số ấn tượng của Đình Bắc trong trận gặp Campuchia",
       "link": "https://tuoitre.vn/thong-so-an-tuong-cua-dinh-bac-trong-tran-gap-campuchia-100260807231341964.htm",
@@ -601,6 +821,286 @@ window.newsData_2026_08_08 = {
       "category": "Tổng hợp",
       "published": "2026-08-08T07:53:49.186728+07:00",
       "fetched": "2026-08-08T07:53:49.186876+07:00"
+    },
+    {
+      "id": "6352757c7c2d7d3827e24caaa9db2bbc",
+      "title": "Cô gái Việt trồng vườn rau xanh tốt ở Nhật, ăn không hết còn mang tặng",
+      "link": "https://thanhnien.vn/co-gai-viet-trong-vuon-rau-xanh-tot-o-nhat-an-khong-het-con-mang-tang-185260808123525822.htm",
+      "summary": "Sang Nhật làm việc từ năm 2017, chị Nguyễn Thị Vân (32 tuổi) tranh thủ thời gian rảnh thuê đất trồng bầu, bí, mướp, khổ qua, dưa hấu… như mang một góc quê Việt sang xứ người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:50:00+07:00",
+      "fetched": "2026-08-08T15:27:49.072513+07:00"
+    },
+    {
+      "id": "703246ec5033bc06e8a763ef74f87c82",
+      "title": "Google Drive sắp ngừng tính năng sao lưu hình ảnh",
+      "link": "https://thanhnien.vn/google-drive-sap-ngung-tinh-nang-sao-luu-hinh-anh-185260808103846703.htm",
+      "summary": "Google Drive chuẩn bị thay đổi chính sách sao lưu hình ảnh, người dùng cần lưu ý để tránh mất tiền oan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:50:00+07:00",
+      "fetched": "2026-08-08T15:27:49.072637+07:00"
+    },
+    {
+      "id": "85c1e55c71e0a2d1101e00cdd88f60b7",
+      "title": "Hai tay vợt Việt Nam 'làm mưa làm gió' ở giải cầu lông trẻ quốc tế Philippines",
+      "link": "https://thanhnien.vn/hai-tay-vot-viet-nam-lam-mua-lam-gio-o-giai-cau-long-tre-quoc-te-philippines-18526080814175842.htm",
+      "summary": "Nguyễn Tất Duy Lợi và Nguyễn Thị Thu Huyền thi đấu đầy ấn tượng ở giải cầu lông trẻ quốc tế Philippines khi giành quyền vào đến 3 trận chung kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:47:00+07:00",
+      "fetched": "2026-08-08T15:27:49.072759+07:00"
+    },
+    {
+      "id": "1d33ad2f2dd751b094e28dc2ac4d6136",
+      "title": "Nhìn lại đội tuyển Việt Nam sau vòng bảng ASEAN Cup 2026: Còn điều đáng lo",
+      "link": "https://thanhnien.vn/nhin-lai-doi-tuyen-viet-nam-sau-vong-bang-asean-cup-2026-con-dieu-dang-lo-185260808103102251.htm",
+      "summary": "Đội tuyển Việt Nam khép lại vòng bảng ASEAN Cup 2026 với ngôi đầu bảng A, thành tích bất bại, ghi 13 bàn và chỉ thủng lưới 1 lần. Những con số cho thấy sự ổn định của thầy trò HLV Kim Sang-sik, nhưng 4 trận đấu cũng chỉ ra không ít vấn đề mà đội tuyển cần giải quyết trước khi bước vào vòng bán kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:41:00+07:00",
+      "fetched": "2026-08-08T15:27:49.072880+07:00"
+    },
+    {
+      "id": "b818cfa50c8616381e2fdd3080a8cc00",
+      "title": "Iran trưng bày xác tiêm kích F-15E, UAV Mỹ bị bắn hạ",
+      "link": "https://vnexpress.net/iran-trung-bay-xac-tiem-kich-f-15e-uav-my-bi-ban-ha-5106702.html",
+      "summary": "Iran trưng bày mảnh vỡ loạt máy bay bị bắn hạ trong 6 tuần xung đột với Mỹ - Israel, trong đó có tiêm kích F-15E và UAV Reaper.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:38:58+07:00",
+      "fetched": "2026-08-08T15:27:46.080243+07:00"
+    },
+    {
+      "id": "b818cfa50c8616381e2fdd3080a8cc00",
+      "title": "Iran trưng bày xác tiêm kích F-15E, UAV Mỹ bị bắn hạ",
+      "link": "https://vnexpress.net/iran-trung-bay-xac-tiem-kich-f-15e-uav-my-bi-ban-ha-5106702.html",
+      "summary": "Iran trưng bày mảnh vỡ loạt máy bay bị bắn hạ trong 6 tuần xung đột với Mỹ - Israel, trong đó có tiêm kích F-15E và UAV Reaper.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-08T07:38:58+07:00",
+      "fetched": "2026-08-08T15:27:52.931148+07:00"
+    },
+    {
+      "id": "d746c5753c0aff9e3d987c7f78183ebd",
+      "title": "2.500 runner nhí chinh phục đường chạy ven biển Nha Trang",
+      "link": "https://vnexpress.net/2-500-runner-nhi-chinh-phuc-duong-chay-ven-bien-nha-trang-5106783.html",
+      "summary": "Các bé từ 6-10 tuổi chinh phục đường chạy một km tại khu vực gần Quảng trường 2 tháng 4, vượt qua dốc và các thử thách nhà phao, sáng 8/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:38:07+07:00",
+      "fetched": "2026-08-08T15:27:46.080428+07:00"
+    },
+    {
+      "id": "5efbb3be48f74b1e0c5be0cb5949c918",
+      "title": "Lừa đảo 14 tỉ đồng bằng chiêu ‘đáo hạn ngân hàng’",
+      "link": "https://thanhnien.vn/lua-dao-14-ti-dong-bang-chieu-dao-han-ngan-hang-185260808125300376.htm",
+      "summary": "Nguyễn Thị Hằng đã đưa ra thông tin cần huy động tiền để cho khách hàng vay 'đáo hạn ngân hàng', sau đó chiếm đoạt 14 tỉ đồng của các bị hại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:37:00+07:00",
+      "fetched": "2026-08-08T15:27:49.073005+07:00"
+    },
+    {
+      "id": "4dc7d8898fdb2e3d8a95eb04fdb683c4",
+      "title": "Cầu thủ Indonesia bị tát khi tranh cãi với CĐV ở ASEAN Cup",
+      "link": "https://vnexpress.net/cau-thu-indonesia-bi-tat-khi-tranh-cai-voi-cdv-o-asean-cup-5106791.html",
+      "summary": "Shayne Pattynama tranh cãi căng thẳng với CĐV nhà, sau khi Indonesia hòa Singapore 1-1 và bị loại từ vòng bảng ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:30:04+07:00",
+      "fetched": "2026-08-08T15:27:46.080587+07:00"
+    },
+    {
+      "id": "4dc7d8898fdb2e3d8a95eb04fdb683c4",
+      "title": "Cầu thủ Indonesia bị tát khi tranh cãi với CĐV ở ASEAN Cup",
+      "link": "https://vnexpress.net/cau-thu-indonesia-bi-tat-khi-tranh-cai-voi-cdv-o-asean-cup-5106791.html",
+      "summary": "Shayne Pattynama tranh cãi căng thẳng với CĐV nhà, sau khi Indonesia hòa Singapore 1-1 và bị loại từ vòng bảng ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-08T07:30:04+07:00",
+      "fetched": "2026-08-08T15:27:59.535782+07:00"
+    },
+    {
+      "id": "5c1163da0ba37a8c0a729c181afe48cf",
+      "title": "Những trạm tiếp sức mang tên 'bố mẹ' tại Kun Marathon Nha Trang 2026",
+      "link": "https://vnexpress.net/nhung-tram-tiep-suc-mang-ten-bo-me-tai-kun-marathon-nha-trang-2026-5106749.html",
+      "summary": "Những tấm bảng viết tay, tiếng gọi bên hàng rào và ánh mắt dõi theo con tạo nên hình ảnh đáng nhớ tại Kun Marathon Nha Trang sáng 8/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:30:00+07:00",
+      "fetched": "2026-08-08T15:27:46.080729+07:00"
+    },
+    {
+      "id": "c51edfebdddc1fa7aef782277d856bf8",
+      "title": "Cựu bộ trưởng Mỹ bị tố làm lộ điểm yếu của chuyên cơ Không lực Một",
+      "link": "https://vnexpress.net/cuu-bo-truong-my-bi-to-lam-lo-diem-yeu-cua-chuyen-co-khong-luc-mot-5106694.html",
+      "summary": "Lầu Năm Góc tước quyền tiếp cận tin mật của cựu bộ trưởng không quân Frank Kendall, cáo buộc ông để lộ năng lực của Máy bay Cầu nối VC-25B.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:22:38+07:00",
+      "fetched": "2026-08-08T15:27:46.080867+07:00"
+    },
+    {
+      "id": "c51edfebdddc1fa7aef782277d856bf8",
+      "title": "Cựu bộ trưởng Mỹ bị tố làm lộ điểm yếu của chuyên cơ Không lực Một",
+      "link": "https://vnexpress.net/cuu-bo-truong-my-bi-to-lam-lo-diem-yeu-cua-chuyen-co-khong-luc-mot-5106694.html",
+      "summary": "Lầu Năm Góc tước quyền tiếp cận tin mật của cựu bộ trưởng không quân Frank Kendall, cáo buộc ông để lộ năng lực của Máy bay Cầu nối VC-25B.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-08T07:22:38+07:00",
+      "fetched": "2026-08-08T15:27:52.931287+07:00"
+    },
+    {
+      "id": "3ab76b9b289dcfd5fcb132474ad52261",
+      "title": "Sẹo mụn và những sai lầm dù đơn giản vẫn khiến việc điều trị mãi không hết",
+      "link": "https://thanhnien.vn/seo-mun-va-nhung-sai-lam-du-don-gian-van-khien-viec-dieu-tri-mai-khong-het-185260808143905954.htm",
+      "summary": "Không ít người đã chi hàng triệu đồng cho kem mờ sẹo nhưng da vẫn thâm sạm, lồi lõm và kém mịn màng sau nhiều tháng. Điều đáng nói, nguyên nhân đôi khi không nằm ở sản phẩm mà xuất phát từ những sai lầm phổ biến trong quá trình chăm sóc da. Chuyên gia da liễu chỉ ra 5 thói quen khiến việc điều trị s...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:22:00+07:00",
+      "fetched": "2026-08-08T15:27:49.073127+07:00"
+    },
+    {
+      "id": "74d3e5a41ed6433aa2b3b11aea7e9277",
+      "title": "Tư lệnh quân đoàn tiền phương Mỹ ở châu Âu mất chức",
+      "link": "https://vnexpress.net/tu-lenh-quan-doan-tien-phuong-my-o-chau-au-mat-chuc-5106710.html",
+      "summary": "Lục quân Mỹ cách chức tướng Costanza, tư lệnh quân đoàn tiền phương ở châu Âu, gần hai tháng trước khi ông hết nhiệm kỳ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:21:55+07:00",
+      "fetched": "2026-08-08T15:27:46.080994+07:00"
+    },
+    {
+      "id": "74d3e5a41ed6433aa2b3b11aea7e9277",
+      "title": "Tư lệnh quân đoàn tiền phương Mỹ ở châu Âu mất chức",
+      "link": "https://vnexpress.net/tu-lenh-quan-doan-tien-phuong-my-o-chau-au-mat-chuc-5106710.html",
+      "summary": "Lục quân Mỹ cách chức tướng Costanza, tư lệnh quân đoàn tiền phương ở châu Âu, gần hai tháng trước khi ông hết nhiệm kỳ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-08T07:21:55+07:00",
+      "fetched": "2026-08-08T15:27:52.931439+07:00"
+    },
+    {
+      "id": "013fe54350e68831367b1ec7dea390ef",
+      "title": "Vietnam Travel Agency in the North nói gì khi hình ảnh Hội An gắn 'ở Trung Quốc'?",
+      "link": "https://thanhnien.vn/vietnam-travel-agency-in-the-north-noi-gi-khi-hinh-anh-hoi-an-gan-o-trung-quoc-185260808123550126.htm",
+      "summary": "Sau khi bài đăng sử dụng hình ảnh phố cổ Hội An nhưng chú thích 'Một ngày bình thường ở thành phố cổ Hoian, Trung Quốc' gây phản ứng trên mạng xã hội, đại diện Vietnam Travel Agency in the North cho rằng đây là sự cố do tính năng dịch tự động của Facebook, không phải nội dung trong bài đăng gốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:17:00+07:00",
+      "fetched": "2026-08-08T15:27:49.073243+07:00"
+    },
+    {
+      "id": "4290a587e140a4a73c9a28f2cc736682",
+      "title": "Đình Bắc nếu tiếp tục chơi hay cỡ này, Việt Nam chiếm thế thượng tôn ở cuộc đua đặc biệt",
+      "link": "https://thanhnien.vn/dinh-bac-neu-tiep-tuc-choi-hay-co-nay-viet-nam-chiem-the-thuong-ton-o-cuoc-dua-dac-biet-185260808132648642.htm",
+      "summary": "Tiền đạo Nguyễn Đình Bắc đang dẫn đầu danh sách Vua phá lưới của ASEAN Cup 2026. Anh có thể trở thành cầu thủ Việt Nam thứ 3 liên tiếp, giành danh hiệu này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:16:00+07:00",
+      "fetched": "2026-08-08T15:27:49.073355+07:00"
+    },
+    {
+      "id": "e4684efafb27e77c6a01597a4c7f30a8",
+      "title": "Mẹ đẩy xe lăn đưa con lên nhận bằng tốt nghiệp, ai cũng rưng rưng",
+      "link": "https://thanhnien.vn/me-day-xe-lan-dua-con-len-nhan-bang-tot-nghiep-ai-cung-rung-rung-185260808121903303.htm",
+      "summary": "Từ những ngày phải nhờ mẹ đưa đến từng phòng học đến khoảnh khắc cùng mẹ bước lên sân khấu nhận bằng tốt nghiệp, hành trình của tân cử nhân Nguyễn Gia Huy đã chạm đến trái tim nhiều người bởi nghị lực vượt khó và tình mẫu tử bền bỉ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:15:00+07:00",
+      "fetched": "2026-08-08T15:27:49.073490+07:00"
+    },
+    {
+      "id": "d3179260de5f882e60347e380de21c07",
+      "title": "'8X may mắn hơn Gen Z vì có bằng B Anh Văn là xin được việc'",
+      "link": "https://vnexpress.net/8x-may-man-hon-gen-z-vi-co-bang-b-anh-van-la-xin-duoc-viec-5106715.html",
+      "summary": "Nhìn những bạn Gen Z có IELTS 6.5, 7.0, thậm chí 8.0 nhưng vẫn loay hoay tìm việc, tôi lại thấy thế hệ 8X của mình ngày trước may mắn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:04:02+07:00",
+      "fetched": "2026-08-08T15:27:46.081117+07:00"
+    },
+    {
+      "id": "d93cf59953a1db8a1954ff7a6385e401",
+      "title": "Phim bị hủy chiếu vì bê bối 'ép nam chính quay 60 cảnh hôn'",
+      "link": "https://vnexpress.net/phim-bi-huy-chieu-vi-be-boi-ep-nam-chinh-quay-60-canh-hon-5106770.html",
+      "summary": "Phim ngắn Trung Quốc \"Vương gia thất thế\" bị hủy chiếu vì nhà đầu tư kiêm nữ chính tự ý thêm loạt cảnh tình tứ, khiến nội dung lộn xộn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:01:47+07:00",
+      "fetched": "2026-08-08T15:27:46.081247+07:00"
+    },
+    {
+      "id": "7cdd5a99b5e1dab9f3c237b8ad9db551",
+      "title": "Chồng thú nhận có con riêng với người cũ",
+      "link": "https://vnexpress.net/chong-thu-nhan-co-con-rieng-voi-nguoi-cu-5106720.html",
+      "summary": "Bây giờ, khi có con rồi, hàng ngày vui vẻ bên con, anh lại thấy có lỗi với bé kia và muốn được quan tâm, có trách nhiệm với con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:00:00+07:00",
+      "fetched": "2026-08-08T15:27:46.081374+07:00"
+    },
+    {
+      "id": "8495298314a988d47d7ef76d6e64e960",
+      "title": "Điều gì xảy ra với thận khi ăn dưa hấu hàng ngày?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-than-khi-an-dua-hau-hang-ngay-5106491.html",
+      "summary": "Ăn dưa hấu với lượng vừa phải mỗi ngày có thể hỗ trợ sức khỏe thận song ăn quá nhiều hoặc dùng không phù hợp có thể gây bất lợi ở người mắc bệnh thận mạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:00:00+07:00",
+      "fetched": "2026-08-08T15:27:46.081527+07:00"
+    },
+    {
+      "id": "b86e24dee04ce68a4251291b9c2f2701",
+      "title": "MIK Group khởi công gần 1.000 căn hộ phía Đông TP HCM",
+      "link": "https://vnexpress.net/mik-group-khoi-cong-gan-1-000-can-ho-phia-dong-tp-hcm-5106789.html",
+      "summary": "MIK Group khởi công dự án Imperia Sensa Park quy mô 5 ha, gần 1.000 căn hộ cùng sản phẩm thấp tầng, nằm trên trục Võ Chí Công, kết nối trực tiếp với đường Liên Phường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:00:00+07:00",
+      "fetched": "2026-08-08T15:27:46.081652+07:00"
+    },
+    {
+      "id": "c34bd613a14cd8485359d9c43b58d8e9",
+      "title": "Voniko Việt Nam chuyển từ xuất khẩu sang phục vụ nội địa",
+      "link": "https://vnexpress.net/voniko-viet-nam-chuyen-tu-xuat-khau-sang-phuc-vu-noi-dia-5106771.html",
+      "summary": "Voniko đầu tư nhà máy ở Việt Nam từ ba năm trước, chủ yếu sản xuất pin alkaline để xuất khẩu, nay chuyển chiến lược phục vụ người dùng nội địa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:00:00+07:00",
+      "fetched": "2026-08-08T15:27:46.081778+07:00"
+    },
+    {
+      "id": "7c28f1c7f7a8fcc5f62e9a5cef351bef",
+      "title": "Công nghệ RF vi điểm hỗ trợ phục hồi da sau mụn",
+      "link": "https://vnexpress.net/cong-nghe-rf-vi-diem-ho-tro-phuc-hoi-da-sau-mun-5106092.html",
+      "summary": "Công nghệ RF vi điểm hỗ trợ cải thiện đỏ da, tái tạo nền mô và phục hồi sau mụn, theo ThS.BS. Phạm Thị Cẩm Thúy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:00:00+07:00",
+      "fetched": "2026-08-08T15:27:46.081900+07:00"
+    },
+    {
+      "id": "8e75615f1c45ab32eebc100bad90bca3",
+      "title": "Bác sĩ cảnh báo 5 món ăn thừa cất tủ lạnh nguy hiểm cho thận",
+      "link": "https://vnexpress.net/bac-si-canh-bao-5-mon-an-thua-cat-tu-lanh-nguy-hiem-cho-than-5106661.html",
+      "summary": "Hải sản, rau xanh lá hay trứng lòng đào để qua đêm có thể biến chất và sinh ra chuỗi độc tố vi khuẩn chịu nhiệt, gây đe dọa tính mạng người mắc bệnh thận mạn tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T06:54:12+07:00",
+      "fetched": "2026-08-08T15:27:46.082019+07:00"
+    },
+    {
+      "id": "9047dac25ddd13a0312609fb2d89c503",
+      "title": "Bên trong ngôi nhà cổ từ thế kỷ 19 của 'Người Nhện' Tom Holland",
+      "link": "https://vnexpress.net/ben-trong-ngoi-nha-co-tu-the-ky-19-cua-nguoi-nhen-tom-holland-5106591.html",
+      "summary": "Căn nhà ba tầng giữ nhiều chi tiết kiến trúc Anh truyền thống như lò sưởi, cửa sổ lồi, cầu thang gỗ, đồng thời có khu bếp mở kết nối sân vườn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T06:43:00+07:00",
+      "fetched": "2026-08-08T15:27:46.082142+07:00"
     },
     {
       "id": "6b5a961d5118de2ff5ff555cc60f129e",
