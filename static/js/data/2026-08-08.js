@@ -1,7 +1,137 @@
 window.newsData_2026_08_08 = {
   "date": "2026-08-08",
-  "lastUpdated": "2026-08-08T21:22:49.464868+07:00",
+  "lastUpdated": "2026-08-08T23:20:44.891870+07:00",
   "articles": [
+    {
+      "id": "240f424e29df001a2b65be290af35ca7",
+      "title": "Thượng viện Mỹ phê chuẩn cựu luật sư của ông Trump làm Bộ trưởng Tư pháp",
+      "link": "https://tuoitre.vn/thuong-vien-my-phe-chuan-cuu-luat-su-cua-ong-trump-lam-bo-truong-tu-phap-100260808194650451.htm",
+      "summary": "Thượng viện Mỹ phê chuẩn ông Todd Blanche làm Bộ trưởng Tư pháp với 50 phiếu thuận, 49 phiếu chống sau tranh cãi về quỹ bồi thường 1,8 tỉ USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:20:37.759536+07:00",
+      "fetched": "2026-08-08T23:20:37.759582+07:00"
+    },
+    {
+      "id": "46de2d987376f172ea40b288775dfe59",
+      "title": "Đức phát hiện drone xâm nhập căn cứ bảo trì hệ thống Patriot",
+      "link": "https://tuoitre.vn/duc-phat-hien-drone-xam-nhap-can-cu-bao-tri-he-thong-patriot-100260808210743523.htm",
+      "summary": "Hai vụ drone liên tiếp xâm nhập các địa điểm nhạy cảm ở Đức làm dấy lên lo ngại về nguy cơ mới đối với an ninh không phận NATO.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:20:37.759468+07:00",
+      "fetched": "2026-08-08T23:20:37.759527+07:00"
+    },
+    {
+      "id": "c045fb091d7323835f2868b660f6d88f",
+      "title": "Đà Nẵng tính lập Sở Giao dịch hàng hóa trong Trung tâm Tài chính quốc tế",
+      "link": "https://tuoitre.vn/da-nang-tinh-lap-so-giao-dich-hang-hoa-trong-trung-tam-tai-chinh-quoc-te-100260808195119606.htm",
+      "summary": "Đà Nẵng đang nghiên cứu mô hình Sở Giao dịch hàng hóa, hướng tới đưa cà phê, hồ tiêu, sâm Ngọc Linh và nhiều hàng hóa thế mạnh giao dịch tập trung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:20:37.759417+07:00",
+      "fetched": "2026-08-08T23:20:37.759460+07:00"
+    },
+    {
+      "id": "9b134709ec354e3ee245e923916f3595",
+      "title": "Chủ tịch Quốc hội Lào Xaysomphone Phomvihane qua đời",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-lao-xaysomphone-phomvihane-qua-doi-100260808214939739.htm",
+      "summary": "Ngày 8-8, truyền thông Lào đưa tin ông Xaysomphone Phomvihane, Chủ tịch Quốc hội Lào và là một trong những nhân vật chính trị cấp cao nhất của nước này, đã qua đời ở tuổi 69.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:20:37.759367+07:00",
+      "fetched": "2026-08-08T23:20:37.759410+07:00"
+    },
+    {
+      "id": "664904c64eb8a0f42b9eb67a377a82e5",
+      "title": "Tuyển Việt Nam chạm trán Malaysia ở bán kết ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/tuyen-viet-nam-cham-tran-malaysia-o-ban-ket-asean-cup-2026-100260808203053662.htm",
+      "summary": "Tối 8-8, Malaysia đã đánh bại Philippines với tỉ số 1-0 để giành vé vào bán kết ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:20:37.759319+07:00",
+      "fetched": "2026-08-08T23:20:37.759360+07:00"
+    },
+    {
+      "id": "86597ecf82b7b0887c7655e8f22ea341",
+      "title": "4 người bị sóng cuốn xuống biển Đà Nẵng: Ly kỳ cô gái sống sót 8 tiếng dù không biết bơi",
+      "link": "https://tuoitre.vn/4-nguoi-bi-song-cuon-xuong-bien-da-nang-ly-ky-co-gai-song-sot-8-tieng-du-khong-biet-boi-100260808210121681.htm",
+      "summary": "Phương, 24 tuổi, không biết bơi, bị sóng cuốn ra xa ở Mũi Nghê, Đà Nẵng. Sau 8 giờ lênh đênh, cô được tàu 629 cứu sống chiều 8-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:20:37.759269+07:00",
+      "fetched": "2026-08-08T23:20:37.759311+07:00"
+    },
+    {
+      "id": "25ab1c660d29daf52f8bbbd8129c3d14",
+      "title": "Xác định 4 đội vào bán kết ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/xac-dinh-4-doi-vao-ban-ket-asean-cup-2026-10026080821501376.htm",
+      "summary": "Sau loạt trận cuối cùng bảng B diễn ra tối 8-8, ASEAN Cup 2026 đã xác định được 4 đội giành vé vào bán kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:20:37.759218+07:00",
+      "fetched": "2026-08-08T23:20:37.759261+07:00"
+    },
+    {
+      "id": "c31848e00ec9cdcd637c9224596b7a60",
+      "title": "Thái Lan thiết lập thành tích ấn tượng nhất tại ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/thai-lan-thiet-lap-thanh-tich-an-tuong-nhat-tai-asean-cup-2026-100260808221145765.htm",
+      "summary": "Giành chiến thắng trước Myanmar với tỉ số 2-0 vào tối 8-8, tuyển Thái Lan thiết lập thành tích ấn tượng để khép lại giai đoạn vòng bảng ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:20:37.759164+07:00",
+      "fetched": "2026-08-08T23:20:37.759210+07:00"
+    },
+    {
+      "id": "4ac20f00a46b938ac2acede76ee68187",
+      "title": "Thái Lan mang đến tin cực vui cho Đình Bắc",
+      "link": "https://tuoitre.vn/thai-lan-mang-den-tin-cuc-vui-cho-dinh-bac-100260808204405752.htm",
+      "summary": "Dù đã kết thúc trận đấu cuối cùng ở giai đoạn vòng bảng ASEAN Cup 2026 vào ngày 7-8, phải đến tối 8-8, ngôi sao Nguyễn Đình Bắc mới nhận được tin vui lớn - chính thức dẫn đầu cuộc đua Vua phá lưới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:20:37.759107+07:00",
+      "fetched": "2026-08-08T23:20:37.759155+07:00"
+    },
+    {
+      "id": "9521bc6ac1cf2bee151e6dfd4ee52efb",
+      "title": "Bán mảng siêu thị tại Thái Lan, AEON 'đặt cược' vào Việt Nam?",
+      "link": "https://tuoitre.vn/ban-mang-sieu-thi-tai-thai-lan-aeon-dat-cuoc-vao-viet-nam-100260808222512939.htm",
+      "summary": "AEON sẽ rút khỏi mảng siêu thị tại Thái Lan sau khi bán công ty vận hành chuỗi MaxValu cho Central Retail. Nhà bán lẻ Nhật Bản dự kiến ưu tiên phân bổ khoảng 60% ngân sách đầu tư của toàn khu vực ASEAN cho thị trường Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:20:37.759048+07:00",
+      "fetched": "2026-08-08T23:20:37.759099+07:00"
+    },
+    {
+      "id": "cd5860c9bb81000741b8650503739b97",
+      "title": "Ông Biden bị ung thư đã di căn vào xương",
+      "link": "https://tuoitre.vn/ong-biden-bi-ung-thu-da-di-can-vao-xuong-100260808223318438.htm",
+      "summary": "Căn bệnh ung thư tuyến tiền liệt của cựu Tổng thống Mỹ Joe Biden đã di căn sang các bộ phận khác của cơ thể và gây đau đớn cho ông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:20:37.758990+07:00",
+      "fetched": "2026-08-08T23:20:37.759041+07:00"
+    },
+    {
+      "id": "57aae032e05c81c215b86f6ecebaca7e",
+      "title": "Video: Hai quả phạt đền giúp Thái Lan đánh bại Myanmar",
+      "link": "https://tuoitre.vn/video-hai-qua-phat-den-giup-thai-lan-danh-bai-myanmar-100260808225350797.htm",
+      "summary": "Ở lượt trận cuối vòng bảng, Thái Lan được hưởng hai quả phạt đền theo cùng một kịch bản khi cầu thủ Myanmar để bóng chạm tay bên trong vòng cấm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:20:37.758922+07:00",
+      "fetched": "2026-08-08T23:20:37.758981+07:00"
+    },
+    {
+      "id": "0b808fd99b637c457974baa900eebac6",
+      "title": "Xe hợp đồng phải chia sẻ dữ liệu với công an, thuế, hải quan từ 2028",
+      "link": "https://tuoitre.vn/xe-hop-dong-phai-chia-se-du-lieu-voi-cong-an-thue-hai-quan-tu-2028-100260808224345125.htm",
+      "summary": "Xe hợp đồng không được bán vé, thu tiền, ấn định lịch trình cố định; từ 2028 phải chia sẻ dữ liệu chuyến đi với công an, thuế, hải quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:20:37.758770+07:00",
+      "fetched": "2026-08-08T23:20:37.758910+07:00"
+    },
     {
       "id": "7f6d6daf0a1faa79c94f9d168c428556",
       "title": "Amalga ra mắt tại Việt Nam, góp phần thúc đẩy chuyển đổi số ngành y tế",
@@ -453,6 +583,36 @@ window.newsData_2026_08_08 = {
       "fetched": "2026-08-08T17:20:53.891799+07:00"
     },
     {
+      "id": "80134ca76d15c24f9d652901f00da1bd",
+      "title": "Khởi tố người 'không có tội' trong vụ tai nạn giao thông năm 2024 ở Vĩnh Long",
+      "link": "https://thanhnien.vn/khoi-to-nguoi-khong-co-toi-trong-vu-tai-nan-giao-thong-nam-2024-o-vinh-long-185260808221812767.htm",
+      "summary": "Sau tai nạn giao thông, cơ quan công an kết luận lỗi thuộc về người cha đã tử vong. Không đồng tình với kết luận này, người con làm đơn khiếu nại gửi nhiều nơi. Kết quả, vụ án được lật lại và khởi tố người được cho là 'không có tội' trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:56:00+07:00",
+      "fetched": "2026-08-08T23:20:35.975792+07:00"
+    },
+    {
+      "id": "1e24009a43ce61418daf321d2277969f",
+      "title": "Báo Malaysia khen đội nhà vượt khó ngoạn mục, lo ngại ‘đá tảng’ Việt Nam tại bán kết",
+      "link": "https://thanhnien.vn/bao-malaysia-khen-doi-nha-vuot-kho-ngoan-muc-lo-ngai-da-tang-viet-nam-tai-ban-ket-185260808224110938.htm",
+      "summary": "Đội tuyển Malaysia đã hoàn thành mục tiêu giành vé vào bán kết ASEAN Cup 2026 sau chiến thắng tối thiểu trước Philippines. Truyền thông nước này đánh giá cao bản lĩnh của đội nhà, nhưng thừa nhận Việt Nam là thử thách rất lớn ở vòng đấu dành cho 4 đội mạnh nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:50:00+07:00",
+      "fetched": "2026-08-08T23:20:35.975940+07:00"
+    },
+    {
+      "id": "58fdd482822c1c389e327bacd8082e28",
+      "title": "Cuộc hẹn ngắm bình minh Mũi Nghê thành chuyến đi định mệnh",
+      "link": "https://vnexpress.net/cuoc-hen-ngam-binh-minh-mui-nghe-thanh-chuyen-di-dinh-menh-5106911.html",
+      "summary": "Sáu người họ hàng từ 19 đến 30 tuổi hẹn nhau ra Mũi Nghê ngắm bình minh, nhưng 4 người bị sóng cuốn, hai người được cứu, hai người còn mất tích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:38:49+07:00",
+      "fetched": "2026-08-08T23:20:33.297795+07:00"
+    },
+    {
       "id": "86382aad3729f9994896a2ebc1e5792b",
       "title": "Status của con trai ông Shin Tae Yong 'sống lại' sau khi Indonesia bị loại khỏi ASEAN Cup 2026",
       "link": "https://tuoitre.vn/status-cua-con-trai-ong-shin-tae-yong-song-lai-sau-khi-indonesia-bi-loai-khoi-asean-cup-2026-100260808134550448.htm",
@@ -603,6 +763,126 @@ window.newsData_2026_08_08 = {
       "fetched": "2026-08-08T15:27:51.234331+07:00"
     },
     {
+      "id": "ddb6d96fa9cf029d7b6c5412a90b4b3e",
+      "title": "Kiến nghị xử nghiêm thao túng giá vàng, 'điểm mặt' Bảo Tín Mạnh Hải và Mi Hồng",
+      "link": "https://thanhnien.vn/kien-nghi-xu-nghiem-thao-tung-gia-vang-diem-mat-bao-tin-manh-hai-va-mi-hong-185260808215045549.htm",
+      "summary": "Thanh tra Chính phủ kiến nghị xử nghiêm các hành vi thao túng, đầu cơ, trục lợi, kinh doanh trái phép của các doanh nghiệp vàng. Trong đó có Công ty CP Bảo Tín Mạnh Hải và Công ty TNHH Mi Hồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:25:00+07:00",
+      "fetched": "2026-08-08T23:20:35.976069+07:00"
+    },
+    {
+      "id": "41604c0c1e07ff45c37856926fceb3f8",
+      "title": "Nhiều sai phạm tại các công ty vàng lớn bị Thanh tra Chính phủ phát hiện",
+      "link": "https://vnexpress.net/nhieu-sai-pham-tai-cac-cong-ty-vang-lon-bi-thanh-tra-chinh-phu-phat-hien-5106890.html",
+      "summary": "Thanh tra Chính phủ cho rằng Công ty Bảo Tín Mạnh Hải nhận đặt cọc của một số khách hàng mà không giao vàng miếng ngay là vi phạm giấy phép kinh doanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:07:04+07:00",
+      "fetched": "2026-08-08T23:20:33.297960+07:00"
+    },
+    {
+      "id": "86d9fba2b2b65e48aa8b6dfdd3d4d723",
+      "title": "Lịch thi đấu bán kết ASEAN Cup mới nhất: Đội tuyển Thái Lan chạm trán Singapore cực hấp dẫn",
+      "link": "https://thanhnien.vn/lich-thi-dau-ban-ket-asean-cup-moi-nhat-doi-tuyen-thai-lan-cham-tran-singapore-cuc-hap-dan-185260808211550485.htm",
+      "summary": "Tối 8.8, đội tuyển Thái Lan đánh bại Myanmar 2-0 để giữ vững ngôi đầu bảng B ASEAN Cup 2026, qua đó gặp Singapore ở bán kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:04:00+07:00",
+      "fetched": "2026-08-08T23:20:35.976204+07:00"
+    },
+    {
+      "id": "63c6d96c9edd556f7305529aff7ea3b5",
+      "title": "Đội tuyển Việt Nam đại chiến Malaysia bán kết ASEAN Cup: Xem trên những kênh nào?",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-dai-chien-malaysia-ban-ket-asean-cup-xem-tren-nhung-kenh-nao-185260808220034813.htm",
+      "summary": "Đội tuyển Việt Nam sẽ chạm trán Malaysia ở vòng bán kết giải vô địch bóng đá Đông Nam Á (ASEAN Cup) 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:03:00+07:00",
+      "fetched": "2026-08-08T23:20:35.976332+07:00"
+    },
+    {
+      "id": "3ad0987bb33567d4bb5b8facd47a52ef",
+      "title": "Bảng xếp hạng ASEAN Cup 2026 mới nhất: Thái Lan đứng đầu, đối thủ quen mặt của Việt Nam lộ diện",
+      "link": "https://thanhnien.vn/bang-xep-hang-asean-cup-2026-moi-nhat-thai-lan-dung-dau-doi-thu-quen-mat-cua-viet-nam-lo-dien-18526080820565919.htm",
+      "summary": "Bảng xếp hạng chung cuộc của bảng B ASEAN Cup 2026 đã định hình xong, sau khi loạt trận hạ màn diễn ra lúc 20 giờ hôm nay (8.8).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T15:00:00+07:00",
+      "fetched": "2026-08-08T23:20:35.976458+07:00"
+    },
+    {
+      "id": "8ab84bf56c877f2ed13c06371a6dfb52",
+      "title": "Phương Mỹ Chi 'tái xuất' trưởng thành, lần đầu kể câu chuyện tình yêu qua âm nhạc",
+      "link": "https://thanhnien.vn/phuong-my-chi-tai-xuat-truong-thanh-lan-dau-ke-cau-chuyen-tinh-yeu-qua-am-nhac-185260808205336377.htm",
+      "summary": "Phương Mỹ Chi xác nhận sẽ trở lại đường đua âm nhạc với MV mới mang tên Thiên đường với người thương. Sản phẩm đánh dấu hình ảnh trưởng thành, nữ tính hơn của nữ ca sĩ khi lần đầu đưa câu chuyện tình yêu trở thành một trong những mạch cảm xúc trong sản phẩm âm nhạc của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T14:59:00+07:00",
+      "fetched": "2026-08-08T23:20:35.976601+07:00"
+    },
+    {
+      "id": "f61aad1acbc5bb39ddf8c301ea5e2c04",
+      "title": "Vụ bạo hành con gái riêng của nhân tình: Trưởng công an phường Bình Phước nói gì?",
+      "link": "https://thanhnien.vn/vu-bao-hanh-con-gai-rieng-cua-nhan-tinh-truong-cong-an-phuong-binh-phuoc-noi-gi-185260808192709645.htm",
+      "summary": "Liên quan vụ bạo hành con gái riêng của nhân tình xảy ra trên địa bàn, Trưởng công an phường Bình Phước đã chia sẻ với phóng viên Thanh Niên về quá trình xử lý vụ việc và khuyến cáo đến cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T14:52:00+07:00",
+      "fetched": "2026-08-08T23:20:35.976731+07:00"
+    },
+    {
+      "id": "78298d7ae0d4fb2f1038a3f2502174b4",
+      "title": "Nghệ sĩ xiếc Quốc Cơ tốt nghiệp thạc sĩ ở tuổi 42",
+      "link": "https://thanhnien.vn/nghe-si-xiec-quoc-co-tot-nghiep-thac-si-o-tuoi-42-185260808213427235.htm",
+      "summary": "Với nghệ sĩ xiếc Quốc Cơ, việc nhận bằng thạc sĩ không chỉ là thành quả của bản thân mà còn đến từ sự động viên, thấu hiểu từ gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T14:43:00+07:00",
+      "fetched": "2026-08-08T23:20:35.976853+07:00"
+    },
+    {
+      "id": "a158cae215fac6f20d6df88662537d0d",
+      "title": "Bắt trưởng ban quản lý lừa đảo bán căn hộ tái định cư hơn 2,1 tỉ đồng",
+      "link": "https://thanhnien.vn/bat-truong-ban-quan-ly-lua-dao-ban-can-ho-tai-dinh-cu-hon-21-ti-dong-185260808194527683.htm",
+      "summary": "Lợi dụng chức vụ, cựu Trưởng ban quản lý chung cư 1050 lừa đảo bán căn hộ tái định cư, chiếm đoạt hơn 2,1 tỉ đồng của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T14:39:00+07:00",
+      "fetched": "2026-08-08T23:20:35.976976+07:00"
+    },
+    {
+      "id": "188ed19c3253bfffab5bf9b8f1719ad8",
+      "title": "Nhan sắc tuổi 25 của con gái Cindy Crawford",
+      "link": "https://vnexpress.net/nhan-sac-tuoi-25-cua-con-gai-cindy-crawford-5106052.html",
+      "summary": "Kaia Gerber - con gái của siêu mẫu Cindy Crawford - cao 1,77 m, chuộng mặc những trang phục tôn vẻ ngoài mảnh mai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T14:25:48+07:00",
+      "fetched": "2026-08-08T23:20:33.298101+07:00"
+    },
+    {
+      "id": "664022769e84bab0fa2b54519ee05158",
+      "title": "Chuyển Bộ Công an xác minh 7 cá nhân bán vàng 'bất thường' hơn 2.000 tỉ",
+      "link": "https://thanhnien.vn/chuyen-bo-cong-an-xac-minh-7-ca-nhan-ban-vang-bat-thuong-hon-2000-ti-185260808210547657.htm",
+      "summary": "Thanh tra Chính phủ chuyển hồ sơ đến Bộ Công an để xác minh 7 cá nhân bán vàng 'bất thường' hơn 2.000 tỉ đồng và 6 doanh nghiệp kê khai không đúng thuế và lợi nhuận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T14:22:00+07:00",
+      "fetched": "2026-08-08T23:20:35.977095+07:00"
+    },
+    {
+      "id": "ef7c940f2fc997a7f8940b328e3b78dc",
+      "title": "Điểm chuẩn Đại học Việt Đức dự kiến cao nhất 26,01",
+      "link": "https://vnexpress.net/diem-chuan-du-kien-dai-hoc-viet-duc-nam-2026-o-tat-ca-nganh-5106887.html",
+      "summary": "Tất cả ngành của Đại học Việt Đức (VGU) dự kiến lấy điểm chuẩn từ 18 trở lên, cao nhất là Kỹ thuật cơ điện tử với 26,01 điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T14:12:06+07:00",
+      "fetched": "2026-08-08T23:20:33.298237+07:00"
+    },
+    {
       "id": "8d515ee2f6c0e1a29be9eaeaa6468906",
       "title": "UAE tố Iran tập kích tàu dầu ở Hormuz",
       "link": "https://vnexpress.net/uae-to-iran-tap-kich-tau-dau-o-hormuz-5106889.html",
@@ -631,6 +911,26 @@ window.newsData_2026_08_08 = {
       "category": "Tổng hợp",
       "published": "2026-08-08T14:00:00+07:00",
       "fetched": "2026-08-08T21:22:42.773159+07:00"
+    },
+    {
+      "id": "8047fd5536f9e62b60638aa5d6fb42e0",
+      "title": "Hai pha phạt đền giúp Thái Lan vào bán kết ASEAN Cup 2026",
+      "link": "https://vnexpress.net/hai-pha-phat-den-giup-thai-lan-vao-ban-ket-asean-cup-2026-5106900.html",
+      "summary": "Hai lần bóng chạm tay trong vòng cấm khiến Myanmar phải nhận hai quả phạt đền, tạo cơ hội cho Thái Lan vươn lên chiếm ngôi đầu bảng B.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T13:57:43+07:00",
+      "fetched": "2026-08-08T23:20:33.298513+07:00"
+    },
+    {
+      "id": "5e8549333f3578f8ef0ea0d92f0ca798",
+      "title": "15 phường hoàn thành sáp nhập, đổi tên trường công ở Hà Nội",
+      "link": "https://vnexpress.net/15-phuong-hoan-thanh-sap-nhap-doi-ten-truong-cong-o-ha-noi-5106520.html",
+      "summary": "15 phường hoàn thành sắp xếp trường học công từ mầm non đến THCS ở Hà Nội, hầu hết nhập 2-6 cơ sở thành một trường mới, đặt tên mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T13:44:40+07:00",
+      "fetched": "2026-08-08T23:20:33.298643+07:00"
     },
     {
       "id": "eec4282a3819c73081a5547562fbac5c",
