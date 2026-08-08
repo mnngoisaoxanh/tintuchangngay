@@ -1,7 +1,157 @@
 window.newsData_2026_08_08 = {
   "date": "2026-08-08",
-  "lastUpdated": "2026-08-08T17:20:58.852792+07:00",
+  "lastUpdated": "2026-08-08T19:26:09.175050+07:00",
   "articles": [
+    {
+      "id": "43c84e4dc594ae65c63eff6bac3ebd59",
+      "title": "Thiếu nhi TP.HCM 'rời màn hình', vui chơi với ô ăn quan, qua cầu khỉ",
+      "link": "https://tuoitre.vn/thieu-nhi-tphcm-roi-man-hinh-vui-choi-voi-o-an-quan-qua-cau-khi-100260808153317045.htm",
+      "summary": "Chương trình 'Sắc màu tuổi thơ' tại TP.HCM đưa thiếu nhi trải nghiệm trò chơi dân gian, làm đồ chơi từ lá dừa và học cách sống xanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T19:26:03.228983+07:00",
+      "fetched": "2026-08-08T19:26:03.229039+07:00"
+    },
+    {
+      "id": "5f0bad46f8002714cbb4c242b5954f07",
+      "title": "Khởi tố một phó giám đốc đổ, chôn lấp trái phép 400 tấn bê tông thải",
+      "link": "https://tuoitre.vn/khoi-to-mot-pho-giam-doc-do-chon-lap-trai-phep-400-tan-be-tong-thai-100260808165032989.htm",
+      "summary": "Phó giám đốc một nhà máy bê tông ở Tây Ninh bị khởi tố vì liên quan việc đổ, chôn lấp trái phép hơn 400 tấn bê tông thải ra môi trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T19:26:03.228912+07:00",
+      "fetched": "2026-08-08T19:26:03.228973+07:00"
+    },
+    {
+      "id": "f630c7ccf9720c63d16a9b4dc905d1f9",
+      "title": "Tăng trưởng là điều kiện cần, bao trùm là điều kiện đủ",
+      "link": "https://tuoitre.vn/tang-truong-la-dieu-kien-can-bao-trum-la-dieu-kien-du-100260808160040724.htm",
+      "summary": "Theo các chuyên gia, để hướng tới tăng trưởng hai con số, doanh nghiệp không thể chỉ trông chờ vào nguồn vốn mà phải đồng thời nâng chất lượng nhân lực, đẩy mạnh chuyển đổi xanh, chuyển đổi số và xây dựng nền tảng phát triển bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T19:26:03.228844+07:00",
+      "fetched": "2026-08-08T19:26:03.228902+07:00"
+    },
+    {
+      "id": "666b84cc09bf5c8c789a314978698585",
+      "title": "Báo Tuổi Trẻ ra mắt chuyên trang \"Robusta - Sức mạnh cà phê Việt\"",
+      "link": "https://tuoitre.vn/bao-tuoi-tre-ra-mat-chuyen-trang-robusta-suc-manh-ca-phe-viet-100260808150757587.htm",
+      "summary": "Chuyên trang \"Robusta - Sức mạnh cà phê việt\" mở ra hành trình để bạn đọc lắng nghe những câu chuyện của hạt cà phê, khám phá hành trình tạo nên giá trị và nuôi dưỡng tình yêu với Robusta Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T19:26:03.228771+07:00",
+      "fetched": "2026-08-08T19:26:03.228834+07:00"
+    },
+    {
+      "id": "b3b93731f7d8afbb2a5bd2a4348f0c8d",
+      "title": "Bộ trưởng Lê Mạnh Hùng: Lưu trữ carbon có thể trở thành ngành dịch vụ 40 tỉ USD",
+      "link": "https://tuoitre.vn/bo-truong-le-manh-hung-luu-tru-carbon-co-the-tro-thanh-nganh-dich-vu-40-ti-usd-10026080817475306.htm",
+      "summary": "Việt Nam đang phối hợp với Nhật Bản nghiên cứu, thử nghiệm lưu trữ carbon tại một số mỏ ở khu vực Bắc Bộ, mở hướng phát triển dịch vụ mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T19:26:03.228684+07:00",
+      "fetched": "2026-08-08T19:26:03.228758+07:00"
+    },
+    {
+      "id": "f9b77e089bea12cd0437444380a94037",
+      "title": "Sóng cuốn ra xa: Bình tĩnh thả nổi, tuyệt đối không bơi ngược dòng",
+      "link": "https://tuoitre.vn/song-cuon-ra-xa-binh-tinh-tha-noi-tuyet-doi-khong-boi-nguoc-dong-100260808180714814.htm",
+      "summary": "Liên tiếp xảy ra các vụ du khách bị sóng cuốn mất tích, chuyên gia bơi lội hướng dẫn cách giữ bình tĩnh, thả nổi và kêu cứu để bảo toàn tính mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T19:26:03.228617+07:00",
+      "fetched": "2026-08-08T19:26:03.228674+07:00"
+    },
+    {
+      "id": "e59831b209ceadc89388462397d0f74b",
+      "title": "Thuế TP.HCM ra mắt Tổng đài AI hỗ trợ nhắc nợ, thông báo tạm hoãn xuất cảnh",
+      "link": "https://tuoitre.vn/thue-tphcm-ra-mat-tong-dai-ai-ho-tro-nhac-no-thong-bao-tam-hoan-xuat-canh-100260808181834978.htm",
+      "summary": "Trong giai đoạn đầu triển khai, tổng đài sẽ thực hiện các cuộc gọi, tin nhắn đôn đốc thu nợ thuế, thông báo dừng xuất cảnh nhưng sẽ tránh gọi vào sáng sớm, giờ nghỉ trưa, mùng 1, ngày rằm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T19:26:03.228547+07:00",
+      "fetched": "2026-08-08T19:26:03.228607+07:00"
+    },
+    {
+      "id": "9243b3b5af99e452274a28e6c5afce81",
+      "title": "Rộ tin 'gây sốc' từ Iran về sức khỏe Lãnh tụ tối cao Mojtaba Khamenei",
+      "link": "https://tuoitre.vn/ro-tin-gay-soc-tu-iran-ve-suc-khoe-lanh-tu-toi-cao-mojtaba-khamenei-100260808182151463.htm",
+      "summary": "Tổng thống Iran thừa nhận 'rất khó liên lạc' với Lãnh tụ tối cao Mojtaba Khamenei, trong khi một số nguồn tin cho biết sức khỏe ông đang không tốt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T19:26:03.228474+07:00",
+      "fetched": "2026-08-08T19:26:03.228536+07:00"
+    },
+    {
+      "id": "6c062a87b95ad482750b4c28bed6fcf8",
+      "title": "Cô gái 15 tuổi Việt Nam gây sốt làng cầu lông quốc tế",
+      "link": "https://tuoitre.vn/co-gai-15-tuoi-viet-nam-gay-sot-lang-cau-long-quoc-te-100260808182232353.htm",
+      "summary": "Ở tuổi 15, tay vợt Nguyễn Thị Thu Huyền đã trở thành cái tên được làng cầu lông đỉnh cao chú ý, khi liên tiếp lập nên những chiến tích \"vượt tuổi\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T19:26:03.228405+07:00",
+      "fetched": "2026-08-08T19:26:03.228463+07:00"
+    },
+    {
+      "id": "6139d9da9fa1201c3848d5a8116f274c",
+      "title": "Lãnh đạo VFF động viên đội tuyển nữ Việt Nam trước Asiad 2026",
+      "link": "https://tuoitre.vn/lanh-dao-vff-dong-vien-doi-tuyen-nu-viet-nam-truoc-asiad-2026-100260808181603155.htm",
+      "summary": "Chiều 8-8 tại Trung tâm Đào tạo Bóng đá trẻ Việt Nam, Phó Chủ tịch VFF Trần Anh Tú có buổi gặp mặt, động viên ban huấn luyện và các cầu thủ đội tuyển nữ Việt Nam trong quá trình chuẩn bị cho Asiad 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T19:26:03.228335+07:00",
+      "fetched": "2026-08-08T19:26:03.228394+07:00"
+    },
+    {
+      "id": "1da0218e7c75a0285853eba5e28ea823",
+      "title": "Cà Mau sắp có cảng hàng hóa, du lịch đón tàu 1.000 tấn",
+      "link": "https://tuoitre.vn/ca-mau-sap-co-cang-hang-hoa-du-lich-don-tau-1000-tan-100260808175308042.htm",
+      "summary": "Cà Mau chấp thuận dự án cảng hàng hóa, du lịch hơn 25 tỉ đồng tại xã Sông Đốc, có bến thủy nội địa đón tàu tải trọng đến 1.000 tấn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T19:26:03.228264+07:00",
+      "fetched": "2026-08-08T19:26:03.228324+07:00"
+    },
+    {
+      "id": "ec31943fbb0fcc8fa1418f44e4473010",
+      "title": "Trực tuyến Thái Lan - Myanmar (20h): Cuộc chiến không khoan nhượng",
+      "link": "https://tuoitre.vn/truc-tuyen-thai-lan-myanmar-20h-cuoc-chien-khong-khoan-nhuong-100260808115037709.htm",
+      "summary": "Mời bạn đọc theo dõi trực tuyến trên Tuổi Trẻ trận đấu giữa Thái Lan và Myanmar ở lượt trận cuối bảng B - ASEAN Cup 2026, bắt đầu lúc 20h ngày 8-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T19:26:03.228192+07:00",
+      "fetched": "2026-08-08T19:26:03.228253+07:00"
+    },
+    {
+      "id": "19df5c95b571c153df6bc81bdaee0c1c",
+      "title": "The Habitat Bình Dương trao sổ hồng cho cư dân sau 6 tháng bàn giao",
+      "link": "https://tuoitre.vn/the-habitat-binh-duong-trao-so-hong-cho-cu-dan-sau-6-thang-ban-giao-100260808133439396.htm",
+      "summary": "Ngày 8-8, The Habitat Bình Dương tổ chức Lễ trao Giấy chứng nhận quyền sở hữu căn hộ (sổ hồng) cho các cư dân, đánh dấu thêm một cột mốc quan trọng trong hành trình kiến tạo cộng đồng sống chuẩn quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T19:26:03.228107+07:00",
+      "fetched": "2026-08-08T19:26:03.228180+07:00"
+    },
+    {
+      "id": "5ecb4774c46c66bd23b041231e24f1ef",
+      "title": "Trước ngày cưỡng chế, 5 hộ dân ở TP.HCM tự nguyện giao gần 5.000m² đất",
+      "link": "https://tuoitre.vn/truoc-ngay-cuong-che-5-ho-dan-o-tphcm-tu-nguyen-giao-gan-5000m-dat-100260808180844392.htm",
+      "summary": "Trước ngày cưỡng chế thu hồi đất, phường Phước Thắng (TP.HCM) kiên trì vận động, 5 hộ dân đã đồng thuận bàn giao gần 5.000m² mặt bằng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T19:26:03.228025+07:00",
+      "fetched": "2026-08-08T19:26:03.228095+07:00"
+    },
+    {
+      "id": "1abdde31ee24ca455a9007c49c99327e",
+      "title": "Thịt nướng cháy có thực sự gây hại cho sức khỏe không?",
+      "link": "https://tuoitre.vn/thit-nuong-chay-co-thuc-su-gay-hai-cho-suc-khoe-khong-100260808180324206.htm",
+      "summary": "Thịt nướng không phải món ăn có hại, nhưng nhiệt độ cao, khói từ mỡ và phần thịt cháy xém có thể tạo ra các hợp chất như HCA và PAH, vốn được nghiên cứu về khả năng gây tổn thương tế bào và những ảnh hưởng đến sức khỏe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T19:26:03.227864+07:00",
+      "fetched": "2026-08-08T19:26:03.228010+07:00"
+    },
     {
       "id": "659a25988ff32ab6a7eebdd3a5e46697",
       "title": "Bóng chuyền nữ Việt Nam thua trận thứ 3 liên tiếp",
@@ -453,6 +603,66 @@ window.newsData_2026_08_08 = {
       "fetched": "2026-08-08T13:34:46.537402+07:00"
     },
     {
+      "id": "08ed39a0c85724dc9ffbf45ae9c056a1",
+      "title": "Thái Lan - Myanmar: Xác định đối thủ của Việt Nam",
+      "link": "https://vnexpress.net/thai-lan-myanmar-xac-dinh-doi-thu-cua-viet-nam-5106870.html",
+      "summary": "Thái Lan có cơ hội khép lại vòng bảng ASEAN Cup 2026 với điểm số tối đa, trong khi Myanmar gần như buộc phải thắng để vào bán kết. Bóng lăn lúc 20h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T12:18:52+07:00",
+      "fetched": "2026-08-08T19:25:59.062101+07:00"
+    },
+    {
+      "id": "fe7ed389febe0b8f50ce60a954d08040",
+      "title": "Cách xử lý một số vấn đề của tai nghe không dây",
+      "link": "https://thanhnien.vn/cach-xu-ly-mot-so-van-de-cua-tai-nghe-khong-day-18526061609552257.htm",
+      "summary": "Tai nghe không dây đang ngày càng phổ biến hiện nay, đặc biệt là khi phần lớn smartphone đã loại bỏ jack cắm tai nghe 3,5 mm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T12:09:00+07:00",
+      "fetched": "2026-08-08T19:26:01.647535+07:00"
+    },
+    {
+      "id": "4c51e7a4da8d6e310b79f66f0435f9ed",
+      "title": "Janus Group sắp xếp lại nhân sự cấp cao",
+      "link": "https://vnexpress.net/janus-group-sap-xep-lai-nhan-su-cap-cao-5106861.html",
+      "summary": "Công ty Cổ phần Janus Group bổ nhiệm ông Ching Heng Hoe làm Chủ tịch Hội đồng Quản trị và ông Nguyễn Thế An làm Tổng giám đốc từ ngày 5/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T12:00:59+07:00",
+      "fetched": "2026-08-08T19:25:59.062278+07:00"
+    },
+    {
+      "id": "752b208424a5d8d1d964330df27972b0",
+      "title": "Đã khỏi sùi mào gà, có ảnh hưởng em bé khi mang thai?",
+      "link": "https://vnexpress.net/da-khoi-sui-mao-ga-co-anh-huong-em-be-khi-mang-thai-5106795.html",
+      "summary": "Tôi đang mang thai tháng thứ 5, vừa trị khỏi sùi mào gà bằng phương pháp xịt nitơ lỏng. Tôi vẫn hơi lo, liệu khỏi bệnh rồi có ảnh hưởng tới em bé? (Ly, 28 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T12:00:00+07:00",
+      "fetched": "2026-08-08T19:25:59.062445+07:00"
+    },
+    {
+      "id": "2a77fc0758367c65d7562848e9e01eeb",
+      "title": "Dàn bóng hồng chạy bộ khoe dáng tại VnExpress Marathon Nha Trang",
+      "link": "https://vnexpress.net/dan-bong-hong-chay-bo-khoe-dang-tai-vnexpress-marathon-nha-trang-5106737.html",
+      "summary": "Những nữ runner trẻ trung, cá tính với vóc dáng khỏe khoắn trở thành điểm nhấn tại VnExpress Marathon Nha Trang, tạo sắc màu tươi mới cho ngày hội chạy bộ ven biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T12:00:00+07:00",
+      "fetched": "2026-08-08T19:25:59.062615+07:00"
+    },
+    {
+      "id": "054a83b28d2d15a6b69584e65bf40188",
+      "title": "The Habitat Bình Dương có sổ hồng sau 6 tháng bàn giao nhà",
+      "link": "https://vnexpress.net/the-habitat-binh-duong-co-so-hong-sau-6-thang-ban-giao-nha-5105317.html",
+      "summary": "The Habitat Bình Dương tổ chức trao giấy chứng nhận quyền sở hữu căn hộ cho các cư dân ngày 8/8, sau thời điểm bàn giao nhà 6 tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T12:00:00+07:00",
+      "fetched": "2026-08-08T19:25:59.062801+07:00"
+    },
+    {
       "id": "f41e2912601b139b73488568304cdbb6",
       "title": "Chiếc máy bay giấy gây tranh cãi trong Lửa trắng, phim Việt có sạn",
       "link": "https://tuoitre.vn/chiec-may-bay-giay-gay-tranh-cai-trong-lua-trang-phim-viet-co-san-100260808091443128.htm",
@@ -601,6 +811,276 @@ window.newsData_2026_08_08 = {
       "category": "Tổng hợp",
       "published": "2026-08-08T11:46:19.488687+07:00",
       "fetched": "2026-08-08T11:46:19.488819+07:00"
+    },
+    {
+      "id": "a67ef75384e055e831f164296cf0f143",
+      "title": "Xác định rõ kênh phát bán kết ASEAN Cup, lịch thi đấu cụ thể đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/xac-dinh-ro-kenh-phat-ban-ket-asean-cup-lich-thi-dau-cu-the-doi-tuyen-viet-nam-185260808184356251.htm",
+      "summary": "Chiều 8.8, đội tuyển Việt Nam đã có buổi tập đầy đủ đội hình với rộn ràng tiếng cười sau khi đánh bại Campuchia để vào bán kết với tư cách nhất bảng A. Đồng thời kênh phát trực tiếp ASEAN Cup 2026 cũng được xác định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T11:45:00+07:00",
+      "fetched": "2026-08-08T19:26:01.647704+07:00"
+    },
+    {
+      "id": "08f8c9c8ce634afe58998ab2e43dd44d",
+      "title": "Hơn 5,7 triệu lượt đăng ký vé concert 'Tổ quốc trong tim'",
+      "link": "https://vnexpress.net/hon-5-7-trieu-luot-dang-ky-ve-concert-to-quoc-trong-tim-5106854.html",
+      "summary": "Trong 1 phút 27 giây mở cổng đăng ký, ban tổ chức concert \"Tổ quốc trong tim\" mùa hai nhận hơn 5,7 triệu lượt khán giả đề xuất nhận vé.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T11:43:57+07:00",
+      "fetched": "2026-08-08T19:25:59.062972+07:00"
+    },
+    {
+      "id": "bf687d444bf04776bcb3886767e12593",
+      "title": "Bố của Messi qua đời ở tuổi 68",
+      "link": "https://thanhnien.vn/bo-cua-messi-qua-doi-o-tuoi-68-185260808183846532.htm",
+      "summary": "Chiều 8.8 (giờ Việt Nam), nhiều trang tin và báo chí Argentina cùng xác nhận bố của danh thủ Messi, ông Jorge Messi, đã qua đời ở tuổi 68 sau thời gian dài chống chọi với bệnh tật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T11:40:00+07:00",
+      "fetched": "2026-08-08T19:26:01.647894+07:00"
+    },
+    {
+      "id": "07f805eccb6e53246147eff3d3ffbda7",
+      "title": "Hải quan điện tử tạm dừng để bảo trì, doanh nghiệp lưu ý điều gì?",
+      "link": "https://thanhnien.vn/hai-quan-dien-tu-tam-dung-de-bao-tri-doanh-nghiep-luu-y-dieu-gi-185260808182826673.htm",
+      "summary": "Cục Hải quan sẽ tạm dừng hệ thống VNACCS/VCIS trong 2 giờ ngày 9.8 để thực hiện bảo trì tại Trung tâm dữ liệu Hải quan. Việc bảo trì được thực hiện ngoài giờ hành chính, cơ quan hải quan đề nghị doanh nghiệp chủ động kế hoạch khai báo, làm thủ tục xuất nhập khẩu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T11:37:00+07:00",
+      "fetched": "2026-08-08T19:26:01.648052+07:00"
+    },
+    {
+      "id": "004f2e4597e819dd5b1211e9008f3433",
+      "title": "Phục dựng bức ảnh được tìm thấy trong phần mộ liệt sĩ ở Gia Lai",
+      "link": "https://thanhnien.vn/phuc-dung-buc-anh-duoc-tim-thay-trong-phan-mo-liet-si-o-gia-lai-185260808174514569.htm",
+      "summary": "Từ chiếc ví cũ với nhiều tấm ảnh phai màu trong phần mộ, lực lượng quy tập mong tìm được thông tin về những người trong ảnh và danh tính liệt sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T11:34:00+07:00",
+      "fetched": "2026-08-08T19:26:01.648204+07:00"
+    },
+    {
+      "id": "bd16dabe13683fc3e800d8ef4d91996f",
+      "title": "Không gia tăng áp lực cho giáo viên, học sinh khi ứng dụng trí tuệ nhân tạo",
+      "link": "https://thanhnien.vn/khong-gia-tang-ap-luc-cho-giao-vien-hoc-sinh-khi-ung-dung-tri-tue-nhan-tao-185260808181431329.htm",
+      "summary": "Các chuyên gia tham dự hội thảo về phát triển năng lực số và năng lực trí tuệ nhân tạo (AI) cho học sinh phổ thông đề cập đến việc không làm gia tăng áp lực cho giáo viên, học sinh khi ứng dụng AI vào nhà trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T11:31:00+07:00",
+      "fetched": "2026-08-08T19:26:01.648353+07:00"
+    },
+    {
+      "id": "41548efff4994381aacb8983c3726c3c",
+      "title": "Phó thủ tướng dự kỷ niệm 50 năm ngày truyền thống Trường ĐH Tài chính-Marketing",
+      "link": "https://thanhnien.vn/pho-thu-tuong-du-ky-niem-50-nam-ngay-truyen-thong-truong-dh-tai-chinh-marketing-185260808174911772.htm",
+      "summary": "Phó thủ tướng Chính phủ Lê Tiến Châu dự lễ kỷ niệm 50 năm ngày truyền thống Trường ĐH Tài chính-Marketing.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T11:25:00+07:00",
+      "fetched": "2026-08-08T19:26:01.648503+07:00"
+    },
+    {
+      "id": "d01c17c76e123854fd18832284287839",
+      "title": "Từ người mẫu Taobao đến nữ chính nổi tiếng, Bạch Lộc đã vươn lên thế nào?",
+      "link": "https://thanhnien.vn/tu-nguoi-mau-taobao-den-nu-chinh-noi-tieng-bach-loc-da-vuon-len-the-nao-185260808164056032.htm",
+      "summary": "Từ một cô gái khởi nghiệp với công việc người mẫu ảnh cho các cửa hàng thời trang Taobao, Bạch Lộc từng bước tiến vào làng giải trí và trở thành nữ diễn viên đình đám.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T11:25:00+07:00",
+      "fetched": "2026-08-08T19:26:01.648650+07:00"
+    },
+    {
+      "id": "cdaa2b5a913f5d7d8cb4ce8da067230a",
+      "title": "Tìm thấy một trong 3 cô gái bị sóng cuốn khi chụp ảnh ở Đà Nẵng",
+      "link": "https://thanhnien.vn/tim-thay-mot-trong-3-co-gai-bi-song-cuon-khi-chup-anh-o-da-nang-185260808173950376.htm",
+      "summary": "Sau gần 6 giờ bị sóng cuốn mất tích tại khu vực Mũi Nghê, bán đảo Sơn Trà (thành phố Đà Nẵng), một người đã được lực lượng Vùng 3 Hải quân tìm thấy, đưa lên tàu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T11:24:00+07:00",
+      "fetched": "2026-08-08T19:26:01.648825+07:00"
+    },
+    {
+      "id": "7be10a4d6cab1bdb65fcd5de18a82c48",
+      "title": "Tổng đài AI sẽ tự động gọi điện nhắc thuế, thông báo tạm hoãn xuất cảnh…",
+      "link": "https://thanhnien.vn/ai-tu-dong-goi-dien-nhac-thue-thong-bao-tam-hoan-xuat-canh-185260807232914128.htm",
+      "summary": "Ngày 8.8, Thuế TP.HCM chính thức ra mắt Tổng đài ứng dụng trí tuệ nhân tạo (AI) và thông tin thuế qua nền tảng thanh toán số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T11:22:00+07:00",
+      "fetched": "2026-08-08T19:26:01.648982+07:00"
+    },
+    {
+      "id": "fc6e0ccc99c95edb2d4fa0666764135f",
+      "title": "Ảnh phụ nữ, trẻ em tìm thấy trong mộ liệt sĩ",
+      "link": "https://vnexpress.net/anh-phu-nu-tre-em-tim-thay-trong-mo-liet-si-5106839.html",
+      "summary": "Lực lượng quy tập hài cốt phát hiện ví cũ chứa nhiều ảnh đã phai màu, trong đó có hình phụ nữ và trẻ em, có thể là người thân của liệt sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T11:20:23+07:00",
+      "fetched": "2026-08-08T19:25:59.063130+07:00"
+    },
+    {
+      "id": "5ccfcb61255e15d6f4942e299ad55dbd",
+      "title": "Ca sĩ Hà Nhi: Tôi từng nghĩ Khắc Việt là người khô khan, gia trưởng",
+      "link": "https://thanhnien.vn/ca-si-ha-nhi-toi-tung-nghi-khac-viet-la-nguoi-kho-khan-gia-truong-18526080817423385.htm",
+      "summary": "Hà Nhi chia sẻ khi có dịp hợp tác trong dự án âm nhạc mới, cô thay đổi cách nhìn về ca nhạc sĩ Khắc Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T11:19:00+07:00",
+      "fetched": "2026-08-08T19:26:01.649131+07:00"
+    },
+    {
+      "id": "2b9602a10497a7a99247603fc72fd813",
+      "title": "Đối tác tham quan nhà máy Heineken tại Đà Nẵng",
+      "link": "https://vnexpress.net/doi-tac-tham-quan-nha-may-heineken-tai-da-nang-5106808.html",
+      "summary": "Trong tháng 7, Heineken Việt Nam tổ chức các chuyến trải nghiệm tham quan nhà máy nhằm giới thiệu quy trình sản xuất, công nghệ vận hành và hệ thống kiểm soát chất lượng đến các đối tác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T11:15:00+07:00",
+      "fetched": "2026-08-08T19:25:59.063291+07:00"
+    },
+    {
+      "id": "6e0dccf5bb4742354ef5228e0e16023c",
+      "title": "Lương Triều Vỹ lộ tính cách thật, đánh mất thiện cảm từ khán giả Trung Quốc?",
+      "link": "https://thanhnien.vn/luong-trieu-vy-lo-tinh-cach-that-danh-mat-thien-cam-tu-khan-gia-trung-quoc-185260808174238694.htm",
+      "summary": "Những tranh cãi liên tiếp trong thời gian qua đang khiến hình ảnh vốn được yêu mến của tài tử Hồng Kông Lương Triều Vỹ đứng trước nhiều luồng ý kiến trái chiều, trang 163 đưa tin ngày 7.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T11:15:00+07:00",
+      "fetched": "2026-08-08T19:26:01.649294+07:00"
+    },
+    {
+      "id": "f768d8c90eb917fc17874a19305add4f",
+      "title": "Bố Messi qua đời",
+      "link": "https://vnexpress.net/bo-messi-qua-doi-5106857.html",
+      "summary": "Jorge Messi - bố kiêm người đại diện của Lionel Messi - qua đời ở tuổi 68 tại một bệnh viện ở Rosario sau thời gian dài chống chọi bệnh tật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T11:14:53+07:00",
+      "fetched": "2026-08-08T19:25:59.063445+07:00"
+    },
+    {
+      "id": "f768d8c90eb917fc17874a19305add4f",
+      "title": "Bố Messi qua đời",
+      "link": "https://vnexpress.net/bo-messi-qua-doi-5106857.html",
+      "summary": "Jorge Messi - bố kiêm người đại diện của Lionel Messi - qua đời ở tuổi 68 tại một bệnh viện ở Rosario sau thời gian dài chống chọi bệnh tật.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-08T11:14:53+07:00",
+      "fetched": "2026-08-08T19:26:09.162702+07:00"
+    },
+    {
+      "id": "9c60f97f20bc26903520394287848b51",
+      "title": "Nóng: Tiết lộ âm mưu ám sát Messi, Ronaldo cũng gặp sự cố an ninh tại World Cup 2026",
+      "link": "https://thanhnien.vn/nong-tiet-lo-am-muu-am-sat-messi-ronaldo-cung-gap-su-co-an-ninh-tai-world-cup-2026-18526080818030672.htm",
+      "summary": "Theo báo Tây Ban Nha, MARCA, một báo cáo của cảnh sát Mỹ tiết lộ các mối đe dọa an ninh tại World Cup 2026, trong đó nổi bật là âm mưu tấn công liều chết nhằm ám sát Messi, còn Ronaldo bị 'săn lùng' tại khách sạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T11:13:00+07:00",
+      "fetched": "2026-08-08T19:26:01.649443+07:00"
+    },
+    {
+      "id": "c5194b49d4c173ab31913eccf08b34c6",
+      "title": "Người Việt chi bộn cho smartphone gập",
+      "link": "https://thanhnien.vn/nguoi-viet-chi-bon-cho-smartphone-gap-185260808114605536.htm",
+      "summary": "Doanh số mở bán của Samsung Galaxy Z Fold8, Z Fold8 Ultra và Z Flip8 ở Việt Nam tăng trưởng hai con số, cho thấy nhu cầu của thị trường với dòng smartphone gập ngày một tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T11:11:00+07:00",
+      "fetched": "2026-08-08T19:26:01.649590+07:00"
+    },
+    {
+      "id": "e56a4b92778733245628c4cfe1879df7",
+      "title": "Chủ tịch nước truy tặng Huân chương Bảo vệ Tổ quốc cho trung sĩ Cao Tuấn Anh",
+      "link": "https://thanhnien.vn/chu-tich-nuoc-truy-tang-huan-chuong-bao-ve-to-quoc-cho-trung-si-cao-tuan-anh-185260808173938329.htm",
+      "summary": "Hôm nay 8.8, Chủ tịch nước đã ký quyết định truy tặng Huân chương Bảo vệ Tổ quốc hạng ba cho trung sĩ Cao Tuấn Anh, vì đã có hành động dũng cảm, không quản hiểm nguy cứu đồng đội trong khi thực hiện nhiệm vụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T11:07:00+07:00",
+      "fetched": "2026-08-08T19:26:01.649764+07:00"
+    },
+    {
+      "id": "1eb577189ba179bc7fefe810936983a8",
+      "title": "Sagatex mang trải nghiệm đệm khách sạn vào phòng ngủ gia đình",
+      "link": "https://vnexpress.net/sagatex-mang-trai-nghiem-dem-khach-san-vao-phong-ngu-gia-dinh-5106852.html",
+      "summary": "Sau hơn 25 năm cung cấp đệm cho khách sạn cao cấp, Sagatex mở rộng tệp khách hàng, đưa các tiêu chuẩn về độ êm, khả năng nâng đỡ và độ bền vào phòng ngủ gia đình Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T11:00:00+07:00",
+      "fetched": "2026-08-08T19:25:59.063601+07:00"
+    },
+    {
+      "id": "e86d4983f487ca82b7f72f9db540d36c",
+      "title": "'Cần phân định rủi ro của hoạt động dầu khí với quyết định đầu tư sai'",
+      "link": "https://vnexpress.net/can-phan-dinh-rui-ro-cua-hoat-dong-dau-khi-voi-quyet-dinh-dau-tu-sai-5106843.html",
+      "summary": "Đại biểu Nguyễn Thị Sửu đề xuất cần phân định rõ rủi ro khách quan của hoạt động dầu khí với quyết định đầu tư sai, vi phạm quy trình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T10:59:23+07:00",
+      "fetched": "2026-08-08T19:25:59.063779+07:00"
+    },
+    {
+      "id": "e86d4983f487ca82b7f72f9db540d36c",
+      "title": "'Cần phân định rủi ro của hoạt động dầu khí với quyết định đầu tư sai'",
+      "link": "https://vnexpress.net/can-phan-dinh-rui-ro-cua-hoat-dong-dau-khi-voi-quyet-dinh-dau-tu-sai-5106843.html",
+      "summary": "Đại biểu Nguyễn Thị Sửu đề xuất cần phân định rõ rủi ro khách quan của hoạt động dầu khí với quyết định đầu tư sai, vi phạm quy trình.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-08T10:59:23+07:00",
+      "fetched": "2026-08-08T19:26:05.998615+07:00"
+    },
+    {
+      "id": "a99619a9e536354f9b3267e670f1cae0",
+      "title": "Chồng hậm hực suốt 6 năm vì tôi không còn trinh nguyên khi yêu anh",
+      "link": "https://vnexpress.net/chong-ham-huc-suot-6-nam-vi-toi-khong-con-trinh-nguyen-khi-yeu-anh-5106836.html",
+      "summary": "Gần đây, hai vợ chồng lại cãi nhau, xong anh buột miệng bảo tôi là loại đàn bà không ra gì.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T10:30:00+07:00",
+      "fetched": "2026-08-08T19:25:59.063943+07:00"
+    },
+    {
+      "id": "e600216e4bc31ae2f3add5e70059dbc6",
+      "title": "Tỷ phú tiền số Mỹ: 'Đừng cố chăm hơn robot'",
+      "link": "https://vnexpress.net/ty-phu-tien-so-my-dung-co-cham-hon-robot-5106759.html",
+      "summary": "Tỷ phú Michael Saylor, Chủ tịch điều hành Strategy, khuyên trong thời đại AI, cần biết cách tận dụng máy móc thay vì cố gắng chăm chỉ hơn mỗi năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T10:30:00+07:00",
+      "fetched": "2026-08-08T19:25:59.064095+07:00"
+    },
+    {
+      "id": "e600216e4bc31ae2f3add5e70059dbc6",
+      "title": "Tỷ phú tiền số Mỹ: 'Đừng cố chăm hơn robot'",
+      "link": "https://vnexpress.net/ty-phu-tien-so-my-dung-co-cham-hon-robot-5106759.html",
+      "summary": "Tỷ phú Michael Saylor, Chủ tịch điều hành Strategy, khuyên trong thời đại AI, cần biết cách tận dụng máy móc thay vì cố gắng chăm chỉ hơn mỗi năm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-08T10:30:00+07:00",
+      "fetched": "2026-08-08T19:26:08.079634+07:00"
+    },
+    {
+      "id": "9ac9a0b58b1e9dc0f8a5e66fe82517d2",
+      "title": "Runner trải nghiệm các gian hàng tại expo VnExpress Marathon Nha Trang",
+      "link": "https://vnexpress.net/runner-trai-nghiem-cac-gian-hang-tai-expo-vnexpress-marathon-nha-trang-5106806.html",
+      "summary": "Đông runner đổ về nhận bib, race-kit và trải nghiệm các gian hàng, hòa vào không khí sôi động trước thềm VnExpress Marathon Nha Trang 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T10:27:16+07:00",
+      "fetched": "2026-08-08T19:25:59.064251+07:00"
+    },
+    {
+      "id": "510fef352aabff1f288b1633471a329c",
+      "title": "Quân nhân hy sinh khi cứu đồng đội khỏi sạt lở",
+      "link": "https://vnexpress.net/quan-nhan-hy-sinh-khi-cuu-dong-doi-khoi-sat-lo-5106847.html",
+      "summary": "Hạ sĩ Cao Tuấn Anh lao tới đẩy đồng đội khỏi khu vực sạt lở khi làm công trình quốc phòng tại Bạch Long Vĩ, nhưng bị thương nặng và hy sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T10:21:21+07:00",
+      "fetched": "2026-08-08T19:25:59.064408+07:00"
     },
     {
       "id": "ac3a9cfc1612cad909668d3bf03f53ba",
