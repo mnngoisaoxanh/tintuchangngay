@@ -1,7 +1,157 @@
 window.newsData_2026_08_08 = {
   "date": "2026-08-08",
-  "lastUpdated": "2026-08-08T15:27:59.545578+07:00",
+  "lastUpdated": "2026-08-08T17:20:58.852792+07:00",
   "articles": [
+    {
+      "id": "659a25988ff32ab6a7eebdd3a5e46697",
+      "title": "Bóng chuyền nữ Việt Nam thua trận thứ 3 liên tiếp",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-viet-nam-thua-tran-thu-3-lien-tiep-100260808153539006.htm",
+      "summary": "Phong độ kém thuyết phục của tuyển bóng chuyền nữ Việt Nam lại nối dài khi để thua Philippines tại chặng 2 SEA V.Cup 2026 chiều 8-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T17:20:53.892809+07:00",
+      "fetched": "2026-08-08T17:20:53.892870+07:00"
+    },
+    {
+      "id": "5d1db3dbb31255c87b5755f73f4be0ee",
+      "title": "Top 5 anime hành động xuất sắc, càng xem càng cuốn",
+      "link": "https://tuoitre.vn/top-5-anime-hanh-dong-xuat-sac-cang-xem-cang-cuon-100260808154831431.htm",
+      "summary": "Anime hành động như Solo Leveling hay Jujutsu Kaisen là một trong những thể loại phổ biến nhất hiện nay, đặc biệt khi các series ngày càng vượt khỏi nhóm khán giả nam giới vốn được hướng đến ban đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T17:20:53.892741+07:00",
+      "fetched": "2026-08-08T17:20:53.892799+07:00"
+    },
+    {
+      "id": "73289f7c97e4dad5f8c26b6a7fef668e",
+      "title": "Sóng cuốn 4 du khách xuống biển khi chụp ảnh ở Đà Nẵng: Một cô gái được tàu hải quân cứu sống",
+      "link": "https://tuoitre.vn/song-cuon-4-du-khach-xuong-bien-khi-chup-anh-o-da-nang-mot-co-gai-duoc-tau-hai-quan-cuu-song-100260808150857169.htm",
+      "summary": "Chị Trương Thị Phương, một trong bốn du khách bị sóng đánh rơi xuống biển khi chụp ảnh ở Mũi Nghê (núi Sơn Trà, Đà Nẵng) đã được tìm thấy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T17:20:53.892672+07:00",
+      "fetched": "2026-08-08T17:20:53.892730+07:00"
+    },
+    {
+      "id": "a32da3526c5ed96f65d761c19c01cc1a",
+      "title": "Đồ án tốt nghiệp về xe buýt điện của sinh viên được chọn ứng dụng tại TP.HCM",
+      "link": "https://tuoitre.vn/do-an-tot-nghiep-ve-xe-buyt-dien-cua-sinh-vien-duoc-chon-ung-dung-tai-tphcm-100260808142319728.htm",
+      "summary": "Thay vì kêu gọi người dân từ bỏ ngay thói quen sử dụng xe cá nhân, nhóm sinh viên Trường đại học Hoa Sen chọn cách khuyến khích mọi người hãy dùng thử xe buýt điện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T17:20:53.892600+07:00",
+      "fetched": "2026-08-08T17:20:53.892661+07:00"
+    },
+    {
+      "id": "f7513632b90f2dc32c71d3fda9661123",
+      "title": "Lớp cờ vua bị đình chỉ, công an xác minh chuyện trẻ bị ‘tống’ khỏi lớp vì chậm học phí",
+      "link": "https://tuoitre.vn/lop-co-vua-bi-dinh-chi-cong-an-xac-minh-chuyen-tre-bi-tong-khoi-lop-vi-cham-hoc-phi-100260808152451053.htm",
+      "summary": "UBND phường Thanh Khê đã đình chỉ lớp cờ vua chưa được cấp phép, trong khi công an đang xác minh phản ánh trẻ bị ‘tống’ khỏi lớp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T17:20:53.892531+07:00",
+      "fetched": "2026-08-08T17:20:53.892589+07:00"
+    },
+    {
+      "id": "4bc28044a8cb910eeeb2cdf8cc2f2d8b",
+      "title": "Kỳ thủ TP.HCM thi đấu bùng nổ, đánh bại cao thủ cờ tướng Trung Quốc",
+      "link": "https://tuoitre.vn/ky-thu-tphcm-thi-dau-bung-no-danh-bai-cao-thu-co-tuong-trung-quoc-100260808154737807.htm",
+      "summary": "Sáng ngày 8-8, Giải cờ tướng danh giá Thượng Hải Bôi đã bắt đầu diễn ra giai đoạn vòng tuyển chọn (tức vòng loại).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T17:20:53.892462+07:00",
+      "fetched": "2026-08-08T17:20:53.892520+07:00"
+    },
+    {
+      "id": "76d3703593a9ef579e8807578ff24874",
+      "title": "Quy hoạch xã Bình Hưng cần phát huy lợi thế về TOD và nông nghiệp đô thị",
+      "link": "https://tuoitre.vn/quy-hoach-xa-binh-hung-can-phat-huy-loi-the-ve-tod-va-nong-nghiep-do-thi-10026080815175001.htm",
+      "summary": "Với tuyến metro Tân Kiên - Thủ Thiêm dọc theo đường Nguyễn Văn Linh và vị trí lân cận 7 tuyến metro khác, xã Bình Hưng có lợi thế phát triển đô thị với mô hình TOD và nông nghiệp đô thị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T17:20:53.892390+07:00",
+      "fetched": "2026-08-08T17:20:53.892451+07:00"
+    },
+    {
+      "id": "3186b7495155d4795d7fa51b0b4141e2",
+      "title": "Xây dựng thương hiệu cá nâu Cà Mau",
+      "link": "https://tuoitre.vn/xay-dung-thuong-hieu-ca-nau-ca-mau-100260808155845106.htm",
+      "summary": "Cá nâu Cà Mau từ lâu đã trở thành một đặc sản nổi tiếng bởi thịt thơm ngọt. Tỉnh Cà Mau đang hoàn thiện các công cụ quản lý để thực hiện chỉ dẫn địa lý cá nâu Cà Mau để nhiều người trong và ngoài nước biết đến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T17:20:53.892315+07:00",
+      "fetched": "2026-08-08T17:20:53.892379+07:00"
+    },
+    {
+      "id": "9524b1c8fc20a411590cfc85d533dc1f",
+      "title": "Đóng tiền lắp nước sạch rồi… xài nước giếng",
+      "link": "https://tuoitre.vn/dong-tien-lap-nuoc-sach-roi-xai-nuoc-gieng-100260808151324621.htm",
+      "summary": "Sau khi đóng tiền lắp đồng hồ và đường ống, nước sạch chỉ có một thời gian rồi ngưng. Hơn 20 hộ dân phải tiếp tục xài nước giếng mà không biết khi nào có nước sạch dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T17:20:53.892236+07:00",
+      "fetched": "2026-08-08T17:20:53.892304+07:00"
+    },
+    {
+      "id": "3c55bc07246009c1ebcdbac4cb0f8adc",
+      "title": "Dàn xe cổ tụ hội, giao lưu các nhà sưu tập nước ngoài tại Vietnam Scooters Fest 2026",
+      "link": "https://tuoitre.vn/dan-xe-co-tu-hoi-giao-luu-cac-nha-suu-tap-nuoc-ngoai-tai-vietnam-scooters-fest-2026-100260808112222902.htm",
+      "summary": "Khoảng 500 xe cổ và hiện đại của các nhà sưu tầm đã tụ hội tại lễ hội Vietnam Scooters Fest 2026 diễn ra trong hai ngày 8 và 9-8 tại khu đô thị The Global City (TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T17:20:53.892139+07:00",
+      "fetched": "2026-08-08T17:20:53.892224+07:00"
+    },
+    {
+      "id": "cdc6973fab79c8888c8565ae2460f599",
+      "title": "Nga tuyên bố tấn công tàu chở vũ khí cho Ukraine trên Biển Đen",
+      "link": "https://tuoitre.vn/nga-tuyen-bo-tan-cong-tau-cho-vu-khi-cho-ukraine-tren-bien-den-100260808160705694.htm",
+      "summary": "Hai nước hiện đang liên tiếp mở rộng các đòn đánh trên biển và hạ tầng, đẩy giá lương thực tăng cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T17:20:53.892063+07:00",
+      "fetched": "2026-08-08T17:20:53.892127+07:00"
+    },
+    {
+      "id": "22b5fb6b3c17657cbd5572cfb501f424",
+      "title": "Nghệ An chuyển trường tư thục sang công lập mang tên Bộ trưởng Bộ Công an đầu tiên",
+      "link": "https://tuoitre.vn/nghe-an-chuyen-truong-tu-thuc-sang-cong-lap-mang-ten-bo-truong-bo-cong-an-dau-tien-10026080813234409.htm",
+      "summary": "Nghệ An sẽ chuyển một trường tư thục sang mô hình giáo dục phổ thông công lập mang tên Bộ trưởng Bộ Công an đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T17:20:53.891984+07:00",
+      "fetched": "2026-08-08T17:20:53.892052+07:00"
+    },
+    {
+      "id": "9edb7d82f8d5a638e8145eb2c8c2a9db",
+      "title": "HLV Indonesia xếp ASEAN Cup dưới cả FIFA ASEAN Cup, gây tranh cãi",
+      "link": "https://tuoitre.vn/hlv-indonesia-xep-asean-cup-duoi-ca-fifa-asean-cup-gay-tranh-cai-100260808163429291.htm",
+      "summary": "HLV tuyển Indonesia John Herdman gây tranh cãi khi xếp ASEAN Cup sau World Cup, Asian Cup và cả FIFA ASEAN Cup trong thứ tự ưu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T17:20:53.891898+07:00",
+      "fetched": "2026-08-08T17:20:53.891971+07:00"
+    },
+    {
+      "id": "8afc8633572417496dd2745238ce577b",
+      "title": "Đồng Tháp quyết xử nghiêm hành vi chăn dắt người yếu thế đi xin tiền",
+      "link": "https://tuoitre.vn/dong-thap-quyet-xu-nghiem-hanh-vi-chan-dat-nguoi-yeu-the-di-xin-tien-100260808162255607.htm",
+      "summary": "UBND tỉnh Đồng Tháp vừa có văn bản yêu cầu các sở, ngành, địa phương tăng cường quản lý, hỗ trợ và xử lý tình trạng người lang thang, xin ăn trên địa bàn, nhằm đảm bảo mỹ quan đô thị và an sinh xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T17:20:53.891814+07:00",
+      "fetched": "2026-08-08T17:20:53.891884+07:00"
+    },
+    {
+      "id": "6a87596ac156d353e2c28018783904ad",
+      "title": "Chiêu 'xóa' biển số xe máy bằng decal tím có thể bị phạt đến 6 triệu đồng",
+      "link": "https://tuoitre.vn/chieu-xoa-bien-so-xe-may-bang-decal-tim-co-the-bi-phat-den-6-trieu-dong-10026080816540213.htm",
+      "summary": "Dán bọc, dùng khẩu trang hay thiết bị kỹ thuật che lấp, làm thay đổi chữ, số, màu sắc biển số xe đều bị phạt theo quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T17:20:53.891658+07:00",
+      "fetched": "2026-08-08T17:20:53.891799+07:00"
+    },
     {
       "id": "86382aad3729f9994896a2ebc1e5792b",
       "title": "Status của con trai ông Shin Tae Yong 'sống lại' sau khi Indonesia bị loại khỏi ASEAN Cup 2026",
@@ -603,6 +753,326 @@ window.newsData_2026_08_08 = {
       "fetched": "2026-08-08T10:16:14.068007+07:00"
     },
     {
+      "id": "05177067cd4f14cae39853ce6df4e02b",
+      "title": "Chưa biết Việt Nam đá bán kết với ai, vé lượt về ở Mỹ Đình đã sốt ‘sình sịch’",
+      "link": "https://thanhnien.vn/chua-biet-viet-nam-da-ban-ket-voi-ai-ve-luot-ve-o-my-dinh-da-sot-sinh-sich-185260808170648001.htm",
+      "summary": "Chỉ sau khoảng 1 giờ 30 phút mở bán, 60% số lượng vé trực tuyến trận bán kết lượt về ASEAN Cup 2026 của đội tuyển Việt Nam trên sân Mỹ Đình đã được người hâm mộ đặt mua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T10:11:00+07:00",
+      "fetched": "2026-08-08T17:20:52.125360+07:00"
+    },
+    {
+      "id": "25c8af006f8730f427b1254c9a85ac11",
+      "title": "Trực tiếp ASEAN Cup 2026, Thái Lan - Myanmar: Xác định đối thủ đội tuyển Việt Nam ở bán kết",
+      "link": "https://thanhnien.vn/truc-tiep-asean-cup-2026-thai-lan-myanmar-xac-dinh-doi-thu-doi-tuyen-viet-nam-o-ban-ket-185260808133321935.htm",
+      "summary": "20 giờ hôm nay diễn ra loạt trận cuối bảng B, Thái Lan vs Myanmar và Malaysia vs Philippines, qua đó xác định đối thủ của đội tuyển Việt Nam tại ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T10:06:00+07:00",
+      "fetched": "2026-08-08T17:20:52.125529+07:00"
+    },
+    {
+      "id": "39e1c44f9fa1ce305e73fea99665a53d",
+      "title": "PSSI không cập nhật kết quả Indonesia bị loại sớm, HLV Herdman bị chê kém xa ông Shin Tae-yong",
+      "link": "https://thanhnien.vn/pssi-khong-cap-nhat-ket-qua-indonesia-bi-loai-som-hlv-herdman-bi-che-kem-xa-ong-shin-tae-yong-185260808165942642.htm",
+      "summary": "Đội tuyển Indonesia bị loại khỏi ASEAN Cup 2026 sau trận hòa Singapore, nhưng sự im lặng của PSSI và đội tuyển trên mạng xã hội càng khiến người hâm mộ thất vọng. Trong khi đó, HLV John Herdman tiếp tục nhận những lời chỉ trích về màn trình diễn của đội nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T10:03:00+07:00",
+      "fetched": "2026-08-08T17:20:52.125689+07:00"
+    },
+    {
+      "id": "46d65083a48ebc66a4db6e2f119c3c5d",
+      "title": "Toàn cảnh 17h: Lời hối lỗi của bảo mẫu bắn dây thun vào chân trẻ | Cuộc gọi cầu cứu của bé gái bị bạo hành",
+      "link": "https://thanhnien.vn/toan-canh-17h-loi-hoi-loi-cua-bao-mau-ban-day-thun-vao-chan-tre-cuoc-goi-cau-cuu-cua-be-gai-bi-bao-hanh-18526080815472411.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T10:00:00+07:00",
+      "fetched": "2026-08-08T17:20:52.125841+07:00"
+    },
+    {
+      "id": "80fd1713ca5c7f8cee5e82248f3f3558",
+      "title": "Hạ sĩ Cao Tuấn Anh dũng cảm hy sinh khi cứu đồng đội",
+      "link": "https://thanhnien.vn/ha-si-cao-tuan-anh-dung-cam-hy-sinh-khi-cuu-dong-doi-185260808155808358.htm",
+      "summary": "Theo Quân khu 3 (Bộ Quốc phòng), trong quá trình thực hiện nhiệm vụ xây dựng công trình quốc phòng, hạ sĩ Cao Tuấn Anh, chiến sĩ Trung đội 2, Đại đội Công binh 17, Phòng Tham mưu, Bộ Chỉ huy quân sự TP.Hải Phòng, đã hy sinh khi dũng cảm cứu đồng đội khỏi khu vực nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:56:00+07:00",
+      "fetched": "2026-08-08T17:20:52.125991+07:00"
+    },
+    {
+      "id": "d864faca19ecbd3baf0cf44643a68f64",
+      "title": "Cầu thủ đắt nhất lịch sử Real tăng giá như Bitcoin",
+      "link": "https://vnexpress.net/cau-thu-dat-nhat-lich-su-real-tang-gia-nhu-bitcoin-5106781.html",
+      "summary": "Yan Diomande, tiền đạo cánh vừa gia nhập Real từ RB Leipzig, tăng giá gấp 90 lần chỉ trong một năm rưỡi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:47:52+07:00",
+      "fetched": "2026-08-08T17:20:49.637546+07:00"
+    },
+    {
+      "id": "d864faca19ecbd3baf0cf44643a68f64",
+      "title": "Cầu thủ đắt nhất lịch sử Real tăng giá như Bitcoin",
+      "link": "https://vnexpress.net/cau-thu-dat-nhat-lich-su-real-tang-gia-nhu-bitcoin-5106781.html",
+      "summary": "Yan Diomande, tiền đạo cánh vừa gia nhập Real từ RB Leipzig, tăng giá gấp 90 lần chỉ trong một năm rưỡi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-08T09:47:52+07:00",
+      "fetched": "2026-08-08T17:20:58.842407+07:00"
+    },
+    {
+      "id": "96122d46f4d01d083342be0df0cf852f",
+      "title": "Đánh võng đường trơn, người đi xe máy chui vào gầm xe tải",
+      "link": "https://vnexpress.net/danh-vong-duong-tron-nguoi-di-xe-may-chui-vao-gam-xe-tai-5106822.html",
+      "summary": "Khi đến giao lộ, người đi xe máy phanh gấp để tránh xe tải đang sang đường nên trượt ngã, chui vào gầm xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:46:59+07:00",
+      "fetched": "2026-08-08T17:20:49.637724+07:00"
+    },
+    {
+      "id": "b45eb4a3152e7c6550ab70a0589dcca2",
+      "title": "Lãnh đạo Đài Loan lên tàu tên lửa quan sát diễn tập",
+      "link": "https://thanhnien.vn/lanh-dao-dai-loan-len-tau-ten-lua-quan-sat-dien-tap-185260808160534282.htm",
+      "summary": "Lãnh đạo Đài Loan Lại Thanh Đức ngày 8.8 lên một tàu tên lửa tấn công nhanh, quan sát việc triển khai máy bay không người lái (UAV) tấn công bay tầm thấp nhằm mô phỏng kịch bản đẩy lùi một cuộc tấn công tiềm tàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:44:00+07:00",
+      "fetched": "2026-08-08T17:20:52.126142+07:00"
+    },
+    {
+      "id": "051f09348e96c718c39be334526c0681",
+      "title": "Xổ số miền Nam ngày 8 tháng 8: Chi 1,6 triệu mua vé, trúng đài Hậu Giang",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-8-thang-8-chi-16-trieu-mua-ve-trung-dai-hau-giang-185260808160235252.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 8 tháng 8, một người chi 1,6 triệu đồng mua 160 tờ vé số trúng đài Hậu Giang, được lãnh tiền ngay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:44:00+07:00",
+      "fetched": "2026-08-08T17:20:52.126321+07:00"
+    },
+    {
+      "id": "28b60a4b1a1dbf00f0864a07468b85fc",
+      "title": "Tranh cãi giá bánh burrito thổi bùng 'nội chiến' MAGA",
+      "link": "https://vnexpress.net/tranh-cai-gia-banh-burrito-thoi-bung-noi-chien-maga-5106814.html",
+      "summary": "Tranh cãi về giá bánh burrito đang làm đau đầu nội bộ đảng Cộng hòa, khi nó cho thấy thực trạng chi phí sinh hoạt gia tăng tại Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:42:11+07:00",
+      "fetched": "2026-08-08T17:20:49.637889+07:00"
+    },
+    {
+      "id": "43cf1fb6c5db065e8143dc55f056a038",
+      "title": "Iran trưng bày 'mảnh vỡ máy bay Mỹ và Israel bị bắn hạ'",
+      "link": "https://thanhnien.vn/iran-trung-bay-manh-vo-may-bay-my-va-israel-bi-ban-ha-185260808161844579.htm",
+      "summary": "Lực lượng Vệ binh Cách mạng Hồi giáo Iran (IRGC) gần đây đã trưng bày các mảnh vỡ từ máy bay của Mỹ và Israel bị bắn hạ, theo Hãng tin Tasnim.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:42:00+07:00",
+      "fetched": "2026-08-08T17:20:52.126480+07:00"
+    },
+    {
+      "id": "68f8e462fec03790abfb62c5eb5c8bc3",
+      "title": "Cô gái rơi xuống Mũi Nghê sống sót sau 8 giờ trôi dạt",
+      "link": "https://vnexpress.net/co-gai-roi-xuong-mui-nghe-song-sot-sau-8-gio-troi-dat-5106827.html",
+      "summary": "Không biết bơi, Trương Thị Phương bám vào chiếc phao lưới cũ hơn 8 giờ sau khi bị sóng cuốn tại Mũi Nghê, trước khi được Hải quân cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:41:51+07:00",
+      "fetched": "2026-08-08T17:20:49.638060+07:00"
+    },
+    {
+      "id": "f8686ec76a7b642a1d8ebe7b5e10abe7",
+      "title": "Ban quản trị chung cư có được kê khai thuế, xuất hóa đơn?",
+      "link": "https://thanhnien.vn/ban-quan-tri-chung-cu-co-duoc-ke-khai-thue-xuat-hoa-don-185260808161650796.htm",
+      "summary": "Tại buổi tọa đàm cập nhật chính sách thuế trong quản lý vận hành nhà chung cư, góp ý cho luật Nhà ở và luật Kinh doanh bất động sản do Hiệp hội Quản lý Vận hành nhà chung cư TP.HCM (HCMO) tổ chức ngày 7.8, các chuyên gia chỉ ra nhiều điểm nghẽn trong khâu quản lý, vận hành tại các chung cư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:38:00+07:00",
+      "fetched": "2026-08-08T17:20:52.126631+07:00"
+    },
+    {
+      "id": "2f5364327a0410d0bb622372f21f3504",
+      "title": "Qua tuổi 50, nên bỏ 3 thói quen này để tránh nguy cơ đột quỵ",
+      "link": "https://thanhnien.vn/qua-tuoi-50-nen-bo-3-thoi-quen-nay-de-tranh-nguy-co-dot-quy-185260808135735638.htm",
+      "summary": "Sau tuổi 50, nguy cơ mắc đột quỵ bắt đầu tăng lên do mạch máu lão hóa và tích lũy của nhiều yếu tố, từ huyết áp cao, tiểu đường đến tăng mỡ máu. Tuy nhiên, điều này không có nghĩa là không thể phòng được đột quỵ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:35:00+07:00",
+      "fetched": "2026-08-08T17:20:52.126778+07:00"
+    },
+    {
+      "id": "47fb8f249258988c476f4548af22275b",
+      "title": "El Nino khiến mực nước hồ thủy lợi lớn nhất Đông Nam Á thấp bất ngờ",
+      "link": "https://thanhnien.vn/el-nino-khien-muc-nuoc-ho-thuy-loi-lon-nhat-dong-nam-a-thap-bat-ngo-185260808154347829.htm",
+      "summary": "Hồ Dầu Tiếng, công trình thủy lợi lớn nhất Đông Nam Á đồng thời là 'túi nước ngọt' đầu nguồn sông Sài Gòn đang ở mức thấp vì mưa ít do tác động của El Nino.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:30:00+07:00",
+      "fetched": "2026-08-08T17:20:52.126930+07:00"
+    },
+    {
+      "id": "dd0399574fff732e00778781c0684f02",
+      "title": "Trung Quốc tuyên bố viết lại bản đồ địa chất của toàn bộ trên mặt trăng",
+      "link": "https://thanhnien.vn/trung-quoc-tuyen-bo-viet-lai-ban-do-dia-chat-cua-toan-bo-tren-mat-trang-185260808144534532.htm",
+      "summary": "Một đội ngũ nghiên cứu Trung Quốc đã hoàn tất bản đồ địa chất cập nhật cho toàn bộ mặt trăng ở tỷ lệ 1:5 triệu, theo Viện Địa chất thuộc Viện Khoa học Địa chất Trung Quốc (IGCAGS).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:29:00+07:00",
+      "fetched": "2026-08-08T17:20:52.127076+07:00"
+    },
+    {
+      "id": "ce4252d041d378871d3a401808177f48",
+      "title": "Báo Indonesia chê đội tuyển ảo tưởng vươn tầm châu lục",
+      "link": "https://vnexpress.net/bao-indonesia-che-doi-tuyen-ao-tuong-vuon-tam-chau-luc-5106826.html",
+      "summary": "Indonesia bị truyền thông và dư luận trong nước chỉ trích sau khi hòa Singapore 1-1, và lần thứ hai liên tiếp dừng bước ở vòng bảng ASEAN Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:24:46+07:00",
+      "fetched": "2026-08-08T17:20:49.638246+07:00"
+    },
+    {
+      "id": "ce4252d041d378871d3a401808177f48",
+      "title": "Báo Indonesia chê đội tuyển ảo tưởng vươn tầm châu lục",
+      "link": "https://vnexpress.net/bao-indonesia-che-doi-tuyen-ao-tuong-vuon-tam-chau-luc-5106826.html",
+      "summary": "Indonesia bị truyền thông và dư luận trong nước chỉ trích sau khi hòa Singapore 1-1, và lần thứ hai liên tiếp dừng bước ở vòng bảng ASEAN Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-08T09:24:46+07:00",
+      "fetched": "2026-08-08T17:20:58.841726+07:00"
+    },
+    {
+      "id": "e71b0d04054e6d8e4292e376f8ddaa4d",
+      "title": "Quy trình skincare cho da dầu mụn ban đêm chuẩn y khoa hiệu quả bất ngờ",
+      "link": "https://thanhnien.vn/quy-trinh-skincare-cho-da-dau-mun-ban-dem-chuan-y-khoa-hieu-qua-bat-ngo-185260808155322969.htm",
+      "summary": "Mụn ẩn, mụn viêm kéo dài cùng tình trạng dầu thừa bóng nhờn khiến không ít người rơi vào vòng quẩn quanh bế tắc. Tuy nhiên, theo chuyên gia da liễu, ban đêm chính là thời điểm vàng để phục hồi tổn thương và các vấn đề của làn da mụn. Thiết lập một quy trình skincare chuẩn y khoa ngay hôm nay sẽ giúp...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:23:00+07:00",
+      "fetched": "2026-08-08T17:20:52.127248+07:00"
+    },
+    {
+      "id": "aa5ebeb3e7d001061cd5ae423784512f",
+      "title": "Xe tay ga dáng lạ sản xuất tại Trung Quốc bất ngờ xuất hiện tại Việt Nam",
+      "link": "https://thanhnien.vn/xe-tay-ga-dang-la-san-xuat-tai-trung-quoc-bat-ngo-xuat-hien-tai-viet-nam-185260805135905751.htm",
+      "summary": "Nhìn diện mạo bên ngoài không ít người lầm tưởng Xenon Vintage 125 là một mẫu mô tô mang phong cách chopper; tuy nhiên đây thực chất là mẫu xe tay ga 125 phân khối, sản xuất tại Trung Quốc vừa được một đơn vị chuyên kinh doanh mô tô xe máy đưa về Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:21:00+07:00",
+      "fetched": "2026-08-08T17:20:52.127403+07:00"
+    },
+    {
+      "id": "ea93136044ef96df2bdd6f7b796f77ed",
+      "title": "Honda Click 160 'Made in Thailand' cập nhật mẫu mới, có bản giới hạn 500 xe",
+      "link": "https://thanhnien.vn/honda-click-160-made-in-thailand-cap-nhat-mau-moi-co-ban-gioi-han-500-xe-185260805152635188.htm",
+      "summary": "Dòng xe tay ga Honda Click 160 sản xuất tại Thái Lan (còn gọi là Vario 160 tại Việt Nam) vừa được hãng xe Nhật Bản cập nhật nâng cấp về thiết kế, công nghệ, tính năng; đồng thời bổ sung thêm phiên bản Click 160R với số lượng sản xuất giới hạn chỉ 500 chiếc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:20:00+07:00",
+      "fetched": "2026-08-08T17:20:52.127551+07:00"
+    },
+    {
+      "id": "5457c9f095b6a66932ff43a9afff9f03",
+      "title": "7 quốc gia châu Âu cho tiền khách đến ở",
+      "link": "https://vnexpress.net/7-quoc-gia-chau-au-cho-tien-khach-den-o-5106730.html",
+      "summary": "Italy, Thụy Sĩ, Croatia hay Ireland đều đưa ra các chính sách hỗ trợ khách đến sinh sống lâu dài tại các khu vực hẻo lánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:11:49+07:00",
+      "fetched": "2026-08-08T17:20:49.638417+07:00"
+    },
+    {
+      "id": "9ac98b8e4eaa18d1b3857bd8db1eefc5",
+      "title": "Hơn 3.600 món hàng hiệu giả trong cửa hàng nhờ người Việt đứng tên",
+      "link": "https://vnexpress.net/hon-3-600-mon-hang-hieu-gia-trong-cua-hang-nho-nguoi-viet-dung-ten-5106815.html",
+      "summary": "Một phụ nữ được người nước ngoài trả 7 triệu đồng để đứng tên hộ kinh doanh, nơi công an phát hiện hơn 3.600 sản phẩm giả Nike, Adidas, Dior và nhiều thương hiệu lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:05:32+07:00",
+      "fetched": "2026-08-08T17:20:49.638524+07:00"
+    },
+    {
+      "id": "a2f32913d1c082add068dd831f393cdc",
+      "title": "Du khách Trung Quốc tử vong vì xe máy lao xuống vách đá ở Thái Lan",
+      "link": "https://vnexpress.net/du-khach-trung-quoc-tu-vong-vi-xe-may-lao-xuong-vach-da-o-thai-lan-5106790.html",
+      "summary": "Chiếc xe máy mất lái khiến một khách Trung Quốc tử vong, một người bị thương ở đảo Koh Lan, Pattaya.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:05:25+07:00",
+      "fetched": "2026-08-08T17:20:49.638681+07:00"
+    },
+    {
+      "id": "54776410922779aeae5321a9eeceaf68",
+      "title": "Thực đơn cơm niêu giúp mỹ nhân Hàn Quốc giảm 23 kg",
+      "link": "https://vnexpress.net/thuc-don-com-nieu-giup-my-nhan-han-quoc-giam-23-kg-5106785.html",
+      "summary": "Nhờ kết hợp thịt bò giàu đạm cùng ngũ cốc siêu chất xơ, món cơm niêu Bulgogi hỗ trợ người dẫn chương trình, diễn viên Jang Young-ran, giảm từ 78 kg xuống còn 55 kg.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:00:04+07:00",
+      "fetched": "2026-08-08T17:20:49.638836+07:00"
+    },
+    {
+      "id": "c9ef15bf9a51e809adcd8f50f93bcc19",
+      "title": "Hàng xóm trồng cây lớn che kín ánh sáng, lá rụng đầy sân nhà tôi",
+      "link": "https://vnexpress.net/hang-xom-trong-cay-lon-che-kin-anh-sang-la-rung-day-san-nha-toi-5106699.html",
+      "summary": "Cây nhà hàng xóm ngày càng lớn, che ánh sáng và lá rụng đầy sân, khiến tôi không biết nên góp ý hay đành chấp nhận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:00:00+07:00",
+      "fetched": "2026-08-08T17:20:49.638997+07:00"
+    },
+    {
+      "id": "ddf359e81fa1ea8e4a7347ec9a7f97a5",
+      "title": "Samsung Galaxy Z8 Series lập kỷ lục đặt hàng trước",
+      "link": "https://vnexpress.net/samsung-galaxy-z8-series-lap-ky-luc-dat-hang-truoc-5106688.html",
+      "summary": "Z8 Series tăng 2,4 lượng đặt hàng so với thế hệ trước với gần 6 trong số 10 điện thoại bán ra là Galaxy Z Fold8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T09:00:00+07:00",
+      "fetched": "2026-08-08T17:20:49.639149+07:00"
+    },
+    {
+      "id": "ddf359e81fa1ea8e4a7347ec9a7f97a5",
+      "title": "Samsung Galaxy Z8 Series lập kỷ lục đặt hàng trước",
+      "link": "https://vnexpress.net/samsung-galaxy-z8-series-lap-ky-luc-dat-hang-truoc-5106688.html",
+      "summary": "Z8 Series tăng 2,4 lượng đặt hàng so với thế hệ trước với gần 6 trong số 10 điện thoại bán ra là Galaxy Z Fold8.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-08T09:00:00+07:00",
+      "fetched": "2026-08-08T17:20:57.786280+07:00"
+    },
+    {
+      "id": "3fba298015b804056eed6a25bd892bad",
+      "title": "Bộ sưu tập túi hiệu của Lisa",
+      "link": "https://vnexpress.net/bo-suu-tap-tui-hieu-cua-lisa-5106681.html",
+      "summary": "Lisa nhóm Blackpink sưu tập các mẫu túi đa dạng của Loewe, Louis Vuitton, Rabanne, Celine, giúp tăng sức hút khi phối đồ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T08:54:44+07:00",
+      "fetched": "2026-08-08T17:20:49.639332+07:00"
+    },
+    {
+      "id": "75f982c235c49d5eb344393e33910799",
+      "title": "Dân Thái Lan sở hữu nhiều súng nhất Đông Nam Á",
+      "link": "https://vnexpress.net/dan-thai-lan-so-huu-nhieu-sung-nhat-dong-nam-a-5106801.html",
+      "summary": "Theo thống kê gần nhất, người dân Thái Lan sở hữu hơn 10 triệu khẩu súng với tỷ lệ hơn 15 khẩu trên 100 dân, cao nhất trong khối ASEAN.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T08:38:00+07:00",
+      "fetched": "2026-08-08T17:20:49.639492+07:00"
+    },
+    {
+      "id": "314460c5df8d2e3e198046edec2593b7",
+      "title": "Dân Thái Lan sở hữu hơn 10 triệu khẩu súng",
+      "link": "https://vnexpress.net/dan-thai-lan-so-huu-hon-10-trieu-khau-sung-5106801.html",
+      "summary": "Theo thống kê gần nhất, người dân Thái Lan sở hữu hơn 10 triệu khẩu súng với tỷ lệ hơn 15 khẩu trên 100 dân, cao nhất trong khối ASEAN.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-08T08:38:00+07:00",
+      "fetched": "2026-08-08T17:20:54.968191+07:00"
+    },
+    {
       "id": "be80fb74b954f8cbed641504f6bf13d3",
       "title": "Nga bác cáo buộc dùng UAV tấn công sân bay Đức",
       "link": "https://thanhnien.vn/nga-bac-cao-buoc-dung-uav-tan-cong-san-bay-duc-185260808131334751.htm",
@@ -643,6 +1113,16 @@ window.newsData_2026_08_08 = {
       "fetched": "2026-08-08T15:27:49.072131+07:00"
     },
     {
+      "id": "5dbdd5632696defc8fcbc7f9143e6920",
+      "title": "Dàn Lexus trên xe đầu kéo bốc cháy giữa cao tốc",
+      "link": "https://vnexpress.net/dan-lexus-tren-xe-dau-keo-boc-chay-giua-cao-toc-5106786.html",
+      "summary": "Lửa bùng dữ dội ở phần đuôi xe đầu kéo, lan lên hai tầng lồng, khiến ba chiếc Lexus bị cháy, sáng 8/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T08:14:48+07:00",
+      "fetched": "2026-08-08T17:20:49.639648+07:00"
+    },
+    {
       "id": "fec3120bfe4500089c8c118b63eb9359",
       "title": "Công an làm rõ người rời khỏi hiện trường trong vụ tai nạn chết",
       "link": "https://thanhnien.vn/cong-an-lam-ro-nguoi-roi-khoi-hien-truong-trong-vu-tai-nan-chet-185260808142126685.htm",
@@ -651,6 +1131,16 @@ window.newsData_2026_08_08 = {
       "category": "Tổng hợp",
       "published": "2026-08-08T08:13:00+07:00",
       "fetched": "2026-08-08T15:27:49.072256+07:00"
+    },
+    {
+      "id": "897540c6a89f29c63f8fb70f37f587d7",
+      "title": "Cách nấu súp bồ câu tứ thần bồi bổ trí lực",
+      "link": "https://vnexpress.net/cach-nau-sup-bo-cau-tu-than-boi-bo-tri-luc-5106299.html",
+      "summary": "Món súp bồ câu hầm cùng hoài sơn, hạt sen, phục linh và khiếm thực giúp an thần, phục hồi trí lực hiệu quả mà không gây nặng bụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T08:07:17+07:00",
+      "fetched": "2026-08-08T17:20:49.639806+07:00"
     },
     {
       "id": "24de8728c49a5682c9dadf0b1244a720",
