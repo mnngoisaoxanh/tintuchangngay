@@ -1,7 +1,157 @@
 window.newsData_2026_08_08 = {
   "date": "2026-08-08",
-  "lastUpdated": "2026-08-08T05:25:03.172768+07:00",
+  "lastUpdated": "2026-08-08T07:53:56.463485+07:00",
   "articles": [
+    {
+      "id": "a1574989878d8713ca26f8db6ada3192",
+      "title": "Thông số ấn tượng của Đình Bắc trong trận gặp Campuchia",
+      "link": "https://tuoitre.vn/thong-so-an-tuong-cua-dinh-bac-trong-tran-gap-campuchia-100260807231341964.htm",
+      "summary": "Tiền đạo Nguyễn Đình Bắc sở hữu thông số ấn tượng sau khi lập cú đúp giúp tuyển Việt Nam giành chiến thắng với tỉ số 3-1 trước Campuchia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:53:49.187648+07:00",
+      "fetched": "2026-08-08T07:53:49.187691+07:00"
+    },
+    {
+      "id": "3ff3da0704a14bf2b4c794013b9c22fd",
+      "title": "Quan chức bóng đá Hàn Quốc tố: 'Chúng tôi hối lộ vì trọng tài của FIFA đòi hỏi'",
+      "link": "https://tuoitre.vn/quan-chuc-bong-da-han-quoc-to-chung-toi-hoi-lo-vi-trong-tai-cua-fifa-doi-hoi-10026080723300496.htm",
+      "summary": "Vụ bê bối 'hối lộ tình dục' cho các trọng tài quốc tế của Liên đoàn Bóng đá Hàn Quốc (KFA) vừa có tình tiết mới, khi các cựu quan chức của KFA nói rằng họ chỉ hối lộ để chiều lòng các trọng tài này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:53:49.187592+07:00",
+      "fetched": "2026-08-08T07:53:49.187640+07:00"
+    },
+    {
+      "id": "0b542ab4e1708a13acb30ce56edfdb37",
+      "title": "Lịch trực tiếp ASEAN Cup 2026: Thái Lan đấu Myanmar, Malaysia gặp Philippines",
+      "link": "https://tuoitre.vn/lich-truc-tiep-asean-cup-2026-thai-lan-dau-myanmar-malaysia-gap-philippines-100260807173437252.htm",
+      "summary": "Hôm nay 8-8, bảng B ASEAN Cup 2026 sẽ diễn ra lượt đấu cuối giữa Thái Lan với Myanmar và Malaysia đối đầu Philippines lúc 20h.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:53:49.187541+07:00",
+      "fetched": "2026-08-08T07:53:49.187585+07:00"
+    },
+    {
+      "id": "46fe998f2b5ba86b7af806b28683b202",
+      "title": "Tin tức sáng 8-8: Hôm nay, Quốc hội thảo luận sửa 9 luật về quân sự, quốc phòng",
+      "link": "https://tuoitre.vn/tin-tuc-sang-8-8-hom-nay-quoc-hoi-thao-luan-sua-9-luat-ve-quan-su-quoc-phong-100260807203407729.htm",
+      "summary": "Một số tin tức đáng chú ý: TP.HCM đẩy nhanh giải ngân vốn lĩnh vực khoa học, công nghệ, đồng bộ trong năm 2026; Biên soạn tài liệu truyền thông phù hợp đặc điểm văn hóa của từng đồng bào thiểu số; Chiến dịch 'Làm cho thế giới sạch hơn' vào tháng 9-2026...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:53:49.187488+07:00",
+      "fetched": "2026-08-08T07:53:49.187534+07:00"
+    },
+    {
+      "id": "4fc2d31256dbb09945d5932dda49d5d7",
+      "title": "CĐV Indonesia tấn công tài khoản Instagram của Liên đoàn Bóng đá Oman",
+      "link": "https://tuoitre.vn/cdv-indonesia-tan-cong-tai-khoan-instagram-cua-lien-doan-bong-da-oman-100260808060606157.htm",
+      "summary": "Tài khoản Instagram của Liên đoàn Bóng đá Oman đã trở thành mục tiêu tấn công của những CĐV bóng đá Indonesia đang giận dữ, sau khi tuyển quốc gia nước này bị loại khỏi ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:53:49.187431+07:00",
+      "fetched": "2026-08-08T07:53:49.187480+07:00"
+    },
+    {
+      "id": "6abcc7abfa3d2de2c878c823d2291485",
+      "title": "Tin tức thế giới 8-8: Thượng viện Mỹ duyệt gói trừng phạt Nga; Mỹ mua thêm nhà tù giữ người nhập cư",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-8-8-thuong-vien-my-duyet-goi-trung-phat-nga-my-mua-them-nha-tu-giu-nguoi-nhap-cu-100260808055156272.htm",
+      "summary": "Thượng viện Mỹ thông qua dự luật trừng phạt các nước mua nhiều dầu mỏ và khí đốt Nga; Houthi dồn dập tập kích Yemen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:53:49.187361+07:00",
+      "fetched": "2026-08-08T07:53:49.187408+07:00"
+    },
+    {
+      "id": "db3831ea12a77da37dc24e9379618d67",
+      "title": "Chuyên gia Đoàn Minh Xương: Thắng Campuchia  nhưng tuyển Việt Nam cũng để lại nhiều lo lắng",
+      "link": "https://tuoitre.vn/chuyen-gia-doan-minh-xuong-thang-campuchia-nhung-tuyen-viet-nam-cung-de-lai-nhieu-lo-lang-100260808002109038.htm",
+      "summary": "Bình luận sau trận thắng Campuchia ở lượt cuối ASEAN Cup 2026, chuyên gia Đoàn Minh Xương cho rằng đội tuyển Việt Nam cũng để lại nhiều lo lắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:53:49.187305+07:00",
+      "fetched": "2026-08-08T07:53:49.187352+07:00"
+    },
+    {
+      "id": "779ae30e16b2b364a1b89f9bd781ce5a",
+      "title": "Phim ngắn lao dốc, vì sao truyền hình Hoa ngữ vẫn khó giữ chân khán giả?",
+      "link": "https://tuoitre.vn/phim-ngan-lao-doc-vi-sao-truyen-hinh-hoa-ngu-van-kho-giu-chan-khan-gia-100260807100421789.htm",
+      "summary": "Hơn 10 năm vào nghề, đóng hơn chục phim nhưng không nổi tiếng, đến khi công khai than thở không có việc làm và thu nhập bấp bênh, diễn viên La Chính bất ngờ thành tâm điểm trên mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:53:49.187246+07:00",
+      "fetched": "2026-08-08T07:53:49.187291+07:00"
+    },
+    {
+      "id": "52830919f2fe434f05cb2abf345d6aed",
+      "title": "Mặc đẹp như siêu mẫu Gigi Hadid",
+      "link": "https://tuoitre.vn/mac-dep-nhu-sieu-mau-gigi-hadid-100260807211952267.htm",
+      "summary": "Phong cách đường phố của siêu mẫu Gigi Hadid là 'kim chỉ nam' cho những ai yêu thích vẻ ngoài thanh lịch nhưng không gắng gượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:53:49.187192+07:00",
+      "fetched": "2026-08-08T07:53:49.187238+07:00"
+    },
+    {
+      "id": "973b97d371aef343771ddce496c94805",
+      "title": "CĐV Thái Lan đổi ý, mong giành ngôi đầu bảng B để 'né' Việt Nam",
+      "link": "https://tuoitre.vn/cdv-thai-lan-doi-y-mong-gianh-ngoi-dau-bang-b-de-ne-viet-nam-100260807235356705.htm",
+      "summary": "Trên các diễn đàn và chuyên trang bóng đá, phần đông người hâm mộ Thái Lan thay đổi thái độ \"gặp ai cũng được\" ở vòng bán kết ASEAN Cup 2026, sau khi Việt Nam chính thức đoạt ngôi đầu bảng A.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:53:49.187134+07:00",
+      "fetched": "2026-08-08T07:53:49.187183+07:00"
+    },
+    {
+      "id": "5f4ef85d02b77084f3b00b9bd4cbf944",
+      "title": "Nga bác nghi vấn liên quan đến vụ drone bí ẩn mang chất nổ tại sân bay Đức",
+      "link": "https://tuoitre.vn/nga-bac-nghi-van-lien-quan-den-vu-drone-bi-an-mang-chat-no-tai-san-bay-duc-100260808064548861.htm",
+      "summary": "Nga cho rằng đây là một \"hành động khiêu khích được dàn dựng\" nhằm đổ lỗi cho nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:53:49.187079+07:00",
+      "fetched": "2026-08-08T07:53:49.187126+07:00"
+    },
+    {
+      "id": "128c953a0f523dad7de31aff0343adfa",
+      "title": "Đình Bắc giải thích hành động hôn cỏ sân Mỹ Đình",
+      "link": "https://tuoitre.vn/dinh-bac-giai-thich-hanh-dong-hon-co-san-my-dinh-100260808061718249.htm",
+      "summary": "Tiền đạo Nguyễn Đình Bắc đã ăn mừng bàn ấn định tỉ số 3-1 cho đội tuyển Việt Nam trước Campuchia bằng cách hôn lên mặt cỏ sân Mỹ Đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:53:49.187022+07:00",
+      "fetched": "2026-08-08T07:53:49.187071+07:00"
+    },
+    {
+      "id": "42dbda4d4d42afa9ec9ca8d969847e39",
+      "title": "Dự đoán tỉ số ASEAN Cup: Đánh bại Philippines, Malaysia vào bán kết",
+      "link": "https://tuoitre.vn/du-doan-ti-so-asean-cup-danh-bai-philippines-malaysia-vao-ban-ket-100260807181537807.htm",
+      "summary": "Malaysia vẫn được đánh giá cao hơn Philippines ở cuộc đối đầu lượt cuối bảng B ASEAN Cup 2026 lúc 20h ngày 8-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:53:49.186961+07:00",
+      "fetched": "2026-08-08T07:53:49.187014+07:00"
+    },
+    {
+      "id": "56f74f6282da463d2e215d27e1f87bbe",
+      "title": "Chủ tịch Mekolor bị bắt: Ngăn những giám đốc 'siêu nổ' trên giấy muốn làm dự án trăm tỉ USD",
+      "link": "https://tuoitre.vn/chu-tich-mekolor-bi-bat-ngan-nhung-giam-doc-sieu-no-tren-giay-muon-lam-du-an-tram-ti-usd-100260807184004224.htm",
+      "summary": "Vụ việc Chủ tịch Mekolor bị khởi tố, bắt tạm giam đặt ra vấn đề cần sử dụng có hiệu quả \"bộ lọc\" các nhà đầu tư khi đăng ký tham gia công trình trọng điểm lớn như đường sắt tốc độ cao Bắc - Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:53:49.186889+07:00",
+      "fetched": "2026-08-08T07:53:49.186952+07:00"
+    },
+    {
+      "id": "4b252569d0c3052d583f3ecadc31fbec",
+      "title": "Giám đốc thiết kế Rolls-Royce: Việt Nam và những chuyện chưa kể về làm xe cho giới siêu giàu",
+      "link": "https://tuoitre.vn/giam-doc-thiet-ke-rolls-royce-viet-nam-va-nhung-chuyen-chua-ke-ve-lam-xe-cho-gioi-sieu-giau-100260807183543153.htm",
+      "summary": "Những chiếc Rolls-Royce triệu đô luôn khiến công chúng tò mò. Giá trị của xe không chỉ nằm ở động cơ hay logo, mà còn đến từ tiêu chuẩn chế tác khắt khe, nơi mỗi chi tiết đều được hoàn thiện theo cách riêng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T07:53:49.186728+07:00",
+      "fetched": "2026-08-08T07:53:49.186876+07:00"
+    },
     {
       "id": "7df8f618f9165d8f831068656449be7f",
       "title": "CĐV Indonesia kêu gọi HLV John Herdman từ chức",
@@ -163,6 +313,336 @@ window.newsData_2026_08_08 = {
       "fetched": "2026-08-08T01:39:33.787400+07:00"
     },
     {
+      "id": "7619278ed023e4703403dd3892a29a31",
+      "title": "Hyun Bin tái xuất đầy tham vọng trong 'Made in Korea 2'",
+      "link": "https://thanhnien.vn/hyun-bin-tai-xuat-day-tham-vong-trong-made-in-korea-2-185260808012205702.htm",
+      "summary": "Sau thành công của mùa đầu, Hyun Bin trở lại với hình tượng quyền lực và nhiều biến chuyển hơn trong 'Made in Korea 2'. Loạt ảnh nhân vật vừa được Disney+ công bố hé lộ những bước ngoặt mới của nam chính trước ngày phim lên sóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T00:43:00+07:00",
+      "fetched": "2026-08-08T07:53:47.531628+07:00"
+    },
+    {
+      "id": "bddb6fc075c4946c2fd1decba9e9d092",
+      "title": "Nhan sắc Hoa khôi Ngoại thương đang gây chú ý ở Hoa hậu Việt Nam",
+      "link": "https://thanhnien.vn/nhan-sac-hoa-khoi-ngoai-thuong-dang-gay-chu-y-o-hoa-hau-viet-nam-185260808003833091.htm",
+      "summary": "Bên cạnh vẻ ngoài rạng rỡ, Lê Phương Nghi gây chú ý khi từng là Hoa khôi Ngoại thương trước khi quyết định ghi danh tranh tài tại Hoa hậu Việt Nam 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T00:37:00+07:00",
+      "fetched": "2026-08-08T07:53:47.531776+07:00"
+    },
+    {
+      "id": "33b9811969f7cb4c8f33ef73e54c9e02",
+      "title": "Akira Phan đính chính tin đồn, tiết lộ cuộc sống hôn nhân với vợ CEO",
+      "link": "https://thanhnien.vn/akira-phan-dinh-chinh-tin-don-tiet-lo-cuoc-song-hon-nhan-voi-vo-ceo-185260806214652379.htm",
+      "summary": "Trước những thông tin không đúng liên quan đến cuộc sống hôn nhân, phía Akira Phan và người bạn đời có động thái gây chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T00:34:00+07:00",
+      "fetched": "2026-08-08T07:53:47.531911+07:00"
+    },
+    {
+      "id": "987f7ce32ab5e5624b5ec173d20bea71",
+      "title": "'Taxi bay’ thúc đẩy đổi mới trong ngành hàng không ra sao?",
+      "link": "https://thanhnien.vn/taxi-bay-thuc-day-doi-moi-trong-nganh-hang-khong-ra-sao-185260806170902382.htm",
+      "summary": "Các loại taxi bay chạy bằng điện như Valo của Vertical Aerospace và Midnight của Archer đang dần cất cánh, nhờ vào những tiến bộ trong công nghệ pin và hệ thống động cơ đẩy điện. Tuy nhiên, các vấn đề về an toàn, quy định pháp lý và chi phí vẫn là những rào cản lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T00:32:00+07:00",
+      "fetched": "2026-08-08T07:53:47.532047+07:00"
+    },
+    {
+      "id": "259ae15fb519f4e5d12e80a1d3b12628",
+      "title": "Chuyên gia hiến kế giúp Quảng Ninh tạo động lực tăng trưởng mới",
+      "link": "https://thanhnien.vn/chuyen-gia-hien-ke-giup-quang-ninh-tao-dong-luc-tang-truong-moi-185260807194346235.htm",
+      "summary": "Các doanh nghiệp hiến kế, đề xuất Quảng Ninh thí điểm vùng kinh tế số và thị trường tự do, cùng các cơ chế hỗ trợ điện mặt trời mái nhà, khu công nghiệp xanh và ứng dụng AI trong du lịch, nhằm tạo động lực tăng trưởng mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T00:31:00+07:00",
+      "fetched": "2026-08-08T07:53:47.532172+07:00"
+    },
+    {
+      "id": "3a7d34af7af77d5d694c6e537ebc63c0",
+      "title": "Nhiệt điện Duyên Hải tiếp tục chủ động bảo đảm nguồn điện cho hệ thống",
+      "link": "https://thanhnien.vn/nhiet-dien-duyen-hai-tiep-tuc-chu-dong-bao-dam-nguon-dien-cho-he-thong-185260807183237642.htm",
+      "summary": "Bước vào những tháng cuối năm 2026, Nhiệt điện Duyên Hải tập trung cao độ vào công tác sửa chữa, nâng cao độ tin cậy thiết bị và dự trữ nhiên liệu nhằm bảo đảm cung ứng điện phục vụ phát triển kinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T00:30:00+07:00",
+      "fetched": "2026-08-08T07:53:47.532294+07:00"
+    },
+    {
+      "id": "1940a40667a7e135c22b084cfa2bd7fb",
+      "title": "Làm sao biết được chất lượng thật của răng giả?",
+      "link": "https://thanhnien.vn/lam-sao-biet-duoc-chat-luong-that-cua-rang-gia-18526080719194536.htm",
+      "summary": "Loạt cơ sở sản xuất răng giả bị Sở Y tế Hà Nội xử phạt hành chính với tổng số tiền 1,35 tỉ đồng khiến nhiều người khiến người đã lắp răng giả băn khoăn về chất lượng, 'tuổi thọ' của những chiếc răng giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T00:29:00+07:00",
+      "fetched": "2026-08-08T07:53:47.532427+07:00"
+    },
+    {
+      "id": "97e24122f93d478e47bea59752ccea02",
+      "title": "Khỉ hoang tấn công người, làm hàng chục trường học đóng cửa",
+      "link": "https://vnexpress.net/khi-hoang-tan-cong-nguoi-lam-hang-chuc-truong-hoc-dong-cua-5106548.html",
+      "summary": "Giới chức thị trấn Tembilahan đặt bẫy bắt con khỉ hoang, sau khi xảy ra 19 vụ khỉ tấn công người dân trong vòng hai tuần.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-08T00:27:32+07:00",
+      "fetched": "2026-08-08T07:53:51.042284+07:00"
+    },
+    {
+      "id": "f038f42588f603374eeb930dcccca06c",
+      "title": "Để trẻ dậy thì thành công",
+      "link": "https://thanhnien.vn/de-tre-day-thi-thanh-cong-185260807203647832.htm",
+      "summary": "Dậy thì là giai đoạn cơ thể trẻ thay đổi mạnh mẽ về chiều cao, cân nặng, khối cơ - xương, nội tiết và tâm sinh lý. Đây là \"cú hích\" để trẻ hoàn thiện tầm vóc trước khi các đầu xương đóng lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T00:24:00+07:00",
+      "fetched": "2026-08-08T07:53:47.532554+07:00"
+    },
+    {
+      "id": "bd663a8825a3eceec734108762084030",
+      "title": "Argentina không gây sức ép buộc Messi dự Copa America 2028",
+      "link": "https://vnexpress.net/argentina-khong-gay-suc-ep-buoc-messi-du-copa-america-2028-5106652.html",
+      "summary": "Chủ tịch LĐBĐ Argentina (AFA) Claudio Tapia khẳng định Lionel Messi sẽ toàn quyền quyết định tương lai ở ĐTQG, trong đó có việc góp mặt tại Copa America 2028.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-08T00:23:38+07:00",
+      "fetched": "2026-08-08T07:53:56.458057+07:00"
+    },
+    {
+      "id": "3960c13c98089c5f1db6fa063c4a14ce",
+      "title": "CĐV Indonesia đòi sa thải HLV Herdman",
+      "link": "https://vnexpress.net/cdv-indonesia-doi-sa-thai-hlv-herdman-5106657.html",
+      "summary": "CĐV Indonesia đồng loạt kêu gọi sa thải HLV John Herdman sau khi đội nhà bị Singapore cầm hòa 1-1 ở lượt cuối bảng A ASEAN Cup 2026, qua đó bị loại ngay vòng bảng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-08T00:13:43+07:00",
+      "fetched": "2026-08-08T07:53:56.457903+07:00"
+    },
+    {
+      "id": "35faf23c0fa82dd1987ad65db4dbe7ac",
+      "title": "Học sinh Việt Nam giành 7 huy chương tại Olympic trí tuệ nhân tạo quốc tế",
+      "link": "https://thanhnien.vn/hoc-sinh-viet-nam-gianh-7-huy-chuong-tai-olympic-tri-tue-nhan-tao-quoc-te-185260807213904049.htm",
+      "summary": "Bộ GD-ĐT cho biết, tại kỳ thi Olympic trí tuệ nhân tạo quốc tế năm 2026 lần thứ ba, đội tuyển quốc gia Việt Nam có 7/8 thí sinh dự thi đoạt giải với 2 huy chương vàng, 1 huy chương bạc, 4 huy chương đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T00:10:00+07:00",
+      "fetched": "2026-08-08T07:53:47.532682+07:00"
+    },
+    {
+      "id": "20ae86001cbd9c9737dd3484a2d48267",
+      "title": "Tòa án Mỹ chặn dự án phòng khiêu vũ 400 triệu USD của ông Trump",
+      "link": "https://vnexpress.net/toa-an-my-chan-du-an-phong-khieu-vu-400-trieu-usd-cua-ong-trump-5106664.html",
+      "summary": "Tòa phúc thẩm liên bang ở Washington yêu cầu chính quyền Trump dừng thi công phòng khiêu vũ trị giá 400 triệu USD tại Nhà Trắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T00:02:22+07:00",
+      "fetched": "2026-08-08T07:53:44.317979+07:00"
+    },
+    {
+      "id": "20ae86001cbd9c9737dd3484a2d48267",
+      "title": "Tòa án Mỹ chặn dự án phòng khiêu vũ 400 triệu USD của ông Trump",
+      "link": "https://vnexpress.net/toa-an-my-chan-du-an-phong-khieu-vu-400-trieu-usd-cua-ong-trump-5106664.html",
+      "summary": "Tòa phúc thẩm liên bang ở Washington yêu cầu chính quyền Trump dừng thi công phòng khiêu vũ trị giá 400 triệu USD tại Nhà Trắng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-08T00:02:22+07:00",
+      "fetched": "2026-08-08T07:53:51.042459+07:00"
+    },
+    {
+      "id": "70e7113f886bbc63c609d2443e8c3a35",
+      "title": "Yêu cầu Bộ GD-ĐT đề xuất phương án thi, tuyển sinh đại học phù hợp tình hình mới",
+      "link": "https://thanhnien.vn/yeu-cau-bo-gd-dt-de-xuat-phuong-an-thi-tuyen-sinh-dai-hoc-phu-hop-tinh-hinh-moi-185260808003629345.htm",
+      "summary": "Chính phủ giao Bộ GD-ĐT nghiên cứu đề xuất phương án thi, tuyển sinh đại học đáp ứng yêu cầu trong tình hình mới, báo cáo Thủ tướng trong quý 3/2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T00:01:00+07:00",
+      "fetched": "2026-08-08T07:53:47.532806+07:00"
+    },
+    {
+      "id": "083a545baa2b726a247f0a5b273c2fa0",
+      "title": "Ngành dược Việt Nam quy mô 7 tỷ USD, 60% thuốc sản xuất trong nước",
+      "link": "https://vnexpress.net/nganh-duoc-viet-nam-quy-mo-7-ty-usd-60-thuoc-san-xuat-trong-nuoc-5106635.html",
+      "summary": "Thuốc sản xuất trong nước hiện đáp ứng khoảng 60% số lượng thuốc sử dụng tại Việt Nam, quy mô thị trường dược đạt khoảng 7 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T00:00:00+07:00",
+      "fetched": "2026-08-08T07:53:44.318140+07:00"
+    },
+    {
+      "id": "3249654a833b636e297c8f78556aaed4",
+      "title": "Vì sao người gầy vẫn bị ngưng thở khi ngủ?",
+      "link": "https://vnexpress.net/vi-sao-nguoi-gay-van-bi-ngung-tho-khi-ngu-5106496.html",
+      "summary": "Tôi gầy nhưng ngủ ngáy, người nhà nhiều lần thấy tôi ngừng thở vài giây rồi thở mạnh trở lại. Tôi nghĩ ngưng thở khi ngủ chủ yếu xảy ra ở người béo phì. Vì sao người gầy vẫn mắc bệnh? (Minh Trung, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T00:00:00+07:00",
+      "fetched": "2026-08-08T07:53:44.318284+07:00"
+    },
+    {
+      "id": "aa5c8ce3bc7e059ef86460e8057f4dd3",
+      "title": "Làm thế nào để biết mắc trào ngược dạ dày thực quản?",
+      "link": "https://vnexpress.net/lam-the-nao-de-biet-mac-trao-nguoc-da-day-thuc-quan-5106467.html",
+      "summary": "Đo pH trở kháng thực quản, nội soi đường tiêu hóa giúp phát hiện axit cũng như dấu hiệu trào ngược dạ dày, thực quản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T00:00:00+07:00",
+      "fetched": "2026-08-08T07:53:44.318432+07:00"
+    },
+    {
+      "id": "0d33d4bcecda915aa16a8674af08ef03",
+      "title": "Hành trình gần 30 năm đi tìm đồng đội",
+      "link": "https://thanhnien.vn/hanh-trinh-gan-30-nam-di-tim-dong-doi-185260807193357844.htm",
+      "summary": "Suốt 27 năm qua, khi con cái đã trưởng thành và gánh nặng mưu sinh dần nhẹ bớt, ông Đỗ Tuấn Đạt lại bắt đầu một hành trình khác, lặng lẽ nhưng bền bỉ đi tìm những người đồng đội đã ngã xuống nơi chiến trường xưa mà đến nay vẫn chưa được trở về quê hương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T00:00:00+07:00",
+      "fetched": "2026-08-08T07:53:47.532924+07:00"
+    },
+    {
+      "id": "afe4991a11b5d3f12e03ba539e28a0d9",
+      "title": "S.I.S - Việt Nam đủ năng lực đào tạo chuẩn quốc tế",
+      "link": "https://thanhnien.vn/sis-viet-nam-du-nang-luc-dao-tao-chuan-quoc-te-185260807165519482.htm",
+      "summary": "Trải qua 8 lần tổ chức, Stroke Intervention School thu hút học viên và chuyên gia quốc tế ngày càng đông đảo, minh chứng rõ nét cho Bệnh viện Đa khoa Quốc tế S.I.S Cần Thơ đủ lực vươn ra thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T00:00:00+07:00",
+      "fetched": "2026-08-08T07:53:47.533043+07:00"
+    },
+    {
+      "id": "9c7a704e080df65a9af8e4b2ffd3dddf",
+      "title": "5 đạo diễn trẻ nhận hỗ trợ 1,5 tỉ đồng",
+      "link": "https://thanhnien.vn/5-dao-dien-tre-nhan-ho-tro-15-ti-dong-185260806093610586.htm",
+      "summary": "Sau vòng Thuyết trình, 'Dự án phim ngắn CJ 2026' chính thức công bố Top 5 nhà làm phim trẻ nhận tổng kinh phí hỗ trợ sản xuất lên đến 1,5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T00:00:00+07:00",
+      "fetched": "2026-08-08T07:53:47.533157+07:00"
+    },
+    {
+      "id": "2465969144a55a02e304a29a9c93f682",
+      "title": "VN - Thái Lan hướng đến kim ngạch thương mại 25 tỉ USD",
+      "link": "https://thanhnien.vn/vn-thai-lan-huong-den-kim-ngach-thuong-mai-25-ti-usd-185260807223218798.htm",
+      "summary": "Chiều 7.8, tại Hà Nội, Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Chủ tịch Quốc hội kiêm Chủ tịch Hạ viện Vương quốc Thái Lan Sophon Zaram nhân dịp thăm chính thức VN và tham dự các hoạt động kỷ niệm 50 năm thiết lập quan hệ ngoại giao VN - Thái Lan (6.8.1976 - 6.8.2026).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:51:00+07:00",
+      "fetched": "2026-08-08T07:53:47.533276+07:00"
+    },
+    {
+      "id": "465d22198d6549b4495844c594333a2c",
+      "title": "TP.HCM 'đại phẫu' nhà ven kênh: Đảm bảo ổn định cuộc sống lâu dài",
+      "link": "https://thanhnien.vn/tphcm-dai-phau-nha-ven-kenh-dam-bao-on-dinh-cuoc-song-lau-dai-18526080722015136.htm",
+      "summary": "Thực tế triển khai dự án cải tạo rạch Xuyên Tâm cho thấy nếu có chính sách bồi thường, hỗ trợ, tái định cư tốt, người dân sẵn sàng bàn giao mặt bằng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:45:00+07:00",
+      "fetched": "2026-08-08T07:53:47.533397+07:00"
+    },
+    {
+      "id": "8fcbd372feb22be9fb06900c344b5d33",
+      "title": "Hộ kinh doanh thông báo doanh thu, kê khai thuế thế nào?",
+      "link": "https://vnexpress.net/ho-kinh-doanh-thong-bao-doanh-thu-ke-khai-thue-the-nao-5106578.html",
+      "summary": "Từ năm 2026, hộ kinh doanh được phân thành 4 nhóm theo doanh thu, tương ứng với nghĩa vụ kê khai và nộp thuế khác nhau, mức phạt chậm nộp hồ sơ khai thuế có thể lên tới 12,5 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:00:00+07:00",
+      "fetched": "2026-08-08T07:53:44.318567+07:00"
+    },
+    {
+      "id": "5079d7349d0e1a1fa5800e1facf7654c",
+      "title": "Lý do hàng triệu người bị hút vào livestream 'đấu tố'",
+      "link": "https://vnexpress.net/ly-do-hang-trieu-nguoi-bi-hut-vao-livestream-dau-to-5106560.html",
+      "summary": "Sự tò mò và tâm lý đám đông đang biến các phiên livestream \"đấu tố\", cãi vã thành những sự kiện thu hút hàng triệu người xem trên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:00:00+07:00",
+      "fetched": "2026-08-08T07:53:44.318692+07:00"
+    },
+    {
+      "id": "587c20f184d0323af234ea3fe4bfadb5",
+      "title": "Vì sao bỗng dưng đứng tên doanh nghiệp, hộ kinh doanh?",
+      "link": "https://vnexpress.net/vi-sao-bong-dung-dung-ten-doanh-nghiep-ho-kinh-doanh-5106236.html",
+      "summary": "Quy trình đăng ký lập công ty trước đây không cần xác thực định danh, thông tin, giấy tờ tùy thân bị lộ lọt... khiến không ít người \"bỗng dưng đứng tên doanh nghiệp, hộ kinh doanh\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:00:00+07:00",
+      "fetched": "2026-08-08T07:53:44.318814+07:00"
+    },
+    {
+      "id": "ac3f6849d47e654fd875664de5f892eb",
+      "title": "Ký ức của y sĩ già về ba khu điều trị nơi 181 chiến sĩ hy sinh",
+      "link": "https://vnexpress.net/ky-uc-cua-y-si-gia-ve-ba-khu-dieu-tri-noi-181-chien-si-hy-sinh-5106140.html",
+      "summary": "Sau hơn nửa thế kỷ, ông Đào Ngọc Thạnh, người lưu giữ cuốn sổ ghi tên 181 liệt sĩ, vẫn đau đáu tìm đồng đội hy sinh trên núi Cà Đam cao hơn 1.400 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:00:00+07:00",
+      "fetched": "2026-08-08T07:53:44.318936+07:00"
+    },
+    {
+      "id": "59f2b9054c856bc3e2fe4ce35b081d6c",
+      "title": "Vóc dáng 'chuẩn' không thoát khỏi mỡ máu cao",
+      "link": "https://vnexpress.net/voc-dang-chuan-khong-thoat-khoi-mo-mau-cao-5105850.html",
+      "summary": "Minh, 41 tuổi, kỹ sư công nghệ ở Hà Nội, tự hào về vóc dáng gầy gò 45 kg và thói quen chăm chỉ đá bóng hàng tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:00:00+07:00",
+      "fetched": "2026-08-08T07:53:44.319064+07:00"
+    },
+    {
+      "id": "0cbc9d396a9424fc98d90c21a2399d61",
+      "title": "Bugatti Destrier - siêu phẩm tốc độ độc nhất thế giới",
+      "link": "https://vnexpress.net/bugatti-destrier-sieu-pham-toc-do-doc-nhat-the-gioi-5106458.html",
+      "summary": "Destrier là mẫu xe thứ ba thuộc chương trình cá nhân hóa Solitaire do một khách hàng đặt riêng, được lấy phát triển từ Bolide công suất 1.578 mã lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:00:00+07:00",
+      "fetched": "2026-08-08T07:53:44.319185+07:00"
+    },
+    {
+      "id": "5e9fba4ae0f00fd450def32ed8c8d34c",
+      "title": "Bao lâu chưa có thai thì đi khám?",
+      "link": "https://vnexpress.net/bao-lau-chua-co-thai-thi-di-kham-5106543.html",
+      "summary": "Vợ chồng tôi kết hôn được gần một năm, không dùng biện pháp tránh thai vẫn chưa có con. Bao lâu chưa có thai thì nên đi khám hiếm muộn? (Thanh Hà, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:00:00+07:00",
+      "fetched": "2026-08-08T07:53:44.319319+07:00"
+    },
+    {
+      "id": "b1fc11accbf01e207ee596c6eff4df7c",
+      "title": "Nhồi máu cơ tim có tái phát không?",
+      "link": "https://vnexpress.net/nhoi-mau-co-tim-co-tai-phat-khong-5106485.html",
+      "summary": "Tôi từng bị nhồi máu cơ tim, hiện dùng thuốc theo toa và tái khám định kỳ. Bệnh có tái phát không? Làm cách nào phòng ngừa? (Minh Trí, 54 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:00:00+07:00",
+      "fetched": "2026-08-08T07:53:44.319462+07:00"
+    },
+    {
+      "id": "587c20f184d0323af234ea3fe4bfadb5",
+      "title": "Vì sao bỗng dưng đứng tên doanh nghiệp, hộ kinh doanh?",
+      "link": "https://vnexpress.net/vi-sao-bong-dung-dung-ten-doanh-nghiep-ho-kinh-doanh-5106236.html",
+      "summary": "Thông tin, giấy tờ tùy thân, dữ liệu cá nhân bị lộ lọt, chiếm đoạt hoặc sử dụng trái phép khiến không ít người \"bỗng dưng đứng tên doanh nghiệp, hộ kinh doanh\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-07T23:00:00+07:00",
+      "fetched": "2026-08-08T07:53:51.988352+07:00"
+    },
+    {
+      "id": "760623fdf2a7ae6524279384f3a97b09",
+      "title": "Những đại học đầu tiên dự kiến lịch công bố điểm chuẩn",
+      "link": "https://vnexpress.net/nhung-dai-hoc-dau-tien-du-kien-lich-cong-bo-diem-chuan-5106442.html",
+      "summary": "Nhiều trường dự kiến công bố điểm chuẩn vào ngày 9/8, ngay sau vòng 'lọc ảo' cuối cùng của Bộ Giáo dục và Đào tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T22:59:00+07:00",
+      "fetched": "2026-08-08T07:53:44.319590+07:00"
+    },
+    {
       "id": "54046fd322e0ca05227775ba9ccaddc5",
       "title": "Meta nhận án phạt kỷ lục 942 triệu USD",
       "link": "https://thanhnien.vn/meta-nhan-an-phat-ky-luc-942-trieu-usd-185260807205651095.htm",
@@ -231,6 +711,16 @@ window.newsData_2026_08_08 = {
       "category": "Công nghệ",
       "published": "2026-08-07T22:00:00+07:00",
       "fetched": "2026-08-08T05:25:01.399772+07:00"
+    },
+    {
+      "id": "bbd960852a539d1fa966b20c31dd5155",
+      "title": "Vụ án người giúp việc bắt cóc con ông chủ suốt 35 năm",
+      "link": "https://vnexpress.net/vu-an-nguoi-giup-viec-bat-coc-con-ong-chu-suot-35-nam-5106561.html",
+      "summary": "Bảo mẫu Vương vô sinh, muốn có con nên bắt cóc quý tử 10 tháng tuổi của gia chủ mang đi khiến cha mẹ đứa trẻ suốt 35 năm kiếm tìm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T22:00:00+07:00",
+      "fetched": "2026-08-08T07:53:44.319714+07:00"
     },
     {
       "id": "fb0ac6a9837dd23464af421738f83305",
@@ -813,6 +1303,16 @@ window.newsData_2026_08_08 = {
       "fetched": "2026-08-08T01:39:41.202028+07:00"
     },
     {
+      "id": "db9c0cfe9d504588de681f7a44b50428",
+      "title": "Indonesia bị loại khỏi ASEAN Cup",
+      "link": "https://vnexpress.net/ket-qua-singapore-vs-indonesia-5106603-tong-thuat.html",
+      "summary": "Chỉ hòa 1-1 với Singapore trong trận đấu quyết định vé bán kết tối 7/8, Indonesia rời ASEAN Cup 2026 ngay từ vòng bảng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-07T12:11:34+07:00",
+      "fetched": "2026-08-08T07:53:56.458738+07:00"
+    },
+    {
       "id": "f1b84c0bd34455189c788ad93ac83904",
       "title": "Từ Cá heo đến Dim-sum, cách các cơn bão ở Thái Bình Dương được đặt tên",
       "link": "https://vnexpress.net/tu-ca-heo-den-dim-sum-cach-cac-con-bao-o-thai-binh-duong-duoc-dat-ten-5106208.html",
@@ -841,6 +1341,16 @@ window.newsData_2026_08_08 = {
       "category": "Thể thao",
       "published": "2026-08-07T12:00:00+07:00",
       "fetched": "2026-08-08T01:39:41.202136+07:00"
+    },
+    {
+      "id": "9462174b52828bd224f045b32ea4e5cf",
+      "title": "Đình Bắc giúp Việt Nam hạ Campuchia ở ASEAN Cup",
+      "link": "https://vnexpress.net/viet-nam-campuchia-5106492-tong-thuat.html",
+      "summary": "Tiền đạo Đình Bắc lập cú đúp giúp Việt Nam thắng Campuchia 3-1 và vào bán kết ASEAN Cup 2026 với vị trí nhất bảng A.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-07T12:00:00+07:00",
+      "fetched": "2026-08-08T07:53:56.458866+07:00"
     },
     {
       "id": "91ee5f12bea6fc46d3f8d3db1aa80c50",
