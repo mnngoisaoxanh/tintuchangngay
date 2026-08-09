@@ -1,7 +1,157 @@
 window.newsData_2026_08_09 = {
   "date": "2026-08-09",
-  "lastUpdated": "2026-08-09T19:28:51.411004+07:00",
+  "lastUpdated": "2026-08-09T21:24:20.954625+07:00",
   "articles": [
+    {
+      "id": "8c6264ccfd2241415ca4bc94d952ec74",
+      "title": "Điểm chuẩn báo chí Trường đại học Khoa học xã hội và Nhân văn từ 28,2 xuống 22 điểm",
+      "link": "https://tuoitre.vn/diem-chuan-bao-chi-truong-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-tu-282-xuong-22-diem-100260809085559829.htm",
+      "summary": "Ngành báo chí Trường đại học Khoa học xã hội và Nhân văn (Đại học Quốc gia Hà Nội) năm nay lấy 22 điểm ở tất cả tổ hợp và không xét C00, trong khi năm ngoái tổ hợp này lấy đến 28,2 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T21:24:15.307632+07:00",
+      "fetched": "2026-08-09T21:24:15.307690+07:00"
+    },
+    {
+      "id": "42a949d6d661695cd7e64409f44c43bc",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm đến Sydney, bắt đầu thăm Úc",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-den-sydney-bat-dau-tham-uc-100260809195720153.htm",
+      "summary": "Tối 9-8, Tổng Bí thư, Chủ tịch nước Tô Lâm đã đến sân bay Sydney Kingsford Smith, bắt đầu chuyến thăm cấp Nhà nước đầu tiên đến Úc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T21:24:15.307565+07:00",
+      "fetched": "2026-08-09T21:24:15.307622+07:00"
+    },
+    {
+      "id": "a1a47ac49cd0a9ba3c6ebc44bde9531d",
+      "title": "Khởi tố giám đốc công ty và chủ cửa hàng bán gạo 'nhái' Séng Cù Mường Khương",
+      "link": "https://tuoitre.vn/khoi-to-giam-doc-cong-ty-va-chu-cua-hang-ban-gao-nhai-seng-cu-muong-khuong-100260809193242653.htm",
+      "summary": "Giám đốc Công ty TNHH hai thành viên nông sản Biên Ly và chủ cửa hàng bán gạo Quân Lan bị khởi tố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T21:24:15.307496+07:00",
+      "fetched": "2026-08-09T21:24:15.307554+07:00"
+    },
+    {
+      "id": "9dc06ec50b54c9bad2e99880057176bc",
+      "title": "Tạm dừng tổ chức vào lăng viếng Chủ tịch Hồ Chí Minh từ ngày 4-9 để tu bổ định kỳ",
+      "link": "https://tuoitre.vn/tam-dung-to-chuc-vao-lang-vieng-chu-tich-ho-chi-minh-tu-ngay-4-9-de-tu-bo-dinh-ky-100260809174846229.htm",
+      "summary": "Bộ Tư lệnh Lăng Chủ tịch Hồ Chí Minh cho biết kế hoạch tu bổ định kỳ công trình lăng diễn ra từ ngày 4-9 đến ngày 2-11-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T21:24:15.307419+07:00",
+      "fetched": "2026-08-09T21:24:15.307485+07:00"
+    },
+    {
+      "id": "205cc7528b825de65a4f8b78331f8187",
+      "title": "'Giang hồ mạng' lộng hành, đại biểu Quốc hội đặt câu hỏi về trách nhiệm",
+      "link": "https://tuoitre.vn/giang-ho-mang-long-hanh-dai-bieu-quoc-hoi-dat-cau-hoi-ve-trach-nhiem-100260809195355312.htm",
+      "summary": "Đại biểu Nguyễn Trung Kiên đề nghị quy định rõ trách nhiệm các nền tảng số, mạng xã hội trước việc \"giang hồ mạng\" lộng hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T21:24:15.307290+07:00",
+      "fetched": "2026-08-09T21:24:15.307403+07:00"
+    },
+    {
+      "id": "5e73049382c3211aee0daa6825792f0a",
+      "title": "Nên nâng mức doanh thu được giảm thuế lên 50 tỉ đồng/năm?",
+      "link": "https://tuoitre.vn/nen-nang-muc-doanh-thu-duoc-giam-thue-len-50-ti-dong-nam-100260809192642622.htm",
+      "summary": "Mức đề xuất giảm 30% thuế năm 2026 và 2027 cần được mở rộng cho các doanh nghiệp, hộ kinh doanh có doanh thu đến 50 tỉ đồng/năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T21:24:15.306938+07:00",
+      "fetched": "2026-08-09T21:24:15.307267+07:00"
+    },
+    {
+      "id": "0c6f9f6f973eed6b32abda8cb792f317",
+      "title": "Điểm chuẩn nhóm ngành báo chí Học viện Báo chí và Tuyên truyền giảm ‘sốc’",
+      "link": "https://tuoitre.vn/diem-chuan-nhom-nganh-bao-chi-hoc-vien-bao-chi-va-tuyen-truyen-giam-soc-100260809175159373.htm",
+      "summary": "Hầu hết chuyên ngành báo chí tại Học viện Báo chí và Tuyên truyền giảm điểm chuẩn, trong đó ảnh báo chí giảm hơn 6 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T21:24:15.306861+07:00",
+      "fetched": "2026-08-09T21:24:15.306927+07:00"
+    },
+    {
+      "id": "fa041246179a5bc1b144107500a4ab64",
+      "title": "Nhà, đất dôi dư ở Hà Nội, Hải Phòng: Nếu có dấu hiệu hình sự phải chuyển xử lý",
+      "link": "https://tuoitre.vn/nha-dat-doi-du-o-ha-noi-hai-phong-neu-co-dau-hieu-hinh-su-phai-chuyen-xu-ly-100260809202534499.htm",
+      "summary": "Thanh tra Chính phủ chỉ ra nhiều tồn tại trong việc sắp xếp, xử lý nhà, đất dôi dư tại Hà Nội và Hải Phòng. Trong đó, hàng trăm cơ sở chưa hoàn tất hồ sơ pháp lý, bàn giao hoặc đưa vào khai thác, sử dụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T21:24:15.306791+07:00",
+      "fetched": "2026-08-09T21:24:15.306850+07:00"
+    },
+    {
+      "id": "860f7bb701b78cc21b8ef648c651cbbc",
+      "title": "Cần Thơ công bố 27 điểm phát sóng WiFi công cộng",
+      "link": "https://tuoitre.vn/can-tho-cong-bo-27-diem-phat-song-wifi-cong-cong-100260809203728456.htm",
+      "summary": "Cần Thơ đưa vào hoạt động 27 điểm phát sóng công cộng 5G và thí điểm mạng 6G tại nhiều địa điểm nổi tiếng của địa phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T21:24:15.306724+07:00",
+      "fetched": "2026-08-09T21:24:15.306781+07:00"
+    },
+    {
+      "id": "83de892e1ecf983a117a0bd87dd6bceb",
+      "title": "Điểm chuẩn Học viện Kỹ thuật quân sự cao nhất 29,03 với thí sinh nữ miền Nam",
+      "link": "https://tuoitre.vn/diem-chuan-hoc-vien-ky-thuat-quan-su-cao-nhat-2903-voi-thi-sinh-nu-mien-nam-100260809094153193.htm",
+      "summary": "Học viện Kỹ thuật quân sự công bố điểm chuẩn hệ quân sự từ 24,88 đến 29,03 điểm, trong đó nữ miền Nam có mức điểm chuẩn cao nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T21:24:15.306656+07:00",
+      "fetched": "2026-08-09T21:24:15.306713+07:00"
+    },
+    {
+      "id": "b036f39b5726e167e7a9b99c155fb900",
+      "title": "Cầu thủ Việt Nam nào 3 lần vào đội hình tiêu biểu ASEAN Cup 2026?",
+      "link": "https://tuoitre.vn/cau-thu-viet-nam-nao-3-lan-vao-doi-hinh-tieu-bieu-asean-cup-2026-100260809203050891.htm",
+      "summary": "Tối 9-8, chuyên trang bóng đá uy tín Sofascore đã công bố Đội hình tiêu biểu của lượt trận thứ 5 giai đoạn vòng bảng ASEAN Cup 2026, qua đó ghi nhận kỷ lục đặc biệt của một ngôi sao tuyển Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T21:24:15.306585+07:00",
+      "fetched": "2026-08-09T21:24:15.306645+07:00"
+    },
+    {
+      "id": "09c389791f95036ad10c186c2c7e9832",
+      "title": "Tàu cá gặp dông lốc chìm trên biển Hoàng Sa, 4 ngư dân Quảng Ngãi may mắn được cứu",
+      "link": "https://tuoitre.vn/tau-ca-gap-dong-loc-chim-tren-bien-hoang-sa-4-ngu-dan-quang-ngai-may-man-duoc-cuu-100260809203355109.htm",
+      "summary": "Một tàu cá của ngư dân Quảng Ngãi hành nghề câu trên biển Hoàng Sa thì gặp dông lốc. Con tàu bị phá nước, chìm hoàn toàn. 4 ngư dân may mắn được cứu kịp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T21:24:15.306515+07:00",
+      "fetched": "2026-08-09T21:24:15.306574+07:00"
+    },
+    {
+      "id": "a63eacbd59dae5aec66b78ca903bc568",
+      "title": "Tổng thống Zelensky: Triều Tiên có thể đưa tới 50.000 lính sang Nga",
+      "link": "https://tuoitre.vn/tong-thong-zelensky-trieu-tien-co-the-dua-toi-50000-linh-sang-nga-100260809204608763.htm",
+      "summary": "Ông Zelensky cho biết 50.000 binh sĩ Triều Tiên có thể được triển khai tới Nga và kêu gọi Hàn Quốc hỗ trợ phòng không.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T21:24:15.306442+07:00",
+      "fetched": "2026-08-09T21:24:15.306504+07:00"
+    },
+    {
+      "id": "c96747a39be6e1dc2c13a50aa1b32df8",
+      "title": "Cầu thủ bóng rổ co giật, lên xe cấp cứu sau va chạm mạnh ở VBA 2026",
+      "link": "https://tuoitre.vn/cau-thu-bong-ro-co-giat-len-xe-cap-cuu-sau-va-cham-manh-o-vba-2026-100260809204432489.htm",
+      "summary": "Tối 9-8, tại Nhà thi đấu Tây Hồ (Hà Nội), cầu thủ Phan Trọng Tài được đưa đi cấp cứu sau khi lên cơn co giật trong trận Hà Nội Buffaloes gặp Đà Nẵng Dragons.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T21:24:15.306364+07:00",
+      "fetched": "2026-08-09T21:24:15.306431+07:00"
+    },
+    {
+      "id": "e568366f304a052298525f74e4e55c11",
+      "title": "Thói quen ăn kim chi thay đổi ở Hàn Quốc: người giàu ít ăn hơn",
+      "link": "https://tuoitre.vn/thoi-quen-an-kim-chi-thay-doi-o-han-quoc-nguoi-giau-it-an-hon-10026080920363435.htm",
+      "summary": "Người Hàn Quốc đang ăn kim chi ít hơn đáng kể so với trước đây, dù món ăn truyền thống này ngày càng nổi tiếng trên thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T21:24:15.306217+07:00",
+      "fetched": "2026-08-09T21:24:15.306349+07:00"
+    },
     {
       "id": "c43601a08a70b8ab2b360052d5e551a1",
       "title": "Sửa quốc lộ 1 qua tỉnh Cà Mau: Cắt hợp đồng một nhà thầu kém cỏi",
@@ -453,6 +603,66 @@ window.newsData_2026_08_09 = {
       "fetched": "2026-08-09T15:30:09.648586+07:00"
     },
     {
+      "id": "1567bee7a5464f4111682cfc27b16b37",
+      "title": "NSƯT Kim Tiểu Long kể kỷ niệm bị thầy Kim Tử Long la mắng, suýt đánh",
+      "link": "https://thanhnien.vn/nsut-kim-tieu-long-ke-ky-niem-bi-thay-kim-tu-long-la-mang-suyt-danh-185260809131102836.htm",
+      "summary": "Sau hơn 35 năm gắn bó với sân khấu cải lương, NSƯT Kim Tiểu Long cho rằng tài sản quý giá nhất trong hành trình nghệ thuật không chỉ nằm ở những vai diễn để đời hay những tấm huy chương, mà còn là những người thầy luôn nghiêm khắc và tận tâm, trong đó có NSƯT Kim Tử Long.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T14:19:00+07:00",
+      "fetched": "2026-08-09T21:24:14.024938+07:00"
+    },
+    {
+      "id": "dea8f71742a831a7c4d93a1b6cd675ba",
+      "title": "Thêm trường ĐH có điểm chuẩn từ 15",
+      "link": "https://thanhnien.vn/them-truong-dh-co-diem-chuan-tu-15-185260809202811282.htm",
+      "summary": "Hầu hết các ngành của trường ĐH này đều có mức điểm chuẩn 15, bằng với điểm sàn xét tuyển. Tuy nhiên 3 ngành có điểm chuẩn từ 20 trở lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T14:11:00+07:00",
+      "fetched": "2026-08-09T21:24:14.025106+07:00"
+    },
+    {
+      "id": "c6a07138b8a9eee82d317e3bad9a23ab",
+      "title": "Thua U.16 TP.HCM, Sơn La vẫn giành hạng 3 giải U.16 nữ quốc gia 2026",
+      "link": "https://thanhnien.vn/thua-u16-tphcm-son-la-van-gianh-hang-3-giai-u16-nu-quoc-gia-2026-185260809210428251.htm",
+      "summary": "Chiều 9.8, trên Chiềng Sinh (Sơn La), giải bóng đá nữ vô địch U.16 quốc gia 2026 khép lại với cuộc đối đầu giữa đội chủ nhà Sơn La và TP.HCM. Dù nhận thất bại 1-2, Sơn La vẫn bảo toàn vị trí thứ ba chung cuộc với 7 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T14:08:00+07:00",
+      "fetched": "2026-08-09T21:24:14.025291+07:00"
+    },
+    {
+      "id": "315fa67a3a087e8a8da84ecd0f5f5c06",
+      "title": "Kết quả xổ số Vietlott Mega 6/45 tối 9.8, giải độc đắc tăng 16,4 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-mega-6-45-toi-98-giai-doc-dac-tang-164-ti-dong-185260809190128229.htm",
+      "summary": "Tối 9.8, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45 và ghi nhận không có người trúng giải độc đắc nên số tiền cộng dồn là 16,4 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T13:49:00+07:00",
+      "fetched": "2026-08-09T21:24:14.025449+07:00"
+    },
+    {
+      "id": "48758899e80f4b2f0d9ff96446963c13",
+      "title": "Học viện Kỹ thuật quân sự công bố điểm chuẩn cao nhất 29,03",
+      "link": "https://vnexpress.net/diem-chuan-hoc-vien-ky-thuat-quan-su-mta-2026-chi-tiet-ca-he-quan-su-va-dan-su-5107100.html",
+      "summary": "Điểm chuẩn hệ quân sự Học viện Kỹ thuật quân sự (MTA) từ 26,62 đến 29,03, nhóm ưu tiên xét tuyển được áp mức thấp hơn, trong khi hệ dân sự thấp nhất 21,75.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T13:43:04+07:00",
+      "fetched": "2026-08-09T21:24:12.046257+07:00"
+    },
+    {
+      "id": "973cbaeec9676dc1e4a76224586f3a75",
+      "title": "Cú hích khiến điểm chuẩn vi mạch, AI, tự động hóa 'bùng nổ'",
+      "link": "https://vnexpress.net/cu-hich-khien-diem-chuan-vi-mach-ai-tu-dong-hoa-bung-no-5107050.html",
+      "summary": "Trí tuệ nhân tạo, Thiết kế vi mạch, Điện - Điện tử, Tự động hóa tăng hoặc vươn lên dẫn đầu điểm chuẩn ở nhiều trường, do sức hút từ chính sách học bổng 3,7-5,5 triệu đồng/tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T13:38:33+07:00",
+      "fetched": "2026-08-09T21:24:12.046441+07:00"
+    },
+    {
       "id": "7b7ae4d9fc45eaf9270471fd5c66f094",
       "title": "Hơn 1.000 công nhân ở TP.HCM được trang bị kỹ năng nhận diện cạm bẫy ma túy, lừa đảo",
       "link": "https://tuoitre.vn/hon-1000-cong-nhan-o-tphcm-duoc-trang-bi-ky-nang-nhan-dien-cam-bay-ma-tuy-lua-dao-100260809112338764.htm",
@@ -601,6 +811,186 @@ window.newsData_2026_08_09 = {
       "category": "Tổng hợp",
       "published": "2026-08-09T13:37:58.979084+07:00",
       "fetched": "2026-08-09T13:37:58.979229+07:00"
+    },
+    {
+      "id": "ebd588b99b6f65a747fafe558e908ed8",
+      "title": "Người đẹp Miss World 2026 'trao nụ cười' đến trẻ em Quảng Ninh",
+      "link": "https://thanhnien.vn/nguoi-dep-miss-world-2026-trao-nu-cuoi-den-tre-em-quang-ninh-185260809202524985.htm",
+      "summary": "Các thí sinh tham dự Miss World 2026 đã có những phút giao lưu gần gũi, trao quà và động viên trẻ em tại Trung tâm trợ giúp xã hội tỉnh Quảng Ninh, mở đầu hành trình 'Sắc đẹp vì mục đích cao đẹp' tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T13:37:00+07:00",
+      "fetched": "2026-08-09T21:24:14.025603+07:00"
+    },
+    {
+      "id": "3acfa4f60a479ed4c777d62e08e6b5dd",
+      "title": "Điểm chuẩn Trường ĐH Quy Nhơn: Các ngành sư phạm dẫn đầu",
+      "link": "https://thanhnien.vn/diem-chuan-truong-dh-quy-nhon-cac-nganh-su-pham-dan-dau-185260809202208532.htm",
+      "summary": "Điểm chuẩn Trường ĐH Quy Nhơn năm 2026 dao động từ 15 - 25,5, trong đó nhóm ngành sư phạm có mức cao nhất từ 20,55 - 25,5 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T13:37:00+07:00",
+      "fetched": "2026-08-09T21:24:14.025756+07:00"
+    },
+    {
+      "id": "6ef81e7c6fccdf23df2aef18ada16e40",
+      "title": "Sao nhập tịch Malaysia: ‘Việt Nam rất mạnh nhưng hãy chờ xem chúng tôi làm được gì’",
+      "link": "https://thanhnien.vn/sao-nhap-tich-malaysia-viet-nam-rat-manh-nhung-hay-cho-xem-chung-toi-lam-duoc-gi-185260809194738517.htm",
+      "summary": "Tiền vệ nhập tịch Mohamadou Sumareh (gốc Gambia) thừa nhận đội tuyển Việt Nam là đối thủ rất mạnh, nhưng khẳng định Malaysia vẫn còn nguyên cơ hội tạo bất ngờ khi hai đội gặp nhau ở bán kết ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T13:31:00+07:00",
+      "fetched": "2026-08-09T21:24:14.025907+07:00"
+    },
+    {
+      "id": "a920d481d74937014a3e56f40fd0e154",
+      "title": "Bắc bộ nắng nóng gần 40 độ C, kéo dài trong tuần sau",
+      "link": "https://thanhnien.vn/bac-bo-nang-nong-gan-40-do-c-keo-dai-trong-tuan-sau-185260809202527063.htm",
+      "summary": "Hôm nay, nắng nóng xuất hiện trên diện rộng ở Bắc và Trung bộ, nhiều nơi nắng nóng đặc biệt gay gắt với mức nhiệt gần 40 độ C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T13:28:00+07:00",
+      "fetched": "2026-08-09T21:24:14.026057+07:00"
+    },
+    {
+      "id": "5044b8c540cffe4a56b66f620c8af508",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm bắt đầu thăm cấp nhà nước Úc",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-bat-dau-tham-cap-nha-nuoc-uc-185260809194754331.htm",
+      "summary": "Ngày 9.8, Tổng Bí thư, Chủ tịch nước Tô Lâm và Đoàn đại biểu cấp cao Việt Nam đã đến sân bay Sydney Kingsford Smith, bắt đầu thăm cấp nhà nước tới Úc theo lời mời của Toàn quyền Úc Sam Mostyn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T13:26:00+07:00",
+      "fetched": "2026-08-09T21:24:14.026247+07:00"
+    },
+    {
+      "id": "8170f3b93dc1a92e9d99b73638b45028",
+      "title": "Điểm chuẩn các phương thức của Trường ĐH Hoa Sen khác nhau ra sao?",
+      "link": "https://thanhnien.vn/diem-chuan-cac-phuong-thuc-cua-truong-dh-hoa-sen-khac-nhau-ra-sao-18526080919552229.htm",
+      "summary": "Trường ĐH Hoa Sen vừa công bố điểm chuẩn của 4 phương thức tuyển sinh, trong đó ngành luật có điểm trúng tuyển cao nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T13:16:00+07:00",
+      "fetched": "2026-08-09T21:24:14.026405+07:00"
+    },
+    {
+      "id": "99ad19d6792d2382e0b97150997f40de",
+      "title": "Điểm chuẩn Đại học Giao thông vận tải cao nhất 26,5",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-giao-thong-van-tai-utc-chi-tiet-tung-nganh-5107016.html",
+      "summary": "Ngành Kỹ thuật điều khiển và Tự động hóa có điểm chuẩn cao nhất trường Đại học Giao thông vận tải (UTC), soán ngôi của Logistics năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T13:10:21+07:00",
+      "fetched": "2026-08-09T21:24:12.046619+07:00"
+    },
+    {
+      "id": "ca85a0e8d12f49c4c0bda9ed363418bc",
+      "title": "Đội tuyển Việt Nam đấu Malaysia: Lịch sử đối đầu nói gì trước bán kết ASEAN Cup 2026?",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-dau-malaysia-lich-su-doi-dau-noi-gi-truoc-ban-ket-asean-cup-2026-185260809181546934.htm",
+      "summary": "Trước cuộc đối đầu Malaysia ở bán kết ASEAN Cup 2026, đội tuyển Việt Nam đang có lợi thế đáng kể về thành tích đối đầu. Tuy nhiên, những lần chạm trán trong quá khứ cũng cho thấy đây là đối thủ nhiều duyên nợ và thầy trò HLV Kim Sang-sik không thể chủ quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T13:09:00+07:00",
+      "fetched": "2026-08-09T21:24:14.026570+07:00"
+    },
+    {
+      "id": "6c6fe4d644e9cd146f6b3e00d68a4121",
+      "title": "Lộ diện màu sắc siêu phẩm iPhone gập",
+      "link": "https://thanhnien.vn/lo-dien-mau-sac-sieu-pham-iphone-gap-185260809135735798.htm",
+      "summary": "iPhone gập mới đây bị rò rỉ màu sắc, lộ thiết kế tối giản, camera kép cùng mức giá gây sốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T13:01:00+07:00",
+      "fetched": "2026-08-09T21:24:14.026727+07:00"
+    },
+    {
+      "id": "dfcf0eb7c079197712427d41aa68011b",
+      "title": "Phim của Jung Hae In gây sốt với chuyện tình mất trí nhớ",
+      "link": "https://vnexpress.net/phim-cua-jung-hae-in-gay-sot-voi-chuyen-tinh-mat-tri-nho-5107021.html",
+      "summary": "\"Our Sticky Love\" - Jung Hae In đóng chính - kể câu chuyện chàng trai tìm cách yêu lại mối tình đầu sau khi cô mất trí nhớ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T13:00:00+07:00",
+      "fetched": "2026-08-09T21:24:12.046796+07:00"
+    },
+    {
+      "id": "fd88c4b05fb01d585ded8104a90b5624",
+      "title": "Xem nhanh 20h ngày 9.8: PNJ lên tiếng về kết luận thanh tra | Bệnh ung thư của cựu Tổng thống Biden đã di căn",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-98-pnj-len-tieng-ve-ket-luan-thanh-tra-benh-ung-thu-cua-cuu-tong-thong-biden-da-di-can-185260809200010626.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 9.8 có nhiều tin tức đáng chú ý về: PNJ lên tiếng về kết luận thanh tra; bệnh ung thư của cựu Tổng thống Biden đã di căn, gây đau đớn;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T13:00:00+07:00",
+      "fetched": "2026-08-09T21:24:14.026875+07:00"
+    },
+    {
+      "id": "0445fa9ccd3616a8e46eb63145a971e8",
+      "title": "Học viện Báo chí và Tuyên truyền lấy điểm chuẩn cao nhất 27,23/30",
+      "link": "https://vnexpress.net/diem-chuan-hoc-vien-bao-chi-va-tuyen-truyen-ajc-2026-chi-tiet-nhat-kem-hoc-phi-5106910.html",
+      "summary": "Hai ngành Truyền thông đa phương tiện, Quan hệ công chúng dẫn đầu điểm chuẩn 2026 của Học viện Báo chí và Tuyên truyền (AJC), khối báo chí giảm tới 3-6 điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T12:54:59+07:00",
+      "fetched": "2026-08-09T21:24:12.046956+07:00"
+    },
+    {
+      "id": "fe6182b1fa995739d3dc29f43c5dd32e",
+      "title": "Tổng Bí thư, Chủ tịch nước bắt đầu thăm cấp nhà nước đến Australia",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-bat-dau-tham-cap-nha-nuoc-den-australia-5107108.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm tới Sydney, bắt đầu chuyến thăm cấp nhà nước đến Australia ngày 9-12/8 theo lời mời của Toàn quyền Sam Mostyn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T12:50:35+07:00",
+      "fetched": "2026-08-09T21:24:12.047113+07:00"
+    },
+    {
+      "id": "fe6182b1fa995739d3dc29f43c5dd32e",
+      "title": "Tổng Bí thư, Chủ tịch nước bắt đầu thăm cấp nhà nước đến Australia",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-bat-dau-tham-cap-nha-nuoc-den-australia-5107108.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm tới Sydney, bắt đầu chuyến thăm cấp nhà nước đến Australia ngày 9-12/8 theo lời mời của Toàn quyền Sam Mostyn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-09T12:50:35+07:00",
+      "fetched": "2026-08-09T21:24:16.640257+07:00"
+    },
+    {
+      "id": "c0d13677971eadf7b1797e1d5b35907d",
+      "title": "Đại học Mở Hà Nội công bố điểm chuẩn",
+      "link": "https://vnexpress.net/dai-hoc-mo-ha-noi-cong-bo-diem-chuan-5107096.html",
+      "summary": "Điểm chuẩn trường Đại học Mở Hà Nội (HOU) năm 2026 từ 17,34 đến 24,26, ngành Ngôn ngữ Trung Quốc cao nhất, xét theo điểm thi tốt nghiệp THPT.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T12:43:37+07:00",
+      "fetched": "2026-08-09T21:24:12.047312+07:00"
+    },
+    {
+      "id": "b406d98d2e47395416124bf6065d5b37",
+      "title": "Madam Pang ‘chơi lớn’, đội tuyển Thái Lan nhận cú hích ở bán kết ASEAN Cup",
+      "link": "https://thanhnien.vn/madam-pang-choi-lon-doi-tuyen-thai-lan-nhan-cu-hich-o-ban-ket-asean-cup-185260809192550657.htm",
+      "summary": "Chủ tịch Liên đoàn Bóng đá Thái Lan Nuanphan Lamsam (Madam Pang) quyết định giảm giá vé bán kết ASEAN Cup 2026, động thái được kỳ vọng giúp đội tuyển Thái Lan nhận thêm sự tiếp sức từ khán giả nhà khi tiếp Singapore trên sân Rajamangala.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T12:42:00+07:00",
+      "fetched": "2026-08-09T21:24:14.027028+07:00"
+    },
+    {
+      "id": "ab5043212277f4e2b30b279d7e54c524",
+      "title": "Điểm chuẩn 9 trường, viện thuộc Đại học Đà Nẵng",
+      "link": "https://vnexpress.net/diem-chuan-2026-cua-tat-ca-truong-dai-hoc-thuoc-dai-hoc-da-nang-chi-tiet-5107001.html",
+      "summary": "Ngành Kỹ thuật điều khiển và Tự động hóa ở trường Bách khoa dẫn dầu điểm chuẩn Đại học Đà Nẵng với 27,1/30 điểm; còn lại từ 15 trở lên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T12:36:11+07:00",
+      "fetched": "2026-08-09T21:24:12.047477+07:00"
+    },
+    {
+      "id": "920d2c684588ff1d1859b9012ea4dcc7",
+      "title": "Điểm chuẩn ĐH Khoa học Xã hội và Nhân văn Hà Nội giảm mạnh",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-dai-hoc-quoc-gia-ha-noi-2026-chinh-xac-nhat-5106882.html",
+      "summary": "Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Hà Nội (USSH), lấy điểm chuẩn từ 19 đến 25,5, giảm mạnh so với năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T12:31:55+07:00",
+      "fetched": "2026-08-09T21:24:12.047635+07:00"
     },
     {
       "id": "357b7848d1467cc2352fa1ab47572965",
