@@ -1,7 +1,157 @@
 window.newsData_2026_08_09 = {
   "date": "2026-08-09",
-  "lastUpdated": "2026-08-09T15:30:17.182680+07:00",
+  "lastUpdated": "2026-08-09T17:22:21.561655+07:00",
   "articles": [
+    {
+      "id": "dab7509ba7dd485d0b22c7f06a42419d",
+      "title": "Nghệ sĩ viola Nguyệt Thu, vận động viên Vũ Tiến Mạnh và những câu chuyện tử tế xúc động của tháng 8",
+      "link": "https://tuoitre.vn/nghe-si-viola-nguyet-thu-van-dong-vien-vu-tien-manh-va-nhung-cau-chuyen-tu-te-xuc-dong-cua-thang-8-100260809151641561.htm",
+      "summary": "Mỗi câu chuyện Việc tử tế tháng 8 là một minh chứng cho việc bóng tối có thể che khuất tầm nhìn, nhưng không bao giờ dập tắt được khát vọng cống hiến và làm việc tốt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T17:22:15.577297+07:00",
+      "fetched": "2026-08-09T17:22:15.577396+07:00"
+    },
+    {
+      "id": "db0973136b9c0f5b0c8e28f28b16e56a",
+      "title": "Dự án Bệnh viện Ung bướu Cần Thơ hoàn thành tiến độ xây dựng 90%",
+      "link": "https://tuoitre.vn/du-an-benh-vien-ung-buou-can-tho-hoan-thanh-tien-do-xay-dung-90-10026080915271087.htm",
+      "summary": "Theo thông tin từ chủ đầu tư - Sở Y tế TP Cần Thơ, sau thời gian chính thức tái khởi động dự án Bệnh viện Ung bướu 500 giường, đến nay dự án đạt tiến độ xây dựng khoảng 90%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T17:22:15.577186+07:00",
+      "fetched": "2026-08-09T17:22:15.577278+07:00"
+    },
+    {
+      "id": "efadca2f5a9c9279c1167ae96df8da27",
+      "title": "Gần 12.000 thí sinh đăng ký, điểm chuẩn Trường cao đẳng Kỹ thuật Cao Thắng cao nhất 32 điểm",
+      "link": "https://tuoitre.vn/gan-12000-thi-sinh-dang-ky-diem-chuan-truong-cao-dang-ky-thuat-cao-thang-cao-nhat-32-diem-100260809151704098.htm",
+      "summary": "Với gần 12.000 thí sinh đăng ký hơn 20.000 nguyện vọng, Trường cao đẳng Kỹ thuật Cao Thắng lấy điểm chuẩn từ 15-24, cao nhất là ngành công nghệ kỹ thuật điện, điện tử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T17:22:15.577118+07:00",
+      "fetched": "2026-08-09T17:22:15.577175+07:00"
+    },
+    {
+      "id": "102689bff73857d2c3344c168e0167d9",
+      "title": "Cựu Thứ trưởng Nguyễn Bá Hoan cùng cấp dưới bị xét xử vì nhận 30 tỉ, vụ án đã thu hồi 251 tỉ",
+      "link": "https://tuoitre.vn/cuu-thu-truong-nguyen-ba-hoan-cung-cap-duoi-bi-xet-xu-vi-nhan-30-ti-vu-an-da-thu-hoi-251-ti-100260809154509928.htm",
+      "summary": "Cựu Thứ trưởng Nguyễn Bá Hoan bị cáo buộc biết và \"bỏ mặc\" tình trạng cấp dưới gây khó khăn đối với các doanh nghiệp xuất khẩu lao động, buộc họ phải \"bôi trơn\" tổng số tiền hơn 30 tỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T17:22:15.577048+07:00",
+      "fetched": "2026-08-09T17:22:15.577108+07:00"
+    },
+    {
+      "id": "ea1932ab34a6c0aa317a840c26e938da",
+      "title": "Điểm chuẩn Đại học Quốc gia Hà Nội: 5 ngành sư phạm lấy trên 27 điểm",
+      "link": "https://tuoitre.vn/diem-chuan-dai-hoc-quoc-gia-ha-noi-5-nganh-su-pham-lay-tren-27-diem-100260809150322764.htm",
+      "summary": "Chiều 9-8, nhiều trường thuộc Đại học Quốc gia Hà Nội công bố điểm chuẩn, trong đó 5 ngành đào tạo giáo viên của Trường đại học Giáo dục lấy trên 27 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T17:22:15.576971+07:00",
+      "fetched": "2026-08-09T17:22:15.577038+07:00"
+    },
+    {
+      "id": "73f19b8aa36059644d3892eeea1ba70b",
+      "title": "Clip tài xế xe Kim Liên bị đánh đang 'nóng' mạng xã hội: Công an vào cuộc",
+      "link": "https://tuoitre.vn/clip-tai-xe-xe-kim-lien-bi-danh-dang-nong-mang-xa-hoi-cong-an-vao-cuoc-100260809153911378.htm",
+      "summary": "Ngày 9-8, lãnh đạo phường Bàn Thạch, TP Đà Nẵng cho biết Công an phường đang xác minh thông tin phản ánh trên mạng xã hội về việc một tài xế tố bị đánh trên đường Nguyễn Hoàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T17:22:15.576855+07:00",
+      "fetched": "2026-08-09T17:22:15.576957+07:00"
+    },
+    {
+      "id": "0ba64b6ba54543c77369a50fd2e812b4",
+      "title": "Nghi phạm xả súng ở Thái Lan học dùng súng trên mạng xã hội, từng mang súng hơi đến trường",
+      "link": "https://tuoitre.vn/nghi-pham-xa-sung-o-thai-lan-hoc-dung-sung-tren-mang-xa-hoi-tung-mang-sung-hoi-den-truong-100260809155432194.htm",
+      "summary": "Nam sinh 14 tuổi bị cáo buộc gây ra vụ xả súng ở Thái Lan đã xem các nội dung bạo lực trên mạng xã hội, từng bị giáo viên tịch thu một khẩu súng hơi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T17:22:15.576731+07:00",
+      "fetched": "2026-08-09T17:22:15.576833+07:00"
+    },
+    {
+      "id": "c812af6a214374aebd5466652fdadd74",
+      "title": "Điểm chuẩn Trường đại học Giao thông vận tải TP.HCM cao nhất 1.080/1.200",
+      "link": "https://tuoitre.vn/diem-chuan-truong-dai-hoc-giao-thong-van-tai-tphcm-cao-nhat-1080-1200-100260809160848229.htm",
+      "summary": "Trường đại học Giao thông vận tải TP.HCM vừa công bố điểm chuẩn, trong đó ngành công nghệ kỹ thuật điều khiển và tự động hóa - chương trình tiên tiến cao nhất với 1.080/1.200 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T17:22:15.576384+07:00",
+      "fetched": "2026-08-09T17:22:15.576712+07:00"
+    },
+    {
+      "id": "9567068828fb5cda4ad75f2c900c4382",
+      "title": "Điểm chuẩn Trường đại học Đà Lạt cao nhất 24,8 điểm, nhóm sư phạm dẫn đầu",
+      "link": "https://tuoitre.vn/diem-chuan-dai-hoc-da-lat-cao-nhat-248-diem-nhom-su-pham-dan-dau-100260809160843357.htm",
+      "summary": "Trường đại học Đà Lạt công bố điểm chuẩn 41 ngành, trong đó sư phạm toán cao nhất 24,8 điểm, tiếp đến sư phạm lịch sử 24,7 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T17:22:15.576315+07:00",
+      "fetched": "2026-08-09T17:22:15.576374+07:00"
+    },
+    {
+      "id": "fed348dde25db488205346bc12f2d7b5",
+      "title": "Mỹ yêu cầu tăng tốc sản xuất vũ khí chủ chốt giữa căng thẳng với Iran",
+      "link": "https://tuoitre.vn/my-yeu-cau-tang-toc-san-xuat-vu-khi-chu-chot-giua-cang-thang-voi-iran-100260809153011937.htm",
+      "summary": "Lầu Năm Góc yêu cầu các hãng quốc phòng trong nước tăng tốc sản xuất nhiều hệ thống vũ khí quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T17:22:15.576244+07:00",
+      "fetched": "2026-08-09T17:22:15.576304+07:00"
+    },
+    {
+      "id": "dbd40f3d5b7e37849cdc3ea63b3752c8",
+      "title": "Chiếc chìa khóa gửi lại",
+      "link": "https://tuoitre.vn/chiec-chia-khoa-gui-lai-10026080916181667.htm",
+      "summary": "Hồi trước, tôi luôn nghĩ chiếc chìa khóa nhà là vật bất ly thân, tuyệt đối không được đưa cho ai khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T17:22:15.576170+07:00",
+      "fetched": "2026-08-09T17:22:15.576233+07:00"
+    },
+    {
+      "id": "ccc1468ddb930e05e3bcab2c2a61a2f6",
+      "title": "400 người dân Tuyên Quang làm diễn viên, cho mượn hơn 60 thuyền làm show thực cảnh",
+      "link": "https://tuoitre.vn/400-nguoi-dan-tuyen-quang-lam-dien-vien-cho-muon-hon-60-thuyen-lam-show-thuc-canh-100260809164148146.htm",
+      "summary": "Khoảng 400 người dân Tuyên Quang tham gia show thực cảnh Long mạch Nà Hang: Huyền thoại trên mặt nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T17:22:15.576092+07:00",
+      "fetched": "2026-08-09T17:22:15.576158+07:00"
+    },
+    {
+      "id": "061579d8e814028092f20fc0f79aa27f",
+      "title": "Bão Dolphin áp sát miền đông Trung Quốc, Thượng Hải hủy gần 60% chuyến bay",
+      "link": "https://tuoitre.vn/bao-dolphin-ap-sat-mien-dong-trung-quoc-thuong-hai-huy-gan-60-chuyen-bay-100260809161559044.htm",
+      "summary": "Thượng Hải hủy gần 60% chuyến bay trong ngày 9-8 khi bão Dolphin áp sát miền đông Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T17:22:15.576020+07:00",
+      "fetched": "2026-08-09T17:22:15.576081+07:00"
+    },
+    {
+      "id": "13a53462ac92fe53fc90302aa6d0e61a",
+      "title": "Vance, Rubio, Iran và những câu hỏi ở Nhà Trắng",
+      "link": "https://tuoitre.vn/vance-rubio-iran-va-nhung-cau-hoi-o-nha-trang-10026080916264224.htm",
+      "summary": "Sau 5 tháng chiến sự với Iran, nhiều dấu hiệu rạn nứt trong đội ngũ lãnh đạo cấp cao của Nhà Trắng đã bộc lộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T17:22:15.575941+07:00",
+      "fetched": "2026-08-09T17:22:15.576009+07:00"
+    },
+    {
+      "id": "bf3d6a836a060817f3fa27fd014e51d8",
+      "title": "Điểm chuẩn Trường ĐH Kinh tế - Luật 6 ngành từ 85 điểm trở lên, nhiều ‘kỷ lục’",
+      "link": "https://tuoitre.vn/diem-chuan-truong-dh-kinh-te-luat-6-nganh-tu-85-diem-tro-len-nhieu-ky-luc-100260809165547261.htm",
+      "summary": "Trường đại học Kinh tế - Luật (Đại học Quốc gia TP.HCM) vừa công bố điểm chuẩn đại học chính quy năm 2026 dao động từ 65,01 đến 90,01 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T17:22:15.575791+07:00",
+      "fetched": "2026-08-09T17:22:15.575926+07:00"
+    },
     {
       "id": "6465b2060a4826a25241a47ba2b63545",
       "title": "Xóa sạch lỗ lũy kế, thách thức cho EVN vào top 500 doanh nghiệp toàn cầu, mỗi năm lãi 3%",
@@ -603,6 +753,356 @@ window.newsData_2026_08_09 = {
       "fetched": "2026-08-09T10:23:46.676738+07:00"
     },
     {
+      "id": "6fa833ff426d0c7fa2f767547b66d618",
+      "title": "Chiến sĩ công an bị thương khi truy đuổi băng trộm chó",
+      "link": "https://thanhnien.vn/chien-si-cong-an-bi-thuong-khi-truy-duoi-bang-trom-cho-185260809162951907.htm",
+      "summary": "Khi truy đuổi băng nhóm trộm chó, một chiến sĩ Công an xã An Thạnh, thành phố Cần Thơ, bị kẻ xấu dùng dụng cụ tự chế bắn vào vùng ngực rồi tẩu thoát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T10:21:00+07:00",
+      "fetched": "2026-08-09T17:22:14.291617+07:00"
+    },
+    {
+      "id": "8d6b4bab7c259a527332e741fbf35187",
+      "title": "Nhiều trường trực thuộc ĐH Quốc gia Hà Nội đã công bố điểm chuẩn",
+      "link": "https://thanhnien.vn/nhieu-truong-truc-thuoc-dh-quoc-gia-ha-noi-da-cong-bo-diem-chuan-18526080916581316.htm",
+      "summary": "Các trường và trường đại học trực thuộc ĐH Quốc gia Hà Nội như Y dược, Khoa học tự nhiên, Kinh tế, Việt Nhật, Quản trị kinh doanh… đã công bố điểm chuẩn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T10:20:00+07:00",
+      "fetched": "2026-08-09T17:22:14.291819+07:00"
+    },
+    {
+      "id": "2d7f58de405c794ab58b267def4c15a8",
+      "title": "Ngành y khoa và răng hàm mặt dẫn đầu điểm chuẩn Trường ĐH Nguyễn Tất Thành",
+      "link": "https://thanhnien.vn/nganh-y-khoa-va-rang-ham-mat-dan-dau-diem-chuan-truong-dh-nguyen-tat-thanh-185260809164848832.htm",
+      "summary": "Các ngành học thuộc khối sức khỏe của Trường ĐH Nguyễn Tất Thành có điểm chuẩn cao dẫn đầu trong tổng số 70 ngành. Trong đó, y khoa và răng hàm mặt cao nhất ở cả 4 phương thức xét tuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T10:20:00+07:00",
+      "fetched": "2026-08-09T17:22:14.291984+07:00"
+    },
+    {
+      "id": "8d00cc4523436200eaf30c9bee216753",
+      "title": "Điểm chuẩn Trường ĐH Y khoa Phạm Ngọc Thạch: Ngành y khoa lấy 25,8 điểm",
+      "link": "https://thanhnien.vn/diem-chuan-truong-dh-y-khoa-pham-ngoc-thach-nganh-y-khoa-lay-258-diem-185260809144627657.htm",
+      "summary": "Điểm chuẩn ngành y khoa Trường ĐH Y khoa Phạm Ngọc Thạch năm 2026 lấy ở mức 25,8 điểm, kèm theo tiêu chí phụ điểm môn toán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T10:14:00+07:00",
+      "fetched": "2026-08-09T17:22:14.292145+07:00"
+    },
+    {
+      "id": "093ef3ee23306bc6165e55f231c78258",
+      "title": "Điểm chuẩn 12 trường thuộc Đại học Quốc gia Hà Nội",
+      "link": "https://vnexpress.net/diem-chuan-tat-ca-truong-thuoc-dai-hoc-quoc-gia-ha-noi-vnu-2026-kem-hoc-phi-cap-nhat-nhat-5106999.html",
+      "summary": "Nhiều ngành của trường Đại học Giáo dục và Y Dược, Đại học Quốc gia Hà Nội có điểm chuẩn trên 27, Sư phạm Toán học đang dẫn đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T10:12:59+07:00",
+      "fetched": "2026-08-09T17:22:11.880306+07:00"
+    },
+    {
+      "id": "5501c57076e874c2bb285274eeef7f78",
+      "title": "Điểm chuẩn Đại học Cần Thơ cao nhất 28,12",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-can-tho-ctu-2026-kem-hoc-phi-chinh-xac-nhat-5106956.html",
+      "summary": "Điểm chuẩn năm 2026 của Đại học Cần Thơ từ 15 đến 28,12, cao nhất là ngành Sư phạm Toán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T10:12:32+07:00",
+      "fetched": "2026-08-09T17:22:11.880497+07:00"
+    },
+    {
+      "id": "6d5ae32920392cbcda55ae868c9269b1",
+      "title": "Điểm chuẩn Trường ĐH Kinh tế-Luật: 6 ngành từ 85/100 điểm trở lên",
+      "link": "https://thanhnien.vn/diem-chuan-truong-dh-kinh-te-luat-6-nganh-tu-85-100-diem-tro-len-185260809141924813.htm",
+      "summary": "Theo thang điểm xét tuyển 100, điểm chuẩn 2026 của Trường ĐH Kinh tế-Luật dao động từ 65,01 đến 90,01 điểm. Ngành có điểm chuẩn cao nhất là kinh doanh quốc tế (chuyên ngành quản lý chuỗi cung ứng và logistics quốc tế) với 90,01 điểm - tức trung bình thí sinh phải đạt hơn 9 điểm mỗi môn quy đổi mới t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T10:12:00+07:00",
+      "fetched": "2026-08-09T17:22:14.292305+07:00"
+    },
+    {
+      "id": "2d821aaec6dede33364895555cf776eb",
+      "title": "Điểm chuẩn Trường ĐH Đà Lạt: Sư phạm toán cao nhất, 24,8 điểm",
+      "link": "https://thanhnien.vn/diem-chuan-truong-dh-da-lat-su-pham-toan-cao-nhat-248-diem-185260809163740298.htm",
+      "summary": "Ngày 9.8, Trường ĐH Đà Lạt vừa công bố điểm chuẩn trúng tuyển đại học chính quy năm 2026 theo kết quả thi tốt nghiệp THPT, học bạ THPT và kết quả các kỳ thi đánh giá năng lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T10:07:00+07:00",
+      "fetched": "2026-08-09T17:22:14.292464+07:00"
+    },
+    {
+      "id": "30e43318401245d3e04fb32be2e54176",
+      "title": "Sư phạm Toán dẫn đầu điểm chuẩn Đại học Giáo dục",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-giao-duc-ued-moi-nhat-5107077.html",
+      "summary": "5/12 ngành ở trường Đại học Giáo dục, Đại học Quốc gia Hà Nội (UEd) lấy điểm chuẩn trên 27, cao nhất là Sư phạm Toán học với 27,55/30.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T10:04:07+07:00",
+      "fetched": "2026-08-09T17:22:11.880697+07:00"
+    },
+    {
+      "id": "a6bcc17ac8cc51bf4d97ec33148012f0",
+      "title": "Hé lộ thêm chi tiết về nghi phạm xả súng trường học Thái Lan",
+      "link": "https://thanhnien.vn/he-lo-them-chi-tiet-ve-nghi-pham-xa-sung-truong-hoc-thai-lan-185260809170055894.htm",
+      "summary": "Cảnh sát Thái Lan cho biết thiếu niên 14 tuổi gây ra vụ xả súng rúng động tại trường học ở ngoại ô Bangkok từng bị giáo viên tịch thu súng hơi vào năm 2025 và thường xuyên xem nội dung bạo lực trên mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T10:04:00+07:00",
+      "fetched": "2026-08-09T17:22:14.292627+07:00"
+    },
+    {
+      "id": "a10e92b0423700ff6411d444645623d5",
+      "title": "Chiều tối nay, TP.HCM và Nam bộ tiếp tục có mưa lớn",
+      "link": "https://thanhnien.vn/chieu-toi-nay-tphcm-va-nam-bo-tiep-tuc-co-mua-lon-185260809165542548.htm",
+      "summary": "Chiều nay, mây giông tiếp tục phát triển gây mưa lớn ở nhiều khu vực trên địa bàn TP.HCM, Nam bộ và Tây nguyên, cục bộ có nơi trên 70mm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T10:04:00+07:00",
+      "fetched": "2026-08-09T17:22:14.292810+07:00"
+    },
+    {
+      "id": "cea1baab2df4589762e6ff390b47bd61",
+      "title": "Cựu sao NBA chuyển giới, muốn thi đấu ở giải bóng rổ nữ",
+      "link": "https://vnexpress.net/cuu-sao-nba-chuyen-gioi-muon-thi-dau-o-giai-bong-ro-nu-5106899.html",
+      "summary": "Hai cựu cầu thủ NBA Royce White, Enes Kanter Freedom tuyên bố muốn tham dự WNBA Draft 2027, trong bối cảnh tranh cãi về việc VĐV chuyển giới tham gia các giải đấu thể thao nữ tiếp tục gây chia rẽ tại Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T10:01:07+07:00",
+      "fetched": "2026-08-09T17:22:11.880871+07:00"
+    },
+    {
+      "id": "cea1baab2df4589762e6ff390b47bd61",
+      "title": "Cựu sao NBA chuyển giới, muốn thi đấu ở giải bóng rổ nữ",
+      "link": "https://vnexpress.net/cuu-sao-nba-chuyen-gioi-muon-thi-dau-o-giai-bong-ro-nu-5106899.html",
+      "summary": "Hai cựu cầu thủ NBA Royce White, Enes Kanter Freedom tuyên bố muốn tham dự WNBA Draft 2027, trong bối cảnh tranh cãi về việc VĐV chuyển giới tham gia các giải đấu thể thao nữ tiếp tục gây chia rẽ tại Mỹ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-09T10:01:07+07:00",
+      "fetched": "2026-08-09T17:22:21.551551+07:00"
+    },
+    {
+      "id": "afac0ff979bd9ae9b4c18eee8a80b9e7",
+      "title": "Điểm tin 17h: Miền Bắc và Trung nắng nóng kéo dài | Điểm chuẩn 30/30 ở ngành AI",
+      "link": "https://vnexpress.net/diem-tin-17h-mien-bac-va-trung-nang-nong-keo-dai-diem-chuan-30-30-o-nganh-ai-5107081.html",
+      "summary": "Bảo Tín Mạnh Hải và Mi Hồng lên tiếng sau kết luận thanh tra của Chính phủ; Vé máy bay đi Singapore, Thái Lan giảm sâu trong mùa hè...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T10:01:05+07:00",
+      "fetched": "2026-08-09T17:22:11.881044+07:00"
+    },
+    {
+      "id": "a7cd3e2d9f12e539197651d9bb649804",
+      "title": "Vụ bạo hành con riêng của nhân tình: Trưởng công an phường Bình Phước lên tiếng",
+      "link": "https://thanhnien.vn/vu-bao-hanh-con-rieng-cua-nhan-tinh-truong-cong-an-phuong-binh-phuoc-len-tieng-185260809123636595.htm",
+      "summary": "Trưởng công an phường Bình Phước cho biết, ngay khi tiếp nhận tin báo bé gái bị bạo hành, lực lượng công an đã khẩn trương đến hiện trường xác minh, ngăn chặn hậu quả tiếp diễn; vụ án sau đó được khởi tố, nghi can bị bắt tạm giam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T10:01:00+07:00",
+      "fetched": "2026-08-09T17:22:14.292965+07:00"
+    },
+    {
+      "id": "641b7283b5185483e072cc8ce3f63dc6",
+      "title": "Tham vọng của startup do 'quái kiệt AI' người Việt đồng sáng lập",
+      "link": "https://vnexpress.net/tham-vong-cua-startup-do-quai-kiet-ai-nguoi-viet-dong-sang-lap-5106974.html",
+      "summary": "Discovery Loop, do nhóm cựu lãnh đạo lâu năm Google, gồm TS Lê Viết Quốc, sáng lập hướng mục tiêu \"giải quyết các vấn đề khó nhất của nhân loại\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T10:00:00+07:00",
+      "fetched": "2026-08-09T17:22:11.881207+07:00"
+    },
+    {
+      "id": "56ac057be66e594d42f5a2d49850a5d0",
+      "title": "Toàn cảnh 17h: Nhiều trường đại học công bố điểm chuẩn | Mi Hồng và Bảo Tín Mạnh Hải nói gì sau kết luận thanh tra?",
+      "link": "https://thanhnien.vn/toan-canh-17h-nhieu-truong-dai-hoc-cong-bo-diem-chuan-my-hong-va-bao-tin-manh-hai-noi-gi-sau-ket-luan-thanh-tra-185260809152541454.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T10:00:00+07:00",
+      "fetched": "2026-08-09T17:22:14.293116+07:00"
+    },
+    {
+      "id": "5f75f878efe0f08b72cec3bce8954ee1",
+      "title": "Đại học Kinh tế - Luật lấy điểm chuẩn cao nhất 90,01/100",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-luat-uel-2026-kem-hoc-phi-chi-tiet-nhat-5107013.html",
+      "summary": "Hầu hết ngành đào tạo của trường Đại học Kinh tế - Luật (UEL) lấy điểm chuẩn 80/100 trở lên, cao nhất là ngành Kinh doanh quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T09:58:01+07:00",
+      "fetched": "2026-08-09T17:22:11.881364+07:00"
+    },
+    {
+      "id": "df42d65c5fd8adafe9ea6ea0aec49824",
+      "title": "Xổ số miền Nam ngày 9 tháng 8: Có hai người trúng dãy 333333 đài Tiền Giang",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-9-thang-8-co-hai-nguoi-trung-day-333333-dai-tien-giang-185260809165449034.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 9 tháng 8, người chơi xổ số thích thú phát hiện những tờ có dãy số đẹp 333333 trúng đài Tiền Giang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T09:56:00+07:00",
+      "fetched": "2026-08-09T17:22:14.293265+07:00"
+    },
+    {
+      "id": "852524eae6cd030d7eac43fe672d5f21",
+      "title": "HLV Malaysia: 'Không thắng Việt Nam đã thành thói quen'",
+      "link": "https://vnexpress.net/hlv-malaysia-khong-thang-viet-nam-da-thanh-thoi-quen-5107080.html",
+      "summary": "HLV Tan Cheng Hoe thừa nhận Việt Nam là đối thủ khó nhằn và trên cơ Malaysia tại bán kết ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T09:54:55+07:00",
+      "fetched": "2026-08-09T17:22:11.881521+07:00"
+    },
+    {
+      "id": "852524eae6cd030d7eac43fe672d5f21",
+      "title": "HLV Malaysia: 'Không thắng Việt Nam đã thành thói quen'",
+      "link": "https://vnexpress.net/hlv-malaysia-khong-thang-viet-nam-da-thanh-thoi-quen-5107080.html",
+      "summary": "HLV Tan Cheng Hoe thừa nhận Việt Nam là đối thủ khó nhằn và trên cơ Malaysia tại bán kết ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-09T09:54:55+07:00",
+      "fetched": "2026-08-09T17:22:21.550526+07:00"
+    },
+    {
+      "id": "417f0c119679948d8c68585aefbfea07",
+      "title": "Dấu ấn cá nhân lên ngôi trong các 'đơn hàng' của Gen Z",
+      "link": "https://thanhnien.vn/dau-an-ca-nhan-len-ngoi-trong-cac-don-hang-cua-gen-z-185260807143507037.htm",
+      "summary": "Thay vì chọn mua một sản phẩm đã hoàn thiện, nhiều bạn trẻ ngày nay tìm đến các cửa hàng để được trực tiếp sáng tạo và trải nghiệm quy trình làm ra những sản phẩm của riêng mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T09:54:00+07:00",
+      "fetched": "2026-08-09T17:22:14.293415+07:00"
+    },
+    {
+      "id": "4bc8c360079cbc592ac8da29439f7e53",
+      "title": "Điểm chuẩn Trường ĐH Kinh tế - Tài chính TP.HCM: Nhóm ngành nào cao nhất?",
+      "link": "https://thanhnien.vn/diem-chuan-truong-dh-kinh-te-tai-chinh-tphcm-nhom-nganh-nao-cao-nhat-18526080916280622.htm",
+      "summary": "Rất nhiều ngành 'hot' tại Trường ĐH Kinh tế - Tài chính TP.HCM có mức điểm chuẩn 15 như khoa học dữ liệu, kỹ thuật phần mềm, digital marketing, kinh doanh quốc tế...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T09:53:00+07:00",
+      "fetched": "2026-08-09T17:22:14.293572+07:00"
+    },
+    {
+      "id": "e0b3663773249ec103d6c97094b953c2",
+      "title": "TLC TechVerse 2026 quy tụ loạt phụ kiện công nghệ, giải pháp sạc mới",
+      "link": "https://thanhnien.vn/tlc-techverse-2026-quy-tu-loat-phu-kien-cong-nghe-giai-phap-sac-moi-185260809163112347.htm",
+      "summary": "Sự kiện TLC TechVerse 2026 do TLC Trading tổ chức quy tụ 4 thương hiệu MicroPack, UNIQ, SKINARMA và Mazer, giới thiệu loạt phụ kiện công nghệ, thiết bị ngoại vi và giải pháp sạc hướng đến nhu cầu làm việc, giải trí và di động của người dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T09:52:00+07:00",
+      "fetched": "2026-08-09T17:22:14.293759+07:00"
+    },
+    {
+      "id": "81777092cf30ab34534d5b1bb15db518",
+      "title": "Truy đuổi, chém người cầm vợt vì nghi trộm chó",
+      "link": "https://vnexpress.net/truy-duoi-chem-nguoi-cam-vot-vi-nghi-trom-cho-5107071.html",
+      "summary": "Thấy thanh niên mang theo vợt thường dùng trộm chó, Nguyễn Văn Phước cùng người nhà đuổi theo, chém trọng thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T09:49:12+07:00",
+      "fetched": "2026-08-09T17:22:11.881704+07:00"
+    },
+    {
+      "id": "5a4d6148db99548c72b6a17d01c6139e",
+      "title": "Điểm chuẩn Đại học Kinh tế TP HCM sát mốc 100/100",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-tp-hcm-nam-2026-chi-tiet-nhat-5106979.html",
+      "summary": "Ngành Logistics và Quản lý chuỗi cung ứng lấy điểm chuẩn 97/100, cao nhất Đại học Kinh tế TP HCM (UEH) trong năm đầu xét tuyển tổng hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T09:46:45+07:00",
+      "fetched": "2026-08-09T17:22:11.881873+07:00"
+    },
+    {
+      "id": "2eada8d1a0924b9a886d000906ea5c26",
+      "title": "Lãnh đạo Cần Thơ: Nhà cao tầng không nói lên thành phố hiện đại",
+      "link": "https://thanhnien.vn/lanh-dao-can-tho-nha-cao-tang-khong-noi-len-thanh-pho-hien-dai-185260809152120495.htm",
+      "summary": "Lãnh đạo Cần Thơ cho rằng thành phố có dấu ấn 'sông nước' cần phát huy đặc điểm nhận diện này, không nhất thiết phải lấy mô hình đô thị nơi khác áp vào. Không phải nhìn đâu cũng thấy nhà cao tầng mới gọi là hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T09:46:00+07:00",
+      "fetched": "2026-08-09T17:22:14.293914+07:00"
+    },
+    {
+      "id": "8c2ebfa94dc898ef7bb634212fd4a09b",
+      "title": "Điểm chuẩn Đại học Bách khoa Đà Nẵng vượt 27",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-bach-khoa-da-nang-2026-chi-tiet-nhat-5106992.html",
+      "summary": "Chương trình kỹ sư tài năng Kỹ thuật điều khiển và tự động hóa lấy điểm chuẩn 27,1/30, cao nhất trường Đại học Bách khoa Đà Nẵng, nhiều ngành khác trên 26.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T09:43:02+07:00",
+      "fetched": "2026-08-09T17:22:11.882044+07:00"
+    },
+    {
+      "id": "b1890870075cc42aab1987b4331671ba",
+      "title": "Trường Y đầu tiên công bố điểm chuẩn",
+      "link": "https://vnexpress.net/diem-chuan-truong-dai-hoc-y-duoc-dai-hoc-quoc-gia-ha-noi-tu-22-51-den-27-43-5107074.html",
+      "summary": "Điểm chuẩn trường Đại học Y Dược, Đại học Quốc gia Hà Nội (UMP) từ 22,51 đến 27,43, tăng so với năm ngoái, ngành Y khoa vẫn dẫn đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T09:36:25+07:00",
+      "fetched": "2026-08-09T17:22:11.882201+07:00"
+    },
+    {
+      "id": "1704b80deab9a0551bdceab10a185db1",
+      "title": "Điểm chuẩn Đại học Thủy lợi từ 19 đến 24,64",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-thuy-loi-tu-19-den-24-64-5106971.html",
+      "summary": "Trường Đại học Thủy lợi (TLU) lấy điểm chuẩn từ 19 đến 24,64, cao nhất là ngành Kỹ thuật điều khiển và tự động hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T09:23:41+07:00",
+      "fetched": "2026-08-09T17:22:11.882459+07:00"
+    },
+    {
+      "id": "366029f606c07e52f98c082988d1d1ed",
+      "title": "Địa hình hiểm trở ở Mũi Nghê, nơi 4 du khách rơi xuống biển",
+      "link": "https://vnexpress.net/dia-hinh-hiem-tro-o-mui-nghe-noi-4-du-khach-roi-xuong-bien-5107066.html",
+      "summary": "Nằm trong bán đảo Sơn Trà, Mũi Nghê là điểm du lịch tự phát hiểm trở với đường rừng dễ lạc, vách đá dựng đứng cùng bãi đá trơn trượt, sóng lớn nguy hiểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T09:15:18+07:00",
+      "fetched": "2026-08-09T17:22:11.882672+07:00"
+    },
+    {
+      "id": "182ace27c874d07b51ad253a804a8aea",
+      "title": "Việt Nam để quốc tang tưởng nhớ Chủ tịch Quốc hội Lào",
+      "link": "https://vnexpress.net/viet-nam-de-quoc-tang-tuong-nho-chu-tich-quoc-hoi-lao-5107067.html",
+      "summary": "Việt Nam sẽ để tang Chủ tịch Quốc hội Lào Xaysomphone Phomvihane theo nghi thức quốc tang trong ngày 10-11/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T09:11:27+07:00",
+      "fetched": "2026-08-09T17:22:11.882835+07:00"
+    },
+    {
+      "id": "182ace27c874d07b51ad253a804a8aea",
+      "title": "Việt Nam để quốc tang tưởng nhớ Chủ tịch Quốc hội Lào",
+      "link": "https://vnexpress.net/viet-nam-de-quoc-tang-tuong-nho-chu-tich-quoc-hoi-lao-5107067.html",
+      "summary": "Việt Nam sẽ để tang Chủ tịch Quốc hội Lào Xaysomphone Phomvihane theo nghi thức quốc tang trong ngày 10-11/8.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-09T09:11:27+07:00",
+      "fetched": "2026-08-09T17:22:16.396199+07:00"
+    },
+    {
+      "id": "8f11519ae46d713154d5c36716472387",
+      "title": "Bảo Tín Mạnh Hải và Mi Hồng lên tiếng sau kết luận thanh tra của Chính phủ",
+      "link": "https://vnexpress.net/bao-tin-manh-hai-va-mi-hong-len-tieng-sau-ket-luan-thanh-tra-cua-chinh-phu-5107038.html",
+      "summary": "Bảo Tín Mạnh Hải, Mi Hồng cho biết mọi hoạt động kinh doanh vẫn diễn ra bình thường, khẳng định kết luận của Thanh tra Chính phủ là cơ sở nâng cao chất lượng quản trị và tính tuân thủ pháp luật.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-09T08:59:15+07:00",
+      "fetched": "2026-08-09T17:22:17.782335+07:00"
+    },
+    {
+      "id": "90465a5f5f3482828b48ccf9a15bdd75",
+      "title": "Chuyên gia chỉ cách để doanh nghiệp Việt 'lớn nhanh mà không vỡ'",
+      "link": "https://vnexpress.net/chuyen-gia-chi-cach-de-doanh-nghiep-viet-lon-nhanh-ma-khong-vo-5106905.html",
+      "summary": "Theo các chuyên gia, doanh nghiệp Việt \"muốn lớn\" phải có năng lực tăng trưởng nhanh, tức khả năng tăng trưởng nhiều lần mà vẫn vận hành tốt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-09T08:46:08+07:00",
+      "fetched": "2026-08-09T17:22:20.308286+07:00"
+    },
+    {
       "id": "4956bc31c537f30eb1f05110a50d164b",
       "title": "Thông điệp lớn ở ngã ba biên giới",
       "link": "https://thanhnien.vn/thong-diep-lon-o-nga-ba-bien-gioi-185260809140706936.htm",
@@ -1071,6 +1571,16 @@ window.newsData_2026_08_09 = {
       "category": "Công nghệ",
       "published": "2026-08-09T07:00:00+07:00",
       "fetched": "2026-08-09T15:30:15.298549+07:00"
+    },
+    {
+      "id": "3846828d74ce5fd46282777a1bc59f98",
+      "title": "Đại hội võ thuật tại Hà Nội",
+      "link": "https://vnexpress.net/dai-hoi-vo-thuat-tai-ha-noi-5107004.html",
+      "summary": "Ngày 8/8, tại Khu Di sản Thế giới Hoàng thành Thăng Long (Hà Nội), trong khuôn khổ Festival Võ thuật Quốc tế Hà Nội 2026, diễn ra hoạt động giao lưu, biểu diễn võ thuật của các môn phái, võ phái, võ đường Hà Nội cùng các đoàn trong nước và quốc tế",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-09T07:00:00+07:00",
+      "fetched": "2026-08-09T17:22:21.550737+07:00"
     },
     {
       "id": "714e6940b4b9cfcd7ce65f73e6e7c591",
