@@ -1,6 +1,6 @@
 window.newsData_2026_08_10 = {
   "date": "2026-08-10",
-  "lastUpdated": "2026-08-10T03:19:59.738187+07:00",
+  "lastUpdated": "2026-08-10T05:19:43.636250+07:00",
   "articles": [
     {
       "id": "860f7bb701b78cc21b8ef648c651cbbc",
@@ -151,6 +151,236 @@ window.newsData_2026_08_10 = {
       "category": "Tổng hợp",
       "published": "2026-08-10T01:25:01.249478+07:00",
       "fetched": "2026-08-10T01:25:01.249614+07:00"
+    },
+    {
+      "id": "9ba4b78ca3fef8f1ae5735d73c62520c",
+      "title": "Thượng viện Mỹ thúc đẩy dự luật tiền kỹ thuật số",
+      "link": "https://thanhnien.vn/thuong-vien-my-thuc-day-du-luat-tien-ky-thuat-so-18526080921451547.htm",
+      "summary": "Lãnh đạo phe đa số tại Thượng viện Mỹ John Thune ngày 8.8 có động thái thúc đẩy Đạo luật Clarity, một dự luật quan trọng nhằm thiết lập khung pháp lý cho tiền kỹ thuật số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T22:19:00+07:00",
+      "fetched": "2026-08-10T05:19:36.272768+07:00"
+    },
+    {
+      "id": "1bbfb6c0e2a4e23d19edc82703a775c9",
+      "title": "Tử vi ngày 10 tháng 8: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-10-thang-8-con-giap-nao-may-man-hom-nay-185260809225659116.htm",
+      "summary": "Tử vi ngày 10 tháng 8 mang đến những gợi ý tham khảo cho 12 con giáp. Tử vi hôm nay khuyên bạn tận dụng những giờ đầu ngày để giải quyết việc quan trọng, từ một cuộc gọi còn ngại thực hiện đến nhiệm vụ khó nhất trong danh sách. Khởi động tốt có thể tạo đà thuận lợi cho cả ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T22:15:00+07:00",
+      "fetched": "2026-08-10T05:19:36.272938+07:00"
+    },
+    {
+      "id": "0f727b1eae1d60b68f5572a0aa6307a4",
+      "title": "Băn khoăn suất ăn công nghiệp",
+      "link": "https://thanhnien.vn/ban-khoan-suat-an-cong-nghiep-185260809165031253.htm",
+      "summary": "Theo bạn đọc Báo Thanh Niên, cần thiết hỗ trợ, giám sát để suất ăn công nghiệp cung cấp cho công nhân, học sinh đảm bảo an toàn thực phẩm, đủ dinh dưỡng, đồng thời cân bằng lợi ích các bên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T22:15:00+07:00",
+      "fetched": "2026-08-10T05:19:36.273095+07:00"
+    },
+    {
+      "id": "1a3211fd1d4df0e21ebd129622fe3f6b",
+      "title": "Trưởng thôn hành động: Nhớ tên gần 3.000 người dân",
+      "link": "https://thanhnien.vn/truong-thon-hanh-dong-nho-ten-gan-3000-nguoi-dan-185260809222005312.htm",
+      "summary": "Nhớ tên gần 3.000 nhân khẩu trong thôn, trưởng thôn Phạm Văn Long (41 tuổi, thôn Mỹ Phú 1, xã Ô Loan, Đắk Lắk) là điểm tựa của người dân trong những ngày lũ dữ và hành trình dựng lại cuộc sống sau thiên tai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T22:12:00+07:00",
+      "fetched": "2026-08-10T05:19:36.273251+07:00"
+    },
+    {
+      "id": "8179f1ea1fa66488b2d97066864dd06c",
+      "title": "Cảm nhẹ mùa mưa, bác sĩ chỉ 5 huyệt vị giúp giảm đau đầu, nghẹt mũi",
+      "link": "https://thanhnien.vn/cam-nhe-mua-mua-bac-si-chi-5-huyet-vi-giup-giam-dau-dau-nghet-mui-185260803194820219.htm",
+      "summary": "Thời tiết mưa ẩm khiến nhiều người xuất hiện các triệu chứng cảm nhẹ. Bác sĩ hướng dẫn 5 huyệt vị có thể tự day ấn tại nhà để hỗ trợ giảm khó chịu, đồng thời chỉ ra những lưu ý khi tự bấm huyệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T22:12:00+07:00",
+      "fetched": "2026-08-10T05:19:36.273440+07:00"
+    },
+    {
+      "id": "aa62a6fd7c2331168456d3f8b9113479",
+      "title": "Chiến sự Ukraine ngày 1.626: Ông Zelensky nói Triều Tiên sắp đưa hàng vạn binh sĩ đến Nga",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1626-ong-zelensky-noi-trieu-tien-sap-dua-hang-van-binh-si-den-nga-185260809205246435.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky hôm 9.8 ước tính rằng CHDCND Triều Tiên chuẩn bị triển khai tối đa 50.000 binh sĩ đến Nga, và Ukraine kêu gọi Hàn Quốc hỗ trợ nước này tăng cường năng lực phòng không.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T22:10:00+07:00",
+      "fetched": "2026-08-10T05:19:36.273599+07:00"
+    },
+    {
+      "id": "3411f9e0e7e6a75bb11e12b7cd692375",
+      "title": "Trung Quốc ngày càng giảm phụ thuộc hàng hóa Đức",
+      "link": "https://vnexpress.net/trung-quoc-ngay-cang-giam-phu-thuoc-hang-hoa-duc-5107115.html",
+      "summary": "Từng tiêu thụ hàng Đức nhiều thứ hai, nhu cầu của Trung Quốc ngày càng giảm, nhờ dần tự chủ khỏi chuỗi cung ứng công nghiệp châu Âu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T22:00:00+07:00",
+      "fetched": "2026-08-10T05:19:33.691259+07:00"
+    },
+    {
+      "id": "0a8636a826f0d3ce37619eaace7481f2",
+      "title": "Gan nhiễm mỡ - bệnh không thể dùng thuốc tan cấp tốc",
+      "link": "https://vnexpress.net/gan-nhiem-mo-benh-khong-the-dung-thuoc-tan-cap-toc-5106926.html",
+      "summary": "Gan nhiễm mỡ không đơn thuần là bệnh của riêng lá gan, không có bất kỳ loại thuốc hay thực phẩm chức năng nào có khả năng làm tan mỡ gan cấp tốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T22:00:00+07:00",
+      "fetched": "2026-08-10T05:19:33.691467+07:00"
+    },
+    {
+      "id": "9034ad58f6d4e87763831d1f253f7591",
+      "title": "Bài học giúp người Nhật giảm thiểu thiệt hại trong động đất",
+      "link": "https://vnexpress.net/bai-hoc-giup-nguoi-nhat-giam-thieu-thiet-hai-trong-dong-dat-5106680.html",
+      "summary": "Sau trận động đất cách đây 10 năm, tỉnh Kumamoto siết chất lượng công trình, huấn luyện người dân kỹ năng cứu nạn, giúp giảm thiểu thương vong khi thảm họa tiếp tục xảy ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T22:00:00+07:00",
+      "fetched": "2026-08-10T05:19:33.691639+07:00"
+    },
+    {
+      "id": "56254d1e4d2db5d35d9ca24bda3674fc",
+      "title": "14.000 tấn rác mỗi ngày ở TP HCM đi đâu?",
+      "link": "https://vnexpress.net/14-000-tan-rac-moi-ngay-o-tp-hcm-di-dau-5106010.html",
+      "summary": "Từ nhà dân, chợ, hàng quán, hàng triệu túi rác qua 750 điểm tập kết, 43 trạm trung chuyển, song mỗi ngày khoảng 8.300 tấn cuối cùng vẫn bị chôn lấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T22:00:00+07:00",
+      "fetched": "2026-08-10T05:19:33.691807+07:00"
+    },
+    {
+      "id": "ae303d0d16ebc7a1dc19ba06c613606f",
+      "title": "Giám đốc YouTube: 'Không nên tách trẻ khỏi môi trường số'",
+      "link": "https://vnexpress.net/giam-doc-youtube-khong-nen-tach-tre-khoi-moi-truong-so-5105645.html",
+      "summary": "Trẻ cần được hướng dẫn sử dụng lành mạnh và tư duy đặt câu hỏi, thay vì bị tách khỏi mạng xã hội, theo TS Garth Graham, Giám đốc kiêm Trưởng bộ phận sức khỏe toàn cầu tại YouTube.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T22:00:00+07:00",
+      "fetched": "2026-08-10T05:19:33.691968+07:00"
+    },
+    {
+      "id": "06dfb77686fe1c3dfd6076fa07af7dde",
+      "title": "Hàng trăm ôtô, xe máy cổ tụ hội tại TP HCM",
+      "link": "https://vnexpress.net/hang-tram-oto-xe-may-co-tu-hoi-tai-tp-hcm-5107102.html",
+      "summary": "Những mẫu xe hai, bốn bánh tuổi đời hàng chục đến gần trăm năm cùng xuất hiện, gợi nhớ nhiều ký thức xưa cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T22:00:00+07:00",
+      "fetched": "2026-08-10T05:19:33.692124+07:00"
+    },
+    {
+      "id": "66568d007df1e0bf566c6cd6be32b95d",
+      "title": "Phía sau chiến dịch 40 ngày của Ukraine",
+      "link": "https://thanhnien.vn/phia-sau-chien-dich-40-ngay-cua-ukraine-185260809213916345.htm",
+      "summary": "Chiến dịch gây ảnh hưởng kéo dài 40 ngày của Ukraine không đủ để buộc Nga dừng xung đột nhưng được cho là đã gây thiệt hại về kinh tế, quân sự và tâm lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T22:00:00+07:00",
+      "fetched": "2026-08-10T05:19:36.273759+07:00"
+    },
+    {
+      "id": "0ad619440fc6dc40b6b2adc39b42080c",
+      "title": "Người dân góp tiền tu bổ cổng làng hơn trăm tuổi",
+      "link": "https://thanhnien.vn/nguoi-dan-gop-tien-tu-bo-cong-lang-hon-tram-tuoi-185260809193633782.htm",
+      "summary": "Thay vì đập đi xây mới, người dân làng Nhật Tảo (P.Phú Thượng, Hà Nội) đã cùng nhau góp tiền nâng cấp chiếc cổng làng có tuổi đời hơn 1 thế kỷ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T22:00:00+07:00",
+      "fetched": "2026-08-10T05:19:36.273914+07:00"
+    },
+    {
+      "id": "333393427ab09064743160383f2a6b09",
+      "title": "Không ngán ngại Malaysia",
+      "link": "https://thanhnien.vn/khong-ngan-ngai-malaysia-18526080919141286.htm",
+      "summary": "Trong hành trình vào bán kết ASEAN Cup 2026, Malaysia thể hiện được một số điểm mạnh nhưng cũng bộc lộ điểm yếu mà đội tuyển VN có thể khai thác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T22:00:00+07:00",
+      "fetched": "2026-08-10T05:19:36.274062+07:00"
+    },
+    {
+      "id": "2b3159f6756f05f3197e20b98b54145a",
+      "title": "Lịch âm hôm nay 10.8: Cần lưu ý ngày Bính Thìn",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-108-can-luu-y-ngay-binh-thin-185260808161543099.htm",
+      "summary": "Theo lịch vạn niên, lịch âm hôm nay 10.8 là ngày Bính Thìn, dân gian quan niệm cần lưu ý gì? Theo lịch dương, hôm nay có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T22:00:00+07:00",
+      "fetched": "2026-08-10T05:19:36.274223+07:00"
+    },
+    {
+      "id": "64d6cf1f51ddb1f3fce70e07f0482430",
+      "title": "Bật mí những lợi ích bất ngờ của hạt hạnh nhân",
+      "link": "https://thanhnien.vn/bat-mi-nhung-loi-ich-bat-ngo-cua-hat-hanh-nhan-185260804110139454.htm",
+      "summary": "Giữa hàng loạt siêu thực phẩm được ca tụng hiện nay, các loại hạt dinh dưỡng tự nhiên vẫn khẳng định vị thế không thể thay thế trong việc bảo vệ hệ tim mạch. Theo chuyên chuyên trang sức khỏe Health, hạnh nhân không chỉ là món ăn vặt thơm ngon mà còn chứa đựng nguồn dưỡng chất thiết yếu, mang lại kh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T22:00:00+07:00",
+      "fetched": "2026-08-10T05:19:36.274395+07:00"
+    },
+    {
+      "id": "9034ad58f6d4e87763831d1f253f7591",
+      "title": "Bài học giúp người Nhật giảm thiểu thiệt hại trong động đất",
+      "link": "https://vnexpress.net/bai-hoc-giup-nguoi-nhat-giam-thieu-thiet-hai-trong-dong-dat-5106680.html",
+      "summary": "Sau trận động đất cách đây 10 năm, tỉnh Kumamoto siết chất lượng công trình, huấn luyện người dân kỹ năng cứu nạn, giúp giảm thiểu thương vong khi thảm họa tiếp tục xảy ra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-09T22:00:00+07:00",
+      "fetched": "2026-08-10T05:19:38.891974+07:00"
+    },
+    {
+      "id": "ae303d0d16ebc7a1dc19ba06c613606f",
+      "title": "Giám đốc YouTube: 'Không nên tách trẻ khỏi môi trường số'",
+      "link": "https://vnexpress.net/giam-doc-youtube-khong-nen-tach-tre-khoi-moi-truong-so-5105645.html",
+      "summary": "Trẻ cần được hướng dẫn sử dụng lành mạnh và tư duy đặt câu hỏi, thay vì bị tách khỏi mạng xã hội, theo TS Garth Graham, Giám đốc kiêm Trưởng bộ phận sức khỏe toàn cầu tại YouTube.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-09T22:00:00+07:00",
+      "fetched": "2026-08-10T05:19:42.521882+07:00"
+    },
+    {
+      "id": "658225d37e663896f96087272278d7ca",
+      "title": "Gặp 'Dũng Râu', người làm giấy tờ giả cho biệt động Sài Gòn Tết Mậu Thân 1968",
+      "link": "https://thanhnien.vn/gap-dung-rau-nguoi-lam-giay-to-gia-cho-biet-dong-sai-gon-tet-mau-than-1968-185260806162454657.htm",
+      "summary": "Ông Lâm Quốc Dũng (bí danh Dũng Râu), từng làm giấy tờ giả cho lực lượng biệt động Sài Gòn vào nội đô trong chiến dịch Mậu Thân 1968.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T21:44:00+07:00",
+      "fetched": "2026-08-10T05:19:36.274563+07:00"
+    },
+    {
+      "id": "04478b83b73953c572feaec097475c82",
+      "title": "Đơn vị chủ quản của HoSE và HNX lãi đậm",
+      "link": "https://vnexpress.net/don-vi-chu-quan-cua-hose-va-hnx-lai-dam-5107134.html",
+      "summary": "Sở Giao dịch Chứng khoán Việt Nam lãi sau thuế gần 1.420 tỷ đồng trong nửa đầu năm, tăng mạnh nhờ thanh khoản thị trường cải thiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T21:00:00+07:00",
+      "fetched": "2026-08-10T05:19:33.692287+07:00"
+    },
+    {
+      "id": "04478b83b73953c572feaec097475c82",
+      "title": "Đơn vị chủ quản của HoSE và HNX lãi đậm",
+      "link": "https://vnexpress.net/don-vi-chu-quan-cua-hose-va-hnx-lai-dam-5107134.html",
+      "summary": "Sở Giao dịch Chứng khoán Việt Nam lãi sau thuế gần 1.420 tỷ đồng trong nửa đầu năm, tăng mạnh nhờ thanh khoản thị trường cải thiện.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-09T21:00:00+07:00",
+      "fetched": "2026-08-10T05:19:39.957723+07:00"
+    },
+    {
+      "id": "5bb609be6d50b003f6dc24b2fccd1ed2",
+      "title": "Vay mua nhà thời lãi cao cần lưu ý gì?",
+      "link": "https://vnexpress.net/vay-mua-nha-thoi-lai-cao-can-luu-y-gi-5107065.html",
+      "summary": "Người mua cần tính toán khoản vay phù hợp, lên kế hoạch dòng tiền ít nhất 12-36 tháng và tính kỹ tổng chi phí sở hữu nhà, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T20:51:02+07:00",
+      "fetched": "2026-08-10T05:19:33.692476+07:00"
     },
     {
       "id": "5cbe0c65ac6d72ca9c56288029c0242e",
