@@ -1,6 +1,6 @@
 window.newsData_2026_08_10 = {
   "date": "2026-08-10",
-  "lastUpdated": "2026-08-10T01:25:09.529957+07:00",
+  "lastUpdated": "2026-08-10T03:19:59.738187+07:00",
   "articles": [
     {
       "id": "860f7bb701b78cc21b8ef648c651cbbc",
@@ -151,6 +151,26 @@ window.newsData_2026_08_10 = {
       "category": "Tổng hợp",
       "published": "2026-08-10T01:25:01.249478+07:00",
       "fetched": "2026-08-10T01:25:01.249614+07:00"
+    },
+    {
+      "id": "5cbe0c65ac6d72ca9c56288029c0242e",
+      "title": "Đừng để Quang Hải lạc nhịp ở đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/dung-de-quang-hai-lac-nhip-o-doi-tuyen-viet-nam-18526080921094422.htm",
+      "summary": "Ra sân cả 4 trận vòng bảng ASEAN Cup, nhưng Quang Hải hầu như không để lại dấu ấn trong lối vận hành của đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T19:24:00+07:00",
+      "fetched": "2026-08-10T03:19:48.201175+07:00"
+    },
+    {
+      "id": "e4cab20ee453bf5bb3894c4d03ebb5e7",
+      "title": "Nhà phố xoay quanh không gian học và chơi của trẻ",
+      "link": "https://vnexpress.net/nha-pho-xoay-quanh-khong-gian-hoc-va-choi-cua-tre-5106794.html",
+      "summary": "Thay vì bố trí các phòng theo mô hình khép kín, nhóm thiết kế lựa đặt không gian học tập và vui chơi của trẻ vào vị trí trung tâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T19:00:00+07:00",
+      "fetched": "2026-08-10T03:19:45.056189+07:00"
     },
     {
       "id": "b0376f47ef2d382d6a26671e5c42bfac",
