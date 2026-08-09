@@ -1,7 +1,157 @@
 window.newsData_2026_08_09 = {
   "date": "2026-08-09",
-  "lastUpdated": "2026-08-09T10:23:53.768071+07:00",
+  "lastUpdated": "2026-08-09T11:54:54.565675+07:00",
   "articles": [
+    {
+      "id": "dc3a29a76e8f8a5046fd038df0e9616b",
+      "title": "Từ vụ Grab bị phạt 1,36 tỉ đồng, các app gọi xe có thể thu thập, sử dụng dữ liệu ra sao?",
+      "link": "https://tuoitre.vn/tu-vu-grab-bi-phat-136-ti-dong-cac-ung-dung-goi-xe-thu-thap-su-dung-du-lieu-ra-sao-10026080908041096.htm",
+      "summary": "Grab Việt Nam vừa bị phạt 1,36 tỉ đồng. Từ vụ việc này, nhiều khách hàng đặt câu hỏi ứng dụng gọi xe biết gì về mình và dữ liệu được xử lý ra sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T11:54:44.985702+07:00",
+      "fetched": "2026-08-09T11:54:44.985744+07:00"
+    },
+    {
+      "id": "c6c4269c0a1cfcceda4dab748e0f952d",
+      "title": "Quảng trường lớn nhất Tây Nguyên vừa khánh thành đã lún nứt",
+      "link": "https://tuoitre.vn/quang-truong-lon-nhat-tay-nguyen-vua-khanh-thanh-da-lun-nut-100260809095135667.htm",
+      "summary": "Mặt sân Quảng trường trung tâm Gia Nghĩa (tỉnh Lâm Đồng), lớn nhất khu vực Tây Nguyên xuất hiện lún nứt làm gãy vỡ đá lát nền. Chủ đầu tư nói đây là \"lún cố kết\" nằm trong tính toán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T11:54:44.985652+07:00",
+      "fetched": "2026-08-09T11:54:44.985694+07:00"
+    },
+    {
+      "id": "be3d2bbc281fbb9befd63eaa1c35042e",
+      "title": "Thót tim cảnh ô tô bất ngờ lấn làn, đối đầu với xe ngược chiều ở đoạn đường cấm vượt",
+      "link": "https://tuoitre.vn/thot-tim-canh-o-to-bat-ngo-lan-lan-doi-dau-voi-xe-nguoc-chieu-o-doan-duong-cam-vuot-100260809095011292.htm",
+      "summary": "Một xe ô tô chạy trên cao tốc Cam Lộ - La Sơn đoạn qua TP Huế bất ngờ lấn làn, đối đầu trực diện với xe đi chiều khiến nhiều người “thót tim”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T11:54:44.985600+07:00",
+      "fetched": "2026-08-09T11:54:44.985645+07:00"
+    },
+    {
+      "id": "fcaf238e99dcd55c81424773553cb8e2",
+      "title": "Sinh viên Cần Thơ khởi nghiệp với dự án thu hồi dinh dưỡng trong hồ cá bằng mô-đun",
+      "link": "https://tuoitre.vn/sinh-vien-can-tho-khoi-nghiep-voi-du-an-thu-hoi-dinh-duong-trong-ho-ca-bang-mo-dun-100260808190529188.htm",
+      "summary": "Nhận thấy nguồn dinh dưỡng dư thừa trong nuôi cá chưa được tận dụng hiệu quả, nhóm sinh viên phát triển Aqualoop BioPod, hướng đến mô hình nông nghiệp tuần hoàn khả thi và phù hợp với thực tiễn miền Tây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T11:54:44.985543+07:00",
+      "fetched": "2026-08-09T11:54:44.985592+07:00"
+    },
+    {
+      "id": "8e31f6f76af151435ae4bd3c3cc2d1b3",
+      "title": "Malaysia: Đối thủ duyên nợ của Việt Nam ở ASEAN Cup",
+      "link": "https://tuoitre.vn/malaysia-doi-thu-duyen-no-cua-viet-nam-o-asean-cup-100260808233025135.htm",
+      "summary": "Tuyển Việt Nam sẽ gặp lại đối thủ đầy duyên nợ Malaysia ở vòng bán kết ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T11:54:44.985493+07:00",
+      "fetched": "2026-08-09T11:54:44.985535+07:00"
+    },
+    {
+      "id": "cf81acdcd88588e21820a5e8b8ad5f4f",
+      "title": "Trường quân đội đầu tiên công bố điểm chuẩn đại học, từ 25,65 điểm",
+      "link": "https://tuoitre.vn/truong-quan-doi-dau-tien-cong-bo-diem-chuan-dai-hoc-tu-2565-diem-100260809100956862.htm",
+      "summary": "Ngày 9-8, Học viện Hậu cần chính thức công bố điểm chuẩn trúng tuyển đại học năm 2026 hệ quân sự, mức điểm chuẩn từ 25,65 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T11:54:44.985441+07:00",
+      "fetched": "2026-08-09T11:54:44.985485+07:00"
+    },
+    {
+      "id": "64849966c050179d8d945f23f97ef121",
+      "title": "Xin vượt không được, tài xế xe tải cầm thanh sắt chặn đường, đấm chảy máu mũi người khác",
+      "link": "https://tuoitre.vn/xin-vuot-khong-duoc-tai-xe-xe-tai-cam-thanh-sat-chan-duong-dam-chay-mau-mui-nguoi-khac-100260809095701414.htm",
+      "summary": "Phát hiện đoạn clip ghi lại cảnh hai tài xế xảy ra xô xát trên tuyến đường Hương lộ 21, Phòng Cảnh sát giao thông Công an tỉnh Vĩnh Long đã phối hợp công an địa phương xác minh, mời những người liên quan đến làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T11:54:44.985370+07:00",
+      "fetched": "2026-08-09T11:54:44.985432+07:00"
+    },
+    {
+      "id": "ac403fb0f997a7db2927006f3853f6f9",
+      "title": "Tiền ốc vít trên siêu xe Pagani đủ mua cả một chiếc Porsche 911",
+      "link": "https://tuoitre.vn/tien-oc-vit-tren-sieu-xe-pagani-du-mua-ca-mot-chiec-porsche-911-100260808120937966.htm",
+      "summary": "Riêng khoảng 2.000 chiếc ốc vít bằng titan trên mỗi chiếc Pagani đã có giá trị ước tính hơn cả một chiếc Porsche 911 mới, cho thấy mức độ cầu kỳ hiếm thấy của hãng siêu xe Ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T11:54:44.985292+07:00",
+      "fetched": "2026-08-09T11:54:44.985358+07:00"
+    },
+    {
+      "id": "3f3b288bfbb3e64c86bb993f789482db",
+      "title": "Nhà xã hội Long Hải: Nơi trẻ có hoàn cảnh đặc biệt học cách tự lập",
+      "link": "https://tuoitre.vn/nha-xa-hoi-long-hai-noi-tre-co-hoan-canh-dac-biet-hoc-cach-tu-lap-100260809094119797.htm",
+      "summary": "Không chỉ chăm lo bữa ăn, giấc ngủ, Nhà xã hội Long Hải còn giúp trẻ có hoàn cảnh đặc biệt học văn hóa, học nghề, rèn kỹ năng sống để tự lập và định hướng tương lai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T11:54:44.985207+07:00",
+      "fetched": "2026-08-09T11:54:44.985280+07:00"
+    },
+    {
+      "id": "8942790516775da7ffab5590d1ac53a6",
+      "title": "Nữ sinh 14 tuổi kể lại vụ xả súng ở trường học Thái Lan: 'Mẹ, đừng gọi cho con'",
+      "link": "https://tuoitre.vn/nu-sinh-14-tuoi-ke-lai-vu-xa-sung-o-truong-hoc-thai-lan-me-dung-goi-cho-con-100260809101253757.htm",
+      "summary": "Khi tiếng súng vang lên, \"Khim\" và các bạn nhìn ra ban công, tưởng tiếng động phát ra từ công trường xây dựng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T11:54:44.985128+07:00",
+      "fetched": "2026-08-09T11:54:44.985195+07:00"
+    },
+    {
+      "id": "9583767155a68b46ce6f3fd5a27a6424",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn sẽ đến Lào viếng Chủ tịch Quốc hội Xaysomphone Phomvihane",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-tran-thanh-man-se-den-lao-vieng-chu-tich-quoc-hoi-xaysomphone-phomvihane-100260809102922719.htm",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn sẽ dẫn đầu đoàn đại biểu cấp cao của Đảng, Nhà nước Việt Nam viếng Chủ tịch Quốc hội Lào Xaysomphone Phomvihane vào ngày 9-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T11:54:44.985049+07:00",
+      "fetched": "2026-08-09T11:54:44.985115+07:00"
+    },
+    {
+      "id": "7bbf16562e6c5c1459c9700a0010fcf8",
+      "title": "FIFA lên án chiến dịch 'chống lại' ông Infantino",
+      "link": "https://tuoitre.vn/fifa-len-an-chien-dich-chong-lai-ong-infantino-100260809103049001.htm",
+      "summary": "Liên đoàn Bóng đá Thế giới (FIFA) đã chỉ trích những “nỗ lực phối hợp nhằm hạ bệ” tổ chức này cùng Chủ tịch Gianni Infantino, trong bối cảnh người đứng đầu FIFA đang đối mặt với nhiều sóng gió.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T11:54:44.984966+07:00",
+      "fetched": "2026-08-09T11:54:44.985036+07:00"
+    },
+    {
+      "id": "002d2c25bfcb78a3b9412da0d433772b",
+      "title": "Thế giới bóng đá hướng về Messi",
+      "link": "https://tuoitre.vn/the-gioi-bong-da-huong-ve-messi-100260809100437988.htm",
+      "summary": "Sự ra đi của ông Jorge Messi (bố Messi) ở tuổi 68 tại quê nhà Rosario (Argentina) đã để lại nỗi đau vô cùng to lớn cho gia đình Lionel Messi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T11:54:44.984856+07:00",
+      "fetched": "2026-08-09T11:54:44.984953+07:00"
+    },
+    {
+      "id": "7f1b35c93a90d111c3a67630c759c139",
+      "title": "Drone nghi của Ukraine phát nổ ở biên giới Bulgaria - Romania, gần đường ống khí đốt",
+      "link": "https://tuoitre.vn/drone-nghi-cua-ukraine-phat-no-o-bien-gioi-bulgaria-romania-gan-duong-ong-khi-dot-1002608091027008.htm",
+      "summary": "Một chiếc drone đã xâm nhập không phận Bulgaria và phát nổ không lâu sau khi vượt biên giới từ Romania.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T11:54:44.984728+07:00",
+      "fetched": "2026-08-09T11:54:44.984838+07:00"
+    },
+    {
+      "id": "a0fe0b79d05fb9625af6ec125fa4c710",
+      "title": "Đắt sô nghề diễn viên quần chúng 'thấy hình không thấy tiếng'",
+      "link": "https://tuoitre.vn/dat-so-nghe-dien-vien-quan-chung-thay-hinh-khong-thay-tieng-100260729104304702.htm",
+      "summary": "Người tham gia nhiều độ tuổi, hùng hậu nhất là các bạn trẻ, thù lao khoảng 250.000 đồng/lần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T11:54:44.984301+07:00",
+      "fetched": "2026-08-09T11:54:44.984705+07:00"
+    },
     {
       "id": "9c33f93d209aa20f898db1b13f6b9d28",
       "title": "Vì sao giá vàng trong nước cao hơn thế giới? Thanh tra Chính phủ chỉ rõ nguyên nhân",
@@ -313,6 +463,296 @@ window.newsData_2026_08_09 = {
       "fetched": "2026-08-09T05:18:05.324640+07:00"
     },
     {
+      "id": "3af4868215abb31ce90a8379f3ca7fe2",
+      "title": "Thanh niên chạy xe máy vào cao tốc Cà Mau - Cần Thơ đi thăm bạn",
+      "link": "https://thanhnien.vn/thanh-nien-chay-xe-may-vao-cao-toc-ca-mau-can-tho-di-tham-ban-185260809111203048.htm",
+      "summary": "Một thanh niên ở Cà Mau chạy xe máy vào cao tốc Cà Mau – Cần Thơ, khai với công an đang trên đường đến Tiền Giang thăm bạn. Vụ việc được phát hiện từ tin báo và hình ảnh do người dân cung cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T04:45:00+07:00",
+      "fetched": "2026-08-09T11:54:42.926037+07:00"
+    },
+    {
+      "id": "f5fb28071bb1bce62cbc02fd1e5d46d8",
+      "title": "Chấm điểm vòng bảng ASEAN Cup 2026: Cực bất ngờ Đình Bắc cao chót vót, vẫn ‘thua’ tiền đạo Myanmar",
+      "link": "https://thanhnien.vn/cham-diem-vong-bang-asean-cup-2026-cuc-bat-ngo-dinh-bac-cao-chot-vot-van-thua-tien-dao-myanmar-185260809113605298.htm",
+      "summary": "Khép lại vòng bảng ASEAN Cup 2026, đội tuyển Việt Nam gây ấn tượng mạnh khi đóng góp tới 4 đại diện trong tốp 10 cầu thủ nhận điểm số trung bình cao nhất từ trang dữ liệu bóng đá Sofascore.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T04:42:00+07:00",
+      "fetched": "2026-08-09T11:54:42.926190+07:00"
+    },
+    {
+      "id": "fda4b981ab033c8378bcd7d269ff5757",
+      "title": "Mưa lớn ở miền núi Quảng Trị, nước lũ tràn qua đường gây ngập sâu",
+      "link": "https://thanhnien.vn/mua-lon-o-mien-nui-quang-tri-nuoc-lu-tran-qua-duong-gay-ngap-sau-18526080910595211.htm",
+      "summary": "Mưa lớn tại miền núi Quảng Trị đã khiến mực nước các sông, suối dâng cao, tràn qua các đập gây ngập cục bộ một số tuyến đường giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T04:36:00+07:00",
+      "fetched": "2026-08-09T11:54:42.926322+07:00"
+    },
+    {
+      "id": "7370e37cabc3af971d8ea70f2bb45cb1",
+      "title": "Hơn 7 triệu nguyện vọng qua lọc ảo: Ngành nào đang ‘nóng’?",
+      "link": "https://thanhnien.vn/hon-7-trieu-nguyen-vong-qua-loc-ao-nganh-nao-dang-nong-185260808234626347.htm",
+      "summary": "Đây là thời điểm mà các trường ĐH trên toàn quốc đang phối hợp cùng với Bộ GD-ĐT để xử lý hơn 7 triệu nguyện vọng xét của hơn 870.000 thí sinh. Sau 4 ngày qua, dữ liệu chạy lọc ảo cho thấy những ngành/nhóm ngành nào của trường đang ghi nhận tỷ lệ chọi và biến động nguyện vọng cao nhất?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T04:31:00+07:00",
+      "fetched": "2026-08-09T11:54:42.926451+07:00"
+    },
+    {
+      "id": "b5b7babea28cbbaf133bc8a914a8c524",
+      "title": "Phong Phú Hà Nam vô địch giải U.16 nữ quốc gia 2026",
+      "link": "https://thanhnien.vn/phong-phu-ha-nam-vo-dich-giai-u16-nu-quoc-gia-2026-185260809112539439.htm",
+      "summary": "Chiến thắng quý giá trước U.16 Hà Nội giúp Phong Phú Hà Nam giành danh hiệu cao quý ở giải bóng đá nữ vô địch U.16 quốc gia 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T04:25:00+07:00",
+      "fetched": "2026-08-09T11:54:42.926582+07:00"
+    },
+    {
+      "id": "162786119dc252b30e88acd38e984d3c",
+      "title": "Cơm gà Tam Kỳ: Chỉ gà ta, cơm vàng mà sao khiến nhiều người nhớ mãi?",
+      "link": "https://thanhnien.vn/com-ga-tam-ky-chi-ga-ta-com-vang-ma-sao-khien-nhieu-nguoi-nho-mai-185260808120540561.htm",
+      "summary": "Gà ta thả vườn, cơm nấu bằng nước luộc gà vàng óng cùng chén muối tiêu chanh giản dị đã làm nên cơm gà Tam Kỳ, món ăn khiến nhiều người xứ Quảng đi xa vẫn nhớ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T04:25:00+07:00",
+      "fetched": "2026-08-09T11:54:42.926713+07:00"
+    },
+    {
+      "id": "51d3cc044459b1f73b9742e757e3c322",
+      "title": "Nghề 'len' trâu ở lòng hồ Dầu Tiếng",
+      "link": "https://vnexpress.net/nghe-len-trau-o-long-ho-dau-tieng-5106180.html",
+      "summary": "Người dân dựng chòi, mang cơm, tận dụng đồng cỏ hàng trăm ha ở lòng hồ thuỷ lợi lớn nhất nước để chăn thả đàn trâu 200-300 con, thu nhập mỗi năm hàng trăm triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T04:20:21+07:00",
+      "fetched": "2026-08-09T11:54:39.683549+07:00"
+    },
+    {
+      "id": "2c75d0c445e90aecf8c58076ab9cbdfd",
+      "title": "Bàn giao thêm 210 căn nhà ở xã hội đến người thu nhập thấp ở Huế",
+      "link": "https://thanhnien.vn/ban-giao-them-210-can-nha-o-xa-hoi-den-nguoi-thu-nhap-thap-o-hue-185260809100903754.htm",
+      "summary": "Thêm 210 căn nhà ở xã hội tại khu đô thị sinh thái thông minh Ecogarden vừa được chủ đầu từ bàn giao cho các gia đình có thu nhập thấp ở Huế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T04:15:00+07:00",
+      "fetched": "2026-08-09T11:54:42.926836+07:00"
+    },
+    {
+      "id": "5cf240da20946e34a97135d377ba97a6",
+      "title": "Các đại học bắt đầu công bố điểm chuẩn",
+      "link": "https://vnexpress.net/diem-chuan-hon-200-dai-hoc-nam-2026-cap-nhat-nhanh-chi-tiet-chinh-xac-nhat-5106970.html",
+      "summary": "Nhiều trường đại học công bố điểm chuẩn từ 10h-11h ngày 9/8, ngay sau khi kết thúc 6 vòng lọc ảo của Bộ Giáo dục và Đào tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T04:14:07+07:00",
+      "fetched": "2026-08-09T11:54:39.683719+07:00"
+    },
+    {
+      "id": "84488fce671998fc5279cc12c72e1709",
+      "title": "Việt Nam lần đầu tiên xây dựng sàn giao dịch văn hóa",
+      "link": "https://thanhnien.vn/viet-nam-lan-dau-tien-xay-dung-san-giao-dich-van-hoa-185260809081827195.htm",
+      "summary": "Sàn giao dịch văn hóa là một trong những mục nội dung nổi bật nhất nằm trong Dự thảo luật Phát triển công nghiệp văn hóa do Bộ Văn hóa, Thể thao và Du lịch xây dựng và đang lấy ý kiến rộng rãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T04:14:00+07:00",
+      "fetched": "2026-08-09T11:54:42.926976+07:00"
+    },
+    {
+      "id": "37bea6bbef5469aafb52601473225ec0",
+      "title": "Cà Mau chấp thuận nhà đầu tư dự án điện gió hơn 2.060 tỉ đồng",
+      "link": "https://thanhnien.vn/ca-mau-chap-thuan-nha-dau-tu-du-an-dien-gio-hon-2060-ti-dong-185260809012003126.htm",
+      "summary": "UBND tỉnh Cà Mau chấp thuận Công ty cổ phần năng lượng gió Bắc Phương làm nhà đầu tư Nhà máy điện gió Đông Hải 1 - giai đoạn 3, với tổng vốn hơn 2.060 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T04:14:00+07:00",
+      "fetched": "2026-08-09T11:54:42.927108+07:00"
+    },
+    {
+      "id": "df297b1e4892ba99396d4c68404d4419",
+      "title": "TP.HCM: Cảnh báo thông tin rao bán 46 nền đất sau chợ đầu mối Thủ Đức",
+      "link": "https://thanhnien.vn/tphcm-canh-bao-thong-tin-rao-ban-46-nen-dat-sau-cho-dau-moi-thu-duc-185260809091729928.htm",
+      "summary": "UBND phường Tam Bình, TP.HCM mới đây đã phát đi thông báo cảnh báo thông tin không chính xác liên quan đến khu đất tại thửa đất số 970 và 971, tờ bản đồ số 143, phường Tam Bình trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T04:13:00+07:00",
+      "fetched": "2026-08-09T11:54:42.927233+07:00"
+    },
+    {
+      "id": "41a6bf14b48699d8f12dd9df7a697900",
+      "title": "Pin thể rắn có cơ hội thay đổi smartphone sau phát hiện mới",
+      "link": "https://thanhnien.vn/pin-the-ran-co-co-hoi-thay-doi-smartphone-sau-phat-hien-moi-185260808170430188.htm",
+      "summary": "Đột phá từ Viện Max Planck giúp làm rõ nguyên nhân pin thể rắn hỏng, mở đường cho công nghệ này tiến vào smartphone.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T04:11:00+07:00",
+      "fetched": "2026-08-09T11:54:42.927357+07:00"
+    },
+    {
+      "id": "1cf6ee66fa338bce6fe415e6f165179e",
+      "title": "Tái hiện đám cưới miền Nam 100 năm trước",
+      "link": "https://vnexpress.net/tai-hien-dam-cuoi-mien-nam-100-nam-truoc-5106908.html",
+      "summary": "Nhóm bạn trẻ  TPHCM mặc cổ phục, tái hiện các nghi lễ truyền thống trong buổi rước dâu theo phong tục truyền thống Nam Bộ gần 100 năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T04:09:20+07:00",
+      "fetched": "2026-08-09T11:54:39.683870+07:00"
+    },
+    {
+      "id": "bc6022821321bf3b54fba23cd0f9af88",
+      "title": "Lâm Đồng: Cách nào 'cứu' thủy điện La Ngâu khỏi bị hồ La Ngà 3 nuốt chửng?",
+      "link": "https://thanhnien.vn/lam-dong-cach-nao-cuu-thuy-dien-la-ngau-khoi-bi-ho-la-nga-3-nuot-chung-185260808155707905.htm",
+      "summary": "Dù đã được cấp phép và khởi công từ nhiều năm trước, thủy điện La Ngâu vẫn phải nằm im vì vị trí xây dựng trùng với lòng hồ La Ngà 3. Một phương án mới vừa được Lâm Đồng thống nhất với kỳ vọng sẽ tháo gỡ xung đột quy hoạch kéo dài giữa hai dự án.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T04:09:00+07:00",
+      "fetched": "2026-08-09T11:54:42.927489+07:00"
+    },
+    {
+      "id": "c1f7b28127469395a475706049bacd74",
+      "title": "5 phim doanh thu cao nhất từ đầu năm đến nay",
+      "link": "https://vnexpress.net/5-phim-doanh-thu-cao-nhat-tu-dau-nam-den-nay-5106961.html",
+      "summary": "\"Spider-Man: Brand New Day\" dẫn đầu doanh thu phòng vé năm nay với hơn một tỷ USD, góp phần đưa thị trường phim trở lại giai đoạn tăng trưởng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T04:08:38+07:00",
+      "fetched": "2026-08-09T11:54:39.684029+07:00"
+    },
+    {
+      "id": "cd5b40afc140ba515c5b61329365c6f9",
+      "title": "Trường Kinh tế đầu tiên công bố điểm chuẩn",
+      "link": "https://vnexpress.net/diem-chuan-hoc-vien-ngan-hang-bav-nam-2026-chinh-xac-nhat-5106871.html",
+      "summary": "Điểm chuẩn Học viện Ngân hàng (BAV) năm 2026 từ 20,2 đến 26,61, đa số ngành tăng 1-1,5 điểm so với năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T04:06:56+07:00",
+      "fetched": "2026-08-09T11:54:39.684167+07:00"
+    },
+    {
+      "id": "1d5623f6c28978b022a3e297dea750d1",
+      "title": "Điều gì xảy ra nếu tiếp xúc ánh sáng xanh trước khi ngủ?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-neu-tiep-xuc-anh-sang-xanh-truoc-khi-ngu-5106838.html",
+      "summary": "Màn hình điện thoại thông minh hoặc máy tính có thể phát ra ánh sáng xanh ngăn chặn sự giải phóng hormone gây ngủ, làm gián đoạn chu kỳ giấc ngủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T04:00:00+07:00",
+      "fetched": "2026-08-09T11:54:39.684295+07:00"
+    },
+    {
+      "id": "9d23ed2d6d7d2a47fe6bb8818380d6c0",
+      "title": "Có nên dùng máy tạo oxy tại nhà?",
+      "link": "https://vnexpress.net/co-nen-dung-may-tao-oxy-tai-nha-5106819.html",
+      "summary": "Bố tôi bị phổi tắc nghẽn mạn tính, gần đây hay khó thở. Mùa hè nóng, nhà gần công trường xây dựng, gia đình tôi đóng cửa để bật điều hòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T04:00:00+07:00",
+      "fetched": "2026-08-09T11:54:39.684423+07:00"
+    },
+    {
+      "id": "f8aaeedc665f86c81e5ab1836da67b03",
+      "title": "Vì sao ăn đủ protein vẫn mất cơ?",
+      "link": "https://vnexpress.net/vi-sao-an-du-protein-van-mat-co-5106709.html",
+      "summary": "Tuổi cao, mắc bệnh lý, ít vận động, thiếu các dưỡng chất khác như carbohydrate, chất béo và magie, khiến cơ thể mất cơ dù ăn đủ protein.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T04:00:00+07:00",
+      "fetched": "2026-08-09T11:54:39.684547+07:00"
+    },
+    {
+      "id": "0b06223d1d3a7afe23bafd9e82ae391c",
+      "title": "Iran lần đầu đăng video về Lãnh tụ Tối cao sau nhiều tháng",
+      "link": "https://vnexpress.net/iran-lan-dau-dang-video-ve-lanh-tu-toi-cao-sau-nhieu-thang-5106968.html",
+      "summary": "Iran công bố video không rõ ngày tháng về Lãnh tụ Tối cao Mojtaba Khamenei, sau khi truyền thông Isreal cho rằng ông phải nhập viện và đang nguy kịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T03:58:32+07:00",
+      "fetched": "2026-08-09T11:54:39.684676+07:00"
+    },
+    {
+      "id": "0b06223d1d3a7afe23bafd9e82ae391c",
+      "title": "Iran lần đầu đăng video về Lãnh tụ Tối cao sau nhiều tháng",
+      "link": "https://vnexpress.net/iran-lan-dau-dang-video-ve-lanh-tu-toi-cao-sau-nhieu-thang-5106968.html",
+      "summary": "Iran công bố video không rõ ngày tháng về Lãnh tụ Tối cao Mojtaba Khamenei, sau khi truyền thông Isreal cho rằng ông phải nhập viện và đang nguy kịch.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-09T03:58:32+07:00",
+      "fetched": "2026-08-09T11:54:46.954665+07:00"
+    },
+    {
+      "id": "137b1b66dd09212c08ad2cf9fb462bac",
+      "title": "‘Nội soi’ sức mạnh đối thủ bán kết của Việt Nam: Bóng đá Malaysia tái thiết sau bê bối nhập tịch lậu",
+      "link": "https://thanhnien.vn/danh-gia-suc-manh-doi-thu-o-ban-ket-cua-doi-tuyen-viet-nam-bong-da-malaysia-tai-thiet-sau-be-boi-185260809105103532.htm",
+      "summary": "Đội tuyển Malaysia bước vào bán kết ASEAN Cup 2026 với vị trí nhì bảng B và một hàng công nhiều phương án. Đáng chú ý, những chú 'Hổ Mã Lai' vẫn duy trì sức cạnh tranh sau những xáo trộn liên quan đến bê bối cầu thủ nhập tịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T03:58:00+07:00",
+      "fetched": "2026-08-09T11:54:42.927616+07:00"
+    },
+    {
+      "id": "6b7babed068176bc8ea2ea1f02d609ff",
+      "title": "Trung Quốc đa dạng hóa phương tiện phóng tên lửa chống hạm, gây khó cho Mỹ?",
+      "link": "https://thanhnien.vn/trung-quoc-da-dang-hoa-phuong-tien-phong-ten-lua-chong-ham-gay-kho-cho-my-185260809102450892.htm",
+      "summary": "Một số chuyên gia cho rằng sự phát triển và đa dạng hóa phương tiện phóng tên lửa chống hạm của Trung Quốc có thể khiến Hải quân Mỹ bị chệch hướng khỏi phương thức tác chiến trong một cuộc xung đột tiềm tàng ở khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T03:53:00+07:00",
+      "fetched": "2026-08-09T11:54:42.927734+07:00"
+    },
+    {
+      "id": "5ef29dc9202b005ce24069bb9e8084f1",
+      "title": "Hà Nội dự kiến sáp nhập Sở Quy hoạch Kiến trúc vào Sở Xây dựng",
+      "link": "https://vnexpress.net/ha-noi-du-kien-sap-nhap-so-quy-hoach-kien-truc-vao-so-xay-dung-5106717.html",
+      "summary": "Hà Nội dự kiến sáp nhập Sở Quy hoạch Kiến trúc với Sở Xây dựng, Sở Du lịch với Sở Văn hóa Thể thao, thành lập Sở Ngoại vụ và tổ chức lại Văn phòng UBND thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T03:51:54+07:00",
+      "fetched": "2026-08-09T11:54:39.684812+07:00"
+    },
+    {
+      "id": "ddd83681f40ea61dded4488d34e2f6d2",
+      "title": "Lái ô tô dưới trời mưa: Nên bật đèn sương mù hay đèn cảnh báo nguy hiểm?",
+      "link": "https://thanhnien.vn/lai-o-to-duoi-troi-mua-nen-bat-den-suong-mu-hay-den-canh-bao-nguy-hiem-185260614154833124.htm",
+      "summary": "Lái ô tô dưới trời mưa khiến tầm nhìn hạn chế, nguy cơ xảy ra va chạm gia tăng, do đó nhiều tài xế thường sử dụng đèn để phát tín hiệu cảnh báo an toàn; dù vậy không ít tài xế băn khoăn nên dùng đèn sương mù hay đèn cảnh báo nguy hiểm khi lái ô tô dưới trời mưa?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T03:47:00+07:00",
+      "fetched": "2026-08-09T11:54:42.927853+07:00"
+    },
+    {
+      "id": "29b638583351e62c41d1b6b992994d2b",
+      "title": "U40 cố 'cày cuốc' thêm ba năm nữa rồi nghỉ hưu sớm",
+      "link": "https://vnexpress.net/u40-co-cay-cuoc-them-ba-nam-nua-roi-nghi-huu-som-5106983.html",
+      "summary": "Nhiều bạn bè cùng tuổi đã bắt đầu sống chậm, nhưng với tôi tiền vẫn là thứ được ưu tiên hàng đầu lúc này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T03:41:06+07:00",
+      "fetched": "2026-08-09T11:54:39.684958+07:00"
+    },
+    {
+      "id": "47c4e4fdc3df2425c7a0a199f7488064",
+      "title": "Hãy làm mọi việc cùng nhau em nhé",
+      "link": "https://vnexpress.net/hay-lam-moi-viec-cung-nhau-em-nhe-5105845.html",
+      "summary": "Anh là người miền Trung, sống và làm việc tại Sài Gòn, làm bên mảng kỹ thuật, hiền lành, vui vẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T03:40:50+07:00",
+      "fetched": "2026-08-09T11:54:39.685083+07:00"
+    },
+    {
+      "id": "f62aead18ba72d97efc7408342baf38c",
+      "title": "5 điều nên tránh sau tuổi 40 để khỏe mạnh về già",
+      "link": "https://vnexpress.net/5-dieu-nen-tranh-sau-tuoi-40-de-khoe-manh-ve-gia-5106750.html",
+      "summary": "Người từ 40 tuổi nên hạn chế lối sống ít vận động, ăn uống kém lành mạnh, thiếu ngủ và trì hoãn khám sức khỏe để giảm nguy cơ mắc bệnh mạn tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T03:24:08+07:00",
+      "fetched": "2026-08-09T11:54:39.685214+07:00"
+    },
+    {
       "id": "e6452d6c6bb11bf662d10890e4b46f43",
       "title": "Giá Bitcoin hôm nay 9.8.2026: Thị trường hồi phục bất chấp vụ hack ví lạnh Coldcard",
       "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-982026-thi-truong-hoi-phuc-bat-chap-vu-hack-vi-lanh-coldcard-185260809081450802.htm",
@@ -393,6 +833,16 @@ window.newsData_2026_08_09 = {
       "fetched": "2026-08-09T10:23:44.736709+07:00"
     },
     {
+      "id": "b1eea755d7d8f6abb879fd4cd0ae99bc",
+      "title": "Trường quân đội đầu tiên công bố điểm chuẩn 2026",
+      "link": "https://vnexpress.net/diem-chuan-hoc-vien-hau-can-2026-moi-nhat-5106981.html",
+      "summary": "Học viện Hậu cần là trường đầu tiên công bố điểm chuẩn đại học năm 2026 với mức cao nhất là 26,98/30, có thí sinh phải đạt 10 điểm Toán, tăng so với năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T03:11:17+07:00",
+      "fetched": "2026-08-09T11:54:39.685346+07:00"
+    },
+    {
       "id": "51bc76e78bd7a53d4b7ba871cdbd7bb2",
       "title": "Gần 8 giờ trôi dạt trên biển, cô gái sống sót kỳ diệu nhờ chiếc phao 'lạ'",
       "link": "https://thanhnien.vn/gan-8-gio-troi-dat-tren-bien-co-gai-song-sot-ky-dieu-nho-chiec-phao-la-18526080909000993.htm",
@@ -421,6 +871,16 @@ window.newsData_2026_08_09 = {
       "category": "Tổng hợp",
       "published": "2026-08-09T03:01:00+07:00",
       "fetched": "2026-08-09T10:23:44.737032+07:00"
+    },
+    {
+      "id": "bda8c2a6d7b7b28a4aec313c01119451",
+      "title": "Đố bạn phân biệt đúng thanh long ruột đỏ và ruột trắng trong 5 giây",
+      "link": "https://vnexpress.net/chi-nguoi-quan-sat-gioi-moi-phan-biet-dung-thanh-long-ruot-do-va-ruot-trang-trong-5-giay-5103270.html",
+      "summary": "Hãy cùng nhau tham gia để xem ai là \"cao thủ soi chi tiết\" nhé!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T03:00:00+07:00",
+      "fetched": "2026-08-09T11:54:39.685468+07:00"
     },
     {
       "id": "dc4e6f49a07a6a7fcf4aefc73095348e",
