@@ -1,7 +1,77 @@
 window.newsData_2026_08_10 = {
   "date": "2026-08-10",
-  "lastUpdated": "2026-08-10T05:19:43.636250+07:00",
+  "lastUpdated": "2026-08-10T07:58:51.588817+07:00",
   "articles": [
+    {
+      "id": "972d293169361060ef3e2e0a487621a0",
+      "title": "Thời tiết hôm nay 10-8: Nam Bộ mưa dông, chiều tối mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-10-8-nam-bo-mua-dong-chieu-toi-mua-to-100260809180059698.htm",
+      "summary": "Hôm nay 10-8, thời tiết Nam Bộ nhiều mây, chiều tối mưa to. Bắc Bộ và Trung Bộ nắng nóng diện rộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T07:58:46.052723+07:00",
+      "fetched": "2026-08-10T07:58:46.052783+07:00"
+    },
+    {
+      "id": "ac267579a092d4aeefd2608ac701a604",
+      "title": "Tin tức sáng 10-8: TP.HCM lấy ý kiến người dân quy hoạch khu công viên 23-9, kết nối metro Bến Thành - Cần Giờ",
+      "link": "https://tuoitre.vn/tin-tuc-sang-10-8-tphcm-lay-y-kien-nguoi-dan-quy-hoach-khu-cong-vien-23-9-ket-noi-metro-ben-thanh-can-gio-100260809193546156.htm",
+      "summary": "Tin tức đáng chú ý: TP.HCM lấy ý kiến người dân quy hoạch khu công viên 23-9, kết nối metro Bến Thành - Cần Giờ; Năm học 2026-2027: Không dạy trước lớp 1, đẩy mạnh giáo dục STEM, AI và tiếng Anh; TP.HCM phê duyệt quy hoạch chi tiết tỉ lệ 1/500 khu chợ Gà - Gạo...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T07:58:46.052658+07:00",
+      "fetched": "2026-08-10T07:58:46.052713+07:00"
+    },
+    {
+      "id": "bf5969b13f006e1af985f424bdc6f254",
+      "title": "Xuân Cầu Holdings làm điện bán cho khách hàng lớn: Thúc đẩy thị trường điện cạnh tranh",
+      "link": "https://tuoitre.vn/xuan-cau-holdings-lam-dien-ban-cho-khach-hang-lon-thuc-day-thi-truong-dien-canh-tranh-100260809204050433.htm",
+      "summary": "Cơ chế mua bán điện trực tiếp vừa giúp doanh nghiệp phát điện đa dạng hóa đầu ra, vừa giúp khách hàng chủ động nguồn điện sạch - đây là mô hình đôi bên cùng có lợi và là xu hướng tất yếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T07:58:46.052587+07:00",
+      "fetched": "2026-08-10T07:58:46.052647+07:00"
+    },
+    {
+      "id": "26952d30298935a1ea59d1d216c0f391",
+      "title": "Gỡ điểm nghẽn cho những con đường cụt, thi công nhiều năm chưa xong ở Hà Nội",
+      "link": "https://tuoitre.vn/go-diem-nghen-cho-nhung-con-duong-cut-thi-cong-nhieu-nam-chua-xong-o-ha-noi-100260809194507943.htm",
+      "summary": "Nhiều công trình giao thông đã hoàn thiện 70-80% nhưng vẫn ách tắc nhiều năm trời vì vướng mặt bằng gây lãng phí đang được TP Hà Nội quyết liệt tháo gỡ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T07:58:46.052514+07:00",
+      "fetched": "2026-08-10T07:58:46.052576+07:00"
+    },
+    {
+      "id": "828c536b3d8c890a4bb5105b8163496f",
+      "title": "Bộ Tài chính còn 198 nhà đất dôi dư, trong đó 131 cơ sở đang bỏ trống",
+      "link": "https://tuoitre.vn/bo-tai-chinh-con-198-nha-dat-doi-du-trong-do-131-co-so-dang-bo-trong-100260810002327602.htm",
+      "summary": "Trong số 198 cơ sở nhà, đất dôi dư sau sắp xếp chưa hoàn thành xử lý tại Bộ Tài chính, có đến 131 cơ sở đang bỏ trống, không sử dụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T07:58:46.052440+07:00",
+      "fetched": "2026-08-10T07:58:46.052503+07:00"
+    },
+    {
+      "id": "e4e400ebb83b9fd10bd16270327f56bb",
+      "title": "Tin tức thế giới 10-8: Iran thay trùm an ninh quốc gia; Ông Trump dịu giọng với Iran",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-10-8-iran-thay-trum-an-ninh-quoc-gia-ong-trump-diu-giong-voi-iran-100260810061207333.htm",
+      "summary": "Ông Trump ưu tiên sức ép kinh tế thay vì quân sự với Iran; Đức cảnh báo đối mặt với \"chiến tranh hỗn hợp\" mỗi ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T07:58:46.052357+07:00",
+      "fetched": "2026-08-10T07:58:46.052428+07:00"
+    },
+    {
+      "id": "c20d0d914be8eb60947c9b7fe6f0ec41",
+      "title": "Liên đoàn Bóng đá Indonesia có động thái bất ngờ sau ASEAN Cup",
+      "link": "https://tuoitre.vn/lien-doan-bong-da-indonesia-co-dong-thai-bat-ngo-sau-asean-cup-100260810062609612.htm",
+      "summary": "Sau nhiều ngày im ắng, Liên đoàn Bóng đá Indonesia (PSSI) đã lên tiếng sau những gì xảy ra tại ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T07:58:46.052193+07:00",
+      "fetched": "2026-08-10T07:58:46.052343+07:00"
+    },
     {
       "id": "860f7bb701b78cc21b8ef648c651cbbc",
       "title": "Cần Thơ công bố 27 điểm phát sóng WiFi công cộng",
@@ -151,6 +221,376 @@ window.newsData_2026_08_10 = {
       "category": "Tổng hợp",
       "published": "2026-08-10T01:25:01.249478+07:00",
       "fetched": "2026-08-10T01:25:01.249614+07:00"
+    },
+    {
+      "id": "3843809ef9343026cd0b3ffd6da42de0",
+      "title": "Có nên chọn miếng dán màn hình nhám chống chói?",
+      "link": "https://thanhnien.vn/co-nen-chon-mieng-dan-man-hinh-nham-chong-choi-185260809134129665.htm",
+      "summary": "Miếng dán màn hình nhám và trong suốt, lựa chọn sẽ nào thực sự phù hợp với nhu cầu của bạn?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T00:56:00+07:00",
+      "fetched": "2026-08-10T07:58:44.417570+07:00"
+    },
+    {
+      "id": "121bcd3d200ca63cf5414f2c71741fd1",
+      "title": "Vì sao tốc độ sạc điện thoại được tính bằng watt?",
+      "link": "https://thanhnien.vn/vi-sao-toc-do-sac-dien-thoai-duoc-tinh-bang-watt-185260810002730649.htm",
+      "summary": "Công suất watt cho biết khả năng cung cấp điện của bộ sạc, nhưng tốc độ thực tế còn phụ thuộc vào điện thoại và cáp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T00:51:00+07:00",
+      "fetched": "2026-08-10T07:58:44.417747+07:00"
+    },
+    {
+      "id": "44deabc9e7a99f4c3e7bf2721daa6e02",
+      "title": "Đội tuyển Việt Nam định hình công thức chiến thắng",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-dinh-hinh-cong-thuc-chien-thang-185260809191142516.htm",
+      "summary": "Sau 4 trận vòng bảng, HLV Kim Sang-sik đã tìm được đấu pháp hợp lý nhất để dẫn lối đội tuyển VN đến chiến thắng, dù phải đương đầu với cách chơi nào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T00:46:00+07:00",
+      "fetched": "2026-08-10T07:58:44.417911+07:00"
+    },
+    {
+      "id": "767dc76dfce80e8858ba1f65e4c55660",
+      "title": "Syria đạt thỏa thuận với Nga về 2 căn cứ quân sự chiến lược",
+      "link": "https://thanhnien.vn/syria-dat-thoa-thuan-voi-nga-ve-2-can-cu-quan-su-chien-luoc-185260810072746798.htm",
+      "summary": "Syria và Nga đã đạt thỏa thuận về tương lai của 2 căn cứ chiến lược ven biển của Damascus mà lâu nay Moscow sử dụng gồm căn cứ không quân Hmeimim và căn cứ hải quân Tartus.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T00:42:00+07:00",
+      "fetched": "2026-08-10T07:58:44.418100+07:00"
+    },
+    {
+      "id": "552b5628fadc5f40d9f4be8196b8bd33",
+      "title": "‘Dòng máu trẻ’ ở đội tuyển nữ Việt Nam",
+      "link": "https://thanhnien.vn/dong-mau-tre-o-doi-tuyen-nu-viet-nam-185260809192025313.htm",
+      "summary": "Đội tuyển nữ Việt Nam (VN) hướng tới ASIAD 20 với nhiều thay đổi về nhân sự. Trong đó, tân thuyền trưởng Hoàng Văn Phúc đã trao cơ hội cho hàng loạt cầu thủ còn rất trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T00:35:00+07:00",
+      "fetched": "2026-08-10T07:58:44.418264+07:00"
+    },
+    {
+      "id": "b8d9d760ffb50633580f50a45ce20d59",
+      "title": "Dolphin - cơn bão mạnh nhất năm vừa đổ bộ Trung Quốc",
+      "link": "https://thanhnien.vn/dolphin-con-bao-manh-nhat-nam-vua-do-bo-trung-quoc-185260810070910126.htm",
+      "summary": "Giới chức Trung Quốc đã khẩn trương triển khai phương án ứng phó và sơ tán hơn 1 triệu người khi bão Dolphin đã đổ bộ vào vùng phía đông Trung Quốc hôm 9.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T00:19:00+07:00",
+      "fetched": "2026-08-10T07:58:44.418420+07:00"
+    },
+    {
+      "id": "2b09351a38632d996de41baa32c14d63",
+      "title": "Lãnh tụ tối cao Iran có động thái mới, giá dầu tăng khi Tehran ra điều kiện",
+      "link": "https://thanhnien.vn/lanh-tu-toi-cao-iran-co-dong-thai-moi-gia-dau-tang-khi-tehran-ra-dieu-kien-185260810071052327.htm",
+      "summary": "Lãnh tụ tối cao Iran Mojtaba Khamenei thay đại diện của mình tại Hội đồng An ninh quốc gia tối cao và gặp Tổng thống Masoud Pezeshkian, trong khi giá dầu tăng theo diễn biến thiếu lạc quan về đàm phán giữa Washington và Tehran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T00:17:00+07:00",
+      "fetched": "2026-08-10T07:58:44.418573+07:00"
+    },
+    {
+      "id": "57327f93941529019bf760dddd250dd8",
+      "title": "Bữa ăn của người Mỹ trong thời bão giá",
+      "link": "https://vnexpress.net/bua-an-cua-nguoi-my-trong-thoi-bao-gia-5106713.html",
+      "summary": "Thời gian gần đây, ở nhà bà Apral Jack tại Massachusetts, thực đơn bữa tối sẽ là món nào đang giảm giá thì ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T00:09:07+07:00",
+      "fetched": "2026-08-10T07:58:41.989059+07:00"
+    },
+    {
+      "id": "57327f93941529019bf760dddd250dd8",
+      "title": "Bữa ăn của người Mỹ trong thời bão giá",
+      "link": "https://vnexpress.net/bua-an-cua-nguoi-my-trong-thoi-bao-gia-5106713.html",
+      "summary": "Thời gian gần đây, ở nhà bà Apral Jack tại Massachusetts, thực đơn bữa tối sẽ là món nào đang giảm giá thì ăn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-10T00:09:07+07:00",
+      "fetched": "2026-08-10T07:58:47.124958+07:00"
+    },
+    {
+      "id": "b02fc6c0acd0c3c2431e391607449f25",
+      "title": "Iran nói Tổng thống đã gặp Lãnh tụ Tối cao",
+      "link": "https://vnexpress.net/iran-noi-tong-thong-da-gap-lanh-tu-toi-cao-5107151.html",
+      "summary": "Văn phòng của Lãnh tụ Tối cao Iran cho biết ông gần đây gặp Tổng thống Pezeshkian, giữa lúc có thông tin ông Mojtaba Khamenei đang \"nguy kịch\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T00:04:32+07:00",
+      "fetched": "2026-08-10T07:58:41.989250+07:00"
+    },
+    {
+      "id": "b02fc6c0acd0c3c2431e391607449f25",
+      "title": "Iran nói Tổng thống đã gặp Lãnh tụ Tối cao",
+      "link": "https://vnexpress.net/iran-noi-tong-thong-da-gap-lanh-tu-toi-cao-5107151.html",
+      "summary": "Văn phòng của Lãnh tụ Tối cao Iran cho biết ông gần đây gặp Tổng thống Pezeshkian, giữa lúc có thông tin ông Mojtaba Khamenei đang \"nguy kịch\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-10T00:04:32+07:00",
+      "fetched": "2026-08-10T07:58:47.125169+07:00"
+    },
+    {
+      "id": "e0bf9a123d527126ad01bcf27c8f73a6",
+      "title": "Lý do mòng biển 'cướp' đồ ăn của du khách",
+      "link": "https://vnexpress.net/ly-do-mong-bien-cuop-do-an-cua-du-khach-5106833.html",
+      "summary": "Những con chim biển nặng 1,5 kg thường lao xuống cướp đồ ăn của khách, gây phiền toái nhưng chúng không thực sự muốn làm vậy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T00:00:00+07:00",
+      "fetched": "2026-08-10T07:58:41.989421+07:00"
+    },
+    {
+      "id": "933f99ce58ffcc55cc548b8d5b126838",
+      "title": "Mồ côi cha mẹ, nữ sinh nghèo lo giấc mơ đại học dang dở",
+      "link": "https://thanhnien.vn/mo-coi-cha-me-nu-sinh-ngheo-lo-giac-mo-dai-hoc-dang-do-185260809164647688.htm",
+      "summary": "Tuổi thơ nhiều thiệt thòi, phải vượt qua biết bao gian khó, cô học trò mồ côi cha mẹ Lý Mỹ Trúc mới chạm đến ngưỡng cửa đại học. Thế nhưng, trước mắt em giờ đây là nỗi lo giấc mơ học tập có thể dang dở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T00:00:00+07:00",
+      "fetched": "2026-08-10T07:58:44.418731+07:00"
+    },
+    {
+      "id": "b7ab2170756748a95fd6e7c905558618",
+      "title": "Cà Mau giữ thành quả IUU, quyết không để tàu cá vượt ranh giới biển nước ngoài",
+      "link": "https://thanhnien.vn/ca-mau-giu-thanh-qua-iuu-quyet-khong-de-tau-ca-vuot-ranh-gioi-bien-nuoc-ngoai-185260809141919438.htm",
+      "summary": "Dù từ đầu năm đến nay chưa phát sinh tàu cá vi phạm vùng biển nước ngoài, Cà Mau vẫn mở đợt cao điểm chống khai thác IUU, siết toàn bộ đội tàu và quản lý chặt từ hồ sơ đến hoạt động trên biển nhằm giữ vững kết quả, góp phần cùng cả nước sớm gỡ cảnh báo 'thẻ vàng' của EC.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T00:00:00+07:00",
+      "fetched": "2026-08-10T07:58:44.418885+07:00"
+    },
+    {
+      "id": "254d2d3d65d3933c52b870319cbb7d6b",
+      "title": "iPhone 17 có thể tăng giá tuần này",
+      "link": "https://vnexpress.net/iphone-17-co-the-tang-gia-tuan-nay-5107122.html",
+      "summary": "Apple được cho là tăng giá thế hệ iPhone 17 tuần này, thậm chí từ ngày 10/8, nhằm bù đắp chi phí linh kiện và tạo bước đệm tâm lý trước khi ra mắt iPhone 18 Pro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T23:45:13+07:00",
+      "fetched": "2026-08-10T07:58:41.989585+07:00"
+    },
+    {
+      "id": "254d2d3d65d3933c52b870319cbb7d6b",
+      "title": "iPhone 17 có thể tăng giá tuần này",
+      "link": "https://vnexpress.net/iphone-17-co-the-tang-gia-tuan-nay-5107122.html",
+      "summary": "Apple được cho là tăng giá thế hệ iPhone 17 tuần này, thậm chí từ ngày 10/8, nhằm bù đắp chi phí linh kiện và tạo bước đệm tâm lý trước khi ra mắt iPhone 18 Pro.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-09T23:45:13+07:00",
+      "fetched": "2026-08-10T07:58:50.434766+07:00"
+    },
+    {
+      "id": "51f2b66b991b3b13cddd2a3767dc9592",
+      "title": "Triệt phá 2 đường dây ma túy và bắt đối tượng trốn truy tìm đánh bạc tại phường Tân Định",
+      "link": "https://thanhnien.vn/triet-pha-hai-duong-day-ma-tuy-bat-nguoi-dang-bi-truy-tim-danh-bac-185260809223647618.htm",
+      "summary": "Công an phường Tân Định (TP.HCM) vừa liên tiếp phát hiện, truy xét tận gốc và triệt phá thành công 2 vụ án ma túy liên quan nhiều đối tượng, đồng thời bắt giữ một nghi phạm đang bị truy tìm về hành vi đánh bạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T23:44:00+07:00",
+      "fetched": "2026-08-10T07:58:44.419075+07:00"
+    },
+    {
+      "id": "e55ec5ca91a9bd2092d220ae117bed3e",
+      "title": "Camera giao thông TP.HCM biết hàng xe dài bao nhiêu, nơi nào sắp ùn tắc bằng cách nào?",
+      "link": "https://thanhnien.vn/camera-giao-thong-tphcm-biet-hang-xe-dai-bao-nhieu-noi-nao-sap-un-tac-bang-cach-nao-1852608091135046.htm",
+      "summary": "Camera giao thông TP.HCM không chỉ truyền hình ảnh mà còn đo tốc độ, mật độ, chiều dài hàng xe. AI có thể dùng dữ liệu này để dự báo ùn tắc trước 15 - 30 phút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T23:30:00+07:00",
+      "fetched": "2026-08-10T07:58:44.419237+07:00"
+    },
+    {
+      "id": "4f1a12b27ffec84039ed538c14e475d3",
+      "title": "Từ những cộng đồng yêu văn hóa Việt đến chủ quyền văn hóa",
+      "link": "https://thanhnien.vn/tu-nhung-cong-dong-yeu-van-hoa-viet-den-chu-quyen-van-hoa-185260809222626188.htm",
+      "summary": "Trong số 4 nhiệm vụ trọng tâm để thực hiện Nghị quyết 80 về phát triển văn hóa VN, Tổng Bí thư, Chủ tịch nước Tô Lâm nhắc đến nhiệm vụ đẩy mạnh xây dựng chủ quyền văn hóa trên không gian số, nâng cao sức hấp dẫn, khả năng lan tỏa và bảo vệ các giá trị văn hóa VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T23:27:00+07:00",
+      "fetched": "2026-08-10T07:58:44.419392+07:00"
+    },
+    {
+      "id": "bf53ba0734ef434cdb9b871242823165",
+      "title": "Lai rai kể chuyện ‘ông già đi bộ’ Sơn Nam: Đi bộ để thấy cuộc đời",
+      "link": "https://thanhnien.vn/lai-rai-ke-chuyen-ong-gia-di-bo-son-nam-di-bo-de-thay-cuoc-doi-18526080922150247.htm",
+      "summary": "Từ lúc ở quê lên Sài Gòn năm 1954, Sơn Nam chính thức sống bằng nghề viết văn. Cho đến cuối đời, tác giả Hương rừng Cà Mau vẫn không biết đi xe máy hay xe đạp mà di chuyển chủ yếu bằng xích lô, xe ôm và... đi bộ! Đi và ghi chép...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T23:27:00+07:00",
+      "fetched": "2026-08-10T07:58:44.419551+07:00"
+    },
+    {
+      "id": "71155cdc80bf1dff7070594e479e73df",
+      "title": "Điểm tin 6h: Điểm chuẩn ngành bán dẫn, AI 'bùng nổ' | Tổng Bí thư, Chủ tịch nước bắt đầu thăm cấp nhà nước đến Australia",
+      "link": "https://vnexpress.net/diem-tin-6h-diem-chuan-nganh-ban-dan-ai-bung-no-tong-bi-thu-chu-tich-nuoc-bat-dau-tham-cap-nha-nuoc-den-australia-5107152.html",
+      "summary": "Điểm chuẩn 8 trường thành viên Đại học Quốc gia TP HCM; Giám đốc Sở Giáo dục Tuyên Quang bị đình chỉ công tác;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T23:20:02+07:00",
+      "fetched": "2026-08-10T07:58:41.989746+07:00"
+    },
+    {
+      "id": "434201c5116aaa5142100dd9a905c51d",
+      "title": "Sau đám cưới, cô dâu chú rể lại về nhà gái làm gì?",
+      "link": "https://thanhnien.vn/sau-dam-cuoi-co-dau-chu-re-lai-ve-nha-gai-lam-gi-185260806231150427.htm",
+      "summary": "Sau đám cưới, nhiều đôi vợ chồng lại trở về nhà gái thắp hương gia tiên, dùng bữa cơm cùng cha mẹ. Lễ lại mặt giản dị nhưng gửi gắm lời báo bình an để đấng sinh thành yên lòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T23:15:00+07:00",
+      "fetched": "2026-08-10T07:58:44.419716+07:00"
+    },
+    {
+      "id": "d735f95204883c1b32b15fe6b20c4574",
+      "title": "FIFA phản bác chiến dịch 'hạ uy tín' Chủ tịch Infantino",
+      "link": "https://vnexpress.net/fifa-phan-bac-chien-dich-ha-uy-tin-chu-tich-infantino-5107141.html",
+      "summary": "FIFA cho rằng đang có một chiến dịch có tổ chức và kéo dài nhằm làm suy yếu uy tín của tổ chức này cũng như Chủ tịch Gianni Infantino.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T23:13:53+07:00",
+      "fetched": "2026-08-10T07:58:41.989907+07:00"
+    },
+    {
+      "id": "d735f95204883c1b32b15fe6b20c4574",
+      "title": "FIFA phản bác chiến dịch 'hạ uy tín' Chủ tịch Infantino",
+      "link": "https://vnexpress.net/fifa-phan-bac-chien-dich-ha-uy-tin-chu-tich-infantino-5107141.html",
+      "summary": "FIFA cho rằng đang có một chiến dịch có tổ chức và kéo dài nhằm làm suy yếu uy tín của tổ chức này cũng như Chủ tịch Gianni Infantino.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-09T23:13:53+07:00",
+      "fetched": "2026-08-10T07:58:51.583230+07:00"
+    },
+    {
+      "id": "c4880cd4f8c4b7f5f259b63d2f17c51f",
+      "title": "Leipzig - cỗ máy kiếm tiền tỷ USD từ chuyển nhượng",
+      "link": "https://vnexpress.net/leipzig-co-may-kiem-tien-ty-usd-tu-chuyen-nhuong-5107147.html",
+      "summary": "RB Leipzig đã thu về khoảng 1,21 tỷ USD từ việc bán cầu thủ trong 10 năm qua, nhờ mô hình tuyển mộ tài năng trẻ, phát triển rồi bán cho các đội bóng lớn với giá cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T23:12:51+07:00",
+      "fetched": "2026-08-10T07:58:41.990099+07:00"
+    },
+    {
+      "id": "c4880cd4f8c4b7f5f259b63d2f17c51f",
+      "title": "Leipzig - cỗ máy kiếm tiền tỷ USD từ chuyển nhượng",
+      "link": "https://vnexpress.net/leipzig-co-may-kiem-tien-ty-usd-tu-chuyen-nhuong-5107147.html",
+      "summary": "RB Leipzig đã thu về khoảng 1,21 tỷ USD từ việc bán cầu thủ trong 10 năm qua, nhờ mô hình tuyển mộ tài năng trẻ, phát triển rồi bán cho các đội bóng lớn với giá cao.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-09T23:12:51+07:00",
+      "fetched": "2026-08-10T07:58:51.582841+07:00"
+    },
+    {
+      "id": "0f3a6c7e32bf72db3a42f638a1db65ab",
+      "title": "HLV Indonesia được khuyên học sự tận tâm của Kim Sang-sik",
+      "link": "https://vnexpress.net/hlv-indonesia-duoc-khuyen-hoc-su-tan-tam-cua-kim-sang-sik-5107131.html",
+      "summary": "Chuyên gia bóng đá Indonesia Ibam Hariri cho rằng John Herdman cần hiểu sâu hơn bóng đá Đông Nam Á và có thể học cách Kim Sang-sik trực tiếp nghiên cứu đối thủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T23:08:36+07:00",
+      "fetched": "2026-08-10T07:58:41.990279+07:00"
+    },
+    {
+      "id": "0f3a6c7e32bf72db3a42f638a1db65ab",
+      "title": "HLV Indonesia được khuyên học sự tận tâm của Kim Sang-sik",
+      "link": "https://vnexpress.net/hlv-indonesia-duoc-khuyen-hoc-su-tan-tam-cua-kim-sang-sik-5107131.html",
+      "summary": "Chuyên gia bóng đá Indonesia Ibam Hariri cho rằng John Herdman cần hiểu sâu hơn bóng đá Đông Nam Á và có thể học cách Kim Sang-sik trực tiếp nghiên cứu đối thủ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-09T23:08:36+07:00",
+      "fetched": "2026-08-10T07:58:51.583052+07:00"
+    },
+    {
+      "id": "362f65d7e3b1f37eec3c70bf21c7672a",
+      "title": "Trung vệ Tottenham muốn tới Arsenal",
+      "link": "https://vnexpress.net/trung-ve-tottenham-muon-toi-arsenal-5107133.html",
+      "summary": "Cristian Romero muốn gia nhập Arsenal, nhưng Tottenham nhất quyết không để trung vệ người Argentina chuyển sang đối thủ cùng thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T23:06:20+07:00",
+      "fetched": "2026-08-10T07:58:41.990448+07:00"
+    },
+    {
+      "id": "362f65d7e3b1f37eec3c70bf21c7672a",
+      "title": "Trung vệ Tottenham muốn tới Arsenal",
+      "link": "https://vnexpress.net/trung-ve-tottenham-muon-toi-arsenal-5107133.html",
+      "summary": "Cristian Romero muốn gia nhập Arsenal, nhưng Tottenham nhất quyết không để trung vệ người Argentina chuyển sang đối thủ cùng thành phố.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-09T23:06:20+07:00",
+      "fetched": "2026-08-10T07:58:51.583394+07:00"
+    },
+    {
+      "id": "44c37285faff2a27aae7d86bb539c520",
+      "title": "Bẫy lãi suất 48% lừa nghìn tỷ góp vốn trồng sâm Ngọc Linh",
+      "link": "https://vnexpress.net/bay-lai-suat-48-lua-nghin-ty-gop-von-trong-sam-ngoc-linh-5107128.html",
+      "summary": "Phạm Thị Mỹ Hạnh, Chủ tịch Tập đoàn Mỹ Hạnh, bị cáo buộc \"vẽ\" dự án trồng sâm Ngọc Linh, hứa hẹn lãi suất 48% để lừa hàng loạt nhà đầu tư góp vốn tổng cộng 1.300 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T23:01:38+07:00",
+      "fetched": "2026-08-10T07:58:41.990608+07:00"
+    },
+    {
+      "id": "08917e33ae57519a5db9a1e8ec7fe8a7",
+      "title": "Arsenal thua Dortmund ở trận tranh Emirates Cup",
+      "link": "https://vnexpress.net/arsenal-thua-dortmund-o-tran-tranh-emirates-cup-5107148.html",
+      "summary": "Arsenal thua Dortmund 2-3 ở giải giao hữu Emirates Cup, một tuần trước khi tranh Siêu Cup Anh với Man City.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T23:00:35+07:00",
+      "fetched": "2026-08-10T07:58:41.990772+07:00"
+    },
+    {
+      "id": "08917e33ae57519a5db9a1e8ec7fe8a7",
+      "title": "Arsenal thua Dortmund ở trận tranh Emirates Cup",
+      "link": "https://vnexpress.net/arsenal-thua-dortmund-o-tran-tranh-emirates-cup-5107148.html",
+      "summary": "Arsenal thua Dortmund 2-3 ở giải giao hữu Emirates Cup, một tuần trước khi tranh Siêu Cup Anh với Man City.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-09T23:00:35+07:00",
+      "fetched": "2026-08-10T07:58:51.583553+07:00"
+    },
+    {
+      "id": "2768783ea486caa9fc2b7e92a9b63d1e",
+      "title": "Cụ bà 111 tuổi vẫn minh mẫn nhờ 4 thói quen ăn ngủ, làm việc nhà",
+      "link": "https://vnexpress.net/cu-ba-111-tuoi-van-minh-man-nho-4-thoi-quen-an-ngu-lam-viec-nha-5106931.html",
+      "summary": "Tự làm việc nhà, duy trì chế độ ăn đa dạng kết hợp thói quen ngủ nghỉ khoa học giúp cụ bà 111 tuổi giữ trọn sự minh mẫn cùng thể trạng dẻo dai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T23:00:00+07:00",
+      "fetched": "2026-08-10T07:58:41.990934+07:00"
+    },
+    {
+      "id": "0193ccf9061f88fd0f5f2e3f0a54235b",
+      "title": "Chủ xe Mercedes-AMG kiện hãng vì logo ghế gây bỏng",
+      "link": "https://vnexpress.net/chu-xe-mercedes-amg-kien-hang-vi-logo-ghe-gay-bong-5106958.html",
+      "summary": "Hai chủ xe Mercedes-AMG tại Mỹ kiện hãng, cáo buộc logo AMG bằng kim loại trên ghế lái nóng đến mức gây bỏng và để lại dấu hằn trên da.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T23:00:00+07:00",
+      "fetched": "2026-08-10T07:58:41.991120+07:00"
+    },
+    {
+      "id": "ec3348576e8c29d51a5da441fc804f77",
+      "title": "Người trẻ bỏ thuê nhà phố, về vùng ven",
+      "link": "https://vnexpress.net/nguoi-tre-bo-thue-nha-pho-ve-vung-ven-5107138.html",
+      "summary": "Sau hơn 10 năm thuê nhà chật chội ở nội thành Hà Nội, anh Đức, 30 tuổi, đưa cả gia đình ra Hoài Đức, cách 20 km, giúp tiết kiệm hơn chục triệu đồng mỗi tháng và mua được ôtô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T23:00:00+07:00",
+      "fetched": "2026-08-10T07:58:41.991295+07:00"
+    },
+    {
+      "id": "c0145e04f45fb0212e38620ef3c13eb4",
+      "title": "Bản tin sức khỏe ngày 10.8: Sau 50 tuổi nên tập gì? | Những sai lầm khi bảo quản thực phẩm",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-ngay-108-sau-50-tuoi-nen-tap-gi-nhung-sai-lam-khi-bao-quan-thuc-pham-185260809225942095.htm",
+      "summary": "Sau tuổi 50, duy trì vận động thường xuyên và bảo quản thực phẩm đúng cách là hai yếu tố quan trọng giúp bảo vệ sức khỏe. Những bài tập phù hợp có thể hỗ trợ duy trì cơ bắp, khả năng thăng bằng, trong khi sắp xếp và lưu trữ thực phẩm đúng cách giúp hạn chế nguy cơ lây nhiễm chéo trong tủ lạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T23:00:00+07:00",
+      "fetched": "2026-08-10T07:58:44.419867+07:00"
     },
     {
       "id": "9ba4b78ca3fef8f1ae5735d73c62520c",
