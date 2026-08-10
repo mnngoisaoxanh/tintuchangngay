@@ -1,6 +1,6 @@
 window.newsData_2026_08_10 = {
   "date": "2026-08-10",
-  "lastUpdated": "2026-08-10T21:49:50.634623+07:00",
+  "lastUpdated": "2026-08-10T23:42:43.370982+07:00",
   "articles": [
     {
       "id": "6d4ac9807fbe3fbaf7113794092947f8",
@@ -453,6 +453,16 @@ window.newsData_2026_08_10 = {
       "fetched": "2026-08-10T17:57:36.591866+07:00"
     },
     {
+      "id": "d940efec512ab306195bae60ba5e616d",
+      "title": "7 ký kết thúc đẩy hợp tác khoa học công nghệ Việt Nam - Australia",
+      "link": "https://vnexpress.net/7-ky-ket-thuc-day-hop-tac-khoa-hoc-cong-nghe-viet-nam-australia-5107588.html",
+      "summary": "Bảy biên bản ghi nhớ được trao giữa các đơn vị của Việt Nam và Australia hướng tới việc kết nối chuyên gia, đào tạo nhân lực, nghiên cứu, chuyển giao và đưa công nghệ vào ứng dụng thực tiễn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-10T16:29:34+07:00",
+      "fetched": "2026-08-10T23:42:42.272838+07:00"
+    },
+    {
       "id": "52242fd941233662a984087431508b1c",
       "title": "Ông Đào Trọng Đức làm Phó chủ tịch UBND thành phố Hải Phòng",
       "link": "https://tuoitre.vn/ong-dao-trong-duc-lam-pho-chu-tich-ubnd-thanh-pho-hai-phong-100260810125424554.htm",
@@ -603,6 +613,76 @@ window.newsData_2026_08_10 = {
       "fetched": "2026-08-10T16:06:58.536149+07:00"
     },
     {
+      "id": "a076ddc53d58237b23cb57b7b93c8b52",
+      "title": "Khoảnh khắc nhà cửa đổ sập trong động đất 7,4 độ tại Colombia",
+      "link": "https://vnexpress.net/khoanh-khac-nha-cua-do-sap-trong-dong-dat-7-4-do-tai-colombia-5107609.html",
+      "summary": "Nhà cửa cùng các công trình đổ sập, người dân hoảng loạn tháo chạy khi trận động đất mạnh 7,4 độ xảy ra tại Colombia, ngày 10/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T15:57:00+07:00",
+      "fetched": "2026-08-10T23:42:33.919117+07:00"
+    },
+    {
+      "id": "e50460b828b15cc9b571ea4044a1ffc2",
+      "title": "Camera ghi cảnh cựu nghị sĩ Thái Lan tiếp cận lãnh đạo tỉnh trước khi nổ súng",
+      "link": "https://vnexpress.net/camera-ghi-canh-cuu-nghi-si-thai-lan-tiep-can-lanh-dao-tinh-truoc-khi-no-sung-5107593.html",
+      "summary": "Hình ảnh camera cho thấy cựu nghị sĩ Chalong Riewraeng đi theo Chủ tịch Hội đồng Hành chính tỉnh Nonthaburi đến ôtô, trao đổi vài giây rồi nổ súng khiến lãnh đạo tỉnh tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T15:49:50+07:00",
+      "fetched": "2026-08-10T23:42:33.919298+07:00"
+    },
+    {
+      "id": "2b76071fc7707d22a56be69ca8c9b244",
+      "title": "Động đất rung chuyển Colombia, ít nhất 22 người chết",
+      "link": "https://vnexpress.net/dong-dat-rung-chuyen-colombia-it-nhat-22-nguoi-chet-5107602.html",
+      "summary": "Trận động đất mạnh 7,4 độ làm rung chuyển Colombia và các nước láng giềng ở Mỹ Latin, khiến ít nhất 22 người thiệt mạng, hàng chục tòa nhà đổ sập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T15:29:32+07:00",
+      "fetched": "2026-08-10T23:42:33.919516+07:00"
+    },
+    {
+      "id": "3ec61e606dc0ed205868dc87cf1a34b1",
+      "title": "Động đất rung chuyển Colombia, ít nhất 30 người chết",
+      "link": "https://vnexpress.net/dong-dat-rung-chuyen-colombia-it-nhat-30-nguoi-chet-5107602.html",
+      "summary": "Trận động đất mạnh 7,4 độ làm rung chuyển Colombia và các nước láng giềng ở Mỹ Latin, khiến ít nhất 30 người thiệt mạng, hàng chục tòa nhà đổ sập.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-10T15:29:32+07:00",
+      "fetched": "2026-08-10T23:42:38.885997+07:00"
+    },
+    {
+      "id": "42cda804a05e239effda42ad987c3102",
+      "title": "Phó thủ tướng: Không để doanh nghiệp tốt mất cơ hội kinh doanh vì thiếu vốn",
+      "link": "https://vnexpress.net/pho-thu-tuong-khong-de-doanh-nghiep-tot-mat-co-hoi-kinh-doanh-vi-thieu-von-5107590.html",
+      "summary": "Phó thủ tướng Nguyễn Văn Thắng yêu cầu giảm chi phí vay, đổi mới thẩm định và xử lý vướng mắc, không để doanh nghiệp có dự án tốt thiếu vốn vì thủ tục không cần thiết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T14:53:15+07:00",
+      "fetched": "2026-08-10T23:42:33.919710+07:00"
+    },
+    {
+      "id": "42cda804a05e239effda42ad987c3102",
+      "title": "Phó thủ tướng: Không để doanh nghiệp tốt mất cơ hội kinh doanh vì thiếu vốn",
+      "link": "https://vnexpress.net/pho-thu-tuong-khong-de-doanh-nghiep-tot-mat-co-hoi-kinh-doanh-vi-thieu-von-5107590.html",
+      "summary": "Phó thủ tướng Nguyễn Văn Thắng yêu cầu giảm chi phí vay, đổi mới thẩm định và xử lý vướng mắc, không để doanh nghiệp có dự án tốt thiếu vốn vì thủ tục không cần thiết.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-10T14:53:15+07:00",
+      "fetched": "2026-08-10T23:42:40.011501+07:00"
+    },
+    {
+      "id": "8df1d9c82c913022dacce6501e230372",
+      "title": "Người đàn ông thất nghiệp mạo danh cán bộ thanh tra để lừa 'chạy án'",
+      "link": "https://vnexpress.net/nguoi-dan-ong-that-nghiep-mao-danh-can-bo-thanh-tra-de-lua-chay-an-5107575.html",
+      "summary": "Phan Tấn Phòng, 52 tuổi, đặt mua đồng phục thanh tra, khoe quan hệ rộng có thể \"chạy án\" nhằm chiếm đoạt tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T14:45:51+07:00",
+      "fetched": "2026-08-10T23:42:33.919895+07:00"
+    },
+    {
       "id": "87fe14d3df3c5a9538745ba6fcf277cb",
       "title": "Những cách đơn giản tăng sản lượng điện mặt trời",
       "link": "https://thanhnien.vn/nhung-cach-don-gian-tang-san-luong-dien-mat-troi-185260809204138517.htm",
@@ -611,6 +691,16 @@ window.newsData_2026_08_10 = {
       "category": "Tổng hợp",
       "published": "2026-08-10T14:37:00+07:00",
       "fetched": "2026-08-10T21:49:39.235044+07:00"
+    },
+    {
+      "id": "c06a2cb1ebf2752f87ba6a5c0d239c2f",
+      "title": "Ba đại học đầu tiên đăng ký trở thành 'tinh hoa'",
+      "link": "https://vnexpress.net/ba-dai-hoc-dau-tien-dang-ky-tro-thanh-tinh-hoa-5107578.html",
+      "summary": "VinUni và hai đại học quốc gia đăng ký trở thành cơ sở đào tạo tinh hoa, Bộ Giáo dục nói sẽ giao nhiệm vụ kèm cơ chế đánh giá, chứ không mặc nhiên công nhận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T14:33:39+07:00",
+      "fetched": "2026-08-10T23:42:33.920066+07:00"
     },
     {
       "id": "4abb9a290fd778e90112b7b9bdf5a7f3",
@@ -651,6 +741,16 @@ window.newsData_2026_08_10 = {
       "category": "Thế giới",
       "published": "2026-08-10T14:18:29+07:00",
       "fetched": "2026-08-10T21:49:43.667318+07:00"
+    },
+    {
+      "id": "4dd0196f3f4d636f5882d788cbc0eb1a",
+      "title": "Vợ chồng già 4 giờ sáng đi bán báo ở TP.HCM: ‘Còn sức khỏe là còn đi’",
+      "link": "https://thanhnien.vn/vo-chong-gia-4-gio-sang-di-ban-bao-o-tphcm-con-suc-khoe-la-con-di-185260806192548532.htm",
+      "summary": "Hơn 20 năm qua, dù báo giấy ngày càng ít, vợ chồng ông Sơn, bà Út vẫn đều đặn ra sạp mỗi sáng, xem đó là niềm vui tuổi già.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T14:15:00+07:00",
+      "fetched": "2026-08-10T23:42:36.517822+07:00"
     },
     {
       "id": "65abdcde1476de7bb3d24bb5d0a80e58",
@@ -823,6 +923,26 @@ window.newsData_2026_08_10 = {
       "fetched": "2026-08-10T21:49:39.235880+07:00"
     },
     {
+      "id": "9a8cbaa69a3a5fa339643c4f872b3d80",
+      "title": "Tôi đòi ly hôn chồng mới chịu 'gần gũi' ít ngày",
+      "link": "https://vnexpress.net/toi-doi-ly-hon-chong-moi-chiu-gan-gui-it-ngay-5107534.html",
+      "summary": "Tôi từng nhiều lần hỏi chồng có vấn đề gì không, thậm chí chủ động nói về nhu cầu của mình nhưng anh luôn né tránh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T14:00:00+07:00",
+      "fetched": "2026-08-10T23:42:33.920374+07:00"
+    },
+    {
+      "id": "eda1e9a829c228d532dca3fffe1dfd67",
+      "title": "Đóng tàu hộ vệ chống ngầm đa năng do Việt Nam tự chủ",
+      "link": "https://vnexpress.net/dong-tau-ho-ve-chong-ngam-da-nang-do-viet-nam-tu-chu-5107576.html",
+      "summary": "Tổng công ty Sông Thu phối hợp Quân chủng Hải quân khởi công đóng mới tàu hộ vệ chống ngầm đa năng, sản phẩm tàu chiến lớn và hiện đại nhất từ trước đến nay do Việt Nam tự thiết kế, chế tạo, ngày 10/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T13:55:46+07:00",
+      "fetched": "2026-08-10T23:42:33.920526+07:00"
+    },
+    {
       "id": "10fc3aaa0be2daf89337a504a268bb3c",
       "title": "Cô gái mê cải lương thuyết phục Kim Tử Long, vào chung kết 'Chuông vàng vọng cổ'",
       "link": "https://thanhnien.vn/co-gai-me-cai-luong-thuyet-phuc-kim-tu-long-vao-chung-ket-chuong-vang-vong-co-185260810190600092.htm",
@@ -841,6 +961,16 @@ window.newsData_2026_08_10 = {
       "category": "Tổng hợp",
       "published": "2026-08-10T13:49:00+07:00",
       "fetched": "2026-08-10T21:49:39.236180+07:00"
+    },
+    {
+      "id": "140f9f7e0544319789b6aaeb88893be0",
+      "title": "Miền Bắc nắng nóng 39 độ C",
+      "link": "https://vnexpress.net/mien-bac-nang-nong-39-do-c-5107581.html",
+      "summary": "Một ngày sau Lập thu, miền Bắc vẫn nắng nóng diện rộng, nhiệt độ thực đo ngày 10/8 lên tới 39 độ C tại Tuyên Quang, 38,8 độ C ở Lào Cai và Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T13:46:45+07:00",
+      "fetched": "2026-08-10T23:42:33.920704+07:00"
     },
     {
       "id": "1987ca7a49b99e8bf36a2a226119b379",
