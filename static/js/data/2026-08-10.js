@@ -1,6 +1,6 @@
 window.newsData_2026_08_10 = {
   "date": "2026-08-10",
-  "lastUpdated": "2026-08-10T10:43:02.537270+07:00",
+  "lastUpdated": "2026-08-10T12:15:47.509656+07:00",
   "articles": [
     {
       "id": "b692821565b0ba2343f32b1539c50fc4",
@@ -223,6 +223,356 @@ window.newsData_2026_08_10 = {
       "fetched": "2026-08-10T07:58:46.052343+07:00"
     },
     {
+      "id": "db496c38393b9ecbcd7d84404dbb6ae7",
+      "title": "Hà Nội có tân Giám đốc Sở Xây dựng",
+      "link": "https://thanhnien.vn/ha-noi-co-tan-giam-doc-so-xay-dung-185260810114927249.htm",
+      "summary": "Giám đốc Sở Công thương TP.Hà Nội Võ Nguyên Phong được Ban Thường vụ Thành ủy Hà Nội bổ nhiệm giữ chức Giám đốc Sở Xây dựng Hà Nội, sau khi người tiền nhiệm là ông Nguyễn Phi Thường được điều động nhận nhiệm vụ mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T05:09:00+07:00",
+      "fetched": "2026-08-10T12:15:36.137226+07:00"
+    },
+    {
+      "id": "27ca48adaa89770150247de7c2779fa4",
+      "title": "TP.HCM thu hồi hơn 51 ha đất dự án Sài Gòn Silicon",
+      "link": "https://thanhnien.vn/tphcm-thu-hoi-hon-51-ha-dat-du-an-sai-gon-silicon-185260810111352979.htm",
+      "summary": "UBND TP.HCM quyết định thu hồi hơn 51 ha đất của dự án Sài Gòn Silicon tại Khu Công nghệ cao sau khi dự án bị chấm dứt hoạt động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T05:08:00+07:00",
+      "fetched": "2026-08-10T12:15:36.137395+07:00"
+    },
+    {
+      "id": "471dcaeda36373e7fef8e1032c5ce0d6",
+      "title": "Điểm chuẩn đại học 18 trường quân đội: điểm chuẩn thí sinh nữ gần chạm 'trần'",
+      "link": "https://thanhnien.vn/diem-chuan-dai-hoc-18-truong-quan-doi-diem-chuan-thi-sinh-nu-gan-cham-tran-185260810113118235.htm",
+      "summary": "Điểm chuẩn đại học 18 trường quân đội có sự phân hóa giữa các trường, các ngành, đối tượng nam hay nữ thí sinh. Điểm chuẩn cao đẳng thì cao hơn cả điểm chuẩn một số ngành đại học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T05:06:00+07:00",
+      "fetched": "2026-08-10T12:15:36.137556+07:00"
+    },
+    {
+      "id": "79db53088938ef5e41d307289b5775b2",
+      "title": "Lịch cúp nước 6 phường ở TP.HCM từ tối nay 10.8",
+      "link": "https://thanhnien.vn/lich-cup-nuoc-6-phuong-o-tphcm-tu-toi-nay-108-185260810103812196.htm",
+      "summary": "Từ tối nay 10.8 đến hết ngày 13.8, 6 phường ở TP.HCM cúp nước để thực hiện công tác bảo dưỡng, bảo trì hệ thống đường ống nước sạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T05:01:00+07:00",
+      "fetched": "2026-08-10T12:15:36.137711+07:00"
+    },
+    {
+      "id": "75ec3bc69c35a9a45a78818ce38bdede",
+      "title": "Chuyển động 12h: Tạm đình chỉ công tác Giám đốc Sở GD-ĐT Tuyên Quang | Sự thật clip 'đu thùng xe bán tải'",
+      "link": "https://thanhnien.vn/chuyen-dong-12h-tam-dinh-chi-cong-tac-giam-doc-so-gd-dt-tuyen-quang-su-that-clip-du-thung-xe-ban-tai-185260810105812454.htm",
+      "summary": "Chuyển động 12h của Báo Thanh Niên ngày 10.8.2026 có những thông tin trong nước và quốc tế nóng hổi khác tại địa chỉ thanhnien.vn và kênh YouTube Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T05:00:00+07:00",
+      "fetched": "2026-08-10T12:15:36.137886+07:00"
+    },
+    {
+      "id": "1560f5f1319fba069996e0f12ea7d204",
+      "title": "Phụ kiện nào đang được phái đẹp yêu thích khi chuyển mùa?",
+      "link": "https://thanhnien.vn/thoi-trang-tre/phu-kien-nao-dang-duoc-phai-dep-yeu-thich-khi-chuyen-mua-185260808231212095.htm",
+      "summary": "Thời điểm chuyển mùa gọi tên những món phụ kiện đang được phái đẹp săn đón, từ mũ lưỡi trai, khăn bandana đến túi xách và kính mát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T05:00:00+07:00",
+      "fetched": "2026-08-10T12:15:36.138051+07:00"
+    },
+    {
+      "id": "31d1a7785ee7aa2be9475cf724ce7643",
+      "title": "Vì sao dự án đường sắt Lào Cai - Hà Nội - Hải Phòng tăng vốn 86.000 tỉ?",
+      "link": "https://thanhnien.vn/vi-sao-du-an-duong-sat-lao-cai-ha-noi-hai-phong-tang-von-86000-ti-185260810092348787.htm",
+      "summary": "Dự án đường sắt Lào Cai - Hà Nội - Hải Phòng được đề xuất điều chỉnh quy mô đầu tư, trong đó bổ sung 8,4 km đoạn Yên Viên - Gia Lâm và làm ngay khổ đôi 1.435 mm đoạn Hà Nội - Hải Phòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:56:00+07:00",
+      "fetched": "2026-08-10T12:15:36.138205+07:00"
+    },
+    {
+      "id": "9cf7f2faf16f697c7bf31bed8e404a3d",
+      "title": "FPT phát triển AI cho UAV điện hai rotor nghiêng",
+      "link": "https://vnexpress.net/fpt-phat-trien-ai-cho-uav-dien-hai-rotor-nghieng-5107330.html",
+      "summary": "FPT và công ty công nghệ Hàn Quốc Narma ký hợp tác nghiên cứu, phát triển và thương mại hóa AF100, mẫu UAV điện hai rotor nghiêng đầu tiên trên thế giới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-10T04:54:47+07:00",
+      "fetched": "2026-08-10T12:15:46.434998+07:00"
+    },
+    {
+      "id": "f2b2672f83d58588273d12eb2f3174e4",
+      "title": "ByteDance tham vọng đối đầu Anthropic bằng AI 10.000 tỉ tham số",
+      "link": "https://thanhnien.vn/bytedance-tham-vong-doi-dau-anthropic-bang-ai-10000-ti-tham-so-185260810114232829.htm",
+      "summary": "Cuộc đua AI tiếp tục tăng nhiệt khi ByteDance phát triển mô hình 10.000 tỉ tham số, hơn ba lần quy mô Kimi K3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:51:00+07:00",
+      "fetched": "2026-08-10T12:15:36.138357+07:00"
+    },
+    {
+      "id": "0a3c1371a668bf2473e457080846a7d0",
+      "title": "Điểm chuẩn 3 trường đại học tại Khánh Hòa năm 2026 như thế nào?",
+      "link": "https://thanhnien.vn/diem-chuan-3-truong-dai-hoc-tai-khanh-hoa-nam-2026-nhu-the-nao-185260810111856501.htm",
+      "summary": "3 trường đại học tại Khánh Hòa vừa thông báo điểm chuẩn trúng tuyển đại học chính quy năm 2026, dao động từ 15 đến 27,66 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:49:00+07:00",
+      "fetched": "2026-08-10T12:15:36.138514+07:00"
+    },
+    {
+      "id": "57a4fa71085a4b059997d6dab425bbb3",
+      "title": "21 người bị khởi tố vì lừa bán Đông y 'Xương khớp bà Sáu'",
+      "link": "https://thanhnien.vn/21-nguoi-bi-khoi-to-vi-lua-ban-dong-y-xuong-khop-ba-sau-185260810113020329.htm",
+      "summary": "Bị can Nguyễn Tiến Đạt, 29 tuổi, trú tại Hà Nội, mua sản phẩm 'Xương khớp bà Sáu' với giá 23.000 đồng sau đó thổi phồng công dụng để 'hét giá' 199.000 đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:47:00+07:00",
+      "fetched": "2026-08-10T12:15:36.138666+07:00"
+    },
+    {
+      "id": "85b1667b20bfa071940b0b0615cb1a03",
+      "title": "Gia hạn thời gian hoàn thiện điều kiện khởi công 6 dự án gần 2 triệu tỉ",
+      "link": "https://thanhnien.vn/gia-han-thoi-gian-hoan-thien-dieu-kien-khoi-cong-6-du-an-gan-2-trieu-ti-185260810111643077.htm",
+      "summary": "6 dự án có tổng số vốn đầu tư gần 2 triệu tỉ đồng ở Hà Nội được gia hạn thời gian hoàn thiện điều kiện khởi công thêm 3 tháng, kể từ ngày hết hạn theo quy định tại khoản 2 điều 5 Nghị quyết số 258.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:44:00+07:00",
+      "fetched": "2026-08-10T12:15:36.138823+07:00"
+    },
+    {
+      "id": "72ad2a1a55ce97b0370ae8c6305d5d84",
+      "title": "Không phải Hilton, Marriott... khách sạn này của Việt Nam mới là thương hiệu mạnh nhất thế giới",
+      "link": "https://thanhnien.vn/khong-phai-hilton-marriott-khach-san-nay-cua-viet-nam-moi-la-thuong-hieu-manh-nhat-the-gioi-185260810113221249.htm",
+      "summary": "Với 95,4/100 điểm Brand Strength Index (BSI) và xếp hạng AAA+, Vinpearl đã vượt qua hàng loạt tên tuổi lưu trú lừng danh như TAJ, Scandic, Hilton, Marriott... để vươn lên vị trí số 1 về sức mạnh thương hiệu trong ngành khách sạn toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:39:00+07:00",
+      "fetched": "2026-08-10T12:15:36.138999+07:00"
+    },
+    {
+      "id": "59b04a89b40e031c5319239d9fc88b36",
+      "title": "Phụ nữ, trẻ em bị bạo hành nhưng lại hòa giải kiểu 'đóng cửa bảo nhau'",
+      "link": "https://thanhnien.vn/phu-nu-tre-em-bi-bao-hanh-nhung-lai-hoa-giai-kieu-dong-cua-bao-nhau-185260810110408095.htm",
+      "summary": "Đại biểu Lưu Thị Thúy Hằng (đoàn Phú Thọ) nêu thực tế, phụ nữ, trẻ em bị bạo hành, xâm hại nghiêm trọng nhưng lại hòa giải theo tư duy 'dĩ hòa vi quý', 'đóng cửa bảo nhau' khiến kẻ bạo hành thoát tội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:37:00+07:00",
+      "fetched": "2026-08-10T12:15:36.139156+07:00"
+    },
+    {
+      "id": "e0540dd6a04b6cdfdfdb3f2a0f42fcd8",
+      "title": "Điểm chuẩn Trường ĐH Tài chính-Marketing: Có ngành 29,77 điểm sau quy đổi",
+      "link": "https://thanhnien.vn/diem-chuan-truong-dh-tai-chinh-marketing-co-nganh-2977-diem-sau-quy-doi-18526081009290372.htm",
+      "summary": "Năm 2026, điểm chuẩn Trường ĐH Tài chính-Marketing có ngành lấy 29,77 điểm sau quy đổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:33:00+07:00",
+      "fetched": "2026-08-10T12:15:36.139306+07:00"
+    },
+    {
+      "id": "1dc62a2040b7a749a989803078ee7868",
+      "title": "Bệnh viện đa khoa Sài Gòn Nha Trang có thêm 134 giường bệnh",
+      "link": "https://thanhnien.vn/benh-vien-da-khoa-sai-gon-nha-trang-co-them-134-giuong-benh-185260810110733407.htm",
+      "summary": "Tòa nhà nội trú mới của Bệnh viện đa khoa Sài Gòn Nha Trang được đầu tư đồng bộ về hạ tầng và trang thiết bị, nâng tổng số giường bệnh của bệnh viện lên 234, đáp ứng tốt hơn nhu cầu khám, chữa bệnh của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:31:00+07:00",
+      "fetched": "2026-08-10T12:15:36.139458+07:00"
+    },
+    {
+      "id": "ebe6c6b0d12390ab4557a5cce46f12af",
+      "title": "Điểm chuẩn Đại học Dược Hà Nội từ 21,35",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-duoc-ha-noi-2026-o-4-nganh-kem-hoc-phi-chi-tiet-5107088.html",
+      "summary": "Hai ngành Dược học và Hóa dược của trường Đại học Dược Hà Nội giảm điểm chuẩn trong khi hai ngành còn lại tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:23:16+07:00",
+      "fetched": "2026-08-10T12:15:32.443026+07:00"
+    },
+    {
+      "id": "866b4b5cb919a0769519899e00b14847",
+      "title": "Ninh Bình muốn xây đường 6 làn xe kết nối với Hưng Yên",
+      "link": "https://vnexpress.net/ninh-binh-muon-xay-duong-6-lan-xe-ket-noi-voi-hung-yen-5107177.html",
+      "summary": "Tỉnh Ninh Bình vừa kiến nghị Chính phủ hỗ trợ khoảng 8.000 tỷ đồng để đầu tư tuyến trục dọc 07 dài 45 km, 6 làn xe và cầu vượt sông Hồng kết nối với Hưng Yên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:20:05+07:00",
+      "fetched": "2026-08-10T12:15:32.443212+07:00"
+    },
+    {
+      "id": "d82e4330180e477298d4703f67e1fd65",
+      "title": "Ông Trump: Mỹ đang giữ thái độ chừng mực với Iran",
+      "link": "https://vnexpress.net/ong-trump-my-dang-giu-thai-do-chung-muc-voi-iran-5107193.html",
+      "summary": "Tổng thống Trump nói Mỹ đang xử lý vấn đề với Iran mà không gây ồn ào, thêm rằng Tehran đang chịu áp lực kinh tế ngày càng tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:18:30+07:00",
+      "fetched": "2026-08-10T12:15:32.443378+07:00"
+    },
+    {
+      "id": "d82e4330180e477298d4703f67e1fd65",
+      "title": "Ông Trump: Mỹ đang giữ thái độ chừng mực với Iran",
+      "link": "https://vnexpress.net/ong-trump-my-dang-giu-thai-do-chung-muc-voi-iran-5107193.html",
+      "summary": "Tổng thống Trump nói Mỹ đang xử lý vấn đề với Iran mà không gây ồn ào, thêm rằng Tehran đang chịu áp lực kinh tế ngày càng tăng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-10T04:18:30+07:00",
+      "fetched": "2026-08-10T12:15:40.331578+07:00"
+    },
+    {
+      "id": "020e78eb8c274799b01b4d95b55d6708",
+      "title": "Tìm người cùng em chia sẻ những điều bình thường",
+      "link": "https://vnexpress.net/tim-nguoi-cung-em-chia-se-nhung-dieu-binh-thuong-5105843.html",
+      "summary": "Em trân trọng người đàn ông trưởng thành, tử tế, có trách nhiệm với cuộc sống của mình, có công việc ổn định và biết mình muốn gì.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:16:19+07:00",
+      "fetched": "2026-08-10T12:15:32.443541+07:00"
+    },
+    {
+      "id": "23bfcaf486a6c46c1a2f484bb001881e",
+      "title": "Doanh số Mazda nửa đầu 2026: Xe to giảm, xe nhỏ tăng",
+      "link": "https://vnexpress.net/doanh-so-mazda-nua-dau-2026-xe-to-giam-xe-nho-tang-5107165.html",
+      "summary": "CX-70 và CX-90 sụt giảm doanh số nghiêm trọng buộc hãng Nhật phải chuyển hướng chiến lược, trong khi dòng xe Mazda3 tăng trưởng phi mã.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:02:33+07:00",
+      "fetched": "2026-08-10T12:15:32.443697+07:00"
+    },
+    {
+      "id": "cce66c05dda056ff357376e529707a76",
+      "title": "Thành triệu phú USD nhờ chơi chứng khoán trong khi nghỉ đẻ",
+      "link": "https://vnexpress.net/thanh-trieu-phu-usd-nho-choi-chung-khoan-trong-khi-nghi-de-5107129.html",
+      "summary": "Tranh thủ kỳ nghỉ thai sản để lướt sóng chứng khoán, Choruko, gần 40 tuổi ở Tokyo, từng bước biến số vốn sinh viên thành khối tài sản 500 triệu yen.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:01:31+07:00",
+      "fetched": "2026-08-10T12:15:32.443891+07:00"
+    },
+    {
+      "id": "5cc194928d0e81713d6c2ce4cbeea0ec",
+      "title": "Ba ôtô giang hồ bủa vây cửa hàng để đòi khoản nợ 70 tỷ đồng",
+      "link": "https://vnexpress.net/ba-oto-giang-ho-bua-vay-cua-hang-de-doi-khoan-no-70-ty-dong-5107198.html",
+      "summary": "Ba ôtô dán logo công ty chở vợ chồng ông chủ Hồ Minh Đạt cùng dàn nhân viên xăm trổ bủa vây nhà, cửa hàng, gây sức ép đòi khoản nợ 70 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:01:18+07:00",
+      "fetched": "2026-08-10T12:15:32.444076+07:00"
+    },
+    {
+      "id": "17156b7c020759de49bf742d936eca33",
+      "title": "Tình cũ trở về, anh trai tôi bỏ bạn gái và cắt liên lạc với gia đình",
+      "link": "https://vnexpress.net/luy-tinh-tinh-cu-tro-ve-anh-trai-toi-bo-ban-gai-va-cat-lien-lac-voi-gia-dinh-5107219.html",
+      "summary": "Từ những tin nhắn của chị, anh tức giận thêm và ra khỏi nhà, không về nhà từ hôm đó, cũng không trả lời bố mẹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:00:00+07:00",
+      "fetched": "2026-08-10T12:15:32.444236+07:00"
+    },
+    {
+      "id": "bef5634eba580158fec42baae8ca50ff",
+      "title": "Prudential Việt Nam 10 năm liền Top 'Công ty bảo hiểm uy tín'",
+      "link": "https://vnexpress.net/prudential-viet-nam-10-nam-lien-top-cong-ty-bao-hiem-uy-tin-5107298.html",
+      "summary": "Prudential Việt Nam được Vietnam Report vinh danh trong Top 10 Công ty bảo hiểm uy tín 2026, dựa trên năng lực tài chính, uy tín truyền thông và tín nhiệm từ khách hàng cùng đối tác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:00:00+07:00",
+      "fetched": "2026-08-10T12:15:32.444390+07:00"
+    },
+    {
+      "id": "4910872afbdbb4d24ec8123fdda7f4bf",
+      "title": "Dấu hiệu vỡ ối non",
+      "link": "https://vnexpress.net/dau-hieu-vo-oi-non-5107274.html",
+      "summary": "Rỉ nước âm đạo dễ nhầm với són tiểu hoặc dịch tiết thai kỳ nhưng đây có thể là dấu hiệu vỡ ối non xảy ra trước 37 tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:00:00+07:00",
+      "fetched": "2026-08-10T12:15:32.444551+07:00"
+    },
+    {
+      "id": "18172b909c811ce0bcf8db77531e7d0c",
+      "title": "Chủ xe Lynk &amp; Co 06: 'Tôi chốt mua xe ngay lần đầu lái thử'",
+      "link": "https://vnexpress.net/chu-xe-lynk-co-06-toi-chot-mua-xe-ngay-lan-dau-lai-thu-5107272.html",
+      "summary": "Từng có định kiến với xe Trung Quốc, Đình Huy tìm hiểu và lái thử 4-5 mẫu xe Nhật Bản, rồi bất ngờ khi cầm vô lăng Lynk & Co 06, chọn đây là mẫu xe gắn bó hai năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:00:00+07:00",
+      "fetched": "2026-08-10T12:15:32.444725+07:00"
+    },
+    {
+      "id": "9dee008cab8a86722b8b0025b00dd2de",
+      "title": "Bé 7 tuổi bị cận thị giả",
+      "link": "https://vnexpress.net/be-7-tuoi-bi-can-thi-gia-5107237.html",
+      "summary": "Bé Châu, 7 tuổi, đeo kính cận nhưng nhìn lúc rõ lúc mờ và mỏi mắt, bác sĩ xác định cận thị giả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:00:00+07:00",
+      "fetched": "2026-08-10T12:15:32.444903+07:00"
+    },
+    {
+      "id": "d1c88dc06cc207ad09ff9d6a994741bb",
+      "title": "Ba nhóm thực phẩm giúp giảm trào ngược dạ dày",
+      "link": "https://vnexpress.net/ba-nhom-thuc-pham-giup-giam-trao-nguoc-da-day-5107204.html",
+      "summary": "Thực phẩm giàu chất xơ và có độ kiềm cao, nhiều nước, có thể trung hòa axit dạ dày, giảm nguy cơ trào ngược, ợ nóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T04:00:00+07:00",
+      "fetched": "2026-08-10T12:15:32.445158+07:00"
+    },
+    {
+      "id": "bddbc43c11d4ac9a3f89f5224fb822c6",
+      "title": "Rắc rối khi theo trend ôm bí đao giải nhiệt ở Trung Quốc",
+      "link": "https://vnexpress.net/rac-roi-khi-theo-trend-om-bi-dao-giai-nhiet-o-trung-quoc-5107214.html",
+      "summary": "Nhiều người chia sẻ trải nghiệm đau thương sau khi ôm bí đao đi ngủ vì quả bí phát nổ bắn ra dịch và mùi hôi thối làm bẩn giường chiếu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T03:59:47+07:00",
+      "fetched": "2026-08-10T12:15:32.445330+07:00"
+    },
+    {
+      "id": "bddbc43c11d4ac9a3f89f5224fb822c6",
+      "title": "Rắc rối khi theo trend ôm bí đao giải nhiệt ở Trung Quốc",
+      "link": "https://vnexpress.net/rac-roi-khi-theo-trend-om-bi-dao-giai-nhiet-o-trung-quoc-5107214.html",
+      "summary": "Nhiều người chia sẻ trải nghiệm đau thương sau khi ôm bí đao đi ngủ vì quả bí phát nổ bắn ra dịch và mùi hôi thối làm bẩn giường chiếu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-10T03:59:47+07:00",
+      "fetched": "2026-08-10T12:15:40.331754+07:00"
+    },
+    {
+      "id": "259a23ab9e3d030d7faf52a13f30b138",
+      "title": "Bộ Khoa học và Công nghệ muốn đẩy mạnh nghiên cứu, đổi mới sáng tạo với Australia",
+      "link": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-muon-day-manh-nghien-cuu-doi-moi-sang-tao-voi-australia-5107233.html",
+      "summary": "Bộ trưởng Vũ Hải Quân đề nghị cùng Đại học Công nghệ Sydney đồng tài trợ các dự án nghiên cứu, hướng tới chuyển hợp tác từ giáo dục sang nghiên cứu và đổi mới sáng tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T03:53:57+07:00",
+      "fetched": "2026-08-10T12:15:32.445482+07:00"
+    },
+    {
+      "id": "259a23ab9e3d030d7faf52a13f30b138",
+      "title": "Bộ Khoa học và Công nghệ muốn đẩy mạnh nghiên cứu, đổi mới sáng tạo với Australia",
+      "link": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-muon-day-manh-nghien-cuu-doi-moi-sang-tao-voi-australia-5107233.html",
+      "summary": "Bộ trưởng Vũ Hải Quân đề nghị cùng Đại học Công nghệ Sydney đồng tài trợ các dự án nghiên cứu, hướng tới chuyển hợp tác từ giáo dục sang nghiên cứu và đổi mới sáng tạo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-10T03:53:57+07:00",
+      "fetched": "2026-08-10T12:15:46.434141+07:00"
+    },
+    {
+      "id": "45b409ac445519237a19b3ecc37472ea",
+      "title": "Apple 'bắt đầu thử nghiệm chip nhớ CXMT'",
+      "link": "https://vnexpress.net/apple-bat-dau-thu-nghiem-chip-nho-cxmt-5107184.html",
+      "summary": "Apple được cho là bắt đầu thử nghiệm DRAM từ công ty Trung Quốc CXMT trên iPhone và MacBook, trong bối cảnh khủng hoảng bộ nhớ do AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-10T03:52:00+07:00",
+      "fetched": "2026-08-10T12:15:46.434328+07:00"
+    },
+    {
       "id": "c4a1e9fd16d9066742b328f24d958a90",
       "title": "Gia Lai đề xuất cho 182.000 học sinh mượn sách giáo khoa, kinh phí 42,29 tỉ đồng",
       "link": "https://thanhnien.vn/gia-lai-de-xuat-cho-182000-hoc-sinh-muon-sach-giao-khoa-kinh-phi-4229-ti-dong-185260810101136324.htm",
@@ -271,6 +621,16 @@ window.newsData_2026_08_10 = {
       "category": "Tổng hợp",
       "published": "2026-08-10T03:30:00+07:00",
       "fetched": "2026-08-10T10:42:52.220798+07:00"
+    },
+    {
+      "id": "78ea60f8e2fc0dcd37694cc3bb464846",
+      "title": "Nên mua iPhone 17 hay chờ iPhone 18?",
+      "link": "https://vnexpress.net/nen-mua-iphone-17-hay-cho-iphone-18-5107255.html",
+      "summary": "Tôi đang định mua iPhone 17 thay cho chiếc iPhone 12 cũ, nhưng bạn bè nói nên chờ vì chỉ còn vài tuần là iPhone 18 ra mắt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-10T03:28:02+07:00",
+      "fetched": "2026-08-10T12:15:46.434490+07:00"
     },
     {
       "id": "37424b4c5989365d3f510ec0b8d87b46",
