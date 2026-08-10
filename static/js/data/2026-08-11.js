@@ -1,6 +1,6 @@
 window.newsData_2026_08_11 = {
   "date": "2026-08-11",
-  "lastUpdated": "2026-08-11T03:31:06.295325+07:00",
+  "lastUpdated": "2026-08-11T05:26:27.079333+07:00",
   "articles": [
     {
       "id": "6d44050fdeacbcdbaaea4817680f883c",
@@ -153,6 +153,146 @@ window.newsData_2026_08_11 = {
       "fetched": "2026-08-11T01:42:01.421917+07:00"
     },
     {
+      "id": "b57b52a8bca9282abda99be919f1b2bc",
+      "title": "Bác sĩ: Nghệ mật ong tưởng lành nhưng có thể không phù hợp với các nhóm sau",
+      "link": "https://thanhnien.vn/bac-si-nghe-mat-ong-tuong-lanh-nhung-co-the-khong-phu-hop-voi-cac-nhom-sau-185260810142738872.htm",
+      "summary": "Nghệ mật ong thường được dùng để hỗ trợ dạ dày nhưng chuyên gia cảnh báo không phù hợp với tất cả mọi người, đặc biệt là người mắc bệnh túi mật, đang dùng một số loại thuốc hoặc có triệu chứng tiêu hóa chưa được chẩn đoán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T22:24:00+07:00",
+      "fetched": "2026-08-11T05:26:17.515528+07:00"
+    },
+    {
+      "id": "e7e64ac8a2f4f655ba763d050b046f7f",
+      "title": "Cuộc sống của gần 20 người trong căn nhà tí hon bên rạch ô nhiễm giữa TP.HCM",
+      "link": "https://thanhnien.vn/cuoc-song-cua-gan-20-nguoi-trong-can-nha-ti-hon-ben-rach-o-nhiem-giua-tphcm-185260809093747548.htm",
+      "summary": "Sau nhiều năm gắn bó với những căn nhà ven rạch Văn Thánh, người dân đang chờ đón những đổi thay khi dự án cải tạo hơn 8.555 tỉ đồng sắp được triển khai. Không chỉ cải thiện môi trường, công trình còn được kỳ vọng góp phần nâng cấp hạ tầng và chỉnh trang không gian đô thị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T22:22:00+07:00",
+      "fetched": "2026-08-11T05:26:17.515695+07:00"
+    },
+    {
+      "id": "2bef7fda67ffd1a85c1fa612087355a9",
+      "title": "Tử vi ngày 11 tháng 8: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-11-thang-8-con-giap-nao-may-man-hom-nay-185260810220657606.htm",
+      "summary": "Tử vi ngày 11 tháng 8 mang đến những gợi ý tham khảo cho 12 con giáp. Tử vi hôm nay nhắc rằng một câu hỏi đúng lúc có thể tiết kiệm rất nhiều thời gian, tiền bạc và cả những hiểu lầm không đáng có. Có điều chưa rõ, hôm nay đừng ngại hỏi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T22:15:00+07:00",
+      "fetched": "2026-08-11T05:26:17.515892+07:00"
+    },
+    {
+      "id": "90b64929bb07876c6810c661dd9435f6",
+      "title": "Đề xuất cấm hòa giải với các vụ bạo lực gia đình",
+      "link": "https://thanhnien.vn/de-xuat-cam-hoa-giai-voi-cac-vu-bao-luc-gia-dinh-185260810233111277.htm",
+      "summary": "Nhiều phụ nữ, trẻ em bị bạo hành, xâm hại nghiêm trọng nhưng hòa giải theo tư duy \"đóng cửa bảo nhau\" khiến kẻ bạo hành thoát tội. Do đó, đại biểu Quốc hội đề nghị nghiêm cấm sử dụng hòa giải đối với các vụ việc bạo lực gia đình, xâm hại trẻ em...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T22:08:00+07:00",
+      "fetched": "2026-08-11T05:26:17.516058+07:00"
+    },
+    {
+      "id": "adb19fd89d7b409e49863ce72d01835e",
+      "title": "Người lính góp ngày công, bệnh binh có mái nhà mới",
+      "link": "https://thanhnien.vn/nguoi-linh-gop-ngay-cong-benh-binh-co-mai-nha-moi-18526081018553961.htm",
+      "summary": "Cán bộ, chiến sĩ Đồn biên phòng Cửa khẩu cảng Sa Kỳ (Quảng Ngãi) cùng các lực lượng góp ngày công sửa chữa căn nhà cho bệnh binh Nguyễn Văn Quý, lan tỏa nghĩa tình tri ân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T22:05:00+07:00",
+      "fetched": "2026-08-11T05:26:17.516254+07:00"
+    },
+    {
+      "id": "c607917849e08f3227c86c101ea47244",
+      "title": "Nhận định, dự đoán tỷ số Adelaide vs CLB Công an Hà Nội: Đội khách cửa trên thắng sát nút",
+      "link": "https://thanhnien.vn/nhan-dinh-du-doan-ty-so-adelaide-vs-clb-cong-an-ha-noi-doi-khach-cua-tren-thang-sat-nut-185260811012704735.htm",
+      "summary": "Trận play-off Adelaide vs CLB Công an Hà Nội nhằm xác định đội sẽ đoạt vé dự đấu trường AFC Champions League Elite (Cúp C1 châu Á) mùa giải 2026-2027, diễn ra lúc 16 giờ 30 ngày 11.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T22:04:00+07:00",
+      "fetched": "2026-08-11T05:26:17.516414+07:00"
+    },
+    {
+      "id": "a9e89f61487edc21d3cf6cbd2c6d8051",
+      "title": "Bão Dolphin quần thảo miền đông Trung Quốc",
+      "link": "https://thanhnien.vn/bao-dolphin-quan-thao-mien-dong-trung-quoc-185260810210216767.htm",
+      "summary": "Sau khi quét qua Nhật Bản, bão Dolphin tiếp tục đổ bộ miền đông Trung Quốc, khiến hơn 1 triệu người phải sơ tán, gây mưa kỷ lục và ngập trên diện rộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T22:00:00+07:00",
+      "fetched": "2026-08-11T05:26:17.516563+07:00"
+    },
+    {
+      "id": "dde1e8f9ddf10a8c0c84b5cc95b28845",
+      "title": "Hôm nay 11.8 là ngày gì mà nhiều người quan tâm?  Lịch âm cần lưu ý",
+      "link": "https://thanhnien.vn/hom-nay-118-la-ngay-gi-ma-nhieu-nguoi-quan-tam-lich-am-can-luu-y-185260809155504123.htm",
+      "summary": "Theo lịch dương, lịch âm hôm nay 11.8 là ngày gì đặc biệt ở Việt Nam và trên thế giới mà được nhiều người quan tâm, chú ý?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T22:00:00+07:00",
+      "fetched": "2026-08-11T05:26:17.516712+07:00"
+    },
+    {
+      "id": "f15dc63840eec402b137e4eec643a4e9",
+      "title": "Cách Australia ứng dụng công nghệ để thúc đẩy kinh tế biển",
+      "link": "https://vnexpress.net/cach-australia-ung-dung-cong-nghe-de-thuc-day-kinh-te-bien-5107439.html",
+      "summary": "Từ giám sát chất lượng nước đến gieo trồng san hô, Australia ứng dụng công nghệ để vừa bảo vệ, vừa khai thác tiềm năng kinh tế biển.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-10T22:00:00+07:00",
+      "fetched": "2026-08-11T05:26:25.242330+07:00"
+    },
+    {
+      "id": "e71a6f1f70ca6dd741ef22bc4cbf884c",
+      "title": "iPhone gập có thể có hai màu",
+      "link": "https://vnexpress.net/iphone-gap-co-the-co-hai-mau-5107123.html",
+      "summary": "Hình ảnh phụ kiện cho thấy smartphone màn hình gập đầu tiên của Apple nhiều khả năng có hai màu cơ bản là bạc và xanh đen.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-10T22:00:00+07:00",
+      "fetched": "2026-08-11T05:26:25.242506+07:00"
+    },
+    {
+      "id": "92c6b7c77ecd9e9aedcc198f7a68940e",
+      "title": "Chiến sự Ukraine ngày 1.629: UAV tập kích Nga, 7 công dân Uzbekistan thiệt mạng",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1629-uav-tap-kich-nga-7-cong-dan-uzbekistan-thiet-mang-185260810184652103.htm",
+      "summary": "Ít nhất 13 người thiệt mạng và 39 người bị thương trong một cuộc tấn công bằng máy bay không người lái (UAV) từ Ukraine nhằm vào thành phố Nizhnekamsk, thuộc Cộng hòa Tatarstan của Nga, một trong những vụ gây thương vong nghiêm trọng nhất tại Nga trong nhiều tháng qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T21:34:00+07:00",
+      "fetched": "2026-08-11T05:26:17.516959+07:00"
+    },
+    {
+      "id": "8c14baa2f9ee08fa890ec6a20ab154ed",
+      "title": "Từ 10.8: Khách đi xe hợp đồng không được đón ở những nơi nào?",
+      "link": "https://thanhnien.vn/tu-108-khach-di-xe-hop-dong-khong-duoc-don-o-nhung-noi-nao-185260810193609093.htm",
+      "summary": "Từ 10.8, xe hợp đồng chỉ được đón, trả khách tại địa điểm ghi trong hợp đồng, không được nhận khách ở văn phòng, điểm cố định hay trên đường phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T21:30:00+07:00",
+      "fetched": "2026-08-11T05:26:17.517133+07:00"
+    },
+    {
+      "id": "0e3cdff09892128748b06578240b8c41",
+      "title": "Hot girl bị bạn lừa ra nước ngoài, rơi vào tay nhóm bắt cóc tống tiền",
+      "link": "https://vnexpress.net/hot-girl-bi-ban-lua-ra-nuoc-ngoai-roi-vao-tay-nhom-bat-coc-tong-tien-5107608.html",
+      "summary": "Athena Liya được xác nhận đã bị sát hại, ba năm sau khi cô bị bạn thân lừa sang Philippines và rơi vào tay đường dây bắt cóc xuyên quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T21:00:00+07:00",
+      "fetched": "2026-08-11T05:26:14.952175+07:00"
+    },
+    {
+      "id": "bad36afa52a9c140ea08efebad401ab8",
+      "title": "Ba thói quen ngủ dễ dẫn đến ung thư",
+      "link": "https://vnexpress.net/ba-thoi-quen-ngu-de-dan-den-ung-thu-5107212.html",
+      "summary": "Ba thói quen ngủ nguy hại gồm thiếu ngủ dưới 6 tiếng, thức khuya không ngủ trưa và sinh hoạt thất thường có thể làm tăng nguy cơ mắc ung thư tới 82%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T21:00:00+07:00",
+      "fetched": "2026-08-11T05:26:14.952353+07:00"
+    },
+    {
       "id": "96374b42456fcdc3575643e5e4fe4bbf",
       "title": "Ngân hàng 'khát' vốn",
       "link": "https://vnexpress.net/ngan-hang-khat-von-5107615.html",
@@ -161,6 +301,16 @@ window.newsData_2026_08_11 = {
       "category": "Kinh doanh",
       "published": "2026-08-10T20:18:24+07:00",
       "fetched": "2026-08-11T03:31:00.778336+07:00"
+    },
+    {
+      "id": "46cba4983f2231360b3d52334d9666d1",
+      "title": "Cận cảnh biệt thự gần 90 năm tuổi của Zendaya",
+      "link": "https://vnexpress.net/can-canh-biet-thu-gan-90-nam-tuoi-cua-zendaya-5107490.html",
+      "summary": "Công trình xây từ năm 1939, bố trí sáu phòng ngủ, bảy phòng tắm, nhà khách tách biệt và hồ bơi giữa khuôn viên nhiều cây xanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T19:47:26+07:00",
+      "fetched": "2026-08-11T05:26:14.952686+07:00"
     },
     {
       "id": "100558a1a736f0fbdc235932333adceb",
