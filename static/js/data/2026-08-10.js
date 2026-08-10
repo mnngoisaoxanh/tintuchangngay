@@ -1,7 +1,157 @@
 window.newsData_2026_08_10 = {
   "date": "2026-08-10",
-  "lastUpdated": "2026-08-10T19:44:15.797710+07:00",
+  "lastUpdated": "2026-08-10T21:49:50.634623+07:00",
   "articles": [
+    {
+      "id": "6d4ac9807fbe3fbaf7113794092947f8",
+      "title": "Kiến nghị lộ trình giảm giờ làm khu vực tư xuống 40 - 44 giờ/tuần",
+      "link": "https://tuoitre.vn/kien-nghi-lo-trinh-giam-gio-lam-khu-vuc-tu-xuong-40-44-gio-tuan-100260810200504173.htm",
+      "summary": "Sở Nội vụ Sơn La đã kiến nghị sửa đổi, quy định lộ trình thời giờ làm việc bình thường của người lao động ở khu vực tư nhân xuống còn từ 40 - 44 giờ/tuần, thống nhất với khu vực công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T21:49:41.451898+07:00",
+      "fetched": "2026-08-10T21:49:41.451986+07:00"
+    },
+    {
+      "id": "6594f301680724a10af883e5fe58d281",
+      "title": "Làng cờ tướng Trung Quốc đổi luật, Nguyễn Thành Bảo nhận tin vui",
+      "link": "https://tuoitre.vn/lang-co-tuong-trung-quoc-doi-luat-nguyen-thanh-bao-nhan-tin-vui-100260810195343246.htm",
+      "summary": "Truyền thông Trung Quốc cho biết làng cờ tướng đỉnh cao của nước nhà đang hướng đến việc thay đổi thể thức tính điểm, mang đến lợi thế cho những kỳ thủ có phong cách thi đấu tấn công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T21:49:41.451787+07:00",
+      "fetched": "2026-08-10T21:49:41.451880+07:00"
+    },
+    {
+      "id": "2235fcc31df6b1237d38bd3f9e3163d9",
+      "title": "Nữ quái Việt giỏi 3 ngoại ngữ trốn truy nã đến 4 năm, mới bị bắt tại Campuchia",
+      "link": "https://tuoitre.vn/nu-quai-viet-gioi-3-ngoai-ngu-tron-truy-na-den-4-nam-moi-bi-bat-tai-campuchia-100260810201120871.htm",
+      "summary": "Đào Thị Trang đã bị Công an thành phố Hải Phòng bắt giữ tại Campuchia, sau 4 năm trốn truy nã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T21:49:41.451671+07:00",
+      "fetched": "2026-08-10T21:49:41.451770+07:00"
+    },
+    {
+      "id": "155ae855b8c36796816b76b6c7512abe",
+      "title": "Mưa sao băng Perseid sắp đạt cực đại, có thể thấy tới 100 sao băng mỗi giờ",
+      "link": "https://tuoitre.vn/mua-sao-bang-perseid-sap-dat-cuc-dai-co-the-thay-toi-100-sao-bang-moi-gio-100260810133021677.htm",
+      "summary": "Perseid đạt cực đại đêm 12 rạng sáng 13-8. Trăng non khiến bầu trời tối hơn, giúp người yêu thiên văn dễ quan sát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T21:49:41.451565+07:00",
+      "fetched": "2026-08-10T21:49:41.451656+07:00"
+    },
+    {
+      "id": "6d44050fdeacbcdbaaea4817680f883c",
+      "title": "Hát dở có phải do ‘không có năng khiếu’? Khoa học có câu trả lời bất ngờ",
+      "link": "https://tuoitre.vn/hat-do-co-phai-do-khong-co-nang-khieu-khoa-hoc-co-cau-tra-loi-bat-ngo-100260810120644939.htm",
+      "summary": "Nhiều người hát chênh, phô thực chất gặp khó khăn trong kiểm soát cao độ, nhưng khả năng này có thể cải thiện qua luyện tập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T21:49:41.451449+07:00",
+      "fetched": "2026-08-10T21:49:41.451549+07:00"
+    },
+    {
+      "id": "0a8650c8c5d4c024cd9cb2d5d199636d",
+      "title": "CLB Hoàng Anh Gia Lai sang Thái Lan đấu với đội của HLV Park Hang Seo",
+      "link": "https://tuoitre.vn/clb-hoang-anh-gia-lai-sang-thai-lan-dau-voi-doi-cua-hlv-park-hang-seo-100260810204648151.htm",
+      "summary": "CLB Hoàng Anh Gia Lai sẽ sang Thái Lan tập huấn và thi đấu 5 trận giao hữu tại đây, trong đó có trận gặp đội bóng của HLV Park Hang Seo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T21:49:41.451296+07:00",
+      "fetched": "2026-08-10T21:49:41.451405+07:00"
+    },
+    {
+      "id": "076efe18a05fbfc1a2df3faebe50c57d",
+      "title": "Lotto 5/35 quay 2 lần mỗi ngày: vừa vui vừa có cơ hội trúng thưởng",
+      "link": "https://tuoitre.vn/lotto-5-35-quay-2-lan-moi-ngay-vua-vui-vua-co-co-hoi-trung-thuong-100260810172236222.htm",
+      "summary": "Không cần chờ đợi lâu, với tần suất quay số 2 lần mỗi ngày, xổ số quay nhanh Lotto 5/35 đang trở thành hình thức giải trí được nhiều bạn trẻ chọn lựa để khởi đầu và khép lại một ngày làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T21:49:41.450987+07:00",
+      "fetched": "2026-08-10T21:49:41.451274+07:00"
+    },
+    {
+      "id": "e4b9904f12fa58def746aaf2bcf2934b",
+      "title": "VietinBank bắt tay với Cục Thuế hỗ trợ hộ kinh doanh chuyển đổi số",
+      "link": "https://tuoitre.vn/vietinbank-bat-tay-voi-cuc-thue-ho-tro-ho-kinh-doanh-chuyen-doi-so-100260810204141928.htm",
+      "summary": "VietinBank và Cục Thuế vừa ký thỏa thuận hợp tác, hướng tới hỗ trợ hộ kinh doanh, cá nhân kinh doanh và doanh nghiệp tiếp cận chính sách thuế, hóa đơn điện tử, thanh toán không tiền mặt và các giải pháp tài chính số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T21:49:41.450919+07:00",
+      "fetched": "2026-08-10T21:49:41.450977+07:00"
+    },
+    {
+      "id": "5b00a8f02eda17090f42c4b371279ee8",
+      "title": "Nam sinh lớp 10 Trường chuyên Lê Hồng Phong, TP.HCM đoạt huy chương đồng Olympic AI quốc tế",
+      "link": "https://tuoitre.vn/nam-sinh-lop-10-truong-chuyen-le-hong-phong-tphcm-doat-huy-chuong-dong-olympic-ai-quoc-te-100260810203758974.htm",
+      "summary": "Tối 10-8, ban giám hiệu, các giáo viên, học sinh Trường THPT chuyên Lê Hồng Phong (TP.HCM) cùng gia đình chào đón em Nguyễn Lê Duy Khang trở về nước sau khi giành huy chương đồng tại kỳ thi Olympic trí tuệ nhân tạo quốc tế (IOAI) năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T21:49:41.450850+07:00",
+      "fetched": "2026-08-10T21:49:41.450908+07:00"
+    },
+    {
+      "id": "f8b9895cb9e4a0994ea86f040cec48ed",
+      "title": "Từ vụ bắt Khánh Sky, Vua Quạt: Không để 'giang hồ mạng' nhởn nhơ gây nguy hại cho trẻ em",
+      "link": "https://tuoitre.vn/tu-vu-bat-khanh-sky-vua-quat-khong-de-giang-ho-mang-nhon-nho-gay-nguy-hai-cho-tre-em-100260810203614455.htm",
+      "summary": "Đại biểu Quốc hội, chuyên gia cho rằng việc xử lý nghiêm các 'giang hồ mạng' không chỉ để răn đe mà còn góp phần xây dựng môi trường số văn minh, bảo vệ trẻ em, các giá trị văn hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T21:49:41.450781+07:00",
+      "fetched": "2026-08-10T21:49:41.450840+07:00"
+    },
+    {
+      "id": "498e40e47e5f2e1ed816fdc9c09cbb5c",
+      "title": "Chưa có bằng chứng truyền ‘máu trẻ’ giúp chống lão hóa",
+      "link": "https://tuoitre.vn/chua-co-bang-chung-truyen-mau-tre-giup-chong-lao-hoa-100260810210450389.htm",
+      "summary": "Các chuyên gia khẳng định chưa có cơ sở  khoa học chứng minh truyền máu hoặc huyết tương của người trẻ có thể giúp con người trẻ lại, sống lâu hơn hay ngăn ngừa các bệnh liên quan đến tuổi già.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T21:49:41.450696+07:00",
+      "fetched": "2026-08-10T21:49:41.450769+07:00"
+    },
+    {
+      "id": "5973e7e7c453860274fb7c0fa831d0f7",
+      "title": "FIFA hét giá FIFA ASEAN Cup 2026 đến 3 triệu USD?",
+      "link": "https://tuoitre.vn/fifa-het-gia-fifa-asean-cup-2026-den-3-trieu-usd-100260810204440416.htm",
+      "summary": "Theo truyền thông Thái Lan ngày 10-8 đưa tin, Liên đoàn Bóng đá thế giới (FIFA) hét giá bản quyền FIFA ASEAN Cup 2026 lên con số không tưởng: 3 triệu USD (khoảng 78,6 tỉ đồng).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T21:49:41.450623+07:00",
+      "fetched": "2026-08-10T21:49:41.450685+07:00"
+    },
+    {
+      "id": "3f4a8f5553ce598a50011c710edad10e",
+      "title": "Tân chỉ huy lực lượng drone Ukraine dọa tập trung đánh Crimea nếu đủ điều kiện",
+      "link": "https://tuoitre.vn/tan-chi-huy-luc-luong-drone-ukraine-doa-tap-trung-danh-crimea-neu-du-dieu-kien-100260810210142174.htm",
+      "summary": "Chỉ huy lực lượng drone của Ukraine cho rằng lực lượng của ông chỉ được trang bị 14% yêu cầu thực tế, nhưng vẫn mang lại kết quả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T21:49:41.450550+07:00",
+      "fetched": "2026-08-10T21:49:41.450612+07:00"
+    },
+    {
+      "id": "3a1f9fef6f23c807414893a76c332656",
+      "title": "Công nghệ mới giúp vắc xin không cần bảo quản trong tủ lạnh",
+      "link": "https://tuoitre.vn/cong-nghe-moi-giup-vac-xin-khong-can-bao-quan-trong-tu-lanh-100260810211811115.htm",
+      "summary": "Các nhà khoa học Anh lần đầu tiên thử nghiệm thành công trên người một loại vắc xin không cần bảo quản trong tủ lạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T21:49:41.450467+07:00",
+      "fetched": "2026-08-10T21:49:41.450538+07:00"
+    },
+    {
+      "id": "02cd88e29aa818bcc5d49af3a2ff171a",
+      "title": "TP.HCM khánh thành ngôi trường mang tên Đại tướng Võ Nguyên Giáp",
+      "link": "https://tuoitre.vn/tphcm-khanh-thanh-ngoi-truong-mang-ten-dai-tuong-vo-nguyen-giap-10026081020593699.htm",
+      "summary": "Ngày 10-8, Sở Giáo dục và Đào tạo TP.HCM đã tổ chức lễ khánh thành Trường THPT Võ Nguyên Giáp, phường Phú Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T21:49:41.450297+07:00",
+      "fetched": "2026-08-10T21:49:41.450452+07:00"
+    },
     {
       "id": "4e488c89f59f110fb3299d58e97308c7",
       "title": "Ai Cập - Qatar xây dựng trung tâm đô thị - du lịch kết nối ba châu lục",
@@ -453,6 +603,56 @@ window.newsData_2026_08_10 = {
       "fetched": "2026-08-10T16:06:58.536149+07:00"
     },
     {
+      "id": "87fe14d3df3c5a9538745ba6fcf277cb",
+      "title": "Những cách đơn giản tăng sản lượng điện mặt trời",
+      "link": "https://thanhnien.vn/nhung-cach-don-gian-tang-san-luong-dien-mat-troi-185260809204138517.htm",
+      "summary": "Không chỉ phụ thuộc vào công suất tấm pin, sản lượng điện mặt trời còn bị chi phối bởi cách lắp đặt và vận hành hệ thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T14:37:00+07:00",
+      "fetched": "2026-08-10T21:49:39.235044+07:00"
+    },
+    {
+      "id": "4abb9a290fd778e90112b7b9bdf5a7f3",
+      "title": "Điểm chuẩn Trường đại học Đồng Nai: Tất cả các ngành đều trên 20",
+      "link": "https://thanhnien.vn/diem-chuan-truong-dai-hoc-dong-nai-tat-ca-cac-nganh-deu-tren-20-185260810211049501.htm",
+      "summary": "Điểm chuẩn 16 ngành đào tạo của Trường đại học Đồng Nai đều trên 20. Trong đó, cao nhất là sư phạm toán học: 26,04 điểm; thấp nhất là kỹ thuật cơ khí: 20,30 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T14:25:00+07:00",
+      "fetched": "2026-08-10T21:49:39.235218+07:00"
+    },
+    {
+      "id": "6881fa10d2cddfcc4fd824d987567c87",
+      "title": "Ăn chuột đồng nhiều ngày, 3 chị em ngộ độc thuốc diệt chuột",
+      "link": "https://thanhnien.vn/an-chuot-dong-nhieu-ngay-3-chi-em-ngo-doc-thuoc-diet-chuot-18526081020554794.htm",
+      "summary": "Sau 1 tuần ăn chuột đồng, 3 chị em bị ngộ độc thuốc diệt chuột, rối loạn đông máu nặng. Trong đó, một em xuất huyết nặng, suy hô hấp và phải thở máy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T14:23:00+07:00",
+      "fetched": "2026-08-10T21:49:39.235384+07:00"
+    },
+    {
+      "id": "9306d685cbd5490d6ec758fa6ab08304",
+      "title": "Điểm chuẩn các ngành kỹ thuật then chốt đồng loạt tăng",
+      "link": "https://thanhnien.vn/diem-chuan-cac-nganh-ky-thuat-then-chot-dong-loat-tang-185260810211115765.htm",
+      "summary": "Điểm chuẩn các ngành kỹ thuật then chốt của ĐH Công nghiệp Hà Nội đồng loạt tăng từ 0,75 đến 1,62 điểm so với năm ngoái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T14:20:00+07:00",
+      "fetched": "2026-08-10T21:49:39.235571+07:00"
+    },
+    {
+      "id": "8e6e819f242cfeb069e65f34236a0a69",
+      "title": "Tổng Bí thư, Chủ tịch nước mong trí thức Việt ở Australia làm cầu nối chuyển giao công nghệ",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-mong-tri-thuc-viet-o-australia-lam-cau-noi-chuyen-giao-cong-nghe-5107582.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm gặp các trí thức, nhà khoa học Việt Nam ở Australia, cho rằng đây là cầu nối chuyển giao công nghệ và phát triển \"lực lượng sản xuất mới\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-10T14:18:29+07:00",
+      "fetched": "2026-08-10T21:49:43.667318+07:00"
+    },
+    {
       "id": "65abdcde1476de7bb3d24bb5d0a80e58",
       "title": "Bức chân dung tươi tắn của người lính tìm thấy ở mộ liệt sĩ",
       "link": "https://tuoitre.vn/buc-chan-dung-tuoi-tan-cua-nguoi-linh-tim-thay-o-mo-liet-si-100260810103852746.htm",
@@ -601,6 +801,226 @@ window.newsData_2026_08_10 = {
       "category": "Tổng hợp",
       "published": "2026-08-10T14:10:23.222822+07:00",
       "fetched": "2026-08-10T14:10:23.223012+07:00"
+    },
+    {
+      "id": "93a40f87cd39896af715cc398b933598",
+      "title": "Hà Nội thêm 540 chỉ tiêu vào lớp 10 trường công cho học sinh chưa trúng tuyển",
+      "link": "https://thanhnien.vn/ha-noi-them-540-chi-tieu-vao-lop-10-truong-cong-cho-hoc-sinh-chua-trung-tuyen-185260810203232284.htm",
+      "summary": "Học sinh không trúng tuyển tất cả các nguyện vọng vào lớp 10  đã đăng ký sẽ có cơ hội đăng ký xét tuyển vào một trường THPT công mới thành lập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T14:07:00+07:00",
+      "fetched": "2026-08-10T21:49:39.235727+07:00"
+    },
+    {
+      "id": "95c886383a64e90e8543536f0f07d4e0",
+      "title": "Thương hiệu xe máy điện mới Việt Nam sắp phân phối đồng loạt 4 sản phẩm",
+      "link": "https://thanhnien.vn/thuong-hieu-xe-may-dien-moi-viet-nam-sap-phan-phoi-dong-loat-4-san-pham-185260808112708454.htm",
+      "summary": "Thị trường xe máy điện Việt Nam sắp có thêm \"tân binh\", khi TMT Motors xác nhận sẽ ra mắt thương hiệu e-Motor; đồng thời dự kiến mở bán đồng loạt 4 mẫu xe đầu tiên từ tháng 9.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T14:04:00+07:00",
+      "fetched": "2026-08-10T21:49:39.235880+07:00"
+    },
+    {
+      "id": "10fc3aaa0be2daf89337a504a268bb3c",
+      "title": "Cô gái mê cải lương thuyết phục Kim Tử Long, vào chung kết 'Chuông vàng vọng cổ'",
+      "link": "https://thanhnien.vn/co-gai-me-cai-luong-thuyet-phuc-kim-tu-long-vao-chung-ket-chuong-vang-vong-co-185260810190600092.htm",
+      "summary": "Được NSND Kim Tử Long cùng các giám khảo khen ngợi, cô gái mê cải lương Huỳnh Kim Tho giành suất vào vòng chung kết 'Chuông vàng vọng cổ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T13:55:00+07:00",
+      "fetched": "2026-08-10T21:49:39.236031+07:00"
+    },
+    {
+      "id": "b19e21b3d9ce884b53c018dcb6e8457d",
+      "title": "Xương voi ma mút, đạn pháo, chiến hạm: tàn tích bất ngờ trên đáy sông cạn nước",
+      "link": "https://thanhnien.vn/xuong-voi-ma-mut-dan-phao-chien-ham-tan-tich-bat-ngo-tren-day-song-can-nuoc-185260810174444345.htm",
+      "summary": "Năm 1944, khi Hồng quân tiến vào châu Âu, quân Đức Quốc xã đang rút lui đã cố tình đánh đắm hàng trăm tàu chiến trên sông Danube. Giờ đây, khi đợt hạn hán nghiêm trọng khiến mực nước sông xuống mức thấp kỷ lục, hạm đội này đã lộ diện trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T13:49:00+07:00",
+      "fetched": "2026-08-10T21:49:39.236180+07:00"
+    },
+    {
+      "id": "1987ca7a49b99e8bf36a2a226119b379",
+      "title": "HLV Malaysia dè chừng đội tuyển Việt Nam với lối chơi đầy biến hóa",
+      "link": "https://thanhnien.vn/hlv-malaysia-de-chung-doi-tuyen-viet-nam-voi-loi-choi-day-bien-hoa-185260810174929657.htm",
+      "summary": "Đội tuyển Việt Nam không áp đảo về thời lượng kiểm soát bóng, nhưng vẫn cho thấy hiệu quả vượt trội nhờ khả năng chuyển trạng thái và tận dụng cơ hội. Đây là điểm mạnh giúp thầy trò HLV Kim Sang-sik hướng đến bán kết ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T13:44:00+07:00",
+      "fetched": "2026-08-10T21:49:39.236353+07:00"
+    },
+    {
+      "id": "a8363915b06638c3e9b03663a5a7d105",
+      "title": "Chủ thầu trả công cho thợ xây bằng ma túy",
+      "link": "https://thanhnien.vn/chu-thau-tra-cong-cho-tho-xay-bang-ma-tuy-185260810175807876.htm",
+      "summary": "Chủ thầu xây dựng tại Phú Thọ bị bắt tạm giam vì có hành vi sử dụng ma túy để trả công cho thợ xây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T13:40:00+07:00",
+      "fetched": "2026-08-10T21:49:39.236532+07:00"
+    },
+    {
+      "id": "bcfa02af87b35da2506a4a8c7f38abe2",
+      "title": "Nhà báo Malaysia thừa nhận Việt Nam ở cửa trên, mong đội nhà không quá lép vế",
+      "link": "https://thanhnien.vn/nha-bao-malaysia-thua-nhan-viet-nam-o-cua-tren-mong-doi-nha-khong-qua-lep-ve-185260810201829126.htm",
+      "summary": "Nhà báo Oleh Zulfaizan Mansor của Berita Harian đánh giá đội tuyển Việt Nam là thử thách rất khó đối với Malaysia ở bán kết ASEAN Cup 2026. Tuy nhiên, ông cũng kỳ vọng Harimau Malaya sẽ không bị tâm lý và cần thi đấu dũng cảm hơn để tạo bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T13:39:00+07:00",
+      "fetched": "2026-08-10T21:49:39.236688+07:00"
+    },
+    {
+      "id": "69655b25c8a76144b42a79e15103a137",
+      "title": "Chủ tịch tỉnh phải chịu trách nhiệm nếu 'ách tắc' cấp mã số sầu riêng",
+      "link": "https://thanhnien.vn/chu-tich-tinh-phai-chiu-trach-nhiem-neu-ach-tac-cap-ma-so-sau-rieng-18526081019180286.htm",
+      "summary": "Phó thủ tướng Hồ Quốc Dũng yêu cầu chủ tịch UBND tỉnh, thành chịu trách nhiệm nếu để xảy ra ách tắc trong việc cấp mã số vùng trồng, mã số cơ sở đóng gói, kiểm nghiệm hoặc ảnh hưởng đến hoạt động xuất khẩu sầu riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T13:38:00+07:00",
+      "fetched": "2026-08-10T21:49:39.236854+07:00"
+    },
+    {
+      "id": "641c1d75caf233e1c48e0715b015523e",
+      "title": "Nữ sinh rối loạn tâm thần bởi áp lực học tập",
+      "link": "https://vnexpress.net/nu-sinh-roi-loan-tam-than-boi-ap-luc-hoc-tap-5107574.html",
+      "summary": "Thấy con gái mất kinh liên tiếp ba tháng, kèm buồn nôn, gia đình đưa con đi khám sản khoa vì lo có thai, nhưng kết quả ghi nhận rối loạn lo âu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T13:37:36+07:00",
+      "fetched": "2026-08-10T21:49:35.998076+07:00"
+    },
+    {
+      "id": "3132d980af7e21fdb8515f3d37904354",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm đến thủ đô Canberra, tiếp tục chuyến thăm Úc",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-den-thu-do-canberra-tiep-tuc-chuyen-tham-uc-185260810202219109.htm",
+      "summary": "Tối 10.8, theo giờ địa phương, Tổng Bí thư, Chủ tịch nước Tô Lâm cùng Đoàn đại biểu cấp cao Việt Nam đã đến thủ đô Canberra, tiếp tục chuyến thăm cấp nhà nước Úc từ ngày 9 - 12.8, theo lời mời của Toàn quyền Úc Sam Mostyn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T13:37:00+07:00",
+      "fetched": "2026-08-10T21:49:39.237004+07:00"
+    },
+    {
+      "id": "3477c3ad1113cd064cae3b5dfae438ae",
+      "title": "PSSI không ngờ Indonesia bị loại, tuyên bố mang đội hình mạnh nhất dự FIFA ASEAN Cup",
+      "link": "https://thanhnien.vn/pssi-khong-ngo-indonesia-bi-loai-tuyen-bo-mang-doi-hinh-manh-nhat-du-fifa-asean-cup-185260810193121027.htm",
+      "summary": "Sau cú sốc bị loại ngay vòng bảng ASEAN Cup 2026, Liên đoàn Bóng đá Indonesia (PSSI) lên tiếng kêu gọi người hâm mộ không có những hành động tiêu cực nhằm vào các cầu thủ, đồng thời khẳng định đội tuyển Indonesia sẽ hướng tới FIFA ASEAN Cup 2026 với lực lượng mạnh nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T13:34:00+07:00",
+      "fetched": "2026-08-10T21:49:39.237160+07:00"
+    },
+    {
+      "id": "fe2779627552e16086f8d5492780e49e",
+      "title": "Hàn Quốc rót vốn khủng, dời căn cứ quân sự mở đất cho ngành chip",
+      "link": "https://thanhnien.vn/han-quoc-rot-von-khung-doi-can-cu-quan-su-mo-dat-cho-nganh-chip-18526081019310998.htm",
+      "summary": "Hàn Quốc sẽ thành lập quỹ bán dẫn trị giá 5.000 tỉ won (khoảng 3,52 tỉ USD), tập trung hỗ trợ các doanh nghiệp sản xuất vật liệu, linh kiện, thiết bị và các công ty thiết kế chip tiềm năng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T13:33:00+07:00",
+      "fetched": "2026-08-10T21:49:39.237313+07:00"
+    },
+    {
+      "id": "85b4fe9781f5ae95a5d3adbe82c3535c",
+      "title": "Vietjet mở tuyến kết nối đến sân bay quốc tế mới Australia",
+      "link": "https://vnexpress.net/vietjet-mo-tuyen-ket-noi-den-san-bay-quoc-te-moi-australia-5107580.html",
+      "summary": "Vietjet khai thác đường bay TP HCM - Western Sydney từ tháng 1/2027, kết nối Việt Nam với sân bay quốc tế mới của Australia, mở thêm cơ hội giao thương và du lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T13:30:00+07:00",
+      "fetched": "2026-08-10T21:49:35.998258+07:00"
+    },
+    {
+      "id": "85b4fe9781f5ae95a5d3adbe82c3535c",
+      "title": "Vietjet mở tuyến kết nối đến sân bay quốc tế mới Australia",
+      "link": "https://vnexpress.net/vietjet-mo-tuyen-ket-noi-den-san-bay-quoc-te-moi-australia-5107580.html",
+      "summary": "Vietjet khai thác đường bay TP HCM - Western Sydney từ tháng 1/2027, kết nối Việt Nam với sân bay quốc tế mới của Australia, mở thêm cơ hội giao thương và du lịch.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-10T13:30:00+07:00",
+      "fetched": "2026-08-10T21:49:45.751920+07:00"
+    },
+    {
+      "id": "f38abad65ddd2aabea56936b257bb9cf",
+      "title": "Việt Nam đặt mục tiêu sẽ thương mại hóa 15 sản phẩm công nghệ chiến lược",
+      "link": "https://vnexpress.net/viet-nam-dat-muc-tieu-se-thuong-mai-hoa-15-san-pham-cong-nghe-chien-luoc-5107567.html",
+      "summary": "Việt Nam đặt mục tiêu đến năm 2030 làm chủ 4 công nghệ và thương mại hóa 15 sản phẩm công nghệ chiến lược, trong đó 5 sản phẩm ra thị trường khu vực hoặc quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T13:28:37+07:00",
+      "fetched": "2026-08-10T21:49:35.998467+07:00"
+    },
+    {
+      "id": "f38abad65ddd2aabea56936b257bb9cf",
+      "title": "Việt Nam đặt mục tiêu sẽ thương mại hóa 15 sản phẩm công nghệ chiến lược",
+      "link": "https://vnexpress.net/viet-nam-dat-muc-tieu-se-thuong-mai-hoa-15-san-pham-cong-nghe-chien-luoc-5107567.html",
+      "summary": "Việt Nam đặt mục tiêu đến năm 2030 làm chủ 4 công nghệ và thương mại hóa 15 sản phẩm công nghệ chiến lược, trong đó 5 sản phẩm ra thị trường khu vực hoặc quốc tế.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-10T13:28:37+07:00",
+      "fetched": "2026-08-10T21:49:49.207103+07:00"
+    },
+    {
+      "id": "836957341918a9d4e1bd63116d0a3d1d",
+      "title": "Nước nào có nhiều cư dân siêu giàu nhất thế giới?",
+      "link": "https://vnexpress.net/nuoc-nao-co-nhieu-cu-dan-sieu-giau-nhat-the-gioi-5107577.html",
+      "summary": "Số người sở hữu ít nhất 30 triệu USD ở đây nhiều gấp đôi nước thứ hai trong bảng xếp hạng. Đây là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T13:08:01+07:00",
+      "fetched": "2026-08-10T21:49:35.998633+07:00"
+    },
+    {
+      "id": "114cdc1c9db14dd1e91974e8e33bc1db",
+      "title": "Những người con nối nghiệp các sao Hollywood",
+      "link": "https://vnexpress.net/nhung-nguoi-con-noi-nghiep-cac-sao-hollywood-5107239.html",
+      "summary": "Kaia Gerber kế thừa sự nghiệp của mẹ - siêu mẫu Cindy Crawford, con trai của Richard Gere nối gót bố trở thành tài tử thế hệ mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T13:02:59+07:00",
+      "fetched": "2026-08-10T21:49:35.998788+07:00"
+    },
+    {
+      "id": "410419b9f9bf5e006bd119b2e0c7fde7",
+      "title": "Sếp: ' Lương 15 triệu là quá cao vì nhân viên dùng AI làm việc'",
+      "link": "https://vnexpress.net/chatgpt-bao-cao-nhan-vien-nhan-luong-15-trieu-cao-hay-thap-5107433.html",
+      "summary": "Sếp dùng AI nhận xét báo cáo của nhân viên rồi lại lo nhân viên dùng AI mà vẫn trả lương như cũ thì quá hời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T13:00:00+07:00",
+      "fetched": "2026-08-10T21:49:35.998942+07:00"
+    },
+    {
+      "id": "94ea751f99cd07f40179924595e2735c",
+      "title": "Hai lý do khiến điểm chuẩn khối ngành xã hội 'lao dốc'",
+      "link": "https://vnexpress.net/vi-sao-diem-chuan-bao-chi-truyen-thong-luat-va-khoi-xa-hoi-giam-manh-5107493.html",
+      "summary": "Không còn những mốc \"chạm trần\" 30/30, đầu vào nhiều ngành xã hội giảm mạnh do phổ điểm thi thấp, các trường tăng chỉ tiêu hay bỏ khối C00.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T12:51:14+07:00",
+      "fetched": "2026-08-10T21:49:35.999093+07:00"
+    },
+    {
+      "id": "98c0bc18f4c04feab8bd114fac121483",
+      "title": "Xe đua lao vào đám đông khán giả, 8 người chết",
+      "link": "https://vnexpress.net/xe-dua-lao-vao-dam-dong-khan-gia-8-nguoi-chet-5107571.html",
+      "summary": "Chiếc ôtô tham gia giải đua ở đảo Sulawesi mất lái, lao vào đám đông khán giả đứng xem, khiến ít nhất 8 người thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T12:49:00+07:00",
+      "fetched": "2026-08-10T21:49:35.999252+07:00"
+    },
+    {
+      "id": "98c0bc18f4c04feab8bd114fac121483",
+      "title": "Xe đua lao vào đám đông khán giả, 8 người chết",
+      "link": "https://vnexpress.net/xe-dua-lao-vao-dam-dong-khan-gia-8-nguoi-chet-5107571.html",
+      "summary": "Chiếc ôtô tham gia giải đua ở đảo Sulawesi mất lái, lao vào đám đông khán giả đứng xem, khiến ít nhất 8 người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-10T12:49:00+07:00",
+      "fetched": "2026-08-10T21:49:43.667554+07:00"
     },
     {
       "id": "f0862f65cbb5bb90b07acc956f5bf81f",
