@@ -1,6 +1,6 @@
 window.newsData_2026_08_11 = {
   "date": "2026-08-11",
-  "lastUpdated": "2026-08-11T01:42:07.159356+07:00",
+  "lastUpdated": "2026-08-11T03:31:06.295325+07:00",
   "articles": [
     {
       "id": "6d44050fdeacbcdbaaea4817680f883c",
@@ -151,6 +151,66 @@ window.newsData_2026_08_11 = {
       "category": "Tổng hợp",
       "published": "2026-08-11T01:42:01.421789+07:00",
       "fetched": "2026-08-11T01:42:01.421917+07:00"
+    },
+    {
+      "id": "96374b42456fcdc3575643e5e4fe4bbf",
+      "title": "Ngân hàng 'khát' vốn",
+      "link": "https://vnexpress.net/ngan-hang-khat-von-5107615.html",
+      "summary": "Thời gian gần đây, nhiều nhân viên ngân hàng rốt ráo tìm khách gửi tiền, từ đăng trên mạng xã hội đến \"cầu cứu\" người thân, còn các nhà băng tăng tốc huy động trái phiếu, vay nước ngoài.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-10T20:18:24+07:00",
+      "fetched": "2026-08-11T03:31:00.778336+07:00"
+    },
+    {
+      "id": "100558a1a736f0fbdc235932333adceb",
+      "title": "Lãi cổ phiếu gần 50%, có nên dùng margin kiếm thêm?",
+      "link": "https://vnexpress.net/lai-co-phieu-gan-50-co-nen-dung-margin-kiem-them-5107408.html",
+      "summary": "Theo chuyên gia, bản chất của margin là khuếch đại cả lợi nhuận lẫn thua lỗ, nếu sử dụng quá mức, có thể phải bán cổ phiếu lúc bất lợi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T19:39:27+07:00",
+      "fetched": "2026-08-11T03:30:53.792173+07:00"
+    },
+    {
+      "id": "100558a1a736f0fbdc235932333adceb",
+      "title": "Lãi cổ phiếu gần 50%, có nên dùng margin kiếm thêm?",
+      "link": "https://vnexpress.net/lai-co-phieu-gan-50-co-nen-dung-margin-kiem-them-5107408.html",
+      "summary": "Theo chuyên gia, bản chất của margin là khuếch đại cả lợi nhuận lẫn thua lỗ, nếu sử dụng quá mức, có thể phải bán cổ phiếu lúc bất lợi.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-10T19:39:27+07:00",
+      "fetched": "2026-08-11T03:31:00.778515+07:00"
+    },
+    {
+      "id": "db2951cf5004d680a54f951f19f8d483",
+      "title": "Cuộc đối đầu xoay quanh làn đường dành cho xe đạp ở Chicago",
+      "link": "https://vnexpress.net/cuoc-doi-dau-xoay-quanh-lan-duong-danh-cho-xe-dap-o-chicago-5107546.html",
+      "summary": "Các quan chức thành phố coi việc có thêm làn xe đạp tại Đại lộ Archer là biện pháp nâng cao an toàn, trong khi các chủ nhà hàng than phiền bị mất khách vì không còn chỗ đỗ ôtô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T19:00:00+07:00",
+      "fetched": "2026-08-11T03:30:53.792361+07:00"
+    },
+    {
+      "id": "db2951cf5004d680a54f951f19f8d483",
+      "title": "Cuộc đối đầu xoay quanh làn đường dành cho xe đạp ở Chicago",
+      "link": "https://vnexpress.net/cuoc-doi-dau-xoay-quanh-lan-duong-danh-cho-xe-dap-o-chicago-5107546.html",
+      "summary": "Các quan chức thành phố coi việc có thêm làn xe đạp tại Đại lộ Archer là biện pháp nâng cao an toàn, trong khi các chủ nhà hàng than phiền bị mất khách vì không còn chỗ đỗ ôtô.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-10T19:00:00+07:00",
+      "fetched": "2026-08-11T03:30:59.768857+07:00"
+    },
+    {
+      "id": "e519566195c3c82e05ab8b6c2ac62838",
+      "title": "Cần thêm 588 tỷ đồng để khai thác hồ trữ một triệu m3 nước",
+      "link": "https://vnexpress.net/can-them-588-ty-dong-de-khai-thac-ho-tru-mot-trieu-m3-nuoc-5107587.html",
+      "summary": "Hồ trữ nước ngọt tại xã Vĩnh Tường được đề xuất đầu tư thêm 588 tỷ đồng để cấp nước cho người dân, kết hợp du lịch, nông nghiệp và sản xuất điện mặt trời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T18:00:00+07:00",
+      "fetched": "2026-08-11T03:30:53.792530+07:00"
     },
     {
       "id": "d716549feb7b82cfd0d4c41b25854fee",
