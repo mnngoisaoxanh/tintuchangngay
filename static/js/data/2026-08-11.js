@@ -1,7 +1,157 @@
 window.newsData_2026_08_11 = {
   "date": "2026-08-11",
-  "lastUpdated": "2026-08-11T19:41:02.792385+07:00",
+  "lastUpdated": "2026-08-11T21:49:51.809846+07:00",
   "articles": [
+    {
+      "id": "48a430a4a94f1814b67d1cfd136f8507",
+      "title": "Có bệnh viện TP.HCM 'săn' tuyển hàng chục điều dưỡng",
+      "link": "https://tuoitre.vn/co-benh-vien-tphcm-san-tuyen-hang-chuc-dieu-duong-100260811174647828.htm",
+      "summary": "Ngày hội việc làm ngành y tế TP.HCM năm 2026 ghi nhận hàng loạt bệnh viện, trung tâm y tế đăng ký tuyển dụng hàng trăm nhân sự. Đáng chú ý, điều dưỡng chiếm tỉ lệ lớn trong nhu cầu tuyển dụng của nhiều bệnh viện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:49:45.257554+07:00",
+      "fetched": "2026-08-11T21:49:45.257611+07:00"
+    },
+    {
+      "id": "c3e576a0eac0889c3718c54a637d948b",
+      "title": "Đưa bài giải vào phòng thi, làm lộ đề có thể bị phạt đến 70 triệu đồng",
+      "link": "https://tuoitre.vn/dua-bai-giai-vao-phong-thi-lam-lo-de-co-the-bi-phat-den-70-trieu-dong-100260811184058034.htm",
+      "summary": "Các hành vi gian lận thi cử như để cho thí sinh quay cóp, giải bài thi cho thí sinh, đưa bài giải từ ngoài vào phòng thi, làm lộ đề thi có thể bị xử phạt từ 10 đến 70 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:49:45.257488+07:00",
+      "fetched": "2026-08-11T21:49:45.257544+07:00"
+    },
+    {
+      "id": "5d04a5f0f241979e8a7c44ed69e3c9af",
+      "title": "TP.HCM phấn đấu 96% người dân có bảo hiểm y tế trong năm 2026",
+      "link": "https://tuoitre.vn/tphcm-phan-dau-96-nguoi-dan-co-bao-hiem-y-te-trong-nam-2026-100260811174502408.htm",
+      "summary": "TP.HCM đặt mục tiêu năm 2026 tỉ lệ bao phủ bảo hiểm y tế đạt 96% người dân, đến năm 2030 đạt mục tiêu bao phủ bảo hiểm y tế toàn dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:49:45.257423+07:00",
+      "fetched": "2026-08-11T21:49:45.257478+07:00"
+    },
+    {
+      "id": "1863c596e944466ed360a33350ce136a",
+      "title": "Lồng nuôi ốc hương vỡ, chủ trại bất lực nhìn nhiều người lấy ốc",
+      "link": "https://tuoitre.vn/long-nuoi-oc-huong-vo-chu-trai-bat-luc-nhin-nhieu-nguoi-lay-oc-100260811185657186.htm",
+      "summary": "Lồng nuôi ốc hương của một hộ dân ở khu vực biển Bãi Tiên, xã Hòa Xuân, Đắk Lắk bị sóng lớn đánh bung, cả trăm người kéo đến bắt ốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:49:45.257351+07:00",
+      "fetched": "2026-08-11T21:49:45.257412+07:00"
+    },
+    {
+      "id": "b8b833b3170a38bd61192004f919f074",
+      "title": "Những nước nào động đất cả trăm, cả ngàn trận mỗi năm?",
+      "link": "https://tuoitre.vn/nhung-nuoc-nao-dong-dat-ca-tram-ca-ngan-tran-moi-nam-100260811181024815.htm",
+      "summary": "Các trận động đất không xảy ra ngẫu nhiên, mà là kết quả từ quá trình vận động của vỏ Trái đất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:49:45.257280+07:00",
+      "fetched": "2026-08-11T21:49:45.257340+07:00"
+    },
+    {
+      "id": "c15a46781e7f888573bf724305348b02",
+      "title": "Vườn chuyên canh, vườn du lịch sinh thái ở TP.HCM được bồi thường 100% đơn giá",
+      "link": "https://tuoitre.vn/vuon-chuyen-canh-vuon-du-lich-sinh-thai-o-tphcm-duoc-boi-thuong-100-don-gia-100260811185857947.htm",
+      "summary": "Vườn chuyên canh, vườn cây phục vụ du lịch sinh thái được TP.HCM bồi thường 100% đơn giá khi thu hồi đất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:49:45.257205+07:00",
+      "fetched": "2026-08-11T21:49:45.257268+07:00"
+    },
+    {
+      "id": "e0fede652507f5f42a702d70c77ebc08",
+      "title": "Hà Nội đục thông các vòm cầu đá hơn 100 tuổi thời Pháp",
+      "link": "https://tuoitre.vn/ha-noi-duc-thong-cac-vom-cau-da-hon-100-tuoi-thoi-phap-100260811190354918.htm",
+      "summary": "UBND phường Hoàn Kiếm (Hà Nội) dự kiến hoàn thành đồ án thiết kế đô thị khu vực 131 vòm cầu đá đường sắt hơn 100 tuổi trong tháng 8-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:49:45.257138+07:00",
+      "fetched": "2026-08-11T21:49:45.257194+07:00"
+    },
+    {
+      "id": "27195d4912047f18ab9af0bcc93f38ee",
+      "title": "Điểm chuẩn ngành báo chí từ gần 30 xuống 22: Người trẻ đang chọn gì?",
+      "link": "https://tuoitre.vn/diem-chuan-nganh-bao-chi-tu-gan-30-xuong-22-nguoi-tre-dang-chon-gi-100260811085828066.htm",
+      "summary": "Người trẻ vẫn quan tâm truyền thông nhưng muốn nhiều lựa chọn nghề nghiệp hơn, buộc các trường báo chí phải thay đổi chương trình đào tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:49:45.257070+07:00",
+      "fetched": "2026-08-11T21:49:45.257127+07:00"
+    },
+    {
+      "id": "5b80cec6a88f790166d934605a4250d6",
+      "title": "Sân bay Tân Sơn Nhất 2 lần tạm dừng cất, hạ cánh vì drone xâm nhập",
+      "link": "https://tuoitre.vn/nong-san-bay-tan-son-nhat-2-lan-tam-dung-cat-ha-canh-vi-drone-xam-nhap-100260811203304931.htm",
+      "summary": "Tối 11-8, hoạt động cất, hạ cánh tại sân bay Tân Sơn Nhất phải tạm dừng hai lần sau khi phi công phát hiện drone bay gần khu vực hoạt động của máy bay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:49:45.257000+07:00",
+      "fetched": "2026-08-11T21:49:45.257060+07:00"
+    },
+    {
+      "id": "5af8ddf7bbb4ab919cc88b0f64f39a43",
+      "title": "Trực thăng Mỹ nổ súng, tàu treo cờ Panama bốc cháy khi cố vượt lệnh phong tỏa cảng Iran",
+      "link": "https://tuoitre.vn/truc-thang-my-no-sung-tau-treo-co-panama-boc-chay-khi-co-vuot-lenh-phong-toa-cang-iran-100260811204120552.htm",
+      "summary": "Lực lượng Mỹ đã tấn công một tàu treo cờ Panama đang cố vượt qua lệnh phong tỏa đường biển đối với các cảng Iran tại vịnh Oman.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:49:45.256905+07:00",
+      "fetched": "2026-08-11T21:49:45.256988+07:00"
+    },
+    {
+      "id": "8dedad5b2933e21de29531c13e27adb5",
+      "title": "Va chạm xe máy, xe container bốc cháy dữ dội, một người chết",
+      "link": "https://tuoitre.vn/va-cham-xe-may-xe-container-boc-chay-du-doi-mot-nguoi-chet-100260811200438683.htm",
+      "summary": "Một vụ tai nạn giao thông xảy ra trên quốc lộ 80, đoạn qua xã Tân Dương, tỉnh Đồng Tháp khiến người đi xe máy tử vong tại chỗ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:49:45.256835+07:00",
+      "fetched": "2026-08-11T21:49:45.256894+07:00"
+    },
+    {
+      "id": "4768aeae336fbca3e0497b87dbc14fa7",
+      "title": "Cổ động viên Indonesia: Bóng đá câu lạc bộ Việt Nam cũng bỏ xa chúng ta",
+      "link": "https://tuoitre.vn/co-dong-vien-indonesia-bong-da-cau-lac-bo-viet-nam-cung-bo-xa-chung-ta-100260811191709136.htm",
+      "summary": "Sau chiến thắng của CLB Công An Hà Nội ở trận play-off AFC Champions League Elite, cổ động viên (CĐV) Indonesia lại thấy chạnh lòng khi nhìn bóng đá nước nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:49:45.256766+07:00",
+      "fetched": "2026-08-11T21:49:45.256825+07:00"
+    },
+    {
+      "id": "15188fd38f64fa2633b164b245eda548",
+      "title": "Người hâm mộ nhắn tuyển Việt Nam tạm quên chiến thắng cũ, tập trung đấu với Malaysia",
+      "link": "https://tuoitre.vn/nguoi-ham-mo-nhan-tuyen-viet-nam-tam-quen-chien-thang-cu-tap-trung-dau-voi-malaysia-10026081119044707.htm",
+      "summary": "Bất bại trước Malaysia trong 12 năm qua, nhưng bạn đọc Tuổi Trẻ cho rằng đội tuyển Việt Nam đừng nhìn quá khứ để chủ quan trước trận bán kết lượt đi ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:49:45.256693+07:00",
+      "fetched": "2026-08-11T21:49:45.256755+07:00"
+    },
+    {
+      "id": "72d508178e18ea4aae6fd9839ec2061b",
+      "title": "Phát triển pin lưu trữ để giảm lãng phí điện gió và điện Mặt Trời",
+      "link": "https://tuoitre.vn/phat-trien-pin-luu-tru-de-giam-lang-phi-dien-gio-va-dien-mat-troi-100260811211457534.htm",
+      "summary": "Việc kết hợp năng lượng tái tạo với lưu trữ được coi là một giải pháp quan trọng để giảm sử dụng nhiên liệu hóa thạch, tăng khả năng tự chủ năng lượng và bảo đảm cung cấp điện cho châu Âu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:49:45.256610+07:00",
+      "fetched": "2026-08-11T21:49:45.256681+07:00"
+    },
+    {
+      "id": "dae2be79edbcdb7b4b7b7de4be4c0d8c",
+      "title": "Cơn sốt AI đẩy giá thuê nhà tại San Francisco lên mức cao nhất nước Mỹ",
+      "link": "https://tuoitre.vn/con-sot-ai-day-gia-thue-nha-tai-san-francisco-len-muc-cao-nhat-nuoc-my-100260811212820775.htm",
+      "summary": "Sự bùng nổ của ngành AI đang biến thị trường thuê nhà tại San Francisco thành một cuộc đua khốc liệt, đẩy giá thuê trung bình vượt qua New York để chiếm vị trí dẫn đầu tại Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:49:45.256460+07:00",
+      "fetched": "2026-08-11T21:49:45.256596+07:00"
+    },
     {
       "id": "7d5bd583c594d97265a7585bd1156695",
       "title": "Saigontourist mở rộng hệ sinh thái, khai thác sâu thị trường Úc",
@@ -453,6 +603,146 @@ window.newsData_2026_08_11 = {
       "fetched": "2026-08-11T15:43:16.234336+07:00"
     },
     {
+      "id": "02edc3820ef2171716e539d6e75f1bf2",
+      "title": "Nóng: Lý giải nguyên nhân khiến Tân Sơn Nhất tạm dừng tiếp nhận loạt chuyến bay",
+      "link": "https://thanhnien.vn/nong-ly-giai-nguyen-nhan-khien-tan-son-nhat-tam-dung-tiep-nhan-loat-chuyen-bay-185260811213513204.htm",
+      "summary": "Trong khoảng thời gian từ 11 giờ 14 - 12 giờ 14 hôm nay (11.8) hoạt động cất, hạ cánh tại Cảng HKQT Tân Sơn Nhất phải tạm thời hạn chế, gây ảnh hưởng loạt chuyến bay kéo dài tới tận tối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T14:44:00+07:00",
+      "fetched": "2026-08-11T21:49:43.951266+07:00"
+    },
+    {
+      "id": "1df93e3c80d59f8861fc03677056ba30",
+      "title": "Mùi đất sau cơn mưa | Phim ngắn Vietnamese 2026",
+      "link": "https://thanhnien.vn/mui-dat-sau-con-mua-phim-ngan-vietnamese-2026-185260811170555126.htm",
+      "summary": "'Mùi đất sau cơn mưa' là tác phẩm tham dự cuộc thi phim ngắn Vietnamese 2026. Cuộc thi do Báo Thanh Niên phối hợp cùng Hiệp hội Xúc tiến phát triển điện ảnh Việt Nam tổ chức với sự đồng hành của Sở Du lịch TP.HCM, Sở Văn hóa - Thể thao TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T14:40:00+07:00",
+      "fetched": "2026-08-11T21:49:43.951442+07:00"
+    },
+    {
+      "id": "661309ddbc78d7a8398ffde114e92e16",
+      "title": "Thủy Tiên ôn kỷ niệm mặc váy cưới",
+      "link": "https://vnexpress.net/thuy-tien-on-ky-niem-mac-vay-cuoi-5107863.html",
+      "summary": "Ca sĩ Thủy Tiên nói nhớ cảm giác hồi hộp khi mặc váy do nhà thiết kế Đỗ Long thực hiện để chụp ảnh cưới với cầu thủ Công Vinh năm 2014.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T14:37:04+07:00",
+      "fetched": "2026-08-11T21:49:41.371116+07:00"
+    },
+    {
+      "id": "728b11c0a9f408823ce8921f868ac813",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm gặp gỡ cộng đồng người Việt Nam tại Úc",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-gap-go-cong-dong-nguoi-viet-nam-tai-uc-185260811205520407.htm",
+      "summary": "Tối 11.8 (giờ địa phương), tại thủ đô Canberra, Tổng Bí thư, Chủ tịch nước Tô Lâm cùng Đoàn đại biểu cấp cao Việt Nam đã đến dự Lễ khánh thành Nhà Việt Nam và gặp gỡ cộng đồng người Việt Nam tại Úc và Solomon.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T14:28:00+07:00",
+      "fetched": "2026-08-11T21:49:43.951606+07:00"
+    },
+    {
+      "id": "673c2ecc247607bf32f461009535b2aa",
+      "title": "Cô gái ấm áp, sống tình cảm tìm người thương",
+      "link": "https://vnexpress.net/co-gai-am-ap-song-tinh-cam-tim-nguoi-thuong-5106260.html",
+      "summary": "Em thuộc thế hệ 8x, sống và làm việc tại TP HCM, làm trong lĩnh vực báo chí truyền thông, đã có hơn 15 năm gắn bó với nghề.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T14:23:50+07:00",
+      "fetched": "2026-08-11T21:49:41.371319+07:00"
+    },
+    {
+      "id": "2b7f380209765ac776abcb61c203515a",
+      "title": "Mong một cuộc hẹn cùng em ở Perth",
+      "link": "https://vnexpress.net/mong-mot-cuoc-hen-cung-em-o-perth-5107752.html",
+      "summary": "Chúng ta có thể bắt đầu bằng một ly cà phê, một buổi đi dạo hay cùng khám phá những góc nhỏ của thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T14:23:18+07:00",
+      "fetched": "2026-08-11T21:49:41.371500+07:00"
+    },
+    {
+      "id": "fd1a7466f034c546eba6570a72200136",
+      "title": "Cân đối được sổ sách nhưng còn thiếu người cân bằng cuộc sống",
+      "link": "https://vnexpress.net/can-doi-duoc-so-sach-nhung-con-thieu-nguoi-can-bang-cuoc-song-5106253.html",
+      "summary": "Mình 34 tuổi, là kế toán tại công ty Nhật ở Đà Nẵng, thích biển, cà phê, những chuyến đi ngắn ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T14:21:54+07:00",
+      "fetched": "2026-08-11T21:49:41.371662+07:00"
+    },
+    {
+      "id": "60bf086f257effd5082d317f9dcc83bb",
+      "title": "Chồng sắp cưới luôn tử tế với thiên hạ nhưng lại hà khắc với vợ",
+      "link": "https://vnexpress.net/chong-sap-cuoi-luon-tu-te-voi-thien-ha-nhung-lai-ha-khac-voi-vo-5107971.html",
+      "summary": "Tôi nghĩ giờ còn yêu, sau này bao nhiêu chuyện tiền bạc, con cái rồi cứ như thế này làm sao sống với nhau được.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T14:20:21+07:00",
+      "fetched": "2026-08-11T21:49:41.371839+07:00"
+    },
+    {
+      "id": "b597ef88ab32c691244c8d8dcd1cffd1",
+      "title": "Quân đội Hàn Quốc nâng cấp xe tăng, tên lửa chống hạm",
+      "link": "https://thanhnien.vn/quan-doi-han-quoc-nang-cap-xe-tang-ten-lua-chong-ham-185260811165304987.htm",
+      "summary": "Quân đội Hàn Quốc đang lên kế hoạch nâng cấp hệ thống xe tăng chiến đấu cho lục quân và tên lửa chống hạm cho hải quân nhằm tăng cường năng lực quân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T14:09:00+07:00",
+      "fetched": "2026-08-11T21:49:43.951764+07:00"
+    },
+    {
+      "id": "86fb3c73f7a06e6740b7abe56df8cb5c",
+      "title": "Thường trực Ban Bí thư Trần Cẩm Tú sẽ dự Lễ truy điệu  Chủ tịch Quốc hội Lào",
+      "link": "https://thanhnien.vn/thuong-truc-ban-bi-thu-tran-cam-tu-se-du-le-truy-dieu-chu-tich-quoc-hoi-lao-18526081120350091.htm",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú sẽ dẫn đầu Đoàn đại biểu cấp cao Đảng Cộng sản Việt Nam dự Lễ truy điệu Chủ tịch Quốc hội Lào Saysomphone Phomvihane tại thủ đô Vientiane, Lào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:59:00+07:00",
+      "fetched": "2026-08-11T21:49:43.951936+07:00"
+    },
+    {
+      "id": "d7f1c99c4cbfc0027f99e09b44c18eb1",
+      "title": "CĐV Malaysia phẫn nộ vì giá vé bán kết đấu Việt Nam tăng phi mã, FAM nói gì?",
+      "link": "https://thanhnien.vn/cdv-malaysia-phan-no-vi-gia-ve-ban-ket-dau-viet-nam-tang-phi-ma-fam-noi-gi-185260811205459032.htm",
+      "summary": "Liên đoàn Bóng đá Malaysia (FAM) vừa lên tiếng giải thích sau khi hứng chịu làn sóng chỉ trích từ chính người hâm mộ nước nhà, xoay quanh việc tăng giá vé mạnh cho trận bán kết lượt đi giữa Malaysia và đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:58:00+07:00",
+      "fetched": "2026-08-11T21:49:43.952099+07:00"
+    },
+    {
+      "id": "c8933a58261e3d5a17adf8b2cd534d73",
+      "title": "Việt Nam đề nghị Australia tiếp tục hỗ trợ nâng cao chuyển đổi số khu vực công",
+      "link": "https://vnexpress.net/viet-nam-de-nghi-australia-tiep-tuc-ho-tro-nang-cao-chuyen-doi-so-khu-vuc-cong-5108029.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị Australia tiếp tục hỗ trợ Việt Nam nâng cao năng lực quản trị công, cải cách hành chính và chuyển đổi số khu vực công, khi hội kiến Toàn quyền Australia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:54:31+07:00",
+      "fetched": "2026-08-11T21:49:41.372095+07:00"
+    },
+    {
+      "id": "c8933a58261e3d5a17adf8b2cd534d73",
+      "title": "Việt Nam đề nghị Australia tiếp tục hỗ trợ nâng cao chuyển đổi số khu vực công",
+      "link": "https://vnexpress.net/viet-nam-de-nghi-australia-tiep-tuc-ho-tro-nang-cao-chuyen-doi-so-khu-vuc-cong-5108029.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị Australia tiếp tục hỗ trợ Việt Nam nâng cao năng lực quản trị công, cải cách hành chính và chuyển đổi số khu vực công, khi hội kiến Toàn quyền Australia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-11T13:54:31+07:00",
+      "fetched": "2026-08-11T21:49:46.629792+07:00"
+    },
+    {
+      "id": "1360daa43b0ee915bcb8f9d99d300b53",
+      "title": "Kích hoạt xử lý khẩn nguy vì drone, Tân Sơn Nhất khôi phục hoạt động cất/hạ cánh lúc 20h34",
+      "link": "https://thanhnien.vn/tan-son-nhat-te-liet-hoat-dong-bay-kich-hoat-xu-ly-khan-nguy-vi-drone-185260811205132501.htm",
+      "summary": "Như Thanh Niên đã đưa tin, loạt chuyến bay có kế hoạch hạ cánh xuống sân bay Tân Sơn Nhất (TP.HCM) chiều tối nay (11.8) phải thay đổi lịch trình do xuất hiện vật thể bay không người lái (drone).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:53:00+07:00",
+      "fetched": "2026-08-11T21:49:43.952252+07:00"
+    },
+    {
       "id": "2b533e7d3903f3e157b60e38d87dcae9",
       "title": "Thu 3,6 tỉ tiền vé, show ‘Về đây bốn cánh chim trời’ không trả tác quyền nhạc Văn Cao, Trịnh Công Sơn",
       "link": "https://tuoitre.vn/thu-36-ti-tien-ve-show-ve-day-bon-canh-chim-troi-khong-tra-tac-quyen-nhac-van-cao-trinh-cong-son-100260811105121176.htm",
@@ -601,6 +891,206 @@ window.newsData_2026_08_11 = {
       "category": "Tổng hợp",
       "published": "2026-08-11T13:47:46.071177+07:00",
       "fetched": "2026-08-11T13:47:46.071329+07:00"
+    },
+    {
+      "id": "175053c5e023ffab2fad60444029e05d",
+      "title": "Giá cà phê tăng 3 lần khi canh tác xanh, bền vững",
+      "link": "https://thanhnien.vn/gia-ca-phe-tang-3-lan-khi-canh-tac-xanh-ben-vung-18526081120023022.htm",
+      "summary": "Giá cà phê nhân xanh tăng gấp 3 lần khi áp dụng phương pháp canh tác xanh, giảm sử dụng hóa chất, không lạm dụng thuốc bảo vệ thực vật và phân bón hóa học, đáp ứng đầy đủ tiêu chí sản xuất bền vững.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:42:00+07:00",
+      "fetched": "2026-08-11T21:49:43.952413+07:00"
+    },
+    {
+      "id": "84901475ad70beb1620a0d39a70a60b1",
+      "title": "Tân Sơn Nhất ngưng cất, hạ cánh hơn 2 giờ vì drone xâm nhập",
+      "link": "https://vnexpress.net/tan-son-nhat-ngung-cat-ha-canh-hon-2-gio-vi-drone-xam-nhap-5108032.html",
+      "summary": "Hàng loạt chuyến bay đến, đi Tân Sơn Nhất phải thay đổi lịch trình sau khi phát hiện drone xâm nhập vùng trời, khiến sân bay ngừng cất, hạ cánh hơn hai giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:38:29+07:00",
+      "fetched": "2026-08-11T21:49:41.372267+07:00"
+    },
+    {
+      "id": "284b7ef369850442f8fd2518db6faf75",
+      "title": "Nhuốm | Phim ngắn Vietnamese 2026",
+      "link": "https://thanhnien.vn/nhuom-phim-ngan-vietnamese-2026-185260811115609048.htm",
+      "summary": "'Nhuốm' là tác phẩm tham dự cuộc thi phim ngắn Vietnamese 2026. Cuộc thi do Báo Thanh Niên phối hợp cùng Hiệp hội Xúc tiến phát triển điện ảnh Việt Nam tổ chức với sự đồng hành của Sở Du lịch TP.HCM, Sở Văn hóa - Thể thao TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:37:00+07:00",
+      "fetched": "2026-08-11T21:49:43.952569+07:00"
+    },
+    {
+      "id": "f1da4c93fd036de74cc4a0219f9352cf",
+      "title": "Truyền thông Đông Nam Á dậy sóng với chiến tích của CLB CAHN, khen ngợi HLV Polking",
+      "link": "https://thanhnien.vn/truyen-thong-dong-nam-a-day-song-voi-chien-tich-cua-clb-cahn-khen-ngoi-hlv-polking-185260811193135938.htm",
+      "summary": "Chiến thắng 2-0 ngay trên sân Adelaide United giúp CLB Công an Hà Nội (CAHN) tạo nên cột mốc lịch sử cho bóng đá Việt Nam tại AFC Champions League Elite, đồng thời nhận được nhiều lời khen từ truyền thông Đông Nam Á, đặc biệt dành cho HLV Mano Polking.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:35:00+07:00",
+      "fetched": "2026-08-11T21:49:43.952720+07:00"
+    },
+    {
+      "id": "dab225a7d7b0a322abd990941c550847",
+      "title": "Đất thơ Vỹ Dạ giữ ‘nếp nhà’ bằng một bản cam kết đặc biệt",
+      "link": "https://thanhnien.vn/dat-tho-vy-da-giu-nep-nha-bang-mot-ban-cam-ket-dac-biet-185260811160935454.htm",
+      "summary": "Sở VH-TT thành phố Huế vừa phối hợp UBND phường Vỹ Dạ tuyên truyền bộ tiêu chí ứng xử trong gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:34:00+07:00",
+      "fetched": "2026-08-11T21:49:43.952874+07:00"
+    },
+    {
+      "id": "584330936b40684991d1fce7055049ab",
+      "title": "Người đánh liên tiếp 5 chú tiểu trong chùa Bầu bị bắt",
+      "link": "https://vnexpress.net/nguoi-danh-lien-tiep-5-chu-tieu-trong-chua-bau-bi-bat-5108030.html",
+      "summary": "Nguyễn Thế Duy khai do các chú tiểu không nghe lời, không dọn phòng gọn gàng nên dùng roi đánh cả 5 em, gây xây xát, hằn đỏ ở chân, tay và lưng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:30:58+07:00",
+      "fetched": "2026-08-11T21:49:41.372446+07:00"
+    },
+    {
+      "id": "928bfca11e6ad689b4275ba0adfb1dcd",
+      "title": "Giá kim loại nào tăng hơn 600% trong năm qua?",
+      "link": "https://vnexpress.net/gia-kim-loai-nao-tang-hon-600-trong-nam-qua-5108017.html",
+      "summary": "Là vật liệu không thể thay thế trong lĩnh vực bán dẫn, quốc phòng, giá kim loại này đã tăng 622% trong một năm qua. Đây là kim loại nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:27:27+07:00",
+      "fetched": "2026-08-11T21:49:41.372618+07:00"
+    },
+    {
+      "id": "3a13e80cc8a9f2d374a83cd0238f6b34",
+      "title": "Thái Lan dừng cấp phép mua súng, rà soát lại giấy phép đã cấp",
+      "link": "https://thanhnien.vn/thai-lan-dung-cap-phep-mua-sung-ra-soat-lai-giay-phep-da-cap-185260811201254751.htm",
+      "summary": "Thủ tướng Thái Lan chỉ đạo dừng cấp phép mua súng, rà soát giấy phép đã cấp và xúc tiến xây dựng luật mới kiểm soát súng đạn, sau khi liên tiếp xảy ra các vụ nổ súng chết người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:26:00+07:00",
+      "fetched": "2026-08-11T21:49:43.953059+07:00"
+    },
+    {
+      "id": "e82e6eb3c853b933a1a9d194bfcc6aa1",
+      "title": "Syria tuyên án tử hình cựu Tổng thống Bashar al-Assad",
+      "link": "https://thanhnien.vn/syria-tuyen-an-tu-hinh-cuu-tong-thong-bashar-al-assad-185260811194433235.htm",
+      "summary": "Tòa án tại Syria tuyên án tử hình cựu Tổng thống Bashar al-Assad trong phiên xét xử vắng mặt, do ông hiện đang tị nạn tại Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:25:00+07:00",
+      "fetched": "2026-08-11T21:49:43.953210+07:00"
+    },
+    {
+      "id": "02b33396ed0a369b751a7b9e7d666ece",
+      "title": "Kết quả xổ số Vietlott Power 6/55 tối 11.8, giải độc đắc tăng 68,4 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-power-6-55-toi-118-giai-doc-dac-tang-684-ti-dong-185260811193217623.htm",
+      "summary": "Tối 11.8, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55 và ghi nhận không có người trúng độc đắc nên số tiền cộng dồn là 68,4 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:23:00+07:00",
+      "fetched": "2026-08-11T21:49:43.953365+07:00"
+    },
+    {
+      "id": "2f80cf2e29e0b07f35c6d3e604df81ac",
+      "title": "Việt Nam - Australia ra tuyên bố chung về thúc đẩy quan hệ song phương",
+      "link": "https://vnexpress.net/viet-nam-australia-ra-tuyen-bo-chung-ve-thuc-day-quan-he-song-phuong-5108019.html",
+      "summary": "Việt Nam và Australia ra tuyên bố chung về làm sâu sắc mối quan hệ trên nhiều mặt như hợp tác chính trị, an ninh, gắn kết kinh tế và chia sẻ tri thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:11:07+07:00",
+      "fetched": "2026-08-11T21:49:41.372779+07:00"
+    },
+    {
+      "id": "2f80cf2e29e0b07f35c6d3e604df81ac",
+      "title": "Việt Nam - Australia ra tuyên bố chung về thúc đẩy quan hệ song phương",
+      "link": "https://vnexpress.net/viet-nam-australia-ra-tuyen-bo-chung-ve-thuc-day-quan-he-song-phuong-5108019.html",
+      "summary": "Việt Nam và Australia ra tuyên bố chung về làm sâu sắc mối quan hệ trên nhiều mặt như hợp tác chính trị, an ninh, gắn kết kinh tế và chia sẻ tri thức.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-11T13:11:07+07:00",
+      "fetched": "2026-08-11T21:49:46.630000+07:00"
+    },
+    {
+      "id": "584cebbfd73d59cfd4b63b865c675c4f",
+      "title": "Nam giới Việt Nam thấp hơn 3 cm so chiều cao trung bình toàn cầu",
+      "link": "https://vnexpress.net/nam-gioi-viet-nam-thap-hon-3-cm-so-chieu-cao-trung-binh-toan-cau-5107864.html",
+      "summary": "Việt Nam đứng thứ 153 trong 201 quốc gia và vùng lãnh thổ về chiều cao trung bình, trong đó nam giới thấp hơn khoảng 3 cm so với trung bình toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:06:07+07:00",
+      "fetched": "2026-08-11T21:49:41.372966+07:00"
+    },
+    {
+      "id": "64654fd3a580d2951205e9b5fb3b5d1b",
+      "title": "Phú Thọ: Công bố danh tính, bắt giam người đánh bé trai dã man ở chùa Bầu",
+      "link": "https://thanhnien.vn/phu-tho-cong-bo-danh-tinh-bat-giam-nguoi-danh-be-trai-da-man-o-chua-bau-185260811193032798.htm",
+      "summary": "Có tới 5 chú tiểu ở chùa Bầu (Phú Thọ) bị đánh đập. Công an đã khởi tố, bắt tạm giam người gây ra hành vi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:06:00+07:00",
+      "fetched": "2026-08-11T21:49:43.953513+07:00"
+    },
+    {
+      "id": "2f65677620bdbf419a8a3155039c7519",
+      "title": "Ngày tàn của ngành thịt chó ở Hàn Quốc",
+      "link": "https://vnexpress.net/ngay-tan-cua-nganh-thit-cho-o-han-quoc-5107963.html",
+      "summary": "Các quán thịt chó tại Hàn Quốc đang chứng kiến lượng khách giảm mạnh khi lệnh cấm nuôi, giết mổ và bán chó làm thực phẩm có hiệu lực từ tháng 2/2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:00:00+07:00",
+      "fetched": "2026-08-11T21:49:41.373149+07:00"
+    },
+    {
+      "id": "1e0c8489fb4362d06fe66e0811a10412",
+      "title": "Hữu Châu gia nhập sân khấu kịch Thành Lộc",
+      "link": "https://vnexpress.net/huu-chau-gia-nhap-san-khau-kich-thanh-loc-5107704.html",
+      "summary": "Nghệ sĩ Thành Lộc mời Hữu Châu - bạn diễn ăn ý gần 40 năm qua - gia nhập sân khấu kịch anh mới sáng lập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:00:00+07:00",
+      "fetched": "2026-08-11T21:49:41.373312+07:00"
+    },
+    {
+      "id": "5e31ab27df0dfc30f45ce2116316a550",
+      "title": "Điểm nổi bật của đồng hồ thông minh BiboWatch",
+      "link": "https://vnexpress.net/diem-noi-bat-cua-dong-ho-thong-minh-bibowatch-5107959.html",
+      "summary": "BiboWatch tích hợp định vị, vùng an toàn và liên lạc hai chiều, giúp phụ huynh chủ động kết nối và theo dõi hành trình của trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:00:00+07:00",
+      "fetched": "2026-08-11T21:49:41.373475+07:00"
+    },
+    {
+      "id": "2fc1f35732bd01daea33ff1422f1e5a7",
+      "title": "Nhiều chính sách mới tạo 'đường chạy' cho công nghệ chiến lược",
+      "link": "https://vnexpress.net/nhieu-chinh-sach-moi-tao-duong-chay-cho-cong-nghe-chien-luoc-5108021.html",
+      "summary": "Các chính sách mới tạo nhiều điểm thông thoáng, thống nhất để tổ chức nguồn lực, phát triển và thương mại hóa công nghệ chiến lược.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T12:41:21+07:00",
+      "fetched": "2026-08-11T21:49:41.373631+07:00"
+    },
+    {
+      "id": "2fc1f35732bd01daea33ff1422f1e5a7",
+      "title": "Nhiều chính sách mới tạo 'đường chạy' cho công nghệ chiến lược",
+      "link": "https://vnexpress.net/nhieu-chinh-sach-moi-tao-duong-chay-cho-cong-nghe-chien-luoc-5108021.html",
+      "summary": "Các chính sách mới tạo nhiều điểm thông thoáng, thống nhất để tổ chức nguồn lực, phát triển và thương mại hóa công nghệ chiến lược.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-11T12:41:21+07:00",
+      "fetched": "2026-08-11T21:49:50.585408+07:00"
+    },
+    {
+      "id": "60e791c845d726db85687b16b3d84031",
+      "title": "Việt Nam - Australia hợp tác nâng sức chống chịu, phục hồi kinh tế",
+      "link": "https://vnexpress.net/viet-nam-australia-hop-tac-nang-suc-chong-chiu-phuc-hoi-kinh-te-5108023.html",
+      "summary": "Việt Nam và Australia sẽ tăng hợp tác về nâng cao sức chống chịu, thích ứng và phục hồi kinh tế, phù hợp với khuôn khổ Đối tác Chiến lược Toàn diện.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-11T12:40:02+07:00",
+      "fetched": "2026-08-11T21:49:47.864019+07:00"
     },
     {
       "id": "f8185a73af827cfac4b18a06e071f2ff",
