@@ -1,6 +1,6 @@
 window.newsData_2026_08_11 = {
   "date": "2026-08-11",
-  "lastUpdated": "2026-08-11T10:25:58.262829+07:00",
+  "lastUpdated": "2026-08-11T11:57:50.631067+07:00",
   "articles": [
     {
       "id": "f07a0c1f2d1d4b5652c5fe8322edd027",
@@ -223,6 +223,366 @@ window.newsData_2026_08_11 = {
       "fetched": "2026-08-11T07:58:11.713407+07:00"
     },
     {
+      "id": "e175117f5f45ce2c1772544e902ab74e",
+      "title": "Phim AI 60 giây: Chiếc bẫy khiến người trẻ thức trắng đêm",
+      "link": "https://thanhnien.vn/phim-ai-60-giay-chiec-bay-khien-nguoi-tre-thuc-trang-dem-18526081111482708.htm",
+      "summary": "Trào lưu phim AI bùng nổ trên nền tảng video ngắn, khiến nhiều người trẻ sa vào cảnh thức khuya, 'cày phim' xuyên đêm. Cốt truyện mới lạ, tiết tấu nhanh tạo nên 'bẫy dopamine' khó cưỡng, đặt ra câu hỏi liệu đây chỉ là thú vui giải trí hay hồi chuông cảnh báo cho sức khỏe tinh thần?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:54:00+07:00",
+      "fetched": "2026-08-11T11:57:41.591662+07:00"
+    },
+    {
+      "id": "cd935160044ba7d6af2084b8fc731028",
+      "title": "Bệnh viện Quân y 120 đưa vào vận hành 2 dịch vụ mới",
+      "link": "https://thanhnien.vn/benh-vien-quan-y-120-dua-vao-van-hanh-2-dich-vu-moi-185260811104630985.htm",
+      "summary": "Bệnh viện Quân y 120 (Đồng Tháp) vừa đưa vào vận hành 2 dịch vụ mới, giúp người dân thuận tiện hơn trong việc lấy mẫu xét nghiệm và chăm sóc sức khỏe mà không phải trực tiếp đến bệnh viện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:54:00+07:00",
+      "fetched": "2026-08-11T11:57:41.591766+07:00"
+    },
+    {
+      "id": "10f4ed7a51647d3e7de599b805c3be3f",
+      "title": "Yêu cầu cấp bách 'phủ' trạm sạc điện trên cao tốc",
+      "link": "https://thanhnien.vn/yeu-cau-cap-bach-phu-tram-sac-dien-tren-cao-toc-185260811114553113.htm",
+      "summary": "Bộ trưởng Trần Hồng Minh vừa ban hành công điện yêu cầu các đơn vị khẩn trương đầu tư, hoàn thiện hệ thống sạc điện tại các trạm dừng nghỉ trên tuyến cao tốc Bắc - Nam phía đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:53:00+07:00",
+      "fetched": "2026-08-11T11:57:41.591859+07:00"
+    },
+    {
+      "id": "acbb659ef0fb3fee8ddb659290a2b51d",
+      "title": "Nguy cơ quay lại cơ chế xin - cho chính sách đặc thù tại TP.HCM",
+      "link": "https://thanhnien.vn/nguy-co-quay-lai-co-che-xin-cho-chinh-sach-dac-thu-tai-tphcm-185260811111639077.htm",
+      "summary": "Cơ chế thí điểm chính sách đặc thù cho TP.HCM, các đô thị đặc biệt nêu tại dự án luật Phát triển đô thị còn hạn chế về tính chủ động, nguy cơ quay trở lại cơ chế xin - cho, theo đại biểu Lê Thị Song An (đoàn Tây Ninh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:51:00+07:00",
+      "fetched": "2026-08-11T11:57:41.591947+07:00"
+    },
+    {
+      "id": "ae03f7ec2d8817b57a4b1992151514a4",
+      "title": "Việt Nam trân trọng sự đồng hành và hỗ trợ của Úc",
+      "link": "https://thanhnien.vn/viet-nam-tran-trong-su-dong-hanh-va-ho-tro-cua-uc-185260811112917361.htm",
+      "summary": "Sáng 11.8, sau Lễ đón cấp nhà nước được tổ chức trọng thể tại Phủ Toàn quyền ở thủ đô Canberra theo nghi thức cao nhất dành cho nguyên thủ quốc gia, Tổng Bí thư, Chủ tịch nước Tô Lâm đã hội kiến Toàn quyền Úc Sam Mostyn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:48:00+07:00",
+      "fetched": "2026-08-11T11:57:41.592033+07:00"
+    },
+    {
+      "id": "82a13c864fd95e20536c69a36e37bd6d",
+      "title": "CĐV Việt Nam đến sân Kuala Lumpur ủng hộ thầy trò HLV Kim Sang-sik ra sao, mua vé thế nào?",
+      "link": "https://thanhnien.vn/cdv-viet-nam-den-san-kuala-lumpur-ung-ho-thay-tro-hlv-kim-sang-sik-ra-sao-185260811113318425.htm",
+      "summary": "Sáng 11.8, Liên đoàn Bóng đá Malaysia (FAM) chính thức công bố mở bán vé trận bán kết lượt đi ASEAN Cup 2026 với đội tuyển Việt Nam trên sân Kuala Lumpur.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:45:00+07:00",
+      "fetched": "2026-08-11T11:57:41.592116+07:00"
+    },
+    {
+      "id": "2d337ac9a905776ffb851fe47d96edca",
+      "title": "Mưa lớn chia cắt nhiều khu vực ở Quảng Trị",
+      "link": "https://vnexpress.net/mua-lon-chia-cat-nhieu-khu-vuc-o-quang-tri-5107802.html",
+      "summary": "Mưa giông cục bộ khiến nhiều vùng núi Quảng Trị nước lũ dâng cao, gây ngập ngầm tràn, chia cắt một số tuyến đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:44:30+07:00",
+      "fetched": "2026-08-11T11:57:38.605717+07:00"
+    },
+    {
+      "id": "3251a8ec671b99bd709547f74172204f",
+      "title": "Sắp xếp trường học, vai trò mới của tổ chuyên môn",
+      "link": "https://thanhnien.vn/sap-xep-truong-hoc-vai-tro-moi-cua-to-chuyen-mon-185260811092629438.htm",
+      "summary": "Việc sắp xếp, sáp nhập trường học để phù hợp với mô hình chính quyền địa phương hai cấp đang mở ra một cách thức quản trị mới trong giáo dục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:43:00+07:00",
+      "fetched": "2026-08-11T11:57:41.592199+07:00"
+    },
+    {
+      "id": "d15cde1f089c0b69096f806caef0eb8d",
+      "title": "Quốc khánh 2.9, Cà Mau chào cờ với Quốc kỳ hơn 2.000 m² tại Đất Mũi",
+      "link": "https://thanhnien.vn/quoc-khanh-29-ca-mau-chao-co-voi-quoc-ky-hon-2000-m-tai-dat-mui-185260811073741571.htm",
+      "summary": "Dịp Quốc khánh 2.9, Cà Mau sẽ tổ chức lễ chào cờ với Quốc kỳ rộng hơn 2.000 m² tại Cột cờ Hà Nội, xã Đất Mũi, trong khuôn khổ Ngày hội Văn hóa di sản và Lễ hội Khinh khí cầu tỉnh Cà Mau lần thứ I năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:41:00+07:00",
+      "fetched": "2026-08-11T11:57:41.592282+07:00"
+    },
+    {
+      "id": "cb655fbe5295e44b9d7b465ff7ccd0a8",
+      "title": "Khởi công khu nhà ở thông minh Yên Mỹ, Hưng Yên",
+      "link": "https://vnexpress.net/khoi-cong-khu-nha-o-thong-minh-yen-my-hung-yen-5107712.html",
+      "summary": "Công ty CP Phát triển đô thị Hưng Yên (thành viên PSD Group), vừa khởi công Khu nhà ở thông minh Yên Mỹ, gồm 272 căn nhà thấp tầng trên diện tích hơn 7,2 ha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:40:00+07:00",
+      "fetched": "2026-08-11T11:57:38.605830+07:00"
+    },
+    {
+      "id": "2d40b7423617d61824d30d8affe48098",
+      "title": "Tai nạn nghiêm trọng, 7 miếng gạc được chèn quanh gan để cầm máu",
+      "link": "https://thanhnien.vn/tai-nan-nghiem-trong-7-mieng-gac-duoc-chen-quanh-gan-de-cam-mau-185260811100811188.htm",
+      "summary": "Sau cú ngã từ độ cao 3 m trong lúc lao động, anh T., 47 tuổi, bị vỡ gan nặng, được các bác sĩ tuyến trước chèn tạm 7 miếng gạc quanh gan để cầm máu. Khi chuyển viện, người bệnh tiếp tục được phẫu thuật khẩn cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:35:00+07:00",
+      "fetched": "2026-08-11T11:57:41.592377+07:00"
+    },
+    {
+      "id": "80afe44c4b9f8f0d82957cf8d0e433d6",
+      "title": "Quán bánh canh 'cứu đói' 38 năm ở Nha Trang, nay vẫn chỉ 8.000 đồng/tô",
+      "link": "https://thanhnien.vn/quan-banh-canh-cuu-doi-38-nam-o-nha-trang-nay-van-chi-8000-dong-to-185260810110706923.htm",
+      "summary": "Sau 38 năm, quán bánh canh 'cứu đói' cô Hai ở Nha Trang vẫn đông học sinh, sinh viên và người lao động. Một tô hiện có giá chỉ 8.000 đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:35:00+07:00",
+      "fetched": "2026-08-11T11:57:41.592463+07:00"
+    },
+    {
+      "id": "7404cafe587056f0971ecfa0f6a552fc",
+      "title": "Việt Nam đông khán giả nhất vòng bảng ASEAN Cup 2026",
+      "link": "https://vnexpress.net/viet-nam-dong-khan-gia-nhat-vong-bang-asean-cup-2026-5107780.html",
+      "summary": "Việt Nam thu hút 51.197 khán giả qua hai trận sân nhà ở vòng bảng ASEAN Cup 2026, nhiều hơn Indonesia gần 1.500 người và đứng đầu giải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:33:55+07:00",
+      "fetched": "2026-08-11T11:57:38.605934+07:00"
+    },
+    {
+      "id": "136b71fe1ef3dad10df0932427b0dfd4",
+      "title": "Thành Chung thẳng thắn nhìn nhận sai lầm hàng thủ đội tuyển Việt Nam trước bán kết ASEAN Cup",
+      "link": "https://thanhnien.vn/thanh-chung-thang-than-nhin-nhan-sai-lam-hang-thu-doi-tuyen-viet-nam-truoc-ban-ket-asean-cup-185260811112702016.htm",
+      "summary": "Trung vệ Nguyễn Thành Chung thừa nhận đội tuyển Việt Nam đã có thời điểm mất tập trung dẫn đến bàn thua trước Campuchia, đồng thời cho rằng toàn đội cần rút kinh nghiệm trước khi bước vào bán kết ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:33:00+07:00",
+      "fetched": "2026-08-11T11:57:41.592547+07:00"
+    },
+    {
+      "id": "aa6ddf7ee8cb134804497df35eed864b",
+      "title": "Vietnam Airlines đón hành khách thứ 7,5 triệu đường bay Australia",
+      "link": "https://vnexpress.net/vietnam-airlines-don-hanh-khach-thu-7-5-trieu-duong-bay-australia-5107790.html",
+      "summary": "Nhân kỷ niệm 35 năm đường bay Việt Nam - Australia, Vietnam Airlines chào mừng chuyến bay thứ 35.000 và hành khách thứ 7,5 triệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:30:00+07:00",
+      "fetched": "2026-08-11T11:57:38.606033+07:00"
+    },
+    {
+      "id": "aa6ddf7ee8cb134804497df35eed864b",
+      "title": "Vietnam Airlines đón hành khách thứ 7,5 triệu đường bay Australia",
+      "link": "https://vnexpress.net/vietnam-airlines-don-hanh-khach-thu-7-5-trieu-duong-bay-australia-5107790.html",
+      "summary": "Nhân kỷ niệm 35 năm đường bay Việt Nam - Australia, Vietnam Airlines chào mừng chuyến bay thứ 35.000 và hành khách thứ 7,5 triệu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-11T04:30:00+07:00",
+      "fetched": "2026-08-11T11:57:47.187578+07:00"
+    },
+    {
+      "id": "6b7d8c4d1b5ca5eff4cd1de3e950d39c",
+      "title": "Hiệu trưởng, hiệu phó nghỉ việc được chi trả trước 30/11",
+      "link": "https://vnexpress.net/hieu-truong-hieu-pho-nghi-viec-duoc-chi-tra-truoc-30-11-5107774.html",
+      "summary": "Hiệu trưởng, hiệu phó và cán bộ quản lý trường công lập nghỉ việc theo nguyện vọng sau sáp nhập phải được giải quyết chính sách trước 30/9, hoàn thành chi trả trước 30/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:29:40+07:00",
+      "fetched": "2026-08-11T11:57:38.606127+07:00"
+    },
+    {
+      "id": "2b9cfde2434175ad2568d50e42c203ac",
+      "title": "Từ giải nhì quốc gia đến học bổng RMIT của cựu VASer",
+      "link": "https://thanhnien.vn/tu-giai-nhi-quoc-gia-den-hoc-bong-rmit-cua-cuu-vaser-185260811113536892.htm",
+      "summary": "Niềm đam mê nghiên cứu khoa học và khát vọng tạo ra những giá trị tích cực cho cộng đồng được nuôi dưỡng trong quá trình học tập tại Trường Quốc tế Việt Úc (VAS) đã đưa Phan Nguyễn Bảo Trân đến với những dấu ấn đáng tự hào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:28:00+07:00",
+      "fetched": "2026-08-11T11:57:41.592631+07:00"
+    },
+    {
+      "id": "e8fcfe95369612b6492917d26f4667a5",
+      "title": "Đại tá Nguyễn Thành Long: Bảo đảm an ninh mạng là nhiệm vụ sống còn",
+      "link": "https://thanhnien.vn/dai-ta-nguyen-thanh-long-bao-dam-an-ninh-mang-la-nhiem-vu-song-con-185260811105642704.htm",
+      "summary": "Đại tá Nguyễn Thành Long, Phó giám đốc Công an tỉnh Quảng Ngãi, cho biết bảo đảm an ninh mạng không chỉ là nhiệm vụ riêng của lực lượng chuyên trách, mà đã trở thành nhiệm vụ chiến lược, thường xuyên của cả hệ thống chính trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:28:00+07:00",
+      "fetched": "2026-08-11T11:57:41.592713+07:00"
+    },
+    {
+      "id": "9359102762f0a5308097b0416d538975",
+      "title": "Trung Quốc chi gần 1 tỷ USD mua sầu riêng Việt Nam",
+      "link": "https://vnexpress.net/trung-quoc-chi-gan-1-ty-usd-mua-sau-rieng-viet-nam-5107766.html",
+      "summary": "Sầu riêng mang về gần 988 triệu USD từ thị trường Trung Quốc trong nửa đầu năm, tăng 43,4% so với cùng kỳ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:26:55+07:00",
+      "fetched": "2026-08-11T11:57:38.606224+07:00"
+    },
+    {
+      "id": "9359102762f0a5308097b0416d538975",
+      "title": "Trung Quốc chi gần 1 tỷ USD mua sầu riêng Việt Nam",
+      "link": "https://vnexpress.net/trung-quoc-chi-gan-1-ty-usd-mua-sau-rieng-viet-nam-5107766.html",
+      "summary": "Sầu riêng mang về gần 988 triệu USD từ thị trường Trung Quốc trong nửa đầu năm, tăng 43,4% so với cùng kỳ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-11T04:26:55+07:00",
+      "fetched": "2026-08-11T11:57:47.187063+07:00"
+    },
+    {
+      "id": "191a9fe3d5a9c243bbccb0441d9f739b",
+      "title": "Lý do Toshiba rời bỏ mảng laptop",
+      "link": "https://thanhnien.vn/ly-do-toshiba-roi-bo-mang-laptop-185260811104226017.htm",
+      "summary": "Sự thật đằng sau việc gã khổng lồ Toshiba biến mất hoàn toàn khỏi thị trường laptop.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:24:00+07:00",
+      "fetched": "2026-08-11T11:57:41.592796+07:00"
+    },
+    {
+      "id": "698463f3f69287dcfa1319a9798501e0",
+      "title": "Camera trên xuồng không người lái của Anh gửi tín hiệu ra nước ngoài?",
+      "link": "https://thanhnien.vn/camera-tren-xuong-khong-nguoi-lai-cua-anh-gui-tin-hieu-ra-nuoc-ngoai-185260811105657562.htm",
+      "summary": "Hải quân Hoàng gia Anh vừa phát hiện camera trên xuồng không người lái K3 Scout của nước này đã gửi tín hiệu đến Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:23:00+07:00",
+      "fetched": "2026-08-11T11:57:41.592878+07:00"
+    },
+    {
+      "id": "f036d7cdf6cf0a3ea3793595bfdbf9df",
+      "title": "Điều gì giúp T&amp;T Group thu hút vốn từ các định chế tài chính",
+      "link": "https://vnexpress.net/dieu-gi-giup-t-t-group-thu-hut-von-tu-cac-dinh-che-tai-chinh-5107760.html",
+      "summary": "Các dự án năng lượng, hạ tầng của T&T Group có sự đồng hành của dòng vốn thương mại lẫn cam kết từ định chế tài chính quốc tế nhờ tiến độ, hiệu quả lẫn uy tín doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:15:00+07:00",
+      "fetched": "2026-08-11T11:57:38.606321+07:00"
+    },
+    {
+      "id": "76be1ce2fd6d15b9ddeb7ef8420906fb",
+      "title": "Hoiana Resort &amp; Golf: 'Race-cation góp phần phát triển du lịch thể thao'",
+      "link": "https://vnexpress.net/hoiana-resort-golf-race-cation-gop-phan-phat-trien-du-lich-the-thao-5106081.html",
+      "summary": "Đại diện khu nghỉ dưỡng cho rằng xu hướng kết hợp thể thao và nghỉ dưỡng (race-cation) giúp quảng bá điểm đến, kéo dài thời gian lưu trú, mở ra cơ hội phát triển du lịch địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:15:00+07:00",
+      "fetched": "2026-08-11T11:57:38.606434+07:00"
+    },
+    {
+      "id": "f036d7cdf6cf0a3ea3793595bfdbf9df",
+      "title": "Điều gì giúp T&amp;T Group thu hút vốn từ các định chế tài chính",
+      "link": "https://vnexpress.net/dieu-gi-giup-t-t-group-thu-hut-von-tu-cac-dinh-che-tai-chinh-5107760.html",
+      "summary": "Các dự án năng lượng, hạ tầng của T&T Group có sự đồng hành của dòng vốn thương mại lẫn cam kết từ định chế tài chính quốc tế nhờ tiến độ, hiệu quả lẫn uy tín doanh nghiệp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-11T04:15:00+07:00",
+      "fetched": "2026-08-11T11:57:47.187673+07:00"
+    },
+    {
+      "id": "ce58e0ea6ab9ae6d79b9b7b1affd0e0b",
+      "title": "Australia bắn 21 loạt đại bác chào mừng Tổng Bí thư, Chủ tịch nước Tô Lâm",
+      "link": "https://vnexpress.net/australia-ban-21-loat-dai-bac-chao-mung-tong-bi-thu-chu-tich-nuoc-to-lam-5107748.html",
+      "summary": "Toàn quyền Australia Sam Mostyn chủ trì lễ đón Tổng Bí thư, Chủ tịch nước Tô Lâm với 21 loạt đại bác chào mừng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:11:44+07:00",
+      "fetched": "2026-08-11T11:57:38.606537+07:00"
+    },
+    {
+      "id": "ce58e0ea6ab9ae6d79b9b7b1affd0e0b",
+      "title": "Australia bắn 21 loạt đại bác chào mừng Tổng Bí thư, Chủ tịch nước Tô Lâm",
+      "link": "https://vnexpress.net/australia-ban-21-loat-dai-bac-chao-mung-tong-bi-thu-chu-tich-nuoc-to-lam-5107748.html",
+      "summary": "Toàn quyền Australia Sam Mostyn chủ trì lễ đón Tổng Bí thư, Chủ tịch nước Tô Lâm với 21 loạt đại bác chào mừng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-11T04:11:44+07:00",
+      "fetched": "2026-08-11T11:57:45.167048+07:00"
+    },
+    {
+      "id": "11c00b1ef175528e762893f7b55b65d0",
+      "title": "Người chồng 25 năm lật người, xoa bóp chống hoại tử cho vợ liệt",
+      "link": "https://vnexpress.net/nguoi-chong-25-nam-lat-nguoi-xoa-bop-chong-hoai-tu-cho-vo-liet-5107714.html",
+      "summary": "Suốt 1/4 thế kỷ, người đàn ông ở Hà Nam kiên trì thức canh mỗi đêm xoay người, xoa bóp cho vợ liệt tủy, giúp bà có cuộc sống bình thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:11:34+07:00",
+      "fetched": "2026-08-11T11:57:38.606630+07:00"
+    },
+    {
+      "id": "745326d4786e92a65beb2259d94ca9ea",
+      "title": "3.600 người tranh suất làm việc 'nằm ngắm mây'",
+      "link": "https://vnexpress.net/3-600-nguoi-tranh-suat-lam-viec-nam-ngam-may-5107732.html",
+      "summary": "Công việc sống trên đỉnh núi, quay video mây mỗi ngày với mức lương gần 8.900 USD thu hút gần 3.600 ứng viên Trung Quốc trong bối cảnh người trẻ khó tìm việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:05:14+07:00",
+      "fetched": "2026-08-11T11:57:38.606724+07:00"
+    },
+    {
+      "id": "c6d703fd07a662cf28b3859f4b6de4be",
+      "title": "'Nghỉ Tết Đinh Mùi từ 29 tháng chạp rất cập rập'",
+      "link": "https://vnexpress.net/lam-viec-den-29-thang-chap-de-duoc-nghi-tet-dinh-mui-10-ngay-5107751.html",
+      "summary": "Nghỉ Tết 10 ngày sẽ có đủ thời gian cho nhiều người về quê, nhưng tới tận 29 tháng chạp mới được nghỉ liệu có quá cập rập?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:00:00+07:00",
+      "fetched": "2026-08-11T11:57:38.606816+07:00"
+    },
+    {
+      "id": "574947e1ffbd53351cc6909c3b243906",
+      "title": "Bị phản bội mà tôi chưa thể quên bạn gái cũ",
+      "link": "https://vnexpress.net/bi-phan-boi-ma-toi-chua-the-quen-ban-gai-cu-5107523.html",
+      "summary": "Tôi chọn bước tiếp, dù con đường phía trước chỉ có một mình, thế nhưng ngày nào hình ảnh em cũng trong tâm trí tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:00:00+07:00",
+      "fetched": "2026-08-11T11:57:38.606904+07:00"
+    },
+    {
+      "id": "34082d63f285232fe5e2087223a74635",
+      "title": "Cú lừa gần 10 năm yêu người tình ảo",
+      "link": "https://vnexpress.net/cu-lua-gan-10-nam-yeu-nguoi-tinh-ao-5107770.html",
+      "summary": "Bị giám sát 24/7 và cấm rời nhà, Kirat kiệt quệ sức khỏe, mất việc làm rồi bàng hoàng nhận ra người tình qua màn hình suốt 8 năm qua không tồn tại, chỉ là màn kịch do em họ dàn dựng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:00:00+07:00",
+      "fetched": "2026-08-11T11:57:38.606994+07:00"
+    },
+    {
+      "id": "a673b1e2eeaa7702044dc61ef6b3267a",
+      "title": "Thu gọn bắp tay bằng sóng siêu âm",
+      "link": "https://vnexpress.net/thu-gon-bap-tay-bang-song-sieu-am-5107753.html",
+      "summary": "Chị Thủy, 38 tuổi, bắp tay to sau điều trị bằng sóng siêu âm hội tụ trở nên thon gọn hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T04:00:00+07:00",
+      "fetched": "2026-08-11T11:57:38.607081+07:00"
+    },
+    {
+      "id": "a2839aebf067cd4bc4c8d0491056699c",
+      "title": "Runner Trung Quốc chạy marathon 372 ngày liên tiếp",
+      "link": "https://vnexpress.net/runner-trung-quoc-chay-marathon-372-ngay-lien-tiep-5107622.html",
+      "summary": "Li Shuangyong, 41 tuổi, chạy 42,195 km mỗi ngày trong 372 ngày liên tiếp, lập kỷ lục thế giới và chưa có ý định dừng lại.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-11T03:33:59+07:00",
+      "fetched": "2026-08-11T11:57:50.626587+07:00"
+    },
+    {
+      "id": "e911d69ac7bfd05e138395655256c420",
+      "title": "Singapore - nỗi ám ảnh của Thái Lan tại vòng knock-out ASEAN Cup",
+      "link": "https://vnexpress.net/singapore-noi-am-anh-cua-thai-lan-tai-vong-knock-out-asean-cup-5107698.html",
+      "summary": "Singapore chỉ thắng Thái Lan hai trong 11 lần đối đầu tại ASEAN Cup, nhưng đều diễn ra ở chung kết.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-11T03:33:50+07:00",
+      "fetched": "2026-08-11T11:57:50.626183+07:00"
+    },
+    {
       "id": "b5b2ed4192ad81da3cce25c7b98ca037",
       "title": "Hơn 6.000 giáo viên mầm non TP.HCM chưa đạt chuẩn đào tạo",
       "link": "https://thanhnien.vn/hon-6000-giao-vien-mam-non-tphcm-chua-dat-chuan-dao-tao-185260810093958255.htm",
@@ -231,6 +591,16 @@ window.newsData_2026_08_11 = {
       "category": "Tổng hợp",
       "published": "2026-08-11T03:25:00+07:00",
       "fetched": "2026-08-11T10:25:48.291612+07:00"
+    },
+    {
+      "id": "ecc7bf1b167d110a4eaaab58e878c251",
+      "title": "Tên lửa Trung Quốc nổ tung khi cất cánh",
+      "link": "https://vnexpress.net/ten-lua-trung-quoc-no-tung-khi-cat-canh-5107694.html",
+      "summary": "Tên lửa Trường Chinh 7A phát nổ trong vụ phóng trên đảo Hải Nam, tạo ra quả cầu lửa khổng lồ cùng khói và nhiều mảnh vỡ trên bầu trời.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-11T03:24:29+07:00",
+      "fetched": "2026-08-11T11:57:49.460241+07:00"
     },
     {
       "id": "5e89401bebc9dd7cb8a466f382be1cc6",
@@ -271,6 +641,16 @@ window.newsData_2026_08_11 = {
       "category": "Tổng hợp",
       "published": "2026-08-11T03:11:00+07:00",
       "fetched": "2026-08-11T10:25:48.292253+07:00"
+    },
+    {
+      "id": "a4e38e4617058c492150e9131e687114",
+      "title": "Nga tập kích Ukraine, gây rung chuyển 'như động đất'",
+      "link": "https://vnexpress.net/nga-tap-kich-ukraine-gay-rung-chuyen-nhu-dong-dat-5107665.html",
+      "summary": "Ukraine nói Nga tấn công thành phố Kiev, Zaporizhzhia bằng bom lượn và tên lửa đạn đạo, khiến ít nhất 5 người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-11T03:08:34+07:00",
+      "fetched": "2026-08-11T11:57:45.167157+07:00"
     },
     {
       "id": "b1d6e5123c3d40fdce072c5b604c1792",
