@@ -1,6 +1,6 @@
 window.newsData_2026_08_12 = {
   "date": "2026-08-12",
-  "lastUpdated": "2026-08-12T03:34:06.982368+07:00",
+  "lastUpdated": "2026-08-12T05:31:43.638592+07:00",
   "articles": [
     {
       "id": "d85d52fe01cf4cb7d5e23a99a9f5ac0b",
@@ -151,6 +151,236 @@ window.newsData_2026_08_12 = {
       "category": "Tổng hợp",
       "published": "2026-08-12T01:46:28.373090+07:00",
       "fetched": "2026-08-12T01:46:28.373244+07:00"
+    },
+    {
+      "id": "cab7be92cef36c227e7f171484c71455",
+      "title": "Tiêu điểm quốc tế ngày 12.8: VinSpace chốt kèo SpaceX | Chuyến bay bí mật của ông Trump",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-128-vinspace-chot-keo-spacex-chuyen-bay-bi-mat-cua-ong-trump-185260812031926395.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 12.8.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T22:30:00+07:00",
+      "fetched": "2026-08-12T05:31:36.479523+07:00"
+    },
+    {
+      "id": "7b6b654afc198f413e1ee73334f2ad62",
+      "title": "Ngày nào cũng mua 1 tờ, người chạy xe ôm trúng độc đắc xổ số miền Nam",
+      "link": "https://thanhnien.vn/ngay-nao-cung-mua-1-to-nguoi-chay-xe-om-trung-doc-dac-xo-so-mien-nam-185260811144734777.htm",
+      "summary": "Người đàn ông làm nghề xe ôm ngày nào cũng mua 1 tờ vé số cầu may đã trúng độc đắc 2 tỉ theo kết quả xổ số miền Nam ngày 9 tháng 8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T22:30:00+07:00",
+      "fetched": "2026-08-12T05:31:36.479721+07:00"
+    },
+    {
+      "id": "928b6469a4d7aaa416089d4114ad384a",
+      "title": "Đội tuyển Việt Nam được thưởng 24,5 tỉ đồng nếu vô địch FIFA ASEAN Cup",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-duoc-thuong-245-ti-dong-neu-vo-dich-fifa-asean-cup-185260812050530985.htm",
+      "summary": "FIFA ASEAN Cup 2026 là giải đấu mới do FIFA tổ chức tại khu vực Đông Nam Á, với thể thức phân hạng độc đáo, tiền thưởng lên đến 1 triệu USD cho nhà vô địch và toàn bộ các trận đấu được tính trong lịch thi đấu quốc tế FIFA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T22:25:00+07:00",
+      "fetched": "2026-08-12T05:31:36.479889+07:00"
+    },
+    {
+      "id": "624e345c664fd8c240d6f0d44f82088f",
+      "title": "Chính sách siết nhập cư của Mỹ lập kỷ lục",
+      "link": "https://thanhnien.vn/chinh-sach-siet-nhap-cu-cua-my-lap-ky-luc-185260811224303376.htm",
+      "summary": "Mỹ đã thu hồi hơn 175.000 thị thực trong nhiệm kỳ thứ 2 của Tổng thống Donald Trump, trong bối cảnh chính quyền đẩy mạnh các biện pháp siết nhập cư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T22:24:00+07:00",
+      "fetched": "2026-08-12T05:31:36.480046+07:00"
+    },
+    {
+      "id": "5f145741e68aebb2d1b2eaa8f28eb39a",
+      "title": "Những cái nhất của Việt Nam trước bán kết ASEAN Cup",
+      "link": "https://vnexpress.net/nhung-cai-nhat-cua-viet-nam-truoc-ban-ket-asean-cup-5108071.html",
+      "summary": "Đội tuyển Việt Nam dẫn đầu nhiều chỉ số quan trọng, từ số bàn thắng, hiệu số đến lượng khán giả, trong khi Nguyễn Đình Bắc và Nguyễn Hoàng Đức đứng đầu nhiều thống kê cá nhân.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-11T22:23:06+07:00",
+      "fetched": "2026-08-12T05:31:43.633422+07:00"
+    },
+    {
+      "id": "4c3205300344343b62374d34ea465297",
+      "title": "Nhiều nước châu Âu hứng hạn hán kỷ lục",
+      "link": "https://thanhnien.vn/nhieu-nuoc-chau-au-hung-han-han-ky-luc-185260811231042595.htm",
+      "summary": "Chính phủ Anh ngày 10.8 thông báo khoảng 71,3% diện tích nước này đang trong tình trạng hạn hán, sau khi vùng này trải qua tháng 7 khô hạn nhất từng được ghi nhận, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T22:22:00+07:00",
+      "fetched": "2026-08-12T05:31:36.480200+07:00"
+    },
+    {
+      "id": "1c501f26d6c2804cd20fc050ed483276",
+      "title": "Tử vi ngày 12 tháng 8: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-12-thang-8-con-giap-nao-may-man-hom-nay-185260811234413298.htm",
+      "summary": "Tử vi ngày 12 tháng 8 mang đến những gợi ý tham khảo cho 12 con giáp. Tử vi hôm nay không khuyên bạn làm thêm, mà thử bỏ bớt một điều không còn cần thiết: một việc vụn vặt, món đồ ít dùng hay khoản chi theo thói quen. Có khi, bớt đi một chút lại khiến ngày mới nhẹ nhàng hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T22:15:00+07:00",
+      "fetched": "2026-08-12T05:31:36.480354+07:00"
+    },
+    {
+      "id": "b5ce05fe235fb950c0f770adee41d13e",
+      "title": "Mỹ lo sẽ bị Ukraine cạnh tranh nếu cho phép sản xuất tên lửa Patriot",
+      "link": "https://thanhnien.vn/my-lo-ukraine-se-canh-tranh-neu-duoc-phep-san-xuat-ten-lua-patriot-185260811213943438.htm",
+      "summary": "Các công ty quốc phòng Mỹ là Raytheon và Lockheed Martin lo ngại rằng nếu được cho phép, Ukraine có thể cải tiến tên lửa đánh chặn Patriot, đồng thời sản xuất chúng nhanh hơn và với chi phí thấp hơn đáng kể so với Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T22:12:00+07:00",
+      "fetched": "2026-08-12T05:31:36.480505+07:00"
+    },
+    {
+      "id": "8cbd317dfd8278926f79e6ccd0e07f4e",
+      "title": "TP HCM tìm 'đường thoát' cho 14.000 tấn rác mỗi ngày",
+      "link": "https://vnexpress.net/tp-hcm-tim-duong-thoat-cho-14-000-tan-rac-moi-ngay-5107882.html",
+      "summary": "Gần 8.300 tấn trong tổng số 14.000 tấn rác sinh hoạt vẫn được chôn trực tiếp mỗi ngày, TP HCM đặt mục tiêu đưa con số này xuống dưới 1.400 tấn bằng cách thay đổi cả chuỗi xử lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T22:00:00+07:00",
+      "fetched": "2026-08-12T05:31:33.915961+07:00"
+    },
+    {
+      "id": "c54ca60b3016d8b7c044de464cc92364",
+      "title": "Đế chế bán lẻ của nữ tỷ phú giàu nhất Nga lọt tầm ngắm Ukraine",
+      "link": "https://vnexpress.net/de-che-ban-le-cua-nu-ty-phu-giau-nhat-nga-lot-tam-ngam-ukraine-5107743.html",
+      "summary": "Từ một cửa hàng trực tuyến, Tatyana Kim xây dựng Wildberries thành đế chế bán lẻ lớn nhất Nga, trước khi các kho hàng của công ty bị Ukraine nhắm mục tiêu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T22:00:00+07:00",
+      "fetched": "2026-08-12T05:31:33.916161+07:00"
+    },
+    {
+      "id": "52c96e55b051bc77f6020579681c6b7c",
+      "title": "Irregular - công ty đứng sau các thử nghiệm AI 'nổi loạn'",
+      "link": "https://vnexpress.net/irregular-cong-ty-dung-sau-cac-thu-nghiem-ai-noi-loan-5107306.html",
+      "summary": "Hai tuần qua, OpenAI, Anthropic, Meta liên tục ghi nhận mô hình AI hoạt động bất thường và cùng đề cập đến đối tác Irregular.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T22:00:00+07:00",
+      "fetched": "2026-08-12T05:31:33.916339+07:00"
+    },
+    {
+      "id": "ae1c908050106c14288a95eb344cd5fa",
+      "title": "Ca sĩ AI gây sốt với 'Tự do như cơn gió'",
+      "link": "https://vnexpress.net/ca-si-ai-gay-sot-voi-tu-do-nhu-con-gio-5106703.html",
+      "summary": "Giọng ca AI hút triệu lượt nghe khi hát \"Tự do như cơn gió\" nói về việc gác lại áp lực cuộc sống để hướng tới năng lượng tích cực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T22:00:00+07:00",
+      "fetched": "2026-08-12T05:31:33.916517+07:00"
+    },
+    {
+      "id": "5eadf35261fa579ccbcdee9c94b03c5c",
+      "title": "Chiến sự Ukraine ngày 1.630: Nga phóng tên lửa Zircon, nhà máy thép Zaporizhzhia tê liệt",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1630-nga-phong-ten-lua-zircon-nha-may-thep-zaporizhzhia-te-liet-185260811221829204.htm",
+      "summary": "Nhà máy thép lớn thứ 4 của Ukraine dừng mọi hoạt động sau đợt tập kích mới nhất của Nga tại Zaporizhzhia, trong khi thương vong tiếp tục được ghi nhận ở 2 phía trong cuộc xung đột.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T22:00:00+07:00",
+      "fetched": "2026-08-12T05:31:36.480677+07:00"
+    },
+    {
+      "id": "e4fbfdae69a2ba3d0683e540f3adfd3c",
+      "title": "Lịch âm hôm nay 12.8: Ngày cuối cùng tháng Ất Mùi, có sự kiện đặc biệt",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-128-ngay-cuoi-cung-thang-at-mui-co-su-kien-dac-biet-185260810091100414.htm",
+      "summary": "Lịch âm hôm nay 12.8 là ngày Mậu Ngọ, ngày cuối cùng của tháng Ất Mùi. Hôm nay là ngày gì đặc biệt ở Việt Nam và trên thế giới?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T22:00:00+07:00",
+      "fetched": "2026-08-12T05:31:36.480840+07:00"
+    },
+    {
+      "id": "c54ca60b3016d8b7c044de464cc92364",
+      "title": "Đế chế bán lẻ của nữ tỷ phú giàu nhất Nga lọt tầm ngắm Ukraine",
+      "link": "https://vnexpress.net/de-che-ban-le-cua-nu-ty-phu-giau-nhat-nga-lot-tam-ngam-ukraine-5107743.html",
+      "summary": "Từ một cửa hàng trực tuyến, Tatyana Kim xây dựng Wildberries thành đế chế bán lẻ lớn nhất Nga, trước khi các kho hàng của công ty bị Ukraine nhắm mục tiêu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-11T22:00:00+07:00",
+      "fetched": "2026-08-12T05:31:39.158202+07:00"
+    },
+    {
+      "id": "52c96e55b051bc77f6020579681c6b7c",
+      "title": "Irregular - công ty đứng sau các thử nghiệm AI 'nổi loạn'",
+      "link": "https://vnexpress.net/irregular-cong-ty-dung-sau-cac-thu-nghiem-ai-noi-loan-5107306.html",
+      "summary": "Hai tuần qua, OpenAI, Anthropic, Meta liên tục ghi nhận mô hình AI hoạt động bất thường và cùng đề cập đến đối tác Irregular.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-11T22:00:00+07:00",
+      "fetched": "2026-08-12T05:31:42.296368+07:00"
+    },
+    {
+      "id": "406673aa9833be1d79aa63bea1eaccad",
+      "title": "Đường dân sinh 500 m chi chít 'ổ voi', mưa xuống hóa thành ao",
+      "link": "https://thanhnien.vn/duong-dan-sinh-500-m-chi-chit-o-voi-mua-xuong-hoa-thanh-ao-185260811193124251.htm",
+      "summary": "Chỉ dài khoảng 500 m nhưng tuyến đường dân sinh nối đường 17A, Khu công nghiệp Biên Hòa 2 với khu vực ngã tư Tân Cảng (thành phố Đồng Nai) xuống cấp nghiêm trọng, chi chít 'ổ voi', 'ổ gà'. Mỗi khi mưa xuống, nhiều đoạn ngập nước, người dân và công nhân phải chật vật tìm lối đi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:30:00+07:00",
+      "fetched": "2026-08-12T05:31:36.481000+07:00"
+    },
+    {
+      "id": "98390fbb472d49f5a5205f3c2233e070",
+      "title": "Bác sĩ Việt Nam hỗ trợ cấp cứu hành khách Mỹ trên máy bay",
+      "link": "https://thanhnien.vn/bac-si-viet-nam-ho-tro-cap-cuu-hanh-khach-my-tren-may-bay-185260811210302454.htm",
+      "summary": "Máy bay cất cánh từ Mỹ đi TP.HCM, khi đang bay, có một hành khách người Mỹ gặp sự cố về sức khỏe. Phi hành đoàn phát loa cần sự hỗ trợ. Một bác sĩ người Việt Nam đi trên chuyến bay đã xử trí kịp thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:27:00+07:00",
+      "fetched": "2026-08-12T05:31:36.481163+07:00"
+    },
+    {
+      "id": "4570d3faadb0f1856b6b9d448688222f",
+      "title": "Cuộc đấu nảy lửa của hai 'tướng' tài",
+      "link": "https://thanhnien.vn/cuoc-dau-nay-lua-cua-hai-tuong-tai-185260811221058923.htm",
+      "summary": "Tại bán kết ASEAN Cup gặp Malaysia lần lượt vào các ngày 16.8 (lượt đi) và 19.8 (lượt về), HLV Kim Sang-sik phải đối đầu với ông Tan Cheng Hoe - chiến lược gia rất am hiểu bóng đá Đông Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:11:00+07:00",
+      "fetched": "2026-08-12T05:31:36.481318+07:00"
+    },
+    {
+      "id": "fc54e1a8ef02cd8f98edee17eb98d398",
+      "title": "Thể thao Việt Nam 'cấm trại' săn vàng ASIAD 20",
+      "link": "https://thanhnien.vn/the-thao-viet-nam-cam-trai-san-vang-asiad-20-185260811222323655.htm",
+      "summary": "Thể thao VN bước vào giai đoạn nước rút chuẩn bị cho ASIAD 20 diễn ra từ ngày 19.9 - 4.10 tại Nhật Bản với mục tiêu phấn đấu đoạt từ 4 - 6 HCV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:10:00+07:00",
+      "fetched": "2026-08-12T05:31:36.481465+07:00"
+    },
+    {
+      "id": "b024dace493210ca3ed000c1e4244f9d",
+      "title": "Ronaldo cùng Georgina chính thức tổ chức đám cưới, gia đình chứng kiến khoảnh khắc đặc biệt",
+      "link": "https://thanhnien.vn/ronaldo-cung-georgina-chinh-thuc-to-chuc-dam-cuoi-gia-dinh-chung-kien-khoanh-khac-dac-biet-185260812032416235.htm",
+      "summary": "Cristiano Ronaldo và Georgina Rodriguez chính thức trở thành vợ chồng sau gần một thập kỷ đồng hành. Cặp đôi tổ chức lễ cưới dân sự riêng tư tại Cascais (Bồ Đào Nha), với hành trình tình yêu bắt đầu từ năm 2016.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:03:00+07:00",
+      "fetched": "2026-08-12T05:31:36.481617+07:00"
+    },
+    {
+      "id": "17f1e59411155e9e4965203eda96856b",
+      "title": "Pháp hội mùa vu lan trên bảo tháp Kim cương thừa",
+      "link": "https://vnexpress.net/phap-hoi-mua-vu-lan-tren-bao-thap-kim-cuong-thua-5108070.html",
+      "summary": "Ngày 12 đến 19/8, pháp hội mùa Vu lan sẽ diễn ra tại Mandala Tây Thiên, xã Đại Đình, do Nhiếp chính vương Thuksey Rinpoche và tăng đoàn Truyền thừa Drukpa đến từ Ấn Độ chủ trì.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:00:00+07:00",
+      "fetched": "2026-08-12T05:31:33.916703+07:00"
+    },
+    {
+      "id": "7acfab5dc8fb6a8c2e0a03be351139bd",
+      "title": "Nỗi lo chất lượng khi các hãng Trung Quốc phát triển xe mới quá nhanh",
+      "link": "https://vnexpress.net/noi-lo-chat-luong-khi-cac-hang-trung-quoc-phat-trien-xe-moi-qua-nhanh-5108034.html",
+      "summary": "Trung Quốc siết kiểm soát chất lượng xe năng lượng mới, tăng quãng đường thử độ bền bắt buộc lên 30.000 km, ngang xe xăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T21:00:00+07:00",
+      "fetched": "2026-08-12T05:31:33.916872+07:00"
     },
     {
       "id": "eb857b8b484a694592c484fda9dc31b9",
