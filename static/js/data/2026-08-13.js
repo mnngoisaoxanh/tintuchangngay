@@ -1,7 +1,27 @@
 window.newsData_2026_08_13 = {
   "date": "2026-08-13",
-  "lastUpdated": "2026-08-13T01:47:37.479884+07:00",
+  "lastUpdated": "2026-08-13T03:32:45.502150+07:00",
   "articles": [
+    {
+      "id": "dac85751a83c004789b2900335f86b45",
+      "title": "Thời tiết hôm nay 13-8: Cả nước nắng nóng, chiều mưa dông",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-13-8-ca-nuoc-nang-nong-chieu-mua-dong-100260812193402748.htm",
+      "summary": "Hôm nay 13-8, mưa đã giảm, nhiều nơi nắng nóng, chiều tối vài nơi có mưa vừa và dông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T03:32:39.497343+07:00",
+      "fetched": "2026-08-13T03:32:39.497404+07:00"
+    },
+    {
+      "id": "c0d6dac893917c5923808f59eac085cd",
+      "title": "Hé lộ loại vũ khí đe dọa khiến ông Trump phải bí mật rời chiếc Air Force One bằng xe chở suất ăn",
+      "link": "https://tuoitre.vn/he-lo-loai-vu-khi-de-doa-khien-ong-trump-phai-bi-mat-roi-chiec-air-force-one-bang-xe-cho-suat-an-100260812231422529.htm",
+      "summary": "Ông Trump đã bí mật rời khỏi chiếc Air Force One bằng xe chở suất ăn nhằm đánh lạc hướng kẻ tấn công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T03:32:39.497179+07:00",
+      "fetched": "2026-08-13T03:32:39.497330+07:00"
+    },
     {
       "id": "9fb50744503e3b2294872f50b6857947",
       "title": "Dấu ấn đậm nét của cựu Thủ tướng Trung Quốc Chu Dung Cơ",
@@ -151,6 +171,16 @@ window.newsData_2026_08_13 = {
       "category": "Tổng hợp",
       "published": "2026-08-13T01:47:30.930551+07:00",
       "fetched": "2026-08-13T01:47:30.930696+07:00"
+    },
+    {
+      "id": "cc93dbfa3b0479040eb5f45ca06d87ff",
+      "title": "Lãi vay tăng cao 'bào mòn' lợi nhuận nhà đầu tư bất động sản",
+      "link": "https://vnexpress.net/lai-vay-tang-cao-bao-mon-loi-nhuan-nha-dau-tu-bat-dong-san-5107561.html",
+      "summary": "Dù bán căn hộ cao hơn giá mua 700 triệu đồng, anh Phan Tình gần như không có lời sau ba năm nắm giữ vì phần chênh lệch bị bào mòn bởi lãi vay và chi phí giao dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T19:00:00+07:00",
+      "fetched": "2026-08-13T03:32:34.359244+07:00"
     },
     {
       "id": "6396e48f2572e5e013b31a5d5a7f6551",
