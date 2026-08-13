@@ -1,7 +1,157 @@
 window.newsData_2026_08_13 = {
   "date": "2026-08-13",
-  "lastUpdated": "2026-08-13T11:00:01.970803+07:00",
+  "lastUpdated": "2026-08-13T12:41:23.586196+07:00",
   "articles": [
+    {
+      "id": "761e4efb41feacd6b99c9fdb01d57b66",
+      "title": "AI trở thành 'đối tượng hẹn hò' trên truyền hình Hàn Quốc",
+      "link": "https://tuoitre.vn/ai-tro-thanh-doi-tuong-hen-ho-tren-truyen-hinh-han-quoc-100260813101359627.htm",
+      "summary": "AI tạo sinh đang được các nhà sản xuất Hàn Quốc sử dụng ngày càng nhiều, từ tạo cảnh quay cho chương trình giải trí đến dựng những phân đoạn hành động trong phim truyền hình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T12:41:16.844989+07:00",
+      "fetched": "2026-08-13T12:41:16.845042+07:00"
+    },
+    {
+      "id": "4a6a8ea55991b9ad2a86692944ec5af4",
+      "title": "Mitsubishi chiếm 2/4 xe Nhật bán chạy nhất tháng 7, Xforce vẫn bán mạnh nhất",
+      "link": "https://tuoitre.vn/mitsubishi-chiem-2-4-xe-nhat-ban-chay-nhat-thang-7-xforce-van-ban-manh-nhat-10026081309250238.htm",
+      "summary": "Có 4 mẫu xe Nhật đua top cùng nhóm xe điện VinFast trong bảng xếp hạng 10 ô tô bán chạy nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T12:41:16.844927+07:00",
+      "fetched": "2026-08-13T12:41:16.844978+07:00"
+    },
+    {
+      "id": "7b1a54294d74ecdac61256772269b2f3",
+      "title": "CLB Công An Hà Nội đá 10 ngoại binh và Việt kiều: Có đáng phải ầm ĩ?",
+      "link": "https://tuoitre.vn/clb-cong-an-ha-noi-da-10-ngoai-binh-va-viet-kieu-co-dang-phai-am-i-100260813103920353.htm",
+      "summary": "Vắng 6 cầu thủ khoác áo đội tuyển Việt Nam, CLB Công An Hà Nội đá 10 ngoại binh lẫn Việt kiều ở trận play-off AFC Champions League Elite 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T12:41:16.844854+07:00",
+      "fetched": "2026-08-13T12:41:16.844918+07:00"
+    },
+    {
+      "id": "ec499815cd30be1fd7857073d9068880",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm: Nâng cấp hợp tác nông nghiệp Việt Nam - New Zealand theo chuỗi giá trị xanh",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-nang-cap-hop-tac-nong-nghiep-viet-nam-new-zealand-theo-chuoi-gia-tri-xanh-100260813105440549.htm",
+      "summary": "Thành công của hợp tác kinh tế Việt Nam - New Zealand, theo Tổng Bí thư, Chủ tịch nước Tô Lâm, sẽ không chỉ được đo bằng kim ngạch thương mại hay số lượng dự án, mà bằng chất lượng kết nối, hàm lượng công nghệ...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T12:41:16.844793+07:00",
+      "fetched": "2026-08-13T12:41:16.844844+07:00"
+    },
+    {
+      "id": "48c7083e4be8cb70e04c93bcb50b9838",
+      "title": "Đà Nẵng quy hoạch khu du lịch Khe Răm 164ha",
+      "link": "https://tuoitre.vn/da-nang-quy-hoach-khu-du-lich-khe-ram-164ha-100260813095244035.htm",
+      "summary": "Khu du lịch Khe Răm thuộc phân khu sinh thái phía Tây, được Đà Nẵng phê duyệt quy hoạch với quy mô khoảng 164ha.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T12:41:16.844735+07:00",
+      "fetched": "2026-08-13T12:41:16.844784+07:00"
+    },
+    {
+      "id": "55f00b563f3b7752285a38ece572a3dd",
+      "title": "Siêu dự án đô thị Đa Phước vốn đầu tư hơn 54.787 tỉ đồng: Tái khởi động từ quý 3-2026",
+      "link": "https://tuoitre.vn/sieu-du-an-do-thi-da-phuoc-von-dau-tu-hon-54787-ti-dong-tai-khoi-dong-tu-quy-3-2026-100260813105346568.htm",
+      "summary": "UBND TP Đà Nẵng vừa chấp thuận điều chỉnh chủ trương đầu tư dự án khu đô thị quốc tế Đa Phước. Đây là dự án có quy mô lớn tại địa phương này, gặp vướng mắc kéo dài và được rất nhiều người quan tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T12:41:16.844673+07:00",
+      "fetched": "2026-08-13T12:41:16.844726+07:00"
+    },
+    {
+      "id": "bd9394697126eceaeed21c0b21cff85c",
+      "title": "Dragon Ball Super: The Galactic Patrol có nguy cơ lỡ hẹn trong năm 2027?",
+      "link": "https://tuoitre.vn/dragon-ball-super-the-galactic-patrol-co-nguy-co-lo-hen-trong-nam-2027-100260813094546092.htm",
+      "summary": "Dragon Ball Super: The Galactic Patrol chưa có lịch phát hành cụ thể. Việc Toei Animation tiếp tục xếp anime này vào nhóm dự án chưa xác định thời điểm khiến người hâm mộ có thể phải chờ lâu hơn dự kiến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T12:41:16.844611+07:00",
+      "fetched": "2026-08-13T12:41:16.844664+07:00"
+    },
+    {
+      "id": "8e5b592674a57fd8a53d32ac2e1c512c",
+      "title": "Chồng tổ chức đá gà, vợ bán nước thu tiền triệu mỗi ngày giữa vườn cao su",
+      "link": "https://tuoitre.vn/chong-to-chuc-da-ga-vo-ban-nuoc-thu-tien-trieu-moi-ngay-giua-vuon-cao-su-1002608131048225.htm",
+      "summary": "Lâm đã chọn vườn cao su có lối vào độc đạo, không người trông coi ở Tây Ninh để tổ chức sới gà. Vợ Lâm bán nước, viết, giấy và giúp người chơi chuyển khoản. Lúc bị bắt quả tang, sới gà của Lâm đang có hơn 40 người tham gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T12:41:16.844548+07:00",
+      "fetched": "2026-08-13T12:41:16.844603+07:00"
+    },
+    {
+      "id": "19fe823862f56951947df45e8a1e2cce",
+      "title": "72 giờ vàng sắp cạn, Colombia vẫn còn gần 500 người mất tích sau động đất",
+      "link": "https://tuoitre.vn/72-gio-vang-sap-can-colombia-van-con-gan-500-nguoi-mat-tich-sau-dong-dat-100260813111916438.htm",
+      "summary": "Sau 72 giờ vàng, khả năng tìm thấy người sống sót sau trận động đất tại Colombia sẽ ngày càng thấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T12:41:16.844486+07:00",
+      "fetched": "2026-08-13T12:41:16.844539+07:00"
+    },
+    {
+      "id": "278e2d0b1d6743447720e43e15d13ff4",
+      "title": "Lâm Đồng dự kiến giảm hơn 600 cơ sở giáo dục sau sắp xếp",
+      "link": "https://tuoitre.vn/lam-dong-du-kien-giam-hon-600-co-so-giao-duc-sau-sap-xep-100260813112945359.htm",
+      "summary": "Riêng các cơ sở giáo dục đóng chân ở địa bàn đặc biệt khó khăn, địa hình chia cắt, khu vực biên giới, đi lại khó khăn… ở tỉnh Lâm Đồng tạm thời giữ nguyên, chưa sắp xếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T12:41:16.844422+07:00",
+      "fetched": "2026-08-13T12:41:16.844477+07:00"
+    },
+    {
+      "id": "4e81fcad1a919f6ee3089792e322b0af",
+      "title": "Vì sao các nền kinh tế cất cánh ở Đông Bắc Á đều hình thành lực lượng doanh nghiệp quốc gia?",
+      "link": "https://tuoitre.vn/vi-sao-cac-nen-kinh-te-cat-canh-o-dong-bac-a-deu-hinh-thanh-luc-luong-doanh-nghiep-quoc-gia-100260813111252553.htm",
+      "summary": "Bên cạnh những chính sách cải cách, đầu tư cho giáo dục hay mở cửa thương mại, điều tạo nên sức bật thần kỳ của Hàn Quốc, Nhật Bản…trong thế kỷ 20 là sự hình thành của những doanh nghiệp mang tầm vóc quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T12:41:16.844347+07:00",
+      "fetched": "2026-08-13T12:41:16.844412+07:00"
+    },
+    {
+      "id": "d918f5836cfc650651f3d68a2eb9fefb",
+      "title": "Quen được khách cho ăn, khỉ Sơn Trà chờ khách cho trái cây như... em bé đòi quà",
+      "link": "https://tuoitre.vn/quen-duoc-khach-cho-an-khi-son-tra-cho-khach-cho-trai-cay-nhu-em-be-doi-qua-10026081311173437.htm",
+      "summary": "Từ trong rừng Sơn Trà (Đà Nẵng) đi ra, những con khỉ ngồi sát mép đường nhìn chằm chằm vào du khách xin thức ăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T12:41:16.844264+07:00",
+      "fetched": "2026-08-13T12:41:16.844332+07:00"
+    },
+    {
+      "id": "f20233349145aed0f4d7d565568559f6",
+      "title": "Quảng Trị kỷ niệm 100 năm ngày sinh lãnh tụ Fidel Castro",
+      "link": "https://tuoitre.vn/quang-tri-ky-niem-100-nam-ngay-sinh-lanh-tu-fidel-castro-100260813115009744.htm",
+      "summary": "Tại công viên mang tên lãnh tụ Fidel Castro, tỉnh Quảng Trị tổ chức lễ kỷ niệm 100 năm ngày sinh lãnh tụ Fidel Castro Ruz (13-8-1926 - 13-8-2026), ôn lại tình hữu nghị đặc biệt Việt Nam - Cuba và dấu ấn của nhà lãnh đạo Cuba tại Quảng Trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T12:41:16.844196+07:00",
+      "fetched": "2026-08-13T12:41:16.844254+07:00"
+    },
+    {
+      "id": "1cded3b81a0882e0ed8eeabecded3048",
+      "title": "Đoạn đường ‘đau khổ’ ở quốc lộ 61 đã bằng phẳng, êm ái",
+      "link": "https://tuoitre.vn/doan-duong-dau-kho-o-quoc-lo-61-da-bang-phang-em-ai-100260813110129812.htm",
+      "summary": "Đoạn đường ‘đau khổ’ quốc lộ 61 qua địa bàn tỉnh An Giang (dài khoảng 10km, từ cầu Bến Nhứt đến xã Định Hòa) đang được tiến hành sửa chữa, trải thảm nhựa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T12:41:16.844109+07:00",
+      "fetched": "2026-08-13T12:41:16.844185+07:00"
+    },
+    {
+      "id": "d14e05481790fdf1d3e687f94ecb38a4",
+      "title": "Điểm chuẩn đại học 2026: Ngành nào có điểm chuẩn cao nhất?",
+      "link": "https://tuoitre.vn/diem-chuan-dai-hoc-2026-nganh-nao-co-diem-chuan-cao-nhat-100260813113252705.htm",
+      "summary": "Điểm chuẩn đại học năm 2026 ở các ngành cao nhất ghi nhận mức 29,83/30, 100/100 và 1.080/1.200 theo ba thang điểm xét tuyển khác nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T12:41:16.843667+07:00",
+      "fetched": "2026-08-13T12:41:16.844086+07:00"
+    },
     {
       "id": "ed58458f91280383b1a8c045aca73962",
       "title": "Dương Mịch U40 có gì ngoài nhan sắc?",
@@ -193,6 +343,356 @@ window.newsData_2026_08_13 = {
       "fetched": "2026-08-13T08:06:28.736709+07:00"
     },
     {
+      "id": "973195cd81333d673c73156dd7d7c7e2",
+      "title": "Ngày Voi thế giới, voi rừng bất ngờ ‘đi lạc’ vào làng Tà Lài",
+      "link": "https://thanhnien.vn/ngay-voi-the-gioi-voi-rung-bat-ngo-di-lac-vao-lang-ta-lai-185260813105832435.htm",
+      "summary": "Tối 12.8, một cá thể voi rừng đực, mới trưởng thành đã 'đi lạc' vào làng Tà Lài, Đồng Nai làm người dân một phen náo loạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:38:00+07:00",
+      "fetched": "2026-08-13T12:41:15.128919+07:00"
+    },
+    {
+      "id": "3884a430c0a4a9103c73811052ac4086",
+      "title": "Học viện Quân y lấy điểm chuẩn hệ dân sự cao nhất 27,43",
+      "link": "https://vnexpress.net/hoc-vien-quan-y-lay-diem-chuan-he-dan-su-cao-nhat-27-43-5108694.html",
+      "summary": "Điểm chuẩn ngành Y khoa hệ dân sự của Học viện Quân y là 27,43, cao top 3 cả nước, khoảng 200 thí sinh đỗ, trong đó ba em đạt 30/30.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:37:29+07:00",
+      "fetched": "2026-08-13T12:41:12.492583+07:00"
+    },
+    {
+      "id": "b755a47aa40c084d6d23adb496b202e8",
+      "title": "Cần Thơ sắp xếp 1.080 hiệu trưởng, phó hiệu trưởng dôi dư như thế nào?",
+      "link": "https://thanhnien.vn/can-tho-sap-xep-1080-hieu-truong-pho-hieu-truong-doi-du-nhu-the-nao-185260813110100619.htm",
+      "summary": "Sau sắp xếp cơ sở giáo dục công lập, TP.Cần Thơ đã có phương án sắp xếp 750 hiệu trưởng và 330 phó hiệu trưởng thuộc diện dôi dư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:35:00+07:00",
+      "fetched": "2026-08-13T12:41:15.129068+07:00"
+    },
+    {
+      "id": "55e6cc48c49aeb8a0e24a1c22804dc94",
+      "title": "Thấy gì khi HAGL và các CLB Việt Nam 'đổ bộ' Thái Lan mùa hè này?",
+      "link": "https://thanhnien.vn/thay-gi-khi-hagl-va-cac-clb-viet-nam-do-bo-thai-lan-mua-he-nay-185260812161445606.htm",
+      "summary": "Một xu hướng đáng chú ý xuất hiện trong công tác chuẩn bị của các CLB Việt Nam mùa hè này khi hàng loạt đội bóng lớn như CLB Hà Nội, Công an TP.HCM hay HAGL đồng loạt lựa chọn Thái Lan làm điểm đến cho các chuyến tập huấn trước thềm mùa giải mới 2026-2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:34:00+07:00",
+      "fetched": "2026-08-13T12:41:15.129208+07:00"
+    },
+    {
+      "id": "aed79a5b263d158be9d364c88a89f659",
+      "title": "Ninh Bình: Khai trừ ra khỏi Đảng 4 đảng viên vi phạm",
+      "link": "https://thanhnien.vn/ninh-binh-khai-tru-ra-khoi-dang-4-dang-vien-vi-pham-185260813114100414.htm",
+      "summary": "Ủy ban Kiểm tra Tỉnh ủy Ninh Bình vừa quyết định khai trừ khỏi Đảng 3 đảng viên suy thoái về tư tưởng chính trị, đạo đức, lối sống; vi phạm quy định về những điều đảng viên không được làm và trách nhiệm nêu gương của cán bộ, đảng viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:30:00+07:00",
+      "fetched": "2026-08-13T12:41:15.129340+07:00"
+    },
+    {
+      "id": "2ca29f0fb0524936b8bc20ddbe63625e",
+      "title": "Chồng Taylor Swift: \"Đám cưới là đêm tuyệt nhất đời tôi\"",
+      "link": "https://vnexpress.net/chong-taylor-swift-dam-cuoi-la-dem-tuyet-nhat-doi-toi-5108560.html",
+      "summary": "Cầu thủ Travis Kelce cho biết đã sống trọn giấc mơ thuở bé khi tổ chức hôn lễ với ca sĩ Taylor Swift tại \"đấu trường tuyệt nhất thế giới\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:25:36+07:00",
+      "fetched": "2026-08-13T12:41:12.492738+07:00"
+    },
+    {
+      "id": "8b40ec3f381fc91f51d544ed5b04d89c",
+      "title": "Dàn sao dự khai mạc Miss World",
+      "link": "https://vnexpress.net/dan-sao-du-khai-mac-miss-world-5108631.html",
+      "summary": "Miss World Opal Suchata, Karolina Bielawska, nam vương thế giới Danny Mejía Romero cùng nhiều sao Việt dự lễ khai mạc Hoa hậu Thế giới 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:25:23+07:00",
+      "fetched": "2026-08-13T12:41:12.492896+07:00"
+    },
+    {
+      "id": "4d40fb9da978cfea27087e06df87c89a",
+      "title": "Điểm chuẩn đại học 8 trường công an nhân dân: cao nhất 24,42, thấp nhất 17,14",
+      "link": "https://thanhnien.vn/diem-chuan-dai-hoc-8-truong-cong-an-nhan-dan-cao-nhat-2442-thap-nhat-1714-185260813114125651.htm",
+      "summary": "Điểm chuẩn các trường công an gồm 40% điểm thi tốt nghiệp THPT và 60% điểm bài thi đánh giá của Bộ Công an, nên mặt bằng điểm chuẩn nhìn chung là thấp so mặt bằng điểm chuẩn của cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:24:00+07:00",
+      "fetched": "2026-08-13T12:41:15.129469+07:00"
+    },
+    {
+      "id": "0b43255b6db972f3978130be63ea5c2b",
+      "title": "10 ô tô bán ít nhất Việt Nam tháng 7.2026: Xe Nhật chiếm đa số",
+      "link": "https://thanhnien.vn/10-o-to-ban-it-nhat-viet-nam-thang-72026-xe-nhat-chiem-da-so-185260812201248876.htm",
+      "summary": "Trong 10 ô tô bán ít nhất tháng 7 vừa qua có tới 7 mẫu xe đến từ hãng xe Nhật Bản. Riêng Toyota chiếm số lượng nhiều nhất với 4 xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:24:00+07:00",
+      "fetched": "2026-08-13T12:41:15.129599+07:00"
+    },
+    {
+      "id": "fd084fcf524eb343c14f880bd2ddd173",
+      "title": "Có gì hấp dẫn ở triển lãm thể thao và xe hai bánh quốc tế tại TP.HCM?",
+      "link": "https://thanhnien.vn/co-gi-hap-dan-o-trien-lam-the-thao-va-xe-hai-banh-quoc-te-tai-tphcm-185260813121532625.htm",
+      "summary": "Từ ngày 13-15.8, tại Trung tâm Hội chợ và Triển lãm Sài Gòn (SECC), TP.HCM diễn ra cùng lúc ba sự kiện lớn gồm triển lãm thể thao, triển lãm xe đạp và Hội chợ Giao dịch Xuất khẩu Chiết Giang lần thứ 14 tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:23:00+07:00",
+      "fetched": "2026-08-13T12:41:15.129726+07:00"
+    },
+    {
+      "id": "991c13c60e0ed247a0a1b762f6ae0e16",
+      "title": "Hé lộ các nước có thể hỗ trợ giải giáp Hezbollah",
+      "link": "https://thanhnien.vn/he-lo-cac-nuoc-co-the-ho-tro-giai-giap-hezbollah-185260813115326994.htm",
+      "summary": "Israel và Lebanon được cho là đã đồng ý đưa Anh, Ý, Thụy Sĩ và Indonesia vào danh sách các quốc gia có thể hỗ trợ giám sát quá trình giải giáp Hezbollah, thông qua cơ chế cho phép triển khai quân đội nước ngoài tại Lebanon.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:22:00+07:00",
+      "fetched": "2026-08-13T12:41:15.129867+07:00"
+    },
+    {
+      "id": "15be5820338775956d54e501b6392593",
+      "title": "Toàn quyền New Zealand dẫn thơ Chế Lan Viên nói về tình cảm của người Việt Nam",
+      "link": "https://thanhnien.vn/toan-quyen-new-zealand-dan-tho-che-lan-vien-noi-ve-tinh-cam-cua-nguoi-viet-nam-185260813120048084.htm",
+      "summary": "Sáng 13.8 (giờ địa phương), sau lễ đón trọng thể được tổ chức tại Phủ Toàn quyền, thành phố Auckland, New Zealand, Tổng Bí thư, Chủ tịch nước Tô Lâm đã hội kiến Toàn quyền New Zealand Dame Cindy Kiro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:19:00+07:00",
+      "fetched": "2026-08-13T12:41:15.129997+07:00"
+    },
+    {
+      "id": "b52cf002d09bd0fd5238694ad5d35572",
+      "title": "AEON Việt Nam duy trì giá tốt, đồng hành cùng người tiêu dùng",
+      "link": "https://thanhnien.vn/aeon-viet-nam-duy-tri-gia-tot-dong-hanh-cung-nguoi-tieu-dung-185260813120656897.htm",
+      "summary": "AEON Việt Nam thực hiện nhiều chương trình để duy trì giá tốt, đồng hành cùng người tiêu dùng vượt áp lực chi phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:18:00+07:00",
+      "fetched": "2026-08-13T12:41:15.130125+07:00"
+    },
+    {
+      "id": "47522c66858e6ff62f9e6bebff4022e0",
+      "title": "Từ cây bút khắc tên 'Nguyễn Xuân Hải': Gia đình ở Hải Phòng tìm liệt sĩ",
+      "link": "https://thanhnien.vn/tu-cay-but-khac-ten-nguyen-xuan-hai-gia-dinh-o-hai-phong-tim-liet-si-185260813113107417.htm",
+      "summary": "Một gia đình ở thành phố Hải Phòng liên hệ với Bộ Chỉ huy quân sự tỉnh Quảng Ngãi để cung cấp thông tin về liệt sĩ liên quan đến cây bút khắc tên 'Nguyễn Xuân Hải'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:18:00+07:00",
+      "fetched": "2026-08-13T12:41:15.130251+07:00"
+    },
+    {
+      "id": "f7135706cf43657a1795767af0300a84",
+      "title": "Thuế TP.HCM lưu ý nhận diện lừa đảo từ cuộc gọi",
+      "link": "https://thanhnien.vn/thue-tphcm-luu-y-nhan-dien-lua-dao-tu-cuoc-goi-185260813120338251.htm",
+      "summary": "Sau khi triển khai tổng đài trí tuệ nhân tạo (AI) gọi điện nhắc nợ thuế, thông báo tạm hoãn xuất cảnh, Thuế TP.HCM lưu ý người nhận cuộc gọi tránh nguy cơ bị giả mạo, lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:17:00+07:00",
+      "fetched": "2026-08-13T12:41:15.130376+07:00"
+    },
+    {
+      "id": "9cb886a0a754f0a23a9094a1d0f3abd2",
+      "title": "Bộ đôi Lynk & Co 02, 03 về Việt Nam, giá từ 818 triệu đồng",
+      "link": "https://thanhnien.vn/bo-doi-lynk-co-02-03-ve-viet-nam-gia-tu-818-trieu-dong-185260813062158052.htm",
+      "summary": "Lynk & Co tiếp tục mở rộng danh mục xe tại Việt Nam khi tung ra thị trường cùng lúc hai mẫu mã mới, gồm SUV thuần điện Lynk & Co 02 và sedan thể thao Lynk & Co 03, có giá khởi điểm lần lượt 818 triệu và 739 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:15:00+07:00",
+      "fetched": "2026-08-13T12:41:15.130512+07:00"
+    },
+    {
+      "id": "5abe0d56c8bc1eac5f796a3c20526523",
+      "title": "Vương Tổ Hiền AI 'đẹp nhưng thiếu thần thái'",
+      "link": "https://vnexpress.net/vuong-to-hien-ai-dep-nhung-thieu-than-thai-5108571.html",
+      "summary": "AI tái hiện ngọc nữ Hong Kong Vương Tổ Hiền \"giống đến từng lọn tóc\" song chưa toát được thần thái của minh tinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:08:37+07:00",
+      "fetched": "2026-08-13T12:41:12.493034+07:00"
+    },
+    {
+      "id": "3f5dbdca4d531e2d56fc95b6ea03ef67",
+      "title": "HLV Kim Sang-sik sẽ dành bất ngờ nào cho Malaysia ở bán kết ASEAN Cup 2026?",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-se-danh-bat-ngo-nao-cho-malaysia-o-ban-ket-asean-cup-2026-185260811161645813.htm",
+      "summary": "HLV Kim Sang-sik có thói quen gây bất ngờ cho các đối thủ của mình trong những trận đấu quan trọng. Người hâm mộ bóng đá Việt Nam đang chờ đợi bất ngờ về lối chơi của chúng ta sẽ tiếp tục xảy ra ở trận bán kết ASEAN Cup 2026, gặp Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:03:00+07:00",
+      "fetched": "2026-08-13T12:41:15.130641+07:00"
+    },
+    {
+      "id": "acc570b4ca0a757bf4cd859ff490ab5a",
+      "title": "Mourinho: 'Real - Barca là chiến tranh'",
+      "link": "https://vnexpress.net/mourinho-real-barca-la-chien-tranh-5108465.html",
+      "summary": "Trong phim tài liệu Mourinho phát sóng trên Netflix hôm 11/8, HLV người Bồ Đào Nha kể lại nhiệm kỳ đầu dẫn dắt Real Madrid từ 2010 đến 2013, với mỗi lần chạm trán kình địch Barca là một cuộc chiến tranh, đẩy căng thẳng phòng thay đồ đến giới hạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:00:00+07:00",
+      "fetched": "2026-08-13T12:41:12.493169+07:00"
+    },
+    {
+      "id": "2801eab2e551bf43531146934d9eca86",
+      "title": "Có nên rửa thịt đã xay, băm nhỏ?",
+      "link": "https://vnexpress.net/co-nen-rua-thit-da-xay-bam-nho-5107476.html",
+      "summary": "Tôi thấy nhiều người bán hàng chỉ nhúng qua thịt rồi bỏ vào máy xay, khi về nấu vẫn bị dính bụi, cát bẩn, liệu có nên rửa lại trước khi chế biến để không hại sức khỏe? (Tú, 22 tuổi, Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:00:00+07:00",
+      "fetched": "2026-08-13T12:41:12.493304+07:00"
+    },
+    {
+      "id": "6971669b1ebe588473d3e379a04e26bc",
+      "title": "Hanwha Life hợp tác ABBank mở rộng kênh phân phối bảo hiểm",
+      "link": "https://vnexpress.net/hanwha-life-hop-tac-abbank-mo-rong-kenh-phan-phoi-bao-hiem-5108665.html",
+      "summary": "Hanwha Life Việt Nam và ABBank hợp tác phân phối sản phẩm bảo hiểm qua ngân hàng, mang các sản phẩm bảo vệ sức khỏe, tài chính đến gần hơn với khách hàng trên toàn quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:00:00+07:00",
+      "fetched": "2026-08-13T12:41:12.493436+07:00"
+    },
+    {
+      "id": "d4756255646e32f7a91173ee6c9a9584",
+      "title": "Hóa xạ trị triệt căn ung thư thực quản",
+      "link": "https://vnexpress.net/hoa-xa-tri-triet-can-ung-thu-thuc-quan-5108569.html",
+      "summary": "Ông Lộc, 58 tuổi, nuốt khó và vướng, bác sĩ phát hiện ung thư thực quản đoạn 1/3 trên phải hóa xạ trị triệt căn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:00:00+07:00",
+      "fetched": "2026-08-13T12:41:12.493568+07:00"
+    },
+    {
+      "id": "4fcab9687fecba6825c766b7f082c41e",
+      "title": "Palm River thêm nguồn cung căn hộ ven sông tại khu Đông TP HCM",
+      "link": "https://vnexpress.net/palm-river-them-nguon-cung-can-ho-ven-song-tai-khu-dong-tp-hcm-5107913.html",
+      "summary": "Hướng Việt Properties tổ chức lễ khởi động phân khu Palm River thuộc Palm City, bổ sung nguồn cung căn hộ ven sông tại khu Đông TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:00:00+07:00",
+      "fetched": "2026-08-13T12:41:12.493700+07:00"
+    },
+    {
+      "id": "5fe505886d51a16b0666d6a55ec3c57a",
+      "title": "Chuyển động 12h: Đại hội La Vang rực sắc hoa | Cảnh đối lập ở cửa ngõ Tân Sơn Nhất",
+      "link": "https://thanhnien.vn/chuyen-dong-12h-dai-hoi-la-vang-ruc-sac-hoa-canh-doi-lap-o-cua-ngo-tan-son-nhat-185260813112605075.htm",
+      "summary": "Chuyển động 12h của Báo Thanh Niên ngày 13.8.2026 có những thông tin trong nước và quốc tế nóng hổi khác tại địa chỉ thanhnien.vn và kênh YouTube Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T05:00:00+07:00",
+      "fetched": "2026-08-13T12:41:15.130770+07:00"
+    },
+    {
+      "id": "6971669b1ebe588473d3e379a04e26bc",
+      "title": "Hanwha Life hợp tác ABBank mở rộng kênh phân phối bảo hiểm",
+      "link": "https://vnexpress.net/hanwha-life-hop-tac-abbank-mo-rong-kenh-phan-phoi-bao-hiem-5108665.html",
+      "summary": "Hanwha Life Việt Nam và ABBank hợp tác phân phối sản phẩm bảo hiểm qua ngân hàng, mang các sản phẩm bảo vệ sức khỏe, tài chính đến gần hơn với khách hàng trên toàn quốc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-13T05:00:00+07:00",
+      "fetched": "2026-08-13T12:41:19.538394+07:00"
+    },
+    {
+      "id": "acc570b4ca0a757bf4cd859ff490ab5a",
+      "title": "Mourinho: 'Real - Barca là chiến tranh'",
+      "link": "https://vnexpress.net/mourinho-real-barca-la-chien-tranh-5108465.html",
+      "summary": "Trong phim tài liệu Mourinho phát sóng trên Netflix hôm 11/8, HLV người Bồ Đào Nha kể lại nhiệm kỳ đầu dẫn dắt Real Madrid từ 2010 đến 2013, với mỗi lần chạm trán kình địch Barca là một cuộc chiến tranh, đẩy căng thẳng phòng thay đồ đến giới hạn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-13T05:00:00+07:00",
+      "fetched": "2026-08-13T12:41:23.578778+07:00"
+    },
+    {
+      "id": "53713027d9f8365f5f326b623675e1dc",
+      "title": "Lý do chính quyền mới của Syria không buộc Nga rút quân",
+      "link": "https://vnexpress.net/ly-do-chinh-quyen-moi-cua-syria-khong-buoc-nga-rut-quan-5108116.html",
+      "summary": "Thỏa thuận về hai căn cứ quân sự cho thấy Syria và Nga đang tái định hình quan hệ, khi mỗi bên đều cần đối phương để bảo toàn lợi ích chiến lược.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T04:54:02+07:00",
+      "fetched": "2026-08-13T12:41:12.493834+07:00"
+    },
+    {
+      "id": "53713027d9f8365f5f326b623675e1dc",
+      "title": "Lý do chính quyền mới của Syria không buộc Nga rút quân",
+      "link": "https://vnexpress.net/ly-do-chinh-quyen-moi-cua-syria-khong-buoc-nga-rut-quan-5108116.html",
+      "summary": "Thỏa thuận về hai căn cứ quân sự cho thấy Syria và Nga đang tái định hình quan hệ, khi mỗi bên đều cần đối phương để bảo toàn lợi ích chiến lược.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-13T04:54:02+07:00",
+      "fetched": "2026-08-13T12:41:18.015948+07:00"
+    },
+    {
+      "id": "79099fddab385a99b4977db6c2be0a3a",
+      "title": "Tài xế trả giá vì lái ôtô len lỏi như xe máy",
+      "link": "https://vnexpress.net/tai-xe-tra-gia-vi-lai-oto-len-loi-nhu-xe-may-5108299.html",
+      "summary": "Vượt lên từ làn sát lề đường, chiếc xe con bị xe tải ép sát, hỏng phần sườn xe hôm 12/8 tại Đa Tốn, Gia Lâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T04:51:13+07:00",
+      "fetched": "2026-08-13T12:41:12.493975+07:00"
+    },
+    {
+      "id": "2358dc753c62995dfc04d25c4ac4d900",
+      "title": "Chủ tịch Samsung Việt Nam: 'AI giúp smartphone liên tục tiến hóa'",
+      "link": "https://vnexpress.net/chu-tich-samsung-viet-nam-ai-giup-smartphone-lien-tuc-tien-hoa-5108656.html",
+      "summary": "AI đi từ những phản hồi riêng lẻ đến khả năng hiểu ngữ cảnh, liên tục cải tiến để chủ động giúp người dùng giải quyết những tác vụ thường nhật, theo ông Hyung Bin Joo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T04:50:00+07:00",
+      "fetched": "2026-08-13T12:41:12.494111+07:00"
+    },
+    {
+      "id": "4189c923b3bd614f0bbfc7520faf3b25",
+      "title": "Giải mã hiệu tượng khó ngủ ở nơi lạ",
+      "link": "https://vnexpress.net/giai-ma-hieu-tuong-kho-ngu-o-noi-la-5108620.html",
+      "summary": "Khó ngủ, liên tục tỉnh giấc trong đêm đầu tiên ở nơi xa lạ là cơ chế cảnh giác tự nhiên của não bộ con người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T04:43:10+07:00",
+      "fetched": "2026-08-13T12:41:12.494241+07:00"
+    },
+    {
+      "id": "f2d002463e30ace14ed4a08be3ee2da2",
+      "title": "Lịch nhập học của tân sinh viên gần 40 đại học ở TP HCM",
+      "link": "https://vnexpress.net/chi-tiet-lich-nhap-hoc-cho-tan-sinh-vien-tat-ca-dai-hoc-o-tp-hcm-nam-2026-5107953.html",
+      "summary": "Nhiều trường đại học cho sinh viên nhập học từ hôm nay, kéo dài đến đầu tháng 9 với hình thức trực tiếp hoặc online.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T04:39:30+07:00",
+      "fetched": "2026-08-13T12:41:12.494369+07:00"
+    },
+    {
+      "id": "6e7484cc8b3ea72a37af92b50f5aec42",
+      "title": "Khám phá 'hoa thạch cao' trong hang động ở Mỹ",
+      "link": "https://vnexpress.net/kham-pha-hoa-thach-cao-trong-hang-dong-o-my-5098837.html",
+      "summary": "Đầu tháng 7, chuyên gia Lê Lưu Dũng khám phá nhiều hang động ở Mỹ, ấn tượng với \"hoa thạch cao\", dạng kết tinh khoáng chất rất hiếm gặp trong hang động tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T04:36:45+07:00",
+      "fetched": "2026-08-13T12:41:12.494505+07:00"
+    },
+    {
+      "id": "88f354743cbb7c39f6fc970cda6803ab",
+      "title": "Messi tái xuất trong ngày Inter Miami bị loại ở Leagues Cup 2026",
+      "link": "https://vnexpress.net/messi-tai-xuat-trong-ngay-inter-miami-bi-loai-o-leagues-cup-2026-5108593.html",
+      "summary": "Tiền đạo Lionel Messi lần đầu thi đấu từ khi cha anh qua đời, nhưng Inter thua ngược Club Leon 2-3 và bị loại khỏi Leagues Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-13T04:34:46+07:00",
+      "fetched": "2026-08-13T12:41:23.578953+07:00"
+    },
+    {
+      "id": "83c47b27e601c70387f6b9e183d4a70b",
+      "title": "Chủ tịch Viettel: Cần chuẩn bị hạ tầng để đón mạng 6G",
+      "link": "https://vnexpress.net/chu-tich-viettel-can-chuan-bi-ha-tang-de-don-mang-6g-5108544.html",
+      "summary": "Mạng 6G có thể truyền dữ liệu nhanh hơn, phục vụ các ứng dụng số đòi hỏi kết nối lớn, nhưng cần nhiều trạm phát sóng hơn, theo Chủ tịch Viettel Tào Đức Thắng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-13T04:01:00+07:00",
+      "fetched": "2026-08-13T12:41:22.170943+07:00"
+    },
+    {
       "id": "427f7a89d1ee275027da72d886f4bda2",
       "title": "Điều chưa nói | Phim ngắn Vietnamese 2026",
       "link": "https://thanhnien.vn/dieu-chua-noi-phim-ngan-vietnamese-2026-185260813105538291.htm",
@@ -253,6 +753,16 @@ window.newsData_2026_08_13 = {
       "fetched": "2026-08-13T10:59:51.191639+07:00"
     },
     {
+      "id": "b144fc2a4fa98b4c3a0f084b63e1fc6f",
+      "title": "Quang Liêm: 'Tôi cần luyện thêm cờ nhanh, chớp'",
+      "link": "https://vnexpress.net/quang-liem-toi-can-luyen-them-co-nhanh-chop-5108598.html",
+      "summary": "Kỳ thủ Lê Quang Liêm thừa nhận chưa đạt đúng phong độ tại Esports World Cup 2026 và cho rằng cần dành thêm thời gian luyện cờ nhanh, chớp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-13T03:41:08+07:00",
+      "fetched": "2026-08-13T12:41:23.579096+07:00"
+    },
+    {
       "id": "487f9097cae84156914597ee4126865c",
       "title": "UBND tỉnh Tây Ninh trình xin ý kiến Tỉnh ủy xây dựng Trung tâm hành chính - chính trị",
       "link": "https://thanhnien.vn/ubnd-tinh-tay-ninh-trinh-xin-y-kien-tinh-uy-xay-dung-trung-tam-hanh-chinh-chinh-tri-185260813090220128.htm",
@@ -281,6 +791,16 @@ window.newsData_2026_08_13 = {
       "category": "Tổng hợp",
       "published": "2026-08-13T03:32:39.497179+07:00",
       "fetched": "2026-08-13T03:32:39.497330+07:00"
+    },
+    {
+      "id": "3ff6499bc78302aa14840207b9e432a9",
+      "title": "Trường học tương tác qua iPad",
+      "link": "https://vnexpress.net/truong-hoc-tuong-tac-qua-ipad-5108294.html",
+      "summary": "Gần 600 học sinh ở trường SBPI Gombak sử dụng iPad để học tập và tương tác với giáo viên từ các môn văn hóa đến giáo dục thể chất theo mô hình 1:1.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-13T03:29:16+07:00",
+      "fetched": "2026-08-13T12:41:22.171789+07:00"
     },
     {
       "id": "50b488b230cb999a5cd696d18fe1390f",
