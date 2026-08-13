@@ -1,7 +1,157 @@
 window.newsData_2026_08_13 = {
   "date": "2026-08-13",
-  "lastUpdated": "2026-08-13T17:52:44.190297+07:00",
+  "lastUpdated": "2026-08-13T19:45:09.181738+07:00",
   "articles": [
+    {
+      "id": "070a9b27f0ec7c2534752d03dc150d0d",
+      "title": "Cạnh tranh trạm sạc VinFast, EV One, EverCharge, EverEV... có thay đổi với quy chuẩn mới?",
+      "link": "https://tuoitre.vn/canh-tranh-tram-sac-vinfast-ev-one-evercharge-everev-co-thay-doi-voi-quy-chuan-moi-100260813163701248.htm",
+      "summary": "Việc thiết lập quy chuẩn về trụ sạc, trạm sạc xe điện sẽ tạo môi trường cạnh tranh dựa trên chất lượng, an toàn và khả năng tương thích, hạn chế thiết bị kém chất lượng, không rõ nguồn gốc, theo Bộ Công Thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T19:45:03.690761+07:00",
+      "fetched": "2026-08-13T19:45:03.690820+07:00"
+    },
+    {
+      "id": "8664d1b0ebe203d961a613d51490f7e7",
+      "title": "Bóng đá Malaysia đón sự trở lại dàn sao nhập tịch từng dính bê bối",
+      "link": "https://tuoitre.vn/bong-da-malaysia-don-su-tro-lai-dan-sao-nhap-tich-tung-dinh-be-boi-100260813164742189.htm",
+      "summary": "Làng bóng đá Malaysia nhận tin vui lớn khi dàn ngôi sao nhập tịch từng là nhân vật chính của vụ bê bối \"nhập tịch trái phép\" một năm trước giờ đây đã hoàn tất thủ tục để chính thức trở thành \"cầu thủ bản địa\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T19:45:03.690684+07:00",
+      "fetched": "2026-08-13T19:45:03.690751+07:00"
+    },
+    {
+      "id": "8dc99d5b159c0451296610804ae941a1",
+      "title": "Ai có thể trở thành người phát ngôn Nhà Trắng tiếp theo?",
+      "link": "https://tuoitre.vn/ai-co-the-tro-thanh-nguoi-phat-ngon-nha-trang-tiep-theo-100260813165244624.htm",
+      "summary": "Việc bà Karoline Leavitt rời vị trí thư ký báo chí vào cuối tháng 8 làm dấy lên nhiều câu hỏi về người kế nhiệm bà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T19:45:03.690616+07:00",
+      "fetched": "2026-08-13T19:45:03.690674+07:00"
+    },
+    {
+      "id": "f5c595c02dd36ccbf2945b07dc9f5615",
+      "title": "Truy tìm người lừa 'chạy thầu' chợ Dinh ở Khánh Hòa lấy 660 triệu đồng",
+      "link": "https://tuoitre.vn/truy-tim-nguoi-lua-chay-thau-cho-dinh-o-khanh-hoa-lay-660-trieu-dong-100260813172322146.htm",
+      "summary": "Nguyễn Đức Bảo nổ có thể giúp trúng thầu, quản lý chợ Dinh (phường Ninh Hòa, Khánh Hòa) rồi yêu cầu chuyển 660 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T19:45:03.690543+07:00",
+      "fetched": "2026-08-13T19:45:03.690606+07:00"
+    },
+    {
+      "id": "e096855e811350c80dca86b1ddf2a491",
+      "title": "TP.HCM rà soát đội ngũ, có thể điều phối giáo viên giỏi hỗ trợ trường khó khăn",
+      "link": "https://tuoitre.vn/tphcm-ra-soat-doi-ngu-co-the-dieu-phoi-giao-vien-gioi-ho-tro-truong-kho-khan-100260813171555942.htm",
+      "summary": "Rà soát lại đội ngũ, chia sẻ giáo viên cốt cán, học liệu và mô hình chuyên môn hiệu quả giữa các trường là những việc ngành giáo dục TP.HCM đặt ra trước năm học mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T19:45:03.690477+07:00",
+      "fetched": "2026-08-13T19:45:03.690533+07:00"
+    },
+    {
+      "id": "12d055a8e49d02613337b7cd32f4291b",
+      "title": "Thành phố và những món nợ không biên nhận",
+      "link": "https://tuoitre.vn/thanh-pho-va-nhung-mon-no-khong-bien-nhan-100260813175418702.htm",
+      "summary": "Gió từ sông Hồng thổi mướt qua những rặng nhãn Hưng Yên, mang theo hơi nước mát rượi của một chiều tháng Tám. Tôi ngồi trước hiên nhà, nhìn vạt nắng cuối ngày đang nhạt dần trên mặt sân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T19:45:03.690409+07:00",
+      "fetched": "2026-08-13T19:45:03.690467+07:00"
+    },
+    {
+      "id": "66679432146f49eb37a9063cf7237890",
+      "title": "Đắk Lắk lập hồ sơ đề xuất dự án đường bộ cao tốc Phú Yên - Đắk Lắk",
+      "link": "https://tuoitre.vn/dak-lak-lap-ho-so-de-xuat-du-an-duong-bo-cao-toc-phu-yen-dak-lak-100260813171748928.htm",
+      "summary": "UBND tỉnh Đắk Lắk giao Sở Tài chính chủ trì, phối hợp với nhà đầu tư (Tập đoàn Đèo Cả) lập hồ sơ đề xuất dự án đầu tư xây dựng tuyến đường bộ cao tốc Phú Yên - Đắk Lắk.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T19:45:03.690338+07:00",
+      "fetched": "2026-08-13T19:45:03.690399+07:00"
+    },
+    {
+      "id": "7ac0d7ae9ff7ab4a1a8a9b3432640c2b",
+      "title": "Sau 7 tháng, TP.HCM giải quyết 43.946 hồ sơ cấp sổ hồng",
+      "link": "https://tuoitre.vn/sau-7-thang-tphcm-giai-quyet-43946-ho-so-cap-so-hong-100260813164813382.htm",
+      "summary": "Tính đến ngày 31-7-2026, Văn phòng Đăng ký đất đai TP.HCM đã đạt được những kết quả đáng ghi nhận trong công tác cấp sổ hồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T19:45:03.690231+07:00",
+      "fetched": "2026-08-13T19:45:03.690325+07:00"
+    },
+    {
+      "id": "ec9dd5d0edc057c05ea336e774c8965c",
+      "title": "Hai 'siêu nút giao' An Phú, Mỹ Thủy bao giờ hoàn thành?",
+      "link": "https://tuoitre.vn/hai-sieu-nut-giao-an-phu-my-thuy-bao-gio-hoan-thanh-100260813174329657.htm",
+      "summary": "Dự án xây dựng nút giao An Phú (TP.HCM) hiện đạt khoảng 75% khối lượng, dự kiến hoàn thành trong quý 2-2027. Trong khi đó, nút giao Mỹ Thủy dự kiến hoàn thành quý 1-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T19:45:03.690108+07:00",
+      "fetched": "2026-08-13T19:45:03.690214+07:00"
+    },
+    {
+      "id": "6e184c1e322b17f034a52df2ecb14f02",
+      "title": "Chợ đầu mối nông sản Thủ Đức sẽ tăng lượng mẫu test nhanh rau, củ, quả",
+      "link": "https://tuoitre.vn/cho-dau-moi-nong-san-thu-duc-se-tang-luong-mau-test-nhanh-rau-cu-qua-100260813170320889.htm",
+      "summary": "Nhằm thực hiện kiểm soát công tác an toàn thực phẩm, từ tháng 7-2026, chợ đầu mối nông sản Thủ Đức đã tăng số lượng test nhanh các mặt hàng rau củ quả, trái cây từ 10 lên 15 mẫu mỗi tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T19:45:03.689967+07:00",
+      "fetched": "2026-08-13T19:45:03.690088+07:00"
+    },
+    {
+      "id": "9ec7c78f71b23a73ec7cdd324fbe9410",
+      "title": "Người Việt quan tâm tìm kiếm gì trước thềm năm học mới?",
+      "link": "https://tuoitre.vn/nguoi-viet-quan-tam-tim-kiem-gi-truoc-them-nam-hoc-moi-100260813174756879.htm",
+      "summary": "Trước thềm năm học mới, mối quan tâm của người dùng tăng ở nhiều nhóm nội dung gắn với việc chuẩn bị cho học tập, từ sách giáo khoa, ngoại ngữ đến chuẩn đầu ra đại học, chỗ ở và thiết bị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T19:45:03.689860+07:00",
+      "fetched": "2026-08-13T19:45:03.689951+07:00"
+    },
+    {
+      "id": "d9c61943476f40e6c48b2759ca7535d4",
+      "title": "Miền Bắc sắp kết thúc nắng nóng, chuyển mưa rào và dông nhiều ngày",
+      "link": "https://tuoitre.vn/mien-bac-sap-ket-thuc-nang-nong-chuyen-mua-rao-va-dong-nhieu-ngay-100260813172459982.htm",
+      "summary": "Dự báo từ chiều tối mai (14-8), miền Bắc có mưa rào và dông rải rác, cục bộ có nơi mưa to, chấm dứt đợt nắng nóng kéo dài từ ngày 8-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T19:45:03.689753+07:00",
+      "fetched": "2026-08-13T19:45:03.689845+07:00"
+    },
+    {
+      "id": "b354aca040a3a1ad522f8ec1c75634b6",
+      "title": "Xe buýt miễn phí ở TP.HCM hút gần 12 triệu lượt khách sau hơn 1 tháng",
+      "link": "https://tuoitre.vn/xe-buyt-mien-phi-o-tphcm-hut-gan-12-trieu-luot-khach-sau-hon-1-thang-100260813172349053.htm",
+      "summary": "Chiều 13-8, ông Lê Hoàn - Phó giám đốc Trung tâm Quản lý giao thông công cộng (thuộc Sở Xây dựng TP.HCM) thông tin về kết quả triển khai chính sách miễn vé xe buýt từ 1-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T19:45:03.689612+07:00",
+      "fetched": "2026-08-13T19:45:03.689734+07:00"
+    },
+    {
+      "id": "e3ad4e598ebed5c03d0c455f70fc4195",
+      "title": "Giá vàng thế giới về dưới 4.400 USD/ounce",
+      "link": "https://tuoitre.vn/gia-vang-the-gioi-ve-duoi-4400-usd-ounce-100260813180335115.htm",
+      "summary": "Giá vàng thế giới giảm mạnh trở lại sau khi chạm ngưỡng 4.440 USD/ounce, đến chiều nay 13-8, chỉ còn 4.382 USD/ounce, giảm đến 27 USD/ounce so với hôm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T19:45:03.689267+07:00",
+      "fetched": "2026-08-13T19:45:03.689588+07:00"
+    },
+    {
+      "id": "1ddd7ac9c5f347ad69deba829672bc57",
+      "title": "INSEE Việt Nam hoàn thành dự án mở rộng trạm xi măng INSEE Cần Thơ",
+      "link": "https://tuoitre.vn/insee-viet-nam-hoan-thanh-du-an-mo-rong-tram-xi-mang-insee-can-tho-100260813171204406.htm",
+      "summary": "INSEE Việt Nam chính thức khánh thành và đưa vào vận hành dự án mở rộng trạm xi măng INSEE Cần Thơ từ ngày 31-7-2026, đánh dấu một cột mốc quan trọng trong chiến lược tăng cường năng lực cung ứng và mở rộng mạng lưới phân phối xi măng tại khu vực đồng bằng sông Cửu Long.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T19:45:03.689119+07:00",
+      "fetched": "2026-08-13T19:45:03.689253+07:00"
+    },
     {
       "id": "4be34d4441d3bd6492d424087fcd0e31",
       "title": "Chủ tịch xã, phường ở Quảng Trị chịu trách nhiệm nếu để khai thác khoáng sản trái phép",
@@ -453,6 +603,46 @@ window.newsData_2026_08_13 = {
       "fetched": "2026-08-13T12:41:16.844086+07:00"
     },
     {
+      "id": "523e0c79cccf0089ae56f502ae60f476",
+      "title": "Ukraine tuyên bố kết hợp 15 vũ khí trong đòn tập kích quân cảng Nga",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-ket-hop-15-vu-khi-trong-don-tap-kich-quan-cang-nga-5108791.html",
+      "summary": "Tổng thống Zelensky cho biết Ukraine lần đầu sử dụng 15 vũ khí để hiệp đồng tấn công căn cứ Hạm đội Biển Đen ở Novorossiysk.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T11:08:17+07:00",
+      "fetched": "2026-08-13T19:44:59.348498+07:00"
+    },
+    {
+      "id": "523e0c79cccf0089ae56f502ae60f476",
+      "title": "Ukraine tuyên bố kết hợp 15 vũ khí trong đòn tập kích quân cảng Nga",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-ket-hop-15-vu-khi-trong-don-tap-kich-quan-cang-nga-5108791.html",
+      "summary": "Tổng thống Zelensky cho biết Ukraine lần đầu sử dụng 15 vũ khí để hiệp đồng tấn công căn cứ Hạm đội Biển Đen ở Novorossiysk.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-13T11:08:17+07:00",
+      "fetched": "2026-08-13T19:45:04.773811+07:00"
+    },
+    {
+      "id": "35e0308bd4ec375cd154500c591a4a6d",
+      "title": "Tranh cãi tên gọi của iPhone gập",
+      "link": "https://vnexpress.net/tranh-cai-ten-goi-cua-iphone-gap-5108484.html",
+      "summary": "Smartphone màn hình gập đầu tiên của Apple được nhân viên công ty gọi là iPhone Ultra, nhưng được cho là tên nội bộ, chưa phải tên thương mại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T11:00:00+07:00",
+      "fetched": "2026-08-13T19:44:59.348682+07:00"
+    },
+    {
+      "id": "35e0308bd4ec375cd154500c591a4a6d",
+      "title": "Tranh cãi tên gọi của iPhone gập",
+      "link": "https://vnexpress.net/tranh-cai-ten-goi-cua-iphone-gap-5108484.html",
+      "summary": "Smartphone màn hình gập đầu tiên của Apple được nhân viên công ty gọi là iPhone Ultra, nhưng được cho là tên nội bộ, chưa phải tên thương mại.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-13T11:00:00+07:00",
+      "fetched": "2026-08-13T19:45:08.055588+07:00"
+    },
+    {
       "id": "ed58458f91280383b1a8c045aca73962",
       "title": "Dương Mịch U40 có gì ngoài nhan sắc?",
       "link": "https://tuoitre.vn/duong-mich-u40-co-gi-ngoai-nhan-sac-100260812224328867.htm",
@@ -601,6 +791,16 @@ window.newsData_2026_08_13 = {
       "category": "Tổng hợp",
       "published": "2026-08-13T10:59:54.332410+07:00",
       "fetched": "2026-08-13T10:59:54.332571+07:00"
+    },
+    {
+      "id": "ecd9e646ab5f87a24876f9ec07de06f8",
+      "title": "Đôi trẻ sinh non 'chiến đấu để sống' ngay lúc chào đời",
+      "link": "https://vnexpress.net/doi-tre-sinh-non-chien-dau-de-song-ngay-luc-chao-doi-5108756.html",
+      "summary": "Người mẹ 25 tuổi mang song thai, vỡ ối ở tuần 28 sinh hai bé gái nặng 900 g và 800 g mắc nhiều bệnh lý nguy hiểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T10:53:10+07:00",
+      "fetched": "2026-08-13T19:44:59.348848+07:00"
     },
     {
       "id": "9c1f3d63a4837b7af9ddb6e118d1e017",
@@ -791,6 +991,16 @@ window.newsData_2026_08_13 = {
       "category": "Kinh doanh",
       "published": "2026-08-13T09:53:21+07:00",
       "fetched": "2026-08-13T17:52:40.688018+07:00"
+    },
+    {
+      "id": "f77e5452b2b4467aa5c34746397af485",
+      "title": "Hungary khẩn cấp cứu nhà máy điện hạt nhân",
+      "link": "https://vnexpress.net/hungary-khan-cap-cuu-nha-may-dien-hat-nhan-5108805.html",
+      "summary": "Thủ tướng Magyar ban bố lệnh khẩn cấp cứu nhà máy điện hạt nhân, cơ sở cung ứng một phần ba lượng điện nước này, khi mực nước sông làm mát thấp kỷ lục.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-13T09:53:21+07:00",
+      "fetched": "2026-08-13T19:45:05.846369+07:00"
     },
     {
       "id": "75abcc3ff811d37d8fe515105e1b4da7",
