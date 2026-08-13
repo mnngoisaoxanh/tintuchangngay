@@ -1,7 +1,157 @@
 window.newsData_2026_08_13 = {
   "date": "2026-08-13",
-  "lastUpdated": "2026-08-13T21:50:01.422447+07:00",
+  "lastUpdated": "2026-08-13T23:44:38.844981+07:00",
   "articles": [
+    {
+      "id": "7135b158c96e5641e6c7ee19d1e98f33",
+      "title": "TP.HCM tập trung phát triển hạ tầng giao thông kết nối khu vực cảng biển Cái Mép, Thị Vải và Cần Giờ",
+      "link": "https://tuoitre.vn/tphcm-tap-trung-phat-trien-ha-tang-giao-thong-ket-noi-khu-vuc-cang-bien-cai-mep-thi-vai-va-can-gio-100260813175541179.htm",
+      "summary": "Chiều 13-8, đại diện Sở Công Thương TP.HCM thông tin về định hướng phát triển của thành phố nhằm phát huy lợi thế cửa ngõ thương mại của vùng kinh tế phía Nam và cạnh tranh với các nước trong khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:44:29.620590+07:00",
+      "fetched": "2026-08-13T23:44:29.620651+07:00"
+    },
+    {
+      "id": "6aa9a9527fdd8af67c594ee9de1d67ad",
+      "title": "Ba con diều gắn đèn chớp lại khiến máy bay chờ ở Tân Sơn Nhất",
+      "link": "https://tuoitre.vn/ba-con-dieu-gan-den-chop-lai-khien-may-bay-cho-o-tan-son-nhat-100260813205356173.htm",
+      "summary": "Tối 13-8, nhiều chuyến bay đến và đi từ sân bay Tân Sơn Nhất bị ảnh hưởng do phát hiện vật thể bay không xác định ở khu vực lân cận. Sau khi kiểm tra, cơ quan chức năng xác định vật thể này là ba con diều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:44:29.620535+07:00",
+      "fetched": "2026-08-13T23:44:29.620582+07:00"
+    },
+    {
+      "id": "39a3b5e5b20688ea34d789fc8eb52771",
+      "title": "Một trường ở TP.HCM có hai lớp 100% học sinh đậu đại học y, phụ huynh xôn xao",
+      "link": "https://tuoitre.vn/mot-truong-o-tphcm-co-hai-lop-100-hoc-sinh-dau-dai-hoc-y-phu-huynh-xon-xao-10026081317582665.htm",
+      "summary": "88 học sinh của hai lớp khối B cùng đậu các trường y lớn ở phía Nam, khiến nhiều phụ huynh trầm trồ nhưng cũng đặt câu hỏi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:44:29.620484+07:00",
+      "fetched": "2026-08-13T23:44:29.620528+07:00"
+    },
+    {
+      "id": "b7b428e6034e9788f44f603a89f4ac62",
+      "title": "New Zealand và những phong tục khiến du khách nhớ mãi",
+      "link": "https://tuoitre.vn/new-zealand-va-nhung-phong-tuc-khien-du-khach-nho-mai-100260813201129855.htm",
+      "summary": "Các phong tục đặc trưng của người Māori góp phần tạo nên bản sắc văn hóa độc đáo của New Zealand.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:44:29.620430+07:00",
+      "fetched": "2026-08-13T23:44:29.620474+07:00"
+    },
+    {
+      "id": "5dbf0873b4a906b628f81cb3c607f84e",
+      "title": "Kiểm soát doanh nghiệp nhập khẩu tăng đột biến khi nhập siêu hơn 20,3 tỉ USD",
+      "link": "https://tuoitre.vn/kiem-soat-doanh-nghiep-nhap-khau-tang-dot-bien-khi-nhap-sieu-hon-203-ti-usd-100260813201548956.htm",
+      "summary": "Ngày 13-8, Phó thủ tướng thường trực Phạm Gia Túc chủ trì hội nghị rà soát các biện pháp thúc đẩy xuất khẩu, kiểm soát nhập siêu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:44:29.620373+07:00",
+      "fetched": "2026-08-13T23:44:29.620423+07:00"
+    },
+    {
+      "id": "fdaffe045aa15207a11e59d221f07387",
+      "title": "Không chấp nhận nghi thức Đội lệch lạc, biến tướng",
+      "link": "https://tuoitre.vn/khong-chap-nhan-nghi-thuc-doi-lech-lac-bien-tuong-100260813205424193.htm",
+      "summary": "Bí thư thứ nhất Trung ương Đoàn Bùi Quang Huy nhấn mạnh phải nhìn nhận thẳng thắn, giải quyết triệt để, dứt điểm, không để tồn tại việc thực hành nghi thức Đội sai lệch, biến tướng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:44:29.620300+07:00",
+      "fetched": "2026-08-13T23:44:29.620364+07:00"
+    },
+    {
+      "id": "348720a081daba6481db598eb21d45d3",
+      "title": "Tiền gửi của người dân lần đầu vượt 11 triệu tỉ đồng",
+      "link": "https://tuoitre.vn/tien-gui-cua-nguoi-dan-lan-dau-vuot-11-trieu-ti-dong-100260813204350607.htm",
+      "summary": "Tiền gửi của dân cư vào hệ thống tổ chức tín dụng đến cuối tháng 6 đạt hơn 11,07 triệu tỉ đồng, tăng 7,1% so với cuối năm 2025 và là mức cao nhất từ trước đến nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:44:29.620211+07:00",
+      "fetched": "2026-08-13T23:44:29.620288+07:00"
+    },
+    {
+      "id": "c7980b727af4262cfcb2d1875c78f3d3",
+      "title": "Người trẻ Việt dùng AI kể lại chuyến thăm Quảng Trị của lãnh tụ Cuba Fidel Castro",
+      "link": "https://tuoitre.vn/nguoi-tre-viet-dung-ai-ke-lai-chuyen-tham-lich-su-den-quang-tri-cua-lanh-tu-cuba-fidel-castro-100260813172508896.htm",
+      "summary": "Phim ngắn ứng dụng AI tái hiện chuyến thăm lịch sử của lãnh tụ Fidel Castro đến vùng chiến sự Quảng Trị năm 1973.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:44:29.620121+07:00",
+      "fetched": "2026-08-13T23:44:29.620197+07:00"
+    },
+    {
+      "id": "a6822fd03fe11fb3ec93f170bb00e5f2",
+      "title": "Từ ngày 1-9, người bị thương nặng do tai nạn giao thông có thể được hỗ trợ đến 100 triệu đồng",
+      "link": "https://tuoitre.vn/tu-ngay-1-9-nguoi-bi-thuong-nang-do-tai-nan-giao-thong-co-the-duoc-ho-tro-den-100-trieu-dong-100260813201951668.htm",
+      "summary": "Trường hợp nạn nhân bị thương trên 81%, quỹ hỗ trợ hoạt động hòa nhập cộng đồng và tiếp tục phát triển, mức tối đa 100 triệu đồng/người/lần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:44:29.619748+07:00",
+      "fetched": "2026-08-13T23:44:29.620106+07:00"
+    },
+    {
+      "id": "7b7198449223d22e13e8079b09f3716b",
+      "title": "Vốn hóa giảm 28% từ khi lên sàn, Nông nghiệp Hòa Phát kinh doanh ra sao?",
+      "link": "https://tuoitre.vn/von-hoa-giam-28-tu-khi-len-san-nong-nghiep-hoa-phat-kinh-doanh-ra-sao-100260813174704728.htm",
+      "summary": "Giá cổ phiếu HPA liên tục giảm trong bối cảnh kết quả kinh doanh sụt giảm hai quý liên tiếp, đồng thời giá heo hơi trong nước cũng trên đà đi xuống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:44:29.619693+07:00",
+      "fetched": "2026-08-13T23:44:29.619740+07:00"
+    },
+    {
+      "id": "e031a2f73d85b25ffb63380b68c5cf64",
+      "title": "Phó thủ tướng: Kết quả tại công viên Lê Thị Riêng là mô hình mẫu đối với các khu mộ tập thể còn thiếu thông tin",
+      "link": "https://tuoitre.vn/pho-thu-tuong-ket-qua-tai-cong-vien-le-thi-rieng-la-mo-hinh-mau-doi-voi-cac-khu-mo-tap-the-con-thieu-thong-tin-100260813205706138.htm",
+      "summary": "Theo Phó thủ tướng Phạm Thị Thanh Trà, kết quả tại công viên Lê Thị Riêng (TP.HCM) cần được coi là mô hình, cách làm mẫu để triển khai đối với các khu mộ tập thể còn thiếu thông tin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:44:29.619611+07:00",
+      "fetched": "2026-08-13T23:44:29.619683+07:00"
+    },
+    {
+      "id": "b4aa3d095a3fb890d6f857e8c0f47ac3",
+      "title": "Vụ ô tô bị camera AI phát hiện 96 lỗi: CSGT đã gửi thông báo, tài xế phạm lỗi liên tục cách nhau chỉ vài phút",
+      "link": "https://tuoitre.vn/vu-o-to-bi-camera-ai-phat-hien-96-loi-csgt-da-gui-thong-bao-tai-xe-pham-loi-lien-tuc-cach-nhau-chi-vai-phut-100260813213011653.htm",
+      "summary": "Theo Cục Cảnh sát giao thông, các lỗi của tài xế lái ô tô biển số 29A-647.XX bị camera AI ghi nhận liên tục từ ngày 2-7 đến 30-7, tập trung nhiều vào sáng sớm và cuối chiều, tối. Có 7 ngày xuất hiện từ 2 lỗi trở lên, có những lần camera ghi nhận 2 lỗi chỉ cách nhau vài phút.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:44:29.619558+07:00",
+      "fetched": "2026-08-13T23:44:29.619602+07:00"
+    },
+    {
+      "id": "e00beb0b8e7912f140a04e3164fe9f1e",
+      "title": "Nữ phi hành gia Pháp sắp làm nên lịch sử bên ngoài Trạm Vũ trụ quốc tế",
+      "link": "https://tuoitre.vn/nu-phi-hanh-gia-phap-sap-lam-nen-lich-su-ben-ngoai-tram-vu-tru-quoc-te-100260813212347491.htm",
+      "summary": "Ngày 18-8 tới, Sophie Adenot dự kiến trở thành người phụ nữ Pháp đầu tiên bước ra ngoài Trạm Vũ trụ quốc tế, thực hiện nhiệm vụ kéo dài hơn 6 giờ giữa khoảng không vũ trụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:44:29.619494+07:00",
+      "fetched": "2026-08-13T23:44:29.619548+07:00"
+    },
+    {
+      "id": "d015b648b21ed7c42355706ff22a0047",
+      "title": "Mùa sầu riêng, Quốc lộ 26 kẹt cứng: Xe rẽ hướng nào?",
+      "link": "https://tuoitre.vn/mua-sau-rieng-quoc-lo-26-ket-cung-xe-re-huong-nao-100260813214524848.htm",
+      "summary": "Lượng xe phục vụ vận chuyển sầu riêng tăng đột biến khiến Quốc lộ 26 qua Đắk Lắk thường xuyên ùn tắc. Cảnh sát giao thông đã hướng dẫn một số phương tiện đi đường thay thế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:44:29.619424+07:00",
+      "fetched": "2026-08-13T23:44:29.619485+07:00"
+    },
+    {
+      "id": "fff638acd0d4a9b246af9d9d0752d1ad",
+      "title": "TP.HCM trình diễn ánh sáng tri ân Lãnh tụ Cuba Fidel Castro",
+      "link": "https://tuoitre.vn/tphcm-trinh-dien-anh-sang-tri-an-lanh-tu-cuba-fidel-castro-100260813190052339.htm",
+      "summary": "Tòa nhà Saigon Marina IFC (TP.HCM) trình diễn chiếu ánh sáng nhân kỷ niệm 100 năm ngày sinh lãnh tụ Cuba Fidel Castro (13-8-1926 - 13-8-2026).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:44:29.619241+07:00",
+      "fetched": "2026-08-13T23:44:29.619411+07:00"
+    },
     {
       "id": "80d6ba8e1dca1e7ad01c63e58652e275",
       "title": "Trạm xăng có trụ sạc xe điện, ghế ngả và thiết bị sức khỏe cho tài xế chờ sạc",
@@ -603,6 +753,86 @@ window.newsData_2026_08_13 = {
       "fetched": "2026-08-13T16:02:44.356238+07:00"
     },
     {
+      "id": "c9caca642a19c1eb3da7529864ffbeb8",
+      "title": "'Khách lạ' UAV",
+      "link": "https://vnexpress.net/khach-la-uav-5108922.html",
+      "summary": "Tôi từng nghĩ chiếc UAV cũng là một phương tiện. Muốn quản lý thì hãy đăng ký chủ sở hữu, cấp cho nó một mã số giống như biển số ôtô, xe máy. Khi có vi phạm, từ phương tiện truy ra người chịu trách nhiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T15:45:18+07:00",
+      "fetched": "2026-08-13T23:44:24.394757+07:00"
+    },
+    {
+      "id": "9625cf19d071b684a5749b79ff6e0756",
+      "title": "Những ngành học lấy điểm chuẩn 'suýt soát' tuyệt đối",
+      "link": "https://vnexpress.net/nhung-nganh-hoc-hot-lay-diem-chuan-cao-nhat-mua-tuyen-sinh-dai-hoc-2026-5108861.html",
+      "summary": "Thí sinh thường phải đạt hơn 27/30 điểm, thậm chí 29-30 mới có thể đỗ ngành 'hot' ở một số trường Công nghệ, Kỹ thuật, Sư phạm, Y Dược, hay khối Quân đội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T15:08:14+07:00",
+      "fetched": "2026-08-13T23:44:24.394970+07:00"
+    },
+    {
+      "id": "544fa0968e5bddc6f5605960f7b87f22",
+      "title": "Thả diều gắn đèn chớp khiến loạt máy bay không thể cất, hạ cánh ở Tân Sơn Nhất",
+      "link": "https://vnexpress.net/tha-dieu-gan-den-chop-khien-loat-may-bay-khong-the-cat-ha-canh-o-tan-son-nhat-5108907.html",
+      "summary": "Nhiều chuyến bay không thể cất, hạ cánh tại Tân Sơn Nhất tối 13/8 do phát hiện ba con diều gắn đèn chớp tắt trên bầu trời, sau hai ngày sân bay bị loạt UAV xâm nhập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T14:49:10+07:00",
+      "fetched": "2026-08-13T23:44:24.395161+07:00"
+    },
+    {
+      "id": "0e611d5ae9cc5eae189e26ac9699b5a3",
+      "title": "Dragon Capital nói quỹ âm 14% do thị trường có nhiều 'ổ gà'",
+      "link": "https://vnexpress.net/dragon-capital-noi-quy-am-14-do-thi-truong-co-nhieu-o-ga-5108895.html",
+      "summary": "DCDS, quỹ mở cổ phiếu lớn nhất thị trường, giảm 14% từ đầu năm trong bối cảnh chịu tác động của lãi suất tăng và thị trường phân hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T14:48:06+07:00",
+      "fetched": "2026-08-13T23:44:24.395301+07:00"
+    },
+    {
+      "id": "0e611d5ae9cc5eae189e26ac9699b5a3",
+      "title": "Dragon Capital nói quỹ âm 14% do thị trường có nhiều 'ổ gà'",
+      "link": "https://vnexpress.net/dragon-capital-noi-quy-am-14-do-thi-truong-co-nhieu-o-ga-5108895.html",
+      "summary": "DCDS, quỹ mở cổ phiếu lớn nhất thị trường, giảm 14% từ đầu năm trong bối cảnh chịu tác động của lãi suất tăng và thị trường phân hóa.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-13T14:48:06+07:00",
+      "fetched": "2026-08-13T23:44:33.721159+07:00"
+    },
+    {
+      "id": "3777c1a6db36d357db3b7a0cf486a641",
+      "title": "CĐV chào đón đội tuyển đến Malaysia",
+      "link": "https://vnexpress.net/cdv-chao-don-doi-tuyen-den-malaysia-5108903.html",
+      "summary": "Thầy trò HLV Kim Sang-sik nhận được sự cổ vũ của một số CĐV, khi đặt chân đến thủ đô Kuala Lumpur chuẩn bị cho trận lượt đi bán kết ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T14:41:11+07:00",
+      "fetched": "2026-08-13T23:44:24.395433+07:00"
+    },
+    {
+      "id": "3777c1a6db36d357db3b7a0cf486a641",
+      "title": "CĐV chào đón đội tuyển đến Malaysia",
+      "link": "https://vnexpress.net/cdv-chao-don-doi-tuyen-den-malaysia-5108903.html",
+      "summary": "Thầy trò HLV Kim Sang-sik nhận được sự cổ vũ của một số CĐV, khi đặt chân đến thủ đô Kuala Lumpur chuẩn bị cho trận lượt đi bán kết ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-13T14:41:11+07:00",
+      "fetched": "2026-08-13T23:44:38.831830+07:00"
+    },
+    {
+      "id": "9178f2f8f6fb6a8317fea4bffc6895a7",
+      "title": "Trấn Thành cổ vũ Hari Won catwalk",
+      "link": "https://vnexpress.net/tran-thanh-co-vu-hari-won-catwalk-5108878.html",
+      "summary": "Diễn viên Trấn Thành hò reo khi xem vợ - ca sĩ Hari Won - diễn mở màn show thời trang áo cưới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T14:37:31+07:00",
+      "fetched": "2026-08-13T23:44:24.395572+07:00"
+    },
+    {
       "id": "fed4aece0f95dfd53be24c11d4dea807",
       "title": "Tehran nói ông Trump đổi chuyên cơ vì 'sợ sức mạnh của Iran'",
       "link": "https://vnexpress.net/tehran-noi-ong-trump-doi-chuyen-co-vi-so-suc-manh-cua-iran-5108892.html",
@@ -611,6 +841,16 @@ window.newsData_2026_08_13 = {
       "category": "Thế giới",
       "published": "2026-08-13T14:36:42+07:00",
       "fetched": "2026-08-13T21:49:56.405061+07:00"
+    },
+    {
+      "id": "b8a2a253c0581c7b10ccd5da680a52ad",
+      "title": "Người bị thương do tai nạn giao thông được hỗ trợ đến 100 triệu đồng",
+      "link": "https://vnexpress.net/nguoi-bi-thuong-do-tai-nan-giao-thong-duoc-ho-tro-den-100-trieu-dong-5108872.html",
+      "summary": "Nạn nhân bị tai nạn giao thông với tỷ lệ thương tật từ 81% sẽ được hỗ trợ tối đa 100 triệu đồng từ Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T14:33:11+07:00",
+      "fetched": "2026-08-13T23:44:24.395854+07:00"
     },
     {
       "id": "aec202690ec69757cf0dc202b2986a8f",
