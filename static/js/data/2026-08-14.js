@@ -1,6 +1,6 @@
 window.newsData_2026_08_14 = {
   "date": "2026-08-14",
-  "lastUpdated": "2026-08-14T03:30:45.851185+07:00",
+  "lastUpdated": "2026-08-14T05:30:47.915297+07:00",
   "articles": [
     {
       "id": "39a3b5e5b20688ea34d789fc8eb52771",
@@ -151,6 +151,96 @@ window.newsData_2026_08_14 = {
       "category": "Tổng hợp",
       "published": "2026-08-14T01:47:59.837830+07:00",
       "fetched": "2026-08-14T01:47:59.837986+07:00"
+    },
+    {
+      "id": "2fdc29b45dbf982ed5dd1bf61ddb602d",
+      "title": "Phút sinh tử buộc Mật vụ Mỹ sơ tán ông Trump khỏi chuyên cơ",
+      "link": "https://vnexpress.net/phut-sinh-tu-buoc-mat-vu-my-so-tan-ong-trump-khoi-chuyen-co-5108529.html",
+      "summary": "Khi đoàn xe chở Tổng thống Trump lao nhanh qua thủ đô Thổ Nhĩ Kỳ để ra sân bay, Sở Mật vụ phải đưa ra một quyết định khẩn cấp liên quan đến tính mạng của ông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T22:00:00+07:00",
+      "fetched": "2026-08-14T05:30:35.629678+07:00"
+    },
+    {
+      "id": "635a28d26e399e305cf4eac7a805d7fb",
+      "title": "Công ty Trung Quốc lần đầu vào top 3 nhà sản xuất bộ nhớ NAND",
+      "link": "https://vnexpress.net/cong-ty-trung-quoc-lan-dau-vao-top-3-nha-san-xuat-bo-nho-nand-5108488.html",
+      "summary": "Nhờ làn sóng máy chủ AI tiêu thụ gần một nửa lượng NAND flash toàn cầu, nhà sản xuất Trung Quốc YMTC vươn lên chiếm 14% thị phần, đứng thứ ba thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T22:00:00+07:00",
+      "fetched": "2026-08-14T05:30:35.629833+07:00"
+    },
+    {
+      "id": "eb7af7dd626c0aa8f3ec78fe80dfc542",
+      "title": "Ám ảnh 'đau hơn cả đau đẻ' vì tắc tia sữa",
+      "link": "https://vnexpress.net/am-anh-dau-hon-ca-dau-de-vi-tac-tia-sua-5107499.html",
+      "summary": "Đau đến mức không dám chạm vào bầu ngực, nhiều mẹ sau sinh vẫn cố massage, nhờ người \"thông tia\" vì sợ mất sữa, có người nhập viện khi đã viêm tuyến vú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T22:00:00+07:00",
+      "fetched": "2026-08-14T05:30:35.629974+07:00"
+    },
+    {
+      "id": "16f63677238df1bc9b37d1c65f913d61",
+      "title": "Khu nuôi tôm công nghệ cao 9 năm 'chờ' doanh nghiệp sản xuất",
+      "link": "https://vnexpress.net/khu-nuoi-tom-cong-nghe-cao-9-nam-cho-doanh-nghiep-san-xuat-5106054.html",
+      "summary": "Thành lập từ năm 2017, Khu nông nghiệp ứng dụng công nghệ cao phát triển tôm Bạc Liêu đến nay chưa có doanh nghiệp vào sản xuất, trong khi một số công trình dấu hiệu xuống cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T22:00:00+07:00",
+      "fetched": "2026-08-14T05:30:35.630121+07:00"
+    },
+    {
+      "id": "f5b318590a21dd37c526295cf7970a22",
+      "title": "Tokyo mạnh tay hỗ trợ xe điện, Toyota hưởng lợi",
+      "link": "https://vnexpress.net/tokyo-manh-tay-ho-tro-xe-dien-toyota-huong-loi-5108521.html",
+      "summary": "Chính quyền Tokyo chi tối đa 1,3 triệu yen giúp người dân mua ôtô điện, và một số hãng hưởng lợi nhờ chính sách, như Toyota và Honda.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T22:00:00+07:00",
+      "fetched": "2026-08-14T05:30:35.630254+07:00"
+    },
+    {
+      "id": "2fdc29b45dbf982ed5dd1bf61ddb602d",
+      "title": "Phút sinh tử buộc Mật vụ Mỹ sơ tán ông Trump khỏi chuyên cơ",
+      "link": "https://vnexpress.net/phut-sinh-tu-buoc-mat-vu-my-so-tan-ong-trump-khoi-chuyen-co-5108529.html",
+      "summary": "Khi đoàn xe chở Tổng thống Trump lao nhanh qua thủ đô Thổ Nhĩ Kỳ để ra sân bay, Sở Mật vụ phải đưa ra một quyết định khẩn cấp liên quan đến tính mạng của ông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-13T22:00:00+07:00",
+      "fetched": "2026-08-14T05:30:41.784919+07:00"
+    },
+    {
+      "id": "635a28d26e399e305cf4eac7a805d7fb",
+      "title": "Công ty Trung Quốc lần đầu vào top 3 nhà sản xuất bộ nhớ NAND",
+      "link": "https://vnexpress.net/cong-ty-trung-quoc-lan-dau-vao-top-3-nha-san-xuat-bo-nho-nand-5108488.html",
+      "summary": "Nhờ làn sóng máy chủ AI tiêu thụ gần một nửa lượng NAND flash toàn cầu, nhà sản xuất Trung Quốc YMTC vươn lên chiếm 14% thị phần, đứng thứ ba thế giới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-13T22:00:00+07:00",
+      "fetched": "2026-08-14T05:30:46.336525+07:00"
+    },
+    {
+      "id": "439447d2e83c69a6689da1d567bec0ee",
+      "title": "Tôm hùm Canada giá rẻ hút khách",
+      "link": "https://vnexpress.net/tom-hum-canada-gia-re-hut-khach-5108783.html",
+      "summary": "Tôm hùm Canada hiện khá hút khách khi giá chỉ bằng một phần ba hàng Australia và thấp hơn cả một số loại tôm trong nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T21:00:00+07:00",
+      "fetched": "2026-08-14T05:30:35.630377+07:00"
+    },
+    {
+      "id": "439447d2e83c69a6689da1d567bec0ee",
+      "title": "Tôm hùm Canada giá rẻ hút khách",
+      "link": "https://vnexpress.net/tom-hum-canada-gia-re-hut-khach-5108783.html",
+      "summary": "Tôm hùm Canada hiện khá hút khách khi giá chỉ bằng một phần ba hàng Australia và thấp hơn cả một số loại tôm trong nước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-13T21:00:00+07:00",
+      "fetched": "2026-08-14T05:30:43.354268+07:00"
     },
     {
       "id": "33081b212b1b626e690f751398702f18",
