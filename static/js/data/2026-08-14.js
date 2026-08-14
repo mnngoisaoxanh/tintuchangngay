@@ -1,7 +1,157 @@
 window.newsData_2026_08_14 = {
   "date": "2026-08-14",
-  "lastUpdated": "2026-08-14T19:41:08.369035+07:00",
+  "lastUpdated": "2026-08-14T21:43:49.627065+07:00",
   "articles": [
+    {
+      "id": "0181a3bf39ef3312f76ad23f4a464a2b",
+      "title": "Xã Thái Mỹ chi hơn 504 tỉ đồng bồi thường để làm cao tốc TP.HCM - Mộc Bài",
+      "link": "https://tuoitre.vn/xa-thai-my-chi-hon-504-ti-dong-boi-thuong-de-lam-cao-toc-tphcm-moc-bai-100260814184200762.htm",
+      "summary": "Xã Thái Mỹ (TP.HCM, giáp tỉnh Tây Ninh) đã chi trả hơn 504,975 tỉ đồng tiền bồi thường cho 234 hộ dân bị ảnh hưởng bởi dự án cao tốc TP.HCM - Mộc Bài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T21:43:42.432333+07:00",
+      "fetched": "2026-08-14T21:43:42.432368+07:00"
+    },
+    {
+      "id": "a5d3f9295e6e8e8bf6dad388f07137f7",
+      "title": "An Giang tiếp nhận nhiều nguồn tin xác định 272 hài cốt liệt sĩ ở Campuchia",
+      "link": "https://tuoitre.vn/an-giang-tiep-nhan-nhieu-nguon-tin-xac-dinh-272-hai-cot-liet-si-o-campuchia-100260814185300304.htm",
+      "summary": "An Giang nỗ lực với phương châm còn thông tin là còn tìm kiếm, còn liệt sĩ chưa xác định được danh tính là còn trách nhiệm, góp phần đưa các liệt sĩ trở về với tên tuổi, quê hương và gia đình của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T21:43:42.432288+07:00",
+      "fetched": "2026-08-14T21:43:42.432325+07:00"
+    },
+    {
+      "id": "3e40f2d1abb22c4e00984d62e3bb8eba",
+      "title": "ShopeeFood triển khai tính năng ‘Đặt trước, lấy tại quán’: Tăng tiện lợi cho người dùng",
+      "link": "https://tuoitre.vn/shopeefood-trien-khai-tinh-nang-dat-truoc-lay-tai-quan-tang-tien-loi-cho-nguoi-dung-10026081415250542.htm",
+      "summary": "ShopeeFood vừa chính thức ra mắt tính năng Đặt trước, lấy tại quán, mang đến thêm lựa chọn tiện lợi, giúp người dùng chủ động thời gian đặt món và linh hoạt sắp xếp theo lịch trình cá nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T21:43:42.432248+07:00",
+      "fetched": "2026-08-14T21:43:42.432282+07:00"
+    },
+    {
+      "id": "28427c5a5fae0d4c7a1f053b09f2b7e4",
+      "title": "'Chiến tranh siêu thị' Nga - Ukraine, các kệ hàng trống rỗng trở lại ở Kiev",
+      "link": "https://tuoitre.vn/chien-tranh-sieu-thi-nga-ukraine-cac-ke-hang-trong-rong-tro-lai-o-kiev-100260814185521641.htm",
+      "summary": "Nhiều cửa hàng, siêu thị ở Ukraine đang cạn kiệt nguồn cung sau khi Nga tấn công trả đũa việc Kiev liên tục đánh vào kho bãi của Wildberries.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T21:43:42.432209+07:00",
+      "fetched": "2026-08-14T21:43:42.432242+07:00"
+    },
+    {
+      "id": "934cb68a7b2ccb95221e94fda1f3f100",
+      "title": "Đùa với thủ tục, dọa bằng mạng sống: Bạn đọc đề nghị xử lý nghiêm",
+      "link": "https://tuoitre.vn/dua-voi-thu-tuc-doa-bang-mang-song-ban-doc-de-nghi-xu-ly-nghiem-100260814183116769.htm",
+      "summary": "Sau khi Tuổi Trẻ đăng hai câu chuyện oái oăm xảy ra tại phường Điện Bàn Đông (Đà Nẵng), nhiều bạn đọc phản ứng trước cách hành xử thiếu chín chắn của những người trong cuộc, đề nghị có biện pháp xử lý, răn đe để tránh tái diễn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T21:43:42.432164+07:00",
+      "fetched": "2026-08-14T21:43:42.432203+07:00"
+    },
+    {
+      "id": "5eeab6a34f7176df71313307d7fa633d",
+      "title": "Nga bác ý tưởng ngừng bắn ở Biển Đen, tố Mỹ can dự sâu vào chiến sự Ukraine",
+      "link": "https://tuoitre.vn/nga-bac-y-tuong-ngung-ban-o-bien-den-to-my-can-du-sau-vao-chien-su-ukraine-100260814191840742.htm",
+      "summary": "Nga bác bỏ đề xuất ngừng bắn với Ukraine ở Biển Đen, vì cho rằng biện pháp này chỉ giúp Kiev có thời gian tạm nghỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T21:43:42.432123+07:00",
+      "fetched": "2026-08-14T21:43:42.432158+07:00"
+    },
+    {
+      "id": "575828959adf496c016311e56b740808",
+      "title": "Pharmacity triển khai đa giải pháp hỗ trợ người bệnh mạn tính",
+      "link": "https://tuoitre.vn/pharmacity-trien-khai-da-giai-phap-ho-tro-nguoi-benh-man-tinh-100260814165101701.htm",
+      "summary": "Trước những thách thức trong điều trị bệnh mạn tính kéo dài, Pharmacity đã triển khai nhiều giải pháp đồng bộ nhằm hỗ trợ người bệnh chủ động theo dõi và quản lý sức khỏe liên tục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T21:43:42.432082+07:00",
+      "fetched": "2026-08-14T21:43:42.432117+07:00"
+    },
+    {
+      "id": "864641a97a19be10a16dac957067fb6e",
+      "title": "Cần Thơ: 'Điểm danh' cơ sở làm răng, tiêm filler vi phạm",
+      "link": "https://tuoitre.vn/can-tho-diem-danh-co-so-lam-rang-tiem-filler-vi-pham-100260814182920785.htm",
+      "summary": "Không có chứng chỉ chuyên môn, sử dụng thuốc và vật tư y tế hết hạn, quảng cáo dịch vụ khi chưa được cấp phép là những vi phạm được phát hiện tại một số cơ sở ở Cần Thơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T21:43:42.432038+07:00",
+      "fetched": "2026-08-14T21:43:42.432076+07:00"
+    },
+    {
+      "id": "39e486be16fdb13da776aa597d3977d3",
+      "title": "Hóa chất Đức Giang có Tổng giám đốc mới, ông Lưu Bách Đạt rời ghế",
+      "link": "https://tuoitre.vn/hoa-chat-duc-giang-co-tong-giam-doc-moi-ong-luu-bach-dat-roi-ghe-100260814173700156.htm",
+      "summary": "Chỉ một ngày sau đại hội cổ đông thường niên, Hóa chất Đức Giang bất ngờ thay Tổng giám đốc và bổ nhiệm thêm loạt lãnh đạo mới, trong đó ông Lưu Bách Đạt bị miễn nhiệm khỏi vị trí người đứng đầu doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T21:43:42.431995+07:00",
+      "fetched": "2026-08-14T21:43:42.432031+07:00"
+    },
+    {
+      "id": "82c9bfc5e34175b6e8170e705661418e",
+      "title": "Khởi động Tuổi Trẻ Startup Award 2026, tìm giải pháp cho đô thị tương lai",
+      "link": "https://tuoitre.vn/khoi-dong-tuoi-tre-startup-award-2026-tim-giai-phap-cho-do-thi-tuong-lai-100260814183053337.htm",
+      "summary": "Giải thưởng Tuổi Trẻ Startup Award 2026 chính thức khởi động ngày 12-8, tìm kiếm những giải pháp đổi mới sáng tạo có khả năng giải quyết các bài toán thực tiễn, góp phần kiến tạo đô thị tương lai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T21:43:42.431950+07:00",
+      "fetched": "2026-08-14T21:43:42.431989+07:00"
+    },
+    {
+      "id": "c7692d4caca5f33889e5699e7be7f198",
+      "title": "Đội tuyển Việt Nam khẩn trương làm quen mặt cỏ lá gừng ở Malaysia",
+      "link": "https://tuoitre.vn/doi-tuyen-viet-nam-khan-truong-lam-quen-mat-co-la-gung-o-malaysia-10026081410451804.htm",
+      "summary": "Đội tuyển Việt Nam khẩn trương thích nghi với điều kiện thi đấu trên mặt cỏ lá gừng, trước trận đấu với Malaysia tại bán kết lượt đi ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T21:43:42.431904+07:00",
+      "fetched": "2026-08-14T21:43:42.431943+07:00"
+    },
+    {
+      "id": "2d99fc4c72f64fc246133afdbfeaa3f0",
+      "title": "Ông Lê Quốc Phong: Nghiêm túc đánh giá KPI cán bộ, công chức TP.HCM ngay quý 3-2026",
+      "link": "https://tuoitre.vn/ong-le-quoc-phong-nghiem-tuc-danh-gia-kpi-can-bo-cong-chuc-tphcm-ngay-quy-3-2026-100260814184933705.htm",
+      "summary": "Phó Bí thư thường trực Thành ủy TP.HCM Lê Quốc Phong nhấn mạnh việc đánh giá cán bộ, công chức bằng KPI là nhiệm vụ quan trọng, phải tập trung thực hiện nghiêm túc ngay trong quý 3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T21:43:42.431858+07:00",
+      "fetched": "2026-08-14T21:43:42.431897+07:00"
+    },
+    {
+      "id": "da0b2e038faf851f4189f33dfd37f8ca",
+      "title": "HLV 35 tuổi của Singapore được khen hết lời trước thềm bán kết ASEAN Cup",
+      "link": "https://tuoitre.vn/hlv-35-tuoi-cua-singapore-duoc-khen-het-loi-truoc-them-ban-ket-asean-cup-10026081419383179.htm",
+      "summary": "Trong cuộc họp báo trước trận bán kết lượt đi ASEAN Cup 2026, HLV tuyển Thái Lan Anthony Hudson hết lời ngợi khen người đồng nghiệp phía Singapore.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T21:43:42.431811+07:00",
+      "fetched": "2026-08-14T21:43:42.431851+07:00"
+    },
+    {
+      "id": "6354d1d00410dfe1d5b3a5e0c56e473d",
+      "title": "Dịp Lễ hội Sầu riêng, xe đến Đắk Lắk đi thế nào, những tuyến nào cấm?",
+      "link": "https://tuoitre.vn/dip-le-hoi-sau-rieng-xe-den-dak-lak-di-the-nao-nhung-tuyen-nao-cam-100260814185234958.htm",
+      "summary": "Trong thời gian diễn ra Lễ hội Sầu riêng Đắk Lắk 2026, cơ quan chức năng phân luồng giao thông, nhiều tuyến đường bị cấm. Xe tải, xe khách được hướng dẫn đi theo các lộ trình thay thế nhằm hạn chế ùn tắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T21:43:42.431748+07:00",
+      "fetched": "2026-08-14T21:43:42.431803+07:00"
+    },
+    {
+      "id": "a7e4d76454f49248bdcb4dd60fe51631",
+      "title": "Việt Nam chia buồn nguyên Thủ tướng Trung Quốc Chu Dung Cơ từ trần",
+      "link": "https://tuoitre.vn/viet-nam-chia-buon-nguyen-thu-tuong-trung-quoc-chu-dung-co-tu-tran-100260814195249401.htm",
+      "summary": "Trong điện chia buồn, các lãnh đạo chủ chốt Việt Nam khẳng định nguyên Thủ tướng Chu Dung Cơ là nhà lãnh đạo ưu tú, có nhiều đóng góp cho hội nhập kinh tế quốc tế của Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T21:43:42.431606+07:00",
+      "fetched": "2026-08-14T21:43:42.431739+07:00"
+    },
     {
       "id": "0030e493a99188867ead5fccf4480780",
       "title": "Ách tắc cấp C/O tại địa phương, doanh nghiệp xuất khẩu kiến nghị tháo gỡ khẩn cấp",
@@ -453,6 +603,146 @@ window.newsData_2026_08_14 = {
       "fetched": "2026-08-14T15:58:10.726083+07:00"
     },
     {
+      "id": "c54f032d78a246284fdeb1daa24ec842",
+      "title": "Ông Trump kháng cáo phán quyết chặn xây phòng khiêu vũ lên Tòa Tối cao",
+      "link": "https://vnexpress.net/ong-trump-khang-cao-phan-quyet-chan-xay-phong-khieu-vu-len-toa-toi-cao-5109293.html",
+      "summary": "Chính quyền Tổng thống Trump đề nghị Tòa Tối cao bác phán quyết tòa phúc thẩm và cho phép tiếp tục xây dựng phòng khiêu vũ tại Nhà Trắng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-14T14:42:18+07:00",
+      "fetched": "2026-08-14T21:43:44.018008+07:00"
+    },
+    {
+      "id": "7bae385d800d10408c7cd8aa90fc36c4",
+      "title": "'Khoa học, công nghệ phải trở thành nguồn tạo ra năng suất mới'",
+      "link": "https://vnexpress.net/khoa-hoc-cong-nghe-phai-tro-thanh-nguon-tao-ra-nang-suat-moi-5109110.html",
+      "summary": "Theo Phó thủ tướng Hồ Quốc Dũng, việc tăng năng suất cần chuyển từ làm theo phong trào sang chuyển đổi sâu, thực chất, trong đó khoa học công nghệ là động lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T14:02:54+07:00",
+      "fetched": "2026-08-14T21:43:37.896075+07:00"
+    },
+    {
+      "id": "7bae385d800d10408c7cd8aa90fc36c4",
+      "title": "'Khoa học, công nghệ phải trở thành nguồn tạo ra năng suất mới'",
+      "link": "https://vnexpress.net/khoa-hoc-cong-nghe-phai-tro-thanh-nguon-tao-ra-nang-suat-moi-5109110.html",
+      "summary": "Theo Phó thủ tướng Hồ Quốc Dũng, việc tăng năng suất cần chuyển từ làm theo phong trào sang chuyển đổi sâu, thực chất, trong đó khoa học công nghệ là động lực.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-14T14:02:54+07:00",
+      "fetched": "2026-08-14T21:43:48.636124+07:00"
+    },
+    {
+      "id": "e8c2bf69ea39faf330aff3f231814bd5",
+      "title": "Tình cũ bỗng nhắn tin hỏi thăm khiến tôi ảo tưởng",
+      "link": "https://vnexpress.net/tinh-cu-bong-nhan-tin-hoi-tham-khien-toi-ao-tuong-5109262.html",
+      "summary": "Có hôm anh chỉ gửi một bài hát từng nghe chung, tôi mất cả buổi tối suy nghĩ xem anh muốn nói điều gì.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T14:00:00+07:00",
+      "fetched": "2026-08-14T21:43:37.896203+07:00"
+    },
+    {
+      "id": "afb3aff3b5e2f0644ef7b665a3a754b0",
+      "title": "Con gái tuổi teen của Minh Tiệp",
+      "link": "https://vnexpress.net/con-gai-tuoi-teen-cua-minh-tiep-5106502.html",
+      "summary": "Minh Thùy - con gái 15 tuổi của diễn viên Minh Tiệp và người đẹp Thùy Dương - cao gần 1,7 m, có gương mặt sáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T14:00:00+07:00",
+      "fetched": "2026-08-14T21:43:37.896313+07:00"
+    },
+    {
+      "id": "161cc095b0118e6fb18da063f3f89a42",
+      "title": "Lý do không nên đi chân trần quanh phòng khách sạn",
+      "link": "https://vnexpress.net/ly-do-khong-nen-di-chan-tran-quanh-phong-khach-san-5109174.html",
+      "summary": "Hầu hết du khách đều cởi giày ngay khi bước vào phòng khách sạn nhưng ít người biết rằng thảm trải sàn lại là một trong những nơi bẩn nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T13:20:23+07:00",
+      "fetched": "2026-08-14T21:43:37.896415+07:00"
+    },
+    {
+      "id": "805174a99d07fc1979e8202d811cc5a0",
+      "title": "Đánh cắp hàng nghìn dữ liệu BHXH, tiêm chủng bán cho 'dân đòi nợ thuê'",
+      "link": "https://vnexpress.net/danh-cap-hang-nghin-du-lieu-bhxh-tiem-chung-ban-cho-dan-doi-no-thue-5109246.html",
+      "summary": "Dương Minh Tú bị xác định truy cập hệ thống BHXH để lấy thông tin người dùng bán dữ liệu cá nhân cho hoạt động đòi nợ thuê, thám tử... thu lợi khoảng 1,6 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T13:05:12+07:00",
+      "fetched": "2026-08-14T21:43:37.896532+07:00"
+    },
+    {
+      "id": "91581c3a6999135ac7d3ba5826c365b0",
+      "title": "Thanh Hóa có hai điểm bắn pháo hoa mừng Quốc khánh",
+      "link": "https://vnexpress.net/thanh-hoa-co-hai-diem-ban-phao-hoa-mung-quoc-khanh-5109270.html",
+      "summary": "Thanh Hóa sẽ bắn pháo hoa tại quảng trường Lam Sơn và quảng trường biển Sầm Sơn chào mừng Quốc khánh, toàn bộ kinh phí do tập đoàn Sun Group tài trợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T13:00:14+07:00",
+      "fetched": "2026-08-14T21:43:37.896630+07:00"
+    },
+    {
+      "id": "fe9610cefeedb74e82ded0779c4c4021",
+      "title": "Tôi sợ chồng lái ôtô sẽ đánh nhau với các tài xế vô ý thức",
+      "link": "https://vnexpress.net/cau-hoi-hom-nay-chong-toi-lai-o-to-nhung-hay-hau-thang-5109184.html",
+      "summary": "Có vài lần tôi tưởng chồng tôi và các tài xế choảng nhau đến nơi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T13:00:00+07:00",
+      "fetched": "2026-08-14T21:43:37.896731+07:00"
+    },
+    {
+      "id": "fde4bd23fbe4ee33e7d004d60204d028",
+      "title": "Vì sao dùng ghế tantra dễ chấn thương?",
+      "link": "https://vnexpress.net/vi-sao-dung-ghe-tantra-de-chan-thuong-5109282.html",
+      "summary": "Nhờ thiết kế nâng đỡ khung chậu giúp giảm áp lực lên hệ cơ xương, ghế tantra tạo điều kiện thuận lợi cho việc vận động, nhưng theo bác sỹ, sự sai lệch về kích thước cơ thể và việc gắng sức thực hiện có thể dẫn đến chấn thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T13:00:00+07:00",
+      "fetched": "2026-08-14T21:43:37.896836+07:00"
+    },
+    {
+      "id": "c0ba58bd04891fa65edb93db19db8605",
+      "title": "Move ra mắt 5 dòng xe máy điện, hướng đến thay thế xe xăng",
+      "link": "https://vnexpress.net/move-ra-mat-5-dong-xe-may-dien-huong-den-thay-the-xe-xang-5109281.html",
+      "summary": "Xe điện Move trình làng cùng lúc 5 mẫu thuộc bộ sưu tập Smart Move, công suất tối đa 6.000 W, tầm hoạt động công bố đến 250 km, giá từ 32 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T13:00:00+07:00",
+      "fetched": "2026-08-14T21:43:37.896934+07:00"
+    },
+    {
+      "id": "21197a32d236047c888424618148b805",
+      "title": "Selena Gomez và mẹ vướng cáo buộc 'lừa đảo đầu tư'",
+      "link": "https://vnexpress.net/selena-gomez-va-me-vuong-cao-buoc-lua-dao-dau-tu-5109109.html",
+      "summary": "Selena Gomez và mẹ - Mandy Teefey - bị khởi kiện đưa thông tin sai về công ty khởi nghiệp để thu hút vốn đầu tư 1,2 triệu USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:38:48+07:00",
+      "fetched": "2026-08-14T21:43:37.897030+07:00"
+    },
+    {
+      "id": "c8469834495fbaacf5931105bdfbbaaa",
+      "title": "Đội tuyển Việt Nam hứng khởi trước bán kết ASEAN Cup",
+      "link": "https://vnexpress.net/doi-tuyen-viet-nam-hung-khoi-truoc-ban-ket-asean-cup-5109278.html",
+      "summary": "Thầy trò Kim Sang-sik hoàn thiện những bước chuẩn bị cuối cùng trước khi chạm trán chủ nhà Malaysia ở lượt đi bán kết ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:36:26+07:00",
+      "fetched": "2026-08-14T21:43:37.897126+07:00"
+    },
+    {
+      "id": "c8469834495fbaacf5931105bdfbbaaa",
+      "title": "Đội tuyển Việt Nam hứng khởi trước bán kết ASEAN Cup",
+      "link": "https://vnexpress.net/doi-tuyen-viet-nam-hung-khoi-truoc-ban-ket-asean-cup-5109278.html",
+      "summary": "Thầy trò Kim Sang-sik hoàn thiện những bước chuẩn bị cuối cùng trước khi chạm trán chủ nhà Malaysia ở lượt đi bán kết ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-14T12:36:26+07:00",
+      "fetched": "2026-08-14T21:43:49.619113+07:00"
+    },
+    {
       "id": "c7e7b7b1c60957e1bf0af1fc1a20a926",
       "title": "Lãnh đạo cực hữu Anh đánh bại 'thùng rác di động' trong bầu cử đặc biệt",
       "link": "https://vnexpress.net/lanh-dao-cuc-huu-anh-danh-bai-thung-rac-di-dong-trong-bau-cu-dac-biet-5109273.html",
@@ -461,6 +751,16 @@ window.newsData_2026_08_14 = {
       "category": "Thế giới",
       "published": "2026-08-14T12:33:39+07:00",
       "fetched": "2026-08-14T19:41:04.175992+07:00"
+    },
+    {
+      "id": "5428a1f14999a5203b13830799ca0920",
+      "title": "Đội bóng chủ động phòng bệnh nhờ vaccine",
+      "link": "https://vnexpress.net/doi-bong-chu-dong-phong-benh-nho-vaccine-5109271.html",
+      "summary": "Các thành viên Câu lạc bộ Bóng đá Hải Phòng tiêm vaccine cúm hàng năm, nhằm giảm nguy cơ bệnh làm gián đoạn tập luyện và thi đấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:30:00+07:00",
+      "fetched": "2026-08-14T21:43:37.897315+07:00"
     },
     {
       "id": "b1974af60fd4c45c73dceb3aea00dc86",
@@ -1021,6 +1321,16 @@ window.newsData_2026_08_14 = {
       "category": "Thể thao",
       "published": "2026-08-14T09:36:03+07:00",
       "fetched": "2026-08-14T17:48:55.676609+07:00"
+    },
+    {
+      "id": "595f59196a9af0564f3963ebda69907a",
+      "title": "Carrick hướng đến mùa giải đặc biệt cùng Man Utd",
+      "link": "https://vnexpress.net/carrick-huong-den-mua-giai-dac-biet-cung-man-utd-5109060.html",
+      "summary": "HLV Michael Carrick tin Man Utd đủ tiềm năng hướng tới mùa giải đặc biệt, đồng thời để ngỏ tương lai của Marcus Rashford và đánh giá cao tân binh Andrey Santos.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-14T09:36:03+07:00",
+      "fetched": "2026-08-14T21:43:49.619459+07:00"
     },
     {
       "id": "5e3ab74b3c923679f0f0f54590b36b37",
@@ -2671,6 +2981,16 @@ window.newsData_2026_08_14 = {
       "category": "Kinh doanh",
       "published": "2026-08-13T18:48:04+07:00",
       "fetched": "2026-08-14T10:55:12.475830+07:00"
+    },
+    {
+      "id": "28db92da8a74082caf5af550b7dba280",
+      "title": "'Lãi suất thời gian tới khó tăng cao hay giảm mạnh đột ngột'",
+      "link": "https://vnexpress.net/lai-suat-thoi-gian-toi-kho-tang-cao-hay-giam-manh-dot-ngot-5108932.html",
+      "summary": "Ông Lê Anh Tuấn, Tổng giám đốc Dragon Capital, dự báo diễn biến lãi suất thời gian tới sẽ ổn định hơn, không tăng cao hay giảm mạnh đột ngột.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-13T18:48:04+07:00",
+      "fetched": "2026-08-14T21:43:45.464621+07:00"
     },
     {
       "id": "6128e70f10747a6401a025c440e011d0",
