@@ -1,7 +1,157 @@
 window.newsData_2026_08_14 = {
   "date": "2026-08-14",
-  "lastUpdated": "2026-08-14T10:55:16.927771+07:00",
+  "lastUpdated": "2026-08-14T12:24:27.106176+07:00",
   "articles": [
+    {
+      "id": "b1974af60fd4c45c73dceb3aea00dc86",
+      "title": "Trần Quyết Chiến thắng áp đảo trận ra quân Giải billiards quốc tế HTV",
+      "link": "https://tuoitre.vn/tran-quyet-chien-thang-ap-dao-tran-ra-quan-giai-billiards-quoc-te-htv-100260814111735563.htm",
+      "summary": "Sáng 14-8, vòng chung kết Giải billiards carom 3 băng quốc tế HTV 2026 - Cúp Becamex IJC khởi tranh, quy tụ nhiều ngôi sao, trong đó có Trần Quyết Chiến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:24:17.562284+07:00",
+      "fetched": "2026-08-14T12:24:17.562335+07:00"
+    },
+    {
+      "id": "cfecc80511b768a7238749d2834a4cb3",
+      "title": "Đời thật của vị cao thủ sáng tạo 'Cửu âm chân kinh' trong truyện Kim Dung",
+      "link": "https://tuoitre.vn/doi-that-cua-vi-cao-thu-sang-tao-cuu-am-chan-kinh-trong-truyen-kim-dung-100260814095114319.htm",
+      "summary": "Cố văn hào Hong Kong Kim Dung nổi tiếng về việc đưa các nhân vật có thật trong lịch sử vào tiểu thuyết, rồi phóng tác họ trở thành những đại cao thủ hàng đầu. Hoàng Thường - người sáng tạo Cửu âm chân kinh là một ví dụ điển hình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:24:17.562240+07:00",
+      "fetched": "2026-08-14T12:24:17.562278+07:00"
+    },
+    {
+      "id": "e86ba0d3a78b3dbcc29545763d96152a",
+      "title": "Xe máy Honda băng qua 'hồ nước' khiến nhiều người ngỡ ngàng",
+      "link": "https://tuoitre.vn/xe-may-honda-bang-qua-ho-nuoc-khien-nhieu-nguoi-ngo-ngang-100260814111738942.htm",
+      "summary": "Một đoạn video ghi lại cảnh xe máy Honda chạy qua hồ ở bang Kerala (Ấn Độ) khiến nhiều người tưởng đây là sản phẩm do AI tạo ra. Thực tế, cảnh tượng này hoàn toàn có thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:24:17.562199+07:00",
+      "fetched": "2026-08-14T12:24:17.562234+07:00"
+    },
+    {
+      "id": "6186a98735dc8b2ed473c34b39c3ec4a",
+      "title": "Công an đề nghị cung cấp thông tin vụ tài xế xe công nghệ bị đánh ở Đà Nẵng",
+      "link": "https://tuoitre.vn/cong-an-de-nghi-cung-cap-thong-tin-vu-tai-xe-xe-cong-nghe-bi-danh-o-da-nang-10026081411305483.htm",
+      "summary": "Công an đang đề nghị người dân cung cấp thông tin liên quan vụ người đàn ông đánh tài xế xe công nghệ xảy ra ở Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:24:17.562158+07:00",
+      "fetched": "2026-08-14T12:24:17.562193+07:00"
+    },
+    {
+      "id": "e1236ffa0d51f4fb21058f7dcc95ad65",
+      "title": "Phát hiện túi chứa 200 triệu đồng rơi bên đường, cảnh sát giao thông tìm người đánh rơi",
+      "link": "https://tuoitre.vn/phat-hien-tui-chua-200-trieu-dong-roi-ben-duong-canh-sat-giao-thong-tim-nguoi-danh-roi-100260814112043262.htm",
+      "summary": "Tổ cảnh sát giao thông Công an tỉnh Quảng Trị phát hiện một túi chứa 200 triệu đồng tiền mặt bên đường, sau đó đã tìm được người đánh rơi để trao trả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:24:17.562115+07:00",
+      "fetched": "2026-08-14T12:24:17.562152+07:00"
+    },
+    {
+      "id": "275d2473924c3df7da55ad928f54b5f8",
+      "title": "Những cây cà phê, sầu riêng trăm tuổi thành biểu tượng của vùng trồng Đắk Lắk",
+      "link": "https://tuoitre.vn/nhung-cay-ca-phe-sau-rieng-tram-tuoi-thanh-bieu-tuong-cua-vung-trong-dak-lak-100260814105206882.htm",
+      "summary": "Giữa vườn sầu riêng xanh ngút mắt ở Đắk Lắk, những cây sầu riêng, cà phê đã trồng hơn một thế kỷ vẫn được người dân gìn giữ như những 'cụ kỵ' của vùng trồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:24:17.562070+07:00",
+      "fetched": "2026-08-14T12:24:17.562109+07:00"
+    },
+    {
+      "id": "43ca14ae38fcf5e938834501b17c7f86",
+      "title": "Trốn truy nã 21 năm bị phát giác vì vẫn giữ liên lạc với 'đồng đội' cũ",
+      "link": "https://tuoitre.vn/tron-truy-na-21-nam-bi-phat-giac-vi-van-giu-lien-lac-voi-dong-doi-cu-100260814114401408.htm",
+      "summary": "Nguyễn Văn Hòa trốn truy nã, có cuộc sống ổn định nhưng vẫn liên lạc với đồng bọn đã ra tù trong vụ án 21 năm trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:24:17.562029+07:00",
+      "fetched": "2026-08-14T12:24:17.562064+07:00"
+    },
+    {
+      "id": "8c3c9f05d7b81350bbefec99d187d3be",
+      "title": "Kỳ thủ 19 tuổi gây bất ngờ tại giải cờ vua triệu USD",
+      "link": "https://tuoitre.vn/ky-thu-19-tuoi-gay-bat-ngo-tai-giai-co-vua-trieu-usd-100260814114838913.htm",
+      "summary": "Đêm 13-8, Esports World Cup (EWC) 2026 đã chứng kiến bất ngờ lớn khi kỳ thủ 19 tuổi Denis Lazavik (Belarus) đánh bại Đại kiện tướng Ian Nepomniachtchi để bước vào vòng tứ kết tại giải đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:24:17.561986+07:00",
+      "fetched": "2026-08-14T12:24:17.562023+07:00"
+    },
+    {
+      "id": "ebf56551b4800964bb1863655d9d98dd",
+      "title": "Nguyễn Kim trở lại cùng chuỗi chính sách ưu đãi vượt trội",
+      "link": "https://tuoitre.vn/nguyen-kim-tro-lai-cung-chuoi-chinh-sach-uu-dai-vuot-troi-100260813163231034.htm",
+      "summary": "Từ ngày 1-8, thị trường điện máy đón thêm một dấu mốc mới khi thương hiệu Nguyễn Kim chính thức trở lại với diện mạo mới mang tên Nguyễn Kim Prime.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:24:17.561944+07:00",
+      "fetched": "2026-08-14T12:24:17.561980+07:00"
+    },
+    {
+      "id": "4a3cd5652eb24c84688475dc1f8a460f",
+      "title": "Những khoảnh khắc đặc biệt của thú quý hiếm qua hệ thống bẫy ảnh",
+      "link": "https://tuoitre.vn/nhung-khoanh-khac-dac-biet-cua-thu-quy-hiem-qua-he-thong-bay-anh-100260814111022521.htm",
+      "summary": "Qua hệ thống bẫy ảnh, Vườn quốc gia Sông Thanh (TP Đà Nẵng) ghi nhận nhiều hình ảnh quý giá về các loài động vật hoang dã, trong đó có gia đình 3 chú nai đang tung tăng đi tìm thức ăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:24:17.561899+07:00",
+      "fetched": "2026-08-14T12:24:17.561937+07:00"
+    },
+    {
+      "id": "d03b41c32242c082f062680130b07e6d",
+      "title": "Đoàn trường kết nối tư vấn, mở cánh cửa du học cho người trẻ miền Tây",
+      "link": "https://tuoitre.vn/doan-truong-ket-noi-tu-van-mo-canh-cua-du-hoc-cho-nguoi-tre-mien-tay-100260814100907958.htm",
+      "summary": "Các hoạt động tư vấn, giới thiệu cơ hội học tập và việc làm tại Hàn Quốc, Nhật Bản được lồng ghép vào chiến dịch hè tình nguyện tại Cần Thơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:24:17.561855+07:00",
+      "fetched": "2026-08-14T12:24:17.561893+07:00"
+    },
+    {
+      "id": "1b7efe6b008bea315e3540b600cd5da9",
+      "title": "Dùng nguyên liệu quá hạn chế biến thực phẩm, doanh nghiệp Đồng Nai bị phạt gần 400 triệu đồng",
+      "link": "https://tuoitre.vn/dung-nguyen-lieu-qua-han-che-bien-thuc-pham-doanh-nghiep-dong-nai-bi-phat-gan-400-trieu-dong-100260814115202323.htm",
+      "summary": "Doanh nghiệp chuyên sản xuất chân gà rút xương ở Đồng Nai bị xử phạt gần 400 triệu đồng do dùng nguyên liệu quá hạn sản xuất, chế biến thực phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:24:17.561809+07:00",
+      "fetched": "2026-08-14T12:24:17.561849+07:00"
+    },
+    {
+      "id": "399af6a1c5e8bad5127994daf8b96f80",
+      "title": "Nghi Iran âm mưu ám sát, mật vụ Mỹ bí mật đổi máy bay cho ông Trump",
+      "link": "https://tuoitre.vn/nghi-iran-am-muu-am-sat-mat-vu-my-bi-mat-doi-may-bay-cho-ong-trump-100260814114553592.htm",
+      "summary": "Theo Washington Post, Cơ quan Mật vụ Mỹ đã bí mật thay máy bay chở Tổng thống Trump để phòng ngừa rủi ro.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:24:17.561755+07:00",
+      "fetched": "2026-08-14T12:24:17.561801+07:00"
+    },
+    {
+      "id": "42fcbacb47e9f261da4d8fbfc5743786",
+      "title": "Bình Chánh tăng tốc giải phóng mặt bằng dự án mở rộng quốc lộ 1",
+      "link": "https://tuoitre.vn/binh-chanh-tang-toc-giai-phong-mat-bang-du-an-mo-rong-quoc-lo-1-100260814115332261.htm",
+      "summary": "Đến ngày 13-8, đã có 675 trên tổng số 828 trường hợp tại xã Bình Chánh (TP.HCM) bị ảnh hưởng bởi dự án nâng cấp, mở rộng quốc lộ 1 (nay là đường Lê Khả Phiêu) đồng ý nhận tiền bồi thường, với tổng kinh phí khoảng 3.410 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:24:17.561693+07:00",
+      "fetched": "2026-08-14T12:24:17.561744+07:00"
+    },
+    {
+      "id": "6fb00640baaa21257d388d399b9254f0",
+      "title": "Người say xỉn có nên đi bộ ra đường?",
+      "link": "https://tuoitre.vn/nguoi-say-xin-co-nen-di-bo-ra-duong-100260810173858702.htm",
+      "summary": "Nhiều người nghĩ chỉ có người đi ô tô, xe máy mới bị xử lý hình sự tội vi phạm giao thông đường bộ. Thực tế, người đi bộ cũng có thể bị tội với hành vi này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:24:17.561550+07:00",
+      "fetched": "2026-08-14T12:24:17.561684+07:00"
+    },
     {
       "id": "559c90c606f3be8443c0fc97e30bddc1",
       "title": "Giận chồng, bỏ dép và mẩu giấy 'nhờ vớt xác 2 mẹ con' trên cầu rồi… đi chơi",
@@ -211,6 +361,226 @@ window.newsData_2026_08_14 = {
       "category": "Tổng hợp",
       "published": "2026-08-14T08:05:10.384409+07:00",
       "fetched": "2026-08-14T08:05:10.384591+07:00"
+    },
+    {
+      "id": "6abaa4840b31426de7a6af77baee7ddd",
+      "title": "Quần đảo tâm điểm trong cuộc tranh chấp thế kỷ Nga - Nhật",
+      "link": "https://vnexpress.net/quan-dao-tam-diem-trong-cuoc-tranh-chap-the-ky-nga-nhat-5108957.html",
+      "summary": "Chuyến thăm của Tổng thống Putin tới quần đảo Kuril đã thổi bùng căng thẳng trong tranh chấp lãnh thổ kéo dài nhiều thập kỷ giữa Nga và Nhật.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-14T04:54:54+07:00",
+      "fetched": "2026-08-14T12:24:19.236984+07:00"
+    },
+    {
+      "id": "ad9e10f822cf31f679bb033327f55d62",
+      "title": "Giáo viên phi tang thi thể nữ đồng nghiệp",
+      "link": "https://vnexpress.net/giao-vien-phi-tang-thi-the-nu-dong-nghiep-5109061.html",
+      "summary": "Sau tiệc liên hoan tại trường, giáo viên môn Thể dục Trường Tiểu học Lê Đình Chinh xảy ra mâu thuẫn tình cảm, nên sát hại nữ đồng nghiệp và phi tang trong rẫy cà phê.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T04:43:27+07:00",
+      "fetched": "2026-08-14T12:24:12.715751+07:00"
+    },
+    {
+      "id": "b71dbcdcd0fa926ce0197a427b072e55",
+      "title": "Ukraine 'đề xuất ngừng tập kích mục tiêu dân sự' ở biển Đen",
+      "link": "https://vnexpress.net/ukraine-de-xuat-ngung-tap-kich-muc-tieu-dan-su-o-bien-den-5109063.html",
+      "summary": "Ukraine dường như đã đề xuất hai bên ngừng tập kích mục tiêu dân sự của nhau ở biển Đen, sau khi Nga tăng cường tấn công tàu hàng trong khu vực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T04:41:37+07:00",
+      "fetched": "2026-08-14T12:24:12.715884+07:00"
+    },
+    {
+      "id": "b71dbcdcd0fa926ce0197a427b072e55",
+      "title": "Ukraine 'đề xuất ngừng tập kích mục tiêu dân sự' ở biển Đen",
+      "link": "https://vnexpress.net/ukraine-de-xuat-ngung-tap-kich-muc-tieu-dan-su-o-bien-den-5109063.html",
+      "summary": "Ukraine dường như đã đề xuất hai bên ngừng tập kích mục tiêu dân sự của nhau ở biển Đen, sau khi Nga tăng cường tấn công tàu hàng trong khu vực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-14T04:41:37+07:00",
+      "fetched": "2026-08-14T12:24:19.237113+07:00"
+    },
+    {
+      "id": "b4c1641d4369b8d9a27b7d42e9d76af8",
+      "title": "Ban huấn luyện 22 người của Zidane ở đội tuyển Pháp",
+      "link": "https://vnexpress.net/ban-huan-luyen-22-nguoi-cua-zidane-o-doi-tuyen-phap-5108942.html",
+      "summary": "LĐBĐ Pháp (FFF) ngày 13/8 đã phê chuẩn ban huấn luyện ĐTQG lên tới 22 thành viên sẽ đồng hành cùng Zinedine Zidane, trong đó có cựu danh thủ Fabien Barthez, và chỉ một nhân sự trong nhóm kỹ thuật được giữ lại từ triều đại Didier Deschamps.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T04:37:49+07:00",
+      "fetched": "2026-08-14T12:24:12.715998+07:00"
+    },
+    {
+      "id": "b4c1641d4369b8d9a27b7d42e9d76af8",
+      "title": "Ban huấn luyện 22 người của Zidane ở đội tuyển Pháp",
+      "link": "https://vnexpress.net/ban-huan-luyen-22-nguoi-cua-zidane-o-doi-tuyen-phap-5108942.html",
+      "summary": "LĐBĐ Pháp (FFF) ngày 13/8 đã phê chuẩn ban huấn luyện ĐTQG lên tới 22 thành viên sẽ đồng hành cùng Zinedine Zidane, trong đó có cựu danh thủ Fabien Barthez, và chỉ một nhân sự trong nhóm kỹ thuật được giữ lại từ triều đại Didier Deschamps.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-14T04:37:49+07:00",
+      "fetched": "2026-08-14T12:24:27.101124+07:00"
+    },
+    {
+      "id": "390651a7ef0a542bf5d3b31bcb361555",
+      "title": "Cựu võ sĩ qua đời sau 10 năm chấn thương não",
+      "link": "https://vnexpress.net/cuu-vo-si-qua-doi-sau-10-nam-chan-thuong-nao-5109034.html",
+      "summary": "Prichard Colon, người Puerto Rico, qua đời ở tuổi 33, gần 11 năm sau khi bị tụ máu dưới màng cứng và tổn thương não nghiêm trọng trong trận đấu năm 2015.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T04:33:42+07:00",
+      "fetched": "2026-08-14T12:24:12.716107+07:00"
+    },
+    {
+      "id": "390651a7ef0a542bf5d3b31bcb361555",
+      "title": "Cựu võ sĩ qua đời sau 10 năm chấn thương não",
+      "link": "https://vnexpress.net/cuu-vo-si-qua-doi-sau-10-nam-chan-thuong-nao-5109034.html",
+      "summary": "Prichard Colon, người Puerto Rico, qua đời ở tuổi 33, gần 11 năm sau khi bị tụ máu dưới màng cứng và tổn thương não nghiêm trọng trong trận đấu năm 2015.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-14T04:33:42+07:00",
+      "fetched": "2026-08-14T12:24:27.101613+07:00"
+    },
+    {
+      "id": "812d90fde8c1de858ddb42609a56429b",
+      "title": "Cảnh sát xuất sắc nhất năm bị bắt vì say rượu lái xe",
+      "link": "https://vnexpress.net/canh-sat-xuat-sac-nhat-nam-bi-bat-vi-say-ruou-lai-xe-5108096.html",
+      "summary": "Vừa được tôn vinh Cảnh sát xuất sắc năm 2025 vào ngày 24/7 thì hai tuần sau, Tyler Walters bị bắt với cáo buộc say rượu lái xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T04:30:28+07:00",
+      "fetched": "2026-08-14T12:24:12.716212+07:00"
+    },
+    {
+      "id": "1357ae62ceebfd7aeb9628e2e034710e",
+      "title": "Shelton bảo vệ chức vô địch Masters 1000 tại Canada",
+      "link": "https://vnexpress.net/shelton-bao-ve-chuc-vo-dich-masters-1000-tai-canada-5109072.html",
+      "summary": "Tay vợt Mỹ Ben Shelton hạ Brandon Nakashima 6-3, 7-6(4) ở chung kết Canada Mở rộng 2026, qua đó giành Masters 1000 thứ hai trong sự nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T04:25:24+07:00",
+      "fetched": "2026-08-14T12:24:12.716329+07:00"
+    },
+    {
+      "id": "1357ae62ceebfd7aeb9628e2e034710e",
+      "title": "Shelton bảo vệ chức vô địch Masters 1000 tại Canada",
+      "link": "https://vnexpress.net/shelton-bao-ve-chuc-vo-dich-masters-1000-tai-canada-5109072.html",
+      "summary": "Tay vợt Mỹ Ben Shelton hạ Brandon Nakashima 6-3, 7-6(4) ở chung kết Canada Mở rộng 2026, qua đó giành Masters 1000 thứ hai trong sự nghiệp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-14T04:25:24+07:00",
+      "fetched": "2026-08-14T12:24:27.101718+07:00"
+    },
+    {
+      "id": "8952d39dd2ade77c7d44b0451558080c",
+      "title": "Tiền vệ Malaysia: 'Không có cơ hội nếu xem nhẹ Việt Nam'",
+      "link": "https://vnexpress.net/tien-ve-malaysia-khong-co-co-hoi-neu-xem-nhe-viet-nam-5108961.html",
+      "summary": "Pavithran Gunalan cho rằng Malaysia phải chơi với hơn 100% khả năng nếu muốn đánh bại Việt Nam ở bán kết ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T04:23:48+07:00",
+      "fetched": "2026-08-14T12:24:12.716436+07:00"
+    },
+    {
+      "id": "8952d39dd2ade77c7d44b0451558080c",
+      "title": "Tiền vệ Malaysia: 'Không có cơ hội nếu xem nhẹ Việt Nam'",
+      "link": "https://vnexpress.net/tien-ve-malaysia-khong-co-co-hoi-neu-xem-nhe-viet-nam-5108961.html",
+      "summary": "Pavithran Gunalan cho rằng Malaysia phải chơi với hơn 100% khả năng nếu muốn đánh bại Việt Nam ở bán kết ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-14T04:23:48+07:00",
+      "fetched": "2026-08-14T12:24:27.101256+07:00"
+    },
+    {
+      "id": "879995cb288e0b7d196172445b502c2b",
+      "title": "Đi tù sau nhiều clip khoe xe, lái 307 km/h trên phố",
+      "link": "https://vnexpress.net/di-tu-sau-nhieu-clip-khoe-xe-lai-307-km-h-tren-pho-5109074.html",
+      "summary": "Connor Charlton, cầu thủ bóng đá bán chuyên nghiệp, bị phạt 4 năm tù, cấm lái xe 4 năm 7 tháng, sau khi đăng 10 clip khoe lái xe với tốc độ lên tới 307 km/h trên phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T04:18:48+07:00",
+      "fetched": "2026-08-14T12:24:12.716542+07:00"
+    },
+    {
+      "id": "fc19829359b5e4a5d30ca4aa1ab4f63c",
+      "title": "Em hiền lành, hơi cổ hủ, vui vẻ và hoạt bát",
+      "link": "https://vnexpress.net/em-hien-lanh-hoi-co-hu-vui-ve-va-hoat-bat-5109011.html",
+      "summary": "Em mong muốn gặp người đàn ông chín chắn, trưởng thành, lớn tuổi hơn em, từng ly hôn cũng được ạ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T04:16:46+07:00",
+      "fetched": "2026-08-14T12:24:12.716649+07:00"
+    },
+    {
+      "id": "c8877f3e9562723db03af08688021c91",
+      "title": "Nicole Kidman: Tôi từng được khuyên đừng cưới Tom Cruise",
+      "link": "https://vnexpress.net/nicole-kidman-toi-tung-duoc-khuyen-dung-cuoi-tom-cruise-5108967.html",
+      "summary": "Nicole Kidman nói từng có người cảnh báo sự nghiệp của cô sẽ bị ảnh hưởng nếu cưới Tom Cruise, nhưng khi đó minh tinh không quan tâm vì quá yêu anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T04:14:32+07:00",
+      "fetched": "2026-08-14T12:24:12.716757+07:00"
+    },
+    {
+      "id": "5f907bebbc7bae7e8d43ca3b328cec28",
+      "title": "Ba công an hiến máu cứu phạm nhân qua nguy kịch",
+      "link": "https://vnexpress.net/ba-cong-an-hien-mau-cuu-pham-nhan-qua-nguy-kich-5109068.html",
+      "summary": "Số đơn vị máu được lấy từ cán bộ Phân trại tạm giam Nông Cống đã kịp thời cung cấp nguồn tiểu cầu giúp nam phạm nhân 29 tuổi vượt qua hiểm nghèo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T04:11:04+07:00",
+      "fetched": "2026-08-14T12:24:12.716866+07:00"
+    },
+    {
+      "id": "5238479769af5bc8d41b2c86a3333afa",
+      "title": "Một chút hài hước, một chút chân thành và một lời chào đến anh",
+      "link": "https://vnexpress.net/mot-chut-hai-huoc-mot-chut-chan-thanh-va-mot-loi-chao-den-anh-5109013.html",
+      "summary": "Em là người sống tình cảm, trân trọng gia đình, những mối quan hệ được xây dựng bằng sự chân thành và đồng hành cùng nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T04:10:08+07:00",
+      "fetched": "2026-08-14T12:24:12.716971+07:00"
+    },
+    {
+      "id": "c3df3411263a4c70f71ad212cad438f5",
+      "title": "Tìm cô gái tử tế, chân thành, biết quan tâm",
+      "link": "https://vnexpress.net/tim-co-gai-tu-te-chan-thanh-biet-quan-tam-5109014.html",
+      "summary": "Tôi luôn kiên nhẫn để nhìn thấy nhiều năm sau mình sẽ trở nên như thế nào khi làm tốt những việc ở hiện tại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T04:05:52+07:00",
+      "fetched": "2026-08-14T12:24:12.717072+07:00"
+    },
+    {
+      "id": "dffd20af812b8b3bddac1cdff4f09a77",
+      "title": "Lễ cưới hương đồng gió nội của người đẹp Tân Cương",
+      "link": "https://vnexpress.net/le-cuoi-huong-dong-gio-noi-cua-nguoi-dep-tan-cuong-5109016.html",
+      "summary": "Diễn viên Trung Quốc Mạch Địch Na tổ chức hôn lễ trên triền núi, ngập tràn đặc sản Tân Cương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T04:01:48+07:00",
+      "fetched": "2026-08-14T12:24:12.717176+07:00"
+    },
+    {
+      "id": "45a2953f14974965b08a5f322571e354",
+      "title": "Từ nào là Hán Việt, từ nào thuần Việt?",
+      "link": "https://vnexpress.net/dai-duong-luc-dia-dat-lien-bien-ca-tu-nao-la-han-viet-tu-nao-thuan-viet-5109048.html",
+      "summary": "Bạn có phân biệt được từ thuần Việt và Hán Việt? Bốn từ quen thuộc trong một đoạn văn này sẽ tạo thử thách không dễ như nhiều người nghĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T04:01:36+07:00",
+      "fetched": "2026-08-14T12:24:12.717280+07:00"
+    },
+    {
+      "id": "9248f8dab46dd6cea7f4f3095352b065",
+      "title": "Lữ đoàn thiết giáp Mỹ bị drone Ukraine 'xóa sổ trong nháy mắt' khi tập trận",
+      "link": "https://vnexpress.net/lu-doan-thiet-giap-my-bi-drone-ukraine-xoa-so-trong-nhay-mat-khi-tap-tran-5108968.html",
+      "summary": "Lực lượng thuộc lữ đoàn thiết giáp Mỹ từng bị drone Ukraine tiêu diệt nhanh đến mức ban tổ chức phải cho họ \"hồi sinh\" để tiếp tục tập trận.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-14T03:52:15+07:00",
+      "fetched": "2026-08-14T12:24:19.237226+07:00"
     },
     {
       "id": "3ac34d7a79dafafb0ec0724e14086d72",
@@ -901,6 +1271,16 @@ window.newsData_2026_08_14 = {
       "category": "Công nghệ",
       "published": "2026-08-13T22:00:00+07:00",
       "fetched": "2026-08-14T05:30:46.336525+07:00"
+    },
+    {
+      "id": "ef9b2304b609822d28a1ea2049c45d10",
+      "title": "Lựa chọn sinh tử buộc Mật vụ Mỹ sơ tán ông Trump khỏi chuyên cơ",
+      "link": "https://vnexpress.net/lua-chon-sinh-tu-buoc-mat-vu-my-so-tan-ong-trump-khoi-chuyen-co-5108529.html",
+      "summary": "Khi đoàn xe chở Tổng thống Trump lao nhanh qua thủ đô Thổ Nhĩ Kỳ để ra sân bay, Sở Mật vụ phải đưa ra một quyết định khẩn cấp liên quan đến tính mạng của ông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-13T22:00:00+07:00",
+      "fetched": "2026-08-14T12:24:19.238315+07:00"
     },
     {
       "id": "439447d2e83c69a6689da1d567bec0ee",
