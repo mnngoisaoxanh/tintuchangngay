@@ -1,7 +1,157 @@
 window.newsData_2026_08_14 = {
   "date": "2026-08-14",
-  "lastUpdated": "2026-08-14T17:48:55.685517+07:00",
+  "lastUpdated": "2026-08-14T19:41:08.369035+07:00",
   "articles": [
+    {
+      "id": "0030e493a99188867ead5fccf4480780",
+      "title": "Ách tắc cấp C/O tại địa phương, doanh nghiệp xuất khẩu kiến nghị tháo gỡ khẩn cấp",
+      "link": "https://tuoitre.vn/ach-tac-cap-c-o-tai-dia-phuong-doanh-nghiep-xuat-khau-kien-nghi-thao-go-khan-cap-100260814163135998.htm",
+      "summary": "Hiệp hội Da - Giày - Túi xách Việt Nam (LEFASO) vừa có kiến nghị Bộ Công Thương tháo gỡ khó khăn trong thủ tục cấp Chứng nhận xuất xứ hàng hóa (C/O) cho doanh nghiệp ngành da giày, may mặc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T19:41:02.956998+07:00",
+      "fetched": "2026-08-14T19:41:02.957084+07:00"
+    },
+    {
+      "id": "b185f27b53dce44992f225f12d8dbc46",
+      "title": "Để tài sản số và doanh nghiệp công nghệ người Việt ‘an cư’ trên sân nhà",
+      "link": "https://tuoitre.vn/de-tai-san-so-va-doanh-nghiep-cong-nghe-nguoi-viet-an-cu-tren-san-nha-100260814164550258.htm",
+      "summary": "Muốn đón làn sóng doanh nghiệp công nghệ số ‘hồi hương' và đưa tài sản số vào thực tiễn kinh tế, Việt Nam cần sớm hoàn thiện hạ tầng dữ liệu tin cậy, tháo gỡ điểm nghẽn tiếp nhận vốn ngoại và đổi mới tư duy cơ chế sandbox.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T19:41:02.956910+07:00",
+      "fetched": "2026-08-14T19:41:02.956987+07:00"
+    },
+    {
+      "id": "8e0f40dea8cf6a7b226a8872170c5c71",
+      "title": "Ngày đầu thu phí cao tốc từ Nha Trang đến Quảng Ngãi: Nhiều tài xế chưa biết đã thu phí, tài khoản hết tiền",
+      "link": "https://tuoitre.vn/ngay-dau-thu-phi-cao-toc-tu-nha-trang-den-quang-ngai-nhieu-tai-xe-chua-biet-da-thu-phi-tai-khoan-het-tien-100260814161526529.htm",
+      "summary": "Trong ngày đầu triển khai thu phí đối với 5 dự án thành phần của cao tốc Bắc - Nam phía đông, nhiều tài xế tỏ ra lúng túng vì chưa biết đã chính thức thu phí, tài khoản giao thông điện tử (VETC, ePass) hết tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T19:41:02.956798+07:00",
+      "fetched": "2026-08-14T19:41:02.956891+07:00"
+    },
+    {
+      "id": "40575d1a578e0f7910dd007450ac0494",
+      "title": "Đặc sản muốn đi xa, bán giá cao phải có 'giấy khai sinh'",
+      "link": "https://tuoitre.vn/dac-san-muon-di-xa-ban-gia-cao-phai-co-giay-khai-sinh-100260814113312121.htm",
+      "summary": "“Đi khắp cả nước, chỗ nào cũng thấy tỏi Lý Sơn thì người tiêu dùng sẽ không yên tâm khi bỏ tiền ra mua với mức giá tốt”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T19:41:02.956678+07:00",
+      "fetched": "2026-08-14T19:41:02.956780+07:00"
+    },
+    {
+      "id": "b51f49fbe61d621c6e168da52bec5d82",
+      "title": "Khách Việt đến Thái Lan giảm hơn 20%, xứ sở chùa vàng tìm cách kéo khách trở lại",
+      "link": "https://tuoitre.vn/khach-viet-den-thai-lan-giam-hon-20-xu-so-chua-vang-tim-cach-keo-khach-tro-lai-100260814170438877.htm",
+      "summary": "Thay vì chỉ quảng bá Bangkok, Phuket hay Pattaya, du lịch Thái Lan đang tìm cách kéo khách Việt trở lại nhiều lần bằng những trải nghiệm mới, từ lễ hội, ẩm thực, đến du lịch sự kiện...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T19:41:02.956552+07:00",
+      "fetched": "2026-08-14T19:41:02.956657+07:00"
+    },
+    {
+      "id": "bb223bc26d0acc8a71b646e60b57cffe",
+      "title": "Gỡ vướng mắc cho doanh nghiệp làm dự án ở Phú Quốc",
+      "link": "https://tuoitre.vn/go-vuong-mac-cho-doanh-nghiep-lam-du-an-o-phu-quoc-100260814171401184.htm",
+      "summary": "Ông Nguyễn Thanh Tùng - Trưởng Ban Quản lý Khu kinh tế Phú Quốc - khẳng định An Giang, đặc khu Phú Quốc và đơn vị liên quan luôn đồng hành, lắng nghe và tháo gỡ khó khăn cho doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T19:41:02.956418+07:00",
+      "fetched": "2026-08-14T19:41:02.956531+07:00"
+    },
+    {
+      "id": "8b556634cee88651270425ad2fea9751",
+      "title": "Xét xử sơ thẩm vụ tranh chấp về cấp dưỡng nuôi con với nguyên đơn là Viện kiểm sát nhân dân",
+      "link": "https://tuoitre.vn/xet-xu-so-tham-vu-tranh-chap-ve-cap-duong-nuoi-con-voi-nguyen-don-la-vien-kiem-sat-nhan-dan-100260814165449737.htm",
+      "summary": "VKSND khu vực 7 TP Cần Thơ khởi kiện theo Nghị quyết 205/2025 của Quốc hội về thí điểm VKSND khởi kiện vụ án dân sự để bảo vệ quyền dân sự của các chủ thể là nhóm dễ bị tổn thương hoặc bảo vệ lợi ích công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T19:41:02.956014+07:00",
+      "fetched": "2026-08-14T19:41:02.956394+07:00"
+    },
+    {
+      "id": "d1ea93b9390b8690d5d0278eb664a279",
+      "title": "Mẹ không dám khóc mỗi ngày, giờ mẹ khóc khi nhận 10 triệu tiền thuốc cho con 4 tuổi ung thư",
+      "link": "https://tuoitre.vn/me-khong-dam-khoc-moi-ngay-gio-me-khoc-khi-nhan-10-trieu-tien-thuoc-cho-con-4-tuoi-ung-thu-100260814154714445.htm",
+      "summary": "Có những người mẹ đã quen với việc giấu nước mắt sau lưng con. Đến ngày cầm trên tay một khoản tiền hỗ trợ, họ mới cho phép mình bật khóc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T19:41:02.955947+07:00",
+      "fetched": "2026-08-14T19:41:02.956004+07:00"
+    },
+    {
+      "id": "5d4321ce5bc708d5b010162787ed8287",
+      "title": "Video ngắn, độc hại bủa vây: Từ những cú lướt 'chơi chơi' đến vòng xoáy lao lý",
+      "link": "https://tuoitre.vn/video-ngan-doc-hai-bua-vay-tu-nhung-cu-luot-choi-choi-den-vong-xoay-lao-ly-100260814112637921.htm",
+      "summary": "Người dùng chỉ cần mở điện thoại có thể bước vào một dòng chảy video gần như không có điểm dừng, hết clip gây cười, bán hàng đến những màn chửi bới, thách thức, bóc phốt hoặc khoe lối sống lệch chuẩn...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T19:41:02.955878+07:00",
+      "fetched": "2026-08-14T19:41:02.955936+07:00"
+    },
+    {
+      "id": "bcf7bec64c9fb2902428afab57528e0a",
+      "title": "Cuộc đoàn tụ đầy xúc động của con gái và cha ruột sau 43 năm thất lạc",
+      "link": "https://tuoitre.vn/cuoc-doan-tu-day-xuc-dong-cua-con-gai-va-cha-ruot-sau-43-nam-that-lac-100260814164516773.htm",
+      "summary": "Chỉ với những manh mối ít ỏi, Công an phường Mỹ Quới, TP Cần Thơ đã xác minh được tung tích người cha thất lạc 43 năm trong chưa đầy 24 giờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T19:41:02.955810+07:00",
+      "fetched": "2026-08-14T19:41:02.955868+07:00"
+    },
+    {
+      "id": "487bd54cb1372fb7dea8465e4a05f0d0",
+      "title": "Khánh Hòa tính mở tuyến xe buýt Nha Trang - Đà Lạt, Nha Trang - Buôn Ma Thuột",
+      "link": "https://tuoitre.vn/khanh-hoa-tinh-mo-tuyen-xe-buyt-nha-trang-da-lat-nha-trang-buon-ma-thuot-100260814173207547.htm",
+      "summary": "Hai tuyến xe buýt này nhằm kết nói 2 đô thị ở Tây Nguyên với phố biển Nha Trang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T19:41:02.955742+07:00",
+      "fetched": "2026-08-14T19:41:02.955800+07:00"
+    },
+    {
+      "id": "d9f4b48f213a0c61ff5a7adf2865afaa",
+      "title": "Việt Nam đứng thứ 4 thế giới về độ gia tăng trẻ béo phì, gần 1 triệu trẻ bị gan nhiễm mỡ",
+      "link": "https://tuoitre.vn/viet-nam-dung-thu-4-the-gioi-ve-do-gia-tang-tre-beo-phi-gan-1-trieu-tre-bi-gan-nhiem-mo-100260814164418311.htm",
+      "summary": "Việt Nam nằm trong nhóm 10 quốc gia có tốc độ gia tăng tỉ lệ thừa cân, béo phì ở trẻ 5-19 tuổi cao nhất thế giới trong giai đoạn từ 2010-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T19:41:02.955670+07:00",
+      "fetched": "2026-08-14T19:41:02.955731+07:00"
+    },
+    {
+      "id": "0b210ad1c81307d632899e29d6b3efa1",
+      "title": "Những người trẻ đưa chuyện văn hóa, ẩm thực M'nông lên không gian mạng",
+      "link": "https://tuoitre.vn/nhung-nguoi-tre-dua-chuyen-van-hoa-am-thuc-mnong-len-khong-gian-mang-100260814170000768.htm",
+      "summary": "Từ nghề truyền thống, món ăn dân dã và chuyện đời thường ở Lắk(xã Liên Sơn Lắk, Đắk Lắk),  nhiều người trẻ tuổi đang dùng mạng xã hội để đưa văn hóa M'nông đến gần hơn với công chúng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T19:41:02.955596+07:00",
+      "fetched": "2026-08-14T19:41:02.955659+07:00"
+    },
+    {
+      "id": "c37771bc24280864ef85ba7f71125e3a",
+      "title": "Tin quảng cáo trên TikTok, 3 người mất gần 1 tỉ đồng vì giấc mơ đi Úc, Đài Loan",
+      "link": "https://tuoitre.vn/tin-quang-cao-tren-tiktok-3-nguoi-mat-gan-1-ti-dong-vi-giac-mo-di-uc-dai-loan-1002608141737007.htm",
+      "summary": "Tin những quảng cáo đưa người đi Úc, Đài Loan bằng đường biển trên TikTok, 3 người đã chuyển gần 1 tỉ đồng cho Lương Quang Tiến. Một nạn nhân còn được Tiến chở xuống cảng Hải Phòng, đưa vào nhà nghỉ để chờ tàu xuất cảnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T19:41:02.955514+07:00",
+      "fetched": "2026-08-14T19:41:02.955584+07:00"
+    },
+    {
+      "id": "cae56305733105f1ae16899d47a41218",
+      "title": "Lo ngại xâm nhập mặn xuất hiện sớm, Vĩnh Long kêu gọi người dân trữ nước ngọt",
+      "link": "https://tuoitre.vn/lo-ngai-xam-nhap-man-xuat-hien-som-vinh-long-keu-goi-nguoi-dan-tru-nuoc-ngot-100260814173353795.htm",
+      "summary": "Mùa khô 2026 - 2027, tình trạng xâm nhập mặn tại Vĩnh Long khả năng xuất hiện sớm, xâm nhập sâu và kéo dài. Vĩnh Long đã chủ động kêu gọi người dân trữ nước ngọt, sử dụng nước tiết kiệm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T19:41:02.955357+07:00",
+      "fetched": "2026-08-14T19:41:02.955499+07:00"
+    },
     {
       "id": "15f3d641b83c9576a5c588e4001b1981",
       "title": "Mitsubishi Materials dự báo APT trên 3.000 USD/MTU: Quý kỷ lục của MSR mới chỉ bắt đầu?",
@@ -303,6 +453,16 @@ window.newsData_2026_08_14 = {
       "fetched": "2026-08-14T15:58:10.726083+07:00"
     },
     {
+      "id": "c7e7b7b1c60957e1bf0af1fc1a20a926",
+      "title": "Lãnh đạo cực hữu Anh đánh bại 'thùng rác di động' trong bầu cử đặc biệt",
+      "link": "https://vnexpress.net/lanh-dao-cuc-huu-anh-danh-bai-thung-rac-di-dong-trong-bau-cu-dac-biet-5109273.html",
+      "summary": "Lãnh đạo cực hữu Farage tái đắc cử ghế nghị sĩ Hạ viện Anh, sau khi chiến thắng đối thủ là một người hóa trang thành \"thùng rác di động\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-14T12:33:39+07:00",
+      "fetched": "2026-08-14T19:41:04.175992+07:00"
+    },
+    {
       "id": "b1974af60fd4c45c73dceb3aea00dc86",
       "title": "Trần Quyết Chiến thắng áp đảo trận ra quân Giải billiards quốc tế HTV",
       "link": "https://tuoitre.vn/tran-quyet-chien-thang-ap-dao-tran-ra-quan-giai-billiards-quoc-te-htv-100260814111735563.htm",
@@ -453,6 +613,186 @@ window.newsData_2026_08_14 = {
       "fetched": "2026-08-14T12:24:17.561684+07:00"
     },
     {
+      "id": "5890935fac1b07de7b502d661205f813",
+      "title": "Giáo sư Đại học Singapore 'trẻ lại' 15 tuổi nhờ thử nghiệm trường thọ",
+      "link": "https://vnexpress.net/giao-su-dai-hoc-singapore-tre-lai-15-tuoi-nho-thu-nghiem-truong-tho-5109220.html",
+      "summary": "Tự biến mình thành đối tượng nghiên cứu duy nhất, giáo sư Dean Ho đã rút ngắn tuổi sinh học của bản thân gần 15 năm chỉ sau 8 tháng điều chỉnh lối sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:10:40+07:00",
+      "fetched": "2026-08-14T19:40:58.675759+07:00"
+    },
+    {
+      "id": "36436aefe864a9b79ee44fd8c027b3cb",
+      "title": "Singapore phát tiền cho 2,4 triệu dân trong cơn bão giá",
+      "link": "https://vnexpress.net/singapore-phat-tien-cho-2-4-trieu-dan-trong-con-bao-gia-5109238.html",
+      "summary": "Hơn 2,4 triệu người dân Singapore đủ điều kiện sẽ nhận khoản trợ cấp 400-600 đôla Singapore (310-470 USD) để ứng phó với chi phí sinh hoạt ngày càng tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:08:53+07:00",
+      "fetched": "2026-08-14T19:40:58.675948+07:00"
+    },
+    {
+      "id": "36436aefe864a9b79ee44fd8c027b3cb",
+      "title": "Singapore phát tiền cho 2,4 triệu dân trong cơn bão giá",
+      "link": "https://vnexpress.net/singapore-phat-tien-cho-2-4-trieu-dan-trong-con-bao-gia-5109238.html",
+      "summary": "Hơn 2,4 triệu người dân Singapore đủ điều kiện sẽ nhận khoản trợ cấp 400-600 đôla Singapore (310-470 USD) để ứng phó với chi phí sinh hoạt ngày càng tăng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-14T12:08:53+07:00",
+      "fetched": "2026-08-14T19:41:04.176223+07:00"
+    },
+    {
+      "id": "6baf255815936d280afb7249ccbd7d0b",
+      "title": "Tôi nên đi Nhật lao động hay ở nhà chăm sóc ba và làm vườn?",
+      "link": "https://vnexpress.net/toi-nen-di-nhat-lao-dong-hay-o-nha-cham-soc-ba-va-lam-vuon-5108984.html",
+      "summary": "Nếu ở lại và chỉ trông mong vào mấy công sầu riêng, tôi thấy cuộc sống cũng bấp bênh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:00:00+07:00",
+      "fetched": "2026-08-14T19:40:58.676328+07:00"
+    },
+    {
+      "id": "db1fd943e7552511d37f75c5064cd014",
+      "title": "8 năm Leavitt chinh phục ghế nóng phát ngôn viên Nhà Trắng",
+      "link": "https://vnexpress.net/8-nam-leavitt-chinh-phuc-ghe-nong-phat-ngon-vien-nha-trang-5108824.html",
+      "summary": "Karoline Leavitt bắt đầu sự nghiệp với tư cách thực tập sinh ở Nhà Trắng rồi trở thành phát ngôn viên trẻ nhất lịch sử Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:00:00+07:00",
+      "fetched": "2026-08-14T19:40:58.676507+07:00"
+    },
+    {
+      "id": "b259161b68b9f320fe93feee718946fc",
+      "title": "Nhiều sinh viên FPTU được tuyển dụng trước tốt nghiệp",
+      "link": "https://vnexpress.net/nhieu-sinh-vien-fptu-duoc-tuyen-dung-truoc-tot-nghiep-5109274.html",
+      "summary": "Nhiều sinh viên trường ĐH FPT (FPTU) được tuyển dụng trước khi tốt nghiệp nhờ kinh nghiệm thực tế, tham gia dự án, cuộc thi công nghệ và kết nối doanh nghiệp từ sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:00:00+07:00",
+      "fetched": "2026-08-14T19:40:58.676671+07:00"
+    },
+    {
+      "id": "9ccbbd0d1fabf1f05e8f2abe26bf898f",
+      "title": "Bảo hiểm PVI được đề cử vào chung kết Asia Insurance Industry Awards 2026",
+      "link": "https://vnexpress.net/bao-hiem-pvi-duoc-de-cu-vao-chung-ket-asia-insurance-industry-awards-2026-5109272.html",
+      "summary": "Bảo hiểm PVI vào danh sách đề cử chung kết hạng mục \"General Insurance Company of the Year\" tại Asia Insurance Industry Awards (AIIA) 2026, đánh dấu năm thứ hai liên tiếp tiến sâu tại giải thưởng này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T12:00:00+07:00",
+      "fetched": "2026-08-14T19:40:58.676836+07:00"
+    },
+    {
+      "id": "db1fd943e7552511d37f75c5064cd014",
+      "title": "8 năm Leavitt chinh phục ghế nóng phát ngôn viên Nhà Trắng",
+      "link": "https://vnexpress.net/8-nam-leavitt-chinh-phuc-ghe-nong-phat-ngon-vien-nha-trang-5108824.html",
+      "summary": "Karoline Leavitt bắt đầu sự nghiệp với tư cách thực tập sinh ở Nhà Trắng rồi trở thành phát ngôn viên trẻ nhất lịch sử Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-14T12:00:00+07:00",
+      "fetched": "2026-08-14T19:41:04.176405+07:00"
+    },
+    {
+      "id": "9ccbbd0d1fabf1f05e8f2abe26bf898f",
+      "title": "Bảo hiểm PVI được đề cử vào chung kết Asia Insurance Industry Awards 2026",
+      "link": "https://vnexpress.net/bao-hiem-pvi-duoc-de-cu-vao-chung-ket-asia-insurance-industry-awards-2026-5109272.html",
+      "summary": "Bảo hiểm PVI vào danh sách đề cử chung kết hạng mục \"General Insurance Company of the Year\" tại Asia Insurance Industry Awards (AIIA) 2026, đánh dấu năm thứ hai liên tiếp tiến sâu tại giải thưởng này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-14T12:00:00+07:00",
+      "fetched": "2026-08-14T19:41:05.277268+07:00"
+    },
+    {
+      "id": "c2583582598fa18d6973c827a9e17d8a",
+      "title": "Tiền đạo Brazil dự đoán Malaysia thắng Việt Nam 3-0",
+      "link": "https://vnexpress.net/tien-dao-brazil-du-doan-malaysia-thang-viet-nam-3-0-5109263.html",
+      "summary": "Tiền đạo người Brazil đang chơi ở giải VĐQG Malaysia (MSL) Bergson tin thầy trò Tan Cheng Hoe có đủ năng lượng để gây sốc cho Việt Nam ở bán kết ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T11:39:51+07:00",
+      "fetched": "2026-08-14T19:40:58.677000+07:00"
+    },
+    {
+      "id": "c2583582598fa18d6973c827a9e17d8a",
+      "title": "Tiền đạo Brazil dự đoán Malaysia thắng Việt Nam 3-0",
+      "link": "https://vnexpress.net/tien-dao-brazil-du-doan-malaysia-thang-viet-nam-3-0-5109263.html",
+      "summary": "Tiền đạo người Brazil đang chơi ở giải VĐQG Malaysia (MSL) Bergson tin thầy trò Tan Cheng Hoe có đủ năng lượng để gây sốc cho Việt Nam ở bán kết ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-14T11:39:51+07:00",
+      "fetched": "2026-08-14T19:41:08.359297+07:00"
+    },
+    {
+      "id": "f250aa394e2b7d9925935a9f0017e857",
+      "title": "Đề Toán thi lại ở chuyên Tuyên Quang 'khó tương đương' đợt 1",
+      "link": "https://vnexpress.net/de-toan-thi-lai-o-chuyen-tuyen-quang-so-voi-dot-1-nhu-the-nao-5109255.html",
+      "summary": "Đề Toán thi lại ở chuyên Tuyên Quang có cấu trúc, cách hỏi và độ khó tương đương đợt 1, nổi bật với nhiều bài toán thực tế, theo các giáo viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T11:38:28+07:00",
+      "fetched": "2026-08-14T19:40:58.677197+07:00"
+    },
+    {
+      "id": "9e1fa30e415495258e68290203d58602",
+      "title": "HLV đội tuyển Thái Lan đề cao Singapore trước bán kết ASEAN Cup",
+      "link": "https://vnexpress.net/hlv-doi-tuyen-thai-lan-de-cao-singapore-truoc-ban-ket-asean-cup-5109276.html",
+      "summary": "HLV Anthony Hudson của Thái Lan đánh giá Singapore đang tiến bộ không ngừng và sở hữu thực lực không thể xem nhẹ ở bán kết ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T11:25:35+07:00",
+      "fetched": "2026-08-14T19:40:58.677357+07:00"
+    },
+    {
+      "id": "9e1fa30e415495258e68290203d58602",
+      "title": "HLV đội tuyển Thái Lan đề cao Singapore trước bán kết ASEAN Cup",
+      "link": "https://vnexpress.net/hlv-doi-tuyen-thai-lan-de-cao-singapore-truoc-ban-ket-asean-cup-5109276.html",
+      "summary": "HLV Anthony Hudson của Thái Lan đánh giá Singapore đang tiến bộ không ngừng và sở hữu thực lực không thể xem nhẹ ở bán kết ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-14T11:25:35+07:00",
+      "fetched": "2026-08-14T19:41:08.359490+07:00"
+    },
+    {
+      "id": "ed5f06182ab0550882380f4578229cb5",
+      "title": "Kẻ dùng dao truy sát cả nhà bạn gái lĩnh án tử hình",
+      "link": "https://vnexpress.net/ke-dung-dao-truy-sat-ca-nha-ban-gai-linh-an-tu-hinh-5109269.html",
+      "summary": "Bực tức khi nghe mẹ và anh của người tình khuyên cô không nên tiếp tục sống chung với mình, Lư Phước Hải cầm dao tấn công 3 người, khiến một nạn nhân tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T11:04:31+07:00",
+      "fetched": "2026-08-14T19:40:58.677522+07:00"
+    },
+    {
+      "id": "22e92d608afc68eb3c2259869ae138ce",
+      "title": "Spotify 'dán nhãn' ca sĩ AI",
+      "link": "https://vnexpress.net/spotify-dan-nhan-ca-si-ai-5109022.html",
+      "summary": "Spotify sẽ gắn nhãn cho các tài khoản được tạo bằng AI, đồng thời không đưa các nội dung này vào danh sách đề xuất dành cho người dùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T11:00:00+07:00",
+      "fetched": "2026-08-14T19:40:58.677686+07:00"
+    },
+    {
+      "id": "25f6f9bd32e7c13a4935290547b8d52a",
+      "title": "Mẹo giúp tóc khỏe, giảm gãy rụng",
+      "link": "https://vnexpress.net/meo-giup-toc-khoe-giam-gay-rung-5109152.html",
+      "summary": "Hạn chế sấy tóc ở nhiệt độ cao, gội đầu đúng cách, massage da đầu và bổ sung tinh chất thiết yếu có thể giúp bảo vệ tế bào mầm tóc, giảm gãy rụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T11:00:00+07:00",
+      "fetched": "2026-08-14T19:40:58.677882+07:00"
+    },
+    {
+      "id": "22c001536e4c457c479687f14bc8ec8f",
+      "title": "Nguyên nhân gây mất ngủ ở tuổi trung niên",
+      "link": "https://vnexpress.net/nguyen-nhan-gay-mat-ngu-o-tuoi-trung-nien-5109088.html",
+      "summary": "Thay đổi chu kỳ ngủ - thức, lão hóa cơ thể, bệnh mạn tính có thể khiến người ở độ tuổi trung niên khó vào giấc, trằn trọc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T11:00:00+07:00",
+      "fetched": "2026-08-14T19:40:58.678041+07:00"
+    },
+    {
       "id": "559c90c606f3be8443c0fc97e30bddc1",
       "title": "Giận chồng, bỏ dép và mẩu giấy 'nhờ vớt xác 2 mẹ con' trên cầu rồi… đi chơi",
       "link": "https://tuoitre.vn/gian-chong-bo-dep-va-mau-giay-nho-vot-xac-2-me-con-tren-cau-roi-di-choi-100260814092629522.htm",
@@ -601,6 +941,16 @@ window.newsData_2026_08_14 = {
       "category": "Tổng hợp",
       "published": "2026-08-14T10:55:08.832864+07:00",
       "fetched": "2026-08-14T10:55:08.833021+07:00"
+    },
+    {
+      "id": "8ea6732122698e1a5dc35a2c04fe709c",
+      "title": "Nguyên thứ trưởng Trần Quý Kiên bị đề nghị kỷ luật",
+      "link": "https://vnexpress.net/nguyen-thu-truong-tran-quy-kien-bi-de-nghi-ky-luat-5109265.html",
+      "summary": "Ông Trần Quý Kiên, nguyên Thứ trưởng Nông nghiệp và Môi trường, bị đề nghị kỷ luật do vi phạm gây hậu quả rất nghiêm trọng, ảnh hưởng xấu đến uy tín tổ chức đảng, cơ quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T10:44:03+07:00",
+      "fetched": "2026-08-14T19:40:58.678285+07:00"
     },
     {
       "id": "ea0b19241fec0ad749ead0f3f35bab69",
