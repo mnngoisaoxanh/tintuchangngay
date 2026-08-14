@@ -1,7 +1,127 @@
 window.newsData_2026_08_14 = {
   "date": "2026-08-14",
-  "lastUpdated": "2026-08-14T21:43:49.627065+07:00",
+  "lastUpdated": "2026-08-14T23:40:14.256289+07:00",
   "articles": [
+    {
+      "id": "49571d937e6ee769826f123082cf5996",
+      "title": "Liên minh trạm sạc ở Việt Nam: Hết cảnh mỗi trạm một app, 'giam tiền' trong ứng dụng",
+      "link": "https://tuoitre.vn/lien-minh-tram-sac-o-viet-nam-het-canh-moi-tram-mot-app-giam-tien-trong-ung-dung-100260814150002218.htm",
+      "summary": "Việc phải cài đặt hàng loạt ứng dụng khác nhau và nạp tiền trước vào từng tài khoản từng là rào cản lớn đối với người sử dụng ô tô điện. Liên minh trạm sạc ở Việt Nam đang từng bước thay đổi những bất tiện này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:40:08.366541+07:00",
+      "fetched": "2026-08-14T23:40:08.366602+07:00"
+    },
+    {
+      "id": "4f23cc9ceb467dd445f1fa9a20fb4129",
+      "title": "Trần Quyết Chiến, Bao Phương Vinh cạnh tranh giải thưởng 100 triệu đồng tại Siêu cúp Billiards",
+      "link": "https://tuoitre.vn/tran-quyet-chien-bao-phuong-vinh-canh-tranh-giai-thuong-100-trieu-dong-tai-sieu-cup-billiards-100260814194244503.htm",
+      "summary": "Sắp tới, dàn ngôi sao hàng đầu của bộ môn carom 3 băng như Trần Quyết Chiến, Bao Phương Vinh sẽ góp mặt tại Siêu cúp Billiards có giải thưởng \"khủng\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:40:08.366472+07:00",
+      "fetched": "2026-08-14T23:40:08.366530+07:00"
+    },
+    {
+      "id": "ef0d41a0aa3f063f60b0e6d1e79a1b57",
+      "title": "Ứng phó trước nghi vấn gian lận xuất xứ từ 'mạng lưới ngầm' hàng xuất khẩu sang Mỹ ra sao?",
+      "link": "https://tuoitre.vn/ung-pho-truoc-nghi-van-gian-lan-xuat-xu-tu-mang-luoi-ngam-hang-xuat-khau-sang-my-ra-sao-100260814192858774.htm",
+      "summary": "Tham tán Thương mại, Trưởng Cơ quan Thương vụ Việt Nam tại Mỹ đã trao đổi với Tuổi Trẻ về báo cáo \"Vụ chuyển tải gian lận quy mô lớn: sự hình thành, phạm vi và chi phí\" của Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:40:08.366399+07:00",
+      "fetched": "2026-08-14T23:40:08.366462+07:00"
+    },
+    {
+      "id": "0e399ffd7361710b295296da748d9c96",
+      "title": "TP.HCM và duyên hải Nam Trung Bộ - Tây Nguyên: Chuyển từ kết nối sang cùng tạo giá trị",
+      "link": "https://tuoitre.vn/tphcm-va-duyen-hai-nam-trung-bo-tay-nguyen-chuyen-tu-ket-noi-sang-cung-tao-gia-tri-100260814185317135.htm",
+      "summary": "Không chỉ kết nối thị trường và nguồn lực, TP.HCM cam kết tiếp tục đồng hành cùng các tỉnh duyên hải Nam Trung Bộ và Tây Nguyên để hình thành những chuỗi giá trị, trục tăng trưởng và không gian kinh tế mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:40:08.366307+07:00",
+      "fetched": "2026-08-14T23:40:08.366385+07:00"
+    },
+    {
+      "id": "f9d5f4b3838be1bb9d58aefcb429e642",
+      "title": "Chủ Thái Lan rao bán Leicester với giá thấp không tưởng",
+      "link": "https://tuoitre.vn/chu-thai-lan-rao-ban-leicester-voi-gia-thap-khong-tuong-100260814195354024.htm",
+      "summary": "Leicester City, đội bóng từng vô địch Premier League (Giải ngoại hạng Anh) vào mùa 2015-2016, đã bị giới chủ Thái Lan rao bán với mức giá thấp không tưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:40:08.366234+07:00",
+      "fetched": "2026-08-14T23:40:08.366297+07:00"
+    },
+    {
+      "id": "7b28b75da139240f26bfbbf715eeb128",
+      "title": "Cần tiếp cận tổng thể để bảo đảm an toàn thông tin trong kỷ nguyên AI",
+      "link": "https://tuoitre.vn/can-tiep-can-tong-the-de-bao-dam-an-toan-thong-tin-trong-ky-nguyen-ai-100260814182609563.htm",
+      "summary": "Tại hội thảo khoa học quốc gia \"Trí tuệ nhân tạo cho mật mã và an toàn thông tin\" diễn ra ở Học viện Kỹ thuật mật mã ngày 14-8, các chuyên gia đã có những chia sẻ tính hai mặt của trí tuệ nhân tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:40:08.366165+07:00",
+      "fetched": "2026-08-14T23:40:08.366224+07:00"
+    },
+    {
+      "id": "703030b501bce93124fd515d3b7042c3",
+      "title": "Đội bóng của HLV Park Hang Seo thắng đậm CLB Hoàng Anh Gia Lai",
+      "link": "https://tuoitre.vn/doi-bong-cua-hlv-park-hang-seo-thang-dam-clb-hoang-anh-gia-lai-100260814202313.htm",
+      "summary": "CLB Kanchanaburi, đội bóng do HLV Park Hang Seo dẫn dắt, đã thắng đậm Hoàng Anh Gia Lai 6-2 trong trận giao hữu tại Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:40:08.366094+07:00",
+      "fetched": "2026-08-14T23:40:08.366155+07:00"
+    },
+    {
+      "id": "5dd366ab1af0ceca08710aceb2e44ae3",
+      "title": "100 giáo viên, sinh viên Việt Nam tham gia Hành trình đỏ tại Quảng Tây, Trung Quốc",
+      "link": "https://tuoitre.vn/100-giao-vien-sinh-vien-viet-nam-tham-gia-hanh-trinh-do-tai-quang-tay-trung-quoc-100260814204937871.htm",
+      "summary": "Chương trình 'Giao lưu giáo viên, sinh viên Việt - Trung năm 2026 sẽ diễn ra từ ngày 15 đến 19-8 tại TP Nam Ninh và TP Quế Lâm, Quảng Tây, Trung Quốc, với sự tham gia của 100 thành viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:40:08.366025+07:00",
+      "fetched": "2026-08-14T23:40:08.366084+07:00"
+    },
+    {
+      "id": "a251bb34e495c6bf31985673b2589764",
+      "title": "10h sáng 16-8: Talkshow và livestream bán hàng gây quỹ Tiếp sức đến trường tân sinh viên khó khăn",
+      "link": "https://tuoitre.vn/10h-sang-16-8-talkshow-va-livestream-ban-hang-gay-quy-tiep-suc-den-truong-tan-sinh-vien-kho-khan-100260814162550986.htm",
+      "summary": "Báo Tuổi Trẻ cùng nhãn hàng Nesty tổ chức livestream talkshow 'Một khát vọng - Vạn tấm lòng' và bán hàng gây quỹ 'Tiếp sức đến trường' 2026, từ 10h ngày 16-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:40:08.365949+07:00",
+      "fetched": "2026-08-14T23:40:08.366014+07:00"
+    },
+    {
+      "id": "1d7c997f5715246ed53f5d5001e3124f",
+      "title": "Singapore quyết hình sự hóa việc dùng AI tạo ảnh nhạy cảm",
+      "link": "https://tuoitre.vn/singapore-quyet-hinh-su-hoa-viec-dung-ai-tao-anh-nhay-cam-10026081420575834.htm",
+      "summary": "Singapore sẽ áp dụng các quy định mới nhằm xử lý hành vi tạo hình ảnh nhạy cảm bằng AI từ ngày 17-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:40:08.365878+07:00",
+      "fetched": "2026-08-14T23:40:08.365939+07:00"
+    },
+    {
+      "id": "93d930fc4512c9449a627adbf295994a",
+      "title": "Cấm giao dịch chứng khoán 2 năm với 16 người cho mượn tài khoản để thao túng cổ phiếu",
+      "link": "https://tuoitre.vn/cam-giao-dich-chung-khoan-2-nam-voi-16-nguoi-cho-muon-tai-khoan-de-thao-tung-co-phieu-100260814211345972.htm",
+      "summary": "Cả 16 người bị xác định đã cho cùng một cá nhân mượn tài khoản chứng khoán để giao dịch, tạo cung cầu giả tạo cho cổ phiếu VPI của Văn Phú Invest trong hơn ba tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:40:08.365797+07:00",
+      "fetched": "2026-08-14T23:40:08.365866+07:00"
+    },
+    {
+      "id": "98c7dfcc155467ef95c09e9634476719",
+      "title": "Vì sao ông Trump yêu cầu Hải quân Mỹ quay lại công nghệ phóng máy bay 70 năm trước?",
+      "link": "https://tuoitre.vn/vi-sao-ong-trump-yeu-cau-hai-quan-my-quay-lai-cong-nghe-phong-may-bay-70-nam-truoc-100260814212708436.htm",
+      "summary": "Ông Trump vừa chỉ thị Hải quân Mỹ loại bỏ hệ thống phóng tiêm kích tiên tiến trên thế hệ tàu sân bay mới nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:40:08.365646+07:00",
+      "fetched": "2026-08-14T23:40:08.365782+07:00"
+    },
     {
       "id": "0181a3bf39ef3312f76ad23f4a464a2b",
       "title": "Xã Thái Mỹ chi hơn 504 tỉ đồng bồi thường để làm cao tốc TP.HCM - Mộc Bài",
@@ -603,6 +723,56 @@ window.newsData_2026_08_14 = {
       "fetched": "2026-08-14T15:58:10.726083+07:00"
     },
     {
+      "id": "2d335c1bced3cd339fbc61298871077d",
+      "title": "Thủ tướng yêu cầu trường học công khai bữa ăn của học sinh",
+      "link": "https://vnexpress.net/thu-tuong-yeu-cau-truong-hoc-cong-khai-bua-an-cua-hoc-sinh-5109304.html",
+      "summary": "Tất cả trường học phải công khai thông tin hàng ngày với phụ huynh về bữa ăn học sinh, từ đơn vị cung cấp, nguyên liệu, thực phẩm, hóa đơn nhập hàng, thực đơn và khay ăn thực tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T15:46:23+07:00",
+      "fetched": "2026-08-14T23:40:04.679629+07:00"
+    },
+    {
+      "id": "e127009a64bc42fd49bc49328d033b82",
+      "title": "Cứu 4 người mắc kẹt trong đám cháy cửa hàng thời trang ở Hà Nội",
+      "link": "https://vnexpress.net/cuu-4-nguoi-mac-ket-trong-dam-chay-cua-hang-thoi-trang-o-ha-noi-5109306.html",
+      "summary": "Cảnh sát phòng cháy kịp thời cứu 4 người thoát khỏi vụ cháy cửa hàng thời trang trên phố Nguyễn Lương Bằng, tối 14/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T15:37:59+07:00",
+      "fetched": "2026-08-14T23:40:04.679812+07:00"
+    },
+    {
+      "id": "84063136199a57f75ce8c55af9db83b1",
+      "title": "Dự kiến 'nới' trần học phí đại học",
+      "link": "https://vnexpress.net/du-kien-noi-tran-hoc-phi-dai-hoc-5109198.html",
+      "summary": "Trần học phí ngành Răng Hàm Mặt và các đại học đã tự chủ một phần dự kiến tăng, song sinh viên ở nhiều ngành sẽ được miễn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T15:08:00+07:00",
+      "fetched": "2026-08-14T23:40:04.679978+07:00"
+    },
+    {
+      "id": "ddba85192cae17f7059b19fea5187ab5",
+      "title": "AI đang thay đổi cách làm báo",
+      "link": "https://vnexpress.net/ai-dang-thay-doi-cach-lam-bao-5109283.html",
+      "summary": "Từ một công cụ thử nghiệm, AI dần trở thành một phần trong quy trình sản xuất, phân phối và phát triển nội dung báo chí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T14:56:25+07:00",
+      "fetched": "2026-08-14T23:40:04.680143+07:00"
+    },
+    {
+      "id": "ddba85192cae17f7059b19fea5187ab5",
+      "title": "AI đang thay đổi cách làm báo",
+      "link": "https://vnexpress.net/ai-dang-thay-doi-cach-lam-bao-5109283.html",
+      "summary": "Từ một công cụ thử nghiệm, AI dần trở thành một phần trong quy trình sản xuất, phân phối và phát triển nội dung báo chí.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-14T14:56:25+07:00",
+      "fetched": "2026-08-14T23:40:12.635602+07:00"
+    },
+    {
       "id": "c54f032d78a246284fdeb1daa24ec842",
       "title": "Ông Trump kháng cáo phán quyết chặn xây phòng khiêu vũ lên Tòa Tối cao",
       "link": "https://vnexpress.net/ong-trump-khang-cao-phan-quyet-chan-xay-phong-khieu-vu-len-toa-toi-cao-5109293.html",
@@ -941,6 +1111,16 @@ window.newsData_2026_08_14 = {
       "category": "Thế giới",
       "published": "2026-08-14T12:08:53+07:00",
       "fetched": "2026-08-14T19:41:04.176223+07:00"
+    },
+    {
+      "id": "97686a42e1c52ea5969682b16f788d79",
+      "title": "Singapore phát hàng trăm đô cho 2,4 triệu dân trong cơn bão giá",
+      "link": "https://vnexpress.net/singapore-phat-hang-tram-do-cho-2-4-trieu-dan-trong-con-bao-gia-5109238.html",
+      "summary": "Hơn 2,4 triệu người dân Singapore đủ điều kiện sẽ nhận khoản trợ cấp 400-600 đôla Singapore (310-470 USD) để ứng phó với chi phí sinh hoạt ngày càng tăng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-14T12:08:53+07:00",
+      "fetched": "2026-08-14T23:40:09.451801+07:00"
     },
     {
       "id": "6baf255815936d280afb7249ccbd7d0b",
