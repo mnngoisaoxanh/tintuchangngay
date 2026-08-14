@@ -1,6 +1,6 @@
 window.newsData_2026_08_15 = {
   "date": "2026-08-15",
-  "lastUpdated": "2026-08-15T01:40:24.244072+07:00",
+  "lastUpdated": "2026-08-15T03:21:31.823386+07:00",
   "articles": [
     {
       "id": "ef0d41a0aa3f063f60b0e6d1e79a1b57",
@@ -151,6 +151,16 @@ window.newsData_2026_08_15 = {
       "category": "Tổng hợp",
       "published": "2026-08-15T01:40:17.016180+07:00",
       "fetched": "2026-08-15T01:40:17.016329+07:00"
+    },
+    {
+      "id": "0ee03c60c8a3efb6aece95410d44016d",
+      "title": "6 đồ uống hỗ trợ hạ đường huyết",
+      "link": "https://vnexpress.net/6-do-uong-ho-tro-ha-duong-huyet-5107930.html",
+      "summary": "Trà xanh chứa chất chống oxy hóa có thể cải thiện độ nhạy insulin, còn trà đen hỗ trợ điều chỉnh lượng đường trong máu và giảm nguy cơ mắc tiểu đường type 2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T19:00:00+07:00",
+      "fetched": "2026-08-15T03:21:18.035152+07:00"
     },
     {
       "id": "4d0942be2955ad00eee6cb68e18ffe1b",
