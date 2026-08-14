@@ -1,7 +1,157 @@
 window.newsData_2026_08_14 = {
   "date": "2026-08-14",
-  "lastUpdated": "2026-08-14T15:58:18.403224+07:00",
+  "lastUpdated": "2026-08-14T17:48:55.685517+07:00",
   "articles": [
+    {
+      "id": "15f3d641b83c9576a5c588e4001b1981",
+      "title": "Mitsubishi Materials dự báo APT trên 3.000 USD/MTU: Quý kỷ lục của MSR mới chỉ bắt đầu?",
+      "link": "https://tuoitre.vn/mitsubishi-materials-du-bao-apt-tren-3000-usd-mtu-quy-ky-luc-cua-msr-moi-chi-bat-dau-100260814145619323.htm",
+      "summary": "Trong báo cáo quý 1 năm tài chính kết thúc tháng 3-2027, Mitsubishi Materials dự báo giá APT bình quân cả năm đạt 3.017 USD/MTU, củng cố kỳ vọng thị trường vonfram đã lập mặt bằng giá mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T17:48:50.550717+07:00",
+      "fetched": "2026-08-14T17:48:50.551051+07:00"
+    },
+    {
+      "id": "c0a34a862d975c35987f907a416c5547",
+      "title": "Mỹ rút tàu sân bay USS Abraham Lincoln, điều tàu George Washington đến Trung Đông",
+      "link": "https://tuoitre.vn/my-rut-tau-san-bay-uss-abraham-lincoln-dieu-tau-george-washington-den-trung-dong-10026081415372067.htm",
+      "summary": "Tàu sân bay USS George Washington đến Trung Đông thay tàu Abraham Lincoln đang là tâm điểm chỉ trích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T17:48:50.550622+07:00",
+      "fetched": "2026-08-14T17:48:50.550704+07:00"
+    },
+    {
+      "id": "83bb7148f9d4d4ac0ca6e31e29cec59e",
+      "title": "Tìm thấy dụng cụ y tế, thắt lưng, áo mưa trên núi Hòn Tàu - nơi nghi có 10 hài cốt liệt sĩ",
+      "link": "https://tuoitre.vn/tim-thay-dung-cu-y-te-that-lung-ao-mua-tren-nui-hon-tau-noi-nghi-co-10-hai-cot-liet-si-100260814145528728.htm",
+      "summary": "Từ tin báo của người dân, lực lượng tìm kiếm Bộ Chỉ huy Quân sự TP Đà Nẵng đã mở đường, tiếp cận vị trí nơi nghi có 10 liệt sĩ đã nằm lại. Nhiều di vật được tìm thấy, mở ra hy vọng cho đợt quy tập trong ít ngày tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T17:48:50.550551+07:00",
+      "fetched": "2026-08-14T17:48:50.550611+07:00"
+    },
+    {
+      "id": "3b6bc759b3ff6cedb7e4e059982087b7",
+      "title": "Bộ Giáo dục lấy ý kiến thi vào lớp 10 chỉ gồm 2 môn toán và văn",
+      "link": "https://tuoitre.vn/bo-giao-duc-lay-y-kien-thi-vao-lop-10-chi-gom-2-mon-toan-va-van-10026081415465868.htm",
+      "summary": "Kỳ thi vào lớp 10 công lập sẽ giảm từ 3 xuống 2, chỉ gồm toán và văn, theo phương án Bộ Giáo dục và Đào tạo đang lấy ý kiến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T17:48:50.550476+07:00",
+      "fetched": "2026-08-14T17:48:50.550540+07:00"
+    },
+    {
+      "id": "780c815cf59a071d74af98a3783e0d3a",
+      "title": "CLB Đồng Tháp lên tiếng về việc chuyển 'hộ khẩu' lên TP.HCM",
+      "link": "https://tuoitre.vn/clb-dong-thap-len-tieng-ve-viec-chuyen-ho-khau-len-tphcm-10026081415355627.htm",
+      "summary": "CLB Đồng Tháp đã chính thức lên tiếng về việc chuyển \"hộ khẩu\" lên TP.HCM, và đổi tên thành Bình Minh Sài Gòn để thi đấu ở Giải hạng nhất 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T17:48:50.550410+07:00",
+      "fetched": "2026-08-14T17:48:50.550466+07:00"
+    },
+    {
+      "id": "084f61279f2943a55d47308f1b0c8482",
+      "title": "Dính đòn nặng vào đầu, võ sĩ boxing nổi tiếng qua đời sau 11 năm",
+      "link": "https://tuoitre.vn/dinh-don-nang-vao-dau-vo-si-boxing-noi-tieng-qua-doi-sau-11-nam-100260814140333672.htm",
+      "summary": "Sau gần 11 năm sống chung với tổn thương não nặng nề từ một trận thượng đài năm 2015, võ sĩ Prichard Colon đã trút hơi thở cuối cùng ở tuổi 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T17:48:50.550342+07:00",
+      "fetched": "2026-08-14T17:48:50.550400+07:00"
+    },
+    {
+      "id": "1a7bebf87682f85ddd8e5c74e5ea5c83",
+      "title": "Việt Nam thắng lớn tại Giải cờ vua Đông Nam Á 2026",
+      "link": "https://tuoitre.vn/viet-nam-thang-lon-tai-giai-co-vua-dong-nam-a-2026-100260814151930941.htm",
+      "summary": "Trưa 14-8, Giải cờ vua Đông Nam Á 2026 đã chính thức khép lại ở nội dung cờ tiêu chuẩn, và Việt Nam đã cán đích ở vị trí số 1 toàn đoàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T17:48:50.550272+07:00",
+      "fetched": "2026-08-14T17:48:50.550332+07:00"
+    },
+    {
+      "id": "cf65eff5f8a763f33f5565e642b143a7",
+      "title": "Lãnh đạo Thành ủy Hà Nội: đặt mục tiêu khắc phục triệt để ngập úng từ năm 2027",
+      "link": "https://tuoitre.vn/lanh-dao-thanh-uy-ha-noi-dat-muc-tieu-khac-phuc-triet-de-ngap-ung-tu-nam-2027-100260814151112496.htm",
+      "summary": "Phó bí thư thường trực Thành ủy Hà Nội Nguyễn Trọng Đông yêu cầu phải giải quyết tận gốc điểm nghẽn úng ngập. Mục tiêu là năm 2027, thành phố phải khắc phục triệt để tình trạng ngập úng khi mùa mưa đến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T17:48:50.550200+07:00",
+      "fetched": "2026-08-14T17:48:50.550261+07:00"
+    },
+    {
+      "id": "8cb3f36a618dc6fa8f89bc9812d6febe",
+      "title": "Mở lại cửa từng bị bịt kín của di tích nhà hát độc đáo nhất triều Nguyễn",
+      "link": "https://tuoitre.vn/mo-lai-cua-tung-bi-bit-kin-cua-di-tich-nha-hat-doc-dao-nhat-trieu-nguyen-100260814153305865.htm",
+      "summary": "Các ô cửa từng bị bịt kín, làm thay đổi hiện trạng của di tích Nhà hát Minh Khiêm đường trong lăng vua Tự Đức ở Huế đã được mở lại, trả về hình dáng như trước khi hạ giải trùng tu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T17:48:50.550127+07:00",
+      "fetched": "2026-08-14T17:48:50.550189+07:00"
+    },
+    {
+      "id": "c4926d47b92fd93cb6f407362417fc3c",
+      "title": "Quản lý bay thông tin vụ thả diều khiến 21 chuyến bay bị ảnh hưởng ở Tân Sơn Nhất",
+      "link": "https://tuoitre.vn/quan-ly-bay-thong-tin-vu-tha-dieu-khien-21-chuyen-bay-bi-anh-huong-o-tan-son-nhat-100260814153503922.htm",
+      "summary": "Ngày 14-8, Tổng công ty Quản lý bay Việt Nam (VATM), lên tiếng về tình trạng thả diều có gắn đèn chớp gần sân bay Tân Sơn Nhất khiến 21 chuyến bay bị ảnh hưởng. Sân bay phải tạm ngưng tiếp nhận cất, hạ cánh trong vòng 13 - 14 phút vào tối 13-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T17:48:50.550056+07:00",
+      "fetched": "2026-08-14T17:48:50.550116+07:00"
+    },
+    {
+      "id": "fb4d73c732f2533359219f970311a501",
+      "title": "30 năm Dung Quất: Từ vịnh biển nghèo đến trung tâm công nghiệp quốc gia",
+      "link": "https://tuoitre.vn/30-nam-dung-quat-tu-vinh-bien-ngheo-den-trung-tam-cong-nghiep-quoc-gia-100260814131106296.htm",
+      "summary": "Ba thập kỷ sau ngày Khu công nghiệp Dung Quất được thành lập, vùng đất ven vịnh nước sâu từng là những doi cát bạc màu nay đã trở thành một trong những trung tâm công nghiệp lớn của cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T17:48:50.549986+07:00",
+      "fetched": "2026-08-14T17:48:50.550045+07:00"
+    },
+    {
+      "id": "690088944fa1d92e46f655b8b2f95615",
+      "title": "Thêm một phiên giao dịch buồn của nhà đầu tư, VN-Index giảm tiếp 36 điểm",
+      "link": "https://tuoitre.vn/them-mot-phien-giao-dich-buon-cua-nha-dau-tu-vn-index-giam-tiep-36-diem-100260814153110237.htm",
+      "summary": "Áp lực bán gia tăng khiến VN-Index mất 36,55 điểm trong phiên 14-8, với sắc đỏ phủ rộng nhiều nhóm ngành. Hàng loạt cổ phiếu vốn hóa lớn giảm mạnh, đẩy chỉ số xuống sát mốc 1.730 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T17:48:50.549915+07:00",
+      "fetched": "2026-08-14T17:48:50.549975+07:00"
+    },
+    {
+      "id": "4f5dce9d3de941d3fd58f8bd29f8c473",
+      "title": "Bắc Kinh lần đầu lên tiếng về cuộc tập trận quân sự thường niên của Đài Loan",
+      "link": "https://tuoitre.vn/bac-kinh-lan-dau-len-tieng-ve-cuoc-tap-tran-quan-su-thuong-nien-cua-dai-loan-100260814155221377.htm",
+      "summary": "Ngày 14-8, Bộ Quốc phòng Trung Quốc đã chỉ trích cuộc tập trận quân sự Hán Quang (Han Kuang) thường niên của đảo Đài Loan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T17:48:50.549842+07:00",
+      "fetched": "2026-08-14T17:48:50.549903+07:00"
+    },
+    {
+      "id": "76dfdacea8e3b3918b1843d9d88ff26b",
+      "title": "Nhiều thí sinh xét tuyển vào Trường đại học Y Hà Nội được cộng 2-3 điểm",
+      "link": "https://tuoitre.vn/nhieu-thi-sinh-xet-tuyen-vao-truong-dai-hoc-y-ha-noi-duoc-cong-2-3-diem-100260814152429505.htm",
+      "summary": "Nhiều thí sinh trúng tuyển ngành y khoa Trường đại học Y Hà Nội được cộng từ 0,75 đến 3 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T17:48:50.549755+07:00",
+      "fetched": "2026-08-14T17:48:50.549830+07:00"
+    },
+    {
+      "id": "fffa9bbd013459091b23a64977fde89e",
+      "title": "Cơ sở sapa giả phòng khám xương khớp, quảng cáo chữa khỏi 95% để lừa khách",
+      "link": "https://tuoitre.vn/co-so-sapa-gia-phong-kham-xuong-khop-quang-cao-chua-khoi-95-de-lua-khach-100260814152639425.htm",
+      "summary": "Đăng ký hoạt động spa, xoa bóp, massage nhưng một cơ sở ở Nghệ An đã giới thiệu có bác sĩ điều trị chuyên khoa xương khớp, cam kết chữa dứt điểm đến 95%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T17:48:50.549572+07:00",
+      "fetched": "2026-08-14T17:48:50.549739+07:00"
+    },
     {
       "id": "c1f364d9cd870280cf3204c0da40ca30",
       "title": "Nhập siêu 20,3 tỉ USD: Những mặt hàng nào nhập khẩu tăng mạnh nhất?",
@@ -451,6 +601,236 @@ window.newsData_2026_08_14 = {
       "category": "Tổng hợp",
       "published": "2026-08-14T10:55:08.832864+07:00",
       "fetched": "2026-08-14T10:55:08.833021+07:00"
+    },
+    {
+      "id": "ea0b19241fec0ad749ead0f3f35bab69",
+      "title": "'Việt Nam phấn đấu ít nhất 10 triệu người có kỹ năng AI cơ bản vào năm 2030'",
+      "link": "https://vnexpress.net/viet-nam-phan-dau-it-nhat-10-trieu-nguoi-co-ky-nang-ai-co-ban-vao-nam-2030-5109173.html",
+      "summary": "Dự thảo Chiến lược chuyển đổi AI quốc gia đặt mục tiêu đến năm 2030 sẽ có 10.000 nhân lực AI chuyên sâu và tối thiểu 10 triệu người được trang bị kỹ năng AI cơ bản.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-14T10:16:40+07:00",
+      "fetched": "2026-08-14T17:48:54.730939+07:00"
+    },
+    {
+      "id": "b55e82c3ee1450699f93bf51197d119a",
+      "title": "Thời khắc sống còn buộc Mật vụ Mỹ phải sơ tán ông Trump",
+      "link": "https://vnexpress.net/thoi-khac-song-con-buoc-mat-vu-my-phai-so-tan-ong-trump-5109066.html",
+      "summary": "Khi đoàn xe chở Tổng thống Trump lao nhanh qua thủ đô Thổ Nhĩ Kỳ để ra sân bay, Sở Mật vụ phải đưa ra một quyết định khẩn cấp liên quan đến tính mạng của ông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-14T10:00:00+07:00",
+      "fetched": "2026-08-14T17:48:51.496942+07:00"
+    },
+    {
+      "id": "010cc51571e302aa272c3ddcd3107e1b",
+      "title": "Người Trung Quốc chi 165 triệu đồng để có căn cước Việt Nam",
+      "link": "https://vnexpress.net/nguoi-trung-quoc-chi-165-trieu-dong-de-co-can-cuoc-viet-nam-5109192.html",
+      "summary": "Dong Jian chi 50.000 nhân dân tệ qua trung gian làm giấy tờ giả, nhờ cán bộ công an cập nhật thông tin khống vào dữ liệu dân cư để được cấp căn cước và làm hộ chiếu Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T09:50:45+07:00",
+      "fetched": "2026-08-14T17:48:46.761956+07:00"
+    },
+    {
+      "id": "443a1dbe9901c21255e7201ee226bd92",
+      "title": "Ukraine tập kích cảng Nga giáp biển Baltic",
+      "link": "https://vnexpress.net/ukraine-tap-kich-cang-nga-giap-bien-baltic-5109183.html",
+      "summary": "Cảng biển Ust-Luga của Nga bị máy bay không người lái Ukraine tập kích và dẫn tới hỏa hoạn, ngọn lửa được kiểm soát sau đó không lâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T09:49:52+07:00",
+      "fetched": "2026-08-14T17:48:46.762146+07:00"
+    },
+    {
+      "id": "443a1dbe9901c21255e7201ee226bd92",
+      "title": "Ukraine tập kích cảng Nga giáp biển Baltic",
+      "link": "https://vnexpress.net/ukraine-tap-kich-cang-nga-giap-bien-baltic-5109183.html",
+      "summary": "Cảng biển Ust-Luga của Nga bị máy bay không người lái Ukraine tập kích và dẫn tới hỏa hoạn, ngọn lửa được kiểm soát sau đó không lâu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-14T09:49:52+07:00",
+      "fetched": "2026-08-14T17:48:51.497125+07:00"
+    },
+    {
+      "id": "8e0117c3de1a1bda9edebf72220b5e48",
+      "title": "Carrick: 'Đừng bước vào mùa giải với suy nghĩ sẽ chật vật'",
+      "link": "https://vnexpress.net/carrick-dung-buoc-vao-mua-giai-voi-suy-nghi-se-chat-vat-5109060.html",
+      "summary": "HLV Michael Carrick tin Man Utd đủ tiềm năng hướng tới mùa giải đặc biệt, đồng thời để ngỏ tương lai Marcus Rashford và đánh giá cao tân binh Andrey Santos.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T09:36:03+07:00",
+      "fetched": "2026-08-14T17:48:46.762318+07:00"
+    },
+    {
+      "id": "8e0117c3de1a1bda9edebf72220b5e48",
+      "title": "Carrick: 'Đừng bước vào mùa giải với suy nghĩ sẽ chật vật'",
+      "link": "https://vnexpress.net/carrick-dung-buoc-vao-mua-giai-voi-suy-nghi-se-chat-vat-5109060.html",
+      "summary": "HLV Michael Carrick tin Man Utd đủ tiềm năng hướng tới mùa giải đặc biệt, đồng thời để ngỏ tương lai Marcus Rashford và đánh giá cao tân binh Andrey Santos.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-14T09:36:03+07:00",
+      "fetched": "2026-08-14T17:48:55.676609+07:00"
+    },
+    {
+      "id": "5e3ab74b3c923679f0f0f54590b36b37",
+      "title": "Mưa lớn 'chưa từng thấy' làm tê liệt tỉnh miền đông Nhật Bản",
+      "link": "https://vnexpress.net/mua-lon-chua-tung-thay-lam-te-liet-tinh-mien-dong-nhat-ban-5109170.html",
+      "summary": "Trận mưa đổ xuống tỉnh Chiba khiến ít nhất 6 người chết, hàng nghìn người mắc kẹt ở sân bay Narita và gần 26.000 hộ gia đình mất điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T09:28:23+07:00",
+      "fetched": "2026-08-14T17:48:46.762487+07:00"
+    },
+    {
+      "id": "5e3ab74b3c923679f0f0f54590b36b37",
+      "title": "Mưa lớn 'chưa từng thấy' làm tê liệt tỉnh miền đông Nhật Bản",
+      "link": "https://vnexpress.net/mua-lon-chua-tung-thay-lam-te-liet-tinh-mien-dong-nhat-ban-5109170.html",
+      "summary": "Trận mưa đổ xuống tỉnh Chiba khiến ít nhất 6 người chết, hàng nghìn người mắc kẹt ở sân bay Narita và gần 26.000 hộ gia đình mất điện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-14T09:28:23+07:00",
+      "fetched": "2026-08-14T17:48:51.497298+07:00"
+    },
+    {
+      "id": "cc247b54bc551d8614f20a74524a4718",
+      "title": "TP HCM tham gia mạng lưới toàn cầu chống béo phì trẻ em",
+      "link": "https://vnexpress.net/tp-hcm-tham-gia-mang-luoi-toan-cau-chong-beo-phi-tre-em-5109144.html",
+      "summary": "TP HCM là thành phố đầu tiên Việt Nam và thứ 57 trên thế giới gia nhập mạng lưới Cities for Better Health hướng tới phòng ngừa thừa cân, béo phì ở trẻ em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T09:23:51+07:00",
+      "fetched": "2026-08-14T17:48:46.762663+07:00"
+    },
+    {
+      "id": "5505b3461c89daa79fcf45821b3f89e1",
+      "title": "'Ronaldo và vợ người mẫu ký hợp đồng tiền hôn nhân'",
+      "link": "https://vnexpress.net/ronaldo-va-vo-nguoi-mau-ky-hop-dong-tien-hon-nhan-5109205.html",
+      "summary": "Cầu thủ Ronaldo và người mẫu Georgina Rodriguez ký thỏa thuận tiền hôn nhân bao gồm việc phân định tài sản, giữ họ ban đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T09:23:26+07:00",
+      "fetched": "2026-08-14T17:48:46.762832+07:00"
+    },
+    {
+      "id": "392466c2727ede7df3c16a181d77cd95",
+      "title": "Swiatek vô địch, đáp trả chỉ trích tại Canada Mở rộng",
+      "link": "https://vnexpress.net/swiatek-vo-dich-dap-tra-chi-trich-tai-canada-mo-rong-5109128.html",
+      "summary": "Tay vợt Iga Swiatek hạ Elena Rybakina 6-2, 6-3 ở chung kết Canada Mở rộng, qua đó giành danh hiệu đầu tiên trong năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T09:19:22+07:00",
+      "fetched": "2026-08-14T17:48:46.762988+07:00"
+    },
+    {
+      "id": "392466c2727ede7df3c16a181d77cd95",
+      "title": "Swiatek vô địch, đáp trả chỉ trích tại Canada Mở rộng",
+      "link": "https://vnexpress.net/swiatek-vo-dich-dap-tra-chi-trich-tai-canada-mo-rong-5109128.html",
+      "summary": "Tay vợt Iga Swiatek hạ Elena Rybakina 6-2, 6-3 ở chung kết Canada Mở rộng, qua đó giành danh hiệu đầu tiên trong năm 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-14T09:19:22+07:00",
+      "fetched": "2026-08-14T17:48:55.677558+07:00"
+    },
+    {
+      "id": "abef00368a4315e68c6fa42095970681",
+      "title": "Đề Toán thi lại tốt nghiệp ở chuyên Tuyên Quang",
+      "link": "https://vnexpress.net/de-toan-thi-lai-tot-nghiep-thpt-chuyen-tuyen-quang-2026-5108902.html",
+      "summary": "Một số thí sinh căng thẳng rời trường chuyên Tuyên Quang sau bài thi môn Toán, đề gồm 22 câu với 4 câu yêu cầu chọn Đúng/Sai và 6 câu trả lời ngắn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T09:17:13+07:00",
+      "fetched": "2026-08-14T17:48:46.763141+07:00"
+    },
+    {
+      "id": "d885dda9b0c1c91acdb2919804751876",
+      "title": "Nhà máy quốc phòng Italy nổ tung như cầu lửa",
+      "link": "https://vnexpress.net/nha-may-quoc-phong-italy-no-tung-nhu-cau-lua-5109222.html",
+      "summary": "Đám cháy bùng phát tại khu vực ép thuốc phóng của nhà máy thuộc tập đoàn quốc phòng Pháp - Đức KNDS, sau đó phát nổ, tạo cột khói lớn bao trùm khu vực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T09:14:24+07:00",
+      "fetched": "2026-08-14T17:48:46.763301+07:00"
+    },
+    {
+      "id": "e3666a1c6e84402e6932225d00c6db98",
+      "title": "Dragon Capital: Sau mỗi đợt giảm sâu, chứng khoán thường phục hồi mạnh",
+      "link": "https://vnexpress.net/dragon-capital-sau-moi-dot-giam-sau-chung-khoan-thuong-phuc-hoi-manh-5109062.html",
+      "summary": "Quỹ đầu tư Dragon Capital chỉ ra trong hơn 20 năm, sau khi điều chỉnh sâu, chứng khoán thường có chu kỳ phục hồi mạnh, thậm chí vượt qua những đỉnh cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T09:13:48+07:00",
+      "fetched": "2026-08-14T17:48:46.763464+07:00"
+    },
+    {
+      "id": "e3666a1c6e84402e6932225d00c6db98",
+      "title": "Dragon Capital: Sau mỗi đợt giảm sâu, chứng khoán thường phục hồi mạnh",
+      "link": "https://vnexpress.net/dragon-capital-sau-moi-dot-giam-sau-chung-khoan-thuong-phuc-hoi-manh-5109062.html",
+      "summary": "Quỹ đầu tư Dragon Capital chỉ ra trong hơn 20 năm, sau khi điều chỉnh sâu, chứng khoán thường có chu kỳ phục hồi mạnh, thậm chí vượt qua những đỉnh cũ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-14T09:13:48+07:00",
+      "fetched": "2026-08-14T17:48:52.423791+07:00"
+    },
+    {
+      "id": "02499bd39a4552c9f1cdd27ebade7af3",
+      "title": "TP HCM muốn hỗ trợ tới một tỷ đồng mỗi sản phẩm du lịch đêm",
+      "link": "https://vnexpress.net/tp-hcm-muon-ho-tro-toi-mot-ty-dong-moi-san-pham-du-lich-dem-5109136.html",
+      "summary": "TP HCM đề xuất hỗ trợ tối đa 50% chi phí, không quá một tỷ đồng mỗi mô hình du lịch đêm, nhằm khuyến khích sản phẩm mới, tăng lưu trú và chi tiêu của du khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T09:00:48+07:00",
+      "fetched": "2026-08-14T17:48:46.763623+07:00"
+    },
+    {
+      "id": "6b25c6a901fa986bda5f9e1afaa6350f",
+      "title": "Lý do Sun World Ba Na Hills hút khách dịp Quốc khánh",
+      "link": "https://vnexpress.net/ly-do-sun-world-ba-na-hills-hut-khach-dip-quoc-khanh-5109209.html",
+      "summary": "Với lượng đặt vé tăng 132% so với cùng kỳ năm trước, theo Traveloka, Sun World Ba Na Hills thu hút du khách nghỉ lễ 2/9 nhờ loạt trải nghiệm nghệ thuật, ẩm thực và công nghệ mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T09:00:33+07:00",
+      "fetched": "2026-08-14T17:48:46.763817+07:00"
+    },
+    {
+      "id": "f4668109f766221efd5e3fd69cbea6d9",
+      "title": "Giảm 20 kg trong 45 ngày nhờ AI, người đàn ông suýt mất mạng",
+      "link": "https://vnexpress.net/giam-20-kg-trong-45-ngay-nho-ai-nguoi-dan-ong-suyt-mat-mang-5109058.html",
+      "summary": "Cố hoàn thành bài tập cường độ cao của AI trong lúc cảm cúm, bệnh nhân tại Thành Đô kiệt quệ hệ miễn dịch, suýt mất mạng do nhiễm trùng huyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T09:00:00+07:00",
+      "fetched": "2026-08-14T17:48:46.763976+07:00"
+    },
+    {
+      "id": "9259db5e26b0629355c4d6f77a870779",
+      "title": "Nguy cơ hỏng thận từ thói quen ăn lẩu sai cách",
+      "link": "https://vnexpress.net/nguy-co-hong-than-tu-thoi-quen-an-lau-sai-cach-5108787.html",
+      "summary": "Nước lẩu nấu lâu không gây ung thư nhưng chứa nhiều natri, chất béo và purin, người bệnh thận nên hạn chế ăn viên thả lẩu để tránh rủi ro sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T09:00:00+07:00",
+      "fetched": "2026-08-14T17:48:46.764130+07:00"
+    },
+    {
+      "id": "dee92b51047f6d9f5710945113190cd0",
+      "title": "Becamex được vinh danh 'Dấu ấn thương hiệu Việt hàng đầu'",
+      "link": "https://vnexpress.net/becamex-duoc-vinh-danh-dau-an-thuong-hieu-viet-hang-dau-5109221.html",
+      "summary": "Becamex được vinh danh \"Dấu ấn Thương hiệu Việt hàng đầu\" tại Made by Vietnam Day 2026, ghi nhận hành trình phát triển hệ sinh thái công nghiệp và định hướng tạo không gian tăng trưởng mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T09:00:00+07:00",
+      "fetched": "2026-08-14T17:48:46.764289+07:00"
+    },
+    {
+      "id": "b1758dd7d913dbe14ea7e7cfa4db5972",
+      "title": "C.P. Việt Nam mở rộng năng lực sản xuất thức ăn thủy sản",
+      "link": "https://vnexpress.net/c-p-viet-nam-mo-rong-nang-luc-san-xuat-thuc-an-thuy-san-5109211.html",
+      "summary": "C.P. Việt Nam khánh thành nhà máy sản xuất thức ăn thủy sản Cà Mau, vốn đầu tư 1.725 tỷ, công suất 124.800 tấn mỗi năm, tăng nguồn cung vùng Đồng bằng sông Cửu Long.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-14T09:00:00+07:00",
+      "fetched": "2026-08-14T17:48:52.425796+07:00"
     },
     {
       "id": "146de8096bd4ea2238d6717d9ab25f9d",
