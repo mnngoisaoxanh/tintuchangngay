@@ -1,7 +1,67 @@
 window.newsData_2026_08_15 = {
   "date": "2026-08-15",
-  "lastUpdated": "2026-08-15T05:12:23.582389+07:00",
+  "lastUpdated": "2026-08-15T07:39:12.616803+07:00",
   "articles": [
+    {
+      "id": "5a1750738248018bec15ca387ab4cace",
+      "title": "Tin tức sáng 15-8: TP.HCM lấy ý kiến về bồi thường, tái định cư khi thu hồi đất",
+      "link": "https://tuoitre.vn/tin-tuc-sang-15-8tphcm-lay-y-kien-ve-boi-thuong-tai-dinh-cu-khi-thu-hoi-dat-100260814230643959.htm",
+      "summary": "Tin tức đáng chú ý: TP.HCM lấy ý kiến về bồi thường, tái định cư khi thu hồi đất; TP.HCM chuẩn bị khởi công 10.000 căn nhà ở xã hội dịp Quốc khánh 2-9; Bộ Nội vụ yêu cầu hoàn thành rà soát biên chế với công chức...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:39:04.204431+07:00",
+      "fetched": "2026-08-15T07:39:04.204496+07:00"
+    },
+    {
+      "id": "a1efc77bf39167b5f70b4d005e16a6af",
+      "title": "Thời tiết hôm nay 15-8: Bắc Bộ mưa trở lại, Nam Bộ chiều mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-15-8-bac-bo-mua-tro-lai-nam-bo-chieu-mua-to-100260814162046456.htm",
+      "summary": "Hôm nay 15-8, thời tiết Bắc Bộ mưa trở lại sau đợt nắng nóng, Trung Bộ nắng nóng gay gắt, còn Nam Bộ chiều tối mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:39:04.204361+07:00",
+      "fetched": "2026-08-15T07:39:04.204420+07:00"
+    },
+    {
+      "id": "0333a88b1f51114f4f87a02662d1725d",
+      "title": "Ông Trump nói về vụ tàu sân bay USS Abraham Lincoln",
+      "link": "https://tuoitre.vn/ong-trump-no-ve-vu-tau-san-bay-uss-abraham-lincoln-100260815045834752.htm",
+      "summary": "Ông Trump bác bỏ những lo ngại về điều kiện sinh hoạt và sức khỏe tinh thần của thủy thủ trên tàu sân bay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:39:04.204289+07:00",
+      "fetched": "2026-08-15T07:39:04.204351+07:00"
+    },
+    {
+      "id": "619171de6a87f330cf08887ed022e69f",
+      "title": "Lịch trực tiếp ASEAN Cup 2026: Singapore đối đầu Thái Lan ở bán kết lượt đi",
+      "link": "https://tuoitre.vn/lich-truc-tiep-asean-cup-2026-singapore-doi-dau-thai-lan-o-ban-ket-luot-di-100260814161917683.htm",
+      "summary": "Lúc 20h hôm nay 15-8, tuyển Thái Lan sẽ đến làm khách trên sân của Singapore ở bán kết lượt đi AFF ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:39:04.204213+07:00",
+      "fetched": "2026-08-15T07:39:04.204278+07:00"
+    },
+    {
+      "id": "177024ab43fac5b5091e8f9b4be8425e",
+      "title": "FIFA mời đội từng thua Việt Nam 0-3 dự FIFA ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/fifa-moi-doi-tung-thua-viet-nam-0-3-du-fifa-asean-cup-2026-100260815054220772.htm",
+      "summary": "Liên đoàn Bóng đá thế giới (FIFA) đã quyết định mời đội tuyển Bangladesh dự FIFA ASEAN Cup 2026 thay thế cho Ấn Độ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:39:04.204108+07:00",
+      "fetched": "2026-08-15T07:39:04.204200+07:00"
+    },
+    {
+      "id": "c3cc347f2bcf96073fbec08702c712d1",
+      "title": "Dự đoán tỉ số ASEAN Cup: Singapore cắt đứt chuỗi trận 'hoàn hảo' của Thái Lan",
+      "link": "https://tuoitre.vn/du-doan-ti-so-asean-cup-singapore-cat-dut-chuoi-tran-hoan-hao-cua-thai-lan-100260813171507769.htm",
+      "summary": "20h ngày 15-8 (giờ Việt Nam) sẽ diễn ra trận bán kết lượt đi ASEAN Cup 2026, giữa đội chủ nhà Singapore và Thái Lan trên sân vận động Jalan Besar.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:39:04.203956+07:00",
+      "fetched": "2026-08-15T07:39:04.204093+07:00"
+    },
     {
       "id": "ef0d41a0aa3f063f60b0e6d1e79a1b57",
       "title": "Ứng phó trước nghi vấn gian lận xuất xứ từ 'mạng lưới ngầm' hàng xuất khẩu sang Mỹ ra sao?",
@@ -153,6 +213,236 @@ window.newsData_2026_08_15 = {
       "fetched": "2026-08-15T01:40:17.016329+07:00"
     },
     {
+      "id": "61476d548a36baf8de1b415570b71e5a",
+      "title": "Mỹ thừa nhận chiến dịch tập kích Houthi đã làm chết hơn 150 dân thường",
+      "link": "https://vnexpress.net/my-thua-nhan-chien-dich-tap-kich-houthi-da-lam-chet-hon-150-dan-thuong-5109242.html",
+      "summary": "Lầu Năm Góc ước tính các cuộc không kích do Mỹ tiến hành nhằm vào lực lượng Houthi hồi năm 2025 đã khiến 153 dân thường thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T00:19:39+07:00",
+      "fetched": "2026-08-15T07:38:59.000289+07:00"
+    },
+    {
+      "id": "f07df281a3d51790cabfd1ca7a66686e",
+      "title": "Sony ra Xperia 1 VIII, giá 39 triệu đồng",
+      "link": "https://vnexpress.net/sony-ra-xperia-1-viii-gia-39-trieu-dong-5109314.html",
+      "summary": "Sony Xperia 1 VIII cải tiến thiết kế, nâng cấp ống kính tele, thêm trợ lý AI dành cho nhiếp ảnh và được bán với giá 39 triệu đồng",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T00:07:13+07:00",
+      "fetched": "2026-08-15T07:38:59.000476+07:00"
+    },
+    {
+      "id": "f07df281a3d51790cabfd1ca7a66686e",
+      "title": "Sony ra Xperia 1 VIII, giá 39 triệu đồng",
+      "link": "https://vnexpress.net/sony-ra-xperia-1-viii-gia-39-trieu-dong-5109314.html",
+      "summary": "Sony Xperia 1 VIII cải tiến thiết kế, nâng cấp ống kính tele, thêm trợ lý AI dành cho nhiếp ảnh và được bán với giá 39 triệu đồng",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-15T00:07:13+07:00",
+      "fetched": "2026-08-15T07:39:10.742225+07:00"
+    },
+    {
+      "id": "f84000d81e5ebd4e807e6f3aadbc9ff4",
+      "title": "Ông Trump: 'Eo biển Hormuz sẽ sớm là lãnh thổ Mỹ'",
+      "link": "https://vnexpress.net/ong-trump-eo-bien-hormuz-se-som-la-lanh-tho-my-5109324.html",
+      "summary": "Tổng thống Trump cho biết ông sẽ sớm tuyên bố eo biển Hormuz là \"một phần lãnh thổ Mỹ\" sau khi đánh bại Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T00:03:02+07:00",
+      "fetched": "2026-08-15T07:38:59.000646+07:00"
+    },
+    {
+      "id": "f84000d81e5ebd4e807e6f3aadbc9ff4",
+      "title": "Ông Trump: 'Eo biển Hormuz sẽ sớm là lãnh thổ Mỹ'",
+      "link": "https://vnexpress.net/ong-trump-eo-bien-hormuz-se-som-la-lanh-tho-my-5109324.html",
+      "summary": "Tổng thống Trump cho biết ông sẽ sớm tuyên bố eo biển Hormuz là \"một phần lãnh thổ Mỹ\" sau khi đánh bại Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-15T00:03:02+07:00",
+      "fetched": "2026-08-15T07:39:05.332787+07:00"
+    },
+    {
+      "id": "10d6a68a37ce1ec625075986e80abda7",
+      "title": "Simeone: 'HLV thích chơi tấn công thử cầm đội khác xem thế nào'",
+      "link": "https://vnexpress.net/simeone-hlv-thich-choi-tan-cong-thu-cam-doi-khac-xem-the-nao-5108871.html",
+      "summary": "Chuẩn bị bước vào mùa giải thứ 16 trên ghế huấn luyện Atletico Madrid, HLV Diego Simeone đã mở lòng trên báo Pháp France Football về triết lý bóng đá, phương pháp quản trị cũng như những đòi hỏi của ông cho các học trò để vượt qua giới hạn bản thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T00:00:00+07:00",
+      "fetched": "2026-08-15T07:38:59.000817+07:00"
+    },
+    {
+      "id": "67171fde6e7581e4019ce1305ccea365",
+      "title": "Quán bánh bèo 30 năm bên bờ biển Mỹ Khê",
+      "link": "https://vnexpress.net/quan-banh-beo-30-nam-ben-bo-bien-my-khe-5108150.html",
+      "summary": "Từ một gánh hàng rong, bà Võ Thị Lợi dần gây dựng thành quán bánh bèo lớn, nhờ bí kíp làm nước lèo và hơn 30 năm tận tụy với nghề.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T00:00:00+07:00",
+      "fetched": "2026-08-15T07:38:59.000983+07:00"
+    },
+    {
+      "id": "c67348e25e864c752fbf3f81400cc555",
+      "title": "Em bé chạy ngang đường suýt lọt vào gầm xe tải",
+      "link": "https://vnexpress.net/em-be-chay-ngang-duong-suyt-lot-vao-gam-xe-tai-5109056.html",
+      "summary": "Em bé chạy vọt ngang đường khi xe tải lớn đi tới, may mắn không bị lọt vào gầm xe, hôm 13/8 tại Yên Châu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T00:00:00+07:00",
+      "fetched": "2026-08-15T07:38:59.001142+07:00"
+    },
+    {
+      "id": "10d6a68a37ce1ec625075986e80abda7",
+      "title": "Simeone: 'HLV thích chơi tấn công thử cầm đội khác xem thế nào'",
+      "link": "https://vnexpress.net/simeone-hlv-thich-choi-tan-cong-thu-cam-doi-khac-xem-the-nao-5108871.html",
+      "summary": "Chuẩn bị bước vào mùa giải thứ 16 trên ghế huấn luyện Atletico Madrid, HLV Diego Simeone đã mở lòng trên báo Pháp France Football về triết lý bóng đá, phương pháp quản trị cũng như những đòi hỏi của ông cho các học trò để vượt qua giới hạn bản thân.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-15T00:00:00+07:00",
+      "fetched": "2026-08-15T07:39:12.611671+07:00"
+    },
+    {
+      "id": "397d7e67f58c043ee97e4556b9a08f9c",
+      "title": "Cầu thủ tuổi teen, nặng 100 kg, ghi bàn vào lưới PSG là ai?",
+      "link": "https://vnexpress.net/cau-thu-tuoi-teen-nang-100-kg-ghi-ban-vao-luoi-psg-la-ai-5108980.html",
+      "summary": "Brian Madjo của Aston Villa vụt sáng sau một đêm nhờ màn trình diễn ấn tượng và bàn thắng trước ĐKVĐ Champions League, ở trận tranh Siêu Cup châu Âu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:36:52+07:00",
+      "fetched": "2026-08-15T07:38:59.001329+07:00"
+    },
+    {
+      "id": "397d7e67f58c043ee97e4556b9a08f9c",
+      "title": "Cầu thủ tuổi teen, nặng 100 kg, ghi bàn vào lưới PSG là ai?",
+      "link": "https://vnexpress.net/cau-thu-tuoi-teen-nang-100-kg-ghi-ban-vao-luoi-psg-la-ai-5108980.html",
+      "summary": "Brian Madjo của Aston Villa vụt sáng sau một đêm nhờ màn trình diễn ấn tượng và bàn thắng trước ĐKVĐ Champions League, ở trận tranh Siêu Cup châu Âu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-14T23:36:52+07:00",
+      "fetched": "2026-08-15T07:39:12.612372+07:00"
+    },
+    {
+      "id": "556a873f5f19f69abc57c67fdf04e9e9",
+      "title": "Vé trận Singapore gặp Thái Lan tăng giá 30 lần",
+      "link": "https://vnexpress.net/ve-tran-singapore-gap-thai-lan-tang-gia-30-lan-5109322.html",
+      "summary": "Vé trận Singapore gặp Thái Lan ở lượt đi bán kết ASEAN Cup 2026 được bán hết nhanh chóng, trở thành một hiện tượng gây tranh cãi tại đảo quốc sư tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:31:41+07:00",
+      "fetched": "2026-08-15T07:38:59.001497+07:00"
+    },
+    {
+      "id": "556a873f5f19f69abc57c67fdf04e9e9",
+      "title": "Vé trận Singapore gặp Thái Lan tăng giá 30 lần",
+      "link": "https://vnexpress.net/ve-tran-singapore-gap-thai-lan-tang-gia-30-lan-5109322.html",
+      "summary": "Vé trận Singapore gặp Thái Lan ở lượt đi bán kết ASEAN Cup 2026 được bán hết nhanh chóng, trở thành một hiện tượng gây tranh cãi tại đảo quốc sư tử.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-14T23:31:41+07:00",
+      "fetched": "2026-08-15T07:39:12.611854+07:00"
+    },
+    {
+      "id": "e7b5556c799971710e825476ccc28c58",
+      "title": "Người Việt và 'cú sốc' ngày chủ nhật ở Đức",
+      "link": "https://vnexpress.net/nguoi-viet-va-cu-soc-ngay-chu-nhat-o-duc-5106093.html",
+      "summary": "Siêu thị đóng cửa, đường phố vắng lặng và luật cấm tiếng ồn (luật Ruhetag) vào chủ nhật ở Đức khiến nhiều người Việt vất vả học cách thích nghi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:30:00+07:00",
+      "fetched": "2026-08-15T07:38:59.001663+07:00"
+    },
+    {
+      "id": "b3a6cfd8b5f72542d23452d4e92e3c67",
+      "title": "Robotaxi của Nissan có thể chạy thử vào cuối năm",
+      "link": "https://vnexpress.net/robotaxi-cua-nissan-co-the-chay-thu-vao-cuoi-nam-5109103.html",
+      "summary": "Uber dự kiến vận hành thử nghiệm taxi tự lái của Nissan tại Tokyo từ cuối năm, có tài xế dự phòng trên xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:30:00+07:00",
+      "fetched": "2026-08-15T07:38:59.001820+07:00"
+    },
+    {
+      "id": "ff41c598602a3f1f0cea5f8d4b38111d",
+      "title": "Apple tìm cách giảm mức tăng giá iPhone 18 Pro",
+      "link": "https://vnexpress.net/apple-tim-cach-giam-muc-tang-gia-iphone-18-pro-5108917.html",
+      "summary": "Apple được cho là đang nỗ lực giảm mức tăng giá iPhone 18 Pro bằng cách sử dụng tấm nền OLED cũ và tăng kho trữ linh kiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:15:00+07:00",
+      "fetched": "2026-08-15T07:38:59.001986+07:00"
+    },
+    {
+      "id": "ff41c598602a3f1f0cea5f8d4b38111d",
+      "title": "Apple tìm cách giảm mức tăng giá iPhone 18 Pro",
+      "link": "https://vnexpress.net/apple-tim-cach-giam-muc-tang-gia-iphone-18-pro-5108917.html",
+      "summary": "Apple được cho là đang nỗ lực giảm mức tăng giá iPhone 18 Pro bằng cách sử dụng tấm nền OLED cũ và tăng kho trữ linh kiện.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-14T23:15:00+07:00",
+      "fetched": "2026-08-15T07:39:10.741854+07:00"
+    },
+    {
+      "id": "df82b0aa40381dd652981790dcb0ac1a",
+      "title": "Động đất 7,7 độ gây cảnh báo sóng thần ngoài khơi Indonesia",
+      "link": "https://vnexpress.net/dong-dat-7-7-do-gay-canh-bao-song-than-ngoai-khoi-indonesia-5109323.html",
+      "summary": "Trận động đất mạnh 7,7 độ xảy ra tại vùng biển ngoài khơi khu vực Flores, khiến Indonesia phát cảnh báo sớm về sóng thần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:03:05+07:00",
+      "fetched": "2026-08-15T07:38:59.002173+07:00"
+    },
+    {
+      "id": "df82b0aa40381dd652981790dcb0ac1a",
+      "title": "Động đất 7,7 độ gây cảnh báo sóng thần ngoài khơi Indonesia",
+      "link": "https://vnexpress.net/dong-dat-7-7-do-gay-canh-bao-song-than-ngoai-khoi-indonesia-5109323.html",
+      "summary": "Trận động đất mạnh 7,7 độ xảy ra tại vùng biển ngoài khơi khu vực Flores, khiến Indonesia phát cảnh báo sớm về sóng thần.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-14T23:03:05+07:00",
+      "fetched": "2026-08-15T07:39:05.332965+07:00"
+    },
+    {
+      "id": "6ec1f0210868a7c287d69f69e85a008e",
+      "title": "Sân bay ứng phó thế nào khi UAV xâm nhập?",
+      "link": "https://vnexpress.net/san-bay-ung-pho-the-nao-khi-uav-xam-nhap-5109288.html",
+      "summary": "Quanh mỗi sân bay đều có vùng cấm, hạn chế bay theo khoảng cách và độ cao cụ thể, khi UAV xâm nhập, quy trình ứng phó nhiều bước lập tức được kích hoạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:00:00+07:00",
+      "fetched": "2026-08-15T07:38:59.002339+07:00"
+    },
+    {
+      "id": "1078fb81a6a23f367dfd00ac8c724742",
+      "title": "Trung tướng Trần Văn Độ: Cần chia sẻ nghĩa vụ quân sự",
+      "link": "https://vnexpress.net/trung-tuong-tran-van-do-can-chia-se-nghia-vu-quan-su-5109026.html",
+      "summary": "Trung tướng Trần Văn Độ cho rằng người chưa được tuyển chọn hoặc chưa thể phục vụ tại ngũ cần thực hiện nghĩa vụ quân sự bằng hình thức khác, trong đó có đóng góp tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:00:00+07:00",
+      "fetched": "2026-08-15T07:38:59.002517+07:00"
+    },
+    {
+      "id": "82f03540408ce97a3860dbf8203a9eb7",
+      "title": "Đường tránh xuyên đồng lúa ở vùng biên An Giang",
+      "link": "https://vnexpress.net/duong-tranh-xuyen-dong-lua-o-vung-bien-an-giang-5108568.html",
+      "summary": "Tuyến tránh Tri Tôn dài khoảng 4,3 km, có đoạn hình vòng cung băng qua cánh đồng lúa là công trình trọng điểm an ninh - quốc phòng khu vực biên giới An Giang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T23:00:00+07:00",
+      "fetched": "2026-08-15T07:38:59.002677+07:00"
+    },
+    {
+      "id": "b1cbbd7f27f67229bb4d654b5df2bc24",
+      "title": "Thủy thủ trên tàu sân bay Mỹ than phiền về tình trạng thiếu sữa, thịt ôi thiu",
+      "link": "https://vnexpress.net/thuy-thu-tren-tau-san-bay-my-than-phien-ve-tinh-trang-thieu-sua-thit-oi-thiu-5109078.html",
+      "summary": "Thủy thủ trên tàu USS Abraham Lincoln nhắn tin về cho người thân cho biết đã ba tháng không có sữa uống còn thịt vận chuyển đến bị ôi thiu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-14T22:40:01+07:00",
+      "fetched": "2026-08-15T07:39:05.333131+07:00"
+    },
+    {
       "id": "8e657791000b73f2dcd119bcdeff1502",
       "title": "Đề xuất không buộc người dân 'nộp đi nộp lại' một loại giấy tờ khi dữ liệu đã liên thông",
       "link": "https://vnexpress.net/de-xuat-khong-buoc-nguoi-dan-nop-di-nop-lai-mot-loai-giay-to-khi-du-lieu-da-lien-thong-5109233.html",
@@ -281,6 +571,16 @@ window.newsData_2026_08_15 = {
       "category": "Kinh doanh",
       "published": "2026-08-14T17:05:00+07:00",
       "fetched": "2026-08-15T01:40:19.854095+07:00"
+    },
+    {
+      "id": "abd53f3a48ebf00674db4f4f2e7a65a3",
+      "title": "Các tập đoàn công nghệ Trung Quốc ngày càng đáng gờm",
+      "link": "https://vnexpress.net/cac-tap-doan-cong-nghe-trung-quoc-ngay-cang-dang-gom-5109240.html",
+      "summary": "Từ pin xe điện đến AI, doanh nghiệp Trung Quốc đang chuyển từ nhà cung ứng giá rẻ thành đối tác công nghệ khó thay thế của các tập đoàn toàn cầu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-14T17:05:00+07:00",
+      "fetched": "2026-08-15T07:39:07.259753+07:00"
     },
     {
       "id": "aa47994d09399ed96c6150bccc099c4e",
