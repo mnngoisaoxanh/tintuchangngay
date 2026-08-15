@@ -1,7 +1,157 @@
 window.newsData_2026_08_15 = {
   "date": "2026-08-15",
-  "lastUpdated": "2026-08-15T19:18:08.122220+07:00",
+  "lastUpdated": "2026-08-15T21:12:40.544014+07:00",
   "articles": [
+    {
+      "id": "a10601d71bb6613b2ffec08fc790ae8c",
+      "title": "Wi-Fi trên máy bay Việt Nam sắp bước vào cuộc đua mới với vệ tinh Starlink?",
+      "link": "https://tuoitre.vn/wifi-tren-may-bay-viet-nam-sap-buoc-vao-cuoc-dua-moi-voi-ve-tinh-starlink-100260815184651734.htm",
+      "summary": "Vietjet rót thêm 250 tỉ đồng cho hệ thống Internet vệ tinh Starlink, trong khi Vietnam Airlines đang bán Wi-Fi tới 25 USD/chuyến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T21:12:34.103847+07:00",
+      "fetched": "2026-08-15T21:12:34.103902+07:00"
+    },
+    {
+      "id": "358bc3a653ffbf1b5b9322247e249b94",
+      "title": "Xe điện như xe tải van mini, không cần sạc vẫn đủ dùng, 'ổ cắm di động' cho thiết bị điện",
+      "link": "https://tuoitre.vn/xe-dien-nhu-xe-tai-van-mini-khong-can-sac-van-du-dung-o-cam-di-dong-cho-thiet-bi-dien-100260815110005553.htm",
+      "summary": "GoSun Gopher được giới thiệu là xe đa dụng kết hợp giữa xe đạp điện, xe tải van mini và nguồn điện di động, có thể đi tối đa khoảng 56km mỗi lần sạc và tăng thêm quãng đường nhờ các tấm pin mặt trời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T21:12:34.103773+07:00",
+      "fetched": "2026-08-15T21:12:34.103837+07:00"
+    },
+    {
+      "id": "ccf822228c51365cdab2852497c927a8",
+      "title": "Hà Nội có Trạm Cảnh sát thông minh hỗ trợ trình báo, gọi SOS 24/7",
+      "link": "https://tuoitre.vn/ha-noi-co-tram-canh-sat-thong-minh-ho-tro-trinh-bao-goi-sos-24-7-10026081518511693.htm",
+      "summary": "Trạm Cảnh sát thông minh đầu tiên tại Hà Nội hoạt động 24/7, hỗ trợ trình báo, gọi SOS, cảnh báo tội phạm và tra cứu pháp luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T21:12:34.103481+07:00",
+      "fetched": "2026-08-15T21:12:34.103757+07:00"
+    },
+    {
+      "id": "8150fbd7732dc97e6a85f98d9c7430bb",
+      "title": "Bác sĩ Trung Quốc gây sốc giới toán học khi dùng ChatGPT giải bài toán tồn tại hàng thập kỷ",
+      "link": "https://tuoitre.vn/bac-si-trung-quoc-gay-soc-gioi-toan-hoc-khi-dung-chatgpt-giai-bai-toan-ton-tai-hang-thap-ky-100260815185842341.htm",
+      "summary": "Bác sĩ phẫu thuật thần kinh ở Trung Quốc chứng minh thành công giả thuyết toán học Crouzeix nhờ ChatGPT.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T21:12:34.103439+07:00",
+      "fetched": "2026-08-15T21:12:34.103475+07:00"
+    },
+    {
+      "id": "b5470a51f85cb564ac0fb3a4a3d6198a",
+      "title": "Phó thủ tướng Phạm Gia Túc: Quảng Ngãi đặt mục tiêu phấn đấu cao hơn, tăng trưởng trên 10%",
+      "link": "https://tuoitre.vn/pho-thu-tuong-pham-gia-tuc-quang-ngai-dat-muc-tieu-phan-dau-cao-hon-tang-truong-tren-10-100260815183849397.htm",
+      "summary": "Phó thủ tướng thường trực Phạm Gia Túc cho rằng tỉnh Quảng Ngãi cần mạnh dạn đặt mục tiêu cao hơn, hướng đến tăng trưởng trên 10%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T21:12:34.103394+07:00",
+      "fetched": "2026-08-15T21:12:34.103432+07:00"
+    },
+    {
+      "id": "bc4994f32fb991153eef5631ce291573",
+      "title": "Huấn Hoa Hồng cùng vợ bán nước hoa hơn 300 tỉ nhưng để ngoài sổ sách",
+      "link": "https://tuoitre.vn/huan-hoa-hong-cung-vo-ban-nuoc-hoa-hon-300-ti-nhung-de-ngoai-so-sach-100260815181410286.htm",
+      "summary": "Huấn Hoa Hồng cùng vợ bị cáo buộc bán nước hoa hơn 300 tỉ đồng nhưng để ngoài sổ sách, gây thiệt hại ngân sách. Riêng Huấn bị xác định chiếm đoạt hơn 3 tỉ đồng của nhiều người thông qua hoạt động kêu gọi từ thiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T21:12:34.103349+07:00",
+      "fetched": "2026-08-15T21:12:34.103387+07:00"
+    },
+    {
+      "id": "dddac3105d9574ef2c01db4845e72b85",
+      "title": "NÓNG: Động đất 6,9 độ ở Indonesia, trận thứ hai trong một ngày",
+      "link": "https://tuoitre.vn/nong-dong-dat-69-do-o-indonesia-tran-thu-hai-trong-mot-ngay-100260815184247516.htm",
+      "summary": "Trận động đất mạnh 6,9 độ xảy ra sau khi trận động đất 7,7 độ ngoài khơi đảo Flores của Indonesia khiến ít nhất 40 người chết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T21:12:34.103286+07:00",
+      "fetched": "2026-08-15T21:12:34.103340+07:00"
+    },
+    {
+      "id": "5813b5b98a31fe3b921b6e6443406e9b",
+      "title": "Thanh tra 618 cuộc từ đầu năm đến nay, Ngân hàng Nhà nước chỉ ra điều gì?",
+      "link": "https://tuoitre.vn/thanh-tra-618-cuoc-tu-dau-nam-den-nay-ngan-hang-nha-nuoc-chi-ra-dieu-gi-100260815191439626.htm",
+      "summary": "Ngân hàng Nhà nước cho biết có một số dấu hiệu lợi dụng kẽ hở, né tránh quy định về giới hạn sở hữu cổ phần và né quy định về giới hạn cấp tín dụng đối với một khách hàng và người có liên quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T21:12:34.103243+07:00",
+      "fetched": "2026-08-15T21:12:34.103279+07:00"
+    },
+    {
+      "id": "5e69999c67b87d0641f58240af0a8c56",
+      "title": "Việt Nam áp đảo tại Giải cờ vua Đông Nam Á 2026",
+      "link": "https://tuoitre.vn/viet-nam-ap-dao-tai-giai-co-vua-dong-nam-a-2026-100260815190113029.htm",
+      "summary": "Tối 15-8, ngày thi đấu cuối cùng của nội dung cờ nhanh tại Giải cờ vua Đông Nam Á 2026 tiếp tục chứng kiến màn trình diễn xuất sắc từ các kỳ thủ trẻ Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T21:12:34.103200+07:00",
+      "fetched": "2026-08-15T21:12:34.103237+07:00"
+    },
+    {
+      "id": "8859525c7cd3d00b1dff01281e5dafe1",
+      "title": "Bánh trung thu xuống phố, hầu hết tăng giá",
+      "link": "https://tuoitre.vn/banh-trung-thu-xuong-pho-hau-het-tang-gia-100260815190717087.htm",
+      "summary": "Nhiều thương hiệu lớn như Bibica, Kinh Đô, Đồng Khánh… đã tung ra thị trường lượng lớn bánh trung thu năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T21:12:34.103158+07:00",
+      "fetched": "2026-08-15T21:12:34.103194+07:00"
+    },
+    {
+      "id": "ac33918beaa1a268f4cdd8c93a1fcb81",
+      "title": "Cần Thơ cho học sinh tựu trường từ 22 đến 29-8, nghỉ Tết nguyên đán 10 ngày",
+      "link": "https://tuoitre.vn/can-tho-cho-hoc-sinh-tuu-truong-tu-22-den-29-8-nghi-tet-nguyen-dan-10-ngay-100260815171111537.htm",
+      "summary": "Các trường mầm non, phổ thông và giáo dục thường xuyên tại Cần Thơ sẽ tựu trường từ ngày 24 đến 29-8, riêng lớp 9 và lớp 12 từ ngày 22-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T21:12:34.103114+07:00",
+      "fetched": "2026-08-15T21:12:34.103152+07:00"
+    },
+    {
+      "id": "97f4e470f8b846b32c7b6cfd7a48e0d1",
+      "title": "El Nino khả năng duy trì cường độ mạnh đến rất mạnh, mùa mưa sẽ kết thúc sớm ở miền Nam",
+      "link": "https://tuoitre.vn/el-nino-kha-nang-duy-tri-cuong-do-manh-den-rat-manh-mua-mua-se-ket-thuc-som-o-mien-nam-100260815170034503.htm",
+      "summary": "Dự báo El Nino sẽ duy trì cường độ mạnh đến rất mạnh đến ít nhất tháng 2-2027, do đó nguy cơ thiếu hụt mưa ở các tỉnh miền Trung trong các tháng chính mùa mưa. Tây Nguyên và Nam Bộ mùa mưa kết thúc sớm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T21:12:34.103068+07:00",
+      "fetched": "2026-08-15T21:12:34.103108+07:00"
+    },
+    {
+      "id": "8c83306c4861af4c5ba12d1bc8227fa1",
+      "title": "Ngay trong ngày, hỗ trợ 115 triệu đồng 5 hộ ngư dân có tàu bị cháy",
+      "link": "https://tuoitre.vn/ngay-trong-ngay-ho-tro-115-trieu-dong-5-ho-ngu-dan-co-tau-bi-chay-100260815190441842.htm",
+      "summary": "Chính quyền địa phương và các đoàn thể đã trao tiền hỗ trợ, động viên 5 gia đình ngư dân Nghệ An có tàu cháy khắc phục khó khăn trước mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T21:12:34.103014+07:00",
+      "fetched": "2026-08-15T21:12:34.103061+07:00"
+    },
+    {
+      "id": "40faadffa5125094edd24a11e4016807",
+      "title": "Nhiều nơi ở Vĩnh Long sẽ bị ngập sâu trong đợt triều cường đầu tháng 9",
+      "link": "https://tuoitre.vn/nhieu-noi-o-vinh-long-se-bi-ngap-sau-trong-dot-trieu-cuong-dau-thang-9-100260815193516515.htm",
+      "summary": "Dự báo từ đầu tháng 9, tại Vĩnh Long xuất hiện triều cường, gây ngập khá sâu nhiều nơi, tác động xấu đến môi trường, ảnh hưởng đến sinh hoạt, đi lại của người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T21:12:34.102958+07:00",
+      "fetched": "2026-08-15T21:12:34.103007+07:00"
+    },
+    {
+      "id": "fb522e06d4ca413876b51496aa443271",
+      "title": "'Xe bay' cá nhân chạy điện, dự kiến giá rẻ dễ mua",
+      "link": "https://tuoitre.vn/xe-bay-ca-nhan-chay-dien-du-kien-gia-re-de-mua-100260814164349431.htm",
+      "summary": "Một người Ấn Độ công bố thử nghiệm thành công nguyên mẫu 'xe bay' sử dụng công nghệ drone cải tiến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T21:12:34.102821+07:00",
+      "fetched": "2026-08-15T21:12:34.102948+07:00"
+    },
     {
       "id": "b28ffafbb5311ecdc3a23fe2bb79360a",
       "title": "Bắc Bộ và Bắc Trung Bộ sắp mưa lớn diện rộng, có nơi trên 450mm",
@@ -453,6 +603,106 @@ window.newsData_2026_08_15 = {
       "fetched": "2026-08-15T15:15:10.824966+07:00"
     },
     {
+      "id": "2b8cd9ed9a37894c83e6aaff11299148",
+      "title": "Thanh Ngọc gợi cảm ở tuổi 43, tiết lộ về mối quan hệ với Đinh Tiến Đạt",
+      "link": "https://thanhnien.vn/thanh-ngoc-goi-cam-o-tuoi-43-tiet-lo-ve-moi-quan-he-voi-dinh-tien-dat-185260815204034882.htm",
+      "summary": "Là những người bạn thân thiết trong nghề, Thanh Ngọc và Đinh Tiến Đạt gây chú ý khi kết hợp cùng nhau trong một dự án âm nhạc mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T14:07:00+07:00",
+      "fetched": "2026-08-15T21:12:32.804937+07:00"
+    },
+    {
+      "id": "2fb79a8537c5749f42b2abbf8c289913",
+      "title": "Cận cảnh mặt cỏ lá gừng ở sân Kuala Lumpur, đội tuyển Việt Nam có gì phải lưu ý?",
+      "link": "https://thanhnien.vn/can-canh-mat-co-la-gung-o-san-kuala-lumpur-doi-tuyen-viet-nam-co-gi-phai-luu-y-185260815205236048.htm",
+      "summary": "Chiều 15.8, đội tuyển Việt Nam có buổi tập làm quen sân Kuala Lumpur, nơi diễn ra trận bán kết lượt đi ASEAN Cup 2026 với Malaysia. Mặt cỏ lá gừng tại đây có nhiều điểm khác biệt so với cỏ lá kim ở sân Mỹ Đình, khiến HLV Kim Sang-sik và ban huấn luyện phải dành sự quan tâm đặc biệt trong quá trình c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T14:06:00+07:00",
+      "fetched": "2026-08-15T21:12:32.805057+07:00"
+    },
+    {
+      "id": "9f5ce9535141cb4f96a1b3fad755653f",
+      "title": "Ý nghĩa tinh thần ngoại giao từ những tân khoa đầu tiên của ĐH Mỹ ở VN",
+      "link": "https://thanhnien.vn/y-nghia-tinh-than-ngoai-giao-tu-nhung-tan-khoa-dau-tien-cua-dh-my-o-vn-185260815202618993.htm",
+      "summary": "Nhiều người vẫn nghĩ ngoại giao là điều chỉ diễn ra giữa các chính phủ, tuy nhiên ngày nay những 'cây cầu' có ý nghĩa sâu sắc nhất lại được xây dựng ngay trong lớp học, chỗ làm và cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T14:06:00+07:00",
+      "fetched": "2026-08-15T21:12:32.805162+07:00"
+    },
+    {
+      "id": "8023909841229862c62a292f7d3ecd3a",
+      "title": "Lộ diện ‘nàng thơ mới’ của đạo diễn Hàm Trần",
+      "link": "https://thanhnien.vn/lo-dien-nang-tho-moi-cua-dao-dien-ham-tran-185260815184952646.htm",
+      "summary": "Trong phim 'Sợi chỉ đỏ' ra mắt cuối năm nay, đạo diễn Hàm Trần giới thiệu một gương mặt hoàn toàn mới: Loube Nguyễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T14:04:00+07:00",
+      "fetched": "2026-08-15T21:12:32.805260+07:00"
+    },
+    {
+      "id": "646c24ecbb18ab3da9002d85f4037782",
+      "title": "Thiên tai hoành hành ở Trung Quốc, ông Tập Cận Bình lên tiếng",
+      "link": "https://thanhnien.vn/thien-tai-hoanh-hanh-o-trung-quoc-ong-tap-can-binh-len-tieng-185260815204106079.htm",
+      "summary": "Chủ tịch nước Trung Quốc Tập Cận Bình kêu gọi nâng cao năng lực phòng ngừa, giảm nhẹ và ứng phó thiên tai, theo sau những đợt lũ lụt và sạt lở gây thương vong nghiêm trọng trong hè này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T14:03:00+07:00",
+      "fetched": "2026-08-15T21:12:32.805387+07:00"
+    },
+    {
+      "id": "3ce4da6a724ad23958eab46fb17a71e5",
+      "title": "Trẻ hóa da hiện đại: Vì sao cần chăm sóc da trước, trong và sau thủ thuật?",
+      "link": "https://thanhnien.vn/tre-hoa-da-hien-dai-vi-sao-can-cham-soc-da-truoc-trong-va-sau-thu-thuat-185260815204433028.htm",
+      "summary": "Tại hội thảo SkinCeuticals Master Physician Vietnam 2026, ThS.BS CKII Nguyễn Phương Thảo (Pensilia Clinic) trình bày mô hình 3 giai đoạn: trước, trong và sau điều trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T13:52:00+07:00",
+      "fetched": "2026-08-15T21:12:32.805494+07:00"
+    },
+    {
+      "id": "3cd00bcbba5be191db7078a51d18b545",
+      "title": "Malaysia chỉ có 16 cầu thủ tập chờ đấu Việt Nam",
+      "link": "https://vnexpress.net/malaysia-chi-co-16-cau-thu-tap-cho-dau-viet-nam-5109552.html",
+      "summary": "Bão chấn thương khiến Malaysia chỉ còn 16 cầu thủ lành lặn tập luyện chiều 15/8, chuẩn bị cho lượt đi bán kết ASEAN Cup 2026 với Việt Nam.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-15T13:49:30+07:00",
+      "fetched": "2026-08-15T21:12:40.534844+07:00"
+    },
+    {
+      "id": "37cf2b10e68473137e232093973fc51e",
+      "title": "Nữ MC Việt diện áo dài dẫn sự kiện tại Australia là ai?",
+      "link": "https://thanhnien.vn/nu-mc-viet-dien-ao-dai-dan-su-kien-tai-australia-la-ai-185260815200329088.htm",
+      "summary": "Đảm nhận vai trò MC tại một sự kiện ở Australia, Thu Nga chọn áo dài họa tiết hoa sen, tôn nét duyên dáng và vẻ đẹp thanh lịch của người phụ nữ Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T13:42:00+07:00",
+      "fetched": "2026-08-15T21:12:32.805591+07:00"
+    },
+    {
+      "id": "c9ebb65c9db9b5d0ac043e80ee2cf0d2",
+      "title": "Dàn sao phim 'Troy' ngày ấy - bây giờ",
+      "link": "https://vnexpress.net/dan-sao-phim-troy-ngay-ay-bay-gio-5108306.html",
+      "summary": "Brad Pitt thuộc nhóm ngôi sao được săn đón nhất Hollywood, còn Eric Bana ít xuất hiện trong các dự án bom tấn sau 22 năm đóng \"Troy\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T13:36:13+07:00",
+      "fetched": "2026-08-15T21:12:30.196556+07:00"
+    },
+    {
+      "id": "d541077599ea420c7775e47f1ea7a8fd",
+      "title": "Máy bay riêng của ông Trump chở theo đồ ăn gì?",
+      "link": "https://thanhnien.vn/may-bay-rieng-cua-ong-trump-cho-theo-do-an-gi-18526081520021745.htm",
+      "summary": "Tổng thống Mỹ Donald Trump có thói quen 'chất đầy' máy bay riêng bằng những hộp thức ăn nhanh, bất chấp chế độ ăn này đi ngược lại kế hoạch 'Làm cho nước Mỹ khỏe mạnh trở lại', theo Bộ trưởng Y tế Robert F. Kennedy Jr.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T13:30:00+07:00",
+      "fetched": "2026-08-15T21:12:32.805687+07:00"
+    },
+    {
       "id": "17737e174250322457094b67118cfc56",
       "title": "Tự doanh công ty chứng khoán đảo chiều mua ròng gần 1.100 tỉ đồng sau tuần bán kỷ lục",
       "link": "https://tuoitre.vn/tu-doanh-cong-ty-chung-khoan-dao-chieu-mua-rong-gan-1100-ti-dong-sau-tuan-ban-ky-luc-100260815100607523.htm",
@@ -603,6 +853,206 @@ window.newsData_2026_08_15 = {
       "fetched": "2026-08-15T13:20:12.533594+07:00"
     },
     {
+      "id": "094bbbb661b7ddb9cc22d4935d256d49",
+      "title": "Kết quả xổ số Vietlott Power 6/55 tối 15.8, giải độc đắc tăng 32,3 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-power-6-55-toi-158-giai-doc-dac-tang-323-ti-dong-185260815190807654.htm",
+      "summary": "Tối 15.8, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55 và ghi nhận  không có người trúng độc đắc nên số tiền cộng dồn là 32,3 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T13:20:00+07:00",
+      "fetched": "2026-08-15T21:12:32.805784+07:00"
+    },
+    {
+      "id": "4149b1a76ad2b56f93019ef84aaa77e9",
+      "title": "Kết thúc kỳ thi lại tại Tuyên Quang: Đề có thật sự khó?",
+      "link": "https://thanhnien.vn/ket-thuc-ky-thi-lai-tai-tuyen-quang-de-co-that-su-kho-185260815184617301.htm",
+      "summary": "Sau hai ngày thi nghiêm túc và siết chặt an ninh tối đa, sáng ngày 15.8, kỳ thi lại tốt nghiệp THPT tại điểm thi Trường THPT chuyên Tuyên Quang đã chính thức khép lại. Nhận định chung từ các thí sinh và giáo viên cho thấy đề thi đợt này có phần nhỉnh hơn về độ khó, đòi hỏi tư duy sâu và khả năng vận...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T13:16:00+07:00",
+      "fetched": "2026-08-15T21:12:32.805882+07:00"
+    },
+    {
+      "id": "a7214ce02c803c519b04401f11bd31e2",
+      "title": "Sầu riêng vào mùa, quốc lộ 26 bất ngờ kẹt cứng vì xe đầu kéo",
+      "link": "https://thanhnien.vn/sau-rieng-vao-mua-quoc-lo-26-bat-ngo-ket-cung-vi-xe-dau-keo-185260815162743767.htm",
+      "summary": "Sầu riêng Đắk Lắk vào vụ thu hoạch, hàng loạt xe đầu kéo đổ về các kho dọc quốc lộ 26, có thời điểm khiến dòng phương tiện ùn tắc kéo dài khoảng 1 km.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T13:09:00+07:00",
+      "fetched": "2026-08-15T21:12:32.805977+07:00"
+    },
+    {
+      "id": "457c6df31c8ae353716bbaf2e6c25874",
+      "title": "Đang chạy trên cao tốc TP.HCM - Long Thành - Dầu Giây bánh xe đầu kéo phát nổ, bốc cháy, văng ra khỏi xe",
+      "link": "https://thanhnien.vn/dang-chay-tren-cao-toc-tphcm-long-thanh-dau-giay-banh-xe-dau-keo-phat-no-boc-chay-vang-ra-khoi-xe-185260815194124789.htm",
+      "summary": "Đang chạy trên cao tốc TP.HCM - Long Thành - Dầu Giây, một bánh xe phía trước của xe đầu kéo đã phát nổ rồi bốc cháy, văng ra khỏi xe lăn trên đường một đoạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T13:03:00+07:00",
+      "fetched": "2026-08-15T21:12:32.806066+07:00"
+    },
+    {
+      "id": "25e389c227396a0253acce7121eeca65",
+      "title": "Cô gái giằng co khiến tên cướp bỏ xe máy, chạy bộ trong hẻm TP HCM",
+      "link": "https://vnexpress.net/co-gai-giang-co-khien-ten-cuop-bo-xe-may-chay-bo-trong-hem-tp-hcm-5109550.html",
+      "summary": "Vừa giật điện thoại trong hẻm Tô Hiến Thành, Nguyễn Hồ Ngọc Kỳ, 22 tuổi, bị nạn nhân chống trả, phải bỏ xe máy chạy bộ tẩu thoát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T13:02:34+07:00",
+      "fetched": "2026-08-15T21:12:30.196683+07:00"
+    },
+    {
+      "id": "dc221c98fd18f3084d16e961efa122fd",
+      "title": "Thời trang Elise đồng hành Miss World 2026",
+      "link": "https://vnexpress.net/thoi-trang-elise-dong-hanh-miss-world-2026-5109531.html",
+      "summary": "Elise ký hợp tác với ban tổ chức Miss World 2026 và doanh nhân Lưu Nga sẽ đảm nhận vai trò cố vấn thời trang, định hướng phong cách cho thí sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T13:00:00+07:00",
+      "fetched": "2026-08-15T21:12:30.196801+07:00"
+    },
+    {
+      "id": "ee0ab7c3472866ee94eed55bbc3338fe",
+      "title": "Xem nhanh 20h ngày 15.8: Huấn Hoa Hồng và vợ bị khởi tố | Đề thi lại ở Tuyên Quang nhỉnh hơn về độ khó?",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-158-huan-hoa-hong-va-vo-bi-khoi-to-de-thi-lai-o-tuyen-quang-nhinh-hon-ve-do-kho-185260815191512861.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 15.8 có nhiều tin tức đáng chú ý về: Kết thúc kỳ thi lại tại Tuyên Quang: Đề có thật sự khó?; Huấn Hoa Hồng và vợ bị khởi tố;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T13:00:00+07:00",
+      "fetched": "2026-08-15T21:12:32.806157+07:00"
+    },
+    {
+      "id": "3f7abfeb81992968e786e9b0b0ee9b51",
+      "title": "'Bỏ môn thứ ba thi vào lớp 10 - giảm tải hay áp lực lớn hơn?'",
+      "link": "https://vnexpress.net/mon-thi-thu-ba-vao-lop-10-ap-luc-khung-khiep-khi-bo-mon-thu-ba-thi-vao-lop-10-5109437.html",
+      "summary": "'Tiếng Anh vốn là môn 'gánh điểm', nếu chỉ thi hai môn Toán và Văn vào lớp 10 liệu có khiến áp lực càng đè nặng lên vai học sinh?'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:55:52+07:00",
+      "fetched": "2026-08-15T21:12:30.196905+07:00"
+    },
+    {
+      "id": "a72f8cf83fc8b25188a3598ce6abbcac",
+      "title": "Trụ sở Công an Bà Rịa - Vũng Tàu cũ thành trường nội trú gần 900 học sinh",
+      "link": "https://vnexpress.net/tru-so-cong-an-ba-ria-vung-tau-cu-thanh-truong-noi-tru-gan-900-hoc-sinh-5109537.html",
+      "summary": "Trụ sở Công an tỉnh Bà Rịa - Vũng Tàu cũ rộng 6,6 ha được chuyển đổi thành trường nội trú, dự kiến đón 890 học sinh thuộc diện chính sách, hoàn cảnh khó khăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:55:47+07:00",
+      "fetched": "2026-08-15T21:12:30.197004+07:00"
+    },
+    {
+      "id": "e954ec0a0c93c40086b09ffd30efecf6",
+      "title": "Bắt nghi phạm cướp giật điện thoại sau chưa đầy 3 giờ gây án ở TP.HCM",
+      "link": "https://thanhnien.vn/bat-nghi-pham-cuop-giat-dien-thoai-sau-chua-day-3-gio-gay-an-o-tphcm-185260815192940276.htm",
+      "summary": "Chỉ sau chưa đầy 3 giờ đồng hồ khẩn trương truy xét, lực lượng công an đã bắt giữ nghi phạm cướp giật điện thoại táo tợn tại một con hẻm ở TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:52:00+07:00",
+      "fetched": "2026-08-15T21:12:32.806247+07:00"
+    },
+    {
+      "id": "814692454cc2944458ccfd978750df1e",
+      "title": "Vì sao Huấn Hoa Hồng được tìm kiếm tăng vọt?",
+      "link": "https://thanhnien.vn/vi-sao-huan-hoa-hong-duoc-tim-kiem-tang-vot-185260815194446512.htm",
+      "summary": "Giữa ồn ào bị khởi tố để làm rõ các hành vi lừa đảo chiếm đoạt tài sản và vi phạm quy định về kế toán gây hậu quả nghiêm trọng, Huấn Hoa Hồng trở thành cái tên được tìm kiếm tăng vọt trên Google Trends.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:51:00+07:00",
+      "fetched": "2026-08-15T21:12:32.806348+07:00"
+    },
+    {
+      "id": "9d2595c99c2835d3b508398261f164de",
+      "title": "Giám đốc Ban Quản lý dự án Đầu tư xây dựng và Phát triển đô thị thành phố Huế bị bắt",
+      "link": "https://vnexpress.net/giam-doc-ban-quan-ly-du-an-dau-tu-xay-dung-va-phat-trien-do-thi-thanh-pho-hue-bi-bat-5109551.html",
+      "summary": "Ông Hà Xuân Hậu, Giám đốc Ban Quản lý dự án Đầu tư xây dựng và Phát triển đô thị TP Huế, bị cáo buộc thiếu trách nhiệm trong quá trình thực hiện dự án xử lý rác, gây thiệt hại ngân sách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:45:50+07:00",
+      "fetched": "2026-08-15T21:12:30.197102+07:00"
+    },
+    {
+      "id": "cb858586eb0fd11f62cbbb14ab275b5e",
+      "title": "Phút tháo chạy của người dân Indonesia giữa động đất 7,7 độ",
+      "link": "https://vnexpress.net/phut-thao-chay-cua-nguoi-dan-indonesia-giua-dong-dat-7-7-do-5109502.html",
+      "summary": "Các nhân chứng kể lại cảnh tượng mặt đất rung lắc dữ dội, đồ đạc rơi vãi khi xảy ra động đất 7,7 độ ngoài khơi đảo Flores của Indonesia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:44:49+07:00",
+      "fetched": "2026-08-15T21:12:30.197197+07:00"
+    },
+    {
+      "id": "cb858586eb0fd11f62cbbb14ab275b5e",
+      "title": "Phút tháo chạy của người dân Indonesia giữa động đất 7,7 độ",
+      "link": "https://vnexpress.net/phut-thao-chay-cua-nguoi-dan-indonesia-giua-dong-dat-7-7-do-5109502.html",
+      "summary": "Các nhân chứng kể lại cảnh tượng mặt đất rung lắc dữ dội, đồ đạc rơi vãi khi xảy ra động đất 7,7 độ ngoài khơi đảo Flores của Indonesia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-15T12:44:49+07:00",
+      "fetched": "2026-08-15T21:12:35.633132+07:00"
+    },
+    {
+      "id": "e4568a1ad7c08f03d2ac3f6565cc7baa",
+      "title": "Bắc Bộ và Bắc Trung Bộ sắp mưa lớn 300-450 mm",
+      "link": "https://vnexpress.net/bac-bo-va-bac-trung-bo-sap-mua-lon-300-450-mm-5109545.html",
+      "summary": "Từ đêm 17/8 đến ngày 21/8, Bắc Bộ và các tỉnh Thanh Hóa đến Hà Tĩnh có thể mưa 150-300 mm, cục bộ trên 450 mm, nguy cơ lũ quét, sạt lở và ngập úng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:35:56+07:00",
+      "fetched": "2026-08-15T21:12:30.197300+07:00"
+    },
+    {
+      "id": "b6fd0327b803a119f1760e81af2b4849",
+      "title": "Hà Nội sắp có thêm 6.000 camera AI giao thông",
+      "link": "https://vnexpress.net/ha-noi-sap-co-them-6-000-camera-ai-giao-thong-5109548.html",
+      "summary": "6.117 camera AI giao thông do Gtel tham gia nghiên cứu, phát triển và sản xuất sẽ được đưa vào hoạt động theo dự án triển khai hệ thống camera AI giám sát của thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:30:00+07:00",
+      "fetched": "2026-08-15T21:12:30.197422+07:00"
+    },
+    {
+      "id": "c967324cc7a07140b8779d59c3c1ef7c",
+      "title": "Thêm nhà mạng mới gia nhập thị trường di động",
+      "link": "https://vnexpress.net/them-nha-mang-moi-gia-nhap-thi-truong-di-dong-5109539.html",
+      "summary": "Tổng công ty Bưu điện Việt Nam - Vietnam Post công bố tham gia thị trường viễn thông di động với mô hình mạng ảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:29:39+07:00",
+      "fetched": "2026-08-15T21:12:30.197525+07:00"
+    },
+    {
+      "id": "c967324cc7a07140b8779d59c3c1ef7c",
+      "title": "Thêm nhà mạng mới gia nhập thị trường di động",
+      "link": "https://vnexpress.net/them-nha-mang-moi-gia-nhap-thi-truong-di-dong-5109539.html",
+      "summary": "Tổng công ty Bưu điện Việt Nam - Vietnam Post công bố tham gia thị trường viễn thông di động với mô hình mạng ảo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-15T12:29:39+07:00",
+      "fetched": "2026-08-15T21:12:38.815516+07:00"
+    },
+    {
+      "id": "a50a398b91fde4a737a025973012b22f",
+      "title": "Singapore 0-2 Thái Lan (H1): Tiền đạo chủ nhà sút hỏng phạt đền",
+      "link": "https://vnexpress.net/singapore-v-thai-lan-5109549.html",
+      "summary": "Thái Lan dẫn Singapore 2-0 ở phút 26 tại lượt đi bán kết ASEAN Cup 2026 trên sân Jalan Besar hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:26:28+07:00",
+      "fetched": "2026-08-15T21:12:30.197620+07:00"
+    },
+    {
+      "id": "a50a398b91fde4a737a025973012b22f",
+      "title": "Singapore 0-2 Thái Lan (H2): Chủ nhà sập 'bẫy'",
+      "link": "https://vnexpress.net/singapore-v-thai-lan-5109549.html",
+      "summary": "Thái Lan dẫn Singapore 2-0 sau hiệp một lượt đi bán kết ASEAN Cup 2026 trên sân Jalan Besar hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-15T12:26:28+07:00",
+      "fetched": "2026-08-15T21:12:40.534963+07:00"
+    },
+    {
       "id": "f447e60bf8cc79d6507c238111c690a9",
       "title": "Nha Trang siết chặt quản lý dịch vụ bãi biển sau 18 giờ",
       "link": "https://thanhnien.vn/nha-trang-siet-chat-quan-ly-dich-vu-bai-bien-sau-18-gio-185260815141201311.htm",
@@ -623,6 +1073,26 @@ window.newsData_2026_08_15 = {
       "fetched": "2026-08-15T19:18:01.123459+07:00"
     },
     {
+      "id": "a8bd515ca4b50abd3190d11f93d347d1",
+      "title": "Đội tuyển Việt Nam làm quen mặt cỏ cứng trước bán kết ASEAN Cup",
+      "link": "https://vnexpress.net/doi-tuyen-viet-nam-lam-quen-mat-co-cung-truoc-ban-ket-asean-cup-5109547.html",
+      "summary": "Các cầu thủ Việt Nam tranh thủ từng phút để làm quen thảm cỏ Kuala Lumpur, chuẩn bị cho lượt đi bán kết ASEAN Cup với Malaysia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:07:49+07:00",
+      "fetched": "2026-08-15T21:12:30.197716+07:00"
+    },
+    {
+      "id": "a8bd515ca4b50abd3190d11f93d347d1",
+      "title": "Đội tuyển Việt Nam làm quen mặt cỏ cứng trước bán kết ASEAN Cup",
+      "link": "https://vnexpress.net/doi-tuyen-viet-nam-lam-quen-mat-co-cung-truoc-ban-ket-asean-cup-5109547.html",
+      "summary": "Các cầu thủ Việt Nam tranh thủ từng phút để làm quen thảm cỏ Kuala Lumpur, chuẩn bị cho lượt đi bán kết ASEAN Cup với Malaysia.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-15T12:07:49+07:00",
+      "fetched": "2026-08-15T21:12:40.535071+07:00"
+    },
+    {
       "id": "33a6499c2472d587b1afaa4bb138c641",
       "title": "ASEAN Cup 2026, Singapore 0-0 Thái Lan: Khó cản 'Voi chiến'",
       "link": "https://thanhnien.vn/truc-tiep-singapore-thai-lan-ban-ket-asean-cup-hom-nay-kho-can-voi-chien-185260815162311846.htm",
@@ -631,6 +1101,16 @@ window.newsData_2026_08_15 = {
       "category": "Tổng hợp",
       "published": "2026-08-15T12:06:00+07:00",
       "fetched": "2026-08-15T19:18:01.123577+07:00"
+    },
+    {
+      "id": "9457a2d621bba3539fc17b987a127056",
+      "title": "Vì sao Huấn Hoa Hồng bị bắt?",
+      "link": "https://vnexpress.net/vi-sao-huan-hoa-hong-bi-bat-5109546.html",
+      "summary": "Bùi Xuân Huấn bị cáo buộc sử dụng sai mục đích tiền từ thiện huy động được; cùng vợ và nhiều người bỏ ngoài sổ sách kế toán khi bán nước hoa có doanh thu hơn 300 tỷ đồng...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:02:36+07:00",
+      "fetched": "2026-08-15T21:12:30.197832+07:00"
     },
     {
       "id": "42c8dd99172f35661e3f9c220bf3ebaa",
@@ -651,6 +1131,16 @@ window.newsData_2026_08_15 = {
       "category": "Kinh doanh",
       "published": "2026-08-15T12:00:00+07:00",
       "fetched": "2026-08-15T19:18:05.368531+07:00"
+    },
+    {
+      "id": "3089c036fb379e363430892b10ea8952",
+      "title": "Loại lá chiên cùng trứng là món ngon chữa bệnh",
+      "link": "https://vnexpress.net/loai-la-chien-cung-trung-la-mon-ngon-chua-benh-5109357.html",
+      "summary": "Lá mơ lông chiên cùng trứng là món ăn ngon miệng và hỗ trợ chữa các bệnh lý đường tiêu hóa trong đó có viêm đại tràng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:00:00+07:00",
+      "fetched": "2026-08-15T21:12:30.197932+07:00"
     },
     {
       "id": "fd8deb906beb356604c1bf18e29f943f",
