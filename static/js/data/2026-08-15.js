@@ -1,7 +1,157 @@
 window.newsData_2026_08_15 = {
   "date": "2026-08-15",
-  "lastUpdated": "2026-08-15T09:43:28.651126+07:00",
+  "lastUpdated": "2026-08-15T11:20:03.982402+07:00",
   "articles": [
+    {
+      "id": "38c801088d4951564596a19469c10cde",
+      "title": "Người dân đầu nguồn Đồng bằng sông Cửu Long thắc thỏm chờ mùa nước nổi",
+      "link": "https://tuoitre.vn/nguoi-dan-dau-nguon-dong-bang-song-cuu-long-thac-thom-cho-mua-nuoc-noi-100260814222134381.htm",
+      "summary": "Dọc sông Sở Thượng, người dân lại đem lưới ra vá lại những chỗ rách, sẵn sàng cho mùa cá mới khi con nước tràn đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:19:56.744331+07:00",
+      "fetched": "2026-08-15T11:19:56.744402+07:00"
+    },
+    {
+      "id": "b2377b34f4284e7aff54c852ddcf7f3a",
+      "title": "Trước trận gặp Việt Nam, Malaysia nhập tịch thêm cầu thủ Tây Ban Nha, Argentina",
+      "link": "https://tuoitre.vn/truoc-tran-gap-viet-nam-malaysia-nhap-tich-them-cau-thu-tay-ban-nha-argentina-100260815091440332.htm",
+      "summary": "Báo Stadium Astro của Malaysia cho biết, Liên đoàn Bóng đá nước nhà đã gần như hoàn tất thủ tục để nhập tịch thêm 3 ngôi sao đáng chú ý từ các cường quốc bóng đá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:19:56.744249+07:00",
+      "fetched": "2026-08-15T11:19:56.744303+07:00"
+    },
+    {
+      "id": "16e05a6702280d2b6f920504201547c0",
+      "title": "HDBank trao cơ hội 'đại cát' tới khách hàng gửi tiết kiệm",
+      "link": "https://tuoitre.vn/hdbank-trao-co-hoi-dai-cat-toi-khach-hang-gui-tiet-kiem-100260815094008833.htm",
+      "summary": "Ngày 25-8, kỳ quay số thứ 4 của chương trình 'Tiết kiệm Tỷ phú - Hè Vàng Đại Cát' của HDBank sẽ tìm ra những khách hàng may mắn nhận sổ tiết kiệm trị giá đến 200 triệu đồng và các chuyến du lịch Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:19:56.744184+07:00",
+      "fetched": "2026-08-15T11:19:56.744239+07:00"
+    },
+    {
+      "id": "8df51aa37e9827c6d56dc7275e74e0ff",
+      "title": "Đại học tinh hoa: một ước mơ, nhiều lựa chọn",
+      "link": "https://tuoitre.vn/dai-hoc-tinh-hoa-mot-uoc-mo-nhieu-lua-chon-100260814211717637.htm",
+      "summary": "Một đại học tinh hoa không đơn thuần là ngôi trường có thứ hạng cao trong các bảng xếp hạng danh giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:19:56.744120+07:00",
+      "fetched": "2026-08-15T11:19:56.744174+07:00"
+    },
+    {
+      "id": "51e54b01039cd65f8eb3c5bf199fc0c2",
+      "title": "Doanh thu quý 2 Vietjet Air tăng vọt nhờ bán và thuê lại máy bay",
+      "link": "https://tuoitre.vn/doanh-thu-quy-2-vietjet-air-tang-vot-nho-ban-va-thue-lai-may-bay-100260815091545472.htm",
+      "summary": "Doanh thu từ hoạt động bán và thuê lại máy bay của Vietjet Air quý 2-2026 tăng gấp 28,3 lần cùng kỳ năm ngoái, đóng góp gần 40% tổng doanh thu thuần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:19:56.744056+07:00",
+      "fetched": "2026-08-15T11:19:56.744110+07:00"
+    },
+    {
+      "id": "bf2607aa52cec580c3690351ef59ba4e",
+      "title": "Công ty con 'theo mẹ' lên sàn, nhà đầu tư soi gì ngoài vốn hóa?",
+      "link": "https://tuoitre.vn/cong-ty-con-theo-me-len-san-nha-dau-tu-soi-gi-ngoai-von-hoa-100260815094004022.htm",
+      "summary": "Công ty con lên sàn giúp giá trị trong các tập đoàn được nhìn rõ hơn, nhưng với nhà đầu tư, điều đáng quan tâm là phần giá trị nào thực sự thuộc về cổ đông công ty mẹ và dòng tiền sẽ đi về đâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:19:56.743989+07:00",
+      "fetched": "2026-08-15T11:19:56.744046+07:00"
+    },
+    {
+      "id": "b72d466316162aea02cf2264c3bb7b9d",
+      "title": "Xe khách tông xe tải trên cao tốc Phan Thiết - Dầu Giây, 1 người nước ngoài tử vong",
+      "link": "https://tuoitre.vn/xe-khach-tong-xe-tai-tren-cao-toc-phan-thiet-dau-giay-1-nguoi-nuoc-ngoai-tu-vong-100260815084857282.htm",
+      "summary": "Chiếc xe khách tông vào đuôi xe tải đang đậu ở làn dừng khẩn cấp trên cao tốc Phan Thiết - Dầu Giây lúc rạng sáng khiến 2 người mang quốc tịch Nga thương vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:19:56.743918+07:00",
+      "fetched": "2026-08-15T11:19:56.743975+07:00"
+    },
+    {
+      "id": "0f6fb46fa76dfbc4aad522183da3d9d7",
+      "title": "'Bác sĩ AI' thao thao tư vấn chữa bệnh trên mạng, bác sĩ thật điên đầu, người bệnh rước họa",
+      "link": "https://tuoitre.vn/bac-si-ai-thao-thao-tu-van-chua-benh-tren-mang-bac-si-that-dien-dau-nguoi-benh-ruoc-hoa-100260814115658229.htm",
+      "summary": "Hàng loạt video 'bác sĩ AI' tư vấn sức khỏe, hướng dẫn điều trị, thậm chí quảng cáo sản phẩm, thực phẩm chức năng lan truyền trên mạng xã hội khiến nhiều bác sĩ thật... điên đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:19:56.743845+07:00",
+      "fetched": "2026-08-15T11:19:56.743908+07:00"
+    },
+    {
+      "id": "511157bb90b59e9b5d658cfe228c18ef",
+      "title": "Trực tuyến: HLV Tan Cheng Hoe họp báo trước trận Malaysia đấu Việt Nam ở bán kết ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/truc-tuyen-hlv-tan-cheng-hoe-hop-bao-truoc-tran-malaysia-dau-viet-nam-o-ban-ket-asean-cup-2026-100260815070847828.htm",
+      "summary": "Lúc 10h30 hôm nay 15-8, HLV tuyển Malaysia Tan Cheng Hoe sẽ tham dự buổi họp báo trước trận Malaysia gặp Việt Nam ở bán kết lượt đi ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:19:56.743779+07:00",
+      "fetched": "2026-08-15T11:19:56.743835+07:00"
+    },
+    {
+      "id": "bc1f1429a9d187d10b20b7d4e4b18a9f",
+      "title": "Ngôi sao tuyển Malaysia: Tôi chẳng có chút áp lực nào khi đối đầu với Việt Nam",
+      "link": "https://tuoitre.vn/ngoi-sao-tuyen-malaysia-toi-chang-co-chut-ap-luc-nao-khi-doi-dau-voi-viet-nam-100260815094801738.htm",
+      "summary": "Dù Malaysia bị đánh giá thấp hơn nhiều so với đối thủ Việt Nam ở trận bán kết ASEAN Cup 2026 nhưng tiền vệ Ibrahim Manusi khẳng định: \"Tôi chẳng có chút áp lực nào khi đối đầu với Việt Nam\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:19:56.743711+07:00",
+      "fetched": "2026-08-15T11:19:56.743769+07:00"
+    },
+    {
+      "id": "3cdef092585b9a480d3175143b7aaff1",
+      "title": "HVL của MCK thắng giải ở ADWARD Awards",
+      "link": "https://tuoitre.vn/hvl-cua-mck-thang-giai-o-adward-awards-10026081509535036.htm",
+      "summary": "HVL của MCK tiếp tục gây chú ý khi album trailer 360° do Antiantiart thực hiện, thắng ba giải tại sự kiện 47th AWARD Awards.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:19:56.743643+07:00",
+      "fetched": "2026-08-15T11:19:56.743701+07:00"
+    },
+    {
+      "id": "93e8d43fdf43b9ac2b614fe62cada20a",
+      "title": "Grammy 'quay xe' sau khi BTS tẩy chay",
+      "link": "https://tuoitre.vn/grammy-quay-xe-sau-khi-bts-tay-chay-100260815092757656.htm",
+      "summary": "Viện hàn lâm Thu âm Mỹ cân nhắc cải tổ hạng mục 'Trình diễn nhạc pop châu Á xuất sắc nhất' sau khi BTS rút khỏi quy trình tranh cử Grammy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:19:56.743573+07:00",
+      "fetched": "2026-08-15T11:19:56.743632+07:00"
+    },
+    {
+      "id": "1f7b22d94b45294da8f7180feeca1e4c",
+      "title": "Khai quật tìm danh tính 469 Liệt sĩ chống Pháp sau 70 năm tại Nghĩa trang Mai Dịch",
+      "link": "https://tuoitre.vn/khai-quat-tim-danh-tinh-469-liet-si-chong-phap-sau-70-nam-tai-nghia-trang-mai-dich-100260813175513295.htm",
+      "summary": "Giữa cái nắng gần 40 độ C, gần 200 cán bộ chiến sĩ đang nỗ lực khai quật từng ngôi mộ tại Nghĩa trang Mai Dịch (Hà Nội), tìm lại tên cho 469 liệt sĩ hy sinh trong kháng chiến chống Pháp hiện chưa xác định được thông tin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:19:56.743500+07:00",
+      "fetched": "2026-08-15T11:19:56.743563+07:00"
+    },
+    {
+      "id": "07226640d03041d34bb3f9e53098a4ae",
+      "title": "Hộ kinh doanh bán món hàng 5.000 đồng, tốn tới 700 đồng xuất hóa đơn",
+      "link": "https://tuoitre.vn/ho-kinh-doanh-ban-mon-hang-5000-dong-ton-toi-700-dong-xuat-hoa-don-100260815100030769.htm",
+      "summary": "Một chai nước lọc, cây bút 5.000 đồng nhưng tốn 500 - 700 đồng cho xuất hóa đơn, làm tăng chi phí, ‘ăn’ vào lợi nhuận của hộ kinh doanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:19:56.743420+07:00",
+      "fetched": "2026-08-15T11:19:56.743488+07:00"
+    },
+    {
+      "id": "fe83ca4a6fb2ca9ad0a00c17fb5573c1",
+      "title": "Đề các môn tự chọn thi lại tốt nghiệp ở chuyên Tuyên Quang",
+      "link": "https://tuoitre.vn/de-cac-mon-tu-chon-thi-lai-tot-nghiep-o-chuyen-tuyen-quang-100260814085235978.htm",
+      "summary": "Sáng 15-8, 326 thí sinh tại điểm thi Trường THPT chuyên Tuyên Quang thi buổi cuối của lần thi tốt nghiệp lại với hai môn tự chọn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:19:56.743263+07:00",
+      "fetched": "2026-08-15T11:19:56.743404+07:00"
+    },
     {
       "id": "6189474a74fd4a580e43fc25c56f8893",
       "title": "TP.HCM tiếp tục thống trị môn bóng bàn Đại hội thể thao toàn quốc",
@@ -191,6 +341,366 @@ window.newsData_2026_08_15 = {
       "category": "Tổng hợp",
       "published": "2026-08-15T07:39:04.203956+07:00",
       "fetched": "2026-08-15T07:39:04.204093+07:00"
+    },
+    {
+      "id": "dd2e7fe3f299180ae9bb088c9bc88d3c",
+      "title": "Tổng thống Hàn Quốc đề xuất đối thoại hòa bình với Triều Tiên",
+      "link": "https://thanhnien.vn/tong-thong-han-quoc-de-xuat-doi-thoai-hoa-binh-voi-trieu-tien-18526081510482324.htm",
+      "summary": "Trong bối cảnh quan hệ liên Triều trở nên căng thẳng vì cuộc tập trận Mỹ - Hàn Quốc, Tổng thống Hàn Quốc Lee Jae Myung vừa qua đã đề xuất các phương án đối thoại nhằm tìm kiếm một chế độ hòa bình cho bán đảo Triều Tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T04:14:00+07:00",
+      "fetched": "2026-08-15T11:19:55.061832+07:00"
+    },
+    {
+      "id": "9f48d0b605b4cb605844b46ced00ef22",
+      "title": "Israel lại bất ngờ vì tốc độ phục hồi năng lực quân sự của Iran",
+      "link": "https://thanhnien.vn/israel-lai-bat-ngo-vi-toc-do-phuc-hoi-nang-luc-quan-su-cua-iran-185260815101155258.htm",
+      "summary": "Tờ The Jerusalem Post mới đây đưa tin các quan chức quốc phòng Israel đã vô cùng kinh ngạc trước tốc độ phục hồi năng lực quân sự của Iran sau cuộc chiến nổ ra vào cuối tháng 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T04:12:00+07:00",
+      "fetched": "2026-08-15T11:19:55.062001+07:00"
+    },
+    {
+      "id": "990c6186e08997951cb2b0dd8029a7ef",
+      "title": "HLV Tan Cheng Hoe nói điều rất ngờ trước đại chiến bán kết: ‘Malaysia đừng chú tâm đến Việt Nam’",
+      "link": "https://thanhnien.vn/hlv-tan-cheng-hoe-noi-dieu-rat-ngo-truoc-dai-chien-ban-ket-malaysia-dung-chu-tam-den-viet-nam-185260815110544575.htm",
+      "summary": "HLV trưởng Malaysia - Tan Cheng Hoe đánh giá cao đội tuyển Việt Nam trước khi hai đội chạm trán nhau ở vòng bán kết giải ASEAN Cup 2026, với trận lượt đi diễn ra lúc 20 giờ ngày 16.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T04:09:00+07:00",
+      "fetched": "2026-08-15T11:19:55.062161+07:00"
+    },
+    {
+      "id": "0b16865d5b188e2f8cdcb7fa680ab3d5",
+      "title": "Ca sĩ Anh Tuấn nhóm Ve sầu kể mối duyên với Võ Hạ Trâm",
+      "link": "https://thanhnien.vn/ca-si-anh-tuan-nhom-ve-sau-ke-moi-duyen-voi-vo-ha-tram-185260815084006926.htm",
+      "summary": "Vở nhạc kịch ‘Once on this island’ tạo dấu ấn bằng câu chuyện giàu cảm xúc, âm nhạc nổi bật và không gian dàn dựng gần gũi với khán giả. Bên cạnh đó, đạo diễn âm nhạc Anh Tuấn cho biết rất vui và xúc động khi Võ Hạ Trâm dành thời gian đến xem và cổ vũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T04:07:00+07:00",
+      "fetched": "2026-08-15T11:19:55.062337+07:00"
+    },
+    {
+      "id": "e01a41e5b750f5a7b7d4c718a2492200",
+      "title": "Xuân Son tiết lộ điều làm mình không thoải mái trước trận gặp Malaysia",
+      "link": "https://thanhnien.vn/xuan-son-tiet-lo-dieu-lam-minh-khong-thoai-mai-truoc-tran-gap-malaysia-18526081511031271.htm",
+      "summary": "Trưa 15.8, trong buổi họp báo trước trận bán kết lượt đi gặp Malaysia, tiền đạo Nguyễn Xuân Son đã có những chia sẻ thẳng thắn, từ tâm lý thi đấu, điều kiện sân bãi cho tới nhận định về đối thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T04:05:00+07:00",
+      "fetched": "2026-08-15T11:19:55.062497+07:00"
+    },
+    {
+      "id": "b0042e9f90c7f45a53aa0c1d7a699c15",
+      "title": "Cao ủy Thương mại Anh thăm Việt Nam",
+      "link": "https://thanhnien.vn/cao-uy-thuong-mai-anh-tham-viet-nam-185260815103920296.htm",
+      "summary": "Ông Martin Kent, Cao ủy Thương mại Anh tại châu Á - Thái Bình Dương, vừa kết thúc chuyến thăm Việt Nam với mục tiêu tăng cường hợp tác song phương trong lĩnh vực dịch vụ tài chính, đổi mới công nghệ tài chính và đầu tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T04:05:00+07:00",
+      "fetched": "2026-08-15T11:19:55.062649+07:00"
+    },
+    {
+      "id": "471b7031d158a9d80653dbfceb0ee99f",
+      "title": "TP.HCM vận động hiến đất, ưu tiên mở rộng hẻm dưới 2 mét",
+      "link": "https://thanhnien.vn/tphcm-van-dong-hien-dat-uu-tien-mo-rong-hem-duoi-2-met-185260815103140521.htm",
+      "summary": "Từ nay đến năm 2030, TP.HCM đặt mục tiêu kêu gọi người dân hiến đất, mở rộng ít nhất 10% tổng số tuyến đường, hẻm trên địa bàn, ưu tiên mở rộng hẻm dưới 2 mét.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T04:05:00+07:00",
+      "fetched": "2026-08-15T11:19:55.062799+07:00"
+    },
+    {
+      "id": "ae7bc6c7c4f904d50c3d8397371c1440",
+      "title": "Bộ sạc 100W có quá mạnh đối với MacBook Air?",
+      "link": "https://thanhnien.vn/bo-sac-100w-co-qua-manh-doi-voi-macbook-air-185260815092027028.htm",
+      "summary": "MacBook Air không bị ép nhận toàn bộ 100W từ bộ sạc nhờ cơ chế \"thương lượng công suất\" của chuẩn USB PD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:59:00+07:00",
+      "fetched": "2026-08-15T11:19:55.062953+07:00"
+    },
+    {
+      "id": "0c25434b6e67eba5b5d5075f7b287da9",
+      "title": "Nhà đầu tư có thể mở tài khoản chứng khoán 100% online",
+      "link": "https://vnexpress.net/nha-dau-tu-co-the-mo-tai-khoan-chung-khoan-100-online-5109410.html",
+      "summary": "Theo dự thảo, các công ty chứng khoán sẽ được phép giao kết hợp đồng với khách hàng bằng hình thức điện tử, giúp mở tài khoản online hoàn toàn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-15T03:55:55+07:00",
+      "fetched": "2026-08-15T11:19:59.985242+07:00"
+    },
+    {
+      "id": "0d9bffde872358077c6ae791dbcd8736",
+      "title": "Hai người thiệt mạng sau trận động đất mạnh 7,7 độ ngoài khơi Indonesia",
+      "link": "https://thanhnien.vn/hai-nguoi-thiet-mang-sau-tran-dong-dat-manh-77-do-ngoai-khoi-indonesia-185260815103500193.htm",
+      "summary": "Ít nhất hai người thiệt mạng, một người bị thương trong trận động đất mạnh 7,7 độ Richter ngoài khơi Indonesia. Sóng thần cao dưới 1 m được ghi nhận tại một số khu vực, nhưng cảnh báo sóng thần đã được dỡ bỏ khoảng ba giờ sau trận động đất",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:51:00+07:00",
+      "fetched": "2026-08-15T11:19:55.063111+07:00"
+    },
+    {
+      "id": "b0672b55cac43bbded83ae6bd98ab8ed",
+      "title": "Văn phòng hạng A trống gần 30%",
+      "link": "https://vnexpress.net/van-phong-hang-a-trong-gan-30-5109403.html",
+      "summary": "Nguồn cung dồi dào khiến tỷ lệ trống văn phòng hạng A tăng mạnh, buộc nhiều chủ đầu tư phải tăng áp dụng chính sách ưu đãi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:46:28+07:00",
+      "fetched": "2026-08-15T11:19:52.127945+07:00"
+    },
+    {
+      "id": "affe67d46836fc58d025b7ff5099a950",
+      "title": "Trúng đấu giá, được cấp sổ đỏ nhưng 19 năm không tìm thấy đất",
+      "link": "https://vnexpress.net/trung-dau-gia-duoc-cap-so-do-nhung-19-nam-khong-tim-thay-dat-5109316.html",
+      "summary": "Trúng đấu giá, nộp đủ tiền và được cấp sổ đỏ từ năm 2007, nhưng đến nay ông Đặng Huy Dũng vẫn chưa xác định được lô đất số 19 nằm ở đâu trên thực địa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:43:04+07:00",
+      "fetched": "2026-08-15T11:19:52.128135+07:00"
+    },
+    {
+      "id": "5ccc2b3bd460a13bc7594b89dac90ab6",
+      "title": "Kết thúc kỳ thi lại tại chuyên Tuyên Quang, thí sinh nói đề môn tự chọn 'khó'",
+      "link": "https://thanhnien.vn/ket-thuc-ky-thi-lai-tai-chuyen-tuyen-quang-thi-sinh-noi-de-mon-tu-chon-kho-185260815102328133.htm",
+      "summary": "Khoảng 10 giờ sáng nay 15.8, sau khi kết thúc 2 môn thi tự chọn, các thí sinh tại điểm thi Trường THPT chuyên Tuyên Quang đã hoàn tất kỳ thi lại tốt nghiệp THPT. Đề thi một số môn được đánh giá 'siêu khó' hoặc khó tương đương lần trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:43:00+07:00",
+      "fetched": "2026-08-15T11:19:55.063260+07:00"
+    },
+    {
+      "id": "b9005f531950e49c4f1f54210acf8693",
+      "title": "Dự án cải tạo rạch Văn Thánh dài 2,24 km: Người dân TP.HCM quan tâm nhất điều gì?",
+      "link": "https://thanhnien.vn/du-an-cai-tao-rach-van-thanh-dai-224-km-nguoi-dan-tphcm-quan-tam-nhat-dieu-gi-185260815101229587.htm",
+      "summary": "Dự án cải tạo rạch Văn Thánh dự kiến ảnh hưởng 1.077 trường hợp. Người dân và chuyên gia đặc biệt quan tâm về giá bồi thường, tái định cư và quyền lợi các hộ bị thu hồi đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:39:00+07:00",
+      "fetched": "2026-08-15T11:19:55.063455+07:00"
+    },
+    {
+      "id": "3d9020ff5c938a32d410f6635c45cab6",
+      "title": "Thầy Kim cẩn thận né mặc áo trắng ở họp báo Malaysia, chưa biết nói gì về HLV Tan Cheng Hoe vì…",
+      "link": "https://thanhnien.vn/thay-kim-can-than-ne-mac-ao-trang-o-hop-bao-malaysia-chua-biet-noi-gi-ve-hlv-tan-cheng-hoe-vi-185260815103331655.htm",
+      "summary": "Trong buổi họp báo trước trận bán kết lượt đi trên đất Kuala Lumpur diễn ra vào trưa 15.8, HLV Kim Sang-sik đã có những chia sẻ đáng chú ý về tâm thế của đội tuyển Việt Nam, cũng như những đánh giá dành cho đối thủ Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:37:00+07:00",
+      "fetched": "2026-08-15T11:19:55.063610+07:00"
+    },
+    {
+      "id": "0b63bc71efe751faa112882d9463a03d",
+      "title": "Phát hiện nhiều doanh nghiệp làm giả kết quả thí nghiệm nghiệm thu công trình",
+      "link": "https://thanhnien.vn/phat-hien-nhieu-doanh-nghiep-lam-gia-ket-qua-thi-nghiem-nghiem-thu-cong-trinh-1852608150954152.htm",
+      "summary": "Công an tỉnh Thanh Hóa phát hiện nhiều doanh nghiệp ở Thanh Hóa đã câu kết với Công ty CP xây dựng và thí nghiệm công trình Miền Trung (trụ sở tại tỉnh Thanh Hóa) làm giả kết quả thí nghiệm để nghiệm thu công trình, dự án.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:37:00+07:00",
+      "fetched": "2026-08-15T11:19:55.063759+07:00"
+    },
+    {
+      "id": "12a1ed3d79a8aeb41ffb8ef9b2cb26ff",
+      "title": "Lazada hợp tác cùng adidas ra mắt mẫu giày chạy bộ ZENBOOST",
+      "link": "https://thanhnien.vn/lazada-hop-tac-cung-adidas-ra-mat-mau-giay-chay-bo-zenboost-185260815103908375.htm",
+      "summary": "Lazada và adidas tiếp tục bắt tay cho Ngày hội thương hiệu adidas toàn vùng, mang đến cho người tiêu dùng quyền tiếp cận mẫu giày chạy bộ adidas ZENBOOST vừa ra mắt sớm nhất, cùng nhiều ưu đãi hấp dẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:34:00+07:00",
+      "fetched": "2026-08-15T11:19:55.063911+07:00"
+    },
+    {
+      "id": "af24e0923a3ed3f9d63082b53c7f1ae0",
+      "title": "Đo huyết áp tại nhà: Bác sĩ chỉ cách chọn máy, đo chuẩn",
+      "link": "https://thanhnien.vn/do-huyet-ap-tai-nha-bac-si-chi-cach-chon-may-do-chuan-185260815103642495.htm",
+      "summary": "Giữa nhiều loại máy đo huyết áp với mức giá khác nhau, người dùng không khỏi băn khoăn khi lựa chọn. Các bác sĩ hướng dẫn cách chọn máy phù hợp và đo huyết áp đúng cách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:34:00+07:00",
+      "fetched": "2026-08-15T11:19:55.064060+07:00"
+    },
+    {
+      "id": "9fdf457a10281f48a96151945bd282e8",
+      "title": "Chủ nhà hàng Hàn Quốc bị đồng hương đánh tử vong bằng bình khí cười",
+      "link": "https://vnexpress.net/chu-nha-hang-han-quoc-bi-dong-huong-danh-tu-vong-bang-binh-khi-cuoi-5109391.html",
+      "summary": "Từ mâu thuẫn vì làm hỏng màn hình LED trong phòng karaoke, chủ nhà hàng người Hàn Quốc bị bạn của nhóm khách đồng hương kéo đến dùng bình khí cười đánh tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:33:22+07:00",
+      "fetched": "2026-08-15T11:19:52.128328+07:00"
+    },
+    {
+      "id": "7ea7b4fd55b26dbd8f34fa285acabad9",
+      "title": "Singapore - Thái Lan: Hứa hẹn bất ngờ ở bán kết ASEAN Cup 2026",
+      "link": "https://vnexpress.net/singapore-thai-lan-hua-hen-bat-ngo-o-ban-ket-asean-cup-2026-5109390.html",
+      "summary": "Singapore tiếp Thái Lan ở lượt đi bán kết ASEAN Cup 2026 với lợi thế sân nhà, phong độ và ký ức từng hai lần vượt qua đối thủ ở chung kết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:32:36+07:00",
+      "fetched": "2026-08-15T11:19:52.128504+07:00"
+    },
+    {
+      "id": "7ea7b4fd55b26dbd8f34fa285acabad9",
+      "title": "Singapore - Thái Lan: Hứa hẹn bất ngờ ở bán kết ASEAN Cup 2026",
+      "link": "https://vnexpress.net/singapore-thai-lan-hua-hen-bat-ngo-o-ban-ket-asean-cup-2026-5109390.html",
+      "summary": "Singapore tiếp Thái Lan ở lượt đi bán kết ASEAN Cup 2026 với lợi thế sân nhà, phong độ và ký ức từng hai lần vượt qua đối thủ ở chung kết.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-15T03:32:36+07:00",
+      "fetched": "2026-08-15T11:20:03.975973+07:00"
+    },
+    {
+      "id": "6037f1525848c753926c4de2955f9d48",
+      "title": "Phim hoạt hình nổi tiếng vì 'quá dở'",
+      "link": "https://vnexpress.net/phim-hoat-hinh-noi-tieng-vi-qua-do-5109384.html",
+      "summary": "Nhiều truyền thông và khán giả Trung Quốc nói sửng sốt khi \"Ngưu Lai\", hoạt hình về thế giới động vật, kỹ xảo và nội dung thô sơ vẫn chiếu ở rạp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:31:36+07:00",
+      "fetched": "2026-08-15T11:19:52.128671+07:00"
+    },
+    {
+      "id": "198b503264c73857642836fa705980e9",
+      "title": "Khoảnh khắc nhà đổ sập trong động đất 7,7 độ ngoài khơi Indonesia",
+      "link": "https://vnexpress.net/khoanh-khac-nha-do-sap-trong-dong-dat-7-7-do-ngoai-khoi-indonesia-5109405.html",
+      "summary": "Nhà cửa rung lắc dữ dội, người dân hoảng loạn tìm chỗ trú ẩn khi động đất 7,7 độ kéo dài khoảng một phút xảy ra ngoài khơi phía bắc tỉnh Đông Nusa Tenggara.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:26:44+07:00",
+      "fetched": "2026-08-15T11:19:52.128830+07:00"
+    },
+    {
+      "id": "fcd38928975ec27114647ee235bdda16",
+      "title": "Đường đi của quỹ phụ huynh 40 triệu đồng một năm lớp con tôi",
+      "link": "https://vnexpress.net/quy-phu-huynh-hoc-sinh-de-lam-gi-quy-phu-huynh-40-trieu-mot-nam-cua-lop-con-toi-chi-vao-dau-5109194.html",
+      "summary": "Phần lớn những khoản chi từ quỹ phụ huynh không thật sự cần thiết, bỏ được càng tốt, vừa nhẹ cho phụ huynh, vừa đỡ áp lực cho giáo viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:22:41+07:00",
+      "fetched": "2026-08-15T11:19:52.128985+07:00"
+    },
+    {
+      "id": "243e875f6c810b192fbb2eecfb851b7e",
+      "title": "Robot giúp người bệnh đột quỵ tập đi",
+      "link": "https://vnexpress.net/robot-giup-nguoi-benh-dot-quy-tap-di-5109302.html",
+      "summary": "Robot có thể hỗ trợ người bệnh đột quỵ tập đi, tăng cường độ luyện tập và giảm sức cho kỹ thuật viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:19:46+07:00",
+      "fetched": "2026-08-15T11:19:52.129140+07:00"
+    },
+    {
+      "id": "247b20a634221bd11f29ccc6f0e8030e",
+      "title": "Huỳnh Lập, chàng trai trượt đại học thành đạo diễn ăn khách",
+      "link": "https://vnexpress.net/huynh-lap-chang-trai-truot-dai-hoc-thanh-dao-dien-an-khach-5102946.html",
+      "summary": "Trượt Đại học Sân khấu Điện ảnh TP HCM, Huỳnh Lập mày mò tự học, trở thành đạo diễn 9x đầu tiên có phim doanh thu trên 200 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:12:52+07:00",
+      "fetched": "2026-08-15T11:19:52.129300+07:00"
+    },
+    {
+      "id": "4af8da23a0b3e8352327b9ca6e66f403",
+      "title": "Công ty mẹ Google lãi gấp 100 lần từ khoản đầu tư vào SpaceX",
+      "link": "https://vnexpress.net/cong-ty-me-google-lai-gap-100-lan-tu-khoan-dau-tu-vao-spacex-5109400.html",
+      "summary": "Khoản tiền 900 triệu USD mà Alphabet - công ty mẹ Google rót vào SpaceX hơn 10 năm trước hiện có giá hơn 90 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:08:47+07:00",
+      "fetched": "2026-08-15T11:19:52.129496+07:00"
+    },
+    {
+      "id": "4af8da23a0b3e8352327b9ca6e66f403",
+      "title": "Công ty mẹ Google lãi gấp 100 lần từ khoản đầu tư vào SpaceX",
+      "link": "https://vnexpress.net/cong-ty-me-google-lai-gap-100-lan-tu-khoan-dau-tu-vao-spacex-5109400.html",
+      "summary": "Khoản tiền 900 triệu USD mà Alphabet - công ty mẹ Google rót vào SpaceX hơn 10 năm trước hiện có giá hơn 90 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-15T03:08:47+07:00",
+      "fetched": "2026-08-15T11:19:59.985450+07:00"
+    },
+    {
+      "id": "139af1f9eb149ffdc2b259ac9e30cc6d",
+      "title": "Giả bác sĩ, vờ tiêm 'tiêm nano canxi trị xương khớp' lừa tiền nhiều người cao tuổi",
+      "link": "https://vnexpress.net/gia-bac-si-vo-tiem-tiem-nano-canxi-tri-xuong-khop-lua-tien-nhieu-nguoi-cao-tuoi-5109396.html",
+      "summary": "Vi Văn Đông cùng hai đồng phạm bị cáo buộc dựng kịch bản \"điều trị xương khớp\" bằng cách tiêm giả, lừa gần 300 người với giá hàng chục triệu đồng mỗi suất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:06:50+07:00",
+      "fetched": "2026-08-15T11:19:52.129654+07:00"
+    },
+    {
+      "id": "8ee472efb6c092eb376ed2cdff8c2ae1",
+      "title": "Thủ tướng Israel chế giễu Anh là nước 'cộng hòa Hồi giáo'",
+      "link": "https://vnexpress.net/thu-tuong-israel-che-gieu-anh-la-nuoc-cong-hoa-hoi-giao-5109361.html",
+      "summary": "Thủ tướng Netanyahu gọi Anh là quốc gia \"cộng hòa Hồi giáo\" vì cho rằng nước này ngày càng có quan điểm chống Israel, London chỉ trích đây là phát ngôn \"không thể chấp nhận được\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:04:49+07:00",
+      "fetched": "2026-08-15T11:19:52.129816+07:00"
+    },
+    {
+      "id": "8ee472efb6c092eb376ed2cdff8c2ae1",
+      "title": "Thủ tướng Israel chế giễu Anh là nước 'cộng hòa Hồi giáo'",
+      "link": "https://vnexpress.net/thu-tuong-israel-che-gieu-anh-la-nuoc-cong-hoa-hoi-giao-5109361.html",
+      "summary": "Thủ tướng Netanyahu gọi Anh là quốc gia \"cộng hòa Hồi giáo\" vì cho rằng nước này ngày càng có quan điểm chống Israel, London chỉ trích đây là phát ngôn \"không thể chấp nhận được\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-15T03:04:49+07:00",
+      "fetched": "2026-08-15T11:19:58.075481+07:00"
+    },
+    {
+      "id": "2bcb50935675e03813d43d6e5246591d",
+      "title": "Nợ nhiều tiền, mở công ty 'ma' tạo vỏ bọc doanh nhân đi lừa đảo",
+      "link": "https://vnexpress.net/no-nhieu-tien-mo-cong-ty-ma-tao-vo-boc-doanh-nhan-di-lua-dao-5109374.html",
+      "summary": "Quàng Văn Tân nợ nần nhiều không có khả năng chi trả nên đã tự mở công ty, tạo vỏ bọc doanh nhân đi lừa đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:03:01+07:00",
+      "fetched": "2026-08-15T11:19:52.129992+07:00"
+    },
+    {
+      "id": "53ccfc05fb2df2dbdf37df21de844516",
+      "title": "Tác nhân AI của Anthropic 'cản trở, đấu đá' trong thử nghiệm",
+      "link": "https://vnexpress.net/tac-nhan-ai-cua-anthropic-can-tro-dau-da-trong-thu-nghiem-5109287.html",
+      "summary": "Khi được giao mục tiêu khác nhau để đánh giá hành vi, các tác nhân của Anthropic bắt đầu tìm cách cản trở và làm hại đối phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:00:00+07:00",
+      "fetched": "2026-08-15T11:19:52.130146+07:00"
+    },
+    {
+      "id": "176d32ae63824ea24613b99a4da1ef7e",
+      "title": "Cẩm nang du lịch bản Tả Van",
+      "link": "https://vnexpress.net/cam-nang-du-lich-ban-ta-van-5108616.html",
+      "summary": "Tả Van nằm cách trung tâm phường Sa Pa khoảng 10 km, nhiều cảnh đẹp, quán cà phê, hút giới trẻ và khách nước ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T03:00:00+07:00",
+      "fetched": "2026-08-15T11:19:52.130302+07:00"
+    },
+    {
+      "id": "53ccfc05fb2df2dbdf37df21de844516",
+      "title": "Tác nhân AI của Anthropic 'cản trở, đấu đá' trong thử nghiệm",
+      "link": "https://vnexpress.net/tac-nhan-ai-cua-anthropic-can-tro-dau-da-trong-thu-nghiem-5109287.html",
+      "summary": "Khi được giao mục tiêu khác nhau để đánh giá hành vi, các tác nhân của Anthropic bắt đầu tìm cách cản trở và làm hại đối phương.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-15T03:00:00+07:00",
+      "fetched": "2026-08-15T11:20:02.386968+07:00"
+    },
+    {
+      "id": "b0c222758c9b07d2d100022cdc34fc44",
+      "title": "HLV Kim Sang-sik: 'Thua Malaysia 0-4 đã là quá khứ'",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-thua-malaysia-0-4-da-la-qua-khu-5109397.html",
+      "summary": "HLV Kim Sang-sik không nghĩ đến những kết quả cũ trước Malaysia, khi  hiện tại đã có nhiều đổi thay trước lượt đi bán kết ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-15T02:54:59+07:00",
+      "fetched": "2026-08-15T11:20:03.976150+07:00"
     },
     {
       "id": "44b6d1d8275bbc34bc3b0a6b8e568fdb",
