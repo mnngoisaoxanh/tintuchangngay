@@ -1,7 +1,27 @@
 window.newsData_2026_08_16 = {
   "date": "2026-08-16",
-  "lastUpdated": "2026-08-16T01:14:00.037121+07:00",
+  "lastUpdated": "2026-08-16T03:11:22.810625+07:00",
   "articles": [
+    {
+      "id": "abcd7bb69fdf051977b838252dfee40a",
+      "title": "Tre Việt Nam - Indonesia cất ‘tiếng hát’ chung một sân khấu",
+      "link": "https://tuoitre.vn/tre-viet-nam-indonesia-cat-tieng-hat-chung-mot-san-khau-100260815230338611.htm",
+      "summary": "Sinh viên Việt Nam thử sức với các loại nhạc cụ truyền thống Indonesia trong chương trình nghệ thuật tôn vinh sự gắn kết văn hóa giữa hai nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:11:16.151621+07:00",
+      "fetched": "2026-08-16T03:11:16.151690+07:00"
+    },
+    {
+      "id": "234ac2403b0b521685f93491dd121c96",
+      "title": "Dư luận Thái Lan: 'Chúng ta sẵn sàng lấy lại ngôi vua Đông Nam Á'",
+      "link": "https://tuoitre.vn/du-luan-thai-lan-chung-ta-san-sang-lay-lai-ngoi-vua-dong-nam-a-100260815224953817.htm",
+      "summary": "Lần đầu tiên ở ASEAN Cup năm nay, truyền thông Thái Lan tỏ thái độ lạc quan về khả năng đua tranh chức vô địch, hay xa hơn nữa là lấy lại \"ngôi vua\" từ tay Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:11:16.151469+07:00",
+      "fetched": "2026-08-16T03:11:16.151606+07:00"
+    },
     {
       "id": "fd970d18d208a2b9f0d96d11281c2f3c",
       "title": "TP.HCM vinh danh những người thắp sáng tinh thần ‘vì cả nước, cùng cả nước’",
@@ -151,6 +171,26 @@ window.newsData_2026_08_16 = {
       "category": "Tổng hợp",
       "published": "2026-08-16T01:13:52.654392+07:00",
       "fetched": "2026-08-16T01:13:52.654522+07:00"
+    },
+    {
+      "id": "31c99ca2612e03264d133347f1364a7d",
+      "title": "Những thói quen đơn giản mỗi ngày giúp thận khỏe",
+      "link": "https://vnexpress.net/nhung-thoi-quen-don-gian-moi-ngay-giup-than-khoe-5109215.html",
+      "summary": "Uống đủ nước, giảm lượng muối, kiểm soát huyết áp và đường huyết có thể giúp giảm các yếu tố gây suy yếu chức năng thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T19:00:00+07:00",
+      "fetched": "2026-08-16T03:11:11.795813+07:00"
+    },
+    {
+      "id": "a9c40bbc77b5c62012d6dacb1897be21",
+      "title": "Vì sao khó ngủ, dễ tỉnh giấc ban đêm?",
+      "link": "https://vnexpress.net/vi-sao-kho-ngu-de-tinh-giac-ban-dem-5109230.html",
+      "summary": "Trách nhiệm gia đình, áp lực công việc, chi phí sinh hoạt và lịch làm việc có thể khiến nhiều người khó đi vào giấc ngủ hoặc ngủ không sâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T18:07:00+07:00",
+      "fetched": "2026-08-16T03:11:11.796027+07:00"
     },
     {
       "id": "689b57a497fa71042a530f5b844cadf2",
