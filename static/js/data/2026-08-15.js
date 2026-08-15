@@ -1,7 +1,157 @@
 window.newsData_2026_08_15 = {
   "date": "2026-08-15",
-  "lastUpdated": "2026-08-15T21:12:40.544014+07:00",
+  "lastUpdated": "2026-08-15T23:12:30.987219+07:00",
   "articles": [
+    {
+      "id": "8d55c235326ee174558f2cd74c15175e",
+      "title": "The Gundam Base Pop-up 2026: Phép thử của Bandai cho thị trường anime, manga Việt Nam",
+      "link": "https://tuoitre.vn/the-gundam-base-pop-up-2026-phep-thu-cua-bandai-cho-thi-truong-anime-manga-viet-nam-100260815190712046.htm",
+      "summary": "Với cộng đồng fan anime, manga và mô hình Gundam Việt Nam, The Gundam Base Pop-up World Tour 2026 không đơn thuần là một triển lãm hay điểm bán hàng đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T23:12:24.932812+07:00",
+      "fetched": "2026-08-15T23:12:24.932868+07:00"
+    },
+    {
+      "id": "21aec09e0bfcb5d978e2d7092c85d7f0",
+      "title": "Đài Loan cho du học sinh Việt dùng giấy chứng nhận kết quả thi để xin visa",
+      "link": "https://tuoitre.vn/dai-loan-cho-du-hoc-sinh-viet-dung-giay-chung-nhan-ket-qua-thi-de-xin-visa-100260815193835373.htm",
+      "summary": "Du học sinh Việt Nam chưa nhận bằng tốt nghiệp THPT chính thức có thể sử dụng giấy chứng nhận kết quả thi THPT hoặc giấy chứng nhận tốt nghiệp tạm thời để nộp hồ sơ xin visa du học Đài Loan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T23:12:24.932745+07:00",
+      "fetched": "2026-08-15T23:12:24.932802+07:00"
+    },
+    {
+      "id": "82bac16763010659c7d68caadbb7b6f8",
+      "title": "Lòng hào hiệp của người thành phố",
+      "link": "https://tuoitre.vn/long-hao-hiep-cua-nguoi-thanh-pho-100260815203618024.htm",
+      "summary": "Ầm… Tôi và mẹ ngã sóng soài ra đường, ngay khi vừa băng qua Cao đẳng Điện lực. Mẹ nằm sấp trên mặt đường, mũ bảo hiểm vẫn còn nguyên trên đầu, nhưng đầu gối quần đã rách một mảng lớn, tay chân cũng bắt đầu chảy máu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T23:12:24.932672+07:00",
+      "fetched": "2026-08-15T23:12:24.932735+07:00"
+    },
+    {
+      "id": "62fead236dd888719163f0dc7d56c9ae",
+      "title": "Buổi tập đìu hiu của đội tuyển Malaysia trước trận bán kết lượt đi với Việt Nam",
+      "link": "https://tuoitre.vn/buoi-tap-diu-hiu-cua-doi-tuyen-malaysia-truoc-tran-ban-ket-luot-di-voi-viet-nam-100260815200952832.htm",
+      "summary": "Với đội hình chắp vá, đội tuyển Malaysia vẫn cố hoàn thành buổi tập trước trận bán kết lượt đi ASEAN Cup 2026 với đội tuyển Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T23:12:24.932605+07:00",
+      "fetched": "2026-08-15T23:12:24.932662+07:00"
+    },
+    {
+      "id": "5f45a64bef128e7564abae543375ae77",
+      "title": "Bài học: Bảo vệ vùng trời sân bay trước drone xâm nhập",
+      "link": "https://tuoitre.vn/bai-hoc-bao-ve-vung-troi-san-bay-truoc-drone-xam-nhap-100260814184152001.htm",
+      "summary": "Việt Nam có thể tham khảo trong quản trị vùng trời tầm thấp, đặc biệt tại Tân Sơn Nhất và Long Thành, từ câu chuyện của Singapore bảo vệ sân bay trước drone như thế nào?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T23:12:24.932534+07:00",
+      "fetched": "2026-08-15T23:12:24.932595+07:00"
+    },
+    {
+      "id": "788c05c7b36c71e9b510f8f0f45cf50b",
+      "title": "Đồng Nai hoàn thành lấy mẫu hài cốt để giám định ADN, xác định danh tính liệt sĩ",
+      "link": "https://tuoitre.vn/dong-nai-hoan-thanh-lay-mau-hai-cot-de-giam-dinh-adn-xac-dinh-danh-tinh-liet-si-100260815204304279.htm",
+      "summary": "Sau hơn 2 tháng triển khai, Đồng Nai đã hoàn thành lấy mẫu hài cốt tại toàn bộ nghĩa trang liệt sĩ  trên địa bàn để giám định ADN, vượt tiến độ hơn 4 tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T23:12:24.932459+07:00",
+      "fetched": "2026-08-15T23:12:24.932519+07:00"
+    },
+    {
+      "id": "fd970d18d208a2b9f0d96d11281c2f3c",
+      "title": "TP.HCM vinh danh những người thắp sáng tinh thần ‘vì cả nước, cùng cả nước’",
+      "link": "https://tuoitre.vn/tphcm-vinh-danh-nhung-nguoi-thap-sang-tinh-than-vi-ca-nuoc-cung-ca-nuoc-100260815210029787.htm",
+      "summary": "783 tập thể, cá nhân có thành tích xuất sắc trong hoạt động hướng về biên giới, biển, đảo Tổ quốc, công tác an sinh xã hội và vận động nguồn lực xã hội năm 2025 - 2026 nhận bằng khen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T23:12:24.932360+07:00",
+      "fetched": "2026-08-15T23:12:24.932446+07:00"
+    },
+    {
+      "id": "ef41a122c9e5aa5372a39031ad458270",
+      "title": "Trung Đông tối 15-8: Tehran kêu gọi thả 3 phi công Iran bị bắt sống ở Qatar",
+      "link": "https://tuoitre.vn/trung-dong-toi-15-8-tehran-keu-goi-tha-3-phi-cong-iran-bi-bat-song-o-qatar-100260815200450345.htm",
+      "summary": "Israel lại không kích Lebanon, Hezbollah cảnh báo đáp trả; Iran kêu gọi thả 3 phi công bị bắt sống ở Qatar... là một số tin tức đáng chú ý về Trung Đông tối 15-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T23:12:24.932290+07:00",
+      "fetched": "2026-08-15T23:12:24.932349+07:00"
+    },
+    {
+      "id": "602f624d88aa0b4a323015d41b3078df",
+      "title": "Tàu SE5 bị ném gạch khi qua Đồng Nai, kính vỡ văng tung tóe",
+      "link": "https://tuoitre.vn/tau-se5-bi-nem-gach-khi-qua-dong-nai-kinh-vo-vang-tung-toe-100260815201654152.htm",
+      "summary": "Tàu SE5 đang chạy chặng Nha Trang đi TP.HCM thì bất ngờ có tiếng động mạnh, mảnh kính vỡ tung, hành khách trong khoang tàu hoảng sợ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T23:12:24.932214+07:00",
+      "fetched": "2026-08-15T23:12:24.932278+07:00"
+    },
+    {
+      "id": "2b1fd28997110f2f9a4915a1f5c4d1d4",
+      "title": "Công an TP.HCM củng cố hồ sơ để xử lý 3 người thả diều ảnh hưởng an toàn bay gần sân bay Tân Sơn Nhất",
+      "link": "https://tuoitre.vn/cong-an-tphcm-cung-co-ho-so-de-xu-ly-3-nguoi-tha-dieu-anh-huong-an-toan-bay-gan-san-bay-tan-son-nhat-100260815210548254.htm",
+      "summary": "Tối 15-8, Công an TP.HCM cho biết đang củng cố hồ sơ, làm rõ hành vi của 3 người thả diều trong khu vực có khả năng ảnh hưởng đến hoạt động cất, hạ cánh và an toàn hoạt động bay của sân bay Tân Sơn Nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T23:12:24.932144+07:00",
+      "fetched": "2026-08-15T23:12:24.932204+07:00"
+    },
+    {
+      "id": "3bbea9636e28aef670f999a7d7a54fb8",
+      "title": "Vợ Huấn Hoa Hồng là ai, có vai trò gì trong 'hệ sinh thái' doanh nghiệp của chồng?",
+      "link": "https://tuoitre.vn/vo-huan-hoa-hong-la-ai-co-vai-tro-gi-trong-he-sinh-thai-doanh-nghiep-cua-chong-100260815211516199.htm",
+      "summary": "Vợ Bùi Xuân Huấn (tức Huấn Hoa Hồng) là Phạm Thị Ngọc Linh, không chỉ biết đến là hot girl trong lĩnh vực nước hoa, mỹ phẩm, mà còn xuất hiện tại nhiều doanh nghiệp liên quan đến chồng với vai trò cổ đông góp vốn, tổng giám đốc và người đại diện theo pháp luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T23:12:24.932080+07:00",
+      "fetched": "2026-08-15T23:12:24.932134+07:00"
+    },
+    {
+      "id": "ce5edd240a47d89326af94d6c9d406ba",
+      "title": "Lễ hội sầu riêng giúp đại ngàn thức giấc, kết nối vươn xa",
+      "link": "https://tuoitre.vn/le-hoi-sau-rieng-giup-dai-ngan-thuc-giac-ket-noi-vuon-xa-10026081520560104.htm",
+      "summary": "Hàng ngàn người dân, du khách đổ về quảng trường 10-3 trong đêm khai mạc Lễ hội sầu riêng Đắk Lắk 2026, nơi câu chuyện về đất, người và trái sầu riêng được kể bằng nghệ thuật, gửi gắm khát vọng đưa nông sản đại ngàn vươn xa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T23:12:24.932010+07:00",
+      "fetched": "2026-08-15T23:12:24.932069+07:00"
+    },
+    {
+      "id": "ea745794d25efb2156a68d4dcb62c23c",
+      "title": "Bắt nghi phạm là nam nhân viên trộm 120.000 USD tại casino",
+      "link": "https://tuoitre.vn/bat-nghi-pham-la-nam-nhan-vien-trom-120000-usd-tai-casino-100260815211557379.htm",
+      "summary": "Sau hơn 14 giờ tiếp nhận tin báo, cảnh sát hình sự Đà Nẵng đã truy xét, bắt giữ nghi phạm thực hiện vụ trộm 120.000 USD tại một casino ở xã Duy Nghĩa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T23:12:24.931939+07:00",
+      "fetched": "2026-08-15T23:12:24.932000+07:00"
+    },
+    {
+      "id": "70a296c6911f043d26d7117389d2b9da",
+      "title": "Fan Đông Nam Á: Tại sao Singapore không đá với Thái Lan như cách đã làm với Việt Nam?",
+      "link": "https://tuoitre.vn/fan-dong-nam-a-tai-sao-singapore-khong-da-voi-thai-lan-nhu-cach-da-lam-voi-viet-nam-100260815212722406.htm",
+      "summary": "Người hâm mộ khu vực tỏ thái độ bàng hoàng khi Singapore thua đậm Thái Lan 1-3 trên sân nhà ở lượt đi bán kết ASEAN Cup 2026, diễn ra tối 15-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T23:12:24.931857+07:00",
+      "fetched": "2026-08-15T23:12:24.931928+07:00"
+    },
+    {
+      "id": "b4f6450dff49803d2d6db4bf9c53262b",
+      "title": "Khai giảng 5-9: Cả nước dự lễ chung, trường nội trú vùng biên đồng loạt khánh thành",
+      "link": "https://tuoitre.vn/khai-giang-5-9-ca-nuoc-du-le-chung-truong-noi-tru-vung-bien-dong-loat-khanh-thanh-100260815215349416.htm",
+      "summary": "Lễ khai giảng năm học 2026-2027 diễn ra đồng loạt lúc 8h, sau lễ khánh thành các trường nội trú liên cấp tại xã biên giới đủ điều kiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T23:12:24.931699+07:00",
+      "fetched": "2026-08-15T23:12:24.931842+07:00"
+    },
     {
       "id": "a10601d71bb6613b2ffec08fc790ae8c",
       "title": "Wi-Fi trên máy bay Việt Nam sắp bước vào cuộc đua mới với vệ tinh Starlink?",
@@ -453,6 +603,26 @@ window.newsData_2026_08_15 = {
       "fetched": "2026-08-15T17:12:24.284009+07:00"
     },
     {
+      "id": "c8f46fcb966df5ec0e29f6d95c75bfe1",
+      "title": "Highlight đội tuyển Singapore 1-3 Thái Lan: Đội khách áp đảo | Bán kết ASEAN Cup 2026",
+      "link": "https://thanhnien.vn/highlight-doi-tuyen-singapore-1-3-thai-lan-doi-khach-ap-dao-ban-ket-asean-cup-2026-185260815230447244.htm",
+      "summary": "Thái Lan thể hiện sức mạnh vượt trội khi đánh bại Singapore 3-1 ngay trên sân khách ở bán kết lượt đi ASEAN Cup 2026. Teerasak Poeiphimai lập cú đúp trong hiệp 1, trước khi Ratree ghi bàn nâng tỷ số lên 3-0. Singapore chỉ có thể gỡ lại 1 bàn nhờ công Irfan Fandi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T16:04:00+07:00",
+      "fetched": "2026-08-15T23:12:23.433119+07:00"
+    },
+    {
+      "id": "45408bd7c9b59ed9f70df9e607cdad89",
+      "title": "Iran yêu cầu Qatar thả '3 phi công Su-24 bị bắt sau khi nhảy dù'",
+      "link": "https://vnexpress.net/iran-yeu-cau-qatar-tha-3-phi-cong-su-24-bi-bat-sau-khi-nhay-du-5109564.html",
+      "summary": "Iran cho biết 3 phi công Su-24 bị Qatar giam giữ gần 6 tháng qua, kêu gọi các tổ chức quốc tế can thiệp để trả tự do cho họ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-15T15:28:41+07:00",
+      "fetched": "2026-08-15T23:12:26.222482+07:00"
+    },
+    {
       "id": "0deb576a74a8e2e9e336e4c96e6133ed",
       "title": "Dùng Facebook giả dụ nghi phạm cướp tài sản để công an bắt giữ",
       "link": "https://tuoitre.vn/dung-facebook-gia-du-nghi-pham-cuop-tai-san-de-cong-an-bat-giu-100260815123423258.htm",
@@ -603,6 +773,56 @@ window.newsData_2026_08_15 = {
       "fetched": "2026-08-15T15:15:10.824966+07:00"
     },
     {
+      "id": "2e90b294a24ba0137ca00e62678d4ee9",
+      "title": "Điểm nghẽn doanh nghiệp Lai Châu mong được tháo gỡ",
+      "link": "https://thanhnien.vn/diem-nghen-doanh-nghiep-lai-chau-mong-duoc-thao-go-185260815201309203.htm",
+      "summary": "Tại Vòng đối thoại địa phương thuộc Diễn đàn Kinh tế tư nhân Việt Nam 2026 diễn ra tại Lai Châu, câu chuyện được cộng đồng doanh nghiệp quan tâm nhiều nhất là làm thế nào để tiếp cận đất đai, rút ngắn thủ tục đầu tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T15:10:00+07:00",
+      "fetched": "2026-08-15T23:12:23.433306+07:00"
+    },
+    {
+      "id": "82fc2b89241395d761fc8bac3f028431",
+      "title": "Đắk Lắk khai hội sầu riêng, đấu giá ngay tại vườn",
+      "link": "https://thanhnien.vn/dak-lak-khai-hoi-sau-rieng-dau-gia-ngay-tai-vuon-18526081521285513.htm",
+      "summary": "Diễn ra từ ngày 15.8 đến 2.9, Lễ hội sầu riêng Đắk Lắk 2026 khai hội với 400 gian hàng, nhiều hoạt động trải nghiệm, đấu giá sầu riêng tại vườn và diễn đàn kết nối tiêu thụ, dự kiến thu hút 300.000 lượt khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T15:09:00+07:00",
+      "fetched": "2026-08-15T23:12:23.433512+07:00"
+    },
+    {
+      "id": "d62106dcc60083f3f9a95ab7c7571928",
+      "title": "Huấn Hoa Hồng nghe lệnh bắt, nghi dùng sai hàng chục tỷ đồng tiền từ thiện",
+      "link": "https://vnexpress.net/huan-hoa-hong-nghe-lenh-bat-nghi-dung-sai-hang-chuc-ty-dong-tien-tu-thien-5109560.html",
+      "summary": "Bùi Xuân Huấn, 41 tuổi, tức Huấn Hoa Hồng, bị cáo buộc huy động hàng chục tỷ đồng tiền từ thiện từ nhiều tổ chức, cá nhân, nhưng có dấu hiệu sử dụng sai mục đích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T14:36:08+07:00",
+      "fetched": "2026-08-15T23:12:20.652678+07:00"
+    },
+    {
+      "id": "277b53ef50adce75854c3733b0980e47",
+      "title": "Trước bán kết ASEAN Cup, điểm mặt những cái tên từng gieo sầu cho đội tuyển Malaysia",
+      "link": "https://thanhnien.vn/truoc-ban-ket-asean-cup-diem-mat-nhung-cai-ten-tung-gieo-sau-cho-doi-tuyen-malaysia-185260815210956875.htm",
+      "summary": "Trước trận bán kết ASEAN Cup 2026, đội tuyển Việt Nam có lợi thế về những cá nhân từng ghi bàn vào lưới Malaysia. Hoàng Đức đã 2 lần lập công tại ASEAN Cup, trong khi Quang Hải và Xuân Son cũng từng chọc thủng lưới đối thủ này ở những giải đấu chính thức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T14:24:00+07:00",
+      "fetched": "2026-08-15T23:12:23.433676+07:00"
+    },
+    {
+      "id": "edc1eab94083ccf20f007d65b524db38",
+      "title": "Giáo viên so sánh đề thi tốt nghiệp chính thức với đề thi lại ở Tuyên Quang",
+      "link": "https://thanhnien.vn/giao-vien-so-sanh-de-thi-tot-nghiep-chinh-thuc-voi-de-thi-lai-o-tuyen-quang-185260815210340668.htm",
+      "summary": "Các giáo viên tại TP.HCM nêu nhận xét và so sánh về cấu trúc, nội dung, yêu cầu về độ khó của đề thi tốt nghiệp THPT với đề thi lại của thí sinh tại điểm thi Trường THPT chuyên Tuyên Quang (tỉnh Tuyên Quang) vào sáng nay (15.8).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T14:23:00+07:00",
+      "fetched": "2026-08-15T23:12:23.433830+07:00"
+    },
+    {
       "id": "2b8cd9ed9a37894c83e6aaff11299148",
       "title": "Thanh Ngọc gợi cảm ở tuổi 43, tiết lộ về mối quan hệ với Đinh Tiến Đạt",
       "link": "https://thanhnien.vn/thanh-ngoc-goi-cam-o-tuoi-43-tiet-lo-ve-moi-quan-he-voi-dinh-tien-dat-185260815204034882.htm",
@@ -653,6 +873,26 @@ window.newsData_2026_08_15 = {
       "fetched": "2026-08-15T21:12:32.805387+07:00"
     },
     {
+      "id": "1024fdc4405282b2a814d4a394f747b1",
+      "title": "Nước nào có mỏ đất hiếm lớn nhất thế giới?",
+      "link": "https://vnexpress.net/nuoc-nao-co-mo-dat-hiem-lon-nhat-the-gioi-5109277.html",
+      "summary": "Là nguồn cung đất hiếm chủ đạo trên thế giới, mỏ này có trữ lượng lên đến 100 triệu tấn. Theo bạn, nó thuộc nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T14:00:13+07:00",
+      "fetched": "2026-08-15T23:12:20.652872+07:00"
+    },
+    {
+      "id": "83ddc2927bf9a4045916504067abb677",
+      "title": "Vợ gọi tên người cũ trong lúc ngủ",
+      "link": "https://vnexpress.net/vo-goi-ten-nguoi-cu-trong-luc-ngu-5109167.html",
+      "summary": "Vợ còn cho rằng tôi là người đến sau, được tất cả rồi còn muốn gì nữa; tôi thực sự buồn và nghĩ nhiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T14:00:00+07:00",
+      "fetched": "2026-08-15T23:12:20.653048+07:00"
+    },
+    {
       "id": "3ce4da6a724ad23958eab46fb17a71e5",
       "title": "Trẻ hóa da hiện đại: Vì sao cần chăm sóc da trước, trong và sau thủ thuật?",
       "link": "https://thanhnien.vn/tre-hoa-da-hien-dai-vi-sao-can-cham-soc-da-truoc-trong-va-sau-thu-thuat-185260815204433028.htm",
@@ -671,6 +911,26 @@ window.newsData_2026_08_15 = {
       "category": "Thể thao",
       "published": "2026-08-15T13:49:30+07:00",
       "fetched": "2026-08-15T21:12:40.534844+07:00"
+    },
+    {
+      "id": "1c15c968c714cdc58a79956383b72c6b",
+      "title": "Tàu chở dầu UAE bị tấn công ở eo biển Hormuz",
+      "link": "https://vnexpress.net/tau-cho-dau-uae-bi-tan-cong-o-eo-bien-hormuz-5109524.html",
+      "summary": "Công ty dầu khí ADNOC của UAE cho biết một tàu chở dầu bị tấn công khi đi qua eo biển Hormuz, không có thương vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T13:49:01+07:00",
+      "fetched": "2026-08-15T23:12:20.653397+07:00"
+    },
+    {
+      "id": "1c15c968c714cdc58a79956383b72c6b",
+      "title": "Tàu chở dầu UAE bị tấn công ở eo biển Hormuz",
+      "link": "https://vnexpress.net/tau-cho-dau-uae-bi-tan-cong-o-eo-bien-hormuz-5109524.html",
+      "summary": "Công ty dầu khí ADNOC của UAE cho biết một tàu chở dầu bị tấn công khi đi qua eo biển Hormuz, không có thương vong.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-15T13:49:01+07:00",
+      "fetched": "2026-08-15T23:12:26.222671+07:00"
     },
     {
       "id": "37cf2b10e68473137e232093973fc51e",
