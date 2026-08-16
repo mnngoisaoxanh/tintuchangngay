@@ -1,7 +1,27 @@
 window.newsData_2026_08_17 = {
   "date": "2026-08-17",
-  "lastUpdated": "2026-08-17T03:10:31.915398+07:00",
+  "lastUpdated": "2026-08-17T05:10:37.402476+07:00",
   "articles": [
+    {
+      "id": "e1e387836a4579ede33649d9235ecebd",
+      "title": "Lê Giang Patrik được chấm điểm cao nhất trận Việt Nam - Malaysia",
+      "link": "https://tuoitre.vn/le-giang-patrik-duoc-cham-diem-cao-nhat-tran-viet-nam-malaysia-100260817003845242.htm",
+      "summary": "Với màn trình diễn xuất sắc cùng những pha cứu thua quan trọng, thủ môn Lê Giang Patrik được Sofascore chấm 7.8 điểm, cao nhất trận Việt Nam gặp Malaysia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T05:10:29.854614+07:00",
+      "fetched": "2026-08-17T05:10:29.854682+07:00"
+    },
+    {
+      "id": "a8cecaaae6689c5e70df0ca7083f98d9",
+      "title": "Arsenal lập kỷ lục lịch sử tại Siêu cúp Anh",
+      "link": "https://tuoitre.vn/arsenal-lap-ky-luc-lich-su-tai-sieu-cup-anh-100260817001253597.htm",
+      "summary": "Tối 16-8, Arsenal đã có màn chạy đà hoàn hảo cho mùa giải mới khi vùi dập Man City với tỉ số 3-0 trong trận tranh Siêu cúp Anh (FA Community Shield), qua đó tạo ra kỉ lục lịch sử cho giải đấu này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T05:10:29.854461+07:00",
+      "fetched": "2026-08-17T05:10:29.854600+07:00"
+    },
     {
       "id": "0964a253b382fb4aac42de32aa4626a3",
       "title": "Ronaldo bất ngờ tiết lộ chuyện sắp giải nghệ",
@@ -163,6 +183,76 @@ window.newsData_2026_08_17 = {
       "fetched": "2026-08-17T01:13:56.784930+07:00"
     },
     {
+      "id": "4644329bff467360af15bb4730209bd4",
+      "title": "Nguyễn Xuân Son hóa thành 'siêu nhân', fan khu vực sửng sốt và thán phục",
+      "link": "https://thanhnien.vn/nguyen-xuan-son-hoa-thanh-sieu-nhan-fan-khu-vuc-sung-sot-va-than-phuc-185260817020315178.htm",
+      "summary": "Cú bay người đánh đầu mở tỷ số tuyệt đẹp của Nguyễn Xuân Son vào lưới Malaysia tại bán kết ASEAN Cup 2026 khiến cộng đồng bóng đá khu vực phải ngả mũ thán phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T22:03:00+07:00",
+      "fetched": "2026-08-17T05:10:27.425274+07:00"
+    },
+    {
+      "id": "012dda19ea2be73008b4bb05f87a505d",
+      "title": "Mạng xã hội tác động đến sức khỏe giới trẻ Việt Nam thế nào?",
+      "link": "https://vnexpress.net/mang-xa-hoi-tac-dong-den-suc-khoe-gioi-tre-viet-nam-the-nao-5109568.html",
+      "summary": "Trẻ càng dành nhiều giờ trên mạng xã hội, nguy cơ rối loạn giấc ngủ, lo âu, trầm cảm càng lớn, theo cảnh báo của các chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T22:00:00+07:00",
+      "fetched": "2026-08-17T05:10:24.141005+07:00"
+    },
+    {
+      "id": "5947fd98b9c3f45ad3fc9fdb2d989c12",
+      "title": "Bí ẩn về 'gián điệp gốc Nga' bị FBI bắn chết",
+      "link": "https://vnexpress.net/bi-an-ve-gian-diep-goc-nga-bi-fbi-ban-chet-5107668.html",
+      "summary": "Cuộc đào tẩu xuyên bang của Ilya Beloozerov kết thúc bằng 5 phát đạn từ đặc vụ FBI, để lại nhiều nghi vấn về người đàn ông gốc Nga bị cáo buộc làm gián điệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T22:00:00+07:00",
+      "fetched": "2026-08-17T05:10:24.141241+07:00"
+    },
+    {
+      "id": "c17e579625fdc6c442009a3fdd92b464",
+      "title": "Honda Super-One - ôtô điện mini ngập tràn công nghệ",
+      "link": "https://vnexpress.net/honda-super-one-oto-dien-mini-ngap-tran-cong-nghe-5109784.html",
+      "summary": "Mẫu xe điện cỡ nhỏ của Honda bán số lượng giới hạn 30 xe, nhập khẩu Nhật Bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T22:00:00+07:00",
+      "fetched": "2026-08-17T05:10:24.141416+07:00"
+    },
+    {
+      "id": "8fada54316ce288e4420b25985964637",
+      "title": "Lịch âm hôm nay 17.8: Ngày Đạo Tặc, cần lưu ý gì?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-178-ngay-dao-tac-can-luu-y-gi-185260814210329684.htm",
+      "summary": "Theo lịch âm hôm nay 17.8 là ngày Quý Hợi. Dân gian quan niệm đây là ngày Đạo Tặc rất xấu, cần lưu ý gì? Dương lịch hôm nay có ngày gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T22:00:00+07:00",
+      "fetched": "2026-08-17T05:10:27.425488+07:00"
+    },
+    {
+      "id": "5947fd98b9c3f45ad3fc9fdb2d989c12",
+      "title": "Bí ẩn về 'gián điệp gốc Nga' bị FBI bắn chết",
+      "link": "https://vnexpress.net/bi-an-ve-gian-diep-goc-nga-bi-fbi-ban-chet-5107668.html",
+      "summary": "Cuộc đào tẩu xuyên bang của Ilya Beloozerov kết thúc bằng 5 phát đạn từ đặc vụ FBI, để lại nhiều nghi vấn về người đàn ông gốc Nga bị cáo buộc làm gián điệp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-16T22:00:00+07:00",
+      "fetched": "2026-08-17T05:10:31.181708+07:00"
+    },
+    {
+      "id": "d27da8a2c87876346f8136267d62d440",
+      "title": "Gần 7.000 người già sập bẫy 'yến sào miễn phí'",
+      "link": "https://thanhnien.vn/gan-7000-nguoi-gia-sap-bay-yen-sao-mien-phi-185260815190911197.htm",
+      "summary": "Chỉ với mồi nhử là một hộp yến sào 'miễn phí', bị can Trần Quang Đạo và đồng bọn đã bòn rút gần 40 tỉ đồng của gần 7.000 nạn nhân yếu thế. Cục Cảnh sát hình sự (C02), Bộ Công an chủ trì, phối hợp Công an TP.HCM vào cuộc bóc gỡ đường dây lừa đảo, khởi tố 182 bị can trong đường dây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T21:29:00+07:00",
+      "fetched": "2026-08-17T05:10:27.425665+07:00"
+    },
+    {
       "id": "a86f4bc4a1ff69cd040ec612ee3efb5e",
       "title": "Truyền thông Đông Nam Á: Việt Nam quá bản lĩnh và sắc bén, dồn Malaysia vào thế chân tường",
       "link": "https://thanhnien.vn/truyen-thong-dong-nam-a-viet-nam-qua-ban-linh-va-sac-ben-don-malaysia-vao-the-chan-tuong-18526081623445324.htm",
@@ -171,6 +261,16 @@ window.newsData_2026_08_17 = {
       "category": "Tổng hợp",
       "published": "2026-08-16T20:00:00+07:00",
       "fetched": "2026-08-17T03:10:23.057563+07:00"
+    },
+    {
+      "id": "8bb48112f4cc978c88da3c1ebfb39334",
+      "title": "7 thói quen tưởng 'vô hại' âm thầm bào mòn sức khỏe",
+      "link": "https://vnexpress.net/7-thoi-quen-tuong-vo-hai-am-tham-bao-mon-suc-khoe-5109260.html",
+      "summary": "Lướt điện thoại khi buồn chán, liên tục xả bực dọc với bạn đời hay dán nhãn thức ăn \"tốt - xấu\"... là những thói quen tưởng như bình thường nhưng lại gây hại cho thể chất và tinh thần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T20:00:00+07:00",
+      "fetched": "2026-08-17T05:10:24.141577+07:00"
     },
     {
       "id": "d0561789a9f57adf300f4e0091eee7e3",
