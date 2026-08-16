@@ -1,7 +1,157 @@
 window.newsData_2026_08_16 = {
   "date": "2026-08-16",
-  "lastUpdated": "2026-08-16T09:52:01.471783+07:00",
+  "lastUpdated": "2026-08-16T11:25:48.133544+07:00",
   "articles": [
+    {
+      "id": "b8389bd95a841ce8e8e38fa0b97ec540",
+      "title": "Tổng giám đốc Dragon Capital: Khối ngoại đã bán ròng 80.000 tỉ đồng và đang bán chậm lại",
+      "link": "https://tuoitre.vn/tong-giam-doc-dragon-capital-khoi-ngoai-da-ban-rong-80000-ti-dong-va-dang-ban-cham-lai-100260815224926937.htm",
+      "summary": "Bất chấp khối ngoại bán ròng cổ phiếu Việt Nam suốt từ đầu năm, Tổng giám đốc Dragon Capital Việt Nam Lê Anh Tuấn cho rằng phần bán ra sắp tới sẽ không còn nhiều, trong khi dòng vốn đón đầu nâng hạng FTSE dự kiến bắt đầu giải ngân từ tháng 9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T11:25:42.386643+07:00",
+      "fetched": "2026-08-16T11:25:42.386730+07:00"
+    },
+    {
+      "id": "ee13be209a6e45a6c3d4080733d992dd",
+      "title": "Hơn 1.000 người đang chạy đua lấy mẫu ADN hài cốt liệt sĩ trước mùa mưa ở Đà Nẵng",
+      "link": "https://tuoitre.vn/hon-1000-nguoi-dang-chay-dua-lay-mau-adn-hai-cot-liet-si-truoc-mua-mua-o-da-nang-100260816081857173.htm",
+      "summary": "Mùa mưa dầm dề, khắc nghiệt đang cận kề, trong khi Chiến dịch 500 ngày đêm bước vào giai đoạn quyết liệt nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T11:25:42.386547+07:00",
+      "fetched": "2026-08-16T11:25:42.386627+07:00"
+    },
+    {
+      "id": "847c7c29f0e6dda2d1d85f8cfefb6f1d",
+      "title": "Sống lại một thời 'rock xuyên màn đêm' của sinh viên Hà Nội",
+      "link": "https://tuoitre.vn/song-lai-mot-thoi-rock-xuyen-man-dem-cua-sinh-vien-ha-noi-100260816083628216.htm",
+      "summary": "Bức Tường cùng các ban nhạc rock sinh viên Đại học Xây dựng tụ hội về sân trường với Rockshow ‘CKX Return’ tối 15-8, làm sống lại không khí nhạc rock sôi động trong sinh viên Hà Nội một thời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T11:25:42.386452+07:00",
+      "fetched": "2026-08-16T11:25:42.386535+07:00"
+    },
+    {
+      "id": "e69045302f602fb8b8073f38d6dc65bf",
+      "title": "Đếm calo từng muỗng dầu ăn, từng trái vải, ăn theo chế độ của AI, số kí còn nguyên",
+      "link": "https://tuoitre.vn/dem-calo-tung-muong-dau-an-tung-trai-vai-an-theo-che-do-cua-ai-so-ki-con-nguyen-100260814160527801.htm",
+      "summary": "Tô bún nước lèo 450-550 kcalo, trong đó lượng bún tươi khoảng 150 kcalo, heo quay và cá lóc chừng 150 kcalo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T11:25:42.386365+07:00",
+      "fetched": "2026-08-16T11:25:42.386438+07:00"
+    },
+    {
+      "id": "2fbe5fc52802e7ed4bafb010e9ae233d",
+      "title": "Ngoại hình và tố chất xuất sắc, con bò được trả giá 4,74 triệu USD",
+      "link": "https://tuoitre.vn/ngoai-hinh-va-to-chat-xuat-sac-con-bo-duoc-tra-gia-474-trieu-usd-10026081607065024.htm",
+      "summary": "Con bò tên Carina lập kỷ lục với giá 4,74 triệu USD, không phải nhờ lượng thịt mà bởi giá trị di truyền có thể tạo ra nhiều thế hệ bò ưu tú.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T11:25:42.386267+07:00",
+      "fetched": "2026-08-16T11:25:42.386351+07:00"
+    },
+    {
+      "id": "e4b124f381144c455b3f6fc5559f1c28",
+      "title": "Chiến sự Mỹ - Iran: Địa lý và xuồng nhỏ - Vũ khí của nhà nghèo",
+      "link": "https://tuoitre.vn/chien-su-my-iran-dia-ly-va-xuong-nho-vu-khi-cua-nha-ngheo-100260814222851479.htm",
+      "summary": "Iran biết phận nghèo nên đã sửa soạn từ trước cách chống lại kẻ địch mạnh gấp bội 'tiền rừng bạc biển'. Phát triển vũ khí bất cân xứng và rẻ tiền là một cách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T11:25:42.386154+07:00",
+      "fetched": "2026-08-16T11:25:42.386252+07:00"
+    },
+    {
+      "id": "c1d6d153b17b893f6028d340323a9d99",
+      "title": "Tin tức giá xe: Kia Sonet giảm giá kỷ lục, niêm yết rẻ nhất phân khúc, xuống ngang Hyundai i10",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-kia-sonet-giam-gia-ky-luc-niem-yet-re-nhat-phan-khuc-xuong-ngang-hyundai-i10-100260816085626524.htm",
+      "summary": "Chỉ sau một tháng kể từ lần điều chỉnh trước, Kia Sonet tiếp tục giảm giá niêm yết, đưa phiên bản tiêu chuẩn xuống còn 450 triệu đồng, mức thấp kỷ lục, đồng thời tạo lợi thế về lệ phí trước bạ so với các đối thủ cùng phân khúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T11:25:42.386082+07:00",
+      "fetched": "2026-08-16T11:25:42.386144+07:00"
+    },
+    {
+      "id": "4b67c03f12a4b064da5fd5e1db7d98cf",
+      "title": "Tuyển Malaysia lại nhận tin dữ góp thêm vào 'bão chấn thương' trước thềm đại chiến với Việt Nam",
+      "link": "https://tuoitre.vn/tuyen-malaysia-lai-nhan-tin-du-gop-them-vao-bao-chan-thuong-truoc-them-dai-chien-voi-viet-nam-100260816085130128.htm",
+      "summary": "Báo Stadium Astro của Malaysia cho biết, HLV Tan Cheng Hoe vừa phải nhận thêm tin dữ về tình hình lực lượng của đội nhà, trước thềm trận bán kết lượt đi chạm trán Việt Nam lúc 20h ngày 16-8 (giờ Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T11:25:42.386004+07:00",
+      "fetched": "2026-08-16T11:25:42.386071+07:00"
+    },
+    {
+      "id": "2446d3a2d6972a14a80108b0e49f6998",
+      "title": "Hàn Quốc bất ngờ miễn nhiệm Bộ trưởng thương mại giữa sức ép thuế quan với Mỹ",
+      "link": "https://tuoitre.vn/han-quoc-bat-ngo-mien-nhiem-bo-truong-thuong-mai-giua-suc-ep-thue-quan-voi-my-100260816090223514.htm",
+      "summary": "Hàn Quốc miễn nhiệm Bộ trưởng Thương mại Yeo Han Koo trong lúc chịu sức ép ngày càng lớn từ Washington.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T11:25:42.385919+07:00",
+      "fetched": "2026-08-16T11:25:42.385991+07:00"
+    },
+    {
+      "id": "dd85c234afed98375595318aabed6bcd",
+      "title": "Bộ Nội vụ hướng dẫn điều kiện được tiếp nhận vào làm công chức",
+      "link": "https://tuoitre.vn/bo-noi-vu-huong-dan-dieu-kien-duoc-tiep-nhan-vao-lam-cong-chuc-100260816082133262.htm",
+      "summary": "Bộ Nội vụ hướng dẫn các trường hợp và điều kiện để được tiếp nhận vào làm công chức. Đồng thời, hướng dẫn về xếp ngạch công chức theo vị trí việc làm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T11:25:42.385870+07:00",
+      "fetched": "2026-08-16T11:25:42.385912+07:00"
+    },
+    {
+      "id": "941f64782cb29bc0599a38f1c9f37bc6",
+      "title": "Arsenal luôn vô địch khi gặp Man City ở Siêu cúp Anh",
+      "link": "https://tuoitre.vn/arsenal-luon-vo-dich-khi-gap-man-city-o-sieu-cup-anh-10026081609211139.htm",
+      "summary": "Arsenal đã giành chiến thắng trong cả 3 lần gặp Man City ở Siêu cúp Anh trong quá khứ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T11:25:42.385821+07:00",
+      "fetched": "2026-08-16T11:25:42.385863+07:00"
+    },
+    {
+      "id": "a1a750b52f32889b5d28d7413846bc16",
+      "title": "Một ngôi trường đặc biệt của Công an TP.HCM dành cho trẻ em đặc biệt",
+      "link": "https://tuoitre.vn/mot-ngoi-truong-dac-biet-cua-cong-an-tphcm-danh-cho-tre-em-dac-biet-100260815174334376.htm",
+      "summary": "Đây là ngôi trường đặc biệt, nuôi dạy học sinh từ tiểu học đến THPT có hoàn cảnh khó khăn, cơ nhỡ, mồ côi...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T11:25:42.385768+07:00",
+      "fetched": "2026-08-16T11:25:42.385813+07:00"
+    },
+    {
+      "id": "bb17c2ed09464c2b67037a12acbac99c",
+      "title": "Những con đường trùng tên, đổi hay không",
+      "link": "https://tuoitre.vn/nhung-con-duong-trung-ten-doi-hay-khong-100260815230227535.htm",
+      "summary": "TP.HCM ghi nhận 782 tuyến đường trùng tên, trùng số sau sáp nhập, trong đó có 35 tuyến trùng tên và 747 tuyến trùng số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T11:25:42.385713+07:00",
+      "fetched": "2026-08-16T11:25:42.385760+07:00"
+    },
+    {
+      "id": "4a3ece6268cefd3b9d93d93bc0147f08",
+      "title": "Chó cắn nát vùng mặt bé trai 2 tuổi",
+      "link": "https://tuoitre.vn/cho-can-nat-vung-mat-be-trai-2-tuoi-100260816092218015.htm",
+      "summary": "Một bé trai 26 tháng tuổi bị chó nhà tấn công, gây đa chấn thương nghiêm trọng vùng đầu, mặt và cổ, trong đó có những tổn thương đe dọa trực tiếp đến tính mạng và nguy cơ để lại di chứng liệt mặt, tổn thương mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T11:25:42.385646+07:00",
+      "fetched": "2026-08-16T11:25:42.385705+07:00"
+    },
+    {
+      "id": "30491778dcf75130d5ed149b65d28e27",
+      "title": "Đang livestream Talkshow góp vạn tấm lòng tiếp sức đến trường cho tân sinh viên khó khăn",
+      "link": "https://tuoitre.vn/dang-livestream-talkshow-gop-van-tam-long-tiep-suc-den-truong-cho-tan-sinh-vien-kho-khan-100260816095306399.htm",
+      "summary": "Chương trình livestream, talkshow 'Một khát vọng - Vạn tấm lòng' và bán hàng gây quỹ 'Tiếp sức đến trường' năm 2026 chính thức bắt đầu 10h ngày 16-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T11:25:42.385488+07:00",
+      "fetched": "2026-08-16T11:25:42.385634+07:00"
+    },
     {
       "id": "a3f56411d5499dce3c731e4f8565b258",
       "title": "Tin tức thế giới 16-8: Cháy rừng ở châu Âu gây khủng hoảng; Đảng Dân chủ Mỹ khởi động bầu cử 2028",
@@ -253,6 +403,196 @@ window.newsData_2026_08_16 = {
       "fetched": "2026-08-16T07:41:23.359836+07:00"
     },
     {
+      "id": "517456c1bac899a04119ea3b509df964",
+      "title": "Khách Tây đưa 3 triệu đồng trả cuốc xe 250.000 đồng, tài xế phản ứng thế nào?",
+      "link": "https://thanhnien.vn/khach-tay-dua-3-trieu-dong-tra-cuoc-xe-250000-dong-tai-xe-phan-ung-the-nao-185260815160937127.htm",
+      "summary": "Khách Tây đưa 6 tờ 500.000 đồng để trả cuốc xe chỉ hơn 250.000 đồng ở Đà Nẵng. Phản ứng của nam tài xế sau đó nhận nhiều lời khen.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T04:22:00+07:00",
+      "fetched": "2026-08-16T11:25:40.649347+07:00"
+    },
+    {
+      "id": "ccf5f490774b4a4b1a33aa2a1f13b356",
+      "title": "Muốn phòng mát hơn, nên mua điều hòa di động hay máy hút ẩm?",
+      "link": "https://thanhnien.vn/muon-phong-mat-hon-nen-mua-dieu-hoa-di-dong-hay-may-hut-am-185260709232142698.htm",
+      "summary": "Điều hòa di động và máy hút ẩm đều giúp giảm cảm giác oi bức, nhưng chỉ một thiết bị có thể hạ nhiệt độ phòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T04:22:00+07:00",
+      "fetched": "2026-08-16T11:25:40.649490+07:00"
+    },
+    {
+      "id": "23ada1d1a0f07e5ff7fe877c07a50d60",
+      "title": "Hội doanh nhân trẻ tỉnh Gia Lai huy động 1,6 tỉ đồng cho an sinh xã hội",
+      "link": "https://thanhnien.vn/hoi-doanh-nhan-tre-tinh-gia-lai-huy-dong-16-ti-dong-cho-an-sinh-xa-hoi-185260815165927568.htm",
+      "summary": "Hội doanh nhân trẻ tỉnh Gia Lai triển khai 103 hoạt động, huy động 1,6 tỉ đồng an sinh xã hội để hỗ trợ cộng đồng tại địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T04:15:00+07:00",
+      "fetched": "2026-08-16T11:25:40.649623+07:00"
+    },
+    {
+      "id": "0ac4c9be86af6e63c2f23edf1fa3b560",
+      "title": "Quảng Ngãi: Công an hóa trang vây bắt hơn 200 thanh thiếu niên có biểu hiện đua xe",
+      "link": "https://thanhnien.vn/quang-ngai-csgt-hoa-trang-vay-bat-hon-200-thanh-thieu-nien-co-bieu-hien-dua-xe-185260816110154229.htm",
+      "summary": "Rạng sáng 16.8, lực lượng CSGT Công an tỉnh Quảng Ngãi phối hợp các đơn vị nghiệp vụ và Công an phường Cẩm Thành hóa trang, vây bắt hơn 200 thanh thiếu niên tụ tập, có biểu hiện đua xe trái phép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T04:14:00+07:00",
+      "fetched": "2026-08-16T11:25:40.649748+07:00"
+    },
+    {
+      "id": "a141b37583afb21e6cdf76098c4b2491",
+      "title": "Malaysia - Việt Nam: Chờ tài biến hóa của HLV Kim Sang-sik",
+      "link": "https://vnexpress.net/malaysia-viet-nam-cho-tai-bien-hoa-cua-hlv-kim-sang-sik-5109659.html",
+      "summary": "Khả năng ứng biến và cách tiếp cận trận đấu của HLV Kim Sang-sik có thể quyết định kết quả lượt đi bán kết ASEAN Cup 2026 hôm nay, nơi Việt Nam được đánh giá cao hơn chủ nhà.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-16T04:04:30+07:00",
+      "fetched": "2026-08-16T11:25:48.126620+07:00"
+    },
+    {
+      "id": "5084ee3a5d99b7a6dd73580f455dd827",
+      "title": "Thói quen buổi sáng giúp bạn ngăn ngừa huyết áp cao",
+      "link": "https://thanhnien.vn/thoi-quen-buoi-sang-giup-ban-ngan-ngua-huyet-ap-cao-185260816110548936.htm",
+      "summary": "Kiểm soát huyết áp rất quan trọng vì huyết áp cao dẫn đến bệnh tim mạch và các biến cố nguy hiểm như đau tim, đột quỵ và suy thận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T04:03:00+07:00",
+      "fetched": "2026-08-16T11:25:40.649868+07:00"
+    },
+    {
+      "id": "9f301985cb61b55835394b6e9f16251a",
+      "title": "Mẹo hoàn trả ô tô tự lái giúp người thuê tránh mất tiền oan",
+      "link": "https://thanhnien.vn/meo-hoan-tra-o-to-tu-lai-giup-nguoi-thue-tranh-mat-tien-oan-185260805100351032.htm",
+      "summary": "Trước khi bàn giao lại ô tô tự lái cho đơn vị cho thuê, người thuê nên kiểm tra ngoại thất, lốp xe, nội thất, nhiên liệu và đồ dùng cá nhân... để hạn chế phát sinh chi phí hoặc tranh cãi không đáng có.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:59:00+07:00",
+      "fetched": "2026-08-16T11:25:40.649992+07:00"
+    },
+    {
+      "id": "78ca7fd780aa8705c6d5cc6ee4b908b2",
+      "title": "Colombia đề nghị ông Trump dừng áp thuế vì khó khăn sau động đất",
+      "link": "https://vnexpress.net/colombia-de-nghi-ong-trump-dung-ap-thue-vi-kho-khan-sau-dong-dat-5109648.html",
+      "summary": "Tân Tổng thống Colombia kêu gọi Tổng thống Mỹ đình chỉ mức thuế 12,5% với hàng hóa của đất nước, để hỗ trợ các chủ doanh nghiệp đang gặp khó khăn vì động đất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-16T03:58:13+07:00",
+      "fetched": "2026-08-16T11:25:43.282049+07:00"
+    },
+    {
+      "id": "fbc04ba05cce1a362d757cad46330539",
+      "title": "Tìm liệt sĩ đặc công Sư đoàn 2, gia đình xúc động khi có tên người thân",
+      "link": "https://thanhnien.vn/tim-liet-si-dac-cong-su-doan-2-gia-dinh-xuc-dong-khi-co-ten-nguoi-than-185260816103446365.htm",
+      "summary": "Một cựu chiến binh Sư đoàn 2 vừa cung cấp danh sách tên, quê quán 17 liệt sĩ đặc công được cho là hy sinh ở Hiệp Đức, Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:58:00+07:00",
+      "fetched": "2026-08-16T11:25:40.650112+07:00"
+    },
+    {
+      "id": "e39b96319f5a90e71cf6964797f048d1",
+      "title": "Messi đá hỏng phạt đền trong thảm bại của Inter Miami",
+      "link": "https://vnexpress.net/messi-da-hong-phat-den-trong-tham-bai-cua-inter-miami-5109637.html",
+      "summary": "Tiền đạo đội trưởng Lionel Messi lỡ cơ hội gỡ hòa khi đá hỏng phạt đền, khiến Inter Miami thua Nashville 1-4 ở giải nhà nghề Mỹ MLS.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-16T03:54:21+07:00",
+      "fetched": "2026-08-16T11:25:48.126770+07:00"
+    },
+    {
+      "id": "0be1485c0803dc5dcd8f9991fa8034a1",
+      "title": "Xe tăng T-34 'cũ người mới ta'",
+      "link": "https://thanhnien.vn/xe-tang-t-34-cu-nguoi-moi-ta-185260815230828046.htm",
+      "summary": "Năm 1960, những chiếc xe tăng T-34 chính thức có mặt tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:40:00+07:00",
+      "fetched": "2026-08-16T11:25:40.650245+07:00"
+    },
+    {
+      "id": "c4eb2adfaaf8969956bfbbaa16de54e8",
+      "title": "TP.HCM: Ô tô du lịch lật ngửa sau va chạm giao thông, 9 người nhập viện cấp cứu",
+      "link": "https://thanhnien.vn/tphcm-o-to-du-lich-lat-ngua-sau-va-cham-giao-thong-9-nguoi-nhap-vien-cap-cuu-185260816103056179.htm",
+      "summary": "Ô tô du lịch bị lật ngửa sau khi xảy ra va chạm giao thông với xe 16 chỗ ngồi khiến 9 người bị thương, được người dân đưa đến Bệnh viện đa khoa Bà Rịa cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:38:00+07:00",
+      "fetched": "2026-08-16T11:25:40.650367+07:00"
+    },
+    {
+      "id": "5f0c23312ac07d0a2fb6455a79ac1894",
+      "title": "91% độc giả Báo Thanh Niên dự đoán Việt Nam thắng Malaysia: Tỷ lệ áp đảo",
+      "link": "https://thanhnien.vn/91-doc-gia-bao-thanh-nien-du-doan-viet-nam-thang-malaysia-ty-le-ap-dao-185260816101628987.htm",
+      "summary": "Trước trận bán kết lượt đi ASEAN Cup 2026 giữa Malaysia và Việt Nam, phần lớn độc giả tham gia khảo sát trên Báo Thanh Niên đặt niềm tin vào thầy trò HLV Kim Sang-sik. Có tới 91% dự đoán đội tuyển Việt Nam giành chiến thắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:38:00+07:00",
+      "fetched": "2026-08-16T11:25:40.650485+07:00"
+    },
+    {
+      "id": "6b3b6219e58d62bc18f99571bd81c9a1",
+      "title": "Mua ô tô chạy dịch vụ: Vì sao tài xế Việt chuộng xe điện 7 chỗ?",
+      "link": "https://thanhnien.vn/mua-o-to-chay-dich-vu-vi-sao-tai-xe-viet-chuong-xe-dien-7-cho-185260727103954832.htm",
+      "summary": "Xu hướng chuyển đổi xanh trong ngành vận tải dịch vụ tại Việt Nam đang diễn ra khá nhanh, trong đó các mẫu mã xe điện 7 chỗ thuộc phân khúc MPV phổ thông đang được nhiều tài xế, doanh nghiệp vận tải ưa chuộng, lựa chọn để sử dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:30:00+07:00",
+      "fetched": "2026-08-16T11:25:40.650600+07:00"
+    },
+    {
+      "id": "f2bc42f908840f71880a810a7c15f3f8",
+      "title": "Vì sao người Hàn kiêng cầm bát khi ăn?",
+      "link": "https://vnexpress.net/vi-sao-nguoi-han-kieng-cam-bat-khi-an-5109439.html",
+      "summary": "Trong khi người Việt, Trung Quốc và Nhật Bản thường nâng bát cơm lên gần miệng, người Hàn giữ nguyên trên bàn, thói quen hình thành phép tắc lâu đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:24:49+07:00",
+      "fetched": "2026-08-16T11:25:37.738362+07:00"
+    },
+    {
+      "id": "4017a2e53577bc026cf946161123c523",
+      "title": "Google Maps đỏ chót, du khách ‘khóc ròng’ vì nỗi khổ mang tên… kẹt phà Bình Khánh",
+      "link": "https://thanhnien.vn/google-maps-do-chot-du-khach-khoc-rong-vi-noi-kho-mang-ten-ket-pha-binh-khanh-185260815150536944.htm",
+      "summary": "Kẹt phà Bình Khánh trở thành nỗi ám ảnh của không ít du khách mỗi dịp cuối tuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:24:00+07:00",
+      "fetched": "2026-08-16T11:25:40.650715+07:00"
+    },
+    {
+      "id": "fd9fbe77033dd30b1ee30a69f9a30efc",
+      "title": "Tôi chia tay bạn gái vì miếng thịt chó đã ăn 10 năm trước",
+      "link": "https://vnexpress.net/toi-chia-tay-ban-gai-vi-mieng-thit-cho-da-an-10-nam-truoc-5109621.html",
+      "summary": "Mối tình mới chớm của tôi tan vỡ chỉ vì khác biệt quan điểm về thịt chó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:20:28+07:00",
+      "fetched": "2026-08-16T11:25:37.738521+07:00"
+    },
+    {
+      "id": "ad0eb3137aa18c4bf14f7062b7612c98",
+      "title": "Cài đặt đơn giản giúp tiết kiệm pin điện thoại",
+      "link": "https://thanhnien.vn/cai-dat-don-gian-giup-tiet-kiem-pin-dien-thoai-185260711102335174.htm",
+      "summary": "Việc tắt dịch vụ định vị và đóng các ứng dụng tiêu tốn pin trên điện thoại là những biện pháp hiệu quả để kéo dài thời lượng pin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:20:00+07:00",
+      "fetched": "2026-08-16T11:25:40.650833+07:00"
+    },
+    {
+      "id": "b7a15236ee07e63714d5d0e385b0aeb2",
+      "title": "Đề thi lại môn tiếng Anh ở Tuyên Quang: Từ vựng pháp lý dày đặc, thời sự",
+      "link": "https://thanhnien.vn/de-thi-lai-mon-tieng-anh-o-tuyen-quang-tu-vung-phap-ly-day-dac-thoi-su-185260816093202448.htm",
+      "summary": "Giáo viên tại TP.HCM nhận xét về đề thi môn tiếng Anh kỳ thi lại tốt nghiệp THPT ở điểm thi Trường THPT chuyên Tuyên Quang (tỉnh Tuyên Quang) gia tăng áp lực bằng sự lắt léo trong từ vựng và hệ thống thuật ngữ pháp lý dày đặc, mang tính thời sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:17:00+07:00",
+      "fetched": "2026-08-16T11:25:40.650952+07:00"
+    },
+    {
       "id": "abcd7bb69fdf051977b838252dfee40a",
       "title": "Tre Việt Nam - Indonesia cất ‘tiếng hát’ chung một sân khấu",
       "link": "https://tuoitre.vn/tre-viet-nam-indonesia-cat-tieng-hat-chung-mot-san-khau-100260815230338611.htm",
@@ -273,6 +613,156 @@ window.newsData_2026_08_16 = {
       "fetched": "2026-08-16T03:11:16.151606+07:00"
     },
     {
+      "id": "1f5f6186b269f708773fce2e8bc82985",
+      "title": "Chạy đua tìm người sống sót sau động đất 7,7 độ ở Indonesia",
+      "link": "https://thanhnien.vn/chay-dua-tim-nguoi-song-sot-sau-dong-dat-77-do-o-indonesia-185260816092924303.htm",
+      "summary": "Lực lượng cứu hộ Indonesia đang chạy đua với thời gian để tìm kiếm những người sống sót sau trận động đất 7,7 độ Richter, khiến ít nhất 47 người thiệt mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:08:00+07:00",
+      "fetched": "2026-08-16T11:25:40.651070+07:00"
+    },
+    {
+      "id": "f166a95981d673eff3b19c9a54ba677c",
+      "title": "Công ty của Warren Buffett rót thêm hơn 10 tỷ USD vào Alphabet",
+      "link": "https://vnexpress.net/cong-ty-cua-warren-buffett-rot-them-hon-10-ty-usd-vao-alphabet-5109615.html",
+      "summary": "Tập đoàn Berkshire Hathaway tăng gần gấp đôi khoản đầu tư vào công ty mẹ Google trong quý II.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:05:00+07:00",
+      "fetched": "2026-08-16T11:25:37.738662+07:00"
+    },
+    {
+      "id": "a1e367460bc48f3a49882ef3a16d296c",
+      "title": "Chính quyền Mỹ kêu gọi Apple không mua chip nhớ Trung Quốc",
+      "link": "https://vnexpress.net/chinh-quyen-my-keu-goi-apple-khong-mua-chip-nho-trung-quoc-5109479.html",
+      "summary": "Bộ trưởng Mỹ nói rằng chính quyền Trump đã gửi thông điệp tới Apple, bày tỏ không ủng hộ hãng mua chip nhớ từ nhà sản xuất Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:05:00+07:00",
+      "fetched": "2026-08-16T11:25:37.738797+07:00"
+    },
+    {
+      "id": "f166a95981d673eff3b19c9a54ba677c",
+      "title": "Công ty của Warren Buffett rót thêm hơn 10 tỷ USD vào Alphabet",
+      "link": "https://vnexpress.net/cong-ty-cua-warren-buffett-rot-them-hon-10-ty-usd-vao-alphabet-5109615.html",
+      "summary": "Tập đoàn Berkshire Hathaway tăng gần gấp đôi khoản đầu tư vào công ty mẹ Google trong quý II.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-16T03:05:00+07:00",
+      "fetched": "2026-08-16T11:25:44.224129+07:00"
+    },
+    {
+      "id": "a1e367460bc48f3a49882ef3a16d296c",
+      "title": "Chính quyền Mỹ kêu gọi Apple không mua chip nhớ Trung Quốc",
+      "link": "https://vnexpress.net/chinh-quyen-my-keu-goi-apple-khong-mua-chip-nho-trung-quoc-5109479.html",
+      "summary": "Bộ trưởng Mỹ nói rằng chính quyền Trump đã gửi thông điệp tới Apple, bày tỏ không ủng hộ hãng mua chip nhớ từ nhà sản xuất Trung Quốc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-16T03:05:00+07:00",
+      "fetched": "2026-08-16T11:25:46.566866+07:00"
+    },
+    {
+      "id": "cb1a97303d10531d89dc7be380843a37",
+      "title": "9 khu chợ 'phải ghé thăm' ở Việt Nam",
+      "link": "https://vnexpress.net/9-khu-cho-phai-ghe-tham-o-viet-nam-5109356.html",
+      "summary": "Tạp chí Lonely Planet giới thiệu 9 khu chợ từ Bắc vào Nam, giúp du khách khám phá đời sống và nét văn hóa bản địa qua những không gian mua bán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:00:00+07:00",
+      "fetched": "2026-08-16T11:25:37.738932+07:00"
+    },
+    {
+      "id": "789d01db8c74fb48a5d659e7a183abc7",
+      "title": "Tìm những từ Hán Việt tương ứng với các từ thuần Việt",
+      "link": "https://vnexpress.net/thu-tai-tu-han-viet-9-tu-thuan-viet-quen-thuoc-nay-tuong-ung-voi-nhung-tu-nao-5109049.html",
+      "summary": "Cha mẹ, anh em, trời, đất, sông, núi... đều rất quen thuộc. Bạn có thể tìm đúng từ Hán Việt tương ứng cho cả những từ này không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:00:00+07:00",
+      "fetched": "2026-08-16T11:25:37.739064+07:00"
+    },
+    {
+      "id": "2a3864aa901fc865d7b29dc1d765ce24",
+      "title": "Kiểm tra dấu hiệu ung thư hạch bạch huyết",
+      "link": "https://vnexpress.net/kiem-tra-dau-hieu-ung-thu-hach-bach-huyet-5109533.html",
+      "summary": "Thiếu máu, da dễ bầm tím có thể xảy ra do va chạm, thiếu chất, song cũng là triệu chứng điển hình của ung thư hạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:00:00+07:00",
+      "fetched": "2026-08-16T11:25:37.739207+07:00"
+    },
+    {
+      "id": "2cdc9e91cd59308f7c029ffe683e5702",
+      "title": "Những điều cần biết về chiều cao của trẻ",
+      "link": "https://vnexpress.net/nhung-dieu-can-biet-ve-chieu-cao-cua-tre-5109489.html",
+      "summary": "Chiều cao thấp chưa chắc là dấu hiệu bệnh lý, mỗi trẻ có tốc độ phát triển khác nhau, cha mẹ không nên tự ý dùng sản phẩm bổ sung cho con khi chưa có chỉ định bác sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:00:00+07:00",
+      "fetched": "2026-08-16T11:25:37.739338+07:00"
+    },
+    {
+      "id": "b02ecebf6229e4b1f9ef1a447559e8ee",
+      "title": "Ăn trứng có lợi gì cho mắt?",
+      "link": "https://vnexpress.net/an-trung-co-loi-gi-cho-mat-5109486.html",
+      "summary": "Lòng đỏ trứng cung cấp lutein, zeaxanthin và vitamin A tham gia bảo vệ võng mạc và duy trì chức năng thị giác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T03:00:00+07:00",
+      "fetched": "2026-08-16T11:25:37.739467+07:00"
+    },
+    {
+      "id": "c6bdfb14583a294c89dc212bea987f5a",
+      "title": "AI dự đoán Việt Nam thắng dễ Malaysia",
+      "link": "https://vnexpress.net/ai-du-doan-viet-nam-thang-de-malaysia-5109644.html",
+      "summary": "Trang Football Predictions AI của Bồ Đào Nha dự đoán Việt Nam sẽ thắng Malaysia 4-0 ngay trên sân Kuala Lumpur ở lượt đi bán kết ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T02:53:54+07:00",
+      "fetched": "2026-08-16T11:25:37.739598+07:00"
+    },
+    {
+      "id": "c6bdfb14583a294c89dc212bea987f5a",
+      "title": "AI dự đoán Việt Nam thắng dễ Malaysia",
+      "link": "https://vnexpress.net/ai-du-doan-viet-nam-thang-de-malaysia-5109644.html",
+      "summary": "Trang Football Predictions AI của Bồ Đào Nha dự đoán Việt Nam sẽ thắng Malaysia 4-0 ngay trên sân Kuala Lumpur ở lượt đi bán kết ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-16T02:53:54+07:00",
+      "fetched": "2026-08-16T11:25:48.126908+07:00"
+    },
+    {
+      "id": "e4062cc57a07c940909d46e960ab77a6",
+      "title": "Tương quan trước trận Malaysia - Việt Nam",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-malaysia-viet-nam-5109589.html",
+      "summary": "Phong độ, lịch sử đối đầu và lực lượng đều ủng hộ Việt Nam khi làm khách của Malaysia ở lượt đi bán kết ASEAN Cup 2026, hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T02:52:15+07:00",
+      "fetched": "2026-08-16T11:25:37.739755+07:00"
+    },
+    {
+      "id": "e4062cc57a07c940909d46e960ab77a6",
+      "title": "Tương quan trước trận Malaysia - Việt Nam",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-malaysia-viet-nam-5109589.html",
+      "summary": "Phong độ, lịch sử đối đầu và lực lượng đều ủng hộ Việt Nam khi làm khách của Malaysia ở lượt đi bán kết ASEAN Cup 2026, hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-16T02:52:15+07:00",
+      "fetched": "2026-08-16T11:25:48.127035+07:00"
+    },
+    {
+      "id": "add08198bf0886c8c36cc1eb3405951a",
+      "title": "Khánh Hòa tìm nhà đầu tư khu đô thị hơn 1,8 tỷ USD",
+      "link": "https://vnexpress.net/khanh-hoa-tim-nha-dau-tu-khu-do-thi-hon-1-8-ty-usd-5109636.html",
+      "summary": "Khu đô thị hỗn hợp Vĩnh Lương ở phường Bắc Nha Trang có quy mô gần 255 ha sẽ được đấu thầu tìm nhà đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T02:46:43+07:00",
+      "fetched": "2026-08-16T11:25:37.739888+07:00"
+    },
+    {
       "id": "08a6c4c8aef2fa134e182398dd94f719",
       "title": "Môn thi vào lớp 10: Nên chọn 3 hay 2?",
       "link": "https://thanhnien.vn/tranh-luan-thi-lop-10-nen-chon-3-hay-2-mon-185260815233256039.htm",
@@ -281,6 +771,16 @@ window.newsData_2026_08_16 = {
       "category": "Tổng hợp",
       "published": "2026-08-16T02:46:00+07:00",
       "fetched": "2026-08-16T09:51:48.887193+07:00"
+    },
+    {
+      "id": "db4c46bd76206251d5f02e4aaf933cd6",
+      "title": "Bé trai bị chó nhà tấn công, hai răng hàm lọt vào hốc mắt",
+      "link": "https://vnexpress.net/be-trai-bi-cho-nha-tan-cong-hai-rang-ham-lot-vao-hoc-mat-5109625.html",
+      "summary": "Bé trai 26 tháng tuổi vừa được các bác sĩ Bệnh viện Việt Đức cứu sống sau khi bị chó nhà ông ngoại tấn công, gây đa chấn thương vùng đầu mặt cổ với hai răng hàm đẩy sâu vào hốc mắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T02:37:42+07:00",
+      "fetched": "2026-08-16T11:25:37.740018+07:00"
     },
     {
       "id": "587a14bef2b418e3f0435583ba2bf32a",
@@ -301,6 +801,26 @@ window.newsData_2026_08_16 = {
       "category": "Tổng hợp",
       "published": "2026-08-16T02:36:00+07:00",
       "fetched": "2026-08-16T09:51:48.887483+07:00"
+    },
+    {
+      "id": "7259b79b94dd68f5397890fc06e7f8dc",
+      "title": "Đêm nhạc Thanh Tùng - tình yêu ở lại",
+      "link": "https://vnexpress.net/dem-nhac-thanh-tung-tinh-yeu-o-lai-5109610.html",
+      "summary": "Concert \"Legacy of Love\" đưa khán giả vào thế giới âm nhạc Thanh Tùng, nơi nỗi buồn, sự cô đơn được chưng cất thành những giai điệu đẹp về tình yêu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T02:32:18+07:00",
+      "fetched": "2026-08-16T11:25:37.740152+07:00"
+    },
+    {
+      "id": "64d4a392423630b435c0c4c7374be449",
+      "title": "Giảm gánh nặng cho bệnh nhân ung thư vú nhờ sàng lọc, điều trị sớm",
+      "link": "https://vnexpress.net/giam-ganh-nang-cho-benh-nhan-ung-thu-vu-nho-sang-loc-dieu-tri-som-5109616.html",
+      "summary": "Bệnh nhân ung thư vú thời gian tới sẽ được phát hiện dấu hiệu sớm, chẩn đoán xác định và bắt đầu điều trị, chuẩn hóa điều trị đa mô thức và chăm sóc liên tục ngay tại địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T02:32:05+07:00",
+      "fetched": "2026-08-16T11:25:37.740324+07:00"
     },
     {
       "id": "73fdc945d40b4802d10c96c0a1f4f46b",
