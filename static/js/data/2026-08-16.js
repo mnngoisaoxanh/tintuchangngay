@@ -1,7 +1,117 @@
 window.newsData_2026_08_16 = {
   "date": "2026-08-16",
-  "lastUpdated": "2026-08-16T21:13:36.667370+07:00",
+  "lastUpdated": "2026-08-16T23:12:31.701616+07:00",
   "articles": [
+    {
+      "id": "c0a309f6c7426f918e61462f1deab573",
+      "title": "Hàn Quốc nói bị Triều Tiên ngó lơ lời kêu gọi chấm dứt chiến tranh",
+      "link": "https://tuoitre.vn/han-quoc-noi-bi-trieu-tien-ngo-lo-loi-keu-goi-cham-dut-chien-tranh-100260816203515611.htm",
+      "summary": "Triều Tiên đến nay chưa đưa ra bất kỳ thông điệp liên quan đến lời kêu gọi chính thức chấm dứt chiến tranh của tổng thống Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:12:25.243086+07:00",
+      "fetched": "2026-08-16T23:12:25.243143+07:00"
+    },
+    {
+      "id": "9e2dd2b624a8f2d43e0be0ba018ecd5c",
+      "title": "Đà Nẵng bắt 4 người theo đề nghị của Bộ Công an Trung Quốc",
+      "link": "https://tuoitre.vn/da-nang-bat-4-nguoi-theo-de-nghi-cua-bo-cong-an-trung-quoc-100260816200752171.htm",
+      "summary": "Chỉ trong thời gian ngắn, các đơn vị của Công an Đà Nẵng đã phát hiện, bắt giữ 5 đối tượng truy nã quốc tịch Trung Quốc đang lẩn trốn trên địa bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:12:25.243011+07:00",
+      "fetched": "2026-08-16T23:12:25.243075+07:00"
+    },
+    {
+      "id": "242ab4c118b2625b1164970439019302",
+      "title": "Về nhà",
+      "link": "https://tuoitre.vn/ve-nha-100260815204228775.htm",
+      "summary": "Ngày tôi rời Cà Mau, nơi đến ghi trên giấy báo nhập học là Bà Rịa. Mẹ dắt chiếc xe ra cổng từ lúc trời còn tờ mờ sáng, tay dúi gói khô cá bổi đã đùm ba lớp ni lông cẩn thận vào ngăn trên cùng của vali rồi dặn: 'Học dưới đó cho nó lành nghen con, xe cộ vừa phải, đỡ xôn xao'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:12:25.242949+07:00",
+      "fetched": "2026-08-16T23:12:25.243001+07:00"
+    },
+    {
+      "id": "4bb7ffa1fa023dbce012a62256a39107",
+      "title": "Gần 400.000 chiến sĩ tình nguyện hè TP.HCM tạo dấu ấn nhiều công trình, sát nhu cầu người dân",
+      "link": "https://tuoitre.vn/gan-400000-chien-si-tinh-nguyen-he-tphcm-tao-dau-an-nhieu-cong-trinh-sat-nhu-cau-nguoi-dan-100260816153504676.htm",
+      "summary": "Lễ tổng kết các chương trình, chiến dịch tình nguyện hè TP.HCM năm 2026 với chủ đề “Dấu chân tình nguyện - Viết tiếp những mùa hè đẹp nhất” đã diễn ra tại công viên văn hóa Đầm Sen, tối 16-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:12:25.242876+07:00",
+      "fetched": "2026-08-16T23:12:25.242938+07:00"
+    },
+    {
+      "id": "99566aadf3292a3d8d330063307ccafc",
+      "title": "Cựu chiến binh đi lạc trên đường thăm chiến trường xưa được hỗ trợ đưa về nhà",
+      "link": "https://tuoitre.vn/cuu-chien-binh-di-lac-tren-duong-tham-chien-truong-xua-duoc-ho-tro-dua-ve-nha-100260816211009807.htm",
+      "summary": "Công an phường Đồng Hới (tỉnh Quảng Trị) vừa phối hợp với các lực lượng liên quan tìm kiếm, hỗ trợ một cựu chiến binh đi lạc khi đang trên đường vào miền Nam thăm lại chiến trường xưa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:12:25.242801+07:00",
+      "fetched": "2026-08-16T23:12:25.242865+07:00"
+    },
+    {
+      "id": "130128ec79ac186aca2f89bd99378147",
+      "title": "Nắng nóng ở châu Á ngày càng khắc nghiệt, người dân săn lùng đồ 'hạ nhiệt'",
+      "link": "https://tuoitre.vn/nang-nong-o-chau-a-ngay-cang-khac-nghiet-nguoi-dan-san-lung-do-ha-nhiet-100260816184603073.htm",
+      "summary": "Áo điều hòa, quạt cầm tay, vòng làm mát, dù chống tia UV... đang trở thành món đồ được người dân châu Á săn lùng để đối phó với nắng nóng ngày càng khắc nghiệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:12:25.242733+07:00",
+      "fetched": "2026-08-16T23:12:25.242791+07:00"
+    },
+    {
+      "id": "3dd67f1a954001d005b1ce9797f2e667",
+      "title": "Trực tuyến: HLV Kim Sang Sik trả lời họp báo sau trận gặp Malaysia",
+      "link": "https://tuoitre.vn/truc-tuyen-hlv-kim-sang-sik-tra-loi-hop-bao-sau-tran-gap-malaysia-100260816173709779.htm",
+      "summary": "Sau trận bán kết lượt đi ASEAN Cup 2026 gặp chủ nhà Malaysaia, HLV tuyển Việt Nam Kim Sang Sik tham dự buổi họp báo, trả lời các câu hỏi của truyền thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:12:25.242664+07:00",
+      "fetched": "2026-08-16T23:12:25.242723+07:00"
+    },
+    {
+      "id": "eafbc9778af875a16a441e5ee84742d4",
+      "title": "Trực tuyến: HLV Tan Cheng Hoe trả lời họp báo sau trận gặp Việt Nam",
+      "link": "https://tuoitre.vn/truc-tuyen-hlv-tan-cheng-hoe-tra-loi-hop-bao-sau-tran-gap-viet-nam-100260816174347365.htm",
+      "summary": "Sau trận bán kết lượt đi ASEAN Cup 2026 gặp Việt Nam, HLV tuyển Malaysia Tan Cheng Hoe tham dự buổi họp báo, trả lời các câu hỏi của truyền thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:12:25.242595+07:00",
+      "fetched": "2026-08-16T23:12:25.242653+07:00"
+    },
+    {
+      "id": "d8ad5070a232b8e39814a8a71decae83",
+      "title": "CĐV TP.HCM đội mưa xem Việt Nam đấu Malaysia ở phố đi bộ Nguyễn Huệ",
+      "link": "https://tuoitre.vn/cdv-tphcm-doi-mua-xem-viet-nam-dau-malaysia-o-pho-di-bo-nguyen-hue-100260816212830172.htm",
+      "summary": "Chiều tối 16-8, không khí cổ vũ tại phố đi bộ Nguyễn Huệ (TP.HCM) sôi động hơn bao giờ hết, khi hàng vạn CĐV đã có mặt để cổ vũ trận đấu bán kết giữa đội tuyển Việt Nam - Malaysia tại ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:12:25.242522+07:00",
+      "fetched": "2026-08-16T23:12:25.242584+07:00"
+    },
+    {
+      "id": "e4e69042d79c7ad8110778bdf8139b93",
+      "title": "Người hâm mộ: 'Hãy gọi Xuân Son là... Van PerSon'",
+      "link": "https://tuoitre.vn/nguoi-ham-mo-hay-goi-xuan-son-la-van-person-100260816210902836.htm",
+      "summary": "Đông đảo người hâm mộ bóng đá Việt Nam lẫn các nước Đông Nam Á đều ngả mũ thán phục với pha bay người đánh đầu tung lưới Malaysia của Xuân Son, mở tỉ số cho đội nhà trong trận lượt đi bán kết ASEAN Cup 2026 diễn ra tối 16-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:12:25.242442+07:00",
+      "fetched": "2026-08-16T23:12:25.242510+07:00"
+    },
+    {
+      "id": "1515cbd468f32e2207ea3b41df2ef29a",
+      "title": "AI Trung Quốc có thể nhìn vào não để dự báo trầm cảm 4 năm trước khi phát bệnh",
+      "link": "https://tuoitre.vn/ai-trung-quoc-co-the-nhin-vao-nao-de-du-bao-tram-cam-4-nam-truoc-khi-phat-benh-100260816213551307.htm",
+      "summary": "Các nhà khoa học tại Đại học Thâm Quyến phát triển mô hình AI dựa trên hoạt động não người và phản ứng trước biểu cảm khuôn mặt để dự báo nguy cơ mắc trầm cảm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:12:25.242288+07:00",
+      "fetched": "2026-08-16T23:12:25.242428+07:00"
+    },
     {
       "id": "fc389b6babee447013da2046f3f76ec3",
       "title": "Nổ bình gas mini, 3 người đang ăn lẩu đi cấp cứu",
@@ -453,6 +563,66 @@ window.newsData_2026_08_16 = {
       "fetched": "2026-08-16T17:13:05.211744+07:00"
     },
     {
+      "id": "d98036aa2d9b2b5f88869af941b66de1",
+      "title": "HLV Kim Sang-sik chưa thỏa mãn với chiến thắng, chê Việt Nam còn thiếu sót: Nhưng vẫn khen ngợi một người…",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-chua-thoa-man-voi-chien-thang-che-viet-nam-con-thieu-sot-nhung-van-khen-ngoi-mot-nguoi-185260816193752755.htm",
+      "summary": "Chia sẻ trong buổi họp báo sau trận thắng 2-0 trước Malaysia ngay tại sân Kuala Lumpur vào tối 16.8, HLV Kim Sang-sik bày tỏ sự hài lòng với tinh thần thi đấu của đội tuyển Việt Nam, đồng thời không quên nhắc nhở học trò về những vấn đề còn tồn tại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T16:06:00+07:00",
+      "fetched": "2026-08-16T23:12:24.041684+07:00"
+    },
+    {
+      "id": "52ba443f2834b79a7f892690e45978f8",
+      "title": "Xuân Son ghi bàn đẳng cấp, đội tuyển Việt Nam hạ Malaysia 2-0 ngay tại Kuala Lumpur",
+      "link": "https://thanhnien.vn/xuan-son-ghi-ban-dang-cap-doi-tuyen-viet-nam-ha-malaysia-2-0-ngay-tai-kuala-lumpur-185260816224059566.htm",
+      "summary": "Đội tuyển Việt Nam giành chiến thắng 2-0 trước Malaysia ở bán kết lượt đi ASEAN Cup 2026 tại Kuala Lumpur, với bàn mở tỷ số của Xuân Son và pha phản lưới nhà của hậu vệ đội chủ nhà. Kết quả này mang lại lợi thế lớn cho thầy trò HLV Kim Sang-sik trước trận lượt về trên sân Mỹ Đình ngày 19.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T16:01:00+07:00",
+      "fetched": "2026-08-16T23:12:24.041854+07:00"
+    },
+    {
+      "id": "420725528c3f90a11733314ae632a787",
+      "title": "Thắng Malaysia 2-0, kịch bản nào đưa Việt Nam vào chung kết ASEAN Cup 2026?",
+      "link": "https://thanhnien.vn/thang-malaysia-2-0-kich-ban-nao-dua-viet-nam-vao-chung-ket-asean-cup-2026-185260816230218357.htm",
+      "summary": "Đội tuyển Việt Nam giành lợi thế cực lớn trước Malaysia khi thắng 2-0 ngay trên sân khách ở bán kết lượt đi ASEAN Cup 2026, diễn ra tối 16.8. Với cách biệt 2 bàn cùng điểm tựa sân Mỹ Đình, thầy trò HLV Kim Sang-sik đang rộng cửa giành vé vào chung kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T15:59:00+07:00",
+      "fetched": "2026-08-16T23:12:24.042012+07:00"
+    },
+    {
+      "id": "b8698082d401c7db7ff90755faa4522b",
+      "title": "Xuân Son phá kỷ lục ghi bàn của Việt Nam ở vòng knock-out ASEAN Cup",
+      "link": "https://vnexpress.net/xuan-son-pha-ky-luc-ghi-ban-cua-viet-nam-o-vong-knock-out-asean-cup-5109781.html",
+      "summary": "Bàn thắng vào lưới Malaysia trên sân Kuala Lumpur tối 16/8 là pha lập công thứ sáu của Nguyễn Xuân Son tại các trận knock-out ASEAN Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-16T15:33:26+07:00",
+      "fetched": "2026-08-16T23:12:31.688270+07:00"
+    },
+    {
+      "id": "bdd2a49a03aa8ebd2607d8e654c4178e",
+      "title": "Highlight bán kết ASEAN Cup Malaysia 0-2 Việt Nam: Xuân Son chói sáng",
+      "link": "https://thanhnien.vn/highlight-ban-ket-asean-cup-malaysia-0-2-viet-nam-xuan-son-choi-sang-185260816223347875.htm",
+      "summary": "Đội tuyển Việt Nam giành chiến thắng 2-0 trước Malaysia ở bán kết lượt đi ASEAN Cup 2026 nhờ màn tỏa sáng của Xuân Son và bàn phản lưới nhà của hậu vệ đội chủ nhà, qua đó tạo lợi thế lớn trước trận lượt về trên sân Mỹ Đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T15:33:00+07:00",
+      "fetched": "2026-08-16T23:12:24.042165+07:00"
+    },
+    {
+      "id": "b357123782a5b55c26b6fee37a50bb2d",
+      "title": "Bàn thắng đẹp từng milimet của đội tuyển Việt Nam, cả Đông Nam Á phải trầm trồ",
+      "link": "https://thanhnien.vn/ban-thang-dep-tung-milimet-cua-doi-tuyen-viet-nam-ca-dong-nam-a-phai-tram-tro-185260816222258699.htm",
+      "summary": "Pha lập công đẹp mắt trong từng phân đoạn trong những phút bù giờ hiệp 1 đã mở ra chiến thắng quý giá cho đội tuyển Việt Nam, ở trận bán kết lượt đi ASEAN Cup 2026 gặp Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T15:29:00+07:00",
+      "fetched": "2026-08-16T23:12:24.042345+07:00"
+    },
+    {
       "id": "23dc3c4acfe6cabd2ded0164bfad2f5a",
       "title": "92 tranh đoạt giải cuộc thi ‘Thiếu nhi TP.HCM với Bác Tôn’",
       "link": "https://tuoitre.vn/92-tranh-doat-giai-cuoc-thi-thieu-nhi-tphcm-voi-bac-ton-100260814130508536.htm",
@@ -601,6 +771,196 @@ window.newsData_2026_08_16 = {
       "category": "Tổng hợp",
       "published": "2026-08-16T15:16:48.665008+07:00",
       "fetched": "2026-08-16T15:16:48.665146+07:00"
+    },
+    {
+      "id": "86b0fc7bad8f7fb9e47a50a79f06aa56",
+      "title": "Kịch bản nào ở bán kết lượt về giúp đội tuyển Việt Nam đoạt vé chung kết?",
+      "link": "https://thanhnien.vn/kich-ban-nao-o-luot-ve-giup-doi-tuyen-viet-nam-doat-ve-chung-ket-185260816194407202.htm",
+      "summary": "Đội tuyển Việt Nam đặt một chân vào chung kết ASEAN Cup 2026 khi hạ Malaysia 2-0 trong trận bán kết lượt đi trên sân Kuala Lumpur, diễn ra tối 16.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T15:16:00+07:00",
+      "fetched": "2026-08-16T23:12:24.042499+07:00"
+    },
+    {
+      "id": "46e29f16072390dfcff281d55a5faef4",
+      "title": "Tuyển sinh 2026: Chọn sai ngành, 4 năm đại học có thể thành gánh nặng",
+      "link": "https://thanhnien.vn/tuyen-sinh-2026-chon-sai-nganh-4-nam-dai-hoc-co-the-thanh-ganh-nang-185260815141752295.htm",
+      "summary": "Thạc sĩ Cao Quảng Tư, Giám đốc tuyển sinh Trường ĐH Quốc Sài Gòn, nhận xét: Năm 2026 bức tranh tuyển sinh có thể gọi là đa màu, với nhiều phân khúc điểm chuẩn khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T15:13:00+07:00",
+      "fetched": "2026-08-16T23:12:24.042649+07:00"
+    },
+    {
+      "id": "07ce201890c5e02530a3420217751713",
+      "title": "Chấm điểm Malaysia - Việt Nam: Xuân Son ghi bàn cực đẹp nhưng không cao nhất, Lê Giang Patrik thế nào?",
+      "link": "https://thanhnien.vn/cham-diem-malaysia-viet-nam-xuan-son-ghi-ban-cuc-dep-nhung-khong-cao-nhat-le-giang-patrik-the-nao-185260816193758758.htm",
+      "summary": "Theo thống kê từ Sofascore, đội tuyển Việt Nam được chấm điểm trung bình 7,03, vượt trội so với mức 6,60 của Malaysia trong chiến thắng 2-0 trên sân Kuala Lumpur.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T15:09:00+07:00",
+      "fetched": "2026-08-16T23:12:24.042800+07:00"
+    },
+    {
+      "id": "536c8b88faffa6e9de72f10c549b4cd8",
+      "title": "Đại học top đầu Mỹ 'giấu điểm' để sinh viên bớt áp lực",
+      "link": "https://vnexpress.net/dai-hoc-top-dau-my-giau-diem-de-sinh-vien-bot-ap-luc-5108687.html",
+      "summary": "Đại học Michigan bị cho là 'nuông chiều' sinh viên khi không công khai điểm học kỳ đầu tiên để bảo vệ sức khỏe tâm thần của họ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T15:07:00+07:00",
+      "fetched": "2026-08-16T23:12:21.649192+07:00"
+    },
+    {
+      "id": "10413c40afb9d017f2e5f1fad9abba4b",
+      "title": "HLV Kim Sang-sik họp báo sau trận đấu Malaysia",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-hop-bao-sau-tran-dau-malaysia-5109763.html",
+      "summary": "HLV Kim Sang-sik chuẩn bị trả lời họp báo sau trận Việt Nam thắng Malaysia 2-0 ở lượt đi bán kết ASEAN Cup 2026, tối 16/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T15:05:00+07:00",
+      "fetched": "2026-08-16T23:12:21.649399+07:00"
+    },
+    {
+      "id": "609424f209782f2b2294ff1868c920b5",
+      "title": "HLV Kim Sang-sik: 'Tôi chưa thỏa mãn với trận thắng Malaysia'",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-toi-chua-thoa-man-voi-tran-thang-malaysia-5109763.html",
+      "summary": "HLV Kim Sang-sik cho rằng Việt Nam gặp khó khăn về chiến thuật khi thắng Malaysia 2-0 ở lượt đi bán kết ASEAN Cup 2026, tối 16/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-16T15:05:00+07:00",
+      "fetched": "2026-08-16T23:12:31.688450+07:00"
+    },
+    {
+      "id": "f2b9fe88a3de3bcb7fcb1f0eab19da96",
+      "title": "Bán kết lượt về Việt Nam - Malaysia mới nhất: 'Đả Hổ' tại Mỹ Đình, phát trên kênh nào?",
+      "link": "https://thanhnien.vn/ban-ket-luot-ve-asean-cup-2026-da-ho-malaysia-tai-my-dinh-phat-tren-kenh-nao-185260816215741627.htm",
+      "summary": "Chiến thắng trên sân Kuala Lumpur sẽ là tiền đề rất thuận lợi để đội tuyển Việt Nam hạ gục Malaysia tại Mỹ Đình, theo lịch thi đấu bán kết lượt về ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T15:04:00+07:00",
+      "fetched": "2026-08-16T23:12:24.042949+07:00"
+    },
+    {
+      "id": "f2c3e11c45ec91d9b3cb6dfd6a7ff0d0",
+      "title": "‘Người bay’ Xuân Son ghi bàn đẳng cấp, Việt Nam hạ đẹp Malaysia 2-0: VFF thưởng lớn nếu vào chung kết",
+      "link": "https://thanhnien.vn/nguoi-bay-xuan-son-ghi-ban-dang-cap-viet-nam-ha-dep-malaysia-2-0-vff-thuong-lon-neu-vao-chung-ket-185260816215832872.htm",
+      "summary": "Đội tuyển Việt Nam giành chiến thắng 2-0 trước Malaysia ở bán kết lượt đi ASEAN Cup 2026 tại Kuala Lumpur, với bàn mở tỷ số của Xuân Son và pha phản lưới nhà của hậu vệ đội chủ nhà. Kết quả này mang lại lợi thế lớn cho thầy trò HLV Kim Sang-sik trước trận lượt về trên sân Mỹ Đình ngày 19.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T15:01:00+07:00",
+      "fetched": "2026-08-16T23:12:24.043113+07:00"
+    },
+    {
+      "id": "9a4d603b6dabd5b14872e78afc2f89ae",
+      "title": "Vợ chồng David Beckham về nơi hẹn hò 29 năm trước",
+      "link": "https://vnexpress.net/vo-chong-david-beckham-ve-noi-hen-ho-29-nam-truoc-5109770.html",
+      "summary": "David Beckham và Victoria ôn lại chuyện tình bằng cách quay trở lại Italy, nơi họ từng bí mật hẹn hò 29 năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T14:53:20+07:00",
+      "fetched": "2026-08-16T23:12:21.649566+07:00"
+    },
+    {
+      "id": "a7c7d5d311aa7b9bbba8c90944456b52",
+      "title": "10 tiếng bơi tìm đường sống của người đàn ông cào nghêu",
+      "link": "https://vnexpress.net/10-tieng-boi-tim-duong-song-cua-nguoi-dan-ong-cao-ngheu-5109761.html",
+      "summary": "Bị sóng cuốn xa bờ khoảng 7 km khi cào nghêu, anh Thanh phải thả nổi, uống nước biển và quẫy tay chân suốt 10 tiếng để tìm đường trở lại đất liền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T14:50:13+07:00",
+      "fetched": "2026-08-16T23:12:21.649727+07:00"
+    },
+    {
+      "id": "ea79e1c8c9de327452d3dc2bbdebd2da",
+      "title": "Cú tung người đánh đầu của Xuân Son mở tỷ số trước Malaysia",
+      "link": "https://vnexpress.net/cu-tung-nguoi-danh-dau-cua-xuan-son-mo-ty-so-truoc-malaysia-5109774.html",
+      "summary": "Tiến Anh tạt bóng chính xác để Xuân Son tung người đánh đầu vào lưới Malaysia, giúp Việt Nam mở tỷ số ở lượt đi bán kết ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T14:45:13+07:00",
+      "fetched": "2026-08-16T23:12:21.649915+07:00"
+    },
+    {
+      "id": "c1a0eab88a3a6c6057868426034197e1",
+      "title": "Trọng tài hủy thẻ đỏ với thủ môn Lê Giang Patrik, ông Kim hết thót tim",
+      "link": "https://thanhnien.vn/trong-tai-huy-the-do-voi-thu-mon-le-giang-patrik-buoc-ngoat-kich-tinh-nam-o-185260816213630137.htm",
+      "summary": "Thủ môn Lê Giang Patrik may mắn thoát thẻ đỏ trong trận bán kết lượt đi ASEAN Cup 2026 trên sân Kuala Lumpur của Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T14:40:00+07:00",
+      "fetched": "2026-08-16T23:12:24.043315+07:00"
+    },
+    {
+      "id": "6c760ad9ed0b1d7a603406ed217e6a8d",
+      "title": "Hàn Quốc nổ súng cảnh cáo binh sĩ Triều Tiên vượt giới tuyến",
+      "link": "https://vnexpress.net/han-quoc-no-sung-canh-cao-binh-si-trieu-tien-vuot-gioi-tuyen-5109753.html",
+      "summary": "Hàn Quốc tuyên bố phát hiện binh sĩ Triều Tiên vượt qua đường phân giới quân sự và bắn cảnh cáo, lần đầu sự việc xảy ra trong năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T14:36:17+07:00",
+      "fetched": "2026-08-16T23:12:21.650075+07:00"
+    },
+    {
+      "id": "6c760ad9ed0b1d7a603406ed217e6a8d",
+      "title": "Hàn Quốc nổ súng cảnh cáo binh sĩ Triều Tiên vượt giới tuyến",
+      "link": "https://vnexpress.net/han-quoc-no-sung-canh-cao-binh-si-trieu-tien-vuot-gioi-tuyen-5109753.html",
+      "summary": "Hàn Quốc tuyên bố phát hiện binh sĩ Triều Tiên vượt qua đường phân giới quân sự và bắn cảnh cáo, lần đầu sự việc xảy ra trong năm nay.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-16T14:36:17+07:00",
+      "fetched": "2026-08-16T23:12:26.519393+07:00"
+    },
+    {
+      "id": "9ae34e8f88995f54e8fb943e80ad6068",
+      "title": "Hai liên quân thi đấu, 'Tinh hà say hi' tiếp tục gây tranh luận",
+      "link": "https://thanhnien.vn/hai-lien-quan-thi-dau-tinh-ha-say-hi-tiep-tuc-gay-tranh-luan-185260816190050162.htm",
+      "summary": "Ba ca khúc trong EP 'Tình thế người!' của liên quân Dương Domic tại 'Tinh hà say hi' gây nhiều tranh luận. Nhiều ý kiến cho rằng phần âm nhạc còn thiếu điểm nhấn, trong khi cách kết nối ba tiết mục chưa tạo được cảm giác liền mạch như màn trình diễn của liên quân Quang Hùng MasterD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T14:32:00+07:00",
+      "fetched": "2026-08-16T23:12:24.043477+07:00"
+    },
+    {
+      "id": "04b0a5b306edee7d944f051f734df289",
+      "title": "Trọng tài Uzbekistan không lập tức công nhận bàn thắng của Xuân Son vào lưới Malaysia, tại sao?",
+      "link": "https://thanhnien.vn/trong-tai-uzbekistan-khong-lap-tuc-cong-nhan-ban-thang-cua-xuan-son-vao-luoi-malaysia-tai-sao-185260816212033389.htm",
+      "summary": "Nguyễn Xuân Son đã ghi bàn mở tỷ số cho đội tuyển Việt Nam ở những phút bù giờ của hiệp 1. Sau đó, trọng tài chính đã tạm dừng trận đấu để nghe tham khảo từ các trợ lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T14:22:00+07:00",
+      "fetched": "2026-08-16T23:12:24.043632+07:00"
+    },
+    {
+      "id": "d1c314c589a1902e133213c4b1ea2d98",
+      "title": "CĐV ở phố đi bộ Nguyễn Huệ reo hò khi Việt Nam thắng Malaysia 2-0",
+      "link": "https://vnexpress.net/cdv-o-pho-di-bo-nguyen-hue-reo-ho-khi-viet-nam-thang-malaysia-2-0-5109762.html",
+      "summary": "Người hâm mộ vỡ òa trên phố đi bộ Nguyễn Huệ khi Xuân Son ghi bàn và pha phản lưới nhà của cầu thủ Malaysia giúp Việt Nam thắng 2-0 ở trận bán kết lượt đi ASEAN Cup 2026, tối 16/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T14:11:04+07:00",
+      "fetched": "2026-08-16T23:12:21.650260+07:00"
+    },
+    {
+      "id": "d1c314c589a1902e133213c4b1ea2d98",
+      "title": "CĐV ở phố đi bộ Nguyễn Huệ reo hò khi Việt Nam thắng Malaysia 2-0",
+      "link": "https://vnexpress.net/cdv-o-pho-di-bo-nguyen-hue-reo-ho-khi-viet-nam-thang-malaysia-2-0-5109762.html",
+      "summary": "Người hâm mộ vỡ òa trên phố đi bộ Nguyễn Huệ khi Xuân Son mở tỷ số và pha phản lưới nhà của cầu thủ Malaysia giúp Việt Nam thắng 2-0 ở trận bán kết lượt đi ASEAN Cup 2026, tối 16/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-16T14:11:04+07:00",
+      "fetched": "2026-08-16T23:12:31.688616+07:00"
+    },
+    {
+      "id": "7684b0318dee40f1a767d1fe312da70a",
+      "title": "Đêm tân hôn, tôi đã muốn bỏ chồng vì anh đòi giữ hết tiền, vàng",
+      "link": "https://vnexpress.net/dem-tan-hon-toi-da-muon-bo-chong-vi-anh-doi-giu-het-tien-vang-5109713.html",
+      "summary": "Hai vợ chồng tranh cãi rất lâu, rồi quay lưng nằm ngủ, không ai nói với ai câu nào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T14:00:00+07:00",
+      "fetched": "2026-08-16T23:12:21.650437+07:00"
     },
     {
       "id": "ad60d62cd0a2e32e318b64f72ed95d8b",
@@ -1021,6 +1381,16 @@ window.newsData_2026_08_16 = {
       "category": "Thể thao",
       "published": "2026-08-16T11:45:17+07:00",
       "fetched": "2026-08-16T21:13:36.654708+07:00"
+    },
+    {
+      "id": "75b4c0624fab92a0b2a374ccbb57ac0a",
+      "title": "Việt Nam nắm lợi thế lớn trước Malaysia ở bán kết ASEAN Cup",
+      "link": "https://vnexpress.net/ket-qua-malaysia-vs-viet-nam-5109590.html",
+      "summary": "Tiền đạo nhập tịch Nguyễn Xuân Son lập công, giúp Việt Nam thắng chủ nhà Malaysia 2-0 ở lượt đi bán kết ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-16T11:45:17+07:00",
+      "fetched": "2026-08-16T23:12:31.689087+07:00"
     },
     {
       "id": "8a21647fab7d9ac3386ff7f4aa260d16",
