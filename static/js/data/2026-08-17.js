@@ -1,7 +1,157 @@
 window.newsData_2026_08_17 = {
   "date": "2026-08-17",
-  "lastUpdated": "2026-08-17T13:33:40.801121+07:00",
+  "lastUpdated": "2026-08-17T15:31:29.916663+07:00",
   "articles": [
+    {
+      "id": "7060224a410f131afe18279c0ba38ffb",
+      "title": "4 kiệt tác Phục hưng trị giá 92 triệu USD ở bảo tàng Ý bị đánh cắp",
+      "link": "https://tuoitre.vn/4-kiet-tac-phuc-hung-tri-gia-92-trieu-usd-o-bao-tang-y-bi-danh-cap-10026081711385014.htm",
+      "summary": "Bốn kiệt tác của danh họa Antonello da Messina đã bị đánh cắp khỏi một bảo tàng ở thành phố cảng ở Ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T15:31:23.725255+07:00",
+      "fetched": "2026-08-17T15:31:23.725311+07:00"
+    },
+    {
+      "id": "2605e8b97a2a4b4a503e860af3e36d06",
+      "title": "Iran chuyển từ phòng thủ sang tấn công trong xung đột với Mỹ",
+      "link": "https://tuoitre.vn/iran-chuyen-tu-phong-thu-sang-tan-cong-trong-xung-dot-voi-my-100260817120315909.htm",
+      "summary": "IRGC cho biết Iran đang chuyển từ thế phòng thủ sang tấn công và cảnh báo đối thủ về những “bất ngờ chiến lược”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T15:31:23.725185+07:00",
+      "fetched": "2026-08-17T15:31:23.725245+07:00"
+    },
+    {
+      "id": "c75510da320d5290b2e8a8dc68e361d3",
+      "title": "Tổng Bí thư, Chủ tịch nước: Vị trí càng cao, yêu cầu tự học, tự soi, tự sửa càng cao",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-vi-tri-cang-cao-yeu-cau-tu-hoc-tu-soi-tu-sua-cang-cao-100260817120643724.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm nêu rõ với yêu cầu của bối cảnh hiện nay đòi hỏi cán bộ cấp chiến lược có tầm nhìn, bản lĩnh và năng lực hành động cao hơn. Mỗi quyết sách phải rõ điểm nghẽn, trách nhiệm và kết quả thực thi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T15:31:23.725112+07:00",
+      "fetched": "2026-08-17T15:31:23.725174+07:00"
+    },
+    {
+      "id": "864f3ac3ef61f832649fcacb7f89203d",
+      "title": "'Đại gia điếu cày' Lê Thanh Thản bị truy tố vì lừa dối khách hàng, chiếm đoạt 531 tỉ đồng",
+      "link": "https://tuoitre.vn/dai-gia-dieu-cay-le-thanh-than-bi-truy-to-vi-lua-doi-khach-hang-chiem-doat-531-ti-dong-100260817131123818.htm",
+      "summary": "Cáo trạng xác định ông Lê Thanh Thản đã thu lợi bất chính tổng cộng hơn 531 tỉ đồng. Đây cũng được xác định là số tiền gây thiệt hại cho 519 khách hàng mua căn hộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T15:31:23.725045+07:00",
+      "fetched": "2026-08-17T15:31:23.725102+07:00"
+    },
+    {
+      "id": "004883dd48b42f5afdf81c67d2bd0977",
+      "title": "Học sinh ở TP.HCM háo hức tựu trường, làm quen AI ngay từ lớp 1",
+      "link": "https://tuoitre.vn/hoc-sinh-o-tphcm-hao-huc-tuu-truong-lam-quen-ai-ngay-tu-lop-1-100260817122132467.htm",
+      "summary": "Sáng 17-8, học sinh nhiều trường tại TP.HCM đến trường chuẩn bị năm học mới 2026-2027. Không khí háo hức hiện rõ ở các lớp đầu cấp, đặc biệt là học sinh lớp 1, lớp 6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T15:31:23.724977+07:00",
+      "fetched": "2026-08-17T15:31:23.725035+07:00"
+    },
+    {
+      "id": "6ab87d1fa30d6a6118e55bb8f15c42d3",
+      "title": "Vì sao công an xã từ chối nhận hồ sơ hoãn án tù của người phụ nữ vừa sinh con?",
+      "link": "https://tuoitre.vn/vi-sao-cong-an-xa-tu-choi-nhan-ho-so-hoan-an-tu-cua-nguoi-phu-nu-vua-sinh-con-100260817095536747.htm",
+      "summary": "Dù thuộc trường hợp được hoãn chấp hành án phạt tù vì đang nuôi con nhỏ dưới 36 tháng tuổi và vừa sinh con thứ 2, người phụ nữ vẫn bị Công an xã Long Tiên từ chối tiếp nhận hồ sơ quản lý, giáo dục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T15:31:23.724906+07:00",
+      "fetched": "2026-08-17T15:31:23.724964+07:00"
+    },
+    {
+      "id": "e41c63c45e9cf0c20d40252be3d49ed8",
+      "title": "Siêu giải cờ tướng Trung Quốc gây tranh cãi khi xếp Lại Lý Huynh vào nhóm 'huyền thoại'",
+      "link": "https://tuoitre.vn/sieu-giai-co-tuong-trung-quoc-gay-tranh-cai-khi-xep-lai-ly-huynh-vao-nhom-huyen-thoai-100260816163333761.htm",
+      "summary": "Bảo Bảo Bôi, siêu giải đấu có mức thưởng lớn nhất hiện tại của làng cờ tướng Trung Quốc gây tranh cãi khi xếp Lại Lý Huynh vào nhóm \"đặc biệt\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T15:31:23.724836+07:00",
+      "fetched": "2026-08-17T15:31:23.724896+07:00"
+    },
+    {
+      "id": "fb9929539699636bd7015c19368b7fb8",
+      "title": "Phường cửa ngõ sân bay Tân Sơn Nhất quyết tâm xây dựng 'phường không ma túy'",
+      "link": "https://tuoitre.vn/phuong-cua-ngo-san-bay-tan-son-nhat-quyet-tam-xay-dung-phuong-khong-ma-tuy-100260817113154656.htm",
+      "summary": "Sáng 17-8, phường Tân Sơn Hòa phối hợp Công ty TNHH Menas triển khai chương trình 'Chung một quyết tâm xây dựng phường không ma túy'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T15:31:23.724770+07:00",
+      "fetched": "2026-08-17T15:31:23.724826+07:00"
+    },
+    {
+      "id": "2771f6fe3c808ed5357e50738e276a65",
+      "title": "Thêm 2 'cò' bị khởi tố trong đường dây mua bán heo bệnh, chết ở Cần Thơ",
+      "link": "https://tuoitre.vn/them-2-co-bi-khoi-to-trong-duong-day-mua-ban-heo-benh-chet-o-can-tho-100260817124128411.htm",
+      "summary": "Cơ quan điều tra ở TP Cần Thơ xác định hai đối tượng 'cò' đã câu kết với người mua bán heo bệnh, heo chết để thu lợi bất chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T15:31:23.724705+07:00",
+      "fetched": "2026-08-17T15:31:23.724761+07:00"
+    },
+    {
+      "id": "8a24f8c247841b0c69525be385f5dae5",
+      "title": "Gần 100 trận động đất trong một tuần, Trái đất có đang 'rung chuyển'?",
+      "link": "https://tuoitre.vn/gan-100-tran-dong-dat-trong-mot-tuan-trai-dat-co-dang-rung-chuyen-100260817115139665.htm",
+      "summary": "Thế giới ghi nhận 98 trận động đất từ độ lớn 4,5 trong một tuần, gồm hai trận trên 7 độ. Điều này có bất thường?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T15:31:23.724637+07:00",
+      "fetched": "2026-08-17T15:31:23.724694+07:00"
+    },
+    {
+      "id": "cfbef3fc821401a4c04d90cf5e9433cd",
+      "title": "TP.HCM phê duyệt phương án đấu giá lô đất hơn 6.400m² tại Thủ Thiêm, giá khởi điểm hơn 1.900 tỉ đồng",
+      "link": "https://tuoitre.vn/tphcm-phe-duyet-phuong-an-dau-gia-lo-dat-hon-6400m-tai-thu-thiem-gia-khoi-diem-hon-1900-ti-dong-100260817125752136.htm",
+      "summary": "UBND TP.HCM phê duyệt phương án đấu giá quyền sử dụng đất lô đất rộng 6.446m² tại khu đô thị mới Thủ Thiêm, phường An Khánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T15:31:23.724567+07:00",
+      "fetched": "2026-08-17T15:31:23.724626+07:00"
+    },
+    {
+      "id": "3cc9473b4cc3b8cdd305dd209e50a2ae",
+      "title": "Dân bức xúc vì đường thi công dang dở, ngập nước, rác tồn đọng",
+      "link": "https://tuoitre.vn/dan-buc-xuc-vi-duong-thi-cong-dang-do-ngap-nuoc-rac-ton-dong-100260817124545535.htm",
+      "summary": "Người dân Xóm Chài, phường Hưng Phú, TP Cần Thơ phản ánh tình trạng đường thi công dang dở, ngập nước giao thông đi lại khó khăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T15:31:23.724483+07:00",
+      "fetched": "2026-08-17T15:31:23.724555+07:00"
+    },
+    {
+      "id": "80795917b8489e84661ba0f859a97e74",
+      "title": "Đau lòng phiên tòa 'mâu thuẫn vợ chồng, người cha ôm 2 con nhảy xuống sông Trà Khúc'",
+      "link": "https://tuoitre.vn/dau-long-phien-toa-mau-thuan-vo-chong-nguoi-cha-om-2-con-nhay-xuong-song-tra-khuc-10026081713023264.htm",
+      "summary": "Chỉ vì mâu thuẫn vợ chồng, một người cha đã chọn cách giải quyết cực đoan là chở hai con nhỏ đến cầu Trường Xuân rồi đẩy xuống dòng Trà Khúc đang mùa lũ. Một người con mãi mãi khép lại cuộc đời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T15:31:23.724385+07:00",
+      "fetched": "2026-08-17T15:31:23.724470+07:00"
+    },
+    {
+      "id": "4976fedc9d4170564368ae6a29d6b74e",
+      "title": "Cựu chiến binh Trường Sơn nghẹn ngào tại công viên Lê Thị Riêng: 'Đón anh về mà lệ trào dâng'",
+      "link": "https://tuoitre.vn/cuu-chien-binh-truong-son-nghen-ngao-tai-cong-vien-le-thi-rieng-don-anh-ve-ma-le-trao-dang-100260817125019555.htm",
+      "summary": "Gần 60 năm sau ngày đồng đội ngã xuống, các cựu chiến binh Trường Sơn trở lại công viên Lê Thị Riêng, nghẹn ngào chờ các anh trở về.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T15:31:23.724307+07:00",
+      "fetched": "2026-08-17T15:31:23.724374+07:00"
+    },
+    {
+      "id": "8f43a11b9fdb2c9e2cfde00e18594af0",
+      "title": "Từ tờ 500.000 đồng nghi giả mua chai nước, công an Cần Thơ lần ra đường dây tiền giả liên tỉnh",
+      "link": "https://tuoitre.vn/tu-to-500000-dong-nghi-gia-mua-chai-nuoc-cong-an-can-tho-lan-ra-duong-day-tien-gia-lien-tinh-100260817130733022.htm",
+      "summary": "Công an TP Cần Thơ triệt phá đường dây làm, mua bán tiền giả, thu giữ hàng trăm tờ tiền nghi giả cùng máy móc sản xuất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T15:31:23.724161+07:00",
+      "fetched": "2026-08-17T15:31:23.724292+07:00"
+    },
     {
       "id": "8a86daf34f8c5daa8d326b4161b3ad9a",
       "title": "Jackie Kennedy và cảm hứng thời trang mùa thu",
@@ -453,6 +603,156 @@ window.newsData_2026_08_17 = {
       "fetched": "2026-08-17T09:51:44.433795+07:00"
     },
     {
+      "id": "b20c797737e2ea0c825a0b4f997cb630",
+      "title": "Khánh Hòa cảnh cáo 1 phó hiệu trưởng vi phạm quy chế thi tốt nghiệp THPT 2026",
+      "link": "https://thanhnien.vn/khanh-hoa-canh-cao-1-pho-hieu-truong-vi-pham-quy-che-thi-tot-nghiep-thpt-2026-185260817150202343.htm",
+      "summary": "Một phó hiệu trưởng tại Khánh Hòa bị kỷ luật cảnh cáo 12 tháng do vi phạm quy chế thi tốt nghiệp THPT 2026, liên quan vụ thí sinh mang điện thoại vào phòng thi nhưng không bị lập biên bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T08:25:00+07:00",
+      "fetched": "2026-08-17T15:31:21.842918+07:00"
+    },
+    {
+      "id": "0322d97e33a83a5decc8f336ad0d18df",
+      "title": "Truy tố ông Lê Thanh Thản tội lừa dối khách hàng",
+      "link": "https://thanhnien.vn/truy-to-ong-le-thanh-than-toi-lua-doi-khach-hang-185260817145848057.htm",
+      "summary": "Ông Lê Thanh Thản bị truy tố với cáo buộc lừa dối khách hàng tại dự án CT6 Kiến Hưng, khiến hàng trăm người bỏ tiền mua căn hộ nhưng không được cấp 'sổ đỏ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T08:23:00+07:00",
+      "fetched": "2026-08-17T15:31:21.843089+07:00"
+    },
+    {
+      "id": "1cc6938066cab87cd2be92e6cc5be330",
+      "title": "Nhận định, dự đoán tỷ số bán kết lượt về Thái Lan vs Singapore: Voi chiến thắng dễ!",
+      "link": "https://thanhnien.vn/nhan-dinh-du-doan-ty-so-ban-ket-luot-ve-thai-lan-vs-singapore-voi-chien-thang-de-185260817151806595.htm",
+      "summary": "Nhìn vào chiến thắng 3-1 thuyết phục tại Singapore ở trận lượt đi, nhận định, dự đoán bán kết lượt về sẽ rất khó để Thái Lan đánh rơi tấm vé đầu tiên vào chung kết ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T08:21:00+07:00",
+      "fetched": "2026-08-17T15:31:21.843246+07:00"
+    },
+    {
+      "id": "84f66622f4563ff250bcdd220f1c60f4",
+      "title": "Đội tuyển Malaysia mất thêm trụ cột, nhiệm vụ lật ngược thế cờ trước Việt Nam càng khó",
+      "link": "https://thanhnien.vn/doi-tuyen-malaysia-mat-them-tru-cot-nhiem-vu-lat-nguoc-the-co-truoc-viet-nam-cang-kho-185260817124906847.htm",
+      "summary": "Sau thất bại 0-2 trước đội tuyển Việt Nam ở bán kết lượt đi ASEAN Cup 2026, Malaysia tiếp tục chịu tổn thất về lực lượng khi hậu vệ Rodney Celvin không cùng đội sang Hà Nội. Với cách biệt 2 bàn và bất lợi sân khách, thầy trò HLV Tan Cheng Hoe sẽ phải đối mặt với thử thách rất lớn ở trận lượt về.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T08:21:00+07:00",
+      "fetched": "2026-08-17T15:31:21.843407+07:00"
+    },
+    {
+      "id": "a4fda0763970bae96391e8b844c4a72b",
+      "title": "Tây Ninh: Bắt người đàn ông nhập cảnh trái phép đang bị truy nã",
+      "link": "https://thanhnien.vn/tay-ninh-bat-nguoi-dan-ong-nhap-canh-trai-phep-dang-bi-truy-na-185260817142336322.htm",
+      "summary": "Đồn Biên phòng Mỹ Thạnh Tây (tỉnh Tây Ninh) vừa phát hiện, bắt giữ một đối tượng đang bị truy nã nhập cảnh trái phép từ Campuchia vào Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T08:14:00+07:00",
+      "fetched": "2026-08-17T15:31:21.843592+07:00"
+    },
+    {
+      "id": "dd5ab7e951469360b5a4a3f118e2518a",
+      "title": "Những nơi này ở TP.HCM đang cho thuê trọ với đủ các loại giá…",
+      "link": "https://thanhnien.vn/nhung-noi-nay-o-tphcm-dang-cho-thue-tro-voi-du-cac-loai-gia-18526081714424264.htm",
+      "summary": "Năm học mới cận kề kéo theo thị trường phòng trọ TP.HCM trở nên sôi động. Từ những căn phòng giá hơn 2 triệu đồng/tháng đến studio, căn hộ đầy đủ nội thất…, nhiều lựa chọn cho người có nhu cầu thuê phòng trọ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T08:12:00+07:00",
+      "fetched": "2026-08-17T15:31:21.843746+07:00"
+    },
+    {
+      "id": "7bccf74eff729e5bcbefdfb45483f633",
+      "title": "Iran treo thưởng lớn để 'săn' binh sĩ Mỹ",
+      "link": "https://thanhnien.vn/iran-treo-thuong-lon-de-san-binh-si-my-185260817133353484.htm",
+      "summary": "Quân đội Iran ngày 16.8 thông báo treo thưởng khoản tiền tương đương 30.000 USD cho việc giết chết hoặc bắt giữ binh sĩ Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T08:00:00+07:00",
+      "fetched": "2026-08-17T15:31:21.843909+07:00"
+    },
+    {
+      "id": "10065958df774f6876afd7d26e39a0f5",
+      "title": "Tai nghe có hộp sạc khử khuẩn UV kiêm bộ phát Bluetooth",
+      "link": "https://vnexpress.net/tai-nghe-co-hop-sac-khu-khuan-uv-kiem-bo-phat-bluetooth-5109793.html",
+      "summary": "Tai nghe LG Xboom Buds Plus trang bị đèn LED UVC  diệt vi khuẩn trên màng loa, đệm tai silicone và tính năng Plug & Wireless, giúp kết nối với bất kỳ nguồn phát nào có jack 3.5 mm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-17T08:00:00+07:00",
+      "fetched": "2026-08-17T15:31:28.814689+07:00"
+    },
+    {
+      "id": "5e09981a4d7995797f227e15db3db102",
+      "title": "HLV Hudson xấu hổ vì cãi nhau với HLV Singapore, cảnh báo Thái Lan đừng chủ quan bán kết lượt về",
+      "link": "https://thanhnien.vn/hlv-hudson-xau-ho-vi-cai-nhau-voi-hlv-singapore-canh-bao-thai-lan-dung-chu-quan-ban-ket-luot-ve-185260817145551897.htm",
+      "summary": "HLV Anthony Hudson thừa nhận trận bán kết lượt đi giữa Thái Lan và Singapore có nhiều cảm xúc, đồng thời giải thích rõ sự cố với đồng nghiệp Gavin Lee sau trận. Nhà cầm quân người Anh cũng yêu cầu các học trò phải dũng cảm hơn ở lượt về.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:58:00+07:00",
+      "fetched": "2026-08-17T15:31:21.844065+07:00"
+    },
+    {
+      "id": "4c989cf4e0070faff996b6039406c0ea",
+      "title": "Giá vàng quay đầu giảm chiều 17.8",
+      "link": "https://thanhnien.vn/gia-vang-quay-dau-giam-chieu-178-185260817142953845.htm",
+      "summary": "Sau nhịp tăng đáng kể buổi sáng, chiều nay 17.8, giá vàng miếng SJC quay đầu giảm 600.000 đồng/lượng. Giá bạc hôm nay tăng khoảng gần 700.000 đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:57:00+07:00",
+      "fetched": "2026-08-17T15:31:21.844213+07:00"
+    },
+    {
+      "id": "27e2fc5e10029a66ef3cb132a8b03645",
+      "title": "Thêm lợi ích mới: Sacombank triển khai chương trình ưu đãi dành cho thẻ Visa doanh nghiệp",
+      "link": "https://thanhnien.vn/them-loi-ich-moi-sacombank-trien-khai-chuong-trinh-uu-dai-danh-cho-the-visa-doanh-nghiep-18526081715041213.htm",
+      "summary": "Mỗi ngày, doanh nghiệp phát sinh hàng chục khoản thanh toán phục vụ hoạt động kinh doanh, từ chi phí quảng cáo, mua sắm vật tư, công tác đến các dịch vụ phần mềm. Giá trị của từng giao dịch có thể không lớn, nhưng nếu quản lý rời rạc sẽ khiến doanh nghiệp mất nhiều thời gian đối soát, khó theo dõi n...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:52:00+07:00",
+      "fetched": "2026-08-17T15:31:21.844364+07:00"
+    },
+    {
+      "id": "b90715fb538c48ed3bcd1bae81b39037",
+      "title": "Xử phạt hàng loạt nhà thuốc, công ty mỹ phẩm tại TP.HCM",
+      "link": "https://thanhnien.vn/xu-phat-hang-loat-nha-thuoc-cong-ty-my-pham-tai-tphcm-185260817142727752.htm",
+      "summary": "Trong nửa tháng 8.2026, Sở Y tế TP.HCM xử phạt 16 cơ sở trong lĩnh vực dược - mỹ phẩm, với tổng số tiền 415,75 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:52:00+07:00",
+      "fetched": "2026-08-17T15:31:21.844536+07:00"
+    },
+    {
+      "id": "8d5004dfe59073c4620211c97fe309da",
+      "title": "Gian hàng không bán trái cây giữa lễ hội trái cây gần sân bay Tân Sơn Nhất",
+      "link": "https://thanhnien.vn/gian-hang-khong-ban-trai-cay-giua-le-hoi-trai-cay-gan-san-bay-tan-son-nhat-185260817131831105.htm",
+      "summary": "Giữa hàng chục gian hàng trái cây, nông sản tại một lễ hội gần sân bay Tân Sơn Nhất, người dân có thể ghé một gian hàng khá đặc biệt để tìm hiểu cách nhận biết, phòng ngừa ma túy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:52:00+07:00",
+      "fetched": "2026-08-17T15:31:21.844695+07:00"
+    },
+    {
+      "id": "88c6ef71ba6626c7bfe1624abb8684dc",
+      "title": "Bộ trưởng Bộ Công an thông tin về cơ chế 'không truy cứu hình sự'",
+      "link": "https://thanhnien.vn/bo-truong-bo-cong-an-thong-tin-ve-co-che-khong-truy-cuu-hinh-su-185260817111405674.htm",
+      "summary": "Bộ trưởng Bộ Công an Lương Tam Quang cho biết, dự thảo được chỉnh lý theo hướng không quy định người thực hiện hành vi vi phạm đã khai rõ sự việc, góp phần có hiệu quả vào việc phát hiện, xử lý tội phạm là điều kiện bắt buộc để xem xét không truy cứu trách nhiệm hình sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:42:00+07:00",
+      "fetched": "2026-08-17T15:31:21.844847+07:00"
+    },
+    {
+      "id": "f683c07c47e63d33a27cd56ee1699f90",
+      "title": "Vì sao khách Việt đang ít đến Singapore?",
+      "link": "https://thanhnien.vn/vi-sao-khach-viet-dang-it-den-singapore-18526081714311576.htm",
+      "summary": "Trong khi lượng khách quốc tế và doanh thu du lịch Singapore tiếp tục tăng, số khách Việt đến quốc đảo này lại giảm trong hai năm liên tiếp và chưa có dấu hiệu phục hồi rõ rệt trong nửa đầu năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:41:00+07:00",
+      "fetched": "2026-08-17T15:31:21.844992+07:00"
+    },
+    {
       "id": "70e4a4a3d074e047e94b2aa4cb8fc5ef",
       "title": "Tin tức sáng 17-8: Bảo hiểm xã hội thu gần 70.000 tỉ đồng tiền lãi gửi ngân hàng",
       "link": "https://tuoitre.vn/tin-tuc-sang-17-8-bao-hiem-xa-hoi-thu-gan-70000-ti-dong-tien-lai-gui-ngan-hang-100260816205427203.htm",
@@ -541,6 +841,196 @@ window.newsData_2026_08_17 = {
       "category": "Tổng hợp",
       "published": "2026-08-17T07:39:45.248028+07:00",
       "fetched": "2026-08-17T07:39:45.248174+07:00"
+    },
+    {
+      "id": "f821824fc7ad9a08cbc8d9f3e3315fe2",
+      "title": "'Ủy viên Trung ương phải suy nghĩ ở tầm toàn quốc'",
+      "link": "https://vnexpress.net/uy-vien-trung-uong-phai-suy-nghi-o-tam-toan-quoc-5110002.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu mỗi Ủy viên Trung ương Đảng khóa 14 đặt lợi ích chung lên trên hết, cùng chịu trách nhiệm về những quyết định hệ trọng và tương lai đất nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:35:47+07:00",
+      "fetched": "2026-08-17T15:31:19.050603+07:00"
+    },
+    {
+      "id": "cac501fe077582efdd7043256a89dd81",
+      "title": "Thủ Thiêm sắp đấu giá lô 'đất vàng' với khởi điểm gần 1.902 tỷ đồng",
+      "link": "https://vnexpress.net/thu-thiem-sap-dau-gia-lo-dat-vang-voi-khoi-diem-gan-1-902-ty-dong-5110005.html",
+      "summary": "Lô đất 6.446 m2 tại Khu đô thị mới Thủ Thiêm, phường An Khánh, được TP HCM phê duyệt phương án đấu giá với mức khởi điểm dự kiến hơn 1.901 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:34:07+07:00",
+      "fetched": "2026-08-17T15:31:19.050785+07:00"
+    },
+    {
+      "id": "6177e3dd3a522ef905a45b4f69461938",
+      "title": "Johnny Depp có thể tái xuất với 'Cướp biển vùng Caribbean'",
+      "link": "https://vnexpress.net/johnny-depp-co-the-tai-xuat-voi-cuop-bien-vung-caribbean-5110007.html",
+      "summary": "Tài tử Johnny Depp đang cân nhắc khả năng tái xuất trong phần sáu loạt phim \"Cướp biển vùng Caribbean\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:30:00+07:00",
+      "fetched": "2026-08-17T15:31:19.050956+07:00"
+    },
+    {
+      "id": "56b4ed048f19423ab557c33c05181481",
+      "title": "Không nhiễm viêm gan B sẽ không mắc ung thư?",
+      "link": "https://vnexpress.net/khong-nhiem-viem-gan-b-se-khong-mac-ung-thu-5110024.html",
+      "summary": "Tôi vừa khám sức khỏe, kết quả cho thấy không mắc viêm gan B, như vậy tôi sẽ không có nguy cơ mắc ung thư gan phải không? (Trần Văn Hà, 46 tuổi, Nghệ An)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:30:00+07:00",
+      "fetched": "2026-08-17T15:31:19.051118+07:00"
+    },
+    {
+      "id": "f4c41396785227507a38d029903d4059",
+      "title": "Chiến dịch 'Jollibee tuần lộc' giành giải vàng tại BSI Awards 2026",
+      "link": "https://vnexpress.net/chien-dich-jollibee-tuan-loc-gianh-giai-vang-tai-bsi-awards-2026-5109840.html",
+      "summary": "Toàn bộ sản phẩm bán hết sau 15 ngày cùng sức lan tỏa trên mạng xã hội đưa \"Jollibee Giáng sinh tuần lộc\" trở thành một trong những chiến dịch nổi bật của năm và được vinh danh tại BSI Awards 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:30:00+07:00",
+      "fetched": "2026-08-17T15:31:19.051283+07:00"
+    },
+    {
+      "id": "9965d7450766538722047d309e328ef2",
+      "title": "Ba kiểu du lịch tưởng tiết kiệm lại khiến tốn kém hơn",
+      "link": "https://vnexpress.net/ba-kieu-du-lich-tuong-tiet-kiem-lai-khien-ton-kem-hon-5109859.html",
+      "summary": "Săn được một chuyến bay giá rẻ hoặc một khách sạn bình dân có thể chỉ khiến bạn vui cho đến khi phải đối mặt các khoản phí ẩn hoặc phát sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:29:20+07:00",
+      "fetched": "2026-08-17T15:31:19.051460+07:00"
+    },
+    {
+      "id": "8c96c6285542c59e0261431d370bf31f",
+      "title": "Vì sao nên ngừng chọn tuyến đường nhanh nhất trên Google Maps?",
+      "link": "https://thanhnien.vn/vi-sao-nen-ngung-chon-tuyen-duong-nhanh-nhat-tren-google-maps-185260817093030043.htm",
+      "summary": "Lộ trình nhanh nhất trên Google Maps chưa chắc là lựa chọn tốt nhất cho bạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:26:00+07:00",
+      "fetched": "2026-08-17T15:31:21.845136+07:00"
+    },
+    {
+      "id": "e00910490cf56ade1a70320bf1c05518",
+      "title": "Jaecoo J5 EV - xe điện cỡ B giá 600 triệu đồng có gì?",
+      "link": "https://vnexpress.net/jaecoo-j5-ev-xe-dien-co-b-gia-600-trieu-dong-co-gi-5109780.html",
+      "summary": "Mẫu xe gầm cao lắp ráp tại Việt Nam bán giá ưu đãi đến hết tháng 8 với giá gần 600 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:20:56+07:00",
+      "fetched": "2026-08-17T15:31:19.051623+07:00"
+    },
+    {
+      "id": "73460230036edc6f9b57affadd8b40ab",
+      "title": "Tài xế có dấu hiệu đột quỵ khi đang chở khách",
+      "link": "https://vnexpress.net/tai-xe-co-dau-hieu-dot-quy-khi-dang-cho-khach-5109997.html",
+      "summary": "Ông Nguyễn Mai Phúc, 57 tuổi, đang lái ôtô dịch vụ 5 chỗ chở khách thì có dấu hiệu bất tỉnh, lao phương tiện xuống ruộng khiến tử vong, nghi do đột quỵ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:13:29+07:00",
+      "fetched": "2026-08-17T15:31:19.051784+07:00"
+    },
+    {
+      "id": "43148274ec1b68b2ba73f6e6a9677a8d",
+      "title": "Phụ huynh mướt mồ hôi 'săn' từng cuốn sách giáo khoa",
+      "link": "https://vnexpress.net/phu-huynh-muot-mo-hoi-san-tung-cuon-sach-giao-khoa-5109869.html",
+      "summary": "Chạy 5 nhà sách, anh Tuấn chỉ mua được 5/13 cuốn mà con cần, đành để lại số điện thoại để biết khi nào sách về thêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:01:42+07:00",
+      "fetched": "2026-08-17T15:31:19.051943+07:00"
+    },
+    {
+      "id": "56b98dad9a3b4819e584bd98325f6f24",
+      "title": "Mourinho: 'Chi tiết nhỏ làm nên khác biệt lớn'",
+      "link": "https://vnexpress.net/mourinho-chi-tiet-nho-lam-nen-khac-biet-lon-5110000.html",
+      "summary": "Sau quá trình chuẩn bị cho mùa giải mới, HLV Jose Mourinho cho rằng ngay cả những thứ đơn giản như sự hào hứng cũng có thể đem lại ích lợi lớn cho Real Madrid.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:00:27+07:00",
+      "fetched": "2026-08-17T15:31:19.052097+07:00"
+    },
+    {
+      "id": "56b98dad9a3b4819e584bd98325f6f24",
+      "title": "Mourinho: 'Chi tiết nhỏ làm nên khác biệt lớn'",
+      "link": "https://vnexpress.net/mourinho-chi-tiet-nho-lam-nen-khac-biet-lon-5110000.html",
+      "summary": "Sau quá trình chuẩn bị cho mùa giải mới, HLV Jose Mourinho cho rằng ngay cả những thứ đơn giản như sự hào hứng cũng có thể đem lại ích lợi lớn cho Real Madrid.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-17T07:00:27+07:00",
+      "fetched": "2026-08-17T15:31:29.907523+07:00"
+    },
+    {
+      "id": "97e81a9a6e73b5cec5a19c7cd0bc6f6d",
+      "title": "FE Credit triển khai chương trình ưu đãi 2,5 tỷ đồng mùa tựu trường",
+      "link": "https://vnexpress.net/fe-credit-trien-khai-chuong-trinh-uu-dai-2-5-ty-dong-mua-tuu-truong-5109945.html",
+      "summary": "FE Credit triển khai ưu đãi lãi suất, giảm giá và tặng quà trên nhiều sản phẩm tài chính, tổng giá trị hơn 2,5 tỷ đồng, từ ngày 1/8 đến 31/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:00:00+07:00",
+      "fetched": "2026-08-17T15:31:19.052249+07:00"
+    },
+    {
+      "id": "e9d483d5625389d3415e02d879bb100a",
+      "title": "Mẹo ăn uống giảm cân",
+      "link": "https://vnexpress.net/meo-an-uong-giam-can-5109922.html",
+      "summary": "Người giảm cân nên ưu tiên bữa chính vào buổi sáng và trưa, ăn nhẹ vào buổi tối để hỗ trợ trao đổi chất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:00:00+07:00",
+      "fetched": "2026-08-17T15:31:19.052450+07:00"
+    },
+    {
+      "id": "e555409dd5f44e058ae80141ffd7dcc7",
+      "title": "Siêu tàu sân bay Mỹ hoàn tất thử nghiệm cấp nhà máy",
+      "link": "https://vnexpress.net/sieu-tau-san-bay-my-hoan-tat-thu-nghiem-cap-nha-may-5109949.html",
+      "summary": "Tàu sân bay USS John F. Kennedy hoàn tất đợt thử nghiệm của nhà máy, trước khi tham gia các đợt nghiệm thu của hải quân Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T06:53:51+07:00",
+      "fetched": "2026-08-17T15:31:19.052641+07:00"
+    },
+    {
+      "id": "e555409dd5f44e058ae80141ffd7dcc7",
+      "title": "Siêu tàu sân bay Mỹ hoàn tất thử nghiệm cấp nhà máy",
+      "link": "https://vnexpress.net/sieu-tau-san-bay-my-hoan-tat-thu-nghiem-cap-nha-may-5109949.html",
+      "summary": "Tàu sân bay USS John F. Kennedy hoàn tất đợt thử nghiệm của nhà máy, trước khi tham gia các đợt nghiệm thu của hải quân Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-17T06:53:51+07:00",
+      "fetched": "2026-08-17T15:31:25.055729+07:00"
+    },
+    {
+      "id": "2e67e4e5320949984ce5c01624da25c5",
+      "title": "'Sức kiếm tiền' của Highlands Coffee đạt kỷ lục",
+      "link": "https://vnexpress.net/suc-kiem-tien-cua-highlands-coffee-dat-ky-luc-5109926.html",
+      "summary": "EBITDA - chỉ số phản ánh khả năng tạo lợi nhuận từ hoạt động kinh doanh - của Highlands Coffee đạt kỷ lục gần 440 tỷ đồng trong quý II.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T06:52:02+07:00",
+      "fetched": "2026-08-17T15:31:19.052801+07:00"
+    },
+    {
+      "id": "2e67e4e5320949984ce5c01624da25c5",
+      "title": "'Sức kiếm tiền' của Highlands Coffee đạt kỷ lục",
+      "link": "https://vnexpress.net/suc-kiem-tien-cua-highlands-coffee-dat-ky-luc-5109926.html",
+      "summary": "EBITDA - chỉ số phản ánh khả năng tạo lợi nhuận từ hoạt động kinh doanh - của Highlands Coffee đạt kỷ lục gần 440 tỷ đồng trong quý II.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-17T06:52:02+07:00",
+      "fetched": "2026-08-17T15:31:26.420803+07:00"
+    },
+    {
+      "id": "96e105dda1f1b8930a812305d8cefae5",
+      "title": "4 thói quen âm thầm khiến trẻ dậy thì sớm, mất cơ hội tăng chiều cao",
+      "link": "https://vnexpress.net/4-thoi-quen-am-tham-khien-tre-day-thi-som-mat-co-hoi-tang-chieu-cao-5109964.html",
+      "summary": "Trẻ dậy thì sớm chủ yếu do 4 thói quen sinh hoạt bất hợp lý như ăn nhiều tinh bột, thức khuya và lười vận động, nhiễm chất rối loạn nội tiết,",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T06:47:09+07:00",
+      "fetched": "2026-08-17T15:31:19.052958+07:00"
     },
     {
       "id": "5527c340c26bfef162dd002178fba255",
