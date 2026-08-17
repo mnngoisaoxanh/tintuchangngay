@@ -1,7 +1,147 @@
 window.newsData_2026_08_17 = {
   "date": "2026-08-17",
-  "lastUpdated": "2026-08-17T21:17:58.519181+07:00",
+  "lastUpdated": "2026-08-17T23:15:25.514164+07:00",
   "articles": [
+    {
+      "id": "e495893f0fa0a4d0aec21476b9ffbbc2",
+      "title": "Bộ Công an: Không chia sẻ thông tin chưa kiểm chứng vụ tai nạn trên đường Nguyễn Huy Tự",
+      "link": "https://tuoitre.vn/bo-cong-an-khong-chia-se-thong-tin-chua-kiem-chung-vu-tai-nan-tren-duong-nguyen-huy-tu-100260817184548528.htm",
+      "summary": "Thiếu tướng Nguyễn Quốc Toản - Chánh văn phòng, Người phát ngôn Bộ Công an - cho biết người dân cần tỉnh táo, nâng cao cảnh giác. Mỗi người dân, đặc biệt là người trẻ khi tham gia không gian mạng cần xây dựng cho mình \"sức đề kháng tự nhiên trên không gian số\", không chia sẻ thông tin chưa được kiểm...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T23:15:19.939274+07:00",
+      "fetched": "2026-08-17T23:15:19.939362+07:00"
+    },
+    {
+      "id": "2a22c6935f306dd3adfac778182ba28b",
+      "title": "Tăng cường kiểm soát nguồn gốc hàng hóa vào chợ đầu mối Hóc Môn",
+      "link": "https://tuoitre.vn/tang-cuong-kiem-soat-nguon-goc-hang-hoa-vao-cho-dau-moi-hoc-mon-1002608172011008.htm",
+      "summary": "Chiều 17-8, đoàn giám sát của Thường trực HĐND TP.HCM do ông Huỳnh Thanh Nhân - Phó chủ tịch HĐND TP.HCM - làm trưởng đoàn đã giám sát công tác quản lý nhà nước về an toàn thực phẩm tại chợ đầu mối nông sản thực phẩm Hóc Môn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T23:15:19.939154+07:00",
+      "fetched": "2026-08-17T23:15:19.939257+07:00"
+    },
+    {
+      "id": "ab2cab06e5a78e634cd0f5bb6cce5c30",
+      "title": "HLV từng gây hấn với Messi bị ngất xỉu do... 'vợ đánh'",
+      "link": "https://tuoitre.vn/hlv-tung-gay-han-voi-messi-bi-ngat-xiu-do-vo-danh-100260817195924522.htm",
+      "summary": "Người hâm mộ có lẽ vẫn còn nhớ đến cái tên Hossam Hassan, HLV trưởng tuyển Ai Cập từng gây hấn dữ dội với Messi và tuyển Argentina tại World Cup 2026. Mới đây, ông trở thành nạn nhân trong vụ 'hỗn chiến giữa các bà vợ'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T23:15:19.939039+07:00",
+      "fetched": "2026-08-17T23:15:19.939135+07:00"
+    },
+    {
+      "id": "0a322b0dfee2b901731a68a5cf26ffe0",
+      "title": "Yêu cầu điều tra vi phạm sử dụng thiết bị bay không người lái tại sân bay",
+      "link": "https://tuoitre.vn/yeu-cau-dieu-tra-vi-pham-su-dung-thiet-bi-bay-khong-nguoi-lai-tai-san-bay-100260817195458521.htm",
+      "summary": "Phó thủ tướng thường trực Phạm Gia Túc yêu cầu tăng cường biện pháp quản lý, giám sát đối với thiết bị bay không người lái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T23:15:19.938926+07:00",
+      "fetched": "2026-08-17T23:15:19.939022+07:00"
+    },
+    {
+      "id": "f763d0513b3d920ca2c28c4195058d7f",
+      "title": "Chính phủ yêu cầu đơn giản thủ tục cấp giấy chứng nhận quyền sử dụng đất",
+      "link": "https://tuoitre.vn/chinh-phu-yeu-cau-don-gian-thu-tuc-cap-giay-chung-nhan-quyen-su-dung-dat-100260817200835795.htm",
+      "summary": "Tạo thuận lợi tối đa cho người dân, doanh nghiệp trong tiếp cận đất đai và thực hiện thủ tục hành chính. Hết năm 2027, cơ bản hoàn thành hệ thống thông tin quốc gia và cơ sở dữ liệu đất đai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T23:15:19.938794+07:00",
+      "fetched": "2026-08-17T23:15:19.938905+07:00"
+    },
+    {
+      "id": "ea685a574ff63ed087a0606d8cc03f95",
+      "title": "Từ Quảng Trị trở ra miền Bắc mưa lớn, Thủ tướng yêu cầu chủ động ứng phó",
+      "link": "https://tuoitre.vn/tu-quang-tri-tro-ra-mien-bac-mua-lon-thu-tuong-yeu-cau-chu-dong-ung-pho-100260817195208186.htm",
+      "summary": "Để ứng phó với đợt mưa lớn, Thủ tướng yêu cầu các tỉnh, thành phố thuộc Bắc Bộ và Bắc Trung Bộ rà soát phương án, kịp thời tổ chức sơ tán dân cư tại những khu vực có nguy cơ ngập lụt, lũ quét, sạt lở đất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T23:15:19.938626+07:00",
+      "fetched": "2026-08-17T23:15:19.938757+07:00"
+    },
+    {
+      "id": "66a6f9572d9ae8d5996b6f5d4f732409",
+      "title": "Ông Trump dọa ném bom Oman tan tành",
+      "link": "https://tuoitre.vn/ong-trump-doa-nem-bom-oman-tan-tanh-100260817202333847.htm",
+      "summary": "Ông Trump dọa sẽ ném bom Oman tan tành nếu nước này cản trở thỏa thuận giữa Mỹ và Iran về eo biển Hormuz, đồng thời xác nhận có kênh liên lạc bí mật với IRGC.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T23:15:19.938496+07:00",
+      "fetched": "2026-08-17T23:15:19.938603+07:00"
+    },
+    {
+      "id": "2e6cbc9250c415eb2f90c0873d6e7dad",
+      "title": "Kinh tế tăng trưởng, Đài Loan đề xuất tặng mỗi người dân 314 USD",
+      "link": "https://tuoitre.vn/kinh-te-tang-truong-dai-loan-de-xuat-tang-moi-nguoi-dan-314-usd-100260817191950992.htm",
+      "summary": "Đài Loan đề xuất phát 314 USD cho mỗi người dân vào năm tới, nhằm chia sẻ thành quả tăng trưởng kinh tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T23:15:19.938363+07:00",
+      "fetched": "2026-08-17T23:15:19.938476+07:00"
+    },
+    {
+      "id": "def076011f96f4995cef6a7485595a4c",
+      "title": "Tính phí quản lý tài khoản hằng tháng của chủ xe dùng VETC hoặc ePass",
+      "link": "https://tuoitre.vn/tinh-phi-quan-ly-tai-khoan-hang-thang-cua-chu-xe-dung-vetc-hoac-epass-100260817202523959.htm",
+      "summary": "Từ ngày 1-8, người dùng ví điện tử giao thông VETC bắt đầu phải trả phí duy trì tài khoản hằng tháng, trong khi trước đó dịch vụ này được cung cấp miễn phí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T23:15:19.938291+07:00",
+      "fetched": "2026-08-17T23:15:19.938353+07:00"
+    },
+    {
+      "id": "04ccad28e7d6ac8385fa38c0c807d13f",
+      "title": "Thợ Việt chế siêu phẩm xe gỗ: Hàng độc bản chạy được, lấy cảm hứng từ bom tấn Avatar",
+      "link": "https://tuoitre.vn/tho-viet-che-sieu-pham-xe-go-hang-doc-ban-chay-duoc-lay-cam-hung-tu-bom-tan-avatar-100260817183312899.htm",
+      "summary": "Lấy cảm hứng từ hành tinh Pandora trong bom tấn Avatar, chiếc xe gỗ độc bản có thể vận hành thực tế, tiếp tục cho thấy khả năng chế tác đáng nể của nghệ nhân Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T23:15:19.938185+07:00",
+      "fetched": "2026-08-17T23:15:19.938278+07:00"
+    },
+    {
+      "id": "6b7ddae928cfc9c5dcc6b6da984e30be",
+      "title": "Bắc Ninh chính thức có 12 phường mới từ ngày 20-9",
+      "link": "https://tuoitre.vn/bac-ninh-chinh-thuc-co-12-phuong-moi-tu-ngay-20-9-100260817204722861.htm",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn ký nghị quyết 388 của Ủy ban Thường vụ Quốc hội về thành lập 12 phường thuộc tỉnh Bắc Ninh. Nghị quyết có hiệu lực thi hành từ 20-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T23:15:19.938062+07:00",
+      "fetched": "2026-08-17T23:15:19.938166+07:00"
+    },
+    {
+      "id": "16c45d007777d7d91f7abb49305dcf3c",
+      "title": "Lập phương án đền bù 66 hộ dân, đường Lương Định Của đến nút giao An Phú TP.HCM tiến gần đích",
+      "link": "https://tuoitre.vn/lap-phuong-an-den-bu-66-ho-dan-duong-luong-dinh-cua-den-nut-giao-an-phu-tphcm-tien-gan-dich-100260817210304663.htm",
+      "summary": "Theo dự thảo phương án bồi thường, hỗ trợ, tái định cư của UBND phường Bình Trưng (TP.HCM), dự án nâng cấp đường Lương Định Của dự kiến thu hồi hơn 22.000m² đất, với giá bồi thường đất mặt tiền hơn 170 triệu đồng/m².",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T23:15:19.937751+07:00",
+      "fetched": "2026-08-17T23:15:19.938046+07:00"
+    },
+    {
+      "id": "f9d0187005effc477f21f4c3b71852d7",
+      "title": "Con gái cựu lãnh đạo phe đối lập Campuchia làm đặc phái viên của Thủ tướng Hun Manet",
+      "link": "https://tuoitre.vn/con-gai-cuu-lanh-dao-phe-doi-lap-campuchia-lam-dac-phai-vien-cua-thu-tuong-hun-manet-100260817213206391.htm",
+      "summary": "Bà Kem Monovithya, con gái cựu lãnh đạo phe đối lập Campuchia, được bổ nhiệm làm đặc phái viên của Thủ tướng Hun Manet theo đề nghị của ông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T23:15:19.937670+07:00",
+      "fetched": "2026-08-17T23:15:19.937739+07:00"
+    },
+    {
+      "id": "e2fb48e32ea1fe2e45e50dff9a0178ab",
+      "title": "Địa chấn làng cầu lông, tay vợt số một người Trung Quốc bị loại ở vòng 1 giải thế giới",
+      "link": "https://tuoitre.vn/dia-chan-lang-cau-long-tay-vot-so-mot-nguoi-trung-quoc-bi-loai-o-vong-1-giai-the-gioi-100260817213649414.htm",
+      "summary": "Cú sốc lớn xuất hiện ngay ở vòng 1 nội dung đơn nam Giải vô địch cầu lông thế giới 2026, khi tay vợt số một thế giới người Trung Quốc là Shi Yuqi bất ngờ bị loại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T23:15:19.937516+07:00",
+      "fetched": "2026-08-17T23:15:19.937656+07:00"
+    },
     {
       "id": "cce93ec3c302f12d54b46b63976ac073",
       "title": "Cựu nghị sĩ Mỹ nói Washington thảo luận khả năng tấn công hạt nhân Iran",
@@ -603,6 +743,76 @@ window.newsData_2026_08_17 = {
       "fetched": "2026-08-17T15:31:23.724292+07:00"
     },
     {
+      "id": "e49612238a4205cd691746eb780b2805",
+      "title": "Mỹ chi gần 23 tỷ USD để tăng tốc sản xuất tên lửa Tomahawk",
+      "link": "https://vnexpress.net/my-chi-gan-23-ty-usd-de-tang-toc-san-xuat-ten-lua-tomahawk-5110170.html",
+      "summary": "Mỹ trao hợp đồng 22,9 tỷ USD cho tập đoàn quốc phòng Raytheon để tăng sản lượng tên lửa hành trình Tomahawk.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T15:20:36+07:00",
+      "fetched": "2026-08-17T23:15:15.985624+07:00"
+    },
+    {
+      "id": "e49612238a4205cd691746eb780b2805",
+      "title": "Mỹ chi gần 23 tỷ USD để tăng tốc sản xuất tên lửa Tomahawk",
+      "link": "https://vnexpress.net/my-chi-gan-23-ty-usd-de-tang-toc-san-xuat-ten-lua-tomahawk-5110170.html",
+      "summary": "Mỹ trao hợp đồng 22,9 tỷ USD cho tập đoàn quốc phòng Raytheon để tăng sản lượng tên lửa hành trình Tomahawk.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-17T15:20:36+07:00",
+      "fetched": "2026-08-17T23:15:21.261892+07:00"
+    },
+    {
+      "id": "7686e6fde65ebb14dfbbaa290a20fffe",
+      "title": "Công an Hà Nội nói về vụ tai nạn giao thông ở phố Nguyễn Huy Tự",
+      "link": "https://vnexpress.net/cong-an-ha-noi-noi-ve-vu-tai-nan-giao-thong-o-pho-nguyen-huy-tu-5110178.html",
+      "summary": "Công an lên tiếng về vụ tai nạn giao thông xảy ra một năm trước khiến một người tử vong ở phố Nguyễn Huy Tự và đề nghị người dân cần tỉnh táo, không chia sẻ thông tin khi chưa kiểm chứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T15:12:19+07:00",
+      "fetched": "2026-08-17T23:15:15.985807+07:00"
+    },
+    {
+      "id": "48b1b24d922ac97e0cf978fad78c77f5",
+      "title": "Thua Việt Nam 0-2, đội trưởng Malaysia vẫn tuyên bố: ‘Bất cứ điều gì cũng có thể xảy ra’",
+      "link": "https://thanhnien.vn/thua-viet-nam-0-2-doi-truong-malaysia-van-tuyen-bo-bat-cu-dieu-gi-cung-co-the-xay-ra-185260817201622172.htm",
+      "summary": "Thua đội tuyển Việt Nam 0-2 ở bán kết lượt đi Asean Hyundai Cup, Malaysia đối mặt nhiệm vụ rất khó khăn tại Mỹ Đình. Dù vậy, đội trưởng Paulo Josue vẫn tin đội nhà còn 90 phút để tạo nên cuộc ngược dòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T15:09:00+07:00",
+      "fetched": "2026-08-17T23:15:18.465403+07:00"
+    },
+    {
+      "id": "2145d9f795a6d82ba4ac096180478f03",
+      "title": "Công nghệ ADAS trên ô tô: Có nên tin tưởng hoàn toàn?",
+      "link": "https://thanhnien.vn/cong-nghe-adas-tren-o-to-co-nen-tin-tuong-hoan-toan-18526081614543828.htm",
+      "summary": "Công nghệ hỗ trợ lái xe nâng cao ADAS ngày càng phổ biến trên các mẫu xe phổ thông, hỗ trợ người lái từ cảnh báo nguy hiểm đến can thiệp phanh, đánh lái. Tuy nhiên, công nghệ này chỉ phát huy hiệu quả khi tài xế hiểu đúng giới hạn và không phụ thuộc vào hệ thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T15:01:00+07:00",
+      "fetched": "2026-08-17T23:15:18.465610+07:00"
+    },
+    {
+      "id": "3c10fa15168d597c5a8ef91ce353a7a2",
+      "title": "Lê Bá Đảng - Khát vọng hòa bình: Một cuộc trở về trên quê hương Quảng Trị",
+      "link": "https://thanhnien.vn/le-ba-dang-khat-vong-hoa-binh-mot-cuoc-tro-ve-tren-que-huong-quang-tri-185260817200027687.htm",
+      "summary": "Hơn 120 tác phẩm hội họa, điêu khắc cùng nhiều tư liệu về họa sĩ Lê Bá Đảng được giới thiệu tại Quảng Trị trong triển lãm gắn với Lễ hội Vì hòa bình 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T14:55:00+07:00",
+      "fetched": "2026-08-17T23:15:18.465769+07:00"
+    },
+    {
+      "id": "ef0ce78b13e5d34ad2da5750bcd1a7df",
+      "title": "Triệt phá đường dây mua bán thận giá 1,5 tỉ đồng, phù phép hồ sơ hiến tặng tại TP.HCM",
+      "link": "https://thanhnien.vn/triet-pha-duong-day-mua-ban-than-gia-15-ti-dong-phu-phep-ho-so-hien-tang-tai-tphcm-185260817204256987.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Công an TP.HCM vừa khởi tố 11 bị can liên quan đến đường dây môi giới mua bán bộ phận cơ thể người với chi phí lên đến 1,5 tỉ đồng mỗi ca ghép nhằm trục lợi bất chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T14:41:00+07:00",
+      "fetched": "2026-08-17T23:15:18.465920+07:00"
+    },
+    {
       "id": "16cdcc03c72efcc71c198db9d2a9284e",
       "title": "JBL Live 780NC: Tai nghe over-ear kết hợp thiết kế nổi bật và chống ồn chủ động",
       "link": "https://thanhnien.vn/jbl-live-780nc-tai-nghe-over-ear-ket-hop-thiet-ke-noi-bat-va-chong-on-chu-dong-185260817211643569.htm",
@@ -613,6 +823,16 @@ window.newsData_2026_08_17 = {
       "fetched": "2026-08-17T21:17:51.029441+07:00"
     },
     {
+      "id": "609464504354d94a862a56a27d1f83c9",
+      "title": "HLV Hudson cảnh báo Thái Lan trước bán kết lượt về với Singapore: Không được nghĩ trận đấu dễ dàng",
+      "link": "https://thanhnien.vn/hlv-hudson-canh-bao-thai-lan-truoc-ban-ket-luot-ve-voi-singapore-khong-duoc-nghi-tran-dau-de-dang-185260817201501365.htm",
+      "summary": "Sau chiến thắng 3-1 ở bán kết lượt đi ASEAN Cup 2026, HLV Anthony Hudson vẫn cảnh báo đội tuyển Thái Lan không được chủ quan trước Singapore ở trận lượt về.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T14:09:00+07:00",
+      "fetched": "2026-08-17T23:15:18.466224+07:00"
+    },
+    {
       "id": "71ce14dd759b94ffeb51aaa74c56b966",
       "title": "VNG khởi động giải chạy cộng đồng UpRace 2026",
       "link": "https://thanhnien.vn/vng-khoi-dong-giai-chay-cong-dong-uprace-2026-185260817175428858.htm",
@@ -621,6 +841,36 @@ window.newsData_2026_08_17 = {
       "category": "Tổng hợp",
       "published": "2026-08-17T14:00:00+07:00",
       "fetched": "2026-08-17T21:17:51.029613+07:00"
+    },
+    {
+      "id": "7058cf4aa99d5bd3e87b4cf85649cadd",
+      "title": "Giáo sư trẻ nhất thế giới bao nhiêu tuổi?",
+      "link": "https://vnexpress.net/giao-su-tre-nhat-the-gioi-bao-nhieu-tuoi-5110158.html",
+      "summary": "Nathan Thomas là giáo sư trẻ nhất thế giới. Bạn có biết Thomas nhận danh hiệu này năm bao nhiêu tuổi?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T14:00:00+07:00",
+      "fetched": "2026-08-17T23:15:15.985971+07:00"
+    },
+    {
+      "id": "eb1d0d8277157f754b937563278242f4",
+      "title": "Sự cố máy bay muộn 5 phút vạch trần âm mưu của người chồng ngoại tình",
+      "link": "https://vnexpress.net/su-co-may-bay-muon-5-phut-vach-tran-am-muu-cua-nguoi-chong-ngoai-tinh-5110016.html",
+      "summary": "Joseph cẩn thận căn bom hẹn giờ để máy bay phát nổ trên sông, dòng nước sẽ xóa dấu vết, làm khó các nhà điều tra nhưng không ngờ phi cơ khởi hành muộn 5 phút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T14:00:00+07:00",
+      "fetched": "2026-08-17T23:15:15.986128+07:00"
+    },
+    {
+      "id": "152e8152515eed5b84911f99c1532c41",
+      "title": "Hết lòng vì chồng con mà anh vẫn theo người phụ nữ khác",
+      "link": "https://vnexpress.net/het-long-vi-chong-con-ma-anh-van-theo-nguoi-phu-nu-khac-5109686.html",
+      "summary": "Trong lúc chúng tôi còn chung nhà, anh đã dành sự quan tâm, những nụ cười và khoảng thời gian đẹp nhất cho người phụ nữ khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T14:00:00+07:00",
+      "fetched": "2026-08-17T23:15:15.986299+07:00"
     },
     {
       "id": "1c7d1f020d9763231a52159add799511",
@@ -651,6 +901,16 @@ window.newsData_2026_08_17 = {
       "category": "Tổng hợp",
       "published": "2026-08-17T13:50:00+07:00",
       "fetched": "2026-08-17T21:17:51.029921+07:00"
+    },
+    {
+      "id": "bcfd6425859d096691dd56ee713fec7e",
+      "title": "Lũ cuốn trôi ôtô trên đường Hàn Quốc",
+      "link": "https://vnexpress.net/lu-cuon-troi-oto-tren-duong-han-quoc-5110164.html",
+      "summary": "Mưa hơn 800 mm trút xuống Geoje gây ngập diện rộng, nước lũ ồ ạt đổ về kéo theo sạt lở, khiến ít nhất một người thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T13:46:38+07:00",
+      "fetched": "2026-08-17T23:15:15.986689+07:00"
     },
     {
       "id": "bc67e892551838eab35d0b8d9e21497d",
