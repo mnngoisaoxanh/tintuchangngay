@@ -1,7 +1,97 @@
 window.newsData_2026_08_17 = {
   "date": "2026-08-17",
-  "lastUpdated": "2026-08-17T05:10:37.402476+07:00",
+  "lastUpdated": "2026-08-17T07:39:52.049209+07:00",
   "articles": [
+    {
+      "id": "70e4a4a3d074e047e94b2aa4cb8fc5ef",
+      "title": "Tin tức sáng 17-8: Bảo hiểm xã hội thu gần 70.000 tỉ đồng tiền lãi gửi ngân hàng",
+      "link": "https://tuoitre.vn/tin-tuc-sang-17-8-bao-hiem-xa-hoi-thu-gan-70000-ti-dong-tien-lai-gui-ngan-hang-100260816205427203.htm",
+      "summary": "Hôm nay, Ủy ban Thường vụ Quốc hội cho ý kiến tiếp thu dự Luật Phát triển đô thị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:39:45.248572+07:00",
+      "fetched": "2026-08-17T07:39:45.248610+07:00"
+    },
+    {
+      "id": "64bf1068b2374bf6999972930cb1ae95",
+      "title": "Thời tiết hôm nay 17-8: Bắc Bộ mưa to về đêm, Nam Bộ mưa bất chợt",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-17-8-bac-bo-mua-to-ve-dem-nam-bo-mua-bat-chot-100260816155211409.htm",
+      "summary": "Hôm nay 17-8, thời tiết Bắc Bộ ngày mưa dông, chiều tối mưa to đến rất to. Trung Bộ nắng nóng, còn Nam Bộ mưa bất chợt trong ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:39:45.248526+07:00",
+      "fetched": "2026-08-17T07:39:45.248565+07:00"
+    },
+    {
+      "id": "5e1bda27a5b9acb6af7d8636c8bbe868",
+      "title": "Vua phá lưới ASEAN Cup 2026: Tiền đạo Thái Lan 'phả hơi nóng' vào Đình Bắc",
+      "link": "https://tuoitre.vn/vua-pha-luoi-asean-cup-2026-tien-dao-thai-lan-pha-hoi-nong-vao-dinh-bac-100260817002641155.htm",
+      "summary": "Chân sút Teerasak Poeiphimai của Thái Lan đang bám sát Nguyễn Đình Bắc trong cuộc đua Vua phá lưới ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:39:45.248481+07:00",
+      "fetched": "2026-08-17T07:39:45.248520+07:00"
+    },
+    {
+      "id": "b5452d49fc1a14d7e38bb5c1440453fb",
+      "title": "Bóng chuyền nữ Việt Nam mất chỗ trong nhóm 4 đội mạnh nhất châu Á",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-viet-nam-mat-cho-trong-nhom-4-doi-manh-nhat-chau-a-100260817043948145.htm",
+      "summary": "Chuỗi kết quả không tốt trong thời gian gần đây khiến tuyển bóng chuyền nữ Việt Nam tụt xuống hạng 32 thế giới, đồng thời mất vị trí trong nhóm 4 đội có thứ hạng cao nhất châu Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:39:45.248434+07:00",
+      "fetched": "2026-08-17T07:39:45.248474+07:00"
+    },
+    {
+      "id": "40d548c81e21cf262e11b92ea941a4e8",
+      "title": "Báo chí Thái Lan tin vào khả năng gặp Việt Nam ở chung kết",
+      "link": "https://tuoitre.vn/bao-chi-thai-lan-tin-vao-kha-nang-gap-viet-nam-o-chung-ket-100260816231627274.htm",
+      "summary": "Truyền thông Thái Lan dành nhiều lời ngợi khen cho tuyển Việt Nam sau khi thầy trò ông Kim Sang Sik đánh bại Malaysia 2-0 ở trận lượt đi bán kết ASEAN Cup 2026, diễn ra tối 16-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:39:45.248385+07:00",
+      "fetched": "2026-08-17T07:39:45.248426+07:00"
+    },
+    {
+      "id": "15c45d6bde523266869ea6cb38e14c0a",
+      "title": "Bóng chuyền nữ Thái Lan, Philippines gây ấn tượng mạnh khi chia tay giải thế giới",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-thai-lan-philippines-gay-an-tuong-manh-khi-chia-tay-giai-the-gioi-100260817040459448.htm",
+      "summary": "Dù có những thời điểm gây thất vọng, hai đại diện của bóng chuyền nữ Đông Nam Á là Thái Lan và Philippines vẫn có màn chia tay đẹp mắt ở giải thế giới",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:39:45.248334+07:00",
+      "fetched": "2026-08-17T07:39:45.248377+07:00"
+    },
+    {
+      "id": "cea37a702b8c28dc2dd8edd73d2df041",
+      "title": "Barcelona chốt mua Rodri với giá 88 triệu USD",
+      "link": "https://tuoitre.vn/barcelona-chot-mua-rodri-voi-gia-88-trieu-usd-10026081705131957.htm",
+      "summary": "Rạng sáng 17-8, báo chí Anh đồng loạt đưa tin về việc Barcelona hoàn tất quá trình đàm phán để mua Rodri từ Man City.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:39:45.248275+07:00",
+      "fetched": "2026-08-17T07:39:45.248326+07:00"
+    },
+    {
+      "id": "3cd92d7d8a789f48cfa71fb29f2cfe6f",
+      "title": "Xuân Son hướng đến kỷ lục ở ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/xuan-son-huong-den-ky-luc-o-asean-cup-2026-100260816235915485.htm",
+      "summary": "Với bàn thắng vào lưới Malaysia tại bán kết lượt đi ASEAN Cup 2026, Xuân Son đã có 6 bàn thắng ở vòng đấu loại trực tiếp sau hai kỳ tranh tài và trên đường hướng đến kỷ lục mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:39:45.248187+07:00",
+      "fetched": "2026-08-17T07:39:45.248264+07:00"
+    },
+    {
+      "id": "e4edfa9834a02845346235d0f576fd4a",
+      "title": "Sáng nay xét xử vụ án ma túy liên quan 4 tiếp viên hàng không",
+      "link": "https://tuoitre.vn/sang-nay-xet-xu-vu-an-ma-tuy-lien-quan-4-tiep-vien-hang-khong-100260816214811085.htm",
+      "summary": "Sáng nay, 227 bị cáo trong vụ án ma túy liên quan 4 tiếp viên hàng không hồi năm 2023 ra tòa ở TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T07:39:45.248028+07:00",
+      "fetched": "2026-08-17T07:39:45.248174+07:00"
+    },
     {
       "id": "e1e387836a4579ede33649d9235ecebd",
       "title": "Lê Giang Patrik được chấm điểm cao nhất trận Việt Nam - Malaysia",
@@ -181,6 +271,366 @@ window.newsData_2026_08_17 = {
       "category": "Tổng hợp",
       "published": "2026-08-17T01:13:56.784800+07:00",
       "fetched": "2026-08-17T01:13:56.784930+07:00"
+    },
+    {
+      "id": "c48b5754da19a2bdcbcad96fd16a4e35",
+      "title": "Nghệ An 'giải cứu' dòng kênh chết",
+      "link": "https://thanhnien.vn/nghe-an-giai-cuu-dong-kenh-chet-185260816202057348.htm",
+      "summary": "Kênh Bắc chảy qua đô thị Vinh, dài hơn 4,6 km được ví như dòng kênh chết, 'sông Tô Lịch thứ 2', vì quá ô nhiễm. Nghệ An đang đưa ý tưởng 'giải cứu' con kênh này bằng một dự án ngầm hóa kênh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T00:34:00+07:00",
+      "fetched": "2026-08-17T07:39:43.619142+07:00"
+    },
+    {
+      "id": "25d883bf88e3290f5fb21828d171be21",
+      "title": "Ghi nhận ca nhiễm virus viêm não Nhật Bản nguy hiểm",
+      "link": "https://thanhnien.vn/ghi-nhan-ca-nhiem-virus-viem-nao-nhat-ban-nguy-hiem-185260816202616024.htm",
+      "summary": "Khởi đầu chỉ với sốt và đau đầu như một số bệnh thông thường, viêm não Nhật Bản có thể diễn tiến nhanh, gây rối loạn ý thức, co giật, hôn mê, yếu liệt một phần hay toàn bộ cơ thể, thậm chí đe dọa tính mạng và để lại di chứng thần kinh lâu dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T00:30:00+07:00",
+      "fetched": "2026-08-17T07:39:43.619280+07:00"
+    },
+    {
+      "id": "276447be6b3b96ac7dff625c2ee7dc00",
+      "title": "15 tỉnh sẽ có mưa lớn dồn dập từ đêm nay",
+      "link": "https://thanhnien.vn/15-tinh-se-co-mua-lon-don-dap-tu-dem-nay-185260817070652509.htm",
+      "summary": "Dự báo thời tiết ngày 17.8, Trung tâm Dự báo khí tượng thủy văn quốc gia cảnh báo, bắt đầu từ đêm nay, mưa lớn sẽ tăng mạnh ở 15 tỉnh miền Bắc, kéo dài đến ngày 21.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T00:26:00+07:00",
+      "fetched": "2026-08-17T07:39:43.619396+07:00"
+    },
+    {
+      "id": "c3715e4129eb192c804083309cab5647",
+      "title": "Quán Hà Nội với trăm món mẹ nấu được Michelin vinh danh",
+      "link": "https://vnexpress.net/quan-ha-noi-voi-tram-mon-me-nau-duoc-michelin-vinh-danh-5107428.html",
+      "summary": "Mammom bán hàng trăm món Việt lấy cảm hứng từ mâm cơm của các bà mẹ ba miền, hút thực khách nhờ hương vị gần gũi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T00:00:00+07:00",
+      "fetched": "2026-08-17T07:39:40.922210+07:00"
+    },
+    {
+      "id": "7d382f818f70a0b92c75663da77bed49",
+      "title": "Trưởng thôn hành động: Người 'gánh team' của bản",
+      "link": "https://thanhnien.vn/truong-thon-hanh-dong-nguoi-ganh-team-cua-ban-18526081619593239.htm",
+      "summary": "Bằng sự năng động, nhiệt huyết và cách làm quyết liệt, nữ trưởng bản Lương Thị Thảo từng bước giúp bản Ồ Ồ Già Hóp (xã Vĩnh Tường, Nghệ An) thay đổi diện mạo,từ một bản vùng cao nhiều khó khăn trở thành điểm sáng về tinh thần tự lực, tự vươn lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:47:00+07:00",
+      "fetched": "2026-08-17T07:39:43.619510+07:00"
+    },
+    {
+      "id": "51fd48eb463a69f43567217d2f520ab2",
+      "title": "Revuelto SV - siêu xe mạnh nhất nhà Lamborghini",
+      "link": "https://vnexpress.net/revuelto-sv-sieu-xe-manh-nhat-nha-lamborghini-5109626.html",
+      "summary": "Siêu phẩm Revuelto SV nâng cấp hệ truyền động, sản sinh công suất 1.050 mã lực, tốc độ tối đa 344 km/h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:43:00+07:00",
+      "fetched": "2026-08-17T07:39:40.922348+07:00"
+    },
+    {
+      "id": "2b7e03a855654af244e64c5013520a75",
+      "title": "Máy bay va quệt đuôi xuống đường băng, phải quay đầu hạ cánh tại Munich",
+      "link": "https://thanhnien.vn/may-bay-va-quet-duoi-xuong-duong-bang-phai-quay-dau-ha-canh-tai-munich-185260816223615944.htm",
+      "summary": "Cục Hàng không Việt Nam vừa báo cáo Bộ Xây dựng về sự cố chuyến bay VN34 của Vietnam Airlines phải quay đầu hạ cánh tại Munich hôm 15.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:40:00+07:00",
+      "fetched": "2026-08-17T07:39:43.619623+07:00"
+    },
+    {
+      "id": "215feb7b1a42cd95e4ddd4902c6f741d",
+      "title": "Minh Nhật 'Giọng hát Việt nhí': Chống chọi với bệnh thận, gây sốt tại lễ tốt nghiệp",
+      "link": "https://thanhnien.vn/minh-nhat-giong-hat-viet-nhi-chong-choi-voi-benh-than-gay-sot-tai-le-tot-nghiep-185260817011707848.htm",
+      "summary": "Đoạn clip ghi lại màn phát biểu và hát tại lễ tốt nghiệp của Minh Nhật - thí sinh 'The Voice Kids 2018' đã thu hút hàng triệu lượt xem. Đằng sau nụ cười rạng rỡ ngày nhận bằng là câu chuyện đầy nghị lực của chàng trai trẻ vẫn đang chiến đấu với bệnh tật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:37:00+07:00",
+      "fetched": "2026-08-17T07:39:43.619750+07:00"
+    },
+    {
+      "id": "2e13922804a5cdd11c89399ecd4acba1",
+      "title": "Lợi dụng nỗi đau của người khác",
+      "link": "https://thanhnien.vn/loi-dung-noi-dau-cua-nguoi-khac-185260816193851766.htm",
+      "summary": "Chuyện đau lòng vừa xảy ra tại bãi biển Tuy Hòa (Đắk Lắk): Một nam du khách nước ngoài không may bị sóng cuốn mất tích. Chính quyền địa phương, lực lượng chức năng cùng nhiều tổ chức, cá nhân đã khẩn trương tìm kiếm nạn nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:37:00+07:00",
+      "fetched": "2026-08-17T07:39:43.619864+07:00"
+    },
+    {
+      "id": "2fc9611ea8025937f74f39fcb919d020",
+      "title": "Từng 'ngập nửa thân xe', đường Đặng Thùy Trâm giờ thế nào sau nhiều tháng thi công?",
+      "link": "https://thanhnien.vn/tung-ngap-nua-than-xe-moi-mua-mua-duong-dang-thuy-tram-gio-the-nao-sau-nhieu-thang-thi-cong-185260814191823881.htm",
+      "summary": "Dự án nâng cấp đường Đặng Thuỳ Trâm (phường Bình Lợi Trung, TP.HCM) với tổng vốn hơn 93 tỉ đồng đang được đẩy nhanh tiến độ. Bất chấp mưa lớn, lực lượng công nhân vẫn bám sát công trường thi công. Nỗ lực này mang lại kỳ vọng sớm xóa bỏ tình trạng ngập úng kéo dài nhiều năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:36:00+07:00",
+      "fetched": "2026-08-17T07:39:43.619973+07:00"
+    },
+    {
+      "id": "27fe57edce1508b3fa82e86f49e518ea",
+      "title": "Thi vào lớp 10 hai môn: giảm hay dồn áp lực ?",
+      "link": "https://thanhnien.vn/thi-vao-lop-10-hai-mon-giam-hay-don-ap-luc-185260816193710935.htm",
+      "summary": "Dự thảo thi tuyển sinh vào lớp 6, lớp 10 chỉ gồm toán và tiếng Việt (ngữ văn) đang làm dấy lên làn sóng tranh luận về bài toán phân luồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:34:00+07:00",
+      "fetched": "2026-08-17T07:39:43.620083+07:00"
+    },
+    {
+      "id": "cd28fa6bd4b7ef5dbb7f695133a3bccd",
+      "title": "Iran treo thưởng 30.000 USD cho tính mạng của lính Mỹ",
+      "link": "https://vnexpress.net/iran-treo-thuong-30-000-usd-cho-tinh-mang-cua-linh-my-5109805.html",
+      "summary": "Quân đội Iran treo thưởng tương đương 30.000 USD cho người hạ sát hoặc bắt sống binh sĩ Mỹ, trong đó phụ nữ sẽ được thưởng gấp đôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:30:02+07:00",
+      "fetched": "2026-08-17T07:39:40.922468+07:00"
+    },
+    {
+      "id": "cd28fa6bd4b7ef5dbb7f695133a3bccd",
+      "title": "Iran treo thưởng 30.000 USD cho tính mạng của lính Mỹ",
+      "link": "https://vnexpress.net/iran-treo-thuong-30-000-usd-cho-tinh-mang-cua-linh-my-5109805.html",
+      "summary": "Quân đội Iran treo thưởng tương đương 30.000 USD cho người hạ sát hoặc bắt sống binh sĩ Mỹ, trong đó phụ nữ sẽ được thưởng gấp đôi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-16T23:30:02+07:00",
+      "fetched": "2026-08-17T07:39:46.653246+07:00"
+    },
+    {
+      "id": "136b7c431162e3270a8f27b0fde47852",
+      "title": "Hành trình học cách sống với một cánh tay",
+      "link": "https://thanhnien.vn/hanh-trinh-hoc-cach-song-voi-mot-canh-tay-185260816203348548.htm",
+      "summary": "Sau tai nạn giao thông năm 2019, Huỳnh Công Hùng (30 tuổi, ở P.Phan Rang, Khánh Hòa) mất cánh tay phải. Từ những ngày tập làm mọi việc bằng tay trái, sau 7 năm, anh có thể tự lo cuộc sống, làm việc, đi chợ, nấu cơm cho cha mẹ và chia sẻ sinh hoạt thường ngày trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:30:00+07:00",
+      "fetched": "2026-08-17T07:39:43.620189+07:00"
+    },
+    {
+      "id": "a4b8e465d40aad13e6171c5ecfb4d486",
+      "title": "Cả nhà ăn giống nhau, vì sao người mắc bệnh thận, người không?",
+      "link": "https://thanhnien.vn/vi-sao-ca-nha-an-giong-nhau-chi-minh-toi-mac-benh-than-185260817063003125.htm",
+      "summary": "Nhiều người tin ăn uống lành mạnh đủ để bảo vệ thận. Nhưng bác sĩ thường gặp bệnh nhân hỏi: 'Cả gia đình tôi đều ăn cùng một loại thực phẩm. Vậy tại sao chỉ mình tôi mắc bệnh thận?'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:28:00+07:00",
+      "fetched": "2026-08-17T07:39:43.620310+07:00"
+    },
+    {
+      "id": "beb1779ec0d303896d0ac39f771d37d5",
+      "title": "Những nhiệm vụ 'không sai số'",
+      "link": "https://thanhnien.vn/nhung-nhiem-vu-khong-sai-so-185260816220707411.htm",
+      "summary": "Khi những vị khách quốc tế chưa đặt chân tới VN, khi sân khấu chưa dựng xong, khi hội trường còn chưa sáng đèn…, những thành viên Phòng Bảo vệ sự kiện đặc biệt quan trọng và khách quốc tế (Bộ Tư lệnh Cảnh vệ, Bộ Công an) đã bắt đầu thực hiện nhiệm vụ 'không sai số'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:28:00+07:00",
+      "fetched": "2026-08-17T07:39:43.620422+07:00"
+    },
+    {
+      "id": "5df37646ca16afdf3d73a9a9bc746017",
+      "title": "Hồi ức những ngày tháng Tám lịch sử: Văn Cao được 'đặt hàng' viết Tiến quân ca",
+      "link": "https://thanhnien.vn/hoi-uc-nhung-ngay-thang-tam-lich-su-van-cao-duoc-dat-hang-viet-tien-quan-ca-185260816215139752.htm",
+      "summary": "Cụ Phí Văn Bái (ảnh, 1914 - 2014), Huy hiệu 70 năm tuổi Đảng, là nhà báo kỳ cựu từ thời Mặt trận Dân chủ Đông Dương. Cụ là bậc lão thành cách mạng, từng tham gia viết báo Đời nay cùng ông Trần Huy Liệu (sau này là Bộ trưởng Bộ Tuyên truyền Chính phủ Lâm thời 8.1945). Sinh thời, cụ viết nhiều câu chu...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:28:00+07:00",
+      "fetched": "2026-08-17T07:39:43.620534+07:00"
+    },
+    {
+      "id": "be572c1f5d7cbbef00131c17ee6fade8",
+      "title": "PSG thua sốc ở trận tranh Siêu Cup Pháp",
+      "link": "https://vnexpress.net/psg-thua-soc-o-tran-tranh-sieu-cup-phap-5109808.html",
+      "summary": "PSG thua Lens 0-1, dù được thi đấu hơn người từ cuối hiệp một, trong trận tranh Siêu Cup Pháp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:22:11+07:00",
+      "fetched": "2026-08-17T07:39:40.922582+07:00"
+    },
+    {
+      "id": "be572c1f5d7cbbef00131c17ee6fade8",
+      "title": "PSG thua sốc ở trận tranh Siêu Cup Pháp",
+      "link": "https://vnexpress.net/psg-thua-soc-o-tran-tranh-sieu-cup-phap-5109808.html",
+      "summary": "PSG thua Lens 0-1, dù được thi đấu hơn người từ cuối hiệp một, trong trận tranh Siêu Cup Pháp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-16T23:22:11+07:00",
+      "fetched": "2026-08-17T07:39:52.044573+07:00"
+    },
+    {
+      "id": "e2f9ef7cea4ae4310ddd5af4f036e46b",
+      "title": "Cuộc đua giành ngôi vương công nghệ của Trung Quốc",
+      "link": "https://vnexpress.net/cuoc-dua-gianh-ngoi-vuong-cong-nghe-cua-trung-quoc-5109807.html",
+      "summary": "Từ vị thế công xưởng gia công, Trung Quốc chi hàng trăm tỷ USD khép kín toàn bộ quy trình sản xuất để thâu tóm chuỗi cung ứng xe điện, pin và và bám đuổi sát nút Mỹ ở công nghệ AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:17:43+07:00",
+      "fetched": "2026-08-17T07:39:40.922693+07:00"
+    },
+    {
+      "id": "670ce12f91735afa3c286c96386025fa",
+      "title": "iPhone thay đổi ra sao trong 5 năm qua?",
+      "link": "https://thanhnien.vn/iphone-thay-doi-ra-sao-trong-5-nam-qua-185260816224018804.htm",
+      "summary": "Những thay đổi trên iPhone diễn ra khá chậm qua từng năm, nhưng nhìn lại 5 năm cho thấy bước tiến đáng kể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:17:00+07:00",
+      "fetched": "2026-08-17T07:39:43.620645+07:00"
+    },
+    {
+      "id": "0a917883ce51fd730bcc5fcd11b5357e",
+      "title": "5 giờ sáng nhắn chàng trai Nhật cùng học tiếng, cô gái Việt không ngờ nên duyên",
+      "link": "https://thanhnien.vn/5-gio-sang-nhan-chang-trai-nhat-cung-hoc-tieng-co-gai-viet-khong-ngo-nen-duyen-185260816105458859.htm",
+      "summary": "Từ tin nhắn lúc 5 giờ sáng đề nghị cùng học ngoại ngữ miễn phí, chị Hằng và chàng trai Nhật yêu nhau sau chưa đầy 1 tháng, rồi nên duyên sau hơn 5 năm gắn bó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:15:00+07:00",
+      "fetched": "2026-08-17T07:39:43.620752+07:00"
+    },
+    {
+      "id": "62247f4bd6078c0e8f047d048ba51971",
+      "title": "Patrik Lê Giang: 'Cảm ơn VAR đã cứu tôi'",
+      "link": "https://vnexpress.net/patrik-le-giang-cam-on-var-da-cuu-toi-5109801.html",
+      "summary": "Thủ môn Patrik Lê Giang cảm ơn công nghệ VAR vì đã giúp anh thoát thẻ đỏ ở trận thắng Malaysia 2-0 tại lượt đi bán kết ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:10:00+07:00",
+      "fetched": "2026-08-17T07:39:40.922808+07:00"
+    },
+    {
+      "id": "62247f4bd6078c0e8f047d048ba51971",
+      "title": "Patrik Lê Giang: 'Cảm ơn VAR đã cứu tôi'",
+      "link": "https://vnexpress.net/patrik-le-giang-cam-on-var-da-cuu-toi-5109801.html",
+      "summary": "Thủ môn Patrik Lê Giang cảm ơn công nghệ VAR vì đã giúp anh thoát thẻ đỏ ở trận thắng Malaysia 2-0 tại lượt đi bán kết ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-16T23:10:00+07:00",
+      "fetched": "2026-08-17T07:39:52.044697+07:00"
+    },
+    {
+      "id": "a03b664dfb6b766cd48753bd0af0029d",
+      "title": "Điểm tin 6h: Việt Nam thắng chủ nhà Malaysia 2-0 | Xuân Son phá kỷ lục ghi bàn của Việt Nam ở vòng knock-out ASEAN Cup",
+      "link": "https://vnexpress.net/diem-tin-6h-viet-nam-thang-chu-nha-malaysia-2-0-xuan-son-pha-ky-luc-ghi-ban-cua-viet-nam-o-vong-knock-out-asean-cup-5109806.html",
+      "summary": "Tàu Hải quân cứu người đàn ông trôi dạt ngoài khơi Vũng Tàu; Bố trí hành trình thay thế cho 240 hành khách từ Munich về Hà Nội;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:07:23+07:00",
+      "fetched": "2026-08-17T07:39:40.922915+07:00"
+    },
+    {
+      "id": "2e885f79722c7e2852f878db0ecd7e69",
+      "title": "Điện thoại robot của Honor về Việt Nam",
+      "link": "https://vnexpress.net/dien-thoai-robot-cua-honor-ve-viet-nam-5109798.html",
+      "summary": "Honor Robot Phone là điện thoại đầu tiên trang bị hệ thống gimbal chống rung cho camera như cánh tay robot, cùng khả năng tương tác sinh động với trợ lý ảo Yoyo AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:00:37+07:00",
+      "fetched": "2026-08-17T07:39:40.923021+07:00"
+    },
+    {
+      "id": "2e885f79722c7e2852f878db0ecd7e69",
+      "title": "Điện thoại robot của Honor về Việt Nam",
+      "link": "https://vnexpress.net/dien-thoai-robot-cua-honor-ve-viet-nam-5109798.html",
+      "summary": "Honor Robot Phone là điện thoại đầu tiên trang bị hệ thống gimbal chống rung cho camera như cánh tay robot, cùng khả năng tương tác sinh động với trợ lý ảo Yoyo AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-16T23:00:37+07:00",
+      "fetched": "2026-08-17T07:39:50.434083+07:00"
+    },
+    {
+      "id": "65bf582fcbba7a7d59afdfe02b753b18",
+      "title": "Andrea Aybar, Chi Dân cùng hơn 200 người ra tòa trong đại án ma túy",
+      "link": "https://vnexpress.net/andrea-aybar-chi-dan-cung-hon-200-nguoi-ra-toa-trong-dai-an-ma-tuy-5109765.html",
+      "summary": "227 người, trong đó có ca sĩ Chi Dân và người mẫu An Tây, bị xét xử trong đại án ma túy liên quan việc phát hiện hàng cấm từ hành lý của 4 tiếp viên hàng không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:00:00+07:00",
+      "fetched": "2026-08-17T07:39:40.923128+07:00"
+    },
+    {
+      "id": "b0d54d7525941846e646bd8b7c3546e8",
+      "title": "Việt Nam đặt mục tiêu cân bằng tỷ số giới tính khi sinh vào năm 2035",
+      "link": "https://vnexpress.net/viet-nam-dat-muc-tieu-can-bang-ty-so-gioi-tinh-khi-sinh-vao-nam-2035-5109660.html",
+      "summary": "Bộ Y tế muốn đưa tỷ số giới tính khi sinh về khoảng 106 bé trai trên 100 bé gái vào năm 2035, ngang mức cân bằng tự nhiên, bằng cách siết chế tài pháp luật, hỗ trợ tài chính, củng cố an sinh và xóa định kiến \"trọng nam khinh nữ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:00:00+07:00",
+      "fetched": "2026-08-17T07:39:40.923246+07:00"
+    },
+    {
+      "id": "3bd0fbca0e2ab34714466c92ce559183",
+      "title": "Từ 15/8, tài xế cần lưu ý các mức phạt giao thông mới nào?",
+      "link": "https://vnexpress.net/tu-15-8-tai-xe-can-luu-y-cac-muc-phat-giao-thong-moi-nao-5109577.html",
+      "summary": "Tài xế có thể bị phạt tới 26 triệu đồng nếu làm thay đổi khả năng nhận diện biển số, ngoài ra, nghị định mới cũng bổ sung các điều chỉnh về các hành vi chở vật liệu, lắp camera và chở trẻ em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:00:00+07:00",
+      "fetched": "2026-08-17T07:39:40.923356+07:00"
+    },
+    {
+      "id": "be2150783d39a884b68ed899337b46c7",
+      "title": "TP HCM đau đầu tìm chỗ đổ hơn 17 triệu m3 bùn nạo vét",
+      "link": "https://vnexpress.net/tp-hcm-dau-dau-tim-cho-do-hon-17-trieu-m3-bun-nao-vet-5109544.html",
+      "summary": "Hơn 17 triệu m3 đất, bùn phát sinh từ các dự án kênh rạch, thủy lợi đến năm 2030, trong khi thiếu nơi tiếp nhận ổn định khiến nhiều công trình nguy cơ chậm tiến độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:00:00+07:00",
+      "fetched": "2026-08-17T07:39:40.923472+07:00"
+    },
+    {
+      "id": "5278d7c847596cf3a31111dc6a57a2d9",
+      "title": "Thầy giáo 'khùng' 26 năm xây trường trên núi",
+      "link": "https://vnexpress.net/thay-giao-khung-26-nam-xay-truong-tren-nui-5104921.html",
+      "summary": "Chứng kiến người dân vùng cao ăn sắn nhường cơm trắng cho giáo viên, thầy Nguyễn Trần Vỹ đã dành 26 năm bám bản, kêu gọi xây hơn 20 điểm trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:00:00+07:00",
+      "fetched": "2026-08-17T07:39:40.923583+07:00"
+    },
+    {
+      "id": "a30fee36f5ae75b4f9e56817d2da405d",
+      "title": "Tài xế đánh lái gấp 'tránh vỏ dưa, gặp vỏ dừa'",
+      "link": "https://vnexpress.net/tai-xe-danh-lai-gap-tranh-vo-dua-gap-vo-dua-5109731.html",
+      "summary": "Xe có camera hành trình gần đi qua nút giao bất ngờ một xe máy băng qua, tài xế đánh lái tránh sang bên phải bị xe máy khác đâm vào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T23:00:00+07:00",
+      "fetched": "2026-08-17T07:39:40.923687+07:00"
+    },
+    {
+      "id": "1ccc3317a7e17c4e1ca87bba979423de",
+      "title": "Barca đạt thỏa thuận mua Rodri",
+      "link": "https://vnexpress.net/barca-dat-thoa-thuan-mua-rodri-5109804.html",
+      "summary": "Barca đồng ý chi 88,5 triệu USD, trong đó có 69,4 triệu USD trả trước và hơn 12,7 triệu USD phụ phí, để tuyển mộ tiền vệ Rodri từ Man City.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-16T22:51:06+07:00",
+      "fetched": "2026-08-17T07:39:40.923796+07:00"
+    },
+    {
+      "id": "1ccc3317a7e17c4e1ca87bba979423de",
+      "title": "Barca đạt thỏa thuận mua Rodri",
+      "link": "https://vnexpress.net/barca-dat-thoa-thuan-mua-rodri-5109804.html",
+      "summary": "Barca đồng ý chi 88,5 triệu USD, trong đó có 69,4 triệu USD trả trước và hơn 12,7 triệu USD phụ phí, để tuyển mộ tiền vệ Rodri từ Man City.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-16T22:51:06+07:00",
+      "fetched": "2026-08-17T07:39:52.044149+07:00"
+    },
+    {
+      "id": "782e53dbd2be0e9685a31fd216959249",
+      "title": "Arteta xem trận thắng Man City 3-0 như tiêu chuẩn cho mùa mới",
+      "link": "https://vnexpress.net/arteta-xem-tran-thang-man-city-3-0-nhu-tieu-chuan-cho-mua-moi-5109800.html",
+      "summary": "HLV Mikel Arteta cho rằng màn trình diễn áp đảo trước Man City ở trận tranh Siêu Cup Anh là tiêu chuẩn mà Arsenal phải duy trì trong mùa giải 2026-2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-16T22:38:21+07:00",
+      "fetched": "2026-08-17T07:39:52.044820+07:00"
     },
     {
       "id": "4644329bff467360af15bb4730209bd4",
@@ -791,6 +1241,16 @@ window.newsData_2026_08_17 = {
       "category": "Thế giới",
       "published": "2026-08-16T13:08:05+07:00",
       "fetched": "2026-08-17T01:13:58.238827+07:00"
+    },
+    {
+      "id": "541b59473c2d6e20f48f6f518402f3ec",
+      "title": "Nhà máy thép lớn nhất Ukraine ngừng hoạt động sau khi hứng tên lửa Iskander-M",
+      "link": "https://vnexpress.net/nha-may-thep-lon-nhat-ukraine-ngung-hoat-dong-sau-khi-hung-ten-lua-iskander-m-5109742.html",
+      "summary": "Nga tuyên bố tấn công loạt mục tiêu đối phương, trong đó có doanh nghiệp quốc phòng ở Kiev và nhà máy thép ArcelorMittal Kryvyi Rih lớn nhất Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-16T13:08:05+07:00",
+      "fetched": "2026-08-17T07:39:46.653833+07:00"
     },
     {
       "id": "eba96c6daf2015cbb25bb4c8933890d6",
