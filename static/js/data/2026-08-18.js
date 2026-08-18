@@ -1,7 +1,157 @@
 window.newsData_2026_08_18 = {
   "date": "2026-08-18",
-  "lastUpdated": "2026-08-18T19:24:16.069598+07:00",
+  "lastUpdated": "2026-08-18T21:22:31.039640+07:00",
   "articles": [
+    {
+      "id": "9b731e1e6317bcbf453e647bfa554d60",
+      "title": "Từ 'Bình dân học vụ số' đến đưa kỹ năng số gõ từng nhà",
+      "link": "https://tuoitre.vn/tu-binh-dan-hoc-vu-so-den-dua-ky-nang-so-go-tung-nha-100260817173555721.htm",
+      "summary": "Những đội hình \"Bình dân học vụ số\" tại TP.HCM không chỉ dừng ở một phong trào, các bạn trẻ vẫn tiếp tục hành trình hướng dẫn người dân cài ứng dụng, sử dụng dịch vụ công trực tuyến, kích hoạt tài khoản định danh điện tử... và có mặt trên từng cây số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T21:22:24.488339+07:00",
+      "fetched": "2026-08-18T21:22:24.488386+07:00"
+    },
+    {
+      "id": "037d210e627f33c4f762f768c6eaa215",
+      "title": "Khám phá 4 vịnh biển nổi tiếng Khánh Hòa qua nhiếp ảnh",
+      "link": "https://tuoitre.vn/kham-pha-4-vinh-bien-noi-tieng-khanh-hoa-qua-nhiep-anh-100260818172429472.htm",
+      "summary": "\"Khánh Hòa - Hải trình tứ vịnh\" là tên cuộc triển lãm ảnh nghệ thuật về 4 vịnh biển nổi tiếng Nha Trang, Cam Ranh, Vân Phong và Vĩnh Hy (tỉnh Khánh Hòa).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T21:22:24.488288+07:00",
+      "fetched": "2026-08-18T21:22:24.488331+07:00"
+    },
+    {
+      "id": "54b3956b752eb46d9f66333cd51d3ef5",
+      "title": "Xử phạt chủ thuyền rồng để nhân viên ném vỏ lon bia, rác xuống sông Hương",
+      "link": "https://tuoitre.vn/xu-phat-chu-thuyen-rong-de-nhan-vien-nem-vo-lon-bia-rac-xuong-song-huong-100260818191658557.htm",
+      "summary": "Chủ thuyền rồng để nhân viên ném rác, vỏ lon bia xuống sông Hương đã bị xử phạt hành chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T21:22:24.488239+07:00",
+      "fetched": "2026-08-18T21:22:24.488280+07:00"
+    },
+    {
+      "id": "0ce4d1cffcd38d6637c075701da070f9",
+      "title": "Nga muốn cùng Triều Tiên xây dựng 'trật tự thế giới mới'",
+      "link": "https://tuoitre.vn/nga-muon-cung-trieu-tien-xay-dung-trat-tu-the-gioi-moi-100260818191558893.htm",
+      "summary": "Ngoại trưởng Sergei Lavrov cho biết Nga - Triều Tiên muốn xây dựng \"trật tự thế giới mới và công bằng\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T21:22:24.488188+07:00",
+      "fetched": "2026-08-18T21:22:24.488231+07:00"
+    },
+    {
+      "id": "be725ed425796439595ceb180d7466f6",
+      "title": "Vì sao trong vụ án vợ chồng Phú Lê có một nữ luật sư bị khởi tố?",
+      "link": "https://tuoitre.vn/vi-sao-trong-vu-an-vo-chong-phu-le-co-mot-nu-luat-su-bi-khoi-to-100260817074543328.htm",
+      "summary": "Theo công an, Nguyễn Thị Hương Lan, tuy là luật sư nhưng vẫn tích cực giúp sức trong việc lập khống các hóa đơn, nhằm che giấu vi phạm kế toán của công ty vợ chồng Phú Lê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T21:22:24.488120+07:00",
+      "fetched": "2026-08-18T21:22:24.488180+07:00"
+    },
+    {
+      "id": "81b34e8cc45354c91a23b10500fa23e1",
+      "title": "Chi tiết mới về sự cố chuyến bay VN34 tại Munich từ báo cáo của phi công",
+      "link": "https://tuoitre.vn/chi-tiet-moi-ve-su-co-chuyen-bay-vn34-tai-munich-tu-bao-cao-cua-phi-cong-100260818185057535.htm",
+      "summary": "Báo cáo ban đầu của Cục Hàng không Việt Nam hé lộ thêm diễn biến đáng chú ý trong quá trình cất cánh của chuyến VN34 tại Munich. Máy bay có lúc không tăng tốc trong khoảng 2 giây, sau khi đạt V1 tốc độ lại giảm và tổ lái đánh giá không còn đủ đường băng để có thể ngừng cất cánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T21:22:24.488069+07:00",
+      "fetched": "2026-08-18T21:22:24.488112+07:00"
+    },
+    {
+      "id": "050cdff8bfc5a1d7b6c1f4f56bef06a5",
+      "title": "Thêm doanh nghiệp Việt thành đối tác toàn cầu của OpenAI",
+      "link": "https://tuoitre.vn/them-doanh-nghiep-viet-thanh-doi-tac-toan-cau-cua-openai-100260818193239195.htm",
+      "summary": "Thị trường công nghệ Việt Nam vừa ghi nhận dấu mốc mới khi EON Tech chính thức trở thành doanh nghiệp thứ hai trong nước đạt chuẩn đối tác toàn cầu của OpenAI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T21:22:24.488012+07:00",
+      "fetched": "2026-08-18T21:22:24.488061+07:00"
+    },
+    {
+      "id": "8ff863a4355ea36db9d3027900615045",
+      "title": "30 điểm xét tuyển, thủ khoa TP Đà Nẵng không chọn ngành điểm cao nhất",
+      "link": "https://tuoitre.vn/30-diem-xet-tuyen-thu-khoa-tp-da-nang-khong-chon-nganh-diem-cao-nhat-100260818161545079.htm",
+      "summary": "Trần Hà Yên là thủ khoa kỳ thi tốt nghiệp THPT 2026 của TP Đà Nẵng. Tuy vậy bạn không chọn ngành 'hot' có điểm chuẩn cao nhất Trường đại học Bách khoa (Đại học Đà Nẵng) mà chỉ đăng ký ngành phù hợp năng lực với mục tiêu dài hạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T21:22:24.487955+07:00",
+      "fetched": "2026-08-18T21:22:24.488000+07:00"
+    },
+    {
+      "id": "27cc0fc4e7a2637201b7bff360bf8e48",
+      "title": "Tự doanh công ty chứng khoán bất ngờ bán ròng 350 tỉ đồng dù thị trường tăng điểm",
+      "link": "https://tuoitre.vn/tu-doanh-cong-ty-chung-khoan-bat-ngo-ban-rong-350-ti-dong-du-thi-truong-tang-diem-100260818182840239.htm",
+      "summary": "Khối tự doanh công ty chứng khoán chỉ giải ngân 289 tỉ đồng trên HOSE, mức thấp nhất kể từ tháng 5-2025. Lực bán trải rộng 45 mã, riêng cổ phiếu ngân hàng chiếm gần một nửa giá trị bán ròng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T21:22:24.487901+07:00",
+      "fetched": "2026-08-18T21:22:24.487947+07:00"
+    },
+    {
+      "id": "b1ce22eb5eb2266fe0f526a774c881dd",
+      "title": "Anh nông dân mày mò gần 2 năm chế tạo ra máy tự động sàng hạt rau má",
+      "link": "https://tuoitre.vn/anh-nong-dan-may-mo-gan-2-nam-che-tao-ra-may-tu-dong-sang-hat-rau-ma-100260818180430703.htm",
+      "summary": "Chiều 18-8, Hội Nông nhân tỉnh Tây Ninh đã tổ chức trao giải Hội thi \"Sáng tạo kỹ thuật của nhà nông\" tỉnh lần thứ I, năm 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T21:22:24.487846+07:00",
+      "fetched": "2026-08-18T21:22:24.487893+07:00"
+    },
+    {
+      "id": "151e312d940b1f835efb8b74363411e4",
+      "title": "Ô tô điện mini giá dự kiến chỉ 120 triệu lộ diện ở Việt Nam",
+      "link": "https://tuoitre.vn/o-to-dien-mini-gia-du-kien-chi-120-trieu-lo-dien-o-viet-nam-100260818171211445.htm",
+      "summary": "Mẫu ô tô điện mini Nano S05 bất ngờ được bắt gặp tại nhà máy TMT Motors ở Hưng Yên. Với kích thước nhỏ gọn, mẫu xe hướng đến nhu cầu di chuyển trong đô thị, đặc biệt trên những tuyến đường đông đúc và không gian hẹp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T21:22:24.487788+07:00",
+      "fetched": "2026-08-18T21:22:24.487837+07:00"
+    },
+    {
+      "id": "2df085cb93341a57971a688d9bb77e8f",
+      "title": "Kim Tuyến hợp tác với đạo diễn Minh Nguyệt trong Áo xưa dù nhàu",
+      "link": "https://tuoitre.vn/kim-tuyen-hop-tac-voi-dao-dien-minh-nguyet-trong-ao-xua-du-nhau-100260818194611298.htm",
+      "summary": "Sau Sân khấu kịch Quốc Thảo, Sân khấu Hoàng Thái Thanh, diễn viên Kim Tuyến lại tiếp tục hành trình kịch nói với Sân khấu Trăng của đạo diễn Minh Nguyệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T21:22:24.487730+07:00",
+      "fetched": "2026-08-18T21:22:24.487780+07:00"
+    },
+    {
+      "id": "cb6be07b2febcad667a7e9da3b0beae8",
+      "title": "Những người giữ nghề đan võng gần trăm năm ở Quảng Ngãi",
+      "link": "https://tuoitre.vn/nhung-nguoi-giu-nghe-dan-vong-gan-tram-nam-o-quang-ngai-100260818143959773.htm",
+      "summary": "Người trẻ ở làng nghề đan võng đã rời đi để tìm công việc thu nhập cao hơn, chỉ còn những người phụ nữ lớn tuổi vẫn cần mẫn đan võng, gìn giữ nghìn truyền thống ngót nghét đã gần một thế kỷ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T21:22:24.487661+07:00",
+      "fetched": "2026-08-18T21:22:24.487721+07:00"
+    },
+    {
+      "id": "838f763941b62da1b8f51b2b0541d5eb",
+      "title": "Dự án đường tỉnh có vốn đầu tư 2.179 tỉ đồng tăng tốc sau kết luận thanh tra",
+      "link": "https://tuoitre.vn/du-an-duong-tinh-co-von-dau-tu-2179-ti-dong-tang-toc-sau-ket-luan-thanh-tra-100260818183123566.htm",
+      "summary": "Trên công trường, máy móc, nhân công được tăng cường, từng đoạn nền đường đang dần thành hình, với quyết tâm hoàn thành dự án trong năm 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T21:22:24.487589+07:00",
+      "fetched": "2026-08-18T21:22:24.487652+07:00"
+    },
+    {
+      "id": "ddbb679bd9774bdbec6b2fc4b4f6d7a8",
+      "title": "Người dân mong đường Lã Xuân Oai sớm mở rộng để đi lại thuận tiện hơn",
+      "link": "https://tuoitre.vn/nguoi-dan-mong-duong-la-xuan-oai-som-mo-rong-de-di-lai-thuan-tien-hon-100260818173355043.htm",
+      "summary": "Nhiều hộ dân trên đường Lã Xuân Oai (TP.HCM) đồng thuận với chủ trương mở rộng tuyến đường, chủ động bàn giao mặt bằng và mong dự án sớm hoàn thành để việc đi lại, kinh doanh thuận lợi hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T21:22:24.487424+07:00",
+      "fetched": "2026-08-18T21:22:24.487576+07:00"
+    },
     {
       "id": "185f8269323130edd4df04e6169d47b5",
       "title": "TP.HCM giảm 465 hiệu trưởng sau sắp xếp trường học, chọn hiệu trưởng mới thế nào?",
@@ -453,6 +603,116 @@ window.newsData_2026_08_18 = {
       "fetched": "2026-08-18T15:23:37.367523+07:00"
     },
     {
+      "id": "b48da4267aba664a3d28b5edc8506673",
+      "title": "Các tiêu chí chọn hiệu trưởng sau sáp nhập trường công ở TP HCM",
+      "link": "https://vnexpress.net/tieu-chi-chon-hieu-truong-sau-sap-xep-sap-nhap-truong-cong-o-tp-hcm-5110555.html",
+      "summary": "Hiệu trưởng trường công sau sáp nhập sẽ được chọn dựa trên năng lực chuyên môn, đạo đức, hiệu quả công việc trong 3 năm gần nhất và một số tiêu chí khác, theo Sở Giáo dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T14:17:25+07:00",
+      "fetched": "2026-08-18T21:22:19.804300+07:00"
+    },
+    {
+      "id": "ec4c8f21c84affa7d101c48dc66a8960",
+      "title": "Xóa tan quầng thâm mắt bằng công nghệ Hydro Ultra Lift",
+      "link": "https://thanhnien.vn/thoi-trang-tre/xoa-tan-quang-tham-mat-bang-cong-nghe-hydro-ultra-lift-185260818200827668.htm",
+      "summary": "Tình trạng thâm quầng mắt thực sự là nỗi ám ảnh của nhiều chị em. Đôi mắt bị quầng thâm trong một thời gian dài khiến chị em nhìn già hơn tuổi và không tự tin khi giao tiếp với mọi người, đặc biệt là những công việc có yêu cầu cao về ngoại hình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T14:06:00+07:00",
+      "fetched": "2026-08-18T21:22:22.669060+07:00"
+    },
+    {
+      "id": "cb0415b51f5779d70194fbc71ff86ddf",
+      "title": "TP.HCM quy tập 13 hài cốt liệt sĩ tại 2 địa điểm trong một ngày",
+      "link": "https://thanhnien.vn/tphcm-quy-tap-13-hai-cot-liet-si-tai-2-dia-diem-trong-mot-ngay-185260818210015012.htm",
+      "summary": "Ngày 18.8, Bộ Tư lệnh TP.HCM cho biết đã quy tập 10 hài cốt tại công viên Lê Thị Riêng và 3 hài cốt tại xã Thường Tân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T14:05:00+07:00",
+      "fetched": "2026-08-18T21:22:22.669229+07:00"
+    },
+    {
+      "id": "901e4b737b72ea808e44dbcd969b0377",
+      "title": "Ukraine sắp có tên lửa đạn đạo nội địa?",
+      "link": "https://thanhnien.vn/ukraine-sap-co-ten-lua-dan-dao-noi-dia-185260818173617316.htm",
+      "summary": "Ukraine có thể sắp sử dụng tên lửa đạn đạo sản xuất trong nước để tấn công Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T14:03:00+07:00",
+      "fetched": "2026-08-18T21:22:22.669364+07:00"
+    },
+    {
+      "id": "1bc65c36f735375d0d5f3a5cb0c8debc",
+      "title": "Ai mua 300 tỷ đồng nước hoa của Huấn Hoa Hồng?",
+      "link": "https://vnexpress.net/huan-hoa-hong-bi-bat-300-ty-dong-tien-nuoc-hoa-ai-mua-5110432.html",
+      "summary": "Một người bán hàng online livestream khản cổ cả tối chưa chắc chốt được đơn hàng nào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T14:00:00+07:00",
+      "fetched": "2026-08-18T21:22:19.804464+07:00"
+    },
+    {
+      "id": "c22a0ed753f5e096483eabb570d73efc",
+      "title": "Bốn năm yêu, bạn trai không công khai cũng chưa từng nhớ sinh nhật tôi",
+      "link": "https://vnexpress.net/bon-nam-yeu-ban-trai-khong-cong-khai-cung-chua-tung-nho-sinh-nhat-toi-5110255.html",
+      "summary": "Kể cả khi tôi nói \"Hôm nay là sinh nhật em\", anh ta cũng không có động thái gì, không chúc, không quà, không xin lỗi vì quên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T14:00:00+07:00",
+      "fetched": "2026-08-18T21:22:19.804611+07:00"
+    },
+    {
+      "id": "e040bf45038a75b84e686a417f6ba352",
+      "title": "Học sinh tháo chạy khi nghe tiếng súng trong trường học ở Philippines",
+      "link": "https://vnexpress.net/hoc-sinh-thao-chay-khi-nghe-tieng-sung-trong-truong-hoc-o-philippines-5110541.html",
+      "summary": "Nam sinh mang hai khẩu súng vào trường trung học ở thành phố Zamboanga, nổ súng khiến một học sinh lớp 10 thiệt mạng rồi tự sát, ngày 18/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:54:00+07:00",
+      "fetched": "2026-08-18T21:22:19.804748+07:00"
+    },
+    {
+      "id": "a621551c11df04037464527ffa832754",
+      "title": "Bầu Đức lý giải giá chào bán 60.600 đồng của HGI",
+      "link": "https://vnexpress.net/bau-duc-ly-giai-gia-chao-ban-60-600-dong-cua-hgi-5110501.html",
+      "summary": "Mức giá dự kiến chào bán 60.600 đồng một cổ phiếu HGI được cổ đông cho là cao, song Bầu Đức cho rằng cần nhìn vào triển vọng trong những năm tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:54:00+07:00",
+      "fetched": "2026-08-18T21:22:19.804877+07:00"
+    },
+    {
+      "id": "3bee90acad732eb728e719d6ee9533bf",
+      "title": "Sớm ban hành thông tư hướng dẫn chuẩn bị cho tuổi già khi còn trẻ",
+      "link": "https://thanhnien.vn/som-ban-hanh-thong-tu-huong-dan-chuan-bi-cho-tuoi-gia-khi-con-tre-185260818201939365.htm",
+      "summary": "Ngành y tế sẽ hướng dẫn chuẩn bị cho tuổi già từ khi còn trẻ: giáo dục thế hệ trẻ về lối sống lành mạnh, nuôi con khỏe, dạy con ngoan, lao động tích lũy, để thích ứng với già hóa dân số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:49:00+07:00",
+      "fetched": "2026-08-18T21:22:22.669490+07:00"
+    },
+    {
+      "id": "0da29cf926ea3edcae63ee15d76e3828",
+      "title": "Đặc biệt coi trọng huấn luyện hiệp đồng giữa con người với vũ khí",
+      "link": "https://thanhnien.vn/dac-biet-coi-trong-huan-luyen-hiep-dong-giua-con-nguoi-voi-vu-khi-185260818195938269.htm",
+      "summary": "Chiều 18.8, tại Hà Nội, Tổng Bí thư, Chủ tịch nước Tô Lâm và đoàn công tác của T.Ư đã đến thăm và làm việc với Sư đoàn Bộ binh cơ giới 308, Quân đoàn 12 (Bộ Quốc phòng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:44:00+07:00",
+      "fetched": "2026-08-18T21:22:22.669614+07:00"
+    },
+    {
+      "id": "96231c32fa9ae6d234f5489bfe9fe94e",
+      "title": "Cựu Thứ trưởng Nguyễn Bá Hoan khai về 'phong bì quà tết' tiền tỉ",
+      "link": "https://thanhnien.vn/cuu-thu-truong-nguyen-ba-hoan-khai-ve-phong-bi-qua-tet-tien-ti-185260818200818817.htm",
+      "summary": "Bị cáo buộc nhận hối lộ hơn 16 tỉ đồng, cựu Thứ trưởng Nguyễn Bá Hoan thừa nhận một phần, một phần còn lại cho rằng đó chỉ là quà lễ, tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:31:00+07:00",
+      "fetched": "2026-08-18T21:22:22.669742+07:00"
+    },
+    {
       "id": "fb480016e6949c32c93d20f3e71dbddc",
       "title": "Ông Trump thu hẹp quy mô tập trận Mỹ - Hàn: 'Món quà' dành cho Triều Tiên?",
       "link": "https://tuoitre.vn/ong-trump-thu-hep-quy-mo-tap-tran-my-han-mon-qua-danh-cho-trieu-tien-100260818091109661.htm",
@@ -601,6 +861,166 @@ window.newsData_2026_08_18 = {
       "category": "Tổng hợp",
       "published": "2026-08-18T13:25:22.066217+07:00",
       "fetched": "2026-08-18T13:25:22.066356+07:00"
+    },
+    {
+      "id": "e3316c6fee683707795e606215c713f4",
+      "title": "Malaysia trở lại sân Mỹ Đình sau 4 năm: HLV Tan Cheng Hoe chịu áp lực, cầu thủ âu lo",
+      "link": "https://thanhnien.vn/malaysia-tro-lai-san-my-dinh-sau-4-nam-hlv-tan-cheng-hoe-chiu-ap-luc-cau-thu-au-lo-185260818195147082.htm",
+      "summary": "Tối 18.8, đội tuyển Malaysia có buổi tập làm quen sân Mỹ Đình, đánh dấu lần đầu quay trở lại nơi đây sau 4 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:15:00+07:00",
+      "fetched": "2026-08-18T21:22:22.669878+07:00"
+    },
+    {
+      "id": "fdb726eab1d45a691cda3fbb8eecc108",
+      "title": "Mỹ chỉ trích Israel vì không kích Syria",
+      "link": "https://vnexpress.net/my-chi-trich-israel-vi-khong-kich-syria-5110550.html",
+      "summary": "Đặc phái viên Mỹ phụ trách vấn đề Syria chỉ trích Israel \"leo thang không cần thiết\" khi không kích căn cứ không quân ở khu vực tây bắc nước láng giềng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:03:37+07:00",
+      "fetched": "2026-08-18T21:22:19.805005+07:00"
+    },
+    {
+      "id": "fdb726eab1d45a691cda3fbb8eecc108",
+      "title": "Mỹ chỉ trích Israel vì không kích Syria",
+      "link": "https://vnexpress.net/my-chi-trich-israel-vi-khong-kich-syria-5110550.html",
+      "summary": "Đặc phái viên Mỹ phụ trách vấn đề Syria chỉ trích Israel \"leo thang không cần thiết\" khi không kích căn cứ không quân ở khu vực tây bắc nước láng giềng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-18T13:03:37+07:00",
+      "fetched": "2026-08-18T21:22:26.136951+07:00"
+    },
+    {
+      "id": "d2d91e6a6e2b9eee2276a559dc052211",
+      "title": "Nước Đông Nam Á nào nằm trên đường xích đạo?",
+      "link": "https://vnexpress.net/nuoc-dong-nam-a-nao-nam-tren-duong-xich-dao-5110552.html",
+      "summary": "Đường xích đạo đi qua 13 quốc gia, trong đó có một nước thuộc khu vực Đông Nam Á. Bạn có biết đó là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:03:00+07:00",
+      "fetched": "2026-08-18T21:22:19.805185+07:00"
+    },
+    {
+      "id": "9d470c551c85b0445a261400ac90797b",
+      "title": "Dung mạo người mẫu Brazil thi Miss World 2026",
+      "link": "https://vnexpress.net/dung-mao-nguoi-mau-brazil-thi-miss-world-2026-5110519.html",
+      "summary": "Người đẹp Brazil Gabriela Botelho, 25 tuổi, hút lượt quan tâm của fan bởi gương mặt sắc sảo, nụ cười sáng khi thi Miss World ở Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:00:00+07:00",
+      "fetched": "2026-08-18T21:22:19.805338+07:00"
+    },
+    {
+      "id": "62d6fa5e3b7547209139a4d6e206bc60",
+      "title": "Chiêu trò 'ỉm' doanh thu hơn 100 tỉ của vợ chồng 'giang hồ mạng' Phú Lê",
+      "link": "https://thanhnien.vn/chieu-tro-im-doanh-thu-hon-100-ti-cua-vo-chong-giang-ho-mang-phu-le-185260818194838605.htm",
+      "summary": "Vợ chồng 'giang hồ mạng' Phú Lê đã dùng nhiều thủ đoạn để nhận hơn 100 tỉ đồng tiền doanh thu vào tài khoản cá nhân; lập 'khống' các hóa đơn nhằm che giấu vi phạm kế toán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:00:00+07:00",
+      "fetched": "2026-08-18T21:22:22.670022+07:00"
+    },
+    {
+      "id": "ce38b2169e821e21a4deb88205bab74e",
+      "title": "Xem nhanh 20h ngày 18.8: Khởi tố Phú Lê và vợ | Ô tô ‘bỏ quên’ nhiều tháng ở cư xá",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-188-khoi-to-phu-le-va-vo-o-to-bo-quen-nhieu-thang-o-cu-xa-185260818193941668.htm",
+      "summary": "'Xem nhanh 20h' ngày 18.8 có nhiều tin tức đáng chú ý về: Khởi tố Phú Lê và vợ; CSGT tìm chủ ô tô nằm gần nửa năm ở cư xá Lữ Gia, kết quả bất ngờ;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:00:00+07:00",
+      "fetched": "2026-08-18T21:22:22.670162+07:00"
+    },
+    {
+      "id": "f28d2d25632e904ec9ff8725f40e7898",
+      "title": "Trúng tuyển đại học ngành ngôn ngữ nhưng chưa biết tiếng, có học được không?",
+      "link": "https://thanhnien.vn/trung-tuyen-dai-hoc-nganh-ngon-ngu-nhung-chua-biet-tieng-co-hoc-duoc-khong-185260815143620029.htm",
+      "summary": "Thí sinh đặt câu hỏi xung quanh về các ngành ngôn ngữ: ''Em trúng tuyển đại học ngành ngôn ngữ Hàn tại Trường ĐH Ngoại ngữ-Tin học TP.HCM. Hiện em chưa biết tiếng Hàn thì lộ trình học tập ra sao, ngoài tiếng Hàn em được trang bị thêm ngoại ngữ 2 là gì, cơ hội học tập trao đổi hoặc chuyển tiếp cao hơ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:00:00+07:00",
+      "fetched": "2026-08-18T21:22:22.670293+07:00"
+    },
+    {
+      "id": "c3ee1a6ad4806d46b199eae3bcf8a2a5",
+      "title": "Việt Nam trước nguy cơ mất cân bằng giới tính, thừa nam thiếu nữ",
+      "link": "https://thanhnien.vn/viet-nam-truoc-nguy-co-mat-can-bang-gioi-tinh-thua-nam-thieu-nu-18526081819064939.htm",
+      "summary": "Tốc độ gia tăng tỷ số giới tính khi sinh luôn ở mức cao, dù đã giảm còn 110 bé trai/100 bé gái (năm 2025). Mất cân bằng giới tính khi sinh gây thừa nam thiếu nữ trong tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:53:00+07:00",
+      "fetched": "2026-08-18T21:22:22.670420+07:00"
+    },
+    {
+      "id": "70c19dfee8d7c5c98697cc100eea36fd",
+      "title": "Xe chạy ngược chiều đang vượt, có phải nhường đường?",
+      "link": "https://thanhnien.vn/xe-chay-nguoc-chieu-dang-vuot-co-phai-nhuong-duong-185260817231055983.htm",
+      "summary": "Xe ngược chiều bất ngờ lấn làn để vượt là tình huống dễ khiến tài xế bối rối, hoảng loạn. Dù đang di chuyển đúng phần đường, người lái vẫn cần xử lý đúng cách để tránh nguy cơ va chạm trực diện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:53:00+07:00",
+      "fetched": "2026-08-18T21:22:22.670541+07:00"
+    },
+    {
+      "id": "8e3c67f78480a9da4e4900b1e3b77a7b",
+      "title": "An ninh phải chủ động tạo lập môi trường ổn định, tin cậy",
+      "link": "https://thanhnien.vn/an-ninh-phai-chu-dong-tao-lap-moi-truong-on-dinh-tin-cay-185260818170251601.htm",
+      "summary": "Trưởng ban Chính sách Chiến lược Trung ương Nguyễn Thanh Nghị nhấn mạnh, an ninh không chỉ ngăn chặn, đẩy lùi các mối đe dọa, mà phải chủ động tạo lập môi trường ổn định, tin cậy, giảm thiểu rủi ro hệ thống, biến thách thức thành cơ hội, góp phần nâng cao năng lực tự chủ và sức chống chịu quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:49:00+07:00",
+      "fetched": "2026-08-18T21:22:22.670664+07:00"
+    },
+    {
+      "id": "d7a02da0ba67fc1f68287c7ddd80e5d7",
+      "title": "Kết quả xổ số Vietlott Power 6/55 tối 18.8, giải độc đắc tăng 34,8 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-power-6-55-toi-188-giai-doc-dac-tang-348-ti-dong-185260818185745259.htm",
+      "summary": "Tối 18.8, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55 và ghi nhận  không có người trúng độc đắc nên số tiền cộng dồn là 34,8 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:45:00+07:00",
+      "fetched": "2026-08-18T21:22:22.670783+07:00"
+    },
+    {
+      "id": "229bed2aacedc13ef56f59c0db2fae04",
+      "title": "Mãn kinh ở tuổi 36",
+      "link": "https://vnexpress.net/man-kinh-o-tuoi-36-5110506.html",
+      "summary": "Mất kinh từ năm 36 tuổi nhưng nghĩ chỉ là rối loạn nội tiết thông thường, đến khi bốc hỏa, mất ngủ, người phụ nữ đi khám mới phát hiện mãn kinh sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:44:13+07:00",
+      "fetched": "2026-08-18T21:22:19.805473+07:00"
+    },
+    {
+      "id": "df5de986f8f1aed7033a66bf00bfbed5",
+      "title": "Người đàn ông đứt dây chằng tập đi sau ba ngày mổ nội soi",
+      "link": "https://vnexpress.net/nguoi-dan-ong-dut-day-chang-tap-di-sau-ba-ngay-mo-noi-soi-5110411.html",
+      "summary": "Tranh chấp bóng đá khiến người đàn ông 32 tuổi đứt hoàn toàn dây chằng chéo trước kèm rách sụn chêm, được các bác sĩ phẫu thuật nội soi, có thể đi lại sau 3 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:40:26+07:00",
+      "fetched": "2026-08-18T21:22:19.805598+07:00"
+    },
+    {
+      "id": "9317778c6bb50fd46fa7b8fd40fc4c1c",
+      "title": "Nữ luật sư giúp vợ chồng 'giang hồ mạng' Phú Lê giấu doanh thu bán hàng",
+      "link": "https://vnexpress.net/nu-luat-su-giup-vo-chong-giang-ho-mang-phu-le-giau-doanh-thu-ban-hang-5110553.html",
+      "summary": "Luật sư Nguyễn Thị Hương Lan hôm nay bị bắt với cáo buộc giúp vợ chồng Phú Lê, Thúy Kiều lập khống hóa đơn nhằm che giấu vi phạm kế toán của Công ty Thiên Phú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:39:01+07:00",
+      "fetched": "2026-08-18T21:22:19.805721+07:00"
+    },
+    {
+      "id": "afc3dfbce53132b97918f6af93a7e76c",
+      "title": "Vũ Thị Trang giành chiến thắng áp đảo ở giải cầu lông vô địch thế giới 2026",
+      "link": "https://thanhnien.vn/vu-thi-trang-gianh-chien-thang-ap-dao-o-giai-cau-long-vo-dich-the-gioi-2026-185260818191704194.htm",
+      "summary": "Tay vợt Vũ Thị Trang đáp lại kỳ vọng của người hâm mộ cầu lông Việt Nam khi giành chiến thắng ở trận ra quân tại giải cầu lông vô địch thế giới 2026 diễn ra hôm nay tại Ấn Độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:34:00+07:00",
+      "fetched": "2026-08-18T21:22:22.670900+07:00"
     },
     {
       "id": "ef0c214246b2ca6339ee951b70df35c0",
