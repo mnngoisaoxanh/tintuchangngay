@@ -1,7 +1,157 @@
 window.newsData_2026_08_18 = {
   "date": "2026-08-18",
-  "lastUpdated": "2026-08-18T11:25:02.457684+07:00",
+  "lastUpdated": "2026-08-18T13:25:28.230086+07:00",
   "articles": [
+    {
+      "id": "fb480016e6949c32c93d20f3e71dbddc",
+      "title": "Ông Trump thu hẹp quy mô tập trận Mỹ - Hàn: 'Món quà' dành cho Triều Tiên?",
+      "link": "https://tuoitre.vn/ong-trump-thu-hep-quy-mo-tap-tran-my-han-mon-qua-danh-cho-trieu-tien-100260818091109661.htm",
+      "summary": "\"Làm sao các vị biết ông ấy chưa phản hồi?\" - ông Trump trả lời báo chí khi úp mở về việc liên lạc với nhà lãnh đạo Triều Tiên Kim Jong Un.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:25:22.067044+07:00",
+      "fetched": "2026-08-18T13:25:22.067086+07:00"
+    },
+    {
+      "id": "1474cd9e2b92f92c36f5bd328de2b2f6",
+      "title": "Yoo Ah In trở lại đóng phim dù chưa mãn án treo",
+      "link": "https://tuoitre.vn/yoo-ah-in-tro-lai-dong-phim-du-chua-man-an-treo-100260818094232391.htm",
+      "summary": "Yoo Ah In xác nhận trở lại màn ảnh với Vampir, phim mới của đạo diễn Jang Jae Hyun, khi thời gian chấp hành án treo vì sử dụng chất cấm vẫn chưa kết thúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:25:22.066992+07:00",
+      "fetched": "2026-08-18T13:25:22.067037+07:00"
+    },
+    {
+      "id": "1987f2f218ddb65eb5bd552c9556da18",
+      "title": "Mang ánh sáng năng lượng mặt trời đến xã miền núi Bến Hiên",
+      "link": "https://tuoitre.vn/mang-anh-sang-nang-luong-mat-troi-den-xa-mien-nui-ben-hien-100260818105232708.htm",
+      "summary": "Công ty Điện lực Đà Nẵng vừa phối hợp Sở Công Thương Đà Nẵng và UBND xã Bến Hiên tổ chức bàn giao công trình điện chiếu sáng năng lượng mặt trời tại địa phương. Công trình có tổng kinh phí gần 100 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:25:22.066940+07:00",
+      "fetched": "2026-08-18T13:25:22.066985+07:00"
+    },
+    {
+      "id": "9f275bf1bddb2963e7493d82c28727bc",
+      "title": "Đại học tinh hoa - Nhìn từ mô hình Liên minh C9 của Trung Quốc",
+      "link": "https://tuoitre.vn/dai-hoc-tinh-hoa-nhin-tu-mo-hinh-lien-minh-c9-cua-trung-quoc-100260815215933285.htm",
+      "summary": "Nền giáo dục đại học của Trung Quốc đã gầy dựng hệ thống đại học tinh hoa bằng nguồn tiền khổng lồ và cơ chế cạnh tranh khốc liệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:25:22.066888+07:00",
+      "fetched": "2026-08-18T13:25:22.066933+07:00"
+    },
+    {
+      "id": "03531c27eafbbc20c07291adfd2b550f",
+      "title": "Muốn trẻ lâu, sống thọ: Phải giảm thiểu mối quan hệ gây căng thẳng",
+      "link": "https://tuoitre.vn/muon-tre-lau-song-tho-phai-giam-thieu-moi-quan-he-gay-cang-thang-100260818081939312.htm",
+      "summary": "Một nghiên cứu mới trên gần 4.600 người trưởng thành cho thấy việc thường xuyên phải đối mặt với những mối quan hệ gây căng thẳng có liên quan đến tốc độ lão hóa sinh học nhanh hơn. Đáng chú ý, ảnh hưởng này rõ rệt nhất ở những mối quan hệ gia đình nhiều xung đột.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:25:22.066833+07:00",
+      "fetched": "2026-08-18T13:25:22.066880+07:00"
+    },
+    {
+      "id": "00b2e304f1d1ccf285d9a1255623e5fc",
+      "title": "Hơn 1.000 hộ dân Huế hiến đất mở đường hai năm qua",
+      "link": "https://tuoitre.vn/hon-1000-ho-dan-hue-hien-dat-mo-duong-hai-nam-qua-100260818095334843.htm",
+      "summary": "Gần 2 năm qua có 1.082 hộ gia đình ở Huế đã tự nguyện hiến đất mở đường giao thông, với tổng diện tích đất hiến hơn 140.000m².",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:25:22.066786+07:00",
+      "fetched": "2026-08-18T13:25:22.066826+07:00"
+    },
+    {
+      "id": "1f79cbc4cec2c98130b8bb937b01e2e9",
+      "title": "Phụ huynh đi chục nhà sách chưa mua đủ bộ sách giáo khoa, NXB Giáo Dục nói gì?",
+      "link": "https://tuoitre.vn/phu-huynh-di-chuc-nha-sach-chua-mua-du-bo-sach-giao-khoa-nxb-giao-duc-noi-gi-100260818092542288.htm",
+      "summary": "Nhiều phụ huynh ở TP.HCM và các tỉnh chưa mua đủ sách giáo khoa khi năm học mới cận kề. Nhà xuất bản đang điều chuyển thêm 8 triệu bản theo nhu cầu thực tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:25:22.066736+07:00",
+      "fetched": "2026-08-18T13:25:22.066779+07:00"
+    },
+    {
+      "id": "46c5ddc9c9158ac5b69cd278d49d7922",
+      "title": "Hướng dẫn kỹ từ A-Z với bảo hiểm y tế học sinh, sinh viên",
+      "link": "https://tuoitre.vn/huong-dan-ky-tu-a-z-voi-bao-hiem-y-te-hoc-sinh-sinh-vien-100260818094004784.htm",
+      "summary": "Học sinh, sinh viên tham gia bảo hiểm y tế được Nhà nước hỗ trợ tối thiểu 50% mức đóng. Khi con cần đi khám chữa bệnh đúng quy định, quỹ bảo hiểm y tế sẽ chi trả phần lớn chi phí trong phạm vi được hưởng. Tuy nhiên, cha mẹ sẽ phải chi chả thêm trong một số trường hợp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:25:22.066691+07:00",
+      "fetched": "2026-08-18T13:25:22.066729+07:00"
+    },
+    {
+      "id": "ce51b754043bbe0009d7c120a727857f",
+      "title": "Thu nhập của CEO ở công ty chứng khoán cao nhất tới 800 triệu mỗi tháng",
+      "link": "https://tuoitre.vn/thu-nhap-cua-ceo-o-cong-ty-chung-khoan-cao-nhat-toi-800-trieu-moi-thang-100260818100639215.htm",
+      "summary": "Báo cáo tài chính một số công ty chứng khoán hàng đầu đã công bố chi tiết thu nhập, lương, thưởng dành cho vị trí Tổng giám đốc, phổ biến ở mức vài trăm triệu đồng mỗi tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:25:22.066640+07:00",
+      "fetched": "2026-08-18T13:25:22.066684+07:00"
+    },
+    {
+      "id": "30b0d526105604adee9e0ee83efbe887",
+      "title": "Úc điều tra vụ đèn làm việc bỏ quên trong cánh máy bay Qantas suốt hai ngày",
+      "link": "https://tuoitre.vn/uc-dieu-tra-vu-den-lam-viec-bo-quen-trong-canh-may-bay-qantas-suot-hai-ngay-100260818105947022.htm",
+      "summary": "Chiếc Airbus A380 của hãng hàng không Qantas (Úc) vẫn tiếp tục chở hàng trăm hành khách trong hai ngày, dù bên trong cánh máy bay có một chiếc đèn cao khoảng 33cm bị bỏ quên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:25:22.066591+07:00",
+      "fetched": "2026-08-18T13:25:22.066634+07:00"
+    },
+    {
+      "id": "b1f2ed652c59c45015e74b0edb7a06a2",
+      "title": "Đừng 'đùa cho vui' với thủ tục pháp lý trên Dịch vụ công trực tuyến",
+      "link": "https://tuoitre.vn/dung-dua-cho-vui-voi-thu-tuc-phap-ly-tren-dich-vu-cong-truc-tuyen-100260817160233423.htm",
+      "summary": "Trên Cổng Dịch vụ công trực tuyến, cú nhấp chuột mất vài giây nhưng hệ quả pháp lý phát sinh vô cùng lớn, đôi khi cần đến cả một quy trình dài để xử lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:25:22.066538+07:00",
+      "fetched": "2026-08-18T13:25:22.066580+07:00"
+    },
+    {
+      "id": "8921f26e067edd63c5ded74c22fd5fd9",
+      "title": "NCB muốn tăng vốn thêm 33.000 tỉ đồng, vốn điều lệ vượt 62.000 tỉ",
+      "link": "https://tuoitre.vn/ncb-muon-tang-von-them-33000-ti-dong-von-dieu-le-vuot-62000-ti-100260818110847026.htm",
+      "summary": "Ngân hàng NCB dự kiến phát hành 3,3 tỉ cổ phiếu riêng lẻ trong năm 2027, thu về 33.000 tỉ đồng, qua đó nâng vốn điều lệ lên gần 62.280 tỉ đồng nếu phát hành thành công toàn bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:25:22.066486+07:00",
+      "fetched": "2026-08-18T13:25:22.066531+07:00"
+    },
+    {
+      "id": "93fbf16e4fa1ba0639d967215688a509",
+      "title": "Con cá nâu xuất hiện ở vùng đất Cà Mau tự bao giờ mà thành đặc sản",
+      "link": "https://tuoitre.vn/con-ca-nau-xuat-hien-o-vung-dat-ca-mau-tu-bao-gio-ma-thanh-dac-san-100260817083055172.htm",
+      "summary": "Từ loài gắn liền thời khai hoang mở cõi, con cá nâu Cà Mau đã khẳng định vị thế đặc sản đắt giá mở ra sinh kế bền vững cho người nuôi tôm, cua, cá vùng rừng Cà Mau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:25:22.066431+07:00",
+      "fetched": "2026-08-18T13:25:22.066478+07:00"
+    },
+    {
+      "id": "ce5998a197608d18bf839365411b6d4b",
+      "title": "Báo chí Đông Nam Á 'khen nức nở' tài năng các cầu thủ 'thuần Việt Nam', đứng đầu là Đình Bắc",
+      "link": "https://tuoitre.vn/bao-chi-dong-nam-a-khen-nuc-no-tai-nang-cac-cau-thu-thuan-viet-nam-dung-dau-la-dinh-bac-100260818100315094.htm",
+      "summary": "Nhiều trang báo khu vực chỉ ra chi tiết đặc biệt về tuyển Việt Nam tại ASEAN Cup 2026, đó là những cầu thủ hay nhất đều là ngôi sao thuần bản địa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:25:22.066367+07:00",
+      "fetched": "2026-08-18T13:25:22.066423+07:00"
+    },
+    {
+      "id": "198e164040c96776c59e9eac1fd3ae52",
+      "title": "Công ty trúng đấu giá 'khu đất vàng' dự kiến xây tòa nhà cao nhất Nghệ An",
+      "link": "https://tuoitre.vn/cong-ty-trung-dau-gia-khu-dat-vang-du-kien-xay-toa-nha-cao-nhat-nghe-an-1002608181044252.htm",
+      "summary": "Khu đất vàng từng được quy hoạch làm Trung tâm hành chính tỉnh Nghệ An vừa được đem đấu giá thành công. Công ty trúng đấu giá khu đất giá 829 tỉ đồng, cao hơn 5 tỉ đồng so với giá khởi điểm 824 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T13:25:22.066217+07:00",
+      "fetched": "2026-08-18T13:25:22.066356+07:00"
+    },
     {
       "id": "a318c7fefe3d357bdd1d6f6923cf6155",
       "title": "Tòa miễn án phí hình sự cho 6 bị cáo cựu chiến binh kêu oan",
@@ -353,6 +503,336 @@ window.newsData_2026_08_18 = {
       "fetched": "2026-08-18T07:38:59.071470+07:00"
     },
     {
+      "id": "a3de81f7aeb9d195289d40980217a989",
+      "title": "Cặp đôi chặt tre, đốn chuối, hái hoa dừa làm đám hỏi Nam bộ xưa",
+      "link": "https://thanhnien.vn/cap-doi-chat-tre-don-chuoi-hai-hoa-dua-lam-dam-hoi-nam-bo-xua-185260818092502447.htm",
+      "summary": "Lấy cảm hứng từ ảnh cưới của ba mẹ, cặp đôi đến từ Tây Ninh dành cả tháng may trang phục, chặt tre làm mành, đan ống hút và hái hoa dừa sau nhà để tổ chức đám hỏi mang đậm nét duyên Nam bộ xưa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T06:22:00+07:00",
+      "fetched": "2026-08-18T13:25:20.140118+07:00"
+    },
+    {
+      "id": "dbb63d5f24fc57935e562d0b99756631",
+      "title": "iPhone có thể sớm nói lời tạm biệt với USB-C?",
+      "link": "https://thanhnien.vn/iphone-co-the-som-noi-loi-tam-biet-voi-usb-c-185260818010443042.htm",
+      "summary": "Apple có thể loại bỏ USB-C khỏi iPhone trong tương lai để chuyển hoàn toàn sang một công nghệ sạc hiện đại hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T06:16:00+07:00",
+      "fetched": "2026-08-18T13:25:20.140258+07:00"
+    },
+    {
+      "id": "5973fb5700d301ec8dfe2b9380c4bc9c",
+      "title": "Lái xe đường hai chiều không vạch kẻ: Làm sao để không dính lỗi lấn làn",
+      "link": "https://thanhnien.vn/lai-xe-duong-hai-chieu-khong-vach-ke-lam-sao-de-khong-dinh-loi-lan-lan-18526081714084529.htm",
+      "summary": "Không ít tuyến đường hai chiều hiện nay không có vạch tim phân chia hướng xe chạy, khiến tài xế lúng túng khi xác định vị trí ô tô trên mặt đường. Trong trường hợp này, lái xe thế nào để không vi phạm quy định về phần đường?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T06:13:00+07:00",
+      "fetched": "2026-08-18T13:25:20.140382+07:00"
+    },
+    {
+      "id": "93cfa7b3cb6d9f56c0a9509cd7da6bbd",
+      "title": "Xuân Mạnh quả quyết 'Việt Nam sẽ thắng', hậu vệ Malaysia đáp 'hãy chờ bất ngờ'",
+      "link": "https://thanhnien.vn/xuan-manh-qua-quyet-viet-nam-se-thang-hau-ve-malaysia-dap-hay-cho-bat-ngo-185260818130534975.htm",
+      "summary": "Hậu vệ Phạm Xuân Mạnh khẳng định đội tuyển Việt Nam sẽ đánh bại Malaysia một lần nữa, khi hai đội so tài ở bán kết lượt về ASEAN Cup 2026 lúc 20 giờ ngày 19.8 trên sân Mỹ Đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T06:12:00+07:00",
+      "fetched": "2026-08-18T13:25:20.140503+07:00"
+    },
+    {
+      "id": "5944d5e8c354f25a6ea4ee553513c34b",
+      "title": "Vụ 4 nữ tiếp viên hàng không bị lợi dụng xách ma túy: Thủ đoạn giấu ma túy đưa vào Việt Nam",
+      "link": "https://thanhnien.vn/vu-4-nu-tiep-vien-hang-khong-bi-loi-dung-xach-ma-tuy-thu-doan-giau-ma-tuy-dua-vao-viet-nam-185260818123730694.htm",
+      "summary": "Hà Danh Nậm lợi dụng 4 tiếp viên hàng không, người Việt Nam học tập, định cư tại Pháp để gửi hàng, hoặc gửi chuyển phát nhanh quốc tế để đưa ma túy vào Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T06:07:00+07:00",
+      "fetched": "2026-08-18T13:25:20.140623+07:00"
+    },
+    {
+      "id": "94cbaea350c9a3f5bd0e9fff1680f786",
+      "title": "Ô tô nằm 'bất động' nửa năm ở cư xá Lữ Gia, CSGT yêu cầu di dời ngay",
+      "link": "https://thanhnien.vn/o-to-nam-bat-dong-nua-nam-o-cu-xa-lu-gia-csgt-yeu-cau-di-doi-ngay-185260818125724729.htm",
+      "summary": "Chiếc ô tô hư hỏng nằm gần nửa năm trong cư xá Lữ Gia (phường Phú Thọ, TP.HCM) khiến người dân bức xúc vì cản trở đi lại. Sau phản ánh, CSGT đã làm việc với chủ xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T06:02:00+07:00",
+      "fetched": "2026-08-18T13:25:20.140754+07:00"
+    },
+    {
+      "id": "ba1966ac77254251c1cb77f9122ca5b9",
+      "title": "Điểm chuẩn ngành AI chạm trần: Cú ‘đặt cược’ của thế hệ trẻ",
+      "link": "https://thanhnien.vn/diem-chuan-nganh-ai-cham-tran-cu-dat-cuoc-cua-the-he-tre-185260818120938643.htm",
+      "summary": "Mùa tuyển sinh 2026 ghi nhận kỷ lục chưa từng có khi điểm chuẩn một số ngành công nghệ chạm mốc tuyệt đối. Giữa cuộc đua chọn ngành, các chuyên gia giáo dục chỉ ra điều thực sự tạo nên lợi thế dài hạn cho người học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T06:00:00+07:00",
+      "fetched": "2026-08-18T13:25:20.140890+07:00"
+    },
+    {
+      "id": "9b74a87a18df71396ccdad3bdc06e37d",
+      "title": "Chuyên gia Hàn Quốc sang Việt Nam ủng hộ HLV Kim Sang-sik, khen Đình Bắc tài năng",
+      "link": "https://thanhnien.vn/chuyen-gia-han-quoc-sang-viet-nam-ung-ho-hlv-kim-sang-sik-khen-dinh-bac-tai-nang-185260818125451198.htm",
+      "summary": "Chia sẻ với Báo Thanh Niên, ông Hong Jae-min, nguyên Tổng biên tập Tạp chí thể thao 442 Hàn Quốc đánh giá cao thành công HLV Kim Sang-sik mang lại cho bóng đá Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T05:58:00+07:00",
+      "fetched": "2026-08-18T13:25:20.141013+07:00"
+    },
+    {
+      "id": "da41d63459d2203edf7533d014c66f1f",
+      "title": "Nữ sinh y dược cúi đầu tạ ơn trong lễ tốt nghiệp",
+      "link": "https://thanhnien.vn/nu-sinh-y-duoc-cui-dau-ta-on-trong-le-tot-nghiep-185260818113701742.htm",
+      "summary": "Tân cử nhân cao đẳng điều dưỡng Nguyễn Thị Thanh Mai (lớp CĐ điều dưỡng 18C Trường ĐH Y dược, ĐH Huế) đã cúi đầu tạ ơn cha mẹ thầy cô trong lễ tốt nghiệp xúc động. Nghĩa cử biết ơn khiến mọi người đặt niềm tin vào nhân cách của người trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T05:43:00+07:00",
+      "fetched": "2026-08-18T13:25:20.141132+07:00"
+    },
+    {
+      "id": "56b864b0f4f101e6d8835169f2a3ab3c",
+      "title": "VinaCapital: Cổ phiếu vẫn hấp dẫn dù lãi suất lên 9%",
+      "link": "https://vnexpress.net/vinacapital-co-phieu-van-hap-dan-du-lai-suat-len-9-5110329.html",
+      "summary": "Trong bối cảnh lãi suất neo cao, VinaCapital cho rằng cổ phiếu vẫn hấp dẫn nhờ định giá giảm mạnh, nhiều cơ hội tăng gấp đôi trong 1-3 năm tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T05:31:38+07:00",
+      "fetched": "2026-08-18T13:25:16.934821+07:00"
+    },
+    {
+      "id": "56b864b0f4f101e6d8835169f2a3ab3c",
+      "title": "VinaCapital: Cổ phiếu vẫn hấp dẫn dù lãi suất lên 9%",
+      "link": "https://vnexpress.net/vinacapital-co-phieu-van-hap-dan-du-lai-suat-len-9-5110329.html",
+      "summary": "Trong bối cảnh lãi suất neo cao, VinaCapital cho rằng cổ phiếu vẫn hấp dẫn nhờ định giá giảm mạnh, nhiều cơ hội tăng gấp đôi trong 1-3 năm tới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-18T05:31:38+07:00",
+      "fetched": "2026-08-18T13:25:24.724402+07:00"
+    },
+    {
+      "id": "def3140e0c2dc8b82b9b7a88330142e8",
+      "title": "Nỗi sợ hôn của Gen Z Anh",
+      "link": "https://vnexpress.net/noi-so-hon-cua-gen-z-anh-5110291.html",
+      "summary": "Giao tiếp qua màn hình và nỗi sợ hiểu sai tín hiệu khiến nhiều người Anh, đặc biệt là thế hệ Z, ngày càng e ngại nụ hôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T05:31:08+07:00",
+      "fetched": "2026-08-18T13:25:16.934990+07:00"
+    },
+    {
+      "id": "ab2db4b538d6db506c9708eae9fce22a",
+      "title": "8 thói quen có thể giúp sống thêm hơn 20 năm",
+      "link": "https://vnexpress.net/8-thoi-quen-co-the-giup-song-them-hon-20-nam-5110325.html",
+      "summary": "Tám thói quen lành mạnh ở tuổi 40 liên quan đến hơn 20 năm tuổi thọ, trong khi thay đổi từ tuổi 60 vẫn có thể mang lại lợi ích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T05:30:00+07:00",
+      "fetched": "2026-08-18T13:25:16.935131+07:00"
+    },
+    {
+      "id": "8e5e9f4f1e27c0adc0fdde0062ded70e",
+      "title": "Bản lĩnh và tư duy đột phá của cán bộ chiến lược",
+      "link": "https://thanhnien.vn/ban-linh-va-tu-duy-dot-pha-cua-can-bo-chien-luoc-185260818115110572.htm",
+      "summary": "Trước yêu cầu phát triển của đất nước trong giai đoạn mới, Tổng Bí thư, Chủ tịch nước Tô Lâm nhấn mạnh đòi hỏi cốt lõi đối với cán bộ cấp chiến lược phải lấy đạo đức, liêm chính làm nền tảng; tuyệt đối không để quyền lực, vật chất lấn át lý trí và phải hành động quyết liệt vì lợi ích chung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T05:27:00+07:00",
+      "fetched": "2026-08-18T13:25:20.141249+07:00"
+    },
+    {
+      "id": "a9197fbeaef8aa36e290afac631853e6",
+      "title": "Mỹ phóng tên lửa không gian gần như mỗi ngày, tương lai còn tăng",
+      "link": "https://thanhnien.vn/my-phong-ten-lua-khong-gian-gan-nhu-moi-ngay-tuong-lai-con-tang-185260818121107756.htm",
+      "summary": "Thập niên tới sẽ chứng kiến gần 4.300 vụ phóng tên lửa, trong bối cảnh NASA đưa người quay lại mặt trăng, nhu cầu phóng vệ tinh gia tăng và các sứ mệnh lên Trạm Không gian Quốc tế (ISS) tiếp tục được duy trì.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T05:23:00+07:00",
+      "fetched": "2026-08-18T13:25:20.141364+07:00"
+    },
+    {
+      "id": "9a579280405bf3858ccd2329d96d5fc1",
+      "title": "Gan có thể tự phục hồi, nhưng đừng chờ đến khi quá muộn",
+      "link": "https://thanhnien.vn/gan-co-the-tu-phuc-hoi-nhung-dung-cho-den-khi-qua-muon-185260818122316861.htm",
+      "summary": "Gan có khả năng tự phục hồi, nhưng không phải mọi tổn thương đều có thể đảo ngược. Phát hiện và xử lý nguyên nhân từ sớm là chìa khóa bảo vệ cơ quan này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T05:21:00+07:00",
+      "fetched": "2026-08-18T13:25:20.141480+07:00"
+    },
+    {
+      "id": "5ee30e843ccac272c98e01e641541bb7",
+      "title": "Hơn 35 năm bán một chỗ, quán cháo mực quen thuộc ở TP.HCM nay chuyển đi đâu?",
+      "link": "https://thanhnien.vn/hon-35-nam-ban-mot-cho-quan-chao-muc-quen-thuoc-o-tphcm-nay-doi-di-dau-185260817151557586.htm",
+      "summary": "Sau hơn 35 năm gắn với đường Nguyễn Đình Chiểu, quán cháo mực Thanh Sơn quen thuộc với nhiều thế hệ thực khách TP.HCM đã chuyển sang địa chỉ mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T05:21:00+07:00",
+      "fetched": "2026-08-18T13:25:20.141594+07:00"
+    },
+    {
+      "id": "6ced2491d29144790de06c9876a54259",
+      "title": "Mùa Vu lan: Khuyến khích chuyển 'mua động vật phóng sinh' sang tôn trọng sự sống",
+      "link": "https://thanhnien.vn/mua-vu-lan-khuyen-khich-chuyen-mua-dong-vat-phong-sinh-sang-ton-trong-su-song-185260818113429302.htm",
+      "summary": "Ngày 18.8, Giáo hội Phật giáo Việt Nam có văn bản gửi Ban Trị sự Giáo hội Phật giáo Việt Nam các tỉnh, thành phố, các cơ sở tự viện, tăng ni và phật tử trong cả nước về việc thực hành phóng sinh đúng, bảo vệ môi trường và đa dạng sinh học trong mùa Vu lan báo hiếu (rằm tháng 7).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T05:19:00+07:00",
+      "fetched": "2026-08-18T13:25:20.141707+07:00"
+    },
+    {
+      "id": "72dd9ae20e1722d1b9591baa4b7bee66",
+      "title": "Nano S05 giá từ 148 triệu đồng xuất hiện tại Việt Nam",
+      "link": "https://vnexpress.net/nano-s05-gia-tu-148-trieu-dong-xuat-hien-tai-viet-nam-5110342.html",
+      "summary": "Mẫu xe điện hai chỗ xuất hiện tại nhà máy TMT, tùy chọn một hoặc hai pin, phạm vi hoạt động 120-150 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T05:17:00+07:00",
+      "fetched": "2026-08-18T13:25:16.935263+07:00"
+    },
+    {
+      "id": "b8bf7812ad0b0f3132644e2cf32a5b8b",
+      "title": "Mỗi ngày TP.HCM giết mổ hơn 858 tấn thịt, kiểm soát an toàn thực phẩm ra sao?",
+      "link": "https://thanhnien.vn/moi-ngay-tphcm-giet-mo-hon-858-tan-thit-kiem-soat-an-toan-thuc-pham-ra-sao-185260818112749615.htm",
+      "summary": "Trong một ngày đêm, TP.HCM giết mổ hơn 657 tấn thịt gia súc và hơn 201 tấn thịt gia cầm. Dịch bệnh động vật và chất cấm trong chăn nuôi vẫn đe dọa an toàn thực phẩm, sức khỏe người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T05:17:00+07:00",
+      "fetched": "2026-08-18T13:25:20.141822+07:00"
+    },
+    {
+      "id": "315b4d7f931d81d734adec570c116a42",
+      "title": "VnExpress Marathon đưa giải Grand Tour về quê Bác",
+      "link": "https://vnexpress.net/vnexpress-marathon-grand-tour-nghe-an-2026-ve-que-bac-5110330.html",
+      "summary": "VnExpress Marathon Grand Tour Nghệ An 2026 diễn ra ngày 27/9 với bốn cự ly, đưa runner về Làng Sen, quê hương Chủ tịch Hồ Chí Minh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T05:10:00+07:00",
+      "fetched": "2026-08-18T13:25:16.935393+07:00"
+    },
+    {
+      "id": "a23e77ff8f9a7adcc76fd7fdf0740d1b",
+      "title": "Đông Hùng biến hóa ở 'Anh trai vượt ngàn chông gai'",
+      "link": "https://vnexpress.net/dong-hung-bien-hoa-o-anh-trai-vuot-ngan-chong-gai-5109870.html",
+      "summary": "Đông Hùng lần đầu thể hiện các kỹ năng như đu dây, nhảy, beatbox và diễn nhạc kịch ở show Anh trai vượt ngàn chông gai 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T05:01:33+07:00",
+      "fetched": "2026-08-18T13:25:16.935521+07:00"
+    },
+    {
+      "id": "b9cd2629ec7a37807f82b2462c8617e7",
+      "title": "Người bệnh lao có nên tắm nắng?",
+      "link": "https://vnexpress.net/nguoi-benh-lao-co-nen-tam-nang-5110347.html",
+      "summary": "Tôi được chẩn đoán bệnh lao phổi khoảng hai tuần nay và đang điều trị. Tắm nắng có thể hỗ trợ giảm triệu chứng lao, đúng không? (Văn Đoàn, 52 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T05:00:00+07:00",
+      "fetched": "2026-08-18T13:25:16.935648+07:00"
+    },
+    {
+      "id": "5e85513f45cdf65fbec63cf366a2ed51",
+      "title": "Động mạch cảnh hẹp khít như sợi chỉ do viêm mạch máu",
+      "link": "https://vnexpress.net/dong-mach-canh-hep-khit-nhu-soi-chi-do-viem-mach-mau-5110227.html",
+      "summary": "Thành, 17 tuổi, nhiều lần co giật, tê nửa người tưởng động kinh, bác sĩ chẩn đoán viêm mạch máu khiến động mạch cảnh hẹp khít.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T05:00:00+07:00",
+      "fetched": "2026-08-18T13:25:16.935790+07:00"
+    },
+    {
+      "id": "a3615984b20d57c127d6ea09099fb650",
+      "title": "Các chỉ số cần kiểm soát để giảm nguy cơ nhồi máu cơ tim",
+      "link": "https://vnexpress.net/cac-chi-so-can-kiem-soat-de-giam-nguy-co-nhoi-mau-co-tim-5109882.html",
+      "summary": "Theo dõi huyết áp, cholesterol và đường huyết có thể giúp nhận diện sớm yếu tố nguy cơ, chủ động điều chỉnh lối sống, giảm nguy cơ nhồi máu cơ tim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T05:00:00+07:00",
+      "fetched": "2026-08-18T13:25:16.935967+07:00"
+    },
+    {
+      "id": "8ab738f384a0357373e99c3aba76d049",
+      "title": "Vì sao Rodri từ bỏ giấc mơ Real để đến Barca?",
+      "link": "https://vnexpress.net/vi-sao-rodri-tu-bo-giac-mo-real-de-den-barca-5110155.html",
+      "summary": "Tiền vệ Rodri từng nhiều lần chờ đợi cơ hội gia nhập Real Madrid, nhưng cuối cùng chọn Barca vì bị thuyết phục bởi dự án, lối chơi và cách tiếp cận của đội bóng xứ Catalonia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T04:52:43+07:00",
+      "fetched": "2026-08-18T13:25:16.936102+07:00"
+    },
+    {
+      "id": "8ab738f384a0357373e99c3aba76d049",
+      "title": "Vì sao Rodri từ bỏ giấc mơ Real để đến Barca?",
+      "link": "https://vnexpress.net/vi-sao-rodri-tu-bo-giac-mo-real-de-den-barca-5110155.html",
+      "summary": "Tiền vệ Rodri từng nhiều lần chờ đợi cơ hội gia nhập Real Madrid, nhưng cuối cùng chọn Barca vì bị thuyết phục bởi dự án, lối chơi và cách tiếp cận của đội bóng xứ Catalonia.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-18T04:52:43+07:00",
+      "fetched": "2026-08-18T13:25:28.221998+07:00"
+    },
+    {
+      "id": "63093ec241384704c4c6f6405ae86c8a",
+      "title": "HLV Malaysia: 'Chúng tôi không ngán đội tuyển Việt Nam'",
+      "link": "https://vnexpress.net/hlv-malaysia-chung-toi-khong-ngan-doi-tuyen-viet-nam-5110300.html",
+      "summary": "HLV Tan Cheng Hoe coi nhẹ bất lợi về tỷ số cũng như thống kê lịch sử, và tin tưởng Malaysia sẽ đảo ngược tình thế ở lượt về bán kết ASEAN Cup 2026 ngày 19/8 bằng thế trận tấn công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T04:50:26+07:00",
+      "fetched": "2026-08-18T13:25:16.936231+07:00"
+    },
+    {
+      "id": "63093ec241384704c4c6f6405ae86c8a",
+      "title": "HLV Malaysia: 'Chúng tôi không ngán đội tuyển Việt Nam'",
+      "link": "https://vnexpress.net/hlv-malaysia-chung-toi-khong-ngan-doi-tuyen-viet-nam-5110300.html",
+      "summary": "HLV Tan Cheng Hoe coi nhẹ bất lợi về tỷ số cũng như thống kê lịch sử, và tin tưởng Malaysia sẽ đảo ngược tình thế ở lượt về bán kết ASEAN Cup 2026 ngày 19/8 bằng thế trận tấn công.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-18T04:50:26+07:00",
+      "fetched": "2026-08-18T13:25:28.222150+07:00"
+    },
+    {
+      "id": "ca1d61cfa377644e2eafdc3d3dd43440",
+      "title": "Tài xế 'dở khóc dở cười' vì bị camera AI báo lỗi không thắt dây an toàn",
+      "link": "https://vnexpress.net/tai-xe-do-khoc-do-cuoi-vi-bi-camera-ai-bao-loi-khong-that-day-an-toan-5110340.html",
+      "summary": "Mặc áo trùng màu với đệm bọc dây an toàn, tài xế nhận được thông báo phạt nguội \"không thắt dây an toàn\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T04:43:42+07:00",
+      "fetched": "2026-08-18T13:25:16.936356+07:00"
+    },
+    {
+      "id": "5eede915e49ee7b85f27b27212e0035d",
+      "title": "TP HCM duyệt quy hoạch khu đô thị nhà ở xã hội gần 192 ha",
+      "link": "https://vnexpress.net/tp-hcm-duyet-quy-hoach-khu-do-thi-nha-o-xa-hoi-gan-192-ha-5110275.html",
+      "summary": "Đồ án quy hoạch phân khu tỷ lệ 1/2.000 Khu nhà ở xã hội Bà Điểm được duyệt với diện tích thực hiện gần 192 ha, quy mô dân số dự kiến 67.465 người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T04:42:20+07:00",
+      "fetched": "2026-08-18T13:25:16.936479+07:00"
+    },
+    {
+      "id": "949b04fb1a23e431fbd04c13f816b807",
+      "title": "Tìm danh tính 469 liệt sĩ chống Pháp tại nghĩa trang Mai Dịch",
+      "link": "https://vnexpress.net/tim-danh-tinh-469-liet-si-chong-phap-tai-nghia-trang-mai-dich-5110156.html",
+      "summary": "Hơn 200 cán bộ, chiến sĩ đang khai quật từng ngôi mộ tại nghĩa trang Mai Dịch để tìm kiếm thông tin, xác định danh tính 469 liệt sĩ hy sinh trong kháng chiến chống Pháp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T04:34:00+07:00",
+      "fetched": "2026-08-18T13:25:16.936605+07:00"
+    },
+    {
+      "id": "54f372d484838961676a349b88f55b23",
+      "title": "Thí sinh Miss World thi nấu ăn",
+      "link": "https://vnexpress.net/thi-sinh-miss-world-thi-nau-an-5110281.html",
+      "summary": "Hơn 100 cô gái thể hiện sự khéo léo qua phần thi nấu ăn lần đầu diễn ra ở Miss World mùa 73.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T04:30:08+07:00",
+      "fetched": "2026-08-18T13:25:16.936735+07:00"
+    },
+    {
       "id": "371de88e78a1e0ee215f461b0adf0995",
       "title": "Người Việt giữa 'biển người' xem BTS ở Texas, chờ tour 2027 gọi tên Việt Nam",
       "link": "https://thanhnien.vn/nguoi-viet-giua-bien-nguoi-xem-bts-o-texas-cho-tour-2027-goi-ten-viet-nam-185260817163644946.htm",
@@ -391,6 +871,16 @@ window.newsData_2026_08_18 = {
       "category": "Thể thao",
       "published": "2026-08-18T04:14:39+07:00",
       "fetched": "2026-08-18T11:25:02.449575+07:00"
+    },
+    {
+      "id": "fd2be001cb435110d66e41a6cf301299",
+      "title": "HLV Kim phủ nhận Việt Nam đá sân khách tốt hơn ở ASEAN Cup 2026",
+      "link": "https://vnexpress.net/hlv-kim-phu-nhan-viet-nam-da-san-khach-tot-hon-o-asean-cup-2026-5110302.html",
+      "summary": "HLV Kim Sang-sik khẳng định Việt Nam luôn muốn thắng mọi trận đấu tại ASEAN Cup 2026 một cách đẹp mắt và nỗ lực hết mình để cống hiến cho người hâm mộ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-18T04:14:39+07:00",
+      "fetched": "2026-08-18T13:25:28.222286+07:00"
     },
     {
       "id": "b926ce4f1a723d69938f31e4381542bc",
