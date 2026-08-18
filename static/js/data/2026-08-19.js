@@ -1,7 +1,37 @@
 window.newsData_2026_08_19 = {
   "date": "2026-08-19",
-  "lastUpdated": "2026-08-19T01:22:13.311186+07:00",
+  "lastUpdated": "2026-08-19T03:12:22.462123+07:00",
   "articles": [
+    {
+      "id": "4ea07c8972dfe2e3c29eb507967e9a20",
+      "title": "Giá vàng hôm nay 19-8 bất ngờ giảm mạnh",
+      "link": "https://tuoitre.vn/gia-vang-hom-nay-19-8-bat-ngo-giam-manh-100260819001656345.htm",
+      "summary": "Giá vàng thế giới hôm nay, 19-8, có lúc đã giảm 60 USD/ounce, về mức 4.354 USD/ounce, sau đó hồi phục nhẹ lên 4.366 USD/ounce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T03:12:14.318521+07:00",
+      "fetched": "2026-08-19T03:12:14.318787+07:00"
+    },
+    {
+      "id": "a5e392e173f997be6b662a00d6157f15",
+      "title": "Video: 'Siêu phẩm' bấm bóng của cầu thủ Singapore vào lưới Thái Lan",
+      "link": "https://tuoitre.vn/video-sieu-pham-bam-bong-cua-cau-thu-singapore-vao-luoi-thai-lan-100260818234636043.htm",
+      "summary": "Tận dụng tốt sai lầm của hàng phòng ngự Thái Lan, tiền vệ Harhys Stewart thực hiện tình huống bấm bóng ở khoảng cách 25m, mở tỉ số cho Singapore.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T03:12:14.318442+07:00",
+      "fetched": "2026-08-19T03:12:14.318509+07:00"
+    },
+    {
+      "id": "31ab3fe7533bfd32f6f4559ea67e65c6",
+      "title": "Người hâm mộ Thái Lan: 'Đá thế này không nên vào chung kết'",
+      "link": "https://tuoitre.vn/nguoi-ham-mo-thai-lan-da-the-nay-khong-nen-vao-chung-ket-100260818220059617.htm",
+      "summary": "Người hâm mộ Thái Lan tỏ thái độ không hài lòng chút nào với màn trình diễn của thầy trò ông Anthony Hudson trong trận bán kết lượt về với Singapore, diễn ra tối ngày 18-8 (giờ Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T03:12:14.318331+07:00",
+      "fetched": "2026-08-19T03:12:14.318428+07:00"
+    },
     {
       "id": "f3eafff4fa6cdcb4b3e37ece5829295e",
       "title": "Thống đốc: Ngân hàng phải chủ động phòng ngừa gian lận trong kỷ nguyên AI",
@@ -151,6 +181,66 @@ window.newsData_2026_08_19 = {
       "category": "Tổng hợp",
       "published": "2026-08-19T01:22:05.961305+07:00",
       "fetched": "2026-08-19T01:22:05.961432+07:00"
+    },
+    {
+      "id": "d0e473f0a870570bb108a0cab24281ec",
+      "title": "Nhân viên ngân hàng chạy đua tìm khách gửi tiền",
+      "link": "https://vnexpress.net/nhan-vien-ngan-hang-chay-dua-tim-khach-gui-tien-5110600.html",
+      "summary": "Thu Hằng mỗi ngày phải mời chào vài chục khách gửi tiết kiệm, thậm chí bỏ tiền túi làm quà cảm ơn, nhưng nửa tháng mà chưa đạt 20% chỉ tiêu thử việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T18:17:13+07:00",
+      "fetched": "2026-08-19T03:12:09.513770+07:00"
+    },
+    {
+      "id": "d0e473f0a870570bb108a0cab24281ec",
+      "title": "Nhân viên ngân hàng chạy đua tìm khách gửi tiền",
+      "link": "https://vnexpress.net/nhan-vien-ngan-hang-chay-dua-tim-khach-gui-tien-5110600.html",
+      "summary": "Thu Hằng mỗi ngày phải mời chào vài chục khách gửi tiết kiệm, thậm chí bỏ tiền túi làm quà cảm ơn, nhưng nửa tháng mà chưa đạt 20% chỉ tiêu thử việc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-18T18:17:13+07:00",
+      "fetched": "2026-08-19T03:12:17.770124+07:00"
+    },
+    {
+      "id": "355da5d3eb380a8ba2d91046cc8bf5fc",
+      "title": "Nhiều thửa đất còn chưa đến một m2 sau mở đường vành đai 1 Hà Nội",
+      "link": "https://vnexpress.net/nhieu-thua-dat-con-chua-den-mot-m2-sau-mo-duong-vanh-dai-1-ha-noi-5110584.html",
+      "summary": "Sau mở rộng vành đai 1, UBND phường Láng rà soát còn 21 trường hợp nhà đất không đủ điều kiện mặt bằng xây dựng công trình, trong đó 4 thửa đất dưới một m2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T18:02:44+07:00",
+      "fetched": "2026-08-19T03:12:09.513962+07:00"
+    },
+    {
+      "id": "abaf25ebba4ce59c34a3754dee67537d",
+      "title": "Điều gì xảy ra với thận khi bạn ăn tỏi?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-than-khi-ban-an-toi-5109538.html",
+      "summary": "Tỏi giúp tăng hương vị tự nhiên mà không cần bổ sung natri cho món ăn, đặc tính chống viêm giúp giảm viêm, hỗ trợ lưu thông máu cho thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T18:00:00+07:00",
+      "fetched": "2026-08-19T03:12:09.514183+07:00"
+    },
+    {
+      "id": "e20280fba8199bef13fb63937522d20a",
+      "title": "Dấu hiệu bất thường ở móng tay cảnh báo bệnh",
+      "link": "https://vnexpress.net/dau-hieu-bat-thuong-o-mong-tay-canh-bao-benh-5109536.html",
+      "summary": "Suy giáp, ung thư phổi, các bệnh về da làm chậm quá trình trao đổi chất có thể khiến móng tay dễ nứt gãy, chuyển màu vàng, biến dạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T18:00:00+07:00",
+      "fetched": "2026-08-19T03:12:09.514350+07:00"
+    },
+    {
+      "id": "7b9eb91c3650571380c7780dc6ccf327",
+      "title": "Cúng 'cô hồn' thế nào cho đúng?",
+      "link": "https://vnexpress.net/cung-co-hon-the-nao-cho-dung-5107116.html",
+      "summary": "Theo nhà nghiên cứu văn hóa Phạm Đình Hải, cúng 'cô hồn' là nghi lễ mang tính công đức, nên thực hiện thông qua nhà chùa để đảm bảo ý nghĩa trọn vẹn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T17:42:06+07:00",
+      "fetched": "2026-08-19T03:12:09.514510+07:00"
     },
     {
       "id": "1475d828d53c74ac39d55bcf42128d5c",
