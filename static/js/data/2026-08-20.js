@@ -1,7 +1,27 @@
 window.newsData_2026_08_20 = {
   "date": "2026-08-20",
-  "lastUpdated": "2026-08-20T01:19:01.450194+07:00",
+  "lastUpdated": "2026-08-20T03:15:28.209241+07:00",
   "articles": [
+    {
+      "id": "d67296b9730dde4a5fcfb4827f1a23aa",
+      "title": "Thời tiết hôm nay 20-8: Áp thấp nhiệt đới hướng vào vịnh Bắc Bộ, cả nước mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-20-8-ap-thap-nhiet-doi-huong-vao-vinh-bac-bo-ca-nuoc-mua-to-100260819161428954.htm",
+      "summary": "Hôm nay 20-8, thời tiết chủ đạo trên cả nước là mưa dông, nhiều nơi mưa to đến rất to, chú ý các hinh thái thời tiết cực đoan đi kèm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T03:15:23.094163+07:00",
+      "fetched": "2026-08-20T03:15:23.094230+07:00"
+    },
+    {
+      "id": "6331a0ce681c4f38d54ae6f7cbc6f54b",
+      "title": "Bí ẩn tranh đá di sản thế giới ở Trung Quốc có lời giải gây bất ngờ",
+      "link": "https://tuoitre.vn/bi-an-tranh-da-di-san-the-gioi-o-trung-quoc-co-loi-giai-gay-bat-ngo-100260819155757497.htm",
+      "summary": "Làm thế nào những bức vẽ màu đỏ đặc biệt trên đá Hoa Sơn ở Quảng Tây, Trung Quốc có thể tồn tại trong tình trạng tốt suốt hàng ngàn năm?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T03:15:23.094008+07:00",
+      "fetched": "2026-08-20T03:15:23.094149+07:00"
+    },
     {
       "id": "0f3f20cd1c32d2e1790f3f4f9858940f",
       "title": "Fan Thái Lan: 'Cũng dẫn trước 2 bàn mà sao Việt Nam đá khác quá'",
@@ -151,6 +171,36 @@ window.newsData_2026_08_20 = {
       "category": "Tổng hợp",
       "published": "2026-08-20T01:18:56.322089+07:00",
       "fetched": "2026-08-20T01:18:56.322218+07:00"
+    },
+    {
+      "id": "9bc99efc481dd4d0ace3da6731140678",
+      "title": "Nguyễn Xuân Son lại khiến fan Đông Nam Á trầm trồ",
+      "link": "https://thanhnien.vn/nguyen-xuan-son-lai-khien-fan-dong-nam-a-tram-tro-185260820021414136.htm",
+      "summary": "Một lần nữa, Nguyễn Xuân Son trở thành tâm điểm của sự chú ý từ người hâm mộ bóng đá khu vực, sau màn trình diễn chói sáng trong màu áo đội tuyển Việt Nam ở bán kết lượt về ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T20:00:00+07:00",
+      "fetched": "2026-08-20T03:15:21.695020+07:00"
+    },
+    {
+      "id": "8c2895eab7e106eed8fd56e27a9d5723",
+      "title": "Ba nguyên tắc ăn uống hỗ trợ kiểm soát acid uric",
+      "link": "https://vnexpress.net/ba-nguyen-tac-an-uong-ho-tro-kiem-soat-acid-uric-5110460.html",
+      "summary": "Giảm thực phẩm giàu purin, hạn chế rượu bia, đồng thời tăng cường thực phẩm giàu chất xơ và vitamin C có thể hỗ trợ kiểm soát chỉ số acid uric.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T19:00:00+07:00",
+      "fetched": "2026-08-20T03:15:19.084448+07:00"
+    },
+    {
+      "id": "0e4a22984ce579f5c86d60683316a7ec",
+      "title": "Kết hôn rồi vẫn xem phim khiêu dâm có bất thường?",
+      "link": "https://vnexpress.net/ket-hon-roi-van-xem-phim-khieu-dam-co-bat-thuong-5110407.html",
+      "summary": "Tôi đã kết hôn nhưng vẫn xem phim khiêu dâm, như vậy có bất thường hay vấn đề tình dục không, thưa bác sĩ? (Vũ, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T18:10:00+07:00",
+      "fetched": "2026-08-20T03:15:19.084639+07:00"
     },
     {
       "id": "ca50835f268478c4efb0de5ab0d9e8cf",
@@ -641,6 +691,16 @@ window.newsData_2026_08_20 = {
       "category": "Thể thao",
       "published": "2026-08-19T11:30:00+07:00",
       "fetched": "2026-08-20T01:19:01.448120+07:00"
+    },
+    {
+      "id": "57238cfd95841778ca890c57a434b8ad",
+      "title": "Xuân Son lập cú đúp, Việt Nam vào chung kết ASEAN Cup",
+      "link": "https://vnexpress.net/ket-qua-viet-nam-vs-malaysia-5110973.html",
+      "summary": "Tiền đạo Nguyễn Xuân Son lập cú đúp trong hiệp hai, giúp Việt Nam hạ Malaysia 2-0 lượt về bán kết ASEAN Cup 2026, qua đó thắng chung cuộc 4-0 sau hai lượt trận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-19T11:30:00+07:00",
+      "fetched": "2026-08-20T03:15:28.205468+07:00"
     },
     {
       "id": "211f36f619d868b4ffda9a4e4abb057f",
