@@ -1,7 +1,157 @@
 window.newsData_2026_08_19 = {
   "date": "2026-08-19",
-  "lastUpdated": "2026-08-19T19:24:03.563007+07:00",
+  "lastUpdated": "2026-08-19T21:22:57.879496+07:00",
   "articles": [
+    {
+      "id": "be1b63f1f903e7451990507de0466dcb",
+      "title": "Shell nỗ lực thực hiện trách nhiệm mở rộng của nhà sản xuất tại Việt Nam",
+      "link": "https://tuoitre.vn/shell-no-luc-thuc-hien-trach-nhiem-mo-rong-cua-nha-san-xuat-tai-viet-nam-100260818131344754.htm",
+      "summary": "Trong bối cảnh Việt Nam thúc đẩy mô hình tăng trưởng xanh và kinh tế tuần hoàn, Trách nhiệm mở rộng của nhà sản xuất (EPR) đã trở thành chiến lược phát triển bền vững của các doanh nghiệp, thay vì đơn thuần là một cơ chế pháp lý cần tuân thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T21:22:47.257275+07:00",
+      "fetched": "2026-08-19T21:22:47.257372+07:00"
+    },
+    {
+      "id": "fa6db662794897c1e0c5edf41e275e07",
+      "title": "Mô hình cửa hàng trải nghiệm trong chiến lược mở rộng thương hiệu nhà bếp Thermomix tại Việt Nam",
+      "link": "https://tuoitre.vn/mo-hinh-cua-hang-trai-nghiem-trong-chien-luoc-mo-rong-thuong-hieu-nha-bep-thermomix-tai-viet-nam-100260819125750669.htm",
+      "summary": "Thay vì mở rộng thị trường bằng những điểm bán hàng, Tập đoàn Vorwerk phát triển mô hình đối tác ủy quyền bán lẻ, trong đó đối tác địa phương trực tiếp phát triển khách hàng, tổ chức trải nghiệm và từng bước xây dựng cộng đồng người dùng Thermomix tại khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T21:22:47.257182+07:00",
+      "fetched": "2026-08-19T21:22:47.257256+07:00"
+    },
+    {
+      "id": "8491d8d0184a654797636df50df3a6bc",
+      "title": "HIU khánh thành Cơ sở Đầm Sen: Đưa môi trường nghề nghiệp vào giảng đường",
+      "link": "https://tuoitre.vn/hiu-khanh-thanh-co-so-dam-sen-dua-moi-truong-nghe-nghiep-vao-giang-duong-100260819170046527.htm",
+      "summary": "Ngày 19-8, Trường đại học Quốc tế Hồng Bàng (HIU) chính thức khánh thành Cơ sở Đầm Sen tại 120 Hòa Bình, TP.HCM. Campus có quy mô gần 20.000 m², dành cho sinh viên khối Kinh tế - Quản trị, Công nghệ - Kỹ thuật và Khoa học Xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T21:22:47.257114+07:00",
+      "fetched": "2026-08-19T21:22:47.257172+07:00"
+    },
+    {
+      "id": "3caa8144abef6d6b9d042a720140df71",
+      "title": "3 người trong kênh TikTok 'Trí đi dọn' làm gì mà được chính quyền khen thưởng?",
+      "link": "https://tuoitre.vn/3-nguoi-trong-kenh-tiktok-tri-di-don-lam-gi-ma-duoc-chinh-quyen-khen-thuong-100260819180020534.htm",
+      "summary": "Sau giờ làm, thay vì nghỉ ngơi, anh Đỗ Quang Trí lại dành khoảng thời gian từ 17h đến 20h đi nhặt rác, làm sạch những \"điểm đen\" rác thải trên địa bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T21:22:47.257048+07:00",
+      "fetched": "2026-08-19T21:22:47.257104+07:00"
+    },
+    {
+      "id": "b3d2530df20284e357168e32f03d32b1",
+      "title": "Top 10 điểm đến trong nước, quốc tế được khách Việt tìm kiếm nhiều nhất dịp lễ 2-9",
+      "link": "https://tuoitre.vn/top-10-diem-den-trong-nuoc-quoc-te-duoc-khach-viet-tim-kiem-nhieu-nhat-dip-le-2-9-100260819174908588.htm",
+      "summary": "Dịp lễ 2-9, khách Việt thích các điểm đến gần, trải nghiệm cá nhân hóa. Bangkok (Thái Lan) dẫn đầu xu hướng tìm kiếm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T21:22:47.256979+07:00",
+      "fetched": "2026-08-19T21:22:47.257038+07:00"
+    },
+    {
+      "id": "31f0b82e15031af0df2c4e7246415a61",
+      "title": "Bắt 5 người giả bác sĩ, 'dọa' khách bệnh nặng để chiếm đoạt hàng tỉ đồng",
+      "link": "https://tuoitre.vn/bat-5-nguoi-gia-bac-si-doa-khach-benh-nang-de-chiem-doat-hang-ti-dong-1002608191909391.htm",
+      "summary": "Hai chủ spa cùng 3 người khác bị bắt tạm giam vì giả bác sĩ, cố tình phóng đại tình trạng bệnh để tạo lo lắng, dụ khách mua liệu trình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T21:22:47.256886+07:00",
+      "fetched": "2026-08-19T21:22:47.256967+07:00"
+    },
+    {
+      "id": "a456823bd3a58a1303724ea211200726",
+      "title": "Mở tivi xem Thảo My, Đan Lê, Thanh Hương và Diễm Hương đá bóng",
+      "link": "https://tuoitre.vn/mo-tivi-xem-thao-my-dan-le-thanh-huong-va-diem-huong-da-bong-100260819191133596.htm",
+      "summary": "Mở tivi xem phim Đội bóng nữ làng Xuân, khán giả sẽ gặp loạt cầu thủ không ngờ tới gồm Thảo My, Đan Lê, Thanh Hương, Diễm Hương, Liên Tít…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T21:22:47.256818+07:00",
+      "fetched": "2026-08-19T21:22:47.256876+07:00"
+    },
+    {
+      "id": "cbafa227a322ececb6b28bb400206b85",
+      "title": "TP.HCM: 100 doanh nghiệp chậm đóng BHXH hơn 869 tỉ đồng, có nơi nợ hơn 10 năm",
+      "link": "https://tuoitre.vn/tphcm-100-doanh-nghiep-cham-dong-bhxh-hon-869-ti-dong-co-noi-no-hon-10-nam-100260819184107835.htm",
+      "summary": "Bảo hiểm xã hội TP.HCM công bố 100 đơn vị chậm đóng bảo hiểm xã hội từ 6 tháng trở lên, với tổng số tiền hơn 869 tỉ đồng, ảnh hưởng quyền lợi của 10.750 người lao động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T21:22:47.256749+07:00",
+      "fetched": "2026-08-19T21:22:47.256808+07:00"
+    },
+    {
+      "id": "a80bfbae20631311865dec2992a02c53",
+      "title": "Quang Tuấn 'giữ chuỗi' phim kinh dị, đối đầu với Quách Ngọc Ngoan trong Huyết thống",
+      "link": "https://tuoitre.vn/quang-tuan-giu-chuoi-phim-kinh-di-doi-dau-voi-quach-ngoc-ngoan-trong-huyet-thong-100260819180007314.htm",
+      "summary": "Quang Tuấn tiếp tục góp mặt trong phim kinh dị Huyết thống, tái ngộ Quách Ngọc Ngoan trong câu chuyện về nghiệp báo và những lựa chọn để bảo vệ người mình thương yêu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T21:22:47.256672+07:00",
+      "fetched": "2026-08-19T21:22:47.256737+07:00"
+    },
+    {
+      "id": "14d3663ccb8abec9339f244ed6a0fa5b",
+      "title": "Tự nặn mụn trên cánh tay, phát hiện con giun rồng dài 20cm dưới da",
+      "link": "https://tuoitre.vn/tu-nan-mun-tren-canh-tay-phat-hien-con-giun-rong-dai-20cm-duoi-da-100260819182844568.htm",
+      "summary": "Ngày 19-8, Bệnh viện Đặng Văn Ngữ (Hà Nội) tiếp nhận bệnh nhân N.V.T. (49 tuổi, tỉnh Lào Cai) đến khám trong tình trạng có 2 vết tổn thương sâu trên cánh tay trái. Anh T. sau đó được xác định là bệnh nhân thứ 44 mắc giun rồng tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T21:22:47.256599+07:00",
+      "fetched": "2026-08-19T21:22:47.256661+07:00"
+    },
+    {
+      "id": "c285608fb8df3db3b7d2e18d093d02ba",
+      "title": "Cựu á quân Wimbledon bị đình chỉ thi đấu vì dương tính với cocaine",
+      "link": "https://tuoitre.vn/cuu-a-quan-wimbledon-bi-dinh-chi-thi-dau-vi-duong-tinh-voi-cocaine-100260819193203445.htm",
+      "summary": "VĐV quần vợt Nick Kyrgios (Úc) vừa bị đình chỉ thi đấu vô thời hạn sau khi kết quả xét nghiệm dương tính với cocaine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T21:22:47.256529+07:00",
+      "fetched": "2026-08-19T21:22:47.256589+07:00"
+    },
+    {
+      "id": "38b44ae2cac316bbb81cc1003361a14c",
+      "title": "TP Huế xác minh khu mộ tập thể khoảng 140 liệt sĩ dưới chân đèo Phước Tượng",
+      "link": "https://tuoitre.vn/tp-hue-xac-minh-khu-mo-tap-the-khoang-140-liet-si-duoi-chan-deo-phuoc-tuong-100260819192802957.htm",
+      "summary": "Lực lượng chức năng TP Huế gặp gỡ nhân chứng, người cao tuổi để xác minh thông tin về khu mộ tập thể được cho là có khoảng 140 liệt sĩ dưới chân đèo Phước Tượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T21:22:47.256456+07:00",
+      "fetched": "2026-08-19T21:22:47.256518+07:00"
+    },
+    {
+      "id": "0a57ed52d2eb440a8aaa757c83733fd2",
+      "title": "Những món quà đi hơn nghìn cây số",
+      "link": "https://tuoitre.vn/nhung-mon-qua-di-hon-nghin-cay-so-100260819171100584.htm",
+      "summary": "Mỗi lần ra Hà Nội công tác, người bạn của tôi thường mang theo vài món đặc sản miền Nam. Tôi đã nhiều lần bảo: 'Đi hội thảo đã lỉnh kỉnh tài liệu, lần sau em đừng mang gì nữa'. Em cười. Rồi lần sau, trên bàn vẫn có một túi quà nhỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T21:22:47.256380+07:00",
+      "fetched": "2026-08-19T21:22:47.256445+07:00"
+    },
+    {
+      "id": "12242ce3388fc2fdd15aee2dc9f11088",
+      "title": "Việt Nam là điểm đến ẩm thực số 1 thế giới",
+      "link": "https://tuoitre.vn/viet-nam-la-diem-den-am-thuc-so-1-the-gioi-100260819184041293.htm",
+      "summary": "Việt Nam đứng đầu hạng mục điểm đến ẩm thực trong NZ Herald Travel Readers’ Choice Awards 2026 bởi sự đa dạng vùng miền và hương vị đặc trưng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T21:22:47.256299+07:00",
+      "fetched": "2026-08-19T21:22:47.256368+07:00"
+    },
+    {
+      "id": "897324fbe4f6fef612998cb019962b4b",
+      "title": "Cảnh tượng hiếm gặp tại TP.HCM: Hàng trăm chim cổ rắn quý hiếm làm tổ, nuôi con ở Cần Giờ",
+      "link": "https://tuoitre.vn/canh-tuong-hiem-gap-tai-tphcm-hang-tram-chim-co-ran-quy-hiem-lam-to-nuoi-con-o-can-gio-100260819161144114.htm",
+      "summary": "Hàng trăm chim cổ rắn, loài thuộc nhóm IB động vật rừng nguy cấp, quý, hiếm, được ghi nhận làm hàng chục tổ, ấp trứng và nuôi con ở Cần Giờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T21:22:47.256138+07:00",
+      "fetched": "2026-08-19T21:22:47.256284+07:00"
+    },
     {
       "id": "0ef9841f5e7d65dcdbca62f274572e7f",
       "title": "Hơn 470 công trình nhận giải ‘Tuổi trẻ sáng tạo trong quân đội’",
@@ -453,6 +603,86 @@ window.newsData_2026_08_19 = {
       "fetched": "2026-08-19T15:23:51.817287+07:00"
     },
     {
+      "id": "dd52a8ec6c78e328c880f104991fae65",
+      "title": "Cổ động viên phủ đỏ phố đi bộ Nguyễn Huệ",
+      "link": "https://vnexpress.net/co-dong-vien-phu-do-pho-di-bo-nguyen-hue-5110994.html",
+      "summary": "Phố đi bộ Nguyễn Huệ ken đặc người hâm mộ trong sắc đỏ cờ Tổ quốc, cùng hò reo theo từng pha bóng của tuyển Việt Nam ở trận bán kết lượt về ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:59:05+07:00",
+      "fetched": "2026-08-19T21:22:41.663030+07:00"
+    },
+    {
+      "id": "5e57d602291d803ebd8dbc933a3e4db0",
+      "title": "Đề xuất ưu tiên tài sản mã hóa, tín chỉ carbon tại Trung tâm tài chính quốc tế",
+      "link": "https://vnexpress.net/de-xuat-uu-tien-tai-san-ma-hoa-tin-chi-carbon-tai-trung-tam-tai-chinh-quoc-te-5111000.html",
+      "summary": "Tài sản mã hóa, tín chỉ carbon và 4 nhóm dịch vụ khác được đề xuất triển khai sớm tại Trung tâm tài chính quốc tế TP HCM, Đà Nẵng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:54:25+07:00",
+      "fetched": "2026-08-19T21:22:41.663213+07:00"
+    },
+    {
+      "id": "5e57d602291d803ebd8dbc933a3e4db0",
+      "title": "Đề xuất ưu tiên tài sản mã hóa, tín chỉ carbon tại Trung tâm tài chính quốc tế",
+      "link": "https://vnexpress.net/de-xuat-uu-tien-tai-san-ma-hoa-tin-chi-carbon-tai-trung-tam-tai-chinh-quoc-te-5111000.html",
+      "summary": "Tài sản mã hóa, tín chỉ carbon và 4 nhóm dịch vụ khác được đề xuất triển khai sớm tại Trung tâm tài chính quốc tế TP HCM, Đà Nẵng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-19T13:54:25+07:00",
+      "fetched": "2026-08-19T21:22:51.245940+07:00"
+    },
+    {
+      "id": "5a5a7b6079390f7a9ea40a24e304e3a6",
+      "title": "Meta bắt đầu 'phiên tòa 1.400 tỷ USD'",
+      "link": "https://vnexpress.net/meta-bat-dau-phien-toa-1-400-ty-usd-5110720.html",
+      "summary": "Phiên tòa cáo buộc Meta tạo ứng dụng gây nghiện với trẻ em, bắt đầu từ ngày 18/8, dự kiến kéo dài 6 tuần và nếu thua ước tính sẽ phải bồi thường đến 1.400 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:54:20+07:00",
+      "fetched": "2026-08-19T21:22:41.663404+07:00"
+    },
+    {
+      "id": "bdfcf3530761904535d11eb67b73c61c",
+      "title": "Tầng đẩy tên lửa Trung Quốc lần đầu hạ cánh thành công trên đất liền",
+      "link": "https://vnexpress.net/tang-day-ten-lua-trung-quoc-lan-dau-ha-canh-thanh-cong-tren-dat-lien-5110969.html",
+      "summary": "Tầng một tên lửa Chu Tước-3 hạ cánh thẳng đứng tại Cam Túc ngày 19/8, đánh dấu bước tiến mới của Trung Quốc trong phát triển công nghệ tên lửa tái sử dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:42:54+07:00",
+      "fetched": "2026-08-19T21:22:41.663571+07:00"
+    },
+    {
+      "id": "b17912d68c1da5e99c46f1e23354640d",
+      "title": "Nước Đông Nam Á nào sắp phát tiền cho dân?",
+      "link": "https://vnexpress.net/nuoc-dong-nam-a-nao-sap-phat-tien-cho-dan-5110888.html",
+      "summary": "Nước này vừa quyết định phát cho mỗi người dân một khoản tiền mặt 310-470 USD. Bạn có biết đây là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:37:55+07:00",
+      "fetched": "2026-08-19T21:22:41.663742+07:00"
+    },
+    {
+      "id": "59b249be43fbb77b7d252658672dc82a",
+      "title": "Nghi phạm Ukraine thứ hai bị bắt trong vụ phá đường ống Nord Stream",
+      "link": "https://thanhnien.vn/nghi-pham-ukraine-thu-hai-bi-bat-trong-vu-pha-duong-ong-nord-stream-185260819193431122.htm",
+      "summary": "Một người đàn ông Ukraine đã bị bắt tại Croatia vào ngày 19.8 vì nghi ngờ tham gia vụ đánh bom các đường ống dẫn khí đốt Nord Stream nối giữa Nga và Đức vào năm 2022.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:29:00+07:00",
+      "fetched": "2026-08-19T21:22:45.070375+07:00"
+    },
+    {
+      "id": "23bca207c175ca613364c545029985f3",
+      "title": "3 ngày sau động đất Indonesia, cụ bà 84 tuổi bị liệt được tìm thấy còn sống",
+      "link": "https://thanhnien.vn/3-ngay-sau-dong-dat-indonesia-cu-ba-84-tuoi-bi-liet-duoc-tim-thay-con-song-185260819195722988.htm",
+      "summary": "Một cụ bà 84 tuổi bị liệt đã được đội cứu hộ Indonesia tìm thấy còn sống, 3 ngày sau trận động đất mạnh san phẳng ngôi nhà của bà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:28:00+07:00",
+      "fetched": "2026-08-19T21:22:45.070545+07:00"
+    },
+    {
       "id": "bc2029a20557ad91370763f12b8f16aa",
       "title": "Cuộc đua dữ liệu AI và những cuốn sách hiếm bị tiêu hủy",
       "link": "https://tuoitre.vn/cuoc-dua-du-lieu-ai-va-nhung-cuon-sach-hiem-bi-tieu-huy-100260819104152344.htm",
@@ -603,6 +833,226 @@ window.newsData_2026_08_19 = {
       "fetched": "2026-08-19T13:25:53.070480+07:00"
     },
     {
+      "id": "1a5fd0db6788dceef2e813ab94a89b07",
+      "title": "Con trai 16 tuổi cao gần 1,9 m của Ronaldo",
+      "link": "https://vnexpress.net/con-trai-16-tuoi-cao-gan-1-9-m-cua-ronaldo-5110224.html",
+      "summary": "Cristiano Jr - con trai cả của siêu sao bóng đá Ronaldo - gây chú ý với khán giả khi bước vào tuổi teen.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:23:31+07:00",
+      "fetched": "2026-08-19T21:22:41.663902+07:00"
+    },
+    {
+      "id": "f2f7608cbfbfd8bc3d93b897bf4f5bf3",
+      "title": "Người đàn ông biết trân trọng gia đình tìm người thương",
+      "link": "https://vnexpress.net/nguoi-dan-ong-biet-tran-trong-gia-dinh-tim-nguoi-thuong-5110706.html",
+      "summary": "Anh tin rằng một mối quan hệ bền lâu không cần quá nhiều lời ngọt ngào, mà cần sự tôn trọng, tin tưởng và đồng hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:22:16+07:00",
+      "fetched": "2026-08-19T21:22:41.664138+07:00"
+    },
+    {
+      "id": "0e9fba1fc4696f26d12d0a2b0da25359",
+      "title": "Trong 8 tỷ người, liệu chúng ta có duyên gặp nhau?",
+      "link": "https://vnexpress.net/trong-8-ty-nguoi-lieu-chung-ta-co-duyen-gap-nhau-5110705.html",
+      "summary": "Chào anh, em hay lên chùa cầu bình an, như ý và cầu mong mau chóng gặp được nửa kia của đời mình. Anh có giống em không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:20:02+07:00",
+      "fetched": "2026-08-19T21:22:41.664307+07:00"
+    },
+    {
+      "id": "1c76e7a28d1c941b18efe5d621a8dc47",
+      "title": "Giá vàng, bạc tăng vọt trong phiên giao dịch Mỹ",
+      "link": "https://thanhnien.vn/gia-vang-bac-tang-vot-trong-phien-giao-dich-my-185260819201137046.htm",
+      "summary": "Giá vàng thế giới tăng vọt trong phiên giao dịch Mỹ (đêm 19.8) khi thêm 80 USD mỗi ounce, nâng mức tăng trong ngày lên 106 USD và đạt 4.437 USD/ounce.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:20:00+07:00",
+      "fetched": "2026-08-19T21:22:45.070703+07:00"
+    },
+    {
+      "id": "883184949dde90b4064946a4324e3a4d",
+      "title": "Mong em ưa nhìn, vui vẻ, biết quan tâm",
+      "link": "https://vnexpress.net/mong-em-ua-nhin-vui-ve-biet-quan-tam-5109005.html",
+      "summary": "Anh sống tích cực, cầu tiến, thích học hỏi và luôn cố gắng phát triển bản thân mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:18:39+07:00",
+      "fetched": "2026-08-19T21:22:41.664471+07:00"
+    },
+    {
+      "id": "86683eec0b1e45414ab33c5c023e462f",
+      "title": "Vừa là bạn đời vừa là tri kỷ của nhau, anh nhé",
+      "link": "https://vnexpress.net/vua-la-ban-doi-vua-la-tri-ky-cua-nhau-anh-nhe-5109006.html",
+      "summary": "Mong anh tốt bụng, dễ gần, đạo đức tốt, không vướng tệ nạn xã hội, để em có thể học hỏi được, thêm khâm phục những phẩm chất của anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:18:22+07:00",
+      "fetched": "2026-08-19T21:22:41.664629+07:00"
+    },
+    {
+      "id": "6e285d39736a3837613d143534025242",
+      "title": "Xúc động phút mặc niệm tưởng nhớ HLV Phan Thanh Hùng trước bán kết Việt Nam - Malaysia",
+      "link": "https://thanhnien.vn/xuc-dong-phut-mac-niem-tuong-nho-hlv-phan-thanh-hung-truoc-ban-ket-viet-nam-malaysia-185260819201550408.htm",
+      "summary": "Trước trận bán kết lượt về ASEAN Cup 2026 với Malaysia tối 19.8, đội tuyển Việt Nam dành 1 phút mặc niệm tưởng nhớ HLV Phan Thanh Hùng - người đã có hơn 30 năm cống hiến cho bóng đá Việt Nam trên nhiều cương vị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:16:00+07:00",
+      "fetched": "2026-08-19T21:22:45.070857+07:00"
+    },
+    {
+      "id": "721a1eca107bdeed71a7d95c23b3ac8d",
+      "title": "Kết quả xổ số Vietlott Mega 6/45 tối 19.8, giải độc đắc tăng 24,5 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-mega-6-45-toi-198-giai-doc-dac-tang-245-ti-dong-185260819194507893.htm",
+      "summary": "Tối 19.8, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45 và ghi nhận không có người trúng giải độc đắc nên số tiền cộng dồn là 24,5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:11:00+07:00",
+      "fetched": "2026-08-19T21:22:45.071037+07:00"
+    },
+    {
+      "id": "14203c02fc07a7cf7fd541c32e979120",
+      "title": "Lý do Vi Thị Như Quỳnh bất ngờ không tham dự giải bóng chuyền châu Á 2026",
+      "link": "https://thanhnien.vn/ly-do-vi-thi-nhu-quynh-bat-ngo-khong-tham-du-giai-bong-chuyen-chau-a-2026-185260819200443627.htm",
+      "summary": "Đội tuyển bóng chuyền nữ Việt Nam biến động lực lượng khi chủ công Vi Thị Như Quỳnh không thể đến Trung Quốc tham dự giải vô địch châu Á vào giờ chót.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:09:00+07:00",
+      "fetched": "2026-08-19T21:22:45.071194+07:00"
+    },
+    {
+      "id": "c7033a039cf261dd03eb8ba5de7e6947",
+      "title": "Tình cũ của chồng xinh đẹp và biết ăn mặc khiến tôi luôn bất an",
+      "link": "https://vnexpress.net/tinh-cu-cua-chong-xinh-dep-va-biet-an-mac-khien-toi-luon-bat-an-5110832.html",
+      "summary": "Từ ngày mang thai, cơ thể thay đổi, tôi càng cảm thấy mình kém tự tin hơn so với tình cũ của chồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:00:00+07:00",
+      "fetched": "2026-08-19T21:22:41.664789+07:00"
+    },
+    {
+      "id": "89641ec5fa608dd7d5d6385d89f9a651",
+      "title": "'Chi chục triệu đồng một khóa sử dụng AI nhưng học xong chẳng nhớ gì'",
+      "link": "https://vnexpress.net/mat-viec-vi-ai-chuc-trieu-dong-mot-khoa-su-dung-ai-nhung-hoc-xong-chang-nho-gi-5110863.html",
+      "summary": "Vài tháng sau khi nhận chứng chỉ, trong đầu bạn tôi không còn gì cả, mấy prompt mẫu quên sạch, quay về dùng AI đúng như trước khi đi học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:00:00+07:00",
+      "fetched": "2026-08-19T21:22:41.664967+07:00"
+    },
+    {
+      "id": "f513c33eebeadce02bd3b91961abba71",
+      "title": "VNPT đơn giản hóa quy trình hợp đồng lao động điện tử",
+      "link": "https://vnexpress.net/vnpt-don-gian-hoa-quy-trinh-hop-dong-lao-dong-dien-tu-5110916.html",
+      "summary": "VNPT hướng tới cung cấp giải pháp hợp đồng lao động điện tử theo mô hình toàn trình, từ dữ liệu của hệ thống quản trị nhân sự đến xác thực, ký kết, chứng thực, truyền nhận và lưu trữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:00:00+07:00",
+      "fetched": "2026-08-19T21:22:41.665130+07:00"
+    },
+    {
+      "id": "11cfcf5326cebb8f46ba3f76d294e2c3",
+      "title": "Cựu học sinh VAS làm nghiên cứu sinh tiến sĩ vũ trụ tại Mỹ",
+      "link": "https://vnexpress.net/cuu-hoc-sinh-vas-lam-nghien-cuu-sinh-tien-si-vu-tru-tai-my-5109207.html",
+      "summary": "Lê Thu Minh, cựu học sinh Trường Quốc tế Việt Úc (VAS) là nghiên cứu sinh tiến sĩ tại Đại học Johns Hopkins, với dự án tác động của tiểu hành tinh từ nguồn tài trợ chương trình Finesst của NASA.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:00:00+07:00",
+      "fetched": "2026-08-19T21:22:41.665287+07:00"
+    },
+    {
+      "id": "3c1090655ded1a5355605350f40a1a52",
+      "title": "Xem nhanh 20h ngày 19.8: Cựu giám đốc ngân hàng rủ bồ nhí ‘phê’ ma túy | Đề xuất nâng ngưỡng kê khai thuế lên 10 tỉ",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-198-cuu-giam-doc-ngan-hang-ru-bo-nhi-phe-ma-tuy-de-xuat-nang-nguong-ke-khai-thue-len-10-ti-185260819182549718.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 19.8 có nhiều tin tức đáng chú ý về: Chuyên án VN10: Cựu giám đốc ngân hàng rủ rê bồ nhí ‘phê’ ma túy; đề xuất nâng ngưỡng kê khai thuế lên 10 tỉ;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:00:00+07:00",
+      "fetched": "2026-08-19T21:22:45.071345+07:00"
+    },
+    {
+      "id": "c8491ceb094cf29ad165f6a18bf11501",
+      "title": "Muốn mặt thon, thần thái xịn không thể bỏ qua những chiếc kính mát hè",
+      "link": "https://thanhnien.vn/thoi-trang-tre/muon-mat-thon-than-thai-xin-khong-the-bo-qua-nhung-chiec-kinh-mat-he-185260819162125076.htm",
+      "summary": "Kính mát là phụ kiện thời trang được yêu thích nhờ khả năng tôn gương mặt và thể hiện tuyên ngôn cá nhân đầy cá tính cho người sử dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:00:00+07:00",
+      "fetched": "2026-08-19T21:22:45.071496+07:00"
+    },
+    {
+      "id": "a445923f071814e542df23c332d1f35e",
+      "title": "Bác sĩ ơi: Kiêng đậu nành, nhịn ăn có chữa được u tuyến giáp!",
+      "link": "https://thanhnien.vn/bac-si-oi-kieng-dau-nanh-nhin-an-co-chua-duoc-u-tuyen-giap-185260818193627305.htm",
+      "summary": "U tuyến giáp thường diễn tiến khá âm thầm, gây hoang mang cho người bệnh. Việc tự chẩn đoán thông qua sờ nắn vùng cổ hay áp dụng các mẹo truyền miệng như nhịn ăn, kiêng đậu nành… không hoàn toàn mang lại hiệu quả điều trị cao. Thậm chí có thể dẫn đến những lầm tưởng tai hại, gây ảnh hưởng nghiêm trọ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T13:00:00+07:00",
+      "fetched": "2026-08-19T21:22:45.071656+07:00"
+    },
+    {
+      "id": "e0e1e00b4d7e7616b6cd470d8e7dfed3",
+      "title": "42 hài cốt liệt sĩ được tìm thấy trong vườn dừa ở Đồng Tháp",
+      "link": "https://vnexpress.net/42-hai-cot-liet-si-duoc-tim-thay-trong-vuon-dua-o-dong-thap-5110989.html",
+      "summary": "Đội K91 phát hiện 42 hài cốt liệt sĩ trong vườn dừa rộng khoảng 2.500 m2 ở xã Tân Thành, cùng nhiều di vật như bình tông, bao súng ngắn, lọ thuốc penicillin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T12:55:58+07:00",
+      "fetched": "2026-08-19T21:22:41.665448+07:00"
+    },
+    {
+      "id": "5f7be6c200282bd68bbba84b81f51d1d",
+      "title": "Vũ Mạnh Cường nói gì khi dẫn ‘Tổ quốc trong tim’ trước 40.000 khán giả?",
+      "link": "https://thanhnien.vn/vu-manh-cuong-noi-gi-khi-dan-to-quoc-trong-tim-truoc-40000-khan-gia-185260819172759765.htm",
+      "summary": "Trước thềm concert 'Tổ quốc trong tim', MC Vũ Mạnh Cường cho biết anh xem việc đồng hành cùng chương trình là dịp gửi gắm tình yêu quê hương, đất nước qua góc nhìn của người làm nghề gắn bó với ngôn từ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T12:46:00+07:00",
+      "fetched": "2026-08-19T21:22:45.071805+07:00"
+    },
+    {
+      "id": "eb055f4f9a2c103f03b1fff203ca4d45",
+      "title": "Ra mắt Chi hội Bệnh viện Tư nhân TP.HCM và các tỉnh, thành phía nam",
+      "link": "https://thanhnien.vn/ra-mat-chi-hoi-benh-vien-tu-nhan-tphcm-va-cac-tinh-thanh-phia-nam-1852608192012174.htm",
+      "summary": "Ngày 19.8, Hiệp hội Bệnh viện Tư nhân Việt Nam chính thức tổ chức Hội nghị lần thứ nhất và Lễ ra mắt Ban Chấp hành Chi hội Bệnh viện Tư nhân TP.HCM và các tỉnh, thành phía nam nhiệm kỳ 2026 - 2029.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T12:44:00+07:00",
+      "fetched": "2026-08-19T21:22:45.071977+07:00"
+    },
+    {
+      "id": "0cef0210b4dd8d838a626a29f42a211b",
+      "title": "Google định chuyển sản xuất điện thoại Pixel ra khỏi Trung Quốc?",
+      "link": "https://thanhnien.vn/google-dinh-chuyen-san-xuat-dien-thoai-pixel-ra-khoi-trung-quoc-185260819094147578.htm",
+      "summary": "Việt Nam có thể tiếp tục hưởng lợi khi Google dự kiến đưa sản xuất Pixel khỏi Trung Quốc, theo mô hình Samsung từng triển khai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T12:41:00+07:00",
+      "fetched": "2026-08-19T21:22:45.072128+07:00"
+    },
+    {
+      "id": "139c1eb0a38f96f3702120e7568fc008",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm làm việc với Bộ VH-TT-DL về bảo tồn, bảo tàng",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-lam-viec-voi-bo-vh-tt-dl-ve-bao-ton-bao-tang-185260819192358904.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước đề nghị, phải khắc phục những khoảng trống trong việc lưu giữ lịch sử Việt Nam từ khi đất nước giành độc lập đến nay, nhất là lịch sử của quá trình kiến thiết, phát triển và biến đổi xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T12:38:00+07:00",
+      "fetched": "2026-08-19T21:22:45.072276+07:00"
+    },
+    {
+      "id": "aa1f5a25529f08b07f011914bc99cedc",
+      "title": "34 tỉnh, thành phố mưa lớn dồn dập, Hà Tĩnh có mưa 234 mm",
+      "link": "https://thanhnien.vn/34-tinh-thanh-pho-mua-lon-don-dap-ha-tinh-co-mua-234-mm-185260819191413012.htm",
+      "summary": "Dữ liệu quan trắc trên Hệ thống đo mưa chuyên dùng (Vrain) ghi nhận lượng mưa đang gia tăng dồn dập ở 34 tỉnh, thành phố. Riêng tại Hà Tĩnh đã ghi nhận 1 trạm đo có tổng lượng mưa lớn nhất lên tới 234 mm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T12:26:00+07:00",
+      "fetched": "2026-08-19T21:22:45.072433+07:00"
+    },
+    {
       "id": "7493a1786ccb085ab145643fdeaccb08",
       "title": "Nghi lễ xá tội vong nhân tháng 7 âm lịch: Hàng trăm người ôm bài vị qua cầu",
       "link": "https://thanhnien.vn/nghi-le-xa-toi-vong-nhan-thang-7-am-lich-hang-tram-nguoi-om-bai-vi-qua-cau-185260819175853764.htm",
@@ -611,6 +1061,16 @@ window.newsData_2026_08_19 = {
       "category": "Tổng hợp",
       "published": "2026-08-19T12:19:00+07:00",
       "fetched": "2026-08-19T19:23:55.717488+07:00"
+    },
+    {
+      "id": "c35829a7376e8d98a792da57586c71a7",
+      "title": "Man Utd sắp đạt thỏa thuận mua Baleba",
+      "link": "https://vnexpress.net/man-utd-sap-dat-thoa-thuan-mua-baleba-5110988.html",
+      "summary": "Man Utd đang tiến gần thỏa thuận chiêu mộ tiền vệ Carlos Baleba từ Brighton, sau khi gửi đề nghị tổng cộng 88 triệu USD.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-19T12:03:10+07:00",
+      "fetched": "2026-08-19T21:22:57.865739+07:00"
     },
     {
       "id": "b2728b1b3f9254fe763dd6bc1a78574e",
