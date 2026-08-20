@@ -1,7 +1,157 @@
 window.newsData_2026_08_20 = {
   "date": "2026-08-20",
-  "lastUpdated": "2026-08-20T13:27:32.373584+07:00",
+  "lastUpdated": "2026-08-20T15:25:19.040951+07:00",
   "articles": [
+    {
+      "id": "9671273434235f07266dbde79446abe4",
+      "title": "Hành hung người đi đường, người đàn ông còn thách thức 'quay thoải mái đi em ơi, mặt đây này'",
+      "link": "https://tuoitre.vn/hanh-hung-nguoi-di-duong-nguoi-dan-ong-con-thach-thuc-quay-thoai-mai-di-em-oi-mat-day-nay-10026082012320522.htm",
+      "summary": "Khi xuống xe, người đàn ông xăm trổ đã lao vào hành hung, đấm nam thanh niên đi xe máy nhiều lần vào khu vực đầu và trán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:25:09.895222+07:00",
+      "fetched": "2026-08-20T15:25:09.895277+07:00"
+    },
+    {
+      "id": "0a4a42c0fdd307e66a63e95b1ac059d7",
+      "title": "Nhờ bức ảnh trên mạng, gia đình tìm thấy phần mộ liệt sĩ sau 53 năm",
+      "link": "https://tuoitre.vn/nho-buc-anh-tren-mang-gia-dinh-tim-thay-phan-mo-liet-si-sau-53-nam-100260820122753731.htm",
+      "summary": "Gia đình liệt sĩ La Phúc Châu đã tìm thấy phần mộ của ông tại Nghĩa trang liệt sĩ Triệu Nguyên sau 53 năm, nhờ bức ảnh bia mộ liệt sĩ đăng trên mạng xã hội để tìm thân nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:25:09.895155+07:00",
+      "fetched": "2026-08-20T15:25:09.895212+07:00"
+    },
+    {
+      "id": "e95d55acf55b5e3931fc7e1279d7aafa",
+      "title": "Xuân Son, Đình Bắc, Văn Vĩ được xóa thẻ sau bán kết ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/xuan-son-dinh-bac-van-vi-duoc-xoa-the-sau-ban-ket-asean-cup-2026-100260820124112427.htm",
+      "summary": "Những tấm thẻ vàng của Xuân Son, Đình Bắc và Văn Vĩ ở bán kết ASEAN Cup 2026 sẽ không bị tích lũy, cộng dồn vào hai lượt chung kết như lo lắng của người hâm mộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:25:09.895080+07:00",
+      "fetched": "2026-08-20T15:25:09.895144+07:00"
+    },
+    {
+      "id": "dbf18186e10b6dc5d064c4cec68fd74f",
+      "title": "Bắt người đàn ông bỏ trốn sau khi gây tai nạn khiến cụ bà 71 tuổi tử vong",
+      "link": "https://tuoitre.vn/bat-nguoi-dan-ong-bo-tron-sau-khi-gay-tai-nan-khien-cu-ba-71-tuoi-tu-vong-100260820123814338.htm",
+      "summary": "Sau khi gây tai nạn khiến bà P. (71 tuổi) bị thương nặng và tử vong tại bệnh viện, Phạm Văn Phương đã rời khỏi hiện trường nhưng đã bị công an truy tìm, bắt được.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:25:09.894992+07:00",
+      "fetched": "2026-08-20T15:25:09.895068+07:00"
+    },
+    {
+      "id": "2f101df65058ee7d3fa2a185199b03cd",
+      "title": "VETC và ePass tạm dừng thu phí: Liệu có bắt tay cùng làm giá, vi phạm Luật Cạnh tranh?",
+      "link": "https://tuoitre.vn/vetc-va-epass-tam-dung-thu-phi-lieu-co-bat-tay-cung-lam-gia-vi-pham-luat-canh-tranh-100260820122849125.htm",
+      "summary": "Liệu có hay không hành vi cạnh tranh không lành mạnh và bắt tay làm giá của những đơn vị thống lĩnh thị trường khi cả VETC và ePass cùng công bố và tạm dừng thu phí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:25:09.894926+07:00",
+      "fetched": "2026-08-20T15:25:09.894981+07:00"
+    },
+    {
+      "id": "e624ddb32c88b9d31cabddfd9dbcfa11",
+      "title": "Thứ trưởng Bộ Y tế: Không nhất thiết thêm 100 bệnh viện tư, chỉ cần 10 bệnh viện chất lượng",
+      "link": "https://tuoitre.vn/thu-truong-bo-y-te-khong-nhat-thiet-them-100-benh-vien-tu-chi-can-10-benh-vien-chat-luong-100260820114303002.htm",
+      "summary": "Thứ trưởng Bộ Y tế Đỗ Xuân Tuyên cho rằng phát triển y tế tư nhân, y tế ngoài công lập phải chuyển mạnh từ mở rộng quy mô sang nâng cao chất lượng, không chạy theo số lượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:25:09.894856+07:00",
+      "fetched": "2026-08-20T15:25:09.894916+07:00"
+    },
+    {
+      "id": "a511b32c95e7406f6b454e442d17e65e",
+      "title": "Một ứng dụng Việt bất ngờ vươn lên số 1 kho ứng dụng của Google và Apple",
+      "link": "https://tuoitre.vn/mot-ung-dung-viet-bat-ngo-vuon-len-so-1-kho-ung-dung-cua-google-va-apple-100260819164945143.htm",
+      "summary": "Ứng dụng của Việt Nam có tên Tammi bất ngờ vượt qua nhiều tên tuổi lớn để giữ vị trí Top 1 lượt tải về trong bảng xếp hạng ứng dụng miễn phí trên cả hai kho ứng dụng App Store (iOS) và Google Play (Android) tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:25:09.894789+07:00",
+      "fetched": "2026-08-20T15:25:09.894845+07:00"
+    },
+    {
+      "id": "b9667bd62924b9b3682d193b58cfcc8c",
+      "title": "Livestream không còn là nghề 'bật máy lên là bán'",
+      "link": "https://tuoitre.vn/livestream-khong-con-la-nghe-bat-may-len-la-ban-100260819215916483.htm",
+      "summary": "Khi người đứng trước camera có thể tác động trực tiếp đến quyết định mua hàng của hàng nghìn người, KOL, KOC không còn có thể 'nói gì cũng được', mà phải hiểu sản phẩm, hiểu người tiêu dùng và hiểu cả pháp luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:25:09.894719+07:00",
+      "fetched": "2026-08-20T15:25:09.894779+07:00"
+    },
+    {
+      "id": "9fa28700b4b882c7bd83814d3fa3f090",
+      "title": "Phụ huynh cần kiểm tra ngay giá trị thẻ bảo hiểm y tế của con",
+      "link": "https://tuoitre.vn/phu-huynh-can-kiem-tra-ngay-gia-tri-the-bao-hiem-y-te-cua-con-100260820124648947.htm",
+      "summary": "Bảo hiểm xã hội Việt Nam khuyến nghị phụ huynh, học sinh, sinh viên chủ động kiểm tra giá trị sử dụng thẻ bảo hiểm y tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:25:09.894655+07:00",
+      "fetched": "2026-08-20T15:25:09.894709+07:00"
+    },
+    {
+      "id": "6bfa65e4d52bc267df52564bfa3c40e2",
+      "title": "Con gái duy nhất của nhà cách mạng Nguyễn Thị Minh Khai mong xác minh nơi chôn cất mẹ",
+      "link": "https://tuoitre.vn/con-gai-duy-nhat-cua-nha-cach-mang-nguyen-thi-minh-khai-mong-xac-minh-noi-chon-cat-me-100260820123824932.htm",
+      "summary": "Bà Lê Nguyễn Hồng Minh, con gái duy nhất của cố Tổng Bí thư Lê Hồng Phong và nhà cách mạng Nguyễn Thị Minh Khai đã viết đơn mong các cơ quan chức năng xác minh vị trí chôn cất người mẹ liệt sĩ anh hùng theo các tư liệu lịch sử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:25:09.894587+07:00",
+      "fetched": "2026-08-20T15:25:09.894644+07:00"
+    },
+    {
+      "id": "2f973cc1d8d853d8fe4f26a7e4f053cb",
+      "title": "Nhiều trường đại học cảnh báo tân sinh viên: Coi chừng 'thông báo khẩn' lừa đóng học phí",
+      "link": "https://tuoitre.vn/nhieu-truong-dai-hoc-canh-bao-tan-sinh-vien-coi-chung-thong-bao-khan-lua-dong-hoc-phi-100260820104207768.htm",
+      "summary": "Nhiều trường đại học cảnh báo kẻ xấu đang mạo danh nhà trường, gửi email, tin nhắn 'khẩn', đường link lạ để dụ tân sinh viên, phụ huynh chuyển học phí hoặc cung cấp thông tin cá nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:25:09.894520+07:00",
+      "fetched": "2026-08-20T15:25:09.894577+07:00"
+    },
+    {
+      "id": "8f024e9ffbd735c4c0ca5d12ac9aae00",
+      "title": "Xuân Son và ký ức khó quên trước Thái Lan",
+      "link": "https://tuoitre.vn/xuan-son-va-ky-uc-kho-quen-truoc-thai-lan-10026082013264994.htm",
+      "summary": "Ký ức khó quên trên sân Rajamangala ở chung kết lượt về ASEAN Cup 2024 sẽ càng khiến Nguyễn Xuân Son mạnh mẽ hơn, hướng đến chung kết lượt đi ASEAN Cup 2026 sắp tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:25:09.894452+07:00",
+      "fetched": "2026-08-20T15:25:09.894510+07:00"
+    },
+    {
+      "id": "c03e86cae6f5e6586fddbcfe04628f69",
+      "title": "Khoảng 10 năm có 1 trận dịch: Chống dịch không phải xây thêm bệnh viện, cần chủ động ứng phó",
+      "link": "https://tuoitre.vn/khoang-10-nam-co-1-tran-dich-chong-dich-khong-phai-xay-them-benh-vien-can-chu-dong-ung-pho-100260820131258459.htm",
+      "summary": "Chủ tịch Hội Truyền nhiễm TP.HCM Nguyễn Văn Vĩnh Châu nhấn mạnh ngành y tế cần chủ động ứng phó dịch bệnh, khi đây không phải là sự kiện hiếm gặp mà đã trở thành các mối đe dọa lặp đi lặp lại, với khoảng 10 năm 1 trận dịch, 100 năm 1 đại dịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:25:09.894379+07:00",
+      "fetched": "2026-08-20T15:25:09.894441+07:00"
+    },
+    {
+      "id": "daebdb26b5e01a801cdd333fb9ba7f89",
+      "title": "Ngắm con đường ven biển đẹp nhất Quảng Ngãi",
+      "link": "https://tuoitre.vn/ngam-con-duong-ven-bien-dep-nhat-quang-ngai-100260820131052712.htm",
+      "summary": "Từ trên cao, tuyến đường ven biển Dung Quất - Sa Huỳnh, tỉnh Quảng Ngãi hiện lên giữa những cồn cát trắng, rừng dương xanh và vùng sản xuất nông nghiệp ở phía đông quốc lộ 1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:25:09.894296+07:00",
+      "fetched": "2026-08-20T15:25:09.894367+07:00"
+    },
+    {
+      "id": "8f1c8ed6aabf7764879dba1c358d2c87",
+      "title": "Sân Rajamangala mang đến nhiều ký ức đẹp với bóng đá Việt Nam",
+      "link": "https://tuoitre.vn/san-rajamangala-mang-den-nhieu-ky-uc-dep-voi-bong-da-viet-nam-100260820133319112.htm",
+      "summary": "Trước thềm trận đại chiến tranh ngôi vương ASEAN Cup 2026 với chủ nhà Thái Lan vào ngày 22-8, sân Rajamangala được biết đến là nơi gắn liền với những thời khắc đáng nhớ của bóng đá Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:25:09.894139+07:00",
+      "fetched": "2026-08-20T15:25:09.894281+07:00"
+    },
     {
       "id": "84eacb22c3d7a161be8d7bd37de0406f",
       "title": "Khởi tố, bắt tạm giam người đạp ngã chồng cũ của bạn gái xuống đường",
@@ -453,6 +603,326 @@ window.newsData_2026_08_20 = {
       "fetched": "2026-08-20T09:48:13.806171+07:00"
     },
     {
+      "id": "882469e9a614d6df8c99058ce4a426f9",
+      "title": "Bamboo Airways bị hủy chuyến: Ủy ban Cạnh tranh Quốc gia khuyến cáo hành khách",
+      "link": "https://thanhnien.vn/bamboo-airways-bi-huy-chuyen-uy-ban-canh-tranh-quoc-gia-khuyen-cao-hanh-khach-185260820145915331.htm",
+      "summary": "Ủy ban Cạnh tranh Quốc gia vừa đưa ra khuyến cáo đối với hành khách có chuyến bay của Bamboo Airways bị hủy nhưng đang gặp vướng mắc trong quá trình hoàn tiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:21:00+07:00",
+      "fetched": "2026-08-20T15:25:07.706087+07:00"
+    },
+    {
+      "id": "28fb19e62ca092474e5f018688f90628",
+      "title": "Những thiết bị Xiaomi nhận được hiệu ứng kính mờ độc đáo trên HyperOS 4",
+      "link": "https://thanhnien.vn/nhung-thiet-bi-xiaomi-nhan-duoc-hieu-ung-kinh-mo-doc-dao-tren-hyperos-4-185260820104722795.htm",
+      "summary": "Giao diện HyperOS 4 sắp tới sẽ bổ sung hiệu ứng đồ họa cao cấp Soft Light Glass dành riêng cho các thiết bị Xiaomi đủ chuẩn phần cứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:21:00+07:00",
+      "fetched": "2026-08-20T15:25:07.706261+07:00"
+    },
+    {
+      "id": "9a5d836d7fef8cc3ed940ee1a4f55313",
+      "title": "Cùng 6 lần vào chung kết ASEAN Cup như Indonesia, Việt Nam đã 3 lần vô địch…",
+      "link": "https://thanhnien.vn/cung-6-lan-vao-chung-ket-asean-cup-nhu-indonesia-viet-nam-da-3-lan-vo-dich-18526082015174539.htm",
+      "summary": "Báo Indonesia chỉ trích bóng đá nước này khi cứ tỏ ra xem thường giải khu vực, để rồi nay chứng kiến đội tuyển Việt Nam đã cân bằng kỷ lục 6 lần vào chung kết ASEAN Cup, nhưng đã có 3 lần vô địch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:20:00+07:00",
+      "fetched": "2026-08-20T15:25:07.706420+07:00"
+    },
+    {
+      "id": "3e240f7580a0cfb452fe02e9fcd1152f",
+      "title": "Xử phạt lãnh đạo mua chui cổ phiếu và cá nhân thao túng giá",
+      "link": "https://thanhnien.vn/xu-phat-lanh-dao-mua-chui-co-phieu-va-ca-nhan-thao-tung-gia-18526082009453788.htm",
+      "summary": "Ủy ban Chứng khoán Nhà nước liên tiếp công bố xử phạt lãnh đạo mua chui cổ phiếu cũng như cá nhân thao túng giá chứng khoán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:20:00+07:00",
+      "fetched": "2026-08-20T15:25:07.706573+07:00"
+    },
+    {
+      "id": "429f86dfa544dbddaf6fee2a8cb6ef46",
+      "title": "'Cô tiên từ thiện' Trúc Phương khai dùng ma túy vì 'buồn chuyện tình cảm'",
+      "link": "https://thanhnien.vn/co-tien-tu-thien-truc-phuong-khai-dung-ma-tuy-vi-buon-chuyen-tinh-cam-185260820091811558.htm",
+      "summary": "Trong vụ 4 nữ tiếp viên hàng không bị lợi dụng xách ma túy, bị cáo Nguyễn Đỗ Trúc Phương và bạn trai Vũ Hải Anh bị xét xử về tội 'tổ chức sử dụng trái phép chất ma túy'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:20:00+07:00",
+      "fetched": "2026-08-20T15:25:07.706724+07:00"
+    },
+    {
+      "id": "6c13956f3cfdf1fd3d7d77231b95ea59",
+      "title": "Vì sao giá USD hiện tại rẻ hơn thời điểm đầu năm?",
+      "link": "https://thanhnien.vn/vi-sao-gia-usd-hien-tai-re-hon-thoi-diem-dau-nam-185260820150752258.htm",
+      "summary": "Từ đầu tháng 8 đến nay, giá USD tại các ngân hàng liên tục giảm và đang ở mức rẻ hơn so với đầu năm. Đây là điều chưa từng xảy ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:19:00+07:00",
+      "fetched": "2026-08-20T15:25:07.706874+07:00"
+    },
+    {
+      "id": "b00e465a70b8e363e8b45d1ed026cb78",
+      "title": "Cảnh báo giả mạo cơ quan thuế lừa đảo hộ kinh doanh",
+      "link": "https://thanhnien.vn/canh-bao-gia-mao-co-quan-thue-lua-dao-ho-kinh-doanh-185260820145806512.htm",
+      "summary": "Thuế TP.Hà Nội vừa cảnh báo doanh nghiệp, hộ kinh doanh, cá nhân kinh doanh cần hết sức lưu ý các dấu hiệu nhận biết website, tài khoản, giấy mời, thông tin giả mạo cơ quan thuế để lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:18:00+07:00",
+      "fetched": "2026-08-20T15:25:07.707048+07:00"
+    },
+    {
+      "id": "b071440be8a10313f4fb91e5ed5e6cdc",
+      "title": "Ngoại trưởng Iran: Cuộc chiến kinh tế của Mỹ sẽ thất bại",
+      "link": "https://vnexpress.net/ngoai-truong-iran-cuoc-chien-kinh-te-cua-my-se-that-bai-5111279.html",
+      "summary": "Ngoại trưởng Iran cho rằng ông Trump phát động cuộc chiến kinh tế với Tehran nhằm đánh lạc hướng khỏi những vấn đề kinh tế của Mỹ và Washington sẽ thất bại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-20T08:16:58+07:00",
+      "fetched": "2026-08-20T15:25:11.839911+07:00"
+    },
+    {
+      "id": "1ca2aea0b4b66828f12e57db478dea5c",
+      "title": "Hỏa tốc ứng phó áp thấp nhiệt đới sắp áp sát miền Bắc",
+      "link": "https://thanhnien.vn/hoa-toc-ung-pho-ap-thap-nhiet-doi-sap-ap-sat-mien-bac-185260820145752287.htm",
+      "summary": "Ngày 20.8, Bộ Tổng tham mưu Quân đội nhân dân Việt Nam có công điện hỏa tốc gửi các đơn vị trong quân đội về việc ứng phó với áp thấp nhiệt đới trên Biển Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:13:00+07:00",
+      "fetched": "2026-08-20T15:25:07.707215+07:00"
+    },
+    {
+      "id": "4723827a0cecb7b2ad398a398363838e",
+      "title": "Xác minh thông tin cô gái câm điếc 17 tuổi nghi bị sàm sỡ ở Đắk Lắk",
+      "link": "https://thanhnien.vn/xac-minh-thong-tin-co-gai-cam-diec-17-tuoi-nghi-bi-sam-so-o-dak-lak-185260820142246135.htm",
+      "summary": "Chính quyền địa phương đã nắm bắt thông tin, chuyển Công an xã Krông Năng (Đắk Lắk) điều tra vụ thiếu nữ 17 tuổi bị câm điếc bẩm sinh nghi bị một người đàn ông lớn tuổi có hành vi sàm sỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:11:00+07:00",
+      "fetched": "2026-08-20T15:25:07.707370+07:00"
+    },
+    {
+      "id": "31d6a1147922112ba12b5f559af4e10e",
+      "title": "Sau khi trúng tuyển, 3 điều cần chuẩn bị để học tốt ở đại học",
+      "link": "https://thanhnien.vn/sau-khi-trung-tuyen-3-dieu-can-chuan-bi-de-hoc-tot-o-dai-hoc-185260820113329772.htm",
+      "summary": "Sau khi biết kết quả tuyển sinh ĐH, thí sinh trúng tuyển bắt đầu lên kế hoạch sẵn sàng cuộc sống tân sinh viên bằng cách tìm hiểu môi trường học tập mới, chương trình đào tạo, chuẩn bị chỗ ở, phương tiện đi lại, chi phí sinh hoạt...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:11:00+07:00",
+      "fetched": "2026-08-20T15:25:07.707518+07:00"
+    },
+    {
+      "id": "427a959924c0d7f1ffce94f2b8afcf12",
+      "title": "Trung Quốc miễn visa quá cảnh cho công dân Việt Nam",
+      "link": "https://vnexpress.net/trung-quoc-mien-visa-qua-canh-cho-cong-dan-viet-nam-5111325.html",
+      "summary": "Từ 20/8, công dân Việt Nam có thể quá cảnh không cần visa trong 10 ngày qua 65 cửa khẩu Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:10:01+07:00",
+      "fetched": "2026-08-20T15:25:04.418411+07:00"
+    },
+    {
+      "id": "82b6abcf71bb5d0fbdd0951169e863fa",
+      "title": "Giá xăng dầu đồng loạt tăng từ 15 giờ hôm nay 20.8",
+      "link": "https://thanhnien.vn/gia-xang-dau-dong-loat-tang-tu-15-gio-hom-nay-208-185260820150012877.htm",
+      "summary": "Giá xăng dầu đồng loạt tăng từ 15 giờ hôm nay 20.8. Giá xăng tăng 549 - 598 đồng/lít, giá dầu tăng 933 - 1.310 đồng/lít so với giá hiện hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:10:00+07:00",
+      "fetched": "2026-08-20T15:25:07.707665+07:00"
+    },
+    {
+      "id": "0cc5c6b5365fee74bfce082a6ab7974b",
+      "title": "Trung Quốc tuyên án chung thân nhà sáng lập Evergrande, phạt tập đoàn 2,4 tỉ USD",
+      "link": "https://thanhnien.vn/trung-quoc-tuyen-an-chung-than-nha-sang-lap-evergrande-phat-tap-doan-24-ti-usd-18526082015042311.htm",
+      "summary": "Một tòa án ở Trung Quốc hôm nay 20.8 phạt tập đoàn bất động sản đang gặp khủng hoảng Evergrande 2,4 tỉ USD và tuyên án tù chung thân đối với nhà sáng lập tập đoàn này, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:08:00+07:00",
+      "fetched": "2026-08-20T15:25:07.707816+07:00"
+    },
+    {
+      "id": "b41f4af83c54792263876640a29059eb",
+      "title": "Pháp chính thức hợp pháp hóa quyền được trợ tử",
+      "link": "https://thanhnien.vn/phap-chinh-thuc-hop-phap-hoa-quyen-duoc-tro-tu-185260820131412174.htm",
+      "summary": "Pháp chính thức ban hành luật ‘hỗ trợ cái chết nhân đạo’, cho phép bệnh nhân mắc bệnh nan y được quyền trợ tử, sau khi được Hội đồng Hiến pháp nước này thông qua vào tuần trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:07:00+07:00",
+      "fetched": "2026-08-20T15:25:07.707962+07:00"
+    },
+    {
+      "id": "cd0959b22debd3afceec0e30fa82dcde",
+      "title": "Tự đặt biển cấm đỗ xe chắn cửa, tôi có bị phạt lỗi cản trở giao thông?",
+      "link": "https://vnexpress.net/tu-dat-bien-cam-do-xe-chan-cua-toi-co-bi-phat-loi-can-tro-giao-thong-5110872.html",
+      "summary": "Hành vi tự ý đặt vật cản dưới lòng đường, vỉa hè để ngăn đỗ ôtô trước cửa nhà theo luật bị phạt 6-8 triệu đồng có đúng. (Thu Nga)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:04:17+07:00",
+      "fetched": "2026-08-20T15:25:04.418616+07:00"
+    },
+    {
+      "id": "301dd30d5f9fb0c7489422132203d28a",
+      "title": "Việt Nam áp đảo đội hình tiêu biểu bán kết với 7 nhân tố: Có Bắc - Son, vắng Lê Giang Patrik",
+      "link": "https://thanhnien.vn/viet-nam-ap-dao-doi-hinh-tieu-bieu-ban-ket-voi-7-nhan-to-co-bac-son-vang-le-giang-patrik-185260820145820778.htm",
+      "summary": "Đội tuyển Việt Nam áp đảo đội hình tiêu biểu vòng bán kết ASEAN Cup 2026 do Sofascore bình chọn, trong đó Xuân Son và Đình Bắc đều được vinh danh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:02:00+07:00",
+      "fetched": "2026-08-20T15:25:07.708137+07:00"
+    },
+    {
+      "id": "c112c49590f2e76fec626f6757561ebf",
+      "title": "Hôm nay đóng cổng bình chọn máy lau sàn hút bụi cao cấp",
+      "link": "https://vnexpress.net/hom-nay-dong-cong-binh-chon-may-lau-san-hut-bui-cao-cap-5111002.html",
+      "summary": "Số bình chọn thứ hai của Sản phẩm tôi yêu 2026, với chủ đề Máy lau sàn hút bụi cao cấp được yêu thích nhất, sẽ đóng vào 23h59 ngày 20/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:00:00+07:00",
+      "fetched": "2026-08-20T15:25:04.418794+07:00"
+    },
+    {
+      "id": "cf8e4e45221b61daf96131cd6ce0e9b3",
+      "title": "Agribank và VNPAY trang bị loa thông báo giao dịch cho hộ kinh doanh",
+      "link": "https://vnexpress.net/agribank-va-vnpay-trang-bi-loa-thong-bao-giao-dich-cho-ho-kinh-doanh-5111316.html",
+      "summary": "Agribank phối hợp VNPAY trang bị loa thông báo giao dịch cho hộ kinh doanh khi đăng ký sử dụng bộ giải pháp thanh toán VNPAY-QR và máy POS, áp dụng từ nay đến tháng 10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:00:00+07:00",
+      "fetched": "2026-08-20T15:25:04.418956+07:00"
+    },
+    {
+      "id": "f8e44b5c838f4841d00433736e3f3f52",
+      "title": "Sau mổ dây chằng bao lâu có thể bỏ nẹp?",
+      "link": "https://vnexpress.net/sau-mo-day-chang-bao-lau-co-the-bo-nep-5111298.html",
+      "summary": "Tôi mổ dây chằng được gần một tháng, sau bao lâu có thể bỏ nẹp? Nếu hết đau có thể bỏ nẹp sớm hơn không? (Nguyễn Thanh, Cần Thơ)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:00:00+07:00",
+      "fetched": "2026-08-20T15:25:04.419149+07:00"
+    },
+    {
+      "id": "df0f5e946ff9ca69e32dc8445601fa5d",
+      "title": "Triển lãm 'Van Gogh Timless' mở cửa từ ngày mai",
+      "link": "https://vnexpress.net/trien-lam-van-gogh-timless-mo-cua-tu-ngay-mai-5111270.html",
+      "summary": "Triển lãm \"Van Gogh Timeless\" tái hiện 165 bức họa qua 13 không gian bằng công nghệ trình chiếu, âm thanh, thực tế ảo và sắp đặt, mở cửa từ 21/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:00:00+07:00",
+      "fetched": "2026-08-20T15:25:04.419314+07:00"
+    },
+    {
+      "id": "a509c4a59e76892608194ab69eccf8d5",
+      "title": "5 thực phẩm nên ăn mỗi tuần để kiểm soát cholesterol",
+      "link": "https://vnexpress.net/5-thuc-pham-nen-an-moi-tuan-de-kiem-soat-cholesterol-5111222.html",
+      "summary": "Yến mạch, đậu lăng, hạt óc chó, hạt chia và hạnh nhân giàu chất xơ, chất béo tốt, hỗ trợ giảm cholesterol xấu, hạn chế nguy cơ xơ vữa động mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:00:00+07:00",
+      "fetched": "2026-08-20T15:25:04.419473+07:00"
+    },
+    {
+      "id": "0ecd847874bcb54be995c087a08d264f",
+      "title": "Có nên tự bổ sung kẽm khi trẻ biếng ăn?",
+      "link": "https://vnexpress.net/co-nen-tu-bo-sung-kem-khi-tre-bieng-an-5111192.html",
+      "summary": "Con tôi 3 tuổi, gần đây ăn rất ít, ngậm thức ăn lâu, được bạn bè khuyên bổ sung kẽm để bé ăn ngon hơn. Tôi có nên tự mua kẽm cho con uống không? (Minh Ngọc, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:00:00+07:00",
+      "fetched": "2026-08-20T15:25:04.419627+07:00"
+    },
+    {
+      "id": "7a0756b0fc8b35f2a64c6ffd90623430",
+      "title": "Lồng đèn 'Cóc kiện trời' cao gần 3 m: Điểm check-in trung thu không thể bỏ lỡ",
+      "link": "https://thanhnien.vn/long-den-coc-kien-troi-cao-gan-3-m-diem-check-in-trung-thu-khong-the-bo-lo-185260820135424041.htm",
+      "summary": "Lồng đèn hình con cóc 'siêu to khổng lồ' cầm dùi đánh trống, xung quanh là lồng đèn hình cọp, gấu, cáo, cua, ong… đang khiến nhiều bạn trẻ thích thú tìm đến check-in. Ít ai ngờ, để dựng nên cụm lồng đèn khổng lồ này, 10 người phải miệt mài làm suốt 80 ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T08:00:00+07:00",
+      "fetched": "2026-08-20T15:25:07.708287+07:00"
+    },
+    {
+      "id": "cf8e4e45221b61daf96131cd6ce0e9b3",
+      "title": "Agribank và VNPAY trang bị loa thông báo giao dịch cho hộ kinh doanh",
+      "link": "https://vnexpress.net/agribank-va-vnpay-trang-bi-loa-thong-bao-giao-dich-cho-ho-kinh-doanh-5111316.html",
+      "summary": "Agribank phối hợp VNPAY trang bị loa thông báo giao dịch cho hộ kinh doanh khi đăng ký sử dụng bộ giải pháp thanh toán VNPAY-QR và máy POS, áp dụng từ nay đến tháng 10.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-20T08:00:00+07:00",
+      "fetched": "2026-08-20T15:25:13.882842+07:00"
+    },
+    {
+      "id": "b263bfe273312e0e76f6d75d35d8bf2b",
+      "title": "Bộ Công an là cơ quan thường trực Ban chỉ đạo Trung ương về phát triển KHCN",
+      "link": "https://vnexpress.net/bo-cong-an-la-co-quan-thuong-truc-ban-chi-dao-trung-uong-ve-phat-trien-khcn-5111278.html",
+      "summary": "Cơ quan thường trực của Ban chỉ đạo Trung ương về phát triển khoa học công nghệ, đổi mới sáng tạo, chuyển đổi số được chuyển từ Văn phòng Trung ương Đảng sang Bộ Công an.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T07:59:03+07:00",
+      "fetched": "2026-08-20T15:25:04.419785+07:00"
+    },
+    {
+      "id": "2c53e5acd1a1f41212aade3605c5f90a",
+      "title": "Radar kém tin cậy, siêu tàu sân bay Mỹ phải dùng thiết bị thời Chiến tranh Lạnh",
+      "link": "https://vnexpress.net/radar-kem-tin-cay-sieu-tau-san-bay-my-phai-dung-thiet-bi-thoi-chien-tranh-lanh-5111151.html",
+      "summary": "Tàu sân bay USS John F. Kennedy được lắp radar thiết kế từ thời Chiến tranh Lạnh, do những cảm biến tối tân không đủ độ tin cậy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T07:56:18+07:00",
+      "fetched": "2026-08-20T15:25:04.419951+07:00"
+    },
+    {
+      "id": "2c53e5acd1a1f41212aade3605c5f90a",
+      "title": "Radar kém tin cậy, siêu tàu sân bay Mỹ phải dùng thiết bị thời Chiến tranh Lạnh",
+      "link": "https://vnexpress.net/radar-kem-tin-cay-sieu-tau-san-bay-my-phai-dung-thiet-bi-thoi-chien-tranh-lanh-5111151.html",
+      "summary": "Tàu sân bay USS John F. Kennedy được lắp radar thiết kế từ thời Chiến tranh Lạnh, do những cảm biến tối tân không đủ độ tin cậy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-20T07:56:18+07:00",
+      "fetched": "2026-08-20T15:25:11.840124+07:00"
+    },
+    {
+      "id": "a1c3d46f5d05a4ae6e1f81c826f0f605",
+      "title": "Em sống chân thành, biết lắng nghe và hài hước",
+      "link": "https://vnexpress.net/em-song-chan-thanh-biet-lang-nghe-va-hai-huoc-5111204.html",
+      "summary": "Tìm người sẵn sàng cùng em chia sẻ niềm vui, vượt khó khăn, biến những điều bình dị trong cuộc sống thành những kỷ niệm đáng nhớ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T07:56:09+07:00",
+      "fetched": "2026-08-20T15:25:04.420140+07:00"
+    },
+    {
+      "id": "599eda82619a5b5986d66f3e1e17c05b",
+      "title": "Tìm em cùng ăn chay trường, có sự gắn kết tâm hồn",
+      "link": "https://vnexpress.net/tim-em-cung-an-chay-truong-co-su-gan-ket-tam-hon-5111202.html",
+      "summary": "Tìm bạn có cùng quan điểm ăn chay trường, chia sẻ góc nhìn về tình yêu thuần khiết, không vụ lợi thể xác, sống chân thành, chung thủy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T07:48:47+07:00",
+      "fetched": "2026-08-20T15:25:04.420294+07:00"
+    },
+    {
+      "id": "0d5efc34e8c303bb7b82b0372ab7e134",
+      "title": "Những luật mới ở Ngoại hạng Anh mùa 2026-2027",
+      "link": "https://vnexpress.net/nhung-luat-moi-o-ngoai-hang-anh-mua-2026-2027-5111250.html",
+      "summary": "Mùa giải 2026-2027 sẽ chứng kiến số lượng thay đổi luật bóng đá chưa từng có, phần lớn nhằm hạn chế hành vi câu giờ, tăng nhịp độ và kéo dài thời gian bóng được đưa vào cuộc chơi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T07:47:06+07:00",
+      "fetched": "2026-08-20T15:25:04.420451+07:00"
+    },
+    {
+      "id": "0d5efc34e8c303bb7b82b0372ab7e134",
+      "title": "Những luật mới ở Ngoại hạng Anh mùa 2026-2027",
+      "link": "https://vnexpress.net/nhung-luat-moi-o-ngoai-hang-anh-mua-2026-2027-5111250.html",
+      "summary": "Mùa giải 2026-2027 sẽ chứng kiến số lượng thay đổi luật bóng đá chưa từng có, phần lớn nhằm hạn chế hành vi câu giờ, tăng nhịp độ và kéo dài thời gian bóng được đưa vào cuộc chơi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-20T07:47:06+07:00",
+      "fetched": "2026-08-20T15:25:19.030452+07:00"
+    },
+    {
       "id": "eeb6b749e7ef2f3b155a5a2d88c90cc7",
       "title": "Sở hữu 25% con bò tốn 1,03 triệu USD: Chỉ do ngoại hình 'nghiêng nước nghiêng thành?'",
       "link": "https://tuoitre.vn/so-huu-25-con-bo-ton-103-trieu-usd-chi-do-ngoai-hinh-nghieng-nuoc-nghieng-thanh-100260819231950709.htm",
@@ -531,6 +1001,56 @@ window.newsData_2026_08_20 = {
       "category": "Tổng hợp",
       "published": "2026-08-20T07:39:20.627105+07:00",
       "fetched": "2026-08-20T07:39:20.627266+07:00"
+    },
+    {
+      "id": "f90138e8f20c704f084a171737768318",
+      "title": "Nữ đồng nghiệp nói lời khó nghe vì tôi không báo tin đính hôn",
+      "link": "https://vnexpress.net/nu-dong-nghiep-noi-loi-kho-nghe-vi-toi-khong-bao-tin-dinh-hon-5111296.html",
+      "summary": "Bạn ấy dùng những từ ngữ rất quái gở như \"nghiệp báo\" hay \"cảm ơn chị...\" làm tôi vừa khó hiểu vừa sốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T07:38:31+07:00",
+      "fetched": "2026-08-20T15:25:04.420611+07:00"
+    },
+    {
+      "id": "d0c4826ca972f47613d2512abcb3ebf0",
+      "title": "Bộ sách về những người đứng đầu lực lượng Công an Nhân dân",
+      "link": "https://vnexpress.net/bo-sach-ve-nhung-nguoi-dung-dau-luc-luong-cong-an-nhan-dan-5110958.html",
+      "summary": "Chín tập sách tôn vinh lãnh đạo Bộ Công an qua các thời kỳ như Đại tướng Võ Nguyên Giáp, Bộ trưởng Trần Quốc Hoàn, tái hiện chặng đường lực lượng Công an Nhân dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T07:37:53+07:00",
+      "fetched": "2026-08-20T15:25:04.420762+07:00"
+    },
+    {
+      "id": "63b73ec39ff5d25154edc003f4772ce4",
+      "title": "Giá xăng, dầu cùng tăng",
+      "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-20-8-5111297.html",
+      "summary": "Từ 15h hôm nay, giá xăng, dầu trong nước cùng tăng, theo đà biến động của thị trường năng lượng thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-20T07:35:41+07:00",
+      "fetched": "2026-08-20T15:25:13.881065+07:00"
+    },
+    {
+      "id": "411d4326565c26065b8381e4c8c085a6",
+      "title": "Hot dog 100 USD phủ trứng cá tầm, vàng lá ở Mỹ",
+      "link": "https://vnexpress.net/hot-dog-100-usd-phu-trung-ca-tam-vang-la-o-my-5110645.html",
+      "summary": "Vốn được xem là món ăn bình dân, bánh mì dài kẹp xúc xích đang có cuộc \"lột xác\" với các nguyên liệu đắt tiền, cách trang trí cầu kỳ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-20T07:23:01+07:00",
+      "fetched": "2026-08-20T15:25:11.840294+07:00"
+    },
+    {
+      "id": "8a74efa4924a925497576371a064218e",
+      "title": "Trực thăng rơi ở núi thiêng, trùm tình báo Ecuador và CEO Mỹ thiệt mạng",
+      "link": "https://vnexpress.net/truc-thang-roi-o-nui-thieng-trum-tinh-bao-ecuador-va-ceo-my-thiet-mang-5111212.html",
+      "summary": "Trực thăng chở du khách rơi ở núi thiêng Ololokwe, khiến trùm tình báo Ecuador cùng 5 công dân Mỹ, trong đó có một CEO truyền hình, thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-20T06:45:45+07:00",
+      "fetched": "2026-08-20T15:25:11.840452+07:00"
     },
     {
       "id": "bd29bbb40d7f1ce3dbc39593d5430307",
