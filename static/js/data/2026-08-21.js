@@ -1,6 +1,6 @@
 window.newsData_2026_08_21 = {
   "date": "2026-08-21",
-  "lastUpdated": "2026-08-21T03:17:17.707964+07:00",
+  "lastUpdated": "2026-08-21T05:16:09.206474+07:00",
   "articles": [
     {
       "id": "f6936da8eab04c05517bd0c7e67a9ba3",
@@ -151,6 +151,116 @@ window.newsData_2026_08_21 = {
       "category": "Tổng hợp",
       "published": "2026-08-21T01:23:17.342797+07:00",
       "fetched": "2026-08-21T01:23:17.342928+07:00"
+    },
+    {
+      "id": "646466ab9e8f5c208592069837e063d0",
+      "title": "Tử vi ngày 21 tháng 8: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-21-thang-8-con-giap-nao-may-man-hom-nay-185260820235624569.htm",
+      "summary": "Tử vi ngày 21 tháng 8 mang đến những gợi ý tham khảo cho 12 con giáp. Tử vi hôm nay nhắc bạn đừng dùng hết mọi thứ ngay khi đang có: tiền bạc, thời gian hay sức lực. Biết để dành một chút cho cuối ngày hoặc cho người mình quan tâm có thể mang đến những niềm vui bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T22:15:00+07:00",
+      "fetched": "2026-08-21T05:16:02.249626+07:00"
+    },
+    {
+      "id": "8084ba3b54d0b8f823782a06e4e39dc8",
+      "title": "Chiến sự Ukraine ngày 1.638: Ukraine có động thái mới ở Donetsk",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1638-ukraine-co-dong-thai-moi-o-donetsk-185260820190437765.htm",
+      "summary": "TASS ngày 20.8 dẫn nguồn tin tiết lộ Ukraine đang di chuyển lực lượng chủ lực đến khu vực tiền tuyến gần thị trấn Dobropillia thuộc Donetsk, trong khi phía Nga thông báo kiểm soát thêm 2 làng tại khu vực này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T22:09:00+07:00",
+      "fetched": "2026-08-21T05:16:02.249797+07:00"
+    },
+    {
+      "id": "7d0624858aecb75963d90b55c728cfad",
+      "title": "Lịch sự kiện dịp Quốc khánh 2.9 ở TP.HCM: Bắn pháo hoa, biểu diễn nghệ thuật, triển lãm",
+      "link": "https://thanhnien.vn/lich-su-kien-dip-quoc-khanh-29-o-tphcm-ban-phao-hoa-bieu-dien-nghe-thuat-trien-lam-185260820214705955.htm",
+      "summary": "Lễ Quốc khánh 2.9, TP.HCM tổ chức bắn pháo hoa tại 7 điểm, cùng nhiều chương trình biểu diễn nghệ thuật, triển lãm và hoạt động thể thao trên toàn thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T22:05:00+07:00",
+      "fetched": "2026-08-21T05:16:02.249993+07:00"
+    },
+    {
+      "id": "5a7c23cb774e793409ecd0f84cec392a",
+      "title": "Hôm nay đấu giá bộ kim cương 25 tỉ đồng của Trương Mỹ Lan",
+      "link": "https://thanhnien.vn/hom-nay-dau-gia-bo-kim-cuong-25-ti-dong-cua-truong-my-lan-185260820161302096.htm",
+      "summary": "Bộ kim cương của bà Trương Mỹ Lan được đưa ra đấu giá đều bị thất lạc hồ sơ mua bán và hóa đơn, song các tài sản này đã có kết quả giám định mẫu vào tháng 11.2023.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T22:02:00+07:00",
+      "fetched": "2026-08-21T05:16:02.250152+07:00"
+    },
+    {
+      "id": "c89b62c7f3c144c31c58a0c69b28c2e0",
+      "title": "Một ngày ở cơ sở dưỡng lão bán trú đầu tiên tại Hà Nội",
+      "link": "https://thanhnien.vn/mot-ngay-o-co-so-duong-lao-ban-tru-dau-tien-tai-ha-noi-185260820210348575.htm",
+      "summary": "Trạm Y tế P.Long Biên mở cơ sở chăm sóc sức khỏe ban ngày cho người cao tuổi đầu tiên trên địa bàn Hà Nội, mục tiêu phục vụ tối đa 40 người/ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T22:00:00+07:00",
+      "fetched": "2026-08-21T05:16:02.250306+07:00"
+    },
+    {
+      "id": "e18907f24c407c7a144353232dc89c2f",
+      "title": "Lịch âm hôm nay 21.8: Lưu ý ngày Đinh Mão",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-218-luu-y-ngay-dinh-mao-185260819175448837.htm",
+      "summary": "Theo lịch âm hôm nay 21.8 là ngày Đinh Mão, cần lưu ý gì? Dương lịch hôm nay có sự kiện gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T22:00:00+07:00",
+      "fetched": "2026-08-21T05:16:02.250459+07:00"
+    },
+    {
+      "id": "16c3e725199db52d4341f1be73b7ac44",
+      "title": "Bạn đang kiệt sức vì không biết cách nói \"KHÔNG\" ?",
+      "link": "https://thanhnien.vn/ban-dang-kiet-suc-vi-khong-biet-cach-noi-khong-185260817085616196.htm",
+      "summary": "Luôn đồng ý với mọi yêu cầu vì sợ làm người khác thất vọng có thể khiến bạn dần bỏ quên nhu cầu của chính mình. Học cách nói “Không” đúng lúc không phải ích kỷ, mà là một kỹ năng giúp bảo vệ sức khỏe tinh thần và duy trì sự cân bằng trong cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T22:00:00+07:00",
+      "fetched": "2026-08-21T05:16:02.250614+07:00"
+    },
+    {
+      "id": "4230fa6854c205a0aeebe6a5bf7c9cef",
+      "title": "Thông điệp vừa thăm dò vừa răn đe của Israel khi ném bom căn cứ Syria",
+      "link": "https://vnexpress.net/thong-diep-vua-tham-do-vua-ran-de-cua-israel-khi-nem-bom-can-cu-syria-5110658.html",
+      "summary": "Ném bom căn cứ quân sự Syria gần biên giới Thổ Nhĩ Kỳ, Israel vừa thăm dò \"lằn ranh đỏ\" của Mỹ, vừa phát thông điệp răn đe tới Damascus lẫn Ankara.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-20T22:00:00+07:00",
+      "fetched": "2026-08-21T05:16:05.023698+07:00"
+    },
+    {
+      "id": "135f316671b44fcf50ba6d2cc0fb1f4d",
+      "title": "Nhà hàng, quán ăn tự phát bủa vây nhà thờ đổ Hải Lý",
+      "link": "https://vnexpress.net/nha-hang-quan-an-tu-phat-bua-vay-nha-tho-do-hai-ly-5111287.html",
+      "summary": "Loạt nhà hàng, lều quán kinh doanh tự phát do người dân lấn chiếm khiến cảnh quan nhà thờ đổ Hải Lý nhếch nhác, mất an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T21:00:00+07:00",
+      "fetched": "2026-08-21T05:15:59.690282+07:00"
+    },
+    {
+      "id": "b8e847a6d8a143ff04764fc159b1b85f",
+      "title": "Loạt chính sách mới có thể thay đổi 'cuộc chơi' trên thị trường bất động sản",
+      "link": "https://vnexpress.net/loat-chinh-sach-moi-co-the-thay-doi-cuoc-choi-tren-thi-truong-bat-dong-san-5111149.html",
+      "summary": "Quy định mới về giá đất, chung cư có thời hạn, bồi thường tái định cư nằm trong nhóm vấn đề nóng đang được Quốc hội thảo luận khi sửa đổi ba luật liên quan bất động sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T21:00:00+07:00",
+      "fetched": "2026-08-21T05:15:59.690465+07:00"
+    },
+    {
+      "id": "2b50463da646b06891fde76960c30734",
+      "title": "Cải tạo nhà 24 năm tuổi thành không gian mang sắc thái Á Đông",
+      "link": "https://vnexpress.net/cai-tao-nha-24-nam-tuoi-thanh-khong-gian-mang-sac-thai-a-dong-5111347.html",
+      "summary": "Không gian căn nhà liền kề được tổ chức lại theo hướng tối giản, kết hợp tranh nghệ thuật và các món đồ thủ công tạo sắc thái Á Đông phù hợp đời sống hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T20:22:28+07:00",
+      "fetched": "2026-08-21T05:15:59.690633+07:00"
     },
     {
       "id": "eba9acde81797d6633f085c9fa4cdfe0",
