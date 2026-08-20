@@ -1,7 +1,157 @@
 window.newsData_2026_08_20 = {
   "date": "2026-08-20",
-  "lastUpdated": "2026-08-20T07:39:30.216999+07:00",
+  "lastUpdated": "2026-08-20T09:48:23.371218+07:00",
   "articles": [
+    {
+      "id": "6f932de0f0c104d6099d5009447c9271",
+      "title": "Truyền hình Iran gây quỹ ám sát ông Trump, tiền thu được không đủ mua vé máy bay tới Mỹ?",
+      "link": "https://tuoitre.vn/truyen-hinh-iran-gay-quy-am-sat-ong-trump-tien-thu-duoc-khong-du-mua-ve-may-bay-toi-my-100260820004317989.htm",
+      "summary": "Người dẫn chương trình truyền hình Iran gọi việc gây quỹ là 'mong ước chung' của người Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T09:48:13.807779+07:00",
+      "fetched": "2026-08-20T09:48:13.807839+07:00"
+    },
+    {
+      "id": "296d1b8fa94890aa2006e43954e0e3fd",
+      "title": "Đang khỏe mạnh bình thường thì đột quỵ, ai cũng tưởng mình không có nguy cơ?",
+      "link": "https://tuoitre.vn/dang-khoe-manh-binh-thuong-thi-dot-quy-ai-cung-tuong-minh-khong-co-nguy-co-100260819185151222.htm",
+      "summary": "Thời gian qua nhiều trường hợp người trẻ đột quỵ, thậm chí đột tử trong khi trước đó họ vẫn sinh hoạt, làm việc bình thường và không nghĩ mình có nguy cơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T09:48:13.807669+07:00",
+      "fetched": "2026-08-20T09:48:13.807765+07:00"
+    },
+    {
+      "id": "4979d94e5cecf7b77dc3d7d66f43b70a",
+      "title": "Áp thấp nhiệt đới đi chậm, ven biển Quảng Ninh - Quảng Trị mưa lớn",
+      "link": "https://tuoitre.vn/ap-thap-nhiet-doi-di-cham-ven-bien-quang-ninh-quang-tri-mua-lon-100260819223523087.htm",
+      "summary": "Dự báo khoảng chiều tối đến đêm ngày 21-8, áp thấp nhiệt đới sẽ đi vào khu vực phía đông vịnh Bắc Bộ. Còn trên đất liền hôm nay, mưa ở Bắc Bộ giảm dần, tập trung ở ven biển Bắc Bộ và các tỉnh Bắc Trung Bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T09:48:13.807544+07:00",
+      "fetched": "2026-08-20T09:48:13.807651+07:00"
+    },
+    {
+      "id": "041b3a1569cccfb16b0eddf936e43928",
+      "title": "Lịch thi đấu bóng chuyền nữ Việt Nam tại Giải vô địch châu Á 2026",
+      "link": "https://tuoitre.vn/lich-thi-dau-bong-chuyen-nu-viet-nam-tai-giai-vo-dich-chau-a-2026-100260819182208059.htm",
+      "summary": "Tuyển bóng chuyền nữ Việt Nam sẽ lần lượt chạm trán Hàn Quốc, Hong Kong và Nhật Bản tại vòng bảng Giải bóng chuyền nữ vô địch châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T09:48:13.807405+07:00",
+      "fetched": "2026-08-20T09:48:13.807522+07:00"
+    },
+    {
+      "id": "2a449f87dd24e964295a47b33761bfb1",
+      "title": "Quảng cáo ầm ĩ viên ngậm giải rượu, viên trị tiểu đường, yêu cầu Sở Y tế Hà Nội kiểm tra",
+      "link": "https://tuoitre.vn/quang-cao-am-i-vien-ngam-giai-ruou-vien-tri-tieu-duong-yeu-cau-so-y-te-ha-noi-kiem-tra-100260819225547777.htm",
+      "summary": "Cục An toàn thực phẩm vừa có văn bản đề nghị Sở Y tế Hà Nội khẩn trương kiểm tra, xác minh việc quảng cáo thực phẩm bảo vệ sức khỏe DK-Betics Gold - được quảng cáo là trị tiểu đường và viên ngậm giải rượu Non Alco.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T09:48:13.807301+07:00",
+      "fetched": "2026-08-20T09:48:13.807389+07:00"
+    },
+    {
+      "id": "19e4cbd5ce0250672fc3b83c1f57f206",
+      "title": "NÓNG: VETC tạm dừng thu phí Ví điện tử 6.600 đồng/tháng",
+      "link": "https://tuoitre.vn/vetc-tam-dung-thu-phi-vi-dien-tu-6600-dong-thang-10026082007211851.htm",
+      "summary": "Sau những phản ứng của khách hàng về khoản phí quản lý Ví điện tử VETC 6.600 đồng/tháng với cá nhân và 66.000 đồng/tháng với tổ chức, VETC quyết định tạm dừng triển khai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T09:48:13.807179+07:00",
+      "fetched": "2026-08-20T09:48:13.807283+07:00"
+    },
+    {
+      "id": "c7eba98d65ace4a16664211231d674bb",
+      "title": "Concert bước vào rạp chiếu phim: Sân khấu mới cho âm nhạc Việt",
+      "link": "https://tuoitre.vn/concert-buoc-vao-rap-chieu-phim-san-khau-moi-cho-am-nhac-viet-100260819213637908.htm",
+      "summary": "Concert Mỹ Tâm, Hà Anh Tuấn, Hoàng Thùy Linh, SOOBIN... không còn chỉ diễn ra trước sân khấu hàng chục nghìn người. Những đêm nhạc này đang được 'đóng gói' thành phim, bước vào rạp chiếu và mở ra một cuộc chơi mới giữa âm nhạc, điện ảnh và công nghệ trải nghiệm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T09:48:13.807076+07:00",
+      "fetched": "2026-08-20T09:48:13.807162+07:00"
+    },
+    {
+      "id": "df2a5ccd5d376ba5151595b60919dedd",
+      "title": "Bị gán ghép vào vụ án hiếp dâm ở Phú Thọ, Tập đoàn Phú Cường lên tiếng",
+      "link": "https://tuoitre.vn/bi-gan-ghep-vao-vu-an-hiep-dam-o-phu-tho-tap-doan-phu-cuong-len-tieng-100260820072508238.htm",
+      "summary": "Liên quan đến vụ án Nguyễn Minh Hiếu (23 tuổi, ở Hà Nội) hiếp dâm nữ Việt kiều Mỹ vừa bị khởi tố, Tập đoàn Phú Cường đã chính thức ra thông cáo phản bác các thông tin, hình ảnh được cho là đã gán ghép sai sự thật lan truyền trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T09:48:13.806949+07:00",
+      "fetched": "2026-08-20T09:48:13.807056+07:00"
+    },
+    {
+      "id": "310919afef5f08fa96a5f77b8f82d7ed",
+      "title": "Đọc nhanh 20-8: Giá vàng tăng vọt 150 USD, vượt 4.500 USD/ounce; dầu tiếp đà đi lên",
+      "link": "https://tuoitre.vn/doc-nhanh-20-8-gia-vang-tang-vot-150-usd-vuot-4500-usd-ounce-dau-tiep-da-di-len-100260820073507753.htm",
+      "summary": "Giá dầu thế giới tăng lên mức cao nhất trong gần 4 tuần, trong khi giá vàng tăng gần 150 USD/ounce trong phiên sáng 20-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T09:48:13.806579+07:00",
+      "fetched": "2026-08-20T09:48:13.806934+07:00"
+    },
+    {
+      "id": "4b1349d5d5c93ee571cd5c4dc102aaee",
+      "title": "Home Credit hợp tác Ocean Edu, trợ lực tài chính cho hành trình học tiếng Anh",
+      "link": "https://tuoitre.vn/home-credit-hop-tac-ocean-edu-tro-luc-tai-chinh-cho-hanh-trinh-hoc-tieng-anh-100260819171045962.htm",
+      "summary": "Mùa tựu trường năm nay, Home Credit 'bắt tay' cùng Ocean Edu mang đến giải pháp trả góp học phí linh hoạt, giúp phụ huynh nhẹ áp lực tài chính và đồng hàng cùng con trên hành trình học tiếng Anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T09:48:13.806479+07:00",
+      "fetched": "2026-08-20T09:48:13.806566+07:00"
+    },
+    {
+      "id": "0a4e2136ada57e692fde45c9b66f4d4b",
+      "title": "Khi đô thị hóa lấy đi không gian vận động của trẻ",
+      "link": "https://tuoitre.vn/khi-do-thi-hoa-lay-di-khong-gian-van-dong-cua-tre-100260819212003404.htm",
+      "summary": "87% thanh thiếu niên Việt Nam chưa đạt mức vận động thể chất khuyến nghị. Áp lực học tập, thời gian trước màn hình và quá trình đô thị hóa khiến trẻ ngày càng ít cơ hội vận động, trong khi thiếu vận động là yếu tố nguy cơ của thừa cân, béo phì và nhiều bệnh không lây nhiễm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T09:48:13.806415+07:00",
+      "fetched": "2026-08-20T09:48:13.806468+07:00"
+    },
+    {
+      "id": "17909899d6fadf042c8b24fd622da7b9",
+      "title": "Lần đầu cùng Tuổi Trẻ, Trường ĐH Giao thông vận tải TP.HCM tiếp sức SV nghèo 750 triệu",
+      "link": "https://tuoitre.vn/lan-dau-cung-tuoi-tre-truong-dh-giao-thong-van-tai-tphcm-tiep-suc-sv-ngheo-750-trieu-dong-100260820071023001.htm",
+      "summary": "Ngay khi chương trình Tiếp sức đến trường 2026 vừa được báo Tuổi Trẻ công bố, Trường đại học Giao thông vận tải TP.HCM đã chủ động liên hệ và gửi đến 50 suất học bổng, tổng trị giá 750 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T09:48:13.806342+07:00",
+      "fetched": "2026-08-20T09:48:13.806404+07:00"
+    },
+    {
+      "id": "22bc4ceddff54cff5cd4442e62cf3094",
+      "title": "Nghỉ 5 ngày dịp Quốc khánh 2-9: Bộ Nội vụ lưu ý lịch làm bù với công chức, viên chức",
+      "link": "https://tuoitre.vn/nghi-5-ngay-dip-quoc-khanh-2-9-bo-noi-vu-luu-y-lich-lam-bu-voi-cong-chuc-vien-chuc-100260819234626068.htm",
+      "summary": "Công chức, viên chức sẽ hoán đổi ngày làm việc thứ Hai ngày 31-8 sang làm bù vào thứ Bảy ngày 22-8 để dịp Quốc khánh 2-9 được nghỉ 5 ngày liên tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T09:48:13.806268+07:00",
+      "fetched": "2026-08-20T09:48:13.806330+07:00"
+    },
+    {
+      "id": "8a95a5e6a9fef32c97b5e5d0168f961b",
+      "title": "Cách chế biến thức ăn nào lành mạnh và bảo toàn giá trị dinh dưỡng nhất?",
+      "link": "https://tuoitre.vn/cach-che-bien-thuc-an-nao-lanh-manh-va-bao-toan-gia-tri-dinh-duong-nhat-100260820075539364.htm",
+      "summary": "Có nhiều cách chế biến như hấp, luộc, xào, nướng, nhưng xét về mặt bảo toàn giá trị dinh dưỡng, hạn chế chất béo bổ sung và giảm thiểu nguy cơ tiếp xúc với các hợp chất có hại tiềm ẩn có thể hình thành thì cách nào tốt nhất?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T09:48:13.806186+07:00",
+      "fetched": "2026-08-20T09:48:13.806256+07:00"
+    },
+    {
+      "id": "a00c40a33c5c0e89bfad1f389c2c2e29",
+      "title": "Robot siêu nhỏ 'khoan' qua não, quay ngược ra theo đúng đường cũ",
+      "link": "https://tuoitre.vn/robot-sieu-nho-khoan-qua-nao-quay-nguoc-ra-theo-dung-duong-cu-100260818113402134.htm",
+      "summary": "Robot hình con vít được điều khiển bằng nam châm có thể xuyên qua mô não rồi quay lại theo chính đường vừa đi, mở hướng tiếp cận tổn thương sâu trong não.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T09:48:13.806013+07:00",
+      "fetched": "2026-08-20T09:48:13.806171+07:00"
+    },
     {
       "id": "eeb6b749e7ef2f3b155a5a2d88c90cc7",
       "title": "Sở hữu 25% con bò tốn 1,03 triệu USD: Chỉ do ngoại hình 'nghiêng nước nghiêng thành?'",
@@ -101,6 +251,356 @@ window.newsData_2026_08_20 = {
       "category": "Tổng hợp",
       "published": "2026-08-20T03:15:23.094008+07:00",
       "fetched": "2026-08-20T03:15:23.094149+07:00"
+    },
+    {
+      "id": "afed04732d34c6480c4f1e1ff01073db",
+      "title": "Cúm - RSV - Phế cầu: Ba 'kẻ thù thầm lặng' của người lớn tuổi",
+      "link": "https://thanhnien.vn/cum-rsv-phe-cau-ba-ke-thu-tham-lang-cua-nguoi-lon-tuoi-185260819164309339.htm",
+      "summary": "Sốt, ho hay cảm giác mệt mỏi có thể khiến nhiều người nghĩ đơn giản rằng mình chỉ bị cảm và sẽ sớm khỏi. Thế nhưng, ở người lớn tuổi, cúm, RSV hay phế cầu có thể diễn tiến nặng, làm tăng nguy cơ nhập viện và dẫn đến những biến chứng nguy hiểm. Nhận biết đúng nguy cơ, theo dõi những dấu hiệu cảnh báo...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:30:00+07:00",
+      "fetched": "2026-08-20T09:48:11.834388+07:00"
+    },
+    {
+      "id": "11aee2d6c9c32927ce645e8a92079e9a",
+      "title": "Đếm ngược đến 25.8, HDBank sắp gọi tên chủ nhân sổ tiết kiệm 200 triệu đồng",
+      "link": "https://thanhnien.vn/dem-nguoc-den-258-hdbank-sap-goi-ten-chu-nhan-so-tiet-kiem-200-trieu-dong-185260820093629748.htm",
+      "summary": "Tiếp tục gia tăng những giá trị thiết thực dành cho khách hàng, HDBank sẽ tổ chức Kỳ quay số thứ 4 của chương trình 'Tiết kiệm Tỉ phú - Hè Vàng Đại Cát' vào ngày 25.8.2026, với giải thưởng 16 sổ tiết kiệm, cao nhất trị giá 200 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:29:00+07:00",
+      "fetched": "2026-08-20T09:48:11.834583+07:00"
+    },
+    {
+      "id": "9f9940c81ba77df59ad8fc5420fae26f",
+      "title": "Livestream không còn là 'bật máy bán hàng': Văn hóa mới của nghề sáng tạo nội dung",
+      "link": "https://thanhnien.vn/livestream-khong-con-la-bat-may-ban-hang-van-hoa-moi-cua-nghe-sang-tao-noi-dung-185260820092540154.htm",
+      "summary": "Livestream không còn đơn thuần là công cụ bán hàng mà đang trở thành một phần của đời sống giải trí, truyền thông và sáng tạo nội dung. Khi sức ảnh hưởng của người livestream ngày càng lớn, câu chuyện về kỹ năng, trách nhiệm và văn hóa ứng xử trên không gian mạng cũng được đặt ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:25:00+07:00",
+      "fetched": "2026-08-20T09:48:11.834746+07:00"
+    },
+    {
+      "id": "a181cb961e2bcb54ddf55a9fd737658b",
+      "title": "Đồng Nai: Bắt nhanh nghi phạm 19 tuổi cướp giật tại tiệm vàng",
+      "link": "https://thanhnien.vn/dong-nai-bat-nhanh-nghi-pham-19-tuoi-cuop-giat-tai-tiem-vang-185260820090821836.htm",
+      "summary": "Sau hơn 3 giờ tiếp nhận tin báo, Công an phường Chơn Thành, thành phố Đồng Nai đã bắt được nghi phạm cướp giật tại tiệm vàng K.B.A, thu hồi tài sản bị mất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:22:00+07:00",
+      "fetched": "2026-08-20T09:48:11.834900+07:00"
+    },
+    {
+      "id": "8fe24fa9b6c59a9cda8ccd098edb6783",
+      "title": "Nợ công Mỹ lần đầu vượt mốc 40.000 tỉ USD, thâm hụt ngân sách cao",
+      "link": "https://thanhnien.vn/no-cong-my-lan-dau-vuot-moc-40000-ti-usd-tham-hut-ngan-sach-cao-185260820091329255.htm",
+      "summary": "Dự liệu chính phủ Mỹ được công bố hôm 19.8 cho thấy nợ công của nước này đã vượt mốc 40.000 tỉ USD, vượt xa các dự báo trước đó, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:17:00+07:00",
+      "fetched": "2026-08-20T09:48:11.835052+07:00"
+    },
+    {
+      "id": "d32a8ecedfa31440c411da9577968f19",
+      "title": "Đội tuyển Việt Nam và 'chìa khóa' sân Mỹ Đình: Thái Lan sẽ là thử thách hoàn toàn khác",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-va-chia-khoa-san-my-dinh-thai-lan-se-la-thu-thach-hoan-toan-khac-185260820083229377.htm",
+      "summary": "Góp mặt ở chung kết ASEAN Cup lần thứ 3 liên tiếp, đội tuyển Việt Nam đứng trước cơ hội làm nên cột mốc lịch sử: Bảo vệ thành công ngôi vương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:16:00+07:00",
+      "fetched": "2026-08-20T09:48:11.835207+07:00"
+    },
+    {
+      "id": "f20ad1d5581a3568617b6b39bc2c2ae3",
+      "title": "‘Messi Thái’ kêu gọi CĐV mua vé kín sân Rajamangala ủng hộ đội nhà đấu Việt Nam",
+      "link": "https://thanhnien.vn/messi-thai-keu-goi-cdv-mua-ve-kin-san-rajamangala-ung-ho-doi-nha-gap-viet-nam-185260820091127655.htm",
+      "summary": "Liên đoàn Bóng đá Thái Lan (FAT) đã nhờ đến sức ảnh hưởng lớn của Chanathip Songkrasin, cầu thủ mệnh danh là 'Messi Thái', kêu gọi CĐV mua vé đến kín sân Rajamangala để ủng hộ đội nhà trận gặp Việt Nam ở chung kết ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:15:00+07:00",
+      "fetched": "2026-08-20T09:48:11.835358+07:00"
+    },
+    {
+      "id": "e00f9575d403da62bdcb53c24ff72435",
+      "title": "VCK giải bóng đá Thanh Niên sinh viên Việt Nam 2027 tổ chức tại Đồng Tháp",
+      "link": "https://thanhnien.vn/vck-giai-bong-da-thanh-nien-sinh-vien-viet-nam-2027-to-chuc-tai-dong-thap-185260819165705391.htm",
+      "summary": "Giải bóng đá Thanh Niên sinh viên Việt Nam lần V – 2027 Cúp THACO không chỉ mang đến sân chơi chuyên môn hấp dẫn cho sinh viên mà còn là dịp quảng bá hình ảnh Trường ĐH Đồng Tháp, địa phương và thúc đẩy phong trào thể thao sinh viên trên cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:14:00+07:00",
+      "fetched": "2026-08-20T09:48:11.835530+07:00"
+    },
+    {
+      "id": "33205cf50caf5028f3ad7c70bb128416",
+      "title": "Nhà ở xã hội gần đại lộ Thăng Long giá 23,5 triệu đồng một m2",
+      "link": "https://vnexpress.net/nha-o-xa-hoi-gan-dai-lo-thang-long-gia-23-5-trieu-dong-mot-m2-5111072.html",
+      "summary": "Dự án nhà ở xã hội Đồng Trúc - Thạch Thất có 231 căn hộ, giá bán từ 870 triệu đồng một căn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:13:31+07:00",
+      "fetched": "2026-08-20T09:48:08.435845+07:00"
+    },
+    {
+      "id": "d62b7b4c7b6e8b72a28c504fdcf7bf2d",
+      "title": "Rộ tin loạt căn cứ Mỹ ở châu Âu lọt tầm ngắm của Iran",
+      "link": "https://thanhnien.vn/ro-tin-loat-can-cu-my-o-chau-au-lot-tam-ngam-cua-iran-185260820090509915.htm",
+      "summary": "Iran được cho là đang cân nhắc khả năng tấn công các mục tiêu quân sự của Mỹ ở châu Âu nếu Tổng thống Donald Trump tiếp tục leo thang xung đột.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:12:00+07:00",
+      "fetched": "2026-08-20T09:48:11.835687+07:00"
+    },
+    {
+      "id": "fe13f88ac887fb883fd013b405a0f091",
+      "title": "Có gì mới tại lễ hội bia Đức Oktoberfest 2026?",
+      "link": "https://thanhnien.vn/co-gi-moi-tai-le-hoi-bia-duc-oktoberfest-2026-185260820085149361.htm",
+      "summary": "Oktoberfest, một trong những lễ hội văn hóa Đức được mong đợi nhất tại Việt Nam, chuẩn bị trở lại trong một diện mạo mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:11:00+07:00",
+      "fetched": "2026-08-20T09:48:11.835846+07:00"
+    },
+    {
+      "id": "2f53445e5d7289ebcb05d32216bd232b",
+      "title": "Messi ghi bàn trở lại ở MLS",
+      "link": "https://vnexpress.net/messi-ghi-ban-tro-lai-o-mls-5111112.html",
+      "summary": "Lionel Messi ghi bàn sau ba trận tịt ngòi tại MLS, nhưng Inter Miami vẫn bị chủ nhà Philadelphia Union cầm hòa 2-2 ở vòng 20.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:08:54+07:00",
+      "fetched": "2026-08-20T09:48:08.436024+07:00"
+    },
+    {
+      "id": "2f53445e5d7289ebcb05d32216bd232b",
+      "title": "Messi ghi bàn trở lại ở MLS",
+      "link": "https://vnexpress.net/messi-ghi-ban-tro-lai-o-mls-5111112.html",
+      "summary": "Lionel Messi ghi bàn sau ba trận tịt ngòi tại MLS, nhưng Inter Miami vẫn bị chủ nhà Philadelphia Union cầm hòa 2-2 ở vòng 20.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-20T02:08:54+07:00",
+      "fetched": "2026-08-20T09:48:23.364217+07:00"
+    },
+    {
+      "id": "4fdc527e5c5254c0361e9db88b323306",
+      "title": "Cụ thể hóa lĩnh vực nông nghiệp và môi trường ở ‘xã, phường xã hội chủ nghĩa’",
+      "link": "https://thanhnien.vn/cu-the-hoa-linh-vuc-nong-nghiep-va-moi-truong-o-xa-phuong-xa-hoi-chu-nghia-18526082009193467.htm",
+      "summary": "Sở Nông nghiệp và Môi trường Hà Nội vừa ban hành Kế hoạch số 135/KH-SNNMT về việc thực hiện Đề án thí điểm mô hình 'xã, phường xã hội chủ nghĩa' thuộc lĩnh vực nông nghiệp và môi trường trên địa bàn thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:08:00+07:00",
+      "fetched": "2026-08-20T09:48:11.835994+07:00"
+    },
+    {
+      "id": "3316b784382c1d28b428f205d474c037",
+      "title": "Gen Z 'nằm thẳng' trong giấc mộng mua nhà",
+      "link": "https://vnexpress.net/gia-nha-tp-hcm-gia-nha-ha-noi-nam-thang-vi-gia-nha-tang-nhu-ten-lua-con-thu-nhap-di-bo-tung-buoc-5110252.html",
+      "summary": "Nếu không có cái lưng tựa vững chắc của ba mẹ, thì có lẽ đến nay tôi cũng đang trầy trật giữa guồng quay tiền thuê nhà mỗi tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:06:18+07:00",
+      "fetched": "2026-08-20T09:48:08.436190+07:00"
+    },
+    {
+      "id": "1e08a8c6ca750f81d2fcae52dd6cbf5c",
+      "title": "Bộ trưởng Bộ Công an trình Quốc hội sửa bộ luật Hình sự",
+      "link": "https://thanhnien.vn/bo-truong-bo-cong-an-trinh-quoc-hoi-sua-bo-luat-hinh-su-185260820084524103.htm",
+      "summary": "Dự thảo bộ luật Hình sự sửa đổi có nhiều đề xuất mới liên quan đến xác định tội danh, hình phạt, miễn trách nhiệm hình sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:06:00+07:00",
+      "fetched": "2026-08-20T09:48:11.836141+07:00"
+    },
+    {
+      "id": "8b695f13ed2085ca33930cf2a5b9ebc6",
+      "title": "Nhà mạng Việt thử nghiệm dây mạng 'tàng hình' tại nhà",
+      "link": "https://vnexpress.net/nha-mang-viet-thu-nghiem-day-mang-tang-hinh-tai-nha-5111035.html",
+      "summary": "Viettel đang thử nghiệm đường truyền Internet đưa tới từng phòng trong nhà bằng sợi cáp quang gần như vô hình, giúp tốc độ mạng đạt đến 1 Gbps mà không ảnh hưởng đến thẩm mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:00:00+07:00",
+      "fetched": "2026-08-20T09:48:08.436350+07:00"
+    },
+    {
+      "id": "920db537c75872221fa261df0aefa0d8",
+      "title": "Bộ đội Việt Nam nhảy sạp cùng học sinh châu Phi",
+      "link": "https://vnexpress.net/bo-doi-viet-nam-nhay-sap-cung-hoc-sinh-chau-phi-5110782.html",
+      "summary": "Lực lượng mũ nồi xanh Việt Nam và Trung Quốc tổ chức nhiều tiết mục giao lưu và mời các em nhỏ ở châu Phi tham gia các trò chơi truyền thống của hai nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:00:00+07:00",
+      "fetched": "2026-08-20T09:48:08.436629+07:00"
+    },
+    {
+      "id": "9629767baf330bc8a625d74f6a10774f",
+      "title": "Lương y chỉ 4 việc nên làm mỗi sáng để dưỡng thận",
+      "link": "https://vnexpress.net/luong-y-chi-4-viec-nen-lam-moi-sang-de-duong-than-5110218.html",
+      "summary": "Để thải độc và dưỡng thận, bạn nên uống một cốc nước lọc khi thức dậy, xoa ấm vùng thắt lưng, vận động nhẹ nhàng và ăn uống đa dạng, đủ chất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:00:00+07:00",
+      "fetched": "2026-08-20T09:48:08.436803+07:00"
+    },
+    {
+      "id": "486366dcfe7f50c39822875634960f10",
+      "title": "Loạt điểm nhấn nổi bật giúp Kia Sportage HEV mới hút khách",
+      "link": "https://vnexpress.net/loat-diem-nhan-noi-bat-giup-kia-sportage-hev-moi-hut-khach-5110850.html",
+      "summary": "Mẫu SUV cỡ C lần đầu có tùy chọn động cơ hybrid giúp nâng hiệu suất vận hành, tối ưu mức tiêu hao nhiên liệu, đồng thời sở hữu đa dạng tiện nghi trong phân khúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:00:00+07:00",
+      "fetched": "2026-08-20T09:48:08.436964+07:00"
+    },
+    {
+      "id": "7211c1615d81595abc3920b1d50548a2",
+      "title": "Hơn 300 doanh nghiệp tham gia triển lãm thực phẩm Cao Hùng 2026",
+      "link": "https://vnexpress.net/hon-300-doanh-nghiep-tham-gia-trien-lam-thuc-pham-cao-hung-2026-5110739.html",
+      "summary": "Triển lãm thực phẩm Cao Hùng 2026 dự kiến quy tụ 330 doanh nghiệp, giới thiệu nhiều nhóm sản phẩm có tiềm năng tại thị trường Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:00:00+07:00",
+      "fetched": "2026-08-20T09:48:08.437118+07:00"
+    },
+    {
+      "id": "123a0f874c6684f2792535a25689c718",
+      "title": "Doanh nghiệp truyền thông đang săn điều gì ở gen Z?",
+      "link": "https://thanhnien.vn/doanh-nghiep-truyen-thong-dang-san-dieu-gi-o-gen-z-185260819230901222.htm",
+      "summary": "Trong thời đại công nghệ số, trí tuệ nhân tạo (AI) đang dần tái định hình toàn bộ bức tranh sáng tạo nội dung và truyền thông hiện đại. Tuy nhiên, sức hút của lĩnh vực truyền thông vẫn chưa bao giờ hạ nhiệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:00:00+07:00",
+      "fetched": "2026-08-20T09:48:11.836293+07:00"
+    },
+    {
+      "id": "738d43e848bb44a683db4a70ba7e5700",
+      "title": "Dừng xe trên cao tốc, chỉ bật đèn chớp: Tài xế bị phạt 13 triệu đồng",
+      "link": "https://thanhnien.vn/dung-xe-tren-cao-toc-chi-bat-den-chop-tai-xe-bi-phat-13-trieu-dong-185260819225648923.htm",
+      "summary": "Xe gặp sự cố, tài xế dừng xe trên cao tốc và bật đèn chớp nhưng không đặt cảnh báo phía sau. Lỗi này khiến tài xế bị phạt 13 triệu đồng, trừ 6 điểm giấy phép lái xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T02:00:00+07:00",
+      "fetched": "2026-08-20T09:48:11.836444+07:00"
+    },
+    {
+      "id": "7211c1615d81595abc3920b1d50548a2",
+      "title": "Hơn 300 doanh nghiệp tham gia triển lãm thực phẩm Cao Hùng 2026",
+      "link": "https://vnexpress.net/hon-300-doanh-nghiep-tham-gia-trien-lam-thuc-pham-cao-hung-2026-5110739.html",
+      "summary": "Triển lãm thực phẩm Cao Hùng 2026 dự kiến quy tụ 330 doanh nghiệp, giới thiệu nhiều nhóm sản phẩm có tiềm năng tại thị trường Việt Nam.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-20T02:00:00+07:00",
+      "fetched": "2026-08-20T09:48:17.060041+07:00"
+    },
+    {
+      "id": "8b695f13ed2085ca33930cf2a5b9ebc6",
+      "title": "Nhà mạng Việt thử nghiệm dây mạng 'tàng hình' tại nhà",
+      "link": "https://vnexpress.net/nha-mang-viet-thu-nghiem-day-mang-tang-hinh-tai-nha-5111035.html",
+      "summary": "Viettel đang thử nghiệm đường truyền Internet đưa tới từng phòng trong nhà bằng sợi cáp quang gần như vô hình, giúp tốc độ mạng đạt đến 1 Gbps mà không ảnh hưởng đến thẩm mỹ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-20T02:00:00+07:00",
+      "fetched": "2026-08-20T09:48:21.170425+07:00"
+    },
+    {
+      "id": "706909e46d62a045079c9995230a48bb",
+      "title": "Chuyện tử tế: Cùng nhau hiến đất mở đường",
+      "link": "https://thanhnien.vn/chuyen-tu-te-cung-nhau-hien-dat-mo-duong-185260819225350858.htm",
+      "summary": "Từ những hàng rào mới xây đến hàng trăm mét vuông đất vườn, nhiều người dân ở thôn Sơn Hà, xã Tuyên Lâm (Quảng Trị) sẵn sàng tháo dỡ, hiến đất để mở rộng đường. Với họ, thêm một phần đất bỏ ra là thêm cơ hội để con đường quê rộng rãi, việc đi lại và làm ăn thuận lợi hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T01:58:00+07:00",
+      "fetched": "2026-08-20T09:48:11.836634+07:00"
+    },
+    {
+      "id": "74555955c173a50849f5bf370a996498",
+      "title": "Xuân Son lần đầu được ăn mừng trên sân Mỹ Đình",
+      "link": "https://vnexpress.net/xuan-son-lan-dau-duoc-an-mung-tren-san-my-dinh-5111057.html",
+      "summary": "Dù ghi nhiều bàn thắng quan trọng, cú đúp trong trận thắng Malaysia ở lượt về bán kết ASEAN Cup 2026 mới là lần đầu tiền đạo Nguyễn Xuân Son lập công ở sân Mỹ Đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T01:51:41+07:00",
+      "fetched": "2026-08-20T09:48:08.437282+07:00"
+    },
+    {
+      "id": "74555955c173a50849f5bf370a996498",
+      "title": "Xuân Son lần đầu được ăn mừng trên sân Mỹ Đình",
+      "link": "https://vnexpress.net/xuan-son-lan-dau-duoc-an-mung-tren-san-my-dinh-5111057.html",
+      "summary": "Dù ghi nhiều bàn thắng quan trọng, cú đúp trong trận thắng Malaysia ở lượt về bán kết ASEAN Cup 2026 mới là lần đầu tiền đạo Nguyễn Xuân Son lập công ở sân Mỹ Đình.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-20T01:51:41+07:00",
+      "fetched": "2026-08-20T09:48:23.364393+07:00"
+    },
+    {
+      "id": "764500e75c2296a5fcaa6f3e3e2153b1",
+      "title": "Thị trường xe bán tải tháng 7 giảm sức mua",
+      "link": "https://vnexpress.net/thi-truong-xe-ban-tai-thang-7-giam-suc-mua-5110753.html",
+      "summary": "Doanh số xe bán tải tháng 7 quay đầu giảm sau khi tăng liên tiếp trong ba tháng trước đó, lượng mua cũng giảm so với cùng kỳ 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T01:50:10+07:00",
+      "fetched": "2026-08-20T09:48:08.437447+07:00"
+    },
+    {
+      "id": "d95982a440d910396ebc7bb163ca36ac",
+      "title": "Nắm tay nhau bước trên con đường của chúng mình anh nhé",
+      "link": "https://vnexpress.net/nam-tay-nhau-buoc-tren-con-duong-cua-chung-minh-anh-nhe-5110704.html",
+      "summary": "Em sẽ vun vén cho mái ấm của chúng mình, sẽ lắng nghe và cho anh những lời khuyên nếu anh cần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T01:44:52+07:00",
+      "fetched": "2026-08-20T09:48:08.437632+07:00"
+    },
+    {
+      "id": "d3e533251b0c0bf6cc4701cce3d57660",
+      "title": "Từ tiếng Việt nào vừa nóng, vừa thấp?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-cuc-thu-vi-tu-nao-vua-co-nghia-la-nong-vua-co-nghia-la-thap-5109018.html",
+      "summary": "Một từ tiếng Việt nhưng lại mang hai ý nghĩa: một bên liên quan đến thời tiết nóng, một bên chỉ vị trí thấp. Bạn đoán ra không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T01:31:09+07:00",
+      "fetched": "2026-08-20T09:48:08.437792+07:00"
+    },
+    {
+      "id": "956b5961294f8ed789661304cdfb5f2d",
+      "title": "Giữa Hà Nội, em mong gặp được anh",
+      "link": "https://vnexpress.net/giua-ha-noi-em-mong-gap-duoc-anh-5110690.html",
+      "summary": "Em sinh năm 1994, quê Hưng Yên, sống và làm việc tại Hà Nội trong lĩnh vực y tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T01:23:24+07:00",
+      "fetched": "2026-08-20T09:48:08.437950+07:00"
+    },
+    {
+      "id": "5768e0ae2b6d60fee5c1a759c02ca75a",
+      "title": "Áp lực học tập và màn hình điện tử 'bào mòn' thể chất trẻ em",
+      "link": "https://vnexpress.net/ap-luc-hoc-tap-va-man-hinh-dien-tu-bao-mon-the-chat-tre-em-5111069.html",
+      "summary": "Áp lực học tập, thời gian trước màn hình và tốc độ đô thị hóa khiến trẻ ngày càng ít cơ hội vận động, làm gia tăng nguy cơ thừa cân, béo phì và nhiều bệnh không lây nhiễm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T01:21:23+07:00",
+      "fetched": "2026-08-20T09:48:08.438101+07:00"
+    },
+    {
+      "id": "2e09b103f2255dbc34d1b92aa5c0cf24",
+      "title": "Việt Nam vượt qua Trung Quốc theo Elo bóng đá",
+      "link": "https://vnexpress.net/viet-nam-vuot-qua-trung-quoc-theo-elo-bong-da-5111082.html",
+      "summary": "Chiến thắng 2-0 trước Malaysia ở lượt về bán kết ASEAN Cup 2026 giúp đội tuyển Việt Nam lần đầu vượt qua Trung Quốc trên bảng Elo bóng đá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T01:19:29+07:00",
+      "fetched": "2026-08-20T09:48:08.438257+07:00"
+    },
+    {
+      "id": "2e09b103f2255dbc34d1b92aa5c0cf24",
+      "title": "Việt Nam vượt qua Trung Quốc theo Elo bóng đá",
+      "link": "https://vnexpress.net/viet-nam-vuot-qua-trung-quoc-theo-elo-bong-da-5111082.html",
+      "summary": "Chiến thắng 2-0 trước Malaysia ở lượt về bán kết ASEAN Cup 2026 giúp đội tuyển Việt Nam lần đầu vượt qua Trung Quốc trên bảng Elo bóng đá.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-20T01:19:29+07:00",
+      "fetched": "2026-08-20T09:48:23.364590+07:00"
     },
     {
       "id": "0f3f20cd1c32d2e1790f3f4f9858940f",
@@ -251,6 +751,86 @@ window.newsData_2026_08_20 = {
       "category": "Tổng hợp",
       "published": "2026-08-20T01:18:56.322089+07:00",
       "fetched": "2026-08-20T01:18:56.322218+07:00"
+    },
+    {
+      "id": "34d80a2bdd51b2e0ff394a564b31bfc3",
+      "title": "Nợ công Mỹ lần đầu vượt 40.000 tỷ USD",
+      "link": "https://vnexpress.net/no-cong-my-lan-dau-vuot-40-000-ty-usd-5111071.html",
+      "summary": "Nợ chính phủ Mỹ tăng mạnh sau nhiều năm thâm hụt ngân sách, hiện cao gấp đôi so với 10 năm trước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-20T01:11:33+07:00",
+      "fetched": "2026-08-20T09:48:17.059038+07:00"
+    },
+    {
+      "id": "6931dc013733c2d9d05e7189e48236ed",
+      "title": "Thủ tướng Anh cam kết trích lương giúp đỡ người vô gia cư",
+      "link": "https://vnexpress.net/thu-tuong-anh-cam-ket-trich-luong-giup-do-nguoi-vo-gia-cu-5111060.html",
+      "summary": "Ông Burnham công bố kế hoạch giúp người vô gia cư có chỗ ở trước Giáng sinh, cam kết trích một phần lương để hỗ trợ giải quyết tình trạng này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-20T01:10:07+07:00",
+      "fetched": "2026-08-20T09:48:15.736302+07:00"
+    },
+    {
+      "id": "5ac92b3b335b5fcf3e2253b552b1287d",
+      "title": "HLV Kim Sang-sik nối dài kỷ lục vào chung kết các giải Đông Nam Á",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-noi-dai-ky-luc-vao-chung-ket-cac-giai-dong-nam-a-5111045.html",
+      "summary": "Ông Kim Sang-sik là HLV đầu tiên trong lịch sử vào chung kết 4 giải Đông Nam Á liên tiếp ở ASEAN Cup, U23 Đông Nam Á và SEA Games.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-20T01:04:25+07:00",
+      "fetched": "2026-08-20T09:48:23.364755+07:00"
+    },
+    {
+      "id": "3779e7b9a19720a02b8b3dda8263ece2",
+      "title": "Motorola ra smartphone gập Rarz Fold, giá 48 triệu đồng",
+      "link": "https://vnexpress.net/motorola-ra-smartphone-gap-rarz-fold-gia-48-trieu-dong-5111034.html",
+      "summary": "Motorola Rarz Fold có màn hình chính 8,1 inch, tần số quét 120 Hz, độ sáng 6.200 nit và giá 48 triệu đồng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-20T01:03:02+07:00",
+      "fetched": "2026-08-20T09:48:21.170624+07:00"
+    },
+    {
+      "id": "d94cf11fbe0d9287d3be2c7d2881ba72",
+      "title": "Giá vàng thế giới vượt 4.500 USD",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-vuot-4-500-usd-5111067.html",
+      "summary": "Mỗi ounce vàng lên cao nhất 2,5 tháng, nhờ lợi suất trái phiếu Mỹ và giá USD đi xuống.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-20T01:00:35+07:00",
+      "fetched": "2026-08-20T09:48:17.059215+07:00"
+    },
+    {
+      "id": "aa5a484c63b39a07cf6755f71dd2164e",
+      "title": "Bộ máy quan chức quy tụ giới siêu giàu dưới thời ông Trump",
+      "link": "https://vnexpress.net/bo-may-quan-chuc-quy-tu-gioi-sieu-giau-duoi-thoi-ong-trump-5110685.html",
+      "summary": "Số lượng quan chức có tài sản từ 100 triệu USD trở lên trong chính quyền ông Trump cao gấp 4 lần tổng số dưới thời ba người tiền nhiệm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-20T01:00:00+07:00",
+      "fetched": "2026-08-20T09:48:15.736480+07:00"
+    },
+    {
+      "id": "367ecc4fc17f4f103d55a763d942a729",
+      "title": "'Big 4' ngân hàng đồng loạt ưu đãi giảm giá vé máy bay",
+      "link": "https://vnexpress.net/big-4-ngan-hang-dong-loat-uu-dai-giam-gia-ve-may-bay-5110883.html",
+      "summary": "Khách hàng đặt vé máy bay trên ứng dụng Vietcombank, BIDV, VietinBank, Agribank hoặc VNPAY được giảm tới 888.000 đồng khi nhập các mã ưu đãi trong chương trình Travel Fest.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-20T01:00:00+07:00",
+      "fetched": "2026-08-20T09:48:17.060198+07:00"
+    },
+    {
+      "id": "5e12f7d61e7919b5378456f2bbbb44a2",
+      "title": "Ông Trump phát động 'chiến tranh kinh tế' với Iran",
+      "link": "https://vnexpress.net/ong-trump-phat-dong-chien-tranh-kinh-te-voi-iran-5111056.html",
+      "summary": "Tổng thống Mỹ tuyên bố khởi động chiến dịch quy mô lớn nhắm vào nền kinh tế Iran, đe dọa trừng phạt bất cứ nước nào hỗ trợ Tehran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-20T00:38:42+07:00",
+      "fetched": "2026-08-20T09:48:15.736680+07:00"
     },
     {
       "id": "545121c5afbdcecc8fbaa104bb21b33c",
