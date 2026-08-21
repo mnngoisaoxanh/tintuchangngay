@@ -1,7 +1,147 @@
 window.newsData_2026_08_21 = {
   "date": "2026-08-21",
-  "lastUpdated": "2026-08-21T07:42:18.462975+07:00",
+  "lastUpdated": "2026-08-21T09:54:23.639581+07:00",
   "articles": [
+    {
+      "id": "ee5f839e839e5dc1670e3fb736013630",
+      "title": "Lịch trực tiếp ngày khai mạc Premier League 2026-2027: Arsenal đấu Coventry",
+      "link": "https://tuoitre.vn/lich-truc-tiep-ngay-khai-mac-premier-league-2026-2027-arsenal-dau-coventry-100260820181459807.htm",
+      "summary": "Lúc 2h ngày 22-8, mùa giải mới Giải ngoại hạng Anh (Premier League) 2026-2027 sẽ chính thức khởi tranh với trận đấu giữa Arsenal và Coventry trên sân Emirates.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T09:54:15.477842+07:00",
+      "fetched": "2026-08-21T09:54:15.477898+07:00"
+    },
+    {
+      "id": "d643d401f4813345bab76aaf0b17ba8c",
+      "title": "Đại biểu Quốc hội: Vụ thu phí của VETC và ePass, người dùng có thể khiếu nại hoặc khởi kiện",
+      "link": "https://tuoitre.vn/dai-bieu-quoc-hoi-vu-thu-phi-cua-vetc-va-epass-nguoi-dung-co-the-khieu-nai-hoac-khoi-kien-100260820231022184.htm",
+      "summary": "Có những khoảng trống pháp lý trong vụ việc thu phí tự động không dừng của hai đơn vị VETC và ePass khi đưa ra mức thu phí chưa phù hợp và đảm bảo quyền lợi người tiêu dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T09:54:15.477771+07:00",
+      "fetched": "2026-08-21T09:54:15.477832+07:00"
+    },
+    {
+      "id": "e204b36e19fe7789a119494d1bd08203",
+      "title": "Kim Tử Long, Ngọc Huyền, Vũ Luân ‘vướng’ tình tay ba trong Giang san mỹ nhân",
+      "link": "https://tuoitre.vn/kim-tu-long-ngoc-huyen-vu-luan-vuong-tinh-tay-ba-trong-giang-san-my-nhan-100260821061140647.htm",
+      "summary": "Tối 20-8, vở cải lương tuồng cổ Giang san mỹ nhân đã được phúc khảo tại rạp Hồng Liên. Kim Tử Long, Ngọc Huyền và Vũ Luân là những nhân vật chính trong vở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T09:54:15.477704+07:00",
+      "fetched": "2026-08-21T09:54:15.477761+07:00"
+    },
+    {
+      "id": "380f52786ba7424f8071e337a8c11b6f",
+      "title": "Đổ mồ hôi nhiều khi tập luyện có giúp tăng hiệu quả?",
+      "link": "https://tuoitre.vn/do-mo-hoi-nhieu-khi-tap-luyen-co-giup-tang-hieu-qua-100260820084449791.htm",
+      "summary": "Mồ hôi nhiều không đồng nghĩa với việc đốt nhiều calo hay giảm nhiều mỡ. Đây chủ yếu là cơ chế làm mát cơ thể khi nhiệt độ tăng trong lúc vận động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T09:54:15.477639+07:00",
+      "fetched": "2026-08-21T09:54:15.477694+07:00"
+    },
+    {
+      "id": "716517f0c5a8575547524b220204da9e",
+      "title": "Bão số 4 có thể hình thành hôm nay",
+      "link": "https://tuoitre.vn/bao-so-4-co-the-hinh-thanh-hom-nay-100260821001251779.htm",
+      "summary": "Dự báo ngày 21-8, áp thấp nhiệt đới trên khu vực vịnh Bắc Bộ có khả năng mạnh lên thành bão và đi rất chậm về phía đất liền Đông Bắc Bộ nên tiềm ẩn mưa lớn kéo dài nhiều ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T09:54:15.477573+07:00",
+      "fetched": "2026-08-21T09:54:15.477629+07:00"
+    },
+    {
+      "id": "a3852eb46dcef156deef7ce746503681",
+      "title": "Bất ngờ: Hóa chất cần cho pin và tên lửa đến từ... nước tiểu",
+      "link": "https://tuoitre.vn/bat-ngo-hoa-chat-can-cho-pin-va-ten-lua-den-tu-nuoc-tieu-100260818084831515.htm",
+      "summary": "Các nhà khoa học Úc dùng điện và muối để biến urê trong nước tiểu thành hydrazine, hóa chất giàu năng lượng được dùng trong pin nhiên liệu và hàng không vũ trụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T09:54:15.477503+07:00",
+      "fetched": "2026-08-21T09:54:15.477562+07:00"
+    },
+    {
+      "id": "16b793e76c34ab46d1cc8fbb70c1f982",
+      "title": "Xe máy điện không lo tìm chỗ đỗ, tiện như xe gấp, dài hơn nửa Honda SH",
+      "link": "https://tuoitre.vn/xe-may-dien-khong-lo-tim-cho-do-tien-nhu-xe-gap-dai-hon-nua-honda-sh-100260821073839653.htm",
+      "summary": "Mẫu xe máy điện Augment 360 có thể gập bánh sau để thu gọn kích thước, cho phép người dùng dễ dàng đẩy xe vào thang máy, căn hộ hoặc văn phòng thay vì phải tìm chỗ đỗ bên ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T09:54:15.477426+07:00",
+      "fetched": "2026-08-21T09:54:15.477492+07:00"
+    },
+    {
+      "id": "6625e5333f2e87c4f00ec6c16debab90",
+      "title": "Masterise Homes tổ chức sự kiện trải nghiệm nghệ thuật tri ân khách hàng",
+      "link": "https://tuoitre.vn/masterise-homes-to-chuc-su-kien-trai-nghiem-nghe-thuat-tri-an-khach-hang-100260820174956542.htm",
+      "summary": "Chương trình ‘Tự do trong từng nhịp sóng’ do Masterise Homes tổ chức vào ngày 15-8-2026 đã mang đến món quà tri ân đong đầy cảm xúc cho cộng đồng chủ nhân Masteri Grand Coast.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T09:54:15.477315+07:00",
+      "fetched": "2026-08-21T09:54:15.477408+07:00"
+    },
+    {
+      "id": "672a177a44bb981c6bfb92df90284874",
+      "title": "Mẹ ung thư qua đời, tân sinh viên Bách khoa ngồi bán dép ở chợ Nghĩa Hòa",
+      "link": "https://tuoitre.vn/me-ung-thu-qua-doi-tan-sinh-vien-bach-khoa-ngoi-ban-dep-o-cho-nghia-hoa-100260820231825989.htm",
+      "summary": "Nam sinh viên đó là Phạm Hữu Mân, mới vừa đeo tang mẹ ngay trước ngày nhận giấy báo trúng tuyển Đại học Bách khoa Đà Nẵng. Để có tiền sống, Mân ra chợ bán số hàng quần áo, giày dép mẹ còn để lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T09:54:15.477203+07:00",
+      "fetched": "2026-08-21T09:54:15.477298+07:00"
+    },
+    {
+      "id": "d6ba1ed3a073d8859c740e8de7a74232",
+      "title": "Sáng nay đấu giá trực tiếp bộ trang sức kim cương của bà Trương Mỹ Lan",
+      "link": "https://tuoitre.vn/sang-nay-dau-gia-truc-tiep-bo-trang-suc-kim-cuong-cua-ba-truong-my-lan-100260821073953139.htm",
+      "summary": "Đôi hoa tai, chiếc nhẫn và sợi dây chuyền kim cương tự nhiên của bà Trương Mỹ Lan sẽ được đấu giá trực tiếp vào sáng nay. Tổng giá khởi điểm lên tới gần 25 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T09:54:15.477081+07:00",
+      "fetched": "2026-08-21T09:54:15.477179+07:00"
+    },
+    {
+      "id": "2b1c8df0e10b807fe270e715c817b1bd",
+      "title": "Quy hoạch điểm kinh doanh, xử lý mạnh tay để dẹp lấn chiếm vỉa hè",
+      "link": "https://tuoitre.vn/quy-hoach-diem-kinh-doanh-xu-ly-manh-tay-de-dep-lan-chiem-via-he-100260819134123616.htm",
+      "summary": "Cần phải ra quân xử lý thường xuyên, quy hoạch nơi kinh doanh có chỗ để xe thì mới chấm dứt tình trạng lấn chiếm vỉa hè.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T09:54:15.476925+07:00",
+      "fetched": "2026-08-21T09:54:15.477060+07:00"
+    },
+    {
+      "id": "8c93453001efebaf2609269ef8f91104",
+      "title": "Ngành bia rượu hồi phục nhờ nắng nóng, hàng loạt doanh nghiệp tăng lợi nhuận",
+      "link": "https://tuoitre.vn/nganh-bia-ruou-hoi-phuc-nho-nang-nong-hang-loat-doanh-nghiep-tang-loi-nhuan-100260820225224447.htm",
+      "summary": "Trong số 17 doanh nghiệp bia rượu đã công bố báo cáo quý 2, có 15 doanh nghiệp báo lãi 6 tháng cao hơn cùng kỳ năm ngoái, 5 đơn vị chuyển từ lỗ sang lãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T09:54:15.476826+07:00",
+      "fetched": "2026-08-21T09:54:15.476902+07:00"
+    },
+    {
+      "id": "32d47a6410a6a707f5adcdc3e4f8edd9",
+      "title": "Đọc nhanh 21-8: Giá dầu vẫn tăng nóng, vàng vượt 4.500 USD; Bitcoin lập đỉnh 2 tháng",
+      "link": "https://tuoitre.vn/doc-nhanh-21-8-gia-dau-van-tang-nong-vang-vuot-4500-usd-bitcoin-lap-dinh-2-thang-100260821080526886.htm",
+      "summary": "Giá dầu tiếp tục leo cao, trong khi vàng vượt 4.500 USD/ounce. Bitcoin tăng khoảng 5%, vượt 72.000 USD và lên mức cao nhất kể từ đầu tháng 6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T09:54:15.476482+07:00",
+      "fetched": "2026-08-21T09:54:15.476809+07:00"
+    },
+    {
+      "id": "62599b0928a29869e03d11e67fcb1d71",
+      "title": "Những câu chuyện nghĩa tình khó quên bên dòng kênh xanh",
+      "link": "https://tuoitre.vn/nhung-cau-chuyen-nghia-tinh-kho-quen-ben-dong-kenh-xanh-10026082021143121.htm",
+      "summary": "Năm 1992, sau khi từ giã màu áo lính, từ phố biển Quy Nhơn tôi bước chân vào Đại học Mỹ thuật với một khát vọng: học tập ngành mình yêu thích, và tìm một tương lai sáng!",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T09:54:15.476319+07:00",
+      "fetched": "2026-08-21T09:54:15.476467+07:00"
+    },
     {
       "id": "dab0a9d2eea1552be6df866f1e9247fa",
       "title": "Thời tiết hôm nay 21-8: Áp thấp nhiệt đới khả năng thành bão, phía Bắc mưa rất to",
@@ -111,6 +251,226 @@ window.newsData_2026_08_21 = {
       "category": "Tổng hợp",
       "published": "2026-08-21T07:42:12.114738+07:00",
       "fetched": "2026-08-21T07:42:12.114851+07:00"
+    },
+    {
+      "id": "4814023ce9c97bae732cabf542b22575",
+      "title": "Toyota Veloz Cross và những lý do khiến gia đình gắn bó lâu hơn so với dự định ban đầu?",
+      "link": "https://thanhnien.vn/toyota-veloz-cross-va-nhung-ly-do-khien-gia-dinh-gan-bo-lau-hon-so-voi-du-dinh-ban-dau-185260817160348318.htm",
+      "summary": "Sau gần 5 năm ra mắt thị trường Việt Nam, hơn 46.000 xe Veloz Cross đã được giao đến tay khách hàng. Đến nay, những chiếc Veloz Cross dễ dàng được bắt gặp trên mọi nẻo đường từ thành thị đến đèo núi và trở thành bạn đồng hành tin cậy cho sự gắn bó dài lâu của nhiều gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T02:50:00+07:00",
+      "fetched": "2026-08-21T09:54:13.872119+07:00"
+    },
+    {
+      "id": "167fab11009e48f9e40d36006ca81b3d",
+      "title": "Bộ kim cương của Trương Mỹ Lan được bán với giá hơn 25 tỉ đồng",
+      "link": "https://thanhnien.vn/bo-kim-cuong-cua-truong-my-lan-duoc-ban-voi-gia-hon-25-ti-dong-18526082109374872.htm",
+      "summary": "Ba món trang sức đính kim cương tự nhiên của bà Trương Mỹ Lan được bán đấu giá thành công với giá hơn 25 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T02:49:00+07:00",
+      "fetched": "2026-08-21T09:54:13.872291+07:00"
+    },
+    {
+      "id": "c13f48014563c6f7563d6cba1924cf1f",
+      "title": "Arteta: 'Tôi muốn Arsenal là đội bị săn đuổi'",
+      "link": "https://vnexpress.net/arteta-toi-muon-arsenal-la-doi-bi-san-duoi-5111549.html",
+      "summary": "Mikel Arteta muốn Arsenal tận hưởng vị thế cũng như áp lực của nhà ĐKVĐ, thay vì phải đuổi theo các đối thủ trên đường đua bảo vệ ngôi vương Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-21T02:48:54+07:00",
+      "fetched": "2026-08-21T09:54:23.633556+07:00"
+    },
+    {
+      "id": "a6b8a3f88bf7170e62623a0fbd9dfe4f",
+      "title": "TP.HCM tìm quà lưu niệm mới có thể bán cho du khách",
+      "link": "https://thanhnien.vn/tphcm-tim-qua-luu-niem-moi-co-the-ban-cho-du-khach-18526082109212883.htm",
+      "summary": "Sở Du lịch TP.HCM phát động cuộc thi thiết kế quà tặng lưu niệm, tìm kiếm những sản phẩm vừa mang bản sắc thành phố, vừa có khả năng sản xuất, thương mại hóa để phục vụ du khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T02:41:00+07:00",
+      "fetched": "2026-08-21T09:54:13.872460+07:00"
+    },
+    {
+      "id": "63a2d55871e7d86b214b0fec66d6bb2b",
+      "title": "Arsenal có khả năng vô địch Ngoại hạng Anh gấp đôi Man City",
+      "link": "https://vnexpress.net/arsenal-co-kha-nang-vo-dich-ngoai-hang-anh-gap-doi-man-city-5111567.html",
+      "summary": "Arsenal được các mô hình dự đoán đánh giá cao nhất cho khả năng bảo vệ chức vô địch Ngoại hạng Anh, với xác suất gần gấp đôi Man City.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-21T02:37:58+07:00",
+      "fetched": "2026-08-21T09:54:23.632675+07:00"
+    },
+    {
+      "id": "5a094b2568036a3d24f60dfadf35391f",
+      "title": "Công an công bố kết quả giám định kim cương trong vụ buôn lậu xuyên quốc gia",
+      "link": "https://thanhnien.vn/cong-an-cong-bo-ket-qua-giam-dinh-kim-cuong-trong-vu-buon-lau-xuyen-quoc-gia-185260821084905636.htm",
+      "summary": "Công an tỉnh Thanh Hóa vừa công bố kết quả giám định tang vật thu giữ của vụ án buôn lậu xuyên quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T02:31:00+07:00",
+      "fetched": "2026-08-21T09:54:13.872615+07:00"
+    },
+    {
+      "id": "f4595878b27bab8a025915d36daa7dd7",
+      "title": "Israel đối mặt 'sóng thần' di cư của giới tinh hoa",
+      "link": "https://vnexpress.net/israel-doi-mat-song-than-di-cu-cua-gioi-tinh-hoa-5111174.html",
+      "summary": "Gần 270.000 người, chủ yếu là giới tinh hoa có học vấn cao và thu nhập tốt, đã rời Israel trong ba năm qua do bất ổn chính trị và lo ngại an ninh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-21T02:23:43+07:00",
+      "fetched": "2026-08-21T09:54:17.602833+07:00"
+    },
+    {
+      "id": "15a593ff4a14423738f172c6cdb6b007",
+      "title": "Các tài năng hứa hẹn tỏa sáng ở Olympic trẻ",
+      "link": "https://thanhnien.vn/cac-tai-nang-hua-hen-toa-sang-o-olympic-tre-18526082022571632.htm",
+      "summary": "10 tài năng trẻ thể thao VN sẽ góp mặt ở Đại hội thể thao trẻ thế giới (Olympic trẻ) 2026 diễn ra từ ngày 31.10 - 13.11 tại Senegal.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T02:16:00+07:00",
+      "fetched": "2026-08-21T09:54:13.872769+07:00"
+    },
+    {
+      "id": "1ae632b70eb05c98cc630aad8a8d9a59",
+      "title": "Ca sĩ Chi Dân thừa nhận khởi xướng sử dụng ma túy",
+      "link": "https://thanhnien.vn/ca-si-chi-dan-thua-nhan-khoi-xuong-su-dung-ma-tuy-185260820165248932.htm",
+      "summary": "Tại tòa, bị cáo Nguyễn Trung Hiếu (ca sĩ Chi Dân) thừa nhận là người khởi xướng tổ chức sử dụng ma túy như cáo trạng truy tố, và không khai gì thêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T02:16:00+07:00",
+      "fetched": "2026-08-21T09:54:13.872922+07:00"
+    },
+    {
+      "id": "8c96185f86d17605ce047c4591811af3",
+      "title": "Nguy cơ tử vong từ bệnh dại: Một lần chủ quan có thể đánh đổi bằng tính mạng",
+      "link": "https://thanhnien.vn/nguy-co-tu-vong-tu-benh-dai-mot-lan-chu-quan-co-the-danh-doi-bang-tinh-mang-185260821092112577.htm",
+      "summary": "Bệnh dại tiếp tục là mối nguy khi nhiều ca tử vong được ghi nhận tại các địa phương thời gian gần đây. Dù có thể phòng ngừa bằng vắc xin, không ít trường hợp vẫn mất cơ hội bảo vệ tính mạng do chủ quan sau khi bị động vật cắn, cào hoặc phơi nhiễm với nguồn nguy cơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T02:09:00+07:00",
+      "fetched": "2026-08-21T09:54:13.873116+07:00"
+    },
+    {
+      "id": "938a59508aebb8d2141a86d8e86457bb",
+      "title": "Lợi ích bất ngờ khi đi bộ 20 phút mỗi ngày",
+      "link": "https://thanhnien.vn/loi-ich-bat-ngo-khi-di-bo-20-phut-moi-ngay-185260821090943713.htm",
+      "summary": "Chỉ 20 phút đi bộ mỗi ngày có thể mang lại nhiều lợi ích cho não bộ và sức khỏe tinh thần, từ cải thiện tâm trạng, giảm căng thẳng đến góp phần giảm nguy cơ trầm cảm và rối loạn lo âu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T02:07:00+07:00",
+      "fetched": "2026-08-21T09:54:13.873270+07:00"
+    },
+    {
+      "id": "7bdf3f0d4c61593e13c8ca4b832d233a",
+      "title": "Giá heo hơi hôm nay 21.8.2026: Thị trường tiếp tục thêm nhịp tăng giá",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-2182026-thi-truong-tiep-tuc-them-nhip-tang-gia-185260821085643668.htm",
+      "summary": "Sau khi điều chỉnh tăng tại nhiều địa phương, giá heo hơi trên cả nước hiện được giao dịch trong khoảng 56.000 – 58.000 đồng/kg, mức 55.000 đồng/kg không còn xuất hiện trong bảng giá hôm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T02:06:00+07:00",
+      "fetched": "2026-08-21T09:54:13.873421+07:00"
+    },
+    {
+      "id": "f08de07fdd096c033ce7b8426198df11",
+      "title": "Đừng chỉ hạ nhiệt căn phòng, hãy hạ nhiệt cả trạng thái trước khi ngủ",
+      "link": "https://thanhnien.vn/dung-chi-ha-nhiet-can-phong-hay-ha-nhiet-ca-trang-thai-truoc-khi-ngu-185260820142407047.htm",
+      "summary": "Dù điều hòa đã bật suốt đêm, nhiều cư dân đô thị vẫn thức dậy trong trạng thái mệt mỏi, trằn trọc. Cốt lõi không chỉ nằm ở nhiệt độ, mà ở 'sức nóng' tích tụ từ môi trường và tâm lý chưa được giải tỏa trước khi đặt lưng xuống giường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T02:00:00+07:00",
+      "fetched": "2026-08-21T09:54:13.873573+07:00"
+    },
+    {
+      "id": "fa48227f2abd949dcab0b1707f23c98d",
+      "title": "Học sinh Trường Quốc tế Bắc Mỹ - SNA Nam Sài Gòn trở lại trường: Khám phá không gian mới, sẵn sàng hành trình tương lai",
+      "link": "https://thanhnien.vn/hoc-sinh-truong-quoc-te-bac-my-sna-nam-sai-gon-tro-lai-truong-kham-pha-khong-gian-moi-san-sang-hanh-trinh-tuong-lai-185260820094108508.htm",
+      "summary": "Sau kỳ nghỉ hè, học sinh Trường Quốc tế Bắc Mỹ (SNA) Nam Sài Gòn – một trong bốn trường tại TP.HCM giảng dạy đầy đủ ba chương trình của Tú tài Quốc tế (IB) – trở lại trường trong không khí sôi nổi của năm học mới. Không chỉ làm mới không gian học tập, SNA Nam Sài Gòn còn mở rộng các hoạt động trải n...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T02:00:00+07:00",
+      "fetched": "2026-08-21T09:54:13.873723+07:00"
+    },
+    {
+      "id": "a23bdb92862c9baadad8c31dda4b0ee1",
+      "title": "Cúi đầu nhìn điện thoại, coi chừng cái cổ 'lãnh đủ'",
+      "link": "https://thanhnien.vn/cui-dau-nhin-dien-thoai-coi-chung-cai-co-lanh-du-185260819150442213.htm",
+      "summary": "Tư thế cúi đầu nhìn vào màn hình điện thoại đã trở thành thói quen của không ít người trẻ. Đằng sau thói quen cúi đầu tưởng chừng vô hại ấy là những áp lực đặt nặng lên vùng cổ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T02:00:00+07:00",
+      "fetched": "2026-08-21T09:54:13.873876+07:00"
+    },
+    {
+      "id": "6567e990c64d3683528f9334a09bdc19",
+      "title": "Hơn 10 năm cưu mang chó hoang của cô gái miền Tây",
+      "link": "https://thanhnien.vn/hon-10-nam-cuu-mang-cho-hoang-cua-co-gai-mien-tay-185260819113454838.htm",
+      "summary": "Hơn một thập kỷ qua, mỗi lần thấy chó hoang bị thương hay bệnh tật, chị Ngọc (Ngọc Thiên Di), ngụ xã Giao Long, tỉnh Vĩnh Long, lại đưa về chăm sóc. Từ tình yêu động vật, mái ấm của vợ chồng chị dần trở thành nơi nương náu của hàng chục chú chó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T02:00:00+07:00",
+      "fetched": "2026-08-21T09:54:13.874080+07:00"
+    },
+    {
+      "id": "a79096b681f5c3ce2fbbd1e50d570c2d",
+      "title": "Cách Tasco Auto giảm một nửa thời gian chờ phụ tùng ôtô",
+      "link": "https://vnexpress.net/cach-tasco-auto-giam-mot-nua-thoi-gian-cho-phu-tung-oto-5111503.html",
+      "summary": "Tasco Auto chủ động dự báo nhu cầu, tổ chức lại nguồn cung nhằm giảm thời gian chờ phụ tùng trong bối cảnh doanh số và mẫu xe tăng, theo Giám đốc hậu mãi Nguyễn Trung Kiên.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-21T02:00:00+07:00",
+      "fetched": "2026-08-21T09:54:19.090618+07:00"
+    },
+    {
+      "id": "251bae006f5e931bfb41ff7ce0c23f13",
+      "title": "Vẻ đẹp cung đèo Lộ Diêu uốn lượn ven biển Gia Lai",
+      "link": "https://thanhnien.vn/ve-dep-cung-deo-lo-dieu-uon-luon-ven-bien-gia-lai-185260820101433902.htm",
+      "summary": "Cung đèo Lộ Diêu vừa hoàn thành mở ra cảnh sắc biển núi hoang sơ, được kỳ vọng sẽ là điểm thu hút du khách đến ngắm bình minh và khám phá tuyến đường ven biển nên thơ này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T01:54:00+07:00",
+      "fetched": "2026-08-21T09:54:13.874248+07:00"
+    },
+    {
+      "id": "b416703eec2ffd6d8ed2c41b02f7fab1",
+      "title": "Pha cản phá kép của Lê Giang Patrik lọt tốp cứu thua ngoạn mục nhất bán kết ASEAN Cup 2026",
+      "link": "https://thanhnien.vn/pha-can-pha-kep-cua-le-giang-patrik-lot-top-cuu-thua-ngoan-muc-nhat-ban-ket-asean-cup-2026-185260821084911771.htm",
+      "summary": "Lê Giang Patrik tiếp tục để lại dấu ấn đậm nét ở bán kết ASEAN Cup 2026 với những pha phản xạ xuất sắc, trong đó có màn cứu thua kép được AFF bình chọn vào nhóm 4 pha cản phá ấn tượng nhất vòng đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T01:50:00+07:00",
+      "fetched": "2026-08-21T09:54:13.874402+07:00"
+    },
+    {
+      "id": "be616ace45b9428ee1c5adf74ba7d1b0",
+      "title": "Porsche 911 độc bản Louis Vuitton - đỉnh cao thể thao xa xỉ",
+      "link": "https://vnexpress.net/porsche-911-doc-ban-louis-vuitton-dinh-cao-the-thao-xa-xi-5111532.html",
+      "summary": "Hai chiếc xe thể thao sở hữu khoang nội thất xa xỉ cùng bộ phụ kiện hàng hiệu là sản phẩm từ LV và hãng chuyên độ Porsche 911.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T01:38:44+07:00",
+      "fetched": "2026-08-21T09:54:10.428402+07:00"
+    },
+    {
+      "id": "5faca8bb46f8ef12b2f5568e02d4508b",
+      "title": "Bà Melania tái xuất sau một tháng vắng bóng",
+      "link": "https://vnexpress.net/ba-melania-tai-xuat-sau-mot-thang-vang-bong-5111518.html",
+      "summary": "Đệ nhất phu nhân Mỹ xuất hiện sự kiện Nhà Trắng, hài hước đáp lại những đồn đoán về thời gian vắng mặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T01:26:23+07:00",
+      "fetched": "2026-08-21T09:54:10.428584+07:00"
+    },
+    {
+      "id": "5faca8bb46f8ef12b2f5568e02d4508b",
+      "title": "Bà Melania tái xuất sau một tháng vắng bóng",
+      "link": "https://vnexpress.net/ba-melania-tai-xuat-sau-mot-thang-vang-bong-5111518.html",
+      "summary": "Đệ nhất phu nhân Mỹ xuất hiện sự kiện Nhà Trắng, hài hước đáp lại những đồn đoán về thời gian vắng mặt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-21T01:26:23+07:00",
+      "fetched": "2026-08-21T09:54:17.603036+07:00"
     },
     {
       "id": "f6936da8eab04c05517bd0c7e67a9ba3",
@@ -261,6 +621,146 @@ window.newsData_2026_08_21 = {
       "category": "Tổng hợp",
       "published": "2026-08-21T01:23:17.342797+07:00",
       "fetched": "2026-08-21T01:23:17.342928+07:00"
+    },
+    {
+      "id": "6ced51962149c0daad843a9d270dd06a",
+      "title": "Em biết nấu ăn, cắm hoa, sắm sửa lễ lạt",
+      "link": "https://vnexpress.net/em-biet-nau-an-cam-hoa-sam-sua-le-lat-5111205.html",
+      "summary": "Quan điểm về hôn nhân của em là kết hôn để chúng ta cùng có một cuộc sống hạnh phúc hơn, tốt hơn khi chúng ta còn độc thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T01:14:49+07:00",
+      "fetched": "2026-08-21T09:54:10.428746+07:00"
+    },
+    {
+      "id": "3298a8b994018eb92f245416d6ac0cdb",
+      "title": "Nhà thờ ở Ninh Bình cháy ngùn ngụt trong đêm",
+      "link": "https://vnexpress.net/nha-tho-o-ninh-binh-chay-ngun-ngut-trong-dem-5111513.html",
+      "summary": "Lửa bùng lên từ mái nhà thờ giáo xứ Áng Sơn, phường Tây Hoa Lư, sau đó lan nhanh, người dân xung quanh tìm cách dập lửa nhưng bất thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T01:10:32+07:00",
+      "fetched": "2026-08-21T09:54:10.428919+07:00"
+    },
+    {
+      "id": "5918ff57b463fc0c6f7a6afd3e9010c6",
+      "title": "Ngày cuối mua giá ưu đãi giải VM Grand Tour Nghệ An",
+      "link": "https://vnexpress.net/vnexpress-marathon-grand-tour-nghe-an-2026-dong-super-early-bird-5111410.html",
+      "summary": "VnExpress Marathon Grand Tour Nghệ An 2026 kết thúc giai đoạn giá bib ưu đãi nhất hôm nay, 21/8, trước khi mức phí tăng ở giai đoạn Early Bird.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T01:10:00+07:00",
+      "fetched": "2026-08-21T09:54:10.429113+07:00"
+    },
+    {
+      "id": "11b21374e4c8b5598ce997f07b538881",
+      "title": "Tiên cảnh ở xứ 'Tiểu Tây Tạng'",
+      "link": "https://vnexpress.net/tien-canh-o-xu-tieu-tay-tang-5110848.html",
+      "summary": "Khung cảnh như từ tranh bước ra của Ladakh khiến du khách Việt ngỡ ngàng suốt 10 ngày khám phá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T01:00:00+07:00",
+      "fetched": "2026-08-21T09:54:10.429276+07:00"
+    },
+    {
+      "id": "68d316f846f3596511e3d26f248da296",
+      "title": "Cô gái trèo vào bể cá để nhặt điện thoại",
+      "link": "https://vnexpress.net/dien-thoai-roi-xuong-be-ca-khong-lo-nguoi-phu-nu-bat-ngo-nhay-xuong-khien-ai-nay-dung-hinh-5107896.html",
+      "summary": "Bất ngờ đánh rơi điện thoại xuống bể cá khổng lồ, cô gái có màn xử lý khiến người chứng kiến không kịp trở tay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T01:00:00+07:00",
+      "fetched": "2026-08-21T09:54:10.429434+07:00"
+    },
+    {
+      "id": "d3378a526047cd772bf5581e9856caf9",
+      "title": "Bóc trọn u ngực bằng kỹ thuật hút chân không",
+      "link": "https://vnexpress.net/boc-tron-u-nguc-bang-ky-thuat-hut-chan-khong-5111516.html",
+      "summary": "Chị Bình, 20 tuổi, phát hiện khối u ngực trái khoảng 4 tháng trước, nay được bác sĩ phẫu thuật lấy trọn u bằng kỹ thuật sinh thiết kết hợp hút chân không (VABB).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T01:00:00+07:00",
+      "fetched": "2026-08-21T09:54:10.429589+07:00"
+    },
+    {
+      "id": "9ec3be4e900f2942265ad7505f83f78e",
+      "title": "Người phụ nữ bị viêm gan tự miễn kèm viêm đường mật",
+      "link": "https://vnexpress.net/nguoi-phu-nu-bi-viem-gan-tu-mien-kem-viem-duong-mat-5111512.html",
+      "summary": "Bà Lài, 67 tuổi, đang điều trị viêm gan tự miễn bất ngờ phát hiện viêm đường mật, phải điều trị song song gần ba tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T01:00:00+07:00",
+      "fetched": "2026-08-21T09:54:10.429742+07:00"
+    },
+    {
+      "id": "1af5d7f8c888cf228fe0a36d5b87b6f1",
+      "title": "Nấm thanh quản có nguy hiểm?",
+      "link": "https://vnexpress.net/nam-thanh-quan-co-nguy-hiem-5111510.html",
+      "summary": "Tôi khàn tiếng kéo dài, bác sĩ chẩn đoán nấm thanh quản. Bệnh này nguy hiểm không, điều trị thế nào? (Tuấn Anh, 35 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T01:00:00+07:00",
+      "fetched": "2026-08-21T09:54:10.429901+07:00"
+    },
+    {
+      "id": "e7671306d4fc9d5ab06e9a52c9951c0f",
+      "title": "Vi khuẩn răng miệng tấn công tim gây nhiễm trùng",
+      "link": "https://vnexpress.net/vi-khuan-rang-mieng-tan-cong-tim-gay-nhiem-trung-5111507.html",
+      "summary": "Chị Nhàn, 24 tuổi, sốt và ho suốt 2 tháng, bác sĩ chẩn đoán vi khuẩn từ khoang miệng xâm nhập vào tim gây viêm nội tâm mạc nhiễm trùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T01:00:00+07:00",
+      "fetched": "2026-08-21T09:54:10.430091+07:00"
+    },
+    {
+      "id": "88d9bfefefa6d452b240753a6b6e751e",
+      "title": "Ngắm nhật thực trực tiếp có thể hại mắt thế nào",
+      "link": "https://vnexpress.net/ngam-nhat-thuc-truc-tiep-co-the-hai-mat-the-nao-5111467.html",
+      "summary": "Ngắm nhật thực trực tiếp trong thời gian dài mà không bảo vệ mắt có thể gây tổn thương võng mạc, dẫn đến nhìn mờ, rối loạn khả năng phân biệt màu sắc, giảm thị lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T01:00:00+07:00",
+      "fetched": "2026-08-21T09:54:10.430277+07:00"
+    },
+    {
+      "id": "0527d07853bfadd214a93d3136318555",
+      "title": "Pullman Saigon Centre tung chính sách ưu đãi tiệc tất niên",
+      "link": "https://vnexpress.net/pullman-saigon-centre-tung-chinh-sach-uu-dai-tiec-tat-nien-5111462.html",
+      "summary": "Pullman Saigon Centre giảm 10% tổng giá trị dịch vụ cho doanh nghiệp đặt tiệc tất niên trước ngày 30/9, đi kèm hạ tầng sự kiện 5 sao và thực đơn ẩm thực thượng hạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T01:00:00+07:00",
+      "fetched": "2026-08-21T09:54:10.430433+07:00"
+    },
+    {
+      "id": "857f398d466800a0e07bb3145dacd2d7",
+      "title": "Huda đồng hành sự kiện Huế Wonderverse Music Fest 2026",
+      "link": "https://vnexpress.net/huda-dong-hanh-su-kien-hue-wonderverse-music-fest-2026-5111460.html",
+      "summary": "Tại Huế Wonderverse Music Fest 2026, thông qua các hoạt động trải nghiệm bia Huda góp phần kết nối văn hóa địa phương đến du khách trong và ngoài nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T01:00:00+07:00",
+      "fetched": "2026-08-21T09:54:10.430585+07:00"
+    },
+    {
+      "id": "6173b66dc3f498d1dcc5bd5a26c2029b",
+      "title": "11 năm Ahamove chuyển mình với công nghệ AI trong điều phối vận tải",
+      "link": "https://vnexpress.net/11-nam-ahamove-chuyen-minh-voi-cong-nghe-ai-trong-dieu-phoi-van-tai-5111352.html",
+      "summary": "Từ tự động điều phối đến hỗ trợ tạo đơn, AI đang giúp Ahamove tối ưu nguồn lực, nâng hiệu quả vận hành và mở rộng năng lực phục vụ khách hàng doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T01:00:00+07:00",
+      "fetched": "2026-08-21T09:54:10.430750+07:00"
+    },
+    {
+      "id": "6173b66dc3f498d1dcc5bd5a26c2029b",
+      "title": "11 năm Ahamove chuyển mình với công nghệ AI trong điều phối vận tải",
+      "link": "https://vnexpress.net/11-nam-ahamove-chuyen-minh-voi-cong-nghe-ai-trong-dieu-phoi-van-tai-5111352.html",
+      "summary": "Từ tự động điều phối đến hỗ trợ tạo đơn, AI đang giúp Ahamove tối ưu nguồn lực, nâng hiệu quả vận hành và mở rộng năng lực phục vụ khách hàng doanh nghiệp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-21T01:00:00+07:00",
+      "fetched": "2026-08-21T09:54:19.090781+07:00"
     },
     {
       "id": "2e9d3371f51216a2d71993fb0daf77f3",
