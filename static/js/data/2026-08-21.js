@@ -1,7 +1,157 @@
 window.newsData_2026_08_21 = {
   "date": "2026-08-21",
-  "lastUpdated": "2026-08-21T21:24:20.005751+07:00",
+  "lastUpdated": "2026-08-21T23:20:17.012919+07:00",
   "articles": [
+    {
+      "id": "b8c4613cc903c054ac42195a04b3f715",
+      "title": "Hàng trăm binh sĩ Ukraine đào ngũ khi huấn luyện tại Đức?",
+      "link": "https://tuoitre.vn/hang-tram-binh-si-ukraine-dao-ngu-khi-huan-luyen-tai-duc-10026082120375662.htm",
+      "summary": "Hàng trăm binh sĩ Ukraine được cho là đã tự ý rời đơn vị, nhằm tránh phải trở về nước tiếp tục chiến đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:20:09.563495+07:00",
+      "fetched": "2026-08-21T23:20:09.563547+07:00"
+    },
+    {
+      "id": "6f7e3ac89266b80bffcbd557bb468b93",
+      "title": "Từ chuyến xe lúc 2h30 sáng, lộ kho thuốc lá lậu của cặp vợ chồng ở Cần Thơ",
+      "link": "https://tuoitre.vn/tu-chuyen-xe-luc-2h30-sang-lo-kho-thuoc-la-lau-cua-cap-vo-chong-o-can-tho-100260821202230155.htm",
+      "summary": "Bốn người bị tạm giữ sau khi Công an TP Cần Thơ phát hiện, thu giữ 28.440 bao thuốc lá điếu nhập lậu cùng nhiều tang vật liên quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:20:09.563417+07:00",
+      "fetched": "2026-08-21T23:20:09.563488+07:00"
+    },
+    {
+      "id": "76c294a845a0d526a6bb59c2b61a7193",
+      "title": "Bộ GD-ĐT yêu cầu Nhà xuất bản Giáo Dục công khai nơi bán sách giáo khoa",
+      "link": "https://tuoitre.vn/bo-gd-dt-yeu-cau-nha-xuat-ban-giao-duc-cong-khai-noi-ban-sach-giao-khoa-100260821202729909.htm",
+      "summary": "Bộ Giáo dục và Đào tạo đề nghị Nhà xuất bản Giáo Dục Việt Nam công khai, cập nhật thông tin về các địa điểm bán/cung ứng sách giáo khoa chính thức để học sinh, cha mẹ học sinh dễ tiếp cận, chủ động mua sách giáo khoa khi có nhu cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:20:09.563134+07:00",
+      "fetched": "2026-08-21T23:20:09.563403+07:00"
+    },
+    {
+      "id": "8107798a1ab1a73a2ac68a149be6546b",
+      "title": "Iran dọa đáp trả 'tàn khốc' các đòn trừng phạt của Mỹ",
+      "link": "https://tuoitre.vn/iran-doa-dap-tra-tan-khoc-cac-don-trung-phat-cua-my-100260821191111888.htm",
+      "summary": "Iran dọa sẽ đáp trả \"tàn khốc\", sau khi Mỹ cam kết áp đặt các biện pháp trừng phạt tài chính nhằm vào nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:20:09.563093+07:00",
+      "fetched": "2026-08-21T23:20:09.563128+07:00"
+    },
+    {
+      "id": "1ad7434d0fcfadb872f4daca70a9bc04",
+      "title": "Tây Ninh hoàn tất lấy mẫu ADN từ mộ liệt sĩ, thu được 15.336 mẫu",
+      "link": "https://tuoitre.vn/tay-ninh-hoan-tat-lay-mau-adn-tu-mo-liet-si-thu-duoc-15336-mau-100260821190615781.htm",
+      "summary": "Sau 77 ngày, Tây Ninh đã hoàn tất lấy mẫu 18.583 mộ liệt sĩ chưa xác định được danh tính tại 18 nghĩa trang liệt sĩ trên toàn địa bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:20:09.563040+07:00",
+      "fetched": "2026-08-21T23:20:09.563075+07:00"
+    },
+    {
+      "id": "42f0021279803c6e005faef018de2b8e",
+      "title": "Làng hoa Sa Đéc giảm 20% lượng cúc mâm xôi truyền thống vụ hoa Tết",
+      "link": "https://tuoitre.vn/lang-hoa-sa-dec-giam-20-luong-cuc-mam-xoi-truyen-thong-vu-hoa-tet-100260821171903702.htm",
+      "summary": "Nông dân làng hoa Sa Đéc đã xuống giống vụ hoa Tết 2027, nông dân chủ động giảm 20% số lượng mâm xôi màu vàng truyền thống, tăng 30% cúc mâm xôi màu các loại theo thị hiếu người tiêu dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:20:09.562996+07:00",
+      "fetched": "2026-08-21T23:20:09.563033+07:00"
+    },
+    {
+      "id": "b587e6b9876db1bd2ab5af57691d8a47",
+      "title": "TP.HCM gắn trách nhiệm người đứng đầu với kết quả đấu thầu các dự án",
+      "link": "https://tuoitre.vn/tphcm-gan-trach-nhiem-nguoi-dung-dau-voi-ket-qua-dau-thau-cac-du-an-100260821185701917.htm",
+      "summary": "Thủ trưởng các cơ quan, đơn vị tại TP.HCM sẽ chịu trách nhiệm toàn diện trước Chủ tịch UBND TP.HCM về kết quả lựa chọn nhà thầu, lựa chọn nhà đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:20:09.562953+07:00",
+      "fetched": "2026-08-21T23:20:09.562989+07:00"
+    },
+    {
+      "id": "73ac7050542b16ccf1e0cc2f3313eb0b",
+      "title": "Khai mạc Giải bóng chuyền quân đội các nước ASEAN mở rộng năm 2026",
+      "link": "https://tuoitre.vn/khai-mac-giai-bong-chuyen-quan-doi-cac-nuoc-asean-mo-rong-nam-2026-100260821200810114.htm",
+      "summary": "Tối 21-8, lễ khai mạc Giải bóng chuyền quân đội các nước ASEAN mở rộng năm 2026 diễn ra tại nhà thi đấu Đông Anh (Hà Nội).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:20:09.562912+07:00",
+      "fetched": "2026-08-21T23:20:09.562948+07:00"
+    },
+    {
+      "id": "b2f622be306ba3895c38a87523bd2944",
+      "title": "Đối thủ của bóng chuyền nữ Việt Nam gây ngỡ ngàng ở giải châu Á",
+      "link": "https://tuoitre.vn/doi-thu-cua-bong-chuyen-nu-viet-nam-gay-ngo-ngang-o-giai-chau-a-100260821191833903.htm",
+      "summary": "Dù để thua Nhật Bản, Hong Kong vẫn khiến nhiều người bất ngờ trong ngày ra quân Giải bóng chuyền nữ vô địch châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:20:09.562869+07:00",
+      "fetched": "2026-08-21T23:20:09.562906+07:00"
+    },
+    {
+      "id": "df7f97af720ba04d9ecb885da0946955",
+      "title": "Người dân châu Âu tăng cường trữ tiền mặt",
+      "link": "https://tuoitre.vn/nguoi-dan-chau-au-tang-cuong-tru-tien-mat-100260821185133712.htm",
+      "summary": "Người dân châu Âu vẫn tích trữ tiền mặt để phòng nguy cơ chiến tranh, thiên tai và các cuộc tấn công mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:20:09.562826+07:00",
+      "fetched": "2026-08-21T23:20:09.562863+07:00"
+    },
+    {
+      "id": "22b6df01d630c9137ee2b72a0d663721",
+      "title": "Ấn Độ cấm xây dựng ở bang Delhi trong 42 ngày",
+      "link": "https://tuoitre.vn/an-do-cam-xay-dung-o-bang-delhi-trong-42-ngay-100260821193820517.htm",
+      "summary": "Ấn Độ cấm hoạt động xây dựng ở bang Delhi nhằm kiểm soát chất lượng không khí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:20:09.562783+07:00",
+      "fetched": "2026-08-21T23:20:09.562820+07:00"
+    },
+    {
+      "id": "6728890faaab346514cb11d022ee0aef",
+      "title": "Cựu cầu thủ Milosevic bị bắt giữ với số ma túy và vũ khí quân dụng trị giá 70 triệu USD",
+      "link": "https://tuoitre.vn/cuu-cau-thu-milosevic-bi-bat-giu-voi-so-ma-tuy-va-vu-khi-quan-dung-tri-gia-70-trieu-usd-10026082120250032.htm",
+      "summary": "Uros Milosevic, cựu cầu thủ bóng đá người Serbia, đã bị bắt ngày 20-8 khi đang lái một chiếc xe tải chở 1,5 tấn cocaine và hai khẩu súng quân dụng trị giá khoảng 70 triệu euro...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:20:09.562737+07:00",
+      "fetched": "2026-08-21T23:20:09.562777+07:00"
+    },
+    {
+      "id": "4a5bed5c65ea3d4b6ee6d8b11a0b2018",
+      "title": "Lừa đảo chiếm đất chính chủ ly kỳ, cuối cùng cũng bị bắt",
+      "link": "https://tuoitre.vn/vu-lua-dao-chiem-dat-chinh-chu-ly-ky-cuoi-cung-cung-bi-bat-100260821200419043.htm",
+      "summary": "Được nhờ làm thủ tục tách thửa, Phước đưa thông tin gian dối rằng bà P. không thể cùng lúc đứng tên hai sổ đỏ nên đề nghị sang qua mình một thửa. Sau đó, Phước lấy sổ đỏ này đem cầm cố, rồi bán luôn miếng đất cho người khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:20:09.562687+07:00",
+      "fetched": "2026-08-21T23:20:09.562730+07:00"
+    },
+    {
+      "id": "f0edac9df00d297218bf6f1fb2db3ab6",
+      "title": "Xử phạt thanh niên nằm trên yên xe 'làm xiếc' trên đường",
+      "link": "https://tuoitre.vn/xu-phat-thanh-nien-nam-tren-yen-xe-lam-xiec-tren-duong-100260821172455047.htm",
+      "summary": "Một nam thanh niên ở Ninh Bình bị lập biên bản xử phạt 6 triệu đồng và tịch thu xe máy sau khi vừa nằm sấp vừa lái xe, không đội mũ bảo hiểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:20:09.562632+07:00",
+      "fetched": "2026-08-21T23:20:09.562680+07:00"
+    },
+    {
+      "id": "5b65d834d7f64cc7e30e3ee6364db49d",
+      "title": "Jannik Sinner rút lui khỏi Giải quần vợt Mỹ mở rộng 2026",
+      "link": "https://tuoitre.vn/jannik-sinner-rut-lui-khoi-giai-quan-vot-my-mo-rong-2026-100260821214222877.htm",
+      "summary": "Tay vợt số một thế giới Jannik Sinner đã chính thức tuyên bố rút lui khỏi Giải quần vợt Mỹ mở rộng 2026 do chấn thương đầu gối dai dẳng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:20:09.562488+07:00",
+      "fetched": "2026-08-21T23:20:09.562622+07:00"
+    },
     {
       "id": "75e9bd16df85bbeb6601576569bacf13",
       "title": "Nhà hảo tâm Quảng Nam - Đà Nẵng trao 1,5 tỉ đồng cho Tuổi Trẻ tiếp sức đến trường",
@@ -453,6 +603,56 @@ window.newsData_2026_08_21 = {
       "fetched": "2026-08-21T17:19:33.618584+07:00"
     },
     {
+      "id": "57bb4678373b974e9bb7e623a36573b7",
+      "title": "Tuyển thủ Argentina bị treo giò 10 trận vì ẩu đả ở chung kết World Cup 2026",
+      "link": "https://vnexpress.net/tuyen-thu-argentina-bi-treo-gio-10-tran-vi-au-da-o-chung-ket-world-cup-2026-5111899.html",
+      "summary": "Ba cầu thủ và một thành viên trong ban huấn luyện Argentina lĩnh án cấm tổng cộng 21 trận, trong khi phía Tây Ban Nha là một trận, do vụ ẩu đả sau trận chung kết World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T16:03:23+07:00",
+      "fetched": "2026-08-21T23:20:04.757270+07:00"
+    },
+    {
+      "id": "69733eb3ae3a47d01e7ac443c711c89f",
+      "title": "Lâm Đồng giảm 628 cơ sở giáo dục công lập, hơn 1.000 hiệu trưởng, hiệu phó",
+      "link": "https://thanhnien.vn/lam-dong-giam-628-co-so-giao-duc-cong-lap-hon-1000-hieu-truong-hieu-pho-185260821213219796.htm",
+      "summary": "UBND tỉnh Lâm Đồng phê duyệt phương án giảm 628 cơ sở giáo dục công lập, tương đương 43,22%, đồng thời tinh gọn 1.687 cán bộ quản lý và nhân viên trường học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T15:55:00+07:00",
+      "fetched": "2026-08-21T23:20:07.647844+07:00"
+    },
+    {
+      "id": "ff8638754a1eae910a5a3f303adab28a",
+      "title": "Hà Nội bắn pháo hoa mừng ngày Quốc khánh",
+      "link": "https://vnexpress.net/ha-noi-ban-phao-hoa-mung-ngay-quoc-khanh-5111892.html",
+      "summary": "Tối 2/9, thành phố tổ chức bắn pháo hoa từ 21h đến 21h15 trước trụ sở báo Hà Nội mới, Bưu điện Hà Nội, công viên Thống nhất, đường đua F1 và vườn hoa Lạc Long Quân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T15:48:07+07:00",
+      "fetched": "2026-08-21T23:20:04.757401+07:00"
+    },
+    {
+      "id": "8c2d36dd3593169639a51ebc2ee3ec43",
+      "title": "Thổ Nhĩ Kỳ đề nghị Interpol phát lệnh truy nã Thủ tướng Israel",
+      "link": "https://vnexpress.net/tho-nhi-ky-de-nghi-interpol-phat-lenh-truy-na-thu-tuong-israel-5111882.html",
+      "summary": "Thổ Nhĩ Kỳ phát lệnh bắt trong nước đối với Thủ tướng Netanyahu, đồng thời yêu cầu Interpol phát lệnh truy nã quốc tế liên quan đến việc Israel chặn đoàn tàu biển cứu trợ tới Gaza.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T15:30:10+07:00",
+      "fetched": "2026-08-21T23:20:04.757516+07:00"
+    },
+    {
+      "id": "8c2d36dd3593169639a51ebc2ee3ec43",
+      "title": "Thổ Nhĩ Kỳ đề nghị Interpol phát lệnh truy nã Thủ tướng Israel",
+      "link": "https://vnexpress.net/tho-nhi-ky-de-nghi-interpol-phat-lenh-truy-na-thu-tuong-israel-5111882.html",
+      "summary": "Thổ Nhĩ Kỳ phát lệnh bắt trong nước đối với Thủ tướng Netanyahu, đồng thời yêu cầu Interpol phát lệnh truy nã quốc tế liên quan đến việc Israel chặn đoàn tàu biển cứu trợ tới Gaza.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-21T15:30:10+07:00",
+      "fetched": "2026-08-21T23:20:10.741419+07:00"
+    },
+    {
       "id": "1bbab0cf3341503892459dd1a3555fe1",
       "title": "Gần 14 triệu tài khoản chứng khoán nhưng tiền lại về vùng thấp như thời 'cú sốc thuế quan'",
       "link": "https://tuoitre.vn/gan-14-trieu-tai-khoan-chung-khoan-nhung-tien-lai-ve-vung-thap-nhu-thoi-cu-soc-thue-quan-100260821115255937.htm",
@@ -603,6 +803,76 @@ window.newsData_2026_08_21 = {
       "fetched": "2026-08-21T15:27:19.406932+07:00"
     },
     {
+      "id": "544866669ba29e7d45a0d343de3bdf52",
+      "title": "Chồng cũ và 'tiểu tam' tìm cách hãm hại tôi",
+      "link": "https://vnexpress.net/chong-cu-va-tieu-tam-tim-cach-ham-hai-toi-5111826.html",
+      "summary": "Anh ta có rất nhiều cách để được hạnh phúc với vợ mới của mình, thế nhưng lại chọn dối trá trắng trợn, hạ nhục tôi và cha mẹ tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T15:19:15+07:00",
+      "fetched": "2026-08-21T23:20:04.757677+07:00"
+    },
+    {
+      "id": "3d6270c07ba2854d5d8dddfd8f500ed1",
+      "title": "Cùng sống xanh 162: Mê nấm, người nông dân học cách nấu cao linh chi giúp người dùng dễ sử dụng hơn",
+      "link": "https://thanhnien.vn/cung-song-xanh-162-me-nam-nguoi-nong-dan-hoc-cach-nau-cao-linh-chi-giup-nguoi-dung-de-su-dung-hon-185260821202225328.htm",
+      "summary": "Nhận thấy việc uống nấm linh chi bằng cách hãm trà gây nhiều trở ngại cho người dùng nên anh Đặng Quang Trung có trang trại ở xã Sơn Mỹ, tỉnh Lâm Đồng đã tìm cách nấu cao nấm để giúp người dùng thuận tiện sử dụng hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T15:13:00+07:00",
+      "fetched": "2026-08-21T23:20:07.647966+07:00"
+    },
+    {
+      "id": "f4364c257ea509925308af7e0281e521",
+      "title": "Lừa cụ bà tách sổ đỏ rồi chiếm đoạt",
+      "link": "https://vnexpress.net/lua-cu-ba-tach-so-do-roi-chiem-doat-5111862.html",
+      "summary": "Phan Văn Phước bị bắt với cáo buộc lừa một cụ bà tách thửa đất mới mang tên anh ta, rồi chiếm đoạt bán cho người khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T15:04:13+07:00",
+      "fetched": "2026-08-21T23:20:04.757786+07:00"
+    },
+    {
+      "id": "5454343b1f337d484d0c12a8f32ef0fc",
+      "title": "Bộ GD-ĐT yêu cầu không để thiếu sách giáo khoa mà chưa có phương án xử lý",
+      "link": "https://thanhnien.vn/bo-gd-dt-yeu-cau-khong-de-thieu-sach-giao-khoa-ma-chua-co-phuong-an-xu-ly-185260821210525081.htm",
+      "summary": "Bộ GD-ĐT giao các sở GD-ĐT chủ động phối hợp với Nhà xuất bản Giáo dục Việt Nam, xây dựng phương án cung ứng sách giáo khoa phù hợp, thuận tiện, đầy đủ, kịp thời trước ngày 30.8.2026; không để thiếu sách giáo khoa mà chưa có phương án xử lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T14:54:00+07:00",
+      "fetched": "2026-08-21T23:20:07.648075+07:00"
+    },
+    {
+      "id": "0433f25e0351217c54be63b9b31f72c1",
+      "title": "Vì sao áo dài Miss World Opal Suchata diện tại Việt Nam bị chê 'dìm dáng'?",
+      "link": "https://thanhnien.vn/vi-sao-ao-dai-miss-world-opal-suchata-mac-tai-viet-nam-bi-che-dim-dang-18526082121241048.htm",
+      "summary": "Thiết kế áo dài được đương kim Hoa hậu Thế giới - Opal Suchata trình diễn trong một sự kiện thuộc khuôn khổ cuộc thi vấp phải tranh luận trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T14:36:00+07:00",
+      "fetched": "2026-08-21T23:20:07.648181+07:00"
+    },
+    {
+      "id": "8815c246351977901865ac70178fd230",
+      "title": "Robot hình người gặp sự cố vì 'chạy quá sức'",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-gap-su-co-vi-chay-qua-suc-5111795.html",
+      "summary": "Lao vào tủ điện, gờ chắn đến ngã liên tục trên sân bóng, nhiều robot gặp trục trặc khi tập luyện tcho Thế vận hội Robot hình người lần thứ hai ở Bắc Kinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T14:31:11+07:00",
+      "fetched": "2026-08-21T23:20:04.757893+07:00"
+    },
+    {
+      "id": "5ab85385ffc96ebace2a0d3ce1aa0dc2",
+      "title": "Bộ Giáo dục: Đủ sách giáo khoa trước 30/8",
+      "link": "https://vnexpress.net/bo-giao-duc-du-sach-giao-khoa-truoc-30-8-5111880.html",
+      "summary": "Trước cảnh phụ huynh chen chân, xếp hàng tìm mua sách giáo khoa, Bộ Giáo dục yêu cầu địa phương và nhà xuất bản khẩn trương rà soát, đảm bảo đủ sách trước 30/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T14:17:31+07:00",
+      "fetched": "2026-08-21T23:20:04.757997+07:00"
+    },
+    {
       "id": "98c341b3989a394015d467866911fc66",
       "title": "Huế mở hướng phát triển phía đông với đại lộ 6 làn xe 22.000 tỉ đồng",
       "link": "https://thanhnien.vn/hue-mo-huong-phat-trien-phia-dong-voi-dai-lo-6-lan-xe-22000-ti-dong-185260821193425127.htm",
@@ -621,6 +891,16 @@ window.newsData_2026_08_21 = {
       "category": "Tổng hợp",
       "published": "2026-08-21T14:05:00+07:00",
       "fetched": "2026-08-21T21:24:11.342960+07:00"
+    },
+    {
+      "id": "8fbb966e237070c77a05a905df57208e",
+      "title": "Mỹ 'thay ca' tàu sân bay Mỹ ở Trung Đông",
+      "link": "https://thanhnien.vn/my-thay-ca-tau-san-bay-my-o-trung-dong-185260821184330606.htm",
+      "summary": "Tàu sân bay Mỹ USS Abraham Lincoln đang rời khỏi Trung Đông để về nước sau 9 tháng triển khai trong khi tàu USS George Washington thay thế làm nhiệm vụ đối phó Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T14:00:00+07:00",
+      "fetched": "2026-08-21T23:20:07.648494+07:00"
     },
     {
       "id": "5b8ca071f02e69040c721376601ae964",
