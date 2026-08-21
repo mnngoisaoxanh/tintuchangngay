@@ -1,7 +1,27 @@
 window.newsData_2026_08_22 = {
   "date": "2026-08-22",
-  "lastUpdated": "2026-08-22T01:22:19.326931+07:00",
+  "lastUpdated": "2026-08-22T03:14:22.331625+07:00",
   "articles": [
+    {
+      "id": "5b6b1508aee2796d3e98b751f21468e4",
+      "title": "Giá vàng thế giới tăng không ngừng, vượt xa 4.600 USD/ounce",
+      "link": "https://tuoitre.vn/gia-vang-the-gioi-tang-khong-ngung-vuot-xa-4600-usd-ounce-100260822001501667.htm",
+      "summary": "Chỉ 24 giờ qua, giá vàng thế giới đã tăng 300 USD/ounce, tương đương 9,5 triệu đồng/lượng và chạm mốc 4.631 USD/ounce lúc 0h hôm nay, 22-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:14:14.595507+07:00",
+      "fetched": "2026-08-22T03:14:14.595853+07:00"
+    },
+    {
+      "id": "09dae44913587a496e090f68f2f4e6dd",
+      "title": "Công an xuất hiện tại nhà Hải Sapa TV trong đêm",
+      "link": "https://tuoitre.vn/cong-an-xuat-hien-tai-nha-hai-sapa-tv-trong-dem-100260811100720682.htm",
+      "summary": "Công an và kiểm sát viên xuất hiện tại nhà riêng của ông Vũ Hoàng Hải (tức Hải Sapa TV, 40 tuổi) ở số 51-51 đường D1, Lạc Long Quân, phường Lào Cai, tỉnh Lào Cai trong đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:14:14.595348+07:00",
+      "fetched": "2026-08-22T03:14:14.595494+07:00"
+    },
     {
       "id": "df7f97af720ba04d9ecb885da0946955",
       "title": "Người dân châu Âu tăng cường trữ tiền mặt",
@@ -151,6 +171,16 @@ window.newsData_2026_08_22 = {
       "category": "Tổng hợp",
       "published": "2026-08-22T01:22:09.827131+07:00",
       "fetched": "2026-08-22T01:22:09.827283+07:00"
+    },
+    {
+      "id": "348b1b6db23f7b6a4e50d09a99cffc7f",
+      "title": "Vì sao càng gần sáng càng dễ tỉnh giấc?",
+      "link": "https://vnexpress.net/vi-sao-cang-gan-sang-cang-de-tinh-giac-5111301.html",
+      "summary": "Càng gần sáng, giấc ngủ càng nông, thời gian ngủ sâu giảm và cơ thể dần chuyển sang trạng thái tỉnh táo, khiến nhiều người dễ thức giấc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T19:00:00+07:00",
+      "fetched": "2026-08-22T03:14:09.684464+07:00"
     },
     {
       "id": "159830a7f95aeb0e85a54049054853ad",
