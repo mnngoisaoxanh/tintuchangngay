@@ -1,7 +1,157 @@
 window.newsData_2026_08_22 = {
   "date": "2026-08-22",
-  "lastUpdated": "2026-08-22T19:18:46.181283+07:00",
+  "lastUpdated": "2026-08-22T21:11:33.345102+07:00",
   "articles": [
+    {
+      "id": "1e3e77342c49864d17a38c80ddeedbc8",
+      "title": "Phường Bến Thành, Cầu Ông Lãnh đề xuất không tiếp tục sắp xếp",
+      "link": "https://tuoitre.vn/phuong-ben-thanh-cau-ong-lanh-de-xuat-khong-tiep-tuc-sap-xep-100260822164339269.htm",
+      "summary": "Sau 1 năm vận hành, phường Bến Thành và phường Cầu Ông Lãnh (TP.HCM) đánh giá bộ máy đã từng bước ổn định và đề xuất được giữ nguyên hiện trạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T21:11:27.730500+07:00",
+      "fetched": "2026-08-22T21:11:27.730563+07:00"
+    },
+    {
+      "id": "300a33c4f39535021460004143efb5bd",
+      "title": "Đề xuất di dời 3 di tích ở Bắc Ninh để làm đường nối sân bay Gia Bình đi Hà Nội",
+      "link": "https://tuoitre.vn/de-xuat-di-doi-3-di-tich-o-bac-ninh-de-lam-duong-noi-san-bay-gia-binh-di-ha-noi-100260822181320289.htm",
+      "summary": "Bộ Văn hóa, Thể thao và Du lịch đề xuất cơ chế đặc thù để di chuyển 3 di tích ở Bắc Ninh, phục vụ tuyến đường nối sân bay Gia Bình với Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T21:11:27.730433+07:00",
+      "fetched": "2026-08-22T21:11:27.730490+07:00"
+    },
+    {
+      "id": "f969f39fdfa24afb157eb75765f0c51f",
+      "title": "HLV Kim Sang Sik tung hàng công mạnh nhất đấu Thái Lan ở chung kết ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/hlv-kim-sang-sik-tung-hang-cong-manh-nhat-dau-thai-lan-o-chung-ket-asean-cup-2026-100260822175019315.htm",
+      "summary": "HLV Kim Sang Sik đã bố trí hàng công mạnh nhất với Đình Bắc, Xuân Son và Hoàng Hên đá chính cho đội tuyển Việt Nam, trong trận chung kết lượt đi ASEAN Cup 2026 với Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T21:11:27.730365+07:00",
+      "fetched": "2026-08-22T21:11:27.730423+07:00"
+    },
+    {
+      "id": "8f340bf8287aef9628469adfb5195fc0",
+      "title": "Bão số 4 ít dịch chuyển, tiếp tục gây mưa lớn ở Đông Bắc Bộ đêm nay",
+      "link": "https://tuoitre.vn/bao-so-4-it-dich-chuyen-tiep-tuc-gay-mua-lon-o-dong-bac-bo-dem-nay-100260822184132184.htm",
+      "summary": "Dự báo trong tối và đêm nay (22-8), khu vực Đông Bắc Bộ, Phú Thọ, Thanh Hóa tiếp tục có mưa lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T21:11:27.730296+07:00",
+      "fetched": "2026-08-22T21:11:27.730354+07:00"
+    },
+    {
+      "id": "918cb0031a31572c4d7c784a3c1f5be1",
+      "title": "Đất Bảo tàng Lịch sử quốc gia bị lấn chiếm, con trai nguyên giám đốc liên quan 80m²",
+      "link": "https://tuoitre.vn/dat-bao-tang-lich-su-quoc-gia-bi-lan-chiem-con-trai-nguyen-giam-doc-lien-quan-80m-100260822182941264.htm",
+      "summary": "Thanh tra Chính phủ kết luận khoảng 80m² đất do Bảo tàng Lịch sử quốc gia quản lý bị gia đình con trai một nguyên giám đốc của bảo tàng lấn chiếm. Sau đó, UBND quận Hoàn Kiếm (cũ) cấp sổ đỏ cho thửa đất hơn 304m², trong đó có toàn bộ phần diện tích này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T21:11:27.730198+07:00",
+      "fetched": "2026-08-22T21:11:27.730284+07:00"
+    },
+    {
+      "id": "eb9b82a5e0049774a953ec1fb354b928",
+      "title": "Giả vờ chở người bán vé số đi nhận đồ từ thiện rồi cuỗm túi tiền, vé số",
+      "link": "https://tuoitre.vn/gia-vo-cho-nguoi-ban-ve-so-di-nhan-do-tu-thien-roi-cuom-tui-tien-ve-so-100260822181710805.htm",
+      "summary": "Phạm Văn Hùng giả vờ nói biết nơi phát đồ từ thiện, dụ người bán vé số 66 tuổi lên xe rồi lấy túi xách chứa tiền và 98 tờ vé số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T21:11:27.730131+07:00",
+      "fetched": "2026-08-22T21:11:27.730188+07:00"
+    },
+    {
+      "id": "59deb4ebfafaaf2771522c2096b09344",
+      "title": "Sẽ truy xuất nguồn gốc sầu riêng từ vùng trồng cho tới đóng gói, kiểm nghiệm, xuất khẩu",
+      "link": "https://tuoitre.vn/se-truy-xuat-nguon-goc-sau-rieng-tu-vung-trong-cho-toi-dong-goi-kiem-nghiem-xuat-khau-100260822173708228.htm",
+      "summary": "Bộ Nông nghiệp và Môi trường sẽ hoàn thiện truy xuất nguồn gốc sầu riêng theo chuỗi, kết nối dữ liệu mã số vùng trồng, cơ sở đóng gói, kiểm nghiệm, kiểm dịch và lô hàng xuất khẩu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T21:11:27.730062+07:00",
+      "fetched": "2026-08-22T21:11:27.730120+07:00"
+    },
+    {
+      "id": "c38f960ac23e9ed59a6900a890f8227e",
+      "title": "TP.HCM đào tạo nhân lực giỏi ngoại ngữ cho đô thị khoa học công nghệ",
+      "link": "https://tuoitre.vn/tphcm-dao-tao-nhan-luc-gioi-ngoai-ngu-cho-do-thi-khoa-hoc-cong-nghe-100260822180952981.htm",
+      "summary": "Để đáp ứng nhu cầu nhân lực nhằm thu hút đầu tư, phát triển Đô thị khoa học công nghệ Bắc TP.HCM, các trường đại học tăng cường đào tạo các cử nhân, kỹ sư giỏi ngoại ngữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T21:11:27.729992+07:00",
+      "fetched": "2026-08-22T21:11:27.730051+07:00"
+    },
+    {
+      "id": "2a765b7b8b0134f75c66bf21cfecc913",
+      "title": "'Lộc Fuho' khoe nộp thuế 3 tỉ đồng, mạng xã hội chia sẻ rần rần, cơ quan thuế nói gì?",
+      "link": "https://tuoitre.vn/loc-fuho-khoe-nop-thue-3-ti-dong-mang-xa-hoi-chia-se-ran-ran-co-quan-thue-noi-gi-100260822183619728.htm",
+      "summary": "Những ngày qua, thông tin 'Lộc Fuho' khoe đã nộp thuế hơn 3 tỉ đồng thu hút sự chú ý của cư dân mạng. Tuổi Trẻ đã liên hệ với cơ quan thuế để xác minh thông tin trên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T21:11:27.729922+07:00",
+      "fetched": "2026-08-22T21:11:27.729982+07:00"
+    },
+    {
+      "id": "4de913ee2a5c079162894b468e8ddec5",
+      "title": "TikToker ‘QuyHoi’ bị tạm giữ vì đăng video sai sự thật, công kích lãnh đạo TP.HCM",
+      "link": "https://tuoitre.vn/tiktoker-quyhoi-bi-tam-giu-vi-dang-video-sai-su-that-cong-kich-lanh-dao-tphcm-100260822143801952.htm",
+      "summary": "Công an TP.HCM tạm giữ Lê Thị Hiểu, chủ tài khoản TikTok ‘QuyHoi’, để điều tra hành vi đăng video sai sự thật, công kích, xúc phạm lãnh đạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T21:11:27.729853+07:00",
+      "fetched": "2026-08-22T21:11:27.729911+07:00"
+    },
+    {
+      "id": "5462ed2ee5dc11c01e826823d3641c4e",
+      "title": "Xử lý thanh niên đi xe bốc đầu trên đường Trần Phú",
+      "link": "https://tuoitre.vn/xu-ly-thanh-nien-di-xe-boc-dau-tren-duong-tran-phu-100260822185039553.htm",
+      "summary": "Lực lượng Cảnh sát giao thông ở Quảng Ninh đã xử lý nam thanh niên điều khiển xe bằng 1 bánh trên đường Trần Phú.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T21:11:27.729784+07:00",
+      "fetched": "2026-08-22T21:11:27.729843+07:00"
+    },
+    {
+      "id": "635b6ad803c565e5f960fc54947845e8",
+      "title": "Chọn đồng hồ định vị cho trẻ: Những tiêu chí phụ huynh cần quan tâm",
+      "link": "https://tuoitre.vn/chon-dong-ho-dinh-vi-cho-tre-nhung-tieu-chi-phu-huynh-can-quan-tam-100260822150727829.htm",
+      "summary": "Độ tuổi, kích thước cổ tay, khả năng liên lạc, định vị, các tính năng bảo vệ trẻ và chi phí sử dụng là những yếu tố phụ huynh nên cân nhắc trước khi lựa chọn đồng hồ định vị cho con.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T21:11:27.729712+07:00",
+      "fetched": "2026-08-22T21:11:27.729773+07:00"
+    },
+    {
+      "id": "0c3bb82b066ee7f2729e0a7cba335d49",
+      "title": "Thỏa thuận thương mại Mỹ - Canada đổ vỡ, mức thuế 50% có hiệu lực",
+      "link": "https://tuoitre.vn/thoa-thuan-thuong-mai-my-canada-do-vo-muc-thue-50-co-hieu-luc-10026082218395012.htm",
+      "summary": "Mức thuế 50% của Mỹ áp lên một số mặt hàng Canada, có hiệu lực từ ngày 22-8, đã giáng thêm đòn vào thương mại song phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T21:11:27.729639+07:00",
+      "fetched": "2026-08-22T21:11:27.729701+07:00"
+    },
+    {
+      "id": "50991c125450610e043433fd8d8de004",
+      "title": "Từ vụ TikToker Phạm Tuấn, 'Cô giáo Hương' bị khởi tố: 'Cần xử nghiêm để bảo vệ giới trẻ'",
+      "link": "https://tuoitre.vn/tu-vu-tiktoker-pham-tuan-co-giao-huong-bi-khoi-to-can-xu-nghiem-de-bao-ve-gioi-tre-100260822182703866.htm",
+      "summary": "Sau vụ TikToker Phạm Tuấn, \"Cô giáo Hương\" bị khởi tố, nhiều bạn đọc bày tỏ đồng tình, mong cơ quan chức năng xử lý nghiêm các \"giang hồ mạng\" để bảo vệ giới trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T21:11:27.729559+07:00",
+      "fetched": "2026-08-22T21:11:27.729627+07:00"
+    },
+    {
+      "id": "ce76df20e49b5718db030c1f5ec98133",
+      "title": "Diễn viên Hữu Nghĩa diễn tiểu phẩm về thuốc lá điện tử để truyền thông phòng chống ma túy",
+      "link": "https://tuoitre.vn/dien-vien-huu-nghia-dien-tieu-pham-ve-thuoc-la-dien-tu-de-truyen-thong-phong-chong-ma-tuy-100260822191824708.htm",
+      "summary": "Ngày 22-8, diễn viên Hữu Nghĩa tham gia diễn tiểu phẩm về thuốc lá điện tử để truyền thông phòng chống ma túy trong doanh nghiệp, nhà trọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T21:11:27.729402+07:00",
+      "fetched": "2026-08-22T21:11:27.729543+07:00"
+    },
     {
       "id": "d53a0c35353cd5221196a4c88d7afbbb",
       "title": "Huế chi hơn 143 tỉ đồng cải tạo trụ sở UBND TP mới",
@@ -443,6 +593,156 @@ window.newsData_2026_08_22 = {
       "fetched": "2026-08-22T15:17:13.310741+07:00"
     },
     {
+      "id": "badf99cba00a4d0b02cab8e76c4df898",
+      "title": "Thẩm phán bác lệnh cấm thị thực của ông Trump đối với công dân 75 quốc gia",
+      "link": "https://thanhnien.vn/tham-phan-bac-lenh-cam-thi-thuc-cua-ong-trump-doi-voi-cong-dan-75-quoc-gia-185260822203839672.htm",
+      "summary": "Thẩm phán Mỹ bác bỏ quyết định ngưng xử lý thị thực nhập cư đối với công dân 75 quốc gia vốn có hiệu lực từ tháng 1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T14:08:00+07:00",
+      "fetched": "2026-08-22T21:11:26.406588+07:00"
+    },
+    {
+      "id": "b93fb7b8337b7a06a680882350defa76",
+      "title": "Cướp biển Somalia chiếm giữ tàu dầu ngoài khơi Yemen",
+      "link": "https://thanhnien.vn/cuop-bien-somalia-chiem-giu-tau-dau-ngoai-khoi-yemen-185260822195811154.htm",
+      "summary": "Cướp biển Somalia chiếm giữ một tàu dầu ngoài khơi Yemen và đưa tàu về phía bờ biển Puntland của Somalia, trong bối cảnh cướp biển tái bùng phát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T14:08:00+07:00",
+      "fetched": "2026-08-22T21:11:26.406759+07:00"
+    },
+    {
+      "id": "7bd46d65d8158dbe8e9a0b0bbb588cf3",
+      "title": "Tôi bị các con coi thường vì lỡ có vợ bé con riêng",
+      "link": "https://vnexpress.net/toi-bi-cac-con-coi-thuong-vi-lo-co-vo-be-con-rieng-5112123.html",
+      "summary": "Những cuộc tranh cãi liên tục xảy ra, có lúc tôi không kiềm chế được, đập phá đồ đạc rồi đánh vợ, tát con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T14:00:00+07:00",
+      "fetched": "2026-08-22T21:11:22.606587+07:00"
+    },
+    {
+      "id": "d874b521a1f8cea6f6f186386ce5f2b7",
+      "title": "Tạm giữ chủ tài khoản TikTok 'QuyHoi' vì đăng video xuyên tạc, xúc phạm lãnh đạo",
+      "link": "https://thanhnien.vn/tam-giu-chu-tai-khoan-tiktok-quyhoi-vi-dang-video-xuyen-tac-xuc-pham-lanh-dao-185260822203940436.htm",
+      "summary": "Công an TP.HCM tạm giữ Lê Thị Hiểu, chủ tài khoản TikTok 'QuyHoi', để điều tra hành vi đăng tải video xuyên tạc, xúc phạm danh dự các lãnh đạo nhằm câu view.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:57:00+07:00",
+      "fetched": "2026-08-22T21:11:26.406918+07:00"
+    },
+    {
+      "id": "b1d0106a4d8526b798035096aa21097a",
+      "title": "Mã độc mới tự tạo passkey chiếm đoạt email ngay cả khi đã đổi mật khẩu",
+      "link": "https://thanhnien.vn/ma-doc-moi-tu-tao-passkey-chiem-doat-email-ngay-ca-khi-da-doi-mat-khau-185260822154658984.htm",
+      "summary": "Bộ công cụ độc hại giá 10.000 USD cho phép tin tặc duy trì quyền truy cập tài khoản email vĩnh viễn dù người dùng đã đổi mật khẩu, đăng xuất tất cả thiết bị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:51:00+07:00",
+      "fetched": "2026-08-22T21:11:26.407075+07:00"
+    },
+    {
+      "id": "f8598fc4a2a26bf6dcd3ab8a886767a7",
+      "title": "‘Cô giáo Hương’ khai quay video cùng Phú Lê, Huấn Hoa Hồng, Hải SaPa để bán Loramen",
+      "link": "https://thanhnien.vn/co-giao-huong-khai-quay-video-cung-phu-le-huan-hoa-hong-hai-sapa-de-ban-loramen-185260822194524374.htm",
+      "summary": "'Cô giáo Hương' khai, ngoài Phú Lê, bị can này còn hay quay video với Lã Thúy Kiều, Huấn Hoa Hồng, Hải SaPa và một số người khác để bán Loramen.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:49:00+07:00",
+      "fetched": "2026-08-22T21:11:26.407256+07:00"
+    },
+    {
+      "id": "f48617ed1dd368783576feef7c86515d",
+      "title": "Bị tuyên 5 năm tù vì tham ô 4 triệu đồng, nữ công chức xã kháng cáo",
+      "link": "https://thanhnien.vn/bi-tuyen-5-nam-tu-vi-tham-o-4-trieu-dong-nu-cong-chuc-xa-khang-cao-185260822195255489.htm",
+      "summary": "Nữ công chức xã bị tòa sơ thẩm tuyên án 5 năm tù với cáo buộc tham ô hơn 4 triệu đồng tiền chính sách cho người có công. Bị cáo không đồng tình nên kháng cáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:48:00+07:00",
+      "fetched": "2026-08-22T21:11:26.407418+07:00"
+    },
+    {
+      "id": "4e156f752fc949c4b4c3d96b9f6ce8b6",
+      "title": "Sẽ không có nhiều thí sinh tại chuyên Tuyên Quang trúng tuyển đại học trường top trên",
+      "link": "https://thanhnien.vn/se-khong-co-nhieu-thi-sinh-tai-chuyen-tuyen-quang-trung-tuyen-dai-hoc-truong-top-tren-185260822192952533.htm",
+      "summary": "Nhiều trường đại học top trên cho biết, rất ít thí sinh tại điểm thi Trường THPT chuyên Tuyên Quang có khả năng trúng tuyển vào trường mình, thậm chí rất nhiều em không đủ điều kiện xét tuyển do không đạt điểm sàn nhận hồ sơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:43:00+07:00",
+      "fetched": "2026-08-22T21:11:26.407574+07:00"
+    },
+    {
+      "id": "8b451f6de90d6743cbac901d4ff95795",
+      "title": "Tôi bất lực khuyên em gái bỏ chồng vũ phu, gây nợ 3 tỷ đồng",
+      "link": "https://vnexpress.net/toi-bat-luc-khuyen-em-gai-bo-chong-vu-phu-gay-no-3-ty-dong-5112193.html",
+      "summary": "Người trong cuộc không muốn chủ động thoát ra khỏi cảnh khổ, làm sao người ngoài có thể giúp?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:35:36+07:00",
+      "fetched": "2026-08-22T21:11:22.606771+07:00"
+    },
+    {
+      "id": "ab67b9d78875a8e02e620cce5518203a",
+      "title": "Bị công an mời làm việc vì đăng video gây hiểu nhầm về sát hạch lái xe",
+      "link": "https://thanhnien.vn/bi-cong-an-moi-lam-viec-vi-dang-video-gay-hieu-nham-ve-sat-hach-lai-xe-185260822194322064.htm",
+      "summary": "Nam nhân viên trung tâm đào tạo lái xe đăng video một học viên đang lái ô tô bằng một tay lên mạng xã hội, khiến nhiều người hiểu nhầm về sát hạch lái xe. Rất nhanh sau đó, người này bị công an mời làm rõ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:28:00+07:00",
+      "fetched": "2026-08-22T21:11:26.407744+07:00"
+    },
+    {
+      "id": "79f9ebb8c4d24fc47bc2cbc75520f473",
+      "title": "Man Utd thua sốc tân binh Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-utd-thua-soc-tan-binh-ngoai-hang-anh-5112254.html",
+      "summary": "Đoàn quân dưới trướng Michael Carrick bất ngờ thua 0-2 trên sân CLB mới thăng hạng Hull City ở vòng một Ngoại hạng Anh mùa 2026-2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:27:26+07:00",
+      "fetched": "2026-08-22T21:11:22.606974+07:00"
+    },
+    {
+      "id": "79f9ebb8c4d24fc47bc2cbc75520f473",
+      "title": "Man Utd thua sốc tân binh Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-utd-thua-soc-tan-binh-ngoai-hang-anh-5112254.html",
+      "summary": "Đoàn quân dưới trướng Michael Carrick bất ngờ thua 0-2 trên sân CLB mới thăng hạng Hull City ở vòng một Ngoại hạng Anh mùa 2026-2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-22T13:27:26+07:00",
+      "fetched": "2026-08-22T21:11:33.332390+07:00"
+    },
+    {
+      "id": "5e893debfff994ec66425958e0d1e82e",
+      "title": "Canada nói sẽ đáp trả tương xứng thuế của Mỹ sau khi đàm phán thất bại",
+      "link": "https://thanhnien.vn/canada-noi-se-dap-tra-tuong-xung-thue-cua-my-sau-khi-dam-phan-that-bai-185260822195803968.htm",
+      "summary": "Mỹ đã áp thuế 50% lên một số mặt hàng của Canada trong ngày 22.8, sau khi hai đồng minh lâu năm không đạt được thỏa thuận thương mại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:25:00+07:00",
+      "fetched": "2026-08-22T21:11:26.407899+07:00"
+    },
+    {
+      "id": "e64c196f814065499589a2039fd8b3e4",
+      "title": "Tại lễ tốt nghiệp, chủ tịch hội đồng trường nói với sinh viên về sự tử tế",
+      "link": "https://thanhnien.vn/tai-le-tot-nghiep-chu-tich-hoi-dong-truong-noi-voi-sinh-vien-ve-su-tu-te-185260822183023158.htm",
+      "summary": "Ngày 22.8, Trường đại học Quốc tế Miền Đông (EIU) tổ chức lễ tốt nghiệp năm 2026 cho các tân cử nhân, tân kỹ sư thuộc các khoa quản trị kinh doanh, kỹ thuật, công nghệ thông tin, khoa học sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:24:00+07:00",
+      "fetched": "2026-08-22T21:11:26.408110+07:00"
+    },
+    {
+      "id": "ee07d69041957c7039f5615f3bf0bd04",
+      "title": "Trai tài gái sắc rực sáng trên sân đấu giải pickleball 'Cùng con đi tiếp cuộc đời'",
+      "link": "https://thanhnien.vn/trai-tai-gai-sac-ruc-sang-tren-san-dau-giai-pickleball-cung-con-di-tiep-cuoc-doi-185260822194713954.htm",
+      "summary": "Ngày 22.8, tại sân pickleball Bà Bầu Club (52A Phú Định, P.Phú Định, TP.HCM) diễn ra 2 nội dung đầu tiên của giải pickleball 'Cùng con đi tiếp cuộc đời' - cúp Bà Bầu Club mùa 5 năm 2026, do Báo Thanh Niên tổ chức với những diễn biến đầy hấp dẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:22:00+07:00",
+      "fetched": "2026-08-22T21:11:26.408361+07:00"
+    },
+    {
       "id": "1e30ed8a0be1bd16101f45661ea752a0",
       "title": "Khởi tố TikToker 'Cô Giáo Hương' và chồng về tội 'lừa dối khách hàng'",
       "link": "https://tuoitre.vn/khoi-to-tiktoker-co-giao-huong-va-chong-ve-toi-lua-doi-khach-hang-100260822105834227.htm",
@@ -591,6 +891,146 @@ window.newsData_2026_08_22 = {
       "category": "Tổng hợp",
       "published": "2026-08-22T13:21:43.644798+07:00",
       "fetched": "2026-08-22T13:21:43.644928+07:00"
+    },
+    {
+      "id": "e53795c2e8b79ee53956de6afe04bc7a",
+      "title": "Cuộc sống bình lặng của diễn viên Sơn Hải sau ánh hào quang",
+      "link": "https://thanhnien.vn/cuoc-song-binh-lang-cua-dien-vien-son-hai-sau-anh-hao-quang-185260822175233803.htm",
+      "summary": "Phía sau vẻ năng nổ trên sân khấu, diễn viên Sơn Hải lại là người trầm tính, giản dị. Với nam nghệ sĩ, nghệ thuật không đơn thuần là công việc mà đã trở thành một phần không thể thiếu trong cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:20:00+07:00",
+      "fetched": "2026-08-22T21:11:26.408524+07:00"
+    },
+    {
+      "id": "21441275aac965129d7e32661ed749c6",
+      "title": "Singapore đứng đầu bảng xếp hạng quốc gia ồn nhất thế giới",
+      "link": "https://vnexpress.net/singapore-dung-dau-bang-xep-hang-quoc-gia-on-nhat-the-gioi-5112239.html",
+      "summary": "Singapore đứng đầu danh sách các quốc gia ồn nhất thế giới, do hạ tầng giao thông dày đặc, mật độ dân cư cao và hàng triệu lượt du khách mỗi năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:17:44+07:00",
+      "fetched": "2026-08-22T21:11:22.607141+07:00"
+    },
+    {
+      "id": "f1fd22817b2969e382ca61f5b535565e",
+      "title": "Vờ chở đi nhận đồ từ thiện để cướp vé số",
+      "link": "https://vnexpress.net/vo-cho-di-nhan-do-tu-thien-de-cuop-ve-so-5112249.html",
+      "summary": "Phạm Văn Hùng, 57 tuổi, vờ biết nơi làm từ thiện, dụ chở người phụ nữ bán vé số lên xe gã chở đi nhận hỗ trợ, rồi lấy túi xách có gần 100 tờ vé số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:04:37+07:00",
+      "fetched": "2026-08-22T21:11:22.607339+07:00"
+    },
+    {
+      "id": "598295be2d1d9bb95a66c44d111a8c23",
+      "title": "'Rồng đá' dài 10 km nằm ở tỉnh nào?",
+      "link": "https://vnexpress.net/rong-da-dai-10-km-nam-o-tinh-nao-5112235.html",
+      "summary": "Dòng lũ đá dài khoảng 10 km, được người dân địa phương gọi là \"rồng đá\" ở tỉnh này có quy mô lớn và đặc biệt trên thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:00:00+07:00",
+      "fetched": "2026-08-22T21:11:22.607511+07:00"
+    },
+    {
+      "id": "123ecf20ca58462d9e18e59778ab0eb0",
+      "title": "Bốn khách nhậu bỏ đi vì nhà hàng dùng mã QR gọi menu",
+      "link": "https://vnexpress.net/nha-hang-quan-nhau-ngon-gan-day-dung-ma-qr-goi-menu-lam-toi-kho-chiu-5112165.html",
+      "summary": "Lúc đó, điện thoại của tôi đã hết pin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:00:00+07:00",
+      "fetched": "2026-08-22T21:11:24.082139+07:00"
+    },
+    {
+      "id": "b32ebdc9e2da62c061bafe4791c97398",
+      "title": "Nhồi máu cơ tim cướp sinh mạng hơn 100.000 người Việt mỗi năm",
+      "link": "https://vnexpress.net/nhoi-mau-co-tim-cuop-sinh-mang-hon-100-000-nguoi-viet-moi-nam-5112128.html",
+      "summary": "Khoảng 220.000 người Việt tử vong do bệnh tim mạch mỗi năm, trong đó nhồi máu cơ tim chiếm khoảng một nửa và bệnh nhân ngày càng trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:00:00+07:00",
+      "fetched": "2026-08-22T21:11:24.082546+07:00"
+    },
+    {
+      "id": "3f1efb11744824b8faba1fd8bb4e8e32",
+      "title": "Nội tiết nam và nữ thay đổi thế nào sau tuổi 40?",
+      "link": "https://vnexpress.net/noi-tiet-nam-va-nu-thay-doi-the-nao-sau-tuoi-40-5112058.html",
+      "summary": "Sau tuổi 40, nội tiết thay đổi khác nhau ở hai giới, phụ thuộc lối sống và không nên tự ý bổ sung hormone khi chưa khám.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:00:00+07:00",
+      "fetched": "2026-08-22T21:11:24.082720+07:00"
+    },
+    {
+      "id": "d021d46c86f015fe0abd2294cffbda11",
+      "title": "Chủ tịch UBND TP.HCM kiểm tra hàng loạt dự án ở tỉnh Bà Rịa - Vũng Tàu cũ",
+      "link": "https://thanhnien.vn/chu-tich-ubnd-tphcm-kiem-tra-hang-loat-du-an-o-tinh-ba-ria-vung-tau-cu-185260822193541473.htm",
+      "summary": "Chủ tịch UBND TP.HCM đã kiểm tra hiện trường hàng loạt dự án giao thông, nhà máy điện, cảng tàu khách quốc tế Vũng Tàu, công viên quảng trường Tam Thắng…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:00:00+07:00",
+      "fetched": "2026-08-22T21:11:26.408680+07:00"
+    },
+    {
+      "id": "6836e415bbca3d549e1bf8d03f5526a0",
+      "title": "Xem nhanh 20h ngày 22.8: Phạm Tuấn khai gì với công an? | Bị khởi tố vì bán rượu ngâm rắn hổ mang chúa",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-228-pham-tuan-khai-gi-voi-cong-an-bi-khoi-to-vi-ban-ruou-ngam-ran-ho-mang-chua-185260822185513755.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 22.8 có nhiều tin tức đáng chú ý về: YouTuber Phạm Tuấn khai gì tại cơ quan điều tra?; bị khởi tố vì bán rượu ngâm rắn hổ mang chúa;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:00:00+07:00",
+      "fetched": "2026-08-22T21:11:26.408830+07:00"
+    },
+    {
+      "id": "414cb8f57b8236281fbe2bc2c7259aae",
+      "title": "Bệnh miễn dịch thần kinh: Dùng thuốc lâu dài có bị tác dụng phụ không?",
+      "link": "https://thanhnien.vn/benh-mien-dich-than-kinh-dung-thuoc-lau-dai-co-bi-tac-dung-phu-khong-18526081912221285.htm",
+      "summary": "Điều trị bệnh miễn dịch thần kinh thường cần duy trì trong thời gian dài, khiến nhiều người lo ngại việc sử dụng thuốc kéo dài có thể gây tác dụng phụ hoặc ảnh hưởng đến sức khỏe. Vậy người bệnh cần hiểu và theo dõi việc dùng thuốc như thế nào để vừa kiểm soát bệnh, vừa đảm bảo an toàn?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T13:00:00+07:00",
+      "fetched": "2026-08-22T21:11:26.408990+07:00"
+    },
+    {
+      "id": "b2ce152c7539f9f016f9b811c60539b6",
+      "title": "'Cô giáo Hương' vừa bị khởi tố là ai?",
+      "link": "https://vnexpress.net/co-giao-huong-vua-bi-khoi-to-la-ai-5112215.html",
+      "summary": "Thường xuất hiện trong quảng cáo cùng Phú Lê, Nguyễn Thị Hương vừa bị khởi tố với cáo buộc quảng cáo, bán sản phẩm sai sự thật, thu lời hơn 11,6 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T12:48:46+07:00",
+      "fetched": "2026-08-22T21:11:24.082917+07:00"
+    },
+    {
+      "id": "5666f08dddbd6b8b2cba4ff4ddba991f",
+      "title": "TikToker 'QuyHoi' bị bắt vì đăng video sai sự thật để câu view",
+      "link": "https://vnexpress.net/tiktoker-quyhoi-bi-bat-vi-dang-video-sai-su-that-de-cau-view-5112248.html",
+      "summary": "Lê Thị Hiểu, chủ TikTok \"QuyHoi\" khai đã tự quay, biên tập và đăng các video sai sự thật, xuyên tạc, xúc phạm cá nhân, tổ chức để câu view.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T12:46:55+07:00",
+      "fetched": "2026-08-22T21:11:24.083107+07:00"
+    },
+    {
+      "id": "b5bcdcf42914ea386967730f848f2472",
+      "title": "Iran cáo buộc Mỹ xâm phạm chủ quyền các nước bằng lệnh trừng phạt",
+      "link": "https://vnexpress.net/iran-cao-buoc-my-xam-pham-chu-quyen-cac-nuoc-bang-lenh-trung-phat-5112234.html",
+      "summary": "Bộ Ngoại giao Iran chỉ trích gay gắt các lệnh trừng phạt mới của Mỹ là hành vi xâm phạm chủ quyền, khi ép các nước khác ngừng giao thương với Tehran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T12:25:52+07:00",
+      "fetched": "2026-08-22T21:11:24.083331+07:00"
+    },
+    {
+      "id": "b5bcdcf42914ea386967730f848f2472",
+      "title": "Iran cáo buộc Mỹ xâm phạm chủ quyền các nước bằng lệnh trừng phạt",
+      "link": "https://vnexpress.net/iran-cao-buoc-my-xam-pham-chu-quyen-cac-nuoc-bang-lenh-trung-phat-5112234.html",
+      "summary": "Bộ Ngoại giao Iran chỉ trích gay gắt các lệnh trừng phạt mới của Mỹ là hành vi xâm phạm chủ quyền, khi ép các nước khác ngừng giao thương với Tehran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-22T12:25:52+07:00",
+      "fetched": "2026-08-22T21:11:28.979401+07:00"
     },
     {
       "id": "af91f0e798e1cb3e9d7998af4f118611",
