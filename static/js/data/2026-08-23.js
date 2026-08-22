@@ -1,7 +1,17 @@
 window.newsData_2026_08_23 = {
   "date": "2026-08-23",
-  "lastUpdated": "2026-08-23T03:11:51.768385+07:00",
+  "lastUpdated": "2026-08-23T05:11:40.855032+07:00",
   "articles": [
+    {
+      "id": "e95e55343599040dce0cbcc900a71932",
+      "title": "Bão số 4 trút mưa lớn, dân ở Lạng Sơn 'mất ngủ' vì lũ dâng nhanh",
+      "link": "https://tuoitre.vn/bao-so-4-trut-mua-lon-dan-o-lang-son-mat-ngu-vi-lu-dang-nhanh-100260823011833451.htm",
+      "summary": "Do ảnh hưởng của bão số 4 (Narra), ở Đông Bắc Bộ có mưa lớn khiến lũ trên một số sông ở Bắc Ninh, Lạng Sơn đang lên nhanh, có nơi đã vượt báo động 3, nguy cơ ngập lụt ở vùng trũng, thấp ven sông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T05:11:32.591169+07:00",
+      "fetched": "2026-08-23T05:11:32.591315+07:00"
+    },
     {
       "id": "8af29ba66c2baaab980ca571bb07031a",
       "title": "Cản phá xuất thần, Lê Giang Patrik được bầu xuất sắc nhất trận thắng Thái Lan",
@@ -201,6 +211,106 @@ window.newsData_2026_08_23 = {
       "category": "Tổng hợp",
       "published": "2026-08-23T01:14:43.593849+07:00",
       "fetched": "2026-08-23T01:14:43.593967+07:00"
+    },
+    {
+      "id": "14fdec4b5f70f2801b6adf55eb91a370",
+      "title": "Ngăn đầu cơ, kéo giảm giá nhà",
+      "link": "https://thanhnien.vn/ngan-dau-co-keo-giam-gia-nha-185260822223526723.htm",
+      "summary": "Sáng 22.8, Quốc hội thảo luận về dự thảo luật Kinh doanh bất động sản sửa đổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T22:11:00+07:00",
+      "fetched": "2026-08-23T05:11:30.658827+07:00"
+    },
+    {
+      "id": "dd48233ec8c1ae70c942381f8a83ffcb",
+      "title": "Chiến sự Ukraine ngày 1.641: Pháp tăng tốc viện trợ phòng không cho Ukraine",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1641-phap-tang-toc-vien-tro-phong-khong-cho-ukraine-185260822211425151.htm",
+      "summary": "Pháp đẩy nhanh tốc độ viện trợ phòng không cho Ukraine, còn Đức cam kết viện trợ nhân đạo cho Ukraine trong bối cảnh nước này đang hứng các cuộc tấn công gia tăng từ Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T22:04:00+07:00",
+      "fetched": "2026-08-23T05:11:30.658979+07:00"
+    },
+    {
+      "id": "ee6374316d9a7fd4f5a8c40e21bcecc7",
+      "title": "Lịch âm hôm nay 23.8 là ngày gì cần phải lưu ý?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-238-la-ngay-gi-can-phai-luu-y-185260821132617381.htm",
+      "summary": "Theo lịch âm hôm nay 23.8 là ngày Kỷ Tỵ. Hôm nay là ngày gì mà nhiều người Việt Nam cho rằng cần phải lưu ý?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T22:00:00+07:00",
+      "fetched": "2026-08-23T05:11:30.659126+07:00"
+    },
+    {
+      "id": "0e22045d05d58463aef412eacd3b9e77",
+      "title": "Ăn gì để giảm viêm mạn tính?",
+      "link": "https://thanhnien.vn/an-gi-de-giam-viem-man-tinh-185260818142313698.htm",
+      "summary": "Viêm là phản ứng bảo vệ tự nhiên của cơ thể, nhưng khi kéo dài có thể gây tổn thương mô và liên quan đến nhiều bệnh mạn tính. Theo Harvard Health Publishing, thay vì tìm kiếm một \"thực đơn chống viêm\" đặc biệt, mọi người có thể bắt đầu từ một chế độ ăn cân bằng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T22:00:00+07:00",
+      "fetched": "2026-08-23T05:11:30.659258+07:00"
+    },
+    {
+      "id": "473c6f4d2a0f17c88742462669474a8e",
+      "title": "Trung Quốc vướng vào cuộc khẩu chiến thịt lợn tại Mỹ",
+      "link": "https://vnexpress.net/trung-quoc-vuong-vao-cuoc-khau-chien-thit-lon-tai-my-5110844.html",
+      "summary": "Tranh cãi về tiêu chuẩn chuồng trại nuôi lợn tại Mỹ đang biến Trung Quốc thành mục tiêu công kích chính trị trong các chiến dịch vận động tranh cử ở Washington.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-22T22:00:00+07:00",
+      "fetched": "2026-08-23T05:11:34.403548+07:00"
+    },
+    {
+      "id": "a301061f603f54a6808a28e1d6f0aa84",
+      "title": "Kane đoạt danh hiệu thứ 5 cùng Bayern",
+      "link": "https://vnexpress.net/kane-doat-danh-hieu-thu-5-cung-bayern-5112306.html",
+      "summary": "Tiền đạo Harry Kane đoạt danh hiệu tập thể thứ năm, khi cùng Bayern thắng Dortmund 2-1 ở trận tranh Siêu Cup Đức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T21:51:19+07:00",
+      "fetched": "2026-08-23T05:11:27.894049+07:00"
+    },
+    {
+      "id": "a301061f603f54a6808a28e1d6f0aa84",
+      "title": "Kane đoạt danh hiệu thứ 5 cùng Bayern",
+      "link": "https://vnexpress.net/kane-doat-danh-hieu-thu-5-cung-bayern-5112306.html",
+      "summary": "Tiền đạo Harry Kane đoạt danh hiệu tập thể thứ năm, khi cùng Bayern thắng Dortmund 2-1 ở trận tranh Siêu Cup Đức.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-22T21:51:19+07:00",
+      "fetched": "2026-08-23T05:11:40.850234+07:00"
+    },
+    {
+      "id": "cb345e0a1e325898fab32af72760ba69",
+      "title": "Tottenham thảm bại trận ra quân Ngoại hạng Anh",
+      "link": "https://vnexpress.net/tottenham-tham-bai-tran-ra-quan-ngoai-hang-anh-5112305.html",
+      "summary": "Tottenham thua 0-3 trên sân Brentford ở vòng một Ngoại hạng Anh mùa 2026-2027, dù đã chi hơn 300 triệu USD trên thị trường chuyển nhượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T21:48:51+07:00",
+      "fetched": "2026-08-23T05:11:27.894250+07:00"
+    },
+    {
+      "id": "cb345e0a1e325898fab32af72760ba69",
+      "title": "Tottenham thảm bại trận ra quân Ngoại hạng Anh",
+      "link": "https://vnexpress.net/tottenham-tham-bai-tran-ra-quan-ngoai-hang-anh-5112305.html",
+      "summary": "Tottenham thua 0-3 trên sân Brentford ở vòng một Ngoại hạng Anh mùa 2026-2027, dù đã chi hơn 300 triệu USD trên thị trường chuyển nhượng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-22T21:48:51+07:00",
+      "fetched": "2026-08-23T05:11:40.850398+07:00"
+    },
+    {
+      "id": "f05bf8fd4897d0446f191d4faa376aa6",
+      "title": "Vĩnh Long chỉ ra những hạn chế về xuất nhập cảnh",
+      "link": "https://thanhnien.vn/vinh-long-chi-ra-nhung-han-che-ve-xuat-nhap-canh-185260822182724997.htm",
+      "summary": "Thanh tra Công an tỉnh Vĩnh Long chỉ ra nhiều hạn chế, khuyết điểm của các đơn vị trong chấp hành các quy định của pháp luật về nhập cảnh, xuất cảnh, phòng, chống khủng bố; bảo vệ mục tiêu quan trọng của các đơn vị trong tỉnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T21:26:00+07:00",
+      "fetched": "2026-08-23T05:11:30.659387+07:00"
     },
     {
       "id": "b2d6b4336fcc3efc59f99ae08d6d7515",
