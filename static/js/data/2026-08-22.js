@@ -1,7 +1,157 @@
 window.newsData_2026_08_22 = {
   "date": "2026-08-22",
-  "lastUpdated": "2026-08-22T05:13:28.129427+07:00",
+  "lastUpdated": "2026-08-22T07:39:24.678393+07:00",
   "articles": [
+    {
+      "id": "0766c203f16ae82641c755950c569f63",
+      "title": "Đương kim vô địch Arsenal thắng đậm ngày ra quân Premier League",
+      "link": "https://tuoitre.vn/duong-kim-vo-dich-arsenal-thang-dam-ngay-ra-quan-premier-league-100260822042504581.htm",
+      "summary": "Rạng sáng 22-8, chủ nhà Arsenal đã đánh bại tân binh Coventry 3-0 ở ngày mở màn Giải ngoại hạng Anh (Premier League) 2026-2027 trên sân Emirates.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T07:39:18.419753+07:00",
+      "fetched": "2026-08-22T07:39:18.419808+07:00"
+    },
+    {
+      "id": "0479cd54d2a0defd4084e668e7add9ed",
+      "title": "Biện Thuy bên cạnh Ngọc Huyền; Tổ quốc trong tim đến với 40.000 khán giả TP.HCM",
+      "link": "https://tuoitre.vn/bien-thuy-ben-canh-ngoc-huyen-to-quoc-trong-tim-den-voi-40000-khan-gia-tphcm-10026082118435491.htm",
+      "summary": "Tin tức xem - nghe cuối tuần: Biện Thuy là ‘tiểu mỹ nhân’ bên cạnh Ngọc Huyền, Tổ quốc trong tim 2026 sẵn sàng đến với 40.000 khán giả TP.HCM, Khóc rồi cười với Nghỉ hè sợ nghỉ hưu, Shin cậu bé bút chì.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T07:39:18.419688+07:00",
+      "fetched": "2026-08-22T07:39:18.419744+07:00"
+    },
+    {
+      "id": "b880768c7bc3666ab396724ca5284689",
+      "title": "'Ngưu Lai' bị truyền thông Anh, Mỹ chê tơi tả",
+      "link": "https://tuoitre.vn/nguu-lai-bi-truyen-thong-anh-my-che-toi-ta-100260821222557848.htm",
+      "summary": "Dù dư luận có nhiều thái độ khác nhau trước việc Ngưu Lai 'cháy vé. Có người cho rằng đây là nỗi hổ thẹn của ngành điện ảnh, có người lại vỗ tay hoan nghênh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T07:39:18.419623+07:00",
+      "fetched": "2026-08-22T07:39:18.419678+07:00"
+    },
+    {
+      "id": "7b31a81aacba058c17ceb4135e22e001",
+      "title": "Vân Dung từng 'sốc toàn tập' khi Long Vũ theo nghề mẹ",
+      "link": "https://tuoitre.vn/van-dung-tung-soc-toan-tap-khi-long-vu-theo-nghe-me-100260822001722801.htm",
+      "summary": "Trong chương trình Sao check, Long Vũ, con trai duy nhất của nghệ sĩ Vân Dung, rơm rớm nước mắt khi nghe những lời 'tâm sự' của mẹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T07:39:18.419557+07:00",
+      "fetched": "2026-08-22T07:39:18.419613+07:00"
+    },
+    {
+      "id": "5690dd180cb9ae98ff2036af821f095e",
+      "title": "K-pop nay đã khác",
+      "link": "https://tuoitre.vn/k-pop-nay-da-khac-10026082123032268.htm",
+      "summary": "Việc BTS từ chối Grammy cho thấy cán cân giữa nghệ sĩ K-pop và các lễ trao giải đang thay đổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T07:39:18.419482+07:00",
+      "fetched": "2026-08-22T07:39:18.419547+07:00"
+    },
+    {
+      "id": "58e94a68e0b304648653cd5710ef2283",
+      "title": "Dự đoán tỉ số ASEAN Cup: Việt Nam không cho Thái Lan lợi thế ở Rajamangala",
+      "link": "https://tuoitre.vn/du-doan-ti-so-asean-cup-viet-nam-khong-cho-thai-lan-loi-the-o-rajamangala-100260821105508115.htm",
+      "summary": "20h ngày 22-8 sẽ diễn ra trận lượt đi chung kết ASEAN Cup 2026 giữa Thái Lan và Việt Nam trên sân Rajamangala (Bangkok).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T07:39:18.419416+07:00",
+      "fetched": "2026-08-22T07:39:18.419472+07:00"
+    },
+    {
+      "id": "cfe9132baf393ec93539df866efa5bd8",
+      "title": "Chanathip động viên tuyển Thái Lan: 'Việt Nam không mạnh như chúng ta nghĩ đâu'",
+      "link": "https://tuoitre.vn/chanathip-dong-vien-tuyen-thai-lan-viet-nam-khong-manh-nhu-chung-ta-nghi-dau-100260822045956087.htm",
+      "summary": "Ngày 21-8, \"Messi Thái Lan\" Chanathip Songkrasin đã đến khách sạn, gặp và động viên các tuyển thủ Thái Lan trước thềm trận chung kết lượt đi ASEAN Cup 2026 với Việt Nam trên sân nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T07:39:18.419350+07:00",
+      "fetched": "2026-08-22T07:39:18.419406+07:00"
+    },
+    {
+      "id": "b296c19f1ae2655156a54e89ef6cb785",
+      "title": "Lịch trực tiếp chung kết lượt đi ASEAN Cup 2026: Việt Nam đấu Thái Lan",
+      "link": "https://tuoitre.vn/lich-truc-tiep-chung-ket-luot-di-asean-cup-2026-viet-nam-dau-thai-lan-100260821161252078.htm",
+      "summary": "Lúc 20h hôm nay 22-8, tuyển Việt Nam sẽ chạm trán chủ nhà Thái Lan ở chung kết lượt đi ASEAN Cup 2026 trên sân Rajamangala (Bangkok).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T07:39:18.419284+07:00",
+      "fetched": "2026-08-22T07:39:18.419340+07:00"
+    },
+    {
+      "id": "f1c9f609201b7e4541e81d43af0d1fef",
+      "title": "Đau bụng âm ỉ, kéo dài: Cẩn trọng nhầm lẫn đau dạ dày với ung thư",
+      "link": "https://tuoitre.vn/dau-bung-am-i-keo-dai-can-trong-nham-lan-dau-da-day-voi-ung-thu-100260821191737163.htm",
+      "summary": "Đau bụng, đầy hơi, ợ chua là những triệu chứng quen thuộc, thường xuất hiện sau khi ăn quá no hoặc trong giai đoạn căng thẳng. Vì vậy, nhiều người có thói quen tự mua thuốc dạ dày về sử dụng mà không thăm khám.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T07:39:18.419216+07:00",
+      "fetched": "2026-08-22T07:39:18.419274+07:00"
+    },
+    {
+      "id": "9cc9f5b477cbb02125f3172307475410",
+      "title": "Tin tức sáng 22-8: Bộ Công an trao tặng phim tư liệu quý về Chủ tịch Hồ Chí Minh",
+      "link": "https://tuoitre.vn/tin-tuc-sang-22-8-bo-cong-an-trao-tang-phim-tu-lieu-quy-ve-chu-tich-ho-chi-minh-100260821220358081.htm",
+      "summary": "Tin tức đáng chú ý: Bộ Công an trao tặng phim tư liệu quý về Chủ tịch Hồ Chí Minh; Quốc hội bàn về định hướng chính sách sửa Luật Kinh doanh bất động sản; Bộ Y tế yêu cầu tăng tốc tiêm chủng mở rộng, tránh bỏ sót trẻ...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T07:39:18.419145+07:00",
+      "fetched": "2026-08-22T07:39:18.419206+07:00"
+    },
+    {
+      "id": "da717530fb2b20a142198e57b7330d71",
+      "title": "Bão số 4 đổi hướng, Quảng Ninh, Hải Phòng gió giật cấp 8-9, mưa 500-600mm",
+      "link": "https://tuoitre.vn/bao-so-4-doi-huong-quang-ninh-hai-phong-gio-giat-cap-8-9-mua-500-600mm-100260821223822308.htm",
+      "summary": "Dự báo hôm nay (22-8), bão số 4 đổi hướng đi vòng ra biển. Khu vực Đông Bắc Bộ, nam Phú Thọ và Thanh Hóa tiếp tục mưa lớn nhiều ngày. Khu vực ven biển Quảng Ninh, Hải Phòng khả năng có gió mạnh cấp 6-7, giật cấp 8-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T07:39:18.419067+07:00",
+      "fetched": "2026-08-22T07:39:18.419129+07:00"
+    },
+    {
+      "id": "03225860ea001cccdd72bf89110592ae",
+      "title": "Tin tức thế giới 22-8: Drone Nga tấn công Ukraine, 15 người chết; Iran cứng rắn với Mỹ",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-22-8-drone-nga-tan-cong-ukraine-15-nguoi-chet-iran-cung-ran-voi-my-10026082205532149.htm",
+      "summary": "Ông Trump tiếp tục khẳng định Iran muốn đạt được thỏa thuận với Mỹ; Mỹ nới thuế nhập khẩu thịt bò để bình ổn giá trong nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T07:39:18.418969+07:00",
+      "fetched": "2026-08-22T07:39:18.419054+07:00"
+    },
+    {
+      "id": "26d235b0826aa70bcd7556e76bd2e7d0",
+      "title": "Bất động sản nào phải định danh khi giao dịch, tác động thị trường ra sao?",
+      "link": "https://tuoitre.vn/bat-dong-san-nao-phai-dinh-danh-khi-giao-dich-tac-dong-thi-truong-ra-sao-100260822001743834.htm",
+      "summary": "Dự thảo Luật Kinh doanh bất động sản (sửa đổi) bổ sung quy định về mã định danh điện tử cho bất động sản, yêu cầu bất động sản khi đưa vào giao dịch phải sử dụng mã này trong quá trình thực hiện giao dịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T07:39:18.418894+07:00",
+      "fetched": "2026-08-22T07:39:18.418958+07:00"
+    },
+    {
+      "id": "cd492044d15ccb3028ad2aae17a7777a",
+      "title": "Người sử dụng đất đã chết thì khi thu hồi đất, nhà nước có phải bồi thường không?",
+      "link": "https://tuoitre.vn/nguoi-su-dung-dat-da-chet-thi-khi-thu-hoi-dat-nha-nuoc-co-phai-boi-thuong-khong-100260818212207208.htm",
+      "summary": "Bác tôi chết trước khi đất được làm thủ tục bồi thường do thu hồi, vậy bác có được bồi thường không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T07:39:18.418814+07:00",
+      "fetched": "2026-08-22T07:39:18.418883+07:00"
+    },
+    {
+      "id": "da87590e67650a60b47d5ddec9ebd05a",
+      "title": "Lịch trực tiếp bóng đá châu Âu đêm 22-8, sáng 23-8: Real Madrid, Manchester United thi đấu",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-chau-au-dem-22-8-sang-23-8-real-madrid-manchester-united-thi-dau-100260821170705638.htm",
+      "summary": "Tâm điểm của loạt trận bóng đá châu Âu đêm 22-8 rạng sáng 23-8 sẽ là các trận đấu có sự hiện diện của Manchester United và Real Madrid.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T07:39:18.418667+07:00",
+      "fetched": "2026-08-22T07:39:18.418799+07:00"
+    },
     {
       "id": "5b6b1508aee2796d3e98b751f21468e4",
       "title": "Giá vàng thế giới tăng không ngừng, vượt xa 4.600 USD/ounce",
@@ -173,6 +323,316 @@ window.newsData_2026_08_22 = {
       "fetched": "2026-08-22T01:22:09.827283+07:00"
     },
     {
+      "id": "dca1b9593dccc88eb7548da8cd1718c5",
+      "title": "Bánh mì thay vũ khí khi Thái Lan siết quản lý saucác vụ xả súng",
+      "link": "https://thanhnien.vn/banh-mi-thay-vu-khi-khi-thai-lan-siet-quan-ly-saucac-vu-xa-sung-185260820222817063.htm",
+      "summary": "Những ổ bánh mì lên men tự nhiên hiện lấp đầy tủ kính trưng bày tại Suchart and Friends Gun - một cửa hàng súng vừa chuyển thành tiệm bánh ở khu phố cổ Bangkok. Các vụ xả súng hàng loạt xảy ra gần đây đã nhiều lần dẫn đến việc siết chặt quy định tại quốc gia có tỷ lệ sở hữu súng tư nhân cao thứ hai ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T00:34:00+07:00",
+      "fetched": "2026-08-22T07:39:16.642697+07:00"
+    },
+    {
+      "id": "70914b53a59b9657895071d76ff0753c",
+      "title": "Ukraine tố Nga 'tập kích kép' vào trung tâm thương mại khiến 15 người chết",
+      "link": "https://vnexpress.net/ukraine-to-nga-tap-kich-kep-vao-trung-tam-thuong-mai-khien-15-nguoi-chet-5111914.html",
+      "summary": "Giới chức Ukraine cáo buộc Nga \"tập kích kép\" vào trung tâm thương mại ở Kryvyi Rih, khiến 15 người chết và hơn 130 người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-22T00:33:57+07:00",
+      "fetched": "2026-08-22T07:39:19.564870+07:00"
+    },
+    {
+      "id": "4d609114a0bf585c4b9a09a04cb38bb0",
+      "title": "Sau chung kết lượt đi đấu Thái Lan, đội tuyển Việt Nam về nước ngày nào: Bao giờ lượt về?",
+      "link": "https://thanhnien.vn/sau-chung-ket-luot-di-dau-thai-lan-doi-tuyen-viet-nam-ve-nuoc-ngay-nao-bao-gio-luot-ve-185260822071226622.htm",
+      "summary": "Sau trận chung kết lượt đi ASEAN Hyundai Cup 2026 trên sân Rajamangala tối 22.8, đội tuyển Việt Nam sẽ trở lại Hà Nội vào chiều 23.8 để chuẩn bị cho trận lượt về với đội tuyển Thái Lan tại Mỹ Đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T00:19:00+07:00",
+      "fetched": "2026-08-22T07:39:16.642869+07:00"
+    },
+    {
+      "id": "772cb217321dc93b285b6ea1a9ba8bbf",
+      "title": "Thành lập Tổ chức Nghị sĩ hữu nghị Việt Nam của Quốc hội khóa XVI",
+      "link": "https://thanhnien.vn/thanh-lap-to-chuc-nghi-si-huu-nghi-viet-nam-cua-quoc-hoi-khoa-xvi-18526082123125816.htm",
+      "summary": "Chiều 21.8, tại Nhà Quốc hội, Chủ tịch Quốc hội Trần Thanh Mẫn dự Lễ công bố Nghị quyết của Ủy ban Thường vụ Quốc hội về việc thành lập Tổ chức Nghị sĩ hữu nghị VN của Quốc hội khóa XVI.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T00:05:00+07:00",
+      "fetched": "2026-08-22T07:39:16.643053+07:00"
+    },
+    {
+      "id": "a6fcdd84c6529be9210855fac58e018a",
+      "title": "Người Việt ăn thịt gấp đôi mức khuyến nghị, lười ăn rau",
+      "link": "https://vnexpress.net/nguoi-viet-an-thit-gap-doi-muc-khuyen-nghi-luoi-an-rau-5111719.html",
+      "summary": "Người Việt tiêu thụ bình quân 136 g thịt mỗi ngày, vượt gần gấp đôi nhu cầu chuẩn 70 g, trong khi lượng rau củ quả chỉ đạt khoảng 70% mức cần thiết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T00:00:00+07:00",
+      "fetched": "2026-08-22T07:39:14.188499+07:00"
+    },
+    {
+      "id": "3673f2b91310fd68b2559d859d0ba336",
+      "title": "Bên trong căn hộ hình tam giác 'siêu mỏng' ở Nhật",
+      "link": "https://vnexpress.net/ben-trong-can-ho-hinh-tam-giac-sieu-mong-o-nhat-5110980.html",
+      "summary": "Tòa Nerima Triangle tại Tokyo là công trình nhà ở hẹp bậc nhất thế giới khi chứa 4 căn hộ trên diện tích đất tương đương chỗ đậu ôtô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T00:00:00+07:00",
+      "fetched": "2026-08-22T07:39:14.188685+07:00"
+    },
+    {
+      "id": "1f06e07cd542e948ba5097a577733284",
+      "title": "Tham gia giao thông... hé lộ điều gì về một người?",
+      "link": "https://thanhnien.vn/tham-gia-giao-thong-he-lo-dieu-gi-ve-mot-nguoi-185260821143628251.htm",
+      "summary": "Một cú giảm ga trước vũng nước, điếu thuốc không châm lúc dừng đèn đỏ hay một lần nhường đường… Những lựa chọn rất nhỏ trên đường đôi khi lại nói lên nhiều điều về một người khi tham gia giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T00:00:00+07:00",
+      "fetched": "2026-08-22T07:39:16.643212+07:00"
+    },
+    {
+      "id": "a50d9d14cc6f887b29d368889521c644",
+      "title": "Tổng thống Iran: Đã đến lúc chấm dứt chiến tranh",
+      "link": "https://vnexpress.net/tong-thong-iran-da-den-luc-cham-dut-chien-tranh-5111911.html",
+      "summary": "Tổng thống Iran cho rằng đã đến lúc chấm dứt cuộc chiến với Mỹ, cho rằng Tehran đang có vị thế tốt hơn Washington.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:56:21+07:00",
+      "fetched": "2026-08-22T07:39:14.188852+07:00"
+    },
+    {
+      "id": "a50d9d14cc6f887b29d368889521c644",
+      "title": "Tổng thống Iran: Đã đến lúc chấm dứt chiến tranh",
+      "link": "https://vnexpress.net/tong-thong-iran-da-den-luc-cham-dut-chien-tranh-5111911.html",
+      "summary": "Tổng thống Iran cho rằng đã đến lúc chấm dứt cuộc chiến với Mỹ, cho rằng Tehran đang có vị thế tốt hơn Washington.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-21T23:56:21+07:00",
+      "fetched": "2026-08-22T07:39:19.565071+07:00"
+    },
+    {
+      "id": "099e7b6bd3b98aed024532a34420c92e",
+      "title": "Minh bạch giá đất, tăng cơ hội tiếp cận nhà ở",
+      "link": "https://thanhnien.vn/minh-bach-gia-dat-tang-co-hoi-tiep-can-nha-o-185260821223225222.htm",
+      "summary": "Nhà nước quyết định giá đất và một loạt giải pháp phát triển nhà ở cho thuê, nhà ở thương mại giá phù hợp, nhà ở xã hội… được đề xuất trong luật Đất đai, luật Nhà ở sửa đổi nhằm minh bạch thị trường bất động sản, tăng cơ hội tiếp cận nhà ở cho người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:54:00+07:00",
+      "fetched": "2026-08-22T07:39:16.643366+07:00"
+    },
+    {
+      "id": "92e926b825f6a45729184e04ab684ad0",
+      "title": "Cắt giảm trung gian phân phối dược phẩm",
+      "link": "https://thanhnien.vn/cat-giam-trung-gian-phan-phoi-duoc-pham-185260821230502492.htm",
+      "summary": "Bộ Y tế cho biết đang xây dựng đề án hiện đại hóa, tăng cường ứng dụng khoa học công nghệ đối với hệ thống phân phối dược, giai đoạn 2026 - 2030, tầm nhìn đến năm 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:50:00+07:00",
+      "fetched": "2026-08-22T07:39:16.643519+07:00"
+    },
+    {
+      "id": "ad30e48bd16c46c62a7a6f9fcb24ca78",
+      "title": "Trồng hồng socola chịu mặn, lãi hơn nửa tỷ đồng mỗi năm",
+      "link": "https://vnexpress.net/trong-hong-socola-chiu-man-lai-hon-nua-ty-dong-moi-nam-5109944.html",
+      "summary": "Từ 10 cây trồng thử, anh Trần Hữu Thắng phát triển vườn hồng socola rộng một ha, thu lợi nhuận hơn 500 triệu đồng nhờ bán trái, cây giống và phục vụ khách tham quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:45:17+07:00",
+      "fetched": "2026-08-22T07:39:14.189064+07:00"
+    },
+    {
+      "id": "98595a5c72930855fff0c4126f445b1b",
+      "title": "Nhìn cây cầu 120 tuổi sắp bị tháo dỡ, người dân sống cả đời bên kênh Tẻ nói gì?",
+      "link": "https://thanhnien.vn/nhin-cay-cau-120-tuoi-sap-bi-thao-do-nguoi-dan-song-ca-doi-ben-kenh-te-noi-gi-185260819223700913.htm",
+      "summary": "TP.HCM dự kiến xây mới cầu Tân Thuận 1 với 6 làn xe, thay thế công trình hơn 120 năm tuổi đã xuống cấp. Cùng với mở rộng cầu Tân Thuận 2 và đường Nguyễn Tất Thành, dự án được kỳ vọng tăng năng lực lưu thông qua khu vực cửa ngõ phía Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:40:00+07:00",
+      "fetched": "2026-08-22T07:39:16.643671+07:00"
+    },
+    {
+      "id": "07712c6a13e74087c9defa90e4a54fec",
+      "title": "Xác định kênh phát trực tiếp đội tuyển bóng chuyền nữ Việt Nam đấu Hàn Quốc hôm nay",
+      "link": "https://thanhnien.vn/xac-dinh-kenh-phat-truc-tiep-doi-tuyen-bong-chuyen-nu-viet-nam-dau-han-quoc-hom-nay-185260822063256491.htm",
+      "summary": "Đội tuyển bóng chuyền nữ Việt Nam chạm trán với đội tuyển Hàn Quốc ở trận ra quân bảng C, giải bóng chuyền vô địch châu Á 2026 diễn ra lúc 9 giờ hôm nay tại Thiên Tân (Trung Quốc).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:34:00+07:00",
+      "fetched": "2026-08-22T07:39:16.643823+07:00"
+    },
+    {
+      "id": "7d562b60f4bd7a6e500832d7f3499f20",
+      "title": "Tài trợ quân sự Mỹ giúp Trung Quốc phát triển robot chó ra sao?",
+      "link": "https://thanhnien.vn/tai-tro-quan-su-my-giup-trung-quoc-phat-trien-robot-cho-ra-sao-185260819220634502.htm",
+      "summary": "Theo ba nhà nghiên cứu robot hàng đầu và một cựu quan chức công nghệ quốc phòng Mỹ, Unitree Robotics của Trung Quốc - một trong những nhà sản xuất robot hình người và robot bốn chân lớn nhất thế giới - đã dựa vào các đổi mới được quân sự Mỹ tài trợ để thiết kế những mẫu robot chó thành công nhất của...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:33:00+07:00",
+      "fetched": "2026-08-22T07:39:16.643981+07:00"
+    },
+    {
+      "id": "7b0c350d7804a5ab0bf44c8bc3aa0f62",
+      "title": "Hồi ức những ngày tháng Tám lịch sử: Báo 'Cứu quốc' công khai ra số đầu tiên",
+      "link": "https://thanhnien.vn/hoi-uc-nhung-ngay-thang-tam-lich-su-bao-cuu-quoc-cong-khai-ra-so-dau-tien-185260821221951176.htm",
+      "summary": "Anh Xuân Thủy kể lại: Báo hai trang giấy trắng, lá cờ đỏ sao vàng được trùm cả trang nhất (tác phẩm của anh Thâm Tâm). Trên báo đề 'Năm thứ tư, số 31, ngày 24 tháng 8 năm 1945'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:23:00+07:00",
+      "fetched": "2026-08-22T07:39:16.644164+07:00"
+    },
+    {
+      "id": "b129196fd0c0fe43aeb2fd58331c6a83",
+      "title": "Điện hạt nhân Ninh Thuận trở lại đường đua năng lượng: Không chỉ là những tổ máy",
+      "link": "https://thanhnien.vn/dien-hat-nhan-ninh-thuan-tro-lai-duong-dua-nang-luong-khong-chi-la-nhung-to-may-18526082122582194.htm",
+      "summary": "Nếu triển khai đồng bộ, dự án Điện hạt nhân Ninh Thuận không chỉ bổ sung nguồn điện lớn mà còn có thể tạo thêm nhu cầu về công nghiệp phụ trợ, công nghệ, nhân lực, đô thị và dịch vụ ở phía nam tỉnh Khánh Hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:21:00+07:00",
+      "fetched": "2026-08-22T07:39:16.644316+07:00"
+    },
+    {
+      "id": "d4326dad267cec70b04c0070d0b60f0d",
+      "title": "Máy bay Nga băng qua không phận NATO đến Serbia chữa cháy rừng",
+      "link": "https://thanhnien.vn/may-bay-nga-bang-qua-khong-phan-nato-den-serbia-chua-chay-rung-185260821225628524.htm",
+      "summary": "Serbia đã phải nhờ Nga giúp đỡ trong việc dập tắt các vụ cháy rừng do thiếu máy bay từ Liên minh châu Âu (EU).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:21:00+07:00",
+      "fetched": "2026-08-22T07:39:16.644469+07:00"
+    },
+    {
+      "id": "4cc7ba507a0e87d56d25aa04342c3372",
+      "title": "Bộ phanh mạnh nhất của Brembo không dùng cho siêu xe",
+      "link": "https://vnexpress.net/bo-phanh-manh-nhat-cua-brembo-khong-dung-cho-sieu-xe-5111517.html",
+      "summary": "Bối cảnh xe điện ngày càng nặng khiến bộ phanh mạnh nhất lịch sử Brembo được trang bị cho mẫu Chevrolet Silverado EV RST thay vì siêu xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:20:00+07:00",
+      "fetched": "2026-08-22T07:39:14.189254+07:00"
+    },
+    {
+      "id": "e5c9f05d992b16a7d7ffc042ecc6eef3",
+      "title": "Vì sao Hải SaPa TV gây xôn xao giữa đêm?",
+      "link": "https://thanhnien.vn/vi-sao-hai-sapa-tv-gay-xon-xao-giua-dem-185260822004658039.htm",
+      "summary": "Nhiều tài khoản TikTok có mặt tại khu vực được cho là nhà của Hải SaPa TV để livestream, hút hàng nghìn lượt xem. Trong khi đó, từ khóa liên quan đến nhân vật này được tìm kiếm tăng vọt trên Google Trends.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:20:00+07:00",
+      "fetched": "2026-08-22T07:39:16.644617+07:00"
+    },
+    {
+      "id": "8b2a9258c490f52100452c7b420870e5",
+      "title": "TP.HCM 'tháo nút thắt' giao thông cửa ngõ đông bắc",
+      "link": "https://thanhnien.vn/tphcm-thao-nut-that-giao-thong-cua-ngo-dong-bac-185260821220927644.htm",
+      "summary": "Hàng loạt công trình trọng điểm tại TP.HCM đang chạy nước rút giải phóng mặt bằng để kịp khởi công dịp Quốc khánh 2.9, trong đó có dự án mở rộng QL13 với vốn đầu tư 21.000 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:18:00+07:00",
+      "fetched": "2026-08-22T07:39:16.644770+07:00"
+    },
+    {
+      "id": "9d4400527f38cf3bde4b0050948a408d",
+      "title": "Rủi ro mua hàng từ những video ngắn",
+      "link": "https://thanhnien.vn/rui-ro-mua-hang-tu-nhung-video-ngan-185260821214502332.htm",
+      "summary": "Những video clip ngắn hay buổi phát livestream trực tiếp không còn là nội dung giải trí. Giờ đây, những chủ kênh thu hút người xem thường được mời quảng cáo sản phẩm, hoặc đứng ra bán hàng với doanh số \"khủng\". Đằng sau câu chuyện này là gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:07:00+07:00",
+      "fetched": "2026-08-22T07:39:16.644919+07:00"
+    },
+    {
+      "id": "7bb588c9f267d87467f8e932ecaf371e",
+      "title": "Ronaldo ghi bàn ở mùa giải chuyên nghiệp thứ 25",
+      "link": "https://vnexpress.net/ronaldo-ghi-ban-o-mua-giai-chuyen-nghiep-thu-25-5111912.html",
+      "summary": "Tiền đạo Cristiano Ronaldo vào sân từ ghế dự bị và ghi bàn giúp Al Nassr ấn định chiến thắng 4-0 trước Al Riyadh ở vòng hai Saudi Pro League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:04:29+07:00",
+      "fetched": "2026-08-22T07:39:14.189418+07:00"
+    },
+    {
+      "id": "7bb588c9f267d87467f8e932ecaf371e",
+      "title": "Ronaldo ghi bàn ở mùa giải chuyên nghiệp thứ 25",
+      "link": "https://vnexpress.net/ronaldo-ghi-ban-o-mua-giai-chuyen-nghiep-thu-25-5111912.html",
+      "summary": "Tiền đạo Cristiano Ronaldo vào sân từ ghế dự bị và ghi bàn giúp Al Nassr ấn định chiến thắng 4-0 trước Al Riyadh ở vòng hai Saudi Pro League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-21T23:04:29+07:00",
+      "fetched": "2026-08-22T07:39:24.672657+07:00"
+    },
+    {
+      "id": "423c47f45a58ac2a6470fad84f5bf31d",
+      "title": "Tiền vệ Nguyễn Hoàng Đức: 'Mẹ là bệ phóng đời tôi'",
+      "link": "https://vnexpress.net/tien-ve-nguyen-hoang-duc-me-la-be-phong-doi-toi-5111682.html",
+      "summary": "Tuyển thủ Nguyễn Hoàng Đức (28 tuổi) cho biết sự đồng hành, ủng hộ của mẹ là điểm tựa giúp anh giữ bản lĩnh trên sân cỏ lẫn đời thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:00:00+07:00",
+      "fetched": "2026-08-22T07:39:14.189576+07:00"
+    },
+    {
+      "id": "f6e73c100d73f7e3298a58e788ebf431",
+      "title": "8 thói quen giảm cân giúp nữ YouTuber Hàn Quốc từ 68 xuống 53 kg",
+      "link": "https://vnexpress.net/8-thoi-quen-giam-can-giup-nu-youtuber-han-quoc-tu-68-xuong-53-kg-5111259.html",
+      "summary": "Nhờ thiết lập kỷ luật trong chế độ ăn uống kết hợp tăng cường vận động tự nhiên, Ha So-bin, YouTuber có 360.000 lượt theo dõi, giảm thành công 15 kg và duy trì vóc dáng thon gọn mà không cần các bài tập quá sức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T23:00:00+07:00",
+      "fetched": "2026-08-22T07:39:14.189733+07:00"
+    },
+    {
+      "id": "6979a1b8e20e4a84abe0e5a7221b08b2",
+      "title": "Cô gái 'suýt trượt' Đại học Y Hà Nội thành thủ khoa bác sĩ",
+      "link": "https://vnexpress.net/co-gai-suyt-truot-dai-hoc-y-ha-noi-thanh-thu-khoa-bac-si-5111740.html",
+      "summary": "Minh Hiền, cựu học sinh chuyên Lam Sơn, vươn lên thành thủ khoa tốt nghiệp Đại học Y Hà Nội dù từng tự ti khi 'suýt trượt' đầu vào, ngại giao tiếp và có lúc bật khóc vì áp lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T22:52:03+07:00",
+      "fetched": "2026-08-22T07:39:14.189888+07:00"
+    },
+    {
+      "id": "525b820ff3f195d91eda9b3a38b451e4",
+      "title": "Chanathip: 'Việt Nam không giỏi như họ nghĩ đâu'",
+      "link": "https://vnexpress.net/chanathip-viet-nam-khong-gioi-nhu-ho-nghi-dau-5111904.html",
+      "summary": "Tiền vệ Chanathip Songkrasin đến nơi đóng quân để cổ vũ các thành viên đội tuyển Thái Lan trước trận đấu Việt Nam ở lượt đi chung kết ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T22:48:32+07:00",
+      "fetched": "2026-08-22T07:39:14.190077+07:00"
+    },
+    {
+      "id": "525b820ff3f195d91eda9b3a38b451e4",
+      "title": "Chanathip: 'Việt Nam không giỏi như họ nghĩ đâu'",
+      "link": "https://vnexpress.net/chanathip-viet-nam-khong-gioi-nhu-ho-nghi-dau-5111904.html",
+      "summary": "Tiền vệ Chanathip Songkrasin đến nơi đóng quân để cổ vũ các thành viên đội tuyển Thái Lan trước trận đấu Việt Nam ở lượt đi chung kết ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-21T22:48:32+07:00",
+      "fetched": "2026-08-22T07:39:24.672832+07:00"
+    },
+    {
+      "id": "df6978d2758e48e82f72ab5af56e0261",
+      "title": "Cụ ông 92 tuổi chia hết của để dành cho gần 50 con cháu",
+      "link": "https://vnexpress.net/cu-ong-92-tuoi-chia-het-cua-de-danh-cho-gan-50-con-chau-5110945.html",
+      "summary": "Thay vì đợi cuối đời, ông Lê Văn Đại, 92 tuổi, ở Nghệ An quyết định chia toàn bộ tài sản tiết kiệm cho gần 50 con cháu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T22:48:00+07:00",
+      "fetched": "2026-08-22T07:39:14.190239+07:00"
+    },
+    {
+      "id": "02d9444d9526ad41cbd14db77933d37c",
+      "title": "Những lỗi giao thông dễ nhầm lẫn khi đi trong phố",
+      "link": "https://vnexpress.net/nhung-loi-giao-thong-de-nham-lan-khi-di-trong-pho-5107875.html",
+      "summary": "Nhiều người chủ quan ở khu vực trước đèn giao thông, nơi có những mức phạt rất cao nếu lỡ vi phạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T22:29:59+07:00",
+      "fetched": "2026-08-22T07:39:14.190397+07:00"
+    },
+    {
       "id": "6f1e42a46a7a4a75125533dbca387efd",
       "title": "Người Kurd hoàn tất sáp nhập vào nhà nước Syria",
       "link": "https://thanhnien.vn/nguoi-kurd-hoan-tat-sap-nhap-vao-nha-nuoc-syria-185260821215907965.htm",
@@ -181,6 +641,26 @@ window.newsData_2026_08_22 = {
       "category": "Tổng hợp",
       "published": "2026-08-21T22:13:00+07:00",
       "fetched": "2026-08-22T05:13:19.599151+07:00"
+    },
+    {
+      "id": "885c512e62eda524ac363e2bcb9739b9",
+      "title": "Arsenal thắng đậm trận khai màn Ngoại hạng Anh",
+      "link": "https://vnexpress.net/arsenal-thang-dam-tran-khai-man-ngoai-hang-anh-5111910.html",
+      "summary": "Arsenal bắt đầu hành trình bảo vệ ngôi vương bằng chiến thắng 3-0 trước tân binh Coventry ở vòng một Ngoại hạng Anh mùa 2026-2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T22:11:18+07:00",
+      "fetched": "2026-08-22T07:39:14.190558+07:00"
+    },
+    {
+      "id": "885c512e62eda524ac363e2bcb9739b9",
+      "title": "Arsenal thắng đậm trận khai màn Ngoại hạng Anh",
+      "link": "https://vnexpress.net/arsenal-thang-dam-tran-khai-man-ngoai-hang-anh-5111910.html",
+      "summary": "Arsenal bắt đầu hành trình bảo vệ ngôi vương bằng chiến thắng 3-0 trước tân binh Coventry ở vòng một Ngoại hạng Anh mùa 2026-2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-21T22:11:18+07:00",
+      "fetched": "2026-08-22T07:39:24.673016+07:00"
     },
     {
       "id": "3006ffdae9a6db7702e24f789f10b39c",
@@ -221,6 +701,16 @@ window.newsData_2026_08_22 = {
       "category": "Công nghệ",
       "published": "2026-08-21T22:00:00+07:00",
       "fetched": "2026-08-22T05:13:27.079600+07:00"
+    },
+    {
+      "id": "ec2309f6827268c541c9050747eb8311",
+      "title": "Nhà 438 m2 nâng mái để mở rộng không gian",
+      "link": "https://vnexpress.net/nha-438-m2-nang-mai-de-mo-rong-khong-gian-5111796.html",
+      "summary": "Ngôi nhà tại Bắc Kinh được cải tạo theo hướng giữ lại kết cấu chính, mở rộng không gian dưới mái và tăng kết nối cây xanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T22:00:00+07:00",
+      "fetched": "2026-08-22T07:39:14.190861+07:00"
     },
     {
       "id": "e30b9028cd1896cae9ef01170972f71e",
