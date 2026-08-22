@@ -1,7 +1,157 @@
 window.newsData_2026_08_22 = {
   "date": "2026-08-22",
-  "lastUpdated": "2026-08-22T09:45:25.851000+07:00",
+  "lastUpdated": "2026-08-22T11:22:14.773242+07:00",
   "articles": [
+    {
+      "id": "91ecedb8fc8d4193efdb196c5365c1c8",
+      "title": "5 năm nhìn lại cuộc chiến COVID-19: Hồi sinh từ mất mát, đau thương",
+      "link": "https://tuoitre.vn/5-nam-nhin-lai-cuoc-chien-covid-19-hoi-sinh-tu-mat-mat-dau-thuong-100260819151322143.htm",
+      "summary": "Những ngày này của 5 năm trước (năm 2021), cuộc chiến chống đại dịch COVID-19 đang bước vào giai đoạn khốc liệt nhất, khi số ca mắc mới và tử vong tại TP.HCM và cả nước tăng kỷ lục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T11:22:08.769577+07:00",
+      "fetched": "2026-08-22T11:22:08.769636+07:00"
+    },
+    {
+      "id": "d1e3fa19d8b82aac55d44bc608b0f841",
+      "title": "Mỹ, Nhật, Hàn điện đàm khẩn, tìm cách ứng phó với vụ phóng tên lửa của Triều Tiên",
+      "link": "https://tuoitre.vn/my-nhat-han-dien-dam-khan-tim-cach-ung-pho-voi-vu-phong-ten-lua-cua-trieu-tien-100260822101007537.htm",
+      "summary": "Các quan chức ngoại giao cấp cao Mỹ, Nhật, Hàn đã điện đàm, ngay sau khi Triều Tiên phóng hàng loạt tên lửa đạn đạo giữa lúc Mỹ - Hàn tập trận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T11:22:08.769509+07:00",
+      "fetched": "2026-08-22T11:22:08.769566+07:00"
+    },
+    {
+      "id": "845adb0fd311a06e9b093cb17e9186b0",
+      "title": "Nhà di động nhỏ nhất thế giới: Chưa bằng một nửa VinFast VF 2, vẫn đủ tiện nghi",
+      "link": "https://tuoitre.vn/nha-di-dong-nho-nhat-the-gioi-chua-bang-mot-nua-vinfast-vf-2-van-du-tien-nghi-10026082202192126.htm",
+      "summary": "Với diện tích vỏn vẹn 1,8m², ngôi nhà di động tí hon của Levi Kelly được thiết kế trên một rơ-moóc, tích hợp nhiều tiện nghi như giường ngủ, bếp, điều hòa và cả nhà vệ sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T11:22:08.769441+07:00",
+      "fetched": "2026-08-22T11:22:08.769499+07:00"
+    },
+    {
+      "id": "5c1453506e83d392fcd83abbc63955a0",
+      "title": "Đứt lìa tay chân, sơ cứu kiểu gì để nối lại được?",
+      "link": "https://tuoitre.vn/dut-lia-tay-chan-so-cuu-kieu-gi-de-noi-lai-duoc-100260822101052.htm",
+      "summary": "Bác sĩ Bệnh viện Đa khoa tỉnh Lâm Đồng hướng dẫn cách cầm máu, sơ cứu và bảo quản phần tay chân bị đứt lìa do tai nạn lao động nhằm tăng cơ hội nối lại chi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T11:22:08.769373+07:00",
+      "fetched": "2026-08-22T11:22:08.769431+07:00"
+    },
+    {
+      "id": "0fed4bfd6d022eedae48f729d0d94f00",
+      "title": "Thanh tra toàn diện việc sản xuất gạch đất sét nung ở Đắk Lắk",
+      "link": "https://tuoitre.vn/thanh-tra-toan-dien-viec-san-xuat-gach-dat-set-nung-o-dak-lak-100260822101129274.htm",
+      "summary": "Thanh tra tỉnh Đắk Lắk vừa công bố quyết định thanh tra toàn diện việc quản lý, sản xuất gạch đất sét nung trên địa bàn tỉnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T11:22:08.769305+07:00",
+      "fetched": "2026-08-22T11:22:08.769363+07:00"
+    },
+    {
+      "id": "07030aafecc149525334b94d88e55364",
+      "title": "Đại biểu: Không để dự án quảng cáo lung linh như Singapore, châu Âu nhưng thực tế bàn giao khác xa",
+      "link": "https://tuoitre.vn/dai-bieu-khong-de-du-an-quang-cao-lung-linh-nhu-singapore-chau-au-nhung-thuc-te-ban-giao-khac-xa-100260822101534466.htm",
+      "summary": "Đại biểu Nguyễn Minh Tuấn đề nghị không thể để tình trạng khách hàng hay nhà đầu tư chỉ nhìn trên hình ảnh 3D, xem các clip quảng cáo dự án bất động sản lung linh như Singapore nhưng thực tế bàn giao lại hoàn toàn khác biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T11:22:08.769235+07:00",
+      "fetched": "2026-08-22T11:22:08.769295+07:00"
+    },
+    {
+      "id": "2fcf847e0616f70fcec53c36e9b2d25a",
+      "title": "Hình ảnh TikToker Phạm Tuấn và đồng phạm tại cơ quan công an",
+      "link": "https://tuoitre.vn/hinh-anh-tiktoker-pham-tuan-va-dong-pham-tai-co-quan-cong-an-100260822102907803.htm",
+      "summary": "TikToker Phạm Tuấn bị khởi tố, bắt tam giam vì liên quan đến hành vi sản xuất, đăng tải các video có nội dung bạo lực trên mạng xã hội nhằm thu hút người xem, thu lợi bất chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T11:22:08.769167+07:00",
+      "fetched": "2026-08-22T11:22:08.769225+07:00"
+    },
+    {
+      "id": "b395d1a23a756a3f90f24fb6e2f20e94",
+      "title": "Từ đầu tàu đến đại học tinh hoa",
+      "link": "https://tuoitre.vn/tu-dau-tau-den-dai-hoc-tinh-hoa-100260818081735154.htm",
+      "summary": "Có một cụm từ đã đi cùng Đại học Quốc gia Hà Nội từ những ngày đầu thành lập: \"Đầu tàu và nòng cốt\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T11:22:08.769099+07:00",
+      "fetched": "2026-08-22T11:22:08.769157+07:00"
+    },
+    {
+      "id": "77ccccc185679c39efce83cefd1825f3",
+      "title": "Đội bóng của Malaysia lập chiến tích 'chưa từng có trong lịch sử' bóng đá thế giới",
+      "link": "https://tuoitre.vn/doi-bong-cua-malaysia-lap-chien-tich-chua-tung-co-trong-lich-su-bong-da-the-gioi-100260822094429216.htm",
+      "summary": "CLB Johor Darul Ta'zim của Malaysia đã thiết lập kỷ lục thế giới với chuỗi 109 trận bất bại liên tiếp tại Giải vô địch quốc gia Malaysia (Malaysia Super League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T11:22:08.769029+07:00",
+      "fetched": "2026-08-22T11:22:08.769088+07:00"
+    },
+    {
+      "id": "9980658aa5308bea2b110894e3978d6d",
+      "title": "Trồng lúa vất vả nhưng đồng lời không tương xứng, nông dân miền Tây muốn được liên kết hợp tác",
+      "link": "https://tuoitre.vn/trong-lua-vat-va-nhung-dong-loi-khong-tuong-xung-nong-dan-mien-tay-muon-duoc-lien-ket-hop-tac-100260822090859547.htm",
+      "summary": "Nhiều năm vất vả trồng lúa theo kiểu truyền thống không khá, nông dân miền Tây mong muốn được liên kết hợp tác, làm lúa chất lượng để có thu nhập ổn định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T11:22:08.768955+07:00",
+      "fetched": "2026-08-22T11:22:08.769018+07:00"
+    },
+    {
+      "id": "a8e84cf60b01021d6401356b3b1f5089",
+      "title": "Lắp máy khử rung tim tại bờ biển, sân bay, trường học: Vận hành ra sao để hiệu quả?",
+      "link": "https://tuoitre.vn/lap-may-khu-rung-tim-tai-bo-bien-san-bay-truong-hoc-van-hanh-ra-sao-de-hieu-qua-100260822104043599.htm",
+      "summary": "Khánh Hòa vừa triển khai lắp đặt nhiều máy khử rung tim (AED) tại bờ biển Nha Trang và các sân bay, nhà ga, trường học, khu dân cư trên địa bàn để người dân kịp thời sử dụng khi có tình huống khẩn cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T11:22:08.768869+07:00",
+      "fetched": "2026-08-22T11:22:08.768939+07:00"
+    },
+    {
+      "id": "44a65c9b240864dc96e7165738bddcd1",
+      "title": "Thêm nhiều phường ở TP.HCM bàn chuyện kiểm soát suất ăn học đường",
+      "link": "https://tuoitre.vn/them-nhieu-phuong-o-tphcm-ban-chuyen-kiem-soat-suat-an-hoc-duong-100260821213040417.htm",
+      "summary": "Sau khi một phường, xã triển khai thí điểm mô hình Tick xanh trách nhiệm trong cơ sở giáo dục, đến lượt chính quyền phường Lái Thiêu, Bến Cát... tiếp cận mô hình này nhằm tìm kiếm giải pháp giúp tăng kiểm soát chất lượng, minh bạch nguồn gốc suất ăn học đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T11:22:08.768773+07:00",
+      "fetched": "2026-08-22T11:22:08.768857+07:00"
+    },
+    {
+      "id": "e6c85f49bd683a308533ea21685ae47f",
+      "title": "Nhà Bè giảm 8 trường sau sắp xếp, học sinh vẫn học cơ sở cũ",
+      "link": "https://tuoitre.vn/nha-be-giam-8-truong-sau-sap-xep-hoc-sinh-van-hoc-co-so-cu-100260822101825696.htm",
+      "summary": "Từ 25 trường mầm non, tiểu học và THCS, Nhà Bè còn 17 trường sau sắp xếp. Học sinh vẫn học tại các cơ sở hiện hữu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T11:22:08.768699+07:00",
+      "fetched": "2026-08-22T11:22:08.768762+07:00"
+    },
+    {
+      "id": "23144f78e4cce30f8cff088cecdf389c",
+      "title": "Vì sao bão số 4 đi lòng vòng trên vịnh Bắc Bộ nhiều ngày?",
+      "link": "https://tuoitre.vn/vi-sao-bao-so-4-di-long-vong-tren-vinh-bac-bo-nhieu-ngay-100260822104724139.htm",
+      "summary": "Theo cơ quan khí tượng, bão số 4 (Narra) đi chậm, liên tục đổi hướng và đi lòng vòng trên vịnh Bắc Bộ nhiều ngày là do dải hội tụ nhiệt đới và các nhân tố môi trường chi phối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T11:22:08.768616+07:00",
+      "fetched": "2026-08-22T11:22:08.768688+07:00"
+    },
+    {
+      "id": "599ca06dcb650037a81f7f41afa86de4",
+      "title": "Bộ trưởng Trần Hồng Minh: Giá nhà ở đô thị lớn tăng quá cao",
+      "link": "https://tuoitre.vn/bo-truong-tran-hong-minh-gia-nha-o-do-thi-lon-tang-qua-cao-100260822103345838.htm",
+      "summary": "Ngày 22-8, tại phiên thảo luận ở hội trường về định hướng sửa đổi Luật Kinh doanh bất động sản, Bộ trưởng Bộ Xây dựng Trần Hồng Minh đã giải trình nhiều nội dung liên quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T11:22:08.768459+07:00",
+      "fetched": "2026-08-22T11:22:08.768601+07:00"
+    },
     {
       "id": "24d71387d77127e91423569282485d73",
       "title": "Người lừa mua sầu riêng online rồi quỵt tiền chuẩn bị hầu tòa",
@@ -303,6 +453,246 @@ window.newsData_2026_08_22 = {
       "fetched": "2026-08-22T07:39:18.418799+07:00"
     },
     {
+      "id": "5657254638a09e73faf5684c4a12a07c",
+      "title": "Siêu máy tính dự đoán chung kết Thái Lan vs Việt Nam, 82% độc giả Thanh Niên chọn đội khách thắng",
+      "link": "https://thanhnien.vn/sieu-may-tinh-du-doan-chung-ket-thai-lan-vs-viet-nam-82-doc-gia-thanh-nien-chon-doi-khach-thang-18526082211044919.htm",
+      "summary": "Siêu máy tính Gemini dự đoán Thái Lan sẽ bày ra thế trận áp đặt trong trận chung kết lượt đi ASEAN Cup 2026 vào 20 giờ hôm nay, nhưng đội tuyển Việt Nam sẽ thể hiện bản lĩnh trên sân Rajamangala.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T04:21:00+07:00",
+      "fetched": "2026-08-22T11:22:07.369522+07:00"
+    },
+    {
+      "id": "a01878fc352a2a6e7b0a87ee7b28a3b9",
+      "title": "Trung tâm tư vấn pháp luật tại TP.HCM ra mắt ‘Nền tảng nhịp cầu luật sư’",
+      "link": "https://thanhnien.vn/trung-tam-tu-van-phap-luat-tai-tphcm-ra-mat-nen-tang-nhip-cau-luat-su-185260822102315976.htm",
+      "summary": "Ngày 22.8, Trung tâm tư vấn pháp luật tại TP.HCM (Hội Luật gia Việt Nam) tổ chức tọa đàm ‘AI tác động thế nào đến nghề luật?’ và ra mắt ‘Nền tảng nhịp cầu luật sư’.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T04:12:00+07:00",
+      "fetched": "2026-08-22T11:22:07.369746+07:00"
+    },
+    {
+      "id": "b5df12bb735a52ef4ca64c1bb1f0af64",
+      "title": "Đội tuyển bóng chuyền nữ Việt Nam thất thủ trước Hàn Quốc ở giải châu Á",
+      "link": "https://thanhnien.vn/doi-tuyen-bong-chuyen-nu-viet-nam-that-thu-truoc-han-quoc-o-giai-chau-a-185260822100429453.htm",
+      "summary": "Đội tuyển bóng chuyền nữ Việt Nam để thua Hàn Quốc 1-3 ở trận ra quân bảng C giải bóng chuyền vô địch châu Á diễn ra hôm nay tại Thiên Tân (Trung Quốc).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T04:09:00+07:00",
+      "fetched": "2026-08-22T11:22:07.369958+07:00"
+    },
+    {
+      "id": "95236690b7f2babb8ba9395542b6d9c9",
+      "title": "Sai lầm của trùm drone Ukraine khi thách thức Tổng thống Zelensky",
+      "link": "https://vnexpress.net/sai-lam-cua-trum-drone-ukraine-khi-thach-thuc-tong-thong-zelensky-5111093.html",
+      "summary": "Lời kêu gọi bầu cử giữa thời chiến là sự thách thức trực diện từ Fedorov với Tổng thống Zelensky, nhưng đây cũng chính là sai lầm của cựu bộ trưởng quốc phòng Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-22T04:05:11+07:00",
+      "fetched": "2026-08-22T11:22:10.365160+07:00"
+    },
+    {
+      "id": "f714ff7988b464d9cd3fe263619fa60b",
+      "title": "Nam ca sĩ gây tranh cãi vì thái độ trong 'Sao nhập ngũ'",
+      "link": "https://thanhnien.vn/nam-ca-si-gay-tranh-cai-vi-thai-do-trong-sao-nhap-ngu-185260822104924476.htm",
+      "summary": "Sau 2 tập phát sóng của 'Sao nhập ngũ', Erik trở thành cái tên gây tranh cãi vì có thái độ không tốt trong những ngày đầu tham gia chương trình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T04:00:00+07:00",
+      "fetched": "2026-08-22T11:22:07.370119+07:00"
+    },
+    {
+      "id": "a9cfa439a616405ad7eede0028cae717",
+      "title": "Nhiều dự án bất động sản 'vẽ lung linh' nhưng thực tế khác xa",
+      "link": "https://thanhnien.vn/nhieu-du-an-bat-dong-san-ve-lung-linh-nhung-thuc-te-khac-xa-185260822103517075.htm",
+      "summary": "Đề xuất nghiêm cấm quảng cáo sai sự thật, đại biểu Quốc hội Nguyễn Minh Tuấn, Giám đốc Công an tỉnh Phú Thọ, chỉ rõ nhiều dự án vẽ cây xanh, hồ nước, bầu trời lung linh, nhưng thực tế khác xa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:57:00+07:00",
+      "fetched": "2026-08-22T11:22:07.370278+07:00"
+    },
+    {
+      "id": "622a59f6c47edf212da39bde7f8d4fa5",
+      "title": "Vì sao Bitcoin kém hấp dẫn hơn trước?",
+      "link": "https://vnexpress.net/vi-sao-bitcoin-kem-hap-dan-hon-truoc-5112010.html",
+      "summary": "Khi Bitcoin ít biến động hơn, nhiều nhà đầu tư lướt sóng chuyển sang cổ phiếu AI, vàng hoặc cá cược với kỳ vọng kiếm lợi nhuận gấp 5-10 lần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:53:49+07:00",
+      "fetched": "2026-08-22T11:22:04.931482+07:00"
+    },
+    {
+      "id": "622a59f6c47edf212da39bde7f8d4fa5",
+      "title": "Vì sao Bitcoin kém hấp dẫn hơn trước?",
+      "link": "https://vnexpress.net/vi-sao-bitcoin-kem-hap-dan-hon-truoc-5112010.html",
+      "summary": "Khi Bitcoin ít biến động hơn, nhiều nhà đầu tư lướt sóng chuyển sang cổ phiếu AI, vàng hoặc cá cược với kỳ vọng kiếm lợi nhuận gấp 5-10 lần.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-22T03:53:49+07:00",
+      "fetched": "2026-08-22T11:22:11.240069+07:00"
+    },
+    {
+      "id": "ffc2937aef0b3208a5ae9e41b43f0fa9",
+      "title": "Jack Sparrow có cứu nổi sự nghiệp Johnny Depp?",
+      "link": "https://thanhnien.vn/jack-sparrow-co-cuu-noi-su-nghiep-johnny-depp-185260822095236679.htm",
+      "summary": "Từng bị coi là 'thuốc độc phòng vé', tài tử Johnny Depp liệu có thể lấy lại hào quang xưa nhờ vai diễn để đời?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:53:00+07:00",
+      "fetched": "2026-08-22T11:22:07.370433+07:00"
+    },
+    {
+      "id": "2bc8586155c6639e4dcbf7da4464749e",
+      "title": "Quảng Ninh giảm gần một nửa cơ sở giáo dục công lập sau sắp xếp",
+      "link": "https://thanhnien.vn/quang-ninh-giam-gan-mot-nua-co-so-giao-duc-cong-lap-sau-sap-xep-185260822100404614.htm",
+      "summary": "Sau đợt sắp xếp trường học quy mô lớn, Quảng Ninh giảm 280 cơ sở giáo dục công lập, tương đương 49,12%. Các trường sau sắp xếp đã ổn định tổ chức, duy trì hoạt động dạy học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:45:00+07:00",
+      "fetched": "2026-08-22T11:22:07.370597+07:00"
+    },
+    {
+      "id": "b1d0accb58d3570f64b8793dc63ff933",
+      "title": "Bị khởi tố vì bán rượu ngâm rắn hổ mang chúa",
+      "link": "https://thanhnien.vn/bi-khoi-to-vi-ban-ruou-ngam-ran-ho-mang-chua-185260822093520748.htm",
+      "summary": "Nam thanh niên tại Hải Phòng bị công an khởi tố vì bán rượu ngâm rắn hổ mang chúa, thuộc danh mục động vật nguy cấp, quý, hiếm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:45:00+07:00",
+      "fetched": "2026-08-22T11:22:07.370760+07:00"
+    },
+    {
+      "id": "8c5612084089dc946dc5c001e7989655",
+      "title": "'Tâm lý chiến' trước chung kết kinh điển",
+      "link": "https://thanhnien.vn/tam-ly-chien-truoc-chung-ket-kinh-dien-185260821232456589.htm",
+      "summary": "Cả HLV Kim Sang-sik (VN) lẫn Anthony Hudson (Thái Lan) đều tôn trọng đối thủ, nhưng không quên hâm nóng chung kết lượt đi ASEAN Cup 2026 (20 giờ hôm nay 22.8 trên sân Rajamangala) bằng thủ thuật tâm lý khéo léo được đan cài trong từng câu trả lời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:44:00+07:00",
+      "fetched": "2026-08-22T11:22:07.370939+07:00"
+    },
+    {
+      "id": "585202115d3e6288dd3ad5f8395d7fce",
+      "title": "Cảnh biển bình minh ở làng chài Nhơn Lý có gì mà nhiều người tưởng là ảnh ghép?",
+      "link": "https://thanhnien.vn/canh-bien-o-lang-chai-nhon-ly-gay-sot-vi-giong-anh-ghep-nguoi-chup-noi-gi-185260822071224806.htm",
+      "summary": "Mới đây, bức ảnh chụp bãi biển lúc bình minh ở khu vực làng chài Nhơn Lý, Gia Lai bất ngờ được chia sẻ rần rần trên mạng xã hội vì 'nhìn quá ảo diệu'. Có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:43:00+07:00",
+      "fetched": "2026-08-22T11:22:07.371101+07:00"
+    },
+    {
+      "id": "d89b348f8cc0abc4b4e025e465212345",
+      "title": "Drone Houthi thả lựu đạn, khiến xe tăng Abrams nổ khoang đạn",
+      "link": "https://vnexpress.net/drone-houthi-tha-luu-dan-khien-xe-tang-abrams-no-khoang-dan-5111980.html",
+      "summary": "Houthi dùng drone thả lựu đạn trúng tháp pháo xe tăng M1A2S Arab Saudi, khiến khoang chứa đạn phía sau nổ tung và gây ra đám cháy lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:42:29+07:00",
+      "fetched": "2026-08-22T11:22:04.931667+07:00"
+    },
+    {
+      "id": "e0f5c6eee7d35bc0b802c61dd9bfc223",
+      "title": "Xe tăng Abrams phát nổ vì quả lựu đạn của Houthi",
+      "link": "https://vnexpress.net/xe-tang-abrams-phat-no-vi-qua-luu-dan-cua-houthi-5111980.html",
+      "summary": "Houthi dùng drone thả lựu đạn trúng tháp pháo xe tăng M1A2S Arab Saudi, khiến khoang chứa đạn phía sau nổ tung và gây ra đám cháy lớn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-22T03:42:29+07:00",
+      "fetched": "2026-08-22T11:22:10.365344+07:00"
+    },
+    {
+      "id": "1d746296eb3d592467c168c02b779828",
+      "title": "Phát hiện hàng trăm ngàn bao cao su bị thủng hoặc dễ rách, Pháp ra khuyến nghị",
+      "link": "https://thanhnien.vn/phat-hien-hang-tram-ngan-bao-cao-su-bi-thung-hoac-de-rach-phap-ra-khuyen-nghi-185260822103500529.htm",
+      "summary": "Cơ quan chức năng Pháp thu hồi khoảng 260.000 bao cao su được xác định có lỗ thủng hoặc dễ rách, đồng thời khuyến nghị người đã sử dụng nên đi xét nghiệm các bệnh lây truyền qua đường tình dục và thử thai nếu bị trễ kinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:41:00+07:00",
+      "fetched": "2026-08-22T11:22:07.371253+07:00"
+    },
+    {
+      "id": "ad7b6348bdd266e625375551d03c783c",
+      "title": "Cơ hội đổi đời cho thanh niên yếu thế",
+      "link": "https://vnexpress.net/co-hoi-doi-doi-cho-thanh-nien-yeu-the-5111900.html",
+      "summary": "Từ bỏ công việc hiện tại, nhiều thanh niên yếu thế chọn con đường học nghề bài bản để tự chủ kinh tế và tìm kiếm cơ hội thay đổi cuộc sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:37:59+07:00",
+      "fetched": "2026-08-22T11:22:04.931862+07:00"
+    },
+    {
+      "id": "1143e0710e1b84064fdb93245a9685a6",
+      "title": "Không chỉ phát Wi-Fi, điện thoại còn có cách chia sẻ internet ít người biết",
+      "link": "https://thanhnien.vn/khong-chi-phat-wi-fi-dien-thoai-con-co-cach-chia-se-internet-it-nguoi-biet-185260821000015518.htm",
+      "summary": "Chỉ cần cáp USB, người dùng có thể chia sẻ internet từ điện thoại sang máy tính mà không cần tạo mạng Wi-Fi Hotspot.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:36:00+07:00",
+      "fetched": "2026-08-22T11:22:07.371402+07:00"
+    },
+    {
+      "id": "0a012da4e96ed22ba7f5e9d05921848c",
+      "title": "Bộ trưởng Bộ Xây dựng lý giải vì sao giá nhà 'tăng quá cao'",
+      "link": "https://thanhnien.vn/bo-truong-bo-xay-dung-ly-giai-vi-sao-gia-nha-tang-qua-cao-185260822101208124.htm",
+      "summary": "Theo Bộ trưởng Bộ Xây dựng, chênh lệch nguồn cung, dư thừa phân khúc nhà ở cao cấp, dẫn đến tình trạng đầu cơ, mua đi bán lại, tạo ra sự khan hiếm giả tạo và đẩy giá nhà lên cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:35:00+07:00",
+      "fetched": "2026-08-22T11:22:07.371567+07:00"
+    },
+    {
+      "id": "bac324679c3f1821b532d6001da3fbad",
+      "title": "An toàn số - lợi thế cạnh tranh mới của doanh nghiệp vừa và nhỏ",
+      "link": "https://thanhnien.vn/an-toan-so-loi-the-canh-tranh-moi-cua-doanh-nghiep-vua-va-nho-18526082118151406.htm",
+      "summary": "An toàn số hiện được xem như thước đo năng lực quản trị, đồng thời là lợi thế cạnh tranh của doanh nghiệp vừa và nhỏ (SME) trong kỷ nguyên dữ liệu và trí tuệ nhân tạo (AI).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:32:00+07:00",
+      "fetched": "2026-08-22T11:22:07.371715+07:00"
+    },
+    {
+      "id": "f67340dc61a945244215732fe2240302",
+      "title": "'Cần định danh rõ hành vi thao túng thị trường bất động sản'",
+      "link": "https://vnexpress.net/can-dinh-danh-ro-hanh-vi-thao-tung-thi-truong-bat-dong-san-5111966.html",
+      "summary": "Đại biểu Quốc hội đề xuất luật hóa hành vi thao túng thị trường bất động sản và lập hệ thống cảnh báo sớm để ngăn tình trạng thổi giá, tạo sóng trục lợi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:30:54+07:00",
+      "fetched": "2026-08-22T11:22:04.932031+07:00"
+    },
+    {
+      "id": "f67340dc61a945244215732fe2240302",
+      "title": "'Cần định danh rõ hành vi thao túng thị trường bất động sản'",
+      "link": "https://vnexpress.net/can-dinh-danh-ro-hanh-vi-thao-tung-thi-truong-bat-dong-san-5111966.html",
+      "summary": "Đại biểu Quốc hội đề xuất luật hóa hành vi thao túng thị trường bất động sản và lập hệ thống cảnh báo sớm để ngăn tình trạng thổi giá, tạo sóng trục lợi.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-22T03:30:54+07:00",
+      "fetched": "2026-08-22T11:22:11.240260+07:00"
+    },
+    {
+      "id": "42d65046fd7b471b49cfb86de7c78336",
+      "title": "'Thần kê' nhận trái đắng vì trót dự đoán Thái Lan thắng Việt Nam",
+      "link": "https://vnexpress.net/than-ke-nhan-cai-ket-dang-vi-trot-du-doan-thai-lan-thang-viet-nam-tai-chung-ket-asean-cup-2026-5111800.html",
+      "summary": "Trước trận chung kết ASEAN Cup 2026, lỡ chọn phần thức ăn mang tên Thái Lan, chú gà liền bị chủ nhân cho một bài học nhớ đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:29:55+07:00",
+      "fetched": "2026-08-22T11:22:04.932198+07:00"
+    },
+    {
+      "id": "9e5000d0a0bd521576d251dfdc3497b8",
+      "title": "Campuchia - Mỹ phát hiện mạng lưới rửa tiền cho băng nhóm ma túy Mexico",
+      "link": "https://thanhnien.vn/campuchia-my-phat-hien-mang-luoi-rua-tien-cho-bang-nhom-ma-tuy-mexico-185260822101559028.htm",
+      "summary": "Các cơ quan phòng chống ma túy của Campuchia và Mỹ đã phát hiện một mạng lưới bị nghi sử dụng tiền kỹ thuật số để rửa tiền cho băng nhóm ma túy khét tiếng Sinaloa ở Mexico, theo AP ngày 21.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:23:00+07:00",
+      "fetched": "2026-08-22T11:22:07.371897+07:00"
+    },
+    {
       "id": "5b6b1508aee2796d3e98b751f21468e4",
       "title": "Giá vàng thế giới tăng không ngừng, vượt xa 4.600 USD/ounce",
       "link": "https://tuoitre.vn/gia-vang-the-gioi-tang-khong-ngung-vuot-xa-4600-usd-ounce-100260822001501667.htm",
@@ -321,6 +711,126 @@ window.newsData_2026_08_22 = {
       "category": "Tổng hợp",
       "published": "2026-08-22T03:14:14.595348+07:00",
       "fetched": "2026-08-22T03:14:14.595494+07:00"
+    },
+    {
+      "id": "57597d3c974bb32b7868715a48c47c48",
+      "title": "Giá vàng miếng lên cao nhất hơn một tháng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-22-8-5111983.html",
+      "summary": "Các thương hiệu bán ra vàng miếng, nhẫn trơn quanh 147,6 triệu đồng, cao nhất hơn một tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:13:33+07:00",
+      "fetched": "2026-08-22T11:22:04.932357+07:00"
+    },
+    {
+      "id": "57597d3c974bb32b7868715a48c47c48",
+      "title": "Giá vàng miếng lên cao nhất hơn một tháng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-22-8-5111983.html",
+      "summary": "Các thương hiệu bán ra vàng miếng, nhẫn trơn quanh 147,6 triệu đồng, cao nhất hơn một tháng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-22T03:13:33+07:00",
+      "fetched": "2026-08-22T11:22:11.240425+07:00"
+    },
+    {
+      "id": "0d563a3253af0caeaf31bda34565da11",
+      "title": "Khám phá 'nàng thơ' ruộng bậc thang Hoàng Su Phì",
+      "link": "https://vnexpress.net/kham-pha-nang-tho-ruong-bac-thang-hoang-su-phi-5111550.html",
+      "summary": "Nằm giữa núi non trùng điệp phía tây Tuyên Quang, Hoàng Su Phì mê hoặc du khách bởi những thửa ruộng bậc thang uốn lượn theo sườn núi, đẹp nhất vào mùa nước đổ (tháng 4-6) và mùa lúa chín (tháng 9-10).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:11:07+07:00",
+      "fetched": "2026-08-22T11:22:04.932520+07:00"
+    },
+    {
+      "id": "ca5931ed65a615f3939bcd8072cc9ac9",
+      "title": "Giới hạn nào cho thị trường chuyển nhượng hè này",
+      "link": "https://vnexpress.net/gioi-han-nao-cho-thi-truong-chuyen-nhuong-he-nay-5111489.html",
+      "summary": "Giá cầu thủ tăng vọt trong hè này, với 10 thương vụ đắt nhất có mức phí trung bình cao hơn 45% so với định giá của chuyên trang chuyển nhượng Transfermarkt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:00:00+07:00",
+      "fetched": "2026-08-22T11:22:04.932691+07:00"
+    },
+    {
+      "id": "90916a004a317ec488ab8915fad9238c",
+      "title": "Startup Việt chế tạo pin từ muối",
+      "link": "https://vnexpress.net/startup-viet-che-tao-pin-tu-muoi-5111365.html",
+      "summary": "Startup công nghệ năng lượng Alternō phát triển hệ thống pin dùng natri, thành phần có trong muối, để lưu trữ điện, với tuổi thọ thiết kế 30 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:00:00+07:00",
+      "fetched": "2026-08-22T11:22:04.932878+07:00"
+    },
+    {
+      "id": "a08812fe211501b6d2fe66b1420b8277",
+      "title": "6 thực phẩm giàu protein phụ nữ trung niên nên ăn mỗi tuần",
+      "link": "https://vnexpress.net/6-thuc-pham-giau-protein-phu-nu-trung-nien-nen-an-moi-tuan-5111815.html",
+      "summary": "Cá hồi, trứng, sữa chua Hy Lạp, đậu nành giàu protein chất lượng giúp phụ nữ duy trì cơ bắp và sức khỏe xương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:00:00+07:00",
+      "fetched": "2026-08-22T11:22:04.933055+07:00"
+    },
+    {
+      "id": "703682449e2da61ec976091e62d31a6c",
+      "title": "Các bệnh tim mạch làm tăng nguy cơ biến chứng khi mang thai",
+      "link": "https://vnexpress.net/cac-benh-tim-mach-lam-tang-nguy-co-bien-chung-khi-mang-thai-5111794.html",
+      "summary": "Phụ nữ mắc bệnh tim bẩm sinh, bệnh động mạch chủ, van tim có nguy cơ biến chứng khi mang thai do tim phải làm việc nhiều hơn để đáp ứng nhu cầu tuần hoàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:00:00+07:00",
+      "fetched": "2026-08-22T11:22:04.933211+07:00"
+    },
+    {
+      "id": "90916a004a317ec488ab8915fad9238c",
+      "title": "Startup Việt chế tạo pin từ muối",
+      "link": "https://vnexpress.net/startup-viet-che-tao-pin-tu-muoi-5111365.html",
+      "summary": "Startup công nghệ năng lượng Alternō phát triển hệ thống pin dùng natri, thành phần có trong muối, để lưu trữ điện, với tuổi thọ thiết kế 30 năm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-22T03:00:00+07:00",
+      "fetched": "2026-08-22T11:22:13.494324+07:00"
+    },
+    {
+      "id": "ca5931ed65a615f3939bcd8072cc9ac9",
+      "title": "Giới hạn nào cho thị trường chuyển nhượng hè này",
+      "link": "https://vnexpress.net/gioi-han-nao-cho-thi-truong-chuyen-nhuong-he-nay-5111489.html",
+      "summary": "Giá cầu thủ tăng vọt trong hè này, với 10 thương vụ đắt nhất có mức phí trung bình cao hơn 45% so với định giá của chuyên trang chuyển nhượng Transfermarkt.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-22T03:00:00+07:00",
+      "fetched": "2026-08-22T11:22:14.765157+07:00"
+    },
+    {
+      "id": "25aca9796730c6552b56f0d0f3cb1870",
+      "title": "Ca mổ khớp 9 tiếng giúp thiếu niên thoát 'hội chứng ngày sinh nhật'",
+      "link": "https://vnexpress.net/ca-mo-khop-9-tieng-giup-thieu-nien-thoat-hoi-chung-ngay-sinh-nhat-5111823.html",
+      "summary": "Thiếu niên 14 tuổi bị trật khớp háng hai bên, co rút nhiều khớp do bệnh lý chất trắng ở não, trải qua cuộc mổ kéo dài 9 giờ để nắn lại khớp, tránh được 'hội chứng ngày sinh nhật'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T02:56:43+07:00",
+      "fetched": "2026-08-22T11:22:04.933376+07:00"
+    },
+    {
+      "id": "eacb931327a620b028e889800f40ef33",
+      "title": "Châu Kiệt Luân chi 15 triệu USD mua nhà tặng vợ",
+      "link": "https://vnexpress.net/chau-kiet-luan-chi-15-trieu-usd-mua-nha-tang-vo-5111964.html",
+      "summary": "\"Ông hoàng showbiz Đài Loan\" Châu Kiệt Luân mua hai căn nhà trị giá 484 triệu TWD (15,1 triệu USD), đứng tên vợ - Côn Lăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T02:54:14+07:00",
+      "fetched": "2026-08-22T11:22:04.933539+07:00"
+    },
+    {
+      "id": "55ca2aedb056e7eda0b3038b5e4c1d22",
+      "title": "Việt Nam đấu Thái Lan: Khẳng định ngôi vương bóng đá Đông Nam Á",
+      "link": "https://vnexpress.net/du-doan-ket-qua-chung-ket-luot-di-asean-cup-2026-viet-nam-vs-thai-lan-5111963.html",
+      "summary": "Xét từ 2018 đến nay, thành tích và phong độ của tuyển Việt Nam và Thái Lan 'kẻ tám lạng, người nửa cân'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T02:44:28+07:00",
+      "fetched": "2026-08-22T11:22:04.933693+07:00"
     },
     {
       "id": "1fd854aa73289980b486d7c0550e1240",
