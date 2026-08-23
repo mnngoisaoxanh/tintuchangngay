@@ -1,7 +1,157 @@
 window.newsData_2026_08_23 = {
   "date": "2026-08-23",
-  "lastUpdated": "2026-08-23T21:13:51.477457+07:00",
+  "lastUpdated": "2026-08-23T23:13:08.260781+07:00",
   "articles": [
+    {
+      "id": "36bb9df2f17382184df1187acc79c155",
+      "title": "Ra trường, gửi CV miệt mài không ai gọi: Tìm việc sao khó đến vậy?",
+      "link": "https://tuoitre.vn/ra-truong-gui-cv-miet-mai-khong-ai-goi-tim-viec-sao-kho-den-vay-100260823165230301.htm",
+      "summary": "Sau khi tốt nghiệp, nhiều bạn trẻ rơi vào cảnh gửi CV liên tục, thử việc rồi bị từ chối hoặc phải đổi hướng vì chưa tìm được công việc phù hợp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:12:59.794208+07:00",
+      "fetched": "2026-08-23T23:12:59.794267+07:00"
+    },
+    {
+      "id": "68b445603fc821666addc6db1d3522c9",
+      "title": "Đội K76 Đồng Nai quy tập thêm 2 hài cốt liệt sĩ ở khu vực giáp Campuchia",
+      "link": "https://tuoitre.vn/doi-k76-dong-nai-quy-tap-them-2-hai-cot-liet-si-o-khu-vuc-giap-campuchia-100260823194108359.htm",
+      "summary": "Đội K76 Bộ Chỉ huy Quân sự TP Đồng Nai tiếp tục phát hiện, quy tập thêm 2 bộ hài cốt liệt sĩ ở xã Lộc Tấn, giáp biên giới Campuchia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:12:59.794151+07:00",
+      "fetched": "2026-08-23T23:12:59.794200+07:00"
+    },
+    {
+      "id": "767ba7a59e6999f202d0265358e8d50f",
+      "title": "Man City mua 'cậu học sinh chuyên toán' với giá 117 triệu USD",
+      "link": "https://tuoitre.vn/man-city-mua-cau-hoc-sinh-chuyen-toan-voi-gia-117-trieu-usd-100260823193045462.htm",
+      "summary": "Tối 23-8, Man City đã hoàn tất thương vụ chuyển nhượng \"bom tấn\" mang tên Ayyoub Bouaddi, ngôi sao 18 tuổi người Morocco, với giá 117 triệu USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:12:59.794101+07:00",
+      "fetched": "2026-08-23T23:12:59.794143+07:00"
+    },
+    {
+      "id": "91efc6342841b1c751ac9c37d3c51667",
+      "title": "Tin vui cho người hâm mộ Naruto",
+      "link": "https://tuoitre.vn/tin-vui-cho-nguoi-ham-mo-naruto-100260823173614885.htm",
+      "summary": "Thương hiệu Naruto chuẩn bị trở lại với dự án mới được công bố tại New York Comic Con ngày 10-10, cùng sự góp mặt của hai diễn viên lồng tiếng Naruto và Sasuke.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:12:59.794050+07:00",
+      "fetched": "2026-08-23T23:12:59.794094+07:00"
+    },
+    {
+      "id": "6a43b0ae592316e791258806e83de846",
+      "title": "TP.HCM: Trường học hào hứng áp dụng giải pháp kiểm soát chất lượng bữa ăn học sinh",
+      "link": "https://tuoitre.vn/tphcm-truong-hoc-hao-hung-ap-dung-giai-phap-kiem-soat-chat-luong-bua-an-hoc-sinh-100260823191805138.htm",
+      "summary": "Nhiều trường học tại TP.HCM hào hứng áp dụng mô hình Bếp ăn minh bạch nhằm tăng việc kiểm soát nguồn gốc nguyên liệu, chất lượng đối với bữa ăn học đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:12:59.793980+07:00",
+      "fetched": "2026-08-23T23:12:59.794041+07:00"
+    },
+    {
+      "id": "6d095b0b901b524f8bda3b397c4427b4",
+      "title": "Thủ tướng yêu cầu tăng cường bảo đảm an ninh, trật tự dịp Quốc khánh 2-9",
+      "link": "https://tuoitre.vn/thu-tuong-yeu-cau-tang-cuong-bao-dam-an-ninh-trat-tu-dip-quoc-khanh-2-9-100260823201055086.htm",
+      "summary": "Thủ tướng Lê Minh Hưng vừa ký công điện về tăng cường công tác bảo đảm an ninh, trật tự dịp lễ Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:12:59.793896+07:00",
+      "fetched": "2026-08-23T23:12:59.793968+07:00"
+    },
+    {
+      "id": "d23c111816cf9b979242781ab1b149b4",
+      "title": "Mưa lớn khiến nhiều tuyến đường sạt lở, Lạng Sơn gần 80 điểm tắc đường do ngập",
+      "link": "https://tuoitre.vn/mua-lon-khien-nhieu-tuyen-duong-sat-lo-lang-son-gan-80-diem-tac-duong-do-ngap-10026082319452584.htm",
+      "summary": "Do ảnh hưởng của mưa lũ, tại tỉnh Lạng Sơn ghi nhận có tới 60 vị trí ngập và 16 vị trí sạt lở ta luy dương với 76 vị trí đang tắc đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:12:59.793810+07:00",
+      "fetched": "2026-08-23T23:12:59.793882+07:00"
+    },
+    {
+      "id": "250789c2f9d7f6c83ea103b7de73778b",
+      "title": "Bão số 4 mạnh lên cấp 9, giật cấp 11, đêm nay mưa lớn ở Đông Bắc và đồng bằng Bắc Bộ",
+      "link": "https://tuoitre.vn/bao-so-4-manh-len-cap-9-giat-cap-11-dem-nay-mua-lon-o-dong-bac-va-dong-bang-bac-bo-100260823201333379.htm",
+      "summary": "Tối 23-8, bão số 4 (Narra) mạnh lên cấp 9 (75 - 88km/h), giật cấp 11. Do ảnh hưởng của bão, đêm nay ở khu vực Đông Bắc, đồng bằng Bắc Bộ và Thanh Hóa sẽ có mưa lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:12:59.793468+07:00",
+      "fetched": "2026-08-23T23:12:59.793795+07:00"
+    },
+    {
+      "id": "286aca1f1add65b04253c0a5bc5613af",
+      "title": "Ông Zelensky công khai lý do miễn nhiệm Bộ trưởng Quốc phòng Mykhailo Fedorov",
+      "link": "https://tuoitre.vn/ong-zelensky-cong-khai-ly-do-mien-nhiem-bo-truong-quoc-phong-mykhailo-fedorov-10026082320110221.htm",
+      "summary": "Ông Zelensky đã công khai những bất đồng dẫn đến việc miễn nhiệm Bộ trưởng Quốc phòng với ông Mykhailo Fedorov.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:12:59.793415+07:00",
+      "fetched": "2026-08-23T23:12:59.793461+07:00"
+    },
+    {
+      "id": "c542d36825076e0b12e33bc5ab87e6a6",
+      "title": "Hàn Quốc và Pháp lật đổ Trung Quốc ở Giải vô địch cầu lông thế giới",
+      "link": "https://tuoitre.vn/han-quoc-va-phap-lat-do-trung-quoc-o-giai-vo-dich-cau-long-the-gioi-100260823201334591.htm",
+      "summary": "Giải vô địch cầu lông thế giới 2026 chứng kiến những cú lật đổ ngoạn mục, khi các tay vợt từ Hàn Quốc và Pháp lần lượt vượt mặt dàn siêu sao Trung Quốc để thống trị giải đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:12:59.793361+07:00",
+      "fetched": "2026-08-23T23:12:59.793408+07:00"
+    },
+    {
+      "id": "4e6ec09756cbf978ad2e3b23f0b6118d",
+      "title": "Góp mái tóc dài, chia sẻ yêu thương",
+      "link": "https://tuoitre.vn/gop-mai-toc-dai-chia-se-yeu-thuong-100260823165709809.htm",
+      "summary": "Mái tóc được chăm chút nhiều năm hay bộ tóc giả được giữ gìn qua năm tháng đều trở thành những lọn tóc nối dài yêu thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:12:59.793297+07:00",
+      "fetched": "2026-08-23T23:12:59.793351+07:00"
+    },
+    {
+      "id": "7942c9201780474416cedb65c99ba782",
+      "title": "6 học sinh chuyên Tuyên Quang trúng tuyển Đại học Y Hà Nội, 1 em đỗ y khoa",
+      "link": "https://tuoitre.vn/6-hoc-sinh-chuyen-tuyen-quang-trung-tuyen-dai-hoc-y-ha-noi-1-em-do-y-khoa-100260714143511935.htm",
+      "summary": "Trong 6 học sinh Trường THPT chuyên Tuyên Quang trúng tuyển vào Trường đại học Y Hà Nội, có 2 em trúng tuyển thẳng vào y khoa và răng hàm mặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:12:59.793224+07:00",
+      "fetched": "2026-08-23T23:12:59.793288+07:00"
+    },
+    {
+      "id": "301435d570261cfa38f02455cf594aa4",
+      "title": "Top 5 anime hấp dẫn nhất cuối năm 2026, fan không thể bỏ lỡ",
+      "link": "https://tuoitre.vn/top-5-anime-hap-dan-nhat-cuoi-nam-2026-fan-khong-the-bo-lo-100260823171602316.htm",
+      "summary": "Mùa anime cuối năm 2026 hứa hẹn trở thành một trong những mùa phim sôi động nhất những năm gần đây khi hàng loạt thương hiệu lớn đồng loạt trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:12:59.793164+07:00",
+      "fetched": "2026-08-23T23:12:59.793215+07:00"
+    },
+    {
+      "id": "6d3133acec1cadc405a7cb4cd5d909d7",
+      "title": "Nga rút đại sứ khỏi nước Anh, quan hệ xuống mức thấp chưa từng có",
+      "link": "https://tuoitre.vn/nga-rut-dai-su-khoi-nuoc-anh-quan-he-xuong-muc-thap-chua-tung-co-10026082320343607.htm",
+      "summary": "Ngày 23-8, Đại sứ quán Nga tại London xác nhận Nga hiện không còn đại sứ tại Anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:12:59.793095+07:00",
+      "fetched": "2026-08-23T23:12:59.793155+07:00"
+    },
+    {
+      "id": "b5894d76324e43f56759459edcb0b834",
+      "title": "Toàn cảnh thôn xóm ở Lạng Sơn ngập chìm trong biển nước",
+      "link": "https://tuoitre.vn/toan-canh-thon-xom-o-lang-son-ngap-chim-trong-bien-nuoc-100260823211934102.htm",
+      "summary": "Mưa lũ dồn về khiến nhiều xóm làng ở khu vực xã Thất Khê và Tràng Định (tỉnh Lạng Sơn) ngập trong 'biển nước'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:12:59.792930+07:00",
+      "fetched": "2026-08-23T23:12:59.793082+07:00"
+    },
     {
       "id": "6702572829d1df5f7d3cfde436445dcb",
       "title": "Vĩnh Long đề xuất tách sản lượng điện khỏi chỉ tiêu đánh giá tăng trưởng",
@@ -453,6 +603,26 @@ window.newsData_2026_08_23 = {
       "fetched": "2026-08-23T17:13:22.329375+07:00"
     },
     {
+      "id": "a429ab59ba4a3b5023c18fb8ea226c74",
+      "title": "Loạt mục tiêu ở Kiev trúng tên lửa Iskander-M",
+      "link": "https://vnexpress.net/loat-muc-tieu-o-kiev-trung-ten-lua-iskander-m-5112490.html",
+      "summary": "Truyền thông Ukraine công bố hiện trường địa điểm trúng tên lửa Iskander-M ở tỉnh Kiev, vô tình để lộ bằng chứng xe phóng UAV tầm xa bị phá hủy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-23T16:01:24+07:00",
+      "fetched": "2026-08-23T23:13:01.630518+07:00"
+    },
+    {
+      "id": "ecc3ce6a5a3ba0fb14c001476162a68f",
+      "title": "Robot hình người Trung Quốc phá kỷ lục chạy 100 m",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-trung-quoc-pha-ky-luc-chay-100-m-5112484.html",
+      "summary": "Robot Tiangong Ultra hoàn thành 100 m chạy trong 9,39 giây, phá sâu kỷ lục thế giới do Usain Bolt - vận động viên người Jamaica, thiết lập.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-23T15:24:24+07:00",
+      "fetched": "2026-08-23T23:13:07.295738+07:00"
+    },
+    {
       "id": "d461fe451f8f5a6a76625ce79ca64f0e",
       "title": "Ô tô con chở 4 người bốc cháy trơ khung trên đèo Bảo Lộc",
       "link": "https://tuoitre.vn/o-to-con-cho-4-nguoi-boc-chay-tro-khung-tren-deo-bao-loc-10026082311012586.htm",
@@ -601,6 +771,126 @@ window.newsData_2026_08_23 = {
       "category": "Tổng hợp",
       "published": "2026-08-23T15:17:57.931008+07:00",
       "fetched": "2026-08-23T15:17:57.931167+07:00"
+    },
+    {
+      "id": "cb97e9c266418cd9ebfaec2216259270",
+      "title": "Cứu 5 học sinh gặp nạn khi tắm biển Mỹ Khê",
+      "link": "https://thanhnien.vn/cuu-5-hoc-sinh-gap-nan-khi-tam-bien-my-khe-185260823212423933.htm",
+      "summary": "Năm học sinh ở Quảng Ngãi rủ nhau tắm biển Mỹ Khê (Quảng Ngãi) thì bất ngờ rơi vào rãnh sâu, nguy cơ đuối nước, rất may được lực lượng cứu nạn kịp thời phát hiện ứng cứu, đưa vào bờ an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T15:13:00+07:00",
+      "fetched": "2026-08-23T23:12:57.945475+07:00"
+    },
+    {
+      "id": "0cc394d89dc9d9e0d8680c65834c77d9",
+      "title": "VAR giúp Man City thắng ngược Bournemouth ở phút bù",
+      "link": "https://vnexpress.net/var-giup-man-city-thang-nguoc-bournemouth-o-phut-bu-5112489.html",
+      "summary": "VAR can thiệp tình huống, công nhận bàn thắng quyết định giúp Man City thắng đội khách Bournemouth 2-1 ở vòng một Ngoại hạng Anh 2026-2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T14:59:00+07:00",
+      "fetched": "2026-08-23T23:12:55.157504+07:00"
+    },
+    {
+      "id": "0cc394d89dc9d9e0d8680c65834c77d9",
+      "title": "VAR giúp Man City thắng ngược Bournemouth ở phút bù",
+      "link": "https://vnexpress.net/var-giup-man-city-thang-nguoc-bournemouth-o-phut-bu-5112489.html",
+      "summary": "VAR can thiệp tình huống, công nhận bàn thắng quyết định giúp Man City thắng đội khách Bournemouth 2-1 ở vòng một Ngoại hạng Anh 2026-2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-23T14:59:00+07:00",
+      "fetched": "2026-08-23T23:13:08.247580+07:00"
+    },
+    {
+      "id": "2838cb00e0397bb0377f033a1d06d00d",
+      "title": "Cầu thủ Bồ Đào Nha 25 tuổi đổ gục trên sân: Nỗi ám ảnh chưa bao giờ nguôi của bóng đá",
+      "link": "https://thanhnien.vn/cau-thu-bo-dao-nha-25-tuoi-do-guc-tren-san-noi-am-anh-chua-bao-gio-nguoi-cua-bong-da-18526082321014509.htm",
+      "summary": "Quévin Castro, cầu thủ 25 tuổi của Real Sport Clube, qua đời sau khi bất tỉnh trên sân ở phút thứ 10 trong trận giao hữu với Estrela da Amadora sáng 22.8. Dù được cấp cứu ngay lập tức và đưa đến bệnh viện, cầu thủ trẻ không qua khỏi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T14:43:00+07:00",
+      "fetched": "2026-08-23T23:12:57.945631+07:00"
+    },
+    {
+      "id": "07dfb449482ed62c48636f45e6eaa044",
+      "title": "Đội tuyển Việt Nam đã lập những kỷ lục nào sau trận thắng Thái Lan?",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-da-lap-nhung-ky-luc-nao-sau-tran-thang-thai-lan-185260823214209955.htm",
+      "summary": "Sau chiến thắng 2-0 trước đội tuyển Thái Lan ở chung kết lượt đi, đội tuyển Việt Nam đã nhận tổng cộng 12,3 tỉ đồng tiền thưởng từ VFF, bầu Thụy và Acecook Việt Nam. Thầy trò HLV Kim Sang-sik cũng đang đứng trước cơ hội giành chức vô địch cùng nhiều danh hiệu cá nhân tại ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T14:42:00+07:00",
+      "fetched": "2026-08-23T23:12:57.945768+07:00"
+    },
+    {
+      "id": "d1f1bcbb06713aad2bc62eb4d1b72122",
+      "title": "Thanh Hóa sơ tán 839 dân",
+      "link": "https://thanhnien.vn/thanh-hoa-so-tan-839-dan-185260823210752804.htm",
+      "summary": "Mưa lớn nhiều ngày qua đã gây sạt lở nhiều nơi, hoặc nguy cơ gây sạt lở đe dọa an toàn tính mạng và tài sản người dân, buộc chính quyền nhiều xã ở Thanh Hóa phải sơ tán 839 người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T14:40:00+07:00",
+      "fetched": "2026-08-23T23:12:57.945894+07:00"
+    },
+    {
+      "id": "975dab74cede1aa8658593f83d49d0d3",
+      "title": "Quang Dương: 'Thành công của tôi không tự nhiên mà đến'",
+      "link": "https://thanhnien.vn/quang-duong-thanh-cong-cua-toi-khong-tu-nhien-ma-den-185260823212452333.htm",
+      "summary": "Theo thần đồng pickleball Quang Dương, những gì anh đạt được trong pickleball là thành quả của quá trình nỗ lực, thay vì xuất hiện ngẫu nhiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T14:31:00+07:00",
+      "fetched": "2026-08-23T23:12:57.946019+07:00"
+    },
+    {
+      "id": "7a8be4b0a75f9c44d33cf4bdd5d24f3e",
+      "title": "Ukraine từng định tung 1.000 UAV đánh phá các sân bay tại Moscow?",
+      "link": "https://thanhnien.vn/ukraine-tung-dinh-tung-1000-uav-danh-pha-cac-san-bay-tai-moscow-185260823194133769.htm",
+      "summary": "Ukraine được cho là đã lên kế hoạch triển khai tới 1.000 máy bay không người lái (UAV) tự hành tích hợp trí tuệ nhân tạo (AI) tấn công các sân bay ở Moscow chỉ trong một đêm, nhằm áp đảo hệ thống phòng không, làm tê liệt hoạt động hàng không và gây sức ép buộc Điện Kremlin phải quay lại bàn đàm phán...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T14:30:00+07:00",
+      "fetched": "2026-08-23T23:12:57.946144+07:00"
+    },
+    {
+      "id": "fbd574658856b3576108eec2fd56dcec",
+      "title": "23 đội robot Việt Nam giành vé tranh tài quốc tế",
+      "link": "https://thanhnien.vn/23-doi-robot-viet-nam-gianh-ve-tranh-tai-quoc-te-185260823203540266.htm",
+      "summary": "Sau 3 ngày tranh tài tại Gia Lai, 23 đội xuất sắc tại Robotacon WRO 2026 sẽ đại diện Việt Nam tham dự các giải đấu quốc tế ở Trung Quốc, Ấn Độ và vòng chung kết thế giới tại Puerto Rico (Mỹ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T14:27:00+07:00",
+      "fetched": "2026-08-23T23:12:57.946278+07:00"
+    },
+    {
+      "id": "a3edfee88c3cd8064511969444a81d85",
+      "title": "Hàng chục nghìn khán giả đội mưa xem concert 'Tổ quốc trong tim'",
+      "link": "https://vnexpress.net/hang-chuc-nghin-khan-gia-doi-mua-xem-concert-to-quoc-trong-tim-5112474.html",
+      "summary": "Hàng chục nghìn khán giả hát \"Quốc ca\", cổ vũ các nghệ sĩ dưới mưa tại concert \"Tổ quốc trong tim\", tối 23/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T14:21:41+07:00",
+      "fetched": "2026-08-23T23:12:55.157673+07:00"
+    },
+    {
+      "id": "21ea77a1db16b2e168dddc6629ae19a5",
+      "title": "ABU Robocon 2026 khép lại: Việt Nam đoạt 3 giải thưởng, Hồng Kông vô địch",
+      "link": "https://thanhnien.vn/abu-robocon-2026-khep-lai-viet-nam-doat-3-giai-thuong-hong-kong-vo-dich-185260823203436617.htm",
+      "summary": "Chiều tối 23.8, hành trình của đội LH-FOF (Trường ĐH Lạc Hồng) tại đấu trường ABU Robocon 2026 đã chính thức khép lại với giải ba chung cuộc. Những sự cố kỹ thuật nghiệt ngã lượt trận bán kết đã khiến đại diện Việt Nam và Nhật Bản phải nhường bước, tạo nên một trận chung kết 'toàn Hồng Kông' ngay tr...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T14:19:00+07:00",
+      "fetched": "2026-08-23T23:12:57.946414+07:00"
+    },
+    {
+      "id": "a03dc3a9936f3abe91085aabfaa670f4",
+      "title": "Nhiều sông ở miền Bắc sắp vượt lũ lịch sử",
+      "link": "https://thanhnien.vn/nhieu-song-o-mien-bac-sap-vuot-lu-lich-su-185260823205403332.htm",
+      "summary": "Theo dự báo của cơ quan khí tượng, bão số 4 vẫn đang di chuyển chậm ra ngoài khơi nên từ tối 23 - 24.8, Đông Bắc bộ, phía nam Phú Thọ và Thanh Hóa tiếp tục có mưa lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T14:15:00+07:00",
+      "fetched": "2026-08-23T23:12:57.946541+07:00"
     },
     {
       "id": "2c763b211f10251ce701e73957862ef1",
