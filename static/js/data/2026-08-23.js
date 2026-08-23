@@ -1,6 +1,6 @@
 window.newsData_2026_08_23 = {
   "date": "2026-08-23",
-  "lastUpdated": "2026-08-23T09:54:11.614596+07:00",
+  "lastUpdated": "2026-08-23T11:27:16.332957+07:00",
   "articles": [
     {
       "id": "5f82ae2f664bb6eee03686c10df54686",
@@ -183,6 +183,226 @@ window.newsData_2026_08_23 = {
       "fetched": "2026-08-23T05:11:32.591315+07:00"
     },
     {
+      "id": "de7f8fafb34abae780a29f6472680a9a",
+      "title": "Trường ĐH Kiến trúc TP.HCM xét tuyển bổ sung từ 16 điểm",
+      "link": "https://thanhnien.vn/truong-dh-kien-truc-tphcm-xet-tuyen-bo-sung-tu-16-diem-185260823111226264.htm",
+      "summary": "Trường ĐH Kiến trúc TP.HCM thông báo xét tuyển bổ sung chương trình đào tạo ĐH chính quy năm 2026 từ mức 16 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T04:26:00+07:00",
+      "fetched": "2026-08-23T11:27:04.837395+07:00"
+    },
+    {
+      "id": "7fe363b924f68719c5d0879d6de5ab79",
+      "title": "‘Bí quyết’ sống lâu, sống khỏe cho người từ 50 tuổi không phải ai cũng biết",
+      "link": "https://thanhnien.vn/bi-quyet-song-lau-song-khoe-cho-nguoi-tu-50-tuoi-khong-phai-ai-cung-biet-185260823112550429.htm",
+      "summary": "Tuổi thọ không phải lúc nào cũng là bài toán phức tạp. Trên thực tế, một số cách hiệu quả để hỗ trợ kéo dài tuổi thọ lại là những thói quen có thể thực hiện mỗi ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T04:23:00+07:00",
+      "fetched": "2026-08-23T11:27:04.837566+07:00"
+    },
+    {
+      "id": "6f921eb5f2affcd7196ff0762ac92b47",
+      "title": "Người âm thầm kết nối những trận đấu của ‘Cùng con đi tiếp cuộc đời’",
+      "link": "https://thanhnien.vn/nguoi-am-tham-ket-noi-nhung-tran-dau-cua-cung-con-di-tiep-cuoc-doi-185260822223216527.htm",
+      "summary": "Qua 5 mùa giải pickleball 'Cùng con đi tiếp cuộc đời', bên cạnh những vận động viên trực tiếp tranh tài còn có những người âm thầm góp sức phía sau. Với Tony Lê, mỗi lần xuất hiện không chỉ vì niềm vui thể thao, mà còn là cách anh kết nối cộng đồng và chung tay tiếp sức cho trẻ em có hoàn cảnh khó k...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T04:22:00+07:00",
+      "fetched": "2026-08-23T11:27:04.837725+07:00"
+    },
+    {
+      "id": "f9d34c52ed2d0838abdd9c8be3363ae6",
+      "title": "AFF trầm trồ 2 khoảnh khắc giúp đội tuyển Việt Nam hạ Thái Lan: Quang Hải, Đình Bắc điệu nghệ",
+      "link": "https://thanhnien.vn/aff-tram-tro-2-khoanh-khac-giup-doi-tuyen-viet-nam-ha-thai-lan-quang-hai-dinh-bac-dieu-nghe-185260823105615652.htm",
+      "summary": "Sau chiến thắng 2-0 trước Thái Lan ở chung kết lượt đi ASEAN Cup 2026 tối 22.8, kênh ASEAN United FC của AFF dành nhiều lời khen cho bản lĩnh của đội tuyển Việt Nam, đặc biệt là pha đánh gót tinh tế của Đình Bắc và khả năng di chuyển, bứt tốc ấn tượng của Quang Hải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T04:18:00+07:00",
+      "fetched": "2026-08-23T11:27:04.837906+07:00"
+    },
+    {
+      "id": "6a145267084312de8782cce369707aa5",
+      "title": "Đội trưởng Thái Lan chỉ ra ‘nỗi sợ’ lớn nhất trước Việt Nam sau chung kết lượt đi ASEAN Cup 2026",
+      "link": "https://thanhnien.vn/doi-truong-thai-lan-chi-ra-noi-so-lon-nhat-truoc-viet-nam-sau-chung-ket-luot-di-asean-cup-2026-185260823104651584.htm",
+      "summary": "Thua Việt Nam 0-2 ngay trên sân Rajamangala, đội trưởng Thái Lan Sarach Yooyen thừa nhận những pha phản công của thầy trò HLV Kim Sang-sik thực sự đáng sợ. Dù vậy, tiền vệ này cho rằng cách biệt 2 bàn chưa phải quá lớn và Thái Lan vẫn còn 90 phút để tạo nên cuộc ngược dòng ở Mỹ Đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T04:18:00+07:00",
+      "fetched": "2026-08-23T11:27:04.838062+07:00"
+    },
+    {
+      "id": "b2f420c44b6f39ce3694b65c182c371c",
+      "title": "Xu hướng chăm sóc vết thương bằng sản phẩm xịt không gây xót",
+      "link": "https://thanhnien.vn/xu-huong-cham-soc-vet-thuong-bang-san-pham-xit-khong-gay-xot-185260823111710895.htm",
+      "summary": "Xu hướng chăm sóc hiện đại ưu tiên các sản phẩm xịt tạo màng bảo vệ, hạn chế đau rát khi sử dụng, đồng thời mang lại trải nghiệm dễ chịu và thuận tiện trong suốt quá trình hồi phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T04:09:00+07:00",
+      "fetched": "2026-08-23T11:27:04.838213+07:00"
+    },
+    {
+      "id": "586944b3cb681af7ec4e2a4ba39c1d66",
+      "title": "Vì sao 'Người Nhện' luôn thống trị phòng vé toàn cầu?",
+      "link": "https://thanhnien.vn/vi-sao-nguoi-nhen-luon-thong-tri-phong-ve-toan-cau-185260823103945123.htm",
+      "summary": "Dù 'Superman' hay 'Batman' từng làm mưa làm gió nhưng 'Người Nhện' mới là biểu tượng siêu anh hùng chạm đến cảm xúc khán giả sâu sắc nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:54:00+07:00",
+      "fetched": "2026-08-23T11:27:04.838369+07:00"
+    },
+    {
+      "id": "ae8282c4921bbb5939e39ae0e4efcb5c",
+      "title": "Ông Putin nói Ukraine đã 'mở hộp Pandora'",
+      "link": "https://thanhnien.vn/ong-putin-noi-ukraine-da-mo-hop-pandora-185260823101719006.htm",
+      "summary": "Tổng thống Nga Vladimir Putin cho rằng Kyiv đã mở \"chiếc hộp Pandora\" khi thực hiện các cuộc tấn công vào những mục tiêu kinh tế của Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:52:00+07:00",
+      "fetched": "2026-08-23T11:27:04.838522+07:00"
+    },
+    {
+      "id": "c67ed78e0bc88b98e49189b42f427308",
+      "title": "Ngân hàng Standard Chartered nâng dự báo giá Bitcoin",
+      "link": "https://thanhnien.vn/ngan-hang-standard-chartered-nang-du-bao-gia-bitcoin-18526082308261618.htm",
+      "summary": "Theo lãnh đạo của Ngân hàng Standard Chartered, giá Bitcoin có thể đạt mức cao nhất mọi thời đại là 126.000 USD sau ngày 6.10, khi dòng vốn đổ vào các quỹ ETF Bitcoin giao ngay phục hồi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:51:00+07:00",
+      "fetched": "2026-08-23T11:27:04.838672+07:00"
+    },
+    {
+      "id": "ee598aaf2d7697c7583bd4e6adb67bdb",
+      "title": "Mẫu iPhone cũ nhất vẫn được Apple thu mua khiến nhiều người bất ngờ",
+      "link": "https://thanhnien.vn/mau-iphone-cu-nhat-van-duoc-apple-thu-mua-khien-nhieu-nguoi-bat-ngo-185260823100722591.htm",
+      "summary": "Nhiều người bất ngờ khi chiếc iPhone ra mắt từ năm 2017 vẫn được Apple chấp nhận thu mua và đổi lấy tiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:46:00+07:00",
+      "fetched": "2026-08-23T11:27:04.838846+07:00"
+    },
+    {
+      "id": "018cf9c1f602ae499611f5fd9a9628ab",
+      "title": "Người chặn ôtô, dùng mũ bảo hiểm đánh tài xế bị triệu tập",
+      "link": "https://vnexpress.net/nguoi-chan-oto-dung-mu-bao-hiem-danh-tai-xe-bi-trieu-tap-5112355.html",
+      "summary": "Đinh Sơn Thủy, 44 tuổi, bị công an triệu tập sau khi chặn ôtô giữa đường, chửi bới rồi dùng mũ bảo hiểm đánh tài xế phải nhập viện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:45:02+07:00",
+      "fetched": "2026-08-23T11:27:01.495436+07:00"
+    },
+    {
+      "id": "4aa0c56ab5b955de4ad3346068cc7f20",
+      "title": "Nhạc sĩ Trần Tiến: Tôi vẫn hát dù chỉ có một người nghe",
+      "link": "https://thanhnien.vn/nhac-si-tran-tien-toi-van-hat-du-chi-co-mot-nguoi-nghe-18526082310290243.htm",
+      "summary": "Ở tuổi 80, nhạc sĩ Trần Tiến vẫn trở lại sân khấu với nguồn năng lượng mạnh mẽ, khẳng định tình yêu âm nhạc không phụ thuộc vào tuổi tác hay số lượng khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:44:00+07:00",
+      "fetched": "2026-08-23T11:27:04.839001+07:00"
+    },
+    {
+      "id": "267b511b3c06ff41795bccbb57baaf38",
+      "title": "Ôtô chở 4 người bốc cháy trên đèo Bảo Lộc",
+      "link": "https://vnexpress.net/oto-cho-4-nguoi-boc-chay-tren-deo-bao-loc-5112361.html",
+      "summary": "Đang lái xe qua đèo Bảo Lộc, tài xế phát hiện ôtô bốc cháy nên tung cửa, cùng ba người trên xe thoát ra ngoài trước khi phương tiện bị thiêu rụi, sáng 23/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:43:08+07:00",
+      "fetched": "2026-08-23T11:27:01.495625+07:00"
+    },
+    {
+      "id": "3395d8c45d2c9fcc26c2530f6d8b7866",
+      "title": "Thí sinh ồ ạt nhập học ngành STEM và công nghệ, chiến lược",
+      "link": "https://vnexpress.net/thi-sinh-o-at-nhap-hoc-nganh-stem-va-cong-nghe-chien-luoc-5112322.html",
+      "summary": "Khoảng một phần ba trong hơn 633.000 thí sinh nhập học chọn khối ngành STEM, xuất hiện những 'cực điểm chuẩn cao' ở vi mạch, bán dẫn, cơ, điện tử, vật liệu...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:39:56+07:00",
+      "fetched": "2026-08-23T11:27:01.495838+07:00"
+    },
+    {
+      "id": "386d8f58231ac7f84a3ca951b3a33ba5",
+      "title": "Thông qua luật Hải quan: Giảm cảnh người dân, doanh nghiệp phải nộp giấy tờ",
+      "link": "https://thanhnien.vn/thong-qua-luat-hai-quan-giam-canh-nguoi-dan-doanh-nghiep-phai-nop-giay-to-185260823102006216.htm",
+      "summary": "Sáng 23.8, với đa số đại biểu tán thành, Quốc hội thông qua luật sửa đổi, bổ sung một số điều của luật Hải quan, với nhiều quy định mới đẩy mạnh số hóa, quản lý thương mại điện tử và tăng cường kiểm soát rủi ro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:28:00+07:00",
+      "fetched": "2026-08-23T11:27:04.839156+07:00"
+    },
+    {
+      "id": "5163e68a8ca2ebd2d6efc95238e3853a",
+      "title": "Ôtô bị tàu hỏa đâm văng 70 m khi băng qua đường ray",
+      "link": "https://vnexpress.net/oto-bi-tau-hoa-dam-vang-70-m-khi-bang-qua-duong-ray-5112342.html",
+      "summary": "Camera ghi khoảnh khắc ôtô 7 chỗ bị tàu hỏa đâm ngang, hất văng khoảng 70 m, phần đầu biến dạng, tài xế và người đi cùng may mắn thoát nạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:24:11+07:00",
+      "fetched": "2026-08-23T11:27:01.496020+07:00"
+    },
+    {
+      "id": "becf746712c80410bb8a8f01f6897e53",
+      "title": "Cháy nhà nghỉ ven biển Đà Nẵng, 28 người mắc kẹt được cứu",
+      "link": "https://thanhnien.vn/chay-nha-nghi-ven-bien-da-nang-28-nguoi-mac-ket-duoc-cuu-185260823100758399.htm",
+      "summary": "Đám cháy bùng phát tại một nhà nghỉ ở ven biển Nguyễn Tất Thành (Đà Nẵng), 28 người mắc kẹt. Cảnh sát có mặt kịp thời, dùng thang cứu người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:22:00+07:00",
+      "fetched": "2026-08-23T11:27:04.839305+07:00"
+    },
+    {
+      "id": "c08346bf9df0610844b1906aa40432f7",
+      "title": "'Mợ ngố' Song Ji Hyo: Khen đồ ăn Việt ngon thôi là chưa đủ",
+      "link": "https://vnexpress.net/mo-ngo-song-ji-hyo-khen-do-an-viet-ngon-thoi-la-chua-du-5112331.html",
+      "summary": "Diễn viên Hàn Quốc Song Ji Hyo khen ẩm thực Việt không chỉ ngon mà còn chứa đựng giá trị văn hóa, giúp cô hiểu thêm con người và đời sống bản địa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:17:00+07:00",
+      "fetched": "2026-08-23T11:27:01.496201+07:00"
+    },
+    {
+      "id": "54f29a7f771ffab9400a9ac9eca8d35c",
+      "title": "ESPN: 'Việt Nam thắng Thái Lan nhờ tài điều binh của HLV Kim'",
+      "link": "https://vnexpress.net/espn-viet-nam-thang-thai-lan-nho-tai-dieu-binh-cua-hlv-kim-5112345.html",
+      "summary": "Hãng tin ESPN đánh giá cao việc HLV Kim Sang-sik điều chỉnh chiến thuật và nhân sự, khi Việt Nam đánh bại Thái Lan 2-0 ở lượt đi chung kết ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:16:55+07:00",
+      "fetched": "2026-08-23T11:27:01.496359+07:00"
+    },
+    {
+      "id": "54f29a7f771ffab9400a9ac9eca8d35c",
+      "title": "ESPN: 'Việt Nam thắng Thái Lan nhờ tài điều binh của HLV Kim'",
+      "link": "https://vnexpress.net/espn-viet-nam-thang-thai-lan-nho-tai-dieu-binh-cua-hlv-kim-5112345.html",
+      "summary": "Hãng tin ESPN đánh giá cao việc HLV Kim Sang-sik điều chỉnh chiến thuật và nhân sự, khi Việt Nam đánh bại Thái Lan 2-0 ở lượt đi chung kết ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-23T03:16:55+07:00",
+      "fetched": "2026-08-23T11:27:16.325606+07:00"
+    },
+    {
+      "id": "de1ea693bf8684c89aa9cc5f00db4fd5",
+      "title": "Hàng hóa qua thương mại điện tử sẽ phải làm thủ tục hải quan",
+      "link": "https://vnexpress.net/hang-hoa-qua-thuong-mai-dien-tu-se-phai-lam-thu-tuc-hai-quan-5112332.html",
+      "summary": "Từ 1/3/2027, hàng hóa qua thương mại điện tử sẽ phải làm thủ tục hải quan và Chính phủ sẽ quy định ngưỡng giá trị hàng cần thực hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:16:18+07:00",
+      "fetched": "2026-08-23T11:27:01.496515+07:00"
+    },
+    {
+      "id": "de1ea693bf8684c89aa9cc5f00db4fd5",
+      "title": "Hàng hóa qua thương mại điện tử sẽ phải làm thủ tục hải quan",
+      "link": "https://vnexpress.net/hang-hoa-qua-thuong-mai-dien-tu-se-phai-lam-thu-tuc-hai-quan-5112332.html",
+      "summary": "Từ 1/3/2027, hàng hóa qua thương mại điện tử sẽ phải làm thủ tục hải quan và Chính phủ sẽ quy định ngưỡng giá trị hàng cần thực hiện.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-23T03:16:18+07:00",
+      "fetched": "2026-08-23T11:27:11.015752+07:00"
+    },
+    {
       "id": "8af29ba66c2baaab980ca571bb07031a",
       "title": "Cản phá xuất thần, Lê Giang Patrik được bầu xuất sắc nhất trận thắng Thái Lan",
       "link": "https://tuoitre.vn/can-pha-xuat-than-le-giang-patrik-duoc-bau-xuat-sac-nhat-tran-thang-thai-lan-100260822234559659.htm",
@@ -231,6 +451,126 @@ window.newsData_2026_08_23 = {
       "category": "Tổng hợp",
       "published": "2026-08-23T03:11:43.616452+07:00",
       "fetched": "2026-08-23T03:11:43.616626+07:00"
+    },
+    {
+      "id": "2358bf700eadd98141d5b8db47cdac7a",
+      "title": "Lợi ích của việc ăn chuối mỗi ngày",
+      "link": "https://thanhnien.vn/loi-ich-cua-viec-an-chuoi-moi-ngay-185260823101136142.htm",
+      "summary": "Chuối là nguồn năng lượng tiện lợi trước khi tập và hỗ trợ phục hồi sau vận động. Tuy nhiên, độ chín của chuối ảnh hưởng đến cách cơ thể hấp thu và sử dụng carbohydrate.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:09:00+07:00",
+      "fetched": "2026-08-23T11:27:04.839451+07:00"
+    },
+    {
+      "id": "f372214c8b408c0ba9d180ed07af334e",
+      "title": "Tôi tặng luôn ly cà phê 30.000 đồng cho khách chê đắt",
+      "link": "https://vnexpress.net/toi-tang-luon-ly-ca-phe-30-000-dong-cho-khach-che-dat-5112347.html",
+      "summary": "Vị khách nước ngoài mua ly cà phê 30.000 đồng nhưng nhất định nói rằng nơi khác chỉ bán 20.000 đồng. Tôi trả lại tiền và tặng luôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:07:34+07:00",
+      "fetched": "2026-08-23T11:27:01.496668+07:00"
+    },
+    {
+      "id": "2c79dc9de5cbd881e87f3987fde3b75b",
+      "title": "450 triệu đồng: Chọn xe điện hay xe xăng?",
+      "link": "https://thanhnien.vn/450-trieu-dong-chon-xe-dien-hay-xe-xang-185260820184639913.htm",
+      "summary": "Với 450 triệu đồng, người mua ô tô hiện có thêm nhiều lựa chọn xe điện bên cạnh xe xăng cỡ nhỏ. Mỗi loại có ưu, nhược điểm riêng, tùy điều kiện sử dụng và nhu cầu di chuyển thực tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:06:00+07:00",
+      "fetched": "2026-08-23T11:27:04.839595+07:00"
+    },
+    {
+      "id": "dcc5a1aa3edecddd39efeb25a8a22dd7",
+      "title": "Gánh nặng mù lòa từ đái tháo đường, cận thị",
+      "link": "https://vnexpress.net/ganh-nang-mu-loa-tu-dai-thao-duong-can-thi-5112227.html",
+      "summary": "Thay vì do bệnh mắt hột hay thiếu vitamin A như trước, nguyên nhân gây mù lòa hàng đầu nay chuyển sang các biến chứng phức tạp của bệnh đái tháo đường và cận thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:00:00+07:00",
+      "fetched": "2026-08-23T11:27:01.496852+07:00"
+    },
+    {
+      "id": "f072cab538300868af42b03217646251",
+      "title": "5 kim loại thúc đẩy bùng nổ trung tâm dữ liệu AI",
+      "link": "https://vnexpress.net/5-kim-loai-thuc-day-bung-no-trung-tam-du-lieu-ai-5111655.html",
+      "summary": "Các kim loại thiết yếu như đồng, nhôm, đất hiếm… đang trở thành nền tảng cốt lõi cho cuộc cách mạng AI thông qua cung cấp điện năng, truyền dữ liệu và tản nhiệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:00:00+07:00",
+      "fetched": "2026-08-23T11:27:01.497014+07:00"
+    },
+    {
+      "id": "5f1a727551849ad853f2c559b61a74d1",
+      "title": "Vì sao người lớn tuổi khó kiểm soát mỡ máu?",
+      "link": "https://vnexpress.net/vi-sao-nguoi-lon-tuoi-kho-kiem-soat-mo-mau-5112139.html",
+      "summary": "Ba tôi 62 tuổi, được chẩn đoán rối loạn mỡ máu, đã áp dụng chế độ ăn uống theo hướng dẫn của bác sĩ nhưng các chỉ số chưa ổn định. Có phải kiểm soát mỡ máu ở người lớn tuổi khó hơn? (Thu Hồng, Tây Ninh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:00:00+07:00",
+      "fetched": "2026-08-23T11:27:01.497169+07:00"
+    },
+    {
+      "id": "dc1458593392dec04c261a1ebc59c92c",
+      "title": "Ba dấu hiệu nhận biết trẻ đang phụ thuộc thiết bị điện tử",
+      "link": "https://vnexpress.net/ba-dau-hieu-nhan-biet-tre-dang-phu-thuoc-thiet-bi-dien-tu-5112104.html",
+      "summary": "Trẻ phụ thuộc vào màn hình thường có biểu hiện như cáu gắt khi bị thu điện thoại, mất hứng thú với vui chơi, khó tập trung học tập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:00:00+07:00",
+      "fetched": "2026-08-23T11:27:01.497330+07:00"
+    },
+    {
+      "id": "2aab0d46799db76336c2933dc9e84a63",
+      "title": "Vì sao người tiểu đường khó giảm cân?",
+      "link": "https://vnexpress.net/vi-sao-nguoi-tieu-duong-kho-giam-can-5111938.html",
+      "summary": "Thiếu ngủ, ăn quá nhiều dù là thực phẩm lành mạnh hoặc chế biến không phù hợp có thể khiến người tiểu đường khó giảm cân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T03:00:00+07:00",
+      "fetched": "2026-08-23T11:27:01.497493+07:00"
+    },
+    {
+      "id": "f072cab538300868af42b03217646251",
+      "title": "5 kim loại thúc đẩy bùng nổ trung tâm dữ liệu AI",
+      "link": "https://vnexpress.net/5-kim-loai-thuc-day-bung-no-trung-tam-du-lieu-ai-5111655.html",
+      "summary": "Các kim loại thiết yếu như đồng, nhôm, đất hiếm… đang trở thành nền tảng cốt lõi cho cuộc cách mạng AI thông qua cung cấp điện năng, truyền dữ liệu và tản nhiệt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-23T03:00:00+07:00",
+      "fetched": "2026-08-23T11:27:14.401603+07:00"
+    },
+    {
+      "id": "c5bae54df19810186ef0616b6488cfa2",
+      "title": "Mang kiếm vào trường học sát hại nữ sinh Thụy Điển",
+      "link": "https://vnexpress.net/mang-kiem-vao-truong-hoc-sat-hai-nu-sinh-thuy-dien-5112339.html",
+      "summary": "Nam thanh niên dùng kiếm tấn công các nạn nhân tại trường trung học ở thị trấn Fagersta, khiến một nữ sinh thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:55:26+07:00",
+      "fetched": "2026-08-23T11:27:01.497645+07:00"
+    },
+    {
+      "id": "c5bae54df19810186ef0616b6488cfa2",
+      "title": "Mang kiếm vào trường học sát hại nữ sinh Thụy Điển",
+      "link": "https://vnexpress.net/mang-kiem-vao-truong-hoc-sat-hai-nu-sinh-thuy-dien-5112339.html",
+      "summary": "Nam thanh niên dùng kiếm tấn công các nạn nhân tại trường trung học ở thị trấn Fagersta, khiến một nữ sinh thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-23T02:55:26+07:00",
+      "fetched": "2026-08-23T11:27:09.196895+07:00"
+    },
+    {
+      "id": "214b39297bef3ee28d99e8f8325c4c12",
+      "title": "90 phút cảm xúc của CĐV Việt Nam sau chiến thắng 2-0",
+      "link": "https://vnexpress.net/90-phut-cam-xuc-cua-cdv-viet-nam-sau-chien-thang-2-0-5112302.html",
+      "summary": "Lo lắng rồi vỡ òa hạnh phúc, các CĐV trên phố đi bộ Nguyễn Huệ trải qua đủ cung bậc cảm xúc khi Việt Nam đánh bại Thái Lan ở lượt đi chung kết ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:53:14+07:00",
+      "fetched": "2026-08-23T11:27:01.497823+07:00"
     },
     {
       "id": "cc9396fb92b6c9b307644761969316e1",
@@ -591,6 +931,16 @@ window.newsData_2026_08_23 = {
       "category": "Thể thao",
       "published": "2026-08-23T01:21:50+07:00",
       "fetched": "2026-08-23T09:54:11.608049+07:00"
+    },
+    {
+      "id": "8c731aceb7bdf0f198e9d06097886c74",
+      "title": "Carrick: 'Không cần gào thét lên vì một trận thua'",
+      "link": "https://vnexpress.net/carrick-khong-can-gao-thet-len-vi-mot-tran-thua-5112304.html",
+      "summary": "HLV Michael Carrick cho rằng Man Utd cần giữ bình tĩnh và không hoảng loạn sau trận thua Hull City 0-2 ở vòng một Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-23T01:21:50+07:00",
+      "fetched": "2026-08-23T11:27:16.325808+07:00"
     },
     {
       "id": "a2ba7a5c0461b6247243747af41878bd",
