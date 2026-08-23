@@ -1,7 +1,37 @@
 window.newsData_2026_08_24 = {
   "date": "2026-08-24",
-  "lastUpdated": "2026-08-24T01:14:54.348277+07:00",
+  "lastUpdated": "2026-08-24T03:11:41.036733+07:00",
   "articles": [
+    {
+      "id": "e574b011095c5fa3de2e85e4de9df664",
+      "title": "TP.HCM tưởng niệm 65 năm thảm họa chất độc da cam/dioxin: Những câu chuyện lay động lương tri",
+      "link": "https://tuoitre.vn/tphcm-tuong-niem-65-nam-tham-hoa-chat-doc-da-cam-dioxin-nhung-cau-chuyen-lay-dong-luong-tri-100260823230216596.htm",
+      "summary": "Sau những bài ca, điệu múa thật xúc động, bác sĩ Nguyễn Thị Ngọc Phượng cùng “các con” của bà - Trần Thị Hoan, Nguyễn Thanh Sơn, Nay D’Ren lên sân khấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:11:17.640194+07:00",
+      "fetched": "2026-08-24T03:11:17.640247+07:00"
+    },
+    {
+      "id": "e4d61fe38bcb0dec56e2394fe0eeeeaa",
+      "title": "Thời tiết hôm nay 24-8: Bắc Bộ mưa rất to, Nam Bộ và Trung Bộ nắng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-24-8-bac-bo-mua-rat-to-nam-bo-va-trung-bo-nang-100260823160901866.htm",
+      "summary": "Hôm nay 24-8, ảnh hưởng của hoàn lưu bão số 4, thời tiết miền Bắc còn mưa rất to, còn tại miền Trung và miền Nam ngày nắng, có nơi nắng nóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:11:17.640125+07:00",
+      "fetched": "2026-08-24T03:11:17.640184+07:00"
+    },
+    {
+      "id": "fd3f24e2a56c9ec1a812195684879746",
+      "title": "Cổ động viên thế giới 'choáng ngợp' diện mạo lạ lẫm của Erling Haaland",
+      "link": "https://tuoitre.vn/co-dong-vien-the-gioi-choang-ngop-dien-mao-la-lam-cua-erling-haaland-100260823230551459.htm",
+      "summary": "Tối 23-8, các CĐV bóng đá trên toàn thế giới không khỏi thích thú khi chứng kiến diện mạo mới đầy lạ lẫm của chân sút Erling Haaland (Man City).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:11:17.639968+07:00",
+      "fetched": "2026-08-24T03:11:17.640113+07:00"
+    },
     {
       "id": "4e6ec09756cbf978ad2e3b23f0b6118d",
       "title": "Góp mái tóc dài, chia sẻ yêu thương",
@@ -151,6 +181,86 @@ window.newsData_2026_08_24 = {
       "category": "Tổng hợp",
       "published": "2026-08-24T01:14:47.227158+07:00",
       "fetched": "2026-08-24T01:14:47.227313+07:00"
+    },
+    {
+      "id": "690538ad5093f081691cc4205123aac4",
+      "title": "'Hạn chế công trình che khuất tầm nhìn Vịnh Hạ Long'",
+      "link": "https://vnexpress.net/han-che-cong-trinh-che-khuat-tam-nhin-vinh-ha-long-5112470.html",
+      "summary": "Chính phủ cho biết sẽ kiểm soát chặt việc xây dựng ven bờ, hạn chế công trình lớn, cao tầng che khuất tầm nhìn Vịnh Hạ Long khi Quảng Ninh trở thành thành phố trực thuộc Trung ương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T19:00:00+07:00",
+      "fetched": "2026-08-24T03:11:12.359928+07:00"
+    },
+    {
+      "id": "8179b9fe78e3ab94814b120da1f42e81",
+      "title": "4 món dùng thường xuyên có thể giúp gan khỏe",
+      "link": "https://vnexpress.net/4-mon-dung-thuong-xuyen-co-the-giup-gan-khoe-5112212.html",
+      "summary": "Cà phê, cần tây, lựu và atisô cung cấp các hợp chất chống oxy hóa, chất xơ, có thể hỗ trợ chức năng gan khi được đưa vào chế độ ăn cân bằng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T19:00:00+07:00",
+      "fetched": "2026-08-24T03:11:12.360090+07:00"
+    },
+    {
+      "id": "6edb0b34dec59ca6f6a4f05720a97ebb",
+      "title": "Bốn lời khuyên khi chuyển giao sản nghiệp gia đình cho con cái",
+      "link": "https://vnexpress.net/bon-loi-khuyen-khi-chuyen-giao-san-nghiep-gia-dinh-cho-con-cai-5111684.html",
+      "summary": "Chuyển giao quyền điều hành sản nghiệp nên thảo luận khi cha mẹ còn minh mẫn, diễn ra dần và chú ý tạo dựng lòng tin giữa các thành viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T18:59:40+07:00",
+      "fetched": "2026-08-24T03:11:12.360233+07:00"
+    },
+    {
+      "id": "6edb0b34dec59ca6f6a4f05720a97ebb",
+      "title": "Bốn lời khuyên khi chuyển giao sản nghiệp gia đình cho con cái",
+      "link": "https://vnexpress.net/bon-loi-khuyen-khi-chuyen-giao-san-nghiep-gia-dinh-cho-con-cai-5111684.html",
+      "summary": "Chuyển giao quyền điều hành sản nghiệp nên thảo luận khi cha mẹ còn minh mẫn, diễn ra dần và chú ý tạo dựng lòng tin giữa các thành viên.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-23T18:59:40+07:00",
+      "fetched": "2026-08-24T03:11:21.034397+07:00"
+    },
+    {
+      "id": "53757bb3358d89fae6bc4445b099a7fb",
+      "title": "Hôm nay Quốc hội bế mạc kỳ họp không thường lệ",
+      "link": "https://vnexpress.net/hom-nay-quoc-hoi-be-mac-ky-hop-khong-thuong-le-5112472.html",
+      "summary": "Ngày 24/8, Quốc hội biểu quyết hơn 20 luật và nghị quyết, trong đó có việc lập thành phố Quảng Ninh và Bắc Ninh trực thuộc Trung ương, trước khi bế mạc kỳ họp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T18:00:00+07:00",
+      "fetched": "2026-08-24T03:11:12.360372+07:00"
+    },
+    {
+      "id": "3f1efb11744824b8faba1fd8bb4e8e32",
+      "title": "Nội tiết nam và nữ thay đổi thế nào sau tuổi 40?",
+      "link": "https://vnexpress.net/noi-tiet-nam-va-nu-thay-doi-the-nao-sau-tuoi-40-5112058.html",
+      "summary": "Sau tuổi 40, nội tiết thay đổi khác nhau ở hai giới, phụ thuộc lối sống và không nên tự ý bổ sung hormone khi chưa khám.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T18:00:00+07:00",
+      "fetched": "2026-08-24T03:11:12.360505+07:00"
+    },
+    {
+      "id": "41b076a8b7ed58bc49b50cd4a3003507",
+      "title": "Bài toán giá thịt bò chia rẽ ông Trump và nhóm cử tri trung thành nhất",
+      "link": "https://vnexpress.net/bai-toan-gia-thit-bo-chia-re-ong-trump-va-nhom-cu-tri-trung-thanh-nhat-5111946.html",
+      "summary": "Tổng thống Trump miễn thuế nhập khẩu thịt bò nhằm giảm chi phí thực phẩm, song động thái này lại khiến nhóm cử tri bảo thủ trung thành nhất của ông phẫn nộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T18:00:00+07:00",
+      "fetched": "2026-08-24T03:11:12.360631+07:00"
+    },
+    {
+      "id": "41b076a8b7ed58bc49b50cd4a3003507",
+      "title": "Bài toán giá thịt bò chia rẽ ông Trump và nhóm cử tri trung thành nhất",
+      "link": "https://vnexpress.net/bai-toan-gia-thit-bo-chia-re-ong-trump-va-nhom-cu-tri-trung-thanh-nhat-5111946.html",
+      "summary": "Tổng thống Trump miễn thuế nhập khẩu thịt bò nhằm giảm chi phí thực phẩm, song động thái này lại khiến nhóm cử tri bảo thủ trung thành nhất của ông phẫn nộ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-23T18:00:00+07:00",
+      "fetched": "2026-08-24T03:11:19.742252+07:00"
     },
     {
       "id": "2aa274099511392ae4334c47c00e8558",
