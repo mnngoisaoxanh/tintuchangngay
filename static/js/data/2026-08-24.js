@@ -1,6 +1,6 @@
 window.newsData_2026_08_24 = {
   "date": "2026-08-24",
-  "lastUpdated": "2026-08-24T03:11:41.036733+07:00",
+  "lastUpdated": "2026-08-24T05:11:41.262575+07:00",
   "articles": [
     {
       "id": "e574b011095c5fa3de2e85e4de9df664",
@@ -181,6 +181,156 @@ window.newsData_2026_08_24 = {
       "category": "Tổng hợp",
       "published": "2026-08-24T01:14:47.227158+07:00",
       "fetched": "2026-08-24T01:14:47.227313+07:00"
+    },
+    {
+      "id": "2a6f08e270778734397690ef715f219f",
+      "title": "Chiến đấu cơ J-16 Trung Quốc vượt 6.000 km tới Ai Cập tập trận",
+      "link": "https://thanhnien.vn/chien-dau-co-j-16-trung-quoc-vuot-6000-km-toi-ai-cap-tap-tran-185260823183338608.htm",
+      "summary": "Một biên đội tiêm kích đa năng J-16 của Trung Quốc đã tới Ai Cập để tham gia cuộc tập trận không quân chung Eagles of Civilisation 2026 (Đại bàng của nền văn minh), đánh dấu lần đầu loại máy bay này được triển khai tới châu Phi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T22:11:00+07:00",
+      "fetched": "2026-08-24T05:11:31.059160+07:00"
+    },
+    {
+      "id": "f8b553491e2cb7353f702e4b1f37b592",
+      "title": "Chiến sự Ukraine ngày 1.642: UAV Ukraine đánh trúng 2 chiến đấu cơ Nga?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1642-uav-ukraine-danh-trung-2-chien-dau-co-nga-185260823173012384.htm",
+      "summary": "Phía Ukraine tuyên bố UAV nước này đã tấn công 2 chiến đấu cơ Nga, trong khi Bộ Quốc phòng Nga khẳng định lực lượng phòng không đã đánh chặn và phá hủy 1.120 UAV Ukraine chỉ trong 24 giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T22:09:00+07:00",
+      "fetched": "2026-08-24T05:11:31.059327+07:00"
+    },
+    {
+      "id": "da7b361dde87e9fff2872e68a9151133",
+      "title": "Loạt trường ở Hà Nội lùi giờ, chuyển học online vì mưa lớn",
+      "link": "https://vnexpress.net/loat-truong-o-ha-noi-lui-gio-chuyen-hoc-online-vi-mua-lon-5112504.html",
+      "summary": "Nhiều trường chuyển dạy online, lùi giờ vào lớp, trước dự báo mưa lớn kéo dài, nguy cơ ngập úng và ùn tắc, sáng 24/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T22:05:00+07:00",
+      "fetched": "2026-08-24T05:11:27.762057+07:00"
+    },
+    {
+      "id": "a5442a6d81a8aa640355d22eaa2eaee2",
+      "title": "Nguy cơ nếu Iran mở mặt trận mới ở châu Âu",
+      "link": "https://vnexpress.net/nguy-co-neu-iran-mo-mat-tran-moi-o-chau-au-5112166.html",
+      "summary": "Iran có thể mở mặt trận mới bằng cách tấn công lợi ích Mỹ tại châu Âu, nhưng có nguy cơ kéo thêm các thành viên NATO vào cuộc chiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T22:00:00+07:00",
+      "fetched": "2026-08-24T05:11:27.762249+07:00"
+    },
+    {
+      "id": "91e4e441be39275a2f0344225bd0ce54",
+      "title": "Thách thức chờ Unitree sau khi 'lên sàn'",
+      "link": "https://vnexpress.net/thach-thuc-cho-unitree-sau-khi-len-san-5111187.html",
+      "summary": "Unitree đón nhận tín hiệu tích cực sau khi phát hành cổ phiếu lần đầu ra công chúng (IPO), nhưng cũng đối mặt nhiều thách thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T22:00:00+07:00",
+      "fetched": "2026-08-24T05:11:27.762447+07:00"
+    },
+    {
+      "id": "cde114f770688a4aea9455eaf3b8d90f",
+      "title": "Cung đường Lộ Diêu uốn lượn giữa núi và biển",
+      "link": "https://vnexpress.net/cung-duong-lo-dieu-uon-luon-giua-nui-va-bien-5110935.html",
+      "summary": "Đường ven biển dài 4,5 km, mở qua 5 sườn núi và uốn lượn quanh đèo Lộ Diêu, đang hoàn thiện những hạng mục cuối để đưa vào khai thác cuối tháng 8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T22:00:00+07:00",
+      "fetched": "2026-08-24T05:11:27.762623+07:00"
+    },
+    {
+      "id": "f57cfaa71b49736a45425d591f9918a2",
+      "title": "Xe sang xứ Hàn Genesis GV80 Hybrid lộ diện",
+      "link": "https://vnexpress.net/xe-sang-xu-han-genesis-gv80-hybrid-lo-dien-5112073.html",
+      "summary": "Xe gầm cao trang bị hệ truyền động hybrid mới, bộ pin làm mát bằng nước, bán từ tháng 9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T22:00:00+07:00",
+      "fetched": "2026-08-24T05:11:27.762784+07:00"
+    },
+    {
+      "id": "77741ac61bec9ece938e9dfd2b9364db",
+      "title": "Lịch âm hôm nay 24.8: Ngày Canh Ngọ may mắn theo quan niệm dân gian",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-248-ngay-canh-ngo-may-man-theo-quan-niem-dan-gian-18526082212272719.htm",
+      "summary": "Theo lịch âm hôm nay 24.8 là ngày Canh Ngọ. Vì sao dân gian quan niệm đây là ngày đẹp, xuất hành, khởi sự gặp nhiều may mắn?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T22:00:00+07:00",
+      "fetched": "2026-08-24T05:11:31.059514+07:00"
+    },
+    {
+      "id": "a5442a6d81a8aa640355d22eaa2eaee2",
+      "title": "Nguy cơ nếu Iran mở mặt trận mới ở châu Âu",
+      "link": "https://vnexpress.net/nguy-co-neu-iran-mo-mat-tran-moi-o-chau-au-5112166.html",
+      "summary": "Iran có thể mở mặt trận mới bằng cách tấn công lợi ích Mỹ tại châu Âu, nhưng có nguy cơ kéo thêm các thành viên NATO vào cuộc chiến.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-23T22:00:00+07:00",
+      "fetched": "2026-08-24T05:11:34.634163+07:00"
+    },
+    {
+      "id": "91e4e441be39275a2f0344225bd0ce54",
+      "title": "Thách thức chờ Unitree sau khi 'lên sàn'",
+      "link": "https://vnexpress.net/thach-thuc-cho-unitree-sau-khi-len-san-5111187.html",
+      "summary": "Unitree đón nhận tín hiệu tích cực sau khi phát hành cổ phiếu lần đầu ra công chúng (IPO), nhưng cũng đối mặt nhiều thách thức.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-23T22:00:00+07:00",
+      "fetched": "2026-08-24T05:11:40.185533+07:00"
+    },
+    {
+      "id": "590d81b0043b5cc23ee9ed06975fb6b0",
+      "title": "Đồng Nai: Quy tập 3 hài cốt liệt sĩ ở ấp Lộc Tâm, xã Lộc Tấn",
+      "link": "https://thanhnien.vn/dong-nai-quy-tap-3-hai-cot-liet-si-o-ap-loc-tam-xa-loc-tan-185260823200721112.htm",
+      "summary": "Đội K76, Bộ Chỉ huy quân sự thành phố Đồng Nai vừa tìm thấy và quy tập 3 hài cốt liệt sĩ ở ấp Lộc Tâm, xã Lộc Tấn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T21:57:00+07:00",
+      "fetched": "2026-08-24T05:11:31.059671+07:00"
+    },
+    {
+      "id": "a9ea9432edf7765bb1992490b19c65b2",
+      "title": "Chứng khoán tuần này có thể tăng lên vùng 1.800 điểm",
+      "link": "https://vnexpress.net/chung-khoan-tuan-nay-co-the-tang-len-vung-1-800-diem-5112458.html",
+      "summary": "Các công ty chứng khoán dự báo VN-Index có thể tăng lên vùng 1.800 điểm trong tuần này, nhờ cú hích từ việc FTSE Russell thêm 27 cổ phiếu Việt Nam vào FTSE All-Cap.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T21:00:00+07:00",
+      "fetched": "2026-08-24T05:11:27.762942+07:00"
+    },
+    {
+      "id": "e4f0df3527ad6fbeeeea9925e3a35809",
+      "title": "Đánh giá Geely EX2 - xe điện thời trang cho đô thị",
+      "link": "https://vnexpress.net/danh-gia-geely-ex2-xe-dien-thoi-trang-cho-do-thi-5112103.html",
+      "summary": "Mẫu xe điện có kích thước nhỏ gọn, thực dụng cho đô thị nhưng thiếu hụt sự vững chắc trên cao tốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T21:00:00+07:00",
+      "fetched": "2026-08-24T05:11:27.763106+07:00"
+    },
+    {
+      "id": "ba0fff07a4e9446919c6464427339e39",
+      "title": "Ukraine mở rộng mục tiêu tấn công tại Nga",
+      "link": "https://thanhnien.vn/ukraine-mo-rong-muc-tieu-tan-cong-tai-nga-185260823223846539.htm",
+      "summary": "Hôm qua (23.8), Tỉnh trưởng Orenburg (Nga) Yevgeny Solntsev cho biết lực lượng phòng không đã ngăn chặn 6 máy bay không người lái (UAV) của Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T21:00:00+07:00",
+      "fetched": "2026-08-24T05:11:31.059823+07:00"
+    },
+    {
+      "id": "a9ea9432edf7765bb1992490b19c65b2",
+      "title": "Chứng khoán tuần này có thể tăng lên vùng 1.800 điểm",
+      "link": "https://vnexpress.net/chung-khoan-tuan-nay-co-the-tang-len-vung-1-800-diem-5112458.html",
+      "summary": "Các công ty chứng khoán dự báo VN-Index có thể tăng lên vùng 1.800 điểm trong tuần này, nhờ cú hích từ việc FTSE Russell thêm 27 cổ phiếu Việt Nam vào FTSE All-Cap.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-23T21:00:00+07:00",
+      "fetched": "2026-08-24T05:11:36.492092+07:00"
     },
     {
       "id": "690538ad5093f081691cc4205123aac4",
