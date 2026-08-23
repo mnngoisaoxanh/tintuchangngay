@@ -1,7 +1,157 @@
 window.newsData_2026_08_23 = {
   "date": "2026-08-23",
-  "lastUpdated": "2026-08-23T17:13:27.635349+07:00",
+  "lastUpdated": "2026-08-23T19:19:09.185099+07:00",
   "articles": [
+    {
+      "id": "1f58258c347873f99f8972d0406ac451",
+      "title": "Đi đâu, chơi gì ở Nha Trang dịp lễ 2-9?",
+      "link": "https://tuoitre.vn/di-dau-choi-gi-o-nha-trang-dip-le-2-9-100260823145641615.htm",
+      "summary": "Ngành du lịch Nha Trang - Khánh Hòa sẵn sàng đón khách vào dịp nghỉ lễ 2-9 với nhiều hoạt động văn hóa, du lịch hấp dẫn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T19:19:01.873725+07:00",
+      "fetched": "2026-08-23T19:19:01.873756+07:00"
+    },
+    {
+      "id": "b0b5f6c7b8431513b511cef8b60ecec5",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2026: Về với mùa nước nổi, tìm lại nhịp sống giữa thiên nhiên",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-ve-voi-mua-nuoc-noi-tim-lai-nhip-song-giua-thien-nhien-100260823111110522.htm",
+      "summary": "Có những ngày, chỉ cần rời xa phố thị, ngồi trên một chiếc xuồng nhỏ giữa đồng nước mênh mông, nghe tiếng mái chèo khua nhẹ cũng đủ để lòng người chậm lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T19:19:01.873690+07:00",
+      "fetched": "2026-08-23T19:19:01.873720+07:00"
+    },
+    {
+      "id": "d00f37f7389268603636f300d089c110",
+      "title": "Chiếu sáng - Hành trình kiến tạo tương lai bền vững",
+      "link": "https://tuoitre.vn/chieu-sang-hanh-trinh-kien-tao-tuong-lai-ben-vung-100260823122652842.htm",
+      "summary": "Khi chuyển đổi xanh trở thành yêu cầu tất yếu, chiếu sáng không chỉ mang lại ánh sáng mà còn góp phần tiết kiệm năng lượng, giảm phát thải và kiến tạo những công trình bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T19:19:01.873654+07:00",
+      "fetched": "2026-08-23T19:19:01.873684+07:00"
+    },
+    {
+      "id": "e27b3d9441d5150e6a74baa7af4ad816",
+      "title": "Từ drone đến diều: Khoảng trống nào trong bảo đảm an toàn bay?",
+      "link": "https://tuoitre.vn/tu-drone-den-dieu-khoang-trong-nao-trong-bao-dam-an-toan-bay-100260823153120593.htm",
+      "summary": "Quản lý drone đã có quy định nhưng việc kiểm soát diều và các vật thể bay không phát tín hiệu vẫn còn nhiều thách thức. Tọa đàm đặt ra yêu cầu chuyển từ xử lý sự cố sang chủ động phòng ngừa nguy cơ trong vùng trời đô thị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T19:19:01.873618+07:00",
+      "fetched": "2026-08-23T19:19:01.873649+07:00"
+    },
+    {
+      "id": "561a267cc66e33211eaf40bc6aa90cde",
+      "title": "Động đất 5,8 độ rung chuyển Tokyo, ít nhất 37 người bị thương",
+      "link": "https://tuoitre.vn/dong-dat-58-do-rung-chuyen-tokyo-it-nhat-37-nguoi-bi-thuong-100260823154709802.htm",
+      "summary": "Một trận động đất mạnh 5,8 độ đã làm rung chuyển Tokyo và nhiều khu vực miền đông Nhật Bản, khiến ít nhất 37 người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T19:19:01.873583+07:00",
+      "fetched": "2026-08-23T19:19:01.873613+07:00"
+    },
+    {
+      "id": "d68762b33c897d62f83da6294bd70f50",
+      "title": "Vụ điện giật chết 2 vợ chồng: Cảm ơn Sacombank, mừng không ngủ được",
+      "link": "https://tuoitre.vn/vu-dien-giat-chet-2-vo-chong-cam-on-sacombank-mung-khong-ngu-duoc-100260823155705875.htm",
+      "summary": "Gia đình 2 vợ chồng bị điện giật chết ở Đà Nẵng gửi lời cảm ơn đến Ngân hàng Sacombank, các nhà hảo tâm, cộng đồng mạng và báo Tuổi Trẻ đã đồng hành, giúp gia đình từng bước vượt qua đau thương, mất mát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T19:19:01.873546+07:00",
+      "fetched": "2026-08-23T19:19:01.873577+07:00"
+    },
+    {
+      "id": "b7a908c3d925a7937ef9a993fe61fc48",
+      "title": "Khánh Hòa muốn thôi quản lý trường đại học duy nhất thuộc tỉnh",
+      "link": "https://tuoitre.vn/khanh-hoa-muon-thoi-quan-ly-truong-dai-hoc-duy-nhat-thuoc-tinh-100260823161059749.htm",
+      "summary": "Tỉnh Khánh Hòa vừa kiến nghị Bộ Giáo dục và Đào tạo xem xét, có ý kiến về việc sáp nhập Trường đại học Khánh Hòa vào cơ sở đại học trực thuộc Bộ hoặc theo phương án sắp xếp các trường thuộc Bộ trên địa bàn tỉnh này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T19:19:01.873510+07:00",
+      "fetched": "2026-08-23T19:19:01.873541+07:00"
+    },
+    {
+      "id": "752bf0a7bdb5621229ecec2421a6c961",
+      "title": "Bão số 4 mạnh lên đầu cấp 9, giật cấp 11, Đông Bắc Bộ vẫn mưa tầm tã",
+      "link": "https://tuoitre.vn/bao-so-4-manh-len-dau-cap-9-giat-cap-11-dong-bac-bo-van-mua-tam-ta-100260823161401754.htm",
+      "summary": "Chiều 23-8, cường độ bão số 4 (Narra) đã mạnh lên đầu cấp 9, giật cấp 10-11. Còn khu vực Đông Bắc Bộ hôm nay vẫn mưa tầm tã, lũ trên các sông ở Bắc Ninh, Lạng Sơn vẫn đang lên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T19:19:01.873475+07:00",
+      "fetched": "2026-08-23T19:19:01.873505+07:00"
+    },
+    {
+      "id": "e035e0f486da387e741f05be4be4c3f0",
+      "title": "Xâm nhập mặn có thể đến sớm và lấn sâu 80km trên sông Tiền",
+      "link": "https://tuoitre.vn/xam-nhap-man-co-the-den-som-va-lan-sau-80km-tren-song-tien-100260823154243884.htm",
+      "summary": "Dự báo từ tháng 9 đến tháng 11-2026, hiện tượng El Nino tiếp tục duy trì cường độ mạnh đến rất mạnh với xác suất 100%. Trong đó, xác suất El Nino đạt cường độ rất mạnh khoảng 93%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T19:19:01.873434+07:00",
+      "fetched": "2026-08-23T19:19:01.873470+07:00"
+    },
+    {
+      "id": "a249ab3d9a8bc625ce564e106326c7b8",
+      "title": "Ông Zelensky: Bầu cử trong thời chiến là 'sóng thần' chia rẽ Ukraine",
+      "link": "https://tuoitre.vn/ong-zelensky-bau-cu-trong-thoi-chien-la-song-than-chia-re-ukraine-100260823160009924.htm",
+      "summary": "Ông Zelensky bác bỏ lời kêu gọi tổ chức bầu cử của cựu Bộ trưởng Quốc phòng bị sa thải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T19:19:01.873397+07:00",
+      "fetched": "2026-08-23T19:19:01.873429+07:00"
+    },
+    {
+      "id": "909175114e94e80a9bc01d913ea79633",
+      "title": "Vàng và bạc trong nước có bị 'dìm giá'?",
+      "link": "https://tuoitre.vn/vang-va-bac-trong-nuoc-co-bi-dim-gia-100260823162801259.htm",
+      "summary": "Những ngày gần đây, nhà đầu tư vàng, bạc trong nước tỏ ra sốt ruột khi giá vàng thế giới tăng dồn dập nhưng giá vàng trong nước tăng chậm và thấp hơn so với giá vàng thế giới quy đổi. Vì sao có hiện tượng này?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T19:19:01.873358+07:00",
+      "fetched": "2026-08-23T19:19:01.873391+07:00"
+    },
+    {
+      "id": "dcadb9f246cf5b7536bc32b72d641693",
+      "title": "Dẫn đầu lượt khám sức khỏe, Bệnh viện Đa khoa khu vực Hóc Môn chia sẻ phía sau con số 73.599 lượt",
+      "link": "https://tuoitre.vn/dan-dau-luot-kham-suc-khoe-benh-vien-da-khoa-khu-vuc-hoc-mon-chia-se-phia-sau-con-so-73599-luot-100260823161110433.htm",
+      "summary": "Bệnh viện Đa khoa Khu vực Hóc Môn dẫn đầu ngành y tế toàn TP.HCM về số lượt khám sức khỏe, đạt 73.599 lượt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T19:19:01.873319+07:00",
+      "fetched": "2026-08-23T19:19:01.873352+07:00"
+    },
+    {
+      "id": "6b11b3829423f8e777d1b5c0efb64232",
+      "title": "Solo Leveling bị chê thiếu chiều sâu, vì sao vẫn hút khán giả?",
+      "link": "https://tuoitre.vn/solo-leveling-bi-che-thieu-chieu-sau-vi-sao-van-hut-khan-gia-100260823003210785.htm",
+      "summary": "Solo Leveling được yêu thích nhưng cũng gây tranh luận vì cốt truyện và nhân vật đơn giản. Dù vậy, series vẫn giữ sức hút nhờ hệ thống sức mạnh, những trận chiến mãn nhãn và thế giới kỳ ảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T19:19:01.873276+07:00",
+      "fetched": "2026-08-23T19:19:01.873312+07:00"
+    },
+    {
+      "id": "a4600a30c7993f13d7318cf058dded3c",
+      "title": "Mưa bão phức tạp, Hải Phòng huy động trên 12.000 cán bộ, chiến sĩ ứng trực",
+      "link": "https://tuoitre.vn/mua-bao-phuc-tap-hai-phong-huy-dong-tren-12000-can-bo-chien-si-ung-truc-100260823162540997.htm",
+      "summary": "Trước diễn biến phức tạp của mưa bão, nhất là những nơi có thể xảy ra sạt lở, ngập lụt, TP Hải Phòng đã huy động trên 12.000 cán bộ, chiến sĩ ứng trực, sẵn sàng thực hiện nhiệm vụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T19:19:01.873217+07:00",
+      "fetched": "2026-08-23T19:19:01.873270+07:00"
+    },
+    {
+      "id": "8a3f411ab8b6b64ab0f57039162ddbf9",
+      "title": "Báo Thái Lan: Đà Nẵng đứng đầu điểm đến được người Thái tìm kiếm cho kỳ nghỉ dài ngày",
+      "link": "https://tuoitre.vn/bao-thai-lan-da-nang-dung-dau-diem-den-duoc-nguoi-thai-tim-kiem-cho-ky-nghi-dai-ngay-100260823163032312.htm",
+      "summary": "Đà Nẵng dẫn đầu danh sách điểm đến nước ngoài được du khách Thái Lan tìm kiếm cho kỳ lưu trú từ 30 đêm, vượt Bali, Tokyo và Kuala Lumpur.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T19:19:01.873064+07:00",
+      "fetched": "2026-08-23T19:19:01.873208+07:00"
+    },
     {
       "id": "0e4a96f9df781559f6d0d1b57cb5e5bc",
       "title": "Cuộc thi Lan toả năng lượng tích cực 2026: Nuôi dưỡng tinh thần từ những trang sách hoà bình",
@@ -453,6 +603,206 @@ window.newsData_2026_08_23 = {
       "fetched": "2026-08-23T13:23:18.015614+07:00"
     },
     {
+      "id": "42a0fe85935d40ac9d421678d51e6451",
+      "title": "Á hậu Ánh Vương: Tuổi thơ không mấy dễ dàng dạy tôi san sẻ với các em",
+      "link": "https://thanhnien.vn/a-hau-anh-vuong-tuoi-tho-khong-may-de-dang-day-toi-san-se-voi-cac-em-185260823185750349.htm",
+      "summary": "Từng trải qua tuổi thơ không mấy dễ dàng, nên Phạm Thị Ánh Vương hiểu và dễ đồng cảm với các em nhỏ của chương trình 'Cùng con đi tiếp cuộc đời'. Á hậu 10X hy vọng sự giúp sức hiện tại sẽ tạo cơ hội để các em tự viết tiếp câu chuyện của mình sau này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T12:17:00+07:00",
+      "fetched": "2026-08-23T19:18:59.901250+07:00"
+    },
+    {
+      "id": "d85de87998e9835b9296c34d82de4a54",
+      "title": "Thu hồi chứng nhận kinh doanh dược của AstraZeneca Việt Nam",
+      "link": "https://thanhnien.vn/thu-hoi-chung-nhan-kinh-doanh-duoc-cua-astrazeneca-viet-nam-185260823174638795.htm",
+      "summary": "Bộ Y tế vừa có quyết định thu hồi giấy chứng nhận đủ điều kiện kinh doanh dược của Công ty TNHH AstraZeneca Việt Nam theo đề nghị của công ty này, do có thay đổi trong định hướng kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T12:17:00+07:00",
+      "fetched": "2026-08-23T19:18:59.901358+07:00"
+    },
+    {
+      "id": "d68e85340a99854a636f707fa0935748",
+      "title": "Bão số 4 mạnh lên, cảnh báo mưa lớn và lũ quét ở miền Bắc",
+      "link": "https://thanhnien.vn/bao-so-4-manh-len-canh-bao-mua-lon-va-lu-quet-o-mien-bac-185260823191128302.htm",
+      "summary": "Bão số 4 đang di chuyển chậm trên vùng biển phía đông bắc đặc khu Bạch Long Vĩ, sức gió mạnh cấp 8 - 9, giật cấp 11. Trong những ngày tới, bão tiếp tục gây biển động rất mạnh, đồng thời hoàn lưu bão gây mưa lớn tại nhiều tỉnh, thành miền Bắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T12:15:00+07:00",
+      "fetched": "2026-08-23T19:18:59.901453+07:00"
+    },
+    {
+      "id": "298aa78a3ec45371e598615e298da7d1",
+      "title": "Áp dụng quy định mới về nghĩa vụ quân sự từ 1.9",
+      "link": "https://thanhnien.vn/ap-dung-quy-dinh-moi-ve-nghia-vu-quan-su-tu-19-185260823181657799.htm",
+      "summary": "Quốc hội đã thông qua luật sửa đổi, bổ sung một số điều của 9 luật về quân sự, quốc phòng với nhiều quy định mới liên quan nghĩa vụ quân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T12:10:00+07:00",
+      "fetched": "2026-08-23T19:18:59.901549+07:00"
+    },
+    {
+      "id": "0ed0f707d956d0d5bd4a589e458f5ef5",
+      "title": "'Hotgirl' 21 tuổi giữ vai trò cốt cán trong đường dây lừa đảo xuyên quốc gia",
+      "link": "https://thanhnien.vn/hotgirl-21-tuoi-giu-vai-tro-cot-can-trong-duong-day-lua-dao-xuyen-quoc-gia-185260823174336713.htm",
+      "summary": "Theo cảnh sát, Dương Phương Thảo giữ vai trò trung gian tiếp nhận ý kiến chỉ đạo từ đối tượng cầm đầu là người nước ngoài và truyền đạt đến nhóm người Việt Nam để thực hiện hành vi lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T12:10:00+07:00",
+      "fetched": "2026-08-23T19:18:59.901638+07:00"
+    },
+    {
+      "id": "0bb20c0b8e40ad1ea9b1cf0bd4acfce1",
+      "title": "Đứt gãy quốc lộ 4B, cấm xe giữa Lạng Sơn và Quảng Ninh",
+      "link": "https://thanhnien.vn/dut-gay-quoc-lo-4b-cam-xe-giua-lang-son-va-quang-ninh-185260823175631468.htm",
+      "summary": "Theo lãnh đạo Sở Xây dựng tỉnh Lạng Sơn, sự cố xảy ra đêm 22.8 làm hàng nghìn mét khối đất đá từ taluy dương sạt xuống khiến mặt đường hư hỏng nghiêm trọng, gây đứt gãy quốc lộ 4B đoạn qua xã Châu Sơn (tỉnh Lạng Sơn).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T12:08:00+07:00",
+      "fetched": "2026-08-23T19:18:59.901722+07:00"
+    },
+    {
+      "id": "5d31abeacab9745da2f4369f0bb4be8a",
+      "title": "Ngày mai 24.8, lễ hội ẩm thực chay TP.HCM chính thức diễn ra: Có gì hấp dẫn?",
+      "link": "https://thanhnien.vn/ngay-mai-248-le-hoi-am-thuc-chay-tphcm-chinh-thuc-dien-ra-co-gi-hap-dan-185260823171609264.htm",
+      "summary": "Lễ hội ẩm thực chay TP.HCM 2026 sẽ chính thức diễn ra vào ngày mai 24.8 và kéo dài trong 7 ngày liên tục. Diễn ra đúng dịp Vu lan rằm tháng 7 âm lịch, lễ hội ẩm thực chay có gì đặc sắc?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T12:00:00+07:00",
+      "fetched": "2026-08-23T19:18:59.901805+07:00"
+    },
+    {
+      "id": "a7cce2c5760661bff4c4d575bcb919e1",
+      "title": "Hơn 92.000 vụ giả mạo AI ChatGPT, Gemini để cài cắm mã độc",
+      "link": "https://vnexpress.net/hon-92-000-vu-gia-mao-ai-chatgpt-gemini-de-cai-cam-ma-doc-5112449.html",
+      "summary": "Kaspersky, công ty an ninh mạng của Nga, phát hiện trong năm tháng đầu năm có hơn 92.000 vụ tấn công giả mạo các dịch vụ và tác nhân AI, chủ yếu với ChatGPT, Claude và Gemini.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-23T11:44:23+07:00",
+      "fetched": "2026-08-23T19:19:07.271139+07:00"
+    },
+    {
+      "id": "78bc6b4d5803c28ccd1603b3e3dd23ec",
+      "title": "Người dân Hà Nội chật vật thích nghi với thời tiết thất thường",
+      "link": "https://thanhnien.vn/nguoi-dan-ha-noi-chat-vat-thich-nghi-voi-thoi-tiet-that-thuong-185260823164358353.htm",
+      "summary": "Thời tiết Hà Nội những ngày qua thay đổi thất thường. Sáng nắng, chiều mưa giông khiến nhiều người bị động trong sinh hoạt. Nắng nóng kéo dài, mưa bất chợt ảnh hưởng đến việc đi lại. Người thường xuyên ở ngoài đường càng khó xoay xở. Người cao tuổi cũng khó thích nghi với nền nhiệt biến động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T11:43:00+07:00",
+      "fetched": "2026-08-23T19:18:59.901888+07:00"
+    },
+    {
+      "id": "79ef5b011778484fb86387a3c2786b44",
+      "title": "Diễn viên Huỳnh Hồng Loan: Chúng ta không đi thay, mà cùng các em bước tiếp",
+      "link": "https://thanhnien.vn/dien-vien-huynh-hong-loan-chung-ta-khong-di-thay-ma-cung-cac-em-buoc-tiep-185260823181501585.htm",
+      "summary": "Tham gia giải pickleball 'Cùng con đi tiếp cuộc đời', Huỳnh Hồng Loan tin rằng sự giúp đỡ đúng lúc có thể mở ra thêm cơ hội cho các em được học tập, được phát triển và có một tương lai tốt đẹp hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T11:25:00+07:00",
+      "fetched": "2026-08-23T19:18:59.901969+07:00"
+    },
+    {
+      "id": "bc53f71ddd43c2d4415818a403175713",
+      "title": "Theo ký ức nữ du kích, đi tìm những liệt sĩ còn nằm lại Gò Tràm",
+      "link": "https://thanhnien.vn/theo-ky-uc-nu-du-kich-di-tim-nhung-liet-si-con-nam-lai-go-tram-185260823173230689.htm",
+      "summary": "Từ những thông tin được người dân và các nhân chứng lịch sử lưu giữ suốt nhiều năm, lực lượng chức năng xã Nghĩa Giang (Quảng Ngãi) đang từng bước tìm kiếm, quy tập hài cốt các liệt sĩ hy sinh trong chiến tranh tại khu vực Gò Tràm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T11:25:00+07:00",
+      "fetched": "2026-08-23T19:18:59.902050+07:00"
+    },
+    {
+      "id": "39e2ece0fe22181d3340063d91623bc7",
+      "title": "Thú vị hình ảnh Đình Bắc bất ngờ khoác vai đối thủ Thái Lan khiến trọng tài ‘đứng hình’",
+      "link": "https://thanhnien.vn/thu-vi-hinh-anh-dinh-bac-bat-ngo-khoac-vai-doi-thu-thai-lan-khien-trong-tai-dung-hinh-18526082318021764.htm",
+      "summary": "Màn trình diễn xông xáo cùng cách xử lý khôn khéo ở trận chung kết lượt đi ASEAN Cup 2026 cho thấy sự trưởng thành vượt bậc của Nguyễn Đình Bắc, từ thể chất, tư duy chơi bóng cho đến bản lĩnh tâm lý trên sân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T11:07:00+07:00",
+      "fetched": "2026-08-23T19:18:59.902134+07:00"
+    },
+    {
+      "id": "ba8fd8b7bbbe3b8f867dfcc916d21446",
+      "title": "Hơn 350.000 người hiến tóc tiếp sức bệnh nhân ung thư vú trong 10 năm",
+      "link": "https://thanhnien.vn/hon-350000-nguoi-hien-toc-tiep-suc-benh-nhan-ung-thu-vu-trong-10-nam-18526082317441445.htm",
+      "summary": "Suốt 10 năm qua, hơn 350.000 người đã chọn trao đi mái tóc của mình, tiếp thêm niềm tin và động lực cho bệnh nhân ung thư vú trên hành trình điều trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T11:02:00+07:00",
+      "fetched": "2026-08-23T19:18:59.902212+07:00"
+    },
+    {
+      "id": "b7b23e6d007aa6ab5a92909bc9f8b456",
+      "title": "Huyết áp lúc cao lúc thấp: 3 nguyên nhân không nên bỏ qua",
+      "link": "https://thanhnien.vn/huyet-ap-luc-cao-luc-thap-3-nguyen-nhan-khong-nen-bo-qua-18526082317342314.htm",
+      "summary": "Huyết áp không phải lúc nào cũng giữ nguyên ở một mức. Chỉ số này có thể thay đổi tùy theo thời điểm trong ngày, vận động, cảm xúc, giấc ngủ, lượng nước uống và tư thế cơ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T11:00:00+07:00",
+      "fetched": "2026-08-23T19:18:59.902307+07:00"
+    },
+    {
+      "id": "63d8e16a28c416694488a60521df264b",
+      "title": "“Anh tài” Thuận Nguyễn, Tùng Mint khuấy đảo On Trending",
+      "link": "https://thanhnien.vn/anh-tai-thuan-nguyen-tung-mint-khuay-dao-on-trending-185260823172841236.htm",
+      "summary": "Sau 3 công diễn của Anh trai vượt ngàn chông gai 2026, Tùng Mint và Thuận Nguyễn nhận được nhiều sự quan tâm. Đến với On Trending, cả hai chia sẻ những câu chuyện thú vị, kỷ niệm và trải nghiệm phía sau hành trình tham gia chương trình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T11:00:00+07:00",
+      "fetched": "2026-08-23T19:18:59.902391+07:00"
+    },
+    {
+      "id": "7546adaaaf7f5748751c7e818b12de65",
+      "title": "Váy hạ eo đem lại sự thoải mái khi xuống phố",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-ha-eo-dem-lai-su-thoai-mai-khi-xuong-pho-18526082309414716.htm",
+      "summary": "Váy hạ eo mang phong cách cổ điển kết hợp hiện đại, giúp phái đẹp khoe vẻ quyến rũ và giấu khuyết điểm hoàn hảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T11:00:00+07:00",
+      "fetched": "2026-08-23T19:18:59.902473+07:00"
+    },
+    {
+      "id": "c35ed229c5c46fe341e8d6e8279045c9",
+      "title": "Quảng Ninh di dời khẩn cấp gần 400 người do sạt lở",
+      "link": "https://vnexpress.net/quang-ninh-di-doi-khan-cap-gan-400-nguoi-do-sat-lo-5112444.html",
+      "summary": "Mưa lớn kéo dài gây 38 điểm sạt lở tại Quảng Ninh, nhiều nơi đất đá tràn sát móng nhà, buộc 107 hộ với 375 người phải di dời khẩn cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T10:48:58+07:00",
+      "fetched": "2026-08-23T19:18:56.890714+07:00"
+    },
+    {
+      "id": "60bd90a158fdd045825628e6f135b708",
+      "title": "Học sinh cao trên 1,75m nhưng bàn ghế '20 năm chưa đổi'",
+      "link": "https://vnexpress.net/hoc-sinh-cao-tren-1-75m-nhung-ban-ghe-20-nam-chua-doi-5112430.html",
+      "summary": "Gần 125.000 học sinh cao trên 1,75m nhưng nhiều bộ bàn ghế dùng từ 20 năm trước, các tỉnh, thành được yêu cầu rà soát, đo chiều cao của các em để sắp xếp lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T10:41:12+07:00",
+      "fetched": "2026-08-23T19:18:56.890823+07:00"
+    },
+    {
+      "id": "9af0baf61b105078e625837dc08a0b9b",
+      "title": "7 ôtô tông liên hoàn trên cao tốc TP HCM - Trung Lương",
+      "link": "https://vnexpress.net/7-oto-tong-lien-hoan-tren-cao-toc-tp-hcm-trung-luong-5112441.html",
+      "summary": "Va chạm giữa xe bán tải và ôtô 5 chỗ gây ra vụ tai nạn liên hoàn giữa nhiều xe khiến cao tốc TP HCM - Trung Lương ùn ứ hơn 2 km, chiều 23/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T10:09:03+07:00",
+      "fetched": "2026-08-23T19:18:56.890923+07:00"
+    },
+    {
+      "id": "e547b5f9fcaededa9013984460d17052",
+      "title": "Tài xế không có lỗi trong vụ xe khách lao dốc vực làm 4 người chết",
+      "link": "https://vnexpress.net/tai-xe-khong-co-loi-trong-vu-xe-khach-lao-doc-vuc-lam-4-nguoi-chet-5112433.html",
+      "summary": "Công an không khởi tố vụ xe khách chở 15 thợ lặn lao xuống mép hồ Bàu Trắng làm 4 người chết hồi tháng 4, do xác định xe bị mất phanh, không phải lỗi của tài xế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T10:08:53+07:00",
+      "fetched": "2026-08-23T19:18:56.891016+07:00"
+    },
+    {
       "id": "8470c049c787fc1b1ab64d6d366b1090",
       "title": "Quy tập 455 hài cốt liệt sĩ tại công viên Lê Thị Riêng sau 2 tháng",
       "link": "https://thanhnien.vn/quy-tap-455-hai-cot-liet-si-tai-cong-vien-le-thi-rieng-sau-2-thang-185260823170345883.htm",
@@ -461,6 +811,16 @@ window.newsData_2026_08_23 = {
       "category": "Tổng hợp",
       "published": "2026-08-23T10:08:00+07:00",
       "fetched": "2026-08-23T17:13:20.792930+07:00"
+    },
+    {
+      "id": "045a9741c7b39f6fc12a1c8e179f0c30",
+      "title": "Điểm tin 17h: Bão mạnh lên, miền Bắc mưa lớn | Loạt vụ đánh bom ở miền nam Thái Lan",
+      "link": "https://vnexpress.net/diem-tin-17h-bao-manh-len-mien-bac-mua-lon-loat-vu-danh-bom-o-mien-nam-thai-lan-5112443.html",
+      "summary": "Loạt thí sinh chuyên Tuyên Quang đỗ ngành 'hot' ở Bách khoa, Kinh tế, Sư phạm; Ba đối tượng dự kiến được nhận hỗ trợ 5 triệu đồng khi làm chuyển đổi số...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T10:06:33+07:00",
+      "fetched": "2026-08-23T19:18:56.891112+07:00"
     },
     {
       "id": "49d324e0094424006bda95d207a03808",
@@ -473,6 +833,16 @@ window.newsData_2026_08_23 = {
       "fetched": "2026-08-23T17:13:20.793104+07:00"
     },
     {
+      "id": "28bb0ee11085498ffb2d32f0f89809ba",
+      "title": "'Búp bê' Cộng hòa Czech thuyết trình cảm xúc tại Miss World",
+      "link": "https://vnexpress.net/bup-be-cong-hoa-czech-thuyet-trinh-cam-xuc-tai-miss-world-5112196.html",
+      "summary": "Linda Górecká, 22 tuổi, người Cộng hòa Czech, khóc khi nhắc về người bà qua đời vì ung thư vú trong bài thuyết trình tại Hoa hậu Thế giới 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T10:00:00+07:00",
+      "fetched": "2026-08-23T19:18:56.891202+07:00"
+    },
+    {
       "id": "989124f0c105fc0ff36429a38bcf2a20",
       "title": "Khởi công khu căn hộ Tropic Tower, Novaland quay trở lại thị trường khu Đông TP.HCM",
       "link": "https://thanhnien.vn/khoi-cong-khu-can-ho-tropic-tower-novaland-quay-tro-lai-thi-truong-khu-dong-tphcm-185260823155044477.htm",
@@ -483,6 +853,26 @@ window.newsData_2026_08_23 = {
       "fetched": "2026-08-23T17:13:20.793269+07:00"
     },
     {
+      "id": "2a8af7fbb391321ddfc2da0c705c2c41",
+      "title": "Ông Zelensky cảnh báo về 'sóng thần xẻ đôi Ukraine'",
+      "link": "https://vnexpress.net/ong-zelensky-canh-bao-ve-song-than-xe-doi-ukraine-5112434.html",
+      "summary": "Tổng thống Zelensky bác lời kêu gọi tổ chức bầu cử, cho rằng tiến hành hoạt động này giữa chiến sự với Nga tiềm ẩn nhiều nguy hiểm và có thể gây chia rẽ Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T09:58:20+07:00",
+      "fetched": "2026-08-23T19:18:56.891314+07:00"
+    },
+    {
+      "id": "2a8af7fbb391321ddfc2da0c705c2c41",
+      "title": "Ông Zelensky cảnh báo về 'sóng thần xẻ đôi Ukraine'",
+      "link": "https://vnexpress.net/ong-zelensky-canh-bao-ve-song-than-xe-doi-ukraine-5112434.html",
+      "summary": "Tổng thống Zelensky bác lời kêu gọi tổ chức bầu cử, cho rằng tiến hành hoạt động này giữa chiến sự với Nga tiềm ẩn nhiều nguy hiểm và có thể gây chia rẽ Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-23T09:58:20+07:00",
+      "fetched": "2026-08-23T19:19:03.045724+07:00"
+    },
+    {
       "id": "0a7898c88ef9eef60c75c83972bd4363",
       "title": "Đấu giá \"đất vàng\" mang lại cho TP.HCM hàng chục ngàn tỉ đồng",
       "link": "https://thanhnien.vn/dau-gia-dat-vang-mang-lai-cho-tphcm-hang-chuc-ngan-ti-dong-185260823163744351.htm",
@@ -491,6 +881,16 @@ window.newsData_2026_08_23 = {
       "category": "Tổng hợp",
       "published": "2026-08-23T09:58:00+07:00",
       "fetched": "2026-08-23T17:13:20.793426+07:00"
+    },
+    {
+      "id": "a4628a941691926069830df8b7389cdc",
+      "title": "Cảnh sát Hàn Quốc bị bắt vì nói dối để đóng hồ sơ 2 vụ mất tích",
+      "link": "https://vnexpress.net/canh-sat-han-quoc-bi-bat-vi-noi-doi-de-dong-ho-so-2-vu-mat-tich-5112440.html",
+      "summary": "Một cảnh sát ở đảo Jeju bị bắt khẩn cấp vì bịa chuyện đã liên lạc và xác nhận người mất tích an toàn, đóng hồ sơ hai vụ việc nhưng một nạn nhân sau đó được tìm thấy đã tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T09:57:00+07:00",
+      "fetched": "2026-08-23T19:18:56.891402+07:00"
     },
     {
       "id": "5f82ae2f664bb6eee03686c10df54686",
@@ -653,6 +1053,16 @@ window.newsData_2026_08_23 = {
       "fetched": "2026-08-23T17:13:20.793585+07:00"
     },
     {
+      "id": "5f0e2f1561788b785902d6083d6915f0",
+      "title": "Hàng nghìn người Lạng Sơn chạy lũ",
+      "link": "https://vnexpress.net/hang-nghin-nguoi-lang-son-chay-lu-5112419.html",
+      "summary": "Mưa lớn khiến nhiều khu dân cư ở Lạng Sơn ngập sâu, hơn 2.300 hộ phải sơ tán; lực lượng chức năng dùng xuồng cứu người mắc kẹt, đưa tài sản đến nơi an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T09:52:12+07:00",
+      "fetched": "2026-08-23T19:18:56.891487+07:00"
+    },
+    {
       "id": "5404cc6c1d9a9a9bcd22437158bf434a",
       "title": "Ngồi nhiều: Bác sĩ dặn nhớ làm điều này chỉ 30 phút mỗi ngày",
       "link": "https://thanhnien.vn/ngoi-nhieu-bac-si-dan-nho-lam-dieu-nay-chi-30-phut-moi-ngay-185260823164606598.htm",
@@ -671,6 +1081,16 @@ window.newsData_2026_08_23 = {
       "category": "Tổng hợp",
       "published": "2026-08-23T09:43:00+07:00",
       "fetched": "2026-08-23T17:13:20.793924+07:00"
+    },
+    {
+      "id": "fd8a178900e271f959ebeb44895345ac",
+      "title": "5 trường hợp bị coi là trốn nghĩa vụ quân sự",
+      "link": "https://vnexpress.net/5-truong-hop-bi-coi-la-tron-nghia-vu-quan-su-5112423.html",
+      "summary": "Không chấp hành lệnh đăng ký, sơ tuyển, khám sức khỏe, nhập ngũ hoặc tập trung huấn luyện được xác định là trốn nghĩa vụ quân sự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T09:38:44+07:00",
+      "fetched": "2026-08-23T19:18:56.891576+07:00"
     },
     {
       "id": "ec74b861c285019c0b4024d18912333d",
@@ -2811,6 +3231,16 @@ window.newsData_2026_08_23 = {
       "category": "Thế giới",
       "published": "2026-08-23T00:00:00+07:00",
       "fetched": "2026-08-23T07:42:17.843416+07:00"
+    },
+    {
+      "id": "767ccffa5d3ce705ed506c5c79549524",
+      "title": "Lý do nhiều cô gái nhuộm lông nách",
+      "link": "https://vnexpress.net/ly-do-nhieu-co-gai-nhuom-long-nach-5112145.html",
+      "summary": "Vượt qua định kiến lâu nay rằng để lông nách là xấu xí, những cô gái nhuộm lông nách rực rỡ tại Trung Quốc muốn khẳng định quyền tự quyết của phái đẹp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-23T00:00:00+07:00",
+      "fetched": "2026-08-23T19:19:03.046641+07:00"
     },
     {
       "id": "0dc2e4ebc9fc7809ce9d83f5c888aed9",
