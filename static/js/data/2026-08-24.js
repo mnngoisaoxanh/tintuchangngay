@@ -1,6 +1,6 @@
 window.newsData_2026_08_24 = {
   "date": "2026-08-24",
-  "lastUpdated": "2026-08-24T09:55:11.904947+07:00",
+  "lastUpdated": "2026-08-24T11:35:20.629516+07:00",
   "articles": [
     {
       "id": "cc1c206ca89affce401a52d25a64d789",
@@ -153,6 +153,346 @@ window.newsData_2026_08_24 = {
       "fetched": "2026-08-24T09:55:04.512243+07:00"
     },
     {
+      "id": "9d678616a451ce1d681398464afdd8e3",
+      "title": "TP.HCM lần đầu xây chuẩn riêng cho khách sạn thông minh, xanh và độc đáo",
+      "link": "https://thanhnien.vn/tphcm-lan-dau-xay-chuan-rieng-cho-khach-san-thong-minh-xanh-va-doc-dao-185260824112931902.htm",
+      "summary": "TP.HCM đang xây dựng bộ tiêu chí và quy trình công nhận riêng đối với khách sạn thông minh, khách sạn xanh và khách sạn phong cách độc đáo, hướng tới nâng chất lượng lưu trú và sức cạnh tranh của điểm đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T04:33:00+07:00",
+      "fetched": "2026-08-24T11:34:53.578591+07:00"
+    },
+    {
+      "id": "92fd1cb8d3130e8d7554d6c5349edb76",
+      "title": "Quảng Ninh xây cầu gần 2.000 tỉ đồng nối đảo Cô Tô với đảo Thanh Lân",
+      "link": "https://thanhnien.vn/quang-ninh-xay-cau-gan-2000-ti-dong-noi-dao-co-to-voi-dao-thanh-lan-185260824110122917.htm",
+      "summary": "Cầu kết nối đảo Cô Tô với đảo Thanh Lân dài khoảng 2,855 km, tổng vốn gần 2.000 tỉ đồng, được kỳ vọng mở rộng không gian phát triển du lịch, kinh tế biển của đặc khu Cô Tô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T04:29:00+07:00",
+      "fetched": "2026-08-24T11:34:53.578794+07:00"
+    },
+    {
+      "id": "a3738a40b4c64e0273dcaaf42624ad5c",
+      "title": "Bánh ít ở miền Tây: Chiếc 'râu' nhỏ trên chóp bánh dùng để làm gì?",
+      "link": "https://thanhnien.vn/banh-it-o-mien-tay-chiec-rau-nho-tren-chop-banh-dung-de-lam-gi-185260820100850735.htm",
+      "summary": "Trong đám giỗ ở miền Tây, nhiều gia đình vẫn quây quần gói bánh ít đãi khách. Trên chóp một số chiếc bánh còn được gắn thêm một mảnh lá chuối nhỏ gọi vui là 'râu'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T04:25:00+07:00",
+      "fetched": "2026-08-24T11:34:53.578966+07:00"
+    },
+    {
+      "id": "f69e77591dd671114d1eed53b4e5b65a",
+      "title": "'Đội hình A' của Thái Lan khác với ASEAN Cup 2026 thế nào?",
+      "link": "https://vnexpress.net/doi-hinh-a-cua-thai-lan-khac-voi-asean-cup-2026-the-nao-5112571.html",
+      "summary": "So với đội hình đá lượt cuối vòng loại Asian Cup 2027, Thái Lan thay đến 10 vị trí ở trận thua Việt Nam 0-2 tại lượt đi chung kết ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-24T04:24:00+07:00",
+      "fetched": "2026-08-24T11:35:20.621889+07:00"
+    },
+    {
+      "id": "1137a1b3773fc86e3843c085da019870",
+      "title": "Học sinh TP.HCM tựu trường, nhà sách vẫn đông nghịt người tìm sách giáo khoa sáng nay",
+      "link": "https://thanhnien.vn/hoc-sinh-tphcm-tuu-truong-nha-sach-van-dong-nghit-nguoi-tim-sach-giao-khoa-sang-nay-185260824103027603.htm",
+      "summary": "Sáng nay (24.8), học sinh các khối lớp của TP.HCM tựu trường năm học mới 2026 - 2027, song sức nóng của các nhà sách chưa hạ nhiệt. Từ sáng sớm phụ huynh đã xếp hàng mua sách giáo khoa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T04:22:00+07:00",
+      "fetched": "2026-08-24T11:34:53.579121+07:00"
+    },
+    {
+      "id": "ec0018240213cde2cd342d7059fc00f0",
+      "title": "5 điều kiện không truy cứu trách nhiệm hình sự trong hoạt động kinh tế, đổi mới sáng tạo",
+      "link": "https://thanhnien.vn/5-dieu-kien-khong-truy-cuu-trach-nhiem-hinh-su-trong-hoat-dong-kinh-te-doi-moi-sang-tao-185260824105728077.htm",
+      "summary": "Theo nghị quyết về cơ chế, chính sách đặc thù để xử lý vi phạm pháp luật liên quan đến kinh tế nhà nước, kinh tế tư nhân và ứng dụng khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số, cơ quan tiến hành tố tụng không truy cứu trách nhiệm hình sự đối với tổ chức, cá nhân khi có đủ 5 điều kiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T04:19:00+07:00",
+      "fetched": "2026-08-24T11:34:53.579272+07:00"
+    },
+    {
+      "id": "28ff493454b8054d2fa594fd222a179e",
+      "title": "Giá vàng nhẫn tăng vọt qua 151, triệu đồng/lượng, vượt mặt vàng miếng SJC",
+      "link": "https://thanhnien.vn/gia-vang-nhan-tang-vot-qua-151-trieu-dong-luong-vuot-mat-vang-mieng-sjc-185260824095953371.htm",
+      "summary": "Qua hơn 9 giờ sáng 24.8, một số công ty kinh doanh vàng tăng giá vàng nhẫn 4 số 9 từ 1,5 - 2 triệu đồng mỗi lượng, vượt qua vàng miếng SJC từ 500.000 đồng đến 2,5 triệu đồng/lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T04:18:00+07:00",
+      "fetched": "2026-08-24T11:34:53.579423+07:00"
+    },
+    {
+      "id": "9ba3c51ff2dbdc4bd72a8f3011c3df5c",
+      "title": "Ca sĩ Tùng Dương hát ca khúc dành riêng cho ASEAN Cup 2026 trước chung kết lượt về tại Mỹ Đình",
+      "link": "https://thanhnien.vn/ca-si-tung-duong-hat-ca-khuc-danh-rieng-cho-asean-cup-2026-truoc-chung-ket-luot-ve-tai-my-dinh-185260824111118154.htm",
+      "summary": "Ca sĩ Tùng Dương sẽ là nghệ sĩ duy nhất tham gia phần trình diễn đặc biệt kéo dài khoảng 10 phút trước trận chung kết ASEAN Hyundai Cup 2026 giữa đội tuyển Việt Nam và đội tuyển Thái Lan trên sân Mỹ Đình tối 26.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T04:16:00+07:00",
+      "fetched": "2026-08-24T11:34:53.579610+07:00"
+    },
+    {
+      "id": "90f1965cb251eb51adabf7ee50a7aabc",
+      "title": "Bóng đá Indonesia phải ‘đau lòng’  khi đội tuyển Việt Nam sắp vô địch ASEAN Cup",
+      "link": "https://thanhnien.vn/bong-da-indonesia-phai-dau-long-khi-doi-tuyen-viet-nam-sap-vo-dich-asean-cup-185260824110732376.htm",
+      "summary": "CNN Indonesia đã nhấn mạnh như vậy, cũng như cho rằng, những người làm bóng đá nước này sẽ phải nhận 'cú sốc đau đớn' và cả đội tuyển xứ vạn đảo cũng vậy, khi họ sắp chứng kiến đội tuyển Việt Nam một lần nữa vô địch ASEAN Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T04:15:00+07:00",
+      "fetched": "2026-08-24T11:34:53.579870+07:00"
+    },
+    {
+      "id": "78b8da8358d7636f9da4f3cfe9fa46b1",
+      "title": "Nhà sáng lập Evergrande - từ giàu nhất châu Á đến tù tội",
+      "link": "https://vnexpress.net/nha-sang-lap-evergrande-tu-giau-nhat-chau-a-den-tu-toi-5112459.html",
+      "summary": "Là người giàu nhất châu Á cách đây một thập niên, nhà sáng lập China Evergrande Group Hứa Gia Ấn khép lại sự nghiệp với án chung thân.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-24T04:13:27+07:00",
+      "fetched": "2026-08-24T11:34:57.165052+07:00"
+    },
+    {
+      "id": "ae5f69ed9d957fc4eb39b665a1fe54ab",
+      "title": "Quy định mới với xuất bản sách về lãnh tụ, lãnh đạo đất nước",
+      "link": "https://thanhnien.vn/quy-dinh-moi-voi-xuat-ban-sach-ve-lanh-tu-lanh-dao-dat-nuoc-185260824104312574.htm",
+      "summary": "Điều 24 của luật Xuất bản mới quy định 'tác phẩm, tài liệu có nội dung về lịch sử cách mạng, chủ quyền, an ninh quốc gia, lãnh tụ, lãnh đạo đất nước, anh hùng dân tộc' phải được nhà xuất bản tổ chức thẩm định bản thảo trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T04:04:00+07:00",
+      "fetched": "2026-08-24T11:34:53.580044+07:00"
+    },
+    {
+      "id": "6725a0513306b821acab4c966bc79b9f",
+      "title": "Thủ tướng Thái Lan họp khẩn sau loạt vụ tấn công tại 3 tỉnh miền nam",
+      "link": "https://thanhnien.vn/thu-tuong-thai-lan-hop-khan-sau-loat-vu-tan-cong-tai-3-tinh-mien-nam-185260824105454411.htm",
+      "summary": "Thủ tướng Thái Lan họp khẩn cùng các lãnh đạo an ninh sau một loạt vụ tấn công phối hợp của lực lượng đối lập tại 3 tỉnh miền nam nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T04:01:00+07:00",
+      "fetched": "2026-08-24T11:34:53.580194+07:00"
+    },
+    {
+      "id": "6d675208564096e20d50d28c175fbefe",
+      "title": "Điều hòa SANYO và bài toán tiết kiệm điện với công nghệ nào tối ưu điện năng?",
+      "link": "https://thanhnien.vn/dieu-hoa-sanyo-va-bai-toan-tiet-kiem-dien-voi-cong-nghe-nao-toi-uu-dien-nang-185260824101526586.htm",
+      "summary": "Trong bối cảnh chi phí sinh hoạt và tiền điện mùa nắng nóng trở thành nỗi lo thường trực, mức tiêu thụ điện là tiêu chí được người dùng cân nhắc kỹ khi chọn mua điều hòa. Điện năng tiêu thụ trên thực tế phụ thuộc vào diện tích phòng, nhiệt độ môi trường và thói quen vận hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T04:00:00+07:00",
+      "fetched": "2026-08-24T11:34:53.580346+07:00"
+    },
+    {
+      "id": "1f36d86672470dd1124a0d019e472910",
+      "title": "Công an giải cứu người đàn ông rơi xuống giếng khi sửa máy bơm",
+      "link": "https://thanhnien.vn/cong-an-giai-cuu-nguoi-dan-ong-roi-xuong-gieng-khi-sua-may-bom-18526082410401352.htm",
+      "summary": "Lực lượng cứu hộ Công an tỉnh Gia Lai giải cứu thành công người đàn ông bị rơi xuống giếng khi đang sửa máy bơm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:59:00+07:00",
+      "fetched": "2026-08-24T11:34:53.580496+07:00"
+    },
+    {
+      "id": "bc54743d410fc33a3a57b73814e53701",
+      "title": "Cắt giảm loạt thủ tục để thúc đẩy phát triển khoa học công nghệ",
+      "link": "https://vnexpress.net/cat-giam-loat-thu-tuc-de-thuc-day-phat-trien-khoa-hoc-cong-nghe-5112633.html",
+      "summary": "Nhiều điều kiện kinh doanh viễn thông, thủ tục cấp phép dịch vụ điện tử được bãi bỏ; việc nhập khẩu, chuyển giao công nghệ được phân cấp nhằm tạo thuận lợi cho doanh nghiệp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-24T03:56:25+07:00",
+      "fetched": "2026-08-24T11:35:19.294563+07:00"
+    },
+    {
+      "id": "c0af091bfb4e53e4c49a75b1bb0cc4f9",
+      "title": "Dự kiến giảm 5 trường đại học: Những trường nào đang trực thuộc Bộ GD-ĐT?",
+      "link": "https://thanhnien.vn/du-kien-giam-5-truong-dai-hoc-nhung-truong-nao-dang-truc-thuoc-bo-gd-dt-185260824101013998.htm",
+      "summary": "Bộ GD-ĐT dự kiến giảm 5 trường đại học và 12 trường nghề trong tổng số 57 cơ sở trực thuộc. Hiện những trường nào nằm trong danh sách trường trực thuộc bộ này?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:55:00+07:00",
+      "fetched": "2026-08-24T11:34:53.580641+07:00"
+    },
+    {
+      "id": "c671302783f4297cf384b63d20687f8f",
+      "title": "Không bắt buộc khám tối thiểu 6 phút/người bệnh",
+      "link": "https://thanhnien.vn/khong-bat-buoc-kham-toi-thieu-6-phut-nguoi-benh-185260824103619913.htm",
+      "summary": "Mốc thời gian khoảng 6 phút trong quá trình tổ chức, đánh giá hoạt động khám bệnh tại một số cơ sở là thời gian dự kiến dành cho hoạt động khám trực tiếp của bác sĩ đối với người bệnh, không phải là thời gian tối thiểu bắt buộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:54:00+07:00",
+      "fetched": "2026-08-24T11:34:53.580814+07:00"
+    },
+    {
+      "id": "7cbdf3dd2efa740fc20816f3e8efb061",
+      "title": "Khủng hoảng bất động sản Trung Quốc vẫn chưa chấm dứt",
+      "link": "https://vnexpress.net/khung-hoang-bat-dong-san-trung-quoc-van-chua-cham-dut-5112654.html",
+      "summary": "Ông chủ Evergrande vừa bị kết án chung thân, 5 năm sau khi công ty vỡ nợ, nhưng khủng hoảng bất động sản Trung Quốc vẫn chưa chấm dứt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-24T03:52:49+07:00",
+      "fetched": "2026-08-24T11:34:57.165226+07:00"
+    },
+    {
+      "id": "6613e145d802843e6425e7177ace79d5",
+      "title": "Ký ức thời chiến: Lá đơn xé lòng của người vợ ‘xin lãnh xác chồng’",
+      "link": "https://thanhnien.vn/ky-uc-thoi-chien-la-don-xe-long-cua-nguoi-vo-xin-lanh-xac-chong-185260821150224993.htm",
+      "summary": "Trong không gian trang nghiêm của quần thể Tượng đài mẹ Việt Nam anh hùng ở thành phố Đà Nẵng, nhiều du khách lặng đi trước một kỷ vật đã trải qua hơn nửa thế kỷ. Đó là lá đơn của người vợ trẻ xin được nhận thi thể chồng là liệt sĩ về an táng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:48:00+07:00",
+      "fetched": "2026-08-24T11:34:53.580965+07:00"
+    },
+    {
+      "id": "fc4b0ba5a029329c5afa14e100a53c47",
+      "title": "Báo Hàn Quốc: 'Park gieo mầm, Kim biến vô địch thành thói quen cho Việt Nam'",
+      "link": "https://vnexpress.net/bao-han-quoc-park-gieo-mam-kim-bien-vo-dich-thanh-thoi-quen-cho-viet-nam-5112456.html",
+      "summary": "Tờ The Fact của Hàn Quốc cho rằng HLV Kim Sang-sik đưa bóng đá Việt Nam đến những thành công mới bằng lối chơi chú trọng kết quả hơn sự hào nhoáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:41:25+07:00",
+      "fetched": "2026-08-24T11:34:50.767856+07:00"
+    },
+    {
+      "id": "fc4b0ba5a029329c5afa14e100a53c47",
+      "title": "Báo Hàn Quốc: 'Park gieo mầm, Kim biến vô địch thành thói quen cho Việt Nam'",
+      "link": "https://vnexpress.net/bao-han-quoc-park-gieo-mam-kim-bien-vo-dich-thanh-thoi-quen-cho-viet-nam-5112456.html",
+      "summary": "Tờ The Fact của Hàn Quốc cho rằng HLV Kim Sang-sik đưa bóng đá Việt Nam đến những thành công mới bằng lối chơi chú trọng kết quả hơn sự hào nhoáng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-24T03:41:25+07:00",
+      "fetched": "2026-08-24T11:35:20.622071+07:00"
+    },
+    {
+      "id": "34d91f4a43367e718bf5d81a3f7b172f",
+      "title": "Xe quay đầu va chạm xe đi thẳng - ai sai?",
+      "link": "https://vnexpress.net/xe-quay-dau-va-cham-xe-di-thang-ai-sai-5112550.html",
+      "summary": "Chiếc xe màu đen quay đầu, xe trắng ở làn ưu tiên không nhường đường dẫn tới va chạm, hôm 21/8 tại Võ Văn Kiệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:40:47+07:00",
+      "fetched": "2026-08-24T11:34:50.768054+07:00"
+    },
+    {
+      "id": "1043129c52655c74791541d407582206",
+      "title": "Đằng sau 'đặt bình chữa cháy cảnh báo xe dừng, tài xế bị phạt 13 triệu đồng'",
+      "link": "https://vnexpress.net/bien-canh-bao-nguy-hiem-phan-quang-tren-cao-toc-dat-binh-chua-chay-tren-cao-toc-bi-phat-13-trieu-dong-5112601.html",
+      "summary": "Một chiếc xe gặp sự cố trên cao tốc. Người lái biết mình phải cảnh báo phương tiện phía sau, nhưng trong xe không có thiết bị chuyên dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:35:31+07:00",
+      "fetched": "2026-08-24T11:34:50.768223+07:00"
+    },
+    {
+      "id": "4a01ba540d2983698db577ca690c8115",
+      "title": "Ưu tiên đưa lao động trình độ cao đi làm việc ở nước ngoài",
+      "link": "https://vnexpress.net/uu-tien-dua-lao-dong-trinh-do-cao-di-lam-viec-o-nuoc-ngoai-5112569.html",
+      "summary": "Người lao động có chuyên môn, kỹ thuật được ưu tiên làm việc ở nước ngoài, nâng cao thu nhập, tiếp cận công nghệ hiện đại và hỗ trợ tìm việc khi trở về.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:34:41+07:00",
+      "fetched": "2026-08-24T11:34:50.768383+07:00"
+    },
+    {
+      "id": "28b35f8a1f5db6ccefcd6bc713a35efd",
+      "title": "Giá mua vàng miếng thấp hơn thế giới 1,5 triệu đồng",
+      "link": "https://vnexpress.net/gia-mua-vang-mieng-thap-hon-the-gioi-1-5-trieu-dong-5112637.html",
+      "summary": "Giá vàng miếng chiều mua vào tiếp tục thấp hơn thế giới quy đổi khoảng 1,5-2 triệu đồng mỗi lượng, diễn biến ít gặp trong 5 năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:33:38+07:00",
+      "fetched": "2026-08-24T11:34:50.768537+07:00"
+    },
+    {
+      "id": "28b35f8a1f5db6ccefcd6bc713a35efd",
+      "title": "Giá mua vàng miếng thấp hơn thế giới 1,5 triệu đồng",
+      "link": "https://vnexpress.net/gia-mua-vang-mieng-thap-hon-the-gioi-1-5-trieu-dong-5112637.html",
+      "summary": "Giá vàng miếng chiều mua vào tiếp tục thấp hơn thế giới quy đổi khoảng 1,5-2 triệu đồng mỗi lượng, diễn biến ít gặp trong 5 năm qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-24T03:33:38+07:00",
+      "fetched": "2026-08-24T11:34:57.165391+07:00"
+    },
+    {
+      "id": "b62c69d7a964ecf266e8d2383c3c387a",
+      "title": "Bản thảo về lãnh tụ phải thẩm định trước khi đăng ký xuất bản",
+      "link": "https://vnexpress.net/ban-thao-ve-lanh-tu-phai-tham-dinh-truoc-khi-dang-ky-xuat-ban-5112619.html",
+      "summary": "Tác phẩm về lãnh tụ, lịch sử cách mạng, chủ quyền, an ninh quốc gia phải được nhà xuất bản thẩm định bản thảo và Bộ Văn hóa cho ý kiến trước khi phát hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:33:04+07:00",
+      "fetched": "2026-08-24T11:34:50.768689+07:00"
+    },
+    {
+      "id": "cc8610319dbedf3852889b6758982632",
+      "title": "Nguy cơ tử vong 100% nếu phát bệnh dại",
+      "link": "https://vnexpress.net/nguy-co-tu-vong-100-neu-phat-benh-dai-5112627.html",
+      "summary": "Nếu phát bệnh dại - khi virus xâm nhập vào hệ thần kinh trung ương và các triệu chứng lâm sàng xuất hiện, 100% trường hợp sẽ tử vong, theo Tổ chức Y tế thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:30:00+07:00",
+      "fetched": "2026-08-24T11:34:50.768874+07:00"
+    },
+    {
+      "id": "a802b74a6a95cd5e80912fa41bf9b062",
+      "title": "Thủ tướng Nhật nêu lý do gần như không rời khỏi nhà công vụ",
+      "link": "https://vnexpress.net/thu-tuong-nhat-neu-ly-do-gan-nhu-khong-roi-khoi-nha-cong-vu-5112566.html",
+      "summary": "Thủ tướng Takaichi cho biết bà dành phần lớn thời gian trong nhà công vụ để tối đa hóa hiệu suất làm việc, bác bỏ tin đồn \"tự cô lập\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:28:20+07:00",
+      "fetched": "2026-08-24T11:34:50.769033+07:00"
+    },
+    {
+      "id": "d21398da14c2f8ed730e064896973b96",
+      "title": "Nữ y tá trẻ bị chồng cũ bắt cóc, xích trong nhà suốt 5 ngày",
+      "link": "https://vnexpress.net/nu-y-ta-tre-bi-chong-cu-bat-coc-xich-trong-nha-suot-5-ngay-5112644.html",
+      "summary": "Emiliane Tamara Nunes Carvalho, 24 tuổi, được cảnh sát tìm thấy trong tình trạng bị trói, bịt miệng và xích vào giường trong một căn nhà thuê.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:26:12+07:00",
+      "fetched": "2026-08-24T11:34:50.769187+07:00"
+    },
+    {
+      "id": "a22e8bf3624106b4931351ac7929ca99",
+      "title": "Dàn máy bay tàng hình Mỹ phô diễn sức mạnh trên bầu trời thủ đô",
+      "link": "https://vnexpress.net/dan-may-bay-tang-hinh-my-pho-dien-suc-manh-tren-bau-troi-thu-do-5112570.html",
+      "summary": "Mỹ triển khai loạt máy bay hiện đại nhất cho màn trình diễn ở trung tâm thủ đô Washington trong ngày diễn ra sự kiện Freedom 250 Grand Prix.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:22:44+07:00",
+      "fetched": "2026-08-24T11:34:50.769349+07:00"
+    },
+    {
+      "id": "57e430895cf381e0b605fd8fc4741c98",
+      "title": "Sẽ di dời hai di tích để làm đường nối sân bay Gia Bình",
+      "link": "https://vnexpress.net/se-di-doi-hai-di-tich-de-lam-duong-noi-san-bay-gia-binh-5112618.html",
+      "summary": "Đình Đông Côi và đình Tam Sơn ở Bắc Ninh sẽ được di dời để xây tuyến đường kết nối sân bay Gia Bình với Hà Nội, song phải bảo tồn tối đa kiến trúc và giá trị văn hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:19:18+07:00",
+      "fetched": "2026-08-24T11:34:50.769507+07:00"
+    },
+    {
+      "id": "b79e3f5f5fec8468902b0d2fcdd3925b",
+      "title": "Trợ cấp hưu trí cho người 75 tuổi tăng lên 540.000 đồng",
+      "link": "https://vnexpress.net/tro-cap-huu-tri-cho-nguoi-75-tuoi-tang-len-540-000-dong-5112589.html",
+      "summary": "Tiền trợ cấp hưu trí xã hội cho người từ 75 tuổi trở lên, chuẩn trợ giúp xã hội tính chế độ hưởng cho một số nhóm yếu thế tăng 8% lên 540.000 đồng mỗi tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:16:52+07:00",
+      "fetched": "2026-08-24T11:34:50.769664+07:00"
+    },
+    {
+      "id": "aa3e70be479ecb22327aed67579a7870",
+      "title": "Cân nặng ông Trump sát ngưỡng béo phì, bác sĩ khuyến nghị kiểm soát",
+      "link": "https://vnexpress.net/can-nang-ong-trump-sat-nguong-beo-phi-bac-si-khuyen-nghi-kiem-soat-5112621.html",
+      "summary": "Cân nặng Tổng thống Donald Trump chạm mốc 108 kg, thiếu 0,7 kg nữa là vào nhóm béo phì, khiến nhiều bác sĩ khuyến nghị ông giảm cân để hạ rủi ro sức khỏe ở tuổi 80.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:11:50+07:00",
+      "fetched": "2026-08-24T11:34:50.769845+07:00"
+    },
+    {
       "id": "e574b011095c5fa3de2e85e4de9df664",
       "title": "TP.HCM tưởng niệm 65 năm thảm họa chất độc da cam/dioxin: Những câu chuyện lay động lương tri",
       "link": "https://tuoitre.vn/tphcm-tuong-niem-65-nam-tham-hoa-chat-doc-da-cam-dioxin-nhung-cau-chuyen-lay-dong-luong-tri-100260823230216596.htm",
@@ -181,6 +521,66 @@ window.newsData_2026_08_24 = {
       "category": "Tổng hợp",
       "published": "2026-08-24T03:11:17.639968+07:00",
       "fetched": "2026-08-24T03:11:17.640113+07:00"
+    },
+    {
+      "id": "387fd50f33320016428f8e2978da4373",
+      "title": "Thái Lan đối mặt 'lời nguyền ASEAN Cup'",
+      "link": "https://vnexpress.net/thai-lan-doi-mat-loi-nguyen-asean-cup-5112445.html",
+      "summary": "Lịch sử giải ASEAN Cup ghi nhận chưa đội tuyển nào ngược dòng để đăng quang sau khi thua cách biệt hai bàn ở chung kết lượt đi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:11:02+07:00",
+      "fetched": "2026-08-24T11:34:50.770011+07:00"
+    },
+    {
+      "id": "387fd50f33320016428f8e2978da4373",
+      "title": "Thái Lan đối mặt 'lời nguyền ASEAN Cup'",
+      "link": "https://vnexpress.net/thai-lan-doi-mat-loi-nguyen-asean-cup-5112445.html",
+      "summary": "Lịch sử giải ASEAN Cup ghi nhận chưa đội tuyển nào ngược dòng để đăng quang sau khi thua cách biệt hai bàn ở chung kết lượt đi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-24T03:11:02+07:00",
+      "fetched": "2026-08-24T11:35:20.622235+07:00"
+    },
+    {
+      "id": "a37c2e6c26ee24a1162f12f4777d11f0",
+      "title": "Nữ sinh Y Hà Nội giành ngôi Hoa khôi Sinh viên Việt Nam",
+      "link": "https://vnexpress.net/nu-sinh-y-ha-noi-gianh-ngoi-hoa-khoi-sinh-vien-viet-nam-5112607.html",
+      "summary": "Đại học Y Hà Nội lần thứ hai liên tiếp có đại diện đăng quang Hoa khôi Sinh viên Việt Nam, là Nguyễn Ngọc Linh, ngành Răng Hàm Mặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T03:06:57+07:00",
+      "fetched": "2026-08-24T11:34:50.770167+07:00"
+    },
+    {
+      "id": "aad742fd51d0aa181fa2b5db82faf2d6",
+      "title": "Núi rác đổ sập, chôn vùi ít nhất 30 người",
+      "link": "https://vnexpress.net/nui-rac-do-sap-chon-vui-it-nhat-30-nguoi-5112568.html",
+      "summary": "Mưa lớn làm núi rác khổng lồ ở Conakry đổ sập, chôn vùi các ngôi nhà xung quanh, khiến ít nhất 30 người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-24T03:00:29+07:00",
+      "fetched": "2026-08-24T11:34:56.079717+07:00"
+    },
+    {
+      "id": "e64ed64053bbd501aaed62813ce1e607",
+      "title": "Galaxy S27 Ultra lộ thiết kế cụm camera giống iPhone 17 Pro",
+      "link": "https://vnexpress.net/galaxy-s27-ultra-lo-thiet-ke-cum-camera-giong-iphone-17-pro-5112482.html",
+      "summary": "Galaxy S27 Ultra, mẫu điện thoại cao cấp tiếp theo của Samsung, được cho là không dùng cụm camera dọc và lần đầu có hai phiên bản kích thước màn hình.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-24T03:00:00+07:00",
+      "fetched": "2026-08-24T11:35:19.295092+07:00"
+    },
+    {
+      "id": "d2ddea293eb85a7a373512807ea3738d",
+      "title": "Fils lần đầu vô địch Masters 1000",
+      "link": "https://vnexpress.net/fils-lan-dau-vo-dich-masters-1000-5112523.html",
+      "summary": "Tay vợt Arthur Fils thắng Frances Tiafoe 6-3, 1-6, 6-0 ở chung kết Cincinnati Mở rộng 2026, qua đó giành danh hiệu Masters 1000 đầu tiên và vươn lên thứ 11 thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-24T02:56:13+07:00",
+      "fetched": "2026-08-24T11:35:20.622549+07:00"
     },
     {
       "id": "1089b0a82881a9cdaf25c3c3e87a3412",
