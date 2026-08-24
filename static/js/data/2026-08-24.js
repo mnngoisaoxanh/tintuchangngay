@@ -1,7 +1,157 @@
 window.newsData_2026_08_24 = {
   "date": "2026-08-24",
-  "lastUpdated": "2026-08-24T11:35:20.629516+07:00",
+  "lastUpdated": "2026-08-24T13:36:10.519866+07:00",
   "articles": [
+    {
+      "id": "0795303e6b22f345c63d98df3d4bbb47",
+      "title": "Thanh nhãn Cà Mau là trái gì, vì sao luôn 'cháy hàng' bán giá cao hơn 100.000 đồng vẫn nhiều người tìm mua?",
+      "link": "https://tuoitre.vn/thanh-nhan-ca-mau-la-trai-gi-vi-sao-luon-chay-hang-ban-gia-cao-hon-100000-dong-van-nhieu-nguoi-tim-mua-100260824093058642.htm",
+      "summary": "Từ một cây nhãn cổ cho trái lạ, người dân Cà Mau đã lai tạo ra được giống thanh nhãn đặc biệt bán với giá hơn 100.000 đồng/kg, tạo sinh kế cho cả vùng đất phường Hiệp Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T13:36:04.402124+07:00",
+      "fetched": "2026-08-24T13:36:04.402193+07:00"
+    },
+    {
+      "id": "7fd10928b166b7ffc772ac6c68ac4d5d",
+      "title": "Nhiều vụ lừa đảo mùa sầu riêng, Công an Đắk Lắk tăng cường trấn áp",
+      "link": "https://tuoitre.vn/nhieu-vu-lua-dao-mua-sau-rieng-cong-an-dak-lak-tang-cuong-tran-ap-10026082410240978.htm",
+      "summary": "Mùa sầu riêng vào cao điểm, nhiều thủ đoạn lừa đảo, trộm cắp, móc túi, giả thương lái, tung tin giả và chiếm dụng tiền mua hàng xuất hiện, buộc lực lượng công an tăng cường phòng ngừa, đấu tranh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T13:36:04.402025+07:00",
+      "fetched": "2026-08-24T13:36:04.402081+07:00"
+    },
+    {
+      "id": "bb23a448341766eed4e200dae4092aa6",
+      "title": "Thiếu Lâm Tự lại có bê bối chấn động, liên quan chuyện dạy võ",
+      "link": "https://tuoitre.vn/thieu-lam-tu-lai-co-be-boi-chan-dong-lien-quan-chuyen-day-vo-100260822182155931.htm",
+      "summary": "Tung Sơn Đăng Phong Thiếu Lâm Tháp Câu Trường - một trong những võ hiệu nổi danh nhất hệ thống dạy võ Thiếu Lâm mới đây bị phanh phui tệ nạn \"làm tiền\" và bắt nạt học viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T13:36:04.401958+07:00",
+      "fetched": "2026-08-24T13:36:04.402015+07:00"
+    },
+    {
+      "id": "fb0e1d2250c9a7a5680411ecb5dd5a2c",
+      "title": "111 người đẹp Miss World làm gì trước chặng đua cuối?",
+      "link": "https://tuoitre.vn/111-nguoi-dep-miss-world-lam-gi-truoc-chang-dua-cuoi-100260824105505522.htm",
+      "summary": "Tại Khánh Hòa, 111 người đẹp Miss World tham quan Tháp Bà Ponagar, Hòn Chồng, trải nghiệm các hoạt động tại làng gốm Bàu Trúc, làng dệt thổ cẩm Mỹ Nghiệp…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T13:36:04.401884+07:00",
+      "fetched": "2026-08-24T13:36:04.401947+07:00"
+    },
+    {
+      "id": "ff0b5e0f1e4602351d0c78d3105f36fc",
+      "title": "Độc lạ Nhật Bản: 1.000 người cùng kéo tòa tháp 400 tấn bằng dây thừng và xe nâng",
+      "link": "https://tuoitre.vn/doc-la-nhat-ban-1000-nguoi-cung-keo-toa-thap-400-tan-bang-day-thung-va-xe-nang-100260824102516945.htm",
+      "summary": "Giới chức tỉnh Aomori đã huy động khoảng 1.000 người để cùng kéo một tòa tháp nặng 400 tấn về vị trí cũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T13:36:04.401773+07:00",
+      "fetched": "2026-08-24T13:36:04.401867+07:00"
+    },
+    {
+      "id": "498555093c4c428f74d8a222068308ed",
+      "title": "Chính thức cấm hoàn toàn xuất khẩu lao động với công việc mát xa",
+      "link": "https://tuoitre.vn/chinh-thuc-cam-hoan-toan-xuat-khau-lao-dong-voi-cong-viec-mat-xa-100260824093139906.htm",
+      "summary": "Ngày 24-8, với hơn 95% đại biểu có mặt tán thành, Quốc hội đã thông qua Luật sửa đổi bổ sung một số điều của Luật Người lao động đi làm việc ở nước ngoài theo hợp đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T13:36:04.401654+07:00",
+      "fetched": "2026-08-24T13:36:04.401754+07:00"
+    },
+    {
+      "id": "2c057bd7f51dbc52f847b25843b1162f",
+      "title": "Nghệ An cho thuê trường học, tòa án dôi dư, giá từ 660.000 đồng/năm",
+      "link": "https://tuoitre.vn/nghe-an-cho-thue-truong-hoc-toa-an-doi-du-gia-tu-660000-dong-nam-100260824105014814.htm",
+      "summary": "Có 8 trụ sở, khu đất trường học dôi dư chưa sử dụng ở Nghệ An được cho thuê với mức giá từ gần 700.000 đồng đến hơn 528 triệu đồng/năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T13:36:04.401352+07:00",
+      "fetched": "2026-08-24T13:36:04.401637+07:00"
+    },
+    {
+      "id": "1095c4a7693e52f6a515741ad1500fc0",
+      "title": "Dragon Ball khơi lại khoảnh khắc Goku và Chi Chi mới cưới sau 38 năm",
+      "link": "https://tuoitre.vn/dragon-ball-khoi-lai-khoanh-khac-goku-va-chi-chi-moi-cuoi-sau-38-nam-100260824011639722.htm",
+      "summary": "Sau gần 40 năm, một hình ảnh hiếm về Goku và Chi Chi trong những ngày đầu hôn nhân vừa được Dragon Ball giới thiệu lại, đưa người hâm mộ trở về một giai đoạn đặc biệt trong câu chuyện của cặp đôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T13:36:04.401277+07:00",
+      "fetched": "2026-08-24T13:36:04.401342+07:00"
+    },
+    {
+      "id": "e449ec684c136000ca84ce29f9b9b472",
+      "title": "Lộ đường dây hai người nước ngoài làm giả bằng đại học Việt Nam",
+      "link": "https://tuoitre.vn/lo-duong-day-hai-nguoi-nuoc-ngoai-lam-gia-bang-dai-hoc-viet-nam-100260824111109382.htm",
+      "summary": "Hai người nước ngoài lợi dụng nhu cầu làm hồ sơ, xin việc để nhận làm giả văn bằng, chứng chỉ của các trường đại học tại Việt Nam, rồi mua bán cho người có nhu cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T13:36:04.401208+07:00",
+      "fetched": "2026-08-24T13:36:04.401266+07:00"
+    },
+    {
+      "id": "013adc4db31f07b2679c7e4ae52eb97a",
+      "title": "Một trường tiểu học ở TP.HCM đẩy mạnh đưa tiếng Anh thành ngôn ngữ thứ hai",
+      "link": "https://tuoitre.vn/mot-truong-tieu-hoc-o-tphcm-day-manh-dua-tieng-anh-thanh-ngon-ngu-thu-hai-100260824102757846.htm",
+      "summary": "Không dừng lại ở việc sinh hoạt câu lạc bộ, trường còn tạo môi trường thực hành trực tiếp ngay trên bục giảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T13:36:04.401123+07:00",
+      "fetched": "2026-08-24T13:36:04.401188+07:00"
+    },
+    {
+      "id": "40d357b52fc64cdf77f103be03f9faaf",
+      "title": "'Liên minh tự nguyện' tới Ukraine họp, ông Zelensky công khai những con số hiếm khi được tiết lộ",
+      "link": "https://tuoitre.vn/lien-minh-tu-nguyen-toi-ukraine-hop-ong-zelensky-cong-khai-nhung-con-so-hiem-khi-duoc-tiet-lo-100260824111626216.htm",
+      "summary": "Hôm nay 24-8, Ukraine tổ chức cuộc họp với các đồng minh châu Âu nhằm thúc đẩy việc cung cấp hệ thống phòng không và gia tăng sức ép lên Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T13:36:04.401033+07:00",
+      "fetched": "2026-08-24T13:36:04.401111+07:00"
+    },
+    {
+      "id": "ab2fb0cb99f4bc117d1961f02f20b58f",
+      "title": "Vì sao Thơm (Da LAB) luôn được các Anh Tài chọn hát mở màn?",
+      "link": "https://tuoitre.vn/vi-sao-thom-da-lab-luon-duoc-cac-anh-tai-chon-hat-mo-man-100260824105753785.htm",
+      "summary": "Một chi tiết nhỏ đang được các Gai Con 'soi' ra trong Anh trai vượt ngàn chông gai 2026: Ở các tiết mục nhóm từ Công diễn 0 đến Công diễn 3, Thơm (Da LAB) nhiều lần là người cất câu hát đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T13:36:04.400961+07:00",
+      "fetched": "2026-08-24T13:36:04.401022+07:00"
+    },
+    {
+      "id": "81d5a57f4de05ce77258de524c71804e",
+      "title": "Cán bộ dám nghĩ dám làm vì lợi ích chung không tham nhũng sẽ được miễn trách nhiệm hình sự",
+      "link": "https://tuoitre.vn/can-bo-dam-nghi-dam-lam-vi-loi-ich-chung-khong-tham-nhung-se-duoc-mien-trach-nhiem-hinh-su-100260824111541.htm",
+      "summary": "Quốc hội đã thông qua Nghị quyết về cơ chế, chính sách đặc thù để xử lý vi phạm pháp luật liên quan đến kinh tế nhà nước, kinh tế tư nhân và ứng dụng khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T13:36:04.400888+07:00",
+      "fetched": "2026-08-24T13:36:04.400950+07:00"
+    },
+    {
+      "id": "ad4b2db153799426a2f472a270f46134",
+      "title": "Lâm Đồng gọi vốn làm cao tốc Phan Thiết - Bảo Lộc - Gia Nghĩa",
+      "link": "https://tuoitre.vn/lam-dong-goi-von-lam-cao-toc-phan-thiet-bao-loc-gia-nghia-100260824112430675.htm",
+      "summary": "Tổng mức đầu tư sơ bộ tuyến cao tốc Phan Thiết - Bảo Lộc - Gia Nghĩa gần 55.000 tỉ đồng. Lâm Đồng tính phương án gọi vốn hợp tác công tư PPP.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T13:36:04.400809+07:00",
+      "fetched": "2026-08-24T13:36:04.400876+07:00"
+    },
+    {
+      "id": "69032377cdeae7b640fa8dc88664237b",
+      "title": "Định hình động lực và năng lực quản trị mới siêu đô thị TP.HCM",
+      "link": "https://tuoitre.vn/dinh-hinh-dong-luc-va-nang-luc-quan-tri-moi-sieu-do-thi-tphcm-100260823172221481.htm",
+      "summary": "Đằng sau quyết sách mạnh mẽ của chính quyền TP.HCM suốt thời gian qua, sự có mặt của các nhà đầu tư chiến lược cũng như nhiều tập đoàn kinh tế trong và ngoài nước là minh chứng cho chỉ số tin cậy của doanh nghiệp với Nhà nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T13:36:04.400660+07:00",
+      "fetched": "2026-08-24T13:36:04.400795+07:00"
+    },
     {
       "id": "cc1c206ca89affce401a52d25a64d789",
       "title": "Hà Nội dự tính hỗ trợ tối đa 6 triệu đồng cho hộ gia đình lắp điện mặt trời",
@@ -153,6 +303,316 @@ window.newsData_2026_08_24 = {
       "fetched": "2026-08-24T09:55:04.512243+07:00"
     },
     {
+      "id": "1880422a2f63a24b29e19a5b1f8bc782",
+      "title": "Báo Thanh Niên và Saigontourist Group phát động cuộc thi 'Mùa trung thu ở Đầm Sen'",
+      "link": "https://thanhnien.vn/bao-thanh-nien-va-saigontourist-group-phat-dong-cuoc-thi-mua-trung-thu-o-dam-sen-185260824120824472.htm",
+      "summary": "Nhằm tạo sân chơi ý nghĩa, lưu giữ những ký ức đẹp về các mùa trung thu đã qua, Báo Thanh Niên và Tổng công ty Du lịch Sài Gòn (Saigontourist Group) phát động cuộc thi \"Mùa trung thu ở Đầm Sen\" dành cho trẻ mồ côi trong chương trình Cùng con đi tiếp cuộc đời. Cuộc thi có tổng giá trị giải thưởng 50 ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T06:21:00+07:00",
+      "fetched": "2026-08-24T13:36:02.668545+07:00"
+    },
+    {
+      "id": "922d46b783ccad161c123fc5fec17f63",
+      "title": "Tổng thống Zelensky nói cựu bộ trưởng 'sai đường', bầu cử lúc này sẽ hủy hoại Ukraine",
+      "link": "https://thanhnien.vn/tong-thong-zelensky-noi-cuu-bo-truong-sai-duong-bau-cu-luc-nay-se-huy-hoai-ukraine-185260824125608762.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky lần đầu công khai chi tiết về mâu thuẫn với cựu Bộ trưởng Quốc phòng Mykhailo Fedorov, liên quan bầu cử thời chiến, Starlink và chi tiêu quốc phòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T06:16:00+07:00",
+      "fetched": "2026-08-24T13:36:02.668715+07:00"
+    },
+    {
+      "id": "4555848a03ed206a6f1e5dddba21263e",
+      "title": "Livestream, TikTok: Ai xúc phạm, bịa đặt, gây hoang mang bị phạt 50 triệu đồng?",
+      "link": "https://thanhnien.vn/livestream-tiktok-ai-xuc-pham-bia-dat-gay-hoang-mang-bi-phat-50-trieu-dong-185260823224734072.htm",
+      "summary": "Từ livestream gây tranh cãi của người mẫu, ca sĩ N.E đến video phân biệt vùng miền của ‘Khuê ơi Dậy Đi’, nhiều người có sức ảnh hưởng đã bị phạt vì đăng tải sai sự thật, xúc phạm người khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T06:16:00+07:00",
+      "fetched": "2026-08-24T13:36:02.668874+07:00"
+    },
+    {
+      "id": "29e5e252e0ddc1f692b1cc26329a8836",
+      "title": "Màn diễu binh đặc biệt giữa 50.000 khán giả ở concert 'Tổ quốc trong tim'",
+      "link": "https://vnexpress.net/man-dieu-binh-dac-biet-giua-50-000-khan-gia-o-concert-to-quoc-trong-tim-5112632.html",
+      "summary": "Lần đầu tiên, 6 khối quân nhân diễu binh, diễu hành xuất hiện trên sân khấu chương trình ca nhạc giữa hàng chục nghìn khán giả tại TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T06:12:29+07:00",
+      "fetched": "2026-08-24T13:36:00.109063+07:00"
+    },
+    {
+      "id": "dc113dd26bf893d2d86cf3c80980e86a",
+      "title": "Làm sao để quả táo 15cm chui tọt vào chai cổ 5cm?",
+      "link": "https://vnexpress.net/meo-hay-lam-sao-de-qua-tao-15cm-chui-tot-vao-chai-co-5cm-5111991.html",
+      "summary": "Đưa một quả táo to gấp ba lần cổ chai vào bên trong mà quả táo vẫn nguyên vẹn? Câu đố tưởng vô lý nhưng lại có lời giải cực thông minh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T06:11:00+07:00",
+      "fetched": "2026-08-24T13:36:00.109272+07:00"
+    },
+    {
+      "id": "d1c897c0383747d3231c61ef7050b868",
+      "title": "Nhà đầu tư đô thị lấn biển được chuyển nhượng tối đa 50% diện tích đất xong hạ tầng",
+      "link": "https://vnexpress.net/nha-dau-tu-do-thi-lan-bien-duoc-chuyen-nhuong-toi-da-50-dien-tich-dat-xong-ha-tang-5112687.html",
+      "summary": "Nhà đầu tư dự án khu đô thị lấn biển không được bán toàn bộ dự án, chỉ được chuyển nhượng tối đa 50% diện tích đất đã hoàn thành hạ tầng kỹ thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T06:08:48+07:00",
+      "fetched": "2026-08-24T13:36:00.109439+07:00"
+    },
+    {
+      "id": "956238bdc8e9f6936c7e1f6506e85530",
+      "title": "Nhạc sĩ Nguyễn Văn Chung và ‘bàn thắng’ cực ấn tượng trước chung kết Việt Nam đấu Thái Lan",
+      "link": "https://thanhnien.vn/nhac-si-nguyen-van-chung-va-ban-thang-cuc-an-tuong-truoc-chung-ket-viet-nam-dau-thai-lan-185260824125422246.htm",
+      "summary": "Tác giả 'Viết tiếp câu chuyện hòa bình' mạnh dạn dự đoán tỷ số 2-0 nghiêng về đội chủ nhà cho trận chung kết Việt Nam gặp Thái Lan tại sân Mỹ Đình hôm 26.8 tới. Trước giờ bóng lăn, ca khúc 'Khát vọng vinh quang' do anh sáng tác, Tùng Dương thể hiện, cũng sẽ lần đầu tiên vang lên tại đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T06:08:00+07:00",
+      "fetched": "2026-08-24T13:36:02.669030+07:00"
+    },
+    {
+      "id": "89286b20be4001d586cc04e5659fe2ad",
+      "title": "Lấy ý kiến nhân dân việc chuẩn hóa sử dụng Quốc ca",
+      "link": "https://vnexpress.net/lay-y-kien-nhan-dan-viec-chuan-hoa-su-dung-quoc-ca-5112595.html",
+      "summary": "Bộ Văn hóa, Thể thao và Du lịch lấy ý kiến dự thảo Nghị định nhằm chuẩn hóa việc sử dụng Quốc ca trong đời sống, trên môi trường số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T06:06:56+07:00",
+      "fetched": "2026-08-24T13:36:00.109598+07:00"
+    },
+    {
+      "id": "62eea433f86994e2a5bcd5a4237bead4",
+      "title": "Kỹ năng vượt xe, chuyển làn trong bài thi sát hạch quan trọng thế nào?",
+      "link": "https://thanhnien.vn/ky-nang-vuot-xe-chuyen-lan-trong-bai-thi-sat-hach-quan-trong-the-nao-185260822232247005.htm",
+      "summary": "Vượt xe hay chuyển làn đều là thao tác quen thuộc nhưng đòi hỏi người lái quan sát và phán đoán chính xác. Từ tháng 3.2027, các kỹ năng này sẽ được kiểm tra riêng trong bài sát hạch đường trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T06:01:00+07:00",
+      "fetched": "2026-08-24T13:36:02.669216+07:00"
+    },
+    {
+      "id": "8dc28f9e7a60df101501fa0da4f194dd",
+      "title": "'Sai lầm nếu vội vàng bỏ Tiếng Anh khỏi kỳ thi vào lớp 10'",
+      "link": "https://vnexpress.net/bo-mon-thi-thu-ba-vao-lop-10-sai-lam-neu-voi-vang-bo-tieng-anh-khoi-ky-thi-vao-lop-10-5112555.html",
+      "summary": "Nếu Tiếng Anh không còn là môn thi chính thức vào lớp 10, một bộ phận học sinh có thể xem nhẹ môn học này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T06:00:00+07:00",
+      "fetched": "2026-08-24T13:36:00.109761+07:00"
+    },
+    {
+      "id": "d61f1bbb748477af716c80afe33894c9",
+      "title": "Thêm hình ảnh Lãnh tụ tối cao, Tổng thống Iran phát thông điệp mới",
+      "link": "https://thanhnien.vn/them-hinh-anh-lanh-tu-toi-cao-tong-thong-iran-phat-thong-diep-moi-185260824115431521.htm",
+      "summary": "Một trang tin của Iran vừa công bố đoạn video về Lãnh tụ tối cao Mojtaba Khamenei, người chưa từng xuất hiện trước công chúng kể từ khi được bổ nhiệm vào cương vị này sau khi cha ông qua đời..",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T06:00:00+07:00",
+      "fetched": "2026-08-24T13:36:02.669377+07:00"
+    },
+    {
+      "id": "748ab889c7d7f9d2711d969e617307e8",
+      "title": "Khán giả đội mưa đến xem ‘Hộ linh tráng sĩ: Bí ẩn mộ vua Đinh’",
+      "link": "https://thanhnien.vn/khan-gia-doi-mua-den-xem-ho-linh-trang-si-bi-an-mo-vua-dinh-185260824112702954.htm",
+      "summary": "Tối 22 và 23.8, mặc dù trời mưa to nhưng hàng nghìn khán giả tại Ninh Bình và Hà Nội đã đến lễ công chiếu và giao lưu với đoàn phim 'Hộ linh tráng sĩ: Bí ẩn mộ vua Đinh'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T05:54:00+07:00",
+      "fetched": "2026-08-24T13:36:02.669532+07:00"
+    },
+    {
+      "id": "9107d7929958e16487f7592509bde7a5",
+      "title": "Xe khách chở gần 40 người bốc cháy trên quốc lộ 1",
+      "link": "https://thanhnien.vn/xe-khach-cho-gan-40-nguoi-boc-chay-tren-quoc-lo-1-185260824122622763.htm",
+      "summary": "Xe khách đang lưu thông trên quốc lộ 1 bất ngờ bốc cháy dữ dội, may mắn 40 người trên xe kịp thoát nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T05:49:00+07:00",
+      "fetched": "2026-08-24T13:36:02.669683+07:00"
+    },
+    {
+      "id": "511f1b83f471556da213fa24b1faf4a2",
+      "title": "TS-BS Nguyễn Sĩ Bảo làm Phó hiệu trưởng Trường đại học Khoa học sức khỏe",
+      "link": "https://thanhnien.vn/ts-bs-nguyen-si-bao-lam-pho-hieu-truong-truong-dai-hoc-khoa-hoc-suc-khoe-185260824121245672.htm",
+      "summary": "Giám đốc Đại học Quốc gia TP.HCM vừa ký quyết định bổ nhiệm TS-BS Nguyễn Sĩ Bảo, Trưởng khoa Y, làm Phó hiệu trưởng Trường đại học Khoa học sức khỏe (Đại học Quốc gia TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T05:47:00+07:00",
+      "fetched": "2026-08-24T13:36:02.669833+07:00"
+    },
+    {
+      "id": "6c171b41d45d7f8fabd0dce474fc5cc0",
+      "title": "'Khúc giao tranh' giữa Hương Tràm và Võ Hạ Trâm",
+      "link": "https://thanhnien.vn/khuc-giao-tranh-giua-huong-tram-va-vo-ha-tram-185260824111401493.htm",
+      "summary": "Tại đêm nhạc 'Tổ quốc trong tim', Hương Tràm và Võ Hạ Trâm khiến khán giả vỡ òa với 2 ca khúc 'Bài ca đất phương Nam' và 'Về miền Tây'. Đây là lần hiếm hoi hai ca sĩ gốc miền Trung cùng đứng chung sân khấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T05:40:00+07:00",
+      "fetched": "2026-08-24T13:36:02.669988+07:00"
+    },
+    {
+      "id": "19a516c6fa841ca5ffa17e3555af0a13",
+      "title": "9 thí sinh chuyên Tuyên Quang đỗ Luật Hà Nội, nâng tổng số trúng tuyển lên 83",
+      "link": "https://thanhnien.vn/9-thi-sinh-chuyen-tuyen-quang-do-luat-ha-noi-nang-tong-so-trung-tuyen-len-83-185260824121206156.htm",
+      "summary": "Tính đến sáng 24.8 đã có 9 trường đại học thông tin kết quả xét tuyển thí sinh chuyên Tuyên Quang với tổng số 83 em đã trúng tuyển đại học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T05:35:00+07:00",
+      "fetched": "2026-08-24T13:36:02.670158+07:00"
+    },
+    {
+      "id": "58df32e0175dbc3de045d8d0176addd6",
+      "title": "Đội tuyển Việt Nam sắp có cầu thủ đầu tiên 3 lần vô địch ASEAN Cup",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-sap-co-cau-thu-dau-tien-3-lan-vo-dich-asean-cup-185260824122731634.htm",
+      "summary": "Nếu đội tuyển Việt Nam chinh phục thành công ASEAN Cup 2026, bóng đá nước nhà sẽ có cầu thủ đầu tiên 3 lần đoạt chiếc cúp danh giá này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T05:34:00+07:00",
+      "fetched": "2026-08-24T13:36:02.670319+07:00"
+    },
+    {
+      "id": "876e204815b13e210e4802ee7dfc6b09",
+      "title": "Cục CSGT làm mẫu cách chạy trên 'làn vượt xe' cao tốc, tài xế nên xem kỹ",
+      "link": "https://thanhnien.vn/cuc-csgt-lam-mau-cach-chay-tren-lan-vuot-xe-cao-toc-tai-xe-nen-xem-ky-185260823074049753.htm",
+      "summary": "Cục CSGT mới đây trực tiếp lái ô tô làm mẫu các tình huống chuyển làn, vượt xe trên cao tốc, giúp tài xế dễ hình dung cách sử dụng làn đường sát dải phân cách giữa theo phương thức tổ chức giao thông mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T05:34:00+07:00",
+      "fetched": "2026-08-24T13:36:02.670467+07:00"
+    },
+    {
+      "id": "80efbe98680ab39577469213f02090e8",
+      "title": "Giúp đỡ ông lão bất tỉnh, chủ quán bị đòi bồi thường",
+      "link": "https://vnexpress.net/giup-do-ong-lao-bat-tinh-chu-quan-bi-doi-boi-thuong-5112700.html",
+      "summary": "Người đàn ông đang ngồi nghỉ trong quán bỗng gục xuống rồi qua đời tại bệnh viện, gia đình ông đòi chủ quán bồi thường 100.000 nhân dân tệ vì đã đỡ ông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T05:33:06+07:00",
+      "fetched": "2026-08-24T13:36:00.109926+07:00"
+    },
+    {
+      "id": "447a30239ccd85bd4e159968ac54d69f",
+      "title": "Angela Phương Trinh gây chú ý",
+      "link": "https://thanhnien.vn/angela-phuong-trinh-gay-chu-y-185260824113324759.htm",
+      "summary": "Thời gian gần đây, Angela Phương Trinh thường xuyên xuất hiện với diện mạo cá tính, khác biệt so với hình ảnh quen thuộc trước đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T05:32:00+07:00",
+      "fetched": "2026-08-24T13:36:02.670623+07:00"
+    },
+    {
+      "id": "86e4434b0265dc5eebf12303e6981eb1",
+      "title": "Những điều phụ nữ nên làm để ngủ ngon",
+      "link": "https://vnexpress.net/nhung-dieu-phu-nu-nen-lam-de-ngu-ngon-5112131.html",
+      "summary": "Duy trì giờ ngủ ổn định, hạn chế cà phê vào chiều tối, tránh nghĩ về công việc trước khi ngủ và giữ phòng ngủ yên tĩnh giúp phụ nữ ngon giấc hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T05:30:00+07:00",
+      "fetched": "2026-08-24T13:36:00.110135+07:00"
+    },
+    {
+      "id": "b02701b4b0ec73f49f4b6073b177065f",
+      "title": "Những điểm dị thường khiến bão Narra gây mưa lớn",
+      "link": "https://vnexpress.net/nhung-diem-di-thuong-khien-bao-narra-gay-mua-lon-5112720.html",
+      "summary": "Gần như đứng yên ở Vịnh Bắc Bộ do tương tác bão đôi hiếm gặp, bão Narra trút mưa tới 600 mm trong ba ngày, bằng 1/4 cả năm, gây ngập diện rộng miền Bắc, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T05:29:16+07:00",
+      "fetched": "2026-08-24T13:36:00.110318+07:00"
+    },
+    {
+      "id": "1345c0806bda890043424f1d4e3553cd",
+      "title": "Khi Đà Lạt trở thành giảng đường, di sản kiến trúc thành chất liệu sáng tạo",
+      "link": "https://thanhnien.vn/khi-da-lat-tro-thanh-giang-duong-di-san-kien-truc-thanh-chat-lieu-sang-tao-185260824111836469.htm",
+      "summary": "Festival Thiết kế và nghệ thuật Đà Lạt 2026 đưa 132 sinh viên từ 9 trường đại học ra khỏi không gian studio quen thuộc để trực tiếp quan sát, trải nghiệm và sáng tạo từ di sản, kiến trúc, cảnh quan và đời sống của phố núi Đà Lạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T05:29:00+07:00",
+      "fetched": "2026-08-24T13:36:02.670776+07:00"
+    },
+    {
+      "id": "635064ebf8de9e2612bbf608c4182abe",
+      "title": "TP HCM sẽ biệt phái bác sĩ bệnh viện làm giám đốc trạm y tế 3-5 năm",
+      "link": "https://vnexpress.net/tp-hcm-se-biet-phai-bac-si-benh-vien-lam-giam-doc-tram-y-te-3-5-nam-5112610.html",
+      "summary": "Để y tế cơ sở không đơn độc, TP HCM sẽ biệt phái bác sĩ bệnh viện tuyến trên về trạm y tế làm giám đốc trong 3-5 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T05:26:14+07:00",
+      "fetched": "2026-08-24T13:36:00.110479+07:00"
+    },
+    {
+      "id": "d6a177913bacf6cb39ef570fb7358b00",
+      "title": "5 điều kiện để cán bộ 'dám nghĩ, dám làm' không bị truy cứu hình sự",
+      "link": "https://vnexpress.net/5-dieu-kien-de-can-bo-dam-nghi-dam-lam-khong-bi-truy-cuu-hinh-su-5112588.html",
+      "summary": "Cán bộ, tổ chức và cá nhân có vi phạm không bị truy cứu trách nhiệm hình sự nếu hành động vì lợi ích chung, không tham nhũng và đáp ứng đầy đủ các điều kiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T05:11:04+07:00",
+      "fetched": "2026-08-24T13:36:00.110632+07:00"
+    },
+    {
+      "id": "21264d3eda937862f164d8ea2371309b",
+      "title": "Camera ghi cảnh đá lăn xuyên thủng nhà, đè bẹp ôtô",
+      "link": "https://vnexpress.net/camera-ghi-canh-da-lan-xuyen-thung-nha-de-bep-oto-5112665.html",
+      "summary": "Nhiều tảng đá từ trên núi lăn xuống đoạn đường dài khoảng 300 m, rơi trúng 5 nhà dân ở thôn Núi Đá, xã Chi Lăng, tối 23/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T05:08:20+07:00",
+      "fetched": "2026-08-24T13:36:00.110790+07:00"
+    },
+    {
+      "id": "3448a0d0771d38b0d7c09be31bef3c37",
+      "title": "Lồng đèn 'Cóc kiện trời' cao gần 3 m trong ngôi đình trăm tuổi tại TP HCM",
+      "link": "https://vnexpress.net/long-den-coc-kien-troi-cao-gan-3-m-trong-ngoi-dinh-tram-tuoi-tai-tp-hcm-5112362.html",
+      "summary": "Cụm lồng đèn được làm bằng nan trúc, giấy dó, tái hiện truyện dân gian trong không gian đình Sơn Trà hơn 160 năm tuổi ở TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T05:01:54+07:00",
+      "fetched": "2026-08-24T13:36:00.110957+07:00"
+    },
+    {
+      "id": "f739e418c6bdb425b545a2acc5cfcf65",
+      "title": "Ung thư 'ẩn' trong khối u lành tính",
+      "link": "https://vnexpress.net/ung-thu-an-trong-khoi-u-lanh-tinh-5112554.html",
+      "summary": "Bà Ngọc, 65 tuổi, được phẫu thuật loại bỏ u tuyến mang tai lành tính, kết quả giải phẫu bệnh lần hai khi bóc tách sâu hơn, xác định ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T05:00:00+07:00",
+      "fetched": "2026-08-24T13:36:00.111132+07:00"
+    },
+    {
+      "id": "3a84e8d9ce026b2437eccd19df185419",
+      "title": "Phát hiện ung thư gan sau hai năm viêm gan B",
+      "link": "https://vnexpress.net/phat-hien-ung-thu-gan-sau-hai-nam-viem-gan-b-5112552.html",
+      "summary": "Ông Sáng, 47 tuổi, sau hai năm phát hiện viêm gan B được bác sĩ chẩn đoán ung thư gan giai đoạn sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T05:00:00+07:00",
+      "fetched": "2026-08-24T13:36:00.111299+07:00"
+    },
+    {
+      "id": "80bd008d3368494927038883a903991e",
+      "title": "Đường sắt Lào Cai - Hà Nội - Hải Phòng tăng vốn thêm 86.100 tỷ đồng",
+      "link": "https://vnexpress.net/duong-sat-lao-cai-ha-noi-hai-phong-tang-von-them-86-100-ty-dong-5112681.html",
+      "summary": "Dự án đường sắt Lào Cai - Hà Nội - Hải Phòng tăng vốn lên 289.339 tỷ đồng, bổ sung tuyến nhánh và đầu tư đường đôi trên đoạn Hà Nội - Hải Phòng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T04:59:09+07:00",
+      "fetched": "2026-08-24T13:36:00.111457+07:00"
+    },
+    {
+      "id": "ccb999d3d82ee2b93504cd4af578a852",
+      "title": "Trung Quốc hoãn phóng tàu tìm băng nước trên Mặt Trăng",
+      "link": "https://vnexpress.net/trung-quoc-hoan-phong-tau-tim-bang-nuoc-tren-mat-trang-5112689.html",
+      "summary": "Nhiệm vụ Hằng Nga 7 nhằm tìm kiếm băng nước ở cực nam Mặt Trăng bị hoãn do không đáp ứng điều kiện phóng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-24T04:50:19+07:00",
+      "fetched": "2026-08-24T13:36:09.324966+07:00"
+    },
+    {
       "id": "9d678616a451ce1d681398464afdd8e3",
       "title": "TP.HCM lần đầu xây chuẩn riêng cho khách sạn thông minh, xanh và độc đáo",
       "link": "https://thanhnien.vn/tphcm-lan-dau-xay-chuan-rieng-cho-khach-san-thong-minh-xanh-va-doc-dao-185260824112931902.htm",
@@ -161,6 +621,16 @@ window.newsData_2026_08_24 = {
       "category": "Tổng hợp",
       "published": "2026-08-24T04:33:00+07:00",
       "fetched": "2026-08-24T11:34:53.578591+07:00"
+    },
+    {
+      "id": "e26146aa91402cfe1d63cb857cd1a60d",
+      "title": "Nỗi bàng hoàng của fan ông Trump khi vợ bị ICE bắt ở sân bay",
+      "link": "https://vnexpress.net/noi-bang-hoang-cua-fan-ong-trump-khi-vo-bi-ice-bat-o-san-bay-5111225.html",
+      "summary": "Brent Jindra, người ba lần bỏ phiếu cho Tổng thống Trump vì chính sách nhập cư cứng rắn, chưa bao giờ nghĩ rằng một ngày chính vợ mình nằm trong tầm ngắm của chiến dịch.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-24T04:31:05+07:00",
+      "fetched": "2026-08-24T13:36:05.708003+07:00"
     },
     {
       "id": "92fd1cb8d3130e8d7554d6c5349edb76",
@@ -371,6 +841,26 @@ window.newsData_2026_08_24 = {
       "category": "Tổng hợp",
       "published": "2026-08-24T03:40:47+07:00",
       "fetched": "2026-08-24T11:34:50.768054+07:00"
+    },
+    {
+      "id": "2a7b39ecd336ddc439faaf384abcae71",
+      "title": "Thường trực Ban Bí thư Trần Cẩm Tú lên đường thăm Singapore",
+      "link": "https://vnexpress.net/thuong-truc-ban-bi-thu-tran-cam-tu-len-duong-tham-singapore-5112669.html",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú rời Hà Nội, lên đường thăm chính thức Singapore và đồng chủ trì Đối thoại Chiến lược Việt Nam - Singapore lần thứ nhất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-24T03:40:30+07:00",
+      "fetched": "2026-08-24T13:36:05.708203+07:00"
+    },
+    {
+      "id": "2a7b39ecd336ddc439faaf384abcae71",
+      "title": "Thường trực Ban Bí thư Trần Cẩm Tú lên đường thăm Singapore",
+      "link": "https://vnexpress.net/thuong-truc-ban-bi-thu-tran-cam-tu-len-duong-tham-singapore-5112669.html",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú rời Hà Nội, lên đường thăm chính thức Singapore và đồng chủ trì Đối thoại Chiến lược Việt Nam - Singapore lần thứ nhất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-24T03:40:30+07:00",
+      "fetched": "2026-08-24T13:36:09.325333+07:00"
     },
     {
       "id": "1043129c52655c74791541d407582206",
@@ -1403,6 +1893,16 @@ window.newsData_2026_08_24 = {
       "fetched": "2026-08-24T07:41:18.537492+07:00"
     },
     {
+      "id": "1bbf56cdf0b70667175fe41ada38d2e3",
+      "title": "Tiền đạo Thái Lan quyết 'lấy Cup khỏi Việt Nam'",
+      "link": "https://vnexpress.net/tien-dao-thai-lan-quyet-lay-cup-khoi-viet-nam-5112499.html",
+      "summary": "Yotsakorn Burapha khẳng định các cầu thủ Thái Lan chưa bỏ cuộc và muốn làm nên lịch sử tại Việt Nam ở lượt về chung kết ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-23T22:49:17+07:00",
+      "fetched": "2026-08-24T13:36:10.511773+07:00"
+    },
+    {
       "id": "af6381fbe9b16eeed65ef34e580f0bcb",
       "title": "Sydney Marathon khắc nhầm SVĐ Munich lên huy chương",
       "link": "https://vnexpress.net/sydney-marathon-khac-nham-svd-munich-len-huy-chuong-5112513.html",
@@ -1971,6 +2471,16 @@ window.newsData_2026_08_24 = {
       "category": "Thế giới",
       "published": "2026-08-23T16:01:24+07:00",
       "fetched": "2026-08-24T01:14:48.602149+07:00"
+    },
+    {
+      "id": "d3fa850b8f09b79eacc06145d568071b",
+      "title": "Ukraine để lộ ảnh xe phóng UAV bí mật bị Iskander-M đánh trúng",
+      "link": "https://vnexpress.net/ukraine-de-lo-anh-xe-phong-uav-bi-mat-bi-iskander-m-danh-trung-5112490.html",
+      "summary": "Truyền thông Ukraine công bố hiện trường địa điểm trúng tên lửa Iskander-M ở tỉnh Kiev, vô tình để lộ bằng chứng xe phóng UAV tầm xa bị phá hủy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-23T16:01:24+07:00",
+      "fetched": "2026-08-24T13:36:05.709801+07:00"
     },
     {
       "id": "ecc3ce6a5a3ba0fb14c001476162a68f",
