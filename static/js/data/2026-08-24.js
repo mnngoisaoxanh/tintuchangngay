@@ -1,7 +1,157 @@
 window.newsData_2026_08_24 = {
   "date": "2026-08-24",
-  "lastUpdated": "2026-08-24T07:41:18.543043+07:00",
+  "lastUpdated": "2026-08-24T09:55:11.904947+07:00",
   "articles": [
+    {
+      "id": "cc1c206ca89affce401a52d25a64d789",
+      "title": "Hà Nội dự tính hỗ trợ tối đa 6 triệu đồng cho hộ gia đình lắp điện mặt trời",
+      "link": "https://tuoitre.vn/ha-noi-du-tinh-ho-tro-toi-da-6-trieu-dong-cho-cho-ho-gia-dinh-lap-dien-mat-troi-100260824084250978.htm",
+      "summary": "UBND TP Hà Nội đề xuất hỗ trợ hộ gia đình lắp điện mặt trời mái nhà tự sản xuất, tự tiêu thụ, với mức tối đa 6 triệu đồng nếu lắp đặt đồng bộ hệ thống lưu trữ điện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T09:55:04.512926+07:00",
+      "fetched": "2026-08-24T09:55:04.512968+07:00"
+    },
+    {
+      "id": "bc270f3b29166c0207bbd55e8f48e434",
+      "title": "Sạt lở trên quốc lộ 16 ở Thanh Hóa, xe cộ tạm thời chưa đi lại được",
+      "link": "https://tuoitre.vn/sat-lo-tren-quoc-lo-16-o-thanh-hoa-xe-co-tam-thoi-chua-di-lai-duoc-100260824090921354.htm",
+      "summary": "Do mưa lớn kéo dài nhiều ngày qua, hàng chục mét khối đất đá sạt lở xuống quốc lộ 16, đoạn qua bản Bơn, xã vùng cao Mường Mìn, tỉnh Thanh Hóa khiến đoạn đường này đang bị ách tắc, xe cộ chưa thể đi qua được.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T09:55:04.512877+07:00",
+      "fetched": "2026-08-24T09:55:04.512919+07:00"
+    },
+    {
+      "id": "694cfb285a3c813a95b1dd6911b440b0",
+      "title": "TP.HCM 100 năm: Từ bản quy hoạch đến 'hệ điều hành' đô thị",
+      "link": "https://tuoitre.vn/tphcm-100-nam-tu-ban-quy-hoach-den-he-dieu-hanh-do-thi-100260823231255841.htm",
+      "summary": "Một thế kỷ là khoảng thời gian không một bản vẽ nào có thể dự báo chính xác. Vì vậy, câu hỏi lớn nhất đối với TP.HCM không phải là đến năm 2125 thành phố sẽ trông như thế nào, mà là: Thành phố sẽ vận hành và thích ứng ra sao trước những đổi thay chưa từng có?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T09:55:04.512832+07:00",
+      "fetched": "2026-08-24T09:55:04.512869+07:00"
+    },
+    {
+      "id": "5ab81fcccd4a056674a92670fca87c29",
+      "title": "Thót tim tại concert BigBang: G-DRAGON cứu quay phim thoát chết",
+      "link": "https://tuoitre.vn/thot-tim-tai-concert-bigbang-g-dragon-cuu-quay-phim-thoat-chet-100260824090500465.htm",
+      "summary": "G-DRAGON phát hiện một quay phim đang lùi sát mép sân khấu cao khoảng 2m trong concert kỷ niệm 20 năm BigBang và kịp thời giúp người này tránh ngã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T09:55:04.512785+07:00",
+      "fetched": "2026-08-24T09:55:04.512825+07:00"
+    },
+    {
+      "id": "627c044a8f0af6f157789661a4e6af3a",
+      "title": "Đắk Lắk chăm lo sinh kế, ngăn người hồi hương tái xuất cảnh trái phép",
+      "link": "https://tuoitre.vn/dak-lak-cham-lo-sinh-ke-ngan-nguoi-hoi-huong-tai-xuat-canh-trai-phep-100260824083151903.htm",
+      "summary": "Đắk Lắk đang rà soát từng trường hợp công dân hồi hương, hỗ trợ việc làm, học nghề, sinh kế và an sinh xã hội nhằm giúp người dân ổn định cuộc sống, hạn chế nguy cơ tiếp tục xuất cảnh trái phép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T09:55:04.512736+07:00",
+      "fetched": "2026-08-24T09:55:04.512778+07:00"
+    },
+    {
+      "id": "d471b8c4a7449677c2f86e0a8d6c4ace",
+      "title": "Ngắm nhìn những đàn bồ câu thân thiện giữa trung tâm TP.HCM",
+      "link": "https://tuoitre.vn/ngam-nhin-nhung-dan-bo-cau-than-thien-giua-trung-tam-tphcm-10026082319491789.htm",
+      "summary": "Từ phố đi bộ Nguyễn Huệ, công viên Lam Sơn, công viên Lê Văn Tám..., phóng viên Tuổi Trẻ đã có mặt để cảm nhận nhịp sống, ghi lại những hình ảnh thân thương của loài chim biểu tượng cho sự bình yên của TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T09:55:04.512687+07:00",
+      "fetched": "2026-08-24T09:55:04.512729+07:00"
+    },
+    {
+      "id": "007b64aab929214ffa8435c96f55d786",
+      "title": "Vụ ngôi nhà bán giá 1 triệu đồng: Kết quả thẩm định trị giá hơn 1 triệu đô la Mỹ",
+      "link": "https://tuoitre.vn/vu-ngoi-nha-ban-gia-1-trieu-dong-ket-qua-tham-dinh-tri-gia-hon-1-trieu-do-la-my-100260824091103558.htm",
+      "summary": "Liên quan vụ ngôi nhà ở Đà Nẵng được ghi giá chuyển nhượng 1 triệu đồng, thẩm định giá mới đây thể hiện giá trị ngôi nhà hơn 1 triệu USD (29,5 tỉ đồng).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T09:55:04.512638+07:00",
+      "fetched": "2026-08-24T09:55:04.512679+07:00"
+    },
+    {
+      "id": "644a5a75d89ac14bf26cbc4b2da9d6fd",
+      "title": "Nội bộ Mỹ e ngại thương chiến với Canada, khi cả quốc kỳ cũng không thoát thuế",
+      "link": "https://tuoitre.vn/noi-bo-my-e-ngai-thuong-chien-voi-canada-khi-ca-quoc-ky-cung-khong-thoat-thue-100260824091918646.htm",
+      "summary": "Nhiều chính sách từ cả hai chính đảng Mỹ e ngại hậu quả từ thương chiến Mỹ - Canada.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T09:55:04.512591+07:00",
+      "fetched": "2026-08-24T09:55:04.512631+07:00"
+    },
+    {
+      "id": "fc3feffdcd0c61b1c34a6b936831575c",
+      "title": "Đứt rời thần kinh tọa, người công nhân được nối dây thần kinh giữ lại cơ hội đi lại",
+      "link": "https://tuoitre.vn/dut-roi-than-kinh-toa-nguoi-cong-nhan-duoc-noi-day-than-kinh-giu-lai-co-hoi-di-lai-100260824090555695.htm",
+      "summary": "Một nam công nhân 37 tuổi được chuyển đến Bệnh viện Hữu nghị Việt Đức trong tình trạng đa chấn thương sau tai nạn lao động tại mỏ than. Một khối đá lớn đè trực tiếp vào vùng mông gây vết thương hở rộng, dập nát nghiêm trọng phần mềm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T09:55:04.512542+07:00",
+      "fetched": "2026-08-24T09:55:04.512585+07:00"
+    },
+    {
+      "id": "b892a90a2256247cf56d8ef1ae786f44",
+      "title": "Tỉ lệ ủng hộ nội các của bà Takaichi giảm xuống thấp nhất kể từ khi nhậm chức",
+      "link": "https://tuoitre.vn/ti-le-ung-ho-noi-cac-cua-ba-takaichi-giam-xuong-thap-nhat-ke-tu-khi-nham-chuc-100260824092901613.htm",
+      "summary": "Tỉ lệ ủng hộ nội các của bà Takaichi Sanae tiếp tục giảm do lo ngại rủi ro tài chính công từ chính sách giảm thuế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T09:55:04.512493+07:00",
+      "fetched": "2026-08-24T09:55:04.512535+07:00"
+    },
+    {
+      "id": "b3666eaaa0d0074c04c190c131d98883",
+      "title": "Học sinh lớp 1 ngỡ ngàng với cách đón tiếp ấn tượng của nhà trường",
+      "link": "https://tuoitre.vn/hoc-sinh-lop-1-ngo-ngang-voi-cach-don-tiep-an-tuong-cua-nha-truong-100260824092221973.htm",
+      "summary": "Hơn 300 học sinh lớp 1, Trường tiểu học Nguyễn Bỉnh Khiêm, TP.HCM đã có ngày đầu đến trường thật đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T09:55:04.512441+07:00",
+      "fetched": "2026-08-24T09:55:04.512485+07:00"
+    },
+    {
+      "id": "792916c03241717c9ffcac9cdf806308",
+      "title": "Chê HLV Hudson 'kém tài' so với Kim Sang Sik, chuyên gia Thái Lan kêu gọi Kiatisak trở lại",
+      "link": "https://tuoitre.vn/che-hlv-hudson-kem-tai-so-voi-kim-sang-sik-chuyen-gia-thai-lan-keu-goi-kiatisak-tro-lai-100260824093222412.htm",
+      "summary": "Chuyên gia bóng đá Thái Lan B.Bang Pakong cho rằng HLV Anthony Hudson không tài năng bằng ông Kim Sang Sik dẫn đến thất bại 0-2 của Thái Lan trước Việt Nam ở chung kết lượt đi ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T09:55:04.512387+07:00",
+      "fetched": "2026-08-24T09:55:04.512433+07:00"
+    },
+    {
+      "id": "b4f1a94609e9df29d3f18f432396747d",
+      "title": "Truy tìm nghi phạm đâm chết em trai rồi bỏ trốn",
+      "link": "https://tuoitre.vn/truy-tim-nghi-pham-dam-chet-em-trai-roi-bo-tron-10026082408573285.htm",
+      "summary": "Đâm chết em trai trong đêm, nghi phạm ở xã biên giới Nghệ An cầm dao bỏ trốn. Công an địa phương phát thông báo truy tìm trên toàn quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T09:55:04.512329+07:00",
+      "fetched": "2026-08-24T09:55:04.512379+07:00"
+    },
+    {
+      "id": "44f81cb8492e1785939819a1879b4f5c",
+      "title": "Lần hiếm hoi Hayao Miyazaki hài lòng với phim của con trai",
+      "link": "https://tuoitre.vn/lan-hiem-hoi-hayao-miyazaki-hai-long-voi-phim-cua-con-trai-100260824002304191.htm",
+      "summary": "Phim ngắn A Night in the Valley of Witches của Goro Miyazaki nhận phản ứng tích cực từ Hayao Miyazaki, người vốn nổi tiếng khắt khe với các tác phẩm của con trai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T09:55:04.512254+07:00",
+      "fetched": "2026-08-24T09:55:04.512320+07:00"
+    },
+    {
+      "id": "cd2d12cf793bad9c348f06f692bfacfc",
+      "title": "Trung Quốc bất ngờ hoãn sứ mệnh lên Mặt trăng",
+      "link": "https://tuoitre.vn/trung-quoc-bat-ngo-hoan-su-menh-len-mat-trang-100260824092117896.htm",
+      "summary": "Sứ mệnh Chang'e-7 nhằm tìm kiếm nước ở cực nam Mặt trăng bị hoãn, chưa đầy hai tuần sau khi một tên lửa Trung Quốc gặp sự cố khi phóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T09:55:04.512108+07:00",
+      "fetched": "2026-08-24T09:55:04.512243+07:00"
+    },
     {
       "id": "e574b011095c5fa3de2e85e4de9df664",
       "title": "TP.HCM tưởng niệm 65 năm thảm họa chất độc da cam/dioxin: Những câu chuyện lay động lương tri",
@@ -31,6 +181,196 @@ window.newsData_2026_08_24 = {
       "category": "Tổng hợp",
       "published": "2026-08-24T03:11:17.639968+07:00",
       "fetched": "2026-08-24T03:11:17.640113+07:00"
+    },
+    {
+      "id": "1089b0a82881a9cdaf25c3c3e87a3412",
+      "title": "Lũ sông Cầu vượt báo động, dân Thái Nguyên xuyên đêm đưa ô tô đi tránh lũ",
+      "link": "https://thanhnien.vn/lu-song-cau-vuot-bao-dong-dan-thai-nguyen-xuyen-dem-dua-o-to-di-tranh-lu-185260824093001143.htm",
+      "summary": "Lũ sông Cầu vượt báo động 2, lo ngại lũ về trong đêm, người dân ở nhiều phường tại Thái Nguyên hối hả đưa ô tô, xe máy đến nhà hàng, trường học, doanh nghiệp gửi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T02:44:00+07:00",
+      "fetched": "2026-08-24T09:55:02.761001+07:00"
+    },
+    {
+      "id": "713019546d19db6730e1073f39bb8f0a",
+      "title": "Kết quả thi tốt nghiệp THPT 2025-2026: Điểm môn ngữ văn 29/34 địa phương giảm, vì sao?",
+      "link": "https://thanhnien.vn/ket-qua-thi-tot-nghiep-thpt-2025-2026-diem-mon-ngu-van-29-34-dia-phuong-giam-vi-sao-185260824094232649.htm",
+      "summary": "Kết quả môn ngữ văn 2 năm 2025-2026 cho thấy kiểm tra, đánh giá theo Chương trình giáo dục phổ thông 2018 đang chuyển mạnh từ kiểm tra kiến thức sang đánh giá năng lực, với trọng tâm là tư duy, chính kiến, sáng tạo và khả năng vận dụng thực tiễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T02:43:00+07:00",
+      "fetched": "2026-08-24T09:55:02.761155+07:00"
+    },
+    {
+      "id": "6400460fd4313083e383ac974be57b16",
+      "title": "Chung kết lượt về ASEAN Cup 2026 đại chiến Thái Lan, HLV Kim Sang-sik còn bất ngờ nào nữa?",
+      "link": "https://thanhnien.vn/chung-ket-luot-ve-asean-cup-2026-gap-thai-lan-hlv-kim-sang-sik-con-bat-ngo-nao-nua-185260824093520287.htm",
+      "summary": "Sau những tính toán thần sầu đem về chiến thắng 2-0 trong trận chung kết lượt đi ASEAN Cup 2026, người ta chờ thêm 'ma thuật đen' của HLV Kim Sang-sik để đội tuyển Việt Nam đánh bại Thái Lan tại Mỹ Đình ngày 26.8 tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T02:43:00+07:00",
+      "fetched": "2026-08-24T09:55:02.761294+07:00"
+    },
+    {
+      "id": "d3d238f1abba145d987de38888991a1f",
+      "title": "Đá lớn lăn thẳng xuống nhà dân tại Lạng Sơn, 14 hộ gặp nguy hiểm",
+      "link": "https://thanhnien.vn/da-lon-lan-thang-xuong-nha-dan-tai-lang-son-14-ho-gap-nguy-hiem-185260824090437817.htm",
+      "summary": "Đêm 23.8, tại Chi Lăng (Lạng Sơn) xảy ra sự cố sạt lở đá khối lượng lớn, có 14 hộ gia đình nằm trong khu vực nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T02:41:00+07:00",
+      "fetched": "2026-08-24T09:55:02.761457+07:00"
+    },
+    {
+      "id": "2f9382746a64c29a664cddd78453124e",
+      "title": "Di chuyển 2 di tích tại Bắc Ninh để làm đường kết nối sân bay Gia Bình",
+      "link": "https://thanhnien.vn/di-chuyen-2-di-tich-tai-bac-ninh-de-lam-duong-ket-noi-san-bay-gia-binh-185260824091613454.htm",
+      "summary": "Với đa số đại biểu tán thành, sáng 24.8, Quốc hội đã biểu quyết thông qua nghị quyết áp dụng cơ chế, chính sách di chuyển 2 di tích tại Bắc Ninh để làm dự án đường kết nối sân bay Gia Bình về Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T02:32:00+07:00",
+      "fetched": "2026-08-24T09:55:02.761595+07:00"
+    },
+    {
+      "id": "52bebf718e185af3bd18c687b942d757",
+      "title": "Sao 'Running man' Song Ji Hyo: 'Tôi không thể theo kịp Lê Dương Bảo Lâm'",
+      "link": "https://thanhnien.vn/sao-running-man-song-ji-hyo-toi-khong-the-theo-kip-le-duong-bao-lam-185260823090523457.htm",
+      "summary": "Song Ji Hyo dành nhiều lời khen cho dàn cast Việt Nam tại 'Mợ ngố khen ngon' mùa 2, trong đó Lê Dương Bảo Lâm để lại ấn tượng đặc biệt với nữ diễn viên Hàn Quốc nhờ sự hài hước, nhiệt tình và nguồn năng lượng luôn tràn đầy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T02:30:00+07:00",
+      "fetched": "2026-08-24T09:55:02.761719+07:00"
+    },
+    {
+      "id": "036401d039a9e2fe99b91421119d5727",
+      "title": "TP.HCM: Không biến trạm y tế thành ‘bệnh viện thu nhỏ’",
+      "link": "https://thanhnien.vn/tphcm-khong-bien-tram-y-te-thanh-benh-vien-thu-nho-185260824083719969.htm",
+      "summary": "TP.HCM sẽ đưa bác sĩ bệnh viện về trạm y tế, tăng kết nối chuyên môn, quản trị, hướng tới mạng lưới chăm sóc sức khỏe gần dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T02:22:00+07:00",
+      "fetched": "2026-08-24T09:55:02.761841+07:00"
+    },
+    {
+      "id": "f1d8b7b781ea945710fa5e3327626a28",
+      "title": "HLV Kim Sang-sik chuẩn bị cho trận thắng Thái Lan từ lúc  đấu… Campuchia và Timor Leste",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-chuan-bi-cho-tran-thang-thai-lan-tu-luc-dau-campuchia-va-timor-leste-185260823181543803.htm",
+      "summary": "Những gì diễn ra trong trận đấu với Thái Lan tương tự như một phần kịch bản của trận gặp Campuchia và Timor Leste ở vòng bảng. Điều đó cho thấy HLV Kim Sang-sik chuẩn bị cho chiến thắng trước Thái Lan kỹ như thế nào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T02:22:00+07:00",
+      "fetched": "2026-08-24T09:55:02.761965+07:00"
+    },
+    {
+      "id": "b3778ff9e90fbb60a883d8967bcebd98",
+      "title": "Báo Thái Lan thừa nhận, kỷ nguyên bất bại của đội tuyển Việt Nam sẽ tiếp tục",
+      "link": "https://thanhnien.vn/bao-thai-lan-thua-nhan-ky-nguyen-bat-bai-cua-doi-tuyen-viet-nam-se-tiep-tuc-185260824090810349.htm",
+      "summary": "Theo Siamsport, cơ hội để đội tuyển Việt Nam gia tăng kỷ lục bất bại và lên ngôi vô địch ASEAN Cup lần thứ 4 trong lịch sử cực kỳ lớn, sau khi thắng Thái Lan tỷ số 2-0 lượt đi và chuẩn bị trận lượt về sân nhà ngày 26.8 tới đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T02:18:00+07:00",
+      "fetched": "2026-08-24T09:55:02.762089+07:00"
+    },
+    {
+      "id": "840808bf0e62dbe6d797db1f7529981d",
+      "title": "Trì nặng bụng dưới, người phụ nữ phát hiện khối u buồng trứng 13 cm",
+      "link": "https://thanhnien.vn/tri-nang-bung-duoi-nguoi-phu-nu-phat-hien-khoi-u-buong-trung-13-cm-185260824092259809.htm",
+      "summary": "Một phụ nữ 37 tuổi, từng 4 lần mổ lấy thai, vừa được các bác sĩ Bệnh viện Đại học Y khoa Phan Châu Trinh phẫu thuật nội soi thành công khối u bì buồng trứng kích thước 12 x 13 cm trong bối cảnh vùng chậu dính nhiều sau các lần phẫu thuật trước. Ca mổ diễn ra thuận lợi, người bệnh hồi phục tốt và xuấ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T02:12:00+07:00",
+      "fetched": "2026-08-24T09:55:02.762213+07:00"
+    },
+    {
+      "id": "516be6945c02696e374f38aa81f795aa",
+      "title": "Samsung có thể thay đổi thiết kế Galaxy S27 Ultra",
+      "link": "https://thanhnien.vn/samsung-co-the-thay-doi-thiet-ke-galaxy-s27-ultra-185260824080117146.htm",
+      "summary": "Samsung có thể thay đổi thiết kế Galaxy S27 Ultra, với nhiều chi tiết mới khiến mẫu flagship này trông giống iPhone hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T02:05:00+07:00",
+      "fetched": "2026-08-24T09:55:02.762349+07:00"
+    },
+    {
+      "id": "baa183e6c427ccf2de2de25a4c040d7e",
+      "title": "Đông nghịt người check - in phố lồng đèn Lương Nhữ Học, lên hình đẹp như phim",
+      "link": "https://thanhnien.vn/dong-nghit-nguoi-check-in-pho-long-den-luong-nhu-hoc-len-hinh-dep-nhu-phim-185260823225149749.htm",
+      "summary": "Những ngày cận trung thu, phố lồng đèn Lương Nhữ Học, phường Chợ Lớn, TP.HCM trở nên rực rỡ với những dãy lồng đèn đủ màu sắc. Không chỉ người dân đến tham quan, nhiều bạn trẻ cũng đến đây để check-in và cảm nhận không khí trung thu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T02:00:00+07:00",
+      "fetched": "2026-08-24T09:55:02.762473+07:00"
+    },
+    {
+      "id": "ea531295110912bffdd772994a63345d",
+      "title": "Cô hiệu trưởng và hành trình lan tỏa những điều tử tế",
+      "link": "https://thanhnien.vn/co-hieu-truong-va-hanh-trinh-lan-toa-nhung-dieu-tu-te-185260820130856488.htm",
+      "summary": "Trong cuộc đời, có những người không chỉ truyền cảm hứng mà còn khiến ta hiểu sâu sắc hơn giá trị của sống đẹp. Với tôi, cô Trần Thị Thanh Thẩm - Hiệu trưởng Trường tiểu học Nguyễn Trãi (xã Quảng Phú, tỉnh Đắk Lắk) là một người như thế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T02:00:00+07:00",
+      "fetched": "2026-08-24T09:55:02.762593+07:00"
+    },
+    {
+      "id": "a087243f53c91fa58cc5540791c88a7f",
+      "title": "Võ Hạ Trâm, Tùng Dương, Hương Tràm thăng hoa cùng 40.000 khán giả tại 'Tổ quốc trong tim'",
+      "link": "https://thanhnien.vn/vo-ha-tram-tung-duong-huong-tram-thang-hoa-cung-40000-khan-gia-taito-quoc-trong-tim-185260824084602706.htm",
+      "summary": "Đêm nghệ thuật chính luận 'Tổ quốc trong tim' thăng hoa với màn trình diễn của Tùng Dương, Võ Hạ Trâm, Hương Tràm, Noo Phước Thịnh, SOOBIN... cùng hàng chục ngàn khán giả, tạo nên bản hòa ca rực rỡ, lan tỏa niềm tự hào dân tộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T01:56:00+07:00",
+      "fetched": "2026-08-24T09:55:02.762715+07:00"
+    },
+    {
+      "id": "20f45970ce91a4a2b638f46e44af6578",
+      "title": "Tổng thống Zelensky tiết lộ từng bẽ mặt trước ông Trump vì trùm drone Ukraine",
+      "link": "https://vnexpress.net/tong-thong-zelensky-tiet-lo-tung-be-mat-truoc-ong-trump-vi-trum-drone-ukraine-5112547.html",
+      "summary": "Tổng thống Ukraine lần đầu công khai chi tiết bất đồng với cựu bộ trưởng quốc phòng, trong đó có trường hợp thông tin sai về Starlink khiến ông khó xử giữa Nhà Trắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T01:54:07+07:00",
+      "fetched": "2026-08-24T09:55:00.009001+07:00"
+    },
+    {
+      "id": "20f45970ce91a4a2b638f46e44af6578",
+      "title": "Tổng thống Zelensky tiết lộ từng bẽ mặt trước ông Trump vì trùm drone Ukraine",
+      "link": "https://vnexpress.net/tong-thong-zelensky-tiet-lo-tung-be-mat-truoc-ong-trump-vi-trum-drone-ukraine-5112547.html",
+      "summary": "Tổng thống Ukraine lần đầu công khai chi tiết bất đồng với cựu bộ trưởng quốc phòng, trong đó có trường hợp thông tin sai về Starlink khiến ông khó xử giữa Nhà Trắng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-24T01:54:07+07:00",
+      "fetched": "2026-08-24T09:55:06.289724+07:00"
+    },
+    {
+      "id": "9291c3f3970f4532652c6fffec7a431f",
+      "title": "Những gương mặt từng hóa thân thành Công nương Diana ấn tượng nhất màn ảnh",
+      "link": "https://thanhnien.vn/nhung-guong-mat-tung-hoa-than-thanh-cong-nuong-diana-an-tuong-nhat-man-anh-185260824064557596.htm",
+      "summary": "Đã có rất nhiều nữ diễn viên tái hiện lại những giai đoạn khác nhau trong cuộc đời Công nương Diana, từ tác phẩm truyền hình, phim tiểu sử cho đến sân khấu Broadway.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T01:52:00+07:00",
+      "fetched": "2026-08-24T09:55:02.762834+07:00"
+    },
+    {
+      "id": "bb4ecbc3b5d3972390b0eb70faeebeff",
+      "title": "Xe máy ngã liên hoàn vì hai lỗi cơ bản khi đi trời mưa",
+      "link": "https://vnexpress.net/xe-may-nga-lien-hoan-vi-hai-loi-co-ban-khi-di-troi-mua-5112530.html",
+      "summary": "Lao qua vũng nước gặp ổ gà, hai người đi xe máy ngã lộn nhào, hôm 23/8 tại Quang Trung, Hà Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T01:46:07+07:00",
+      "fetched": "2026-08-24T09:55:00.009134+07:00"
+    },
+    {
+      "id": "858945e3a1db7deda0d5c49bfda1776b",
+      "title": "Cơ chế 'chữa lành' cơ thể của thói quen tắm suối nước nóng",
+      "link": "https://vnexpress.net/co-che-chua-lanh-co-the-cua-thoi-quen-tam-suoi-nuoc-nong-5112553.html",
+      "summary": "Tại Nhật Bản, suối nước nóng (Onsen) đang được ứng dụng rộng rãi như một liệu pháp y tế dự phòng nhằm giải quyết tình trạng căng thẳng mãn tính và các bệnh lý cơ xương khớp, tim mạch cho người dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T01:16:39+07:00",
+      "fetched": "2026-08-24T09:55:00.009252+07:00"
     },
     {
       "id": "4e6ec09756cbf978ad2e3b23f0b6118d",
@@ -181,6 +521,146 @@ window.newsData_2026_08_24 = {
       "category": "Tổng hợp",
       "published": "2026-08-24T01:14:47.227158+07:00",
       "fetched": "2026-08-24T01:14:47.227313+07:00"
+    },
+    {
+      "id": "a673880fa6266f4b972e69a7d7011dd1",
+      "title": "Hàng trăm người truy lùng nghi can giết em ruột rồi trốn vào rừng",
+      "link": "https://vnexpress.net/hang-tram-nguoi-truy-lung-nghi-can-giet-em-ruot-roi-tron-vao-rung-5112531.html",
+      "summary": "Hàng trăm người gồm công an, dân quân truy tìm Vừ Bá Lỉa - nghi can cầm dao đâm chết em trai, đang lẩn trốn trong rừng ở xã biên giới Na Ngoi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T01:13:57+07:00",
+      "fetched": "2026-08-24T09:55:00.009394+07:00"
+    },
+    {
+      "id": "b0cbab62b621561a3e15daf383e3937b",
+      "title": "'Đốt' não từ thói quen lướt TikTok vài phút trước ngủ",
+      "link": "https://vnexpress.net/dot-nao-tu-thoi-quen-luot-tiktok-vai-phut-truoc-ngu-5108230.html",
+      "summary": "Lướt điện thoại suốt đêm để thư giãn, Nam không thể đọc nổi một dòng lệnh đơn giản vào sáng hôm sau, dù anh là chuyên gia phân tích dữ liệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T01:03:32+07:00",
+      "fetched": "2026-08-24T09:55:00.009506+07:00"
+    },
+    {
+      "id": "524764b0b46d1f5005925e112aabd64c",
+      "title": "Gà mẹ tấn công rắn hổ ngựa khiến kẻ săn mồi phải tháo chạy",
+      "link": "https://vnexpress.net/ga-me-tong-tan-cong-ran-ho-ngua-man-bao-ve-dan-con-khien-ke-san-moi-phai-thao-chay-5112037.html",
+      "summary": "Thấy rắn hổ ngựa mò vào khu vực đàn con, gà mẹ lập tức lao tới tấn công quyết liệt, khiến kẻ săn mồi phải vội vàng rút lui.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T01:00:00+07:00",
+      "fetched": "2026-08-24T09:55:00.009619+07:00"
+    },
+    {
+      "id": "c50f55521f065eb52a0441502e782ecb",
+      "title": "Đắp lá cây có hết suy giãn tĩnh mạch?",
+      "link": "https://vnexpress.net/dap-la-cay-co-het-suy-gian-tinh-mach-5112529.html",
+      "summary": "Tôi bị suy giãn tĩnh mạch, mạch máu nổi ngoằn ngoèo ở chân, đau nhức khi đi lại. Có thể đắp lá cây, thuốc nam để cải thiện tình trạng này không? (Tâm, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T01:00:00+07:00",
+      "fetched": "2026-08-24T09:55:00.009725+07:00"
+    },
+    {
+      "id": "f69df827ff590c22521ae3fad5047a11",
+      "title": "Rung nhĩ, suy tim sau 10 năm hở van hai lá",
+      "link": "https://vnexpress.net/rung-nhi-suy-tim-sau-10-nam-ho-van-hai-la-5112526.html",
+      "summary": "Ông Thức, 62 tuổi, hở van hai lá 10 năm, nay khó thở, giảm khả năng gắng sức, bác sĩ chẩn đoán rung nhĩ, suy tim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T01:00:00+07:00",
+      "fetched": "2026-08-24T09:55:00.009829+07:00"
+    },
+    {
+      "id": "3212ad8b66493c34e22b4df72b4649e5",
+      "title": "Cận 12 độ kèm đục thủy tinh thể",
+      "link": "https://vnexpress.net/can-12-do-kem-duc-thuy-tinh-the-5112420.html",
+      "summary": "Đeo kính đúng độ cận nhưng mắt vẫn nhìn mờ, bà Tuyết, 47 tuổi, được chẩn đoán hai mắt đục thủy tinh thể độ 4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T01:00:00+07:00",
+      "fetched": "2026-08-24T09:55:00.009933+07:00"
+    },
+    {
+      "id": "0bae37b4181f097814ab64a54626df11",
+      "title": "'Sân bay Gia Bình có thể trở thành động lực tăng trưởng mới của toàn vùng'",
+      "link": "https://vnexpress.net/san-bay-gia-binh-co-the-tro-thanh-dong-luc-tang-truong-moi-cua-toan-vung-5112389.html",
+      "summary": "Theo chuyên gia, nếu phát triển đúng định hướng, sân bay quốc tế Gia Bình có thể tăng kết nối quốc tế, thúc đẩy logistics, thu hút các ngành giá trị cao, trở thành động lực tăng trưởng mới của vùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T01:00:00+07:00",
+      "fetched": "2026-08-24T09:55:00.010039+07:00"
+    },
+    {
+      "id": "58d5741e67f5b024b022f99d87df2699",
+      "title": "Phản vệ sau ăn tiệc",
+      "link": "https://vnexpress.net/phan-ve-sau-an-tiec-5112176.html",
+      "summary": "Ông Lân, 61 tuổi, ăn hải sản, uống rượu tại tiệc sau đó ngứa, đau bụng, buồn nôn, bác sĩ chẩn đoán sốc phản vệ độ ba chưa rõ dị nguyên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T01:00:00+07:00",
+      "fetched": "2026-08-24T09:55:00.010143+07:00"
+    },
+    {
+      "id": "a7eb211675147966efd12ef79a03f367",
+      "title": "Điểm nhấn trên xe tay ga thể thao SYM Naga 150",
+      "link": "https://vnexpress.net/diem-nhan-tren-xe-tay-ga-the-thao-sym-naga-150-5111957.html",
+      "summary": "SYM Naga lắp động cơ 150 cc, tích hợp phanh ABS 2 kênh, công nghệ kiểm soát độ bám đường TCS, hướng đến nhóm người dùng nam giới ưa trải nghiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T01:00:00+07:00",
+      "fetched": "2026-08-24T09:55:00.010251+07:00"
+    },
+    {
+      "id": "f829321aa2b1476b8799587d2d6b99af",
+      "title": "10 năm tự điều trị gout, người đàn ông biến dạng nhiều khớp",
+      "link": "https://vnexpress.net/10-nam-tu-dieu-tri-gout-nguoi-dan-ong-bien-dang-nhieu-khop-5111782.html",
+      "summary": "Mỗi khi gout tái phát, người đàn ông 32 tuổi ở Hà Nội đều tự uống thuốc giảm đau, khiến nhiều khớp biến dạng, cơ thể phù nề và tăng khoảng 20kg.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T01:00:00+07:00",
+      "fetched": "2026-08-24T09:55:00.010368+07:00"
+    },
+    {
+      "id": "0bae37b4181f097814ab64a54626df11",
+      "title": "'Sân bay Gia Bình có thể trở thành động lực tăng trưởng mới của toàn vùng'",
+      "link": "https://vnexpress.net/san-bay-gia-binh-co-the-tro-thanh-dong-luc-tang-truong-moi-cua-toan-vung-5112389.html",
+      "summary": "Theo chuyên gia, nếu phát triển đúng định hướng, sân bay quốc tế Gia Bình có thể tăng kết nối quốc tế, thúc đẩy logistics, thu hút các ngành giá trị cao, trở thành động lực tăng trưởng mới của vùng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-24T01:00:00+07:00",
+      "fetched": "2026-08-24T09:55:07.753714+07:00"
+    },
+    {
+      "id": "ba73fb07b618fb207a1ceaf3020b1614",
+      "title": "Vụ nữ nhân viên tố sếp quấy rối tình dục làm thay đổi luật Mỹ",
+      "link": "https://vnexpress.net/vu-nu-nhan-vien-to-sep-quay-roi-tinh-duc-lam-thay-doi-luat-my-5112509.html",
+      "summary": "Mechelle Vinson, nhân viên ngân hàng 19 tuổi, cáo buộc cấp trên nhiều lần quấy rối, cưỡng ép quan hệ tình dục. Sau nhiều năm kiện tụng, phán quyết năm 1986 trở thành án lệ nền tảng về quấy rối tình dục nơi công sở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T00:51:58+07:00",
+      "fetched": "2026-08-24T09:55:00.010481+07:00"
+    },
+    {
+      "id": "9eb3913c3955c036433171e8a356bc6e",
+      "title": "Ông Trump nói Canada muốn hưởng lợi 'như một bang của Mỹ'",
+      "link": "https://vnexpress.net/ong-trump-noi-canada-muon-huong-loi-nhu-mot-bang-cua-my-5112519.html",
+      "summary": "Ông Trump chỉ trích Canada muốn hưởng lợi ích từ Mỹ, giữa lúc căng thẳng thương mại leo thang do các đòn áp thuế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T00:49:16+07:00",
+      "fetched": "2026-08-24T09:55:00.010588+07:00"
+    },
+    {
+      "id": "9eb3913c3955c036433171e8a356bc6e",
+      "title": "Ông Trump nói Canada muốn hưởng lợi 'như một bang của Mỹ'",
+      "link": "https://vnexpress.net/ong-trump-noi-canada-muon-huong-loi-nhu-mot-bang-cua-my-5112519.html",
+      "summary": "Ông Trump chỉ trích Canada muốn hưởng lợi ích từ Mỹ, giữa lúc căng thẳng thương mại leo thang do các đòn áp thuế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-24T00:49:16+07:00",
+      "fetched": "2026-08-24T09:55:06.289849+07:00"
     },
     {
       "id": "181b3365727f104191b658c4927f9aa4",
@@ -361,6 +841,16 @@ window.newsData_2026_08_24 = {
       "category": "Thế giới",
       "published": "2026-08-23T23:52:09+07:00",
       "fetched": "2026-08-24T07:41:12.670891+07:00"
+    },
+    {
+      "id": "2daada01bace79151f32a880c6f732d1",
+      "title": "Nga không còn đại sứ ở Anh",
+      "link": "https://vnexpress.net/nga-khong-con-dai-su-o-anh-5112514.html",
+      "summary": "Đại sứ quán Nga tại Anh xác nhận không còn đại sứ tại nhiệm ở quốc gia này, cáo buộc London khiến quan hệ song phương xuống cấp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-23T23:52:09+07:00",
+      "fetched": "2026-08-24T09:55:06.290069+07:00"
     },
     {
       "id": "888e3a07108c99609949abe21a563301",
