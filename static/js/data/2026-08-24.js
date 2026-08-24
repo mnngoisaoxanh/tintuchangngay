@@ -1,6 +1,6 @@
 window.newsData_2026_08_24 = {
   "date": "2026-08-24",
-  "lastUpdated": "2026-08-24T05:11:41.262575+07:00",
+  "lastUpdated": "2026-08-24T07:41:18.543043+07:00",
   "articles": [
     {
       "id": "e574b011095c5fa3de2e85e4de9df664",
@@ -181,6 +181,356 @@ window.newsData_2026_08_24 = {
       "category": "Tổng hợp",
       "published": "2026-08-24T01:14:47.227158+07:00",
       "fetched": "2026-08-24T01:14:47.227313+07:00"
+    },
+    {
+      "id": "181b3365727f104191b658c4927f9aa4",
+      "title": "Uống cà phê thường xuyên: Bất ngờ về mỡ bụng và cơ bắp",
+      "link": "https://thanhnien.vn/uong-ca-phe-thuong-xuyen-bat-ngo-ve-mo-bung-va-co-bap-185260824074026455.htm",
+      "summary": "Ngoài tác dụng giúp tinh thần tỉnh táo, cà phê còn được các nhà khoa học quan tâm ở nhiều khía cạnh khác của sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T00:38:00+07:00",
+      "fetched": "2026-08-24T07:41:09.229346+07:00"
+    },
+    {
+      "id": "5b0cb50f66a94579cf7bba6fa91d34a7",
+      "title": "Tình tiết mới trong vụ Netflix làm mất ổ cứng chứa phim của tài tử Nicolas Cage",
+      "link": "https://thanhnien.vn/tinh-tiet-moi-trong-vu-netflix-lam-mat-o-cung-chua-phim-cua-tai-tu-nicolas-cage-185260824064048772.htm",
+      "summary": "Tranh chấp giữa nhà sản xuất Simon Afram và Netflix liên quan đến ổ cứng chứa bộ phim 'Fortitude' đã chuyển sang một diễn biến mới khi vụ việc được trình báo với cảnh sát Los Angeles (Mỹ), theo Los Angeles Times.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T00:38:00+07:00",
+      "fetched": "2026-08-24T07:41:09.229498+07:00"
+    },
+    {
+      "id": "e9b17e482eb64be7facfef1ca1243a45",
+      "title": "Mùa Vu lan: Xúc động hình ảnh cô bé 10 tuổi bật khóc nhớ mẹ đã khuất",
+      "link": "https://thanhnien.vn/mua-vu-lan-xuc-dong-hinh-anh-co-be-10-tuoi-bat-khoc-nho-me-da-khuat-185260824002203822.htm",
+      "summary": "Trong không khí trang nghiêm của đêm Vu lan báo hiếu, nhiều người bật khóc cài bông hồng lên ngực áo khi nhớ về đấng sinh thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T00:36:00+07:00",
+      "fetched": "2026-08-24T07:41:09.229630+07:00"
+    },
+    {
+      "id": "0bdd3156fd55f74e8af414f549ec852a",
+      "title": "Thường trực Ban Bí thư Trần Cẩm Tú lên đường thăm chính thức Singapore",
+      "link": "https://thanhnien.vn/thuong-truc-ban-bi-thu-tran-cam-tu-len-duong-tham-chinh-thuc-singapore-185260824025420077.htm",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú cùng Đoàn đại biểu cấp cao Đảng Cộng sản Việt Nam rời thủ đô Hà Nội lên đường thăm chính thức Singapore, đồng chủ trì Đối thoại chiến lược Việt Nam - Singapore lần thứ nhất giữa Đảng Cộng sản Việt Nam và Đảng Hành động Nhân dân Singapore.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T00:30:00+07:00",
+      "fetched": "2026-08-24T07:41:09.229756+07:00"
+    },
+    {
+      "id": "414dbf8c7b0aeb111af1d0c0320a9c65",
+      "title": "Phương Vy idol bất ngờ được chồng cầu hôn trên sân khấu",
+      "link": "https://thanhnien.vn/phuong-vy-idol-bat-ngo-duoc-chong-cau-hon-tren-san-khau-1852608232320002.htm",
+      "summary": "Khi trình diễn trong show thời trang 'MINHTUAN NO.05' của nhà thiết kế Nguyễn Minh Tuấn tại 'Vietnam wedding week 2026', ca sĩ Phương Vy vỡ òa hạnh phúc khi được chồng bất ngờ bước lên sân khấu cầu hôn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T00:30:00+07:00",
+      "fetched": "2026-08-24T07:41:09.229880+07:00"
+    },
+    {
+      "id": "c266bea99e365cc408e1ce979aaee985",
+      "title": "Trung Thủy Group mở bán lại dự án 'đất vàng' Nguyễn Tất Thành sau 10 năm đình trệ",
+      "link": "https://vnexpress.net/trung-thuy-group-mo-ban-lai-du-an-dat-vang-nguyen-tat-thanh-sau-10-nam-dinh-tre-5112455.html",
+      "summary": "Dự án Lancaster Lincoln trên trục Nguyễn Tất Thành được phép mở bán trở lại gần 400 căn hộ sau gần một thập kỷ vướng pháp lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T00:22:13+07:00",
+      "fetched": "2026-08-24T07:41:03.523611+07:00"
+    },
+    {
+      "id": "922c2edcc3d6a6af6656ccc7e38b0f01",
+      "title": "Iran cảnh báo láng giềng trả giá đắt nếu tham gia chiến tranh kinh tế",
+      "link": "https://vnexpress.net/iran-canh-bao-lang-gieng-tra-gia-dat-neu-tham-gia-chien-tranh-kinh-te-5112520.html",
+      "summary": "Quan chức an ninh hàng đầu Iran cảnh báo các nước vùng Vịnh sẽ bị nhắm tới nếu phối hợp với Mỹ trong chiến dịch gây sức ép kinh tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T00:21:46+07:00",
+      "fetched": "2026-08-24T07:41:03.523781+07:00"
+    },
+    {
+      "id": "922c2edcc3d6a6af6656ccc7e38b0f01",
+      "title": "Iran cảnh báo láng giềng trả giá đắt nếu tham gia chiến tranh kinh tế",
+      "link": "https://vnexpress.net/iran-canh-bao-lang-gieng-tra-gia-dat-neu-tham-gia-chien-tranh-kinh-te-5112520.html",
+      "summary": "Quan chức an ninh hàng đầu Iran cảnh báo các nước vùng Vịnh sẽ bị nhắm tới nếu phối hợp với Mỹ trong chiến dịch gây sức ép kinh tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-24T00:21:46+07:00",
+      "fetched": "2026-08-24T07:41:12.670730+07:00"
+    },
+    {
+      "id": "e32c715c8d7b39f5c2957c8735619c0c",
+      "title": "Lãnh tụ tối cao Iran Mojtaba Khamenei xuất hiện trong video mới",
+      "link": "https://thanhnien.vn/lanh-tu-toi-cao-iran-mojtaba-khamenei-xuat-hien-trong-video-moi-185260824070000939.htm",
+      "summary": "Một trang tin của Iran vừa công bố đoạn video về Lãnh tụ tối cao Mojtaba Khamenei, người chưa từng xuất hiện trước công chúng kể từ khi được bổ nhiệm vào cương vị này sau khi cha ông qua đời, theo CNN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T00:12:00+07:00",
+      "fetched": "2026-08-24T07:41:09.230004+07:00"
+    },
+    {
+      "id": "214b5087be4ac898a725f74b1dc2c8dc",
+      "title": "Bão Narra gần như đứng yên trong vịnh Bắc Bộ",
+      "link": "https://vnexpress.net/bao-narra-gan-nhu-dung-yen-trong-vinh-bac-bo-5112521.html",
+      "summary": "Bão duy trì cấp 9, giật cấp 11 trên vùng biển phía đông bắc đặc khu Bạch Long Vĩ, mưa lớn tiếp tục bao phủ Đông Bắc Bộ và Thanh Hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T00:05:27+07:00",
+      "fetched": "2026-08-24T07:41:03.523927+07:00"
+    },
+    {
+      "id": "bd859211a7a1337f0661fd3d796cbfa1",
+      "title": "Nữ sinh Trường đại học Y Hà Nội đăng quang Hoa khôi Sinh viên Việt Nam 2026",
+      "link": "https://thanhnien.vn/nu-sinh-truong-dai-hoc-y-ha-noi-dang-quang-hoa-khoi-sinh-vien-viet-nam-2026-185260824010843231.htm",
+      "summary": "Vượt qua 27 thí sinh tại vòng chung kết, Nguyễn Ngọc Linh, sinh viên Trường đại học Y Hà Nội, giành danh hiệu Hoa khôi Sinh viên Việt Nam 2026. Á khôi 1 thuộc về Da Vin Lee (Trường đại học Sư phạm Hà Nội), Á khôi 2 là Hoàng Mai Phương (Trường đại học Hải Phòng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T00:04:00+07:00",
+      "fetched": "2026-08-24T07:41:09.230135+07:00"
+    },
+    {
+      "id": "5559e31b475df72955814b8d70281c84",
+      "title": "Khách Việt hưởng lợi thế nào khi Trung Quốc miễn visa quá cảnh?",
+      "link": "https://vnexpress.net/khach-viet-huong-loi-the-nao-khi-trung-quoc-mien-visa-qua-canh-5112221.html",
+      "summary": "Các công ty lữ hành đánh giá chính sách quá cảnh 240 giờ của Trung Quốc giúp khách Việt tiết kiệm chi phí và mở đường cho dòng tour liên tuyến mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T00:00:00+07:00",
+      "fetched": "2026-08-24T07:41:03.524101+07:00"
+    },
+    {
+      "id": "7d9befb6a6678826df40a56911f65fbf",
+      "title": "Có nên ăn lệch giờ rồi bù bằng món giàu dinh dưỡng?",
+      "link": "https://vnexpress.net/co-nen-an-lech-gio-roi-bu-bang-mon-giau-dinh-duong-5112194.html",
+      "summary": "Tôi thường ăn không đúng giờ, bồi bổ thêm nhiều món ăn giàu dinh dưỡng nhưng có cảm giác đầy nặng bụng. Tôi cần làm gì? (Hoa, 34 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T00:00:00+07:00",
+      "fetched": "2026-08-24T07:41:03.524278+07:00"
+    },
+    {
+      "id": "c224a0fb47f5bcc6d0af79fc1ad29703",
+      "title": "Hoàn Mỹ Đà Nẵng bảo trợ y tế World Cup pickleball",
+      "link": "https://thanhnien.vn/hoan-my-da-nang-bao-tro-y-te-world-cup-pickleball-185260823204939379.htm",
+      "summary": "Hôm nay 24.8, Bệnh viện Hoàn Mỹ Đà Nẵng bắt đầu chương trình chăm sóc sức khỏe dành cho vận động viên (VĐV) và cổ động viên (CĐV) Heineken Pickleball World Cup 2026, đồng thời triển khai phương án bảo trợ y tế độc quyền cho hơn 4.000 VĐV trong 8 ngày tranh tài tại Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T00:00:00+07:00",
+      "fetched": "2026-08-24T07:41:09.230275+07:00"
+    },
+    {
+      "id": "86610d72956804fb50ee7fc8ff94cabc",
+      "title": "Sau 4 năm ngành 'hot' hết thời, sinh viên đối mặt nguy cơ thất nghiệp?",
+      "link": "https://thanhnien.vn/sau-4-nam-nganh-hot-het-thoi-sinh-vien-doi-mat-nguy-co-that-nghiep-185260823134307173.htm",
+      "summary": "Khi một ngành học từng được xem là \"ngành hot\" giảm sức hút sau 4 năm, nhiều người lo lắng về cơ hội việc làm. Chuyên gia cho rằng người học cần trang bị kiến thức nền tảng và kỹ năng có thể chuyển đổi giữa các ngành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T00:00:00+07:00",
+      "fetched": "2026-08-24T07:41:09.230399+07:00"
+    },
+    {
+      "id": "d289ba861e93d1ef054d3c95a2dc24b2",
+      "title": "Khép lại mùa 5 giải pickleball Cùng con đi tiếp cuộc đời: Thể thao nối dài nhân ái",
+      "link": "https://thanhnien.vn/khep-lai-mua-5-giai-pickleball-cung-con-di-tiep-cuoc-doi-the-thao-noi-dai-nhan-ai-185260823224740127.htm",
+      "summary": "Chiều 23.8, giải pickleball 'Cùng con đi tiếp cuộc đời' mùa 5 do Báo Thanh Niên tổ chức đã chính thức khép lại. Hơn cả một sự kiện thể thao, giải đấu đã kết nối những tấm lòng, trao 500 triệu đồng tiếp sức cho các trẻ em mồ côi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:58:00+07:00",
+      "fetched": "2026-08-24T07:41:09.230520+07:00"
+    },
+    {
+      "id": "e007f0cb79898417ab47c3e154704790",
+      "title": "Nga 'rút đại sứ' khỏi Anh",
+      "link": "https://vnexpress.net/nga-rut-dai-su-khoi-anh-5112514.html",
+      "summary": "Đại sứ quán Nga tại Anh xác nhận không còn đại sứ tại nhiệm ở quốc gia này, cáo buộc London khiến quan hệ song phương xuống cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:52:09+07:00",
+      "fetched": "2026-08-24T07:41:03.524417+07:00"
+    },
+    {
+      "id": "e007f0cb79898417ab47c3e154704790",
+      "title": "Nga 'rút đại sứ' khỏi Anh",
+      "link": "https://vnexpress.net/nga-rut-dai-su-khoi-anh-5112514.html",
+      "summary": "Đại sứ quán Nga tại Anh xác nhận không còn đại sứ tại nhiệm ở quốc gia này, cáo buộc London khiến quan hệ song phương xuống cấp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-23T23:52:09+07:00",
+      "fetched": "2026-08-24T07:41:12.670891+07:00"
+    },
+    {
+      "id": "888e3a07108c99609949abe21a563301",
+      "title": "Suýt chết vì những 'viên thuốc quen thuộc'",
+      "link": "https://vnexpress.net/suyt-chet-vi-nhung-vien-thuoc-quen-thuoc-5112404.html",
+      "summary": "Paracetamol là hoạt chất giảm đau, hạ sốt phổ biến nhưng sự quen thuộc khiến nhiều người lầm tưởng đây là loại thuốc \"lành\" có thể uống tùy ý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:46:49+07:00",
+      "fetched": "2026-08-24T07:41:03.524548+07:00"
+    },
+    {
+      "id": "d4d8379a3fb2d89006f10066e09f735c",
+      "title": "Đá lớn lăn sập nhà dân ở Lạng Sơn",
+      "link": "https://vnexpress.net/da-lon-lan-sap-nha-dan-o-lang-son-5112516.html",
+      "summary": "Mưa lớn kéo dài khiến nhiều tảng đá từ núi lăn xuống khu dân cư ở xã Chi Lăng, làm hư hỏng hai nhà dân và buộc chính quyền sơ tán 14 hộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:32:14+07:00",
+      "fetched": "2026-08-24T07:41:03.524674+07:00"
+    },
+    {
+      "id": "817d1fca513b054a32c61656adc17714",
+      "title": "Vợ chồng khuyết tật và những buổi livestream làm nhang",
+      "link": "https://thanhnien.vn/vo-chong-khuyet-tat-va-nhung-buoi-livestream-lam-nhang-185260823224352599.htm",
+      "summary": "Từng mưu sinh bằng nghề bán hàng rong ở TP.HCM, vợ chồng khuyết tật trở về quê làm nhang. Những buổi livestream ngay tại nơi sản xuất cũng là cách họ cho mọi người thấy công việc mình làm mỗi ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:30:00+07:00",
+      "fetched": "2026-08-24T07:41:09.230649+07:00"
+    },
+    {
+      "id": "3567f39ab239f2695533a9e52957163b",
+      "title": "Hàng trăm hộ dân khắc khoải chờ nước sạch",
+      "link": "https://thanhnien.vn/hang-tram-ho-dan-khac-khoai-cho-nuoc-sach-185260823191828596.htm",
+      "summary": "Sống giữa vùng quê đang trên đà đổi mới, song hơn 500 hộ dân tại thôn Nam Sơn (xã Xuân Lộc, Hà Tĩnh) suốt nhiều năm qua vẫn phải chắt chiu từng giọt nước mưa và 'đánh liều' sử dụng nguồn nước từ những giếng khơi đào ngay sát cánh đồng sản xuất nông nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:23:00+07:00",
+      "fetched": "2026-08-24T07:41:09.230765+07:00"
+    },
+    {
+      "id": "367cced84e19f475872cbd04e8629a12",
+      "title": "Hơn 40.000 khán giả đội mưa xem concert ‘Tổ quốc trong tim’",
+      "link": "https://thanhnien.vn/hon-40000-khan-gia-doi-mua-xem-concert-to-quoc-trong-tim-185260824020314483.htm",
+      "summary": "Tối 23.8, cơn mưa nặng hạt không thể làm giảm sức nóng trên khán đài Vạn Phúc City (TP.HCM). Hơn 40.000 khán giả vẫn đội mưa, hòa cùng dàn nghệ sĩ trong những giai điệu đầy cảm xúc của chương trình nghệ thuật chính luận 'Tổ quốc trong tim' 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:20:00+07:00",
+      "fetched": "2026-08-24T07:41:09.230882+07:00"
+    },
+    {
+      "id": "a73c1ba5d2bfff55a863941ed9b17651",
+      "title": "Lịch thi đấu, kênh phát trực tiếp đội tuyển bóng chuyền nữ Việt Nam đấu Hồng Kông: Phải thắng!",
+      "link": "https://thanhnien.vn/lich-thi-dau-kenh-phat-truc-tiep-doi-tuyen-bong-chuyen-nu-viet-nam-dau-hong-kong-phai-thang-185260824061352891.htm",
+      "summary": "Đội tuyển bóng chuyền nữ Việt Nam chạm trán với Hồng Kông ở lượt trận thứ hai bảng C giải bóng chuyền vô địch châu Á diễn ra lúc 9 giờ hôm nay (24.8) tại Thiên Tân (Trung Quốc).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:19:00+07:00",
+      "fetched": "2026-08-24T07:41:09.231004+07:00"
+    },
+    {
+      "id": "83d4210a2cbc838c06ce1b89d0284f16",
+      "title": "Những câu hỏi đang được quan tâm nhất về sách giáo khoa",
+      "link": "https://thanhnien.vn/nhung-cau-hoi-dang-duoc-quan-tam-nhat-ve-sach-giao-khoa-185260823202115828.htm",
+      "summary": "Những câu hỏi đang được phụ huynh, học sinh quan tâm về sách giáo khoa năm học 2026 - 2027, được Báo Thanh Niên giải đáp tới quý độc giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:18:00+07:00",
+      "fetched": "2026-08-24T07:41:09.231118+07:00"
+    },
+    {
+      "id": "9042014ab33b0c07770462cc719dd1f8",
+      "title": "Điểm tin 6h: Loạt trường ở Hà Nội lùi giờ, chuyển học online vì mưa lớn | Chứng khoán tuần này có thể tăng lên vùng 1.800 điểm",
+      "link": "https://vnexpress.net/diem-tin-6h-loat-truong-o-ha-noi-lui-gio-chuyen-hoc-online-vi-mua-lon-chung-khoan-tuan-nay-co-the-tang-len-vung-1-800-diem-5112515.html",
+      "summary": "Những doanh nghiệp có tỷ USD tiền mặt; Thủ tướng yêu cầu xử lý dứt điểm hơn 4.600 dự án tồn đọng;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:06:23+07:00",
+      "fetched": "2026-08-24T07:41:03.524811+07:00"
+    },
+    {
+      "id": "26484f7a282e487b46ad985562ac4e39",
+      "title": "Vì sao chênh lệch giá vàng trong và thế giới giảm?",
+      "link": "https://vnexpress.net/vi-sao-chenh-lech-gia-vang-trong-va-the-gioi-giam-5112480.html",
+      "summary": "Mua một chỉ vàng trong nước vào cuối tháng 3/2026, bán ra giữa tháng 8, người tiêu dùng có thể lỗ gấp 6 lần giá vàng thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:00:00+07:00",
+      "fetched": "2026-08-24T07:41:03.524945+07:00"
+    },
+    {
+      "id": "8a1349af77cbfbcd35ea7b295e5b9b16",
+      "title": "Công chức tham ô 4 triệu đồng bị phạt 5 năm tù",
+      "link": "https://vnexpress.net/cong-chuc-tham-o-4-trieu-dong-bi-phat-5-nam-tu-5112473.html",
+      "summary": "Nguyễn Thị Hằng, công chức văn hóa - xã hội, bị cáo buộc không chi 4 triệu đồng trợ cấp, quà cho một bệnh binh nhưng giả chữ ký xác nhận đã nhận tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:00:00+07:00",
+      "fetched": "2026-08-24T07:41:03.525070+07:00"
+    },
+    {
+      "id": "36404a072aa546e135232df91a151099",
+      "title": "Người trẻ 'hẹp cửa' vào thị trường lao động",
+      "link": "https://vnexpress.net/nguoi-tre-hep-cua-vao-thi-truong-lao-dong-5112450.html",
+      "summary": "Những công việc đơn giản từng giúp sinh viên mới tốt nghiệp bước vào thị trường lao động đang thu hẹp, trong khi doanh nghiệp ngày càng muốn người mới có thể tạo giá trị ngay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:00:00+07:00",
+      "fetched": "2026-08-24T07:41:03.525209+07:00"
+    },
+    {
+      "id": "e5b078111d3774460371d9b2b111a709",
+      "title": "Người Việt đầu tiên vào đội cứu hỏa tình nguyện Toyama",
+      "link": "https://vnexpress.net/nguoi-viet-dau-tien-vao-doi-cuu-hoa-tinh-nguyen-toyama-5111817.html",
+      "summary": "Huỳnh Hữu Qui là người nước ngoài đầu tiên của Đội cứu hỏa tình nguyện thành phố Toyama, hỗ trợ bảo vệ khu dân cư và thay đổi góc nhìn về cộng đồng người Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:00:00+07:00",
+      "fetched": "2026-08-24T07:41:03.525343+07:00"
+    },
+    {
+      "id": "7eb32990caf9782d4f7b49c8cffa8050",
+      "title": "Ba loại ung thư di căn xương",
+      "link": "https://vnexpress.net/ba-loai-ung-thu-di-can-xuong-5111620.html",
+      "summary": "Hầu hết các loại ung thư đều có thể di căn đến xương, nhưng thường gặp nhất là ung thư vú, ung thư phổi và ung thư tuyến tiền liệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:00:00+07:00",
+      "fetched": "2026-08-24T07:41:03.525467+07:00"
+    },
+    {
+      "id": "bd46bb0c7986ee4733145da4ed073e09",
+      "title": "Chuyên gia: 'Không nên bắt cả thành phố cùng thi hoặc cùng xét'",
+      "link": "https://vnexpress.net/chuyen-gia-khong-nen-bat-ca-thanh-pho-cung-thi-hoac-cung-xet-5112501.html",
+      "summary": "TS Hoàng Ngọc Vinh cho rằng Hà Nội nên thi ở trường cạnh tranh cao, bỏ thi nơi đủ chỗ và mở rộng phân luồng thay vì áp đặt một công thức chung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T23:00:00+07:00",
+      "fetched": "2026-08-24T07:41:03.525594+07:00"
+    },
+    {
+      "id": "43727d6df84fa84134e2a05db663415c",
+      "title": "Tiền đạo Thái Lan: 'Nỗ lực hết sức để lấy cup khỏi Việt Nam'",
+      "link": "https://vnexpress.net/tien-dao-thai-lan-no-luc-het-suc-de-lay-cup-khoi-viet-nam-5112499.html",
+      "summary": "Yotsakorn Burapha cho biết các cầu thủ Thái Lan chưa bỏ cuộc và muốn làm nên lịch sử tại Việt Nam ở lượt về chung kết ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-23T22:49:17+07:00",
+      "fetched": "2026-08-24T07:41:18.537492+07:00"
+    },
+    {
+      "id": "af6381fbe9b16eeed65ef34e580f0bcb",
+      "title": "Sydney Marathon khắc nhầm SVĐ Munich lên huy chương",
+      "link": "https://vnexpress.net/sydney-marathon-khac-nham-svd-munich-len-huy-chuong-5112513.html",
+      "summary": "Ban tổ chức Sydney Marathon thừa nhận sai lầm khi khắc nhầm sân Allianz ở Munich, Đức lên huy chương dành cho người hoàn thành cuộc đua, thay vì một địa danh tại Sydney.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-23T22:39:07+07:00",
+      "fetched": "2026-08-24T07:41:18.538304+07:00"
+    },
+    {
+      "id": "91a3feea4c2b4436ddc527dee7683c92",
+      "title": "Barca đại thắng trận ra quân La Liga",
+      "link": "https://vnexpress.net/barca-dai-thang-tran-ra-quan-la-liga-5112512.html",
+      "summary": "Raphinha lập cú đúp còn tân binh Anthony Gordon có hai kiến tạo giúp Barca thắng 5-0 trên sân Elche ở vòng hai La Liga mùa 2026-2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-23T22:13:23+07:00",
+      "fetched": "2026-08-24T07:41:18.537644+07:00"
     },
     {
       "id": "2a6f08e270778734397690ef715f219f",
@@ -741,6 +1091,16 @@ window.newsData_2026_08_24 = {
       "category": "Công nghệ",
       "published": "2026-08-23T15:24:24+07:00",
       "fetched": "2026-08-24T01:14:52.973776+07:00"
+    },
+    {
+      "id": "6302d428f4ccb8d219cb0ba78b8504fd",
+      "title": "Robot hình người phá kỷ lục chạy 100 m",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-pha-ky-luc-chay-100-m-5112484.html",
+      "summary": "Robot Tiangong Ultra hoàn thành 100 m chạy trong 9,39 giây, phá sâu kỷ lục thế giới do Usain Bolt - vận động viên người Jamaica, thiết lập.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-23T15:24:24+07:00",
+      "fetched": "2026-08-24T07:41:16.673963+07:00"
     },
     {
       "id": "cb97e9c266418cd9ebfaec2216259270",
