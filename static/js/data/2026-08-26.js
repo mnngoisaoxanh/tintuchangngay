@@ -1,7 +1,27 @@
 window.newsData_2026_08_26 = {
   "date": "2026-08-26",
-  "lastUpdated": "2026-08-26T01:24:00.998310+07:00",
+  "lastUpdated": "2026-08-26T03:17:31.579998+07:00",
   "articles": [
+    {
+      "id": "7a4b8b31666f7dac76f7bb57722b3b3b",
+      "title": "Canada đáp trả Mỹ bằng thuế quan 50%, thương chiến đã bắt đầu?",
+      "link": "https://tuoitre.vn/canada-dap-tra-my-bang-thue-quan-50-thuong-chien-da-bat-dau-100260825231426933.htm",
+      "summary": "Canada cũng tuyên bố áp thuế lên đến 50% vào hàng trăm mặt hàng lớn nhỏ của Mỹ, với tổng giá trị hàng hóa bị đánh thuế là khoảng 20 tỉ USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T03:17:22.505521+07:00",
+      "fetched": "2026-08-26T03:17:22.505582+07:00"
+    },
+    {
+      "id": "73cc046cd27c3cbe9409051e86cd2194",
+      "title": "Cựu bộ trưởng Fedorov chia sẻ nhiều thông tin sốc: 'Ukraine đang dần thua'",
+      "link": "https://tuoitre.vn/cuu-bo-truong-fedorov-chia-se-nhieu-thong-tin-soc-ukraine-dang-dan-thua-100260826005321641.htm",
+      "summary": "Cựu bộ trưởng quốc phòng Ukraine khẳng định Kiev chỉ còn vài tháng để xoay chuyển tình hình, nếu không sẽ thất bại trước Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T03:17:22.505358+07:00",
+      "fetched": "2026-08-26T03:17:22.505508+07:00"
+    },
     {
       "id": "7f11db951e3e1c4c504dd758beede456",
       "title": "Kiều bào trẻ xúc động thăm công viên Lê Thị Riêng, nghe cô bác kể chuyện kháng chiến",
@@ -151,6 +171,56 @@ window.newsData_2026_08_26 = {
       "category": "Tổng hợp",
       "published": "2026-08-26T01:23:53.943651+07:00",
       "fetched": "2026-08-26T01:23:53.943787+07:00"
+    },
+    {
+      "id": "28060c946d34491b53f0e4115ae15eca",
+      "title": "3 thói quen mỗi ngày để giảm nguy cơ mắc bệnh thận",
+      "link": "https://vnexpress.net/3-thoi-quen-moi-ngay-de-giam-nguy-co-mac-benh-than-5112782.html",
+      "summary": "Để thận khỏe, bạn không nên nhịn tiểu, uống đều nước trong ngày, không để khát mới uống, giảm đồ ăn ngọt, nhiều đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T19:00:00+07:00",
+      "fetched": "2026-08-26T03:17:17.346141+07:00"
+    },
+    {
+      "id": "694d1d5c663cdc941d470f05d5199206",
+      "title": "Diễn viên Kiều Thanh khai dùng ma túy khi được 'bạn bè mời bia rượu'",
+      "link": "https://vnexpress.net/dien-vien-kieu-thanh-khai-dung-ma-tuy-khi-duoc-ban-be-moi-bia-ruou-5113405.html",
+      "summary": "Nữ diễn viên \"Trà Cave\" khai bắt đầu sử dụng chất cấm sau những lần được bạn bè mời bia rượu có pha ma túy tổng hợp, thừa nhận việc này sai trái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T18:36:17+07:00",
+      "fetched": "2026-08-26T03:17:17.346344+07:00"
+    },
+    {
+      "id": "704fa1a843c9b0e53fd0d2f39ecc1dd7",
+      "title": "Oral sex có gây ung thư?",
+      "link": "https://vnexpress.net/oral-sex-co-gay-ung-thu-5111897.html",
+      "summary": "Nhiều người nói oral sex không chỉ gây lây lan các bệnh lây truyền qua đường tình dục mà còn cả ung thư, đặc biệt là ung thư vòm họng, có đúng không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T18:03:00+07:00",
+      "fetched": "2026-08-26T03:17:17.346548+07:00"
+    },
+    {
+      "id": "229eb3b3e6c0f06ed66a44193ba292c9",
+      "title": "Cải tiến khiến tác chiến điện tử Ukraine bất lực trước UAV Geran",
+      "link": "https://vnexpress.net/cai-tien-khien-tac-chien-dien-tu-ukraine-bat-luc-truoc-uav-geran-5113074.html",
+      "summary": "Nga lắp hệ thống điều khiển từ xa và tự động nhận dạng mục tiêu cho UAV Geran, khiến biện pháp gây nhiễu mất tác dụng, theo quan chức Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T18:00:00+07:00",
+      "fetched": "2026-08-26T03:17:17.346688+07:00"
+    },
+    {
+      "id": "229eb3b3e6c0f06ed66a44193ba292c9",
+      "title": "Cải tiến khiến tác chiến điện tử Ukraine bất lực trước UAV Geran",
+      "link": "https://vnexpress.net/cai-tien-khien-tac-chien-dien-tu-ukraine-bat-luc-truoc-uav-geran-5113074.html",
+      "summary": "Nga lắp hệ thống điều khiển từ xa và tự động nhận dạng mục tiêu cho UAV Geran, khiến biện pháp gây nhiễu mất tác dụng, theo quan chức Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-25T18:00:00+07:00",
+      "fetched": "2026-08-26T03:17:24.648053+07:00"
     },
     {
       "id": "175121a2c6fcc4f3d36e25af157a16cc",
