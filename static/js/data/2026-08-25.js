@@ -1,6 +1,6 @@
 window.newsData_2026_08_25 = {
   "date": "2026-08-25",
-  "lastUpdated": "2026-08-25T21:34:24.015801+07:00",
+  "lastUpdated": "2026-08-25T23:24:30.553607+07:00",
   "articles": [
     {
       "id": "d5aaff8f77e19b9e43303d4008c88840",
@@ -303,6 +303,96 @@ window.newsData_2026_08_25 = {
       "fetched": "2026-08-25T19:27:29.892965+07:00"
     },
     {
+      "id": "4c2241d83388fd8d2379e0a7a05a1e87",
+      "title": "Nhung Kate và dàn sao ủng hộ Johnny Trí Nguyễn tái xuất màn ảnh",
+      "link": "https://vnexpress.net/nhung-kate-va-dan-sao-ung-ho-johnny-tri-nguyen-tai-xuat-man-anh-5113385.html",
+      "summary": "Diễn viên Nhung Kate - người tình một thời của tài tử Johnny Trí Nguyễn - nằm trong số sao tới chúc mừng anh và êkíp ra mắt \"Hộ linh tráng sĩ\", tối 25/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T16:00:00+07:00",
+      "fetched": "2026-08-25T23:24:18.723507+07:00"
+    },
+    {
+      "id": "f09b7faa82c046c2148fd360054d300d",
+      "title": "Ông Trump: Mỹ đã dọn sạch thủy lôi ở eo biển Hormuz",
+      "link": "https://vnexpress.net/ong-trump-my-da-don-sach-thuy-loi-o-eo-bien-hormuz-5113393.html",
+      "summary": "Ông Trump cho biết toàn bộ thủy lôi đã được kích nổ hoặc gỡ bỏ ở eo biển Hormuz, đồng thời cảnh báo Mỹ sẽ phá hủy mọi xuồng rải thủy lôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T15:58:38+07:00",
+      "fetched": "2026-08-25T23:24:18.723693+07:00"
+    },
+    {
+      "id": "f09b7faa82c046c2148fd360054d300d",
+      "title": "Ông Trump: Mỹ đã dọn sạch thủy lôi ở eo biển Hormuz",
+      "link": "https://vnexpress.net/ong-trump-my-da-don-sach-thuy-loi-o-eo-bien-hormuz-5113393.html",
+      "summary": "Ông Trump cho biết toàn bộ thủy lôi đã được kích nổ hoặc gỡ bỏ ở eo biển Hormuz, đồng thời cảnh báo Mỹ sẽ phá hủy mọi xuồng rải thủy lôi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-25T15:58:38+07:00",
+      "fetched": "2026-08-25T23:24:24.338189+07:00"
+    },
+    {
+      "id": "101ca661af2616f3a87e20132f743c2a",
+      "title": "Huế cho thuê trường học, trụ sở công dôi dư",
+      "link": "https://vnexpress.net/hue-cho-thue-truong-hoc-tru-so-cong-doi-du-5113277.html",
+      "summary": "Sau khi sắp xếp đơn vị hành chính, nhiều trụ sở, trường học cũ ở phường Thuận An và Phú Xuân được cho thuê, tạo nguồn thu cho ngân sách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T15:57:34+07:00",
+      "fetched": "2026-08-25T23:24:18.723864+07:00"
+    },
+    {
+      "id": "36f4d77833f76881c997d6a19fa64f31",
+      "title": "Chủ tịch FIFA có mặt ở Hà Nội trưa 26.8, lưu trú tại khách sạn sang trọng phố Lý Thái Tổ",
+      "link": "https://thanhnien.vn/chu-tich-fifa-co-mat-o-ha-noi-trua-268-luu-tru-tai-khach-san-sang-trong-pho-ly-thai-to-185260825223701925.htm",
+      "summary": "Chủ tịch FIFA Gianni Infantino sẽ đến Hà Nội ngày 26.8, cùng Tổng thư ký FIFA Mattias Grafstrom dự khán trận chung kết lượt về ASEAN Cup 2026 giữa đội tuyển Việt Nam và Thái Lan trên sân Mỹ Đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T15:44:00+07:00",
+      "fetched": "2026-08-25T23:24:21.569823+07:00"
+    },
+    {
+      "id": "92ca601cd2a9b7296490256b9fa1b585",
+      "title": "34 địa phương đồng loạt đi bộ hướng tới kỷ lục Guinness",
+      "link": "https://vnexpress.net/34-dia-phuong-dong-loat-di-bo-huong-toi-ky-luc-guinness-5113313.html",
+      "summary": "Hàng chục nghìn người trên cả nước sẽ tham gia chiến dịch đi bộ “Cùng Việt Nam tiến bước” năm 2026, hướng tới kỷ lục Guinness.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T15:43:51+07:00",
+      "fetched": "2026-08-25T23:24:18.724031+07:00"
+    },
+    {
+      "id": "5bf6dc1890ce2f3acc34d963019e75d4",
+      "title": "Việt Nam - Singapore ra tuyên bố chung về chiến lược kết nối công nghệ",
+      "link": "https://vnexpress.net/viet-nam-singapore-ra-tuyen-bo-chung-ve-chien-luoc-ket-noi-cong-nghe-5113383.html",
+      "summary": "Việt Nam và Singapore nhất trí tầm nhìn chung đưa hai nước trở thành đối tác công nghệ chiến lược hàng đầu ở Đông Nam Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T15:40:08+07:00",
+      "fetched": "2026-08-25T23:24:18.724256+07:00"
+    },
+    {
+      "id": "5bf6dc1890ce2f3acc34d963019e75d4",
+      "title": "Việt Nam - Singapore ra tuyên bố chung về chiến lược kết nối công nghệ",
+      "link": "https://vnexpress.net/viet-nam-singapore-ra-tuyen-bo-chung-ve-chien-luoc-ket-noi-cong-nghe-5113383.html",
+      "summary": "Việt Nam và Singapore nhất trí tầm nhìn chung đưa hai nước trở thành đối tác công nghệ chiến lược hàng đầu ở Đông Nam Á.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-25T15:40:08+07:00",
+      "fetched": "2026-08-25T23:24:24.338371+07:00"
+    },
+    {
+      "id": "ad334f0e863b681f949599b56818f506",
+      "title": "Lưu Diệc Phi mặc váy của nhà mốt Việt đón sinh nhật",
+      "link": "https://vnexpress.net/luu-diec-phi-mac-vay-cua-nha-mot-viet-don-sinh-nhat-5113376.html",
+      "summary": "Minh tinh Trung Quốc Lưu Diệc Phi mặc váy ngắn của Phan Huy, đeo vương miện ở tiệc đón tuổi 39.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T15:38:50+07:00",
+      "fetched": "2026-08-25T23:24:18.724425+07:00"
+    },
+    {
       "id": "3cfb66cdf1fe3fce0e2fba590812b8e2",
       "title": "Một suất ăn an toàn bắt đầu từ đâu?",
       "link": "https://tuoitre.vn/mot-suat-an-an-toan-bat-dau-tu-dau-100260825144020005.htm",
@@ -451,6 +541,66 @@ window.newsData_2026_08_25 = {
       "category": "Tổng hợp",
       "published": "2026-08-25T15:30:01.442130+07:00",
       "fetched": "2026-08-25T15:30:01.442255+07:00"
+    },
+    {
+      "id": "80e81a3cfe8baed25e025706997bfd34",
+      "title": "'TP HCM cần giảm chi phí đô thị để giữ lợi thế cạnh tranh'",
+      "link": "https://vnexpress.net/tp-hcm-can-giam-chi-phi-do-thi-de-giu-loi-the-canh-tranh-5113353.html",
+      "summary": "Giá nhà cao, ùn tắc, chi phí logistics đắt đỏ đang bào mòn lợi thế tập trung của TP HCM, đặt ra yêu cầu giảm gánh nặng đô thị để giữ sức cạnh tranh, theo các chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T15:26:05+07:00",
+      "fetched": "2026-08-25T23:24:18.724595+07:00"
+    },
+    {
+      "id": "211c20d9ac3801340cddccbaaa8d9893",
+      "title": "Chi tiền cho con đi đào khoai, chặt củi để nếm 'mùi gian khổ'",
+      "link": "https://vnexpress.net/chi-tien-cho-con-di-dao-khoai-chat-cui-de-nem-mui-gian-kho-5112213.html",
+      "summary": "Nhiều cha mẹ gửi con tới các trại hè ở nông thôn, đi đào khoai, chặt củi, cho lợn ăn... với hy vọng đứa trẻ đỡ ngỗ ngược và biết quý trọng sức lao động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T15:25:38+07:00",
+      "fetched": "2026-08-25T23:24:18.724753+07:00"
+    },
+    {
+      "id": "db993d9377f9d8c6f8ec60134d8a59d9",
+      "title": "Nếu vô địch ASEAN Cup 2026, đội tuyển Việt Nam được thưởng bao nhiêu từ ngân sách?",
+      "link": "https://thanhnien.vn/neu-vo-dich-asean-cup-2026-doi-tuyen-viet-nam-duoc-thuong-bao-nhieu-tu-ngan-sach-185260825215711245.htm",
+      "summary": "Nếu vô địch ASEAN Cup 2026, mỗi VĐV đội tuyển Việt Nam đủ điều kiện sẽ nhận 40 triệu đồng tiền thưởng từ ngân sách, chưa kể các khoản thưởng từ VFF và nguồn xã hội hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T15:05:00+07:00",
+      "fetched": "2026-08-25T23:24:21.569996+07:00"
+    },
+    {
+      "id": "94d49b13a482f01db1a50f8cc5adcf7d",
+      "title": "Sự nghiệp Trà 'Cave' Kiều Thanh trước khi bị bắt vì ma túy",
+      "link": "https://thanhnien.vn/su-nghiep-tra-cave-kieu-thanh-truoc-khi-bi-bat-vi-ma-tuy-185260825210555285.htm",
+      "summary": "Trước khi vướng vòng lao lý vì liên quan đến ma túy, NSƯT Kiều Thanh từng ghi dấu với nhiều vai diễn ấn tượng, đặc biệt là vai diễn Trà 'Cave'. Song sự nghiệp của cô cũng không ít lần 'dậy sóng' bởi phát ngôn gây tranh cãi và ồn ào đời tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T14:53:00+07:00",
+      "fetched": "2026-08-25T23:24:21.570184+07:00"
+    },
+    {
+      "id": "d260f05be6a9731d854fd8f1d87723bb",
+      "title": "Huyền thoại đường 1C: Ký ức về 'tọa độ lửa'",
+      "link": "https://thanhnien.vn/huyen-thoai-duong-1c-ky-uc-ve-toa-do-lua-185260825211417649.htm",
+      "summary": "Trên tuyến đường 1C huyền thoại, nơi được mệnh danh là 'tọa độ lửa' miền Tây Nam bộ, không chỉ có đạn bom khốc liệt mà còn in dấu tuổi trẻ, ước mơ và sự cống hiến quên mình của những chàng trai, cô gái đương tuổi đôi mươi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T14:50:00+07:00",
+      "fetched": "2026-08-25T23:24:21.570348+07:00"
+    },
+    {
+      "id": "787a75a01774e45768f6d123e244e2a1",
+      "title": "Đại sứ Mỹ Jennifer Wicks thăm, làm việc với tỉnh Quảng Trị",
+      "link": "https://thanhnien.vn/dai-su-my-jennifer-wicks-tham-lam-viec-voi-tinh-quang-tri-185260825204324053.htm",
+      "summary": "Bà Jennifer Wicks, Đại sứ Mỹ tại Việt Nam đã có chuyến thăm, làm việc với lãnh đạo tỉnh Quảng Trị, trao đổi về hợp tác, đầu tư và khắc phục hậu quả chiến tranh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T14:34:00+07:00",
+      "fetched": "2026-08-25T23:24:21.570505+07:00"
     },
     {
       "id": "90a93d644aee8c98e0dd92010c27b2d9",
