@@ -1,6 +1,6 @@
 window.newsData_2026_08_27 = {
   "date": "2026-08-27",
-  "lastUpdated": "2026-08-27T02:33:48.581054+07:00",
+  "lastUpdated": "2026-08-27T05:35:44.194531+07:00",
   "articles": [
     {
       "id": "531936e167df999ad129b7ebc642600f",
@@ -151,6 +151,256 @@ window.newsData_2026_08_27 = {
       "category": "Tổng hợp",
       "published": "2026-08-27T02:33:42.074889+07:00",
       "fetched": "2026-08-27T02:33:42.075020+07:00"
+    },
+    {
+      "id": "0e356c040f6b7abbff565c2740c309d4",
+      "title": "Ngắm những mâm cúng rằm tháng 7 được người Hà Nội tự tay chuẩn bị",
+      "link": "https://thanhnien.vn/ngam-nhung-mam-cung-ram-thang-7-duoc-nguoi-ha-noi-tu-tay-chuan-bi-185260820102724796.htm",
+      "summary": "Từ mâm chay cúng Phật, mâm cỗ gia tiên đến lễ cúng chúng sinh, chị em phụ nữ Hà Nội chia sẻ cách gia đình tự tay chuẩn bị cho ngày rằm tháng 7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:35:00+07:00",
+      "fetched": "2026-08-27T05:35:34.886230+07:00"
+    },
+    {
+      "id": "19ca6f63a4c93ddb43aff002b3e075e7",
+      "title": "Cựu quan chức Nga cảnh báo các nhà máy vũ khí Anh có thể bị tấn công",
+      "link": "https://thanhnien.vn/cuu-quan-chuc-nga-canh-bao-cac-nha-may-vu-khi-anh-co-the-bi-tan-cong-185260826203817997.htm",
+      "summary": "Nga đã cảnh báo về khả năng có các “hành động bán quân sự” nhằm vào Vương quốc Anh, cụ thể là các nhà sản xuất máy bay không người lái (UAV) cũng như linh kiện tên lửa, sau khi London quyết định chuyển giao công nghệ quân sự cho Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:33:00+07:00",
+      "fetched": "2026-08-27T05:35:34.886400+07:00"
+    },
+    {
+      "id": "a1a8fae5b2dd50c75317d99b900ec8c7",
+      "title": "Tiêu điểm quốc tế 27.8: Mỹ dừng hẹn phỏng vấn visa | Ukraine khoe năng lực mới",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-278-my-dung-hen-phong-van-visa-ukraine-khoe-nang-luc-moi-185260827000807921.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin Tiêu điểm quốc tế ngày 27.8.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:30:00+07:00",
+      "fetched": "2026-08-27T05:35:34.886556+07:00"
+    },
+    {
+      "id": "3bebe5b4b716f4dc273a0f82b159d73a",
+      "title": "Mùa Vu lan, nhớ những nghệ sĩ 'gà trống nuôi con'",
+      "link": "https://thanhnien.vn/mua-vu-lan-nho-nhung-nghe-si-ga-trong-nuoi-con-185260826223159481.htm",
+      "summary": "Trong giới nghệ sĩ sân khấu TP.HCM, người ta biết cây hài nổi tiếng Tiểu Bảo Quốc (sân khấu Thế Giới Trẻ) nuôi con từ lúc 4 tuổi nay đã thành chàng trai 29 tuổi. Hữu Tiến (cũng sân khấu Thế Giới Trẻ) là một người cha cũng nuôi con từ lúc bé chưa thôi nôi, nay cô gái đã 28 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:30:00+07:00",
+      "fetched": "2026-08-27T05:35:34.886709+07:00"
+    },
+    {
+      "id": "e2bf2f4ffa3d7571d9b012d71b0da4e6",
+      "title": "10 người cùng trúng lớn xổ số miền Nam: 41 vé mang dãy số may mắn",
+      "link": "https://thanhnien.vn/10-nguoi-cung-trung-lon-xo-so-mien-nam-41-ve-mang-day-so-may-man-185260824220045998.htm",
+      "summary": "Hàng loạt vé trúng xổ số miền Nam có cùng dãy số may mắn giúp 10 người ở miền Tây trúng hơn 1,2 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:30:00+07:00",
+      "fetched": "2026-08-27T05:35:34.886860+07:00"
+    },
+    {
+      "id": "d1fb7067fd6b7c58b25443f10a2c9f3a",
+      "title": "Nga nêu mục đích chuyến thăm của Giám đốc CIA",
+      "link": "https://thanhnien.vn/nga-neu-muc-dich-chuyen-tham-cua-giam-doc-cia-185260826230208059.htm",
+      "summary": "Hôm qua (26.8), truyền thông Mỹ loan tin Giám đốc Cơ quan Tình báo trung ương nước này (CIA) John Ratcliffe đã bí mật đến Moscow trong ngày 25.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:26:00+07:00",
+      "fetched": "2026-08-27T05:35:34.887010+07:00"
+    },
+    {
+      "id": "f66be302e18acbd304c01ce4af8f2758",
+      "title": "Người dân sống bên đường Lã Xuân Oai nói gì khi tuyến đường sắp được mở rộng 30 mét?",
+      "link": "https://thanhnien.vn/nguoi-dan-song-ben-duong-la-xuan-oai-noi-gi-khi-tuyen-duong-sap-duoc-mo-rong-30-met-1852608230020243.htm",
+      "summary": "Đường Lã Xuân Oai đang được đẩy nhanh công tác giải phóng mặt bằng để mở rộng lên 30 mét, với 6 làn xe. Dự án được kỳ vọng cải thiện khả năng lưu thông trên tuyến đường đông đúc, đồng thời tăng kết nối với các trục giao thông lớn ở khu vực phía Đông TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:26:00+07:00",
+      "fetched": "2026-08-27T05:35:34.887190+07:00"
+    },
+    {
+      "id": "810d080e07bf9704a331f0ddb7809034",
+      "title": "Cựu Bộ trưởng Quốc phòng: Ukraine cần thay đổi để tránh thua",
+      "link": "https://thanhnien.vn/cuu-bo-truong-quoc-phong-ukraine-can-thay-doi-de-tranh-thua-185260826192403253.htm",
+      "summary": "Cựu Bộ trưởng Quốc phòng Mykhailo Fedorov mới đây chia sẻ với hãng tin Reuters rằng Ukraine dường như đang dần thua cuộc trong xung đột với Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:21:00+07:00",
+      "fetched": "2026-08-27T05:35:34.887342+07:00"
+    },
+    {
+      "id": "13ae7e81cd82ff36ce7dcecee5c071b5",
+      "title": "Tử vi ngày 27 tháng 8 - rằm tháng 7: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-27-thang-8-ram-thang-7-con-giap-nao-may-man-hom-nay-185260824091503137.htm",
+      "summary": "Tử vi ngày 27 tháng 8, đúng rằm tháng 7 âm lịch và lễ Vu lan, mang đến những gợi ý tham khảo cho 12 con giáp, gợi nhắc về lòng biết ơn và tình thân. Báo hiếu đôi khi không nằm ở món quà lớn, mà ở thời gian, sự quan tâm và những điều mình vẫn còn có thể làm cho cha mẹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:15:00+07:00",
+      "fetched": "2026-08-27T05:35:34.887491+07:00"
+    },
+    {
+      "id": "1e30c5e9c87d3f3e664bcfef521e9763",
+      "title": "Chính quyền ông Trump đe dọa công trình mang tên cố Tổng thống Kennedy",
+      "link": "https://thanhnien.vn/chinh-quyen-ong-trump-de-doa-cong-trinh-mang-ten-co-tong-thong-kennedy-185260826175112416.htm",
+      "summary": "Chính quyền Tổng thống Mỹ Donald Trump cảnh báo Trung tâm biểu diễn nghệ thuật John F. Kennedy có thể phải bị phá dỡ nếu không được cải tạo, trong bối cảnh tranh cãi tiếp tục xoay quanh việc gắn tên ông Trump với công trình này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:10:00+07:00",
+      "fetched": "2026-08-27T05:35:34.887641+07:00"
+    },
+    {
+      "id": "6d4d16e74e2c5b1fd755fd07e8cdf01d",
+      "title": "Ngôi trường trên nền nghĩa trang Bình Hưng Hòa đón học sinh",
+      "link": "https://vnexpress.net/ngoi-truong-tren-nen-nghia-trang-binh-hung-hoa-don-hoc-sinh-5110692.html",
+      "summary": "Trường Tiểu học Trần Đại Nghĩa được xây dựng khang trang trên nền nghĩa trang Bình Hưng Hòa, đón khoảng 800 học sinh trong năm đầu hoạt động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:06:00+07:00",
+      "fetched": "2026-08-27T05:35:31.591615+07:00"
+    },
+    {
+      "id": "dfc190facb9a605aaa1e7f0b20a2af02",
+      "title": "Màn ăn mừng của cầu thủ Việt Nam với chức vô địch ASEAN Cup",
+      "link": "https://vnexpress.net/man-an-mung-cua-cau-thu-viet-nam-voi-chuc-vo-dich-asean-cup-5113893.html",
+      "summary": "Hoàng Hên đội mũ cối vẫy cờ, Quang Hải cùng đồng đội thay nhau check-in bên Cúp... tuyển Việt Nam ăn mừng cuồng nhiệt sau khi đăng quang ASEAN Cup 2026 trên sân Mỹ Đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:00:00+07:00",
+      "fetched": "2026-08-27T05:35:31.591795+07:00"
+    },
+    {
+      "id": "d782f744e3c4e893d15902e75aa966ec",
+      "title": "Bệnh viện Nhân dân 115 mở cơ sở 2 tại Côn Đảo, thay mô hình luân phiên bác sĩ",
+      "link": "https://vnexpress.net/benh-vien-nhan-dan-115-mo-co-so-2-tai-con-dao-thay-mo-hinh-luan-phien-bac-si-5113663.html",
+      "summary": "Bệnh viện Nhân dân 115 sẽ mở cơ sở 2 tại Côn Đảo để đảm bảo hoạt động khám chữa bệnh lâu dài, thay mô hình luân phiên bác sĩ của thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:00:00+07:00",
+      "fetched": "2026-08-27T05:35:31.591961+07:00"
+    },
+    {
+      "id": "a52471fc60951997b90ff25ee88d354f",
+      "title": "Giúp việc theo giờ hút lao động",
+      "link": "https://vnexpress.net/giup-viec-theo-gio-hut-lao-dong-5113556.html",
+      "summary": "Ngày đầu đi lau dọn nhà cửa suốt ba tiếng, Hà Thị Minh trở về với bả vai và cánh tay phải mỏi nhừ, bù lại kiếm được hơn 240.000 đồng tiền công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:00:00+07:00",
+      "fetched": "2026-08-27T05:35:31.592161+07:00"
+    },
+    {
+      "id": "07bd5b98d0b22f9dc1ab3a5783eb1ee4",
+      "title": "Vùng Vịnh khó xử trước đòn cô lập kinh tế Iran của Mỹ",
+      "link": "https://vnexpress.net/vung-vinh-kho-xu-truoc-don-co-lap-kinh-te-iran-cua-my-5113438.html",
+      "summary": "Mỹ muốn bóp nghẹt các nguồn thu còn lại của Iran, nhưng chiến dịch này khiến các đồng minh vùng Vịnh phải cân nhắc giữa lợi ích với nguy cơ bất ổn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:00:00+07:00",
+      "fetched": "2026-08-27T05:35:31.592352+07:00"
+    },
+    {
+      "id": "03d1a021707395c256ddd99e2e23d318",
+      "title": "3 sai lầm bảo quản cơm thừa tưởng vô hại dễ 'rước bệnh'",
+      "link": "https://vnexpress.net/3-sai-lam-bao-quan-com-thua-tuong-vo-hai-de-ruoc-benh-5113024.html",
+      "summary": "Để cơm thừa bên ngoài quá lâu, cho cơm quá nóng vào tủ lạnh hoặc hâm đi hâm lại nhiều lần đều là những việc khiến vi khuẩn phát triển, gây hại sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:00:00+07:00",
+      "fetched": "2026-08-27T05:35:31.592515+07:00"
+    },
+    {
+      "id": "95fc4bf10480ab869200e1c1f16c1cfe",
+      "title": "Rủi ro bảo mật khi mở wifi điện thoại thường xuyên",
+      "link": "https://vnexpress.net/rui-ro-bao-mat-khi-mo-wifi-dien-thoai-thuong-xuyen-5112869.html",
+      "summary": "Cài đặt wifi luôn mở trên điện thoại đem theo thuận tiện về kết nối liền mạch nhưng có thể gây ra lo ngại về bảo mật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:00:00+07:00",
+      "fetched": "2026-08-27T05:35:31.592667+07:00"
+    },
+    {
+      "id": "76351ededd2516807ec25a4931ce2c34",
+      "title": "Hai xe máy khiến ôtô rước họa",
+      "link": "https://vnexpress.net/hai-xe-may-khien-oto-ruoc-hoa-5113447.html",
+      "summary": "Một xe máy chuyển làn gấp khiến ôtô phanh và bị một xe máy phía sau tông vào đuôi, hôm 25/8 tại Khuất Duy Tiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:00:00+07:00",
+      "fetched": "2026-08-27T05:35:31.592829+07:00"
+    },
+    {
+      "id": "73e67ab8ed48f8880f359729b4ee40c3",
+      "title": "Giải mã 'đòn thế' Mỹ và Canada giữa 'đại thương chiến'",
+      "link": "https://thanhnien.vn/giai-ma-don-the-my-va-canada-giua-dai-thuong-chien-185260826230629299.htm",
+      "summary": "Vốn là liên minh gần gũi nhất thế giới, Mỹ và Canada giờ đây chính thức bước vào cuộc thương chiến chưa từng có trong lịch sử hai láng giềng này, đồng thời mỗi bên đều có rủi ro thiệt hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:00:00+07:00",
+      "fetched": "2026-08-27T05:35:34.887795+07:00"
+    },
+    {
+      "id": "f023fa26a0fe722f8cf62f06898ffc7e",
+      "title": "Biết điểm dừng khi khám phá thiên nhiên",
+      "link": "https://thanhnien.vn/biet-diem-dung-khi-kham-pha-thien-nhien-185260826185010861.htm",
+      "summary": "Chỉ trong vài ngày, bán đảo Sơn Trà (TP.Đà Nẵng) liên tiếp xảy ra hai vụ việc cho thấy những rủi ro có thể xảy đến bất cứ lúc nào khi tham quan, khám phá các khu vực địa hình hiểm trở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:00:00+07:00",
+      "fetched": "2026-08-27T05:35:34.887942+07:00"
+    },
+    {
+      "id": "67ad16590079f9510f6486e8327f8e70",
+      "title": "Mong lắm kè sông Tiền sớm về đích",
+      "link": "https://thanhnien.vn/mong-lam-ke-song-tien-som-ve-dich-185260826184619414.htm",
+      "summary": "Không chỉ hàng trăm hộ dân vùng sạt lở đường Nguyễn Hương (P.Cao Lãnh, tỉnh Đồng Tháp) đếm từng ngày chờ dự án kè bảo vệ bờ sông hoàn thành để sớm ổn định cuộc sống mà nhiều bạn đọc Thanh Niên cũng mong công trình sớm về đích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:00:00+07:00",
+      "fetched": "2026-08-27T05:35:34.888112+07:00"
+    },
+    {
+      "id": "caaf67e7fa5a375d86cc4029f8fb36a2",
+      "title": "Lịch âm hôm nay 27.8: Lễ Vu lan báo hiếu rằm tháng 7",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-278-le-vu-lan-bao-hieu-ram-thang-7-185260825073111091.htm",
+      "summary": "Rằm tháng 7 được xem là một trong 4 rằm lớn của Phật giáo, nhắc nhở mỗi người về đạo hiếu, về lễ Vu lan với truyền thống 'uống nước nhớ nguồn'. Theo lịch âm hôm nay 27.8 có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T22:00:00+07:00",
+      "fetched": "2026-08-27T05:35:34.888263+07:00"
+    },
+    {
+      "id": "07bd5b98d0b22f9dc1ab3a5783eb1ee4",
+      "title": "Vùng Vịnh khó xử trước đòn cô lập kinh tế Iran của Mỹ",
+      "link": "https://vnexpress.net/vung-vinh-kho-xu-truoc-don-co-lap-kinh-te-iran-cua-my-5113438.html",
+      "summary": "Mỹ muốn bóp nghẹt các nguồn thu còn lại của Iran, nhưng chiến dịch này khiến các đồng minh vùng Vịnh phải cân nhắc giữa lợi ích với nguy cơ bất ổn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-26T22:00:00+07:00",
+      "fetched": "2026-08-27T05:35:38.274187+07:00"
+    },
+    {
+      "id": "95fc4bf10480ab869200e1c1f16c1cfe",
+      "title": "Rủi ro bảo mật khi mở wifi điện thoại thường xuyên",
+      "link": "https://vnexpress.net/rui-ro-bao-mat-khi-mo-wifi-dien-thoai-thuong-xuyen-5112869.html",
+      "summary": "Cài đặt wifi luôn mở trên điện thoại đem theo thuận tiện về kết nối liền mạch nhưng có thể gây ra lo ngại về bảo mật.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-26T22:00:00+07:00",
+      "fetched": "2026-08-27T05:35:42.286927+07:00"
+    },
+    {
+      "id": "4394aeeda90ee06ae21999a4b08625aa",
+      "title": "TP.HCM tham vấn nhà đầu tư về Trung tâm Công nghệ chiến lược gần 53 ha",
+      "link": "https://thanhnien.vn/tphcm-tham-van-nha-dau-tu-ve-trung-tam-cong-nghe-chien-luoc-gan-53-ha-185260826135050041.htm",
+      "summary": "Trung tâm Công nghệ chiến lược gần 53 ha tại TP.HCM được định hướng thu hút nhà đầu tư vào AI, bán dẫn và dữ liệu lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T21:59:00+07:00",
+      "fetched": "2026-08-27T05:35:34.888415+07:00"
     },
     {
       "id": "a144bde4240dd57fe7701e561b85d9b8",
@@ -811,6 +1061,16 @@ window.newsData_2026_08_27 = {
       "category": "Công nghệ",
       "published": "2026-08-26T07:04:10+07:00",
       "fetched": "2026-08-27T02:33:47.475392+07:00"
+    },
+    {
+      "id": "0518d6d87595a8c947620210f98a8b0f",
+      "title": "Công ty bảo hiểm đầu tư chứng khoán lãi hơn nghìn tỷ đồng",
+      "link": "https://vnexpress.net/cong-ty-bao-hiem-dau-tu-chung-khoan-lai-hon-nghin-ty-dong-5113494.html",
+      "summary": "Prudential Việt Nam lãi gần 1.038 tỷ đồng từ chứng khoán trong nửa đầu năm, gấp 20 lần cùng kỳ, góp phần kéo lợi nhuận sau thuế tăng 3,5 lần.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-26T05:38:06+07:00",
+      "fetched": "2026-08-27T05:35:39.611800+07:00"
     },
     {
       "id": "05c1ae392520b706b938aa54a9f68c78",
