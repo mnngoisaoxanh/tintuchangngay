@@ -1,7 +1,157 @@
 window.newsData_2026_08_29 = {
   "date": "2026-08-29",
-  "lastUpdated": "2026-08-29T18:58:13.060546+07:00",
+  "lastUpdated": "2026-08-29T23:11:25.074680+07:00",
   "articles": [
+    {
+      "id": "67d5757897952d1de906dd4a5a13fb96",
+      "title": "Chỉ 12% bệnh nhân đột quỵ của Bệnh viện Nhân dân 115 đến trong 3 giờ đầu",
+      "link": "https://tuoitre.vn/chi-12-benh-nhan-dot-quy-cua-benh-vien-nhan-dan-115-den-trong-3-gio-dau-100260829193545933.htm",
+      "summary": "Chỉ khoảng 12% bệnh nhân đột quỵ được Bệnh viện Nhân dân 115 (TP.HCM) tiếp nhận đến viện trong 3 giờ đầu và khoảng 40% nhập viện sau 6 - 24 giờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:11:19.024859+07:00",
+      "fetched": "2026-08-29T23:11:19.024895+07:00"
+    },
+    {
+      "id": "ee5db955bd9a6d98d94736fb1c9effa8",
+      "title": "Liverpool hòa 'hú vía' Nottingham Forest",
+      "link": "https://tuoitre.vn/liverpool-hoa-hu-via-nottingham-forest-100260829203653532.htm",
+      "summary": "Liverpool tiếp tục bị Nottingham Forest cầm hòa 2-2 trên sân Anfield ở vòng 2 Giải Ngoại hạng Anh (Premier League) 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:11:19.024817+07:00",
+      "fetched": "2026-08-29T23:11:19.024853+07:00"
+    },
+    {
+      "id": "4f7e84b0f2ae96be1b2c4d86fc3477d0",
+      "title": "Sau lũ quét Nepal, chuyên gia cảnh báo nguy cơ ở dãy Alps",
+      "link": "https://tuoitre.vn/sau-lu-quet-nepal-chuyen-gia-canh-bao-nguy-co-o-day-alps-100260829204119289.htm",
+      "summary": "Trận lũ quét thảm khốc tại Nepal - Trung Quốc làm dấy lên cảnh báo nguy cơ sông băng sụp đổ ở dãy Alps khi băng tan và tầng đất đóng băng vĩnh cửu suy yếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:11:19.024777+07:00",
+      "fetched": "2026-08-29T23:11:19.024812+07:00"
+    },
+    {
+      "id": "028ec7f6c8edb7a1d2b71b433110e671",
+      "title": "Bực tức khi chăm sóc, nghịch tử ra tay bóp cổ giết mẹ ruột",
+      "link": "https://tuoitre.vn/buc-tuc-khi-cham-soc-nghich-tu-ra-tay-bop-co-giet-me-ruot-100260829205523705.htm",
+      "summary": "Công an tỉnh An Giang đang điều tra làm rõ vụ Phạm Trường Giang (34 tuổi, ở xã Hòn Đất, tỉnh An Giang) ra tay bóp cổ giết chết mẹ ruột của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:11:19.024734+07:00",
+      "fetched": "2026-08-29T23:11:19.024771+07:00"
+    },
+    {
+      "id": "203195a78670f9dc339c01a5680a1e4e",
+      "title": "Nhật Bản cho người đấu cờ vây cùng AI, kỳ vọng thành eSports mới",
+      "link": "https://tuoitre.vn/nhat-ban-cho-nguoi-dau-co-vay-cung-ai-ky-vong-thanh-esports-moi-100260829210426748.htm",
+      "summary": "Lần đầu tiên, các kỳ thủ chuyên nghiệp Nhật Bản bắt cặp với AI để cùng tính nước cờ, mở ra cách chơi mới có thể trở thành eSports.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:11:19.024693+07:00",
+      "fetched": "2026-08-29T23:11:19.024728+07:00"
+    },
+    {
+      "id": "02a68524fbbb1a9a22aa7a69eeadd76d",
+      "title": "Trêu ghẹo cô gái ở quán bia không xong, 2 thanh niên quay sang đánh bạn trai và người can ngăn",
+      "link": "https://tuoitre.vn/treu-gheo-co-gai-o-quan-bia-khong-xong-2-thanh-nien-quay-sang-danh-ban-trai-va-nguoi-can-ngan-100260829204935028.htm",
+      "summary": "Đinh Xuân Đông và Đinh Văn Lương trêu ghẹo cô gái bất thành rồi chửi bới, đánh bạn trai cô gái và một nam thanh niên vào can ngăn tại quán bia ở Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:11:19.024648+07:00",
+      "fetched": "2026-08-29T23:11:19.024687+07:00"
+    },
+    {
+      "id": "99156d29919c9543714e73755de98c4b",
+      "title": "Chiếc ví có tên Trần Văn Thanh và tấm nhôm khắc tên Nông Thế An trong mộ liệt sĩ",
+      "link": "https://tuoitre.vn/chiec-vi-co-ten-tran-van-thanh-va-tam-nhom-khac-ten-nong-the-an-trong-mo-liet-si-100260829205218037.htm",
+      "summary": "Lực lượng chức năng phát hiện chiếc ví ghi tên Trần Văn Thanh, sinh năm 1948, quê Quảng Nam và tấm nhôm khắc tên Nông Thế An, nhập ngũ tháng 8-1971, hy sinh ngày 24-5-1972, trong các phần mộ liệt sĩ chưa xác định danh tính ở Quảng Ngãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:11:19.024601+07:00",
+      "fetched": "2026-08-29T23:11:19.024642+07:00"
+    },
+    {
+      "id": "e8433fd3d45446b379a6d78c3a57f3de",
+      "title": "Tây Ninh tìm nhân chứng về hố chôn liệt sĩ trận đánh Suối Tre - Đồng Rùm năm 1967 ở xã Tân Thành",
+      "link": "https://tuoitre.vn/tay-ninh-tim-nhan-chung-ve-ho-chon-liet-si-tran-danh-suoi-tre-dong-rum-nam-1967-o-xa-tan-thanh-100260829212324264.htm",
+      "summary": "Ngày 29-8, Ban Chỉ đạo 515 tỉnh Tây Ninh cho biết đã ra văn bản kêu gọi người dân cung cấp thông tin phục vụ công tác tìm kiếm hài cốt liệt sĩ trên địa bàn xã Tân Thành, Tây Ninh liên quan đến trận đánh Suối Tre - Đồng Rùm ngày 21-3-1967.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:11:19.024545+07:00",
+      "fetched": "2026-08-29T23:11:19.024594+07:00"
+    },
+    {
+      "id": "7b4ef47fdfae60164a0823883b18a6da",
+      "title": "Ukraine ráo riết huy động 30.000 quân mỗi tháng",
+      "link": "https://tuoitre.vn/ukraine-rao-riet-huy-dong-30000-quan-moi-thang-10026082920314603.htm",
+      "summary": "Ukraine cảnh báo nước này không thể để số người được huy động mỗi tháng thấp hơn 30.000.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:11:19.024503+07:00",
+      "fetched": "2026-08-29T23:11:19.024539+07:00"
+    },
+    {
+      "id": "9d896ec48f48d02754a2c852950c9ccc",
+      "title": "Ba dự án về người khuyết tật chiến thắng liên hoan Inspiring Asia Việt Nam",
+      "link": "https://tuoitre.vn/ba-du-an-ve-nguoi-khuyet-tat-chien-thang-lien-hoan-inspiring-asia-viet-nam-100260829212233652.htm",
+      "summary": "Chạm vào xanh, Pháo hoa và Nghị lực sống đã giành chiến thắng tại Liên hoan phim ngắn Inspiring Asia Việt Nam ở hạng mục dự án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:11:19.024458+07:00",
+      "fetched": "2026-08-29T23:11:19.024497+07:00"
+    },
+    {
+      "id": "32616e9fe6c4e6fe8d6368bc34210594",
+      "title": "Chuỗi nhà thuốc đầu tiên hiện diện tại Côn Đảo: Long Châu 'đi thật xa để đến thật gần' người dân",
+      "link": "https://tuoitre.vn/chuoi-nha-thuoc-dau-tien-hien-dien-tai-con-dao-long-chau-di-that-xa-de-den-that-gan-nguoi-dan-100260829212332091.htm",
+      "summary": "Ngày 28-8, Hệ thống Nhà thuốc và Tiêm chủng Long Châu đã đồng hành cùng Báo Quân đội Nhân dân, Bộ Tư lệnh TP.HCM và Đảng ủy, UBND Đặc khu Côn Đảo tổ chức chương trình “Hành trình tri ân - Vì một Việt Nam khỏe mạnh” với chuỗi hoạt động tri ân người có công, chăm sóc sức khỏe và an sinh xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:11:19.024418+07:00",
+      "fetched": "2026-08-29T23:11:19.024452+07:00"
+    },
+    {
+      "id": "7f70c74b9ae17b2e827094ec8059e341",
+      "title": "Từ vụ quán phở mua gà ở đâu có hóa đơn, nói câu chuyện thu thuế hộ kinh doanh",
+      "link": "https://tuoitre.vn/tu-vu-quan-pho-mua-ga-o-dau-co-hoa-don-noi-cau-chuyen-thu-thue-ho-kinh-doanh-100260829215123557.htm",
+      "summary": "Một hàng phở làm sao chứng minh được con gà mua ở đâu mà có hóa đơn? Câu hỏi này đã tạo ra hàng loạt ý kiến tranh luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:11:19.024372+07:00",
+      "fetched": "2026-08-29T23:11:19.024412+07:00"
+    },
+    {
+      "id": "3898655ffddea97a6a12fe45d8cbac5c",
+      "title": "Hội võ về làng, người dân reo hò khi xem võ sĩ so tài",
+      "link": "https://tuoitre.vn/hoi-vo-ve-lang-nguoi-dan-reo-ho-khi-xem-vo-si-so-tai-100260829213752763.htm",
+      "summary": "Thay vì tổ chức tại các đô thị hay nhà thi đấu lớn, chương trình “Giao lưu thi đấu võ thuật cổ truyền tỉnh Đắk Lắk mở rộng lần thứ I năm 2026” được đưa về xã Hòa Thịnh, Đắk Lắk. Sự kiện không chỉ là nơi các võ sĩ tranh tài mà còn giúp võ cổ truyền đến gần với người dân quê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:11:19.024328+07:00",
+      "fetched": "2026-08-29T23:11:19.024365+07:00"
+    },
+    {
+      "id": "15d7993a3874754e771676d5fc2a1d50",
+      "title": "Bộ Giáo dục định hướng tuyển sinh lớp 10: Chỉ thi ở nơi trường công chưa đáp ứng đủ nhu cầu",
+      "link": "https://tuoitre.vn/bo-giao-duc-dinh-huong-tuyen-sinh-lop-10-chi-thi-o-noi-truong-cong-chua-dap-ung-du-nhu-cau-100260829214417587.htm",
+      "summary": "Hà Nội, TP.HCM nằm trong nhóm địa bàn cần thi lớp 10 do đông học sinh, trường công chưa đáp ứng đủ nhu cầu, theo Bộ Giáo dục và Đào tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:11:19.024272+07:00",
+      "fetched": "2026-08-29T23:11:19.024321+07:00"
+    },
+    {
+      "id": "e9f83ee6139120c390c6ffee9c447de9",
+      "title": "Cục CSGT: Liên tiếp 2 vụ tông xe liên hoàn trên cao tốc do không giữ khoảng cách, 11 ô tô hư hỏng",
+      "link": "https://tuoitre.vn/cuc-csgt-lien-tiep-2-vu-tong-xe-lien-hoan-tren-cao-toc-do-khong-giu-khoang-cach-11-o-to-hu-hong-100260829221256036.htm",
+      "summary": "Hai vụ tai nạn xảy ra vào ngày 28 và 29-8 liên quan đến 12 ô tô xảy ra trên cao tốc Nội Bài - Lào Cai và Phan Thiết - Dầu Giây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:11:19.024137+07:00",
+      "fetched": "2026-08-29T23:11:19.024261+07:00"
+    },
     {
       "id": "9c7e347a71d99b71e770dca80234b2a6",
       "title": "Bộ Y tế đề nghị kiểm tra 11 loại thực phẩm chức năng quen thuộc có dấu hiệu vi phạm",
@@ -151,6 +301,366 @@ window.newsData_2026_08_29 = {
       "category": "Tổng hợp",
       "published": "2026-08-29T18:58:05.483269+07:00",
       "fetched": "2026-08-29T18:58:05.483428+07:00"
+    },
+    {
+      "id": "1435bb695adaea33a64fcb8b0ec1cdcb",
+      "title": "Sở Nội vụ Hà Nội thay đổi, đề xuất tiếp tục xét thăng hạng giáo viên",
+      "link": "https://thanhnien.vn/so-noi-vu-ha-noi-thay-doi-de-xuat-tiep-tuc-xet-thang-hang-giao-vien-185260829224458942.htm",
+      "summary": "Sau đề xuất dừng xét thăng hạng đột ngột khiến hàng nghìn giáo viên 'bàng hoàng', lo lắng, Sở Nội vụ Hà Nội vừa có công văn kiến nghị UBND thành phố tiếp tục thực hiện xét thăng hạng cho giáo viên, hoàn thành trước tháng 12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T16:06:00+07:00",
+      "fetched": "2026-08-29T23:11:17.328937+07:00"
+    },
+    {
+      "id": "8e72942b725c3ce989f215b763f3f1c9",
+      "title": "Cần Thơ kỳ vọng tìm ra nhiều VĐV xuất sắc từ ngày hội thể thao lớn",
+      "link": "https://thanhnien.vn/can-tho-ky-vong-tim-ra-nhieu-vdv-xuat-sac-tu-ngay-hoi-the-thao-lon-18526082922184064.htm",
+      "summary": "Cần Thơ khai mạc Đại hội TDTT cấp thành phố, với kỳ vọng sẽ tuyển chọn được những VĐV giỏi đủ sức gặt hái vinh quang ở những sân chơi lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T16:05:00+07:00",
+      "fetched": "2026-08-29T23:11:17.329055+07:00"
+    },
+    {
+      "id": "8e915428fe1ee2423dfc819f0dc408f6",
+      "title": "2 vụ tai nạn liên hoàn trên cao tốc vì không giữ khoảng cách an toàn",
+      "link": "https://thanhnien.vn/2-vu-tai-nan-lien-hoan-tren-cao-toc-vi-khong-giu-khoang-cach-an-toan-185260829223003657.htm",
+      "summary": "Trong 2 ngày 28 - 29.8, 2 vụ tai nạn liên hoàn đã xảy ra trên cao tốc Nội Bài - Lào Cai và Phan Thiết - Dầu Giây khiến 11 ô tô hư hỏng. Nguyên nhân đều liên quan đến hành vi không giữ khoảng cách an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T15:54:00+07:00",
+      "fetched": "2026-08-29T23:11:17.329162+07:00"
+    },
+    {
+      "id": "7aa9245a0919204c9eab92909c124458",
+      "title": "Không còn dấu hiệu sống sau khi lũ quét xóa sạch cửa khẩu Trung Quốc",
+      "link": "https://thanhnien.vn/khong-con-dau-hieu-song-sau-khi-lu-quet-xoa-sach-cua-khau-trung-quoc-185260829221820275.htm",
+      "summary": "Các quan chức cứu hộ cho biết cửa khẩu biên giới Trung Quốc và Nepal đã bị trận lũ quét cuốn phăng và không còn dấu hiệu sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T15:26:00+07:00",
+      "fetched": "2026-08-29T23:11:17.329264+07:00"
+    },
+    {
+      "id": "5995981f782d958158735c7438756eb9",
+      "title": "Iran thừa nhận kinh tế chịu tác động từ đòn trừng phạt của Mỹ",
+      "link": "https://vnexpress.net/iran-thua-nhan-kinh-te-chiu-tac-dong-tu-don-trung-phat-cua-my-5115029.html",
+      "summary": "Tổng thống Iran nói nền kinh tế đang bị ảnh hưởng nặng nề bởi các lệnh trừng phạt của Mỹ, đề xuất tăng giá xăng để bù đắp thâm hụt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T15:04:26+07:00",
+      "fetched": "2026-08-29T23:11:14.518412+07:00"
+    },
+    {
+      "id": "5995981f782d958158735c7438756eb9",
+      "title": "Iran thừa nhận kinh tế chịu tác động từ đòn trừng phạt của Mỹ",
+      "link": "https://vnexpress.net/iran-thua-nhan-kinh-te-chiu-tac-dong-tu-don-trung-phat-cua-my-5115029.html",
+      "summary": "Tổng thống Iran nói nền kinh tế đang bị ảnh hưởng nặng nề bởi các lệnh trừng phạt của Mỹ, đề xuất tăng giá xăng để bù đắp thâm hụt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-29T15:04:26+07:00",
+      "fetched": "2026-08-29T23:11:20.226294+07:00"
+    },
+    {
+      "id": "db5e1c6816dfcae2081e4c2eea20e321",
+      "title": "Nepal khôi phục tìm kiếm người sống sót sau lũ, ước tính chi phí tái thiết",
+      "link": "https://thanhnien.vn/nepal-khoi-phuc-tim-kiem-nguoi-song-sot-sau-lu-uoc-tinh-chi-phi-tai-thiet-18526082921545641.htm",
+      "summary": "Nepal ngày 29.8 khôi phục công tác tìm kiếm và cứu nạn sau khi tạm dừng một thời gian ngắn do thời tiết xấu, trong bối cảnh giới chức nỗ lực tìm kiếm gần 3.000 người mất tích sau trận lũ lụt kinh hoàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T14:58:00+07:00",
+      "fetched": "2026-08-29T23:11:17.329367+07:00"
+    },
+    {
+      "id": "0b223028ab40c9948fba7591e06b40fb",
+      "title": "Bệnh viện Hoàn Mỹ Sài Gòn nhận Chứng nhận Bạch kim về đột quỵ",
+      "link": "https://thanhnien.vn/benh-vien-hoan-my-sai-gon-nhan-chung-nhan-bach-kim-ve-dot-quy-185260829195306607.htm",
+      "summary": "Bệnh viện Hoàn Mỹ Sài Gòn, thành viên Tập đoàn y khoa Hoàn Mỹ đón nhận Chứng nhận Bạch kim từ Hội Đột quỵ thế giới WSO sau 3 quý được công nhận Chứng nhận Vàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T14:40:00+07:00",
+      "fetched": "2026-08-29T23:11:17.329468+07:00"
+    },
+    {
+      "id": "6053ad59eba024c348934428f40c1a92",
+      "title": "Hai thanh niên trêu ghẹo phụ nữ trong quán ăn đêm",
+      "link": "https://vnexpress.net/hai-thanh-nien-treu-gheo-phu-nu-trong-quan-an-dem-5115036.html",
+      "summary": "Đinh Xuân Đông và Đinh Văn Lương trêu ghẹo một cô gái ở bàn bên cạnh trong quán ăn và xảy ra xô xát với bạn trai của cô này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T14:34:36+07:00",
+      "fetched": "2026-08-29T23:11:14.518543+07:00"
+    },
+    {
+      "id": "dd66922784b09f86ec0acda4b6c5a93f",
+      "title": "Cựu bí thư tỉnh ủy Trung Quốc lãnh án tử hình 'treo'",
+      "link": "https://thanhnien.vn/cuu-bi-thu-tinh-uy-trung-quoc-lanh-an-tu-hinh-treo-18526082921320573.htm",
+      "summary": "Cựu Bí thư Tỉnh ủy Hồ Bắc Tưởng Siêu Lương bị tuyên án tử hình vì hành vi nhận hối lộ gần 3.000 tỉ đồng trong thời gian công tác qua nhiều vị trí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T14:30:00+07:00",
+      "fetched": "2026-08-29T23:11:17.329579+07:00"
+    },
+    {
+      "id": "6f1f09e4ee1069d2176c740f76139a8e",
+      "title": "TP.HCM quy định 36 m2 đất ở là được tách thửa đất",
+      "link": "https://thanhnien.vn/tphcm-quy-dinh-36-m2-dat-o-la-duoc-tach-thua-dat-185260829194555436.htm",
+      "summary": "UBND TP.HCM đã ký Quyết định 67 quy định về điều kiện tách thửa đất, điều kiện hợp thửa đất và diện tích tối thiểu được tách thửa trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T14:28:00+07:00",
+      "fetched": "2026-08-29T23:11:17.329684+07:00"
+    },
+    {
+      "id": "7faa121b4e8225353ad56322638717b0",
+      "title": "Thêm một giám đốc bị bắt trong vụ bờ kè đổ sau bão Yagi",
+      "link": "https://vnexpress.net/them-mot-giam-doc-bi-bat-trong-vu-bo-ke-do-sau-bao-yagi-5115039.html",
+      "summary": "Nguyễn Văn Anh, Giám đốc Công ty TNHH đầu tư xây dựng và thương mại Anh Hương, bị bắt trong vụ bờ kè bị gãy đổ sau bão Yagi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T14:24:44+07:00",
+      "fetched": "2026-08-29T23:11:14.518686+07:00"
+    },
+    {
+      "id": "570d69db87225fdbdebbc6c4960a02a1",
+      "title": "Gần 600.000 lượt phương tiện vào cao tốc trong ngày đầu nghỉ lễ Quốc khánh 2.9",
+      "link": "https://thanhnien.vn/gan-600000-luot-phuong-tien-vao-cao-toc-trong-ngay-dau-nghi-le-quoc-khanh-29-185260829202624623.htm",
+      "summary": "Theo thống kê của Cục CSGT Bộ Công an, trong ngày đầu nghỉ lễ Quốc khánh 2.9 năm nay, tổng phương tiện vào các tuyến cao tốc đạt 597.896 lượt và tình hình giao thông cơ bản ổn định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T14:19:00+07:00",
+      "fetched": "2026-08-29T23:11:17.329785+07:00"
+    },
+    {
+      "id": "a3ea6d5d49d911ceb511403b73b18879",
+      "title": "Vàng giảm gần 150 USD/ounce trong ngày, sắp tới tiếp tục 'lao dốc'?",
+      "link": "https://thanhnien.vn/vang-giam-gan-150-usd-ounce-trong-ngay-sap-toi-tiep-tuc-lao-doc-185260829203928213.htm",
+      "summary": "Giá vàng thế giới bất ngờ 'lao dốc' cuối tuần này. Theo chuyên gia vàng Trần Duy Phương, đây là nhịp điều chỉnh cần thiết sau giai đoạn tăng 'nóng'. Về cơ bản, xu hướng tăng của vàng chưa kết thúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T14:16:00+07:00",
+      "fetched": "2026-08-29T23:11:17.329885+07:00"
+    },
+    {
+      "id": "25d4645e00b35555399014f00e4acb7a",
+      "title": "Mưa lớn 3 ngày trước Quốc khánh 2.9, 12 tỉnh thành sẵn sàng ứng phó",
+      "link": "https://thanhnien.vn/mua-lon-3-ngay-truoc-quoc-khanh-29-12-tinh-thanh-san-sang-ung-pho-185260829201844638.htm",
+      "summary": "Ban Chỉ đạo phòng thủ dân sự quốc gia đề nghị UBND 12 tỉnh, thành phố ở miền Bắc, miền Trung sẵn sàng triển khai các biện pháp ứng phó đợt mưa lớn trong kỳ nghỉ lễ Quốc khánh 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T14:12:00+07:00",
+      "fetched": "2026-08-29T23:11:17.329986+07:00"
+    },
+    {
+      "id": "51c6bca0f3f217a51dcdd200d6546850",
+      "title": "Các nhà khoa học tìm ra mẹo nhỏ nhưng cực hay cho người thiếu ngủ",
+      "link": "https://thanhnien.vn/cac-nha-khoa-hoc-tim-ra-meo-nho-nhung-cuc-hay-cho-nguoi-thieu-ngu-185260829211117737.htm",
+      "summary": "Thiếu ngủ không chỉ khiến cơ thể mệt mỏi mà còn có thể ảnh hưởng đến não bộ và trí nhớ. Nghiên cứu mới cho thấy chỉ 20 phút tập thể dục có thể giúp giảm tác động này trong những trường hợp không thể ngủ đủ giấc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T14:08:00+07:00",
+      "fetched": "2026-08-29T23:11:17.330088+07:00"
+    },
+    {
+      "id": "8e952767a9feb6cd7d02362f2710be47",
+      "title": "Anh yêu người mới 4 năm rồi lại muốn quay về với tôi",
+      "link": "https://vnexpress.net/anh-yeu-nguoi-moi-4-nam-roi-lai-muon-quay-ve-voi-toi-5114983.html",
+      "summary": "Bốn năm trước, tôi từng yêu mà chẳng cần anh có gì, giờ tự hỏi anh có yêu tôi hay đang cân nhắc tôi như một lựa chọn tốt hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T14:00:00+07:00",
+      "fetched": "2026-08-29T23:11:14.518800+07:00"
+    },
+    {
+      "id": "4071ec004af4a09160799c02292b7f77",
+      "title": "Xiaomi sắp tạo bất ngờ với smartphone dùng RAM LPDDR6 đầu tiên",
+      "link": "https://thanhnien.vn/xiaomi-sap-tao-bat-ngo-voi-smartphone-dung-ram-lpddr6-dau-tien-185260829170738531.htm",
+      "summary": "Việc Xiaomi sử dụng RAM LPDDR6 có thể đánh dấu bước tiến lớn của CXMT trong cuộc đua với các ông lớn bộ nhớ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T13:57:00+07:00",
+      "fetched": "2026-08-29T23:11:17.330186+07:00"
+    },
+    {
+      "id": "cd9f557f3593a87c43ef25f24690923d",
+      "title": "Quốc vương trẻ nhất thế giới qua đời",
+      "link": "https://thanhnien.vn/quoc-vuong-tre-nhat-the-gioi-qua-doi-18526082920374994.htm",
+      "summary": "Vua Oyo Nyimba Kabamba Iguru Rukidi IV của Vương quốc Tooro thuộc Uganda, người trở thành vị vua trị vì trẻ nhất thế giới khi lên ngôi lúc mới 3 tuổi, đã qua đời ở tuổi 34.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T13:55:00+07:00",
+      "fetched": "2026-08-29T23:11:17.330284+07:00"
+    },
+    {
+      "id": "da8abb671359623d2588b3bdb6ca1f89",
+      "title": "Huỳnh Anh Tuấn trở lại căn bếp cũ, cuộc sống hiện tại ra sao?",
+      "link": "https://thanhnien.vn/huynh-anh-tuan-tro-lai-can-bep-cu-cuoc-song-hien-tai-ra-sao-185260829182537167.htm",
+      "summary": "Sau biến cố sức khỏe, Huỳnh Anh Tuấn chưa trở lại với công việc diễn xuất mà dành thời gian này để nghỉ ngơi. Nam nghệ sĩ nhận được lời động viên từ phía người hâm mộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T13:55:00+07:00",
+      "fetched": "2026-08-29T23:11:17.330382+07:00"
+    },
+    {
+      "id": "7237a4795d2dcadd2f944e184b93c982",
+      "title": "Mối nguy khí hậu từ vụ sụp đổ sông băng Nepal",
+      "link": "https://vnexpress.net/moi-nguy-khi-hau-tu-vu-sup-do-song-bang-nepal-5114998.html",
+      "summary": "Giới khoa học ghi nhận số lượng thảm họa sụp đổ sông băng ngày một tăng trong thập kỷ qua, khi lớp băng vĩnh cửu tan nhanh hơn trước biến đổi khí hậu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T13:54:13+07:00",
+      "fetched": "2026-08-29T23:11:14.518910+07:00"
+    },
+    {
+      "id": "7237a4795d2dcadd2f944e184b93c982",
+      "title": "Mối nguy khí hậu từ vụ sụp đổ sông băng Nepal",
+      "link": "https://vnexpress.net/moi-nguy-khi-hau-tu-vu-sup-do-song-bang-nepal-5114998.html",
+      "summary": "Giới khoa học ghi nhận số lượng thảm họa sụp đổ sông băng ngày một tăng trong thập kỷ qua, khi lớp băng vĩnh cửu tan nhanh hơn trước biến đổi khí hậu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-29T13:54:13+07:00",
+      "fetched": "2026-08-29T23:11:21.198652+07:00"
+    },
+    {
+      "id": "008386db556403ec0d98755d0a1282a7",
+      "title": "Điều gì thu hút runner đến giải chạy ở Vũng Tàu?",
+      "link": "https://vnexpress.net/dieu-gi-thu-hut-runner-den-giai-chay-o-vung-tau-5114954.html",
+      "summary": "Lần đầu tổ chức tại Vũng Tàu, VnExpress Marathon thu hút hơn 7.000 runner vừa chinh phục đường chạy, vừa khám phá phố biển dịp nghỉ lễ Quốc khánh 2/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T13:47:08+07:00",
+      "fetched": "2026-08-29T23:11:14.519015+07:00"
+    },
+    {
+      "id": "8746f2842706ba38deb36497c2377b47",
+      "title": "Liverpool hòa trận thứ hai liên tiếp ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/liverpool-hoa-tran-thu-hai-lien-tiep-o-ngoai-hang-anh-5115037.html",
+      "summary": "Hai lần bị dẫn trước, Liverpool vẫn hòa đội khách Nottingham Forest 2-2 ở vòng hai Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T13:38:52+07:00",
+      "fetched": "2026-08-29T23:11:14.519120+07:00"
+    },
+    {
+      "id": "8746f2842706ba38deb36497c2377b47",
+      "title": "Liverpool hòa trận thứ hai liên tiếp ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/liverpool-hoa-tran-thu-hai-lien-tiep-o-ngoai-hang-anh-5115037.html",
+      "summary": "Hai lần bị dẫn trước, Liverpool vẫn hòa đội khách Nottingham Forest 2-2 ở vòng hai Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-29T13:38:52+07:00",
+      "fetched": "2026-08-29T23:11:25.068474+07:00"
+    },
+    {
+      "id": "a8a4b9aab0a79cbafdb3f9c5302bd946",
+      "title": "37 người chết do vụ nổ kho vũ khí ở ngoại ô Kiev",
+      "link": "https://vnexpress.net/37-nguoi-chet-do-vu-no-kho-vu-khi-o-ngoai-o-kiev-5114999.html",
+      "summary": "Tổng thống Zelensky thông báo ít nhất 37 người đã chết khi kho chứa đạn pháo, drone ở ngoại ô Kiev phát nổ sau đòn tập kích của UAV Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T13:33:28+07:00",
+      "fetched": "2026-08-29T23:11:14.519224+07:00"
+    },
+    {
+      "id": "a8a4b9aab0a79cbafdb3f9c5302bd946",
+      "title": "37 người chết do vụ nổ kho vũ khí ở ngoại ô Kiev",
+      "link": "https://vnexpress.net/37-nguoi-chet-do-vu-no-kho-vu-khi-o-ngoai-o-kiev-5114999.html",
+      "summary": "Tổng thống Zelensky thông báo ít nhất 37 người đã chết khi kho chứa đạn pháo, drone ở ngoại ô Kiev phát nổ sau đòn tập kích của UAV Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-29T13:33:28+07:00",
+      "fetched": "2026-08-29T23:11:20.226419+07:00"
+    },
+    {
+      "id": "c52b41873c9273a261c3dbb2c03cef94",
+      "title": "Vụ nổ nhà trọ Phú Thọ do pháo tự chế, một người tử vong",
+      "link": "https://vnexpress.net/vu-no-nha-tro-phu-tho-do-phao-tu-che-mot-nguoi-tu-vong-5115031.html",
+      "summary": "Công an xác định các nạn nhân trong quá trình tự chế pháo nổ đã làm nổ tung toàn bộ 3 phòng trọ, một người chết, 3 người bị thương nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T13:29:16+07:00",
+      "fetched": "2026-08-29T23:11:14.519330+07:00"
+    },
+    {
+      "id": "fd03e731827319d94b0930c4da9fdbba",
+      "title": "Jennifer Phạm mặc năng động khi du lịch Ladakh, Tây Tạng",
+      "link": "https://vnexpress.net/jennifer-pham-mac-nang-dong-khi-du-lich-ladakh-tay-tang-5114931.html",
+      "summary": "Hoa hậu Jennifer Phạm diện quần túi hộp, áo khoác thể thao trong chuyến khám phá Ladakh, Tây Tạng gần hai tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T13:00:00+07:00",
+      "fetched": "2026-08-29T23:11:14.519436+07:00"
+    },
+    {
+      "id": "619e03248d3789042c2f63dec9b9e443",
+      "title": "Công thức trẻ hóa tuổi 60 không ăn kiêng của tỷ phú Madam Pang",
+      "link": "https://vnexpress.net/cong-thuc-tre-hoa-tuoi-60-khong-an-kieng-cua-ty-phu-madam-pang-5114344.html",
+      "summary": "Nữ tỷ phú Madam Pang duy trì làn da căng bóng cùng vóc dáng thon gọn tuổi 60 nhờ thói quen uống 20 cốc nước mỗi ngày, đi bộ đều đặn kết hợp ăn uống linh hoạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T13:00:00+07:00",
+      "fetched": "2026-08-29T23:11:14.519548+07:00"
+    },
+    {
+      "id": "e7d8181bb8b08811047809c72fe024d6",
+      "title": "Chuyên gia cảnh báo nguy cơ RSV ở trẻ dưới một tuổi",
+      "link": "https://vnexpress.net/chuyen-gia-canh-bao-nguy-co-rsv-o-tre-duoi-mot-tuoi-5113731.html",
+      "summary": "Bệnh do virus hợp bào hô hấp (RSV) lây lan nhanh, dễ truyền từ người lớn hoặc trẻ lớn sang trẻ dưới một tuổi trong khi chưa có thuốc đặc trị, dễ khiến trẻ nhỏ phải nhập viện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T13:00:00+07:00",
+      "fetched": "2026-08-29T23:11:14.519685+07:00"
+    },
+    {
+      "id": "740d37ddb3897a8acaaef306ef957351",
+      "title": "Phút cuối của sĩ quan Trung Quốc xả thân làm nhiệm vụ trong lũ quét",
+      "link": "https://vnexpress.net/phut-cuoi-cua-si-quan-trung-quoc-xa-than-lam-nhiem-vu-trong-lu-quet-5114984.html",
+      "summary": "Hoàng Bành, cảnh sát cửa khẩu Cát Long, hướng dẫn người dân sơ tán đến những giây cuối cùng trước khi lũ quét ập tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T12:23:52+07:00",
+      "fetched": "2026-08-29T23:11:14.519795+07:00"
+    },
+    {
+      "id": "740d37ddb3897a8acaaef306ef957351",
+      "title": "Phút cuối của sĩ quan Trung Quốc xả thân làm nhiệm vụ trong lũ quét",
+      "link": "https://vnexpress.net/phut-cuoi-cua-si-quan-trung-quoc-xa-than-lam-nhiem-vu-trong-lu-quet-5114984.html",
+      "summary": "Hoàng Bành, cảnh sát cửa khẩu Cát Long, hướng dẫn người dân sơ tán đến những giây cuối cùng trước khi lũ quét ập tới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-29T12:23:52+07:00",
+      "fetched": "2026-08-29T23:11:20.226532+07:00"
+    },
+    {
+      "id": "004f6a1d9a11df76c8a6b7a9ef37ff4e",
+      "title": "Vườn quốc gia lớn nhất thế giới ở nước nào?",
+      "link": "https://vnexpress.net/vuon-quoc-gia-lon-nhat-the-gioi-o-nuoc-nao-5115020.html",
+      "summary": "Với khoảng một triệu km2, vườn quốc gia này rộng hơn gần 170 nước thành viên của Liên Hợp Quốc. Nó nằm ở đâu?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T12:07:48+07:00",
+      "fetched": "2026-08-29T23:11:14.519899+07:00"
+    },
+    {
+      "id": "12ce1eff974171d8fd03ba3aae21995d",
+      "title": "'Robot hình người Trung Quốc làm lễ tân vô hồn'",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-trung-quoc-lam-le-tan-vo-hon-5114979.html",
+      "summary": "Tôi đặt đồ ăn giao tới khách sạn ở Thâm Quyến, nhưng gõ cửa phòng không phải nhân viên lễ tân mà là robot hình người cứng nhắc, vô hồn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T12:00:00+07:00",
+      "fetched": "2026-08-29T23:11:14.520009+07:00"
+    },
+    {
+      "id": "b16886da20110a191ff1e70708ca6e53",
+      "title": "'Ngôi sao bán dẫn Trung Quốc' CXMT kiện Bộ Quốc phòng Mỹ",
+      "link": "https://vnexpress.net/ngoi-sao-ban-dan-trung-quoc-cxmt-kien-bo-quoc-phong-my-5114812.html",
+      "summary": "Nhà sản xuất chip nhớ CXMT khởi kiện Lầu Năm Góc vì bị liệt vào danh sách doanh nghiệp hỗ trợ quân đội Trung Quốc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-29T12:00:00+07:00",
+      "fetched": "2026-08-29T23:11:24.119152+07:00"
     },
     {
       "id": "5e0508d50f73a2ce7d80863b61d2347c",
