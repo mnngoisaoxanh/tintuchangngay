@@ -1,7 +1,167 @@
 window.newsData_2026_08_29 = {
   "date": "2026-08-29",
-  "lastUpdated": "2026-08-29T11:48:23.849633+07:00",
+  "lastUpdated": "2026-08-29T18:58:13.060546+07:00",
   "articles": [
+    {
+      "id": "9c7e347a71d99b71e770dca80234b2a6",
+      "title": "Bộ Y tế đề nghị kiểm tra 11 loại thực phẩm chức năng quen thuộc có dấu hiệu vi phạm",
+      "link": "https://tuoitre.vn/bo-y-te-de-nghi-kiem-tra-11-loai-thuc-pham-chuc-nang-quen-thuoc-co-dau-hieu-vi-pham-100260829170626511.htm",
+      "summary": "Cục An toàn thực phẩm, Bộ Y tế vừa có văn bản đề nghị Sở Y tế Hà Nội khẩn trương kiểm tra 2 đơn vị có giấy tiếp nhận đăng ký bản công bố sản phẩm thực phẩm chức năng không đúng với giấy đã được cơ quan chức năng cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T18:58:05.484194+07:00",
+      "fetched": "2026-08-29T18:58:05.484236+07:00"
+    },
+    {
+      "id": "6729d29704941fd27de7c5c9acbe73d9",
+      "title": "TP.HCM muốn thay đổi cách xúc tiến, tìm dòng khách giá trị cao",
+      "link": "https://tuoitre.vn/tphcm-muon-thay-doi-cach-xuc-tien-tim-dong-khach-gia-tri-cao-10026082917201978.htm",
+      "summary": "TP.HCM đứng trước thách thức đổi cách xúc tiến du lịch theo hướng xây dựng thương hiệu điểm đến, tạo trải nghiệm khác biệt và thu hút dòng khách có mức chi tiêu cao, lưu trú dài ngày, qua đó gia tăng giá trị từ mỗi du khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T18:58:05.484144+07:00",
+      "fetched": "2026-08-29T18:58:05.484187+07:00"
+    },
+    {
+      "id": "d17292c7ed4b78b03e1a761bbe5174b0",
+      "title": "Ngành đường sắt có thêm đầu máy thế hệ mới chạy tốc độ tới 120km/h",
+      "link": "https://tuoitre.vn/nganh-duong-sat-co-them-dau-may-the-he-moi-chay-toc-do-toi-120-km-h-100260829164151988.htm",
+      "summary": "Tập đoàn Đường sắt quốc gia Việt Nam (VNR) cho hay vừa chính thức tiếp nhận lô đầu máy D19E mới đầu tiên thuộc dự án đầu tư đầu máy giai đoạn đến năm 2030 tại ga Yên Viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T18:58:05.484093+07:00",
+      "fetched": "2026-08-29T18:58:05.484137+07:00"
+    },
+    {
+      "id": "29bae50b45546fd31e83dea84ad3f456",
+      "title": "Top 5 anime ngắn đáng xem dịp nghỉ lễ Quốc khánh 2-9",
+      "link": "https://tuoitre.vn/top-5-anime-ngan-dang-xem-dip-nghi-le-quoc-khanh-2-9-100260829165755853.htm",
+      "summary": "Không phải anime hay nào cũng cần hàng trăm tập để kể một câu chuyện đáng nhớ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T18:58:05.484040+07:00",
+      "fetched": "2026-08-29T18:58:05.484086+07:00"
+    },
+    {
+      "id": "08f4b600ea19498f1ff1b2b1e45fb468",
+      "title": "Cần Thơ: Hồn xưa giữa lòng đô thị",
+      "link": "https://tuoitre.vn/can-tho-hon-xua-giua-long-do-thi-100260829163401654.htm",
+      "summary": "Dù đã có những đổi thay cùng nhịp sống trẻ, Tây Đô ngày nay vẫn giữ trong mình một hơi thở rất riêng gợi nhớ miền Tây thuở xưa. Đó là quán ngon, xuồng ghe lênh đênh trên chợ nổi. Du khách có thể tự lật mở từng trang sử sống động, chạm vào chiều sâu văn hóa của vùng đất từ những điều bình dị nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T18:58:05.483993+07:00",
+      "fetched": "2026-08-29T18:58:05.484033+07:00"
+    },
+    {
+      "id": "8b769b971044688add0c787092278ffa",
+      "title": "Chợ phiên chỉ họp 3 lần trong năm mở hội tại Hà Nội",
+      "link": "https://tuoitre.vn/cho-phien-chi-hop-3-lan-trong-nam-mo-hoi-tai-ha-noi-100260829173144365.htm",
+      "summary": "Ẩm thực, đặc sản núi rừng từ Đông Bắc qua Tây Bắc đều tụ hội ở chợ phiên vùng cao ‘Cao nguyên mở hội’, phiên chợ đặc biệt chỉ họp 3 lần trong năm tại Làng Văn hóa - Du lịch các dân tộc Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T18:58:05.483941+07:00",
+      "fetched": "2026-08-29T18:58:05.483986+07:00"
+    },
+    {
+      "id": "44d3cc364589731f2acde2c5e999da1b",
+      "title": "Trung vệ tuyển Việt Nam vừa vô địch ASEAN Cup 2026 sẽ dự vòng loại U20 châu Á 2027",
+      "link": "https://tuoitre.vn/trung-ve-tuyen-viet-nam-vua-vo-dich-asean-cup-2026-se-du-vong-loai-u20-chau-a-2027-100260829173903699.htm",
+      "summary": "U20 Việt Nam được tăng cường nhân sự chất lượng từ đội tuyển Việt Nam là trung vệ Đinh Quang Kiệt để đá vòng loại U20 châu Á 2027 - bảng C, diễn ra từ ngày 31-8 đến 6-9 tại Phú Thọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T18:58:05.483886+07:00",
+      "fetched": "2026-08-29T18:58:05.483932+07:00"
+    },
+    {
+      "id": "20a557c826d675d947d32fef25fac30f",
+      "title": "Phòng trọ trơ khung sau tiếng nổ 'rung làng' ở Bình Xuyên, Phú Thọ",
+      "link": "https://tuoitre.vn/phong-tro-tro-khung-sau-tieng-no-rung-lang-o-binh-xuyen-phu-tho-100260829163852236.htm",
+      "summary": "Sau tiếng nổ 'rung làng', một số phòng trọ ở xã Bình Xuyên (gần Khu công nghiệp Bá Thiện 1, tỉnh Phú Thọ) vỡ tung, vật dụng bay xa hàng chục mét.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T18:58:05.483815+07:00",
+      "fetched": "2026-08-29T18:58:05.483878+07:00"
+    },
+    {
+      "id": "e42e30115c65547d29c0dd9b4b20915a",
+      "title": "Dừng lại giữa dòng xe, cảnh sát giao thông dắt xe giúp cụ bà qua đường nhận mưa lời khen",
+      "link": "https://tuoitre.vn/dung-lai-giua-dong-xe-canh-sat-giao-thong-dat-xe-giup-cu-ba-qua-duong-nhan-mua-loi-khen-100260829163302077.htm",
+      "summary": "Khoảnh khắc cảnh sát giao thông dắt xe giúp cụ bà qua đường được camera của một người dân ghi lại, sau đó lan tỏa trên mạng xã hội nhận cơn mưa lời khen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T18:58:05.483757+07:00",
+      "fetched": "2026-08-29T18:58:05.483807+07:00"
+    },
+    {
+      "id": "b23f0e42a6591b57f89d5eba199a9c8d",
+      "title": "Drone Nga tập kích kho hàng ở Kiev, ít nhất 27 người chết",
+      "link": "https://tuoitre.vn/drone-nga-tap-kich-kho-hang-o-kiev-it-nhat-27-nguoi-chet-100260829172844382.htm",
+      "summary": "Ít nhất 27 người đã thiệt mạng sau khi drone của Nga tấn công một nhà kho ở ngoại ô phía tây Kiev trong đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T18:58:05.483702+07:00",
+      "fetched": "2026-08-29T18:58:05.483749+07:00"
+    },
+    {
+      "id": "a840a67cf0d7015f45687af788371c9d",
+      "title": "Phân Bón Cà Mau mở đầu chuỗi hoạt động canh tác lúa bền vững tại Đồng Tháp",
+      "link": "https://tuoitre.vn/phan-bon-ca-mau-mo-dau-chuoi-hoat-dong-canh-tac-lua-ben-vung-tai-dong-thap-10026082916051318.htm",
+      "summary": "Ngày 28-8 tại tỉnh Đồng Tháp, Phân bón Cà Mau cùng BASF và các đơn vị địa phương triển khai hoạt động đầu tiên của Chương trình 'Canh tác lúa bền vững thích ứng với biến đổi khí hậu tại Đồng bằng sông Cửu Long'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T18:58:05.483631+07:00",
+      "fetched": "2026-08-29T18:58:05.483693+07:00"
+    },
+    {
+      "id": "f458d756d25b6f8f1aad26b848116075",
+      "title": "Phạt 9 trường hợp không giữ khoảng cách an toàn trên cao tốc trong ngày đầu nghỉ lễ",
+      "link": "https://tuoitre.vn/phat-9-truong-hop-khong-giu-khoang-cach-an-toan-tren-cao-toc-trong-ngay-dau-nghi-le-100260829173919492.htm",
+      "summary": "Chiều 29-8, Cục Cảnh sát giao thông có thông tin về tình hình trật tự an toàn giao thông trong ngày đầu của kỳ nghỉ lễ 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T18:58:05.483574+07:00",
+      "fetched": "2026-08-29T18:58:05.483623+07:00"
+    },
+    {
+      "id": "28efb484a1563c28da66b45a2086407b",
+      "title": "Bé 21 tháng tuổi tử vong sau một cú vặn tay ga xe máy điện",
+      "link": "https://tuoitre.vn/be-21-thang-tuoi-tu-vong-sau-mot-cu-van-tay-ga-xe-may-dien-100260829180955872.htm",
+      "summary": "Cháu bé 21 tháng tuổi đứng trên sàn phía trước xe điện rồi vô tình vặn tay ga khiến xe bất ngờ lao về phía trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T18:58:05.483513+07:00",
+      "fetched": "2026-08-29T18:58:05.483565+07:00"
+    },
+    {
+      "id": "673a4fb0683d29bd0e748d8139543e1d",
+      "title": "Bắc và Bắc Trung Bộ mưa lớn trước 2-9, Biển Đông khả năng có bão trong đầu tháng 9",
+      "link": "https://tuoitre.vn/bac-va-bac-trung-bo-mua-lon-truoc-2-9-bien-dong-kha-nang-co-bao-trong-dau-thang-9-100260829175815952.htm",
+      "summary": "Dự báo ngày 1-9, vùng áp thấp suy yếu từ bão Saudel di chuyển từ khu vực Quảng Đông (Trung Quốc) trở lại phía bắc khu vực bắc Biển Đông, có khả năng tái sinh, mạnh lại thành bão.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T18:58:05.483440+07:00",
+      "fetched": "2026-08-29T18:58:05.483502+07:00"
+    },
+    {
+      "id": "696d3cb00776238b98efe1adcb3153b0",
+      "title": "CLB Trường Tươi Đồng Nai xuất quân, sẵn sàng gây bất ngờ ở V-League 2026-2027",
+      "link": "https://tuoitre.vn/clb-truong-tuoi-dong-nai-xuat-quan-san-sang-gay-bat-ngo-o-v-league-2026-2027-100260829180841735.htm",
+      "summary": "Mùa đầu tiên tham dự sân chơi cao nhất của bóng đá Việt Nam, CLB Trường Tươi Đồng Nai sẵn sàng gây bất ngờ ở V-League 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T18:58:05.483269+07:00",
+      "fetched": "2026-08-29T18:58:05.483428+07:00"
+    },
+    {
+      "id": "5e0508d50f73a2ce7d80863b61d2347c",
+      "title": "Phát hiện hơn 1.600 tài liệu học thuật mang tên tác giả do AI bịa ra",
+      "link": "https://thanhnien.vn/phat-hien-hon-1600-tai-lieu-hoc-thuat-mang-ten-tac-gia-do-ai-bia-ra-185260829160457832.htm",
+      "summary": "Một nghiên cứu phát hiện hàng nghìn bản ghi trên Zenodo chứa tên tác giả không có thật, cho thấy dữ liệu do AI tạo có thể đi vào hệ thống học thuật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T11:53:00+07:00",
+      "fetched": "2026-08-29T18:58:03.280168+07:00"
+    },
     {
       "id": "3ef4dc749c8a2a0cdcc8d062aa09d34e",
       "title": "MONO làm sứ giả quảng bá di sản văn hóa Huế",
@@ -153,6 +313,436 @@ window.newsData_2026_08_29 = {
       "fetched": "2026-08-29T11:48:16.682125+07:00"
     },
     {
+      "id": "a69e3af0cd417ba2f48bbed5ebc34431",
+      "title": "Đại đội ra đời năm 1945 và hành trình 81 năm của lực lượng vũ trang Đà Nẵng",
+      "link": "https://thanhnien.vn/dai-doi-ra-doi-nam-1945-va-hanh-trinh-81-nam-cua-luc-luong-vu-trang-da-nang-185260829154616048.htm",
+      "summary": "Từ Đại đội Vệ quốc đoàn Phan Thanh được thành lập cách đây 81 năm, lực lượng vũ trang Đà Nẵng đã trải qua những chặng đường chiến đấu, xây dựng và trưởng thành, viết nên truyền thống vẻ vang bằng lòng yêu nước, ý chí kiên cường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T11:32:00+07:00",
+      "fetched": "2026-08-29T18:58:03.280312+07:00"
+    },
+    {
+      "id": "26c95ef2e379fb1f4e784b68a00f7556",
+      "title": "Tổng Bí thư, Chủ tịch nước: Phấn đấu sớm thông xe toàn tuyến Vành đai 1",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-phan-dau-som-thong-xe-toan-tuyen-vanh-dai-1-185260829180245129.htm",
+      "summary": "Nhấn mạnh dự án Vành đai 1 là tuyến giao thông liên tục, đóng vai trò giảm tải ùn tắc nội đô, Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu các đơn vị liên quan đảm bảo tiến độ, phấn đấu sớm thông xe toàn tuyến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T11:25:00+07:00",
+      "fetched": "2026-08-29T18:58:03.280440+07:00"
+    },
+    {
+      "id": "6c494c79ea547cfc0b38ff12fe685e91",
+      "title": "Cà Mau dành hơn 480 tỉ đồng xây dựng kè chống sạt lở bờ sông Gành Hào",
+      "link": "https://thanhnien.vn/ca-mau-danh-hon-480-ti-dong-xay-dung-ke-chong-sat-lo-bo-song-ganh-hao-18526082916443487.htm",
+      "summary": "Tỉnh Cà Mau khởi công xây dựng Dự án kè bảo vệ bờ sông Gành Hào với tổng vốn đầu tư hơn 480 tỉ đồng. Đây là công trình trọng điểm về phòng, chống thiên tai cấp thiết đối với đời sống nhân dân vùng ven biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T11:22:00+07:00",
+      "fetched": "2026-08-29T18:58:03.280564+07:00"
+    },
+    {
+      "id": "63311b7e2b1a9337ce68faa0c33ba8ef",
+      "title": "Giá chip nhớ leo thang, một kg DRAM ngang 620 gram vàng",
+      "link": "https://thanhnien.vn/gia-chip-nho-leo-thang-mot-kg-dram-ngang-620-gram-vang-185260829154522493.htm",
+      "summary": "Giá DRAM tăng 401% so với cùng kỳ, khiến một kg chip nhớ xuất khẩu Hàn Quốc hiện có giá trị tương đương 620 gram vàng 24K.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T11:21:00+07:00",
+      "fetched": "2026-08-29T18:58:03.280689+07:00"
+    },
+    {
+      "id": "2d980cfab16a642620a2fc1a43c009f2",
+      "title": "Tia-Thủy Nguyễn giới thiệu triển lãm cá nhân đầu tiên tại Trung Quốc",
+      "link": "https://thanhnien.vn/tia-thuy-nguyen-gioi-thieu-trien-lam-ca-nhan-dau-tien-tai-trung-quoc-185260829180959894.htm",
+      "summary": "Phòng tranh Almine Rech tại Thượng Hải giới thiệu triển lãm cá nhân Fields of Resonance (Miền đồng vọng) của nghệ sĩ Tia-Thủy Nguyễn, diễn ra từ ngày 28.8 đến 31.10.2026. Đây là triển lãm cá nhân đầu tiên của nữ nghệ sĩ tại Trung Quốc, quy tụ 20 tác phẩm hội họa, điêu khắc và sắp đặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T11:15:00+07:00",
+      "fetched": "2026-08-29T18:58:03.280818+07:00"
+    },
+    {
+      "id": "a49893a3826ad52e1f8c65380e35074b",
+      "title": "Ngoài việc nhiều lần đánh vợ 'thừa sống thiếu chết', chồng không có nhược điểm",
+      "link": "https://vnexpress.net/ngoai-viec-nhieu-lan-danh-vo-thua-song-thieu-chet-chong-khong-co-nhuoc-diem-5114977.html",
+      "summary": "Mới sinh xong một tháng, chỉ vì tôi không nghe thấy anh gọi mà anh đánh tôi thừa sống thiếu chết, chửi thậm tệ, cho rằng tôi coi thường anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T11:00:00+07:00",
+      "fetched": "2026-08-29T18:57:59.544874+07:00"
+    },
+    {
+      "id": "f281a6a1c6b6355074b149b44aebca01",
+      "title": "Những điểm 'chạm' tạo nên văn hóa doanh nghiệp VPBank",
+      "link": "https://vnexpress.net/nhung-diem-cham-tao-nen-van-hoa-doanh-nghiep-vpbank-5115013.html",
+      "summary": "VPBank triển khai chuỗi hoạt động tri ân cho cán bộ nhân viên, nhằm tăng sự kết nối, ghi nhận đóng góp và lan tỏa văn hóa doanh nghiệp trong toàn hệ thống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T11:00:00+07:00",
+      "fetched": "2026-08-29T18:57:59.545044+07:00"
+    },
+    {
+      "id": "b07f7bcdb1583b697530ada574af0e78",
+      "title": "Techcombank gia tăng ưu đãi, hỗ trợ hộ kinh doanh",
+      "link": "https://vnexpress.net/techcombank-gia-tang-uu-dai-ho-tro-ho-kinh-doanh-5115012.html",
+      "summary": "Techcombank triển khai chương trình thưởng tới 2 triệu U-Point cho hộ kinh doanh, đồng thời áp dụng nhiều ưu đãi miễn lãi vay, hoàn phí thanh toán và hỗ trợ sử dụng các công cụ quản lý bán hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T11:00:00+07:00",
+      "fetched": "2026-08-29T18:57:59.545185+07:00"
+    },
+    {
+      "id": "be5535a1b1feb87c8c53f4b3dd6b9e95",
+      "title": "Thanh tra tỉnh Cà Mau kiến nghị kiểm điểm 12 cá nhân liên quan việc thu hồi đất",
+      "link": "https://thanhnien.vn/thanh-tra-tinh-ca-mau-kien-nghi-kiem-diem-12-ca-nhan-lien-quan-viec-thu-hoi-dat-185260829173208072.htm",
+      "summary": "Thanh tra tỉnh Cà Mau kiến nghị kiểm điểm 12 cá nhân liên quan việc thu hồi, giao đất do Công ty TNHH MTV Lâm nghiệp U Minh Hạ quản lý cho 116 hộ đang hợp đồng sản xuất nông nghiệp với công ty.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T11:00:00+07:00",
+      "fetched": "2026-08-29T18:58:03.280965+07:00"
+    },
+    {
+      "id": "450a3105024ab17ca7e3baccd1c4817d",
+      "title": "Dương Quốc Hưng mời NSND Thanh Hoa góp giọng trong MV mừng Quốc khánh 2.9",
+      "link": "https://thanhnien.vn/duong-quoc-hung-moi-nsnd-thanh-hoa-gop-giong-trong-mv-mung-quoc-khanh-29-185260829151411102.htm",
+      "summary": "Ca nhạc sĩ Dương Quốc Hưng vừa giới thiệu MV 'Bầu trời Tổ quốc'. Đây là sản phẩm do anh sáng tác, lên ý tưởng thực hiện với sự tham gia của NSND Thanh Hoa và Nhím V.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:58:00+07:00",
+      "fetched": "2026-08-29T18:58:03.281089+07:00"
+    },
+    {
+      "id": "324c73df59ee1493a2127ef873ba3c4f",
+      "title": "KLC Group - Mỹ Phong: Đồng hành dài hạn vì trách nhiệm cộng đồng",
+      "link": "https://thanhnien.vn/klc-group-my-phong-dong-hanh-dai-han-vi-trach-nhiem-cong-dong-185260829181141049.htm",
+      "summary": "Chiều 28.8, UBND phường Mỹ Phong, tỉnh Đồng Tháp phối hợp cùng KLC Group tổ chức chương trình 'Vui, khỏe - Chia sẻ yêu thương'. Từ những hoạt động được duy trì qua nhiều năm, sự đồng hành giữa doanh nghiệp và địa phương đang hướng đến cách tiếp cận lâu dài hơn, gắn trách nhiệm cộng đồng với phát tri...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:54:00+07:00",
+      "fetched": "2026-08-29T18:58:03.281205+07:00"
+    },
+    {
+      "id": "225df3cfd507d5d0111f58c062a58984",
+      "title": "Công viên 3 hạt lúa sẽ là điểm tham quan, trải nghiệm đặc sắc của Cà Mau",
+      "link": "https://thanhnien.vn/cong-vien-3-hat-lua-se-la-diem-tham-quan-trai-nghiem-dac-sac-cua-ca-mau-185260829132406027.htm",
+      "summary": "UBND tỉnh Cà Mau tổ chức khởi công xây dựng Công viên 3 hạt lúa. Dự án được kỳ vọng trở thành không gian văn hóa, du lịch, góp phần tôn vinh giá trị của nền văn minh lúa nước Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:53:00+07:00",
+      "fetched": "2026-08-29T18:58:03.281316+07:00"
+    },
+    {
+      "id": "1fc8d4fb6a2a3f81ddc079db3f42cadd",
+      "title": "Đột quỵ cấp: Hai mảnh huyết khối được lấy ra sau 30 phút",
+      "link": "https://thanhnien.vn/dot-quy-cap-hai-manh-huyet-khoi-duoc-lay-ra-sau-30-phut-185260827201415669.htm",
+      "summary": "Ông T. (52 tuổi, ở TP.HCM) đang ngồi xem tivi thì đột ngột nói khó, miệng lệch, sau đó yếu rõ nửa người bên phải. Nhận thấy các dấu hiệu đột quỵ xuất hiện nhanh, gia đình lập tức đưa ông đi cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:52:00+07:00",
+      "fetched": "2026-08-29T18:58:03.281437+07:00"
+    },
+    {
+      "id": "30f9fa236d631c7030be5e6fb7e63644",
+      "title": "Người Kor Thọ An đổi đời khi rừng thành 'ngân hàng', đất hóa tiền",
+      "link": "https://thanhnien.vn/nguoi-kor-tho-an-doi-doi-khi-rung-thanh-ngan-hang-dat-hoa-tien-185260829153545067.htm",
+      "summary": "Từ một thôn sơn cước nằm lọt giữa núi rừng, thôn Thọ An, xã Bình An cũ (nay là xã Bình Minh, Quảng Ngãi) nay đã khoác lên mình diện mạo khác. Những mái nhà tranh ngày nào của người Kor được thay bằng nhà xây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:51:00+07:00",
+      "fetched": "2026-08-29T18:58:03.281553+07:00"
+    },
+    {
+      "id": "b021434ab2c29c60a18af59a2729a88f",
+      "title": "Trao Huy hiệu 80 năm tuổi Đảng cho đảng viên lão thành tại Cà Mau",
+      "link": "https://thanhnien.vn/trao-huy-hieu-80-nam-tuoi-dang-cho-dang-vien-lao-thanh-tai-ca-mau-185260829170715701.htm",
+      "summary": "Ông Đoàn Minh Huấn, Ủy viên Bộ Chính trị, Giám đốc Học viện Chính trị Quốc gia Hồ Chí Minh vừa trao Huy hiệu 80 năm tuổi Đảng cho bà Quách Kim Tuyến, 98 tuổi, ở phường Bạc Liêu, tỉnh Cà Mau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:50:00+07:00",
+      "fetched": "2026-08-29T18:58:03.281672+07:00"
+    },
+    {
+      "id": "0f47951f7dac14f80fa0582536b86f55",
+      "title": "Xổ số miền Nam ngày 29 tháng 8: Một người trúng độc đắc dãy 606990 đài Bình Phước",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-29-thang-8-mot-nguoi-trung-doc-dac-day-606990-dai-binh-phuoc-185260829173948257.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 29 tháng 8, một người ở Vĩnh Long trúng độc đắc 3 tờ vé số đài Bình Phước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:43:00+07:00",
+      "fetched": "2026-08-29T18:58:03.281788+07:00"
+    },
+    {
+      "id": "3981056e5c81867b592e0b9f73b4514a",
+      "title": "Hàng quán tại sân vận động Long An phải dọn đi trước  ngày 1.9",
+      "link": "https://thanhnien.vn/hang-quan-tai-san-van-dong-long-an-phai-don-di-truoc-ngay-19-185260829155125026.htm",
+      "summary": "Trung tâm Huấn luyện và Thi đấu thể thao yêu cầu các hộ kinh doanh quanh sân vận động Long An di dời, trả lại mặt bằng sạch trước ngày 1.9.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:43:00+07:00",
+      "fetched": "2026-08-29T18:58:03.281926+07:00"
+    },
+    {
+      "id": "88d2ab4b0e76c51e5852fe88d6d053bf",
+      "title": "Indonesia sắp nhận tàu sân bay đầu tiên",
+      "link": "https://vnexpress.net/indonesia-sap-nhan-tau-san-bay-dau-tien-5114897.html",
+      "summary": "Indonesia chuẩn bị tiếp nhận tàu sân bay loại biên của Italy, trở thành quốc gia thứ hai ở Đông Nam Á sở hữu loại chiến hạm này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:21:41+07:00",
+      "fetched": "2026-08-29T18:57:59.545314+07:00"
+    },
+    {
+      "id": "88d2ab4b0e76c51e5852fe88d6d053bf",
+      "title": "Indonesia sắp nhận tàu sân bay đầu tiên",
+      "link": "https://vnexpress.net/indonesia-sap-nhan-tau-san-bay-dau-tien-5114897.html",
+      "summary": "Indonesia chuẩn bị tiếp nhận tàu sân bay loại biên của Italy, trở thành quốc gia thứ hai ở Đông Nam Á sở hữu loại chiến hạm này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-29T10:21:41+07:00",
+      "fetched": "2026-08-29T18:58:07.342303+07:00"
+    },
+    {
+      "id": "0e93f597fdbcb2648211ba9062b8f6e3",
+      "title": "Điểm tin 17h: TP HCM khởi công mở rộng hai cửa ngõ và chỉnh trang khu Mả Lạng | Giá vàng giảm hơn một triệu đồng",
+      "link": "https://vnexpress.net/diem-tin-17h-tp-hcm-khoi-cong-mo-rong-hai-cua-ngo-va-chinh-trang-khu-ma-lang-gia-vang-giam-hon-mot-trieu-dong-5115005.html",
+      "summary": "Cứu 32 ngư dân trôi dạt ở Trường Sa; Số người chết trong lũ quét Nepal tăng lên gần 600...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:13:39+07:00",
+      "fetched": "2026-08-29T18:57:59.545443+07:00"
+    },
+    {
+      "id": "b5bdddf8493743070f02369ee60ea36a",
+      "title": "CSGT xác định xe vi phạm lỗi không giữ khoảng cách an toàn như thế nào?",
+      "link": "https://vnexpress.net/csgt-xac-dinh-xe-vi-pham-loi-khong-giu-khoang-cach-an-toan-nhu-the-nao-5114992.html",
+      "summary": "Lực lượng chức năng căn cứ vào camera ghi hình cùng với các cột mốc, vạch kẻ đường để xác định phương tiện không giữ khoảng cách an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:06:28+07:00",
+      "fetched": "2026-08-29T18:57:59.545568+07:00"
+    },
+    {
+      "id": "a3578bc827f9c89a1a77881c866b252a",
+      "title": "7 ôtô tông liên hoàn trên cao tốc Phan Thiết - Dầu Giây",
+      "link": "https://vnexpress.net/7-oto-tong-lien-hoan-tren-cao-toc-phan-thiet-dau-giay-5114990.html",
+      "summary": "Bảy ôtô tông liên hoàn trên cao tốc Phan Thiết - Dầu Giây khi lượng xe tăng cao trong ngày đầu kỳ nghỉ lễ 2/9, chiều 29/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:06:19+07:00",
+      "fetched": "2026-08-29T18:57:59.545696+07:00"
+    },
+    {
+      "id": "fefd7e25dd3262c1838e4d9e4281d0be",
+      "title": "Nepal có thể mất ít nhất 10% GDP vì trận lũ quét",
+      "link": "https://vnexpress.net/nepal-co-the-mat-it-nhat-10-gdp-vi-tran-lu-quet-5114978.html",
+      "summary": "Nepal ước tính thiệt hại sơ bộ do lũ quét gây ra hôm 26/8 là khoảng 4-5 tỷ USD, tương đương 10% GDP quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:01:05+07:00",
+      "fetched": "2026-08-29T18:57:59.545820+07:00"
+    },
+    {
+      "id": "fefd7e25dd3262c1838e4d9e4281d0be",
+      "title": "Nepal có thể mất ít nhất 10% GDP vì trận lũ quét",
+      "link": "https://vnexpress.net/nepal-co-the-mat-it-nhat-10-gdp-vi-tran-lu-quet-5114978.html",
+      "summary": "Nepal ước tính thiệt hại sơ bộ do lũ quét gây ra hôm 26/8 là khoảng 4-5 tỷ USD, tương đương 10% GDP quốc gia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-29T10:01:05+07:00",
+      "fetched": "2026-08-29T18:58:07.342455+07:00"
+    },
+    {
+      "id": "773f239372b565ed5119241dc8e01748",
+      "title": "Nguyễn Văn Khang chạy hai cự ly ở VnExpress Marathon Vũng Tàu Herbalife Cup",
+      "link": "https://vnexpress.net/nguyen-van-khang-chay-hai-cu-ly-o-vnexpress-marathon-vung-tau-5114967.html",
+      "summary": "Nguyễn Văn Khang chọn cự ly 10km làm bài khởi động trước khi tranh tài ở 5km, nội dung sở trường của anh, tại VnExpress Marathon Vũng Tàu Herbalife Cup sáng 30/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:00:00+07:00",
+      "fetched": "2026-08-29T18:57:59.545966+07:00"
+    },
+    {
+      "id": "ef3001aef54ef5630f4df4df24800fd4",
+      "title": "Diện tích tối thiểu tách thửa đất ở TP HCM từ 36 m2",
+      "link": "https://vnexpress.net/dien-tich-toi-thieu-tach-thua-dat-o-tp-hcm-tu-36-m2-5114994.html",
+      "summary": "Diện tích tối thiểu để tách thửa đất ở TP HCM từ 36 đến 100 m2, tùy khu vực, trong đó giữ nguyên nhiều ngưỡng từng áp dụng trước đây và bổ sung mức mới sau sáp nhập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T09:48:11+07:00",
+      "fetched": "2026-08-29T18:57:59.546089+07:00"
+    },
+    {
+      "id": "a8ff6e93d5ca422fe33c905d9b9dde4d",
+      "title": "Đà Nẵng khởi công loạt dự án khu công nghiệp nghìn tỷ đồng",
+      "link": "https://vnexpress.net/da-nang-khoi-cong-loat-du-an-khu-cong-nghiep-nghin-ty-dong-5114985.html",
+      "summary": "Tận dụng quỹ đất sau sáp nhập, thành phố liên tiếp khởi công các khu công nghiệp trọng điểm tại phía Nam với tổng vốn hàng nghìn tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T09:44:37+07:00",
+      "fetched": "2026-08-29T18:57:59.546246+07:00"
+    },
+    {
+      "id": "a8ff6e93d5ca422fe33c905d9b9dde4d",
+      "title": "Đà Nẵng khởi công loạt dự án khu công nghiệp nghìn tỷ đồng",
+      "link": "https://vnexpress.net/da-nang-khoi-cong-loat-du-an-khu-cong-nghiep-nghin-ty-dong-5114985.html",
+      "summary": "Tận dụng quỹ đất sau sáp nhập, thành phố liên tiếp khởi công các khu công nghiệp trọng điểm tại phía Nam với tổng vốn hàng nghìn tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-29T09:44:37+07:00",
+      "fetched": "2026-08-29T18:58:09.136228+07:00"
+    },
+    {
+      "id": "42b8822433a5e6b3bf81b5d037533b5b",
+      "title": "Nhóm cướp phá kính, lấy vòng cổ hơn 4 triệu USD",
+      "link": "https://vnexpress.net/nhom-cuop-pha-kinh-lay-vong-co-hon-4-trieu-usd-5114965.html",
+      "summary": "Hai nghi phạm cướp vòng cổ bằng bạch kim 200 carat được đính 673 viên kim cương từ bảo tàng ở Vienna.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T09:40:15+07:00",
+      "fetched": "2026-08-29T18:57:59.546375+07:00"
+    },
+    {
+      "id": "42b8822433a5e6b3bf81b5d037533b5b",
+      "title": "Nhóm cướp phá kính, lấy vòng cổ hơn 4 triệu USD",
+      "link": "https://vnexpress.net/nhom-cuop-pha-kinh-lay-vong-co-hon-4-trieu-usd-5114965.html",
+      "summary": "Hai nghi phạm cướp vòng cổ bằng bạch kim 200 carat được đính 673 viên kim cương từ bảo tàng ở Vienna.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-29T09:40:15+07:00",
+      "fetched": "2026-08-29T18:58:07.342590+07:00"
+    },
+    {
+      "id": "c51525cb3a4ab89027a58d3f2889ede2",
+      "title": "Nổ lớn thổi bay tường 4 phòng trọ ở Phú Thọ",
+      "link": "https://vnexpress.net/no-lon-thoi-bay-tuong-4-phong-tro-o-phu-tho-5114986.html",
+      "summary": "Mái tôn đổ sập, mảnh vỡ văng xa hàng trăm mét và làm hư hại một số nhà lân cận sau vụ nổ tại xã Bình Xuyên, chiều 29/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T09:34:36+07:00",
+      "fetched": "2026-08-29T18:57:59.546500+07:00"
+    },
+    {
+      "id": "6ef8f6c7659c9c755d3a5c9071665227",
+      "title": "Biển Sầm Sơn vắng khách trong ngày đầu nghỉ lễ 2/9",
+      "link": "https://vnexpress.net/bien-sam-son-vang-khach-trong-ngay-dau-nghi-le-2-9-5114970.html",
+      "summary": "Ngày đầu kỳ nghỉ lễ Quốc khánh 2/9, biển Sầm Sơn vắng khách do có mưa, nước biển đục, nhiều khách sạn và nhà hàng chỉ đạt công suất phục vụ khoảng 30%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T09:32:26+07:00",
+      "fetched": "2026-08-29T18:57:59.546617+07:00"
+    },
+    {
+      "id": "246a0e562787fab7dd6b2a986b0390cf",
+      "title": "Ngôi nhà đứng vững giữa trận lũ quét Nepal",
+      "link": "https://vnexpress.net/ngoi-nha-dung-vung-giua-tran-lu-quet-nepal-5114948.html",
+      "summary": "Video mới công bố cho thấy ngôi nhà hai tầng đứng vững giữa dòng lũ bùn cuồn cuộn, trong khi nhiều công trình xung quanh bị cuốn phăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T09:14:12+07:00",
+      "fetched": "2026-08-29T18:57:59.546747+07:00"
+    },
+    {
+      "id": "246a0e562787fab7dd6b2a986b0390cf",
+      "title": "Ngôi nhà đứng vững giữa trận lũ quét Nepal",
+      "link": "https://vnexpress.net/ngoi-nha-dung-vung-giua-tran-lu-quet-nepal-5114948.html",
+      "summary": "Video mới công bố cho thấy ngôi nhà hai tầng đứng vững giữa dòng lũ bùn cuồn cuộn, trong khi nhiều công trình xung quanh bị cuốn phăng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-29T09:14:12+07:00",
+      "fetched": "2026-08-29T18:58:07.342720+07:00"
+    },
+    {
+      "id": "27d6a1120fc8141e8af13feb30096fa0",
+      "title": "Galaxy S26 FE - smartphone giá tốt với AI cao cấp",
+      "link": "https://vnexpress.net/galaxy-s26-fe-smartphone-gia-tot-voi-ai-cao-cap-5114783.html",
+      "summary": "Mẫu điện thoại \"Fan Edition\" vừa ra mắt của Samsung cân bằng giữa sức mạnh xử lý, thời lượng pin và tính năng AI cao cấp, nhưng thiết kế không có nhiều đột phá.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-29T09:01:29+07:00",
+      "fetched": "2026-08-29T18:58:11.992202+07:00"
+    },
+    {
+      "id": "4b3c168564ce825f4ab54b0e581378f7",
+      "title": "Doanh nghiệp bị xác định 'không hoạt động tại địa chỉ' cần làm gì?",
+      "link": "https://vnexpress.net/doanh-nghiep-bi-xac-dinh-khong-hoat-dong-tai-dia-chi-can-lam-gi-5114914.html",
+      "summary": "Doanh nghiệp bị xác định 'không hoạt động tại địa chỉ đăng ký' có thể khôi phục mã số thuế nếu muốn tiếp tục kinh doanh, hoặc hoàn tất nghĩa vụ để chấm dứt hoạt động.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-29T09:00:00+07:00",
+      "fetched": "2026-08-29T18:58:09.136382+07:00"
+    },
+    {
+      "id": "b2f6e6e6d3ba0dd9618859da51c2ff38",
+      "title": "Alvarez và ranh giới mong manh của đạo đức bóng đá",
+      "link": "https://vnexpress.net/alvarez-va-ranh-gioi-mong-manh-cua-dao-duc-bong-da-5114724.html",
+      "summary": "Những vụ cầu thủ muốn rời CLB như Ollie Watkins hay Julian Alvarez cho thấy ranh giới giữa quyền được lựa chọn tương lai và cách hành xử với đội bóng hiện tại luôn đầy rủi ro.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-29T08:49:13+07:00",
+      "fetched": "2026-08-29T18:58:13.053537+07:00"
+    },
+    {
+      "id": "843b8016f8c7563baa7504ebc0f3ae29",
+      "title": "Cherki được so sánh với Hazard",
+      "link": "https://vnexpress.net/cherki-duoc-so-sanh-voi-hazard-5114807.html",
+      "summary": "Cựu danh thủ Jamie Redknapp ca ngợi Rayan Cherki tạo nên khoảnh khắc thiên tài như Eden Hazard, sau khi tiền vệ Pháp lập cú đúp trong trận Man City thắng Crystal Palace 4-1 ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-29T08:42:50+07:00",
+      "fetched": "2026-08-29T18:58:13.054247+07:00"
+    },
+    {
+      "id": "72078839d5194cf6d5510bda2edbf83b",
+      "title": "CEO Techcombank thu nhập bình quân gần 3 tỷ đồng mỗi tháng",
+      "link": "https://vnexpress.net/ceo-techcombank-thu-nhap-binh-quan-gan-3-ty-dong-moi-thang-5114904.html",
+      "summary": "Ông Jens Lottner, Tổng giám đốc Techcombank, có thu nhập gần 17 tỷ đồng trong nửa đầu năm, tương đương bình quân 2,82 tỷ đồng mỗi tháng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-29T08:28:46+07:00",
+      "fetched": "2026-08-29T18:58:09.136516+07:00"
+    },
+    {
+      "id": "36d9bacd52ed16714c2ef2a3aa6bdcc8",
+      "title": "Người Việt dẫn đầu về tần suất ăn mỳ",
+      "link": "https://vnexpress.net/nguoi-viet-dan-dau-ve-tan-suat-an-my-5114866.html",
+      "summary": "Năm 2025, trung bình cứ 4-5 ngày, người Việt lại tiêu thụ một khẩu phần mỳ ăn liền - mức tần suất cao nhất thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-29T08:00:23+07:00",
+      "fetched": "2026-08-29T18:58:09.136643+07:00"
+    },
+    {
+      "id": "afcef9fdf7d3c0a3855c0b4210f46f04",
+      "title": "Điện thoại nguyên vẹn sau khi rơi từ độ cao hơn 30.000 m",
+      "link": "https://vnexpress.net/dien-thoai-nguyen-ven-sau-khi-roi-tu-do-cao-hon-30-000-m-5114646.html",
+      "summary": "Nhà sản xuất ốp Rhinoshield cùng công ty hàng không vũ trụ Anh thử nghiệm thả rơi iPhone 17 Pro từ độ cao 30.607 m mà không bị hư hại.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-29T08:00:00+07:00",
+      "fetched": "2026-08-29T18:58:11.991616+07:00"
+    },
+    {
+      "id": "dffb6ddf308efcb2ceaa85f799af340e",
+      "title": "Hàng trăm người được giải cứu từ đường hầm thủy điện Nepal",
+      "link": "https://vnexpress.net/hang-tram-nguoi-duoc-giai-cuu-tu-duong-ham-thuy-dien-nepal-5114946.html",
+      "summary": "Quân đội Nepal giải cứu 350 người từ một đường hầm thủy điện ngập bùn sau trận lũ quét, trong khi hơn 100 người còn mắc kẹt ở trong.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-29T07:48:46+07:00",
+      "fetched": "2026-08-29T18:58:07.342863+07:00"
+    },
+    {
+      "id": "6a1fc6523f30465281a05216a53b72b3",
+      "title": "Ngân hàng Thái cùng gia tộc với Madam Pang kinh doanh thế nào tại Việt Nam",
+      "link": "https://vnexpress.net/ngan-hang-thai-cung-gia-toc-voi-madam-pang-kinh-doanh-the-nao-tai-viet-nam-5114629.html",
+      "summary": "KBank - một trong ba ngân hàng lớn nhất Thái Lan, thuộc gia tộc Lamsam của Madam Pang - rót 285 triệu USD vào Việt Nam và chưa đạt điểm hòa vốn sau 5 năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-29T06:34:03+07:00",
+      "fetched": "2026-08-29T18:58:09.136769+07:00"
+    },
+    {
       "id": "c385f24be56838c6ad3de2de71a6a716",
       "title": "Xã mở 'hội nghị xúc tiến đầu tư' nhiều doanh nghiệp đến tìm cơ hội",
       "link": "https://tuoitre.vn/xa-mo-hoi-nghi-xuc-tien-dau-tu-nhieu-doanh-nghiep-den-tim-co-hoi-100260828190315215.htm",
@@ -301,6 +891,46 @@ window.newsData_2026_08_29 = {
       "category": "Tổng hợp",
       "published": "2026-08-29T06:17:45.676506+07:00",
       "fetched": "2026-08-29T06:17:45.676645+07:00"
+    },
+    {
+      "id": "04bada985a5196c2d4c4564d114b3087",
+      "title": "Cựu bộ trưởng quốc phòng Ukraine làm cố vấn cho Italy",
+      "link": "https://vnexpress.net/cuu-bo-truong-quoc-phong-ukraine-lam-co-van-cho-italy-5114884.html",
+      "summary": "Cựu bộ trưởng Mykhailo Fedorov thông báo đã nhận lời làm cố vấn đổi mới cho Bộ trưởng Quốc phòng Italy Guido Crosetto.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-29T05:18:36+07:00",
+      "fetched": "2026-08-29T18:58:07.342989+07:00"
+    },
+    {
+      "id": "f3520220e93a68fe6e49165e90ea0aa8",
+      "title": "Phân Bón Cà Mau trao tặng 55 mái ấm tại Cần Thơ",
+      "link": "https://vnexpress.net/phan-bon-ca-mau-trao-tang-55-mai-am-tai-can-tho-5114671.html",
+      "summary": "Phân Bón Cà Mau trao tặng 55 căn nhà Đại đoàn kết, tổng kinh phí 3,3 tỷ đồng cho các hộ gia đình khó khăn tại xã Thạnh Xuân, TP Cần Thơ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-29T05:00:00+07:00",
+      "fetched": "2026-08-29T18:58:09.137701+07:00"
+    },
+    {
+      "id": "3b5e26df84d462062d6b189e1c9ef7df",
+      "title": "Meta bị phản ứng vì dàn xếp 'vụ kiện nghìn tỷ USD'",
+      "link": "https://vnexpress.net/meta-bi-phan-ung-vi-dan-xep-vu-kien-nghin-ty-usd-5114488.html",
+      "summary": "Meta bị chỉ trích sau khi đạt thỏa thuận trả 18 tỷ USD để giải quyết vụ kiện liên quan đến sự an toàn của trẻ em trên Facebook, Instagram.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-29T05:00:00+07:00",
+      "fetched": "2026-08-29T18:58:11.991774+07:00"
+    },
+    {
+      "id": "1c026841e49dcd11e264a67f2e64a4eb",
+      "title": "CLB Malaysia xây đế chế bất bại 109 trận thế nào",
+      "link": "https://vnexpress.net/clb-malaysia-xay-de-che-bat-bai-109-tran-the-nao-5114743.html",
+      "summary": "Sau hơn một thập kỷ đầu tư mạnh tay, cải tổ toàn diện và thống trị bóng đá quốc nội, Johor Darul Ta'zim (JDT) đã lập kỷ lục thế giới với 109 trận bất bại liên tiếp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-29T05:00:00+07:00",
+      "fetched": "2026-08-29T18:58:13.053696+07:00"
     },
     {
       "id": "c65cd2d1e15408a4c783dc5979a1af4a",
@@ -751,6 +1381,16 @@ window.newsData_2026_08_29 = {
       "category": "Công nghệ",
       "published": "2026-08-29T00:40:00+07:00",
       "fetched": "2026-08-29T11:48:22.216353+07:00"
+    },
+    {
+      "id": "ea329856ecbd50bd655db064cb6236f3",
+      "title": "9 giải Nhất tại Hội thi Tin học trẻ toàn quốc",
+      "link": "https://vnexpress.net/9-giai-nhat-tai-hoi-thi-tin-hoc-tre-toan-quoc-5114779.html",
+      "summary": "248 thí sinh tranh tài tại vòng chung kết Hội thi Tin học trẻ toàn quốc lần thứ 32, trong đó 12 học sinh giành 9 giải Nhất ở các bảng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-29T00:35:08+07:00",
+      "fetched": "2026-08-29T18:58:11.992592+07:00"
     },
     {
       "id": "bbd4640aed2fe135275d4d9850a0ae09",
