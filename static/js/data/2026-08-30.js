@@ -1,7 +1,77 @@
 window.newsData_2026_08_30 = {
   "date": "2026-08-30",
-  "lastUpdated": "2026-08-30T03:10:06.459457+07:00",
+  "lastUpdated": "2026-08-30T06:42:37.568299+07:00",
   "articles": [
+    {
+      "id": "afe2e8f80fbd5b98550163bf809d7d68",
+      "title": "Thời tiết hôm nay 30-8: Bắc Bộ, Nam Bộ mưa, Trung Bộ nắng nóng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-30-8-bac-bo-nam-bo-mua-trung-bo-nang-nong-100260829163053429.htm",
+      "summary": "Hôm nay 30-8, hai miền Nam - Bắc thời tiết mưa dông nhiều nơi, trong khi đó miền Trung nắng nóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T06:42:29.412017+07:00",
+      "fetched": "2026-08-30T06:42:29.412109+07:00"
+    },
+    {
+      "id": "e4224a60db20aef0d83ad81c64dc34c7",
+      "title": "Tin tức sáng 30-8: Đề xuất thêm đơn vị giám định ADN liệt sĩ; có 'vườn tre Fidel Castro' tại Củ Chi",
+      "link": "https://tuoitre.vn/tin-tuc-sang-30-8-de-xuat-them-don-vi-giam-dinh-adn-liet-si-co-vuon-tre-fidel-castro-tai-cu-chi-1002608292238315.htm",
+      "summary": "Tin tức đáng chú ý: Đề xuất huy động thêm đơn vị giám định mẫu ADN liệt sĩ; Khánh thành \"vườn tre Fidel Castro\" tại Củ Chi; Người có công tại TP.HCM có thể được hỗ trợ 1 triệu đồng/tháng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T06:42:29.411646+07:00",
+      "fetched": "2026-08-30T06:42:29.411996+07:00"
+    },
+    {
+      "id": "f3dd92745260f7ef5156fde9a64e6779",
+      "title": "Pha phản lưới khó tin của ngôi sao Indonesia gây hấn với Hai Long",
+      "link": "https://tuoitre.vn/pha-phan-luoi-kho-tin-cua-ngoi-sao-indonesia-gay-han-voi-hai-long-100260829210721944.htm",
+      "summary": "Justin Hubner, trung vệ Indonesia nổi tiếng với màn \"khẩu chiến\" trên mạng xã hội khi ASEAN Cup 2026 diễn ra, đang trải qua chuỗi trận đáng buồn ở Hà Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T06:42:29.411570+07:00",
+      "fetched": "2026-08-30T06:42:29.411636+07:00"
+    },
+    {
+      "id": "464ff4f880bfa45f5b26d516439f8ae2",
+      "title": "Lịch trực tiếp chung kết bóng chuyền nữ châu Á ngày 30-8: Trung Quốc đại chiến Thái Lan",
+      "link": "https://tuoitre.vn/lich-truc-tiep-chung-ket-bong-chuyen-nu-chau-a-ngay-30-8-trung-quoc-dai-chien-thai-lan-100260830052222589.htm",
+      "summary": "Trận chung kết Giải bóng chuyền nữ vô địch châu Á 2026 giữa Trung Quốc và Thái Lan lúc 17h45 ngày 30-8 hứa hẹn là màn so tài hấp dẫn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T06:42:29.411503+07:00",
+      "fetched": "2026-08-30T06:42:29.411561+07:00"
+    },
+    {
+      "id": "4eb7c8b7bff295e29eadadc512bdb5a2",
+      "title": "Lịch trực tiếp Siêu cúp quốc gia 2026: Công An Hà Nội đấu Công An TP.HCM",
+      "link": "https://tuoitre.vn/lich-truc-tiep-sieu-cup-quoc-gia-2026-cong-an-ha-noi-dau-cong-an-tphcm-100260829161959083.htm",
+      "summary": "Lúc 18h ngày 30-8 sẽ diễn ra trận Siêu cúp quốc gia 2026 giữa Công An Hà Nội với Công An TP.HCM trên sân vận động Hàng Đẫy (Hà Nội).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T06:42:29.411440+07:00",
+      "fetched": "2026-08-30T06:42:29.411494+07:00"
+    },
+    {
+      "id": "d7ed2a00c210e83e6a8ea497d0a9e5ba",
+      "title": "Cần gì để nhà ở vừa túi tiền phát triển quanh các ga metro?",
+      "link": "https://tuoitre.vn/can-gi-de-nha-o-vua-tui-tien-phat-trien-quanh-cac-ga-metro-100260829205754892.htm",
+      "summary": "Lợi thế về kết nối, khu vực quanh các nhà ga metro đang đứng trước cơ hội trở thành những vùng \"đất vàng\". Liệu nhà ở vừa túi tiền có thể mọc lên tại khu vực này? Nếu có đất, doanh nghiệp có đủ động lực để phát triển phân khúc này?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T06:42:29.411366+07:00",
+      "fetched": "2026-08-30T06:42:29.411431+07:00"
+    },
+    {
+      "id": "afefaba2dd3bdc5bad04151c6c9eb693",
+      "title": "Tin tức thế giới 30-8: Bộ trưởng Quốc phòng Triều Tiên bị miễn nhiệm; Mỹ viện trợ cho Nepal",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-30-8-bo-truong-quoc-phong-trieu-tien-bi-mien-nhiem-my-vien-tro-cho-nepal-100260830051749855.htm",
+      "summary": "Nga không thấy triển vọng trong cải thiện quan hệ với EU; Mỹ viện trợ nhân đạo 3,6 triệu USD cho Nepal.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T06:42:29.411195+07:00",
+      "fetched": "2026-08-30T06:42:29.411353+07:00"
+    },
     {
       "id": "4f7e84b0f2ae96be1b2c4d86fc3477d0",
       "title": "Sau lũ quét Nepal, chuyên gia cảnh báo nguy cơ ở dãy Alps",
@@ -151,6 +221,386 @@ window.newsData_2026_08_30 = {
       "category": "Tổng hợp",
       "published": "2026-08-30T03:09:59.163578+07:00",
       "fetched": "2026-08-30T03:09:59.163721+07:00"
+    },
+    {
+      "id": "eaf7b6afab0ffcf9fe75eac08458df88",
+      "title": "Tottenham thua trận thứ hai liên tiếp ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/tottenham-thua-tran-thu-hai-lien-tiep-o-ngoai-hang-anh-5115093.html",
+      "summary": "Sau khi thua Brentford 0-3 ở vòng một, Tottenham tiếp tục thất bại 0-2 trước đội khách Newcastle ở vòng hai Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-29T23:29:09+07:00",
+      "fetched": "2026-08-30T06:42:37.563192+07:00"
+    },
+    {
+      "id": "a87b11324f1f9314ed79b78e0ab0a8db",
+      "title": "Ký hiệu hình tròn bên cạnh cổng USB ám chỉ điều gì?",
+      "link": "https://thanhnien.vn/ky-hieu-hinh-tron-ben-canh-cong-usb-am-chi-dieu-gi-185260829163849636.htm",
+      "summary": "Thấy hình tròn kèm số cạnh cổng USB, người dùng có thể nhận biết ngay tốc độ truyền dữ liệu mà cổng đó hỗ trợ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:29:00+07:00",
+      "fetched": "2026-08-30T06:42:27.587665+07:00"
+    },
+    {
+      "id": "3e8c3d803f16b12fe5685e15f5f16110",
+      "title": "Xác thực bằng cấp, chống tài liệu giả mạo bằng thuật toán blockchain",
+      "link": "https://thanhnien.vn/xac-thuc-bang-cap-chong-tai-lieu-gia-mao-bang-thuat-toan-blockchain-185260829215200725.htm",
+      "summary": "Trước thực trạng nhiều sinh viên bị lừa đảo từ những tài liệu giả mạo, nhóm sinh viên Trường ĐH Bách khoa (ĐH Quốc gia TP.HCM) đã sáng tạo một trang ứng dụng thuật toán blockchain công cộng cho phép xác thực bằng cấp, chống tài liệu giả mạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:23:00+07:00",
+      "fetched": "2026-08-30T06:42:27.587817+07:00"
+    },
+    {
+      "id": "b7e7f1e6e370fbe7f7c12b8435c7f4ae",
+      "title": "Một tuần không có nước giữa nắng 40 độ C: Người dân Huế xếp xoong nồi kín ngõ chờ xe bồn",
+      "link": "https://thanhnien.vn/mot-tuan-khong-co-nuoc-giua-nang-40-do-c-nguoi-dan-hue-xep-xoong-noi-kin-ngo-cho-xe-bon-185260829205329468.htm",
+      "summary": "Nắng nóng kéo dài dẫn đến khô kiệt nước nguồn gây thiếu nước sinh hoạt trong suốt nhiều ngày qua đã dồn hàng ngàn người dân xã Chân Mây - Lăng Cô, TP.Huế vào thế bí bách, đảo lộn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:18:00+07:00",
+      "fetched": "2026-08-30T06:42:27.587946+07:00"
+    },
+    {
+      "id": "5c60159262eb8e1dc1d2406ecdc81338",
+      "title": "Con vật bước vào điện thờ ở TP.HCM: Người sống chăm mộ cá Ông để trả ơn",
+      "link": "https://thanhnien.vn/con-vat-buoc-vao-dien-tho-o-tphcm-nguoi-song-cham-mo-ca-ong-de-tra-on-185260826151845345.htm",
+      "summary": "Bị bỏ sót một mình giữa biển, ông Danh Hường vái cá Ông (cá voi) và Phật bà Quan Âm. Nhiều năm sau, ông vào nghĩa trang cá Ông, ngày ngày chăm mộ để trả ơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:18:00+07:00",
+      "fetched": "2026-08-30T06:42:27.588071+07:00"
+    },
+    {
+      "id": "e952061e6619d86ffcf7274cfdda298c",
+      "title": "Hai con cùng mắc ung thư, đứt ruột gửi con út vào chùa: 'Mẹ sẽ đón con về'",
+      "link": "https://thanhnien.vn/hai-con-cung-mac-ung-thu-dut-ruot-gui-con-ut-vao-chua-me-se-don-con-ve-185260828120031831.htm",
+      "summary": "Hai con cùng mắc bệnh phải lên TP.HCM chữa trị, chị Thạch Thị Sà Rện đành gửi con út 6 tuổi vào chùa. Rồi một tai nạn khiến người mẹ đối diện nỗi sợ lớn nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:15:00+07:00",
+      "fetched": "2026-08-30T06:42:27.588197+07:00"
+    },
+    {
+      "id": "3643f50ffbf838f9f8cb829f72567c83",
+      "title": "Phan Đinh Tùng, Phương Trinh Jolie hát mừng Quốc khánh",
+      "link": "https://thanhnien.vn/phan-dinh-tung-phuong-trinh-jolie-hat-mung-quoc-khanh-185260829195738584.htm",
+      "summary": "Nhân dịp Quốc khánh 2.9, Phan Đinh Tùng và Phương Trinh Jolie giới thiệu những sản phẩm âm nhạc hướng về quê hương, đất nước, đồng thời tiếp tục khai thác chất liệu truyền thống, làm mới những giai điệu mang tinh thần dân tộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:05:00+07:00",
+      "fetched": "2026-08-30T06:42:27.588322+07:00"
+    },
+    {
+      "id": "fef27fb5d2160f7eb01cd8ac668382a7",
+      "title": "'Bom nước' trong lũ quét hình thành từ đâu?",
+      "link": "https://vnexpress.net/bom-nuoc-trong-lu-quet-hinh-thanh-tu-dau-5115064.html",
+      "summary": "Từ những trận mưa cực lớn ở thượng nguồn, lượng nước nhanh chóng tập trung vào các khe suối, bị địa hình dốc và hẹp dồn ép rồi bùng phát thành dòng lũ mang theo bùn đá với sức tàn phá khủng khiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:00:00+07:00",
+      "fetched": "2026-08-30T06:42:24.337395+07:00"
+    },
+    {
+      "id": "08c3f1a6994200ab36f0d2b567139a6c",
+      "title": "Tình yêu 26 năm của cô giáo và người lính tâm thần",
+      "link": "https://vnexpress.net/tinh-yeu-26-nam-cua-co-giao-va-nguoi-linh-tam-than-5114890.html",
+      "summary": "Chiều 26/8, chị Phan Thị Tuyết đi xe máy từ phường Thành Vinh đến Trung tâm Điều dưỡng thương binh Nghệ An thăm chồng, anh Nguyễn Hoài Minh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:00:00+07:00",
+      "fetched": "2026-08-30T06:42:24.337559+07:00"
+    },
+    {
+      "id": "d4587b3bb1652ad1b7ac6d1d37929856",
+      "title": "Những tọa độ lửa thay đổi thế nào sau nửa thế kỷ?",
+      "link": "https://vnexpress.net/nhung-toa-do-lua-thay-doi-the-nao-sau-nua-the-ky-5114220.html",
+      "summary": "Trong kháng chiến chống Mỹ, bến phà Gianh, Quán Hàu, Long Đại và Xuân Sơn là những trọng điểm bị đánh phá khốc liệt, nay được thế bằng những cây cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:00:00+07:00",
+      "fetched": "2026-08-30T06:42:24.337757+07:00"
+    },
+    {
+      "id": "9307c4811ad0582600df9d04e3c133e6",
+      "title": "Có tiền nhưng vẫn sợ trắng tay - bẫy lo âu tài chính của người trẻ",
+      "link": "https://vnexpress.net/co-tien-nhung-van-so-trang-tay-bay-lo-au-tai-chinh-cua-nguoi-tre-5112187.html",
+      "summary": "Lương 22 triệu đồng mỗi tháng cùng khoản tiết kiệm dự phòng hơn 100 triệu đồng ở tuổi 28, Minh Hoàng, vẫn luôn sống trong cảm giác bất an thường trực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:00:00+07:00",
+      "fetched": "2026-08-30T06:42:24.337907+07:00"
+    },
+    {
+      "id": "2e5584b223642197e0bdd2c2a8191699",
+      "title": "Các bài học xe tự lái rút ra từ Tesla",
+      "link": "https://vnexpress.net/cac-bai-hoc-xe-tu-lai-rut-ra-tu-tesla-5114336.html",
+      "summary": "Trích dẫn 10 bài học AI, hãng xe tự lái Waymo gián tiếp chê cách Tesla phát triển công nghệ FSD nhưng chỉ dùng camera mà không có LiDAR.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:00:00+07:00",
+      "fetched": "2026-08-30T06:42:24.338054+07:00"
+    },
+    {
+      "id": "ecc6ded95e8e2c63704da5b172f05ea0",
+      "title": "Treo đèn mua hải sản trên chợ nổi phá Tam Giang",
+      "link": "https://vnexpress.net/treo-den-mua-hai-san-tren-cho-noi-pha-tam-giang-5108064.html",
+      "summary": "Từ khoảng 4h sáng, khi trời còn chưa tỏ, hàng chục thuyền của ngư dân và tiểu thương đã tụ họp trên phá Tam Giang để mua bán hải sản ngay trên mặt nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T23:00:00+07:00",
+      "fetched": "2026-08-30T06:42:24.338182+07:00"
+    },
+    {
+      "id": "4beb323c82331946fe62027c5e2e81cd",
+      "title": "CAHN – CA TPHCM: Tranh Siêu cup Việt Nam mở màn mùa giải mới",
+      "link": "https://vnexpress.net/cahn-ca-tphcm-tranh-sieu-cup-viet-nam-mo-man-mua-giai-moi-5115084.html",
+      "summary": "Mùa giải 2026-2027 mở màn bằng trận tranh Siêu cup Quốc gia giữa đương kim vô địch V-League Công an Hà Nội và đội giữ Cup Quốc gia Công an TP HCM, trên sân Hàng Đẫy tối nay 30/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T22:58:22+07:00",
+      "fetched": "2026-08-30T06:42:24.338314+07:00"
+    },
+    {
+      "id": "4beb323c82331946fe62027c5e2e81cd",
+      "title": "CAHN – CA TPHCM: Tranh Siêu cup Việt Nam mở màn mùa giải mới",
+      "link": "https://vnexpress.net/cahn-ca-tphcm-tranh-sieu-cup-viet-nam-mo-man-mua-giai-moi-5115084.html",
+      "summary": "Mùa giải 2026-2027 mở màn bằng trận tranh Siêu cup Quốc gia giữa đương kim vô địch V-League Công an Hà Nội và đội giữ Cup Quốc gia Công an TP HCM, trên sân Hàng Đẫy tối nay 30/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-29T22:58:22+07:00",
+      "fetched": "2026-08-30T06:42:37.563348+07:00"
+    },
+    {
+      "id": "5482cfa5b789de2a3f8eec72c87e9f7b",
+      "title": "Carragher: 'Palmer có thể giúp Chelsea đua vô địch với Arsenal'",
+      "link": "https://vnexpress.net/carragher-palmer-co-the-giup-chelsea-dua-vo-dich-voi-arsenal-5115061.html",
+      "summary": "Cựu trung vệ Jamie Carragher cho rằng Chelsea có ba yếu tố để trở thành đối thủ bám đuổi Arsenal sát nhất trong cuộc đua Ngoại hạng Anh mùa này, trong đó là phong độ của Cole Palmer.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T22:53:56+07:00",
+      "fetched": "2026-08-30T06:42:24.338437+07:00"
+    },
+    {
+      "id": "5482cfa5b789de2a3f8eec72c87e9f7b",
+      "title": "Carragher: 'Palmer có thể giúp Chelsea đua vô địch với Arsenal'",
+      "link": "https://vnexpress.net/carragher-palmer-co-the-giup-chelsea-dua-vo-dich-voi-arsenal-5115061.html",
+      "summary": "Cựu trung vệ Jamie Carragher cho rằng Chelsea có ba yếu tố để trở thành đối thủ bám đuổi Arsenal sát nhất trong cuộc đua Ngoại hạng Anh mùa này, trong đó là phong độ của Cole Palmer.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-29T22:53:56+07:00",
+      "fetched": "2026-08-30T06:42:37.563771+07:00"
+    },
+    {
+      "id": "c1864c885c33db218750ca0322762a22",
+      "title": "Man City chia tay hàng loạt cầu thủ thời hậu Guardiola",
+      "link": "https://vnexpress.net/man-city-chia-tay-hang-loat-cau-thu-thoi-hau-guardiola-5115053.html",
+      "summary": "Man City thu về 421 triệu USD từ việc bán cầu thủ trong hè 2026, ngay sau khi chia tay HLV Pep Guardiola, vượt xa kỷ lục cũ 189,4 triệu USD được thiết lập ở mùa 2022-2023.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T22:51:26+07:00",
+      "fetched": "2026-08-30T06:42:24.338563+07:00"
+    },
+    {
+      "id": "c1864c885c33db218750ca0322762a22",
+      "title": "Man City chia tay hàng loạt cầu thủ thời hậu Guardiola",
+      "link": "https://vnexpress.net/man-city-chia-tay-hang-loat-cau-thu-thoi-hau-guardiola-5115053.html",
+      "summary": "Man City thu về 421 triệu USD từ việc bán cầu thủ trong hè 2026, ngay sau khi chia tay HLV Pep Guardiola, vượt xa kỷ lục cũ 189,4 triệu USD được thiết lập ở mùa 2022-2023.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-29T22:51:26+07:00",
+      "fetched": "2026-08-30T06:42:37.563905+07:00"
+    },
+    {
+      "id": "803cb4a444158057a874f97cb20d7cc7",
+      "title": "Mourinho: 'Quả Bóng Vàng 2026 không nhất thiết thuộc về PSG hoặc tuyển Tây Ban Nha'",
+      "link": "https://vnexpress.net/mourinho-qua-bong-vang-2026-khong-nhat-thiet-thuoc-ve-psg-hoac-tuyen-tay-ban-nha-5115030.html",
+      "summary": "HLV Jose Mourinho cho rằng Quả Bóng Vàng nên thuộc về những cầu thủ tạo ra di sản vượt xa một mùa giải hay một danh hiệu, khi ám chỉ Kylian Mbappe là ứng viên xứng đáng cho giải thưởng năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T22:49:09+07:00",
+      "fetched": "2026-08-30T06:42:24.338708+07:00"
+    },
+    {
+      "id": "803cb4a444158057a874f97cb20d7cc7",
+      "title": "Mourinho: 'Quả Bóng Vàng 2026 không nhất thiết thuộc về PSG hoặc tuyển Tây Ban Nha'",
+      "link": "https://vnexpress.net/mourinho-qua-bong-vang-2026-khong-nhat-thiet-thuoc-ve-psg-hoac-tuyen-tay-ban-nha-5115030.html",
+      "summary": "HLV Jose Mourinho cho rằng Quả Bóng Vàng nên thuộc về những cầu thủ tạo ra di sản vượt xa một mùa giải hay một danh hiệu, khi ám chỉ Kylian Mbappe là ứng viên xứng đáng cho giải thưởng năm 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-29T22:49:09+07:00",
+      "fetched": "2026-08-30T06:42:37.563485+07:00"
+    },
+    {
+      "id": "db4bddfbfb693435829d0035b31bbfaf",
+      "title": "Người phụ nữ đóng giả bé gái để được nhận nuôi",
+      "link": "https://vnexpress.net/nguoi-phu-nu-dong-gia-be-gai-de-duoc-nhan-nuoi-5115055.html",
+      "summary": "Suốt 16 năm qua, Amanda Maria Souza de Oliveira, 38 tuổi, đã đóng giả trẻ em, lừa gạt nhiều gia đình nhận nuôi để được chăm sóc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T22:49:00+07:00",
+      "fetched": "2026-08-30T06:42:24.338836+07:00"
+    },
+    {
+      "id": "09b2ec5c7d42d01dca5b49e1f4ca8d36",
+      "title": "Alisson đá thủng bảng thay người sau trận hòa của Liverpool",
+      "link": "https://vnexpress.net/alisson-da-thung-bang-thay-nguoi-sau-tran-hoa-cua-liverpool-5115086.html",
+      "summary": "Thủ môn Alisson và HLV Andoni Iraola cùng bức xúc với sự cố liên quan đến bảng thay người, trong trận Liverpool hòa Nottingham Forest 2-2 ở vòng hai Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T22:45:29+07:00",
+      "fetched": "2026-08-30T06:42:24.338958+07:00"
+    },
+    {
+      "id": "09b2ec5c7d42d01dca5b49e1f4ca8d36",
+      "title": "Alisson đá thủng bảng thay người sau trận hòa của Liverpool",
+      "link": "https://vnexpress.net/alisson-da-thung-bang-thay-nguoi-sau-tran-hoa-cua-liverpool-5115086.html",
+      "summary": "Thủ môn Alisson và HLV Andoni Iraola cùng bức xúc với sự cố liên quan đến bảng thay người, trong trận Liverpool hòa Nottingham Forest 2-2 ở vòng hai Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-29T22:45:29+07:00",
+      "fetched": "2026-08-30T06:42:37.563636+07:00"
+    },
+    {
+      "id": "52e32c97b22c613799591e5df984315a",
+      "title": "Cô gái khiếm thị ở trọ một mình tại TP.HCM, học năm 3 đại học",
+      "link": "https://thanhnien.vn/co-gai-khiem-thi-o-tro-mot-minh-tai-tphcm-hoc-nam-3-dai-hoc-185260829153100072.htm",
+      "summary": "Là trẻ sinh non, mất hoàn toàn thị lực từ nhỏ, Bảo Trân từng rất tự ti vì bản thân không thể nhìn thấy như mọi người. Nhưng cô gái khiếm thị đã vươn lên, ở trọ một mình, và đang là sinh viên năm 3 tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T22:45:00+07:00",
+      "fetched": "2026-08-30T06:42:27.588445+07:00"
+    },
+    {
+      "id": "989393b6e44f2d441d690cbdad6fe02d",
+      "title": "Chia tài sản thừa kế như thế nào nếu không có di chúc?",
+      "link": "https://thanhnien.vn/chia-tai-san-thua-ke-nhu-the-nao-neu-khong-co-di-chuc-185260822151909472.htm",
+      "summary": "Theo luật sư, khi cha mẹ mất mà không để lại di chúc hợp pháp hoặc di chúc không có hiệu lực đối với toàn bộ hay một phần di sản, việc chia thừa kế có thể được thực hiện theo pháp luật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T22:38:00+07:00",
+      "fetched": "2026-08-30T06:42:27.588563+07:00"
+    },
+    {
+      "id": "2bd08576999b7fc802da41f6299fdde2",
+      "title": "Người mẹ nghèo đưa con sinh đôi chở vũ khí vào Sài Gòn Tết Mậu Thân 1968",
+      "link": "https://thanhnien.vn/nguoi-me-ngheo-dua-con-sinh-doi-cho-vu-khi-vao-sai-gon-tet-mau-than-1968-185260823103245668.htm",
+      "summary": "Đưa 2 con gái sinh đôi chưa đầy 3 tuổi theo xe chở vũ khí, bà Trần Thị Điều cùng chồng vượt qua các trạm kiểm soát để tiếp tế cho lực lượng biệt động Sài Gòn trước Tết Mậu Thân 1968.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T22:35:00+07:00",
+      "fetched": "2026-08-30T06:42:27.588708+07:00"
+    },
+    {
+      "id": "542beafa616bebac0dff5a74f9c9a7fa",
+      "title": "Mua 14 tờ vé ế, người đàn ông Tây Ninh trúng 4,6 tỉ xổ số miền Nam",
+      "link": "https://thanhnien.vn/mua-14-to-ve-e-nguoi-dan-ong-tay-ninh-trung-46-ti-xo-so-mien-nam-185260829103819737.htm",
+      "summary": "Người đàn ông ở Tây Ninh ghé đại lý mua nốt 14 tờ vé số còn lại với các dãy số gần giống nhau và bất ngờ trúng 4,6 tỉ xổ số miền Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T22:30:00+07:00",
+      "fetched": "2026-08-30T06:42:27.588829+07:00"
+    },
+    {
+      "id": "4286ff032928e48322f9b542faf3195a",
+      "title": "Chiến sự Ukraine ngày 1.648: Kho đạn Ukraine bị tấn công, ông Zelensky đặt mục tiêu mới",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1648-kho-dan-ukraine-bi-tan-cong-ong-zelensky-dat-muc-tieu-moi-185260829173855252.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky thông báo một cuộc tấn công bằng máy bay không người lái của Nga nhắm vào kho đạn dược ở tỉnh Kyiv gây ra vụ nổ vào tối 28.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T22:17:00+07:00",
+      "fetched": "2026-08-30T06:42:27.588948+07:00"
+    },
+    {
+      "id": "8b6575146e3b7c82defc4d0a8930b2b7",
+      "title": "Tử vi ngày 30 tháng 8: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-30-thang-8-con-giap-nao-may-man-hom-nay-18526082409185749.htm",
+      "summary": "Tử vi ngày 30 tháng 8 mang đến những gợi ý cho 12 con giáp. Tử vi hôm nay nhắc rằng một chuyến đi không cần được đo bằng số địa điểm đã check-in. Có nơi đáng để ngồi lâu hơn, ăn chậm hơn và nhìn kỹ hơn thay vì chỉ chụp ảnh rồi vội đi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T22:15:00+07:00",
+      "fetched": "2026-08-30T06:42:27.589068+07:00"
+    },
+    {
+      "id": "7ca1a96ca6ca95821201d73bc30e9dde",
+      "title": "Tủ sách Đặng Thùy Trâm đã lên tới Tây Trà",
+      "link": "https://thanhnien.vn/tu-sach-dang-thuy-tram-da-len-toi-tay-tra-185260828213717848.htm",
+      "summary": "Những ngày cuối tháng 8.2026, tủ sách Đặng Thùy Trâm đã lên tới Tây Trà, tỉnh Quảng Ngãi. Văn hóa đọc đã lan tỏa đến tận núi rừng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T22:14:00+07:00",
+      "fetched": "2026-08-30T06:42:27.589182+07:00"
+    },
+    {
+      "id": "0df30e28d480620c7ebdd16959f6139d",
+      "title": "Mả Lạng và chợ Gà - Gạo sẽ thay đổi ra sao",
+      "link": "https://vnexpress.net/ma-lang-va-cho-ga-gao-se-thay-doi-ra-sao-5115042.html",
+      "summary": "Hai khu dân cư lâu năm giữa trung tâm TP HCM sẽ được xây dựng lại đồng bộ, thay thế hàng trăm căn nhà nhỏ hẹp, xuống cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T22:00:00+07:00",
+      "fetched": "2026-08-30T06:42:24.339084+07:00"
+    },
+    {
+      "id": "a82af6cfaa0eb36f97a171e939a52b63",
+      "title": "Bệnh nhân cười vang khi tập yoga, xem phim tại viện",
+      "link": "https://vnexpress.net/benh-nhan-cuoi-vang-khi-tap-yoga-xem-phim-tai-vien-5114803.html",
+      "summary": "Đang điều trị đau dạ dày, ông Ngà, 73 tuổi, có một buổi chiều thư giãn khi xem phim, tập yoga cười ngay tại Bệnh viện Nhân dân Gia Định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T22:00:00+07:00",
+      "fetched": "2026-08-30T06:42:24.339214+07:00"
+    },
+    {
+      "id": "17e1ecf403cc70813d5e9b5596f70158",
+      "title": "Đảng Cộng hòa nguy cơ trả giá vì đòn thuế của ông Trump với Canada",
+      "link": "https://vnexpress.net/dang-cong-hoa-nguy-co-tra-gia-vi-don-thue-cua-ong-trump-voi-canada-5113432.html",
+      "summary": "Cuộc chiến thuế quan với Canada nguy cơ khiến vật giá tăng cao tại Mỹ, đe dọa tới đảng Cộng hòa trong cuộc bầu cử giữa kỳ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T22:00:00+07:00",
+      "fetched": "2026-08-30T06:42:24.339342+07:00"
+    },
+    {
+      "id": "1e9983f7a05fb4b52f7be1cb602b8dc9",
+      "title": "Lí do thật sự khiến bạn ngáp",
+      "link": "https://thanhnien.vn/li-do-that-su-khien-ban-ngap-185260828143145016.htm",
+      "summary": "Ngáp thường được xem là dấu hiệu quen thuộc của cơn buồn ngủ. Tuy nhiên, bạn vẫn có thể ngáp khi vừa thức dậy, đang làm việc hoặc trong những tình huống căng thẳng. Vậy tại sao cơ thể lại có phản xạ ngáp?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T22:00:00+07:00",
+      "fetched": "2026-08-30T06:42:27.589297+07:00"
+    },
+    {
+      "id": "25077593eec45a9ac1d21d91681bfc2c",
+      "title": "Gặp đặc công nước bắn B40 mở màn trận cầu Rạch Chiếc - Sài Gòn năm 1975",
+      "link": "https://thanhnien.vn/gap-dac-cong-nuoc-ban-b40-mo-man-tran-cau-rach-chiec-sai-gon-nam-1975-185260828130551667.htm",
+      "summary": "Gần nửa thế kỷ sau trận cầu Rạch Chiếc năm 1975, trung úy Nguyễn Đức Thọ vẫn nhớ tiếng đồng đội gọi mẹ giữa bùn sình, bom đạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T22:00:00+07:00",
+      "fetched": "2026-08-30T06:42:27.589417+07:00"
+    },
+    {
+      "id": "17e1ecf403cc70813d5e9b5596f70158",
+      "title": "Đảng Cộng hòa nguy cơ trả giá vì đòn thuế của ông Trump với Canada",
+      "link": "https://vnexpress.net/dang-cong-hoa-nguy-co-tra-gia-vi-don-thue-cua-ong-trump-voi-canada-5113432.html",
+      "summary": "Cuộc chiến thuế quan với Canada nguy cơ khiến vật giá tăng cao tại Mỹ, đe dọa tới đảng Cộng hòa trong cuộc bầu cử giữa kỳ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-29T22:00:00+07:00",
+      "fetched": "2026-08-30T06:42:31.230248+07:00"
+    },
+    {
+      "id": "c3abb87d161fc71ee52cff22d54383b1",
+      "title": "Robot hình người có thể thay thế robot công nghiệp?",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-co-the-thay-the-robot-cong-nghiep-5113101.html",
+      "summary": "Robot hình người có ưu thế trong công việc cần khả năng di chuyển và tương tác, nhưng không thể thay thế hoàn toàn robot công nghiệp trong nhà máy.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-29T22:00:00+07:00",
+      "fetched": "2026-08-30T06:42:36.385325+07:00"
     },
     {
       "id": "a13e386fc16e37333b84953f78e7be8f",
