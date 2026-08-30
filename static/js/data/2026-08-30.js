@@ -1,7 +1,157 @@
 window.newsData_2026_08_30 = {
   "date": "2026-08-30",
-  "lastUpdated": "2026-08-30T06:42:37.568299+07:00",
+  "lastUpdated": "2026-08-30T09:26:56.766887+07:00",
   "articles": [
+    {
+      "id": "0a63043f0e80c2699c3d04a96429232c",
+      "title": "Toyota Innova Cross 2027 lộ 'mặt tiền' độc lạ, 4 cảm biến trước, có thể đi 'không xăng'",
+      "link": "https://tuoitre.vn/toyota-innova-cross-2027-lo-mat-tien-doc-la-4-cam-bien-truoc-co-the-di-khong-xang-10026082908331256.htm",
+      "summary": "Toyota Innova Cross 2027 dự kiến thay đổi đáng kể phần đầu xe, với mặt ca-lăng thiết kế mới và nhiều đường nét mang phong cách SUV hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T09:26:48.147218+07:00",
+      "fetched": "2026-08-30T09:26:48.147265+07:00"
+    },
+    {
+      "id": "5a1e324a57600eecfd63308a60dfdcef",
+      "title": "Đạ Tẻh - chuyến đi chữa lành giữa miền xanh phía Nam Lâm Đồng",
+      "link": "https://tuoitre.vn/da-teh-chuyen-di-chua-lanh-giua-mien-xanh-phia-nam-lam-dong-100260829185607446.htm",
+      "summary": "Cách TP.HCM khoảng 160km, Đạ Tẻh phù hợp cho chuyến đi hai ngày một đêm với thác nước, cánh đồng, hồ thủy lợi, trái cây miền nhiệt đới và những món ăn mang hương vị nhiều vùng quê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T09:26:48.147161+07:00",
+      "fetched": "2026-08-30T09:26:48.147209+07:00"
+    },
+    {
+      "id": "d5d4d50fc2367de52097220e247e7047",
+      "title": "Siêu cúp quốc gia: Trận đấu đặc biệt của Lê Giang Patrik và Nguyễn Filip",
+      "link": "https://tuoitre.vn/sieu-cup-quoc-gia-tran-dau-dac-biet-cua-le-giang-patrik-va-nguyen-filip-100260829232153205.htm",
+      "summary": "Trận tranh Siêu cúp quốc gia 2025 - 2026 giữa CLB Công An Hà Nội và Công An TP.HCM sẽ chứng kiến màn đối đầu đặc biệt giữa hai thủ môn Việt kiều đẳng cấp nhất bóng đá Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T09:26:48.147104+07:00",
+      "fetched": "2026-08-30T09:26:48.147153+07:00"
+    },
+    {
+      "id": "27c73df629be45bace0a5e63968abbdb",
+      "title": "Lội ngược dòng 'vĩ đại nhất mọi thời đại', võ sĩ 34 tuổi đoạt chức vô địch hạng nặng thế giới IBF",
+      "link": "https://tuoitre.vn/loi-nguoc-dong-vi-dai-nhat-moi-thoi-dai-vo-si-34-tuoi-doat-chuc-vo-dich-hang-nang-the-gioi-ibf-100260830065105653.htm",
+      "summary": "Võ sĩ người Croatia Filip Hrgovic đã tạo nên màn lội ngược dòng được đánh giá là \"vĩ đại nhất mọi thời đại\" khi đánh bại tài năng trẻ người Anh Moses Itauma để giành đai vô địch hạng nặng thế giới IBF.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T09:26:48.147044+07:00",
+      "fetched": "2026-08-30T09:26:48.147094+07:00"
+    },
+    {
+      "id": "ea02643efdb2cec67c0ce61d1267d24b",
+      "title": "Đã lắp đặt điện mặt trời mái nhà mà chưa thông báo sẽ bị xử phạt thế nào?",
+      "link": "https://tuoitre.vn/da-lap-dat-dien-mat-troi-mai-nha-ma-chua-thong-bao-se-bi-xu-phat-the-nao-100260829173221715.htm",
+      "summary": "Việc lắp đặt điện mặt trời mái nhà trước ngày 26-6 mà chưa thông báo hoặc đăng ký phát triển nguồn điện thì sẽ bị xử phạt vi phạm hành chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T09:26:48.146986+07:00",
+      "fetched": "2026-08-30T09:26:48.147035+07:00"
+    },
+    {
+      "id": "45f3f48e84a9d4a4dba888dab12cb5df",
+      "title": "Cà phê nóng trong ly giấy, chuyện gì xảy ra bên trong chiếc ly?",
+      "link": "https://tuoitre.vn/ca-phe-nong-trong-ly-giay-chuyen-gi-xay-ra-ben-trong-chiec-ly-100260829162730013.htm",
+      "summary": "Khi đựng cà phê nóng, lớp lót nhựa bên trong ly giấy có thể giải phóng hàng triệu hạt nano vào đồ uống. Điều đáng chú ý là tác động sức khỏe vẫn chưa rõ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T09:26:48.146928+07:00",
+      "fetched": "2026-08-30T09:26:48.146977+07:00"
+    },
+    {
+      "id": "8f5ce6a5cf90725b4d69b853598854c0",
+      "title": "Kỳ lân biển 'đi làm thay' nhà khoa học, phát hiện điều bất ngờ dưới Greenland",
+      "link": "https://tuoitre.vn/ky-lan-bien-di-lam-thay-nha-khoa-hoc-phat-hien-dieu-bat-ngo-duoi-greenland-100260827152850434.htm",
+      "summary": "Sáu con kỳ lân biển được gắn cảm biến đã lặn sâu hơn 1.500m, thu thập dữ liệu ở những vịnh hẹp Greenland mà tàu nghiên cứu hiếm khi tiếp cận được.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T09:26:48.146870+07:00",
+      "fetched": "2026-08-30T09:26:48.146919+07:00"
+    },
+    {
+      "id": "0ff7d6fc57309d4c978c4eaffe1db7c7",
+      "title": "Đến 2030, xây dựng mạng lưới 15.000 - 20.000 người có uy tín tham gia công tác tư tưởng",
+      "link": "https://tuoitre.vn/den-2030-xay-dung-mang-luoi-15000-20000-nguoi-co-uy-tin-tham-gia-cong-tac-tu-tuong-100260830072040626.htm",
+      "summary": "Bộ Chính trị định hướng mục tiêu đến năm 2030, mục tiêu cả nước hình thành mạng lưới 15.000 - 20.000 người có uy tín, người có ảnh hưởng tích cực tham gia công tác tư tưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T09:26:48.146809+07:00",
+      "fetched": "2026-08-30T09:26:48.146861+07:00"
+    },
+    {
+      "id": "de3d1e088041dd6be182f0264234a77a",
+      "title": "Nguyễn Văn Chung, Đại Nghĩa, Neko Lê, Phùng Minh Cương rời Anh trai vượt ngàn chông gai 2026",
+      "link": "https://tuoitre.vn/nguyen-van-chung-dai-nghia-neko-le-phung-minh-cuong-roi-anh-trai-vuot-ngan-chong-gai-2026-100260829184509571.htm",
+      "summary": "Tập 9 Anh trai vượt ngàn chông gai 2026 khép lại Công diễn 3 với nhiều cung bậc cảm xúc: Tùng Mint lần đầu hát vocal và bật khóc trên sân khấu, It’s Charles được chọn làm Chiến tướng, trong khi Phùng Minh Cương, Neko Lê, Nguyễn Văn Chung và Đại Nghĩa phải dừng cuộc chơi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T09:26:48.146754+07:00",
+      "fetched": "2026-08-30T09:26:48.146800+07:00"
+    },
+    {
+      "id": "b9c3aa86eaf148d9483797bd2be9bef7",
+      "title": "Harry Potter và top 5 series hấp dẫn nhất cuối năm 2026",
+      "link": "https://tuoitre.vn/harry-potter-va-top-5-series-hap-dan-nhat-cuoi-nam-2026-10026082917510044.htm",
+      "summary": "Nửa cuối năm 2026 hứa hẹn là khoảng thời gian sôi động của màn ảnh nhỏ Mỹ khi hàng loạt dự án mới và thương hiệu quen thuộc như Avatar, Harry Potter... đồng loạt trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T09:26:48.146696+07:00",
+      "fetched": "2026-08-30T09:26:48.146746+07:00"
+    },
+    {
+      "id": "4235fb1e7ddbfffe73bb865adc3de710",
+      "title": "Khởi tố giám đốc Công ty TNHH thương mại Tâm Oanh: Lợi dụng sự cố đám cháy thu lợi bất chính",
+      "link": "https://tuoitre.vn/khoi-to-giam-doc-cong-ty-tnhh-thuong-mai-tam-oanh-loi-dung-su-co-dam-chay-thu-loi-bat-chinh-100260829225939913.htm",
+      "summary": "Giám đốc Công ty TNHH thương mại Tâm Oanh cùng nhân viên và một người khác bị Công an tỉnh Phú Thọ khởi tố vì đổ, san lấp trái phép gần 290 tấn chất thải rắn ra môi trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T09:26:48.146635+07:00",
+      "fetched": "2026-08-30T09:26:48.146687+07:00"
+    },
+    {
+      "id": "42fc79abc4927579aff80e18bf4076e3",
+      "title": "Trẻ từ 4 tuổi ở Việt Nam giờ có thể học cách vặn ốc, lắp bộ phận xe máy điện",
+      "link": "https://tuoitre.vn/tre-tu-4-tuoi-o-viet-nam-gio-co-the-hoc-cach-van-oc-lap-bo-phan-xe-may-dien-100260828123534483.htm",
+      "summary": "Honda Việt Nam hợp tác KidZania Hà Nội mở Trung tâm Công nghệ Xe máy điện, giúp trẻ tự biết lắp ráp xe điện và học an toàn giao thông qua trải nghiệm thực tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T09:26:48.146571+07:00",
+      "fetched": "2026-08-30T09:26:48.146625+07:00"
+    },
+    {
+      "id": "3096d152b96b7bded02bebcb35a72b47",
+      "title": "Những băn khoăn 'kinh điển' về tiểu đường: Uống thuốc kéo dài gây hại gan, hại thận?",
+      "link": "https://tuoitre.vn/nhung-ban-khoan-kinh-dien-ve-tieu-duong-uong-thuoc-keo-dai-gay-hai-gan-hai-than-100260828095232831.htm",
+      "summary": "Nhiều người mắc đái tháo đường điều trị bằng thuốc uống trong nhiều năm thường lo lắng thuốc sẽ gây “hỏng gan, hỏng thận”. Không ít người vì sợ tác dụng phụ đã tự ý bỏ thuốc hoặc muốn chuyển sang tiêm insulin với suy nghĩ insulin an toàn hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T09:26:48.146507+07:00",
+      "fetched": "2026-08-30T09:26:48.146562+07:00"
+    },
+    {
+      "id": "cdc6b77b2f47562e2b9bd0a3f409d390",
+      "title": "Mở nhạc cho người chơi ma túy nghe cũng phạm tội, còn những hành vi 'giúp sức' nào nữa?",
+      "link": "https://tuoitre.vn/mo-nhac-cho-nguoi-choi-ma-tuy-nghe-cung-pham-toi-con-nhung-hanh-vi-giup-suc-nao-nua-100260828145458786.htm",
+      "summary": "Người cung cấp địa điểm, phương tiện, tiền mua ma túy đến việc hỗ trợ về tinh thần có thế bị xem xét trách nhiệm hình sự nếu cố ý tạo điều kiện cho việc sử dụng ma túy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T09:26:48.146436+07:00",
+      "fetched": "2026-08-30T09:26:48.146498+07:00"
+    },
+    {
+      "id": "34c3fde4f3e0088f36214874c6ca477a",
+      "title": "Tài xế mắc kẹt trong cabin trong vụ tông xe trên cao tốc Nha Trang - Cam Lâm",
+      "link": "https://tuoitre.vn/tai-xe-mac-ket-trong-cabin-trong-vu-tong-xe-tren-cao-toc-nha-trang-cam-lam-100260830080704779.htm",
+      "summary": "Sau vụ tông xe trên cao tốc Nha Trang - Cam Lâm vào sáng nay, một tài xế trên xe tải bị mắc kẹt trong cabin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T09:26:48.146277+07:00",
+      "fetched": "2026-08-30T09:26:48.146424+07:00"
+    },
     {
       "id": "afe2e8f80fbd5b98550163bf809d7d68",
       "title": "Thời tiết hôm nay 30-8: Bắc Bộ, Nam Bộ mưa, Trung Bộ nắng nóng",
@@ -221,6 +371,346 @@ window.newsData_2026_08_30 = {
       "category": "Tổng hợp",
       "published": "2026-08-30T03:09:59.163578+07:00",
       "fetched": "2026-08-30T03:09:59.163721+07:00"
+    },
+    {
+      "id": "a0470017088cab2e486e0d547e5c6380",
+      "title": "Tai nạn trên cao tốc Nha Trang - Cam Lâm, tài xế mắc kẹt trong cabin",
+      "link": "https://thanhnien.vn/tai-nan-tren-cao-toc-nha-trang-cam-lam-tai-xe-mac-ket-trong-cabin-185260830082230085.htm",
+      "summary": "Vụ va chạm giữa hai xe trên cao tốc Nha Trang - Cam Lâm khiến đầu xe tải biến dạng nghiêm trọng, tài xế mắc kẹt trong cabin và được lực lượng cứu nạn, cứu hộ giải thoát an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T02:24:00+07:00",
+      "fetched": "2026-08-30T09:26:46.432080+07:00"
+    },
+    {
+      "id": "334b730a6c581bf6084937bf84e87163",
+      "title": "Đà Nẵng tìm thông tin liên quan liệt sĩ Nguyễn Toàn Quyền hy sinh ngày 27.11.1972",
+      "link": "https://thanhnien.vn/da-nang-tim-thong-tin-lien-quan-liet-si-nguyen-toan-quyen-hy-sinh-ngay-27111972-185260830090620731.htm",
+      "summary": "Trong quá trình khai quật, lấy mẫu hài cốt liệt sĩ tại Nghĩa trang liệt sĩ Đại Chánh (Đà Nẵng), lực lượng chức năng phát hiện di vật khắc rõ họ tên, năm sinh, đơn vị và ngày hy sinh của một liệt sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T02:22:00+07:00",
+      "fetched": "2026-08-30T09:26:46.432230+07:00"
+    },
+    {
+      "id": "3471b8b3a6427ec367768931a90f2ec0",
+      "title": "Triều Tiên thay bộ trưởng quốc phòng, sắp xếp lại ban lãnh đạo quân đội",
+      "link": "https://thanhnien.vn/trieu-tien-thay-bo-truong-quoc-phong-sap-xep-lai-ban-lanh-dao-quan-doi-185260830082831489.htm",
+      "summary": "Tại hội nghị Quân ủy Trung ương đảng Lao động Triều Tiên, Bộ trưởng Quốc phòng CHDCND Triều Tiên No Kwang-chol bị miễn nhiệm và rút khỏi ban lãnh đạo trung ương của đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T02:22:00+07:00",
+      "fetched": "2026-08-30T09:26:46.432363+07:00"
+    },
+    {
+      "id": "26615643185f0005d9798555627593bf",
+      "title": "5 mẫu ô tô 7 chỗ giá rẻ nhất thị trường Việt Nam hiện nay",
+      "link": "https://thanhnien.vn/5-mau-o-to-7-cho-gia-re-nhat-thi-truong-viet-nam-hien-nay-185260827103533507.htm",
+      "summary": "Phần lớn các mẫu ô tô 7 chỗ giá rẻ nhất thị trường Việt Nam hiện nay là các mẫu xe thuộc phân khúc MPV phổ thông 5+2 chỗ ngồi, sở hữu các tính năng, trang bị tiêu chuẩn, nhiều mẫu thậm chí vẫn dùng hộp số sàn… đáp ứng nhu cầu mua xe gia đình cũng như chạy dịch vụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T02:19:00+07:00",
+      "fetched": "2026-08-30T09:26:46.432510+07:00"
+    },
+    {
+      "id": "6c5983b352373a0d7b7cd83eb267db84",
+      "title": "Nghề muối trăm năm xứ công tử Bạc Liêu, có tỉ phú, có nước mắt diêm dân",
+      "link": "https://thanhnien.vn/nghe-muoi-tram-nam-xu-cong-tu-bac-lieu-co-ti-phu-co-nuoc-mat-diem-dan-185260826172907411.htm",
+      "summary": "Nghề làm muối ở tỉnh Bạc Liêu (cũ) từng được xem là 'thủ phủ muối' của nước ta và được công nhận là di sản văn hóa phi vật thể quốc gia. Nhưng để làm ra hạt muối trắng, diêm dân phải đổ bao nhiêu giọt mồ hôi lẫn nước mắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T02:19:00+07:00",
+      "fetched": "2026-08-30T09:26:46.432640+07:00"
+    },
+    {
+      "id": "140e30be8db6ceb85b33f68ee6977e4e",
+      "title": "TikToker bị xử lý hình sự vì trò câu view phản cảm",
+      "link": "https://thanhnien.vn/tiktoker-bi-xu-ly-hinh-su-vi-tro-cau-view-phan-cam-185260830091859921.htm",
+      "summary": "Trò đùa chiếm đoạt cửa hàng để câu view thu hàng triệu lượt xem đã đưa nam TikToker nổi tiếng ở Mỹ vào vòng lao lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T02:18:00+07:00",
+      "fetched": "2026-08-30T09:26:46.432767+07:00"
+    },
+    {
+      "id": "fc59669623820cf812106415b761a69f",
+      "title": "Hết hồn khoảnh khắc tai nạn liên hoàn 7 ô tô trên cao tốc",
+      "link": "https://thanhnien.vn/het-hon-khoanh-khac-tai-nan-lien-hoan-7-o-to-tren-cao-toc-185260830082321736.htm",
+      "summary": "Trong 2 ngày 28 - 29.8, 2 vụ tai nạn liên hoàn đã xảy ra trên cao tốc Nội Bài - Lào Cai và Phan Thiết - Dầu Giây khiến 11 ô tô hư hỏng. Nguyên nhân đều liên quan đến hành vi không giữ khoảng cách an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T02:05:00+07:00",
+      "fetched": "2026-08-30T09:26:46.432892+07:00"
+    },
+    {
+      "id": "0bfc05937c606057bd3f8fdf4ea94ad0",
+      "title": "Đi vào hang núi để chạm đến 'thiên đường'",
+      "link": "https://thanhnien.vn/di-vao-hang-nui-de-cham-den-thien-duong-185260826111136896.htm",
+      "summary": "Đến được miền thiên đường ấy, người ta phải đánh đổi bằng thời gian, tiền bạc cùng nhiều giờ luồn rừng, vượt núi, băng sông, lội suối, lần mò trong tăm tối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T02:04:00+07:00",
+      "fetched": "2026-08-30T09:26:46.433019+07:00"
+    },
+    {
+      "id": "65795d24fa4e146ae0b0928517992fec",
+      "title": "Messi vừa lập porker vừa kiến tạo, Casemiro ghi bàn đầu tiên giúp Inter Miami thắng tưng bừng",
+      "link": "https://thanhnien.vn/messi-vua-lap-porker-vua-kien-tao-casemiro-ghi-ban-dau-tien-giup-inter-miami-thang-tung-bung-185260830085705582.htm",
+      "summary": "Sáng 30.8, Messi tiếp tục chuỗi ghi bàn liên tiếp của mình lên 3 trận gần đây, lần này anh lập poker (ghi 4 bàn trong một trận), trong đó có 2 pha sút phạt thần sầu và cú solo ngoạn mục, cùng bàn thắng của Casemiro giúp Inter Miami thắng CF Montreal tỷ số 7-1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T02:03:00+07:00",
+      "fetched": "2026-08-30T09:26:46.433147+07:00"
+    },
+    {
+      "id": "8f7a7de2e187eaea943cd4d740dda894",
+      "title": "Đến Đà Nẵng không để du lịch, người trẻ từ Úc, Mỹ, Nhật… xây nhà cho người nghèo",
+      "link": "https://thanhnien.vn/den-da-nang-khong-de-du-lich-nguoi-tre-tu-uc-my-nhat-xay-nha-cho-nguoi-ngheo-185260829173328373.htm",
+      "summary": "Giữa cái nắng bỏng rát của TP.Đà Nẵng, những người trẻ đến từ Úc, Mỹ, Nhật Bản, Hàn Quốc, Philippines, Bỉ, Singapore… góp sức dựng nhiều ngôi nhà an toàn cho các hộ gia đình khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T02:00:00+07:00",
+      "fetched": "2026-08-30T09:26:46.433274+07:00"
+    },
+    {
+      "id": "1ac21b671269b4d9733473afaeae1e5e",
+      "title": "Tâm Anh biến dữ liệu thành sức mạnh hỗ trợ điều trị, phục vụ người bệnh",
+      "link": "https://thanhnien.vn/tam-anh-bien-du-lieu-thanh-suc-manh-ho-tro-dieu-tri-phuc-vu-nguoi-benh-185260829143210601.htm",
+      "summary": "Nghị quyết 57 của Bộ Chính trị đặt khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số là động lực phát triển đất nước. Trong y tế, Bệnh viện Tâm Anh đang hiện thực hóa định hướng này bằng quy trình khám chữa bệnh số hóa, ứng dụng AI, dữ liệu lớn và robot.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T02:00:00+07:00",
+      "fetched": "2026-08-30T09:26:46.433408+07:00"
+    },
+    {
+      "id": "ff697b38a844b7a2ce3bcde7cc6e37f7",
+      "title": "Diễn viên Lê Minh Thuấn: Tôi đóng phản diện đến ba mẹ cũng ghét",
+      "link": "https://thanhnien.vn/dien-vien-le-minh-thuan-toi-dong-phan-dien-den-ba-me-cung-ghet-185260821081517178.htm",
+      "summary": "Lê Minh Thuấn ghi dấu qua nhiều vai phản diện, từ những nhân vật mưu mô, tàn nhẫn đến kiểu người ích kỷ, vụ lợi khiến khán giả ghét cay ghét đắng, thậm chí ba mẹ anh cũng không khỏi bức xúc khi xem con trai trên màn ảnh. Vậy mà nam diễn viên ngoài đời khá ít nói, hiền lành, kiên trì theo đuổi nghề d...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T02:00:00+07:00",
+      "fetched": "2026-08-30T09:26:46.433538+07:00"
+    },
+    {
+      "id": "f4a952f329a3aeaf5ad6a435593a4976",
+      "title": "Trút hết sợ hãi ngoài cánh cửa bình yên",
+      "link": "https://thanhnien.vn/trut-het-so-hai-ngoai-canh-cua-binh-yen-185260817111355382.htm",
+      "summary": "\"Mẹ con tôi đã chuẩn bị tinh thần cho điều tệ nhất… chỉ để đổi lấy một cơ hội được rời đi\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T02:00:00+07:00",
+      "fetched": "2026-08-30T09:26:46.433663+07:00"
+    },
+    {
+      "id": "41ed3c60c30fdb3bbb08455e0489c8be",
+      "title": "Đến TP.HCM để thưởng thức 'mỗi đêm một câu chuyện mới'",
+      "link": "https://thanhnien.vn/den-tphcm-de-thuong-thuc-moi-dem-mot-cau-chuyen-moi-185260829154026669.htm",
+      "summary": "Một đề án mang tên 'Saigon Night 365' với thông điệp cốt lõi: 'Every night, a new story' - Mỗi đêm là một câu chuyện mới, được kỳ vọng sẽ khai phá 'mỏ vàng' kinh tế đêm cho TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T01:44:00+07:00",
+      "fetched": "2026-08-30T09:26:46.433794+07:00"
+    },
+    {
+      "id": "c9fef0ab78fdf609f125258f1b31950e",
+      "title": "Thủ đoạn 'biến' 281.000 m2 đất công tại TP HCM thành đất tư để lừa bán",
+      "link": "https://vnexpress.net/thu-doan-bien-281-000-m2-dat-cong-tai-tp-hcm-thanh-dat-tu-de-lua-ban-5115018.html",
+      "summary": "Nguyễn Văn Thanh mượn hồ sơ gốc các thửa đất công từ một chuyên viên lưu trữ, làm giả giấy tờ để tráo đổi, \"biến\" thành đất tư lừa bán cho đại gia và 4 người, chiếm đoạt 182 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T01:42:57+07:00",
+      "fetched": "2026-08-30T09:26:43.563976+07:00"
+    },
+    {
+      "id": "aef5ad7b6b097ffd6d70854bd942b3c4",
+      "title": "Bí mật về những phòng giam trên các chuyến du thuyền",
+      "link": "https://thanhnien.vn/bi-mat-ve-nhung-phong-giam-tren-cac-chuyen-du-thuyen-185260827134600474.htm",
+      "summary": "Chuyện gì xảy ra với hành khách bị đưa vào 'phòng giam' trên các con tàu lênh đênh giữa biển cả?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T01:40:00+07:00",
+      "fetched": "2026-08-30T09:26:46.433923+07:00"
+    },
+    {
+      "id": "37740bf8c1497da743a24de87568bc74",
+      "title": "Tài xế bị phạt 5 triệu đồng vì chuyển làn không giữ khoảng cách với xe sau",
+      "link": "https://vnexpress.net/tai-xe-bi-phat-5-trieu-dong-vi-chuyen-lan-khong-giu-khoang-cach-voi-xe-sau-5115112.html",
+      "summary": "Một tài xế ở Hà Nội bị CSGT xử lý sau khi chuyển làn trên cao tốc nhưng không chừa đủ khoảng trống cho phương tiện phía sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T01:19:53+07:00",
+      "fetched": "2026-08-30T09:26:43.564160+07:00"
+    },
+    {
+      "id": "dc684844e404571cc9337524d5719028",
+      "title": "Kho vũ khí Ukraine phát nổ khi bị UAV Nga đánh trúng",
+      "link": "https://vnexpress.net/kho-vu-khi-ukraine-phat-no-khi-bi-uav-nga-danh-trung-5115080.html",
+      "summary": "37 người thiệt mạng sau khi UAV Nga đánh trúng kho vũ khí của quân đội Ukraine ở ngoại ô Kiev tối 28/8, gây ra hàng loạt vụ nổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T01:19:30+07:00",
+      "fetched": "2026-08-30T09:26:43.564315+07:00"
+    },
+    {
+      "id": "8636d50ccdc11c5907e236d779b333f6",
+      "title": "Quyền lực một kỳ thi",
+      "link": "https://vnexpress.net/quyen-luc-mot-ky-thi-5115063.html",
+      "summary": "Hiếm nước nào trên thế giới có kỳ thi vào lớp 10 căng thẳng như Việt Nam. Một số quốc gia châu Á cạnh tranh khốc liệt ở đầu vào đại học - tức là thay đổi cấp giáo dục, khác với thay đổi bậc học trong một cấp học phổ thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T01:00:00+07:00",
+      "fetched": "2026-08-30T09:26:43.564480+07:00"
+    },
+    {
+      "id": "97e0c40f455cf41be7ced431972fc0ed",
+      "title": "Bị cáo kêu oan trong vụ án kéo dài 16 năm vẫn chưa 'ngã ngũ'",
+      "link": "https://vnexpress.net/bi-cao-keu-oan-trong-vu-an-keo-dai-16-nam-van-chua-nga-ngu-5113516.html",
+      "summary": "Vụ án lừa đảo bị khởi tố từ 2010, bị cáo 67 tuổi từng bị tạm giam 13 năm 4 tháng, trải qua nhiều lần xét xử, điều tra bổ sung vẫn chưa thể tuyên án, còn bị cáo kêu oan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T01:00:00+07:00",
+      "fetched": "2026-08-30T09:26:43.564626+07:00"
+    },
+    {
+      "id": "e6b65e29537654288bd1521ada06fd04",
+      "title": "Startup phát triển drone xua mây khỏi trang trại điện mặt trời",
+      "link": "https://vnexpress.net/startup-phat-trien-drone-xua-may-khoi-trang-trai-dien-mat-troi-5112724.html",
+      "summary": "Startup Meteoric phát triển drone bay trong mây độ cao thấp và trung bình, làm tan chúng để duy trì điều kiện tối ưu cho sản xuất điện mặt trời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T01:00:00+07:00",
+      "fetched": "2026-08-30T09:26:43.564763+07:00"
+    },
+    {
+      "id": "b460a83f2c57d1ad77f96ba22838608c",
+      "title": "Người đẹp tung đòn 'vô hình' khiến thanh niên không kịp trở tay",
+      "link": "https://vnexpress.net/nguoi-dep-tung-don-vo-hinh-thanh-nien-chuan-bi-phong-thu-van-khong-kip-tro-tay-5107895.html",
+      "summary": "Tưởng đã chuẩn bị sẵn tư thế phòng thủ, thanh niên vẫn bị nữ võ sĩ khiến cho “đứng hình” vì một đòn ra tay nhanh như chớp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T01:00:00+07:00",
+      "fetched": "2026-08-30T09:26:43.564895+07:00"
+    },
+    {
+      "id": "226a1d4e12041547d5a8872bba9f366c",
+      "title": "NHH Việt Nam phát triển linh kiện cơ khí theo yêu cầu",
+      "link": "https://vnexpress.net/nhh-viet-nam-phat-trien-linh-kien-co-khi-theo-yeu-cau-5115033.html",
+      "summary": "Thay vì chỉ cung cấp các sản phẩm tiêu chuẩn, NHH Việt Nam phát triển linh kiện cơ khí theo yêu cầu, đáp ứng đa dạng thông số kỹ thuật và nhu cầu của khách hàng công nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T01:00:00+07:00",
+      "fetched": "2026-08-30T09:26:43.565027+07:00"
+    },
+    {
+      "id": "c15f265e48821044d81f4bfbdaca4ff1",
+      "title": "Lưu ý giảm quá tải cho hệ tiết niệu trong kỳ nghỉ lễ",
+      "link": "https://vnexpress.net/luu-y-giam-qua-tai-cho-he-tiet-nieu-trong-ky-nghi-le-5114903.html",
+      "summary": "Tránh ăn mặn, uống nhiều rượu bia, bổ sung đủ nước và vận động để bảo vệ hệ tiết niệu, đặc biệt ở người mắc bệnh thận hoặc có tiền sử sỏi thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T01:00:00+07:00",
+      "fetched": "2026-08-30T09:26:43.565166+07:00"
+    },
+    {
+      "id": "fe568fda853e40b5f504b62bfdbe2120",
+      "title": "Uống nhiều nước tăng lực có làm tăng huyết áp?",
+      "link": "https://vnexpress.net/uong-nhieu-nuoc-tang-luc-co-lam-tang-huyet-ap-5114744.html",
+      "summary": "Tôi thường xuyên uống 2-3 lon nước tăng lực mỗi ngày để tỉnh táo làm việc, gần đây đo huyết áp cao hơn bình thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T01:00:00+07:00",
+      "fetched": "2026-08-30T09:26:43.565297+07:00"
+    },
+    {
+      "id": "052e1e6e1da085c1cd6b4e9a535bfcb9",
+      "title": "Polyp túi mật có nguy hiểm?",
+      "link": "https://vnexpress.net/polyp-tui-mat-co-nguy-hiem-5114592.html",
+      "summary": "Tôi khám sức khỏe định kỳ, siêu âm phát hiện polyp túi mật kích thước khoảng 5 mm. Polyp kích thước này nguy hiểm không, điều trị thế nào? (Trần Tuấn Nghĩa, 25 tuổi, Nghệ An)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T01:00:00+07:00",
+      "fetched": "2026-08-30T09:26:43.565446+07:00"
+    },
+    {
+      "id": "15346abfa34a783c5a84f0fb802c81ec",
+      "title": "MacCoffee CaféPhố được vinh danh 'Thương hiệu tiêu biểu châu Á - Thái Bình Dương'",
+      "link": "https://vnexpress.net/maccoffee-cafepho-duoc-vinh-danh-thuong-hieu-tieu-bieu-chau-a-thai-binh-duong-5113934.html",
+      "summary": "MacCoffee CaféPhố được vinh danh \"Thương hiệu tiêu biểu châu Á - Thái Bình Dương 2026\" nhờ đề cao hương vị bản địa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T01:00:00+07:00",
+      "fetched": "2026-08-30T09:26:43.565581+07:00"
+    },
+    {
+      "id": "e6b65e29537654288bd1521ada06fd04",
+      "title": "Startup phát triển drone xua mây khỏi trang trại điện mặt trời",
+      "link": "https://vnexpress.net/startup-phat-trien-drone-xua-may-khoi-trang-trai-dien-mat-troi-5112724.html",
+      "summary": "Startup Meteoric phát triển drone bay trong mây độ cao thấp và trung bình, làm tan chúng để duy trì điều kiện tối ưu cho sản xuất điện mặt trời.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-30T01:00:00+07:00",
+      "fetched": "2026-08-30T09:26:54.775487+07:00"
+    },
+    {
+      "id": "ef2238ea6b912fb2f422e0551b188c49",
+      "title": "Ăn cá nhỏ nguyên xương, tôm nguyên vỏ có bổ sung nhiều canxi?",
+      "link": "https://vnexpress.net/an-ca-nho-nguyen-xuong-tom-nguyen-vo-co-bo-sung-nhieu-canxi-5114843.html",
+      "summary": "Cá nhỏ ăn cả xương có thể bổ sung canxi, nhưng tôm nguyên vỏ gần như không hiệu quả, trong khi khả năng hấp thu còn phụ thuộc vào dạng canxi và cách chế biến thực phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T00:57:41+07:00",
+      "fetched": "2026-08-30T09:26:43.565714+07:00"
+    },
+    {
+      "id": "da3d148ab2b0125ec16c7461780548ee",
+      "title": "Hongqi chế tạo pin mặt trời trên nóc xe",
+      "link": "https://vnexpress.net/hongqi-che-tao-pin-mat-troi-tren-noc-xe-5114405.html",
+      "summary": "Hệ thống pin mặt trời ứng dụng công nghệ mới do hãng phát triển, cung cấp phạm vi hoạt động 80 km mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T00:36:57+07:00",
+      "fetched": "2026-08-30T09:26:43.565844+07:00"
+    },
+    {
+      "id": "a69f7e579c6cd76bd36545a42a732b3f",
+      "title": "Bé gái sống sót kỳ diệu sau trận lũ quét ở Nepal",
+      "link": "https://vnexpress.net/be-gai-song-sot-ky-dieu-sau-tran-lu-quet-o-nepal-5115092.html",
+      "summary": "Cảnh sát Nepal giải cứu một bé gái 6 tuổi bị mắc kẹt trong đống đổ nát 3 ngày sau trận lũ quét ở Nepal, sau khi nghe thấy tiếng khóc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T00:30:06+07:00",
+      "fetched": "2026-08-30T09:26:43.565977+07:00"
+    },
+    {
+      "id": "a69f7e579c6cd76bd36545a42a732b3f",
+      "title": "Bé gái sống sót kỳ diệu sau trận lũ quét ở Nepal",
+      "link": "https://vnexpress.net/be-gai-song-sot-ky-dieu-sau-tran-lu-quet-o-nepal-5115092.html",
+      "summary": "Cảnh sát Nepal giải cứu một bé gái 6 tuổi bị mắc kẹt trong đống đổ nát 3 ngày sau trận lũ quét ở Nepal, sau khi nghe thấy tiếng khóc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-30T00:30:06+07:00",
+      "fetched": "2026-08-30T09:26:49.135640+07:00"
+    },
+    {
+      "id": "468ebdcd46d2161d64f2718cc683a0b8",
+      "title": "Tránh bẫy lừa đảo khi gửi tiết kiệm lãi suất thỏa thuận",
+      "link": "https://vnexpress.net/tranh-bay-lua-dao-khi-gui-tiet-kiem-lai-suat-thoa-thuan-5114507.html",
+      "summary": "Người gửi tiền nên tự tải ứng dụng ngân hàng từ kho ứng dụng chính thức, không cung cấp mã OTP hay chuyển tiền vào tài khoản cá nhân của người tự xưng là nhân viên ngân hàng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-30T00:00:00+07:00",
+      "fetched": "2026-08-30T09:26:51.125533+07:00"
+    },
+    {
+      "id": "abeb647abe48aac306edc93ec36a8397",
+      "title": "Triều Tiên miễn nhiệm Bộ trưởng Quốc phòng",
+      "link": "https://vnexpress.net/trieu-tien-mien-nhiem-bo-truong-quoc-phong-5115091.html",
+      "summary": "Triều Tiên thông báo miễn nhiệm Bộ trưởng Quốc phòng No Kwang-chol trong đợt cải tổ bộ máy lãnh đạo quân đội.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-29T23:38:52+07:00",
+      "fetched": "2026-08-30T09:26:49.135796+07:00"
     },
     {
       "id": "eaf7b6afab0ffcf9fe75eac08458df88",
