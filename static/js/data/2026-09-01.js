@@ -1,7 +1,17 @@
 window.newsData_2026_09_01 = {
   "date": "2026-09-01",
-  "lastUpdated": "2026-09-01T01:26:14.044249+07:00",
+  "lastUpdated": "2026-09-01T06:30:05.801996+07:00",
   "articles": [
+    {
+      "id": "eebd46981d7af1498d867cb83e2b8080",
+      "title": "Nam thần màn ảnh Nhan Phúc Vinh cầu hôn Khả Ngân làm cõi mạng dậy sóng cả đêm",
+      "link": "https://tuoitre.vn/nam-than-man-anh-nhan-phuc-vinh-cau-hon-kha-ngan-lam-coi-mang-day-song-ca-dem-100260901001944426.htm",
+      "summary": "Nhan Phúc Vinh và Khả Ngân bất ngờ công khai mối quan hệ sau thời gian kín tiếng khiến cõi mạng dậy sóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T06:29:56.838594+07:00",
+      "fetched": "2026-09-01T06:29:56.838736+07:00"
+    },
     {
       "id": "6ec2d0f0a7bbfc61edc63d9400872a79",
       "title": "Iran tố Thủ tướng Israel lừa Mỹ tham chiến",
@@ -151,6 +161,316 @@ window.newsData_2026_09_01 = {
       "category": "Tổng hợp",
       "published": "2026-09-01T01:26:08.010412+07:00",
       "fetched": "2026-09-01T01:26:08.010554+07:00"
+    },
+    {
+      "id": "c83e073072855f3d922129f25ccb5759",
+      "title": "Việt Nam – Hà Lan: 'Tương lai nuôi trồng thủy sản không đo bằng sản lượng'",
+      "link": "https://thanhnien.vn/viet-nam-ha-lan-tuong-lai-nuoi-trong-thuy-san-khong-do-bang-san-luong-185260831213924332.htm",
+      "summary": "Tại The Hague, đoàn đại biểu ngành nuôi trồng thủy sản Việt Nam làm việc với Bộ Nông nghiệp, Thủy sản, An ninh lương thực và Thiên nhiên Hà Lan. Hai bên cùng một thông điệp tương lai của ngành không đo bằng sản lượng, mà bằng mức độ có trách nhiệm trong cách sản xuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T23:29:00+07:00",
+      "fetched": "2026-09-01T06:29:55.073463+07:00"
+    },
+    {
+      "id": "988044958a24a81e935a9e95e782c760",
+      "title": "Nhan Phúc Vinh - Khả Ngân gây xôn xao",
+      "link": "https://thanhnien.vn/nhan-phuc-vinh-kha-ngan-gay-xon-xao-185260831223625205.htm",
+      "summary": "Thông tin liên quan đến mối quan hệ giữa Khả Ngân và Nhan Phúc Vinh hiện gây xôn xao, sau khi cả hai chia sẻ khoảnh khắc thân thiết trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T23:20:00+07:00",
+      "fetched": "2026-09-01T06:29:55.073567+07:00"
+    },
+    {
+      "id": "2613b43811eb35329245250163ca918d",
+      "title": "Quả trà Hoàng Su Phì tìm biểu tượng mới cho trà Việt",
+      "link": "https://thanhnien.vn/qua-tra-hoang-su-phi-tim-bieu-tuong-moi-cho-tra-viet-185260825161903638.htm",
+      "summary": "VN sở hữu những cây trà cổ thụ thuộc hàng đặc biệt của thế giới, nhưng vẫn chưa có một phẩm trà đủ sức trở thành biểu tượng, để chỉ cần nhắc đến, người yêu trà nhớ ngay đến vùng đất này. Quả trà Hoàng Su Phì ra đời từ khát vọng ấy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T23:16:00+07:00",
+      "fetched": "2026-09-01T06:29:55.073670+07:00"
+    },
+    {
+      "id": "0e3ad6d5676f3ca7c3cf35fe531ebe46",
+      "title": "Gần 283.000 lượt khách đến lễ hội ẩm thực chay TP.HCM trong 7 ngày",
+      "link": "https://thanhnien.vn/gan-283000-luot-khach-den-le-hoi-am-thuc-chay-tphcm-trong-7-ngay-185260831140208308.htm",
+      "summary": "Lễ hội ẩm thực chay TP.HCM 2026 khép lại sau 7 ngày với 282.890 lượt khách. Riêng ngày cao điểm 26.8, ban tổ chức ghi nhận hơn 44.000 lượt người tham dự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T23:15:00+07:00",
+      "fetched": "2026-09-01T06:29:55.073764+07:00"
+    },
+    {
+      "id": "a059bd59ebe7b4afaf8f31660b0dd9a8",
+      "title": "Nghỉ lễ: Muốn vui khỏe, đừng bỏ qua những điều này",
+      "link": "https://thanhnien.vn/nghi-le-muon-vui-khoe-dung-bo-qua-nhung-dieu-nay-185260831205041546.htm",
+      "summary": "Ăn uống cân bằng, nghỉ ngơi hợp lý và biết giảm bớt áp lực có thể giúp những ngày nghỉ trở nên nhẹ nhàng hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T23:02:00+07:00",
+      "fetched": "2026-09-01T06:29:55.073851+07:00"
+    },
+    {
+      "id": "eac41ae7dc81d86452b0ef876e57c8ed",
+      "title": "Cống ngăn triều khổng lồ ở TP.HCM sắp hoàn thiện, người dân chỉ mong một điều vào cuối năm",
+      "link": "https://thanhnien.vn/cong-ngan-trieu-khong-lo-o-tphcm-sap-hoan-thien-nguoi-dan-chi-mong-mot-dieu-vao-cuoi-nam-185260830162456299.htm",
+      "summary": "Sống cạnh cống ngăn triều Tân Thuận, ông Huỳnh Quốc Long cho biết người dân khu vực đã nhiều năm mong công trình sớm hoàn thành để tình trạng ngập do triều cường được cải thiện. Nay, khi công trường nhộn nhịp thi công trở lại và nhiều hạng mục đã đạt hơn 90%, kỳ vọng ấy càng rõ hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T23:01:00+07:00",
+      "fetched": "2026-09-01T06:29:55.073939+07:00"
+    },
+    {
+      "id": "0de466fe6e7310a06bdaf6910eb21a01",
+      "title": "Ngôi nhà giữa rừng của gần 190 cá thể động vật hoang dã: Có con ở lại suốt đời",
+      "link": "https://thanhnien.vn/ngoi-nha-giua-rung-cua-gan-190-ca-the-dong-vat-hoang-da-co-con-o-lai-suot-doi-185260828140330579.htm",
+      "summary": "Trạm cứu hộ động vật hoang dã Đắk Lắk đang chăm sóc gần 190 cá thể thuộc 30 loài. Có những con mang thương tật vĩnh viễn, không còn khả năng trở về tự nhiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T23:00:00+07:00",
+      "fetched": "2026-09-01T06:29:55.074025+07:00"
+    },
+    {
+      "id": "06a94e3469361966f2aea53888eaca71",
+      "title": "Yêu nước không chỉ là một cảm xúc",
+      "link": "https://thanhnien.vn/yeu-nuoc-khong-chi-la-mot-cam-xuc-185260828133626731.htm",
+      "summary": "Trong hành trình \"Tôi yêu Tổ quốc tôi\", từ một câu chuyện gia đình, những chuyến đi khám phá văn hóa đến hiến máu và khởi nghiệp, người trẻ đang biến tình yêu Tổ quốc thành những việc làm cụ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T23:00:00+07:00",
+      "fetched": "2026-09-01T06:29:55.074110+07:00"
+    },
+    {
+      "id": "6d778243ea4bccffa46ae8bb685750bc",
+      "title": "Miền Bắc tăng đầu tư pin lưu trữ hỗ trợ lưới điện",
+      "link": "https://vnexpress.net/mien-bac-tang-dau-tu-pin-luu-tru-ho-tro-luoi-dien-5115352.html",
+      "summary": "Tích điện khi nhu cầu thấp và phát trở lại vào giờ cao điểm, các hệ thống pin lưu trữ được ngành điện miền Bắc đưa vào vận hành nhằm giảm áp lực lên lưới trong giờ cao điểm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-31T22:58:42+07:00",
+      "fetched": "2026-09-01T06:30:00.247110+07:00"
+    },
+    {
+      "id": "0b0a84bd76f81e91ab62fb891d944cd7",
+      "title": "Arsenal thắng nhọc Aston Villa",
+      "link": "https://vnexpress.net/arsenal-thang-nhoc-aston-villa-5115447.html",
+      "summary": "Bukayo Saka ghi bàn duy nhất giúp Arsenal đánh bại Aston Villa 1-0, qua đó giữ mạch thắng ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-31T22:56:02+07:00",
+      "fetched": "2026-09-01T06:30:05.798608+07:00"
+    },
+    {
+      "id": "af1be5aad6c1400773c4c729c5d84a0e",
+      "title": "Học sinh Trường Phổ thông Năng khiếu làm tiện ích học tiếng Anh ngay khi lướt web",
+      "link": "https://thanhnien.vn/hoc-sinh-truong-pho-thong-nang-khieu-lam-tien-ich-hoc-tieng-anh-ngay-khi-luot-web-18526082815541153.htm",
+      "summary": "Thấy nhiều học sinh dành nhiều thời gian mỗi ngày xem nội dung và 'doomscroll' (tạm dịch: liên tục lướt màn hình điện thoại, máy tính liên tục để đọc các tin tức tiêu cực, buồn bã, đáng sợ trên mạng xã hội), 2 học sinh Trường Phổ thông Năng khiếu (ĐH Quốc gia TP.HCM) tự hỏi liệu chính khoảng thời gi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T22:54:00+07:00",
+      "fetched": "2026-09-01T06:29:55.074195+07:00"
+    },
+    {
+      "id": "aa9f65ce5b4b9d630ee5026d7edbefab",
+      "title": "Tiếng Việt lan tỏa ở Malaysia",
+      "link": "https://thanhnien.vn/tieng-viet-lan-toa-o-malaysia-18526082520562169.htm",
+      "summary": "Mười năm trước, lớp học đầu tiên của Câu lạc bộ tiếng Việt tại Malaysia không có bảng hiệu, cũng chưa có một phòng học đúng nghĩa, nhưng đến nay thì học trò của chị Nguyễn Thị Liên không chỉ là trẻ em người Việt mà còn có cả Cảnh sát biển Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T22:54:00+07:00",
+      "fetched": "2026-09-01T06:29:55.074279+07:00"
+    },
+    {
+      "id": "6b54c6a906db49d2b393b9c775e7cb3f",
+      "title": "Giải tỏa bờ nam kênh Đôi: Ngóng chờ đền bù 'thấu tình đạt lý' để di dời",
+      "link": "https://thanhnien.vn/giai-toa-bo-nam-kenh-doi-ngong-cho-den-bu-thau-tinh-dat-ly-de-di-doi-185260831182123679.htm",
+      "summary": "Gắn bó nửa đời với bờ nam kênh Đôi ô nhiễm, hàng ngàn hộ dân đang khấp khởi chờ dự án chỉnh trang. Dù ủng hộ thành phố làm đẹp đô thị, trăn trở lớn nhất của họ khi rời nơi mưu sinh là mức đền bù hợp lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T22:53:00+07:00",
+      "fetched": "2026-09-01T06:29:55.074361+07:00"
+    },
+    {
+      "id": "264a71260746c822f024c76d9ce8fc75",
+      "title": "Mặc cả lãi suất gửi tiết kiệm thế nào cho khéo?",
+      "link": "https://vnexpress.net/mac-ca-lai-suat-gui-tiet-kiem-the-nao-cho-kheo-5113977.html",
+      "summary": "Người gửi có thể thử thương lượng lãi suất cao hơn với ngân hàng, nhưng cần hiểu rõ mình có lợi thế gì và mức tăng thêm đáng bao nhiêu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-31T22:49:45+07:00",
+      "fetched": "2026-09-01T06:30:00.247225+07:00"
+    },
+    {
+      "id": "5dd54e29ba52787d64efd0d2d59c923c",
+      "title": "80 năm phổ cập giáo dục: Từ quyền được học đến quyền được phát triển",
+      "link": "https://thanhnien.vn/80-nam-pho-cap-giao-duc-tu-quyen-duoc-hoc-den-quyen-duoc-phat-trien-185260901000958558.htm",
+      "summary": "Từ một đất nước có hơn 90% dân số mù chữ sau Cách mạng Tháng Tám 1945, Việt Nam đã trải qua hành trình 80 năm mở rộng cơ hội học tập: từ xóa mù chữ, phổ cập tiểu học, phổ cập THCS đến giáo dục bắt buộc 9 năm từ 1.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T22:45:00+07:00",
+      "fetched": "2026-09-01T06:29:55.074444+07:00"
+    },
+    {
+      "id": "4e24b2d72ffde5388cdc82389e2ad2ca",
+      "title": "Theo ngoại bán vé số ở TP.HCM, cô bé 10 tuổi từng khóc vì sợ phải nghỉ học",
+      "link": "https://thanhnien.vn/theo-ngoai-ban-ve-so-o-tphcm-co-be-10-tuoi-tung-khoc-vi-so-phai-nghi-hoc-185260825222048136.htm",
+      "summary": "Mỗi chiều tối, Thảo Nguyên (10 tuổi) theo ngoại bán vé số ở TP.HCM. Dù cuộc sống chật vật, bà Hà vẫn cố dành dụm từng đồng để cháu tiếp tục đến trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T22:45:00+07:00",
+      "fetched": "2026-09-01T06:29:55.074529+07:00"
+    },
+    {
+      "id": "fdfc34cf8d7361a005f8223d605a979f",
+      "title": "Dân quân phường Phú Định ở TP.HCM 2 ngày mỗi tháng mong nhiệm vụ đặc biệt",
+      "link": "https://thanhnien.vn/dan-quan-phuong-phu-dinh-o-tphcm-2-ngay-moi-thang-mong-nhiem-vu-dac-biet-185260826162053629.htm",
+      "summary": "Đều đặn 2 lần mỗi tháng, các chiến sĩ dân quân thường trực phường Phú Định (TP.HCM) lại tất bật bên bếp ăn thiện nguyện, chuẩn bị và trao hơn 1.200 - 1.300 phần ăn cho người lao động khó khăn, người cao tuổi neo đơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T22:41:00+07:00",
+      "fetched": "2026-09-01T06:29:55.074612+07:00"
+    },
+    {
+      "id": "fc9cf725fb72189e869c9ea851a23bdb",
+      "title": "Những con hẻm rực cờ đỏ sao vàng ở TP.HCM, người dân tìm đến chụp ảnh",
+      "link": "https://thanhnien.vn/nhung-con-hem-ruc-co-do-sao-vang-o-tphcm-nguoi-dan-tim-den-chup-anh-185260831142449808.htm",
+      "summary": "Cờ đỏ sao vàng nối dài từ đầu đến cuối nhiều con hẻm ở TP.HCM dịp Quốc khánh 2.9. Có nơi thu hút nhiều người diện áo dài tìm đến check-in, chụp ảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T22:35:00+07:00",
+      "fetched": "2026-09-01T06:29:55.074707+07:00"
+    },
+    {
+      "id": "1afd569aacd3992c1447bd48ff2e01a4",
+      "title": "Lũ quét Nepal hé lộ 'bóng tử thần' từ những ngọn núi tan băng",
+      "link": "https://vnexpress.net/lu-quet-nepal-he-lo-bong-tu-than-tu-nhung-ngon-nui-tan-bang-5115022.html",
+      "summary": "Trận lũ quét tại Nepal cho thấy những thay đổi từ lớp băng trên các đỉnh núi có thể nhanh chóng trở thành thảm họa chết chóc đối với cộng đồng ở hạ lưu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T22:00:00+07:00",
+      "fetched": "2026-09-01T06:29:52.130840+07:00"
+    },
+    {
+      "id": "35504d602a4da6922782542bb8308f15",
+      "title": "Giới trẻ ngày càng 'quan hệ tình dục sớm'",
+      "link": "https://vnexpress.net/gioi-tre-ngay-cang-quan-he-tinh-duc-som-5112940.html",
+      "summary": "Bộ Y tế ghi nhận tỷ lệ thanh thiếu niên quan hệ tình dục lần đầu ở tuổi học sinh, sinh viên có xu hướng tăng, tăng nguy cơ mang thai ngoài ý muốn và bệnh tình dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T22:00:00+07:00",
+      "fetched": "2026-09-01T06:29:52.130960+07:00"
+    },
+    {
+      "id": "db41235594b563a1ba4221fd1e2359b8",
+      "title": "Săn và giữ chân nhân tài công nghệ tại Trung Quốc",
+      "link": "https://vnexpress.net/san-va-giu-chan-nhan-tai-cong-nghe-tai-trung-quoc-5112652.html",
+      "summary": "Nhiều công ty AI và bán dẫn Trung Quốc tìm cách thu hút nhân tài bằng lương, cổ phần, cả tuyển mới lẫn giữ chân nhân sự chủ chốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T22:00:00+07:00",
+      "fetched": "2026-09-01T06:29:52.131066+07:00"
+    },
+    {
+      "id": "e61b52cdff3011ca0067d50b01fe5576",
+      "title": "Kiến trúc cổ ở tháp Chăm hơn 700 tuổi tại Khánh Hòa",
+      "link": "https://vnexpress.net/kien-truc-co-o-thap-cham-hon-700-tuoi-tai-khanh-hoa-5110518.html",
+      "summary": "Tháp Pô Klong Garai được xây dựng vào khoảng thế kỷ 13-14 ở khu vực Phan Rang - Tháp Chàm mang vẻ đẹp cổ kính cùng không gian linh thiêng, thu hút nhiều du khách đến tham quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T22:00:00+07:00",
+      "fetched": "2026-09-01T06:29:52.131168+07:00"
+    },
+    {
+      "id": "ee2c018fece3772ece09995d40991bb9",
+      "title": "Ung thư buồng trứng có thể phẫu thuật nội soi?",
+      "link": "https://vnexpress.net/ung-thu-buong-trung-co-the-phau-thuat-noi-soi-5114883.html",
+      "summary": "Dì tôi mắc ung thư buồng trứng, hai năm trước vừa điều trị ung thư tuyến giáp nên sức khỏe yếu. Người mắc ung thư buồng trứng có thể phẫu thuật nội soi không? (Mỹ Lan, 45 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T22:00:00+07:00",
+      "fetched": "2026-09-01T06:29:52.131265+07:00"
+    },
+    {
+      "id": "1afd569aacd3992c1447bd48ff2e01a4",
+      "title": "Lũ quét Nepal hé lộ 'bóng tử thần' từ những ngọn núi tan băng",
+      "link": "https://vnexpress.net/lu-quet-nepal-he-lo-bong-tu-than-tu-nhung-ngon-nui-tan-bang-5115022.html",
+      "summary": "Trận lũ quét tại Nepal cho thấy những thay đổi từ lớp băng trên các đỉnh núi có thể nhanh chóng trở thành thảm họa chết chóc đối với cộng đồng ở hạ lưu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-31T22:00:00+07:00",
+      "fetched": "2026-09-01T06:29:58.340584+07:00"
+    },
+    {
+      "id": "db41235594b563a1ba4221fd1e2359b8",
+      "title": "Săn và giữ chân nhân tài công nghệ tại Trung Quốc",
+      "link": "https://vnexpress.net/san-va-giu-chan-nhan-tai-cong-nghe-tai-trung-quoc-5112652.html",
+      "summary": "Nhiều công ty AI và bán dẫn Trung Quốc tìm cách thu hút nhân tài bằng lương, cổ phần, cả tuyển mới lẫn giữ chân nhân sự chủ chốt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-31T22:00:00+07:00",
+      "fetched": "2026-09-01T06:30:03.906478+07:00"
+    },
+    {
+      "id": "bb37b0fab1a872bad22a8076963acc1b",
+      "title": "Neville: 'Fernandes là bản hợp đồng hay nhất Man Utd thời hậu Ferguson'",
+      "link": "https://vnexpress.net/neville-fernandes-la-ban-hop-dong-hay-nhat-man-utd-thoi-hau-ferguson-5115444.html",
+      "summary": "Cựu hậu vệ Gary Neville đánh giá Bruno Fernandes - người lập hat-trick giúp Man Utd thắng Ipswich - là bản hợp đồng xuất sắc của Man Utd kể từ khi Sir Alex Ferguson nghỉ hưu năm 2013.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T21:41:23+07:00",
+      "fetched": "2026-09-01T06:29:52.131362+07:00"
+    },
+    {
+      "id": "bb37b0fab1a872bad22a8076963acc1b",
+      "title": "Neville: 'Fernandes là bản hợp đồng hay nhất Man Utd thời hậu Ferguson'",
+      "link": "https://vnexpress.net/neville-fernandes-la-ban-hop-dong-hay-nhat-man-utd-thoi-hau-ferguson-5115444.html",
+      "summary": "Cựu hậu vệ Gary Neville đánh giá Bruno Fernandes - người lập hat-trick giúp Man Utd thắng Ipswich - là bản hợp đồng xuất sắc của Man Utd kể từ khi Sir Alex Ferguson nghỉ hưu năm 2013.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-31T21:41:23+07:00",
+      "fetched": "2026-09-01T06:30:05.798845+07:00"
+    },
+    {
+      "id": "a8a0e0f68f5be056ece5dac180ee8073",
+      "title": "Liverpool công bố tân binh 167 triệu USD",
+      "link": "https://vnexpress.net/liverpool-cong-bo-tan-binh-167-trieu-usd-5115452.html",
+      "summary": "Liverpool hoàn tất thương vụ Bradley Barcola từ PSG với phí chuyển nhượng ban đầu 106 triệu bảng, có thể tăng lên 123 triệu bảng, để thay Mohamed Salah.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T21:01:18+07:00",
+      "fetched": "2026-09-01T06:29:52.131454+07:00"
+    },
+    {
+      "id": "a8a0e0f68f5be056ece5dac180ee8073",
+      "title": "Liverpool công bố tân binh 167 triệu USD",
+      "link": "https://vnexpress.net/liverpool-cong-bo-tan-binh-167-trieu-usd-5115452.html",
+      "summary": "Liverpool hoàn tất thương vụ Bradley Barcola từ PSG với phí chuyển nhượng ban đầu 106 triệu bảng, có thể tăng lên 123 triệu bảng, để thay Mohamed Salah.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-31T21:01:18+07:00",
+      "fetched": "2026-09-01T06:30:05.798743+07:00"
+    },
+    {
+      "id": "181b9c11cf8cb86aed7e2b134d0e704c",
+      "title": "Vì sao chuyển phôi thụ tinh ống nghiệm vẫn thai ngoài tử cung?",
+      "link": "https://vnexpress.net/vi-sao-chuyen-phoi-thu-tinh-ong-nghiem-van-thai-ngoai-tu-cung-5115068.html",
+      "summary": "Tôi vừa chuyển phôi thụ tinh trong ống nghiệm nhưng mang thai ngoài tử cung. Tại sao đã đặt phôi thai vào buồng tử cung rồi vẫn xảy ra tình trạng này? (Thanh Hằng, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T21:00:00+07:00",
+      "fetched": "2026-09-01T06:29:52.131546+07:00"
+    },
+    {
+      "id": "e792c26e48744915892322111c1195c2",
+      "title": "Cách ăn uống giúp hạ đường huyết không cần kiêng khem",
+      "link": "https://vnexpress.net/cach-an-uong-giup-ha-duong-huyet-khong-can-kieng-khem-5111528.html",
+      "summary": "Thay vì kiêng khem tuyệt đối hay chia nhỏ bữa ăn, bạn điều chỉnh thứ tự món ăn kết hợp tập luyện sẽ duy trì mức đường huyết ổn định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T19:00:00+07:00",
+      "fetched": "2026-09-01T06:29:52.131642+07:00"
     },
     {
       "id": "4ca4e9aa97a06d39771712f9f52f9736",
