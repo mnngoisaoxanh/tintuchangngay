@@ -1,6 +1,6 @@
 window.newsData_2026_09_03 = {
   "date": "2026-09-03",
-  "lastUpdated": "2026-09-03T03:17:14.946973+07:00",
+  "lastUpdated": "2026-09-03T06:41:16.489999+07:00",
   "articles": [
     {
       "id": "9186b4ab1bb3c85d3fad9fdffecb995f",
@@ -171,6 +171,336 @@ window.newsData_2026_09_03 = {
       "category": "Tổng hợp",
       "published": "2026-09-03T00:30:20.318373+07:00",
       "fetched": "2026-09-03T00:30:20.318538+07:00"
+    },
+    {
+      "id": "5ea25ef50aa32ca5b99128ff9a18b4e9",
+      "title": "Vanessa Trump đồng hành cùng Tiger Woods tại tòa",
+      "link": "https://vnexpress.net/vanessa-trump-dong-hanh-cung-tiger-woods-tai-toa-5115883.html",
+      "summary": "Vanessa, con dâu cũ của Tổng thống Mỹ Donald Trump, xuất hiện tại tòa khi bạn trai Tiger Woods nhận tội lái xe gây nguy hiểm và từ chối thực hiện xét nghiệm theo yêu cầu hợp pháp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T23:17:48+07:00",
+      "fetched": "2026-09-03T06:41:06.552585+07:00"
+    },
+    {
+      "id": "43401f5018630a1b25144476b0da2c44",
+      "title": "Kể chuyện sự tích quả dưa hấu bằng nhạc kịch Broadway",
+      "link": "https://thanhnien.vn/ke-chuyen-su-tich-qua-dua-hau-bang-nhac-kich-broadway-185260902195012409.htm",
+      "summary": "Nhạc kịch Sự tích quả dưa hấu - The Watermelon Prince: The Musical, lấy cảm hứng từ truyện dân gian Mai An Tiêm và quả dưa hấu, sẽ lên sân khấu Nhà hát TP.HCM vào ngày 3 và 4.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T23:15:00+07:00",
+      "fetched": "2026-09-03T06:41:09.018557+07:00"
+    },
+    {
+      "id": "b2676a04a32b5508ca3b086f2c9953d7",
+      "title": "Nghĩa trang hơn 500 năm tuổi, nơi hơn 500 cá Ông an nghỉ giữa xã đảo",
+      "link": "https://thanhnien.vn/nghia-trang-hon-500-nam-tuoi-noi-hon-500-ca-ong-an-nghi-giua-xa-dao-185260831123447096.htm",
+      "summary": "Trên khu đất cát rộng khoảng 2.000 m² giữa rừng dương ở xã đảo Tam Hải (Đà Nẵng), hơn 500 ngôi mộ cá Ông được xếp ngay ngắn thành từng hàng và gìn giữ qua nhiều thế hệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T23:15:00+07:00",
+      "fetched": "2026-09-03T06:41:09.018730+07:00"
+    },
+    {
+      "id": "105612a49858f0abccc092b2fb7eea1f",
+      "title": "Thiết bị 7 USD phát hiện camera quay lén trong 5 giây",
+      "link": "https://vnexpress.net/thiet-bi-7-usd-phat-hien-camera-quay-len-trong-5-giay-5115865.html",
+      "summary": "Các nhà nghiên của Hàn Quốc và Singapore phát triển thành công đèn LED gắn ngoài kết hợp ứng dụng AI để phát hiện thiết bị quay lén với tỷ lệ chính xác tới 94%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T23:09:08+07:00",
+      "fetched": "2026-09-03T06:41:06.552775+07:00"
+    },
+    {
+      "id": "f05c5228ff1859b06c65ea310549e897",
+      "title": "PYN Elite Fund: Lãi suất tăng thúc đẩy nhà đầu tư bán cổ phiếu",
+      "link": "https://vnexpress.net/pyn-elite-fund-lai-suat-tang-thuc-day-nha-dau-tu-ban-co-phieu-5115764.html",
+      "summary": "Lãi suất tăng khiến dòng tiền thận trọng hơn với chứng khoán, và là nguyên nhân khiến cổ phiếu bị bán mạnh thời gian qua, theo PYN Elite Fund.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T23:05:00+07:00",
+      "fetched": "2026-09-03T06:41:06.552950+07:00"
+    },
+    {
+      "id": "f05c5228ff1859b06c65ea310549e897",
+      "title": "PYN Elite Fund: Lãi suất tăng thúc đẩy nhà đầu tư bán cổ phiếu",
+      "link": "https://vnexpress.net/pyn-elite-fund-lai-suat-tang-thuc-day-nha-dau-tu-ban-co-phieu-5115764.html",
+      "summary": "Lãi suất tăng khiến dòng tiền thận trọng hơn với chứng khoán, và là nguyên nhân khiến cổ phiếu bị bán mạnh thời gian qua, theo PYN Elite Fund.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-02T23:05:00+07:00",
+      "fetched": "2026-09-03T06:41:12.777162+07:00"
+    },
+    {
+      "id": "838cc94e7c50d82a3bc84bf520f727c4",
+      "title": "Cách nhận lương hưu qua VNeID",
+      "link": "https://vnexpress.net/cach-nhan-luong-huu-qua-vneid-5115762.html",
+      "summary": "Người dân có thể liên kết VNeID với tài khoản ngân hàng, ví điện tử hoặc tiền di động để nhận lương hưu, trợ cấp từ 28/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T23:00:00+07:00",
+      "fetched": "2026-09-03T06:41:06.553115+07:00"
+    },
+    {
+      "id": "b7571ac3d51832f4181d2aaf78e34786",
+      "title": "Thế hệ 'bánh mì kẹp' chật vật lo nghỉ hưu",
+      "link": "https://vnexpress.net/the-he-banh-mi-kep-chat-vat-lo-nghi-huu-5113837.html",
+      "summary": "Dù thu nhập ổn định, nhiều người trung niên đang bị vắt kiệt bởi gánh nặng chăm lo gia đình hai bên, khiến quỹ hưu trí của chính họ bị bỏ ngỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T23:00:00+07:00",
+      "fetched": "2026-09-03T06:41:06.553284+07:00"
+    },
+    {
+      "id": "2c10495b670a6afef1b795b597bce95e",
+      "title": "4 thực phẩm ăn với mật ong có lợi sức khỏe",
+      "link": "https://vnexpress.net/4-thuc-pham-an-voi-mat-ong-co-loi-suc-khoe-5105759.html",
+      "summary": "Mật ong ăn với sữa, giấm táo hay tỏi có thể giảm cholesterol xấu, kiểm soát đường máu, cân bằng hệ vi sinh đường ruột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T23:00:00+07:00",
+      "fetched": "2026-09-03T06:41:06.553445+07:00"
+    },
+    {
+      "id": "d90c502ddbbffbee85e96634d5705517",
+      "title": "BYD Dolphin 2026 - chiếc xe điện không gây bỡ ngỡ",
+      "link": "https://vnexpress.net/byd-dolphin-2026-chiec-xe-dien-khong-gay-bo-ngo-5111256.html",
+      "summary": "Chiếc hatchback cỡ B thiết kế không màu mè, được thiết lập phong cách vận hành theo xu hướng của một chiếc xe xăng, thay vì ưu tiên sức mạnh tức thời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T23:00:00+07:00",
+      "fetched": "2026-09-03T06:41:06.553670+07:00"
+    },
+    {
+      "id": "ef8793b04ab41e4a7598bf9884b3d8c9",
+      "title": "Cơ hội lịch sử để đột phá du lịch",
+      "link": "https://thanhnien.vn/co-hoi-lich-su-de-dot-pha-du-lich-185260902221822116.htm",
+      "summary": "Nghị quyết số 26-NQ/TW của Bộ Chính trị do Tổng Bí thư, Chủ tịch nước Tô Lâm vừa ký ban hành về phát triển du lịch VN trở thành ngành kinh tế mũi nhọn trong kỷ nguyên mới, được coi là dấu mốc lịch sử mở đường cho ngành du lịch VN bứt phá trong thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T23:00:00+07:00",
+      "fetched": "2026-09-03T06:41:09.018890+07:00"
+    },
+    {
+      "id": "e8c230947cbab659e42e4493081e9f7a",
+      "title": "Các nước Ả Rập dần mất 'lá bài' dầu khí?",
+      "link": "https://thanhnien.vn/cac-nuoc-a-rap-dan-mat-la-bai-dau-khi-185260902213731964.htm",
+      "summary": "Sau hơn 6 tháng, cuộc chiến Iran chưa có hồi kết và eo biển Hormuz tiếp tục là \"con tin\" khiến lợi thế của các nước trong khu vực đứng trước nguy cơ mất vĩnh viễn lợi thế về dầu khí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T23:00:00+07:00",
+      "fetched": "2026-09-03T06:41:09.019045+07:00"
+    },
+    {
+      "id": "1658cae071e731e1e6f8181c76cacb62",
+      "title": "Vàng nhẫn diễn biến lạ",
+      "link": "https://thanhnien.vn/vang-nhan-dien-bien-la-185260902204343815.htm",
+      "summary": "Trong khi giá vàng thế giới giảm mạnh những ngày qua thì vàng trong nước biến động khá chậm chạp. Đặc biệt, giá vàng nhẫn trong nước cao thấp bất thường, khó hiểu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T23:00:00+07:00",
+      "fetched": "2026-09-03T06:41:09.019199+07:00"
+    },
+    {
+      "id": "0defb5a1f96a6ab325326f1b0ea2091c",
+      "title": "Lãi suất neo cao, tỷ giá hối đoái diễn biến ngược",
+      "link": "https://thanhnien.vn/lai-suat-neo-cao-ty-gia-hoi-doai-dien-bien-nguoc-185260902203738779.htm",
+      "summary": "Các ngân hàng vẫn neo lãi suất ở mức cao để huy động tiền gửi từ người dân trong bối cảnh giá USD đi lùi so với đầu năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T23:00:00+07:00",
+      "fetched": "2026-09-03T06:41:09.019351+07:00"
+    },
+    {
+      "id": "1881d3f0ceb09c165234928b3ff7d02e",
+      "title": "Nọc Nạng, ký ức giữ đất của lưu dân Nam bộ",
+      "link": "https://thanhnien.vn/noc-nang-ky-uc-giu-dat-cua-luu-dan-nam-bo-185260902200641536.htm",
+      "summary": "Miền Tây Nam bộ không chỉ có những dòng sông nặng phù sa, miệt vườn trù phú... mà còn có nhiều di tích lịch sử - văn hóa lưu giữ những câu chuyện về con người và sự kiện làm nên diện mạo vùng đất này qua nhiều thế hệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T23:00:00+07:00",
+      "fetched": "2026-09-03T06:41:09.019524+07:00"
+    },
+    {
+      "id": "eb819728a86bf25c77457accd16191a4",
+      "title": "Nhiều hoạt động 'Tôi yêu Tổ quốc tôi' tại TP.HCM",
+      "link": "https://thanhnien.vn/nhieu-hoat-dong-toi-yeu-to-quoc-toi-tai-tphcm-185260902194749234.htm",
+      "summary": "Sáng 28.8, tại công viên Lê Thị Riêng, Hội Liên hiệp thanh niên Việt Nam TP.HCM tổ chức Lễ chào cờ \"Tôi yêu Tổ quốc tôi\" và phát động Hành trình \"Tôi yêu Tổ quốc tôi\" năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T23:00:00+07:00",
+      "fetched": "2026-09-03T06:41:09.019679+07:00"
+    },
+    {
+      "id": "885e1a71f1d03fc1222b1aa3b7f69004",
+      "title": "Sầu riêng bứt tốc, xuất khẩu rau quả chinh phục kỷ lục mới",
+      "link": "https://thanhnien.vn/sau-rieng-but-toc-xuat-khau-rau-qua-chinh-phuc-ky-luc-moi-185260902162109662.htm",
+      "summary": "Mỗi tháng mang về cả gần tỉ USD, sự bứt tốc của sầu riêng đang giúp xuất khẩu rau quả VN hướng đến kỷ lục mới trong năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T23:00:00+07:00",
+      "fetched": "2026-09-03T06:41:09.019836+07:00"
+    },
+    {
+      "id": "bcf1e711fa681ff19ef234f19f9bebb3",
+      "title": "Đi giữa rừng Yók Đôn, gặp voi và nghe chuyện những con vật từng dính bẫy",
+      "link": "https://thanhnien.vn/di-giua-rung-yok-don-gap-voi-va-nghe-chuyen-nhung-con-vat-tung-dinh-bay-185260828144721774.htm",
+      "summary": "Vào rừng Yók Đôn, du khách được quan sát voi trong môi trường bán hoang dã, ghé trạm cứu hộ và tìm hiểu câu chuyện về những cá thể mất chân, mất mẹ, không thể trở về tự nhiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T23:00:00+07:00",
+      "fetched": "2026-09-03T06:41:09.019989+07:00"
+    },
+    {
+      "id": "9fe39ec26eddb315c8bd0a0a79d52401",
+      "title": "Điểm tin 6h: Số tai nạn giảm mạnh trong 5 ngày nghỉ lễ | 10 tỉnh thành đạt doanh thu du lịch nghìn tỷ đồng",
+      "link": "https://vnexpress.net/diem-tin-6h-so-tai-nan-giam-manh-trong-5-ngay-nghi-le-10-tinh-thanh-dat-doanh-thu-du-lich-nghin-ty-dong-5115893.html",
+      "summary": "Giá vàng miếng SJC và vàng nhẫn 'bốc hơi' hơn 3 triệu đồng mỗi lượng; Tổng thống Mỹ nêu ý tưởng đổi tên Hormuz thành 'eo biển Trump'...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:59:57+07:00",
+      "fetched": "2026-09-03T06:41:06.553852+07:00"
+    },
+    {
+      "id": "588f8d41c23d7fb84031e59b13bf82d8",
+      "title": "Chelsea bị lật kèo ngày cuối kỳ chuyển nhượng 2026",
+      "link": "https://vnexpress.net/chelsea-bi-lat-keo-ngay-cuoi-ky-chuyen-nhuong-2026-5115850.html",
+      "summary": "Chelsea đạt thỏa thuận tuyển mộ Lamine Camara với mức phí 64 triệu USD nhưng Monaco bất ngờ rút lui vào phút chót, khiến đội bóng Anh không kịp tìm phương án thay thế trong ngày cuối kỳ chuyển nhượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:55:36+07:00",
+      "fetched": "2026-09-03T06:41:06.554012+07:00"
+    },
+    {
+      "id": "588f8d41c23d7fb84031e59b13bf82d8",
+      "title": "Chelsea bị lật kèo ngày cuối kỳ chuyển nhượng 2026",
+      "link": "https://vnexpress.net/chelsea-bi-lat-keo-ngay-cuoi-ky-chuyen-nhuong-2026-5115850.html",
+      "summary": "Chelsea đạt thỏa thuận tuyển mộ Lamine Camara với mức phí 64 triệu USD nhưng Monaco bất ngờ rút lui vào phút chót, khiến đội bóng Anh không kịp tìm phương án thay thế trong ngày cuối kỳ chuyển nhượng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-02T22:55:36+07:00",
+      "fetched": "2026-09-03T06:41:16.484392+07:00"
+    },
+    {
+      "id": "45c26db8c9e9d27c5ff119c193955312",
+      "title": "Nhiều thay đổi quan trọng từ năm học mới",
+      "link": "https://thanhnien.vn/nhieu-thay-doi-quan-trong-tu-nam-hoc-moi-18526090220553408.htm",
+      "summary": "Năm học 2026 - 2027 là năm đầu tiên cả nước vận hành trường học sau sắp xếp cùng rất nhiều thay đổi trong quản trị, cũng là năm ngành giáo dục quyết tâm \"trả lại chất lượng giáo dục thực chất\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:54:00+07:00",
+      "fetched": "2026-09-03T06:41:09.020144+07:00"
+    },
+    {
+      "id": "69aa938287b1607b424b02d641f55093",
+      "title": "Bên trong trường nội trú 227 tỷ đồng rộng gần 60.000 m2",
+      "link": "https://vnexpress.net/ben-trong-truong-noi-tru-227-ty-dong-rong-gan-60-000-m2-5112643.html",
+      "summary": "Với khuôn viên 58.300 m2, Phổ thông nội trú Tiểu học và THCS Buôn Đôn hiện là một trong những trường học rộng nhất ở biên giới, đón hơn 1.100 học sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:50:00+07:00",
+      "fetched": "2026-09-03T06:41:06.554168+07:00"
+    },
+    {
+      "id": "abe5dc0fb687f381eec4e9ddf464904b",
+      "title": "Lễ này bớt kẹt xe, xếp hàng",
+      "link": "https://thanhnien.vn/le-nay-bot-ket-xe-xep-hang-185260902192356413.htm",
+      "summary": "Lượng người đi nghỉ lễ Quốc khánh 2.9 năm nay vẫn rất đông nhưng có một điểm khác biệt, từ cao tốc, quốc lộ cho tới nhà ga sân bay tương đối thông thoáng. Tất cả là nhờ các cơ quan chức năng, lực lượng CSGT đã chủ động triển khai các phương án điều tiết giao thông linh hoạt, đột phá ngay từ sớm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:50:00+07:00",
+      "fetched": "2026-09-03T06:41:09.020301+07:00"
+    },
+    {
+      "id": "ec227885e06e793f2a00e0a097e0430e",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 3.9.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-392026-185260902221831543.htm",
+      "summary": "Tin tức Báo Thanh Niên và Quỹ Phượng Hoàng tặng điểm trường ở cực tây Tổ quốc; Cơ hội lịch sử để đột phá du lịch; Cấp \"giấy khai sinh\" cho cây cảnh... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 3.9.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:48:00+07:00",
+      "fetched": "2026-09-03T06:41:09.020449+07:00"
+    },
+    {
+      "id": "9fb5bdda204ed5cb35e585277030ddc9",
+      "title": "Sinh viên có thể học đại học chỉ trong 2 năm",
+      "link": "https://thanhnien.vn/sinh-vien-co-the-hoc-dai-hoc-chi-trong-2-nam-185260902163719259.htm",
+      "summary": "Với quy chế đào tạo trình độ ĐH vừa được Bộ GD-ĐT ban hành, sinh viên có thể học ĐH trong thời gian sớm nhất chỉ 2 năm. Song song đó, thời gian học tập tối đa để hoàn thành chuẩn đầu ra bị rút ngắn hơn so với quy định cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:45:00+07:00",
+      "fetched": "2026-09-03T06:41:09.020649+07:00"
+    },
+    {
+      "id": "23d29b513d067f04bb8da141d004d628",
+      "title": "Ông nội viết thư dặn 'ráng học đến đại học', 17 năm sau cháu gái làm được",
+      "link": "https://thanhnien.vn/ong-noi-viet-thu-dan-rang-hoc-den-dai-hoc-17-nam-sau-chau-gai-lam-duoc-185260829092516637.htm",
+      "summary": "Tám tháng trước khi qua đời, ông nội viết thư dặn cháu gái cố gắng học đến đại học, có nghề nghiệp trong tay. Suốt 17 năm qua, cô vẫn giữ lá thư và từng bước thực hiện lời ông dặn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:45:00+07:00",
+      "fetched": "2026-09-03T06:41:09.020803+07:00"
+    },
+    {
+      "id": "73f5f7f1ad395bb5916bd3226e544e30",
+      "title": "Biến động vị thế các hãng ôtô thị trường Việt hơn 10 năm qua",
+      "link": "https://vnexpress.net/bien-dong-vi-the-cac-hang-oto-thi-truong-viet-hon-10-nam-qua-5115772.html",
+      "summary": "Giai đoạn 2014-2017 là sự thống trị tuyệt đối của Toyota, sau đó Hyundai xuất hiện và trở thành đối trọng, còn 2024-2025 chứng kiến VinFast vươn lên số một.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:00:00+07:00",
+      "fetched": "2026-09-03T06:41:06.554329+07:00"
+    },
+    {
+      "id": "dfa39935ece8af0376741be18cbbe915",
+      "title": "Ai đang mua robot hình người Trung Quốc?",
+      "link": "https://vnexpress.net/ai-dang-mua-robot-hinh-nguoi-trung-quoc-5113346.html",
+      "summary": "Trung Quốc sản xuất hàng nghìn robot hình người mỗi năm, nhưng hiện chỉ một phần nhỏ được mua để phục vụ công việc ngoài đời thực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:00:00+07:00",
+      "fetched": "2026-09-03T06:41:06.554511+07:00"
+    },
+    {
+      "id": "4adfff5970912844d520770e71f943cd",
+      "title": "Bí ẩn quanh nữ nghi phạm ám sát tài phiệt Ukraine",
+      "link": "https://vnexpress.net/bi-an-quanh-nu-nghi-pham-am-sat-tai-phiet-ukraine-5111374.html",
+      "summary": "Berezovska được xác định là nghi phạm ám sát tài phiệt Ukraine ở Monaco, nhưng vài ngày sau, người phụ nữ bí ẩn này bị bắn chết, vùi xác trong rừng gần Kiev.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:00:00+07:00",
+      "fetched": "2026-09-03T06:41:06.554671+07:00"
+    },
+    {
+      "id": "84ab83c7640658e6bbe3e1c81087fff8",
+      "title": "Chuyên gia chỉ cách nhận biết thịt lợn nhiễm bệnh",
+      "link": "https://vnexpress.net/chuyen-gia-chi-cach-nhan-biet-thit-lon-nhiem-benh-5105000.html",
+      "summary": "Thịt lợn bệnh khó xác định bằng mắt thường, song có thể nhận biết qua một số dấu hiệu bất thường như màu sắc, độ đàn hồi, mùi hay dịch tiết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:00:00+07:00",
+      "fetched": "2026-09-03T06:41:06.554831+07:00"
+    },
+    {
+      "id": "4adfff5970912844d520770e71f943cd",
+      "title": "Bí ẩn quanh nữ nghi phạm ám sát tài phiệt Ukraine",
+      "link": "https://vnexpress.net/bi-an-quanh-nu-nghi-pham-am-sat-tai-phiet-ukraine-5111374.html",
+      "summary": "Berezovska được xác định là nghi phạm ám sát tài phiệt Ukraine ở Monaco, nhưng vài ngày sau, người phụ nữ bí ẩn này bị bắn chết, vùi xác trong rừng gần Kiev.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-02T22:00:00+07:00",
+      "fetched": "2026-09-03T06:41:11.634502+07:00"
+    },
+    {
+      "id": "dfa39935ece8af0376741be18cbbe915",
+      "title": "Ai đang mua robot hình người Trung Quốc?",
+      "link": "https://vnexpress.net/ai-dang-mua-robot-hinh-nguoi-trung-quoc-5113346.html",
+      "summary": "Trung Quốc sản xuất hàng nghìn robot hình người mỗi năm, nhưng hiện chỉ một phần nhỏ được mua để phục vụ công việc ngoài đời thực.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-02T22:00:00+07:00",
+      "fetched": "2026-09-03T06:41:15.431095+07:00"
     },
     {
       "id": "a5327f4a7e59b0dd15f0ec07a41aabae",
