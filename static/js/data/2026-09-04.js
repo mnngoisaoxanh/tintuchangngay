@@ -1,6 +1,6 @@
 window.newsData_2026_09_04 = {
   "date": "2026-09-04",
-  "lastUpdated": "2026-09-04T03:17:16.088958+07:00",
+  "lastUpdated": "2026-09-04T06:41:40.236257+07:00",
   "articles": [
     {
       "id": "daacd776bb8a36a8e81bde4a48b8aeaa",
@@ -191,6 +191,346 @@ window.newsData_2026_09_04 = {
       "category": "Tổng hợp",
       "published": "2026-09-04T00:34:47.517968+07:00",
       "fetched": "2026-09-04T00:34:47.518130+07:00"
+    },
+    {
+      "id": "d584cd228ba7a93e1473d9407681df7e",
+      "title": "Phát hiện thêm tin vui cho người lớn tuổi thích tập thể dục",
+      "link": "https://thanhnien.vn/phat-hien-them-tin-vui-cho-nguoi-lon-tuoi-thich-tap-the-duc-185260904064059703.htm",
+      "summary": "Thường xuyên hoạt động thể chất là điều cốt lõi để duy trì sức khỏe tốt. Thói quen này mang lại nhiều lợi ích như củng cố sức khỏe tim mạch, kiểm soát cân nặng, tăng cường miễn dịch và hỗ trợ sức khỏe não bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:37:00+07:00",
+      "fetched": "2026-09-04T06:41:29.401766+07:00"
+    },
+    {
+      "id": "dfd84083b6bc44a0ea446e56a6da5095",
+      "title": "Loạn giá thịt trâu gác bếp",
+      "link": "https://vnexpress.net/loan-gia-thit-trau-gac-bep-5114599.html",
+      "summary": "Cùng được giới thiệu là đặc sản Tây Bắc nhưng giá lại chênh lệch nhau khá nhiều, từ hơn 300.000 đồng đến 1,5 triệu đồng một kg.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:30:00+07:00",
+      "fetched": "2026-09-04T06:41:26.251346+07:00"
+    },
+    {
+      "id": "11693419a60ae6da90f8e12d2a0033c9",
+      "title": "Các nước chuẩn bị cho tuổi già thế nào?",
+      "link": "https://vnexpress.net/cac-nuoc-chuan-bi-cho-tuoi-gia-the-nao-5113838.html",
+      "summary": "Thay vì đợi đến tuổi 40, nhiều quốc gia yêu cầu người dân tích lũy hưu trí ngay khi đi làm và thiết kế lại hạ tầng để thích ứng già hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:30:00+07:00",
+      "fetched": "2026-09-04T06:41:26.251511+07:00"
+    },
+    {
+      "id": "dd13e63a1e1fb03299112438f42528b7",
+      "title": "Torcal EV - SUV điện Bentley lộ thông số",
+      "link": "https://vnexpress.net/torcal-ev-suv-dien-bentley-lo-thong-so-5116150.html",
+      "summary": "Mẫu xe điện hạng sang trang bị hai môtơ điện, tổng công suất 850 mã lực, pin 113 kWh dùng chung với Porsche Cayenne Electric.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:30:00+07:00",
+      "fetched": "2026-09-04T06:41:26.251687+07:00"
+    },
+    {
+      "id": "2e76642a819f2cd5372b90ad12156629",
+      "title": "Người trẻ cũng mắc ung thư tuyến giáp: 3 dấu hiệu cảnh báo",
+      "link": "https://thanhnien.vn/nguoi-tre-cung-mac-ung-thu-tuyen-giap-3-dau-hieu-canh-bao-185260903175239255.htm",
+      "summary": "Ung thư tuyến giáp xuất hiện ở nhiều độ tuổi, trong đó ung thư tuyến giáp thể nhú có thể gặp ở cả người trẻ. Tuy nhiên, bệnh thường phát triển khá chậm. Nhiều trường hợp gần như không gây triệu chứng rõ ràng trong giai đoạn đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:20:00+07:00",
+      "fetched": "2026-09-04T06:41:29.401923+07:00"
+    },
+    {
+      "id": "4c60456740b7fb4e81a651a402d5e354",
+      "title": "Dự báo mức tăng giá của iPhone 18 Pro",
+      "link": "https://vnexpress.net/du-bao-muc-tang-gia-cua-iphone-18-pro-5116290.html",
+      "summary": "Công ty nghiên cứu thị trường TrendForce dự báo giá của iPhone 18 Pro và 18 Pro Max có thể tăng 150-200 USD, dựa trên tình hình chi phí phần cứng mới nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:18:23+07:00",
+      "fetched": "2026-09-04T06:41:26.251834+07:00"
+    },
+    {
+      "id": "b654756e5e8dc79e4fb4e4859be1c680",
+      "title": "Tranh luận nảy lửa về quản lý AI",
+      "link": "https://thanhnien.vn/tranh-luan-nay-lua-ve-quan-ly-ai-185260903194615241.htm",
+      "summary": "Các bộ trưởng của nhóm G20 và ông chủ các công ty dẫn đầu về trí tuệ nhân tạo (AI) đã tranh luận nảy lửa trong hội nghị vừa kết thúc tại Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:16:00+07:00",
+      "fetched": "2026-09-04T06:41:29.402064+07:00"
+    },
+    {
+      "id": "3f3fcf042d9fadc64cdb4ef99e2b28c5",
+      "title": "Bệnh lo âu tuổi học đường",
+      "link": "https://thanhnien.vn/benh-lo-au-tuoi-hoc-duong-185260903174708884.htm",
+      "summary": "Bệnh nhân nữ 16 tuổi, đang học lớp 10, có học lực giỏi, được gia đình đưa đến Viện Sức khỏe tâm thần - Bệnh viện Bạch Mai (Hà Nội) do mất ngủ, đau đầu, lo âu quá mức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:16:00+07:00",
+      "fetched": "2026-09-04T06:41:29.402196+07:00"
+    },
+    {
+      "id": "e7a84c355a00866b2829340855254afe",
+      "title": "Bí quyết thành triệu phú USD của ông lão lao công",
+      "link": "https://vnexpress.net/bi-quyet-thanh-trieu-phu-usd-cua-ong-lao-lao-cong-5116233.html",
+      "summary": "Dành phần lớn tiền lương công việc nhân viên dọn dẹp để mua cổ phiếu, Ronald Read có khối tài sản 8 triệu USD mà người nhà không hay biết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:14:00+07:00",
+      "fetched": "2026-09-04T06:41:26.251966+07:00"
+    },
+    {
+      "id": "efd83050cd8fe3001fce97242c3d653f",
+      "title": "Du khách Việt ở Nepal: 'Nếu đi sớm vài tiếng, chúng tôi đã bị cuốn phăng'",
+      "link": "https://vnexpress.net/du-khach-viet-o-nepal-neu-di-som-vai-tieng-chung-toi-da-bi-cuon-phang-5116322.html",
+      "summary": "Quyết định lùi giờ khởi hành bốn tiếng giúp đoàn gần 100 người Việt thoát lũ quét Nepal, trước khi quay lại Kathmandu mất ba ngày tìm lộ trình mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:09:40+07:00",
+      "fetched": "2026-09-04T06:41:26.252093+07:00"
+    },
+    {
+      "id": "e21c82475996742f2057421134c997d3",
+      "title": "Hà Nội hướng dẫn tra cứu cơ sở khám chữa bệnh được cấp phép hoạt động",
+      "link": "https://thanhnien.vn/ha-noi-huong-dan-tra-cuu-co-so-kham-chua-benh-duoc-cap-phep-hoat-dong-185260903174238967.htm",
+      "summary": "Theo Sở Y tế Hà Nội, người dân có thể tra cứu thông tin các cơ sở khám chữa bệnh và cơ sở bán buôn, bán lẻ thuốc được cấp phép hoạt động trên trang soyte.hanoi.gov.vn (mục Quản lý hành nghề y dược) và trang suckhoethudo.vn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:05:00+07:00",
+      "fetched": "2026-09-04T06:41:29.402330+07:00"
+    },
+    {
+      "id": "a37994a2f8e232feb1ff61608496ece1",
+      "title": "Khu đô thị gần 33.000 tỷ đồng ở Bắc Ninh tìm được chủ đầu tư",
+      "link": "https://vnexpress.net/khu-do-thi-gan-33-000-ty-dong-o-bac-ninh-tim-duoc-chu-dau-tu-5116305.html",
+      "summary": "Liên danh Tuấn Mai - Sun Grand - Ravahomes được duyệt là nhà đầu tư Khu đô thị hỗn hợp và chợ quốc tế Bắc Giang gần 33.000 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:00:00+07:00",
+      "fetched": "2026-09-04T06:41:26.252216+07:00"
+    },
+    {
+      "id": "bd7957a52d3857592152cf15570d7442",
+      "title": "Truy sát bảo vệ bãi đỗ xe từ mâu thuẫn tiền trông giữ",
+      "link": "https://vnexpress.net/truy-sat-bao-ve-bai-do-xe-tu-mau-thuan-tien-trong-giu-5116128.html",
+      "summary": "Không đồng ý để khách trả tiền trông giữ xe, Phạm Anh Đông tranh cãi, bị bảo vệ tát vào mặt nên mua hai dao bầu đến trả thù.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:00:00+07:00",
+      "fetched": "2026-09-04T06:41:26.252342+07:00"
+    },
+    {
+      "id": "445f375f2f5c4ca7e3a9ea183c609e49",
+      "title": "Những căn hộ 9 m2 ở Paris có nguy cơ bị xóa sổ",
+      "link": "https://vnexpress.net/nhung-can-ho-9-m2-o-paris-co-nguy-co-bi-xoa-so-5115956.html",
+      "summary": "Từng là nơi ở giá rẻ cho người nghèo, các căn hộ 9 m2 áp mái tại Paris đang đối mặt nguy cơ bị xóa sổ do nắng nóng cực đoan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:00:00+07:00",
+      "fetched": "2026-09-04T06:41:26.252474+07:00"
+    },
+    {
+      "id": "4dbc0e387ae1d5f0871b7a7c14494cb9",
+      "title": "Khủng hoảng tinh thần của những quản lý 'bánh mì kẹp'",
+      "link": "https://vnexpress.net/khung-hoang-tinh-than-cua-nhung-quan-ly-banh-mi-kep-5113444.html",
+      "summary": "Gánh chỉ tiêu từ lãnh đạo nhưng thiếu quyền quyết định, đồng thời liên tục xử lý bất ổn từ cấp dưới, nhiều quản lý cấp trung rơi vào bẫy áp lực \"bánh mì kẹp\" dẫn đến kiệt sức và rối loạn tâm lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:00:00+07:00",
+      "fetched": "2026-09-04T06:41:26.252621+07:00"
+    },
+    {
+      "id": "313dd54f98d185294563592584b2da83",
+      "title": "Lotus ra mắt ba mẫu xe mới, giá từ 135.000 USD",
+      "link": "https://vnexpress.net/lotus-ra-mat-ba-mau-xe-moi-gia-tu-135-000-usd-5115749.html",
+      "summary": "Ba mẫu xe Emira 420 Sport (ICE), Emeya 900 Gold (sedan EV), Eletre 900 Gold (SUV EV), giá cao nhất 174.000 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:00:00+07:00",
+      "fetched": "2026-09-04T06:41:26.252752+07:00"
+    },
+    {
+      "id": "de4543ccede3c2dda120f561e5b26223",
+      "title": "Mỹ - Iran vào vòng xoáy đối đầu mới",
+      "link": "https://thanhnien.vn/my-iran-vao-vong-xoay-doi-dau-moi-185260903211213504.htm",
+      "summary": "Mỹ - Iran quay lại vòng xoáy tập kích lẫn nhau, làm gia tăng nguy cơ xung đột kéo dài và gây sức ép lên kinh tế toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:00:00+07:00",
+      "fetched": "2026-09-04T06:41:29.402455+07:00"
+    },
+    {
+      "id": "a0a3d66caa84a42ab4e1289ffc0125c0",
+      "title": "Xuất khẩu thêm nhiều đơn hàng mới",
+      "link": "https://thanhnien.vn/xuat-khau-them-nhieu-don-hang-moi-185260903204217521.htm",
+      "summary": "Những nỗ lực xúc tiến thương mại, tìm kiếm khách hàng mới, chuyển đổi đáp ứng yêu cầu của khách hàng đã giúp doanh nghiệp VN có thêm nhiều đơn hàng, gia tăng kim ngạch xuất khẩu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:00:00+07:00",
+      "fetched": "2026-09-04T06:41:29.402593+07:00"
+    },
+    {
+      "id": "cce34595eb81c06b72cfae8c97a09ce4",
+      "title": "Quặn lòng cô học trò mồ côi mẹ, không nhà cửa cần được cứu giúp",
+      "link": "https://thanhnien.vn/quan-long-co-hoc-tro-mo-coi-me-khong-nha-cua-can-duoc-cuu-giup-185260903183558595.htm",
+      "summary": "Ngày có kết quả đậu đại học, Võ Ngọc Thảo chạy ngay lại bàn thờ mẹ, thắp nén hương để báo cho mẹ biết thành quả sau bao khổ nhọc. Nhưng ngay vài giây sau đó, nước mắt em lại rơi khi nghĩ đến kinh phí đi học vượt quá khả năng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:00:00+07:00",
+      "fetched": "2026-09-04T06:41:29.402742+07:00"
+    },
+    {
+      "id": "c20dfa034839599da86aadb29f591c62",
+      "title": "Mỗi địa điểm có một 'căn cước'",
+      "link": "https://thanhnien.vn/moi-dia-diem-co-mot-can-cuoc-185260903175116558.htm",
+      "summary": "Từ ngày 1.9.2026, Nghị định 326/2026 về định danh địa điểm chính thức có hiệu lực, mở ra một bước mới trong quá trình xây dựng cơ sở dữ liệu dùng chung về đất đai, công trình và các địa điểm trên phạm vi cả nước. Khi mỗi địa điểm có một mã định danh riêng, việc tìm kiếm, xác thực, giao dịch và quản ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:00:00+07:00",
+      "fetched": "2026-09-04T06:41:29.402873+07:00"
+    },
+    {
+      "id": "8ab64f794b4a3c67b386a28086d49f58",
+      "title": "Buôn bán kiểu miền Tây: Hàng chẳng cần trông, một chục có khi tới 16",
+      "link": "https://thanhnien.vn/buon-ban-kieu-mien-tay-hang-chang-can-trong-mot-chuc-co-khi-toi-16-185260901110325284.htm",
+      "summary": "Ở miền Tây, có những gian hàng ven đường chẳng cần người túc trực; còn một chục dừa, bắp hay khóm có nơi lại là 12, 14, thậm chí 16 trái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T23:00:00+07:00",
+      "fetched": "2026-09-04T06:41:29.402995+07:00"
+    },
+    {
+      "id": "970bd8c4e1e709d1fb7742b65ceff068",
+      "title": "Điểm tin 6h: Cháy cửa hàng xe điện ở Đăk Lăk | Vốn FDI vào Việt Nam tăng",
+      "link": "https://vnexpress.net/diem-tin-6h-chay-cua-hang-xe-dien-o-dak-lak-von-fdi-vao-viet-nam-tang-5116319.html",
+      "summary": "Cháy cửa hàng xe điện ở Đăk Lăk; Sức mua và du lịch Việt Nam bứt phá mạnh mẽ, lượng khách quốc tế đạt kỷ lục...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T22:59:16+07:00",
+      "fetched": "2026-09-04T06:41:26.252877+07:00"
+    },
+    {
+      "id": "df8f49672ccc0150531d039da12348ac",
+      "title": "Trường học 263 tỷ vùng biên có bể bơi, sân pickleball",
+      "link": "https://vnexpress.net/truong-hoc-263-ty-vung-bien-co-be-boi-san-pickleball-5109674.html",
+      "summary": "Trường Phổ thông nội trú liên cấp Tiểu học và THCS Pa Tần được đầu tư hơn 263 tỷ đồng với hệ thống phòng học, khu nội trú, nhà ăn, sân bóng, bể bơi..., vừa khánh thành ngày 16/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T22:59:00+07:00",
+      "fetched": "2026-09-04T06:41:26.253001+07:00"
+    },
+    {
+      "id": "f5221313359a92aefeba34819db1afd9",
+      "title": "Học sinh cả nước dự chung lễ khai giảng trực tuyến",
+      "link": "https://thanhnien.vn/hoc-sinh-ca-nuoc-du-chung-le-khai-giang-truc-tuyen-185260903202111172.htm",
+      "summary": "Học sinh cả nước sẽ dự chung một lễ khai giảng và khánh thành trường phổ thông nội trú liên cấp tại các xã biên giới đất liền theo hình thức trực tiếp kết hợp trực tuyến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T22:54:00+07:00",
+      "fetched": "2026-09-04T06:41:29.403117+07:00"
+    },
+    {
+      "id": "ba893852dffbb33039672d9880e3bf2e",
+      "title": "Năm học mới, kỳ vọng mới",
+      "link": "https://thanhnien.vn/nam-hoc-moi-ky-vong-moi-185260903204739273.htm",
+      "summary": "Ngày mai 5.9, hàng triệu học sinh bước vào năm học 2026 - 2027 trong một thời điểm đặc biệt của đất nước và giáo dục VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T22:52:00+07:00",
+      "fetched": "2026-09-04T06:41:29.403241+07:00"
+    },
+    {
+      "id": "83810921d2dd2d61be0c993139379a23",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 4.9.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-492026-185260903221305071.htm",
+      "summary": "Tin tức Khai thông năng lực chính quyền 2 cấp; Tranh luận nảy lửa về quản lý AI, Mỹ - Iran vào vòng xoáy đối đầu mới… có thể đón xem trên Báo Thanh Niên số ra ngày 4.9.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T22:47:00+07:00",
+      "fetched": "2026-09-04T06:41:29.403362+07:00"
+    },
+    {
+      "id": "53a1ae1994f611d27709637c9172704a",
+      "title": "Năm học mới hướng đến nền giáo dục trung thực",
+      "link": "https://thanhnien.vn/nam-hoc-moi-huong-den-nen-giao-duc-trung-thuc-185260903164008344.htm",
+      "summary": "Với chủ đề năm học 2026 - 2027 'Đổi mới tư duy - Chuyển biến mạnh mẽ - Kết quả thực chất', ngành GD-ĐT TP.HCM đặt ra những nhiệm vụ trọng tâm hướng đến một nền giáo dục trung thực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T22:45:00+07:00",
+      "fetched": "2026-09-04T06:41:29.403482+07:00"
+    },
+    {
+      "id": "9b2ec282c6a8a753d7ae018c3115738b",
+      "title": "Tổng thống Ukraine lên án vụ đấu súng 'đáng xấu hổ' giữa hai cơ quan tình báo",
+      "link": "https://thanhnien.vn/tong-thong-ukraine-len-an-vu-dau-sung-dang-xau-ho-giua-hai-co-quan-tinh-bao-185260903222759258.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky vừa ký sắc lệnh cách chức ông Oleg Khramov, người đứng đầu bộ phận bảo vệ bí mật nhà nước thuộc Cơ quan An ninh Ukraine (SBU), sau vụ đấu súng giữa SBU và Cơ quan Tình báo quân đội Ukraine (HUR).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T22:34:00+07:00",
+      "fetched": "2026-09-04T06:41:29.403614+07:00"
+    },
+    {
+      "id": "d841b9a5e17b714f8526be2c43bc5a8b",
+      "title": "Lời thú nhận khi cận kề cái chết của siêu trộm ngân hàng",
+      "link": "https://vnexpress.net/loi-thu-nhan-khi-can-ke-cai-chet-cua-sieu-trom-ngan-hang-5116259.html",
+      "summary": "Suốt 52 năm, Ted Conrad sống dưới tên giả mà không ai biết bí mật. Chỉ khi sắp chết vì ung thư, ông mới tiết lộ thân phận thật là kẻ trộm ngân hàng bị truy nã từ năm 1969.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T22:12:00+07:00",
+      "fetched": "2026-09-04T06:41:26.253119+07:00"
+    },
+    {
+      "id": "3e8b864a1df7c869aae15eb884fb495d",
+      "title": "Vợ người hiến tạng: 'Anh luôn giúp người, em thay anh làm điều cuối cùng'",
+      "link": "https://vnexpress.net/vo-nguoi-hien-tang-anh-luon-giup-nguoi-em-thay-anh-lam-dieu-cuoi-cung-5116202.html",
+      "summary": "Nén đau thương khi chồng đột ngột qua đời, chị Lin Wenyun quyết định hiến tặng các mô tạng, mang lại cơ hội sống cho nhiều bệnh nhân và nối dài tinh thần vị tha, cứu giúp mọi người của anh lúc còn sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-03T22:00:00+07:00",
+      "fetched": "2026-09-04T06:41:26.253246+07:00"
+    },
+    {
+      "id": "6f6e708f90346c503d8e5ca495b81e8f",
+      "title": "Làn sóng tướng lĩnh Mỹ rời đi dưới thời ông Hegseth",
+      "link": "https://vnexpress.net/lan-song-tuong-linh-my-roi-di-duoi-thoi-ong-hegseth-5115987.html",
+      "summary": "Một năm rưỡi từ khi ông Hegseth đảm nhận ghế Bộ trưởng Quốc phòng Mỹ, ít nhất 20 quan chức cấp cao đã rời đi, gây xáo trộn lớn trong bộ máy lãnh đạo Lầu Năm Góc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-03T22:00:00+07:00",
+      "fetched": "2026-09-04T06:41:33.288169+07:00"
+    },
+    {
+      "id": "6c10ba82321e56034fdb72a7fad77fd6",
+      "title": "Elon Musk: Robot hình người sẽ 'tự sản xuất chúng' trong thập kỷ này",
+      "link": "https://vnexpress.net/elon-musk-robot-hinh-nguoi-se-tu-san-xuat-chung-trong-thap-ky-nay-5115959.html",
+      "summary": "Tỷ phú Elon Musk dự đoán trong vòng 10 năm tới, robot hình người sẽ đạt khả năng tự sản xuất ra những cỗ máy mới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-03T22:00:00+07:00",
+      "fetched": "2026-09-04T06:41:38.475884+07:00"
+    },
+    {
+      "id": "6ea77fd7b22ce0ff379888076f46e760",
+      "title": "Sẽ xuất khẩu hàng Việt sang Mỹ, Trung Quốc qua TikTok Shop",
+      "link": "https://vnexpress.net/se-xuat-khau-hang-viet-sang-my-trung-quoc-qua-tiktok-shop-5116272.html",
+      "summary": "Sau các kênh Amazon, Shopee, Alibaba... hàng Việt sẽ được hỗ trợ xuất khẩu qua TikTok Shop, ban đầu tập trung thị trường Mỹ, Trung Quốc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-03T20:18:17+07:00",
+      "fetched": "2026-09-04T06:41:34.967993+07:00"
+    },
+    {
+      "id": "517f16fb29d290cad21a7f79529f7d42",
+      "title": "Công ty chủ quản cáp treo Fansipan thoát lỗ",
+      "link": "https://vnexpress.net/cong-ty-chu-quan-cap-treo-fansipan-thoat-lo-5116302.html",
+      "summary": "Lợi nhuận sau thuế của Công ty Cáp treo Fansipan Sa Pa đạt hơn 280 tỷ đồng, cải thiện mạnh so với mức lỗ của cùng kỳ năm trước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-03T20:10:07+07:00",
+      "fetched": "2026-09-04T06:41:34.968150+07:00"
     },
     {
       "id": "2bf8fd971865d6d514b894f407bb57fd",
