@@ -1,7 +1,17 @@
 window.newsData_2026_09_05 = {
   "date": "2026-09-05",
-  "lastUpdated": "2026-09-05T03:02:40.328269+07:00",
+  "lastUpdated": "2026-09-05T06:38:30.623994+07:00",
   "articles": [
+    {
+      "id": "42a0f8b03da928df1d5b53654b8905d8",
+      "title": "Thời tiết hôm nay 5-9: Sáng khai giảng thời tiết ba miền không mưa, chiều nhiều nơi mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-5-9-sang-khai-giang-thoi-tiet-ba-mien-khong-mua-chieu-nhieu-noi-mua-to-100260904161531457.htm",
+      "summary": "Hôm nay 5-9, buổi sáng khai giảng thời tiết cả nước khá thuận lợi, chiều mưa tăng trở lại, nhiều nơi mưa to kèm gió giật mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T06:38:23.788350+07:00",
+      "fetched": "2026-09-05T06:38:23.788485+07:00"
+    },
     {
       "id": "112045a6019ec3aeeb1235d1bb5c43c0",
       "title": "Ông Trump ra 'tối hậu thư' Fed phải hạ lãi suất, giá vàng giằng co mạnh",
@@ -161,6 +171,366 @@ window.newsData_2026_09_05 = {
       "category": "Tổng hợp",
       "published": "2026-09-05T00:16:00.058865+07:00",
       "fetched": "2026-09-05T00:16:00.059023+07:00"
+    },
+    {
+      "id": "74a32635367d9d43816bc3722d2f2bbc",
+      "title": "Sáng nay học sinh cả nước dự khai giảng năm học mới với nhiều điểm đặc biệt",
+      "link": "https://thanhnien.vn/sang-nay-hoc-sinh-ca-nuoc-du-khai-giang-nam-hoc-moi-voi-nhieu-diem-dac-biet-185260904223735017.htm",
+      "summary": "Lễ khai giảng năm học 2026 - 2027 và khánh thành các trường phổ thông nội trú liên cấp tại các xã biên giới đất liền được tổ chức từ 7 giờ 30 - 8 giờ 30 hôm nay (5.9), theo hình thức trực tiếp kết hợp trực tuyến trên phạm vi toàn quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T23:30:00+07:00",
+      "fetched": "2026-09-05T06:38:22.315017+07:00"
+    },
+    {
+      "id": "8178ee27426081c5fba339500f1c184d",
+      "title": "Tân binh TP.Đồng Nai nếm ‘vị đắng’ ngày khai màn",
+      "link": "https://thanhnien.vn/tan-binh-tpdong-nai-nem-vi-dang-ngay-khai-man-185260904220601275.htm",
+      "summary": "Ở ngày khai màn V-League 2026 - 2027, sự trở lại của Công Phượng đã hoàn toàn bị lấn át khi VAR hoạt động hết công suất trong ngày tân binh CLB TP.Đồng Nai và Thể Công Viettel đều bị phạt thẻ đỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T23:25:00+07:00",
+      "fetched": "2026-09-05T06:38:22.315169+07:00"
+    },
+    {
+      "id": "d3596775953a7cba08aabe6e7588bf1f",
+      "title": "Tô hủ tiếu 8.000 đồng và nghĩa tình TP.HCM",
+      "link": "https://thanhnien.vn/to-hu-tieu-8000-dong-va-nghia-tinh-tphcm-185260904220056953.htm",
+      "summary": "Mỗi chiều, quán hủ tiếu 8.000 đồng của 3 người phụ nữ ở TP.HCM lại đón người lao động, tài xế công nghệ, người bán vé số, nhặt ve chai… Với người khó khăn, quán mời miễn phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T23:25:00+07:00",
+      "fetched": "2026-09-05T06:38:22.315301+07:00"
+    },
+    {
+      "id": "14d3a98db6a1960e6e6bb14617bdf78b",
+      "title": "Bảo Ngọc được dự đoán đăng quang Hoa hậu Thế giới 2026",
+      "link": "https://thanhnien.vn/bao-ngoc-duoc-du-doan-dang-quang-hoa-hau-the-gioi-2026-18526090503505704.htm",
+      "summary": "Trước thềm chung kết Hoa hậu Thế giới 2026, Lê Nguyễn Bảo Ngọc được chuyên trang sắc đẹp nổi tiếng Missosology dự đoán đăng quang. Trong khi đó, đại diện từ Philippines, Pháp, Nigeria… cũng được xếp vào nhóm ứng viên sáng giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T23:20:00+07:00",
+      "fetched": "2026-09-05T06:38:22.315429+07:00"
+    },
+    {
+      "id": "cbb9730748f47de4f2d29085fd4b3d59",
+      "title": "Địa đạo Kỳ Anh: 32 km đường hầm ẩn dưới nhà dân, giếng nước, bụi tre",
+      "link": "https://thanhnien.vn/dia-dao-ky-anh-32-km-duong-ham-an-duoi-nha-dan-gieng-nuoc-bui-tre-185260904145413906.htm",
+      "summary": "Địa đạo Kỳ Anh dài khoảng 32 km, với những lối hầm từng được ngụy trang dưới nhà dân, gian bếp, chuồng bò, giếng nước, bụi tre và cả đình làng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T23:15:00+07:00",
+      "fetched": "2026-09-05T06:38:22.315557+07:00"
+    },
+    {
+      "id": "2a1a9f4c25c04c848307e6377344b3a1",
+      "title": "Billiards: Trần Quyết Chiến bùng nổ phút chót giành vé knock-out, tái đấu thiên tài Caudron",
+      "link": "https://thanhnien.vn/billiards-tran-quyet-chien-bung-no-phut-chot-gianh-ve-knock-out-tai-dau-thien-tai-caudron-185260905060703173.htm",
+      "summary": "Trần Quyết Chiến đã bùng nổ kịp thời ở thời khắc quyết định để giành tấm vé vào vòng knock-out World Cup billiards Lier 2026 đang diễn ra tại Bỉ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T23:10:00+07:00",
+      "fetched": "2026-09-05T06:38:22.315689+07:00"
+    },
+    {
+      "id": "206b172eae4cddc8c09e26ccc6833c02",
+      "title": "Làm sao giải thể doanh nghiệp đã mất chứng từ, con dấu?",
+      "link": "https://vnexpress.net/lam-sao-giai-the-doanh-nghiep-da-mat-chung-tu-con-dau-5116670.html",
+      "summary": "Doanh nghiệp mất sổ sách kế toán, con dấu vẫn được thực hiện thủ tục giải thể, nhưng thời gian có thể kéo dài do cần kê khai bổ sung, giải trình hoặc nộp phạt hành chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T23:00:00+07:00",
+      "fetched": "2026-09-05T06:33:49.871255+07:00"
+    },
+    {
+      "id": "d4a5a754675987989e50ba534807ab17",
+      "title": "VKS kiện đòi 2.800 m2 đất công bị doanh nghiệp chiếm giữ 6 năm",
+      "link": "https://vnexpress.net/vks-kien-doi-2-800-m2-dat-cong-bi-doanh-nghiep-chiem-giu-6-nam-5116575.html",
+      "summary": "VKS Khu vực 2 khởi kiện yêu cầu Công ty Hòa Bình trả hơn 2.800 m2 nhà đất công đã sử dụng 6 năm sau khi hợp đồng chấm dứt và được tòa chấp nhận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T23:00:00+07:00",
+      "fetched": "2026-09-05T06:33:49.871433+07:00"
+    },
+    {
+      "id": "9c0806c4d5749aa8fb1fd5570812ea66",
+      "title": "Chi phí thuốc điều trị ung thư ở Việt Nam ngày càng lớn",
+      "link": "https://vnexpress.net/chi-phi-thuoc-dieu-tri-ung-thu-o-viet-nam-ngay-cang-lon-5116279.html",
+      "summary": "Số ca ung thư tăng kéo theo tăng chi phí điều trị, đặc biệt là thuốc ung thư thế hệ mới, tạo áp lực lớn lên người bệnh và Quỹ Bảo hiểm y tế (BHYT).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T23:00:00+07:00",
+      "fetched": "2026-09-05T06:33:49.871576+07:00"
+    },
+    {
+      "id": "36b68353e2f3579ae349740d7519323f",
+      "title": "Săn cá trên đồng mùa nước nổi miền Tây",
+      "link": "https://vnexpress.net/san-ca-tren-dong-mua-nuoc-noi-mien-tay-5115615.html",
+      "summary": "Nước tràn đồng cũng là lúc người dân miền Tây soạn ngư cụ, mang ra đồng đánh bắt cá, kiếm thêm thu nhập trong những tháng nông nhàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T23:00:00+07:00",
+      "fetched": "2026-09-05T06:33:49.871712+07:00"
+    },
+    {
+      "id": "26e25f32da3174b92c425465bd82431a",
+      "title": "Cô gái Nga và mối tình với anh thợ điện Vĩnh Long",
+      "link": "https://vnexpress.net/co-gai-nga-va-moi-tinh-voi-anh-tho-dien-vinh-long-5115497.html",
+      "summary": "Vượt qua rào cản ngôn ngữ và khác biệt văn hóa, Nguyên Anh, chàng thợ điện quê Vĩnh Long và cô gái Nga Nastya đã nên duyên vợ chồng sau 8 tháng quen biết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T23:00:00+07:00",
+      "fetched": "2026-09-05T06:33:49.871885+07:00"
+    },
+    {
+      "id": "2fc400e413852ec4499f6204da31cdff",
+      "title": "Xe tải nhập làn hất ngã hai người đi xe máy",
+      "link": "https://vnexpress.net/xe-tai-nhap-lan-hat-nga-hai-nguoi-di-xe-may-5116531.html",
+      "summary": "Chiếc xe tải nhỏ nhập làn tốc độ cao hất ngã hai người đi xe máy ở hướng đi thẳng, hôm 9/4 tại Văn Tiến Dũng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T23:00:00+07:00",
+      "fetched": "2026-09-05T06:33:49.872022+07:00"
+    },
+    {
+      "id": "90a6013c5e88af21e98deeb0ee087a27",
+      "title": "Giá vàng bất trắc và gì nữa khi thị trường tài chính đang chao đảo ?",
+      "link": "https://thanhnien.vn/gia-vang-bat-trac-va-gi-nua-khi-thi-truong-tai-chinh-dang-chao-dao-185260904205443976.htm",
+      "summary": "Không chỉ giá vàng giảm mạnh, mà có nhiều ảnh hưởng khác trên thị trường đầu tư toàn cầu khi lợi suất trái phiếu chính phủ các nước đang tăng mạnh do nhiều lo ngại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T23:00:00+07:00",
+      "fetched": "2026-09-05T06:38:22.315831+07:00"
+    },
+    {
+      "id": "027654d8a731b26d88965399baa6bff8",
+      "title": "'Cú hích' cho hộ kinh doanh chuyển lên doanh nghiệp",
+      "link": "https://thanhnien.vn/cu-hich-cho-ho-kinh-doanh-chuyen-len-doanh-nghiep-185260904204657395.htm",
+      "summary": "Đề xuất dự thảo luật Phát triển doanh nghiệp nhỏ và vừa đưa ra nhiều chính sách hỗ trợ từ vốn, thuế, kế toán, mặt bằng sản xuất, công nghệ… Nhưng theo các chuyên gia, cần một cú hích thuế thật sự mạnh để thúc đẩy việc này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T23:00:00+07:00",
+      "fetched": "2026-09-05T06:38:22.315968+07:00"
+    },
+    {
+      "id": "91a0ec2509a4fd076b45d86f5bf14dfd",
+      "title": "Vì sao doanh nghiệp 'khai sinh dễ, khai tử khó'?",
+      "link": "https://thanhnien.vn/vi-sao-doanh-nghiep-khai-sinh-de-khai-tu-kho-185260904204344707.htm",
+      "summary": "Quy trình thành lập doanh nghiệp nay rất đơn giản, chỉ với vài thao tác trực tuyến hoặc 2 - 3 ngày làm việc là đã có một doanh nghiệp mới ra đời. Thế nhưng ở chiều ngược lại, thủ tục giải thể hoặc phá sản lại trở thành một \"cơn ác mộng\" kéo dài hàng tháng, thậm chí hàng năm, tiêu tốn nhiều chi phí v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T23:00:00+07:00",
+      "fetched": "2026-09-05T06:38:22.316097+07:00"
+    },
+    {
+      "id": "f0ec1eb882eef96e5ef61a171d0b0aee",
+      "title": "Lương kỹ sư xây dựng lên đến 65 triệu đồng, doanh nghiệp vẫn khó tuyển người",
+      "link": "https://thanhnien.vn/luong-ky-su-xay-dung-len-den-65-trieu-dong-doanh-nghiep-van-kho-tuyen-nguoi-18526090420385773.htm",
+      "summary": "Các dự án hạ tầng, đô thị quy mô lớn đồng loạt tăng tốc đang tạo cú hích mạnh cho thị trường lao động ngành xây dựng. Doanh nghiệp phải nâng lương, tăng phúc lợi để giữ và hút nhân lực, nhưng nhiều vị trí kỹ thuật vẫn thiếu trầm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T23:00:00+07:00",
+      "fetched": "2026-09-05T06:38:22.316228+07:00"
+    },
+    {
+      "id": "67ad1fb07f9fce4ea11cadd303f5541c",
+      "title": "Nối liền nhịp bước xe buýt và metro",
+      "link": "https://thanhnien.vn/noi-lien-nhip-buoc-xe-buyt-va-metro-185260904195340542.htm",
+      "summary": "Bổ sung phương tiện, điều chuyển xe buýt chạy gom khách cho metro, cải tạo không gian đi bộ, liên thông thẻ vé điện tử… TP.HCM đang nỗ lực triển khai một chiến dịch toàn diện hoàn thiện chuỗi kết nối, từng bước biến giao thông công cộng thành lựa chọn hàng đầu thay thế phương tiện cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T23:00:00+07:00",
+      "fetched": "2026-09-05T06:38:22.316355+07:00"
+    },
+    {
+      "id": "33023a9b8409bc141b29f15e4aaf351b",
+      "title": "Cơ hội đột phá kinh tế số",
+      "link": "https://thanhnien.vn/co-hoi-dot-pha-kinh-te-so-185260904193440511.htm",
+      "summary": "Internet VN vừa ghi nhận một dấu mốc đáng chú ý khi lần đầu tiên cả mạng di động và cố định cùng lọt top 10 thế giới về tốc độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T23:00:00+07:00",
+      "fetched": "2026-09-05T06:38:22.316480+07:00"
+    },
+    {
+      "id": "f2e2555e9d59ca5d155696eb45a77ac7",
+      "title": "Xe máy đứng tên vợ, chồng, cha mẹ có phải xe không chính chủ?",
+      "link": "https://thanhnien.vn/xe-may-dung-ten-vo-chong-cha-me-co-phai-xe-khong-chinh-chu-1852609040932131.htm",
+      "summary": "Đi xe máy đứng tên vợ, chồng, cha mẹ hoặc người thân không đồng nghĩa với xe không chính chủ. CSGT TP.HCM lưu ý trường hợp nào phải làm thủ tục sang tên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T23:00:00+07:00",
+      "fetched": "2026-09-05T06:38:22.316605+07:00"
+    },
+    {
+      "id": "c68839d30991f69b0a6cd11cd35f20c5",
+      "title": "Nhà cổ nổi tiếng vì liên tục... lên phim",
+      "link": "https://thanhnien.vn/nha-co-noi-tieng-vi-lien-tuc-len-phim-18526090421224976.htm",
+      "summary": "Khác với những căn nhà mang đậm dấu ấn kiến trúc miền Tây, nhà cổ Bình Thủy là sự giao thoa của hai nền văn hóa Đông - Tây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T22:59:00+07:00",
+      "fetched": "2026-09-05T06:38:22.316729+07:00"
+    },
+    {
+      "id": "45479baa38f43b3c138da43f3249e9ed",
+      "title": "Đừng đam mê vô phép",
+      "link": "https://thanhnien.vn/dung-dam-me-vo-phep-185260904215225475.htm",
+      "summary": "Gần đây, vấn đề những tay chơi mô tô (thường gọi là biker) điều khiển xe ở tốc độ cực cao khiến dư luận không khỏi lo ngại. Một số biker nổi tiếng với việc từng điều khiển xe ở đường thông thường với tốc độ xấp xỉ 300 km/giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T22:53:00+07:00",
+      "fetched": "2026-09-05T06:38:22.316865+07:00"
+    },
+    {
+      "id": "b8afb37a35d1b96374e74430402bd78b",
+      "title": "Thang máy bám vách núi cao gần 300 mét đưa học sinh đến trường",
+      "link": "https://vnexpress.net/thang-may-bam-vach-nui-cao-gan-300-met-dua-hoc-sinh-den-truong-5115973.html",
+      "summary": "Hệ thống thang máy 288 m kết hợp cáp treo tại hẻm núi Nizhuhe, tỉnh Vân Nam giúp học sinh rút ngắn đường đến trường từ ba tiếng xuống còn 30 phút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T22:48:00+07:00",
+      "fetched": "2026-09-05T06:33:49.872156+07:00"
+    },
+    {
+      "id": "d28e746e610436c75c0895c9cd3c7bdd",
+      "title": "Mbappe đá hỏng phạt đền trong thất bại của Real",
+      "link": "https://vnexpress.net/mbappe-da-hong-phat-den-trong-that-bai-cua-real-5116737.html",
+      "summary": "Tiền đạo Kylian Mbappe đá hỏng phạt đền ở phút bù thứ năm, khiến Real Madrid thua chủ nhà Betis 0-1 ở vòng bốn La Liga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T22:41:27+07:00",
+      "fetched": "2026-09-05T06:33:49.872287+07:00"
+    },
+    {
+      "id": "d28e746e610436c75c0895c9cd3c7bdd",
+      "title": "Mbappe đá hỏng phạt đền trong thất bại của Real",
+      "link": "https://vnexpress.net/mbappe-da-hong-phat-den-trong-that-bai-cua-real-5116737.html",
+      "summary": "Tiền đạo Kylian Mbappe đá hỏng phạt đền ở phút bù thứ năm, khiến Real Madrid thua chủ nhà Betis 0-1 ở vòng bốn La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-04T22:41:27+07:00",
+      "fetched": "2026-09-05T06:38:30.618868+07:00"
+    },
+    {
+      "id": "41f01071e417bcbbe5831b9af77bdef5",
+      "title": "PSG thua ngược trong ngày Luis Enrique gia hạn hợp đồng",
+      "link": "https://vnexpress.net/psg-thua-nguoc-trong-ngay-luis-enrique-gia-han-hop-dong-5116738.html",
+      "summary": "Dẫn bàn trong hiệp một, PSG vẫn thua Monaco 1-2 ngay tại sân Parc des Princes ở vòng ba Ligue 1, qua đó chưa biết thắng từ đầu mùa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T22:22:44+07:00",
+      "fetched": "2026-09-05T06:33:49.872420+07:00"
+    },
+    {
+      "id": "41f01071e417bcbbe5831b9af77bdef5",
+      "title": "PSG thua ngược trong ngày Luis Enrique gia hạn hợp đồng",
+      "link": "https://vnexpress.net/psg-thua-nguoc-trong-ngay-luis-enrique-gia-han-hop-dong-5116738.html",
+      "summary": "Dẫn bàn trong hiệp một, PSG vẫn thua Monaco 1-2 ngay tại sân Parc des Princes ở vòng ba Ligue 1, qua đó chưa biết thắng từ đầu mùa.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-04T22:22:44+07:00",
+      "fetched": "2026-09-05T06:38:30.619035+07:00"
+    },
+    {
+      "id": "f0e342f9e3ac359c1182168bc076016a",
+      "title": "Alcaraz thắng tốc hành ở vòng ba Mỹ Mở rộng",
+      "link": "https://vnexpress.net/alcaraz-thang-toc-hanh-o-vong-ba-my-mo-rong-5116739.html",
+      "summary": "Đương kim vô địch Carlos Alcaraz thắng Wu Yibing 6-3, 6-4, 6-1 ở vòng ba Mỹ Mở rộng, nối dài mạch thắng tại Grand Slam lên 17 trận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T22:22:03+07:00",
+      "fetched": "2026-09-05T06:33:49.872553+07:00"
+    },
+    {
+      "id": "f0e342f9e3ac359c1182168bc076016a",
+      "title": "Alcaraz thắng tốc hành ở vòng ba Mỹ Mở rộng",
+      "link": "https://vnexpress.net/alcaraz-thang-toc-hanh-o-vong-ba-my-mo-rong-5116739.html",
+      "summary": "Đương kim vô địch Carlos Alcaraz thắng Wu Yibing 6-3, 6-4, 6-1 ở vòng ba Mỹ Mở rộng, nối dài mạch thắng tại Grand Slam lên 17 trận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-04T22:22:03+07:00",
+      "fetched": "2026-09-05T06:38:30.619444+07:00"
+    },
+    {
+      "id": "463aebb66ae31d13117588a5338e6671",
+      "title": "Hơn 26 triệu học sinh, sinh viên bước vào năm học mới",
+      "link": "https://vnexpress.net/hon-26-trieu-hoc-sinh-sinh-vien-khai-giang-nam-hoc-2026-2027-5116430.html",
+      "summary": "Thầy trò cả nước dự khai giảng trực tuyến kết hợp trực tiếp, bắt đầu năm học mới với nhiều kỳ vọng, đổi thay, sau cuộc sắp xếp trường công lớn nhất gần 50 năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T22:05:00+07:00",
+      "fetched": "2026-09-05T06:33:49.872689+07:00"
+    },
+    {
+      "id": "1b7f4062ce30e6347ecd2b1b71b5dc7e",
+      "title": "Liverpool thắng nhờ cú đúp chớp nhoáng của Isak",
+      "link": "https://vnexpress.net/liverpool-thang-nho-cu-dup-chop-nhoang-cua-isak-5116736.html",
+      "summary": "Tiền đạo Alexander Isak ghi hai bàn trong ba phút giúp Liverpool đánh bại Ipswich 2-0 ở vòng ba Ngoại hạng Anh, qua đó mang về chiến thắng đầu tiên cho HLV Andoni Iraola.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T22:03:11+07:00",
+      "fetched": "2026-09-05T06:33:49.872859+07:00"
+    },
+    {
+      "id": "1b7f4062ce30e6347ecd2b1b71b5dc7e",
+      "title": "Liverpool thắng nhờ cú đúp chớp nhoáng của Isak",
+      "link": "https://vnexpress.net/liverpool-thang-nho-cu-dup-chop-nhoang-cua-isak-5116736.html",
+      "summary": "Tiền đạo Alexander Isak ghi hai bàn trong ba phút giúp Liverpool đánh bại Ipswich 2-0 ở vòng ba Ngoại hạng Anh, qua đó mang về chiến thắng đầu tiên cho HLV Andoni Iraola.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-04T22:03:11+07:00",
+      "fetched": "2026-09-05T06:38:30.619177+07:00"
+    },
+    {
+      "id": "f8c10de4a815ad36a030a3f1ca682562",
+      "title": "Hệ lụy khi nhiệt độ Trái Đất vượt ngưỡng an toàn",
+      "link": "https://vnexpress.net/he-luy-khi-nhiet-do-trai-dat-vuot-nguong-an-toan-5116624.html",
+      "summary": "Sản lượng lương thực toàn cầu có thể giảm 14% vào 2050, kinh tế của nhiều quốc gia chịu thiệt hại kép do năng suất lao động giảm, khi Trái Đất tăng nhiệt quá 1,5 độ C.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T22:00:00+07:00",
+      "fetched": "2026-09-05T06:33:49.872995+07:00"
+    },
+    {
+      "id": "d3c9d0fb1b0f66039aea04fee3bea0ad",
+      "title": "Syria tìm cách mở cánh cửa thay thế huyết mạch Hormuz",
+      "link": "https://vnexpress.net/syria-tim-cach-mo-canh-cua-thay-the-huyet-mach-hormuz-5116361.html",
+      "summary": "Syria tận dụng vị trí địa lý để mở các tuyến vận tải dầu khí, kỳ vọng khôi phục vị thế \"cửa ngõ Trung Đông\" thay thế cho điểm nghẽn Hormuz.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T22:00:00+07:00",
+      "fetched": "2026-09-05T06:33:49.873133+07:00"
+    },
+    {
+      "id": "b1c3c2f9215315e2f04de82858c732c2",
+      "title": "Ăn tôm thường xuyên có làm tăng mỡ máu?",
+      "link": "https://vnexpress.net/an-tom-thuong-xuyen-co-lam-tang-mo-mau-5116068.html",
+      "summary": "Việc nhìn riêng vào con số cholesterol trong tôm để kết luận ăn tôm tăng mỡ máu là chưa đầy đủ, quan trọng là kiểm soát khẩu phần, cách chế biến và tổng lượng chất béo bão hòa trong chế độ ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-04T22:00:00+07:00",
+      "fetched": "2026-09-05T06:33:49.873267+07:00"
+    },
+    {
+      "id": "d3c9d0fb1b0f66039aea04fee3bea0ad",
+      "title": "Syria tìm cách mở cánh cửa thay thế huyết mạch Hormuz",
+      "link": "https://vnexpress.net/syria-tim-cach-mo-canh-cua-thay-the-huyet-mach-hormuz-5116361.html",
+      "summary": "Syria tận dụng vị trí địa lý để mở các tuyến vận tải dầu khí, kỳ vọng khôi phục vị thế \"cửa ngõ Trung Đông\" thay thế cho điểm nghẽn Hormuz.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-04T22:00:00+07:00",
+      "fetched": "2026-09-05T06:38:25.503004+07:00"
+    },
+    {
+      "id": "f8c10de4a815ad36a030a3f1ca682562",
+      "title": "Hệ lụy khi nhiệt độ Trái Đất vượt ngưỡng an toàn",
+      "link": "https://vnexpress.net/he-luy-khi-nhiet-do-trai-dat-vuot-nguong-an-toan-5116624.html",
+      "summary": "Sản lượng lương thực toàn cầu có thể giảm 14% vào 2050, kinh tế của nhiều quốc gia chịu thiệt hại kép do năng suất lao động giảm, khi Trái Đất tăng nhiệt quá 1,5 độ C.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-04T22:00:00+07:00",
+      "fetched": "2026-09-05T06:38:26.959276+07:00"
     },
     {
       "id": "7a63e098de94b25be1dad7126e4a4361",
