@@ -1,7 +1,157 @@
 window.newsData_2026_09_05 = {
   "date": "2026-09-05",
-  "lastUpdated": "2026-09-05T18:29:38.310886+07:00",
+  "lastUpdated": "2026-09-05T21:14:07.205737+07:00",
   "articles": [
+    {
+      "id": "ec8e8382bdcb9e7898c0fcd5b68e07f1",
+      "title": "OpenAI và Google ra mắt AI có thể tự tìm, phát hiện và vá lỗ hổng phần mềm",
+      "link": "https://tuoitre.vn/openai-va-google-ra-mat-ai-co-the-tu-tim-phat-hien-va-va-lo-hong-phan-mem-100260905171936517.htm",
+      "summary": "AI mới của OpenAI và Google có thể tự tìm và vá lỗ hổng phần mềm, mở ra bước tiến mới cho ngành bảo mật nhưng cũng đòi hỏi cơ chế kiểm soát chặt chẽ hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T21:13:58.519070+07:00",
+      "fetched": "2026-09-05T21:13:58.519126+07:00"
+    },
+    {
+      "id": "d2a0f8b25f8cd66a5e449cd61231b562",
+      "title": "Bước ngoặt của thương hiệu mỹ phẩm Việt 2 năm tuổi với TikTok Shop",
+      "link": "https://tuoitre.vn/buoc-ngoat-cua-thuong-hieu-my-pham-viet-2-nam-tuoi-voi-tiktok-shop-100260905134701712.htm",
+      "summary": "Chỉ sau 3 tháng ra mắt, Keyshu, một thương hiệu chăm sóc da nội địa 2 năm tuổi, đã bứt phá kinh doanh trên TikTok Shop chỉ nhờ một video viral.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T21:13:58.518999+07:00",
+      "fetched": "2026-09-05T21:13:58.519059+07:00"
+    },
+    {
+      "id": "e3ff3d041c2a42eb4e2d001dbcfb0bb0",
+      "title": "Lễ khai giảng năm học 2026 - 2027 tại TH School: Một thập kỷ 'không ngừng vươn xa'",
+      "link": "https://tuoitre.vn/le-khai-giang-nam-hoc-2026-2027-tai-th-school-mot-thap-ky-khong-ngung-vuon-xa-100260905182726442.htm",
+      "summary": "Ngày 5-9, Hệ thống trường TH School long trọng tổ chức lễ khai giảng năm học 2026 - 2027 tại cơ sở Chùa Bộc, đồng thời kỷ niệm 10 năm thành lập, đánh dấu một thập kỷ “không ngừng vươn xa”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T21:13:58.518933+07:00",
+      "fetched": "2026-09-05T21:13:58.518989+07:00"
+    },
+    {
+      "id": "b5cf411737907e926fc629e8bb56bc87",
+      "title": "Hơn 21.000 cuộc hẹn mở rộng cửa cho du lịch Việt ra quốc tế tại ITE 2026",
+      "link": "https://tuoitre.vn/hon-21000-cuoc-hen-mo-rong-cua-cho-du-lich-viet-ra-quoc-te-tai-ite-2026-1002609051924305.htm",
+      "summary": "Hội chợ Du lịch quốc tế TP.HCM lần thứ 20 (ITE HCMC 2026) vừa khép lại với hơn 21.000 cuộc hẹn B2B giữa người mua quốc tế và các đơn vị triển lãm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T21:13:58.518861+07:00",
+      "fetched": "2026-09-05T21:13:58.518923+07:00"
+    },
+    {
+      "id": "9a5ac09752e319c415b17e832fcbcd6e",
+      "title": "Khách đổi cách đi, doanh nghiệp du lịch đổi cách bán tour",
+      "link": "https://tuoitre.vn/khach-doi-cach-di-doanh-nghiep-du-lich-doi-cach-ban-tour-100260905180702673.htm",
+      "summary": "Kỳ nghỉ 2-9 vừa qua cho thấy nhu cầu du lịch vẫn tăng trưởng tích cực song cách du khách lựa chọn chuyến đi đang thay đổi mạnh mẽ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T21:13:58.518788+07:00",
+      "fetched": "2026-09-05T21:13:58.518851+07:00"
+    },
+    {
+      "id": "9532408496e5f43fa5e4770e68f338a1",
+      "title": "Nhà thơ Dương Thanh Từ giao lưu thơ ca và nghệ thuật tử sa tại TP.HCM",
+      "link": "https://tuoitre.vn/nha-tho-duong-thanh-tu-giao-luu-tho-ca-va-nghe-thuat-tu-sa-tai-tphcm-10026090519380932.htm",
+      "summary": "Hơn 100 người yêu thích trà đạo và nghệ thuật tử sa đã có mặt hội trường Idecaf sáng 5-9 và gần 150 nhà thơ, nhà văn Việt Nam đã có mặt tại Cecaft sáng 4-9 để giao lưu với nhà thơ đa tài đến từ Bắc Kinh - Dương Thanh Từ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T21:13:58.518702+07:00",
+      "fetched": "2026-09-05T21:13:58.518758+07:00"
+    },
+    {
+      "id": "c396a88cdec08e5e0af95ca890f84d7a",
+      "title": "Ông Putin bất ngờ ra lệnh tạm ngừng tấn công Kiev",
+      "link": "https://tuoitre.vn/ong-putin-bat-ngo-ra-lenh-tam-ngung-tan-cong-kiev-1002609051921144.htm",
+      "summary": "Tổng thống Nga ra lệnh tạm ngừng tấn công Kiev trong bối cảnh các đặc phái viên Mỹ đến Matxcơva và chuẩn bị tới thủ đô Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T21:13:58.518635+07:00",
+      "fetched": "2026-09-05T21:13:58.518691+07:00"
+    },
+    {
+      "id": "416b5aec84e62bc319b63251b465a1b7",
+      "title": "Cháy nhà yến ven quốc lộ 30, xe cộ qua khu vực ùn tắc",
+      "link": "https://tuoitre.vn/chay-nha-yen-ven-quoc-lo-30-xe-co-qua-khu-vuc-un-tac-100260905190126848.htm",
+      "summary": "Vụ cháy nhà yến ven quốc lộ 30 (phường Hồng Ngự, tỉnh Đồng Tháp) xảy ra chiều 5-9 khiến xe cộ qua khu vực bị ùn tắc kéo dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T21:13:58.518569+07:00",
+      "fetched": "2026-09-05T21:13:58.518625+07:00"
+    },
+    {
+      "id": "3809a8d4244ebb7e746637090f81ab55",
+      "title": "Thảm xanh Miss World 2026 làm nóng cả Nha Trang",
+      "link": "https://tuoitre.vn/tham-xanh-miss-world-2026-lam-nong-ca-nha-trang-100260905192258418.htm",
+      "summary": "Thảm xanh Miss World 2026 nhộn nhịp khi nhiều nghệ sĩ lần lượt xuất hiện tại quảng trường 2 Tháng 4 (Nha Trang), trước giờ diễn ra đêm chung kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T21:13:58.518500+07:00",
+      "fetched": "2026-09-05T21:13:58.518559+07:00"
+    },
+    {
+      "id": "b8200fc41787b5f9e62367c25f01fdb7",
+      "title": "Anh chàng hoàn hảo trên app hẹn hò hóa ra nhờ AI 'nói hộ'",
+      "link": "https://tuoitre.vn/anh-chang-hoan-hao-tren-app-hen-ho-hoa-ra-nho-ai-noi-ho-100260905200405175.htm",
+      "summary": "Với hồ sơ chỉn chu, tin nhắn lưu loát, câu chữ đầy đủ... một người đàn ông khiến cô Cleo Chua ấn tượng. Cho đến khi cô phát hiện cách nhắn tin của anh thay đổi hoàn toàn và nghi ngờ những lời trước đó được AI viết hộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T21:13:58.518425+07:00",
+      "fetched": "2026-09-05T21:13:58.518489+07:00"
+    },
+    {
+      "id": "fa6bb9ec36a2210fca1cc3400eb1ae8c",
+      "title": "Ý nghĩa chuyến thăm Nga và Pháp của Tổng Bí thư, Chủ tịch nước Tô Lâm",
+      "link": "https://tuoitre.vn/y-nghia-chuyen-tham-nga-va-phap-cua-tong-bi-thu-chu-tich-nuoc-to-lam-100260905194534409.htm",
+      "summary": "Đây là lần đầu tiên người đứng đầu Đảng, Nhà nước Việt Nam thăm cấp Nhà nước đến Nga kể từ năm 1991, theo Thứ trưởng Ngoại giao Lê Thị Thu Hằng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T21:13:58.518352+07:00",
+      "fetched": "2026-09-05T21:13:58.518409+07:00"
+    },
+    {
+      "id": "84bdff6ad6c42e73f260d67e8995d647",
+      "title": "Tri Tôn xử lý 2 hộ dân ‘xẻ thịt’ rừng phòng hộ làm điểm du lịch trái phép",
+      "link": "https://tuoitre.vn/tri-ton-xu-ly-2-ho-dan-xe-thit-rung-phong-ho-lam-diem-du-lich-trai-phep-100260905194237665.htm",
+      "summary": "Tự ý chuyển đổi đất rừng phòng hộ sang đất phi nông nghiệp làm điểm du lịch trái phép, 2 hộ dân ở xã Tri Tôn (tỉnh An Giang) bị xử phạt hành chính và buộc khôi phục lại hiện trạng đất ban đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T21:13:58.518283+07:00",
+      "fetched": "2026-09-05T21:13:58.518341+07:00"
+    },
+    {
+      "id": "fe45e010a0e3d8dc5be7232ac2923fbd",
+      "title": "Vụ cuốc xe 2km lấy 70.000 đồng: Yêu cầu doanh nghiệp rút kinh nghiệm",
+      "link": "https://tuoitre.vn/vu-cuoc-xe-2km-lay-70000-dong-yeu-cau-doanh-nghiep-rut-kinh-nghiem-100260905203403431.htm",
+      "summary": "Sở Xây dựng tỉnh Gia Lai yêu cầu Hợp tác xã Vận tải ASIA Quy Nhơn và tài xế liên quan nghiêm túc rút kinh nghiệm, chấn chỉnh việc thông tin, thỏa thuận giá cước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T21:13:58.518213+07:00",
+      "fetched": "2026-09-05T21:13:58.518273+07:00"
+    },
+    {
+      "id": "5b66ad20c170b278b55baff1e6d62c77",
+      "title": "Nam sinh Đà Lạt Đặng Huy Hậu nhận Huân chương Lao động hạng Ba",
+      "link": "https://tuoitre.vn/nam-sinh-da-lat-dang-huy-hau-nhan-huan-chuong-lao-dong-hang-ba-100260905203407934.htm",
+      "summary": "Nam sinh Trường THPT Chuyên Thăng Long - Đà Lạt Đặng Huy Hậu đã vinh dự nhận Huân chương Lao động hạng Ba của Chủ tịch nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T21:13:58.518136+07:00",
+      "fetched": "2026-09-05T21:13:58.518202+07:00"
+    },
+    {
+      "id": "bc3a5d5d4a9b0e7f96f5f9c0bf42886e",
+      "title": "Video: Trọng tài gây tranh cãi vì từ chối bàn thắng của Hà Tĩnh vào lưới CLB Công An Hà Nội",
+      "link": "https://tuoitre.vn/video-trong-tai-gay-tranh-cai-vi-tu-choi-ban-thang-cua-ha-tinh-vao-luoi-clb-cong-an-ha-noi-100260905205707839.htm",
+      "summary": "Trọng tài Nguyễn Mạnh Hải gây tranh cãi khi từ chối bàn gỡ hòa 1-1 của Hồng Lĩnh Hà Tĩnh vào lưới CLB Công An Hà Nội ở vòng 1 LPbank V-League 1 tối 5-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T21:13:58.517977+07:00",
+      "fetched": "2026-09-05T21:13:58.518121+07:00"
+    },
     {
       "id": "cf928051fc8bc0028630a97607978792",
       "title": "Diện mạo cầu Trường Tiền sau khi sửa chữa có gì mới?",
@@ -303,6 +453,326 @@ window.newsData_2026_09_05 = {
       "fetched": "2026-09-05T14:57:37.250449+07:00"
     },
     {
+      "id": "5963cfe675d4626396d81d2a37939865",
+      "title": "Trương Quỳnh Anh xúc động trước nghị lực của cậu bé mồ côi cha",
+      "link": "https://thanhnien.vn/truong-quynh-anh-xot-xa-cau-be-mo-coi-cha-lam-cho-dua-cho-me-benh-nang-18526090520535006.htm",
+      "summary": "Trong tập 202 'Mái ấm gia đình Việt', hoàn cảnh của em Minh Xuân (14 tuổi) khiến Trương Quỳnh Anh và các khách mời không khỏi xót xa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T14:09:00+07:00",
+      "fetched": "2026-09-05T21:13:56.273080+07:00"
+    },
+    {
+      "id": "fef1dea3609bf5b32288376ee006950d",
+      "title": "HLV Kewell cay đắng, chỉ trích Hà Nội dứt điểm kém cỏi: HLV Arthur khen CLB Công an TP.HCM tuyệt vời",
+      "link": "https://thanhnien.vn/hlv-kewell-cay-dang-chi-trich-ha-noi-dut-diem-kem-coi-hlv-arthur-khen-clb-cong-an-tphcm-tuyet-voi-185260905204645632.htm",
+      "summary": "Trong buổi họp báo sau trận thua Công an TP.HCM 1-3 vào tối 5.9, HLV Harry Kewell thừa nhận CLB Hà Nội còn chưa làm tốt ở những tình huống chuyền bóng và dứt điểm quyết định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T14:03:00+07:00",
+      "fetched": "2026-09-05T21:13:56.273251+07:00"
+    },
+    {
+      "id": "361137b7b19480859e5d97d3f5bbfac1",
+      "title": "Bảo Ngọc giơ cao cờ đỏ sao vàng mở màn chung kết Hoa hậu Thế giới 2026",
+      "link": "https://thanhnien.vn/bao-ngoc-gio-cao-co-do-sao-vang-mo-man-chung-ket-hoa-hau-the-gioi-2026-185260905202936716.htm",
+      "summary": "Lê Nguyễn Bảo Ngọc cùng 110 thí sinh Hoa hậu Thế giới 2026 mở màn đêm chung kết với màn trình diễn Dances of the World. Người đẹp xuất hiện rạng rỡ trên sân khấu, giơ cao cờ đỏ sao vàng khoe sắc cùng bạn bè quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T14:03:00+07:00",
+      "fetched": "2026-09-05T21:13:56.273416+07:00"
+    },
+    {
+      "id": "371a2f50b4fe5f4b59dd4002dfef6d53",
+      "title": "Tổng thống Putin ra lệnh dừng tấn công Kyiv 3 ngày",
+      "link": "https://thanhnien.vn/tong-thong-putin-ra-lenh-dung-tan-cong-kyiv-3-ngay-185260905203500499.htm",
+      "summary": "Phát ngôn viên Điện Kremlin Dmitry Peskov hôm nay 5.9 cho hay Tổng thống Nga Vladimir Putin đã ra lệnh tạm dừng các cuộc tấn công vào thủ đô Kyiv của Ukraine trong 3 ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:35:00+07:00",
+      "fetched": "2026-09-05T21:13:56.273571+07:00"
+    },
+    {
+      "id": "acddd244e3db50574c74297c0473d050",
+      "title": "Honda ra mắt Super Cub phiên bản mới, giá từ 87,3 triệu đồng",
+      "link": "https://vnexpress.net/honda-ra-mat-super-cub-phien-ban-moi-gia-tu-87-3-trieu-dong-5116513.html",
+      "summary": "Mẫu xe hoài cổ Super Cub có hai phiên bản, động cơ đạt tiêu chuẩn khí thải Euro 4, bổ sung hai tùy chọn màu sắc, hôm 5/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:30:00+07:00",
+      "fetched": "2026-09-05T21:13:53.100552+07:00"
+    },
+    {
+      "id": "807f036575a486002f28b0ffeaaa79e2",
+      "title": "Ninh Bình khởi đầu thuận lợi ở V-League dù mất Hoàng Đức",
+      "link": "https://vnexpress.net/ninh-binh-khoi-dau-thuan-loi-o-v-league-du-mat-hoang-duc-5116975.html",
+      "summary": "Ninh Bình ngược dòng thắng Hải Phòng 4-1 ở vòng 1 V-League 2026-2027 tối nay, trong khi Nguyễn Hoàng Đức phải nghỉ giai đoạn đầu mùa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:27:33+07:00",
+      "fetched": "2026-09-05T21:13:53.100733+07:00"
+    },
+    {
+      "id": "807f036575a486002f28b0ffeaaa79e2",
+      "title": "Ninh Bình khởi đầu thuận lợi ở V-League dù mất Hoàng Đức",
+      "link": "https://vnexpress.net/ninh-binh-khoi-dau-thuan-loi-o-v-league-du-mat-hoang-duc-5116975.html",
+      "summary": "Ninh Bình ngược dòng thắng Hải Phòng 4-1 ở vòng 1 V-League 2026-2027 tối nay, trong khi Nguyễn Hoàng Đức phải nghỉ giai đoạn đầu mùa.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-05T13:27:33+07:00",
+      "fetched": "2026-09-05T21:14:07.195557+07:00"
+    },
+    {
+      "id": "91d79c8c223474c70e5ad3fa994691ad",
+      "title": "Tập thể dục đều vẫn có thể bị đột quỵ, vì sao?",
+      "link": "https://thanhnien.vn/tap-the-duc-deu-van-co-the-bi-dot-quy-vi-sao-18526090518223688.htm",
+      "summary": "Tập thể dục thường xuyên giúp kiểm soát cân nặng, huyết áp, đường huyết và nhiều yếu tố nguy cơ đột quỵ. Tuy nhiên, tập luyện đều đặn không đồng nghĩa nguy cơ đột quỵ được loại bỏ hoàn toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:24:00+07:00",
+      "fetched": "2026-09-05T21:13:56.273728+07:00"
+    },
+    {
+      "id": "b0665f6083e88f22d0790b2cff2db0b8",
+      "title": "Ngoài Việt Nam, nước Đông Nam Á nào khai giảng vào tháng 9?",
+      "link": "https://vnexpress.net/ngoai-viet-nam-nuoc-dong-nam-a-nao-khai-giang-vao-thang-9-5116974.html",
+      "summary": "Ở Đông Nam Á, chỉ hai quốc gia bắt đầu năm học mới vào tháng 9. Bạn có biết đó là Việt Nam và nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:23:23+07:00",
+      "fetched": "2026-09-05T21:13:53.100922+07:00"
+    },
+    {
+      "id": "0619852c388bf89231334e6f3bcb5cd8",
+      "title": "Khai mạc giải futsal Cúp quốc gia 2026: 8 đội so tài hấp dẫn",
+      "link": "https://thanhnien.vn/khai-mac-giai-futsal-cup-quoc-gia-2026-8-doi-so-tai-hap-dan-185260905202104988.htm",
+      "summary": "Chiều 5.9, giải futsal HDBank Cúp quốc gia 2026 chính thức khai mạc tại nhà thi đấu Lãnh Binh Thăng (phường Bình Thới, TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:22:00+07:00",
+      "fetched": "2026-09-05T21:13:56.273906+07:00"
+    },
+    {
+      "id": "6f6740d3953d928fe89b97998affdbc3",
+      "title": "Vào vòng xuyến, nhường xe bên trái hay bên phải mới đúng luật?",
+      "link": "https://thanhnien.vn/vao-vong-xuyen-nhuong-xe-ben-trai-hay-ben-phai-moi-dung-luat-185260903140400488.htm",
+      "summary": "Khi đi qua vòng xuyến, nhiều tài xế thường mặc định phải nhường các phương tiện bên trái. Tuy nhiên, quy định hiện hành cho thấy không phải trường hợp nào cũng áp dụng nguyên tắc này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:21:00+07:00",
+      "fetched": "2026-09-05T21:13:56.274056+07:00"
+    },
+    {
+      "id": "25972982675435633adf33642f7d0f41",
+      "title": "Tiến Linh tỏa sáng, CLB CA TP.HCM lại thắng Hà Nội trận ra quân V-League: Nỗi buồn lớn của HLV Kewell",
+      "link": "https://thanhnien.vn/tien-linh-toa-sang-clb-ca-tphcm-lai-thang-ha-noi-tran-ra-quan-v-league-noi-buon-lon-cua-hlv-kewell-185260905165936521.htm",
+      "summary": "Tối 5.9, trên sân Bình Dương, CLB Công an TP.HCM (CA.TPHCM) trình diễn lối chơi phòng ngự phản công hiệu quả và giành chiến thắng 3-1 xứng đáng trước đội Hà Nội ở vòng 1 V-League 2026-2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:20:00+07:00",
+      "fetched": "2026-09-05T21:13:56.274207+07:00"
+    },
+    {
+      "id": "3f52fe21b6809b51168067bd61d8b92c",
+      "title": "Sony WH-CH530 và CH730N lộ giá mềm khiến các đối thủ dè chừng",
+      "link": "https://thanhnien.vn/sony-wh-ch530-va-ch730n-lo-gia-mem-khien-cac-doi-thu-de-chung-185260904011746971.htm",
+      "summary": "Bộ đôi tai nghe Sony mới có thể ra mắt tại IFA 2026 với giá hấp dẫn, đặc biệt là WH-CH730N hỗ trợ chống ồn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:16:00+07:00",
+      "fetched": "2026-09-05T21:13:56.274359+07:00"
+    },
+    {
+      "id": "b6fd51d1ac051111f57f0f2844329405",
+      "title": "Đỗ Mỹ Linh lần hiếm hoi dự sự kiện sau khi lấy chồng doanh nhân",
+      "link": "https://thanhnien.vn/do-my-linh-lan-hiem-hoi-du-su-kien-sau-khi-lay-chong-doanh-nhan-185260905201111707.htm",
+      "summary": "Ngoài sự 'đổ bộ' của dàn người đẹp quốc tế, thảm đỏ chung kết Miss World - Hoa hậu Thế giới 2026 còn quy tụ nhiều mỹ nhân Việt như Đỗ Mỹ Linh, Lương Thùy Linh, Tiểu Vy...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:15:00+07:00",
+      "fetched": "2026-09-05T21:13:56.274513+07:00"
+    },
+    {
+      "id": "5145e1435454091b862d4cf6b721fad7",
+      "title": "Bitcoin ngày càng vượt vàng giữa lo ngại nợ công toàn cầu",
+      "link": "https://vnexpress.net/bitcoin-ngay-cang-vuot-vang-giua-lo-ngai-no-cong-toan-cau-5116969.html",
+      "summary": "Tỷ lệ giá Bitcoin trên vàng lên mức cao nhất từ tháng 1, trong bối cảnh nhà đầu tư lo ngại về gánh nặng nợ công trên toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:09:24+07:00",
+      "fetched": "2026-09-05T21:13:53.101088+07:00"
+    },
+    {
+      "id": "5145e1435454091b862d4cf6b721fad7",
+      "title": "Bitcoin ngày càng vượt vàng giữa lo ngại nợ công toàn cầu",
+      "link": "https://vnexpress.net/bitcoin-ngay-cang-vuot-vang-giua-lo-ngai-no-cong-toan-cau-5116969.html",
+      "summary": "Tỷ lệ giá Bitcoin trên vàng lên mức cao nhất từ tháng 1, trong bối cảnh nhà đầu tư lo ngại về gánh nặng nợ công trên toàn cầu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-05T13:09:24+07:00",
+      "fetched": "2026-09-05T21:14:02.313256+07:00"
+    },
+    {
+      "id": "fc00a94a3675de29e5453e181b9366e5",
+      "title": "Vắng Hoàng Đức và Tài Lộc, Ninh Bình vẫn thắng đậm Hải Phòng: Lucao cực hay, lập hat-trick vào lưới đội bóng cũ",
+      "link": "https://thanhnien.vn/vang-hoang-duc-va-tai-loc-ninh-binh-van-thang-dam-hai-phong-lucao-cuc-hay-lap-hat-trick-vao-luoi-doi-bong-cu-185260905190132417.htm",
+      "summary": "CLB Ninh Bình đánh bại chủ nhà Hải Phòng với tỷ số 4-1 trên sân Lạch Tray, trong trận ra quân V-League 2026-2027 diễn ra lúc 18 giờ ngày 5.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:08:00+07:00",
+      "fetched": "2026-09-05T21:13:56.274658+07:00"
+    },
+    {
+      "id": "4482a66fe8a9f58d0667b799f362a639",
+      "title": "31 học sinh nghèo, khó khăn ở xã Nhà Bè nhận học bổng đầu năm học",
+      "link": "https://thanhnien.vn/31-hoc-sinh-ngheo-kho-khan-o-xa-nha-be-nhan-hoc-bong-dau-nam-hoc-185260905193442113.htm",
+      "summary": "Sáng 5.9, nhân dịp khai giảng năm học mới, 31 học sinh nghèo hiếu học và học sinh có hoàn cảnh khó khăn của Trường tiểu học Nguyễn Hồng Thế (xã Nhà Bè, TP.HCM) đã được trao học bổng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:07:00+07:00",
+      "fetched": "2026-09-05T21:13:56.274823+07:00"
+    },
+    {
+      "id": "87b6907cce9a31745bee63d270e3d9c5",
+      "title": "Chuyên gia Ngoại khoa: Đừng nói 'biết thế em sang da liễu, vừa lắm tiền, vừa nhàn'",
+      "link": "https://thanhnien.vn/chuyen-gia-ngoai-khoa-dung-noi-biet-the-em-sang-da-lieu-vua-lam-tien-vua-nhan-185260905191150109.htm",
+      "summary": "Hãy cân nhắc khi quyết định học bác sĩ nội trú Ngoại khoa. Đừng để sau này nói 'biết thế em sang da liễu, vừa lắm tiền, vừa nhàn', Giám đốc Bệnh viện hữu nghị Việt Đức Dương Đức Hùng chia sẻ với các bác sĩ nội trú, ngay trước khi 'Matching day 2026 Trường ĐH Y Hà Nội' chính thức diễn ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:03:00+07:00",
+      "fetched": "2026-09-05T21:13:56.274979+07:00"
+    },
+    {
+      "id": "0d6098f2ec956910c06fbb691287c32c",
+      "title": "Xem nhanh 20h ngày 5.9: Bị tố bán tóp mỡ mốc, Bách Hóa Xanh nói gì | Ngày khai trường ở nơi từng là nghĩa trang",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-59-bi-to-ban-top-mo-moc-bach-hoa-xanh-noi-gi-ngay-khai-truong-o-noi-tung-la-nghia-trang-185260905192252649.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 5.9 có nhiều tin tức đáng chú ý về: Bị tố bán tóp mỡ cháy tỏi hư mốc, Bách Hóa Xanh xử lý thế nào?; Rộn ràng khai giảng trường học mới trên nền nghĩa trang Bình Hưng Hòa;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:00:00+07:00",
+      "fetched": "2026-09-05T21:13:56.275124+07:00"
+    },
+    {
+      "id": "3a218ebdfe86a96322d74f168ba2806f",
+      "title": "Rộn ràng khai giảng trường học mới trên nền nghĩa trang Bình Hưng Hòa",
+      "link": "https://thanhnien.vn/ron-rang-khai-giang-truong-hoc-moi-tren-nen-nghia-trang-binh-hung-hoa-185260905182205946.htm",
+      "summary": "Từ một khu đất từng là nghĩa trang Bình Hưng Hòa, một ngôi trường mới nay đã trở thành nơi đón những học sinh đầu tiên trong ngày khai giảng năm học mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:00:00+07:00",
+      "fetched": "2026-09-05T21:13:56.275269+07:00"
+    },
+    {
+      "id": "6a99fa0b0ba6b00874f30da12464c786",
+      "title": "Phu nhân Tổng Bí thư, Chủ tịch nước và phu nhân Tổng thống Myanmar thăm làng lụa Vạn Phúc",
+      "link": "https://vnexpress.net/phu-nhan-tong-bi-thu-chu-tich-nuoc-va-phu-nhan-tong-thong-myanmar-tham-lang-lua-van-phuc-5116971.html",
+      "summary": "Bà Ngô Phương Ly, phu nhân Tổng Bí thư, Chủ tịch nước Tô Lâm, cùng phu nhân Tổng thống Myanmar đến thăm làng lụa Vạn Phúc, trải nghiệm xâu vòng lụa và thưởng trà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T12:55:22+07:00",
+      "fetched": "2026-09-05T21:13:53.101244+07:00"
+    },
+    {
+      "id": "6a99fa0b0ba6b00874f30da12464c786",
+      "title": "Phu nhân Tổng Bí thư, Chủ tịch nước và phu nhân Tổng thống Myanmar thăm làng lụa Vạn Phúc",
+      "link": "https://vnexpress.net/phu-nhan-tong-bi-thu-chu-tich-nuoc-va-phu-nhan-tong-thong-myanmar-tham-lang-lua-van-phuc-5116971.html",
+      "summary": "Bà Ngô Phương Ly, phu nhân Tổng Bí thư, Chủ tịch nước Tô Lâm, cùng phu nhân Tổng thống Myanmar đến thăm làng lụa Vạn Phúc, trải nghiệm xâu vòng lụa và thưởng trà.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-05T12:55:22+07:00",
+      "fetched": "2026-09-05T21:14:00.402323+07:00"
+    },
+    {
+      "id": "b8c58078efc1d697ca6e322afdb3a2be",
+      "title": "Xem video ngắn 10 tiếng mỗi ngày, cô gái nhập viện tâm thần",
+      "link": "https://vnexpress.net/xem-video-ngan-10-tieng-moi-ngay-co-gai-nhap-vien-tam-than-5116794.html",
+      "summary": "Cô gái 24 tuổi thường xuyên nằm lướt video ngắn trên mạng từ 18h hôm trước đến 4h sáng hôm sau, chỉ khi mắt lờ đờ hay quá mệt mới thiếp đi, bác sĩ xác định bị trầm cảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T12:44:42+07:00",
+      "fetched": "2026-09-05T21:13:53.101401+07:00"
+    },
+    {
+      "id": "11d43fb334954785cae6ebab6cdc580f",
+      "title": "Khoảnh khắc kho thuốc trong căn cứ pháo binh Bolivia phát nổ",
+      "link": "https://vnexpress.net/khoanh-khac-kho-thuoc-trong-can-cu-phao-binh-bolivia-phat-no-5116966.html",
+      "summary": "Kho pháo hoa trong một căn cứ pháo binh ở Viacha phát nổ, khiến khu vực rung chuyển, ít nhất 10 người chết, hàng chục người bị thương và nhiều người mất tích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T12:41:42+07:00",
+      "fetched": "2026-09-05T21:13:53.101559+07:00"
+    },
+    {
+      "id": "fb9fd3ac42352b07630665c1a9f07639",
+      "title": "Hoa hậu, á hậu hội tụ thảm xanh chung kết Miss World",
+      "link": "https://vnexpress.net/hoa-hau-a-hau-hoi-tu-tham-xanh-chung-ket-miss-world-5116965.html",
+      "summary": "Miss World 2025 Opal Suchata Chuangsri, hoa hậu Lương Thùy Linh, Tiểu Vy sánh bước trên thảm xanh, cổ vũ 111 thí sinh đêm chung kết Miss World, tối 5/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T12:01:48+07:00",
+      "fetched": "2026-09-05T21:13:53.101715+07:00"
+    },
+    {
+      "id": "5b4cd33076a85f5db5a5e3009448411c",
+      "title": "7 quả hồ lô đưa hàng trăm người đến thăm vợ chồng già mất con",
+      "link": "https://vnexpress.net/7-qua-ho-lo-dua-hang-tram-nguoi-den-tham-vo-chong-gia-mat-con-5116847.html",
+      "summary": "Giàn hồ lô 7 quả trồng trước ban công giúp vợ chồng ông Chen đón hàng trăm khách ghé thăm, xua tan nỗi đau mất con suốt 25 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T12:00:00+07:00",
+      "fetched": "2026-09-05T21:13:53.101894+07:00"
+    },
+    {
+      "id": "76e4134c4c1dc7236858b035cd4a8d00",
+      "title": "Lý do Hà Lan rút 86 tấn vàng khỏi Mỹ, Canada",
+      "link": "https://vnexpress.net/ly-do-ha-lan-rut-86-tan-vang-khoi-my-canada-5116387.html",
+      "summary": "Hà Lan chuyển 86 tấn vàng khỏi Mỹ và Canada sang Anh để giảm rủi ro, trong bối cảnh quan hệ xuyên Đại Tây Dương ngày càng căng thẳng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T12:00:00+07:00",
+      "fetched": "2026-09-05T21:13:53.102059+07:00"
+    },
+    {
+      "id": "ef4879545448b4c2ddb985af83a651ba",
+      "title": "Tìm mảnh ghép cùng chia sẻ những khoảnh khắc hạnh phúc",
+      "link": "https://vnexpress.net/tim-manh-ghep-cung-chia-se-nhung-khoanh-khac-hanh-phuc-5115530.html",
+      "summary": "Mình không vướng bận chuyện con cái, không drama hay gánh nặng quá khứ, sẵn sàng tận hưởng cuộc sống một cách trọn vẹn nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T12:00:00+07:00",
+      "fetched": "2026-09-05T21:13:53.102212+07:00"
+    },
+    {
+      "id": "c62dc4eddaa3c19f25c745164e9e2f4f",
+      "title": "Đã tiêm vaccine, có bị lây HPV từ bạn tình?",
+      "link": "https://vnexpress.net/da-tiem-vaccine-co-bi-lay-hpv-tu-ban-tinh-5116949.html",
+      "summary": "Tôi đã tiêm vaccine HPV phòng 9 chủng nhưng lỡ phát sinh quan hệ với người đang nhiễm HPV thì có bị lây bệnh không? (Hoàng Đạt, 26 tuổi, Gia Lai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T12:00:00+07:00",
+      "fetched": "2026-09-05T21:13:53.102360+07:00"
+    },
+    {
+      "id": "76e4134c4c1dc7236858b035cd4a8d00",
+      "title": "Lý do Hà Lan rút 86 tấn vàng khỏi Mỹ, Canada",
+      "link": "https://vnexpress.net/ly-do-ha-lan-rut-86-tan-vang-khoi-my-canada-5116387.html",
+      "summary": "Hà Lan chuyển 86 tấn vàng khỏi Mỹ và Canada sang Anh để giảm rủi ro, trong bối cảnh quan hệ xuyên Đại Tây Dương ngày càng căng thẳng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-05T12:00:00+07:00",
+      "fetched": "2026-09-05T21:14:00.402505+07:00"
+    },
+    {
+      "id": "efa0e83448ffec409abd7850ec0f98fa",
+      "title": "Mỗi tháng tôi kiếm gần 100 triệu nhưng vẫn bị vợ khó chịu",
+      "link": "https://vnexpress.net/moi-thang-toi-kiem-gan-100-trieu-nhung-van-bi-vo-kho-chiu-5116860.html",
+      "summary": "Mà mỗi lần cãi nhau, cô ấy thường lôi những chuyện từ nhiều năm trước ra để chì chiết tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T11:42:00+07:00",
+      "fetched": "2026-09-05T21:13:53.102530+07:00"
+    },
+    {
       "id": "c6f73d878ea17df942d5d2f7f5cf7222",
       "title": "Vụ chuyến xe cứu thương 16 km thu 5 triệu: Mua thuốc 4.000 đồng, bán 600.000 đồng",
       "link": "https://thanhnien.vn/vu-chuyen-xe-cuu-thuong-16-km-thu-5-trieu-mua-thuoc-4000-dong-ban-600000-dong-185260905174945466.htm",
@@ -321,6 +791,16 @@ window.newsData_2026_09_05 = {
       "category": "Tổng hợp",
       "published": "2026-09-05T11:24:00+07:00",
       "fetched": "2026-09-05T18:29:27.607926+07:00"
+    },
+    {
+      "id": "62027197aeb8599b29e5f2a65d888750",
+      "title": "Trung tâm thương mại chuyển từ nơi mua sắm thành điểm đến trải nghiệm",
+      "link": "https://vnexpress.net/trung-tam-thuong-mai-chuyen-tu-noi-mua-sam-thanh-diem-den-trai-nghiem-5114396.html",
+      "summary": "Không còn chỉ cạnh tranh bằng vị trí hay diện tích, các trung tâm thương mại đang tăng đầu tư vào ẩm thực, giải trí và dịch vụ để kéo khách đến, ở lại lâu hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T11:19:25+07:00",
+      "fetched": "2026-09-05T21:13:53.102686+07:00"
     },
     {
       "id": "f0a85abe8ca2de5d56561b42376dbddd",
