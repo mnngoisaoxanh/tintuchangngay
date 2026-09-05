@@ -1,7 +1,157 @@
 window.newsData_2026_09_05 = {
   "date": "2026-09-05",
-  "lastUpdated": "2026-09-05T06:38:30.623994+07:00",
+  "lastUpdated": "2026-09-05T09:01:03.459371+07:00",
   "articles": [
+    {
+      "id": "08b35786287a463aac53b5c7cb2e5bcf",
+      "title": "Tin tức sáng 5-9: TP.HCM tính nguồn thu từ các khu đất; Sớm cấp phép điểm bán xăng dầu trên mặt nước",
+      "link": "https://tuoitre.vn/tin-tuc-sang-5-9-tphcm-tinh-nguon-thu-tu-cac-khu-dat-som-cap-phep-diem-ban-xang-dau-tren-mat-nuoc-100260904225615747.htm",
+      "summary": "Tin tức đáng chú ý: TP.HCM tính nguồn thu từ các khu đất trong 5 năm tới; TP.HCM yêu cầu sớm cấp phép các điểm bán xăng dầu trên mặt nước; Đề xuất trẻ không được vào tiệm Internet sau 21h...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T09:00:57.678676+07:00",
+      "fetched": "2026-09-05T09:00:57.678731+07:00"
+    },
+    {
+      "id": "73317da77ed704c29c66da5d7ab8b89a",
+      "title": "Tin tức thế giới 5-9: LHQ thông qua nghị quyết do Việt Nam đề xuất; Ông Trump lý giải về cuộc chiến với Iran",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-5-9-lhq-thong-qua-nghi-quyet-do-viet-nam-de-xuat-ong-trump-ly-giai-ve-cuoc-chien-voi-iran-100260905055120864.htm",
+      "summary": "Ông Trump gọi cuộc chiến với Iran là 'chuyện nhỏ' với Mỹ khi bị chất vấn; Bộ Tư pháp Mỹ bác tin ngừng hợp tác với Canada.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T09:00:57.678612+07:00",
+      "fetched": "2026-09-05T09:00:57.678666+07:00"
+    },
+    {
+      "id": "f644cb58a926b71fe34a6bad0514b34e",
+      "title": "Tranh cãi nảy lửa khi Mbappe không được đá lại quả 11m trong trận Real Madrid gặp Real Betis",
+      "link": "https://tuoitre.vn/tranh-cai-nay-lua-khi-mbappe-khong-duoc-da-lai-qua-11m-trong-tran-real-madrid-gap-real-betis-100260905060202504.htm",
+      "summary": "Tổ trọng tài điều khiển trận Real Madrid gặp chủ nhà Real Betis ở vòng 4 Giải vô địch Tây Ban Nha (La Liga) đã gây ra tranh cãi nảy lửa khi không cho Kylian Mbappe thực hiện lại quả đá 11m.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T09:00:57.678547+07:00",
+      "fetched": "2026-09-05T09:00:57.678602+07:00"
+    },
+    {
+      "id": "ad7df140032c9c682ea7a9917fb3edf2",
+      "title": "Chỉ một chai nước cũng gây ra tai nạn giao thông",
+      "link": "https://tuoitre.vn/chi-mot-chai-nuoc-cung-gay-ra-tai-nan-giao-thong-100260904172146302.htm",
+      "summary": "Một chiếc Toyota Innova mất kiểm soát khi đang chở 6 người, đâm vào cột điện và cây bên đường. Theo video ghi lại vụ việc, nguyên nhân vụ tai nạn giao thông được cho là bắt nguồn từ một chai nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T09:00:57.678476+07:00",
+      "fetched": "2026-09-05T09:00:57.678536+07:00"
+    },
+    {
+      "id": "a194da8a41d2f9008747fd0dc7506560",
+      "title": "Đêm huyền thoại tưởng nhớ soạn giả Lê Duy Hạnh, Chuông vàng vọng cổ vào vòng gay cấn",
+      "link": "https://tuoitre.vn/dem-huyen-thoai-tuong-nho-soan-gia-le-duy-hanh-chuong-vang-vong-co-vao-vong-gay-can-100260905060336879.htm",
+      "summary": "Tin tức xem - nghe cuối tuần: 9 thí sinh Chuông vàng vọng cổ vào vòng gay cấn; Đêm huyền thoại tưởng nhớ ba năm ngày vị soạn giả nổi tiếng Lê Duy Hạnh ra đi; HIEUTHUHAI nhận làm 'ông xã' của người hâm mộ; Một đêm duy nhất, Ma tù, Hành trình bất hảo cùng ra rạp và Hoàng Dũng mang Day 3 Xoay tròn đến ...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T09:00:57.678414+07:00",
+      "fetched": "2026-09-05T09:00:57.678465+07:00"
+    },
+    {
+      "id": "d44607b7309479d8ecd147fb94aa79f9",
+      "title": "Khoảng trống nào để hư cấu cải lương sử Việt?",
+      "link": "https://tuoitre.vn/khoang-trong-nao-de-hu-cau-cai-luong-su-viet-100260904222040762.htm",
+      "summary": "Làm cải lương sử Việt sao cho hay để chinh phục người trẻ hôm nay vẫn là điều người làm nghề trăn trở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T09:00:57.678344+07:00",
+      "fetched": "2026-09-05T09:00:57.678403+07:00"
+    },
+    {
+      "id": "9612cd03f357be11c3b6425232ef7dc7",
+      "title": "Trấn Thành, Võ Điền Gia Huy lộ 'tội trạng' khó đỡ ở Running Man",
+      "link": "https://tuoitre.vn/tran-thanh-vo-dien-gia-huy-lo-toi-trang-kho-do-o-running-man-100260905011302813.htm",
+      "summary": "Tập 7 Running Man Việt Nam tiếp tục đưa các khách mời là đưa Khả Như, Captain Boy và Võ Điền Gia Huy tham gia 'Cuộc đua tái sinh' cùng dàn cast.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T09:00:57.678271+07:00",
+      "fetched": "2026-09-05T09:00:57.678333+07:00"
+    },
+    {
+      "id": "0b77cb600533e5ff7a79e14cd0b542a9",
+      "title": "Dragon Ball Super trở lại, những thay đổi nào đáng chú ý?",
+      "link": "https://tuoitre.vn/dragon-ball-super-tro-lai-nhung-thay-doi-nao-dang-chu-y-100260904234050281.htm",
+      "summary": "Dragon Ball Super: Beerus trở lại vào tháng 10 với diện mạo mới, từ hình ảnh, cảnh quay, các trận chiến đến nhạc phim đều được làm mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T09:00:57.678204+07:00",
+      "fetched": "2026-09-05T09:00:57.678261+07:00"
+    },
+    {
+      "id": "0727810c1653e8ca7865bde3b490c847",
+      "title": "Sash Factor, Missosology cùng dự đoán Bảo Ngọc đăng quang Miss World 2026",
+      "link": "https://tuoitre.vn/sash-factor-missosology-cung-du-doan-bao-ngoc-dang-quang-miss-world-2026-100260905061357726.htm",
+      "summary": "Lê Nguyễn Bảo Ngọc được hai chuyên trang sắc đẹp Sash Factor và Missosology cùng lựa chọn ở vị trí đầu bảng dự đoán Miss World 2026 sau cùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T09:00:57.678132+07:00",
+      "fetched": "2026-09-05T09:00:57.678193+07:00"
+    },
+    {
+      "id": "6e96b0f82a364166d435074f549b61fc",
+      "title": "Hà Nội không có nhạc Phú Quang thì buồn đấy",
+      "link": "https://tuoitre.vn/ha-noi-khong-co-nhac-phu-quang-thi-buon-day-100260904205802258.htm",
+      "summary": "Hà Nội trong âm nhạc của nhạc sĩ Phú Quang hiện lên như một người con gái đẹp, cổ kính mà người nghệ sĩ hằng mơ đến. Và Hà Nội không có nhạc Phú Quang thì rất buồn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T09:00:57.678058+07:00",
+      "fetched": "2026-09-05T09:00:57.678116+07:00"
+    },
+    {
+      "id": "3ae3f948ddb2229fd5592eb994473683",
+      "title": "26 triệu học sinh, sinh viên dự lễ khai giảng đặc biệt",
+      "link": "https://tuoitre.vn/26-trieu-hoc-sinh-sinh-vien-du-le-khai-giang-dac-biet-100260905064053755.htm",
+      "summary": "Sáng nay 5-9, hơn 26 triệu học sinh, sinh viên trên cả nước bước vào năm học mới với lễ khai giảng đặc biệt, gắn với lễ khánh thành 107 trường phổ thông nội trú liên cấp tại các xã biên giới đất liền trên toàn quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T09:00:57.677987+07:00",
+      "fetched": "2026-09-05T09:00:57.678048+07:00"
+    },
+    {
+      "id": "3bfbb4c9b5759cd62fce63c82a684c1d",
+      "title": "Ông Trump cử hai đặc phái viên mang đề xuất hòa bình tới Nga, Ukraine",
+      "link": "https://tuoitre.vn/ong-trump-cu-hai-dac-phai-vien-mang-de-xuat-hoa-binh-toi-nga-ukraine-100260905065100083.htm",
+      "summary": "Ông Trump thông báo hai đặc phái viên Steve Witkoff và Jared Kushner sẽ tới Matxcơva và Kiev cuối tuần này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T09:00:57.677910+07:00",
+      "fetched": "2026-09-05T09:00:57.677976+07:00"
+    },
+    {
+      "id": "e297308ff4a35102caee6c8f084ab630",
+      "title": "Phương Mỹ Chi lúc nhỏ hát giúp gánh chè của mẹ bớt ế, lớn hát lan tỏa dân ca ra thế giới",
+      "link": "https://tuoitre.vn/phuong-my-chi-luc-nho-hat-giup-ganh-che-cua-me-bot-e-lon-hat-lan-toa-dan-ca-ra-the-gioi-100260904233326343.htm",
+      "summary": "Với Phương Mỹ Chi, đó không chỉ là một kỷ niệm tuổi thơ mà còn là cảm giác hạnh phúc khi có thể dùng khả năng của mình để giúp mẹ bán được những ly chè cuối. \"Tôi cảm thấy mình có giá trị\", Phương Mỹ Chi chia sẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T09:00:57.677817+07:00",
+      "fetched": "2026-09-05T09:00:57.677878+07:00"
+    },
+    {
+      "id": "96d250c71d97b28ec9ee8a6a3b7519e4",
+      "title": "Nhà xuất bản làm gì để khiến bạn muốn mua một cuốn sách?",
+      "link": "https://tuoitre.vn/nha-xuat-ban-lam-gi-de-khien-ban-muon-mua-mot-cuon-sach-100260904220823438.htm",
+      "summary": "Từ màu sắc bìa, lời giới thiệu, vị trí trưng bày đến BookTok và chatbot, ngành xuất bản đang dùng nhiều cách để tác động đến quyết định mua sách của độc giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T09:00:57.677740+07:00",
+      "fetched": "2026-09-05T09:00:57.677805+07:00"
+    },
+    {
+      "id": "31eb480f97f28c60e1ce3036b1441c31",
+      "title": "Gian truân giải thể doanh nghiệp: Sửa ngay qui định 'hồi sinh' mã số thuế chỉ để... đóng lại",
+      "link": "https://tuoitre.vn/gian-truan-giai-the-doanh-nghiep-sua-ngay-qui-dinh-hoi-sinh-ma-so-thue-chi-de-dong-lai-100260905061211524.htm",
+      "summary": "Thủ tục lập doanh nghiệp hiện vô cùng thông thoáng, nhưng quy trình giải thể một pháp nhân đã ngừng hoạt động, thậm chí có doanh nghiệp chưa phát sinh bất kỳ hóa đơn nào, lại là hành trình gian nan với chi phí rất cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T09:00:57.677584+07:00",
+      "fetched": "2026-09-05T09:00:57.677725+07:00"
+    },
     {
       "id": "42a0f8b03da928df1d5b53654b8905d8",
       "title": "Thời tiết hôm nay 5-9: Sáng khai giảng thời tiết ba miền không mưa, chiều nhiều nơi mưa to",
@@ -21,6 +171,366 @@ window.newsData_2026_09_05 = {
       "category": "Tổng hợp",
       "published": "2026-09-05T03:02:03.555394+07:00",
       "fetched": "2026-09-05T03:02:03.555794+07:00"
+    },
+    {
+      "id": "82b85e0e57879f47b8d7e8fe5e6eb2b3",
+      "title": "95% 'siêu' El Nino xuất hiện, miền Bắc và miền Nam thiếu hụt mưa trong tháng 9",
+      "link": "https://thanhnien.vn/95-sieu-el-nino-xuat-hien-mien-bac-va-mien-nam-thieu-hut-mua-trong-thang-9-185260905071817115.htm",
+      "summary": "Theo dự báo, do tác động của El Nino có cường độ mạnh, trong tháng 9, khu vực miền Bắc và miền Nam sẽ đối diện với tình trạng thiếu hụt lượng mưa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:52:00+07:00",
+      "fetched": "2026-09-05T09:00:56.080727+07:00"
+    },
+    {
+      "id": "264c90fe7e8b4edbbab08eabf1a46623",
+      "title": "Canada công bố tờ 20 đôla in hình Vua Charles",
+      "link": "https://vnexpress.net/canada-cong-bo-to-20-dola-in-hinh-vua-charles-5116760.html",
+      "summary": "Canada ra mắt mẫu tiền giấy mệnh giá 20 đôla in dọc, có hình chân dung Vua Charles III để thay thế cho hình ảnh cố Nữ hoàng Elizabeth II.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-05T01:51:59+07:00",
+      "fetched": "2026-09-05T09:00:58.798877+07:00"
+    },
+    {
+      "id": "956a6eb95692d6f775bd1e689ea0cc5b",
+      "title": "Ông Trump gây bất ngờ khi chỉ định quyền Bộ trưởng Lục quân Mỹ",
+      "link": "https://vnexpress.net/ong-trump-gay-bat-ngo-khi-chi-dinh-quyen-bo-truong-luc-quan-my-5116627.html",
+      "summary": "Ông Trump chọn Trợ lý Bộ trưởng làm quyền Bộ trưởng Lục quân Mỹ, thay vì chỉ định quan chức dân sự cấp cao thứ hai của quân chủng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-05T01:51:33+07:00",
+      "fetched": "2026-09-05T09:00:58.799077+07:00"
+    },
+    {
+      "id": "eeab120a09a5a3f91b000259b1d44f2f",
+      "title": "Giá heo hơi hôm nay 5.9.2026: Thị trường lặng sóng",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-592026-thi-truong-lang-song-185260905084210813.htm",
+      "summary": "Sau kỳ nghỉ lễ dài ngày, thị trường vẫn ổn định với giá heo hơi bình quân cả nước khoảng 58.500 đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:50:00+07:00",
+      "fetched": "2026-09-05T09:00:56.080913+07:00"
+    },
+    {
+      "id": "d1a7701f75afb84350091580c7ee7d54",
+      "title": "Học sinh lớp 4 nhặt 4,8 triệu đồng trả lại du khách, được biểu dương ngày khai giảng",
+      "link": "https://thanhnien.vn/hoc-sinh-lop-4-nhat-48-trieu-dong-tra-lai-du-khach-duoc-bieu-duong-ngay-khai-giang-185260905083654201.htm",
+      "summary": "Ngày khai giảng năm học 2026 – 2027, lãnh đạo xã Hòa Thịnh cùng Ban giám hiệu Trường tiểu học và THCS Đồng Khởi đã biểu dương học sinh lớp 4 khi nhặt hơn 4,8 triệu đồng mang đến công an để trả lại cho du khách bị đánh rơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:50:00+07:00",
+      "fetched": "2026-09-05T09:00:56.081076+07:00"
+    },
+    {
+      "id": "509b10aabfcc72728e63ea2a39b6469d",
+      "title": "Messi và Ronaldo bất ngờ cùng tham gia trận đấu chia tay Carlos Tevez",
+      "link": "https://thanhnien.vn/messi-va-ronaldo-bat-ngo-cung-tham-gia-tran-dau-chia-tay-carlos-tevez-185260905084237412.htm",
+      "summary": "Theo kênh TNT Sports Argentina, cựu tiền đạo nổi tiếng Carlos Tevez đã quyết định tổ chức trận đấu chia tay sự nghiệp vào tháng 12 tới đây, và anh sẽ mời cả Messi lẫn Ronaldo cùng tham dự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:48:00+07:00",
+      "fetched": "2026-09-05T09:00:56.081248+07:00"
+    },
+    {
+      "id": "b6fbac9c9bafe3ca79d7cce0f18fdb2c",
+      "title": "Giá vàng hôm nay 5.9.2026: Giảm 1 triệu vẫn đắt hơn thế giới trên 7 triệu đồng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-592026-giam-1-trieu-van-dat-hon-the-gioi-tren-7-trieu-dong-185260905073415979.htm",
+      "summary": "Giá vàng trong nước quay đầu giảm nhưng vẫn cao hơn thế giới trên 7 triệu đồng một lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:47:00+07:00",
+      "fetched": "2026-09-05T09:00:56.081410+07:00"
+    },
+    {
+      "id": "10c935fa594f89122ae6ee8a17279341",
+      "title": "Cây kèn im tiếng suốt 3.000 năm và lời nguyền của ngày được thổi lại",
+      "link": "https://thanhnien.vn/cay-ken-im-tieng-suot-3000-nam-va-loi-nguyen-cua-ngay-duoc-thoi-lai-185260904133536946.htm",
+      "summary": "Vào một buổi tối tháng 4 năm 1939, ước tính có khoảng 150 triệu thính giả trên khắp thế giới đã cùng lắng nghe một chương trình phát thanh đặc biệt liên quan đến cây kèn thời cổ đại diễn ra ở Cairo, Ai Cập - một sự kiện mà đến tận ngày nay vẫn khơi dậy niềm kinh ngạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:46:00+07:00",
+      "fetched": "2026-09-05T09:00:56.081566+07:00"
+    },
+    {
+      "id": "377b8a71dd3dc710ea628bfb2efca9ca",
+      "title": "Giá xăng dầu hôm nay 5.9.2026: Tuần tăng sốc gần 10%",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-592026-tuan-tang-soc-gan-10-185260905083613502.htm",
+      "summary": "Giá dầu thế giới giữ đà tăng trong phiên giao dịch cuối cùng của tuần, đẩy giá cả tuần qua tăng mạnh gần 10% trong bối cảnh giao tranh quân sự giữa Mỹ và Iran leo thang. Trong nước, xăng dầu vừa được điều chỉnh trái chiều theo hướng giá xăng sinh học tăng, dầu giảm. Dự báo xăng dầu trong nước tuần t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:45:00+07:00",
+      "fetched": "2026-09-05T09:00:56.081720+07:00"
+    },
+    {
+      "id": "7ec53bf9ed8d3607cc6b6d4b301b1818",
+      "title": "Ông Trump dọa ngừng giao thương với một số nước",
+      "link": "https://thanhnien.vn/ong-trump-doa-ngung-giao-thuong-voi-mot-so-nuoc-185260905075629484.htm",
+      "summary": "Tổng thống Mỹ Donald Trump gia tăng sức ép lên Cục Dự trữ liên bang (Fed) nhằm hạ lãi suất, đồng thời đe dọa cắt giảm quan hệ thương mại với một số nền kinh tế nếu ngân hàng trung ương không hành động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:45:00+07:00",
+      "fetched": "2026-09-05T09:00:56.081871+07:00"
+    },
+    {
+      "id": "cd53978d9c3380fdcfcb40da6918e891",
+      "title": "Giá USD hôm nay 5.9.2026: Ngân hàng giảm mạnh",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-592026-ngan-hang-giam-manh-185260905083313971.htm",
+      "summary": "Các ngân hàng thương mại giảm mạnh giá USD cùng các ngoại tệ khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:43:00+07:00",
+      "fetched": "2026-09-05T09:00:56.082048+07:00"
+    },
+    {
+      "id": "63567fbd4c20cdbec74ff823409f2c39",
+      "title": "Công an TP.HCM kết thúc điều tra vụ án lừa đảo, rửa tiền tại Công ty Capel",
+      "link": "https://thanhnien.vn/cong-an-tphcm-ket-thuc-dieu-tra-vu-an-lua-dao-rua-tien-tai-cong-ty-capel-185260904125239365.htm",
+      "summary": "Ngày 4.9, Phòng Cảnh sát kinh tế Công an TP.HCM cho biết đã kết thúc điều tra và Viện KSND TP.HCM đã hoàn tất cáo trạng truy tố 5 bị can trong vụ án xảy ra tại Công ty CP Tập đoàn Capel.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:42:00+07:00",
+      "fetched": "2026-09-05T09:00:56.082198+07:00"
+    },
+    {
+      "id": "49f27fe3f901db55c6c28356d7a2a887",
+      "title": "Gemini đã có thể tự soạn tài liệu và đọc email bằng giọng nói",
+      "link": "https://thanhnien.vn/gemini-da-co-the-tu-soan-tai-lieu-va-doc-email-bang-giong-noi-185260905082313731.htm",
+      "summary": "Google vừa chính thức kích hoạt tính năng hội thoại giọng nói Gemini Live trên hệ sinh thái Workspace, cho phép người dùng làm việc mà không cần gõ phím.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:41:00+07:00",
+      "fetched": "2026-09-05T09:00:56.082347+07:00"
+    },
+    {
+      "id": "7d5a1dfef61bb97c81d07200b91c0055",
+      "title": "Học trò xinh đẹp từng giành á quân ‘Thần tượng bolero’ của Ngọc Sơn giờ ra sao?",
+      "link": "https://thanhnien.vn/hoc-tro-xinh-dep-tung-gianh-a-quan-than-tuong-bolero-cua-ngoc-son-gio-ra-sao-185260905081243079.htm",
+      "summary": "Hồ Phương Liên là học trò của Ngọc Sơn, từng giành danh hiệu á quân 'Thần tượng bolero'. Sau cuộc thi, cô chăm chỉ ra mắt các sản phẩm, cho thấy sự nghiêm túc với nghề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:31:00+07:00",
+      "fetched": "2026-09-05T09:00:56.082493+07:00"
+    },
+    {
+      "id": "0874ac69e68de064f0b35fdb973686f3",
+      "title": "Cô gái giảm 14 kg để thi diễn viên vừa tốt nghiệp đại học loại xuất sắc",
+      "link": "https://thanhnien.vn/co-gai-giam-14-kg-de-thi-dien-vien-vua-tot-nghiep-dai-hoc-loai-xuat-sac-185260904223524904.htm",
+      "summary": "Lương Thị Thanh Hoa từng giảm 14 kg để thi vào Trường ĐH Sân khấu - Điện ảnh TP.HCM. Tại lễ trao bằng tốt nghiệp vào ngày 5.9.2026, Hoa là nữ sinh duy nhất của ngành diễn viên kịch, điện ảnh - truyền hình đạt loại xuất sắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:27:00+07:00",
+      "fetched": "2026-09-05T09:00:56.082658+07:00"
+    },
+    {
+      "id": "a3b9f37d6819dcf2ef09ca0fc8f2afbb",
+      "title": "Ăn sáng tốt cho gan: Bác sĩ chỉ món lạ mà quen",
+      "link": "https://thanhnien.vn/an-sang-tot-cho-gan-bac-si-chi-mon-la-ma-quen-185260905082743912.htm",
+      "summary": "Chăm sóc gan qua dinh dưỡng buổi sáng là cách đơn giản để bảo vệ sức khỏe. Phó giáo sư - bác sĩ Susan Kais, chuyên gia tiêu hóa, gan mật tại Đại học Cincinnati (Mỹ), chia sẻ những lựa chọn tốt cùng các lưu ý quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:24:00+07:00",
+      "fetched": "2026-09-05T09:00:56.082809+07:00"
+    },
+    {
+      "id": "4f0e90f9a192ca02670f73d8920a6292",
+      "title": "Bệnh nhân tổn thương não vì nhân viên y tế Nhật quên nối oxy vào máy ECMO",
+      "link": "https://vnexpress.net/benh-nhan-ton-thuong-nao-vi-nhan-vien-y-te-nhat-quen-noi-oxy-vao-may-ecmo-5116634.html",
+      "summary": "Sai sót ngắt nguồn cấp oxy máy ECMO suốt 20 phút của kỹ thuật viên tại Bệnh viện Đa khoa tỉnh Tottori đã khiến bệnh nhân tổn thương não nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:22:35+07:00",
+      "fetched": "2026-09-05T09:00:53.408506+07:00"
+    },
+    {
+      "id": "0b7dfd756fbdb24bed9e5d466e64b531",
+      "title": "Hành lang bệnh viện thành lớp học, rạp phim ngày khai giảng",
+      "link": "https://vnexpress.net/hanh-lang-benh-vien-thanh-lop-hoc-rap-phim-ngay-khai-giang-5116707.html",
+      "summary": "Hành lang Khoa Nhi Bệnh viện Nhân dân Gia Định biến thành rạp phim mini, lớp vẽ, mang không khí ngày khai giảng đến những bệnh nhi chưa thể trở lại trường vì đang điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:16:50+07:00",
+      "fetched": "2026-09-05T09:00:53.408713+07:00"
+    },
+    {
+      "id": "36ff6db21d700363a43dc3fc6ca086fc",
+      "title": "Kendall Jenner 'chạm ngõ' điện ảnh sau gần hai thập kỷ nổi tiếng",
+      "link": "https://thanhnien.vn/kendall-jenner-cham-ngo-dien-anh-sau-gan-hai-thap-ky-noi-tieng-185260905073041504.htm",
+      "summary": "Kendall Jenner trở thành thành viên mới nhất của gia đình Kardashian thử sức với diễn xuất khi xuất hiện trong một bộ phim ngắn lấy cảm hứng từ hình tượng những minh tinh điện ảnh Ý thập niên 1960, Daily Mail đưa tin ngày 4.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:11:00+07:00",
+      "fetched": "2026-09-05T09:00:56.082991+07:00"
+    },
+    {
+      "id": "f34a96e90e587365de52587d4e821bb9",
+      "title": "Trái phiếu chính phủ Việt Nam ra sao giữa làn sóng bán tháo ở nhiều nước?",
+      "link": "https://vnexpress.net/trai-phieu-chinh-phu-viet-nam-ra-sao-giua-lan-song-ban-thao-o-nhieu-nuoc-5116726.html",
+      "summary": "Trái phiếu chính phủ Việt Nam được giới quan sát đánh giá biến động \"ôn hòa\" trong lúc lợi suất tại Nhật, Anh, Đức lập đỉnh hàng chục năm do áp lực bán lan rộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:09:24+07:00",
+      "fetched": "2026-09-05T09:00:53.408917+07:00"
+    },
+    {
+      "id": "f34a96e90e587365de52587d4e821bb9",
+      "title": "Trái phiếu chính phủ Việt Nam ra sao giữa làn sóng bán tháo ở nhiều nước?",
+      "link": "https://vnexpress.net/trai-phieu-chinh-phu-viet-nam-ra-sao-giua-lan-song-ban-thao-o-nhieu-nuoc-5116726.html",
+      "summary": "Trái phiếu chính phủ Việt Nam được giới quan sát đánh giá biến động \"ôn hòa\" trong lúc lợi suất tại Nhật, Anh, Đức lập đỉnh hàng chục năm do áp lực bán lan rộng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-05T01:09:24+07:00",
+      "fetched": "2026-09-05T09:01:00.142049+07:00"
+    },
+    {
+      "id": "8427813bf513b774ee0c137f20d8be4d",
+      "title": "Hành trình tìm con mất tích trong lũ quét Nepal",
+      "link": "https://vnexpress.net/hanh-trinh-tim-con-mat-tich-trong-lu-quet-nepal-5116473.html",
+      "summary": "Vay nặng lãi 13 USD làm lộ phí, ông Talka Sada đi bộ hàng chục km tìm con trai 19 tuổi mất tích sau trận lũ quét ngày 26/8 tại miền bắc Nepal.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:08:39+07:00",
+      "fetched": "2026-09-05T09:00:53.409121+07:00"
+    },
+    {
+      "id": "f3aa23d78ec4845684fed2c9ce9794b1",
+      "title": "Bảo Ngọc: 'Tôi bình tĩnh đón nhận mọi kết quả tại Miss World'",
+      "link": "https://vnexpress.net/bao-ngoc-toi-binh-tinh-don-nhan-moi-ket-qua-tai-miss-world-5116719.html",
+      "summary": "Hoa hậu Bảo Ngọc nói không đặt nặng áp lực về kết quả mà giữ tâm thế bình tĩnh để tỏa sáng tại chung kết Miss World 2026 vào tối 5/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:00:00+07:00",
+      "fetched": "2026-09-05T09:00:53.409285+07:00"
+    },
+    {
+      "id": "46d90466cd68737efe28bb409c57824e",
+      "title": "Cô gái tá hỏa khi bị bạn thân lật tẩy màn ảo thuật",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-co-gai-ta-hoa-khi-bi-ban-than-lat-tay-man-ao-thuat-5116436.html",
+      "summary": "Cô gái tự tin trình diễn màn rót nước tưởng chừng hoàn hảo, nhưng chỉ một khoảnh khắc bất ngờ khiến cả màn ảo thuật biến thành pha “tấu hài”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:00:00+07:00",
+      "fetched": "2026-09-05T09:00:53.409444+07:00"
+    },
+    {
+      "id": "2229017f0fb66920f52523a55c678d0b",
+      "title": "10 vụ chuyển nhượng làm thay đổi Ngoại hạng Anh",
+      "link": "https://vnexpress.net/10-vu-chuyen-nhuong-lam-thay-doi-ngoai-hang-anh-5116329.html",
+      "summary": "Eric Cantona, Sergio Aguero và N'Golo Kante được xếp vào ba vị trí đầu trong danh sách những thương vụ có sức ảnh hưởng lớn nhất lịch sử Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:00:00+07:00",
+      "fetched": "2026-09-05T09:00:53.409608+07:00"
+    },
+    {
+      "id": "ac5d02c7821384b31d56ee5db04fadbe",
+      "title": "Bác sĩ chỉ cách phòng ngừa cơn hen suyễn về đêm",
+      "link": "https://vnexpress.net/bac-si-chi-cach-phong-ngua-con-hen-suyen-ve-dem-5116751.html",
+      "summary": "Giữ phòng ngủ sạch, tránh khói thuốc và các tác nhân kích thích, duy trì môi trường ngủ phù hợp giúp giảm nguy cơ lên cơn hen về đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:00:00+07:00",
+      "fetched": "2026-09-05T09:00:53.409766+07:00"
+    },
+    {
+      "id": "6c495e5bb0aa7518802e80cb8db8606d",
+      "title": "Tái thông động mạch vành cho người mắc nhiều bệnh nền",
+      "link": "https://vnexpress.net/tai-thong-dong-mach-vanh-cho-nguoi-mac-nhieu-benh-nen-5116749.html",
+      "summary": "Ông Chương, 56 tuổi, mắc nhiều bệnh nền, động mạch vành tắc mạn tính và vôi hóa, được bác sĩ can thiệp tái thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:00:00+07:00",
+      "fetched": "2026-09-05T09:00:53.409952+07:00"
+    },
+    {
+      "id": "b9802d928870a640aba7fc3e7b69104a",
+      "title": "Bổ sung nhiều canxi có giúp trẻ cao nhanh?",
+      "link": "https://vnexpress.net/bo-sung-nhieu-canxi-co-giup-tre-cao-nhanh-5116745.html",
+      "summary": "Con tôi 10 tuổi thấp hơn các bạn trong lớp, bà nội muốn cho cháu uống viên canxi mỗi ngày để tăng chiều cao. Uống nhiều canxi có thực sự giúp trẻ tăng chiều cao? (Thu Lan, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:00:00+07:00",
+      "fetched": "2026-09-05T09:00:53.410112+07:00"
+    },
+    {
+      "id": "bbdd0b8ea059182c020e35335fdd394b",
+      "title": "Vì sao da vẫn xỉn màu dù chăm sóc đều đặn?",
+      "link": "https://vnexpress.net/vi-sao-da-van-xin-mau-du-cham-soc-deu-dan-5116639.html",
+      "summary": "Da vẫn có thể xỉn màu dù chăm sóc hằng ngày do thiếu ngủ, căng thẳng, tia UV hoặc chu trình chưa phù hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:00:00+07:00",
+      "fetched": "2026-09-05T09:00:53.410274+07:00"
+    },
+    {
+      "id": "898fd0381ea26af9d01abaa8324a7e23",
+      "title": "Kiến nghị trợ cấp hàng tháng cho người mắc ung thư, suy thận",
+      "link": "https://vnexpress.net/kien-nghi-tro-cap-hang-thang-cho-nguoi-mac-ung-thu-suy-than-5116562.html",
+      "summary": "Cử tri Đà Nẵng đề nghị có chính sách trợ cấp hằng tháng hoặc hỗ trợ chi phí điều trị cho người mắc ung thư, suy thận và các bệnh hiểm nghèo, nhằm giảm áp lực kinh tế cho các gia đình khó khăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:00:00+07:00",
+      "fetched": "2026-09-05T09:00:53.410428+07:00"
+    },
+    {
+      "id": "cc24d71e518b4dfa20a4e30e755de6e5",
+      "title": "BVIS TP HCM ghi nhận kết quả cao kỳ thi IGCSE và A Level 2026",
+      "link": "https://vnexpress.net/bvis-tp-hcm-ghi-nhan-ket-qua-cao-ky-thi-igcse-va-a-level-2026-5116427.html",
+      "summary": "BVIS TP HCM ghi nhận tỷ lệ điểm A* - A kỳ thi IGCSE và A Level năm học 2025-2026 lần lượt 57% và 44,4%, cho thấy kết quả học tập tích cực trong lộ trình giáo dục quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T01:00:00+07:00",
+      "fetched": "2026-09-05T09:00:53.410579+07:00"
+    },
+    {
+      "id": "2229017f0fb66920f52523a55c678d0b",
+      "title": "10 vụ chuyển nhượng làm thay đổi Ngoại hạng Anh",
+      "link": "https://vnexpress.net/10-vu-chuyen-nhuong-lam-thay-doi-ngoai-hang-anh-5116329.html",
+      "summary": "Eric Cantona, Sergio Aguero và N'Golo Kante được xếp vào ba vị trí đầu trong danh sách những thương vụ có sức ảnh hưởng lớn nhất lịch sử Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-05T01:00:00+07:00",
+      "fetched": "2026-09-05T09:01:03.452712+07:00"
+    },
+    {
+      "id": "20fbadbae9086f75c1550d251e5af1eb",
+      "title": "Tổng Bí thư, Chủ tịch nước: Khắc phục tâm lý chạy theo điểm số và thi cử nặng nề",
+      "link": "https://vnexpress.net/toan-van-thu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-gui-nganh-giao-duc-nhan-dip-khai-giang-nam-hoc-moi-2026-5116479.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm gửi thư động viên ngành Giáo dục dịp khai giảng, đề nghị đổi mới tư duy, đặt học sinh làm trung tâm trong kiểm tra, đánh giá, khắc phục tâm lý chạy theo điểm số và thi cử nặng nề.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T00:56:39+07:00",
+      "fetched": "2026-09-05T09:00:53.410742+07:00"
+    },
+    {
+      "id": "0e5fd6779f71f4d1764aef6fe3cb34c9",
+      "title": "Tổng thống Mỹ: Xung đột với Iran chỉ là chuyện nhỏ",
+      "link": "https://vnexpress.net/tong-thong-my-xung-dot-voi-iran-chi-la-chuyen-nho-5116748.html",
+      "summary": "Tổng thống Trump tuyên bố cuộc chiến với Iran chỉ là \"chuyện nhỏ\" với Mỹ, khẳng định Washington sẽ xử lý xong vấn đề này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T00:41:45+07:00",
+      "fetched": "2026-09-05T09:00:53.410920+07:00"
+    },
+    {
+      "id": "0e5fd6779f71f4d1764aef6fe3cb34c9",
+      "title": "Tổng thống Mỹ: Xung đột với Iran chỉ là chuyện nhỏ",
+      "link": "https://vnexpress.net/tong-thong-my-xung-dot-voi-iran-chi-la-chuyen-nho-5116748.html",
+      "summary": "Tổng thống Trump tuyên bố cuộc chiến với Iran chỉ là \"chuyện nhỏ\" với Mỹ, khẳng định Washington sẽ xử lý xong vấn đề này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-05T00:41:45+07:00",
+      "fetched": "2026-09-05T09:00:58.799241+07:00"
+    },
+    {
+      "id": "5f45ec1c4c420fe037e54beb69bd2750",
+      "title": "Đặc phái viên của ông Trump mang đề xuất hòa bình đến Nga, Ukraine",
+      "link": "https://vnexpress.net/dac-phai-vien-cua-ong-trump-mang-de-xuat-hoa-binh-den-nga-ukraine-5116746.html",
+      "summary": "Tổng thống Mỹ sẽ cử đặc phái viên Jared Kushner và Steve Witkoff mang kế hoạch chấm dứt xung đột tới Moskva và Kiev.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-05T00:17:04+07:00",
+      "fetched": "2026-09-05T09:00:58.799399+07:00"
     },
     {
       "id": "ef170947fe25e53709c5d9d77cbe6bc1",
@@ -173,6 +683,56 @@ window.newsData_2026_09_05 = {
       "fetched": "2026-09-05T00:16:00.059023+07:00"
     },
     {
+      "id": "8fc9de723b4c0cb6f21a7295e112cced",
+      "title": "Lý do hệ thống cảnh báo sớm thất bại trước lũ quét Nepal",
+      "link": "https://vnexpress.net/ly-do-he-thong-canh-bao-som-that-bai-truoc-lu-quet-nepal-5116587.html",
+      "summary": "Thảm họa lũ quét ở Nepal đã bộc lộ những lỗ hổng khiến hệ thống cảnh báo sớm bất lực trước sức tàn phá khủng khiếp của thiên nhiên.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-05T00:00:00+07:00",
+      "fetched": "2026-09-05T09:00:58.799555+07:00"
+    },
+    {
+      "id": "5e1632203f00a3e858fdbab978458444",
+      "title": "Liên Hợp Quốc thông qua sáng kiến về văn hóa do Việt Nam đề xuất",
+      "link": "https://vnexpress.net/lien-hop-quoc-thong-qua-sang-kien-ve-van-hoa-do-viet-nam-de-xuat-5116741.html",
+      "summary": "Đại hội đồng LHQ thông qua nghị quyết phát động \"Thập kỷ quốc tế về Văn hóa vì Phát triển bền vững\" năm 2027-2036 do Việt Nam khởi xướng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-04T23:48:48+07:00",
+      "fetched": "2026-09-05T09:00:58.799710+07:00"
+    },
+    {
+      "id": "78310b9583c3b7b1477c53e9cbbd845d",
+      "title": "Tại sao Nvidia chi gần 13 tỷ USD mua Hugging Face?",
+      "link": "https://vnexpress.net/tai-sao-nvidia-chi-gan-13-ty-usd-mua-hugging-face-5116727.html",
+      "summary": "Thương vụ mua Hugging Face giúp Nvidia, công ty dẫn đầu thế giới về chip AI, củng cố vị thế và tầm ảnh hưởng trên thị trường AI toàn cầu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-04T23:43:26+07:00",
+      "fetched": "2026-09-05T09:01:02.319078+07:00"
+    },
+    {
+      "id": "59abbef879cf2888825109c0ab57fa9c",
+      "title": "CLB Áo ra mắt áo đấu bằng nụ hôn của những đôi tình nhân",
+      "link": "https://vnexpress.net/clb-ao-ra-mat-ao-dau-bang-nu-hon-cua-nhung-doi-tinh-nhan-5116742.html",
+      "summary": "CLB Austria Wien gây chú ý với video dài hai phút ra mắt áo đấu thứ ba mùa giải mới, trong đó những đôi tình nhân trao nhau nụ hôn để truyền tải thông điệp về sự kết nối và tình yêu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-04T23:38:38+07:00",
+      "fetched": "2026-09-05T09:01:03.453728+07:00"
+    },
+    {
+      "id": "985f4fcd612ac07b92cf07b04037fa3a",
+      "title": "Laptop AI siêu nhẹ giá gần 60 triệu đồng",
+      "link": "https://vnexpress.net/laptop-ai-sieu-nhe-gia-gan-60-trieu-dong-5116280.html",
+      "summary": "Yoga Slim 7i Ultra Aura Edition của Lenovo nặng chưa đến 1 kg, dùng chip Intel, RAM 32 GB và bộ nhớ 1 TB, nhưng giá cao hơn thế hệ trước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-04T23:31:38+07:00",
+      "fetched": "2026-09-05T09:01:02.319414+07:00"
+    },
+    {
       "id": "74a32635367d9d43816bc3722d2f2bbc",
       "title": "Sáng nay học sinh cả nước dự khai giảng năm học mới với nhiều điểm đặc biệt",
       "link": "https://thanhnien.vn/sang-nay-hoc-sinh-ca-nuoc-du-khai-giang-nam-hoc-moi-voi-nhieu-diem-dac-biet-185260904223735017.htm",
@@ -181,6 +741,16 @@ window.newsData_2026_09_05 = {
       "category": "Tổng hợp",
       "published": "2026-09-04T23:30:00+07:00",
       "fetched": "2026-09-05T06:38:22.315017+07:00"
+    },
+    {
+      "id": "cb900093804cb3d96290b5789c0ba570",
+      "title": "HLV Park Hang-seo: 'Tôi có lỗi vì không thể bảo vệ cầu thủ ở World Cup'",
+      "link": "https://vnexpress.net/hlv-park-hang-seo-toi-co-loi-vi-khong-the-bao-ve-cau-thu-o-world-cup-5116734.html",
+      "summary": "Trả lời tờ Footballist tuần này, ông Park thấy có lỗi trong vai trò Trưởng đoàn đội tuyển tại World Cup 2026 vì không bảo vệ được các cầu thủ Hàn Quốc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-04T23:25:22+07:00",
+      "fetched": "2026-09-05T09:01:03.452907+07:00"
     },
     {
       "id": "8178ee27426081c5fba339500f1c184d",
