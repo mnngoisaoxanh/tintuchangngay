@@ -1,6 +1,6 @@
 window.newsData_2026_09_06 = {
   "date": "2026-09-06",
-  "lastUpdated": "2026-09-06T02:42:49.635987+07:00",
+  "lastUpdated": "2026-09-06T04:47:46.812497+07:00",
   "articles": [
     {
       "id": "89b3a2505d5c38454c9974d99fec798b",
@@ -161,6 +161,36 @@ window.newsData_2026_09_06 = {
       "category": "Tổng hợp",
       "published": "2026-09-06T00:48:09.166851+07:00",
       "fetched": "2026-09-06T00:48:09.166974+07:00"
+    },
+    {
+      "id": "4ba97fc6093330290b78d81fecded499",
+      "title": "Washington cảnh cáo đồng minh về Iran",
+      "link": "https://thanhnien.vn/washington-canh-cao-dong-minh-ve-iran-185260905210216934.htm",
+      "summary": "Bộ Tài chính Mỹ hôm 4.9 áp đặt lệnh cấm vận lên Ngân hàng đầu tư Golden Global (Thổ Nhĩ Kỳ) và 2 công ty con, loại các tổ chức này khỏi hệ thống tài chính dựa trên USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T21:40:00+07:00",
+      "fetched": "2026-09-06T04:47:36.378730+07:00"
+    },
+    {
+      "id": "b08f2d51fa13b848d41240789c91eee2",
+      "title": "Nhân viên văn phòng làm thêm giúp việc theo giờ",
+      "link": "https://vnexpress.net/nhan-vien-van-phong-lam-them-giup-viec-theo-gio-5116976.html",
+      "summary": "17h30, Mai Trâm rời tòa cao ốc trên phố ở TP HCM, bước vào ca làm tối trong bộ đồng phục nhân viên giúp việc theo giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T21:00:00+07:00",
+      "fetched": "2026-09-06T04:47:33.433354+07:00"
+    },
+    {
+      "id": "2501aff9d6c647df8723eab51afda30e",
+      "title": "Thầy Kim tất bật ‘săn đầu người’ cho đội tuyển Việt Nam, cơ hội nào cho Công Phượng?",
+      "link": "https://thanhnien.vn/thay-kim-san-dau-nguoi-cho-doi-tuyen-viet-nam-co-hoi-nao-cho-cong-phuong-185260905172209026.htm",
+      "summary": "Đội tuyển Việt Nam chuẩn bị vòng quay cạnh tranh mới cùng V-League 2026 - 2027, cụ thể sàng lọc nhân tố mới trong 2 vòng đầu trước khi tập trung trở lại chuẩn bị cho FIFA ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T20:00:00+07:00",
+      "fetched": "2026-09-06T04:47:36.378883+07:00"
     },
     {
       "id": "9a4e1057298ce8eed1f179fbc5066638",
