@@ -1,7 +1,17 @@
 window.newsData_2026_09_06 = {
   "date": "2026-09-06",
-  "lastUpdated": "2026-09-06T00:48:16.394656+07:00",
+  "lastUpdated": "2026-09-06T02:42:49.635987+07:00",
   "articles": [
+    {
+      "id": "89b3a2505d5c38454c9974d99fec798b",
+      "title": "Người đẹp Dominica đăng quang Miss World 2026, Bảo Ngọc dừng chân ở top 6",
+      "link": "https://tuoitre.vn/nguoi-dep-dominica-dang-quang-miss-world-2026-bao-ngoc-dung-chan-o-top-6-100260905215801459.htm",
+      "summary": "Vượt qua 110 đối thủ, người đẹp Cộng hòa Dominica đăng quang Miss World lần thứ 73 năm 2026, tổ chức tại Việt Nam. Hoa hậu Bảo Ngọc dừng chân ở top 6 trong sự tiếc nuối của khán giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:42:40.354433+07:00",
+      "fetched": "2026-09-06T02:42:40.354572+07:00"
+    },
     {
       "id": "fe45e010a0e3d8dc5be7232ac2923fbd",
       "title": "Vụ cuốc xe 2km lấy 70.000 đồng: Yêu cầu doanh nghiệp rút kinh nghiệm",
@@ -151,6 +161,46 @@ window.newsData_2026_09_06 = {
       "category": "Tổng hợp",
       "published": "2026-09-06T00:48:09.166851+07:00",
       "fetched": "2026-09-06T00:48:09.166974+07:00"
+    },
+    {
+      "id": "9a4e1057298ce8eed1f179fbc5066638",
+      "title": "Sắc vóc tân Hoa hậu Thế giới",
+      "link": "https://vnexpress.net/sac-voc-tan-hoa-hau-the-gioi-5117009.html",
+      "summary": "Joheirry Mola Dominguez, 24 tuổi, người Cộng hòa Dominica, là giáo viên kiêm người mẫu, thu hút với nụ cười, sắc vóc khỏe khoắn khi đăng quang Miss World 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T19:04:34+07:00",
+      "fetched": "2026-09-06T02:42:35.008229+07:00"
+    },
+    {
+      "id": "0348cd4894186a1419b141c3e7006ed0",
+      "title": "Haaland chạm mốc 300 bàn cấp CLB",
+      "link": "https://vnexpress.net/haaland-cham-moc-300-ban-cap-clb-5117015.html",
+      "summary": "Erling Haaland ghi bàn thứ 300 ở cấp CLB, với pha lập công duy nhất giúp Man City thắng Coventry City 1-0 ở vòng ba Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T17:55:46+07:00",
+      "fetched": "2026-09-06T02:42:35.008418+07:00"
+    },
+    {
+      "id": "0348cd4894186a1419b141c3e7006ed0",
+      "title": "Haaland chạm mốc 300 bàn cấp CLB",
+      "link": "https://vnexpress.net/haaland-cham-moc-300-ban-cap-clb-5117015.html",
+      "summary": "Erling Haaland ghi bàn thứ 300 ở cấp CLB, với pha lập công duy nhất giúp Man City thắng Coventry City 1-0 ở vòng ba Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-05T17:55:46+07:00",
+      "fetched": "2026-09-06T02:42:49.630931+07:00"
+    },
+    {
+      "id": "4e09cddab0b62bf05236bb3854ba5373",
+      "title": "Hoa hậu, á hậu đội mưa cổ vũ Miss World",
+      "link": "https://vnexpress.net/hoa-hau-a-hau-doi-mua-co-vu-miss-world-5116993.html",
+      "summary": "Hoa hậu Đỗ Mỹ Linh, Lê Hoàng Phương, Krystyna Pyszková và nhiều khán giả che ô, mặc áo mưa cổ vũ 111 thí sinh ở chung kết Miss World 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T17:46:28+07:00",
+      "fetched": "2026-09-06T02:42:35.008586+07:00"
     },
     {
       "id": "fb79939e248193d20f12cda5963b3dd4",
