@@ -1,7 +1,37 @@
 window.newsData_2026_09_07 = {
   "date": "2026-09-07",
-  "lastUpdated": "2026-09-07T00:52:54.251568+07:00",
+  "lastUpdated": "2026-09-07T02:45:45.249321+07:00",
   "articles": [
+    {
+      "id": "96e5278e93b201e7ae377a108f06b8b2",
+      "title": "Arsenal đánh bại Chelsea, giữ mạch toàn thắng ở Premier League",
+      "link": "https://tuoitre.vn/arsenal-danh-bai-chelsea-giu-mach-toan-thang-o-premier-league-100260906114245571.htm",
+      "summary": "Rạng sáng 7-9, Arsenal đã đánh bại Chelsea 2-1 ở vòng 3 Giải ngoại hạng Anh (Premier League) để tiếp tục duy trì chuỗi trận toàn thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T02:45:38.323791+07:00",
+      "fetched": "2026-09-07T02:45:38.323839+07:00"
+    },
+    {
+      "id": "d7e4afa5b5301cce218d0607211445b4",
+      "title": "Việt Nam không thể tạo bất ngờ trước Mỹ ở trận chung kết Pickleball World Cup",
+      "link": "https://tuoitre.vn/viet-nam-khong-the-tao-bat-ngo-truoc-my-o-tran-chung-ket-pickleball-world-cup-100260906220710988.htm",
+      "summary": "Lý Hoàng Nam, Quang Dương, Ken Tâm, Sĩ Bội Ngọc… đã ra sân trong trận chung kết nhưng không thể giúp Việt Nam tạo bất ngờ trước Mỹ ở trận chung kết Pickleball World Cup 2026 vừa kết thúc cách đây ít phút.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T02:45:38.323497+07:00",
+      "fetched": "2026-09-07T02:45:38.323545+07:00"
+    },
+    {
+      "id": "7e527a54fef1834f171130efa765c5e6",
+      "title": "Đặc phái viên Mỹ lạc quan sau cuộc gặp với ông Zelensky",
+      "link": "https://tuoitre.vn/dac-phai-vien-my-lac-quan-sau-cuoc-gap-voi-ong-zelensky-10026090623575666.htm",
+      "summary": "Sau cuộc hội đàm tại Kiev ngày 6-9, đặc phái viên Mỹ Steve Witkoff cho biết phái đoàn Mỹ \"rất phấn khởi\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T02:45:38.323081+07:00",
+      "fetched": "2026-09-07T02:45:38.323230+07:00"
+    },
     {
       "id": "8c8218507353bdbc93e448da8251e2a1",
       "title": "Đăng tin xúc phạm người khác lên mạng xã hội, người phụ nữ bị phạt hơn 6 triệu đồng",
@@ -151,6 +181,56 @@ window.newsData_2026_09_07 = {
       "category": "Tổng hợp",
       "published": "2026-09-07T00:52:44.903333+07:00",
       "fetched": "2026-09-07T00:52:44.903487+07:00"
+    },
+    {
+      "id": "dc07410e586866deb9a0d8583aba5ad1",
+      "title": "6 thói quen có thể làm tăng nguy cơ suy thận",
+      "link": "https://vnexpress.net/6-thoi-quen-co-the-lam-tang-nguy-co-suy-than-5116914.html",
+      "summary": "Nhịn tiểu, không kiểm soát huyết áp và đường huyết, tự dùng kháng sinh có thể âm thầm làm tăng nguy cơ suy thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T19:00:00+07:00",
+      "fetched": "2026-09-07T02:45:33.259043+07:00"
+    },
+    {
+      "id": "1e50066e07f1c028b6a3b3ce4fcbcec0",
+      "title": "Arsenal 2-1 Chelsea",
+      "link": "https://vnexpress.net/arsenal-2-1-chelsea-5117215.html",
+      "summary": "Đội ĐKVĐ ngược dòng giành trọn vẹn ba điểm ở vòng 3 Ngoại hạng Anh, trên sân nhà Emirates ngày 6/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T18:53:12+07:00",
+      "fetched": "2026-09-07T02:45:33.259213+07:00"
+    },
+    {
+      "id": "8614e969e3c105c7169ca2caf2e2dc39",
+      "title": "HLV U20 Việt Nam: 'Xuống hạng là điều đáng tiếc'",
+      "link": "https://vnexpress.net/hlv-u20-viet-nam-xuong-hang-la-dieu-dang-tiec-5117201.html",
+      "summary": "HLV Yutaka Ikeuchi cho rằng đôi khi mọi thứ nằm ngoài tầm kiểm soát sau khi Việt Nam thua Iran 1-3 ở lượt cuối bảng C và phải xuống hạng sau vòng loại U20 châu Á 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T18:47:09+07:00",
+      "fetched": "2026-09-07T02:45:33.259361+07:00"
+    },
+    {
+      "id": "8614e969e3c105c7169ca2caf2e2dc39",
+      "title": "HLV U20 Việt Nam: 'Xuống hạng là điều đáng tiếc'",
+      "link": "https://vnexpress.net/hlv-u20-viet-nam-xuong-hang-la-dieu-dang-tiec-5117201.html",
+      "summary": "HLV Yutaka Ikeuchi cho rằng đôi khi mọi thứ nằm ngoài tầm kiểm soát sau khi Việt Nam thua Iran 1-3 ở lượt cuối bảng C và phải xuống hạng sau vòng loại U20 châu Á 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-06T18:47:09+07:00",
+      "fetched": "2026-09-07T02:45:45.244715+07:00"
+    },
+    {
+      "id": "1110ab8cf627c36adff7c4d29e348d7a",
+      "title": "6 cách giúp cơ thể nhanh vào giấc ngủ",
+      "link": "https://vnexpress.net/6-cach-giup-co-the-nhanh-vao-giac-ngu-5117006.html",
+      "summary": "Thư giãn cơ, viết ra những điều bận tâm, giữ phòng ngủ mát, giảm tiếng ồn và ánh sáng có thể giúp bạn nhanh vào giấc ngủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T18:00:00+07:00",
+      "fetched": "2026-09-07T02:45:33.259505+07:00"
     },
     {
       "id": "e8c1890f9f7a5869c0fad875e0fc9d8a",
