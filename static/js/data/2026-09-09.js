@@ -1,7 +1,107 @@
 window.newsData_2026_09_09 = {
   "date": "2026-09-09",
-  "lastUpdated": "2026-09-09T03:29:26.401814+07:00",
+  "lastUpdated": "2026-09-09T06:45:20.181944+07:00",
   "articles": [
+    {
+      "id": "f860e7bf4196917f4aeda30ab851adda",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm gặp Chủ tịch Đảng Nước Nga Thống nhất Dmitry Medvedev",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-gap-chu-tich-dang-nuoc-nga-thong-nhat-dmitry-medvedev-100260909023635105.htm",
+      "summary": "Ông Dmitry Medvedev khẳng định Đảng Nước Nga Thống nhất và cá nhân ông ủng hộ Nga - Việt Nam mở rộng hợp tác kinh tế, năng lượng, dầu khí, khoa học - công nghệ...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T06:45:11.620068+07:00",
+      "fetched": "2026-09-09T06:45:11.620103+07:00"
+    },
+    {
+      "id": "0bbefa745cd4133c8840cd476817f13e",
+      "title": "Tin tức sáng 9-9: Cán bộ, công chức TP.HCM có thể được nhận thu nhập tăng thêm đến 3 triệu/tháng",
+      "link": "https://tuoitre.vn/tin-tuc-sang-9-9-can-bo-cong-chuc-tphcm-co-the-duoc-nhan-thu-nhap-tang-them-den-3-trieu-thang-100260908225822198.htm",
+      "summary": "Tin tức đáng chú ý: Cán bộ, công chức TP.HCM có thể được nhận thu nhập tăng thêm đến 3 triệu/tháng; Đề xuất người có chức vụ không được lập doanh nghiệp sau khi thôi chức ở 18 lĩnh vực nông nghiệp và môi trường; Hơn 297.000 người nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T06:45:11.620030+07:00",
+      "fetched": "2026-09-09T06:45:11.620062+07:00"
+    },
+    {
+      "id": "64d5003d17ce4a1785023092571b7c65",
+      "title": "Thời tiết hôm nay 9-9: Đợt không khí lạnh đầu tiên tràn về nước ta",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-9-9-dot-khong-khi-lanh-dau-tien-tran-ve-nuoc-ta-100260908163749741.htm",
+      "summary": "Hôm nay 9-9, nước ta đón đợt không khí lạnh đầu tiên trong năm nay, từ chiều trời chuyển mưa ở phía Bắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T06:45:11.619989+07:00",
+      "fetched": "2026-09-09T06:45:11.620024+07:00"
+    },
+    {
+      "id": "ce225ef20181e9b2500f90cd6b8b478a",
+      "title": "Hẹn hò thời 4.0: Từ quẹt app đến thuê người mai mối nhưng vẫn kết hôn muộn",
+      "link": "https://tuoitre.vn/hen-ho-thoi-40-tu-quet-app-den-thue-nguoi-mai-moi-nhung-van-ket-hon-muon-100260908114451164.htm",
+      "summary": "Chỉ vài cú vuốt trên điện thoại, người trẻ có thể làm quen với hàng chục người mới. Từ ứng dụng hẹn hò, mạng xã hội đến các cộng đồng sở thích và dịch vụ mai mối chuyên nghiệp, cách tìm kiếm tình yêu ngày càng đa dạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T06:45:11.619946+07:00",
+      "fetched": "2026-09-09T06:45:11.619982+07:00"
+    },
+    {
+      "id": "b2848974dc2c9982589eb23d66d2c23e",
+      "title": "Lịch trực tiếp Champions League: Liverpool gặp Atletico Madrid, Napoli đụng Arsenal",
+      "link": "https://tuoitre.vn/lich-truc-tiep-champions-league-liverpool-gap-atletico-madrid-napoli-dung-arsenal-100260908163741885.htm",
+      "summary": "Liverpool gặp Atletico Madrid, Napoli đụng Arsenal... sẽ là tâm điểm của loạt trận ở vòng phân hạng Champions League 2026-2027 đêm 9-9 rạng sáng 10-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T06:45:11.619902+07:00",
+      "fetched": "2026-09-09T06:45:11.619940+07:00"
+    },
+    {
+      "id": "b651836eeeaab7db8a5feb5a5d5d42f0",
+      "title": "Thực phẩm nào chứa nhiều muối nhưng lại không có vị mặn?",
+      "link": "https://tuoitre.vn/thuc-pham-nao-chua-nhieu-muoi-nhung-lai-khong-co-vi-man-100260908185833035.htm",
+      "summary": "Thông thường, những thực phẩm có vị mặn là những thực phẩm nhiều muối. Tuy nhiên, có những thực phẩm chứa hàm lượng muối cao nhưng lại không có vị mặn rõ rệt khiến chúng ta khó lòng phân biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T06:45:11.619855+07:00",
+      "fetched": "2026-09-09T06:45:11.619896+07:00"
+    },
+    {
+      "id": "e2656adf7a055ca9b1bd0354bd739dfd",
+      "title": "Real Madrid thắng may Inter Milan ở ngày mở màn Champions League",
+      "link": "https://tuoitre.vn/real-madrid-thang-may-inter-milan-o-ngay-mo-man-champions-league-100260909030421758.htm",
+      "summary": "Rạng sáng 9-9, Real Madrid đã có chiến thắng 2-1 khá may mắn trước Inter Milan ở lượt trận đầu tiên vòng phân hạng Champions League 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T06:45:11.619804+07:00",
+      "fetched": "2026-09-09T06:45:11.619844+07:00"
+    },
+    {
+      "id": "8e4dd8868c39d505b9e5f951b1a8c04b",
+      "title": "Haaland lập cú đúp, Man City đánh bại Porto trên sân khách ở Champions League",
+      "link": "https://tuoitre.vn/haaland-lap-cu-dup-man-city-danh-bai-porto-tren-san-khach-o-champions-league-100260909050540996.htm",
+      "summary": "Rạng sáng 9-9, Man City đã có khởi đầu thuận lợi tại Champions League với chiến thắng 2-0 ngay trên sân của Porto (Bồ Đào Nha) ở lượt đấu đầu tiên vòng phân hạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T06:45:11.619757+07:00",
+      "fetched": "2026-09-09T06:45:11.619797+07:00"
+    },
+    {
+      "id": "59b749ca8a5cae7b55f10742eb682fb6",
+      "title": "Suất ăn bán trú 40.000 đồng nhưng lèo tèo ít giá đỗ và thịt băm, lãnh đạo Hà Nội chỉ đạo kiểm tra",
+      "link": "https://tuoitre.vn/suat-an-ban-tru-40000-dong-nhung-leo-teo-it-gia-do-va-thit-bam-lanh-dao-ha-noi-chi-dao-kiem-tra-100260908223303848.htm",
+      "summary": "UBND TP Hà Nội yêu cầu UBND xã Trung Giã khẩn trương kiểm tra, làm rõ phản ánh về suất ăn bán trú 40.000 đồng tại Trường tiểu học Trung Giã B, báo cáo kết quả trước 15h ngày 9-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T06:45:11.619703+07:00",
+      "fetched": "2026-09-09T06:45:11.619750+07:00"
+    },
+    {
+      "id": "a10c11bc48e6e924b4b8d1d3f145ea5c",
+      "title": "Nga sẽ chuyển giao công nghệ đánh giá năng lực cán bộ cho Việt Nam",
+      "link": "https://tuoitre.vn/nga-se-chuyen-giao-cong-nghe-danh-gia-nang-luc-can-bo-cho-viet-nam-100260909040747228.htm",
+      "summary": "Phía Nga cho rằng dự án đánh giá năng lực quản lý cán bộ, công chức Việt Nam có tiềm năng lớn để tiếp tục mở rộng nên sẽ chuyển giao công nghệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T06:45:11.619568+07:00",
+      "fetched": "2026-09-09T06:45:11.619693+07:00"
+    },
     {
       "id": "fe31d1cf9a5fddbb5c93ef0545c92e16",
       "title": "Đề xuất hạ ngưỡng miễn thuế nhập khẩu đối với hàng hóa giá rẻ",
@@ -171,6 +271,396 @@ window.newsData_2026_09_09 = {
       "category": "Tổng hợp",
       "published": "2026-09-09T00:47:32.513359+07:00",
       "fetched": "2026-09-09T00:47:32.513506+07:00"
+    },
+    {
+      "id": "83dcbc217e16b609f8de4ce58c53ed2c",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Chủ tịch Đảng nước Nga Thống nhất Dmitry Medvedev",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-chu-tich-dang-nuoc-nga-thong-nhat-dmitry-medvedev-185260909013321269.htm",
+      "summary": "Ngày 8.9, Tổng Bí thư, Chủ tịch nước Tô Lâm đã hội kiến Chủ tịch Đảng nước Nga Thống nhất, Phó chủ tịch Hội đồng An ninh Nga Dmitry Medvedev.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T23:43:00+07:00",
+      "fetched": "2026-09-09T06:45:09.737352+07:00"
+    },
+    {
+      "id": "644f74f3b5bcbcaf90b5f20af9ca956a",
+      "title": "Jisoo (BlackPink) gây choáng với bộ trang sức gần 20 tỉ đồng",
+      "link": "https://thanhnien.vn/jisoo-blackpink-gay-choang-voi-bo-trang-suc-gan-20-ti-dong-1852609090620433.htm",
+      "summary": "Jisoo (BlackPink) khiến người hâm mộ trầm trồ với diện mạo thanh lịch tại một bữa tiệc tối. Điểm nhấn trong màn xuất hiện lần này là bộ trang sức xa xỉ được cho là có giá trị hơn 1 tỉ won (gần 20 tỉ đồng), Kbizoom đưa tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T23:40:00+07:00",
+      "fetched": "2026-09-09T06:45:09.737470+07:00"
+    },
+    {
+      "id": "cd7a17725434cd120cd57524837bac7d",
+      "title": "Cảnh Điềm thiệt hại bao nhiêu sau bê bối chấn động với bạn trai cũ tỉ phú?",
+      "link": "https://thanhnien.vn/canh-diem-thiet-hai-bao-nhieu-sau-be-boi-chan-dong-voi-ban-trai-cu-ti-phu-185260909062428436.htm",
+      "summary": "Cảnh Điềm được cho là đang đối mặt với những rủi ro lớn về sự nghiệp và tài chính giữa tranh chấp tiền bạc với tỉ phú Tôn Vũ Thần, khi nhiều hợp đồng quảng cáo và dự án phim của nữ diễn viên có nguy cơ bị hủy bỏ, Kbizoom đưa tin ngày 8.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T23:32:00+07:00",
+      "fetched": "2026-09-09T06:45:09.737570+07:00"
+    },
+    {
+      "id": "4fa49279d605ff03e91e14290fb4a202",
+      "title": "Liên thông tốt dữ liệu đất đai thì làm gì cũng dễ",
+      "link": "https://thanhnien.vn/lien-thong-tot-du-lieu-dat-dai-thi-lam-gi-cung-de-185260908181631682.htm",
+      "summary": "Bạn đọc kỳ vọng việc liên thông cơ sở dữ liệu đất đai, nhà ở và thị trường bất động sản sẽ tạo bước chuyển trong quản lý, góp phần minh bạch các giao dịch và giúp người dân thực hiện thủ tục thuận lợi hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T23:31:00+07:00",
+      "fetched": "2026-09-09T06:45:09.737669+07:00"
+    },
+    {
+      "id": "850bed561f49420bd39904773933b34d",
+      "title": "Haaland giúp Man City thắng trận ra quân Champions League",
+      "link": "https://vnexpress.net/haaland-giup-man-city-thang-tran-ra-quan-champions-league-5118144.html",
+      "summary": "Tiền đạo Erling Haaland lập cú đúp trong hiệp hai, khi Man City hạ Porto 2-0 ở lượt đầu Champions League và chấm dứt chuỗi 33 trận bất bại sân nhà của đối thủ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-08T23:30:05+07:00",
+      "fetched": "2026-09-09T06:45:20.177322+07:00"
+    },
+    {
+      "id": "18628dc5f1d746a8b8a6308b977c0a62",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Chủ tịch Hội đồng Liên bang Nga",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-chu-tich-hoi-dong-lien-bang-nga-185260909014459816.htm",
+      "summary": "Ngày 8.9, Tổng Bí thư, Chủ tịch nước Tô Lâm đã hội kiến Chủ tịch Hội đồng Liên bang Nga V. Matvienko.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T23:30:00+07:00",
+      "fetched": "2026-09-09T06:45:09.737768+07:00"
+    },
+    {
+      "id": "9c8dec4717e8397f54da7031778030e2",
+      "title": "Ông Putin và ông Trump điện đàm 'cực kỳ thẳng thắn' về Ukraine",
+      "link": "https://vnexpress.net/ong-putin-va-ong-trump-dien-dam-cuc-ky-thang-than-ve-ukraine-5118139.html",
+      "summary": "Nga thông báo Tổng thống Putin và người đồng cấp Trump đã có cuộc điện đàm \"cực kỳ thẳng thắn\" kéo dài một giờ về vấn đề Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-08T23:21:28+07:00",
+      "fetched": "2026-09-09T06:45:13.138099+07:00"
+    },
+    {
+      "id": "47b56c76b5ce0e75a5d8f428b217a579",
+      "title": "Việt Nam đề nghị Nga hỗ trợ xây dựng chiến lược lượng tử",
+      "link": "https://vnexpress.net/viet-nam-de-nghi-nga-ho-tro-xay-dung-chien-luoc-luong-tu-5118134.html",
+      "summary": "Bộ trưởng Vũ Hải Quân đề nghị Nga hỗ trợ xây dựng chiến lược phát triển công nghệ lượng tử, đồng thời hình thành trung tâm nghiên cứu chung về các công nghệ chiến lược.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-08T23:21:15+07:00",
+      "fetched": "2026-09-09T06:45:18.217048+07:00"
+    },
+    {
+      "id": "ecedd1071148c5d7862302dd460d3d35",
+      "title": "Quy định rõ ràng để doanh nghiệp an tâm đầu tư",
+      "link": "https://thanhnien.vn/quy-dinh-ro-rang-de-doanh-nghiep-an-tam-dau-tu-185260908211005703.htm",
+      "summary": "Ngày 8.9, Chủ tịch UBND TP.HCM Nguyễn Văn Được chủ trì buổi làm việc với Liên đoàn Doanh nghiệp TP.HCM về dự thảo các văn bản triển khai luật Phát triển đô thị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T23:20:00+07:00",
+      "fetched": "2026-09-09T06:45:09.737864+07:00"
+    },
+    {
+      "id": "4a3ad4c7d40b9483a796f24ccae241bd",
+      "title": "Định hình các cực tăng trưởng du lịch",
+      "link": "https://thanhnien.vn/dinh-hinh-cac-cuc-tang-truong-du-lich-185260908224211852.htm",
+      "summary": "Nghị quyết 26 xác định Hà Nội, TP.HCM, Đà Nẵng là các cực tăng trưởng mạnh, đồng thời từng bước đưa Phú Quốc trở thành cực tăng trưởng mới, tạo lực kéo cho du lịch VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T23:19:00+07:00",
+      "fetched": "2026-09-09T06:45:09.737961+07:00"
+    },
+    {
+      "id": "d1a75a3a382fbf55ee72ed2a247c5e11",
+      "title": "Chỉ định tạm thời 2 đơn vị cấp “tem an toàn” ghế trẻ em trên ô tô",
+      "link": "https://thanhnien.vn/chi-dinh-tam-thoi-2-don-vi-cap-tem-an-toan-ghe-tre-em-tren-o-to-185260908224542536.htm",
+      "summary": "Việc chỉ định 2 đơn vị thử nghiệm diễn ra trong bối cảnh từ 1.7, quy định mới về sử dụng thiết bị an toàn cho trẻ em trên ô tô tại luật Sửa đổi, bổ sung một số điều của 10 luật có liên quan an ninh, trật tự cũng được áp dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T23:17:00+07:00",
+      "fetched": "2026-09-09T06:45:09.738056+07:00"
+    },
+    {
+      "id": "214088f2b9bdbf4c51590aa8bd013bad",
+      "title": "Trường sư phạm mở rộng đào tạo giáo viên dạy song ngữ",
+      "link": "https://thanhnien.vn/truong-su-pham-mo-rong-dao-tao-giao-vien-day-song-ngu-185260908211357648.htm",
+      "summary": "Để thực hiện chủ trương đưa tiếng Anh trở thành ngôn ngữ thứ hai, một số trường ĐH đã thực hiện đồng thời nhiều giải pháp chuẩn bị đội ngũ giáo viên (GV) dạy tiếng Anh và dạy các môn học khác bằng tiếng Anh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T23:15:00+07:00",
+      "fetched": "2026-09-09T06:45:09.738149+07:00"
+    },
+    {
+      "id": "01084d8a23aa8d03ad07336204556b2d",
+      "title": "VN đánh giá cao đóng góp của các tập đoàn Hàn Quốc",
+      "link": "https://thanhnien.vn/vn-danh-gia-cao-dong-gop-cua-cac-tap-doan-han-quoc-185260908224950933.htm",
+      "summary": "Trong khuôn khổ chuyến thăm chính thức Hàn Quốc, chiều 8.9 theo giờ địa phương, tại thủ đô Seoul, Chủ tịch Quốc hội Trần Thanh Mẫn đã tiếp lãnh đạo một số tập đoàn lớn của Hàn Quốc đang đầu tư tại VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T23:12:00+07:00",
+      "fetched": "2026-09-09T06:45:09.738255+07:00"
+    },
+    {
+      "id": "c51a1ce6e6c7859c3454fd4a4134fa5f",
+      "title": "Bảo đảm nguồn cung thuốc với giá thành hợp lý",
+      "link": "https://thanhnien.vn/bao-dam-nguon-cung-thuoc-voi-gia-thanh-hop-ly-185260908231657396.htm",
+      "summary": "Chiều 8.9, Thủ tướng Lê Minh Hưng chủ trì cuộc làm việc với Bộ Y tế và các bộ ngành, cơ quan liên quan về Dự án luật sửa đổi, bổ sung một số luật trong lĩnh vực y tế trình Quốc hội tại Kỳ họp thứ 2 (tháng 10.2026); đặc biệt là nội dung về quản lý, phân phối thuốc, thiết bị y tế và khám chữa bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T23:11:00+07:00",
+      "fetched": "2026-09-09T06:45:09.738358+07:00"
+    },
+    {
+      "id": "4c76b18cda8ff2c14f7c8f800f923ac5",
+      "title": "Nga mong muốn tiếp tục phát triển hợp tác với Việt Nam trong lĩnh vực năng lượng",
+      "link": "https://thanhnien.vn/nga-mong-muon-tiep-tuc-phat-trien-hop-tac-voi-viet-nam-trong-linh-vuc-nang-luong-185260909003305163.htm",
+      "summary": "Ngày 8.9, Tổng Bí thư, Chủ tịch nước Tô Lâm đã hội kiến Thủ tướng Nga Mikhail Mishustin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T23:10:00+07:00",
+      "fetched": "2026-09-09T06:45:09.738448+07:00"
+    },
+    {
+      "id": "09baa7ede982c175d0f25e062ebf911e",
+      "title": "Đinh tút, thế giới khác của đại ngàn",
+      "link": "https://thanhnien.vn/dinh-tut-the-gioi-khac-cua-dai-ngan-185260908184757793.htm",
+      "summary": "Sâu bên trong các bản làng của đồng bào dân tộc thiểu số dọc miền Trường Sơn - Tây nguyên, có những cây lồ ô, nứa, những hòn đá ghép lại và thậm chí cành lá mì, thanh sắt mỏng… cũng thành nhạc cụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T23:10:00+07:00",
+      "fetched": "2026-09-09T06:45:09.738541+07:00"
+    },
+    {
+      "id": "7bc1accbe698d914635d53c51f1e59d4",
+      "title": "Khánh Hòa kêu gọi hiến tặng hiện vật, tư liệu cho Bảo tàng Trường Sa",
+      "link": "https://thanhnien.vn/khanh-hoa-keu-goi-hien-tang-hien-vat-tu-lieu-cho-bao-tang-truong-sa-185260908185424997.htm",
+      "summary": "Ngày 8.9, UBND tỉnh Khánh Hòa cho biết sẽ phát động thư ngỏ kêu gọi các tổ chức, cá nhân trong và ngoài nước hiến tặng hiện vật, tư liệu phục vụ trưng bày Bảo tàng Trường Sa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T23:09:00+07:00",
+      "fetched": "2026-09-09T06:45:09.738630+07:00"
+    },
+    {
+      "id": "73448710c47cc9312999a3856c6e9e2c",
+      "title": "Quan hệ Việt - Nga có độ tin cậy cao",
+      "link": "https://thanhnien.vn/quan-he-viet-nga-co-do-tin-cay-cao-185260908231412095.htm",
+      "summary": "Trong khuôn khổ chuyến thăm cấp Nhà nước tới Liên bang Nga, ngày 8.9 (theo giờ địa phương), tại thủ đô Moskva, Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp tục có nhiều hoạt động quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T23:08:00+07:00",
+      "fetched": "2026-09-09T06:45:09.738717+07:00"
+    },
+    {
+      "id": "21b1034b6fe7a0112b28cbc6a99e0bc5",
+      "title": "Điểm tin 6h: Loạt ngân hàng triển khai cộng thêm lãi suất | Messi được đề cử Quả Bóng Vàng 2026",
+      "link": "https://vnexpress.net/diem-tin-6h-loat-ngan-hang-trien-khai-cong-them-lai-suat-messi-duoc-de-cu-qua-bong-vang-2026-5118140.html",
+      "summary": "Trung Quốc mua hơn 20 tấn vàng dự trữ; Nepal yêu cầu đền bù 20 triệu USD sau trận lũ quét...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T23:02:22+07:00",
+      "fetched": "2026-09-09T06:45:06.699038+07:00"
+    },
+    {
+      "id": "1bd12c8713363b1567a392bfb0eefcab",
+      "title": "Tăng mức đóng bảo hiểm y tế, bạn được gì?",
+      "link": "https://vnexpress.net/tang-muc-dong-bao-hiem-y-te-ban-duoc-gi-5118097.html",
+      "summary": "Bộ Y tế đề xuất tăng mức đóng BHYT từ 4,5% lên 5,1% từ tháng 7 và tăng dần lên 6% vào năm 2033, người lao động sẽ phải đóng thêm nhưng được mở rộng nhiều quyền lợi khám chữa bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T23:00:00+07:00",
+      "fetched": "2026-09-09T06:45:06.699167+07:00"
+    },
+    {
+      "id": "b245511e6ed7e21d6a952a12a5537fa5",
+      "title": "Nỗi khổ của cô gái mắc bệnh dị ứng nước",
+      "link": "https://vnexpress.net/noi-kho-cua-co-gai-mac-benh-di-ung-nuoc-5117898.html",
+      "summary": "Mắc hội chứng dị ứng hiếm gặp, Abigail Beck, 19 tuổi, bị nổi mẩn, bỏng rát và buồn nôn mỗi khi tắm rửa, đổ mồ hôi hoặc khóc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T23:00:00+07:00",
+      "fetched": "2026-09-09T06:45:06.699297+07:00"
+    },
+    {
+      "id": "59ccaa50062987e82eb675058a5745ed",
+      "title": "Vòng xoáy nợ nần bào mòn tâm lý",
+      "link": "https://vnexpress.net/vong-xoay-no-nan-bao-mon-tam-ly-5115928.html",
+      "summary": "4h sáng, Tuân mở bảng ghi chú trong máy tính và cộng lại một lần nữa, con số cuối cùng ra vài tỷ đồng, gồm các khoản vay từ ngân hàng, tín dụng 'đen' và người nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T23:00:00+07:00",
+      "fetched": "2026-09-09T06:45:06.699415+07:00"
+    },
+    {
+      "id": "389fe056943ff69516cfe9b8edfa468f",
+      "title": "Xe điện mới của Volkswagen 'cháy hàng', khách phải chờ 10 tháng",
+      "link": "https://vnexpress.net/xe-dien-moi-cua-volkswagen-chay-hang-khach-phai-cho-10-thang-5117841.html",
+      "summary": "Hơn 30.000 đơn hàng khiến thời gian giao xe ID. Polo kéo dài gần một năm, khi dây chuyền sản xuất rơi vào tình trạng quá tải nghiêm trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T23:00:00+07:00",
+      "fetched": "2026-09-09T06:45:06.699521+07:00"
+    },
+    {
+      "id": "130d6f20f36f601e71be5570ede06e1f",
+      "title": "Messi mua CLB hạng Nhì Tây Ban Nha",
+      "link": "https://vnexpress.net/messi-mua-clb-hang-nhi-tay-ban-nha-5118137.html",
+      "summary": "Lionel Messi đạt thỏa thuận về nguyên tắc để mua 100% cổ phần Eldense, CLB đang thi đấu tại giải hạng hai Tây Ban Nha, sau khi đã sở hữu một đội bóng ở hạng Năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T22:41:03+07:00",
+      "fetched": "2026-09-09T06:45:06.699620+07:00"
+    },
+    {
+      "id": "130d6f20f36f601e71be5570ede06e1f",
+      "title": "Messi mua CLB hạng Nhì Tây Ban Nha",
+      "link": "https://vnexpress.net/messi-mua-clb-hang-nhi-tay-ban-nha-5118137.html",
+      "summary": "Lionel Messi đạt thỏa thuận về nguyên tắc để mua 100% cổ phần Eldense, CLB đang thi đấu tại giải hạng hai Tây Ban Nha, sau khi đã sở hữu một đội bóng ở hạng Năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-08T22:41:03+07:00",
+      "fetched": "2026-09-09T06:45:20.177663+07:00"
+    },
+    {
+      "id": "235ed4e941dae7aebc65d2dadbce957a",
+      "title": "Mourinho khó chịu với Raul Gonzalez",
+      "link": "https://vnexpress.net/mourinho-kho-chiu-voi-raul-gonzalez-5118138.html",
+      "summary": "HLV Jose Mourinho tỏ vẻ không hài lòng khi cựu tiền đạo Raul Gonzalez chỉ ra những sai lầm giúp Real Madrid thắng Inter 2-1 ở Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T22:35:54+07:00",
+      "fetched": "2026-09-09T06:45:06.699717+07:00"
+    },
+    {
+      "id": "235ed4e941dae7aebc65d2dadbce957a",
+      "title": "Mourinho khó chịu với Raul Gonzalez",
+      "link": "https://vnexpress.net/mourinho-kho-chiu-voi-raul-gonzalez-5118138.html",
+      "summary": "HLV Jose Mourinho tỏ vẻ không hài lòng khi cựu tiền đạo Raul Gonzalez chỉ ra những sai lầm giúp Real Madrid thắng Inter 2-1 ở Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-08T22:35:54+07:00",
+      "fetched": "2026-09-09T06:45:20.177765+07:00"
+    },
+    {
+      "id": "f53c2add03970440540de15cf9ff9580",
+      "title": "Gần 60% học sinh Việt chưa đạt mức đọc hiểu cơ bản",
+      "link": "https://vnexpress.net/ket-qua-pisa-2025-cua-hoc-sinh-viet-nam-gan-60-khong-dat-muc-co-ban-o-ky-nang-doc-hieu-5118104.html",
+      "summary": "59% học sinh Việt Nam không thể dùng kiến thức và thông tin đọc hiểu để xử lý tình huống thực tế, theo bài thi dành cho lứa tuổi 15 của OECD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T22:05:00+07:00",
+      "fetched": "2026-09-09T06:45:06.699821+07:00"
+    },
+    {
+      "id": "29135d7df51193bbafaa6ef1d3b77a6f",
+      "title": "Bác sĩ Mỹ gợi ý 4 thói quen sống thọ không tốn một xu",
+      "link": "https://vnexpress.net/bac-si-my-goi-y-4-thoi-quen-song-tho-khong-ton-mot-xu-5117977.html",
+      "summary": "Thay vì đầu tư vào các phương pháp đắt đỏ, chuyên gia y học tái tạo và trường thọ khuyên bắt đầu hành trình sống khỏe bằng 4 thói quen sinh hoạt khoa học trong đời sống hàng ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T22:00:00+07:00",
+      "fetched": "2026-09-09T06:45:06.699923+07:00"
+    },
+    {
+      "id": "67ea8f7df1ca2c248081a6b26dbad143",
+      "title": "Sếp OpenAI: 'Chưa ai sẵn sàng cho hệ quả của AI'",
+      "link": "https://vnexpress.net/sep-openai-chua-ai-san-sang-cho-he-qua-cua-ai-5117866.html",
+      "summary": "Jakub Pachocki, nhà khoa học trưởng của OpenAI, cho rằng các phòng thí nghiệm cần tự nguyện giảm tốc độ phát triển AI do thế giới chưa sẵn sàng ứng phó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T22:00:00+07:00",
+      "fetched": "2026-09-09T06:45:06.700022+07:00"
+    },
+    {
+      "id": "52a5cffcb80b650f6b40a28e08521539",
+      "title": "Greenland 'biến nguy thành cơ' sau lời đe dọa của ông Trump",
+      "link": "https://vnexpress.net/greenland-bien-nguy-thanh-co-sau-loi-de-doa-cua-ong-trump-5117697.html",
+      "summary": "Greenland đã biến lời đe dọa kiểm soát của Tổng thống Trump thành đòn bẩy giúp hòn đảo thu hút vốn đầu tư và tăng vị thế đàm phán với châu Âu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T22:00:00+07:00",
+      "fetched": "2026-09-09T06:45:06.700117+07:00"
+    },
+    {
+      "id": "2cb1a563458af7e093db842933295d59",
+      "title": "Giải thể công ty không có doanh thu phải nộp bao nhiêu phí, phạt?",
+      "link": "https://vnexpress.net/giai-the-cong-ty-khong-co-doanh-thu-phai-nop-bao-nhieu-phi-phat-5117609.html",
+      "summary": "Theo chuyên gia, doanh nghiệp \"thả trôi\" và không có doanh thu nhiều năm khi giải thể phải đóng lệ phí môn bài còn thiếu, tiền chậm nộp và phạt vi phạm hành chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T22:00:00+07:00",
+      "fetched": "2026-09-09T06:45:06.700213+07:00"
+    },
+    {
+      "id": "907d38e1166ea4278d0ba1f8c9b0ecf0",
+      "title": "Hàng chục hố bom 'lộ diện' khi hồ Trị An cạn nước",
+      "link": "https://vnexpress.net/hang-chuc-ho-bom-lo-dien-khi-ho-tri-an-can-nuoc-5117599.html",
+      "summary": "Lòng hồ Trị An cạn nước bất ngờ lộ ra hàng chục hố bom còn sót lại thời chiến tranh ở ấp 2 Mã Đà, phường Trị An.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T22:00:00+07:00",
+      "fetched": "2026-09-09T06:45:06.700319+07:00"
+    },
+    {
+      "id": "a14059b29cb2406fed010191b02f36c5",
+      "title": "'Buồng đôi' trên xe giường nằm: Lợi bất cập hại",
+      "link": "https://vnexpress.net/buong-doi-tren-xe-giuong-nam-loi-bat-cap-hai-5117863.html",
+      "summary": "\"Buồng đôi\" đáp ứng nhu cầu hai người ở cùng khoang, nhưng có thể đánh đổi sự thoải mái, an toàn, dẫn đến vi phạm nếu chở quá số người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T22:00:00+07:00",
+      "fetched": "2026-09-09T06:45:06.700415+07:00"
+    },
+    {
+      "id": "52a5cffcb80b650f6b40a28e08521539",
+      "title": "Greenland 'biến nguy thành cơ' sau lời đe dọa của ông Trump",
+      "link": "https://vnexpress.net/greenland-bien-nguy-thanh-co-sau-loi-de-doa-cua-ong-trump-5117697.html",
+      "summary": "Greenland đã biến lời đe dọa kiểm soát của Tổng thống Trump thành đòn bẩy giúp hòn đảo thu hút vốn đầu tư và tăng vị thế đàm phán với châu Âu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-08T22:00:00+07:00",
+      "fetched": "2026-09-09T06:45:13.138220+07:00"
+    },
+    {
+      "id": "2cb1a563458af7e093db842933295d59",
+      "title": "Giải thể công ty không có doanh thu phải nộp bao nhiêu phí, phạt?",
+      "link": "https://vnexpress.net/giai-the-cong-ty-khong-co-doanh-thu-phai-nop-bao-nhieu-phi-phat-5117609.html",
+      "summary": "Theo chuyên gia, doanh nghiệp \"thả trôi\" và không có doanh thu nhiều năm khi giải thể phải đóng lệ phí môn bài còn thiếu, tiền chậm nộp và phạt vi phạm hành chính.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-08T22:00:00+07:00",
+      "fetched": "2026-09-09T06:45:14.985016+07:00"
+    },
+    {
+      "id": "67ea8f7df1ca2c248081a6b26dbad143",
+      "title": "Sếp OpenAI: 'Chưa ai sẵn sàng cho hệ quả của AI'",
+      "link": "https://vnexpress.net/sep-openai-chua-ai-san-sang-cho-he-qua-cua-ai-5117866.html",
+      "summary": "Jakub Pachocki, nhà khoa học trưởng của OpenAI, cho rằng các phòng thí nghiệm cần tự nguyện giảm tốc độ phát triển AI do thế giới chưa sẵn sàng ứng phó.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-08T22:00:00+07:00",
+      "fetched": "2026-09-09T06:45:18.217166+07:00"
+    },
+    {
+      "id": "f98016168b0089d7932717fa959b3430",
+      "title": "Mbappe giúp Real thắng nhọc Inter ở Champions League",
+      "link": "https://vnexpress.net/mbappe-giup-real-thang-nhoc-inter-o-champions-league-5118136.html",
+      "summary": "Kylian Mbappe và Federico Valverde tận dụng sai lầm của Inter để giúp chủ nhà Real Madrid thắng 2-1, ở lượt đầu vòng phân hạng Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T21:14:37+07:00",
+      "fetched": "2026-09-09T06:45:06.700518+07:00"
+    },
+    {
+      "id": "f98016168b0089d7932717fa959b3430",
+      "title": "Mbappe giúp Real thắng nhọc Inter ở Champions League",
+      "link": "https://vnexpress.net/mbappe-giup-real-thang-nhoc-inter-o-champions-league-5118136.html",
+      "summary": "Kylian Mbappe và Federico Valverde tận dụng sai lầm của Inter để giúp chủ nhà Real Madrid thắng 2-1, ở lượt đầu vòng phân hạng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-08T21:14:37+07:00",
+      "fetched": "2026-09-09T06:45:20.177449+07:00"
     },
     {
       "id": "26e4585f76f5b98e0e7a27ac52e0a6bb",
