@@ -1,7 +1,27 @@
 window.newsData_2026_09_09 = {
   "date": "2026-09-09",
-  "lastUpdated": "2026-09-09T00:47:38.907297+07:00",
+  "lastUpdated": "2026-09-09T03:29:26.401814+07:00",
   "articles": [
+    {
+      "id": "fe31d1cf9a5fddbb5c93ef0545c92e16",
+      "title": "Đề xuất hạ ngưỡng miễn thuế nhập khẩu đối với hàng hóa giá rẻ",
+      "link": "https://tuoitre.vn/de-xuat-ha-nguong-mien-thue-nhap-khau-doi-voi-hang-hoa-gia-re-100260908235236904.htm",
+      "summary": "Cục Hải quan vừa thông tin chi tiết đề xuất giảm ngưỡng miễn thuế nhập khẩu đối với hàng hóa có tổng trị giá hải quan từ 100.000 đồng trở xuống, thay cho mức hiện hành 1 triệu đồng, trước làn sóng hàng hóa giá rẻ từ thương mại điện tử xuyên biên giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T03:29:17.481997+07:00",
+      "fetched": "2026-09-09T03:29:17.482072+07:00"
+    },
+    {
+      "id": "fa06fed6c5e1038233f34f7a7e469dab",
+      "title": "Đối thủ bỏ cuộc, Hải Đăng đi tiếp ở Vietnam Open 2026",
+      "link": "https://tuoitre.vn/doi-thu-bo-cuoc-hai-dang-di-tiep-o-vietnam-open-2026-100260908234637708.htm",
+      "summary": "Tối 8-9, Nguyễn Hải Đăng giành vé vào vòng 2 đơn nam Giải cầu lông Vietnam Open 2026 sau khi đối thủ Malaysia Cheam June Wei bỏ cuộc vì chấn thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T03:29:17.481886+07:00",
+      "fetched": "2026-09-09T03:29:17.481983+07:00"
+    },
     {
       "id": "037156f80fccd1d39a06fe4cfe85d044",
       "title": "Giả shipper, xây dựng kịch bản ba tuyến để lừa lấy gần 400 triệu đồng",
@@ -151,6 +171,116 @@ window.newsData_2026_09_09 = {
       "category": "Tổng hợp",
       "published": "2026-09-09T00:47:32.513359+07:00",
       "fetched": "2026-09-09T00:47:32.513506+07:00"
+    },
+    {
+      "id": "26e4585f76f5b98e0e7a27ac52e0a6bb",
+      "title": "Con nhận ra mình không bị bỏ lại phía sau",
+      "link": "https://thanhnien.vn/con-nhan-ra-minh-khong-bi-bo-lai-phia-sau-185260908101248974.htm",
+      "summary": "\"Mỗi lần cầm bút học bài hay đối mặt với những kỳ thi căng thẳng, hình ảnh mẹ miệt mài làm việc và sự tin tưởng của các cô chú Báo Thanh Niên lại trở thành động lực to lớn nhất thúc đẩy con\". Đó là lời tâm tình của em Trương Văn Tâm gửi đến Báo Thanh Niên trong Lá thư tâm sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T20:20:00+07:00",
+      "fetched": "2026-09-09T03:29:15.390013+07:00"
+    },
+    {
+      "id": "b22ee6dfc6d82aed8cf93fd9bfb992af",
+      "title": "Con đã tự hứa với lòng rằng phải học thật giỏi",
+      "link": "https://thanhnien.vn/con-da-tu-hua-voi-long-rang-phai-hoc-that-gioi-185260908095506149.htm",
+      "summary": "\"Con đã tự hứa với lòng rằng phải học thật giỏi, dù ba có đi xa hay ở nơi đâu, ba vẫn luôn luôn ở bên cạnh con và em mọi lúc mọi nơi vì ước nguyện của ba là được nhìn thấy chúng con thành công\". Lá thư tâm sự của em Nguyễn Ngọc Thiên Kim học sinh lớp 9, viết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T20:20:00+07:00",
+      "fetched": "2026-09-09T03:29:15.390176+07:00"
+    },
+    {
+      "id": "8114be2efc1cd74b61e68c734bb8e2cc",
+      "title": "Tính kịp thời và thực tế từ một chương trình thiện nguyện",
+      "link": "https://thanhnien.vn/tinh-kip-thoi-va-thuc-te-tu-mot-chuong-trinh-thien-nguyen-185260908193634128.htm",
+      "summary": "Cuối tháng 9.2021, như một cơ duyên, tôi được các anh trong Ban biên tập Báo Thanh Niên gọi điện và mời tham gia chương trình Cùng con đi tiếp cuộc đời, với ý nghĩa hợp tác, đồng hành trợ giúp về mặt pháp lý cho chương trình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T20:19:00+07:00",
+      "fetched": "2026-09-09T03:29:15.390331+07:00"
+    },
+    {
+      "id": "871bbfbad85240ac3d423ba1400d5f46",
+      "title": "Đội tuyển U.23 Việt Nam quyết tâm tiến sâu tại ASIAD 20",
+      "link": "https://thanhnien.vn/doi-tuyen-u23-viet-nam-quyet-tam-tien-sau-tai-asiad-20-185260908224407985.htm",
+      "summary": "Dù HLV Kim Sang-sik không trực tiếp dẫn dắt, nhưng đội tuyển U.23 VN quyết tâm tiến sâu tại ASIAD 20 khi có gần như đội hình mạnh nhất từng đoạt HCĐ VCK U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T19:48:00+07:00",
+      "fetched": "2026-09-09T03:29:15.390478+07:00"
+    },
+    {
+      "id": "5bfb70426c9b8c9956c890c40ab89fdb",
+      "title": "'Tuần lễ Champions League' với các trận cầu sôi động",
+      "link": "https://thanhnien.vn/tuan-le-champions-league-voi-cac-tran-cau-soi-dong-185260908223550773.htm",
+      "summary": "Bóng đá châu Âu đang trải qua 'tuần lễ Champions League' - sự kiện mỗi năm có đúng 1 lần, với các trận đấu thuộc Champions League được trải dài trong suốt 3 ngày giữa tuần. Đấy chính là vòng đấu khai mạc ở giải đấu \"tối thượng\" này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T19:46:00+07:00",
+      "fetched": "2026-09-09T03:29:15.390660+07:00"
+    },
+    {
+      "id": "0ade7637393428e70e39081ba73c33c9",
+      "title": "Ba loại bài tập hỗ trợ kiểm soát huyết áp cao",
+      "link": "https://vnexpress.net/ba-loai-bai-tap-ho-tro-kiem-soat-huyet-ap-cao-5117966.html",
+      "summary": "Đi bộ nhanh, đạp xe, tập sức mạnh hoặc một số bài tập cường độ cao ngắt quãng có thể giúp hạ huyết áp khi được duy trì đều đặn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T19:00:00+07:00",
+      "fetched": "2026-09-09T03:29:12.241096+07:00"
+    },
+    {
+      "id": "91685d848202064aec26842f423b5ac3",
+      "title": "5 thực phẩm nên dùng sau tuổi 40 để hạn chế tích mỡ bụng",
+      "link": "https://vnexpress.net/5-thuc-pham-nen-dung-sau-tuoi-40-de-han-che-tich-mo-bung-5117931.html",
+      "summary": "Cá béo, trứng, sữa chua không đường, các loại đậu và trà xanh giúp tăng cảm giác no, hạn chế tích tụ mỡ bụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T18:00:00+07:00",
+      "fetched": "2026-09-09T03:29:12.241272+07:00"
+    },
+    {
+      "id": "097ac766004069e408a9db6443252d87",
+      "title": "Mẫu tên lửa đạn đạo Iran buộc tàu sân bay Mỹ cơ động né tránh",
+      "link": "https://vnexpress.net/mau-ten-lua-dan-dao-iran-buoc-tau-san-bay-my-co-dong-ne-tranh-5117714.html",
+      "summary": "Iran dường như đã phóng tên lửa Qasem Basir, được mô tả là \"bước ngoặt trong chiến lược quốc phòng\", và buộc tàu sân bay Mỹ né tránh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T18:00:00+07:00",
+      "fetched": "2026-09-09T03:29:12.241434+07:00"
+    },
+    {
+      "id": "097ac766004069e408a9db6443252d87",
+      "title": "Mẫu tên lửa đạn đạo Iran buộc tàu sân bay Mỹ cơ động né tránh",
+      "link": "https://vnexpress.net/mau-ten-lua-dan-dao-iran-buoc-tau-san-bay-my-co-dong-ne-tranh-5117714.html",
+      "summary": "Iran dường như đã phóng tên lửa Qasem Basir, được mô tả là \"bước ngoặt trong chiến lược quốc phòng\", và buộc tàu sân bay Mỹ né tránh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-08T18:00:00+07:00",
+      "fetched": "2026-09-09T03:29:18.954770+07:00"
+    },
+    {
+      "id": "15242b61daa0eddea8d3cbd47075f723",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Thủ tướng Nga",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-thu-tuong-nga-5118120.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm và Thủ tướng Nga nhất trí khoa học - công nghệ là lĩnh vực nhiều tiềm năng để trở thành động lực mới cho quan hệ song phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-08T17:38:43+07:00",
+      "fetched": "2026-09-09T03:29:12.241632+07:00"
+    },
+    {
+      "id": "15242b61daa0eddea8d3cbd47075f723",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Thủ tướng Nga",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-thu-tuong-nga-5118120.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm và Thủ tướng Nga nhất trí khoa học - công nghệ là lĩnh vực nhiều tiềm năng để trở thành động lực mới cho quan hệ song phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-08T17:38:43+07:00",
+      "fetched": "2026-09-09T03:29:18.954941+07:00"
     },
     {
       "id": "a907aba20656e53e98a751316d72a2dc",
