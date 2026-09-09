@@ -1,7 +1,87 @@
 window.newsData_2026_09_10 = {
   "date": "2026-09-10",
-  "lastUpdated": "2026-09-10T01:55:51.608405+07:00",
+  "lastUpdated": "2026-09-10T05:06:39.801126+07:00",
   "articles": [
+    {
+      "id": "522e10f4d2471386317af51338ad34ca",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm nhận Giải thưởng Hòa bình quốc tế Lev Tolstoy 2026 tại Điện Kremlin",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-nhan-giai-thuong-hoa-binh-quoc-te-lev-tolstoy-2026-tai-dien-kremlin-100260909220424049.htm",
+      "summary": "Lễ trao tặng Giải thưởng Hòa bình quốc tế Lev Tolstoy 2026 cho Tổng Bí thư, Chủ tịch nước Tô Lâm tại Điện Kremlin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T05:06:11.037280+07:00",
+      "fetched": "2026-09-10T05:06:11.037340+07:00"
+    },
+    {
+      "id": "cf87cd91765c112a98b7ca60e84f0860",
+      "title": "Vì sao sấm chớp rung trời chiều 9-9 ở TP.HCM?",
+      "link": "https://tuoitre.vn/vi-sao-sam-chop-rung-troi-chieu-9-9-o-tphcm-100260909195744684.htm",
+      "summary": "Chiều 9-9, trong trận mưa to tại TP.HCM và các tỉnh lân cận, sấm chớp rền vang trời, hiện tượng này xảy ra dồn dập với tần suất nhiều hơn bình thường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T05:06:11.037213+07:00",
+      "fetched": "2026-09-10T05:06:11.037269+07:00"
+    },
+    {
+      "id": "aa6bde1d2387fa4c7c1608f8cc6ada40",
+      "title": "Hơn 1 tỉ đồng ‘tiền nợ’ tòa bác nhờ tin nhắn Zalo: Phải lưu giữ tin nhắn làm bằng chứng",
+      "link": "https://tuoitre.vn/hon-1-ti-dong-tien-no-toa-bac-nho-tin-nhan-zalo-phai-luu-giu-tin-nhan-lam-bang-chung-10026090814192647.htm",
+      "summary": "Tin nhắn Zalo, Messenger, email là những tài liệu điện tử có giá trị chứng cứ trước tòa, cần biết cách lưu trữ để dùng khi cần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T05:06:11.037148+07:00",
+      "fetched": "2026-09-10T05:06:11.037203+07:00"
+    },
+    {
+      "id": "a2e6f54eb1f41569c619ec63add26c7e",
+      "title": "Thời tiết hôm nay 10-9: Lũ về sông Cửu Long; cả nước mưa dông",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-10-9-lu-ve-song-cuu-long-ca-nuoc-mua-dong-100260909160901431.htm",
+      "summary": "Hôm nay 10-9, thời tiết cả nước mưa dông nhiều nơi, có nơi mưa to đến rất to. Miền Tây Nam Bộ lũ về các sông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T05:06:11.037080+07:00",
+      "fetched": "2026-09-10T05:06:11.037138+07:00"
+    },
+    {
+      "id": "973e6f612f806d90f1e40255a2766ba7",
+      "title": "Tin tức sáng 10-9: TP.HCM phê duyệt kiến trúc Bệnh viện Chấn thương tại xã Tân Nhựt",
+      "link": "https://tuoitre.vn/tin-tuc-sang-10-9-tphcm-phe-duyet-kien-truc-benh-vien-chan-thuong-tai-xa-tan-nhut-100260909162607041.htm",
+      "summary": "Một số tin tức đáng chú ý về TP.HCM: Thúc đẩy các giải pháp dữ liệu mở cho tài nguyên môi trường; Khánh thành 'Vườn cây đại đoàn kết' ven dự án rạch Xuyên Tâm; Công nhận Hội đồng quản lý Quỹ Hỗ trợ phụ nữ phát triển kinh tế; Phường Bình Thạnh ra mắt 10 tổ tự quản về phòng cháy, chữa cháy; Phê duyệt ...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T05:06:11.037015+07:00",
+      "fetched": "2026-09-10T05:06:11.037070+07:00"
+    },
+    {
+      "id": "eaaafa6b33e865e93ad28c18b4f37161",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Nga Vladimir Putin",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-thong-nga-vladimir-putin-100260910020631053.htm",
+      "summary": "Ngày 9-9, tại Điện Kremlin, sau lễ đón trọng thị với nghi thức cấp Nhà nước, Tổng Bí thư, Chủ tịch nước Tô Lâm đã hội đàm với Tổng thống Nga Vladimir Putin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T05:06:11.036944+07:00",
+      "fetched": "2026-09-10T05:06:11.037004+07:00"
+    },
+    {
+      "id": "8b5bea2dcb2db0bf9467e857e3964ae2",
+      "title": "Công bố iPhone Duo: Điện thoại gập đầu tiên của Apple, giá chạm 2000 USD",
+      "link": "https://tuoitre.vn/cong-bo-iphone-duo-dien-thoai-gap-dau-tien-cua-apple-gia-cham-2000-usd-100260910021236845.htm",
+      "summary": "Rạng sáng 10-9 (giờ Việt Nam), Apple chính thức ra mắt iPhone Duo, mẫu iPhone gập đầu tiên của hãng, cùng hai dòng iPhone 18 Pro, AirPods 5, Apple Watch 12 và Ultra 4",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T05:06:11.036867+07:00",
+      "fetched": "2026-09-10T05:06:11.036933+07:00"
+    },
+    {
+      "id": "5706bb6e4b19627a99f8a156ef8e61e2",
+      "title": "Lịch trực tiếp Champions League: Man United, Bayern Munich thi đấu",
+      "link": "https://tuoitre.vn/lich-truc-tiep-champions-league-man-united-bayern-munich-thi-dau-100260909184821024.htm",
+      "summary": "Hai trận đấu có sự góp mặt của Man United và Bayern Munich sẽ là tâm điểm của loạt trận Champions League đêm 10-9 rạng sáng 11-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T05:06:11.036716+07:00",
+      "fetched": "2026-09-10T05:06:11.036852+07:00"
+    },
     {
       "id": "ff48b4bab49273370a530d341ab6f895",
       "title": "'Đôi hài vạn dặm' nhựa Tiền Phong",
@@ -151,6 +231,256 @@ window.newsData_2026_09_10 = {
       "category": "Tổng hợp",
       "published": "2026-09-10T01:55:44.878085+07:00",
       "fetched": "2026-09-10T01:55:44.878207+07:00"
+    },
+    {
+      "id": "07f02db7cb70918002f7f7471d9ca1c8",
+      "title": "Phone Duo - Điện thoại gập đầu tiên của Apple",
+      "link": "https://vnexpress.net/phone-duo-dien-thoai-gap-dau-tien-cua-apple-5118592.html",
+      "summary": "iPhone Duo có thiết kế giống tin đồn với màn hình ngoài 5,4 inch, bên trong là 7,6 inch nhưng gây ấn tượng với nếp gập được xử lý rất tốt và giao diện tối ưu riêng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-09T22:00:13+07:00",
+      "fetched": "2026-09-10T05:06:38.014652+07:00"
+    },
+    {
+      "id": "c2106693bc6c3aaa2e17c98030344706",
+      "title": "Mỹ - Canada 'ăn miếng trả miếng' trong thương chiến",
+      "link": "https://thanhnien.vn/my-canada-an-mieng-tra-mieng-trong-thuong-chien-185260909220101443.htm",
+      "summary": "Chính quyền Tổng thống Mỹ Donald Trump vừa quyết định cấm nhập khẩu một số mặt hàng từ Canada, đánh dấu bước leo thang mới trong cuộc chiến thương mại song phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T22:00:00+07:00",
+      "fetched": "2026-09-10T05:06:03.962388+07:00"
+    },
+    {
+      "id": "3bab3d4a91c2b7118a6976d219ccea38",
+      "title": "Hôm nay 10.9 kỷ niệm 71 năm ngày thành lập Mặt trận Tổ quốc Việt Nam",
+      "link": "https://thanhnien.vn/hom-nay-109-ky-niem-71-nam-ngay-thanh-lap-mat-tran-to-quoc-viet-nam-185260909120504303.htm",
+      "summary": "Hôm nay 10.9 là kỷ niệm 71 năm ngày thành lập Mặt trận Tổ quốc Việt Nam. Theo lịch dương, lịch âm hôm nay có gì đáng lưu ý?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T22:00:00+07:00",
+      "fetched": "2026-09-10T05:06:03.962629+07:00"
+    },
+    {
+      "id": "88c23a771a6fbdd9687c795ff6591d2a",
+      "title": "Cận cảnh 2 khu đất TP.HCM thanh toán dự án chống ngập 10.000 tỉ đồng",
+      "link": "https://thanhnien.vn/can-canh-2-khu-dat-tphcm-thanh-toan-du-an-chong-ngap-10000-ti-dong-185260909000139408.htm",
+      "summary": "TP.HCM chuẩn bị giao thêm 2 khu đất tại 79B Lý Thường Kiệt và 257 Trần Hưng Đạo để thanh toán dự án chống ngập 10.000 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T22:00:00+07:00",
+      "fetched": "2026-09-10T05:06:03.962806+07:00"
+    },
+    {
+      "id": "ea8e2e3e66d3d44d99f81c3d12ee9612",
+      "title": "TikToker Lê Tuấn Khang nói gì về nỗi lo video bị hiểu sai?",
+      "link": "https://thanhnien.vn/tiktoker-le-tuan-khang-noi-gi-ve-noi-lo-video-bi-hieu-sai-185260908203018987.htm",
+      "summary": "TikToker Lê Tuấn Khang trải lòng về nội dung triệu view, nỗi lo video bị diễn giải sai và trách nhiệm của nhà sáng tạo với cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T22:00:00+07:00",
+      "fetched": "2026-09-10T05:06:03.963094+07:00"
+    },
+    {
+      "id": "b9a28e378f14f47a36894da6bf888d2e",
+      "title": "Bắt nhóm thanh thiếu niên đi xe đạp điện đột nhập ô tô không khóa cửa ở Đắk Lắk",
+      "link": "https://thanhnien.vn/bat-nhom-thanh-thieu-nien-di-xe-dap-dien-dot-nhap-o-to-khong-khoa-cua-o-dak-lak-185260909213616098.htm",
+      "summary": "Công an phường Tân An (Đắk Lắk) đang tạm giữ hình sự và củng cố hồ sơ để xử lý nhóm 8 người chuyên đột nhập ô tô để trộm cắp tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T21:45:00+07:00",
+      "fetched": "2026-09-10T05:06:03.963444+07:00"
+    },
+    {
+      "id": "fcf9a3b1627252773858e0d92ac1c7a5",
+      "title": "Nữ giao liên kể chuyện vượt B52, giấu mật thư dưới đế giày con trai năm 1975",
+      "link": "https://thanhnien.vn/nu-giao-lien-ke-chuyen-vuot-b52-giau-mat-thu-duoi-de-giay-con-trai-nam-1975-185260906230245722.htm",
+      "summary": "Biệt động Sài Gòn Phạm Thị Minh Nguyệt kể chuyện cứu thương binh chiến dịch Mậu Thân 1968, vượt bom B52 và giấu mật thư dưới đế giày con trai 5 tuổi để vào nội đô Sài Gòn năm 1975.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T21:44:00+07:00",
+      "fetched": "2026-09-10T05:06:03.963818+07:00"
+    },
+    {
+      "id": "55212084d86dd6bb0aeb9b5c0dd0d77a",
+      "title": "Một phó tổng giám đốc của Vingroup xin từ nhiệm",
+      "link": "https://vnexpress.net/mot-pho-tong-giam-doc-cua-vingroup-xin-tu-nhiem-5118590.html",
+      "summary": "Bà Mai Hương Nội, người có 20 năm công tác tại Vingroup, xin từ nhiệm chức Phó tổng giám đốc vì lý do cá nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T21:34:37+07:00",
+      "fetched": "2026-09-10T05:06:00.953251+07:00"
+    },
+    {
+      "id": "55212084d86dd6bb0aeb9b5c0dd0d77a",
+      "title": "Một phó tổng giám đốc của Vingroup xin từ nhiệm",
+      "link": "https://vnexpress.net/mot-pho-tong-giam-doc-cua-vingroup-xin-tu-nhiem-5118590.html",
+      "summary": "Bà Mai Hương Nội, người có 20 năm công tác tại Vingroup, xin từ nhiệm chức Phó tổng giám đốc vì lý do cá nhân.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-09T21:34:37+07:00",
+      "fetched": "2026-09-10T05:06:14.313645+07:00"
+    },
+    {
+      "id": "924b6858a9bbd89617d9466fe8612713",
+      "title": "Đoàn xe tải chở khoáng sản tung hoành, người dân ở Đà Nẵng bất an",
+      "link": "https://thanhnien.vn/doan-xe-tai-cho-khoang-san-tung-hoanh-nguoi-dan-o-da-nang-bat-an-18526090912043489.htm",
+      "summary": "Dù tuyến đường ĐT609C ở thành phố Đà Nẵng có những đoạn đặt biển hạn chế tốc độ 40 km/giờ, nhiều xe tải chở đất, cát vẫn chạy với tốc độ cao, có thời điểm 70 - 80 km/giờ, lưu thông dày đặc tiềm ẩn nguy cơ tai nạn và gây ô nhiễm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T21:32:00+07:00",
+      "fetched": "2026-09-10T05:06:03.964090+07:00"
+    },
+    {
+      "id": "d9e59f40689a084c3e70b0d03024f128",
+      "title": "Liverpool thắng ngược Atletico ở Champions League",
+      "link": "https://vnexpress.net/liverpool-thang-nguoc-atletico-o-champions-league-5118598.html",
+      "summary": "Dominik Szoboszlai và Alexis Mac Allister ghi bàn giúp Liverpool ngược dòng thắng Atletico Madrid 2-1 tại Anfield, lượt đầu vòng phân hạng Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T21:30:06+07:00",
+      "fetched": "2026-09-10T05:06:00.953430+07:00"
+    },
+    {
+      "id": "11c4e3332adea6384f156b20efac2f04",
+      "title": "Ronaldo tỏa sáng giúp Al Nassr tìm lại mạch thắng",
+      "link": "https://vnexpress.net/ronaldo-toa-sang-giup-al-nassr-tim-lai-mach-thang-5118597.html",
+      "summary": "Cristiano Ronaldo ghi bàn thứ 979 trong sự nghiệp, với pha bật cao đánh đầu giúp Al Nassr thắng đội khách Abha 2-1 ở vòng 6 Saudi Pro League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T21:19:59+07:00",
+      "fetched": "2026-09-10T05:06:00.953625+07:00"
+    },
+    {
+      "id": "11c4e3332adea6384f156b20efac2f04",
+      "title": "Ronaldo tỏa sáng giúp Al Nassr tìm lại mạch thắng",
+      "link": "https://vnexpress.net/ronaldo-toa-sang-giup-al-nassr-tim-lai-mach-thang-5118597.html",
+      "summary": "Cristiano Ronaldo ghi bàn thứ 979 trong sự nghiệp, với pha bật cao đánh đầu giúp Al Nassr thắng đội khách Abha 2-1 ở vòng 6 Saudi Pro League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-09T21:19:59+07:00",
+      "fetched": "2026-09-10T05:06:39.796217+07:00"
+    },
+    {
+      "id": "bfbab7a49b6feb07fddb280bcab84e83",
+      "title": "4.500 lít rượu vang được rót tại giải marathon ở Pháp",
+      "link": "https://vnexpress.net/4-500-lit-ruou-vang-duoc-rot-tai-giai-marathon-o-phap-5118540.html",
+      "summary": "Marathon des Châteaux du Médoc kỳ 40 thu hút 8.500 VĐV, với 20 điểm thử rượu, 18.000 con hàu và giải thưởng cho nhà vô địch là số chai rượu vang tương đương trọng lượng cơ thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T20:34:21+07:00",
+      "fetched": "2026-09-10T05:06:00.953790+07:00"
+    },
+    {
+      "id": "bfbab7a49b6feb07fddb280bcab84e83",
+      "title": "4.500 lít rượu vang được rót tại giải marathon ở Pháp",
+      "link": "https://vnexpress.net/4-500-lit-ruou-vang-duoc-rot-tai-giai-marathon-o-phap-5118540.html",
+      "summary": "Marathon des Châteaux du Médoc kỳ 40 thu hút 8.500 VĐV, với 20 điểm thử rượu, 18.000 con hàu và giải thưởng cho nhà vô địch là số chai rượu vang tương đương trọng lượng cơ thể.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-09T20:34:21+07:00",
+      "fetched": "2026-09-10T05:06:39.795883+07:00"
+    },
+    {
+      "id": "b96f8e6cd90f997ffca06ab88a6b8b9a",
+      "title": "Rybakina lần đầu lên số một thế giới",
+      "link": "https://vnexpress.net/rybakina-lan-dau-len-so-mot-the-gioi-5118593.html",
+      "summary": "Tay vợt Elena Rybakina ngược dòng hạ Zheng Qinwen 3-6, 6-1, 6-4 ở tứ kết Mỹ Mở rộng, qua đó lần đầu chiếm vị trí số một thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T20:23:46+07:00",
+      "fetched": "2026-09-10T05:06:00.953947+07:00"
+    },
+    {
+      "id": "b96f8e6cd90f997ffca06ab88a6b8b9a",
+      "title": "Rybakina lần đầu lên số một thế giới",
+      "link": "https://vnexpress.net/rybakina-lan-dau-len-so-mot-the-gioi-5118593.html",
+      "summary": "Tay vợt Elena Rybakina ngược dòng hạ Zheng Qinwen 3-6, 6-1, 6-4 ở tứ kết Mỹ Mở rộng, qua đó lần đầu chiếm vị trí số một thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-09T20:23:46+07:00",
+      "fetched": "2026-09-10T05:06:39.796057+07:00"
+    },
+    {
+      "id": "72e21a0c0dafd4b0c83811eb6a17de89",
+      "title": "iPhone lần đầu có giá trăm triệu đồng tại Việt Nam",
+      "link": "https://vnexpress.net/iphone-lan-dau-co-gia-tram-trieu-dong-tai-viet-nam-5118591.html",
+      "summary": "Mẫu smartphone gập iPhone Duo với bộ nhớ trong 2 TB được bán giá 103,9 triệu, trở thành điện thoại Apple chính hãng đầu tiên vượt mốc 100 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T20:00:33+07:00",
+      "fetched": "2026-09-10T05:06:00.954102+07:00"
+    },
+    {
+      "id": "72e21a0c0dafd4b0c83811eb6a17de89",
+      "title": "iPhone lần đầu có giá trăm triệu đồng tại Việt Nam",
+      "link": "https://vnexpress.net/iphone-lan-dau-co-gia-tram-trieu-dong-tai-viet-nam-5118591.html",
+      "summary": "Mẫu smartphone gập iPhone Duo với bộ nhớ trong 2 TB được bán giá 103,9 triệu, trở thành điện thoại Apple chính hãng đầu tiên vượt mốc 100 triệu đồng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-09T20:00:33+07:00",
+      "fetched": "2026-09-10T05:06:38.014827+07:00"
+    },
+    {
+      "id": "a4944eff9b491bde0cfb57ab96c74429",
+      "title": "Dùng mật ong thường xuyên có làm tăng mỡ bụng?",
+      "link": "https://vnexpress.net/dung-mat-ong-thuong-xuyen-co-lam-tang-mo-bung-5117986.html",
+      "summary": "Nhiều thông tin cho rằng mật ong hỗ trợ giảm cân, song một số ý kiến khác cho rằng dùng mật ong thường xuyên làm tăng mỡ bụng, điều này có đúng? (Chi, 35 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T20:00:00+07:00",
+      "fetched": "2026-09-10T05:06:00.954265+07:00"
+    },
+    {
+      "id": "4dc77d3958fe0692124f2a4072b46565",
+      "title": "Thể thao Việt Nam phải vượt ngưỡng tại ASIAD 20",
+      "link": "https://thanhnien.vn/the-thao-viet-nam-phai-vuot-nguong-tai-asiad-20-185260909201942914.htm",
+      "summary": "Để đạt mục tiêu giành từ 4 HCV trở lên tại ASIAD 20, thể thao VN cần nỗ lực đột phá không chỉ những môn thế mạnh như cầu mây, karate, mà còn ở những nội dung cạnh tranh gắt gao như điền kinh, bóng chuyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T19:40:00+07:00",
+      "fetched": "2026-09-10T05:06:03.964313+07:00"
+    },
+    {
+      "id": "b44af82dff5b829272d754d353fac309",
+      "title": "Apple Watch Series 12 và Ultra 4 ra mắt với loạt nâng cấp tính năng sức khỏe",
+      "link": "https://thanhnien.vn/apple-watch-series-12-va-ultra-4-ra-mat-voi-loat-nang-cap-tinh-nang-suc-khoe-185260910012030199.htm",
+      "summary": "Thế hệ Apple Watch mới tập trung mạnh vào sức khỏe khi Series 12 và Ultra 4 được bổ sung nhiều khả năng theo dõi và phân tích dữ liệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T19:19:00+07:00",
+      "fetched": "2026-09-10T05:06:03.964462+07:00"
+    },
+    {
+      "id": "19980fa34bace710ef670e5618320627",
+      "title": "Apple ra mắt iPhone Duo màn hình gập với chip A20 Pro",
+      "link": "https://thanhnien.vn/apple-ra-mat-iphone-duo-man-hinh-gap-voi-chip-a20-pro-185260910015202569.htm",
+      "summary": "Apple vừa chính thức giới thiệu iPhone Duo, đánh dấu sự gia nhập của hãng vào thị trường điện thoại thông minh màn hình gập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T19:14:00+07:00",
+      "fetched": "2026-09-10T05:06:03.964701+07:00"
+    },
+    {
+      "id": "8a6fee080ac677020b154deb3430f579",
+      "title": "Apple trình làng iPhone 18 Pro với loạt nâng cấp đáng chú ý",
+      "link": "https://thanhnien.vn/apple-trinh-lang-iphone-18-pro-voi-loat-nang-cap-dang-chu-y-185260910005639309.htm",
+      "summary": "Apple tập trung nâng cấp hiệu năng, AI và camera trên iPhone 18 Pro, trong khi thiết kế gần như không thay đổi nhiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T19:06:00+07:00",
+      "fetched": "2026-09-10T05:06:03.964958+07:00"
+    },
+    {
+      "id": "6b4a9ea96dbcfd99443693230332a6c1",
+      "title": "Apple nâng cấp toàn diện Siri bằng AI trên iOS 27 vừa ra mắt",
+      "link": "https://thanhnien.vn/apple-nang-cap-toan-dien-siri-bang-ai-tren-ios-27-vua-ra-mat-185260910011210393.htm",
+      "summary": "Bản cập nhật iOS 27 tương thích với các dòng máy từ iPhone 11 và iPhone SE thế hệ 2 trở về sau, dự kiến chính thức cho phép tải về từ đầu tuần sau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-09T19:01:00+07:00",
+      "fetched": "2026-09-10T05:06:03.965275+07:00"
     },
     {
       "id": "173b4d71ea60ed518343b99ad1dd5cb5",
@@ -471,6 +801,16 @@ window.newsData_2026_09_10 = {
       "category": "Công nghệ",
       "published": "2026-09-09T16:00:00+07:00",
       "fetched": "2026-09-10T01:55:50.186129+07:00"
+    },
+    {
+      "id": "13e741a9db5ed23bd6f5893ac92ca5e2",
+      "title": "Điện thoại gập iPhone Duo giá từ 1.999 USD, iPhone 18 Pro thêm màu đỏ đậm",
+      "link": "https://vnexpress.net/le-ra-mat-iphone-18-pro-va-iphone-gap-5118480-tong-thuat.html",
+      "summary": "Bộ đôi iPhone 18 Pro có thêm màu đỏ đậm, tăng 100 USD so với 17 Pro, trong khi sản phẩm được chờ đợi nhất là điện thoại gập iPhone Duo có giá 1.999 USD nhưng phải đến 23/10 mới được bán ra.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-09T16:00:00+07:00",
+      "fetched": "2026-09-10T05:06:38.015311+07:00"
     },
     {
       "id": "298c10f16fa157d29f743ed16bf4110a",
