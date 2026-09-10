@@ -1,7 +1,77 @@
 window.newsData_2026_09_11 = {
   "date": "2026-09-11",
-  "lastUpdated": "2026-09-11T00:26:40.289435+07:00",
+  "lastUpdated": "2026-09-11T03:13:54.262259+07:00",
   "articles": [
+    {
+      "id": "317b9450225770e05d733d259f67f78f",
+      "title": "HLV Polking: Tấm thẻ đỏ của Văn Hậu là mấu chốt trận đấu",
+      "link": "https://tuoitre.vn/hlv-polking-tam-the-do-cua-van-hau-la-mau-chot-tran-dau-100260910223537884.htm",
+      "summary": "Phát biểu sau trận thắng Thể Công - Viettel ở phút bù giờ, HLV Alexandre Polking (Công An Hà Nội) cho rằng tấm thẻ đỏ của Văn Hậu là mấu chốt trận đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T03:13:48.637639+07:00",
+      "fetched": "2026-09-11T03:13:48.637681+07:00"
+    },
+    {
+      "id": "bad14090977272cc4e5cfc77a609bdd2",
+      "title": "Trần Quyết Chiến lách khe cửa hẹp để qua 'bảng tử thần' tại Giải billiards TP.HCM",
+      "link": "https://tuoitre.vn/tran-quyet-chien-lach-khe-cua-hep-de-qua-bang-tu-than-tai-giai-billiards-tphcm-10026091022213866.htm",
+      "summary": "Sự chú ý ở Round 4 nội dung carom 3 băng nam của Tour 2 HBSF Cúp MIN Table 2026 hôm 10-9 được hướng về bảng C, với sự góp mặt của Trần Quyết Chiến, Trần Thanh Lực, Chiêm Hồng Thái và Chương Thanh Nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T03:13:48.637584+07:00",
+      "fetched": "2026-09-11T03:13:48.637631+07:00"
+    },
+    {
+      "id": "7b067f9328eef37c34d8fe211a7bf294",
+      "title": "Sau vụ suất ăn bán trú lèo tèo, Hà Nội giao 3 phó giám đốc sở làm trưởng đoàn đi kiểm tra",
+      "link": "https://tuoitre.vn/sau-vu-suat-an-ban-tru-leo-teo-ha-noi-giao-3-pho-giam-doc-so-lam-truong-doan-di-kiem-tra-100260910223011727.htm",
+      "summary": "Sau vụ suất ăn bán trú bị phản ánh lèo tèo và suất ăn bị giao đến muộn, UBND TP Hà Nội thành lập 3 đoàn kiểm tra liên ngành, giao 3 phó giám đốc sở làm trưởng đoàn, kiểm tra công tác tổ chức bữa ăn bán trú đến hết tháng 5-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T03:13:48.637538+07:00",
+      "fetched": "2026-09-11T03:13:48.637578+07:00"
+    },
+    {
+      "id": "e23fb11e992d03570f66db58546231b1",
+      "title": "Pakistan đứng trước nguy cơ bị kéo vào chiến sự Trung Đông",
+      "link": "https://tuoitre.vn/pakistan-dung-truoc-nguy-co-bi-keo-vao-chien-su-trung-dong-100260910224432356.htm",
+      "summary": "Việc Houthi mở rộng tấn công Saudi Arabia đẩy Pakistan vào thế khó khi cam kết phòng thủ với Riyadh có thể kéo Islamabad vào cuộc chiến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T03:13:48.637497+07:00",
+      "fetched": "2026-09-11T03:13:48.637532+07:00"
+    },
+    {
+      "id": "907dc1b24cee7768d2a1866109d465e5",
+      "title": "Hành động vì niềm tự hào 'Tôi yêu Tổ quốc tôi'",
+      "link": "https://tuoitre.vn/hanh-dong-vi-niem-tu-hao-toi-yeu-to-quoc-toi-100260910195155059.htm",
+      "summary": "Sáng ngày 11-9, Đại hội Hội Liên hiệp thanh niên Việt Nam TP.HCM lần thứ X (nhiệm kỳ 2026-2031) chính thức diễn ra với 500 đại biểu được triệu tập. Một trong những dấu ấn nổi bật chính là phong trào \"Tôi yêu Tổ quốc tôi\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T03:13:48.637449+07:00",
+      "fetched": "2026-09-11T03:13:48.637491+07:00"
+    },
+    {
+      "id": "d55970ed44bc4231b5ecc94538a8b126",
+      "title": "Tối nay, giá vàng thế giới bất ngờ giảm sâu, về gần 4.300 USD/ounce",
+      "link": "https://tuoitre.vn/toi-nay-gia-vang-the-gioi-bat-ngo-giam-sau-ve-gan-4300-usd-ounce-100260910231321296.htm",
+      "summary": "Tối 10-9, giá vàng thế giới bất ngờ giảm mạnh, có lúc chỉ còn 4.323 USD/ounce rồi phục hồi lên 4.363 USD lúc 22h30.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T03:13:48.637179+07:00",
+      "fetched": "2026-09-11T03:13:48.637441+07:00"
+    },
+    {
+      "id": "410bbe7298f22135221483b51c1514e4",
+      "title": "Lễ đón chính thức Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân thăm Pháp",
+      "link": "https://tuoitre.vn/le-don-chinh-thuc-tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-tham-phap-100260910234437771.htm",
+      "summary": "Lễ đón Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân được tổ chức trọng thể theo nghi thức quốc gia tại Điện Invalides ở thủ đô Paris, Pháp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T03:13:48.637037+07:00",
+      "fetched": "2026-09-11T03:13:48.637170+07:00"
+    },
     {
       "id": "0edf3c6f97625da8082739a28141147e",
       "title": "Ani Choying Drolma: 'Khi tụng ca, tôi cũng đang thiền định'",
@@ -153,6 +223,56 @@ window.newsData_2026_09_11 = {
       "fetched": "2026-09-11T00:26:33.840758+07:00"
     },
     {
+      "id": "288714002bea2e3cb75976deff2a33bd",
+      "title": "Mẹo ăn uống kiểm soát huyết áp và cholesterol",
+      "link": "https://vnexpress.net/meo-an-uong-kiem-soat-huyet-ap-va-cholesterol-5118472.html",
+      "summary": "Ăn một ít óc chó vào bữa tối, thêm yến mạch vào bữa sáng hay chọn các loại hạt không muối có thể hỗ trợ kiểm soát đường huyết, huyết áp và cholesterol.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T18:03:00+07:00",
+      "fetched": "2026-09-11T03:13:41.013492+07:00"
+    },
+    {
+      "id": "ad425aec87da03323777f7f1f9072c49",
+      "title": "Cách hải quân Mỹ 'bí mật dọn thủy lôi' trên eo biển Hormuz",
+      "link": "https://vnexpress.net/cach-hai-quan-my-bi-mat-don-thuy-loi-tren-eo-bien-hormuz-5117601.html",
+      "summary": "Mỹ dường như đã triển khai đặc nhiệm và thiết bị không người lái suốt 4 tháng để tìm kiếm, hủy nổ thủy lôi Iran rải trên eo biển Hormuz.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T18:00:00+07:00",
+      "fetched": "2026-09-11T03:13:41.013607+07:00"
+    },
+    {
+      "id": "ad425aec87da03323777f7f1f9072c49",
+      "title": "Cách hải quân Mỹ 'bí mật dọn thủy lôi' trên eo biển Hormuz",
+      "link": "https://vnexpress.net/cach-hai-quan-my-bi-mat-don-thuy-loi-tren-eo-bien-hormuz-5117601.html",
+      "summary": "Mỹ dường như đã triển khai đặc nhiệm và thiết bị không người lái suốt 4 tháng để tìm kiếm, hủy nổ thủy lôi Iran rải trên eo biển Hormuz.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-10T18:00:00+07:00",
+      "fetched": "2026-09-11T03:13:49.610666+07:00"
+    },
+    {
+      "id": "ecd54ae287755444ceae887031196d17",
+      "title": "Hầm chui ở cửa ngõ TP HCM ngập nửa mét, ôtô chết máy",
+      "link": "https://vnexpress.net/ham-chui-o-cua-ngo-tp-hcm-ngap-nua-met-oto-chet-may-5118999.html",
+      "summary": "Mưa lớn chiều 10/9 khiến hầm chui tại nút giao An Phú ngập khoảng nửa mét, ôtô chết máy, giao thông phía đông TP HCM ùn tắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T17:51:52+07:00",
+      "fetched": "2026-09-11T03:13:41.013702+07:00"
+    },
+    {
+      "id": "7f93ed69eed863ce90a0b898a8812c1a",
+      "title": "Tái hiện đồ chơi Trung thu xưa giữa lòng Hà Nội",
+      "link": "https://vnexpress.net/tai-hien-do-choi-trung-thu-xua-giua-long-ha-noi-5118983.html",
+      "summary": "Tối 10/9, hàng chục món đồ chơi Trung thu truyền thống được phục dựng và trưng bày tại triển lãm \"Lưu trăng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T17:31:21+07:00",
+      "fetched": "2026-09-11T03:13:41.013793+07:00"
+    },
+    {
       "id": "14ad306d95d90af15d7087a82607c7d7",
       "title": "Khoa học tìm ra cách ăn giúp hấp dẫn hơn, bạn có muốn thử?",
       "link": "https://thanhnien.vn/khoa-hoc-tim-ra-cach-an-giup-hap-dan-hon-ban-co-muon-thu-185260910222344756.htm",
@@ -181,6 +301,66 @@ window.newsData_2026_09_11 = {
       "category": "Tổng hợp",
       "published": "2026-09-10T17:14:00+07:00",
       "fetched": "2026-09-11T00:26:32.254363+07:00"
+    },
+    {
+      "id": "8923ca6817166799d2b393aa771654d7",
+      "title": "Thu nhập giảm, nhiều tài xế Grab rủ nhau 'tắt app'",
+      "link": "https://vnexpress.net/thu-nhap-giam-nhieu-tai-xe-grab-ru-nhau-tat-app-5118991.html",
+      "summary": "Cho rằng giá cước quá thấp và chiết khấu cao, nhiều tài xế xe Grab kêu gọi tắt ứng dụng trong hai ngày 12-13/9 để gây sức ép, yêu cầu hãng điều chỉnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T17:12:11+07:00",
+      "fetched": "2026-09-11T03:13:41.013881+07:00"
+    },
+    {
+      "id": "73442f19f4cc3ae7bcb66aa753d04571",
+      "title": "Tính toán của Apple đằng sau chiến lược tăng giá iPhone 18",
+      "link": "https://vnexpress.net/tinh-toan-cua-apple-dang-sau-chien-luoc-tang-gia-iphone-18-5118976.html",
+      "summary": "Ngoài chi phí linh kiện tăng, Táo Khuyết còn có lý do khác để đồng loạt nâng giá các mẫu iPhone mới năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T17:05:00+07:00",
+      "fetched": "2026-09-11T03:13:41.013968+07:00"
+    },
+    {
+      "id": "73442f19f4cc3ae7bcb66aa753d04571",
+      "title": "Tính toán của Apple đằng sau chiến lược tăng giá iPhone 18",
+      "link": "https://vnexpress.net/tinh-toan-cua-apple-dang-sau-chien-luoc-tang-gia-iphone-18-5118976.html",
+      "summary": "Ngoài chi phí linh kiện tăng, Táo Khuyết còn có lý do khác để đồng loạt nâng giá các mẫu iPhone mới năm nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-10T17:05:00+07:00",
+      "fetched": "2026-09-11T03:13:50.831628+07:00"
+    },
+    {
+      "id": "790d216f8f7979f651c715a21d8d99d8",
+      "title": "Bốn con giáp của cải chất núi trong tháng 8 Âm, tài lộc dồi dào",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-bon-con-giap-cua-cai-chat-nui-trong-thang-8-am-tai-loc-doi-dao-5118868.html",
+      "summary": "Công việc thuận lợi, thu nhập có dấu hiệu khởi sắc, khả năng tích lũy tài sản cũng rộng mở nếu biết nắm bắt thời cơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T17:02:00+07:00",
+      "fetched": "2026-09-11T03:13:41.014055+07:00"
+    },
+    {
+      "id": "45848b7d93c94aff4049d6ee6c79b4d5",
+      "title": "Tỷ lệ từ chối visa du học Australia cao nhất 10 năm",
+      "link": "https://vnexpress.net/ty-le-tu-choi-visa-du-hoc-australia-cao-nhat-10-nam-5118790.html",
+      "summary": "Cứ 5 hồ sơ xin visa du học Australia thì một bị từ chối, là tỷ lệ cao nhất kể từ năm 2016, trong bối cảnh nước này siết chặt các quy định nhập cư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T17:02:00+07:00",
+      "fetched": "2026-09-11T03:13:41.014142+07:00"
+    },
+    {
+      "id": "b859f48f0f4c2c91dd061ce33d5a24d2",
+      "title": "Cách uống cà phê bảo vệ thận, trẻ hóa mạch máu",
+      "link": "https://vnexpress.net/cach-uong-ca-phe-bao-ve-than-tre-hoa-mach-mau-5117150.html",
+      "summary": "Thêm dầu ô liu ép lạnh vào cà phê đen rồi đánh bọt giúp tăng khả năng chống viêm, bảo vệ mạch máu và chức năng thận hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T17:02:00+07:00",
+      "fetched": "2026-09-11T03:13:41.014226+07:00"
     },
     {
       "id": "3faaddfe002697b333b88ac4d0ed170e",
@@ -251,6 +431,66 @@ window.newsData_2026_09_11 = {
       "category": "Thể thao",
       "published": "2026-09-10T17:00:00+07:00",
       "fetched": "2026-09-11T00:26:40.285936+07:00"
+    },
+    {
+      "id": "e549dc65f0c9b9b9f6ca2a375e63756b",
+      "title": "Hưu già và hưu non",
+      "link": "https://vnexpress.net/huu-gia-va-huu-non-5118981.html",
+      "summary": "Nhà tư vấn quản lý",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T17:00:00+07:00",
+      "fetched": "2026-09-11T03:13:43.391674+07:00"
+    },
+    {
+      "id": "8197621852971d5a2b7c13c5a9e9e9ea",
+      "title": "Ôtô lấn làn đâm trực diện xe đầu kéo",
+      "link": "https://vnexpress.net/oto-lan-lan-dam-truc-dien-xe-dau-keo-5118941.html",
+      "summary": "Sau cú tông trực diện với xe đầu kéo trên quốc lộ 1, đoạn qua xã Hữu Lũng, hai người trong ôtô 5 chỗ bị mắc kẹt, được người dân cạy cửa đưa ra ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T17:00:00+07:00",
+      "fetched": "2026-09-11T03:13:43.392051+07:00"
+    },
+    {
+      "id": "5e377d7e956e2197759593c54c910bc6",
+      "title": "Hơn 80 tấn ốc hương chết ở Khánh Hòa",
+      "link": "https://vnexpress.net/hon-80-tan-oc-huong-chet-o-khanh-hoa-5118937.html",
+      "summary": "Hơn 80 tấn ốc hương tại xã Đại Lãnh chết bất thường, thiệt hại hàng tỷ đồng; cơ quan chuyên môn phát hiện một số mẫu nước có hàm lượng amoni vượt ngưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T17:00:00+07:00",
+      "fetched": "2026-09-11T03:13:43.392154+07:00"
+    },
+    {
+      "id": "0d4628b4f0c4af65481d3dd7e02155c1",
+      "title": "Brazil muốn là nước đầu tiên 'xuất khẩu' tín chỉ carbon sang Trung Quốc",
+      "link": "https://vnexpress.net/brazil-muon-la-nuoc-dau-tien-xuat-khau-tin-chi-carbon-sang-trung-quoc-5118935.html",
+      "summary": "Brazil dự kiến đề xuất bán tín chỉ sang Trung Quốc, nước có sàn giao dịch carbon lớn nhất thế giới, tại cuộc gặp song phương vào tuần tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T17:00:00+07:00",
+      "fetched": "2026-09-11T03:13:43.392248+07:00"
+    },
+    {
+      "id": "775f48ec5e4229f8bc946e437705a61c",
+      "title": "Bi kịch của người phụ nữ tha thứ cho kẻ sát hại mẹ",
+      "link": "https://vnexpress.net/bi-kich-cua-nguoi-phu-nu-tha-thu-cho-ke-sat-hai-me-5118918.html",
+      "summary": "Martha McKay không chỉ kết bạn với kẻ từng sát hại mẹ và anh họ của mình mà còn cho người này cơ hội làm lại cuộc đời, nhưng cuối cùng phải trả giá bằng tính mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T17:00:00+07:00",
+      "fetched": "2026-09-11T03:13:43.392354+07:00"
+    },
+    {
+      "id": "0d4628b4f0c4af65481d3dd7e02155c1",
+      "title": "Brazil muốn là nước đầu tiên 'xuất khẩu' tín chỉ carbon sang Trung Quốc",
+      "link": "https://vnexpress.net/brazil-muon-la-nuoc-dau-tien-xuat-khau-tin-chi-carbon-sang-trung-quoc-5118935.html",
+      "summary": "Brazil dự kiến đề xuất bán tín chỉ sang Trung Quốc, nước có sàn giao dịch carbon lớn nhất thế giới, tại cuộc gặp song phương vào tuần tới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-10T17:00:00+07:00",
+      "fetched": "2026-09-11T03:13:50.831734+07:00"
     },
     {
       "id": "ed00ba61036e4aeb0cceca9adf3775c6",
