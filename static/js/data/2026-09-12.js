@@ -1,7 +1,67 @@
 window.newsData_2026_09_12 = {
   "date": "2026-09-12",
-  "lastUpdated": "2026-09-12T00:27:59.952592+07:00",
+  "lastUpdated": "2026-09-12T03:12:58.654547+07:00",
   "articles": [
+    {
+      "id": "4df21ad9c7eb4c90984fb45307ef839a",
+      "title": "Golfer Hàn Quốc và Việt Nam chung tay vì nạn nhân da cam",
+      "link": "https://tuoitre.vn/golfer-han-quoc-va-viet-nam-chung-tay-vi-nan-nhan-da-cam-100260911232850026.htm",
+      "summary": "Giải golf từ thiện Vì nạn nhân da cam lần 2-2026 có sự tham gia đông đảo golfer Hàn Quốc cùng các golfer Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T03:12:52.638052+07:00",
+      "fetched": "2026-09-12T03:12:52.638087+07:00"
+    },
+    {
+      "id": "3b12cff98a54b94add836a0b290452fa",
+      "title": "Châu Âu đối mặt với khủng hoảng nhà ở",
+      "link": "https://tuoitre.vn/chau-au-doi-mat-voi-khung-hoang-nha-o-100260911235137557.htm",
+      "summary": "Theo Ủy viên Nhà ở Liên minh châu Âu, cuộc khủng hoảng đã trở thành một “tình trạng khẩn cấp”, đặc biệt với người trẻ tại nhiều nước thành viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T03:12:52.638020+07:00",
+      "fetched": "2026-09-12T03:12:52.638047+07:00"
+    },
+    {
+      "id": "07db984f58806401fe35aed6bfbf961b",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân kết thúc tốt đẹp chuyến thăm Pháp",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-ket-thuc-tot-dep-chuyen-tham-phap-100260911234251138.htm",
+      "summary": "Chuyến thăm Pháp của Tổng Bí thư, Chủ tịch nước Tô Lâm chứng kiến các định hướng hợp tác mới trong lĩnh vực khoa học - công nghệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T03:12:52.637988+07:00",
+      "fetched": "2026-09-12T03:12:52.638015+07:00"
+    },
+    {
+      "id": "c0e94e837ca6123fb9f769982a9ca483",
+      "title": "Bạn bè quốc tế đánh giá cao Đối thoại hữu nghị TP.HCM 2026",
+      "link": "https://tuoitre.vn/ban-be-quoc-te-danh-gia-cao-doi-thoai-huu-nghi-tphcm-2026-100260911232338496.htm",
+      "summary": "Đại diện nhiều địa phương trên thế giới cùng khẳng định Đối thoại hữu nghị TP.HCM là cơ hội quý báu để các địa phương gắn kết hợp tác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T03:12:52.637954+07:00",
+      "fetched": "2026-09-12T03:12:52.637983+07:00"
+    },
+    {
+      "id": "4eda356f990f59722e38fff57d497c8a",
+      "title": "Thần đồng 13 tuổi gây chấn động làng cờ tướng",
+      "link": "https://tuoitre.vn/than-dong-13-tuoi-gay-chan-dong-lang-co-tuong-100260911203317105.htm",
+      "summary": "Trần Thiệu Bác, kỳ thủ 13 tuổi của Hàng Châu, Trung Quốc gây chấn động làng cờ tướng đỉnh cao khi lọt vào đến bán kết Giải cờ tướng danh giá Thượng Hải Bôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T03:12:52.637914+07:00",
+      "fetched": "2026-09-12T03:12:52.637949+07:00"
+    },
+    {
+      "id": "d3268d41797db90df89f83a59bee2154",
+      "title": "Khai mạc chương trình Giao lưu Việt - Nhật 2026 ở Cần Thơ",
+      "link": "https://tuoitre.vn/khai-mac-chuong-trinh-giao-luu-viet-nhat-2026-o-can-tho-100260911204415917.htm",
+      "summary": "Chương trình Giao lưu Việt - Nhật 2026 tại Cần Thơ mở cửa miễn phí, tập trung các hoạt động văn hóa, nghệ thuật và ẩm thực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T03:12:52.637793+07:00",
+      "fetched": "2026-09-12T03:12:52.637907+07:00"
+    },
     {
       "id": "1829693900c008447f00f04e7da4985a",
       "title": "Hầm chui An Phú ngập nước: Giám đốc Ban Giao thông khẳng định trạm bơm chính sẽ hoàn thành vào 22-9",
@@ -151,6 +211,16 @@ window.newsData_2026_09_12 = {
       "category": "Tổng hợp",
       "published": "2026-09-12T00:27:50.162528+07:00",
       "fetched": "2026-09-12T00:27:50.162654+07:00"
+    },
+    {
+      "id": "33eb4ec68afe93c81b5b57c3c56880d3",
+      "title": "Chiến dịch tiến công giúp Houthi siết chặt 'yết hầu biển Đỏ'",
+      "link": "https://vnexpress.net/chien-dich-tien-cong-giup-houthi-siet-chat-yet-hau-bien-do-5119142.html",
+      "summary": "Giành được thành phố cảng Mocha và đảo ngoài khơi Yemen mang lại cho Houthi vị trí then chốt để kiểm soát biển Đỏ lẫn eo biển Bab al-Mandab.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-11T18:00:00+07:00",
+      "fetched": "2026-09-12T03:12:54.559475+07:00"
     },
     {
       "id": "b7f566b1e29354adb0fdb4ad3c077856",
