@@ -1,7 +1,157 @@
 window.newsData_2026_09_11 = {
   "date": "2026-09-11",
-  "lastUpdated": "2026-09-11T15:24:33.268237+07:00",
+  "lastUpdated": "2026-09-11T20:56:58.596601+07:00",
   "articles": [
+    {
+      "id": "deec51268c7533c1699a190e8c86d9a4",
+      "title": "TP.HCM dành 128 nhà, đất tái định cư cho dự án đường sắt Bến Thành - Cần Giờ, vành đai 4",
+      "link": "https://tuoitre.vn/tphcm-danh-128-nha-dat-tai-dinh-cu-cho-du-an-duong-sat-ben-thanh-can-gio-vanh-dai-4-100260911193016135.htm",
+      "summary": "UBND TP.HCM vừa có quyết định phân bổ 128 nền đất, nhà ở để bố trí tái định cư cho dự án xây dựng đường sắt Bến Thành - Cần Giờ và dự án vành đai 4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T20:56:49.766966+07:00",
+      "fetched": "2026-09-11T20:56:49.767009+07:00"
+    },
+    {
+      "id": "b1d371d608edc821c249b927135112e8",
+      "title": "Hà Nội dự kiến hỗ trợ 1 triệu đồng cho mỗi cặp nam, nữ kết hôn đúng độ tuổi",
+      "link": "https://tuoitre.vn/ha-noi-du-kien-ho-tro-1-trieu-dong-cho-moi-cap-nam-nu-ket-hon-dung-do-tuoi-100260911185322624.htm",
+      "summary": "Hà Nội đề xuất hỗ trợ 1 triệu đồng cho mỗi cặp nam, nữ kết hôn đúng độ tuổi theo quy định của Luật Hôn nhân và gia đình, cùng nhiều chính sách hỗ trợ kết hôn, sinh con và khuyến khích xã, phường góp phần duy trì mức sinh thay thế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T20:56:49.766912+07:00",
+      "fetched": "2026-09-11T20:56:49.766958+07:00"
+    },
+    {
+      "id": "53ddfe3d0a13b1b84ab67ed0d0e6afa8",
+      "title": "Ông Nguyễn Trọng Diện vắng mặt, ủy quyền cho ông Nguyễn Đình Hưng điều hành Sở Y tế Hà Nội",
+      "link": "https://tuoitre.vn/ong-nguyen-trong-dien-vang-mat-uy-quyen-cho-ong-nguyen-dinh-hung-dieu-hanh-so-y-te-ha-noi-100260911175022904.htm",
+      "summary": "Ông Nguyễn Trọng Diện - Giám đốc Sở Y tế Hà Nội - ủy quyền cho ông Nguyễn Đình Hưng - Phó giám đốc Sở Y tế - phụ trách, điều hành công việc của Sở Y tế trong thời gian ông Diện vắng mặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T20:56:49.766853+07:00",
+      "fetched": "2026-09-11T20:56:49.766904+07:00"
+    },
+    {
+      "id": "0e2fb86ee863284983d1ca1727fc2b53",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm cơ quan nghiên cứu năng lượng hạt nhân, bán dẫn của Pháp",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tham-co-quan-nghien-cuu-nang-luong-hat-nhan-ban-dan-cua-phap-100260911193249227.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm nêu đề nghị về đào tạo nguồn nhân lực, nâng cao năng lực pháp quy hạt nhân, cùng nghiên cứu an toàn lò phản ứng và mở rộng hợp tác sang y học hạt nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T20:56:49.766794+07:00",
+      "fetched": "2026-09-11T20:56:49.766845+07:00"
+    },
+    {
+      "id": "e0d3d149fb34e97e61d2b52e275964a9",
+      "title": "Hiệu trưởng Trường ĐH Tài nguyên và Môi trường: Sinh viên hãy chủ động nuôi dưỡng lối sống xanh",
+      "link": "https://tuoitre.vn/hieu-truong-truong-dh-tai-nguyen-va-moi-truong-sinh-vien-hay-chu-dong-nuoi-duong-loi-song-xanh-100260911185043393.htm",
+      "summary": "Sáng 11-9, Trường đại học Tài nguyên và Môi trường TP.HCM đã tổ chức lễ khai giảng năm học 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T20:56:49.766740+07:00",
+      "fetched": "2026-09-11T20:56:49.766786+07:00"
+    },
+    {
+      "id": "5b9af1072e0f95802a90ac4338786116",
+      "title": "Houthi chiếm thêm đảo chiến lược ở Biển Đỏ, Iran lên tiếng ca ngợi",
+      "link": "https://tuoitre.vn/houthi-chiem-them-dao-chien-luoc-o-bien-do-iran-len-tieng-ca-ngoi-100260911193009727.htm",
+      "summary": "Houthi tiếp tục mở rộng kiểm soát quanh eo biển Bab al-Mandab, giữa lúc giao tranh với Saudi Arabia leo thang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T20:56:49.766671+07:00",
+      "fetched": "2026-09-11T20:56:49.766732+07:00"
+    },
+    {
+      "id": "affe32ac3775ed3d5812d461b6fabf49",
+      "title": "Công An Nhân Dân vất vả lội ngược dòng trước Long An tại Giải hạng nhất",
+      "link": "https://tuoitre.vn/cong-an-nhan-dan-vat-va-loi-nguoc-dong-truoc-long-an-tai-giai-hang-nhat-100260911200759663.htm",
+      "summary": "Đội chủ nhà Công An Nhân Dân có được 3 điểm đầu tiên, sau màn lội ngược dòng trước đội khách Long An trong trận khai màn Giải bóng đá hạng nhất quốc gia 2026-2027 vào tối 11-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T20:56:49.766614+07:00",
+      "fetched": "2026-09-11T20:56:49.766663+07:00"
+    },
+    {
+      "id": "1b6c99a639f0f3f063ec819c3f854be4",
+      "title": "Bố mẹ hoàn toàn khỏe mạnh, vì sao con vẫn có thể mắc teo cơ tủy sống?",
+      "link": "https://tuoitre.vn/bo-me-hoan-toan-khoe-manh-vi-sao-con-van-co-the-mac-teo-co-tuy-song-100260911144145166.htm",
+      "summary": "Trẻ vẫn có thể mắc bệnh teo cơ tủy dù cha mẹ hoàn toàn khỏe mạnh, bởi cả hai có thể cùng mang một bản sao gene bệnh nhưng không có biểu hiện triệu chứng. Thế nhưng bệnh có thể phòng nhờ khám tư vấn di truyền trước mang thai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T20:56:49.766557+07:00",
+      "fetched": "2026-09-11T20:56:49.766605+07:00"
+    },
+    {
+      "id": "b9ed51f1ed2b4357ac6bc21227fab0fb",
+      "title": "Jack đang đi xuống",
+      "link": "https://tuoitre.vn/jack-dang-di-xuong-100260911185133131.htm",
+      "summary": "Jack vẫn giữ được nhiệt trong tệp fan riêng, nhưng bị đánh giá chững lại và thiếu bước tiến đột phá trong âm nhạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T20:56:49.766501+07:00",
+      "fetched": "2026-09-11T20:56:49.766549+07:00"
+    },
+    {
+      "id": "ae980891b16968482b6d96c9dfcbb57c",
+      "title": "‘Dây mơ rễ má’ ngổn ngang thế sự, khán giả cười mà đau",
+      "link": "https://tuoitre.vn/day-mo-re-ma-ngon-ngang-the-su-khan-gia-cuoi-ma-dau-1002609111931007.htm",
+      "summary": "Cũng đã lâu, khán giả sân khấu kịch nói ở Hà Nội mới có dịp được thưởng thức một vở kịch thế sự đương đại hấp dẫn như vở ‘Dây mơ rễ má’ của Nhà hát Kịch Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T20:56:49.766445+07:00",
+      "fetched": "2026-09-11T20:56:49.766493+07:00"
+    },
+    {
+      "id": "a4537fb4bb91fd8ac236b17f497d554a",
+      "title": "2 ngày 1 đêm tròn 100 tập; 7 thí sinh Chuông vàng vọng cổ tranh tài",
+      "link": "https://tuoitre.vn/2-ngay-1-dem-tron-100-tap-7-thi-sinh-chuong-vang-vong-co-tranh-tai-100260911195112874.htm",
+      "summary": "Tin tức xem - nghe cuối tuần: 2 ngày 1 đêm tròn 100 tập; Model Kid Vietnam 2026 lên sóng VTV9; Gặp lại Nicole Kidman trong Bùa yêu: Bí mật gia tộc; Đỗ Mạnh Cường mở triển lãm cá nhân đầu tiên...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T20:56:49.766389+07:00",
+      "fetched": "2026-09-11T20:56:49.766437+07:00"
+    },
+    {
+      "id": "b1e37363e3c86af88b653d02084a43a8",
+      "title": "Lưu giữ chuyến đi qua cuộc thi ‘Check-in hạnh phúc’",
+      "link": "https://tuoitre.vn/luu-giu-chuyen-di-qua-cuoc-thi-check-in-hanh-phuc-100260911192359067.htm",
+      "summary": "Cuộc thi \"Check-in hạnh phúc\" mùa 1 với chủ đề “Từ đây có một tôi khác\" do báo Tiền Phong tổ chức sẽ mang đến sân chơi thú vị cho các bạn trẻ mê du lịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T20:56:49.766333+07:00",
+      "fetched": "2026-09-11T20:56:49.766381+07:00"
+    },
+    {
+      "id": "afcdfbc95391df098783cd9de0c987b1",
+      "title": "Từ bệnh xá nhỏ đến quy mô 1.000 giường: Bệnh viện 19-8 hướng tới tầm khu vực",
+      "link": "https://tuoitre.vn/tu-benh-xa-nho-den-quy-mo-1000-giuong-benh-vien-19-8-huong-toi-tam-khu-vuc-100260911193717445.htm",
+      "summary": "Từ một bệnh xá phục vụ cán bộ, chiến sĩ, sau 65 năm xây dựng và phát triển, Bệnh viện 19-8 (Bộ Công an) đã trở thành bệnh viện với quy mô 1.000 giường, làm chủ nhiều kỹ thuật chuyên sâu như ghép tế bào gốc, can thiệp tim mạch, điều trị ung thư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T20:56:49.766266+07:00",
+      "fetched": "2026-09-11T20:56:49.766324+07:00"
+    },
+    {
+      "id": "960872789ab52a38afb9db3d330a69b4",
+      "title": "Có hợp đồng xuất khẩu, doanh nghiệp hỏi dùng bảo lãnh LC, kho hàng thế chấp vay vốn có được không?",
+      "link": "https://tuoitre.vn/co-hop-dong-xuat-khau-doanh-nghiep-hoi-dung-bao-lanh-lc-kho-hang-the-chap-vay-von-co-duoc-khong-100260911201911883.htm",
+      "summary": "Những vấn đề về tiếp cận vốn, đầu tư hạ tầng, giảm thủ tục được doanh nghiệp đặt ra trong các phiên đối thoại chính sách với chính quyền địa phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T20:56:49.766195+07:00",
+      "fetched": "2026-09-11T20:56:49.766256+07:00"
+    },
+    {
+      "id": "1d50e98611d2ba1983597f31e13a8363",
+      "title": "Thời tiết Nam Bộ 2 ngày cuối tuần: Mưa còn duy trì nhưng giảm dần",
+      "link": "https://tuoitre.vn/thoi-tiet-nam-bo-2-ngay-cuoi-tuan-mua-con-duy-tri-nhung-giam-dan-100260911193634196.htm",
+      "summary": "Trong 2 ngày cuối tuần, thời tiết Nam Bộ sẽ duy trì tình trạng nhiều mây, nắng gián đoạn và mưa sẽ xảy ra nhiều nơi về chiều tối, tuy nhiên sẽ có sự thay đổi về lượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T20:56:49.766026+07:00",
+      "fetched": "2026-09-11T20:56:49.766182+07:00"
+    },
     {
       "id": "54625bf1477a13917b17f10f107de880",
       "title": "Lãnh 4 năm 6 tháng tù vì dọa chém, khống chế thẩm phán và thư ký tòa đi thẩm định tài sản",
@@ -151,6 +301,266 @@ window.newsData_2026_09_11 = {
       "category": "Tổng hợp",
       "published": "2026-09-11T15:24:26.569378+07:00",
       "fetched": "2026-09-11T15:24:26.569494+07:00"
+    },
+    {
+      "id": "3c78ca3fe7f311b013a746dc19d1f939",
+      "title": "Doãn Ngọc Tân đứt dây chằng mác sên, lỡ hẹn với đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/doan-ngoc-tan-dut-day-chang-mac-sen-lo-hen-voi-doi-tuyen-viet-nam-185260911205356703.htm",
+      "summary": "Tiền vệ Doãn Ngọc Tân cần 3 đến 4 tuần để trở lại sân cỏ sau khi dính chấn thương ở trận thua 0-1 của Thể Công Viettel trước CLB Công an Hà Nội (CAHN) ở vòng 2 V-League 2026-2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T13:56:00+07:00",
+      "fetched": "2026-09-11T20:56:47.571245+07:00"
+    },
+    {
+      "id": "b917b45f10cabe37475671e27a9a5252",
+      "title": "Houthi chiếm đảo chiến lược ở eo biển Bab al-Mandab, Iran lên tiếng",
+      "link": "https://thanhnien.vn/houthi-chiem-dao-chien-luoc-o-eo-bien-bab-al-mandab-iran-len-tieng-18526091120454959.htm",
+      "summary": "Lực lượng Houthi đã chiếm được một hòn đảo quan trọng và dường như đang kiểm soát dải đất dọc theo bờ biển Yemen tại eo biển Bab al-Mandab, theo AFP hôm nay 11.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T13:52:00+07:00",
+      "fetched": "2026-09-11T20:56:47.571398+07:00"
+    },
+    {
+      "id": "219e4d3270f81071d591e3a7c8cee46e",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm gặp gỡ cộng đồng người Việt Nam tại Pháp",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-gap-go-cong-dong-nguoi-viet-nam-tai-phap-185260911200705571.htm",
+      "summary": "Trưa 11.9 , Tổng Bí thư, Chủ tịch nước Tô Lâm cùng phu nhân Ngô Phương Ly và Đoàn đại biểu cấp cao Việt Nam đã gặp gỡ cán bộ, nhân viên Đại sứ quán và đại diện cộng đồng người Việt Nam tại Pháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T13:43:00+07:00",
+      "fetched": "2026-09-11T20:56:47.571531+07:00"
+    },
+    {
+      "id": "56c9c92c322be90e747552dbc547cbd0",
+      "title": "Giá vàng, bạc tăng vọt",
+      "link": "https://thanhnien.vn/gia-vang-bac-tang-vot-185260911202312905.htm",
+      "summary": "Trong phiên giao dịch Mỹ (đêm 11.9), giá vàng và bạc tăng mạnh sau khi Mỹ công bố chỉ số lạm phát CPI vẫn duy trì ở mức cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T13:32:00+07:00",
+      "fetched": "2026-09-11T20:56:47.571655+07:00"
+    },
+    {
+      "id": "284590d76c39fcc6764352066c99ea6e",
+      "title": "Thủ tướng Lê Minh Hưng sẽ chia sẻ tầm nhìn, đề xuất của Việt Nam tại BRICS",
+      "link": "https://thanhnien.vn/thu-tuong-le-minh-hung-se-chia-se-tam-nhin-de-xuat-cua-viet-nam-tai-brics-185260911200141207.htm",
+      "summary": "Thủ tướng Lê Minh Hưng sẽ chia sẻ tầm nhìn, đánh giá và đưa ra các đề xuất của Việt Nam về nhiều vấn đề lớn đặt ra trong hợp tác quốc tế tại phiên thảo luận về chủ đề \"Tự cường, đổi mới sáng tạo, hợp tác và phát triển bền vững: Định hình tương lai tăng trưởng bao trùm toàn cầu\" trong khuôn khổ Hội n...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T13:30:00+07:00",
+      "fetched": "2026-09-11T20:56:47.571801+07:00"
+    },
+    {
+      "id": "c9115d3c5bb11bc57b8652ad342cf980",
+      "title": "Loại trái cây quen thuộc, kali vượt chuối, vitamin C hơn cam",
+      "link": "https://thanhnien.vn/loai-trai-cay-quen-thuoc-kali-vuot-chuoi-vitamin-c-hon-cam-185260911203327313.htm",
+      "summary": "Ổi không chỉ có vị chua ngọt dễ ăn mà còn giàu nhiều dưỡng chất. Đáng chú ý, loại quả này chứa lượng vitamin C cao hơn đáng kể so với cam và hàm lượng kali thậm chí vượt chuối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T13:29:00+07:00",
+      "fetched": "2026-09-11T20:56:47.571934+07:00"
+    },
+    {
+      "id": "4a2ec4fe25e8b9ed41afe58e426a5776",
+      "title": "Việt Nam hợp tác với Pháp làm chủ công nghệ lõi năng lượng nguyên tử, bán dẫn",
+      "link": "https://thanhnien.vn/viet-nam-hop-tac-voi-phap-lam-chu-cong-nghe-loi-nang-luong-nguyen-tu-ban-dan-1852609111929291.htm",
+      "summary": "Ngày 11.9 (giờ địa phương), Tổng Bí thư, Chủ tịch nước Tô Lâm và đoàn đại biểu cấp cao Việt Nam đã thăm, làm việc tại Ủy ban Năng lượng nguyên tử và Năng lượng thay thế Pháp (CEA) và chứng kiến Lễ trao các văn kiện, thỏa thuận hợp tác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T13:29:00+07:00",
+      "fetched": "2026-09-11T20:56:47.572059+07:00"
+    },
+    {
+      "id": "83543ab7a811aac3f42e36ccd76fbf8b",
+      "title": "Người phụ nữ mang khối u buồng trứng gần 5 kg sau 10 năm bỏ tái khám",
+      "link": "https://thanhnien.vn/nguoi-phu-nu-mang-khoi-u-buong-trung-gan-5-kg-sau-10-nam-bo-tai-kham-185260911194405448.htm",
+      "summary": "Khối u phát hiện 10 năm trước, người phụ nữ 56 tuổi không tái khám. Đến khi sờ thấy bất thường vùng hạ vị, khối u đã lớn hơn 20 cm, chiếm gần trọn ổ bụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T13:20:00+07:00",
+      "fetched": "2026-09-11T20:56:47.572184+07:00"
+    },
+    {
+      "id": "e3d292ccb3e8fc6d8ad23f0564a53765",
+      "title": "Tổng Bí thư, Chủ tịch nước đề nghị Pháp hỗ trợ đào tạo nhân lực năng lượng nguyên tử",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-de-nghi-phap-ho-tro-dao-tao-nhan-luc-nang-luong-nguyen-tu-5119361.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị Pháp hỗ trợ đào tạo nhân lực, giúp Việt Nam đủ năng lực làm chủ công nghệ lượng tử trong tương lai.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-11T13:19:27+07:00",
+      "fetched": "2026-09-11T20:56:51.278208+07:00"
+    },
+    {
+      "id": "3512db674a9dee2f730304d9ee2dcff8",
+      "title": "Bảng xếp hạng V-League mới nhất: Ninh Bình tái chiếm ngôi đầu, Đà Nẵng bất ngờ vươn lên tốp 2",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-ninh-binh-tai-chiem-ngoi-dau-da-nang-bat-ngo-vuon-len-top-2-185260911193833249.htm",
+      "summary": "Hôm nay (11.9), diễn ra vòng 2 V-League 2026-2027 với kết quả bất ngờ thú vị tạo nên biến động mới trên bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T13:18:00+07:00",
+      "fetched": "2026-09-11T20:56:47.572303+07:00"
+    },
+    {
+      "id": "83c844af97d6635ffe0e09738fc7f276",
+      "title": "Lucao lại tỏa sáng, Ninh Bình thắng nghẹt thở Thanh Hóa bằng 2 pha không chiến",
+      "link": "https://thanhnien.vn/lucao-lai-toa-sang-ninh-binh-thang-nghet-tho-thanh-hoa-bang-2-pha-khong-chien-185260911200435023.htm",
+      "summary": "Tối 11.9, chân sút Lucao (Lucas Vinicius) lại tỏa sáng khi lập công cùng Ngọc Mỹ, giúp CLB Ninh Bình thắng Thanh Hóa với tỷ số 2-1 trên sân nhà ở vòng 2 giải V-League mùa 2026 - 2027, và tạm soán ngôi đầu bảng của CLB CAHN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T13:14:00+07:00",
+      "fetched": "2026-09-11T20:56:47.572428+07:00"
+    },
+    {
+      "id": "64bde29379a37a84a0ce445b3b6c6c0d",
+      "title": "Người ngồi ghế sau ô tô không thắt dây an toàn, xử phạt tài xế ra sao?",
+      "link": "https://thanhnien.vn/nguoi-ngoi-ghe-sau-o-to-khong-that-day-an-toan-xu-phat-tai-xe-ra-sao-185260911063844736.htm",
+      "summary": "Nhiều người vẫn cho rằng dây an toàn chủ yếu dành cho tài xế và hành khách phía trước. Tuy nhiên, nếu người ngồi ghế sau không thắt dây tại vị trí có trang bị, không chỉ hành khách mà tài xế cũng có thể bị xử phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T13:14:00+07:00",
+      "fetched": "2026-09-11T20:56:47.572548+07:00"
+    },
+    {
+      "id": "f44e72181f87161c77c0e6b5cb7389ee",
+      "title": "Xe máy số Honda Dream NCX125 cập nhật phiên bản mới, chờ ngày về Việt Nam",
+      "link": "https://thanhnien.vn/xe-may-so-honda-dream-ncx125-cap-nhat-phien-ban-moi-cho-ngay-ve-viet-nam-185260911091319213.htm",
+      "summary": "Mẫu xe máy số Honda Dream NCX125 lắp ráp tại Campuchia vừa được hãng xe Nhật Bản cập nhật phiên bản mới, với một số thay đổi về diện mạo, giữ nguyên trang bị, động cơ… dự kiến sẽ gia nhập thị trường Việt Nam trong thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T13:13:00+07:00",
+      "fetched": "2026-09-11T20:56:47.572664+07:00"
+    },
+    {
+      "id": "945c5077b630a86c232bcc70922068cb",
+      "title": "Toyota Innova Cross bản nâng cấp lên đường thử, sắp gia nhập thị trường?",
+      "link": "https://thanhnien.vn/toyota-innova-cross-ban-nang-cap-len-duong-thu-sap-gia-nhap-thi-truong-185260911072822275.htm",
+      "summary": "Toyota Innova Cross phiên bản nâng cấp bị bắt gặp khi chạy thử với nhiều thay đổi ở thiết kế, cho thấy khả năng mẫu MPV Nhật Bản đang tiến gần hơn đến thời điểm mở bán trên thị trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T13:13:00+07:00",
+      "fetched": "2026-09-11T20:56:47.572802+07:00"
+    },
+    {
+      "id": "ac6048a3e46d414cb3206839bfca87d3",
+      "title": "Hơn 50 người thuộc công ty dệt may cấp cứu ở Bệnh viện Trung ương Huế",
+      "link": "https://thanhnien.vn/hon-50-nguoi-thuoc-cong-ty-det-may-cap-cuu-o-benh-vien-trung-uong-hue-185260911192319256.htm",
+      "summary": "Bệnh viện Trung ương Huế cơ sở 2 vừa tiếp nhận, điều trị cho hàng chục người làm việc tại một công ty dệt may đóng tại phường Phong Điền, thành phố Huế do nghi ngộ độc thực phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T13:10:00+07:00",
+      "fetched": "2026-09-11T20:56:47.572928+07:00"
+    },
+    {
+      "id": "5504235e8b8cf338787e36f717d819fb",
+      "title": "CLB Công an TP.HCM thua cay đắng tân binh Bắc Ninh, thủ môn Lê Giang Patrik bất lực",
+      "link": "https://thanhnien.vn/clb-cong-an-tphcm-thua-cay-dang-tan-binh-bac-ninh-thu-mon-le-giang-patrik-bat-luc-185260911200136574.htm",
+      "summary": "Tối 11.9, ở vòng 2 V-League 2026-2027, CLB Công an TP.HCM có ngày thi đấu kém hiệu quả và chấp nhận trận thua 0-1 trước đội Bắc Ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T13:07:00+07:00",
+      "fetched": "2026-09-11T20:56:47.573047+07:00"
+    },
+    {
+      "id": "100e8f81799e2dceb8fcb7e8082373dd",
+      "title": "T&amp;T Group muốn lập liên doanh với Pháp tại dự án điện khí LNG 1,5 tỷ USD",
+      "link": "https://vnexpress.net/t-t-group-muon-lap-lien-doanh-voi-phap-tai-du-an-dien-khi-lng-1-5-ty-usd-5119312.html",
+      "summary": "T&T Energy Group và Công ty TotalEnergies SE ký biên bản ghi nhớ hợp tác phát triển dự án Nhà máy điện khí LNG Long Sơn tại TP HCM với tổng vốn hơn 1,5 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-11T12:00:00+07:00",
+      "fetched": "2026-09-11T20:56:53.157432+07:00"
+    },
+    {
+      "id": "df18eff1c5b9434f97069b07cf6cb0ff",
+      "title": "Hãng Nga muốn hợp tác với Việt Nam về UAV, vệ tinh và hydrogen",
+      "link": "https://vnexpress.net/hang-nga-muon-hop-tac-voi-viet-nam-ve-uav-ve-tinh-va-hydrogen-5119302.html",
+      "summary": "AFK Sistema, tập đoàn đa ngành của Nga, muốn mở rộng hợp tác với Việt Nam trong các lĩnh vực công nghệ chiến lược như UAV, vệ tinh, hydrogen, đồng thời sẵn sàng chuyển giao công nghệ, đào tạo nhân lực và phối hợp nghiên cứu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-11T11:47:19+07:00",
+      "fetched": "2026-09-11T20:56:56.744684+07:00"
+    },
+    {
+      "id": "29287728686e59ee3a4f24410aa11c8c",
+      "title": "Houthi chiếm đảo chiến lược, kiểm soát 'yết hầu biển Đỏ'",
+      "link": "https://vnexpress.net/houthi-chiem-dao-chien-luoc-kiem-soat-yet-hau-bien-do-5119335.html",
+      "summary": "Lực lượng Houthi chiếm đảo chiến lược Perim ở eo biển Bab al-Mandab, siết kiểm soát với khu vực được ví như \"yết hầu biển Đỏ\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-11T11:39:44+07:00",
+      "fetched": "2026-09-11T20:56:51.278362+07:00"
+    },
+    {
+      "id": "4df7eeb34bfcdd23e5458799d9e03c72",
+      "title": "Báo Tây Ban Nha: Mbappe mở chiến dịch đua tranh Quả Bóng Vàng",
+      "link": "https://vnexpress.net/bao-tay-ban-nha-mbappe-mo-chien-dich-dua-tranh-qua-bong-vang-5119146.html",
+      "summary": "Theo tờ Marca, tiền đạo Kylian Mbappe đang đẩy mạnh chiến dịch vận động cho cuộc đua Quả Bóng Vàng 2026, cả trên sân cỏ lẫn qua những lần xuất hiện trước truyền thông.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-11T11:00:00+07:00",
+      "fetched": "2026-09-11T20:56:58.587507+07:00"
+    },
+    {
+      "id": "fe90220bdd9f4187be81b086cfbff385",
+      "title": "Nỗi day dứt của đầu bếp thoát chết vụ 11/9 nhờ đổi ca với đồng nghiệp",
+      "link": "https://vnexpress.net/noi-day-dut-cua-dau-bep-thoat-chet-vu-11-9-nho-doi-ca-voi-dong-nghiep-5119288.html",
+      "summary": "Sekou Siby lẽ ra làm việc tại tầng 107 tháp Bắc của WTC sáng 11/9/2001, quyết định đổi ca giúp anh thoát chết nhưng sống trong cảm giác tội lỗi suốt 25 năm qua.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-11T10:51:59+07:00",
+      "fetched": "2026-09-11T20:56:51.278502+07:00"
+    },
+    {
+      "id": "9053d05fcd032e428236d2eb444b0664",
+      "title": "Thủ tướng yêu cầu giảm đầu mối, trung gian phân phối xăng dầu",
+      "link": "https://vnexpress.net/thu-tuong-yeu-cau-giam-dau-moi-trung-gian-phan-phoi-xang-dau-5119281.html",
+      "summary": "Thủ tướng Lê Minh Hưng yêu cầu tái cơ cấu số lượng doanh nghiệp đầu mối, cắt giảm thực chất các tầng nấc trung gian để giảm chi phí và bảo đảm nguồn cung xăng dầu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-11T10:36:20+07:00",
+      "fetched": "2026-09-11T20:56:53.156089+07:00"
+    },
+    {
+      "id": "921740537a909311934fd76c5afe047f",
+      "title": "Khoản tiền tặng nữ trợ lý trung thành gây tranh cãi của Tổng thống Trump",
+      "link": "https://vnexpress.net/khoan-tien-tang-nu-tro-ly-trung-thanh-gay-tranh-cai-cua-tong-thong-trump-5119229.html",
+      "summary": "Việc ông Trump tặng tiền cho các trợ lý Nhà Trắng làm dấy lên tranh cãi liên quan quy định cấm nhân viên chính phủ nhận thêm thu nhập từ bên ngoài.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-11T10:00:00+07:00",
+      "fetched": "2026-09-11T20:56:51.278631+07:00"
+    },
+    {
+      "id": "e9e38e0fba9a6bc762f071a832d1d8cc",
+      "title": "Doãn Ngọc Tân: ‘Văn Hậu không ác ý’",
+      "link": "https://vnexpress.net/doan-ngoc-tan-van-hau-khong-ac-y-5119301.html",
+      "summary": "Tiền vệ Doãn Ngọc Tân nghỉ thi đấu khoảng 4 tuần sau pha phạm lỗi của Đoàn Văn Hậu ở trận Thể Công thua Công an Hà Nội 0-1 tại vòng 2 V-League 2026-2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-11T09:36:28+07:00",
+      "fetched": "2026-09-11T20:56:58.587658+07:00"
+    },
+    {
+      "id": "2cc9d2035563bcebc3372c8eb7e9dda5",
+      "title": "Starlink trao 254 thiết bị Internet vệ tinh để phủ sóng vùng lõm",
+      "link": "https://vnexpress.net/starlink-trao-254-thiet-bi-internet-ve-tinh-de-phu-song-vung-lom-5119291.html",
+      "summary": "Chiều 11/9, Cục Viễn thông tiếp nhận, bàn giao thiết bị đầu cuối và dịch vụ vệ tinh Starlink để kết nối tại các khu vực còn khoảng trống về viễn thông.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-11T09:33:03+07:00",
+      "fetched": "2026-09-11T20:56:56.744858+07:00"
+    },
+    {
+      "id": "73b1e668ed391b9d7cf64944c117ba1a",
+      "title": "Dàn âm thanh gần 60 tỷ đồng lần đầu có mặt tại Việt Nam",
+      "link": "https://vnexpress.net/dan-am-thanh-gan-60-ty-dong-lan-dau-co-mat-tai-viet-nam-5119213.html",
+      "summary": "Dàn âm thanh với loa Maestoso Horn Speaker từ AlmaSuona (Italy) giá 58,78 tỷ đồng là hệ thống đắt nhất được phân phối tại Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-11T09:23:40+07:00",
+      "fetched": "2026-09-11T20:56:56.744996+07:00"
     },
     {
       "id": "ca85e47fe66be552cdf83c052258ed3e",
@@ -303,6 +713,46 @@ window.newsData_2026_09_11 = {
       "fetched": "2026-09-11T09:04:13.130097+07:00"
     },
     {
+      "id": "7f537299514031f4be2be4f606d9d8b8",
+      "title": "Chứng khoán giảm mạnh nhất gần một tháng",
+      "link": "https://vnexpress.net/chung-khoan-giam-manh-nhat-gan-mot-thang-5119262.html",
+      "summary": "Áp lực bán dâng cao, nhất là ở nhóm cổ phiếu Vingroup và ngân hàng, khiến VN-Index mất hơn 34 điểm, phiên điều chỉnh mạnh nhất gần một tháng qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-11T08:56:02+07:00",
+      "fetched": "2026-09-11T20:56:53.156244+07:00"
+    },
+    {
+      "id": "2a9be1df3c478d3c4df3a4277ac9b232",
+      "title": "Ông Hùng Cao: Iran đã 'tàn phá nặng nề' căn cứ trọng yếu của Mỹ",
+      "link": "https://vnexpress.net/ong-hung-cao-iran-da-tan-pha-nang-ne-can-cu-trong-yeu-cua-my-5119155.html",
+      "summary": "Quyền Bộ trưởng Hải quân Mỹ xác nhận nước này đang xem xét sửa chữa trung tâm hải quân trọng yếu ở Bahrain sau những thiệt hại nặng do Iran gây ra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-11T08:51:00+07:00",
+      "fetched": "2026-09-11T20:56:51.278777+07:00"
+    },
+    {
+      "id": "ff211e5b1ab76523da0ace72cf1c3d9f",
+      "title": "Ủy ban Cạnh tranh rà soát chính sách giá, chiết khấu của Grab",
+      "link": "https://vnexpress.net/uy-ban-canh-tranh-ra-soat-chinh-sach-gia-chiet-khau-cua-grab-5119261.html",
+      "summary": "Cơ quan quản lý cạnh tranh yêu cầu Grab giải trình cách xác định giá cước, các khoản phí, chiết khấu sau khi tài xế phản ánh thu nhập thực nhận bị ảnh hưởng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-11T08:40:23+07:00",
+      "fetched": "2026-09-11T20:56:53.156380+07:00"
+    },
+    {
+      "id": "d196f09551d804ee8c2b2639541e2dc6",
+      "title": "Ông Đoàn Văn Hiểu Em: Chúng tôi sẽ có một phiên bản 'Điện Máy Xanh' ở nước ngoài",
+      "link": "https://vnexpress.net/ong-doan-van-hieu-em-chung-toi-se-co-mot-phien-ban-dien-may-xanh-o-nuoc-ngoai-5119116.html",
+      "summary": "Với tham vọng đạt 1.000 điểm bán và doanh thu tỷ USD trước năm 2030, CEO Điện Máy Xanh tự tin EraBlue sẽ là chuỗi bán lẻ thành công tại Indonesia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-11T08:34:56+07:00",
+      "fetched": "2026-09-11T20:56:53.156511+07:00"
+    },
+    {
       "id": "3ec20c3d382812c1e50058b104812518",
       "title": "Toàn cảnh hầm chui nút giao An Phú thông xe sau trận ngập",
       "link": "https://thanhnien.vn/toan-canh-ham-chui-nut-giao-an-phu-thong-xe-sau-tran-ngap-185260911150030167.htm",
@@ -451,6 +901,16 @@ window.newsData_2026_09_11 = {
       "category": "Tổng hợp",
       "published": "2026-09-11T08:00:00+07:00",
       "fetched": "2026-09-11T15:24:24.765425+07:00"
+    },
+    {
+      "id": "52fd12ce67d9f03c52c6860bd2cf850c",
+      "title": "HLV Hoàng Anh Tuấn tái xuất",
+      "link": "https://vnexpress.net/hlv-hoang-anh-tuan-tai-xuat-5119240.html",
+      "summary": "HLV Hoàng Anh Tuấn trở lại với bóng đá trẻ để dẫn dắt Việt Nam dự giải giao hữu quốc tế U16 CFA Team China 2026 tại Trung Quốc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-11T08:00:00+07:00",
+      "fetched": "2026-09-11T20:56:58.587816+07:00"
     },
     {
       "id": "fec25f9c0065a16688172e4924ffd2e9",
