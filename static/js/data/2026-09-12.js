@@ -1,6 +1,6 @@
 window.newsData_2026_09_12 = {
   "date": "2026-09-12",
-  "lastUpdated": "2026-09-12T03:12:58.654547+07:00",
+  "lastUpdated": "2026-09-12T06:41:27.120206+07:00",
   "articles": [
     {
       "id": "4df21ad9c7eb4c90984fb45307ef839a",
@@ -211,6 +211,206 @@ window.newsData_2026_09_12 = {
       "category": "Tổng hợp",
       "published": "2026-09-12T00:27:50.162528+07:00",
       "fetched": "2026-09-12T00:27:50.162654+07:00"
+    },
+    {
+      "id": "ef91a89e77ae3f18f7bb04d33ec9fdd5",
+      "title": "Việt - Pháp ra tuyên bố chung về thúc đẩy quan hệ Đối tác Chiến lược Toàn diện",
+      "link": "https://vnexpress.net/viet-phap-ra-tuyen-bo-chung-ve-thuc-day-quan-he-doi-tac-chien-luoc-toan-dien-5119410.html",
+      "summary": "Việt Nam, Pháp kêu gọi tăng cường quan hệ Đối tác Chiến lược Toàn diện trên bình diện quốc tế và thông qua các dự án song phương cụ thể, mang tính cấu trúc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-11T23:36:30+07:00",
+      "fetched": "2026-09-12T06:41:22.681755+07:00"
+    },
+    {
+      "id": "f43270dc4dfa65af0d0c22c9c579dc61",
+      "title": "Siêu mẫu 12 năm liền được trả lương cao nhất thế giới tái xuất làng mốt",
+      "link": "https://thanhnien.vn/sieu-mau-12-nam-lien-duoc-tra-luong-cao-nhat-the-gioi-tai-xuat-lang-mot-185260912061831972.htm",
+      "summary": "Gisele Bündchen, siêu mẫu từng 12 năm liên tiếp đứng đầu danh sách người mẫu có thu nhập cao nhất thế giới, gây chú ý khi xuất hiện trên bìa tạp chí ở tuổi 46. Sau khi tái hôn và đón con thứ ba vào năm 2025, cô hiện dành phần lớn thời gian cho gia đình và việc tập luyện, đồng thời từ chối tới 99% lờ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T23:35:00+07:00",
+      "fetched": "2026-09-12T06:41:18.804737+07:00"
+    },
+    {
+      "id": "746b461be8ae93ca928cbdb8b3f60aa2",
+      "title": "Pháp sẽ tích cực xem xét việc phê chuẩn EVIPA",
+      "link": "https://thanhnien.vn/phap-se-tich-cuc-xem-xet-viec-phe-chuan-evipa-18526091201493556.htm",
+      "summary": "Ngày 11.9, Tổng Bí thư, Chủ tịch nước Tô Lâm đã hội kiến Chủ tịch Thượng viện Pháp Gérard Larcher.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T23:32:00+07:00",
+      "fetched": "2026-09-12T06:41:18.804862+07:00"
+    },
+    {
+      "id": "fa10922a5994142413f4b0452b603963",
+      "title": "Nỗi buồn man mác trôi trong truyện ngắn của Trần Minh Cường",
+      "link": "https://thanhnien.vn/noi-buon-man-mac-troi-trong-truyen-ngan-cua-tran-minh-cuong-185260911195340137.htm",
+      "summary": "Nhà báo Trần Minh vừa ra mắt tập truyện ngắn Chênh vênh những phận người, với những câu chuyện về mảnh đất miền Tây Nam bộ dịu dàng, ray rứt và đẹp đến nao lòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T23:30:00+07:00",
+      "fetched": "2026-09-12T06:41:18.804972+07:00"
+    },
+    {
+      "id": "2155fa82294862ddb70a40288f226c1b",
+      "title": "Không trồng hạt dẻ cười, Việt Nam vẫn thu về 8.300 tỷ đồng",
+      "link": "https://vnexpress.net/khong-trong-hat-de-cuoi-viet-nam-van-thu-ve-8-300-ty-dong-5119246.html",
+      "summary": "Không trồng thương mại, nhưng 7 tháng đầu năm, xuất khẩu hạt dẻ cười đạt 323 triệu USD (8.300 tỷ đồng), tăng 112% so cùng kỳ nhờ sản phẩm chế biến.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-11T23:16:55+07:00",
+      "fetched": "2026-09-12T06:41:23.861927+07:00"
+    },
+    {
+      "id": "d2201551f9b1d70781ea905d1cb285be",
+      "title": "Lũ qua gần 1 năm, dân miền núi vẫn khát nước sạch",
+      "link": "https://thanhnien.vn/lu-qua-gan-1-nam-dan-mien-nui-van-khat-nuoc-sach-185260911215031684.htm",
+      "summary": "Gần một năm nay, hàng trăm hộ dân ở Cầu Bà, Sơn Thái, Liên Sang thuộc xã Nam Khánh Vĩnh (Khánh Hòa) phải chắt chiu từng can nước để phục vụ sinh hoạt vì hệ thống nước sạch hư hỏng hoàn toàn sau trận lũ lịch sử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T23:15:00+07:00",
+      "fetched": "2026-09-12T06:41:18.805077+07:00"
+    },
+    {
+      "id": "d1f234393a85962d7bcaf52e6d5ce7e3",
+      "title": "Gầy dựng 'sếu đầu đàn' cho du lịch Việt",
+      "link": "https://thanhnien.vn/gay-dung-seu-dau-dan-cho-du-lich-viet-18526091123315193.htm",
+      "summary": "Nghị quyết 26 của Bộ Chính trị đặt mục tiêu đến năm 2030, VN có 15 tập đoàn, tổng công ty du lịch có thương hiệu mạnh, sức cạnh tranh quốc tế. Đây được coi là lực lượng nòng cốt tái cấu trúc du lịch VN từ chạy theo \"nguyên lý sản lượng\" sang chất lượng và sự khác biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T23:14:00+07:00",
+      "fetched": "2026-09-12T06:41:18.805181+07:00"
+    },
+    {
+      "id": "554438aba217f4c3df8468a7e261352e",
+      "title": "Vàng không khan hiếm, vì sao giá vẫn cao?",
+      "link": "https://thanhnien.vn/vang-khong-khan-hiem-vi-sao-gia-van-cao-185260911215820045.htm",
+      "summary": "Thị trường vàng trầm lắng nhưng giá vẫn neo cao. Điểm lạ là vàng nhẫn dù không thiếu nhưng giá vượt cả vàng miếng SJC.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T23:14:00+07:00",
+      "fetched": "2026-09-12T06:41:18.805292+07:00"
+    },
+    {
+      "id": "f36fb233f8bd8a9d5604e32902652ceb",
+      "title": "Giá cổ phiếu liên tục giảm, nhà đầu tư nản lòng",
+      "link": "https://thanhnien.vn/gia-co-phieu-lien-tuc-giam-nha-dau-tu-nan-long-18526091121513663.htm",
+      "summary": "Giá nhiều cổ phiếu liên tục sụt giảm thời gian gần đây khiến các nhà đầu tư có tâm lý chán nản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T23:12:00+07:00",
+      "fetched": "2026-09-12T06:41:18.805392+07:00"
+    },
+    {
+      "id": "b88644f7c708876ffa9f0b9036c14e43",
+      "title": "Thay đổi mục tiêu của giáo dục thế nào trong thời AI ?",
+      "link": "https://thanhnien.vn/thay-doi-muc-tieu-cua-giao-duc-the-nao-trong-thoi-ai-185260911225902282.htm",
+      "summary": "AI đang đổi thay cả cách dạy và học, mang tới những cơ hội cũng như nhiều nguy cơ, buộc giáo dục phải nhìn nhận lại những mục tiêu mới để dẫn dắt người học đi đúng hướng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T23:09:00+07:00",
+      "fetched": "2026-09-12T06:41:18.805493+07:00"
+    },
+    {
+      "id": "54ae9ed0fc2855effe35a16cc8e84418",
+      "title": "TP.HCM sẽ luân phiên 1.000 bác sĩ về trạm y tế",
+      "link": "https://thanhnien.vn/tphcm-se-luan-phien-1000-bac-si-ve-tram-y-te-185260911215623416.htm",
+      "summary": "Sở Y tế TP.HCM vừa xây dựng dự thảo nghị quyết quy định chính sách hỗ trợ đối với người thực hiện chế độ luân phiên có thời hạn đến cơ sở khám chữa bệnh cấp cơ bản và trạm y tế xã, phường, đặc khu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T23:09:00+07:00",
+      "fetched": "2026-09-12T06:41:18.805595+07:00"
+    },
+    {
+      "id": "4c2d6710ae446fb80f9b65c6cfe7d493",
+      "title": "Người lính 174 và Mái ấm Thiên Thần",
+      "link": "https://thanhnien.vn/nguoi-linh-174-va-mai-am-thien-than-185260911174051896.htm",
+      "summary": "Đã có rất nhiều bài báo, tạp chí và chương trình truyền hình nói về Mái ấm Thiên Thần và anh Bùi Công Hiệp. Những bài viết ấy cho người đọc biết về một người đàn ông đã dành đất đai, nhà cửa, tiền bạc và những năm tháng còn lại của đời mình để nuôi những đứa trẻ bị bỏ rơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T23:06:00+07:00",
+      "fetched": "2026-09-12T06:41:18.805706+07:00"
+    },
+    {
+      "id": "42518dc466285be2ce48b67d34118f40",
+      "title": "'Big Six' khiến Ngoại hạng Anh mất cân bằng",
+      "link": "https://vnexpress.net/big-six-khien-ngoai-hang-anh-mat-can-bang-5117292.html",
+      "summary": "Ngoại hạng Anh từng được ca ngợi là giải đấu cạnh tranh nhất thế giới, nhưng khác biệt ngày càng lớn về sức mạnh tài chính giữa nhóm Big Six và phần còn lại đang gây hoài nghi về một cuộc đua sòng phẳng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-11T23:05:13+07:00",
+      "fetched": "2026-09-12T06:41:27.116212+07:00"
+    },
+    {
+      "id": "bbe18b7a230c9d7bf22b50273d04e23b",
+      "title": "Độc đáo nhạc cụ Trường Sơn - Tây nguyên: Bộ đàn đá 'biết hát'",
+      "link": "https://thanhnien.vn/doc-dao-nhac-cu-truong-son-tay-nguyen-bo-dan-da-biet-hat-185260911233750033.htm",
+      "summary": "Chiều xuống bên làng Chốt, xã Sa Thầy (Quảng Ngãi), có chàng trai người Jrai lại ngồi bên những viên đá quen thuộc. Sau nhiều năm gắn bó, anh đã tìm ra cách để những viên đá cất lên âm thanh, khi réo rắt, lúc trầm bổng như kể câu chuyện núi rừng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T23:04:00+07:00",
+      "fetched": "2026-09-12T06:41:18.805810+07:00"
+    },
+    {
+      "id": "ad3388226937ee5054e4c2e7ec2e7115",
+      "title": "Vào đời bằng chuyến xe tử tế",
+      "link": "https://thanhnien.vn/vao-doi-bang-chuyen-xe-tu-te-185260911231803734.htm",
+      "summary": "Từ một cuốc taxi định mệnh, cuộc sống của một cậu bé được nối dài bởi những chuyến xe đời tử tế đến quặn lòng. Người khách mới trên chuyến xe 461 (NXB Kim Đồng - 2026) của nhà văn - nhà báo Nguyễn Khắc Cường đưa người đọc đến với những câu chuyện đời cảm động, những bài học tưởng chừng chỉ dành cho ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T23:04:00+07:00",
+      "fetched": "2026-09-12T06:41:18.805911+07:00"
+    },
+    {
+      "id": "dcaf03a0a2e30eb74f6693f3a25399c3",
+      "title": "Hiểm họa từ nguy cơ AI bị lợi dụng",
+      "link": "https://thanhnien.vn/hiem-hoa-tu-nguy-co-ai-bi-loi-dung-18526091123062452.htm",
+      "summary": "Khi các mô hình trí tuệ nhân tạo (AI) ngày càng phát triển, nguy cơ chúng bị lợi dụng để phục vụ các hành vi xấu cũng đồng thời tăng lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T23:00:00+07:00",
+      "fetched": "2026-09-12T06:41:18.806009+07:00"
+    },
+    {
+      "id": "8acf4b72b03953ab0ff4dda56b331a62",
+      "title": "Khốn khổ vì 'bỗng dưng' thành chủ doanh nghiệp",
+      "link": "https://thanhnien.vn/khon-kho-vi-bong-dung-thanh-chu-doanh-nghiep-185260911203936703.htm",
+      "summary": "Nhiều người tá hỏa khi tra cứu trên VNeID, eTax phát hiện mình đang đứng tên chủ doanh nghiệp, người đại diện pháp luật của những công ty mà chính họ không hề biết đến, thậm chí đang nợ thuế và có nguy cơ bị tạm hoãn xuất cảnh. Đáng nói, để chứng minh mình vô can và gỡ tên khỏi doanh nghiệp này lại ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T23:00:00+07:00",
+      "fetched": "2026-09-12T06:41:18.806111+07:00"
+    },
+    {
+      "id": "d02a4b71962ab33eb5ae36bf5fa4728d",
+      "title": "Xuất khẩu tăng tốc, vì sao giá rau quả giảm mạnh?",
+      "link": "https://thanhnien.vn/xuat-khau-tang-toc-vi-sao-gia-rau-qua-giam-manh-185260911194410032.htm",
+      "summary": "Thị trường trái cây đang cho thấy một nghịch lý khá rõ: Trong khi xuất khẩu rau quả thẳng tiến, băng băng về đích 10 tỉ USD thì tại thị trường nội địa giảm sâu, giá thấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-11T23:00:00+07:00",
+      "fetched": "2026-09-12T06:41:18.806212+07:00"
+    },
+    {
+      "id": "7590cf6804855864b2a6e04dacb60b4c",
+      "title": "Mbappe: 'Ví tôi như kẻ độc tài là thiếu hiểu biết về chính trị và nhân văn'",
+      "link": "https://vnexpress.net/mbappe-vi-toi-nhu-ke-doc-tai-la-thieu-hieu-biet-ve-chinh-tri-va-nhan-van-5119396.html",
+      "summary": "Trong một trích đoạn phỏng vấn với tạp chí Pháp France Football, Kylian Mbappe thấy hài hước, nhưng đồng thời chỉ trích trào lưu chế ảnh (meme) lan truyền trên mạng xã hội ví anh như một kẻ độc tài.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-11T22:52:52+07:00",
+      "fetched": "2026-09-12T06:41:27.116342+07:00"
+    },
+    {
+      "id": "b076d3d0d075e27cbcb3f9522095e520",
+      "title": "Sống trăm tuổi nên đầu tư thế nào?",
+      "link": "https://vnexpress.net/song-tram-tuoi-nen-dau-tu-the-nao-5118350.html",
+      "summary": "Khi trăm tuổi không còn hiếm, chiến lược đầu tư cần lưu ý các nguyên tắc về kỳ hạn, tính linh hoạt, đa dạng và truyền đời, theo chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-11T19:58:42+07:00",
+      "fetched": "2026-09-12T06:41:23.862057+07:00"
     },
     {
       "id": "33eb4ec68afe93c81b5b57c3c56880d3",
