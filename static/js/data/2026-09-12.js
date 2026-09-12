@@ -1,7 +1,157 @@
 window.newsData_2026_09_12 = {
   "date": "2026-09-12",
-  "lastUpdated": "2026-09-12T20:14:49.076205+07:00",
+  "lastUpdated": "2026-09-12T23:38:34.532289+07:00",
   "articles": [
+    {
+      "id": "a5e8184b78b419a9994d7e486a583f7f",
+      "title": "Đề nghị phạt chủ cơ sở bánh mì tại Gia Lai 100 triệu đồng",
+      "link": "https://tuoitre.vn/de-nghi-phat-chu-co-so-banh-mi-tai-gia-lai-100-trieu-dong-100260912174727437.htm",
+      "summary": "Do có nhiều vi phạm về an toàn thực phẩm, chủ cơ sở bánh mì tại An Khê, Gia Lai bị đề xuất xử phạt 100 triệu đồng và đình chỉ hoạt động 4 tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T23:38:26.178910+07:00",
+      "fetched": "2026-09-12T23:38:26.178953+07:00"
+    },
+    {
+      "id": "a17bfa0311e3bdf5076e3f0c3b77452d",
+      "title": "Phim của Jo In Sung giành chiến thắng đầu tiên tại Liên hoan phim Venice",
+      "link": "https://tuoitre.vn/phim-cua-jo-in-sung-gianh-chien-thang-dau-tien-tai-lien-hoan-phim-venice-10026091218203058.htm",
+      "summary": "Possible Love do Jo In Sung, Jeon Do Yeon đóng chính giành giải của Liên đoàn Quốc tế các nhà phê bình phim tại Liên hoan phim Venice lần thứ 83.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T23:38:26.178854+07:00",
+      "fetched": "2026-09-12T23:38:26.178902+07:00"
+    },
+    {
+      "id": "870596001b381ad67a2c10ea09599825",
+      "title": "Nhóm BRICS thông qua được tuyên bố chung, kêu gọi 'kiềm chế tối đa' ở Trung Đông",
+      "link": "https://tuoitre.vn/nhom-brics-thong-qua-duoc-tuyen-bo-chung-keu-goi-kiem-che-toi-da-o-trung-dong-100260912192335344.htm",
+      "summary": "Việc nhóm BRICS thông qua được tuyên bố chung là bước đột phá ngoại giao, vượt qua những bất đồng sâu sắc giữa Iran và UAE về cuộc xung đột tại Trung Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T23:38:26.178800+07:00",
+      "fetched": "2026-09-12T23:38:26.178846+07:00"
+    },
+    {
+      "id": "76ce5e09d4000f6ed54cdc65c69206c3",
+      "title": "Yêu cầu điều tra vụ ngộ độc thức ăn 174 công nhân nhập viện",
+      "link": "https://tuoitre.vn/yeu-cau-dieu-tra-vu-ngo-doc-thuc-an-174-cong-nhan-nhap-vien-100260912180126796.htm",
+      "summary": "Cục An toàn thực phẩm đề nghị Sở Y tế thành phố Huế khẩn trương điều tra, truy xuất nguồn gốc thức ăn và lấy mẫu xét nghiệm để xác định nguyên nhân vụ ngộ độc khiến 174 công nhân nhập viện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T23:38:26.178734+07:00",
+      "fetched": "2026-09-12T23:38:26.178792+07:00"
+    },
+    {
+      "id": "49898160e3f134417785a875c587b198",
+      "title": "Doanh thu sách giáo khoa trên chợ mạng tăng 112%, phụ huynh đang săn lùng kiểu gì?",
+      "link": "https://tuoitre.vn/doanh-thu-sach-giao-khoa-tren-cho-mang-tang-112-phu-huynh-dang-san-lung-kieu-gi-100260912200134101.htm",
+      "summary": "Trong tuần trước thềm năm học mới, ngành hàng sách giáo khoa trên bốn sàn thương mại điện tử lớn nhất Việt Nam đạt doanh số 7,2 tỉ đồng, tăng 112% so với cùng kỳ năm ngoái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T23:38:26.178678+07:00",
+      "fetched": "2026-09-12T23:38:26.178727+07:00"
+    },
+    {
+      "id": "9f519ebdc2f258a799cb16aaf4119e2a",
+      "title": "Thương hiệu tôi yêu: Hương xưa gợi nhớ của xà bông Cô Ba",
+      "link": "https://tuoitre.vn/thuong-hieu-toi-yeu-huong-xua-goi-nho-cua-xa-bong-co-ba-10026091219045233.htm",
+      "summary": "Có những thương hiệu Việt đã gắn bó với nhiều thế hệ. Để rồi một lúc nào đó bất chợt gặp lại hình ảnh của sản phẩm ấy bao kỷ niệm của những ngày tháng cũ lại ùa về trong tâm trí tôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T23:38:26.178625+07:00",
+      "fetched": "2026-09-12T23:38:26.178670+07:00"
+    },
+    {
+      "id": "cad453dac80841b0e67cb58bd1b347bb",
+      "title": "Akai Shuichi tái xuất trong tập đặc biệt kỷ niệm 30 năm Conan",
+      "link": "https://tuoitre.vn/akai-shuichi-tai-xuat-trong-tap-dac-biet-ky-niem-30-nam-conan-100260912192428664.htm",
+      "summary": "Thám tử lừng danh Conan tiếp tục hé lộ những gương mặt quen thuộc sẽ góp mặt trong Vụ án giết người thứ 30 - tập đặc biệt dài hai tiếng được thực hiện nhân dịp anime tròn 30 năm phát sóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T23:38:26.178570+07:00",
+      "fetched": "2026-09-12T23:38:26.178617+07:00"
+    },
+    {
+      "id": "547faa8c01e2dfc28946d3f092cab169",
+      "title": "Cảng nước sâu Cái Mép - Thị Vải nối TP.HCM với những cơ hội quốc tế nào?",
+      "link": "https://tuoitre.vn/cang-nuoc-sau-cai-mep-thi-vai-noi-tphcm-voi-nhung-co-hoi-quoc-te-nao-10026091220170733.htm",
+      "summary": "Cảng nước sâu Cái Mép - Thị Vải không chỉ là đầu mối hàng hóa mà còn mở ra những cơ hội mới về logistics, đầu tư, công nghệ và hợp tác quốc tế cho TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T23:38:26.178509+07:00",
+      "fetched": "2026-09-12T23:38:26.178562+07:00"
+    },
+    {
+      "id": "0b99d4cc64e1f23006f6d6eb72f37886",
+      "title": "Mưa lớn khắp nơi, Đà Nẵng yêu cầu thủy điện không để xảy ra 'lũ nhân tạo' cho hạ du",
+      "link": "https://tuoitre.vn/mua-lon-khap-noi-da-nang-yeu-cau-thuy-dien-khong-de-xay-ra-lu-nhan-tao-cho-ha-du-100260912204424831.htm",
+      "summary": "Đà Nẵng yêu cầu các chủ hồ, các hồ thủy điện bảo đảm an toàn tuyệt đối cho công trình, không để xảy ra lũ nhân tạo, đồng thời góp phần cắt, giảm lũ cho vùng hạ du.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T23:38:26.178454+07:00",
+      "fetched": "2026-09-12T23:38:26.178501+07:00"
+    },
+    {
+      "id": "f8c6b43178e885e4d78ec4fd9ce67ea1",
+      "title": "Câu lạc bộ Hưng Yên khởi đầu như mơ ở Giải hạng nhất",
+      "link": "https://tuoitre.vn/cau-lac-bo-hung-yen-khoi-dau-nhu-mo-o-giai-hang-nhat-100260912203224807.htm",
+      "summary": "Ứng viên thăng hạng, CLB Hưng Yên đã thắng đậm chủ nhà Thép Cần Thơ 3-0 ở vòng 1 Giải hạng nhất 2026-2027 với cú đúp của tiền đạo Joseph Khalio.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T23:38:26.178397+07:00",
+      "fetched": "2026-09-12T23:38:26.178446+07:00"
+    },
+    {
+      "id": "b7e222e0c53ae5b48e22e97853883238",
+      "title": "Tháo gỡ vướng mắc loạt dự án nhà máy điện tại Cần Thơ",
+      "link": "https://tuoitre.vn/thao-go-vuong-mac-loat-du-an-nha-may-dien-tai-can-tho-100260912203817861.htm",
+      "summary": "Phó thủ tướng thường trực Chính phủ Phạm Gia Túc yêu cầu các bộ, ngành, EVN và PVN khẩn trương tháo gỡ vướng mắc, đẩy nhanh tiến độ các dự án nhà máy điện tại Cần Thơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T23:38:26.178341+07:00",
+      "fetched": "2026-09-12T23:38:26.178389+07:00"
+    },
+    {
+      "id": "1876209873a9ff98a4b28969aa4d78f7",
+      "title": "Petrovietnam lần đầu xuất khẩu sản phẩm điện gió ngoài khơi sang châu Âu",
+      "link": "https://tuoitre.vn/petrovietnam-lan-dau-xuat-khau-san-pham-dien-gio-ngoai-khoi-sang-chau-au-100260912205426209.htm",
+      "summary": "Các đơn vị thành viên của Petrovietnam vừa hoàn thành, hạ thủy và vận chuyển thành công 4 trạm biến áp ngoài khơi thuộc dự án Baltica 2 (ngoài khơi Ba Lan).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T23:38:26.178283+07:00",
+      "fetched": "2026-09-12T23:38:26.178332+07:00"
+    },
+    {
+      "id": "634fe3ab5905dbac7ba4e6b9a056940d",
+      "title": "Hai xe va quẹt, tài xế nam đấm đá, rút chìa khóa, ép người phụ nữ đưa tiền",
+      "link": "https://tuoitre.vn/hai-xe-va-quet-tai-xe-nam-dam-da-rut-chia-khoa-ep-nguoi-phu-nu-dua-tien-100260912211515378.htm",
+      "summary": "Sau khi xảy ra va chạm giao thông, Hải đã dùng chân tay đấm đá vào vùng đầu, người và mặt bà C. Nam tài xế sau đó rút chìa khóa xe mô tô của bà và đe dọa, đòi tiền bồi thường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T23:38:26.178224+07:00",
+      "fetched": "2026-09-12T23:38:26.178275+07:00"
+    },
+    {
+      "id": "ec4433ea3281eb6f6be747a15024ab59",
+      "title": "Thủ tướng Ấn Độ Narendra Modi: Sự tham dự của Việt Nam giúp nâng tầm Thượng đỉnh BRICS",
+      "link": "https://tuoitre.vn/thu-tuong-an-do-narendra-modi-su-tham-du-cua-viet-nam-giup-nang-tam-thuong-dinh-brics-100260912214129083.htm",
+      "summary": "Thủ tướng Lê Minh Hưng hội đàm cùng Thủ tướng Ấn Độ Narendra Modi, thảo luận chuyên sâu về quan hệ song phương và đóng góp Việt Nam trong BRICS.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T23:38:26.178154+07:00",
+      "fetched": "2026-09-12T23:38:26.178215+07:00"
+    },
+    {
+      "id": "7cdf04fbdfccb3d741d020422759d0f2",
+      "title": "Có Hai Long, Hoàng Hên, CLB Hà Nội vẫn thua sốc 1-4, chưa biết mùi thắng ở V-League 2026 - 2027",
+      "link": "https://tuoitre.vn/co-hai-long-hoang-hen-clb-ha-noi-van-thua-soc-1-4-chua-biet-mui-thang-o-v-league-2026-2027-100260912215644518.htm",
+      "summary": "Tối 12-9, CLB Hà Nội thua sốc Sông Lam Nghệ An 1-4 trên sân nhà Hàng Đẫy tại vòng 2 LPBank V-League 2026 - 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T23:38:26.177996+07:00",
+      "fetched": "2026-09-12T23:38:26.178141+07:00"
+    },
     {
       "id": "f3d10f02f68a13d30d769f09d0513598",
       "title": "Cố ý hay vô ý, những pha đạp gầm giày đều khiến bóng đá thế giới đau đớn",
@@ -153,6 +303,86 @@ window.newsData_2026_09_12 = {
       "fetched": "2026-09-12T20:14:40.257788+07:00"
     },
     {
+      "id": "e165b5139267454b512cc2dcb0492b0d",
+      "title": "Việt Nam sẵn sàng làm hết sức mình để hỗ trợ Cuba",
+      "link": "https://thanhnien.vn/viet-nam-san-sang-lam-het-suc-minh-de-ho-tro-cuba-185260912224643215.htm",
+      "summary": "Ngày 12.9, tại New Delhi, Ấn Độ, nhân dịp dự Hội nghị Thượng đỉnh BRICS lần thứ 18, Thủ tướng Lê Minh Hưng đã tiếp Bộ trưởng Ngoại giao Cuba Bruno Rodríguez Parrilla.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T16:23:00+07:00",
+      "fetched": "2026-09-12T23:38:23.961905+07:00"
+    },
+    {
+      "id": "734791a99f0938d7e2c7be6047bf4b03",
+      "title": "Tư duy, cách làm mới trong hợp tác Việt Nam - Nga, Việt Nam - Pháp",
+      "link": "https://thanhnien.vn/tu-duy-cach-lam-moi-trong-hop-tac-viet-nam-nga-viet-nam-phap-185260912223457498.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm đã nêu rõ việc cần phải thay đổi tư duy, không còn là chuyện Việt Nam mua bao nhiêu hàng từ các nước và ngược lại hay chuyển giao công nghệ đơn thuần mà phải làm sao để Việt Nam cùng Nga và Pháp hợp tác cùng sản xuất, cùng nghiên cứu và tạo ra sản phẩm chung, tăng c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T16:18:00+07:00",
+      "fetched": "2026-09-12T23:38:23.962058+07:00"
+    },
+    {
+      "id": "d1a3d7cce0626942bea94456080ff8a1",
+      "title": "Bảo Ngọc tiết lộ vai trò mới sau thành tích top 6 Hoa hậu Thế giới",
+      "link": "https://thanhnien.vn/bao-ngoc-tiet-lo-vai-tro-moi-sau-thanh-tich-top-6-hoa-hau-the-gioi-185260912210756517.htm",
+      "summary": "Bảo Ngọc tham gia Đại hội đại biểu Hội Liên hiệp thanh niên Việt Nam TP.HCM lần thứ X, có thêm cột mốc mới sau thành tích top 6 Hoa hậu Thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T16:18:00+07:00",
+      "fetched": "2026-09-12T23:38:23.962197+07:00"
+    },
+    {
+      "id": "ba3ba0aba8823f32ab582ba835a87c1f",
+      "title": "U.23 Việt Nam lên đường sang Nhật Bản dự ASIAD 20: Quyết thắng lớn lập kỳ tích",
+      "link": "https://thanhnien.vn/u23-viet-nam-len-duong-sang-nhat-ban-du-asiad-20-quyet-thang-lon-lap-ky-tich-18526091218103212.htm",
+      "summary": "Tối 12.9, toàn đội U.23 Việt Nam đã có mặt ở sân bay để lên đường sang Nhật Bản dự ASIAD 20.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T16:03:00+07:00",
+      "fetched": "2026-09-12T23:38:23.962333+07:00"
+    },
+    {
+      "id": "b9a48cc5de3e15532a7dbbb14f25b777",
+      "title": "Tác giả ca khúc 'Chiều sân ga', 'Cõi nhớ' qua đời ở tuổi 86",
+      "link": "https://thanhnien.vn/tac-gia-ca-khuc-chieu-san-ga-coi-nho-qua-doi-o-tuoi-86-185260912220826509.htm",
+      "summary": "Sáng 12.9, thông tin về sự ra đi nhạc sĩ Sông Trà -  tác giả của những ca khúc rất được yêu thích như: 'Chiều sân ga', 'Cõi nhớ', 'Hoa tím đợi chờ'... qua đời ở tuổi 86 được nhiều đồng nghiệp chia sẻ. Mọi người đều tiếc thương trước sự ra đi của một nhạc sĩ tài hoa đất Quảng Ngãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T16:01:00+07:00",
+      "fetched": "2026-09-12T23:38:23.962459+07:00"
+    },
+    {
+      "id": "c463b7309dff4f26d7da9e3fc2f36d66",
+      "title": "HLV Kewell chua chát ‘thật khó chấp nhận khi Hà Nội thua quá nặng’, HLV Văn Sỹ Sơn sung sướng tột độ",
+      "link": "https://thanhnien.vn/hlv-kewell-chua-chat-that-kho-chap-nhan-khi-ha-noi-thua-qua-nang-hlv-van-sy-son-sung-suong-tot-do-185260912212927877.htm",
+      "summary": "HLV Kewell thất vọng khi CLB Hà Nội để thua đậm 1-4 trước SLNA ở vòng 2 V-League (tối 12.9), dẫn đến rơi xuống cuối bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T16:00:00+07:00",
+      "fetched": "2026-09-12T23:38:23.962592+07:00"
+    },
+    {
+      "id": "bd84b98aea2e4c4c59a4f0852da6bbcc",
+      "title": "Chelsea bị 'hiện tượng' Hull City cầm hòa",
+      "link": "https://vnexpress.net/chelsea-bi-hien-tuong-hull-city-cam-hoa-5119636.html",
+      "summary": "Chelsea mở tỷ số nhưng phải vất vả mới kiếm được trận hòa đội khách Hull City 2-2 ở vòng bốn Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-12T15:58:55+07:00",
+      "fetched": "2026-09-12T23:38:34.523715+07:00"
+    },
+    {
+      "id": "2b04f67e0fa738532df3822fd7b62f61",
+      "title": "Đà Nẵng mưa lớn, người dân 'rốn lũ' Mẹ Suốt lại trắng đêm chạy lụt",
+      "link": "https://thanhnien.vn/da-nang-mua-lon-nguoi-dan-ron-lu-me-suot-lai-trang-dem-chay-lut-185260912213944721.htm",
+      "summary": "Mưa lớn tối 12.9 khiến nước dâng nhanh, tràn vào nhà dân ở khu vực Mẹ Suốt và Đà Sơn 8 (Đà Nẵng). Lực lượng chức năng hỗ trợ người dân kê tài sản, đưa người già, trẻ nhỏ và các hộ ở vùng ngập sâu đến nơi an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T15:14:00+07:00",
+      "fetched": "2026-09-12T23:38:23.962718+07:00"
+    },
+    {
       "id": "0979f2ddf30c845a9d946aaac915ef3f",
       "title": "Liên kết đào tạo nghề phải công khai học phí, rõ trách nhiệm với người học",
       "link": "https://tuoitre.vn/lien-ket-dao-tao-nghe-phai-cong-khai-hoc-phi-ro-trach-nhiem-voi-nguoi-hoc-100260912124829968.htm",
@@ -301,6 +531,116 @@ window.newsData_2026_09_12 = {
       "category": "Tổng hợp",
       "published": "2026-09-12T15:13:20.384754+07:00",
       "fetched": "2026-09-12T15:13:20.384884+07:00"
+    },
+    {
+      "id": "71051dd106b31449135d591fdcf038e6",
+      "title": "Thủ tướng đề nghị sớm hình thành chiến lược kết nối công nghệ Việt - Ấn",
+      "link": "https://vnexpress.net/thu-tuong-de-nghi-som-hinh-thanh-chien-luoc-ket-noi-cong-nghe-viet-an-5119616.html",
+      "summary": "Thủ tướng Lê Minh Hưng đề nghị Việt Nam - Ấn Độ sớm hình thành chiến lược kết nối công nghệ, tập trung vào các ngành mũi nhọn như AI.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-12T15:08:48+07:00",
+      "fetched": "2026-09-12T23:38:28.119053+07:00"
+    },
+    {
+      "id": "75a981f352ba20228565f39b8d230f63",
+      "title": "Đỉnh Bạch Mã hứng lượng mưa rất lớn, lên tới gần 690 mm",
+      "link": "https://thanhnien.vn/dinh-bach-ma-hung-luong-mua-rat-lon-len-toi-gan-690-mm-185260912214450215.htm",
+      "summary": "Trong 24 giờ qua, Huế xuất hiện mưa lớn diện rộng, đỉnh Bạch Mã đạt mốc 689,6 mm. Mưa lớn gây sạt lở, đánh chìm tàu cá. Theo dự báo mưa sẽ tiếp tục kéo dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T15:02:00+07:00",
+      "fetched": "2026-09-12T23:38:23.962860+07:00"
+    },
+    {
+      "id": "c87f141c098090afaa273531f338d807",
+      "title": "Highlight CLB Hà Nội 0-4 CLB SLNA: Chủ nhà thua tan nát",
+      "link": "https://thanhnien.vn/highlight-clb-ha-noi-0-4-clb-slna-chu-nha-thua-tan-nat-18526091221561374.htm",
+      "summary": "Thua đậm SLNA, CLB Hà Nội rớt xuống cuối bảng với 0 điểm sau 2 trận, hiệu số -5. Thầy trò Kewell trở thành đội đầu tiên ở V-League mùa này thua cả 2 trận đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T14:56:00+07:00",
+      "fetched": "2026-09-12T23:38:23.962982+07:00"
+    },
+    {
+      "id": "7ca332d79eb217ccbe04b3b8f5355046",
+      "title": "Bắt tạm giam 3 cựu lãnh đạo Công ty GFDI trước phiên tòa xét xử",
+      "link": "https://thanhnien.vn/bat-tam-giam-3-cuu-lanh-dao-cong-ty-gfdi-truoc-phien-toa-xet-xu-185260912205233607.htm",
+      "summary": "Trước phiên tòa xét xử vụ án GFDI, Công an Đà Nẵng đã bắt, áp giải 3 bị cáo từng giữ vị trí quản lý, điều hành tại doanh nghiệp này để tạm giam theo quyết định của TAND thành phố Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T14:47:00+07:00",
+      "fetched": "2026-09-12T23:38:23.963097+07:00"
+    },
+    {
+      "id": "3af0f21801967fc9e8e5420d347be871",
+      "title": "The World Of Heineken®: 'Siêu trải nghiệm' kết nối văn hóa, thể thao, du lịch và kinh tế đô thị",
+      "link": "https://thanhnien.vn/the-world-of-heineken-sieu-trai-nghiem-ket-noi-van-hoa-the-thao-du-lich-va-kinh-te-do-thi-185260912210640303.htm",
+      "summary": "Trong ba ngày từ 11 đến 13.9, The World Of Heineken® quy tụ âm nhạc, bóng đá, F1® và Pickleball tại không gian ven sông TP.HCM, mang đến một mô hình trải nghiệm nơi công chúng không chỉ thưởng thức mà còn trực tiếp tham gia, tương tác và kết nối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T14:40:00+07:00",
+      "fetched": "2026-09-12T23:38:23.963223+07:00"
+    },
+    {
+      "id": "065b0cea3d0b9c68abd045e4ea5c8e3d",
+      "title": "Hà Nội FC thua đậm nhất sau 14 năm trước SLNA",
+      "link": "https://vnexpress.net/ha-noi-fc-thua-dam-nhat-sau-14-nam-truoc-slna-5119615.html",
+      "summary": "Thất bại 1-4 tại vòng 2 V-League 2026-2027 trên sân Hàng Đẫy tối nay là trận thua đậm nhất của Hà Nội FC trước SLNA kể từ năm 2012.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-12T14:36:05+07:00",
+      "fetched": "2026-09-12T23:38:34.523888+07:00"
+    },
+    {
+      "id": "be133775fe4c3977706366827dc0780b",
+      "title": "Bảng xếp hạng V-League mới nhất: Hà Nội lao ‘vù vù’ xuống đáy, dưới cả HAGL, SLNA vươn lên tốp 2",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-ha-noi-lao-vu-vu-xuong-day-duoi-ca-hagl-slna-vuon-len-top-2-185260912212156114.htm",
+      "summary": "Thảm bại 1-4 trước SLNA ngay trên sân nhà Hàng Đẫy khiến CLB Hà Nội rơi xuống đáy bảng xếp hạng V-League 2026-2027 sau 2 vòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T14:29:00+07:00",
+      "fetched": "2026-09-12T23:38:23.963338+07:00"
+    },
+    {
+      "id": "1c847a7ac43629cbb5153d926eae9695",
+      "title": "Áp thấp nhiệt đới tiến gần đất liền, gây mưa dữ dội cho miền Bắc, miền Trung",
+      "link": "https://thanhnien.vn/ap-thap-nhiet-doi-tien-gan-dat-lien-gay-mua-du-doi-cho-mien-bac-mien-trung-185260912203746651.htm",
+      "summary": "Theo dự báo, khoảng đêm mai 13.9, áp thấp nhiệt đới sẽ đổ bộ khu vực đất liền tỉnh Quảng Trị rồi suy yếu thành vùng thấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T14:12:00+07:00",
+      "fetched": "2026-09-12T23:38:23.963451+07:00"
+    },
+    {
+      "id": "0edd68543cafec8050fdc708bbda8277",
+      "title": "Chóng mặt đột ngột: Coi chừng dấu hiệu đột quỵ",
+      "link": "https://thanhnien.vn/chong-mat-dot-ngot-coi-chung-dau-hieu-dot-quy-185260912201654511.htm",
+      "summary": "Đột nhiên choáng váng, chóng mặt là những triệu chứng khá phổ biến của rối loạn tiền đình, mất nước, hạ đường huyết, tác dụng phụ của thuốc và một số nguyên nhân khác. Tuy nhiên, đây cũng có thể là dấu hiệu của đột quỵ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T14:10:00+07:00",
+      "fetched": "2026-09-12T23:38:23.963564+07:00"
+    },
+    {
+      "id": "a20d9ef1ac69fddaad96a70baa5241f8",
+      "title": "Hà Nội thua tan nát SLNA tỷ số không tưởng 1-4: Trận đấu thảm họa, ghế HLV Kewell 'rung lắc' dữ dội",
+      "link": "https://thanhnien.vn/ha-noi-thua-tan-nat-slna-ty-so-khong-tuong-1-4-tran-dau-tham-hoa-ghe-hlv-kewell-rung-lac-du-doi-185260912191737927.htm",
+      "summary": "CLB Hà Nội thua đậm 1-4 trước SLNA trên sân nhà Hàng Đẫy ở vòng 2 V-League 2026-2027, diễn ra lúc 19 giờ 15 ngày 12.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T14:10:00+07:00",
+      "fetched": "2026-09-12T23:38:23.963681+07:00"
+    },
+    {
+      "id": "fde5084c3a631cc2ae90d2aedfed0338",
+      "title": "Ông Zelensky sẵn sàng gặp ông Putin ở hội nghị G20",
+      "link": "https://vnexpress.net/ong-zelensky-san-sang-gap-ong-putin-o-hoi-nghi-g20-5119600.html",
+      "summary": "Tổng thống Zelensky nói sẵn sàng gặp người đồng cấp Nga Putin tại hội thượng đỉnh G20 ở Mỹ vào tháng 12, khi các nỗ lực chấm dứt xung đột đang được đẩy mạnh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-12T13:19:00+07:00",
+      "fetched": "2026-09-12T23:38:28.119205+07:00"
     },
     {
       "id": "d28cdbe6ca21047e056c39d98232d5bd",
