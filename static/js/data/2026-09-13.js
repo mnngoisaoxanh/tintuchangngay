@@ -1,7 +1,157 @@
 window.newsData_2026_09_13 = {
   "date": "2026-09-13",
-  "lastUpdated": "2026-09-13T06:34:14.111898+07:00",
+  "lastUpdated": "2026-09-13T09:05:43.563597+07:00",
   "articles": [
+    {
+      "id": "dc7a7414c3c15bf4ff9d6605daa17769",
+      "title": "Đánh bại Sabalenka, Rybakina lần đầu vô địch Mỹ mở rộng và đoạt luôn ngôi số 1 thế giới",
+      "link": "https://tuoitre.vn/danh-bai-sabalenka-rybakina-lan-dau-vo-dich-my-mo-rong-va-doat-luon-ngoi-so-1-the-gioi-100260913063137297.htm",
+      "summary": "Tay vợt người Kazakhstan Elena Rybakina đã xuất sắc đánh bại đối thủ số 1 thế giới Aryna Sabalenka 2-1 (6-4, 5-7, 6-2) rạng sáng 13-9 ở trận chung kết đơn nữ Giải quần vợt Mỹ mở rộng 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T09:05:34.596393+07:00",
+      "fetched": "2026-09-13T09:05:34.596492+07:00"
+    },
+    {
+      "id": "b1607405a9461efc692af3861a3ab929",
+      "title": "Nhạc sĩ nào 'ăn khách' nhất giai đoạn 1934 - 1954?",
+      "link": "https://tuoitre.vn/nhac-si-nao-an-khach-nhat-giai-doan-1934-1954-10026091300503915.htm",
+      "summary": "Đoàn giải phóng quân của nhạc sĩ Phan Huỳnh Điểu là một trong những bài hát ‘ăn khách’ nhất giai đoạn đầu 1934 - 1954.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T09:05:34.596282+07:00",
+      "fetched": "2026-09-13T09:05:34.596375+07:00"
+    },
+    {
+      "id": "456c1e94e5d4a81aebf301c47f56f0de",
+      "title": "Phòng khám Tuệ Tĩnh và phương châm 'mỗi người một phương thuốc'",
+      "link": "https://tuoitre.vn/phong-kham-tue-tinh-va-phuong-cham-moi-nguoi-mot-phuong-thuoc-100260912165428446.htm",
+      "summary": "Vọng - Văn - Vấn - Thiết là bốn phương pháp chẩn đoán kinh điển trong y học cổ truyền. Ứng dụng nguyên lý này, Phòng khám Y học cổ truyền Tuệ Tĩnh TP.HCM cho biết luôn chú trọng thăm khám kỹ để thiết kế bài thuốc phù hợp nhất với từng người bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T09:05:34.596216+07:00",
+      "fetched": "2026-09-13T09:05:34.596272+07:00"
+    },
+    {
+      "id": "aaa7dd0781171ffbf6ab4af20c5db58f",
+      "title": "Lịch thi đấu chung kết Vietnam Open 2026",
+      "link": "https://tuoitre.vn/lich-thi-dau-chung-ket-vietnam-open-2026-100260913054152678.htm",
+      "summary": "Ngày thi đấu cuối cùng của Giải cầu lông Vietnam Open 2026 diễn ra từ 13h ngày 13-9 tại Nhà thi đấu Nguyễn Du (TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T09:05:34.596149+07:00",
+      "fetched": "2026-09-13T09:05:34.596206+07:00"
+    },
+    {
+      "id": "5937fa04aca241d9c659abc772727549",
+      "title": "Vũ Linh được dự đoán vào top 5 Nam vương Quốc tế 2026",
+      "link": "https://tuoitre.vn/vu-linh-duoc-du-doan-vao-top-5-nam-vuong-quoc-te-2026-100260913050208223.htm",
+      "summary": "Trước ngày tranh tài tại Nam vương Quốc tế 2026, Vũ Linh được một số chuyên trang sắc đẹp quốc tế đánh giá là ứng viên có khả năng tiến sâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T09:05:34.596078+07:00",
+      "fetched": "2026-09-13T09:05:34.596139+07:00"
+    },
+    {
+      "id": "7a5c7a0ff309a5c73a063165c3c4f4c0",
+      "title": "Vì sao Kagurabachi được kỳ vọng thành hiện tượng anime mới?",
+      "link": "https://tuoitre.vn/vi-sao-kagurabachi-duoc-ky-vong-thanh-hien-tuong-anime-moi-100260912180611999.htm",
+      "summary": "Từng bị chế giễu vì hình tượng nhân vật và không khí u tối, Kagurabachi dần chứng minh sức hút và được kỳ vọng trở thành một trong những anime nổi bật khi ra mắt năm 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T09:05:34.596008+07:00",
+      "fetched": "2026-09-13T09:05:34.596068+07:00"
+    },
+    {
+      "id": "2c0ded3824617a53c271d975660062a8",
+      "title": "Gin Tuấn Kiệt phải cảm ơn chương trình ‘Anh trai say hi’",
+      "link": "https://tuoitre.vn/gin-tuan-kiet-phai-cam-on-chuong-trinh-anh-trai-say-hi-100260913014224145.htm",
+      "summary": "Gin Tuấn Kiệt rời Anh trai say hi sau ba vòng thi nhưng có một chương mới. Anh cảm ơn chương trình đã cho anh nhiều tư duy cũng như màu sắc âm nhạc mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T09:05:34.595930+07:00",
+      "fetched": "2026-09-13T09:05:34.595996+07:00"
+    },
+    {
+      "id": "0c84d14c9ccf65913c945e5c5d8ab2e9",
+      "title": "VinFast VF5 mới lộ ảnh không che: Dễ có cốp trước, 30% pin đi được 90km",
+      "link": "https://tuoitre.vn/vinfast-vf-5-moi-lo-anh-khong-che-de-co-cop-truoc-30-pin-di-duoc-90km-100260913020634462.htm",
+      "summary": "VinFast VF5 mới tiếp tục lộ diện tại Việt Nam, lần này cho thấy rõ hàng loạt thay đổi từ thiết kế bên ngoài đến khoang nội thất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T09:05:34.595860+07:00",
+      "fetched": "2026-09-13T09:05:34.595919+07:00"
+    },
+    {
+      "id": "bfd525ce767b120f5465e7353e85195f",
+      "title": "Bộ đội làm trung thu sớm cho các em nhỏ nơi bản biên cương Na Ngoi",
+      "link": "https://tuoitre.vn/bo-doi-lam-trung-thu-som-cho-cac-em-nho-noi-ban-bien-cuong-na-ngoi-100260913065756156.htm",
+      "summary": "Đêm 12-9, ngay dưới ngọn cờ đỏ sao vàng trên khoảng sân trường mới ở đỉnh mây Na Ngoi, Nghệ An, chương trình ‘Trăng thu biên cương’ diễn ra sôi động, thu hút đông đảo nhân dân địa phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T09:05:34.595787+07:00",
+      "fetched": "2026-09-13T09:05:34.595849+07:00"
+    },
+    {
+      "id": "64782716d5b775307f9d224c479ec7cc",
+      "title": "Doraemon: Nobita và binh đoàn người sắt là Movie cảm động nhất của Doraemon",
+      "link": "https://tuoitre.vn/doraemon-nobita-va-binh-doan-nguoi-sat-la-movie-cam-dong-nhat-cua-doraemon-100260912182839879.htm",
+      "summary": "Trong số hàng chục chuyến phiêu lưu mà Doraemon cùng Nobita và những người bạn từng trải qua trên màn ảnh rộng, Nobita và binh đoàn người sắt vẫn có vị trí rất đặc biệt trong lòng fan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T09:05:34.595709+07:00",
+      "fetched": "2026-09-13T09:05:34.595776+07:00"
+    },
+    {
+      "id": "067071a77fd446c108d0fbbf359cb481",
+      "title": "Iran chuyển Mỹ danh sách 7 điều kiện để mở lại eo biển Hormuz",
+      "link": "https://tuoitre.vn/iran-chuyen-my-danh-sach-7-dieu-kien-de-mo-lai-eo-bien-hormuz-100260913064153774.htm",
+      "summary": "Phía Iran tuyên bố việc mở lại eo biển Hormuz hoàn toàn phụ thuộc vào hành động của Mỹ trong việc thực hiện các điều kiện của Tehran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T09:05:34.595583+07:00",
+      "fetched": "2026-09-13T09:05:34.595691+07:00"
+    },
+    {
+      "id": "24ebe52b5d7bb7a6a276fbbb0f1b3c68",
+      "title": "5 điều cần nhớ để phòng ngừa thừa cân, béo phì cho trẻ em",
+      "link": "https://tuoitre.vn/5-dieu-can-nho-de-phong-ngua-thua-can-beo-phi-cho-tre-em-100260913071830848.htm",
+      "summary": "Bộ Y tế đã ban hành Thông tư 34/2026 hướng dẫn một số nội dung thực hiện Chương trình mục tiêu quốc gia về chăm sóc sức khỏe, dân số và phát triển giai đoạn 2026-2035. Chúng tôi xin giới thiệu cách phòng ngừa chứng thừa cân béo phì.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T09:05:34.595216+07:00",
+      "fetched": "2026-09-13T09:05:34.595556+07:00"
+    },
+    {
+      "id": "319c961056b8dc8376e357bef35243a5",
+      "title": "Mưa lũ dâng nhanh trong đêm, Quảng Trị di dời hàng trăm hộ dân ở xã biên giới",
+      "link": "https://tuoitre.vn/mua-lu-dang-nhanh-trong-dem-quang-tri-di-doi-hang-tram-ho-dan-o-xa-bien-gioi-100260913071807026.htm",
+      "summary": "Mưa lũ khiến mực nước sông Sê Pôn dâng cao nhanh từ rạng sáng 13-9 khiến hàng chục hộ dân ở xã Lao Bảo bị ngập, lực lượng chức năng xuyên đêm hỗ trợ người dân di dời đến nơi cao ráo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T09:05:34.595141+07:00",
+      "fetched": "2026-09-13T09:05:34.595205+07:00"
+    },
+    {
+      "id": "8cc1c898d9661558bc67de3c6aa3693f",
+      "title": "Mưa lớn đang dịch chuyển ra phía bắc Đà Nẵng",
+      "link": "https://tuoitre.vn/mua-lon-dang-dich-chuyen-ra-phia-bac-da-nang-100260913073249473.htm",
+      "summary": "Phía bắc Đà Nẵng tiếp tục có mưa vừa, mưa to trong ngày 13-9, trong khi phía nam mưa có xu hướng giảm dần. Huế và Quảng Trị dự báo mưa lớn trong hôm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T09:05:34.595058+07:00",
+      "fetched": "2026-09-13T09:05:34.595129+07:00"
+    },
+    {
+      "id": "b7a655a201657b9ac6c7eb1a9b3847da",
+      "title": "Thông tin mới về đề án cải cách tiền lương, mô hình đơn vị hành chính cấp xã mang tính hạt nhân",
+      "link": "https://tuoitre.vn/thong-tin-moi-ve-de-an-cai-cach-tien-luong-mo-hinh-don-vi-hanh-chinh-cap-xa-mang-tinh-hat-nhan-100260913074125143.htm",
+      "summary": "Phó thủ tướng Phạm Thị Thanh Trà yêu cầu Bộ Nội vụ tham mưu Chính phủ chuẩn bị tốt hồ sơ về đề án cải cách chính sách tiền lương, bảo hiểm xã hội và hoàn thiện mô hình đơn vị hành chính cấp xã mang tính hạt nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T09:05:34.594894+07:00",
+      "fetched": "2026-09-13T09:05:34.595044+07:00"
+    },
     {
       "id": "7ba2d524a5cdc6efe50bdc0d5aa9483d",
       "title": "Tin tức sáng 13-9: Lãi suất qua đêm về 1,5%; Em trai Chủ tịch SSI chi hơn 100 tỉ đồng mua cổ phiếu",
@@ -241,6 +391,226 @@ window.newsData_2026_09_13 = {
       "category": "Tổng hợp",
       "published": "2026-09-13T02:52:05.780733+07:00",
       "fetched": "2026-09-13T02:52:05.780892+07:00"
+    },
+    {
+      "id": "37b82abc2a588353b12fd08cd36ce9b8",
+      "title": "Messi ghi siêu phẩm, Inter Miami lại đánh rơi chiến thắng trước đội đầu bảng MLS",
+      "link": "https://thanhnien.vn/messi-ghi-sieu-pham-inter-miami-lai-danh-roi-chien-thang-truoc-doi-dau-bang-mls-18526091308563408.htm",
+      "summary": "Sáng 13.9, Messi ghi bàn thắng siêu phẩm sút xa từ ngoài vòng cấm và thực hiện cú đá phạt góc hoàn hảo, nhưng chung cuộc Inter Miami chỉ hòa đội đầu bảng MLS Nashville SC với tỷ số 2-2 sau hàng loạt cơ hội bỏ lỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T02:04:00+07:00",
+      "fetched": "2026-09-13T09:05:29.388412+07:00"
+    },
+    {
+      "id": "e297b73418a0f2fd74993c9b920c95e1",
+      "title": "Mùa lúa chét cuối cùng - Truyện ngắn của Trần Minh Cường",
+      "link": "https://thanhnien.vn/mua-lua-chet-cuoi-cung-truyen-ngan-cua-tran-minh-cuong-185260912153112578.htm",
+      "summary": "Ở miệt dưới này, người ta gọi lúa chét là thứ lúa mọc lên sau mùa gặt. Lúa chính đã cúi đầu cho người ta gặt hết rồi, ruộng trơ gốc rạ, bùn phơi mình dưới nắng, vậy mà ít bữa sau, từ những chân rạ còn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T02:00:00+07:00",
+      "fetched": "2026-09-13T09:05:31.008195+07:00"
+    },
+    {
+      "id": "2aafa38bb59db5f004f5dc63b46db67b",
+      "title": "'Sống là cho, đâu chỉ nhận riêng mình'",
+      "link": "https://thanhnien.vn/song-la-cho-dau-chi-nhan-rieng-minh-185260908144347115.htm",
+      "summary": "Dọc hai tuyến quốc lộ 1A và 19 qua Tuy Phước (Bình Định cũ, nay thuộc Gia Lai), mỗi khi xảy ra tai nạn, va quệt giao thông, người dân thường thấy một người đàn ông cùng đồng đội nhanh chóng có mặt để hỗ trợ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T02:00:00+07:00",
+      "fetched": "2026-09-13T09:05:31.008603+07:00"
+    },
+    {
+      "id": "abe8a52dd1f1ed34e18d54fa7e042e01",
+      "title": "Ông Trump: Houthi không muốn giao chiến với Mỹ",
+      "link": "https://vnexpress.net/ong-trump-houthi-khong-muon-giao-chien-voi-my-5119670.html",
+      "summary": "Tổng thống Donald Trump cho biết nhóm vũ trang Houthi đã đề nghị Mỹ không can thiệp vào cuộc xung đột Yemen.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-13T01:49:19+07:00",
+      "fetched": "2026-09-13T09:05:35.954616+07:00"
+    },
+    {
+      "id": "3295a91bd867acc937888d3826aa9071",
+      "title": "Lãnh đạo Trung - Ấn cam kết hướng đến giải quyết tranh chấp biên giới",
+      "link": "https://thanhnien.vn/lanh-dao-trung-an-cam-ket-huong-den-giai-quyet-tranh-chap-bien-gioi-185260913083500553.htm",
+      "summary": "Lãnh đạo Trung Quốc và Ấn Độ thảo luận vấn đề thương mại và biên giới trong chuyến thăm Ấn Độ lần đầu tiên kể từ năm 2019 của Chủ tịch nước Trung Quốc Tập Cận Bình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T01:41:00+07:00",
+      "fetched": "2026-09-13T09:05:31.008769+07:00"
+    },
+    {
+      "id": "67e49a482c3c0931e71ccdd34707bea9",
+      "title": "Chèo, cải lương, hát Then… 'bùng nổ' trên sân khấu 'Anh trai vượt ngàn chông gai'",
+      "link": "https://thanhnien.vn/cheo-cai-luong-hat-then-bung-no-tren-san-khau-anh-trai-vuot-ngan-chong-gai-18526091308125155.htm",
+      "summary": "Công diễn 4 'Anh trai vượt ngàn chông gai' chiêu đãi khán giả loạt tiết mục tôn vinh văn hóa Tày, dân ca Bắc bộ, đờn ca tài tử Nam bộ…. Sự kết hợp giữa âm nhạc truyền thống với tư duy sáng tạo hiện đại tạo nên những màn trình diễn độc đáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T01:36:00+07:00",
+      "fetched": "2026-09-13T09:05:31.008923+07:00"
+    },
+    {
+      "id": "ddcd33f10430c01e832d013ce74ebdf0",
+      "title": "Độc đáo Na Uy: Mặt trời giữa đêm, tinh thần Viking và cách tạo nên Haaland",
+      "link": "https://thanhnien.vn/doc-dao-na-uy-mat-troi-giua-dem-tinh-than-viking-va-cach-tao-nen-haaland-18526091113385069.htm",
+      "summary": "Một xứ sở có cả gấu trắng lẫn chim cánh cụt. Những ngày hè mặt trời dường như không bao giờ lặn. Trẻ con chơi bóng không tính thắng thua, học trượt tuyết trước cả khi biết nói, và lấy câu nói \"không có thời tiết xấu, chỉ tại mặc đồ chưa đủ ấm\" làm kim chỉ nam. Na Uy - đất nước Bắc Âu xa xôi - có đầy...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T01:33:00+07:00",
+      "fetched": "2026-09-13T09:05:31.009089+07:00"
+    },
+    {
+      "id": "a1115da373d947ca1932ac6c4547ab0e",
+      "title": "Áp thấp nhiệt đới 'càn quét', gây mưa lớn xối xả ở những khu vực nào?",
+      "link": "https://thanhnien.vn/ap-thap-nhiet-doi-can-quet-gay-mua-lon-xoi-xa-o-nhung-khu-vuc-nao-185260913074726089.htm",
+      "summary": "Dự báo thời tiết hôm nay 13.9, áp thấp nhiệt đới đang hướng vào đất liền ven biển Hà Tĩnh đến bắc Quảng Trị và gây ra mưa lớn từ Hà Tĩnh đến TP.Huế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T01:31:00+07:00",
+      "fetched": "2026-09-13T09:05:31.009243+07:00"
+    },
+    {
+      "id": "008029b1fb72e17d268fe54000b3187d",
+      "title": "Phát hiện nhân tuyến giáp có phải là ung thư?",
+      "link": "https://thanhnien.vn/phat-hien-nhan-tuyen-giap-co-phai-la-ung-thu-185260912201427468.htm",
+      "summary": "Kết quả siêu âm phát hiện có nhân tuyến giáp có thể khiến nhiều người lo lắng. Tuy nhiên, có nhân tuyến giáp không đồng nghĩa với mắc ung thư. Nhân tuyến giáp rất phổ biến và phần lớn là lành tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T01:30:00+07:00",
+      "fetched": "2026-09-13T09:05:31.009405+07:00"
+    },
+    {
+      "id": "905a78119ea8a880a827e599e8e5c8d6",
+      "title": "Nhà hàng nổi từng nức tiếng ở Đồng Hới thành 'đống phế liệu' trên kênh Phóng Thủy",
+      "link": "https://thanhnien.vn/nha-hang-noi-tung-nuc-tieng-o-dong-hoi-thanh-dong-phe-lieu-tren-kenh-phong-thuy-18526091307040749.htm",
+      "summary": "Dù ngành chức năng đã yêu cầu di dời hoặc tháo dỡ trước ngày 20.8 để đảm bảo thoát nước, phòng chống ngập úng, đến nay nhà hàng nổi Biển Đông nhếch nhác như đống phế liệu ở Quảng Trị vẫn 'bất động' trên kênh Phóng Thủy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T01:26:00+07:00",
+      "fetched": "2026-09-13T09:05:31.009593+07:00"
+    },
+    {
+      "id": "4075b7aa19ab003aa86890222c474541",
+      "title": "Mặt trời từng 'nuốt chửng' họ hàng của trái đất?",
+      "link": "https://thanhnien.vn/mat-troi-tung-nuot-chung-ho-hang-cua-trai-dat-185260913074543425.htm",
+      "summary": "Báo cáo mới cho thấy trái đất từng có một 'họ hàng' khổng lồ nhưng đã bị mặt trời nuốt chửng, nhiều khả năng manh mối vẫn còn ở đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T01:18:00+07:00",
+      "fetched": "2026-09-13T09:05:31.009748+07:00"
+    },
+    {
+      "id": "ad7dff33c07f9bd9734b7c56d4ca0f05",
+      "title": "iPhone 18 Pro Max 'cháy hàng', hẹn giao sang tháng 10",
+      "link": "https://thanhnien.vn/iphone-18-pro-max-chay-hang-hen-giao-sang-thang-10-185260912203207917.htm",
+      "summary": "Chỉ khoảng 10 phút sau khi mở cổng đặt trước vào lúc 19 giờ ngày 12.9, thời gian giao hàng dự kiến của các phiên bản iPhone 18 Pro Max trên hệ thống Apple Store trực tuyến tại Việt Nam đã bị lùi thêm từ 2 đến 3 tuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T01:17:00+07:00",
+      "fetched": "2026-09-13T09:05:31.009900+07:00"
+    },
+    {
+      "id": "e07fc14b6a602647714a601c72a88a94",
+      "title": "Cao tốc Vĩnh Hảo - Phan Thiết ùn tắc vì tai nạn xe đầu kéo",
+      "link": "https://thanhnien.vn/cao-toc-vinh-hao-phan-thiet-un-tac-vi-tai-nan-xe-dau-keo-185260913075040871.htm",
+      "summary": "Một vụ tai nạn giao thông trên cao tốc Vĩnh Hảo - Phan Thiết sáng nay khiến giao thông trên cao tốc này ùn tắc nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T01:12:00+07:00",
+      "fetched": "2026-09-13T09:05:31.010052+07:00"
+    },
+    {
+      "id": "5e6b97c2dd344626225635dad823fbf9",
+      "title": "OpenAI bắt tay Samsung phát triển chip AI thế hệ mới",
+      "link": "https://thanhnien.vn/openai-bat-tay-samsung-phat-trien-chip-ai-the-he-moi-185260912190546142.htm",
+      "summary": "Samsung có thể tham gia sản xuất chip AI thế hệ tiếp theo của OpenAI, sau mẫu đầu tiên được phát triển cùng Broadcom và dự kiến giao TSMC chế tạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T01:06:00+07:00",
+      "fetched": "2026-09-13T09:05:31.010197+07:00"
+    },
+    {
+      "id": "a455a3894ee048f1a37da1b9849cb8ac",
+      "title": "Mưa đầu mùa - Thơ của Nguyễn Ngọc Hạnh",
+      "link": "https://thanhnien.vn/mua-dau-mua-tho-cua-nguyen-ngoc-hanh-185260912153334365.htm",
+      "summary": "ngọn gió cựa mình trong cỏ ướtcơn mưa đầu mùa thơm lừng hương đấtchút nắng hồng chạm vào ký ứcchiếc lá vàng rơi chạm tuổi thơ tôi",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T01:05:00+07:00",
+      "fetched": "2026-09-13T09:05:32.621366+07:00"
+    },
+    {
+      "id": "d4b08eeb73f716894535e92928305c5d",
+      "title": "Nhàn đàm: Thời gian vẫn cứ trôi",
+      "link": "https://thanhnien.vn/nhan-dam-thoi-gian-van-cu-troi-185260912153638582.htm",
+      "summary": "Một người quen của tôi vừa thông báo sẽ rời thành phố, chuyển về quê sống để tiện chăm sóc mẹ già \"không còn nhiều thời gian\". Bạn bè rưng rưng hỏi thăm, chia sẻ và đồng cảm, ngậm ngùi tạm biệt nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T01:00:00+07:00",
+      "fetched": "2026-09-13T09:05:32.621800+07:00"
+    },
+    {
+      "id": "010270927848876d16b1a16ada339f85",
+      "title": "Lê Đình Tường, Đoàn Thu Hằng vô địch VM Quy Nhơn 2026",
+      "link": "https://vnexpress.net/le-dinh-tuong-doan-thu-hang-vo-dich-vm-quy-nhon-2026-5119663.html",
+      "summary": "Lê Đình Tường vượt mặt Lê Hoàng Tân, Y Glap Niê để lần ba liên tiếp vô địch, trong khi Đoàn Thu Hằng không có đối thủ khi lên ngôi 21km tại VnExpress Marathon Quy Nhơn, sáng 13/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-13T00:51:00+07:00",
+      "fetched": "2026-09-13T09:05:43.558769+07:00"
+    },
+    {
+      "id": "d717c53b1c401e62e7891addd9c1ddd7",
+      "title": "Tổng thống Iran 'thách đấu' quân sự với Mỹ",
+      "link": "https://vnexpress.net/tong-thong-iran-thach-dau-quan-su-voi-my-5119665.html",
+      "summary": "Tổng thống Pezeshkian thách thức Mỹ đấu quân sự \"như những chiến binh\", thay vì giáng đòn vào nền kinh tế Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-13T00:21:17+07:00",
+      "fetched": "2026-09-13T09:05:35.954807+07:00"
+    },
+    {
+      "id": "8eee9fa3d5fe8b4888b70a60360cb88d",
+      "title": "Rybakina vô địch Mỹ Mở rộng 2026",
+      "link": "https://vnexpress.net/rybakina-vo-dich-my-mo-rong-2026-5119671.html",
+      "summary": "Elena Rybakina thắng hạt giống số một Aryna Sabalenka 6-4, 5-7, 6-2 ở chung kết Mỹ Mở rộng ngày 12/9, qua đó giành Grand Slam thứ ba trong sự nghiệp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-13T00:16:47+07:00",
+      "fetched": "2026-09-13T09:05:43.557393+07:00"
+    },
+    {
+      "id": "b97e5c464f742e51b514b75e676b2997",
+      "title": "Dữ liệu từ robot hút bụi có thể bị đánh cắp từ xa không?",
+      "link": "https://vnexpress.net/du-lieu-tu-robot-hut-bui-co-the-bi-danh-cap-tu-xa-khong-5119641.html",
+      "summary": "Tôi vừa mua robot hút bụi, thấy chúng trang bị cảm biến với khả năng lập bản đồ ngôi nhà, nên băn khoăn liệu dữ liệu này có thể bị hacker đánh cắp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-13T00:13:12+07:00",
+      "fetched": "2026-09-13T09:05:41.424656+07:00"
+    },
+    {
+      "id": "f94e0723260ad02c6ea76a47fdd3beae",
+      "title": "Sếp Apple: Tỷ lệ màn hình iPhone Duo bị lộ và 'tình cờ có trên sản phẩm khác'",
+      "link": "https://vnexpress.net/sep-apple-ty-le-man-hinh-iphone-duo-bi-lo-va-tinh-co-co-tren-san-pham-khac-5119526.html",
+      "summary": "Greg Joswiak, Phó chủ tịch Apple, nói tỷ lệ màn hình của iPhone Duo bị rò rỉ và \"tình cờ\" một số sản phẩm mới có mặt trên thị trường đã dùng thông số tương tự.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-13T00:00:00+07:00",
+      "fetched": "2026-09-13T09:05:41.424273+07:00"
+    },
+    {
+      "id": "022d53a0230d5d5f3728736da492d870",
+      "title": "CLB của Ronaldo lập kỷ lục ghi bàn liên tiếp tại giải VĐQG",
+      "link": "https://vnexpress.net/clb-cua-ronaldo-lap-ky-luc-ghi-ban-lien-tiep-tai-giai-vdqg-5119658.html",
+      "summary": "Al Nassr ghi bàn ở trận thứ 94 liên tiếp tại giải VĐQG, khi hòa Al Khaleej 1-1 ở vòng bảy Saudi Pro League, qua đó xô đổ kỷ lục của River Plate và Benfica.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-12T23:47:10+07:00",
+      "fetched": "2026-09-13T09:05:43.558423+07:00"
     },
     {
       "id": "5f0a52102be0846512580418c2533334",
