@@ -1,7 +1,157 @@
 window.newsData_2026_09_13 = {
   "date": "2026-09-13",
-  "lastUpdated": "2026-09-13T15:37:39.098832+07:00",
+  "lastUpdated": "2026-09-13T20:58:39.394462+07:00",
   "articles": [
+    {
+      "id": "02f62f97ac63e6b228ed1807eda6604e",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2026: Bệnh án điện tử giúp chủ động chăm sóc sức khỏe",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-benh-an-dien-tu-giup-chu-dong-cham-soc-suc-khoe-100260913135434236.htm",
+      "summary": "Từ tiếp nhận, khám bệnh đến lưu trữ thông tin, quy trình khám chữa bệnh tại Trạm Y tế phường Mỹ Thới được số hóa, giúp giảm giấy tờ, hạn chế trùng lặp dữ liệu và tạo thuận tiện để người dân quản lý thông tin sức khỏe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T20:58:33.274679+07:00",
+      "fetched": "2026-09-13T20:58:33.274738+07:00"
+    },
+    {
+      "id": "2b477be484451b3200623a77837404c7",
+      "title": "Cận cảnh lúa chín nảy mầm trong nước lũ, người dân cùng nhau vớt vát chút thành quả",
+      "link": "https://tuoitre.vn/can-canh-lua-chin-nay-mam-trong-nuoc-lu-nguoi-dan-cung-nhau-vot-vat-chut-thanh-qua-100260913160253164.htm",
+      "summary": "Những ruộng lúa bị nước lũ nhấn chìm, người nông dân phải lội nước cao đến nửa người, kéo phao đi gặt lúa, hy vọng vớt vát chút thành quả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T20:58:33.274610+07:00",
+      "fetched": "2026-09-13T20:58:33.274668+07:00"
+    },
+    {
+      "id": "7189659d050839dfcc3f0eab09789204",
+      "title": "Đội tuyển nữ Việt Nam hoàn thiện lối chơi trước trận ra quân Asiad 20",
+      "link": "https://tuoitre.vn/doi-tuyen-nu-viet-nam-hoan-thien-loi-choi-truoc-tran-ra-quan-asiad-20-100260913183055734.htm",
+      "summary": "Chiều 13-9, đội tuyển nữ Việt Nam có buổi tập cuối cùng để hướng đến trận đấu đầu tiên tại Asiad 20.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T20:58:33.274542+07:00",
+      "fetched": "2026-09-13T20:58:33.274599+07:00"
+    },
+    {
+      "id": "c6ac5c8a4fb7cc31b85d195f90db60c1",
+      "title": "Không chỉ đua lãi suất, ngân hàng còn treo thưởng vàng, biệt thự để hút tiền gửi",
+      "link": "https://tuoitre.vn/khong-chi-dua-lai-suat-ngan-hang-con-treo-thuong-vang-biet-thu-de-hut-tien-gui-100260913185834993.htm",
+      "summary": "Chưa bao giờ người có tiền nhàn rỗi lại có nhiều lựa chọn như hiện nay khi ngoài lãi suất cao, ngân hàng còn liên tục treo thưởng từ vàng đến biệt thự, căn hộ, sổ tiết kiệm… giá trị hàng tỉ đồng để thu hút vốn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T20:58:33.274475+07:00",
+      "fetched": "2026-09-13T20:58:33.274532+07:00"
+    },
+    {
+      "id": "cf211aaf50596065720524f071af4852",
+      "title": "Mưa lớn kết hợp triều cường, người dân một số nơi khó nhọc trên đường về nhà",
+      "link": "https://tuoitre.vn/mua-lon-ket-hop-trieu-cuong-nguoi-dan-mot-so-noi-kho-nhoc-tren-duong-ve-nha-10026091318545799.htm",
+      "summary": "Chiều 13-9, mưa lớn xuất hiện đúng thời điểm triều cường khiến một số tuyến đường thấp ở TP.HCM ngập cục bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T20:58:33.274408+07:00",
+      "fetched": "2026-09-13T20:58:33.274465+07:00"
+    },
+    {
+      "id": "148206118f6e2741382e5bbaf65b5fc9",
+      "title": "Vô địch Giải cầu lông Vietnam Open, tay vợt Malaysia ném vợt tặng khán giả",
+      "link": "https://tuoitre.vn/vo-dich-giai-cau-long-vietnam-open-tay-vot-malaysia-nem-vot-tang-khan-gia-100260913184308023.htm",
+      "summary": "Sau khi vô địch nội dung đơn nam Giải cầu lông Vietnam Open 2026, Sholeh Aidil (Malaysia) đã ném vợt lên khán đài để tặng khán giả tại Nhà thi đấu Nguyễn Du.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T20:58:33.274332+07:00",
+      "fetched": "2026-09-13T20:58:33.274397+07:00"
+    },
+    {
+      "id": "9e28f4f10b4200e0477ee62a21795568",
+      "title": "2 thanh niên Lâm Đồng làm tiền giả trong phòng",
+      "link": "https://tuoitre.vn/2-thanh-nien-lam-dong-lam-tien-gia-trong-phong-10026091318375417.htm",
+      "summary": "Công an tỉnh Lâm Đồng hoàn tất điều tra, đề nghị truy tố hai thanh niên làm tiền giả để tiêu dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T20:58:33.274232+07:00",
+      "fetched": "2026-09-13T20:58:33.274320+07:00"
+    },
+    {
+      "id": "dc4c406c67426230411184ab26d59937",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm Nga và Pháp: Chuyển tư duy từ trao đổi sang cùng làm",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tham-nga-va-phap-chuyen-tu-duy-tu-trao-doi-sang-cung-lam-100260913165951789.htm",
+      "summary": "Vấn đề không còn là mỗi bên mua bao nhiêu hàng hóa hay chuyển giao công nghệ đơn thuần mà là làm sao để Việt Nam cùng Nga và Pháp cùng làm, cùng nghiên cứu, cùng sản xuất, theo Bộ trưởng Bộ Ngoại giao Lê Hoài Trung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T20:58:33.274154+07:00",
+      "fetched": "2026-09-13T20:58:33.274221+07:00"
+    },
+    {
+      "id": "8a0d22ec2fde7a43e3aa43472988f723",
+      "title": "Một đại gia vừa rời danh sách tỉ phú USD, Việt Nam còn 7 người",
+      "link": "https://tuoitre.vn/mot-dai-gia-vua-roi-danh-sach-ti-phu-usd-viet-nam-con-7-nguoi-100260913192835847.htm",
+      "summary": "Việt Nam hiện còn 7 tỉ phú USD, với tổng tài sản khoảng gần 55 tỉ USD. Tài sản cụ thể của từng người ra sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T20:58:33.274084+07:00",
+      "fetched": "2026-09-13T20:58:33.274143+07:00"
+    },
+    {
+      "id": "fe67be8a0ae277b204ff5eaa34f2b8be",
+      "title": "Ngày 13-9: Tìm thêm 11 hài cốt liệt sĩ tại rãnh chôn mới, đã thấy 627 bộ ở công viên Lê Thị Riêng",
+      "link": "https://tuoitre.vn/ngay-13-9-tim-them-11-hai-cot-liet-si-tai-ranh-chon-moi-da-thay-627-bo-o-cong-vien-le-thi-rieng-100260913194234831.htm",
+      "summary": "Ngày 13-9, lực lượng chức năng tìm thấy thêm 11 bộ hài cốt tại rãnh chôn thứ hai khu A ở công viên Lê Thị Riêng, nâng tổng số bộ hài cốt được tìm thấy lên 627 bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T20:58:33.274014+07:00",
+      "fetched": "2026-09-13T20:58:33.274073+07:00"
+    },
+    {
+      "id": "cc6bd25377ac5ad9cc418b6ec67dc0a1",
+      "title": "VAR và mặt sân Pleiku lầy lội khiến CLB Hoàng Anh Gia Lai thảm bại",
+      "link": "https://tuoitre.vn/var-va-mat-san-pleiku-lay-loi-khien-clb-hoang-anh-gia-lai-tham-bai-100260913194630909.htm",
+      "summary": "CLB Hoàng Anh Gia Lai đã thua Hải Phòng 1-3 ở vòng 2 V-League 2026-2027, trong ngày sân Pleiku lầy lội vì cơn mưa lớn trước trận và còn 2 lần bị VAR từ chối cơ hội có bàn thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T20:58:33.273939+07:00",
+      "fetched": "2026-09-13T20:58:33.274002+07:00"
+    },
+    {
+      "id": "15a39c0836bf57b4310844a39747a68a",
+      "title": "Thủ tướng Malaysia hát tình ca Bollywood tại Ấn Độ",
+      "link": "https://tuoitre.vn/thu-tuong-malaysia-hat-tinh-ca-bollywood-tai-an-do-100260913184738705.htm",
+      "summary": "Màn trình diễn ngẫu hứng của Thủ tướng Anwar Ibrahim tại tiệc tối BRICS nhanh chóng gây sốt mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T20:58:33.273866+07:00",
+      "fetched": "2026-09-13T20:58:33.273928+07:00"
+    },
+    {
+      "id": "d8c83ffbeb3221e4ff6d6f832ce794b6",
+      "title": "Chảy máu chất xám ở Israel: Yerida - lời người ra đi",
+      "link": "https://tuoitre.vn/chay-mau-chat-xam-o-israel-yerida-loi-nguoi-ra-di-100260912235319342.htm",
+      "summary": "Ở Israel, chuyện người dân bỏ đi ầm ầm trong 3 năm qua, nhất là tầng lớp trí thức, đã chạm vào cốt tủy của chủ nghĩa phục quốc Do Thái, vì đây là quốc gia duy nhất được thành lập và hiện hữu dựa trên sự trở về.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T20:58:33.273791+07:00",
+      "fetched": "2026-09-13T20:58:33.273855+07:00"
+    },
+    {
+      "id": "ca4bdc92a845c317f98615de05397c41",
+      "title": "Tìm thấy thi thể thiếu tá quân đội bị nước cuốn khi cứu người ở Hưng Yên",
+      "link": "https://tuoitre.vn/tim-thay-thi-the-thieu-ta-quan-doi-bi-nuoc-cuon-khi-cuu-nguoi-o-hung-yen-100260913191805893.htm",
+      "summary": "Lực lượng tìm kiếm đã tìm thấy thi thể Thiếu tá Trần Văn Tùng ở vị trí cách chân cầu Bo (Hưng Yên) khoảng 350m vào tối 13-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T20:58:33.273709+07:00",
+      "fetched": "2026-09-13T20:58:33.273778+07:00"
+    },
+    {
+      "id": "e15c76c2fffe87a6e8655dc989e8e306",
+      "title": "Dabura trở lại sau cái kết Jujutsu Kaisen Modulo",
+      "link": "https://tuoitre.vn/dabura-tro-lai-sau-cai-ket-jujutsu-kaisen-modulo-100260913200546433.htm",
+      "summary": "Họa sĩ Yuji Iwasaki vừa chia sẻ một bức phác họa mới về Dabura, nhân vật được giới thiệu là chiến binh mạnh nhất thế hệ hiện tại trong Jujutsu Kaisen Modulo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T20:58:33.273538+07:00",
+      "fetched": "2026-09-13T20:58:33.273695+07:00"
+    },
     {
       "id": "b4d76647f9a00ad6801cf08f63a8b693",
       "title": "Thúc đẩy R&D tư nhân: TP.HCM học được gì từ các địa phương nước ngoài?",
@@ -151,6 +301,236 @@ window.newsData_2026_09_13 = {
       "category": "Tổng hợp",
       "published": "2026-09-13T15:37:31.819767+07:00",
       "fetched": "2026-09-13T15:37:31.819912+07:00"
+    },
+    {
+      "id": "5fc550e21d43e72d62377aeb792bb856",
+      "title": "Thiết kế iPhone Duo ưu tiên cho người thuận tay phải?",
+      "link": "https://thanhnien.vn/thiet-ke-iphone-duo-uu-tien-cho-nguoi-thuan-tay-phai-185260911180118466.htm",
+      "summary": "iPhone Duo có thể khiến khoảng 10% dân số không hài lòng khi cụm nút và cảm biến mở khóa đều nằm ở cạnh phải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T13:51:00+07:00",
+      "fetched": "2026-09-13T20:58:31.647090+07:00"
+    },
+    {
+      "id": "1f59bcfe7e8e6ac7c8dc3389ede203fe",
+      "title": "Lê Dương Bảo Lâm, Thành Trung, Huy R hé lộ bí mật tuổi thơ mùa Trung thu",
+      "link": "https://thanhnien.vn/le-duong-bao-lam-thanh-trung-huy-r-he-lo-bi-mat-tuoi-tho-mua-trung-thu-18526091312251603.htm",
+      "summary": "Bao kỷ niệm không thể nào quên của những mùa Trung thu tuổi thơ lần lượt trở lại qua hồi ức của Lê Dương Bảo Lâm, Thành Trung, Huy R ở 'Bố ơi mình đi đâu thế?' gây xúc động đến người xem cùng các con.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T13:50:00+07:00",
+      "fetched": "2026-09-13T20:58:31.647315+07:00"
+    },
+    {
+      "id": "d83376f5a90de705aca61ef6b0065adc",
+      "title": "Thủ tướng đề xuất 3 định hướng lớn tại hội nghị thượng đỉnh BRICS",
+      "link": "https://vnexpress.net/thu-tuong-de-xuat-3-dinh-huong-lon-tai-hoi-nghi-thuong-dinh-brics-5119806.html",
+      "summary": "Thủ tướng Lê Minh Hưng phát biểu tại hội nghị thượng đỉnh BRICS, đề xuất 3 định hướng lớn để khối phát huy vai trò trong giai đoạn tới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-13T13:37:49+07:00",
+      "fetched": "2026-09-13T20:58:34.598576+07:00"
+    },
+    {
+      "id": "b41a12fdb4171fa6efde36918dd7acee",
+      "title": "Sân Pleiku sình lầy như ruộng, HAGL buộc phải chuyển sân khác đấu Cúp quốc gia: BTC giải yêu cầu nóng",
+      "link": "https://thanhnien.vn/san-pleiku-sinh-lay-nhu-ruong-hagl-buoc-phai-chuyen-san-khac-dau-cup-quoc-gia-btc-giai-yeu-cau-nong-185260913202919399.htm",
+      "summary": "Mưa kéo dài nhiều ngày qua đã khiến mặt sân Pleiku xuống cấp nghiêm trọng, buộc BTC các giải bóng đá chuyên nghiệp quốc gia 2026-2027 phải tính đến phương án đổi sân thi đấu cho HAGL trong thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T13:37:00+07:00",
+      "fetched": "2026-09-13T20:58:31.647491+07:00"
+    },
+    {
+      "id": "d3d11647805770e6c4c7c9416352b087",
+      "title": "Hưng Yên: Tìm thấy thi thể thiếu tá quân đội lao mình xuống sông cứu người",
+      "link": "https://thanhnien.vn/hung-yen-tim-thay-thi-the-thieu-ta-quan-doi-lao-minh-xuong-song-cuu-nguoi-185260913200620652.htm",
+      "summary": "Sau hơn 1 ngày tìm kiếm, lực lượng chức năng đã tìm thấy thi thể thiếu tá quân đội Trần Văn Tùng, người đã anh dũng lao mình xuống sông Trà Lý (Hưng Yên) để cứu người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T13:32:00+07:00",
+      "fetched": "2026-09-13T20:58:31.647649+07:00"
+    },
+    {
+      "id": "bf684badcaabe3c5b4c33c3705180582",
+      "title": "Vì sao máy tính bảng dễ bị nóng và cách khắc phục hiệu quả?",
+      "link": "https://thanhnien.vn/vi-sao-may-tinh-bang-de-bi-nong-va-cach-khac-phuc-hieu-qua-185260913110453732.htm",
+      "summary": "Máy tính bảng của bạn đang sử dụng bỗng nóng ran bất thường, làm sao để hạ nhiệt nhanh chóng?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T13:32:00+07:00",
+      "fetched": "2026-09-13T20:58:31.647805+07:00"
+    },
+    {
+      "id": "20aa26560bec0fe1086a3556459d6ce0",
+      "title": "Thủ tướng Lê Minh Hưng: Đẩy mạnh ngoại giao kinh tế, công nghệ với Ấn Độ",
+      "link": "https://thanhnien.vn/thu-tuong-le-minh-hung-day-manh-ngoai-giao-kinh-te-cong-nghe-voi-an-do-185260913195438961.htm",
+      "summary": "Chiều ngày 13.9, tại New Delhi, Thủ tướng Lê Minh Hưng đã tới thăm, làm việc với Đại sứ quán Việt Nam tại Ấn Độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T13:31:00+07:00",
+      "fetched": "2026-09-13T20:58:31.647961+07:00"
+    },
+    {
+      "id": "03ec1f3f65252f8d6123b1f4f50272ca",
+      "title": "Phương Trinh Jolie: Chồng hỗ trợ chăm con khi tôi trở lại đi hát, kinh doanh",
+      "link": "https://thanhnien.vn/phuong-trinh-jolie-chong-ho-tro-cham-con-khi-toi-tro-lai-di-hat-kinh-doanh-185260913185324928.htm",
+      "summary": "Theo Phương Trinh Jolie, khi quyết định trở lại với đam mê nghệ thuật, cô nhận được sự ủng hộ từ người bạn đời. Chính điều này khiến nữ ca sĩ có thêm động lực để đi hát, kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T13:22:00+07:00",
+      "fetched": "2026-09-13T20:58:31.648117+07:00"
+    },
+    {
+      "id": "ae25a8a03d3d76fd9dfdbc0ab851decc",
+      "title": "Xe đầu kéo quyết bám làn trái cản đường xe của CSGT, phạt tài xế 7 triệu",
+      "link": "https://thanhnien.vn/xe-dau-keo-quyet-bam-lan-trai-can-duong-xe-cua-csgt-phat-tai-xe-7-trieu-18526091318105201.htm",
+      "summary": "Bất chấp xe dẫn đoàn của lực lượng CSGT liên tục phát tín hiệu còi yêu cầu nhường đường, tài xế xe đầu kéo vẫn cố tình \"bám làn trái\" trên cao tốc, gây cản trở với xe ưu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T13:21:00+07:00",
+      "fetched": "2026-09-13T20:58:31.648319+07:00"
+    },
+    {
+      "id": "241dd0814734b15916074974f803280a",
+      "title": "Mỹ: Một nữ sinh bị đình chỉ học vì mang ly cà phê vào lớp",
+      "link": "https://thanhnien.vn/my-mot-nu-sinh-bi-dinh-chi-hoc-vi-mang-ly-ca-phe-vao-lop-185260913200010387.htm",
+      "summary": "Một nữ sinh trung học tại bang New York (Mỹ) đã bị đình chỉ học vì mang ly cà phê vào lớp. Tuy nhiên, hình phạt được gỡ bỏ sau khi nữ sinh này khiếu nại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T13:19:00+07:00",
+      "fetched": "2026-09-13T20:58:31.648480+07:00"
+    },
+    {
+      "id": "35faaa12eed70cc77d0c56795fb6347b",
+      "title": "Bất ngờ trước nhan sắc của NSƯT Kiều Anh ở tuổi 45",
+      "link": "https://thanhnien.vn/bat-ngo-truoc-nhan-sac-cua-nsut-kieu-anh-o-tuoi-45-185260913164226316.htm",
+      "summary": "Đến ủng hộ nhà thiết kế Kenny Thái, NSƯT Kiều Anh khiến nhiều người xuýt xoa bởi nhan sắc trẻ trung ở tuổi 45.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T13:18:00+07:00",
+      "fetched": "2026-09-13T20:58:31.648640+07:00"
+    },
+    {
+      "id": "f85216cde284472b1848f381c20d9a3f",
+      "title": "Công Phượng lần đầu đá chính, CLB TP.Đồng Nai thua đáng tiếc trên sân Hà Tĩnh",
+      "link": "https://thanhnien.vn/cong-phuong-lan-dau-da-chinh-clb-tpdong-nai-thua-dang-tiec-tren-san-ha-tinh-185260913200009858.htm",
+      "summary": "Bàn thắng của Luiz Antonio trong hiệp 2 đã giúp CLB Hà Tĩnh đánh bại CLB TP.Đồng Nai 1-0 ở trận đấu vòng 2 V-League 2026 - 2027, diễn ra tối 13.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T13:13:00+07:00",
+      "fetched": "2026-09-13T20:58:31.648791+07:00"
+    },
+    {
+      "id": "be3fe94ebf610db9d558a7a627542d5d",
+      "title": "Google tung ứng dụng Gemini cho Windows",
+      "link": "https://thanhnien.vn/google-tung-ung-dung-gemini-cho-windows-185260913111417321.htm",
+      "summary": "Google vừa chính thức phát hành ứng dụng Gemini dành cho hệ điều hành Windows 10 và 11, hỗ trợ kích hoạt nhanh qua phím tắt cùng nhiều tiện ích AI tiên tiến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T13:06:00+07:00",
+      "fetched": "2026-09-13T20:58:31.648941+07:00"
+    },
+    {
+      "id": "15f44f94c68ac4597d5db7582f88b806",
+      "title": "Bảng xếp hạng V-League mới nhất: HAGL trám chỗ Hà Nội đứng chót bảng, bất ngờ với đội đứng nhì",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-hagl-tram-cho-ha-noi-dung-chot-bang-bat-ngo-voi-doi-dung-nhi-185260913195625266.htm",
+      "summary": "Sau khi 2 trận đấu cuối cùng của vòng 2 V-League 2026 - 2027 khép lại, có 3 đội bóng vẫn chưa giành được điểm nào là HAGL, CLB Hà Nội và TP.Đồng Nai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T13:03:00+07:00",
+      "fetched": "2026-09-13T20:58:31.649100+07:00"
+    },
+    {
+      "id": "542bde9ca49cb91cd68c2ef594195287",
+      "title": "Vì sao cạnh webcam trên laptop luôn có những lỗ nhỏ bí ẩn?",
+      "link": "https://thanhnien.vn/vi-sao-canh-webcam-tren-laptop-luon-co-nhung-lo-nho-bi-an-185260913131806076.htm",
+      "summary": "Những lỗ nhỏ xuất hiện cạnh webcam laptop không chỉ chứa micro hay đèn báo, mà còn đóng vai trò quan trọng khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T13:03:00+07:00",
+      "fetched": "2026-09-13T20:58:31.649278+07:00"
+    },
+    {
+      "id": "4f954da7fc790bdb3ac1a236cced80cc",
+      "title": "Xem nhanh 20h ngày 13.9: Áp thấp nhiệt đới đổ bộ Quảng Trị | Gốc cây ‘báu vật’ 35 tỉ đồng giờ ra sao?",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-139-ap-thap-nhiet-doi-do-bo-quang-tri-goc-cay-bau-vat-35-ti-dong-gio-ra-sao-185260913193251214.htm",
+      "summary": "'Xem nhanh 20h' ngày 13.9 có nhiều tin tức đáng chú ý về: Áp thấp nhiệt đới vào Quảng Trị, miền Trung mưa xối xả trên 500 mm; Gốc cây 'báu vật' 35 tỉ đồng từng gây xôn xao miền Tây, giờ ra sao?;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-13T13:00:00+07:00",
+      "fetched": "2026-09-13T20:58:31.649442+07:00"
+    },
+    {
+      "id": "174f77f53f5acdd63f18ad7c99208119",
+      "title": "Lật phà chở hơn 240 người ngoài khơi Indonesia",
+      "link": "https://vnexpress.net/lat-pha-cho-hon-240-nguoi-ngoai-khoi-indonesia-5119804.html",
+      "summary": "Phà chở 243 hành khách và thủy thủ đoàn bị lật ngoài khơi Indonesia do thời tiết xấu, khiến ít nhất 6 người thiệt mạng và 130 người mất tích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-13T12:37:00+07:00",
+      "fetched": "2026-09-13T20:58:34.598754+07:00"
+    },
+    {
+      "id": "27e2e8b9ef49bc34776c60893bfb5771",
+      "title": "Thế gọng kìm của Iran và Houthi với hai huyết mạch năng lượng thế giới",
+      "link": "https://vnexpress.net/the-gong-kim-cua-iran-va-houthi-voi-hai-huyet-mach-nang-luong-the-gioi-5119427.html",
+      "summary": "Việc Houthi chiếm eo biển Bab el-Mandeb có thể giúp Iran phong tỏa hai \"yết hầu\" năng lượng toàn cầu, đẩy kinh tế thế giới vào nguy cơ khủng hoảng nghiêm trọng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-13T12:00:00+07:00",
+      "fetched": "2026-09-13T20:58:34.598920+07:00"
+    },
+    {
+      "id": "16adc51225d391e3cf063ca74c2fd93e",
+      "title": "VEC và dmg events sẽ tổ chức triển lãm Quốc tế công nghiệp 2027",
+      "link": "https://vnexpress.net/vec-va-dmg-events-se-to-chuc-trien-lam-quoc-te-cong-nghiep-2027-5119772.html",
+      "summary": "Triển lãm Quốc tế công nghiệp Việt Nam 2027 sẽ mở rộng không gian tổ chức, bổ sung nhiều hoạt động xúc tiến giao thương, hướng đến kết nối chuỗi giá trị sản xuất.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-13T11:00:00+07:00",
+      "fetched": "2026-09-13T20:58:35.710929+07:00"
+    },
+    {
+      "id": "139e38dbf09974427e68abe1baea51be",
+      "title": "AI đang thay đổi hạ tầng viễn thông",
+      "link": "https://vnexpress.net/ai-dang-thay-doi-ha-tang-vien-thong-5119571.html",
+      "summary": "Theo các chuyên gia, AI đang được đưa vào nhiều lớp của hạ tầng mạng viễn thông, từ hỗ trợ xử lý tín hiệu đến phân tích cảnh báo và vận hành mạng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-13T11:00:00+07:00",
+      "fetched": "2026-09-13T20:58:38.496824+07:00"
+    },
+    {
+      "id": "4cb3725c971d3651f92ab5f06ad4db44",
+      "title": "Đề xuất doanh nghiệp, hộ kinh doanh được giảm 30% thuế hàng kỳ kê khai",
+      "link": "https://vnexpress.net/de-xuat-doanh-nghiep-ho-kinh-doanh-duoc-giam-30-thue-hang-ky-ke-khai-5119771.html",
+      "summary": "Bộ Tài chính đề xuất doanh nghiệp, hộ kinh doanh có doanh thu tối đa 10 tỷ đồng một năm được giảm 30% thuế ngay trong kỳ kê khai, thay vì chờ quyết toán cuối năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-13T10:17:46+07:00",
+      "fetched": "2026-09-13T20:58:35.709578+07:00"
+    },
+    {
+      "id": "ac4fed083e158540fd3f798793141915",
+      "title": "Hotgirl cầu lông Thái Lan vô địch Vietnam Open 2026",
+      "link": "https://vnexpress.net/hotgirl-cau-long-thai-lan-vo-dich-vietnam-open-2026-5119770.html",
+      "summary": "Không phải hạt giống và phải thi đấu từ vòng sơ loại nhưng Sarunrak Vitidsarn liên tục gây bất ngờ, lên ngôi vô địch đơn nữ mà không thua set nào ở giải Vietnam Open 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-13T10:10:18+07:00",
+      "fetched": "2026-09-13T20:58:39.385853+07:00"
+    },
+    {
+      "id": "b075e9775ca696a5d3c70f403fdb000d",
+      "title": "Căn nhà tuổi thơ của ông Trump được bán với giá gần 2 triệu USD",
+      "link": "https://vnexpress.net/can-nha-tuoi-tho-cua-ong-trump-duoc-ban-voi-gia-gan-2-trieu-usd-5119779.html",
+      "summary": "Ngôi nhà thời thơ ấu của Tổng thống Trump tại New York được cải tạo và sang nhượng sau thời gian dài xuống cấp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-13T09:45:30+07:00",
+      "fetched": "2026-09-13T20:58:34.599081+07:00"
     },
     {
       "id": "dc7a7414c3c15bf4ff9d6605daa17769",
