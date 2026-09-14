@@ -1,7 +1,157 @@
 window.newsData_2026_09_14 = {
   "date": "2026-09-14",
-  "lastUpdated": "2026-09-14T05:13:50.832004+07:00",
+  "lastUpdated": "2026-09-14T09:23:24.885330+07:00",
   "articles": [
+    {
+      "id": "c3991ba3ce58e4d4345a8c6538a5eed5",
+      "title": "Minh Anh đưa mùa bướm Cúc Phương lên sân khấu Miss International Queen",
+      "link": "https://tuoitre.vn/minh-anh-dua-mua-buom-cuc-phuong-len-san-khau-miss-international-queen-100260914071726172.htm",
+      "summary": "Nguyễn Cao Minh Anh đưa hình ảnh mùa bướm Vườn quốc gia Cúc Phương lên sân khấu Miss International Queen 2026 qua trang phục 'Lâm mộng'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T09:23:18.737821+07:00",
+      "fetched": "2026-09-14T09:23:18.737920+07:00"
+    },
+    {
+      "id": "590bdc185d5b081503795eda489802aa",
+      "title": "Động tác tập đơn giản giúp nam giới U50 tăng cường khả năng tình dục",
+      "link": "https://tuoitre.vn/dong-tac-tap-don-gian-giup-nam-gioi-u50-tang-cuong-kha-nang-tinh-duc-100260913230223382.htm",
+      "summary": "Không cần dụng cụ, phòng tập hay những động tác phức tạp, bài tập Kegel có thể thực hiện ngay cả khi đang ngồi làm việc và chủ yếu là khi nằm, lại có thể giúp nam giới trung niên tăng cường khả năng quan hệ tình dục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T09:23:18.737706+07:00",
+      "fetched": "2026-09-14T09:23:18.737803+07:00"
+    },
+    {
+      "id": "535968a63da29a5cf93bf1bcb5ff641d",
+      "title": "Một công ty được cấp hạn mức tín dụng 11.150 tỉ, mượn nhà đất của tổng giám đốc để thế chấp",
+      "link": "https://tuoitre.vn/mot-cong-ty-duoc-cap-han-muc-tin-dung-11150-ti-muon-nha-dat-cua-tong-giam-doc-de-the-chap-100260913215855614.htm",
+      "summary": "Tập đoàn Đạt Phương được 4 ngân hàng cấp tổng hạn mức tín dụng 11.150 tỉ đồng cho giai đoạn 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T09:23:18.737580+07:00",
+      "fetched": "2026-09-14T09:23:18.737687+07:00"
+    },
+    {
+      "id": "716ffaddc070b3bfa68bcbb39ae6fbb6",
+      "title": "Bẫy ảnh ghi nhận đàn voi 9 con ở Đà Nẵng, có 2 voi con",
+      "link": "https://tuoitre.vn/bay-anh-ghi-nhan-dan-voi-9-con-o-da-nang-co-2-voi-con-100260913161017466.htm",
+      "summary": "Bẫy ảnh mới ghi nhận đàn voi 9 con, trong đó có 2 voi con khoảng 2 và 6 tuổi, đang sinh trưởng tốt giữa rừng Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T09:23:18.737445+07:00",
+      "fetched": "2026-09-14T09:23:18.737560+07:00"
+    },
+    {
+      "id": "5c9b5328f8a9696bc78e44768c506a9e",
+      "title": "Đắt gần gấp đôi, Toyota Land Cruiser FJ vẫn bán chạy hơn Suzuki Jimny ở Việt Nam",
+      "link": "https://tuoitre.vn/dat-gan-gap-doi-toyota-land-cruiser-fj-van-ban-chay-hon-suzuki-jimny-o-viet-nam-100260914065100512.htm",
+      "summary": "Dù mới bán ra chưa đầy hai tháng và có giá niêm yết gần gấp đôi Suzuki Jimny, Toyota Land Cruiser FJ đã vượt đối thủ về doanh số ngay trong tháng thứ hai có mặt tại thị trường Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T09:23:18.737296+07:00",
+      "fetched": "2026-09-14T09:23:18.737422+07:00"
+    },
+    {
+      "id": "27afb83717497fa26ecc770dfbd8b5f1",
+      "title": "Đi Hà Giang 4 lần mới biết Đồng Văn có cánh đồng lúa đẹp như mơ",
+      "link": "https://tuoitre.vn/di-ha-giang-4-lan-moi-biet-dong-van-co-canh-dong-lua-dep-nhu-mo-100260913222207882.htm",
+      "summary": "Không hùng vĩ như ruộng bậc thang Hoàng Su Phì, Mù Cang Chải…, cánh đồng lúa ở Đồng Văn tạo nên cảm giác nhẹ nhàng, như nàng thơ e thẹn bên những dãy núi đá cao sừng sững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T09:23:18.737178+07:00",
+      "fetched": "2026-09-14T09:23:18.737277+07:00"
+    },
+    {
+      "id": "1dfe0c6763406d8ddbc97c50c66692bf",
+      "title": "Đi mua đất, ngoài giấy chứng nhận cần tìm hiểu những gì?",
+      "link": "https://tuoitre.vn/di-mua-dat-ngoai-giay-chung-nhan-can-tim-hieu-nhung-gi-100260909153504227.htm",
+      "summary": "Ngoài kiểm tra bản chính giấy chứng nhận, người mua đất cần kiểm tra ranh giới thực tế của thửa đất, tìm hiểu thông tin về quy hoạch, kế hoạch sử dụng đất, tìm hiểu xem đất có đang bị tranh chấp, kê biên hay không.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T09:23:18.737088+07:00",
+      "fetched": "2026-09-14T09:23:18.737158+07:00"
+    },
+    {
+      "id": "2a17a2be29f4780ae9479ebe60c1d16f",
+      "title": "Bị cận thị nặng nhưng đã mổ có được đi nghĩa vụ quân sự 2027 không?",
+      "link": "https://tuoitre.vn/bi-can-thi-nang-nhung-da-mo-co-duoc-di-nghia-vu-quan-su-2027-khong-100260914063830639.htm",
+      "summary": "Người từng bị cận thị nặng nhưng đã phẫu thuật mắt có được tham gia nghĩa vụ quân sự hay không là thắc mắc của nhiều bạn đọc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T09:23:18.736975+07:00",
+      "fetched": "2026-09-14T09:23:18.737075+07:00"
+    },
+    {
+      "id": "0b9254212e2b0ab6411b2223b59c083a",
+      "title": "Nốt ruồi: 5 dấu hiệu cảnh báo ung thư da không nên bỏ qua",
+      "link": "https://tuoitre.vn/not-ruoi-5-dau-hieu-canh-bao-ung-thu-da-khong-nen-bo-qua-100260914071633949.htm",
+      "summary": "Hầu hết nốt ruồi trên da đều lành tính và có thể tồn tại nhiều năm mà không gây vấn đề. Tuy nhiên, một nốt ruồi mới xuất hiện hoặc bắt đầu thay đổi về hình dạng, màu sắc, kích thước có thể là dấu hiệu sớm của ung thư hắc tố, loại ung thư da nguy hiểm nhưng có khả năng điều trị tốt hơn nếu phát hiện ...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T09:23:18.736908+07:00",
+      "fetched": "2026-09-14T09:23:18.736964+07:00"
+    },
+    {
+      "id": "55697303be1f04c96eefc129509fc1be",
+      "title": "Khánh Như mang gì đến đấu trường sắc đẹp Miss International 2026?",
+      "link": "https://tuoitre.vn/khanh-nhu-mang-gi-den-dau-truong-sac-dep-miss-international-2026-100260914061211377.htm",
+      "summary": "Á hậu Khánh Như mang đến Miss International 2026 trang phục dân tộc lấy cảm hứng từ tranh dân gian Đông Hồ cùng dự án hỗ trợ trẻ em khó khăn tiếp cận công nghệ và giáo dục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T09:23:18.736833+07:00",
+      "fetched": "2026-09-14T09:23:18.736897+07:00"
+    },
+    {
+      "id": "1d503ee66898fb5159f10fd13ed88104",
+      "title": "Harry Kane tiến gần đến cột mốc lịch sử tại Bundesliga",
+      "link": "https://tuoitre.vn/harry-kane-tien-gan-den-cot-moc-lich-su-tai-bundesliga-100260914082903213.htm",
+      "summary": "Tiền đạo Harry Kane vừa lập kỷ lục chạm mốc 150 bàn nhanh nhất lịch sử Bayern Munich sau trận thắng tân binh Elversberg 2-1 tại Giải Bundesliga (13-9).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T09:23:18.736750+07:00",
+      "fetched": "2026-09-14T09:23:18.736821+07:00"
+    },
+    {
+      "id": "ef219ebfd10f074bcc84d9f705d8f59e",
+      "title": "Có quy định hỗ trợ tiền ngân sách để thực hiện nghĩa vụ tài chính cho thân nhân liệt sĩ không?",
+      "link": "https://tuoitre.vn/co-quy-dinh-ho-tro-tien-ngan-sach-de-thuc-hien-nghia-vu-tai-chinh-cho-than-nhan-liet-si-khong-100260828141431032.htm",
+      "summary": "Tôi là thân nhân và trực tiếp thờ cúng liệt sĩ, nay làm giấy chứng nhận xin cấp giấy chứng nhận quyền sử dụng đất, ngoài việc được giảm tiền thuế thì có được hỗ trợ để đóng tiền sử dụng đất này không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T09:23:18.736606+07:00",
+      "fetched": "2026-09-14T09:23:18.736730+07:00"
+    },
+    {
+      "id": "9001c2c8f4022e167a83d606f4711d0f",
+      "title": "Tòa phúc thẩm tuyên hủy án, điều tra lại vụ cựu Hiệu trưởng Trường THCS Ba Đình kêu oan",
+      "link": "https://tuoitre.vn/toa-phuc-tham-tuyen-huy-an-dieu-tra-lai-vu-cuu-hieu-truong-truong-thcs-ba-dinh-keu-oan-100260914084724234.htm",
+      "summary": "Ngày 14-9, Tòa án nhân dân TP Hà Nội tuyên hủy bản án sơ thẩm để điều tra lại vụ án cựu Hiệu trưởng Trường THCS Ba Đình Nguyễn Thị Bình bị tuyên 3 năm tù liên quan việc thu 15.000 đồng/học sinh/tiết dạy thêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T09:23:18.736215+07:00",
+      "fetched": "2026-09-14T09:23:18.736575+07:00"
+    },
+    {
+      "id": "668224e2cbe6abcb95ecb515933cf84e",
+      "title": "Chi tiết phương án trình Chính phủ nghỉ lễ Quốc khánh 2027 kéo dài 4 ngày",
+      "link": "https://tuoitre.vn/chi-tiet-phuong-an-trinh-chinh-phu-nghi-le-quoc-khanh-2027-keo-dai-4-ngay-100260914084411165.htm",
+      "summary": "Bộ Nội vụ đã trình Chính phủ phương án nghỉ lễ Quốc khánh 2027 kéo dài 4 ngày, từ ngày 2 đến 5-9-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T09:23:18.736136+07:00",
+      "fetched": "2026-09-14T09:23:18.736203+07:00"
+    },
+    {
+      "id": "341e736f38a2ae5d591d55c08c236261",
+      "title": "Từ nay đến 16-9: Mưa như trút từ Hà Tĩnh ra Bắc Bộ, có nơi trên 500mm",
+      "link": "https://tuoitre.vn/tu-nay-den-16-9-mua-nhu-trut-tu-ha-tinh-ra-bac-bo-co-noi-tren-500mm-100260914081412876.htm",
+      "summary": "Từ hôm nay đến 16-9, Hà Tĩnh, Bắc Trung Bộ và Bắc Bộ mưa lớn, có nơi trên 500mm; Hà Nội cảnh báo mưa to, dông, lốc sét.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T09:23:18.735952+07:00",
+      "fetched": "2026-09-14T09:23:18.736120+07:00"
+    },
     {
       "id": "45085c5b1c086c7daa0e2dfcc06a342d",
       "title": "Doanh nghiệp được SCIC rao ngàn tỉ, nắm loạt đất vàng ở TP.HCM, có lô 3 mặt tiền Đồng Khởi",
@@ -131,6 +281,226 @@ window.newsData_2026_09_14 = {
       "category": "Tổng hợp",
       "published": "2026-09-14T03:00:20.218073+07:00",
       "fetched": "2026-09-14T03:00:20.218227+07:00"
+    },
+    {
+      "id": "ab3d4da8f4687e7287ae9d3b6e86b9c3",
+      "title": "FIFA mới công nhận hai cầu thủ nhập tịch Malaysia tham dự FIFA ASEAN Cup",
+      "link": "https://thanhnien.vn/fifa-moi-cong-nhan-hai-cau-thu-nhap-tich-malaysia-tham-du-fifa-asean-cup-185260914091352372.htm",
+      "summary": "Theo Liên đoàn Bóng đá Malaysia (FAM), FIFA đã xác nhận hai cầu thủ của CLB Johor Darul Ta'zim (JDT) - Bergson da Silva và Brad Tapp - đủ điều kiện khoác áo đội tuyển nước này. Qua đó, có thể thi đấu tại FIFA ASEAN Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T02:19:00+07:00",
+      "fetched": "2026-09-14T09:23:16.702646+07:00"
+    },
+    {
+      "id": "d1495ea4e264df0aeff8b395aeed9492",
+      "title": "Bắc Kinh cấm drone, người dân không được sở hữu hay lưu trữ",
+      "link": "https://thanhnien.vn/bac-kinh-cam-drone-nguoi-dan-khong-duoc-so-huu-hay-luu-tru-185260914091021998.htm",
+      "summary": "Thủ đô Bắc Kinh của Trung Quốc đã siết chặt các quy định về thiết bị bay không người lái (drone), cấm sở hữu và lưu trữ loại thiết bị này cùng các linh kiện cốt lõi trên toàn thành phố kể từ ngày 15.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T02:17:00+07:00",
+      "fetched": "2026-09-14T09:23:16.702819+07:00"
+    },
+    {
+      "id": "2e6c047d35c14c91ab2d9d3b5488c1a6",
+      "title": "Đến Đà Nẵng sống 1 năm, khách Úc tiết kiệm 1 tỉ đồng để mua nhà",
+      "link": "https://thanhnien.vn/den-da-nang-song-1-nam-khach-uc-tiet-kiem-1-ti-dong-de-mua-nha-185260911140421775.htm",
+      "summary": "Lẽ ra, cả gia đình đã có thể dành dụm được 150.000 đô la Úc, hơn 2,7 tỉ đồng, trong gần 1 năm ở Đà Nẵng nhưng vì đã sống vô cùng thoải mái nên số tiền tiết kiệm dừng ở mức 50.000, đủ để thành trợ lực thực hiện giấc mơ mua nhà ở Úc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T02:15:00+07:00",
+      "fetched": "2026-09-14T09:23:16.703014+07:00"
+    },
+    {
+      "id": "4408091c9d24958fa332ef3ca09267a1",
+      "title": "Đề xuất giảm 30% thuế ngay trong kỳ kê khai với hộ có doanh thu dưới 10 tỉ đồng",
+      "link": "https://thanhnien.vn/de-xuat-giam-30-thue-ngay-trong-ky-ke-khai-voi-ho-co-doanh-thu-duoi-10-ti-dong-18526091408451471.htm",
+      "summary": "Bộ Tài chính đề xuất giảm 30% thuế thu nhập trong kỳ kê khai đối với hộ kinh doanh có doanh thu dưới 10 tỉ đồng/năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T02:13:00+07:00",
+      "fetched": "2026-09-14T09:23:16.703196+07:00"
+    },
+    {
+      "id": "80a1a36fa536bfcc92753c66f9684287",
+      "title": "Người nộp thuế cần chú ý 10 trạng thái mã số thuế",
+      "link": "https://thanhnien.vn/nguoi-nop-thue-can-chu-y-10-trang-thai-ma-so-thue-185260914085802219.htm",
+      "summary": "Cục Thuế vừa thông tin 10 trạng thái mã số thuế mà người nộp thuế cần chú ý để chủ động nắm bắt tình trạng pháp lý của mình để kịp thời phòng tránh các rủi ro phát sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T02:10:00+07:00",
+      "fetched": "2026-09-14T09:23:16.703352+07:00"
+    },
+    {
+      "id": "5d5bda90e2fdab3a55458edfc4015bbf",
+      "title": "Án mạng xã Phước Hải nghi do ghen tuông, 3 người thương vong",
+      "link": "https://thanhnien.vn/an-mang-xa-phuoc-hai-nghi-do-ghen-tuong-3-nguoi-thuong-vong-185260914085634528.htm",
+      "summary": "Hào cầm dao đến nhà ông T. chém nạn nhân tử vong tại chỗ, chém con rể và vợ nạn nhân nhiều nhát gây thương tích nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T02:10:00+07:00",
+      "fetched": "2026-09-14T09:23:16.703520+07:00"
+    },
+    {
+      "id": "ad519e8ed440be6d40bc45efa2edfbc0",
+      "title": "Du lịch Việt Nam dồn lực vào hạ tầng, sản phẩm mới và chuyển đổi số",
+      "link": "https://thanhnien.vn/du-lich-viet-nam-don-luc-vao-ha-tang-san-pham-moi-va-chuyen-doi-so-185260914083619911.htm",
+      "summary": "Đầu tư hạ tầng, phát triển sản phẩm có giá trị gia tăng cao, mở rộng thị trường và đẩy mạnh chuyển đổi số là những giải pháp trọng tâm để du lịch Việt Nam tạo bước tăng trưởng mới trong những năm tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T02:06:00+07:00",
+      "fetched": "2026-09-14T09:23:16.703676+07:00"
+    },
+    {
+      "id": "befb7d0e23d822bba684cf44af78771a",
+      "title": "Vụ án bất động sản Lộc Phúc: Chiêu trò ‘chim mồi’ lừa đảo đất nền",
+      "link": "https://thanhnien.vn/vu-an-bat-dong-san-loc-phuc-chieu-tro-chim-moi-lua-dao-dat-nen-185260910132049952.htm",
+      "summary": "Công ty bất động sản Lộc Phúc thuê sinh viên, diễn viên làm 'chim mồi', dựng cảnh khách hàng tranh nhau đặt cọc liền tay trên các chuyến xe đi xem đất nền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T02:05:00+07:00",
+      "fetched": "2026-09-14T09:23:16.703831+07:00"
+    },
+    {
+      "id": "2c3b557636f5fe2e812c22e3c7a709b5",
+      "title": "Trắng đêm cứu 3 sà lan trôi dạt uy hiếp cầu Mỹ Chánh ở Quảng Trị",
+      "link": "https://thanhnien.vn/trang-dem-cuu-3-sa-lan-troi-dat-uy-hiep-cau-my-chanh-o-quang-tri-185260914085542515.htm",
+      "summary": "Sáng 14.9, lực lượng công an tiếp tục cứu hộ 3 sà lan bị nước lũ cuốn trôi, đâm và mắc kẹt tại khu vực cầu đường sắt, cầu đường bộ Mỹ Chánh, xã Nam Hải Lăng, Quảng Trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T02:04:00+07:00",
+      "fetched": "2026-09-14T09:23:16.704009+07:00"
+    },
+    {
+      "id": "01e9b1dc3d58c63a990bdc9d5b7a8efc",
+      "title": "Giá vàng hôm nay 14.9.2026: Biến động nhẹ chờ tin lãi suất",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-1492026-bien-dong-nhe-cho-tin-lai-suat-185260914084621373.htm",
+      "summary": "Thị trường vàng trong nước tăng giảm trái chiều trong khi thế giới có những biến động khó lường trước thời điểm Mỹ công bố thông tin về lãi suất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T02:04:00+07:00",
+      "fetched": "2026-09-14T09:23:16.704169+07:00"
+    },
+    {
+      "id": "cc70ab34826c6b9a4ce6ce802265c6d4",
+      "title": "Giá USD hôm nay 14.6.2026: Không thay đổi trong khi yen Nhật bật tăng",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-1462026-khong-thay-doi-trong-khi-yen-nhat-bat-tang-185260914082349126.htm",
+      "summary": "Giá USD trong các ngân hàng thương mại không thay đổi trong sáng đầu tuần bất chấp thế giới tăng nhẹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T02:04:00+07:00",
+      "fetched": "2026-09-14T09:23:16.704320+07:00"
+    },
+    {
+      "id": "479b43f87b538a739e05115592e79da1",
+      "title": "Đang khỏe mạnh, đi khám đã suy thận nặng: Vì sao?",
+      "link": "https://thanhnien.vn/dang-khoe-manh-di-kham-da-suy-than-nang-vi-sao-185260914090650292.htm",
+      "summary": "Nhiều người vẫn cảm thấy khỏe mạnh, không có biểu hiện bất thường, nhưng khi đi khám lại được phát hiện bệnh thận đã tiến triển nặng, thậm chí phải lọc máu. Vì sao suy thận có thể diễn tiến âm thầm đến vậy?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T02:02:00+07:00",
+      "fetched": "2026-09-14T09:23:16.704472+07:00"
+    },
+    {
+      "id": "8376086be805fbdc28526d11e35c110d",
+      "title": "Dù biết không dễ dàng, vì sao hàng nghìn sinh viên vẫn đăng ký xe công nghệ?",
+      "link": "https://thanhnien.vn/du-biet-khong-de-dang-vi-sao-hang-nghin-sinh-vien-van-dang-ky-xe-cong-nghe-185260913195101093.htm",
+      "summary": "Nắng gắt, mưa bất chợt, áp lực đường phố và bài toán cân bằng với việc học - chạy xe công nghệ chưa bao giờ là một công việc dễ dàng. Nhưng giữa những khó khăn đã nhìn thấy trước, sinh viên vẫn lựa chọn bước lên yên xe để kiếm thêm thu nhập theo cách linh hoạt hơn với lịch học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T02:00:00+07:00",
+      "fetched": "2026-09-14T09:23:16.704640+07:00"
+    },
+    {
+      "id": "fbf8dd8e16b7f419f4921d7137f07ba5",
+      "title": "Sự ‘đổi vị’ bất ngờ của bánh trung thu",
+      "link": "https://thanhnien.vn/su-doi-vi-bat-ngo-cua-banh-trung-thu-185260913152459494.htm",
+      "summary": "Khi chiếc bánh quen thuộc mở ra những trải nghiệm vị giác mới. Từ thịt bò kết hợp cùng xốt nấm truffle, cua với xốt Singapore, hạt sen và hoa bưởi Yuzu… những nguyên liệu vốn quen thuộc trong ẩm thực hiện đại đang được đưa vào bánh trung thu, tạo nên những trải nghiệm mới cho mùa trăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T02:00:00+07:00",
+      "fetched": "2026-09-14T09:23:16.704801+07:00"
+    },
+    {
+      "id": "0371e264cf0ba2c655f9b894df4e16fc",
+      "title": "Thầy giáo ‘đồng nát’ và những chuyến xe trao cơ hội đến trường",
+      "link": "https://thanhnien.vn/thay-giao-dong-nat-va-nhung-chuyen-xe-trao-co-hoi-den-truong-185260829154719043.htm",
+      "summary": "Vào hè, nhiều học sinh vẫn phải vượt hàng cây số đến lớp giữa nắng gắt. Chứng kiến hành trình nhọc nhằn ấy, thầy Lê Khắc Dũng luôn trăn trở, tìm cách giúp học trò đến trường thuận lợi hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T02:00:00+07:00",
+      "fetched": "2026-09-14T09:23:16.704958+07:00"
+    },
+    {
+      "id": "c0e51b46b4d7864579a79b697dff9548",
+      "title": "Giá dầu thô tăng khi Arab Saudi đóng đường ống qua Hormuz",
+      "link": "https://vnexpress.net/gia-dau-tho-tang-khi-arab-saudi-dong-duong-ong-qua-hormuz-5119896.html",
+      "summary": "Hai loại dầu chủ chốt của thế giới đắt thêm hơn 3%, khi Arab Saudi đóng đường ống dẫn dầu quan trọng tại Trung Đông vì bị tấn công.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-14T01:54:44+07:00",
+      "fetched": "2026-09-14T09:23:21.373648+07:00"
+    },
+    {
+      "id": "48de86b688e1986b1d1118022da846ac",
+      "title": "'Việt Nam cần nơi thử nghiệm thiết bị bay không người lái'",
+      "link": "https://vnexpress.net/viet-nam-can-noi-thu-nghiem-thiet-bi-bay-khong-nguoi-lai-5118004.html",
+      "summary": "Thiếu tướng, PGS.TS Phạm Ngọc Lãng cho rằng Việt Nam cần thành lập các trung tâm thử nghiệm để phát triển, hoàn thiện thiết bị bay không người lái (UAV).",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-14T01:30:00+07:00",
+      "fetched": "2026-09-14T09:23:23.766644+07:00"
+    },
+    {
+      "id": "2ca817e199ce1ecc321dde0cd3766db5",
+      "title": "Haaland: 'Tôi coi việc bị VAR nghi việt vị là chuyện cá nhân'",
+      "link": "https://vnexpress.net/haaland-toi-coi-viec-bi-var-nghi-viet-vi-la-chuyen-ca-nhan-5119869.html",
+      "summary": "Erling Haaland cảm thấy khó chịu khi trọng tài biên ban đầu phất cờ báo việt vị ở bàn thắng giúp Man City hạ Man Utd 1-0 tại vòng 4 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-14T01:13:29+07:00",
+      "fetched": "2026-09-14T09:23:24.879340+07:00"
+    },
+    {
+      "id": "8263b4114b7586e74a8d02fe1c18d5f8",
+      "title": "Ban trọng tài Anh nhận sai với Man Utd",
+      "link": "https://vnexpress.net/ban-trong-tai-anh-nhan-sai-voi-man-utd-5119872.html",
+      "summary": "Ban trọng tài Anh thừa nhận sai lầm khi công nhận bàn thắng của Erling Haaland, giúp Man City thắng Man Utd 1-0 ở vòng 4 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-14T00:58:39+07:00",
+      "fetched": "2026-09-14T09:23:24.879517+07:00"
+    },
+    {
+      "id": "9a680ffae0e1e81cf9a9f689454d588f",
+      "title": "Ba Lan lo ngại cửa khẩu tê liệt vì Nga tập kích Ukraine",
+      "link": "https://vnexpress.net/ba-lan-lo-ngai-cua-khau-te-liet-vi-nga-tap-kich-ukraine-5119859.html",
+      "summary": "Thủ tướng Tusk cảnh báo rằng Nga sẽ tăng cường tấn công Ukraine trong thời gian tới, nguy cơ làm tê liệt cửa khẩu giữa nước này với Ba Lan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-14T00:57:17+07:00",
+      "fetched": "2026-09-14T09:23:20.052534+07:00"
+    },
+    {
+      "id": "938ddeda4cbc87d1b22e0c96f135e478",
+      "title": "Zverev vô địch Mỹ Mở rộng 2026",
+      "link": "https://vnexpress.net/zverev-vo-dich-my-mo-rong-2026-5119866.html",
+      "summary": "Hạt giống số một Alexander Zverev thắng Ben Shelton 6-3, 7-6(2), 5-7, 6-2 ở chung kết Mỹ Mở rộng, qua đó đoạt Grand Slam thứ hai trong năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-14T00:48:51+07:00",
+      "fetched": "2026-09-14T09:23:24.879682+07:00"
+    },
+    {
+      "id": "649141425a0197864cc61ed9ba2a10ea",
+      "title": "Bộ trưởng Israel kêu gọi tước quốc tịch đạo diễn làm phim về Gaza",
+      "link": "https://vnexpress.net/bo-truong-israel-keu-goi-tuoc-quoc-tich-dao-dien-lam-phim-ve-gaza-5119853.html",
+      "summary": "Bộ trưởng Văn hóa Israel kêu gọi tước quốc tịch của hai đạo diễn vừa giành giải thưởng với phim tài liệu về Dải Gaza, cáo buộc họ \"phản quốc\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-14T00:31:55+07:00",
+      "fetched": "2026-09-14T09:23:20.052720+07:00"
     },
     {
       "id": "d8c83ffbeb3221e4ff6d6f832ce794b6",
@@ -283,6 +653,66 @@ window.newsData_2026_09_14 = {
       "fetched": "2026-09-14T00:16:31.270755+07:00"
     },
     {
+      "id": "a6c971f2e9ba700a1bbf47820b832e03",
+      "title": "Ông Trump yêu cầu Ukraine dừng tấn công hạ tầng dầu diesel Nga",
+      "link": "https://vnexpress.net/ong-trump-yeu-cau-ukraine-dung-tan-cong-ha-tang-dau-diesel-nga-5119847.html",
+      "summary": "Tổng thống Trump yêu cầu Ukraine ngừng đánh phá các cơ sở sản xuất dầu diesel ở Nga, vì hành động này gây ảnh hưởng những nước khác.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-13T23:53:48+07:00",
+      "fetched": "2026-09-14T09:23:20.052885+07:00"
+    },
+    {
+      "id": "87a3fe4761ebb4c28e0099181ffb5679",
+      "title": "Nữ Việt Nam - Đài Loan: Khởi đầu mới ở ASIAD 20",
+      "link": "https://vnexpress.net/nu-viet-nam-dai-loan-khoi-dau-moi-o-asiad-20-5119846.html",
+      "summary": "Đội tuyển bóng đá nữ sẽ mở hàng cho đoàn thể thao Việt Nam tại á vận hội lần thứ 20 khi đối đầu Đài Loan tại bảng E, chiều nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-13T23:23:28+07:00",
+      "fetched": "2026-09-14T09:23:24.879843+07:00"
+    },
+    {
+      "id": "e55ed38b160dc8129e9dfa4aa66a2a90",
+      "title": "Malaysia bổ sung cầu thủ nhập tịch Brazil",
+      "link": "https://vnexpress.net/malaysia-bo-sung-cau-thu-nhap-tich-brazil-5119826.html",
+      "summary": "Tiền đạo người Brazil Bergson được thi đấu cho đội tuyển Malaysia nhờ đạt điều kiện sinh sống 5 năm liên tục tại đất nước này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-13T23:13:48+07:00",
+      "fetched": "2026-09-14T09:23:24.880653+07:00"
+    },
+    {
+      "id": "ce05d37128e8f69df04bb1a0bfdadbfc",
+      "title": "Ronaldo kêu gọi cấm vĩnh viễn CĐV chế giễu Diogo Jota",
+      "link": "https://vnexpress.net/ronaldo-keu-goi-cam-vinh-vien-cdv-che-gieu-diogo-jota-5119834.html",
+      "summary": "Thủ quân Al Nassr Cristiano Ronaldo đề nghị Saudi Pro League cấm vĩnh viễn những CĐV bị xác định tham gia hô tên Diogo Jota để chế nhạo Ruben Neves trong trận Al Taawoun gặp Al Hilal.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-13T22:46:07+07:00",
+      "fetched": "2026-09-14T09:23:24.880024+07:00"
+    },
+    {
+      "id": "e1ce9dc7e3a2306f9b9dcd0719d71591",
+      "title": "Carrick: 'Tôi háo hức chờ lời xin lỗi từ trọng tài'",
+      "link": "https://vnexpress.net/carrick-toi-hao-huc-cho-loi-xin-loi-tu-trong-tai-5119845.html",
+      "summary": "HLV Michael Carrick mỉa mai rằng ông chờ lời xin lỗi từ giới trọng tài, sau khi Man Utd thua Man City 0-1 bởi bàn thắng gây tranh cãi của Erling Haaland.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-13T22:43:45+07:00",
+      "fetched": "2026-09-14T09:23:24.880188+07:00"
+    },
+    {
+      "id": "96280f7178173087e815c2b28dbe7827",
+      "title": "Vì sao Haaland không bị phạt việt vị khi chọc thủng lưới Man Utd?",
+      "link": "https://vnexpress.net/vi-sao-haaland-khong-bi-phat-viet-vi-khi-choc-thung-luoi-man-utd-5119844.html",
+      "summary": "Tiền đạo Erling Haaland được công nhận bàn thắng gây tranh luận trong trận Man City hạ chủ nhà Man Utd ở vòng 4 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-13T22:42:21+07:00",
+      "fetched": "2026-09-14T09:23:24.880344+07:00"
+    },
+    {
       "id": "7b0c8896d10fee2291449e8cf96428d7",
       "title": "Lăng kính bạn đọc: Hiểm họa khôn lường từ 'bác sĩ mạng'",
       "link": "https://thanhnien.vn/lang-kinh-ban-doc-hiem-hoa-khon-luong-tu-bac-si-mang-185260913181029346.htm",
@@ -311,6 +741,16 @@ window.newsData_2026_09_14 = {
       "category": "Tổng hợp",
       "published": "2026-09-13T22:00:00+07:00",
       "fetched": "2026-09-14T05:13:42.221644+07:00"
+    },
+    {
+      "id": "31a89ddcb131f6efbe5b6807a7d763a8",
+      "title": "Vùng Vịnh tăng tốc xây 'kế hoạch B' khi chiến sự kéo dài",
+      "link": "https://vnexpress.net/vung-vinh-tang-toc-xay-ke-hoach-b-khi-chien-su-keo-dai-5118169.html",
+      "summary": "Xung đột Mỹ - Iran kéo dài khiến các nước vùng Vịnh không còn xem khủng hoảng là tạm thời, buộc họ cấp tốc xây dựng những phương án sống còn ngoài eo biển Hormuz.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-13T22:00:00+07:00",
+      "fetched": "2026-09-14T09:23:20.053072+07:00"
     },
     {
       "id": "1325571656f89d9611c660809a2275ff",
