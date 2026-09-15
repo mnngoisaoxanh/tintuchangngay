@@ -1,7 +1,67 @@
 window.newsData_2026_09_15 = {
   "date": "2026-09-15",
-  "lastUpdated": "2026-09-15T04:10:35.997428+07:00",
+  "lastUpdated": "2026-09-15T07:05:05.394141+07:00",
   "articles": [
+    {
+      "id": "55339217953d3c195f396bb5a84c68dc",
+      "title": "Tin tức sáng 15-9: Đề xuất nâng mức phạt hành chính tối đa lên 1,5 tỉ đồng với cá nhân",
+      "link": "https://tuoitre.vn/tin-tuc-sang-15-9-de-xuat-nang-muc-phat-hanh-chinh-toi-da-len-15-ti-dong-voi-ca-nhan-100260914214203598.htm",
+      "summary": "Tin tức đáng chú ý: Đề xuất nâng mức phạt hành chính tối đa lên 1,5 tỉ đồng với cá nhân; Phạt doanh nghiệp sở hữu khu nghỉ dưỡng Six Senses Ninh Vân Bay vì hàng loạt vi phạm...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T07:04:57.813437+07:00",
+      "fetched": "2026-09-15T07:04:57.813496+07:00"
+    },
+    {
+      "id": "8d2b6ee8373921c02b7f33ea9f71e41c",
+      "title": "Thời tiết hôm nay 15-9: Bắc Bộ đến Nghệ An mưa rất to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-15-9-bac-bo-den-nghe-an-mua-rat-to-10026091416162026.htm",
+      "summary": "Hôm nay 15-9, thời tiết các tỉnh phía Bắc mưa to đến rất to, trọng tâm mưa rơi vào các tỉnh đồng bằng Bắc Bộ đến Nghệ An.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T07:04:57.813366+07:00",
+      "fetched": "2026-09-15T07:04:57.813426+07:00"
+    },
+    {
+      "id": "0ac094253c7316d524aca941690f6861",
+      "title": "Lịch trực tiếp bóng đá nam Asiad 20: U23 Việt Nam đấu U23 Kuwait",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-nam-asiad-20-u23-viet-nam-dau-u23-kuwait-100260914171400046.htm",
+      "summary": "Lúc 17h ngày 15-9, U23 Việt Nam sẽ đối đầu U23 Kuwait ở lượt trận thứ nhất bảng C Asiad 20.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T07:04:57.813294+07:00",
+      "fetched": "2026-09-15T07:04:57.813356+07:00"
+    },
+    {
+      "id": "782f22c32a497702754f3ed01aeaa8c7",
+      "title": "Dự đoán tỉ số Asiad: U23 Việt Nam thắng vất vả U23 Kuwait",
+      "link": "https://tuoitre.vn/du-doan-ti-so-asiad-u23-viet-nam-thang-vat-va-u23-kuwait-100260914202519817.htm",
+      "summary": "17h ngày 15-9 (giờ Việt Nam), U23 Việt Nam sẽ mở màn hành trình ở môn bóng đá nam Asiad Nagoya 2026 với cuộc chạm trán U23 Kuwait, diễn ra trên sân CS Asset Minato.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T07:04:57.813219+07:00",
+      "fetched": "2026-09-15T07:04:57.813283+07:00"
+    },
+    {
+      "id": "6282c2cf8aad08edc1d49298be5328d3",
+      "title": "Chủ tịch PSSI lo ngại trước sức mạnh của tuyển Việt Nam và Malaysia",
+      "link": "https://tuoitre.vn/chu-tich-pssi-lo-ngai-truoc-suc-manh-cua-tuyen-viet-nam-va-malaysia-10026091505553875.htm",
+      "summary": "Chủ tịch Liên đoàn Bóng đá Indonesia (PSSI) Erick Thohir đánh giá cao sức mạnh của Việt Nam và Malaysia sau khi bổ sung thêm các cầu thủ nhập tịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T07:04:57.813137+07:00",
+      "fetched": "2026-09-15T07:04:57.813207+07:00"
+    },
+    {
+      "id": "7a3d2a8a183d091831cc4b89c02d3f3d",
+      "title": "Các đối thủ của tuyển Việt Nam tổn thất lực lượng nặng nề",
+      "link": "https://tuoitre.vn/cac-doi-thu-cua-tuyen-viet-nam-ton-that-luc-luong-nang-ne-100260915060236925.htm",
+      "summary": "Hơn một tuần trước khi FIFA ASEAN Cup 2026 khởi tranh, đối thủ số một cạnh tranh ngôi vô địch với Việt Nam là Indonesia nhận tin dữ khi trung vệ số một Jay Idzes bị chấn thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T07:04:57.812953+07:00",
+      "fetched": "2026-09-15T07:04:57.813122+07:00"
+    },
     {
       "id": "dee98b0dbba5b3a14a0a95fe0641cedf",
       "title": "Mệt mỏi, rụng tóc, người phụ nữ 34 tuổi bất ngờ phát hiện ung thư tuyến giáp",
@@ -151,6 +211,206 @@ window.newsData_2026_09_15 = {
       "category": "Tổng hợp",
       "published": "2026-09-15T04:10:29.653909+07:00",
       "fetched": "2026-09-15T04:10:29.654046+07:00"
+    },
+    {
+      "id": "cc9de81f949b82f14540983147bd0625",
+      "title": "Dự báo thời tiết hôm nay 15.9: 7 tỉnh nguy cơ lũ quét, sạt lở đất",
+      "link": "https://thanhnien.vn/du-bao-thoi-tiet-hom-nay-159-7-tinh-nguy-co-lu-quet-sat-lo-dat-185260915065421972.htm",
+      "summary": "Dự báo thời tiết hôm nay 15.9, miền Bắc và Bắc Trung bộ tiếp tục có mưa lớn trên diện rộng, trong đó 7 tỉnh được cảnh báo nguy cơ xảy ra lũ quét, sạt lở đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T00:04:00+07:00",
+      "fetched": "2026-09-15T07:04:55.465276+07:00"
+    },
+    {
+      "id": "ea1b99a99dbe5f210b236e3efdfc2083",
+      "title": "Đôi bạn trong câu chuyện 10 năm cõng bạn đến trường bây giờ ra sao?",
+      "link": "https://thanhnien.vn/doi-ban-trong-cau-chuyen-10-nam-cong-ban-den-truong-bay-gio-ra-sao-185260914152136376.htm",
+      "summary": "Không còn những buổi sáng Hiếu cõng Minh đến lớp như suốt những năm phổ thông. Người bạn từng ngồi trên lưng bạn giờ đã tốt nghiệp đại học, có việc làm và tự lo được cho mình; còn cậu học trò năm nào cõng bạn đã trở thành bác sĩ, vừa đỗ bác sĩ nội trú Trường đại học Y Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T00:03:00+07:00",
+      "fetched": "2026-09-15T07:04:55.465454+07:00"
+    },
+    {
+      "id": "3b00b5d02cd14b1546e0a15a314db42c",
+      "title": "Cảnh nóng mà… lạnh cả người",
+      "link": "https://thanhnien.vn/canh-nong-ma-lanh-ca-nguoi-185260914222511215.htm",
+      "summary": "Trong sân khấu hoặc phim ảnh, đôi khi những lớp diễn bi hoặc hài chủ đạo của kịch bản lại không khó diễn bằng những cảnh \"nóng\", dù là cảnh phụ. Không ít diễn viên phải trải qua các lớp diễn này với sự tập dượt công phu và kỷ niệm nhớ đời. Xem ra cảnh \"nóng\" nhưng lại \"lạnh\" cả người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T00:00:00+07:00",
+      "fetched": "2026-09-15T07:04:55.465621+07:00"
+    },
+    {
+      "id": "356ea7636ea3bd1e73307a8b709cc0a3",
+      "title": "Lãnh đạo kỳ cựu đảng Cộng hòa ngồi xe lăn đến thượng viện sau 3 tháng vắng mặt",
+      "link": "https://thanhnien.vn/lanh-dao-ky-cuu-dang-cong-hoa-ngoi-xe-lan-den-thuong-vien-sau-3-thang-vang-mat-185260915065138283.htm",
+      "summary": "Vị nghị sĩ kỳ cựu của đảng Cộng hòa trở lại Thượng viện Mỹ sau 3 tháng vắng mặt vì bị ngã, nhưng đã không trả lời câu hỏi của một phóng viên về việc liệu ông có định hoàn tất nhiệm kỳ thượng nghị sĩ hiện tại hay không.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T23:59:00+07:00",
+      "fetched": "2026-09-15T07:04:55.465813+07:00"
+    },
+    {
+      "id": "1d516904fd2b00902f2d5eeb81e27868",
+      "title": "Chúng tôi muốn kể về mất mát, sự đồng hành và tiếp bước",
+      "link": "https://thanhnien.vn/chung-toi-muon-ke-ve-mat-mat-su-dong-hanh-va-tiep-buoc-185260914184145286.htm",
+      "summary": "Chương trình nghệ thuật chính luận Nghĩa tình Phương Nam - Cùng con đi tiếp cuộc đời năm 2026 do Trung tâm Truyền hình VN khu vực Nam bộ (VTV Nam bộ) và Báo Thanh Niên phối hợp tổ chức. Đây là hoạt động tiếp nối mạch nguồn nhân ái của Nghĩa tình Phương Nam và đánh dấu chặng đường 5 năm Cùng con đi t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T23:59:00+07:00",
+      "fetched": "2026-09-15T07:04:55.465979+07:00"
+    },
+    {
+      "id": "aa2fd8385512685652157a59d6e51fd4",
+      "title": "Khởi tố 6 người trong vụ hành hung tài xế taxi ở Móng Cái",
+      "link": "https://thanhnien.vn/khoi-to-6-nguoi-trong-vu-hanh-hung-tai-xe-taxi-o-mong-cai-18526091422245681.htm",
+      "summary": "Liên quan vụ hành hung tài xế taxi ở P.Móng Cái 1 (Quảng Ninh), cơ quan tố tụng đã khởi tố 6 bị can, trong đó 5 người bị tạm giam, 1 đang bỏ trốn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T23:41:00+07:00",
+      "fetched": "2026-09-15T07:04:55.466134+07:00"
+    },
+    {
+      "id": "29450409af35127f81308f9551ac4058",
+      "title": "Thử nghiệm loạt cách tăng tốc khởi động Windows và kết quả bất ngờ",
+      "link": "https://thanhnien.vn/thu-nghiem-loat-cach-tang-toc-khoi-dong-windows-va-ket-qua-bat-ngo-185260914144149758.htm",
+      "summary": "Kết quả đo kiểm thực tế cho thấy không phải giải pháp tăng tốc khởi động Windows nào cũng mang lại hiệu quả rõ rệt mà không gây rủi ro cho hệ thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T23:34:00+07:00",
+      "fetched": "2026-09-15T07:04:55.466287+07:00"
+    },
+    {
+      "id": "57b87bc8f9ef54860155d7961252a2d1",
+      "title": "Lo cho phong độ của đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/lo-cho-phong-do-cua-doi-tuyen-viet-nam-18526091422093951.htm",
+      "summary": "Chỉ còn hơn 10 ngày nữa đội tuyển VN sẽ bước vào tranh tài tại FIFA ASEAN Cup, nhưng phong độ các cầu thủ chủ chốt của HLV Kim Sang-sik đều đang có vấn đề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T23:32:00+07:00",
+      "fetched": "2026-09-15T07:04:55.466446+07:00"
+    },
+    {
+      "id": "b9eff23f0e3c2c10fdcb47646ccb04ca",
+      "title": "Kiểm soát giá hàng hóa những tháng cuối năm",
+      "link": "https://thanhnien.vn/kiem-soat-gia-hang-hoa-nhung-thang-cuoi-nam-185260914221434718.htm",
+      "summary": "Giá xăng dầu tăng cao, lạm phát đi lên gần sát mục tiêu cả năm nên cần có các giải pháp kiểm soát chặt chẽ trong các tháng còn lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T23:29:00+07:00",
+      "fetched": "2026-09-15T07:04:55.466596+07:00"
+    },
+    {
+      "id": "6312fd1da021736152edc4c940b4442d",
+      "title": "Mẹ đưa con về nhà, con đưa mẹ về nhà",
+      "link": "https://thanhnien.vn/me-dua-con-ve-nha-con-dua-me-ve-nha-185260911092215405.htm",
+      "summary": "Câu 'Con, mẹ đưa con về nhà' có tính che chở, nhưng câu 'Mẹ, con đưa mẹ về nhà' lại mang nặng một nỗi niềm…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T23:15:00+07:00",
+      "fetched": "2026-09-15T07:04:55.466771+07:00"
+    },
+    {
+      "id": "1f194a514320c414ef95044997f549ab",
+      "title": "Hầm chui nút giao An Phú vừa khai thác đã 2 lần gặp sự cố ngập: Vì sao?",
+      "link": "https://thanhnien.vn/ham-chui-nut-giao-an-phu-vua-khai-thac-da-2-lan-gap-su-co-ngap-vi-sao-185260914172027699.htm",
+      "summary": "Sau sự cố hầm chui HC1-02, nút giao An Phú ngập sâu sau trận mưa lớn ngày 10.9.2026, Ban Quản lý dự án đầu tư xây dựng các công trình giao thông TP.HCM cho biết hệ thống bơm chính của công trình mới hoàn thành khoảng 80%, trong khi việc tiêu thoát nước hiện vẫn phụ thuộc vào hệ thống bơm tạm chỉ đáp...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T23:08:00+07:00",
+      "fetched": "2026-09-15T07:04:55.466930+07:00"
+    },
+    {
+      "id": "68c5ebf916e407089a803e6f3572dd3f",
+      "title": "Những giá trị của một đại học tốt",
+      "link": "https://thanhnien.vn/nhung-gia-tri-cua-mot-dai-hoc-tot-185260914205048617.htm",
+      "summary": "Đại học tinh hoa rất cần, nhưng không thể chỉ nhìn vào vài trường trên đỉnh. Chất lượng nguồn nhân lực còn phụ thuộc vào đông đảo các trường mang sứ mệnh khác nhau và sự trưởng thành của người học từ những ngôi trường ấy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T23:05:00+07:00",
+      "fetched": "2026-09-15T07:04:55.467080+07:00"
+    },
+    {
+      "id": "2c619a7084c687f359787d3b6de84d8d",
+      "title": "Hồ sơ phục dựng điện Kính Thiên đạt độ chính xác cao",
+      "link": "https://thanhnien.vn/ho-so-phuc-dung-dien-kinh-thien-dat-do-chinh-xac-cao-185260914221830351.htm",
+      "summary": "GS-TS Nguyễn Văn Kim cho rằng việc nghiên cứu phục dựng điện Kính Thiên hiện đang có chỉ số so sánh tin cậy cao, thậm chí cao hơn so với Cố cung Nara (Nhật Bản).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T23:00:00+07:00",
+      "fetched": "2026-09-15T07:04:55.467228+07:00"
+    },
+    {
+      "id": "d8fc53e3c5f8c90a0b18038a3eeb63cb",
+      "title": "Mỹ vào thế lưỡng nan khi Houthi leo thang tấn công ?",
+      "link": "https://thanhnien.vn/my-vao-the-luong-nan-khi-houthi-leo-thang-tan-cong-185260914213253709.htm",
+      "summary": "Không chỉ đáp trả các đòn tấn công từ quân đội chính phủ, lực lượng Houthi thân Iran ở Yemen còn đẩy mạnh tập kích Ả Rập Xê Út - một đồng minh then chốt của Mỹ ở khu vực, nhưng Washington dường như đang ngó lơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T23:00:00+07:00",
+      "fetched": "2026-09-15T07:04:55.467385+07:00"
+    },
+    {
+      "id": "0a2843cb53e73389447165109ca75cce",
+      "title": "Đường tới mốc 50 triệu khách du lịch quốc tế",
+      "link": "https://thanhnien.vn/duong-toi-moc-50-trieu-khach-du-lich-quoc-te-185260914204824036.htm",
+      "summary": "Ba kịch bản tăng trưởng được Bộ VH-TT-DL xây dựng cho thấy tham vọng đưa du lịch VN lên một mặt bằng mới vào năm 2030. Tuy nhiên, để chạm mốc 45 - 50 triệu lượt khách quốc tế, bài toán đặt ra còn ở hạ tầng, chính sách, sản phẩm và chất lượng tăng trưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-14T23:00:00+07:00",
+      "fetched": "2026-09-15T07:04:55.467534+07:00"
+    },
+    {
+      "id": "92898a1ca8e44d02f1ed3de0de676d60",
+      "title": "Đối thủ bất bình vì thói quen đập bóng lâu của Zverev",
+      "link": "https://vnexpress.net/doi-thu-bat-binh-vi-thoi-quen-dap-bong-lau-cua-zverev-5120256.html",
+      "summary": "Thói quen đập bóng kéo dài của nhà tân vô địch Mỹ Mở rộng Alexander Zverev khiến các đối thủ kêu gọi quần vợt thay đổi quy định về đồng hồ giao bóng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-14T22:45:35+07:00",
+      "fetched": "2026-09-15T07:05:05.388655+07:00"
+    },
+    {
+      "id": "9c7aa5c36c0be82cff685f84da6cffa0",
+      "title": "McEnroe 'cầu cứu' Alcaraz và Sinner khi Zverev vô địch",
+      "link": "https://vnexpress.net/mcenroe-cau-cuu-alcaraz-va-sinner-khi-zverev-vo-dich-5120258.html",
+      "summary": "Huyền thoại John McEnroe kêu gọi Carlos Alcaraz và Jannik Sinner bình phục ngay, sau khi chứng kiến Alexander Zverev vô địch Mỹ Mở rộng 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-14T22:38:03+07:00",
+      "fetched": "2026-09-15T07:05:05.388871+07:00"
+    },
+    {
+      "id": "db151c5354ed93dee4644a7fa9798922",
+      "title": "UEFA lên kế hoạch tạo 'Champions League cấp ĐTQG'",
+      "link": "https://vnexpress.net/uefa-len-ke-hoach-tao-champions-league-cap-dtqg-5120255.html",
+      "summary": "UEFA dự kiến áp dụng hệ Thụy Sĩ (swiss model) cho Nations League và vòng loại Euro, World Cup từ năm 2028, tạo ra một giải đấu cấp đội tuyển tương tự Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-14T22:34:36+07:00",
+      "fetched": "2026-09-15T07:05:05.389047+07:00"
+    },
+    {
+      "id": "6b1ddb479071d66c903d140991f54b03",
+      "title": "Arab Saudi tiến thoái lưỡng nan trước đà tiến của Houthi",
+      "link": "https://vnexpress.net/arab-saudi-tien-thoai-luong-nan-truoc-da-tien-cua-houthi-5119862.html",
+      "summary": "Đối mặt đà tiến quân thần tốc của Houthi cùng các cuộc tập kích triền miên, Arab Saudi đang bị đẩy vào thế khó khi mọi phương án ứng phó đều rủi ro.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-14T22:00:00+07:00",
+      "fetched": "2026-09-15T07:04:59.660327+07:00"
+    },
+    {
+      "id": "4790a9671344c9345f77207ddedb3d51",
+      "title": "Các nền tảng gọi xe quốc tế chia sẻ doanh thu với tài xế ra sao?",
+      "link": "https://vnexpress.net/cac-nen-tang-goi-xe-quoc-te-chia-se-doanh-thu-voi-tai-xe-ra-sao-5120023.html",
+      "summary": "Nhiều nền tảng gọi xe trên thế giới đang rời cách thu hoa hồng cố định, chuyển sang cơ chế linh hoạt với mức chiết khấu thay đổi theo từng cuốc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-14T21:00:00+07:00",
+      "fetched": "2026-09-15T07:05:01.698031+07:00"
     },
     {
       "id": "f7c9c0cc4336fd053d73f5e9eb8e97b6",
