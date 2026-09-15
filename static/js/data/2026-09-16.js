@@ -1,7 +1,77 @@
 window.newsData_2026_09_16 = {
   "date": "2026-09-16",
-  "lastUpdated": "2026-09-16T03:39:00.182635+07:00",
+  "lastUpdated": "2026-09-16T06:49:38.701653+07:00",
   "articles": [
+    {
+      "id": "3303b6d40a49624473ea93bb1bddda60",
+      "title": "Thời tiết hôm nay 16-9: Bắc Bộ còn mưa to, Nam Bộ chuẩn bị đón mưa diện rộng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-16-9-bac-bo-con-mua-to-nam-bo-chuan-bi-don-mua-dien-rong-100260915210030628.htm",
+      "summary": "Hôm nay 16-9, thời tiết Bắc Bộ đến Thanh Hóa còn mưa to, sau hôm nay mưa giảm. Trong khi đó Nam Bộ lại vào đợt mưa to diện rộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T06:49:33.868106+07:00",
+      "fetched": "2026-09-16T06:49:33.868166+07:00"
+    },
+    {
+      "id": "d1cbcd12035e19338b1d47c9d2769574",
+      "title": "Rau, củ, thịt cá... cùng nhích giá, bữa cơm thêm nặng gánh",
+      "link": "https://tuoitre.vn/rau-cu-thit-ca-cung-nhich-gia-bua-com-them-nang-ganh-100260915212558812.htm",
+      "summary": "Giá nhiều mặt hàng có xu hướng tăng dần thời gian qua, đặc biệt các nông sản và thực phẩm thiết yếu liên quan đến đời sống như rau củ, thịt, cá, bún, phở, gia vị...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T06:49:33.868031+07:00",
+      "fetched": "2026-09-16T06:49:33.868095+07:00"
+    },
+    {
+      "id": "56752797e2b6c226ed024d5a87ea7daf",
+      "title": "Lịch trực tiếp AFC Champions League Two: Thể Công - Viettel đấu Melbourne Victory",
+      "link": "https://tuoitre.vn/lich-truc-tiep-afc-champions-league-two-the-cong-viettel-dau-melbourne-victory-10026091514505911.htm",
+      "summary": "Lúc 19h15 ngày 16-9, Thể Công - Viettel sẽ đối đầu Melbourne Victory ở lượt trận đầu tiên bảng E AFC Champions League Two 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T06:49:33.867926+07:00",
+      "fetched": "2026-09-16T06:49:33.868018+07:00"
+    },
+    {
+      "id": "b8d40b49d99a73a2307d7821cd4e4bc5",
+      "title": "Tin tức sáng 16-9: Vinaconex cho doanh nghiệp khác vay hơn 6.600 tỉ đồng, lãi suất có khoản tới 16%/năm",
+      "link": "https://tuoitre.vn/tin-tuc-sang-16-9-vinaconex-cho-doanh-nghiep-khac-vay-hon-6600-ti-dong-lai-suat-co-khoan-toi-16-nam-100260915150527879.htm",
+      "summary": "Một số tin tức về TP.HCM đáng chú ý: Rà soát toàn bộ văn bản pháp luật, xử lý chồng chéo; Phòng, chống ma túy được triển khai theo luật mới; Quản lý đê nhân dân ở TP.HCM: mỗi người phụ trách tối đa 3km...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T06:49:33.867779+07:00",
+      "fetched": "2026-09-16T06:49:33.867906+07:00"
+    },
+    {
+      "id": "0641a91a7b9beefc18bf3384d0cd0686",
+      "title": "Chân dung những quỹ ngoại trăm tỉ USD bắt đầu tính đến cổ phiếu Việt Nam",
+      "link": "https://tuoitre.vn/chan-dung-nhung-quy-ngoai-tram-ti-usd-bat-dau-tinh-den-co-phieu-viet-nam-100260915185654218.htm",
+      "summary": "Từ ngày 21-9, việc FTSE Russell chính thức nâng hạng Việt Nam lên thị trường mới nổi thứ cấp kéo theo 27 cổ phiếu nội gia nhập chỉ số toàn cầu, mở đường cho dòng vốn từ các quỹ quốc tế trăm tỉ USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T06:49:33.867656+07:00",
+      "fetched": "2026-09-16T06:49:33.867761+07:00"
+    },
+    {
+      "id": "ee45ea708e4e74eba755cd0ac30932de",
+      "title": "Dư luận Đông Nam Á: U23 Việt Nam khổ vì ngồi 'mâm trên'",
+      "link": "https://tuoitre.vn/du-luan-dong-nam-a-u23-viet-nam-kho-vi-ngoi-mam-tren-100260915204452501.htm",
+      "summary": "Nhiều chuyên trang bóng đá và người hâm mộ các nước khu vực cho rằng U23 Việt Nam thiếu may mắn khi hòa U23 Kuwait 1-1 ở trận ra quân môn bóng đá nam Asiad 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T06:49:33.867525+07:00",
+      "fetched": "2026-09-16T06:49:33.867637+07:00"
+    },
+    {
+      "id": "2af71a20a34d656bfc3b7fbde0169d16",
+      "title": "Cháy nhà lúc rạng sáng ở Hà Nội, 5 người chết",
+      "link": "https://tuoitre.vn/chay-nha-luc-rang-sang-o-ha-noi-5-nguoi-chet-10026091606032563.htm",
+      "summary": "Khu vực xảy cháy là ngôi nhà 4 tầng, có diện tích khoảng 60m²/tầng. \"Trong quá trình tìm kiếm, cứu nạn, cứu hộ, lực lượng cảnh sát phát hiện 5 nạn nhân đã tử vong và bàn giao cho lực lượng y tế\", lãnh đạo Đảng ủy phường Tây Hồ thông tin với Tuổi Trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T06:49:33.867093+07:00",
+      "fetched": "2026-09-16T06:49:33.867499+07:00"
+    },
     {
       "id": "56c3e833a81ed0de6f44a3f9ec12596e",
       "title": "Hồng Trà Ngô Gia nợ thuế hơn 20 tỉ, nói đang thay đổi địa chỉ trụ sở kinh doanh",
@@ -161,6 +231,216 @@ window.newsData_2026_09_16 = {
       "category": "Tổng hợp",
       "published": "2026-09-16T00:49:40.276512+07:00",
       "fetched": "2026-09-16T00:49:40.276666+07:00"
+    },
+    {
+      "id": "5a56cab20ae5d9cd28fc3c088bd8eed3",
+      "title": "Đề xuất được trừ 1 tỉ khi tính thuế giá trị gia tăng, Bộ Tài chính nói gì?",
+      "link": "https://thanhnien.vn/de-xuat-duoc-tru-1-ti-khi-tinh-thue-gia-tri-gia-tang-bo-tai-chinh-noi-gi-185260915225215422.htm",
+      "summary": "Hội Tư vấn thuế Việt Nam đề xuất trừ ngưỡng 1 tỉ đồng khi tính thuế áp dụng cho cả thuế giá trị gia tăng thay vì chỉ cho trừ với thuế thu nhập cá nhân như hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T23:41:00+07:00",
+      "fetched": "2026-09-16T06:49:32.238648+07:00"
+    },
+    {
+      "id": "7311397a3767f7aa85a7963d60ec4878",
+      "title": "Đội tuyển nữ Việt Nam sẽ hạn chế bàn thua trước chủ nhà Nhật Bản",
+      "link": "https://thanhnien.vn/doi-tuyen-nu-viet-nam-se-han-che-ban-thua-truoc-chu-nha-nhat-ban-185260915233321791.htm",
+      "summary": "Trận thua 1-2 trước Đài Loan cho thấy đội tuyển bóng đá nữ VN còn rất nhiều việc phải làm để hạn chế bàn thua trước chủ nhà Nhật Bản trong trận đấu vào ngày 17.9 tại đấu trường ASIAD 20.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T23:39:00+07:00",
+      "fetched": "2026-09-16T06:49:32.238820+07:00"
+    },
+    {
+      "id": "dd84e29cfb47a7a9688ff519af6a1994",
+      "title": "Đoàn thể thao Việt Nam đã đến Nhật Bản an toàn, sẵn sàng chinh  phục ASIAD 2026",
+      "link": "https://thanhnien.vn/doan-the-thao-viet-nam-da-den-nhat-ban-an-toan-san-sang-chinh-phuc-asiad-2026-185260916055829283.htm",
+      "summary": "Sáng nay (16.9), đoàn thể thao với lực lượng đông đảo đã đặt chân đến Nhật Bản, sẵn sàng cho hành trình chinh phục ASIAD 20 khai mạc vào ngày 19.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T23:32:00+07:00",
+      "fetched": "2026-09-16T06:49:32.239010+07:00"
+    },
+    {
+      "id": "00deb89d5b15cfcc460c1ea7b160dc1b",
+      "title": "UAV 130 triệu USD của Nhật Bản mất tích, nghi lao xuống biển",
+      "link": "https://vnexpress.net/uav-130-trieu-usd-cua-nhat-ban-mat-tich-nghi-lao-xuong-bien-5120724.html",
+      "summary": "UAV RQ-4B mất tích khi hoạt động trên ngoài khơi tỉnh Tottori, giới chức Nhật đã tìm thấy vật thể nghi là mảnh vỡ phi cơ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-15T23:31:06+07:00",
+      "fetched": "2026-09-16T06:49:34.711504+07:00"
+    },
+    {
+      "id": "166ef2bce12d1291f9dff0cb5460d00c",
+      "title": "Dàn nghệ sĩ 'đội mưa', chung lòng cho một đêm nghệ thuật ý nghĩa",
+      "link": "https://thanhnien.vn/dan-nghe-si-doi-mua-chung-long-cho-mot-dem-nghe-thuat-y-nghia-185260915221544406.htm",
+      "summary": "Dù thời tiết không mấy thuận lợi, nhiều nghệ sĩ cùng ê kíp chương trình 'Nghĩa tình Phương Nam - Cùng con đi tiếp cuộc đời' vẫn miệt mài tập luyện cho một đêm nghệ thuật đong đầy cảm xúc vào ngày 16.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T23:26:00+07:00",
+      "fetched": "2026-09-16T06:49:32.239175+07:00"
+    },
+    {
+      "id": "1b3e4b1d513fd8f3bf993b21fdf95112",
+      "title": "Người dùng Excel toàn cầu gặp sự cố khi 'copy-paste'",
+      "link": "https://thanhnien.vn/nguoi-dung-excel-toan-cau-gap-su-co-khi-copy-paste-185260915215914985.htm",
+      "summary": "Microsoft vừa thừa nhận việc bản cập nhật mới của hãng làm hư hỏng tính năng 'copy-paste' trên ứng dụng Excel.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T23:21:00+07:00",
+      "fetched": "2026-09-16T06:49:32.239330+07:00"
+    },
+    {
+      "id": "f56811e5701f15edf82ecded5f326344",
+      "title": "Một bộ phim có thể được ‘cứu’ đến đâu trong phòng dựng?",
+      "link": "https://thanhnien.vn/mot-bo-phim-co-the-duoc-cuu-den-dau-trong-phong-dung-185260915220928082.htm",
+      "summary": "Khi Hộ linh tráng sĩ - Bí ẩn mộ vua Đinh vừa ra rạp, ê kíp bất ngờ thay bản phim 155 phút bằng phiên bản rút gọn 135 phút sau phản hồi của khán giả. Đây là quyết định hiếm thấy của điện ảnh Việt đồng thời đặt ra câu hỏi thú vị về nghề: Phòng dựng có thể thay đổi \"số phận\" một bộ phim đến đâu?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T23:20:00+07:00",
+      "fetched": "2026-09-16T06:49:32.239483+07:00"
+    },
+    {
+      "id": "bb0a3467bca3164500857233eec10b9b",
+      "title": "NSND Viễn Châu - ông vua vọng cổ: Hoạt động kháng chiến trong đoàn cải lương",
+      "link": "https://thanhnien.vn/nsnd-vien-chau-ong-vua-vong-co-hoat-dong-khang-chien-trong-doan-cai-luong-185260915223014816.htm",
+      "summary": "NSND Viễn Châu là cây đại thụ của vọng cổ cải lương, được các thế hệ nghệ sĩ lẫn khán giả ái mộ, kính trọng. Ông không chỉ đặt nền móng cho việc sáng tạo ra một thể loại mới mà còn để lại kho tàng tác phẩm đồ sộ đến nay chưa ai vượt qua được. Đồng thời, ông còn là một NSND có phẩm cách cao đẹp đáng ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T23:19:00+07:00",
+      "fetched": "2026-09-16T06:49:32.239641+07:00"
+    },
+    {
+      "id": "c4c7e49db340613b116de24cafd0dd59",
+      "title": "Hé lộ bí ẩn vệ tinh sao Kim biến mất",
+      "link": "https://thanhnien.vn/he-lo-bi-an-ve-tinh-sao-kim-bien-mat-185260915163241442.htm",
+      "summary": "Một nghiên cứu mới cho rằng sao Kim có thể từng sở hữu một mặt trăng, nhưng tốc độ tự quay cực chậm khiến vệ tinh này dần rơi xuống hành tinh và bị nuốt chửng trong một vụ va chạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T23:13:00+07:00",
+      "fetched": "2026-09-16T06:49:32.239803+07:00"
+    },
+    {
+      "id": "ab193658babc1fd580d2f21fba4f9aef",
+      "title": "Tranh cãi kiểm soát AI giữa cuộc đua công nghệ",
+      "link": "https://thanhnien.vn/tranh-cai-kiem-soat-ai-giua-cuoc-dua-cong-nghe-185260915222734609.htm",
+      "summary": "Tranh luận về kiểm soát tốc độ phát triển AI tiếp tục gia tăng, giữa những nghi vấn về lợi ích doanh nghiệp đằng sau lời kêu gọi kiểm soát công nghệ này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T23:06:00+07:00",
+      "fetched": "2026-09-16T06:49:32.239983+07:00"
+    },
+    {
+      "id": "08b561cb3587ce62f7539aa98a3156c4",
+      "title": "Biến niềm tự hào về truyền thống Hội thành những việc làm thiết thực",
+      "link": "https://thanhnien.vn/bien-niem-tu-hao-ve-truyen-thong-hoi-thanh-nhung-viec-lam-thiet-thuc-185260915191903649.htm",
+      "summary": "Chiều 15.9, tại Hà Nội diễn ra Hội nghị Ủy ban T.Ư Hội Liên hiệp Thanh niên Việt Nam lần thứ 5, khóa IX, nhiệm kỳ 2024 - 2029. Các đại biểu đã tập trung thảo luận nhiều nội dung quan trọng về công tác Hội, phong trào thanh niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T23:00:00+07:00",
+      "fetched": "2026-09-16T06:49:32.240136+07:00"
+    },
+    {
+      "id": "136c478a1ceb7fc545b5b36a195d974d",
+      "title": "Lại phập phồng thiếu điện",
+      "link": "https://thanhnien.vn/lai-phap-phong-thieu-dien-185260915190140949.htm",
+      "summary": "Thiếu điện không còn là nguy cơ, cảnh báo nữa mà hiển hiện ngay từ năm 2027. Để giải quyết vấn đề cấp bách này, Bộ Công thương vừa có báo cáo \"hỏa tốc\" gửi Thủ tướng Chính phủ, đề xuất một số giải pháp bảo đảm cung ứng điện giai đoạn 2026 - 2030 và đặc biệt là điều chỉnh Quy hoạch điện 8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T23:00:00+07:00",
+      "fetched": "2026-09-16T06:49:32.240291+07:00"
+    },
+    {
+      "id": "d1e1411a563baf2961b2a5336f98cc11",
+      "title": "Hàng loạt chiêu trò lừa đảo trực tuyến mới",
+      "link": "https://thanhnien.vn/hang-loat-chieu-tro-lua-dao-truc-tuyen-moi-185260915184444746.htm",
+      "summary": "Dùng AI tạo hình ảnh giả người quen để mượn tiền; giả tin nhắn \"phạt nguội\", giả danh cơ quan bảo hiểm…, tội phạm mạng đang liên tục thay đổi cách thức tiếp cận khiến nhiều người sập bẫy. Cơ quan chức năng khuyến cáo người dân không chỉ cảnh giác với những đường link lạ mà phải đặc biệt thận trọng t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T23:00:00+07:00",
+      "fetched": "2026-09-16T06:49:32.240442+07:00"
+    },
+    {
+      "id": "d3214f3c3c0a9ef119ae1e4d1dc9720f",
+      "title": "Bịt 'lỗ hổng' thông tin khi thủy điện xả lũ",
+      "link": "https://thanhnien.vn/bit-lo-hong-thong-tin-khi-thuy-dien-xa-lu-185260913132357096.htm",
+      "summary": "Việc điều chỉnh các quy trình vận hành hồ chứa thủy điện sẽ không thể phát huy tác dụng nếu thông tin cảnh báo lũ không tới được người dân, giúp họ hiểu mức độ rủi ro và lên kế hoạch hành động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T23:00:00+07:00",
+      "fetched": "2026-09-16T06:49:32.240606+07:00"
+    },
+    {
+      "id": "34569aa998f885bac3a9b4604e34902a",
+      "title": "Bộ GD-ĐT dự kiến bỏ quỹ phụ huynh, nhiều lớp đã thu xong",
+      "link": "https://thanhnien.vn/bo-gd-dt-du-kien-bo-quy-phu-huynh-nhieu-lop-da-thu-xong-185260915220703928.htm",
+      "summary": "Trong khi Bộ GD-ĐT đang dự kiến sẽ bỏ quỹ phụ huynh thì nhiều trường đã tổ chức họp phụ huynh đầu năm và các khoản thu chi đã hoàn tất, trong đó có những lớp thu chi bất chấp các nguyên tắc tự nguyện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T22:54:00+07:00",
+      "fetched": "2026-09-16T06:49:32.240762+07:00"
+    },
+    {
+      "id": "d8bd7aa631b518a457bdb842198b1d0b",
+      "title": "Công nghệ kết nối lòng nhân ái",
+      "link": "https://thanhnien.vn/cong-nghe-ket-noi-long-nhan-ai-185260915230129113.htm",
+      "summary": "Sáng 14.9, ngay sau khi ra mắt, trang web baotrotremocoi.thanhnien.vn đã nhận được lượt truy cập và tương tác rất lớn, cho thấy sự lan tỏa lòng nhân ái trong cộng đồng rất mạnh mẽ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-15T22:51:00+07:00",
+      "fetched": "2026-09-16T06:49:32.240951+07:00"
+    },
+    {
+      "id": "a6c2fe8f4bff00228f35e209e238917b",
+      "title": "Ronaldo chơi trọn trận, Al Nassr thảm bại ở Cup C1 châu Á",
+      "link": "https://vnexpress.net/ronaldo-choi-tron-tran-al-nassr-tham-bai-o-cup-c1-chau-a-5120729.html",
+      "summary": "Cristiano Ronaldo chơi trọn 90 phút nhưng không thể giúp Al Nassr tránh thất bại 0-4 trước Al Ain ở trận mở màn Cup C1 châu Á.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-15T22:33:33+07:00",
+      "fetched": "2026-09-16T06:49:38.696359+07:00"
+    },
+    {
+      "id": "8c0250634df78dc50d9478f75ea143f2",
+      "title": "Cựu vô địch World Cup ủng hộ Messi giành Quả Bóng Vàng",
+      "link": "https://vnexpress.net/cuu-vo-dich-world-cup-ung-ho-messi-gianh-qua-bong-vang-5120547.html",
+      "summary": "Theo cựu danh thủ Brazil Mauro Silva, Lionel Messi xứng đáng nhận Quả Bóng Vàng 2026 sau kỳ tích đưa Argentina vào chung kết World Cup ở tuổi 39.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-15T22:30:02+07:00",
+      "fetched": "2026-09-16T06:49:38.697361+07:00"
+    },
+    {
+      "id": "f414d3a084615dfccfaf7be1ae720c98",
+      "title": "Mbappe tỏa sáng, Real thắng nhọc ở phút bù tại La Liga",
+      "link": "https://vnexpress.net/mbappe-toa-sang-real-thang-nhoc-o-phut-bu-tai-la-liga-5120728.html",
+      "summary": "Dẫn trước hai bàn, nhưng đội khách Real Madrid cần pha tỏa sáng Kylian Mbappe ở phút bù mới thắng Elche 3-2 ở vòng 6 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-15T22:00:45+07:00",
+      "fetched": "2026-09-16T06:49:38.696540+07:00"
+    },
+    {
+      "id": "0503071acbb3bcd6d104b89df9b18167",
+      "title": "Jensen Huang ứng xử thế nào khi nhân viên rời đi",
+      "link": "https://vnexpress.net/jensen-huang-ung-xu-the-nao-khi-nhan-vien-roi-di-5120147.html",
+      "summary": "Jensen Huang, CEO Nvidia, nhiều lần đưa ra lời khuyên chân thành với những nhân viên muốn nghỉ việc để thành lập startup riêng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-15T22:00:00+07:00",
+      "fetched": "2026-09-16T06:49:37.625558+07:00"
+    },
+    {
+      "id": "cc6c85302cc5409c1c640910a4d7ea47",
+      "title": "Liverpool, Arsenal thẳng tiến ở Cup Liên đoàn",
+      "link": "https://vnexpress.net/liverpool-arsenal-thang-tien-o-cup-lien-doan-5120727.html",
+      "summary": "Liverpool thắng đội khách Tottenham 3-1, còn Arsenal hạ chủ nhà Ipswich Town 4-2 để cùng giành quyền vào vòng bốn Cup Liên đoàn Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-15T21:34:17+07:00",
+      "fetched": "2026-09-16T06:49:38.696703+07:00"
     },
     {
       "id": "b93e1ac9b19c64ef30dd60d7b088a7f7",
