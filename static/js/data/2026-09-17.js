@@ -1,6 +1,6 @@
 window.newsData_2026_09_17 = {
   "date": "2026-09-17",
-  "lastUpdated": "2026-09-17T02:13:21.868484+07:00",
+  "lastUpdated": "2026-09-17T05:29:01.832996+07:00",
   "articles": [
     {
       "id": "30780864e6b77544ee5d756c8b73645b",
@@ -151,6 +151,196 @@ window.newsData_2026_09_17 = {
       "category": "Tổng hợp",
       "published": "2026-09-17T02:13:14.667101+07:00",
       "fetched": "2026-09-17T02:13:14.667566+07:00"
+    },
+    {
+      "id": "604e60a548cf69b85106df516811cbf4",
+      "title": "'Định danh' tài xế công nghệ thế nào?",
+      "link": "https://thanhnien.vn/dinh-danh-tai-xe-cong-nghe-the-nao-185260916201845696.htm",
+      "summary": "Từ tranh cãi về phí, chiết khấu đến khoảng trống an sinh, câu hỏi đặt ra là cần \"định danh\" tài xế công nghệ ra sao để vừa bảo vệ quyền lợi, vừa giữ được tính linh hoạt của nghề?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T22:22:00+07:00",
+      "fetched": "2026-09-17T05:28:52.662071+07:00"
+    },
+    {
+      "id": "de7a86523ddfb907c198bbbea6080a4e",
+      "title": "Nam bộ trời đục ngầu kéo dài, vì sao?",
+      "link": "https://thanhnien.vn/nam-bo-troi-duc-ngau-keo-dai-vi-sao-185260916214629442.htm",
+      "summary": "Bầu trời Nam bộ đục ngầu những ngày qua có khả năng do ảnh hưởng khói bụi cháy rừng từ Indonesia. Chất lượng không khí giảm thấp ảnh hưởng đến sức khỏe của nhiều người. Tuy vậy, những trận mưa lớn sắp đến có khả năng làm giảm nguy cơ ô nhiễm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T22:21:00+07:00",
+      "fetched": "2026-09-17T05:28:52.662193+07:00"
+    },
+    {
+      "id": "c7ecbaa9edfaa8bbbf4618631ed61747",
+      "title": "Nóng bất động sản công nghiệp",
+      "link": "https://thanhnien.vn/nong-bat-dong-san-cong-nghiep-185260916201747908.htm",
+      "summary": "Trái ngược với cảnh thị trường bất động sản nhà ở \"nguội lạnh\", bất động sản công nghiệp vẫn nóng hầm hập và là điểm sáng trong thu hút đầu tư của cả doanh nghiệp trong và ngoài nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T22:20:00+07:00",
+      "fetched": "2026-09-17T05:28:52.662300+07:00"
+    },
+    {
+      "id": "8d642efc7f4990cb2c4ec3df66fd9614",
+      "title": "'Chồng vừa mất, nhà chực sập': Tiếng khóc xót xa giữa vùng sạt lở Thanh Hóa",
+      "link": "https://thanhnien.vn/chong-vua-mat-nha-chuc-sap-tieng-khoc-xot-xa-giua-vung-sat-lo-thanh-hoa-185260916185141162.htm",
+      "summary": "Núi Ngọc Sơn bất ngờ sạt lở khiến 2 ngôi nhà ở lưng chừng núi nứt toác, trong đó, 1 ngôi nhà đã đổ sập hoàn toàn, gạch đá tràn xuống dãy nhà phía dưới khiến nhiều gia đình ở phường Nghi Sơn (Thanh Hóa) có nhà mà không dám về. Giờ đây họ chỉ biết nhìn tài sản lớn nhất trong cuộc đời họ dần sạt lở, đổ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T22:20:00+07:00",
+      "fetched": "2026-09-17T05:28:52.662404+07:00"
+    },
+    {
+      "id": "ce22d31405b0ba6a011b56c5943e57b5",
+      "title": "Tài sản ông Trump tăng cao sau khi làm tổng thống",
+      "link": "https://thanhnien.vn/tai-san-ong-trump-tang-cao-sau-khi-lam-tong-thong-185260916205625134.htm",
+      "summary": "Tạp chí Forbes ngày 15.9 cập nhật số liệu mới nhất trong danh sách Forbes 400 về các tỉ phú Mỹ. Kết quả cho thấy tài sản của Tổng thống Donald Trump đã tăng thêm 2,7 tỉ USD kể từ khi thắng cử vào tháng 11.2024.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T22:19:00+07:00",
+      "fetched": "2026-09-17T05:28:52.662505+07:00"
+    },
+    {
+      "id": "298f433704628b89979fc144eaa188e6",
+      "title": "Óc chó, hạnh nhân, đậu phộng: Ăn thế nào tốt nhất?",
+      "link": "https://thanhnien.vn/oc-cho-hanh-nhan-dau-phong-an-the-nao-tot-nhat-185260916102551319.htm",
+      "summary": "Óc chó, hạnh nhân, đậu phộng giàu chất béo tốt, protein, chất xơ, vitamin và khoáng chất. Tuy nhiên, cách chế biến và khẩu phần ăn cũng ảnh hưởng đến giá trị dinh dưỡng và sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T22:16:00+07:00",
+      "fetched": "2026-09-17T05:28:52.662608+07:00"
+    },
+    {
+      "id": "240a44101ad9438c8f884bf3d5fca8ac",
+      "title": "Tử vi ngày 17 tháng 9: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-17-thang-9-con-giap-nao-may-man-hom-nay-18526091705144605.htm",
+      "summary": "Tử vi ngày 17 tháng 9 mang đến những gợi ý tham khảo cho 12 con giáp, từ cơ hội kiếm thêm, khoản tiền bất ngờ được hoàn lại đến một cuộc gặp diễn ra thuận lợi hơn dự tính. Tài lộc hôm nay của một số tuổi khá sáng, nhưng cũng có người nên thận trọng với những khoản chi nhỏ đang âm thầm lặp lại mỗi th...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T22:15:00+07:00",
+      "fetched": "2026-09-17T05:28:52.662710+07:00"
+    },
+    {
+      "id": "f827da716b5a4eda2ef7d9e2e45054a6",
+      "title": "Các nền tảng gọi xe tại Việt Nam 'chia tiền' cho tài xế thế nào?",
+      "link": "https://vnexpress.net/cac-nen-tang-goi-xe-tai-viet-nam-chia-tien-cho-tai-xe-the-nao-5120726.html",
+      "summary": "Trong khi Grab tính chiết khấu linh động từng chuyến, Be và GreenSM chọn cách chia doanh thu cố định để đảm bảo quyền lợi đối tác tài xế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-16T22:05:00+07:00",
+      "fetched": "2026-09-17T05:28:58.883077+07:00"
+    },
+    {
+      "id": "35d6b86c791d4c876d930025da6112a7",
+      "title": "Dự đoán tỷ số U.23 Việt Nam thắng U.23 Philippines 2-0: Thanh Nhàn và Văn Thuận ghi bàn",
+      "link": "https://thanhnien.vn/du-doan-ty-so-u23-viet-nam-thang-u23-philippines-2-0-thanh-nhan-va-van-thuan-ghi-ban-185260916131116067.htm",
+      "summary": "Dù sở hữu đến 12 cầu thủ đang thi đấu ở nước ngoài, trong đó bao gồm 2 cầu thủ ngoài 23 tuổi, nhưng đội tuyển U.23 Philippines vẫn không được đánh giá quá cao tại ASIAD 20.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T22:03:00+07:00",
+      "fetched": "2026-09-17T05:28:52.662809+07:00"
+    },
+    {
+      "id": "83d10a6f4863c659ead7fb129d5c1800",
+      "title": "Hạ viện Mỹ thúc đẩy dự luật cấm vận năng lượng Nga",
+      "link": "https://thanhnien.vn/ha-vien-my-thuc-day-du-luat-cam-van-nang-luong-nga-185260916195550621.htm",
+      "summary": "Hạ viện Mỹ ngày 15.9 đã bỏ phiếu thông qua quy trình thủ tục đối với dự luật áp lệnh cấm vận những đối tác mua năng lượng từ Nga, mở đường cho phiên tranh luận và bỏ phiếu cuối cùng vào ngày 16.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T22:00:00+07:00",
+      "fetched": "2026-09-17T05:28:52.662921+07:00"
+    },
+    {
+      "id": "84addfe944ea74cf91264f7e172386c1",
+      "title": "Lịch âm hôm nay 17.9: Ngày Giáp Ngọ, tháng Đinh Dậu, năm Bính Ngọ",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-179-ngay-giap-ngo-thang-dinh-dau-nam-binh-ngo-18526091614023373.htm",
+      "summary": "Theo lịch âm hôm nay 17.9 là ngày Giáp Ngọ. Âm lịch, dương lịch hôm nay còn có sự kiện gì đáng lưu ý?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T22:00:00+07:00",
+      "fetched": "2026-09-17T05:28:52.663028+07:00"
+    },
+    {
+      "id": "adc85e273bbe8d17a1d6f42028853dca",
+      "title": "Đòn trả đũa của tổng công tố Ukraine sau khi bị cách chức",
+      "link": "https://vnexpress.net/don-tra-dua-cua-tong-cong-to-ukraine-sau-khi-bi-cach-chuc-5120285.html",
+      "summary": "Cựu tổng công tố Ukraine đưa ra loạt cáo buộc nhằm vào lãnh đạo cơ quan chống tham nhũng, làm dấy lên lo ngại về một cuộc khủng hoảng chính trị mới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-16T22:00:00+07:00",
+      "fetched": "2026-09-17T05:28:56.887698+07:00"
+    },
+    {
+      "id": "68e2ee11a0a4b88f2c624d4483ad5851",
+      "title": "Công ty Nhật Bản triển khai dịch vụ 'cấp cứu' robot hình người",
+      "link": "https://vnexpress.net/cong-ty-nhat-ban-trien-khai-dich-vu-cap-cuu-robot-hinh-nguoi-5120677.html",
+      "summary": "Tập đoàn công nghệ GMO Internet ra mắt xe cứu thương đầu tiên ở Nhật Bản dành cho robot hình người, cung cấp dịch vụ sửa chữa nhanh chóng tại chỗ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-16T22:00:00+07:00",
+      "fetched": "2026-09-17T05:29:00.814541+07:00"
+    },
+    {
+      "id": "fb2f125a67a579b94cdf95261f107069",
+      "title": "Quy tập 646 hài cốt liệt sĩ tại công viên Lê Thị Riêng",
+      "link": "https://thanhnien.vn/quy-tap-646-hai-cot-liet-si-tai-cong-vien-le-thi-rieng-185260916222043222.htm",
+      "summary": "Ngày 16.9, lực lượng chức năng quy tập thêm 14 hài cốt liệt sĩ tại rãnh số 2, khu A, nâng tổng số tìm thấy ở công viên Lê Thị Riêng lên 646.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T21:35:00+07:00",
+      "fetched": "2026-09-17T05:28:52.663128+07:00"
+    },
+    {
+      "id": "30e91598eb94d89b45688b77a62f7bc0",
+      "title": "Biển báo giao thông ở Nha Trang xuống cấp, phai màu",
+      "link": "https://thanhnien.vn/bien-bao-giao-thong-o-nha-trang-xuong-cap-phai-mau-185260916161026574.htm",
+      "summary": "Nhiều biển báo giao thông trên các tuyến đường trung tâm phường Nha Trang (Khánh Hòa) bị bong tróc, phai màu, khiến việc nhận diện chỉ dẫn của người đi đường gặp khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T21:30:00+07:00",
+      "fetched": "2026-09-17T05:28:52.663228+07:00"
+    },
+    {
+      "id": "6382a58e455f907d718128c3876d0b41",
+      "title": "Đi bộ nhiều hay đi nhanh tốt hơn cho tuổi thọ?",
+      "link": "https://thanhnien.vn/di-bo-nhieu-hay-di-nhanh-tot-hon-cho-tuoi-tho-185260916224114482.htm",
+      "summary": "Không phải cứ đi càng nhiều bước mỗi ngày mới có lợi. Nghiên cứu trên hơn 100.000 người cho thấy tốc độ đi bộ cũng liên quan đáng kể đến nguy cơ tử vong sớm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T21:23:00+07:00",
+      "fetched": "2026-09-17T05:28:52.663331+07:00"
+    },
+    {
+      "id": "7479368ddc811cc04a1be4324f50cd98",
+      "title": "Man Utd thua Brighton trên sân nhà dù dẫn hai bàn",
+      "link": "https://vnexpress.net/man-utd-thua-brighton-tren-san-nha-du-dan-hai-ban-5121144.html",
+      "summary": "Man Utd dẫn Brighton 2-0 chỉ sau 10 phút, nhưng để đối thủ ghi ba bàn liên tiếp và thua ngược 2-3 ở vòng ba Cup Liên đoàn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-16T21:19:24+07:00",
+      "fetched": "2026-09-17T05:29:01.829318+07:00"
+    },
+    {
+      "id": "5d56701234c7cd270e55aefd6a99cfd9",
+      "title": "Đoàn thể thao Việt Nam: Nỗ lực vượt qua giới hạn",
+      "link": "https://thanhnien.vn/doan-the-thao-viet-nam-no-luc-vuot-qua-gioi-han-185260916204808956.htm",
+      "summary": "Đoàn thể thao VN với 498 thành viên, trong đó có 348 VĐV, góp mặt tranh tài ở Đại hội thể thao châu Á (ASIAD 20) khai mạc ngày 19.9 và kết thúc ngày 4.10 tại Aichi - Nagoya (Nhật Bản).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T19:27:00+07:00",
+      "fetched": "2026-09-17T05:28:52.663432+07:00"
+    },
+    {
+      "id": "6c893ad94b29b173547694158dfd9323",
+      "title": "Fed tăng lãi suất lần đầu tiên sau 3 năm",
+      "link": "https://vnexpress.net/fed-tang-lai-suat-lan-dau-tien-sau-3-nam-5121142.html",
+      "summary": "Cục Dự trữ Liên bang Mỹ (Fed) tăng lãi suất lần đầu tiên kể từ năm 2023, đúng như dự báo của thị trường.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-16T18:38:07+07:00",
+      "fetched": "2026-09-17T05:28:58.883203+07:00"
     },
     {
       "id": "2ad0363694aecf072a12fb059bed8477",
@@ -781,6 +971,16 @@ window.newsData_2026_09_17 = {
       "category": "Thế giới",
       "published": "2026-09-16T07:03:30+07:00",
       "fetched": "2026-09-17T02:13:15.931280+07:00"
+    },
+    {
+      "id": "a04dc39c106fa626458242034241eede",
+      "title": "Startup Aves mở cuộc thi thiết kế xe máy điện",
+      "link": "https://vnexpress.net/startup-aves-mo-cuoc-thi-thiet-ke-xe-may-dien-5120214.html",
+      "summary": "Aves muốn tìm kiếm những thiết kế xe máy điện mang tính ứng dụng cao, có thể triển khai thực tế, sẽ trao tổng giải thưởng trị giá đến 265 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T07:00:00+07:00",
+      "fetched": "2026-09-17T05:28:49.939522+07:00"
     },
     {
       "id": "aa37ae0108ee65fdccd43a07e0ab3744",
