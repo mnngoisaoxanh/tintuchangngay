@@ -1,7 +1,157 @@
 window.newsData_2026_09_16 = {
   "date": "2026-09-16",
-  "lastUpdated": "2026-09-16T06:49:38.701653+07:00",
+  "lastUpdated": "2026-09-16T09:22:45.024375+07:00",
   "articles": [
+    {
+      "id": "1b17e9d974e6d8adc5296fe2e965215c",
+      "title": "Nghệ sĩ Lê Thiện rưng rưng nhớ lần viếng mộ gió soạn giả Trần Hữu Trang cách đây 50 năm",
+      "link": "https://tuoitre.vn/nghe-si-le-thien-rung-rung-nho-lan-vieng-mo-gio-soan-gia-tran-huu-trang-cach-day-50-nam-10026091523522859.htm",
+      "summary": "Nhà hát Trần Hữu Trang đã tổ chức chuyến đi về nguồn tại Khu di tích Căn cứ Trung ương Cục miền Nam tại Tây Ninh. Nghệ sĩ Lê Thiện đã có những chia sẻ đầy xúc động về vị soạn giả đáng kính Trần Hữu Trang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T09:22:35.405128+07:00",
+      "fetched": "2026-09-16T09:22:35.405214+07:00"
+    },
+    {
+      "id": "4d920b29b7dff35be533eefea2d3c39d",
+      "title": "Kịch đoàn Thành Lộc ‘cháy vé’ toàn bộ suất diễn trước nửa tháng ra mắt",
+      "link": "https://tuoitre.vn/kich-doan-thanh-loc-chay-ve-toan-bo-suat-dien-truoc-nua-thang-ra-mat-100260916015321361.htm",
+      "summary": "Chỉ vừa công bố bán vé được chừng 3, 4 ngày, toàn bộ 5 suất diễn đợt đầu tiên của Kịch đoàn Thành Lộc đã hết sạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T09:22:35.405066+07:00",
+      "fetched": "2026-09-16T09:22:35.405119+07:00"
+    },
+    {
+      "id": "432cb3a5eb2fa3101e06d0f48eebeb22",
+      "title": "Diệp Linh Châu mang yếm Việt, rèm tái sinh đến Manila Fashion Week",
+      "link": "https://tuoitre.vn/diep-linh-chau-mang-yem-viet-rem-tai-sinh-den-manila-fashion-week-100260916061412767.htm",
+      "summary": "Là khách mời tham dự Manila Fashion Week 2026, fashionista Diệp Linh Châu gây chú ý với các thiết kế lấy cảm hứng từ yếm truyền thống đến thời trang đương đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T09:22:35.404996+07:00",
+      "fetched": "2026-09-16T09:22:35.405056+07:00"
+    },
+    {
+      "id": "0db723b858179c5f892d8bc41a335b83",
+      "title": "Ngắm nàng công chúa đẹp nhất châu Âu",
+      "link": "https://tuoitre.vn/ngam-nang-cong-chua-dep-nhat-chau-au-100260915230446527.htm",
+      "summary": "Công chúa Leonor của Hoàng gia Tây Ban Nha không chỉ là học bá, mà còn được kỳ vọng sẽ vượt qua Công nương Kate Middleton về sức hút thời trang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T09:22:35.404932+07:00",
+      "fetched": "2026-09-16T09:22:35.404986+07:00"
+    },
+    {
+      "id": "50c7a4a74de20ab12c4f3a411cb71bae",
+      "title": "Ăn bánh xèo dế cơm mùa dế lụt xứ Quảng",
+      "link": "https://tuoitre.vn/an-banh-xeo-de-com-mua-de-lut-xu-quang-10026091516223178.htm",
+      "summary": "Mùa mưa lụt ở xứ Quảng từng là mùa của những con dế cơm bò ra khỏi hang, cũng là mùa lũ trẻ theo cha ra bãi biền bắt dế. Món dế chiên giòn, bánh xèo dế cơm gợi nhớ ký ức bên bếp lửa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T09:22:35.404867+07:00",
+      "fetched": "2026-09-16T09:22:35.404922+07:00"
+    },
+    {
+      "id": "5bae395460b949d721b64b0290dad67c",
+      "title": "Trương Hiếu Thảo thắng 2 phần thi, Võ Minh Phụng đoạt Best Fitness Star",
+      "link": "https://tuoitre.vn/truong-hieu-thao-thang-2-phan-thi-vo-minh-phung-doat-best-fitness-star-100260916070432578.htm",
+      "summary": "Trương Hiếu Thảo giành hai chiến thắng ở phần thi Trang phục truyền thống và Tài năng, trong khi đó Võ Minh Phụng thắng Best Fitness Star tại Hoa hậu và Nam vương Siêu mẫu thể hình thế giới 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T09:22:35.404791+07:00",
+      "fetched": "2026-09-16T09:22:35.404848+07:00"
+    },
+    {
+      "id": "20051883dad3f57fc32b192e46f52d20",
+      "title": "Mưa lớn trong đêm, sáng 16-9 Hà Nội ngập úng ở những điểm nào?",
+      "link": "https://tuoitre.vn/mua-lon-trong-dem-sang-16-9-ha-noi-ngap-ung-o-nhung-diem-nao-100260916071419115.htm",
+      "summary": "Hà Nội mưa lớn kéo dài trong tối 15 và rạng sáng 16-9 khiến một số tuyến phố bị ngập úng, đọng nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T09:22:35.404719+07:00",
+      "fetched": "2026-09-16T09:22:35.404780+07:00"
+    },
+    {
+      "id": "584c4b541c9c9c0c05e2007ec6cf2bd1",
+      "title": "Nữ sinh áo nâu tạm biệt cửa chùa, bước vào cổng trường y Buôn Ma Thuột",
+      "link": "https://tuoitre.vn/nu-sinh-ao-nau-tam-biet-cua-chua-buoc-vao-cong-truong-y-buon-ma-thuot-100260916070908441.htm",
+      "summary": "Trần Thị Luyến - nữ sinh luôn mặc áo nâu đến trường, có tuổi thơ chìm nổi, 14 năm qua cùng mẹ và chị được một ngôi chùa cưu mang, nay Luyến học ngành y học cổ truyền, Trường đại học Y Dược Buôn Ma Thuột.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T09:22:35.404651+07:00",
+      "fetched": "2026-09-16T09:22:35.404709+07:00"
+    },
+    {
+      "id": "1f64f276fd2b8f9bf28e9736fd740b54",
+      "title": "Bảo Tín Mạnh Hải ra mắt quà tặng vàng 24K biết 'kể chuyện'",
+      "link": "https://tuoitre.vn/bao-tin-manh-hai-ra-mat-qua-tang-vang-24k-biet-ke-chuyen-10026091512033116.htm",
+      "summary": "Vẫn giữ trọn giá trị tích lũy truyền thống, Kim Gia Bảo Gift khoác thêm cho vàng 24K một diện mạo mới. Với thiết kế quà tặng và trải nghiệm số, cho phép người trao gửi lời chúc, hình ảnh, kỷ niệm gắn với từng sản phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T09:22:35.404583+07:00",
+      "fetched": "2026-09-16T09:22:35.404642+07:00"
+    },
+    {
+      "id": "3d0f36ad7f31e3884d35df0d47266fdc",
+      "title": "LG mang công nghệ đến gần hơn với học sinh tiểu học tại Đồng Nai",
+      "link": "https://tuoitre.vn/lg-mang-cong-nghe-den-gan-hon-voi-hoc-sinh-tieu-hoc-tai-dong-nai-100260915182935315.htm",
+      "summary": "Với nhiều học sinh, cơ hội tiếp cận máy tính tại nhà vẫn còn hạn chế. Một không gian học tập mới tại Đồng Nai đang giúp hơn 1.000 học sinh có thêm điều kiện làm quen với công nghệ, từng bước hình thành kỹ năng số ngay từ bậc tiểu học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T09:22:35.404508+07:00",
+      "fetched": "2026-09-16T09:22:35.404572+07:00"
+    },
+    {
+      "id": "960869767c61bd45a13c6052daf55afa",
+      "title": "Gia đình người có công có được hỗ trợ thêm tiền khi đất bị thu hồi làm dự án không?",
+      "link": "https://tuoitre.vn/gia-dinh-nguoi-co-cong-co-duoc-ho-tro-them-tien-khi-dat-bi-thu-hoi-lam-du-an-khong-100260916075417012.htm",
+      "summary": "Mẹ tôi là người có công trong kháng chiến chống Mỹ, vậy nhà tôi có được hỗ trợ thêm khi đất bị thu hồi làm dự án không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T09:22:35.404440+07:00",
+      "fetched": "2026-09-16T09:22:35.404497+07:00"
+    },
+    {
+      "id": "7282b8e8665c6dda67821c24b34da53e",
+      "title": "Bộ đội, công an căng dây đưa người dân vượt lũ đi cấp cứu trong đêm",
+      "link": "https://tuoitre.vn/bo-doi-cong-an-cang-day-dua-nguoi-dan-vuot-lu-di-cap-cuu-trong-dem-100260916074821206.htm",
+      "summary": "Lực lượng công an, bộ đội ở Nghệ An đã căng dây, hỗ trợ một phụ nữ nghi bị đau ruột thừa vượt qua 3 cầu tràn đi cấp cứu trong đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T09:22:35.404372+07:00",
+      "fetched": "2026-09-16T09:22:35.404430+07:00"
+    },
+    {
+      "id": "02c5e1bf7963ec1744fbcaf292cd7bca",
+      "title": "Nước sông tràn vào trường học, hàng trăm học sinh ở thôn 'ốc đảo' học online",
+      "link": "https://tuoitre.vn/nuoc-song-tran-vao-truong-hoc-hang-tram-hoc-sinh-o-thon-oc-dao-hoc-online-100260916081326875.htm",
+      "summary": "Mưa lớn kéo dài nhiều ngày qua khiến mực nước sông Hoàng Long dâng cao, tràn vào trường học khiến hàng trăm học sinh ở thôn \"ốc đảo\" Ninh Bình phải học online.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T09:22:35.404295+07:00",
+      "fetched": "2026-09-16T09:22:35.404361+07:00"
+    },
+    {
+      "id": "2f5e5b86a36467981983636d9cfff64f",
+      "title": "TP.HCM: Từ ngày mai bắt đầu đợt mưa trên 250mm",
+      "link": "https://tuoitre.vn/tphcm-tu-ngay-mai-bat-dau-dot-mua-tren-250mm-100260916080617784.htm",
+      "summary": "Hôm nay 16-9, thời tiết TP.HCM và Nam Bộ vẫn ổn định, nhưng từ mai trở đi mưa bắt đầu gia tăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T09:22:35.404204+07:00",
+      "fetched": "2026-09-16T09:22:35.404280+07:00"
+    },
+    {
+      "id": "579a7fe5df5d73f14ca13beda6165127",
+      "title": "Bãi đỗ xe tự nổi khi ngập, có thể nâng ô tô nặng tới 3 tấn",
+      "link": "https://tuoitre.vn/bai-do-xe-tu-noi-khi-ngap-co-the-nang-o-to-nang-toi-3-tan-100260915185525444.htm",
+      "summary": "Một giải pháp chống ngập tại Nhật Bản biến chính vị trí đỗ xe thành một chiếc 'phao' khổng lồ, tự nâng ô tô lên khi nước dâng mà không cần điện, cảm biến hay hệ thống cơ khí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T09:22:35.404021+07:00",
+      "fetched": "2026-09-16T09:22:35.404161+07:00"
+    },
     {
       "id": "3303b6d40a49624473ea93bb1bddda60",
       "title": "Thời tiết hôm nay 16-9: Bắc Bộ còn mưa to, Nam Bộ chuẩn bị đón mưa diện rộng",
@@ -81,6 +231,186 @@ window.newsData_2026_09_16 = {
       "category": "Tổng hợp",
       "published": "2026-09-16T03:38:50.841202+07:00",
       "fetched": "2026-09-16T03:38:50.841363+07:00"
+    },
+    {
+      "id": "27e2568151ac477414a4bd551cd51dcb",
+      "title": "Căn bệnh khiến trẻ đau bụng, nôn mỗi khi đi học",
+      "link": "https://thanhnien.vn/can-benh-khien-tre-dau-bung-non-moi-khi-di-hoc-185260916090543523.htm",
+      "summary": "Nếu mỗi khi đi học con đau đầu, đau bụng, nôn hoặc mệt mỏi dai dẳng, không rõ lý do, đó có thể là triệu chứng 'bệnh' từ chối đến trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T02:21:00+07:00",
+      "fetched": "2026-09-16T09:22:33.588159+07:00"
+    },
+    {
+      "id": "9abdbb4b080ac6c41357f451d4c6ae2b",
+      "title": "Tom Cruise bị tố khó ưa trên phim trường khiến đồng nghiệp 'phát ngán'?",
+      "link": "https://thanhnien.vn/tom-cruise-bi-to-kho-ua-tren-phim-truong-khien-dong-nghiep-phat-ngan-185260916075513544.htm",
+      "summary": "Tom Cruise thừa nhận những lời đồn về sự khắt khe có phần khó ưa và cường độ làm việc cực đoan của mình trên phim trường là có thật. Tài tử thậm chí thường cảnh báo bạn diễn về điều này trước khi cả hai hợp tác chung và quá trình ghi hình bắt đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T02:16:00+07:00",
+      "fetched": "2026-09-16T09:22:33.588361+07:00"
+    },
+    {
+      "id": "238ece4cd056e4f1674e50b224340c75",
+      "title": "Chuyển mã số BHXH sang CCCD: người dân cần làm gì?",
+      "link": "https://thanhnien.vn/chuyen-ma-so-bhxh-sang-cccd-nguoi-dan-can-lam-gi-185260915182151988.htm",
+      "summary": "Việc chuyển mã số BHXH sang số định danh cá nhân/CCCD đã được thực hiện tự động trên hệ thống của cơ quan BHXH từ ngày 1.9. Tuy nhiên, người dân cần lưu ý một số vấn đề để tránh bị lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T02:15:00+07:00",
+      "fetched": "2026-09-16T09:22:33.588523+07:00"
+    },
+    {
+      "id": "8808778befc1aae0636df33514781edd",
+      "title": "Nga, Trung Quốc lên tiếng sau khi Mỹ xác nhận triển khai vũ khí không gian",
+      "link": "https://thanhnien.vn/nga-trung-quoc-len-tieng-sau-khi-my-xac-nhan-trien-khai-vu-khi-khong-gian-185260916071756144.htm",
+      "summary": "Nga và Trung Quốc đồng loạt lên tiếng cảnh báo sau khi Mỹ lần đầu xác nhận đã triển khai vũ khí không gian lên quỹ đạo trái đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T02:13:00+07:00",
+      "fetched": "2026-09-16T09:22:33.588677+07:00"
+    },
+    {
+      "id": "7e57dbe74f468dd3fb21a16abe3076d9",
+      "title": "Ukraine phản công tại điểm nóng Donetsk",
+      "link": "https://thanhnien.vn/ukraine-phan-cong-tai-diem-nong-donetsk-185260916083844697.htm",
+      "summary": "Quân đội Ukraine vừa phát động một chiến dịch tấn công ở phía bắc tỉnh Donetsk và tuyên bố giành lại quyền kiểm soát một phần lãnh thổ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T02:08:00+07:00",
+      "fetched": "2026-09-16T09:22:33.588825+07:00"
+    },
+    {
+      "id": "ea80b347282dd0d4dd3b3558a0c1139f",
+      "title": "Giá Bitcoin hôm nay 16.9.2026: Lao dốc sau khi đạo luật Minh bạch bị bác bỏ",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-1692026-lao-doc-sau-khi-dao-luat-minh-bach-bi-bac-bo-185260916082759318.htm",
+      "summary": "Bitcoin hôm nay đã giảm mạnh xuống vùng giá 75.000 USD sau khi khi Thượng viện Mỹ bác bỏ đạo luật Minh bạch thị trường tài sản kỹ thuật số (Clarity Act - đạo luật Minh bạch).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T02:08:00+07:00",
+      "fetched": "2026-09-16T09:22:33.588974+07:00"
+    },
+    {
+      "id": "63665e7405e43214d6095653648cbb99",
+      "title": "Dân vùng sạt lở Đồng Tháp chật vật đắp đê, ngăn triều cường cứu vườn cây ăn trái",
+      "link": "https://thanhnien.vn/dan-vung-sat-lo-dong-thap-chat-vat-dap-de-ngan-trieu-cuong-cuu-vuon-cay-an-trai-185260915231928111.htm",
+      "summary": "Những ngày qua, người dân ấp Hậu Vinh (xã Hội Cư, tỉnh Đồng Tháp) tất bật gia cố tuyến đê bao tại khu vực sạt lở ven kênh 28, nhằm hạn chế nước tràn vào nhà và vườn cây ăn trái khi mưa lớn hoặc triều cường dâng cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T02:05:00+07:00",
+      "fetched": "2026-09-16T09:22:33.589124+07:00"
+    },
+    {
+      "id": "9d835d9273567d17c390765849502a69",
+      "title": "Cựu kỹ sư Google cảnh báo AI có thể sắp 'xóa sổ' con người",
+      "link": "https://thanhnien.vn/cuu-ky-su-google-canh-bao-ai-co-the-sap-xoa-so-con-nguoi-185260915213524806.htm",
+      "summary": "Một cựu kỹ sư nghiên cứu an toàn AGI của Google DeepMind vừa lên tiếng cảnh báo nhân loại có thể đang cạn kiệt thời gian để ngăn chặn kịch bản AI xóa sổ sự sống con người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T02:00:00+07:00",
+      "fetched": "2026-09-16T09:22:33.589297+07:00"
+    },
+    {
+      "id": "40ffaddb04a942f87c55ae891a469a6b",
+      "title": "Hoa hậu Thanh Thủy trở thành Đại sứ thương hiệu Elise, đồng hành cùng hành trình mới",
+      "link": "https://thanhnien.vn/hoa-hau-thanh-thuy-tro-thanh-dai-su-thuong-hieu-elise-dong-hanh-cung-hanh-trinh-moi-185260915151644826.htm",
+      "summary": "Sau 15 năm xây dựng và phát triển, tháng 9.2026, tại Hà Nội, Elise chính thức công bố Hoa hậu Quốc tế 2024 Huỳnh Thị Thanh Thủy trở thành Đại sứ thương hiệu Elise, đánh dấu bước chuyển quan trọng của thương hiệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T02:00:00+07:00",
+      "fetched": "2026-09-16T09:22:33.589455+07:00"
+    },
+    {
+      "id": "7f7255fd8bd0448911b73be25ffeba23",
+      "title": "Chi tiền triệu để được... khổ: Vì sao càng mệt càng thấy vui?",
+      "link": "https://thanhnien.vn/chi-tien-trieu-de-duoc-kho-vi-sao-cang-met-cang-thay-vui-185260915142637074.htm",
+      "summary": "Vì sao không ít bạn trẻ chi tiền để được dậy từ rất sớm, đi bộ hàng chục km, leo dốc, lội suối, mang ba lô nặng, đối mặt với thời tiết và địa hình khắc nghiệt. Chi tiền triệu để được... khổ, họ đang mua điều gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T02:00:00+07:00",
+      "fetched": "2026-09-16T09:22:33.589614+07:00"
+    },
+    {
+      "id": "cc314b02d9ea9062dcc2b667691c2251",
+      "title": "6 năm gieo kỹ năng sống, giúp trẻ lớn lên từ những trải nghiệm",
+      "link": "https://thanhnien.vn/6-nam-gieo-ky-nang-song-giup-tre-lon-len-tu-nhung-trai-nghiem-185260908112821.htm",
+      "summary": "Trong thời gian dịch Covid-19, khi việc dạy và học chuyển sang trực tuyến để đảm bảo an toàn cho học sinh, nhiều phụ huynh chia sẻ sự lo lắng khi các con gần như chỉ quanh quẩn trong nhà, học online rồi xem tivi hoặc chơi game.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T02:00:00+07:00",
+      "fetched": "2026-09-16T09:22:33.589768+07:00"
+    },
+    {
+      "id": "a6ed91af097f5b4cd6cc1b2312a2c1c0",
+      "title": "Pháp mở rộng 'ô hạt nhân' đến Phần Lan, Nga phản ứng",
+      "link": "https://thanhnien.vn/phap-mo-rong-o-hat-nhan-den-phan-lan-nga-phan-ung-185260916080007007.htm",
+      "summary": "Bộ Ngoại giao Nga đã có phản ứng sau khi Phần Lan tham gia sáng kiến an ninh của Paris nhằm đưa các nước châu Âu vào dưới 'ô hạt nhân' của Pháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T01:59:00+07:00",
+      "fetched": "2026-09-16T09:22:33.589914+07:00"
+    },
+    {
+      "id": "ece95d4cd5808ff0a474b97fbbd4589a",
+      "title": "Một nhà hàng ở Việt Nam vào top 3 tốt nhất thế giới",
+      "link": "https://thanhnien.vn/mot-nha-hang-o-viet-nam-vao-top-3-tot-nhat-the-gioi-185260916080427697.htm",
+      "summary": "Nền tảng tư vấn du lịch hàng đầu thế giới Tripadvisor vừa công bố giải thưởng Lựa chọn của du khách năm 2026 cho Nhà hàng cao cấp tốt nhất năm 2026 (2026 Travellers' Choice Awards for Best of the Best Restaurants).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T01:52:00+07:00",
+      "fetched": "2026-09-16T09:22:33.590063+07:00"
+    },
+    {
+      "id": "c076f8dff7e6e06744b1964afc66b839",
+      "title": "Giá USD hôm nay 16.9.2026: Tỷ giá trung tâm lập kỷ lục nhưng ngân hàng đi xuống",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-1692026-ty-gia-trung-tam-lap-ky-luc-nhung-ngan-hang-di-xuong-1852609160755228.htm",
+      "summary": "Giá USD trong các ngân hàng thương mại tiếp tục giảm mạnh dù tỷ giá trung tâm vẫn gia tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T01:52:00+07:00",
+      "fetched": "2026-09-16T09:22:33.590237+07:00"
+    },
+    {
+      "id": "95612688256b70aba41c06f3ca66927a",
+      "title": "Giá vàng hôm nay 16.9.2026: Trong nước 'đắt' hơn thế giới 10 triệu đồng/lượng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-1692026-trong-nuoc-dat-hon-the-gioi-10-trieu-dong-luong-18526091608434373.htm",
+      "summary": "Thị trường vàng biến động nhẹ khi chờ đợi thông tin lãi suất từ Mỹ. Giá vàng trong nước duy trì mức đắt đỏ, cao hơn 10 triệu đồng mỗi lượng dù thị trường giao dịch khá ảm đạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-16T01:51:00+07:00",
+      "fetched": "2026-09-16T09:22:33.590395+07:00"
+    },
+    {
+      "id": "f8f729b7bbc66d5da6909d57d220bd74",
+      "title": "Chuyên gia: Cơ hội gom cổ phiếu giá rẻ vẫn còn",
+      "link": "https://vnexpress.net/chuyen-gia-co-hoi-gom-co-phieu-gia-re-van-con-5120492.html",
+      "summary": "Định giá cổ phiếu của hầu hết ngành cốt lõi đang thấp hơn mức trung bình nhiều năm, mở ra cơ hội tích lũy trong các nhịp điều chỉnh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-16T01:21:28+07:00",
+      "fetched": "2026-09-16T09:22:39.330439+07:00"
+    },
+    {
+      "id": "d1c7d2cea2b93ed4d18910ff41e2e85e",
+      "title": "'Giảng đường Việt là bể nhân tài bán dẫn chất lượng'",
+      "link": "https://vnexpress.net/giang-duong-viet-la-be-nhan-tai-ban-dan-chat-luong-5119633.html",
+      "summary": "Lĩnh vực bán dẫn cần có sự thực chiến từ giảng đường với sinh viên và giảng viên là nòng cốt, doanh nghiệp hỗ trợ, theo TS Nguyễn Văn Thái.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-16T01:00:00+07:00",
+      "fetched": "2026-09-16T09:22:43.002100+07:00"
+    },
+    {
+      "id": "2f7cb0c95e60bebf765b1cc6f9221b5a",
+      "title": "OpenAI thuê người đọc hội thoại ChatGPT của người dùng",
+      "link": "https://vnexpress.net/openai-thue-nguoi-doc-hoi-thoai-chatgpt-cua-nguoi-dung-5120686.html",
+      "summary": "OpenAI được cho là thực hiện dự án bí mật Project Lily, trong đó công ty thuê hàng trăm người xem các đoạn hội thoại thực tế của người dùng ChatGPT.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-16T00:52:22+07:00",
+      "fetched": "2026-09-16T09:22:43.002356+07:00"
     },
     {
       "id": "1cf87fded26495d1de3ee82987af654e",
@@ -231,6 +561,36 @@ window.newsData_2026_09_16 = {
       "category": "Tổng hợp",
       "published": "2026-09-16T00:49:40.276512+07:00",
       "fetched": "2026-09-16T00:49:40.276666+07:00"
+    },
+    {
+      "id": "54c609f5d6cf29f180a15dc25c883859",
+      "title": "Mỹ lần đầu thừa nhận thiếu 'đạn dược chiến lược' vì xung đột với Iran",
+      "link": "https://vnexpress.net/my-lan-dau-thua-nhan-thieu-dan-duoc-chien-luoc-vi-xung-dot-voi-iran-5120564.html",
+      "summary": "Lầu Năm Góc cho biết đã tiêu thụ lượng đạn dược trị giá 22,3 tỷ USD trong xung đột Trung Đông, khiến các kho dự trữ chiến lược thiếu hụt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-16T00:33:26+07:00",
+      "fetched": "2026-09-16T09:22:37.502739+07:00"
+    },
+    {
+      "id": "406b804bdf77f600f6b963635cfe8b89",
+      "title": "Messi đá trận chia tay đội tuyển Argentina ngày 6/10",
+      "link": "https://vnexpress.net/messi-da-tran-chia-tay-doi-tuyen-argentina-ngay-6-10-5120739.html",
+      "summary": "LĐBD Argentina (AFA) xác nhận Lionel Messi sẽ chơi lần cuối cho ĐTQG trong trận giao hữu gặp Benin ngày 6/10 tại sân Monumental, Buenos Aires.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-16T00:16:35+07:00",
+      "fetched": "2026-09-16T09:22:45.018309+07:00"
+    },
+    {
+      "id": "f4f56c008299a274d42f46ec0c6b8837",
+      "title": "Ông Trump công kích Tòa Tối cao Mỹ vì vấn đề bỏ phiếu qua thư",
+      "link": "https://vnexpress.net/ong-trump-cong-kich-toa-toi-cao-my-vi-van-de-bo-phieu-qua-thu-5120730.html",
+      "summary": "Ông Trump chỉ trích Tòa án Tối cao, trong đó có các thẩm phán do ông bổ nhiệm, sau khi họ chặn kế hoạch hạn chế bỏ phiếu qua thư.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-16T00:05:39+07:00",
+      "fetched": "2026-09-16T09:22:37.502918+07:00"
     },
     {
       "id": "5a56cab20ae5d9cd28fc3c088bd8eed3",
