@@ -1,7 +1,157 @@
 window.newsData_2026_09_17 = {
   "date": "2026-09-17",
-  "lastUpdated": "2026-09-17T16:00:37.152015+07:00",
+  "lastUpdated": "2026-09-17T21:32:12.234837+07:00",
   "articles": [
+    {
+      "id": "99836b8697c1df4d8483131b55197987",
+      "title": "Áo mưa cũng có thể khiến người đi xe máy ngã ra đường",
+      "link": "https://tuoitre.vn/ao-mua-cung-co-the-khien-nguoi-di-xe-may-nga-ra-duong-100260917145219789.htm",
+      "summary": "Xe máy đi sai phần đường khiến xe khách phải lao xuống lề để tránh trong điều kiện trời mưa. Nhưng cư dân mạng còn chú ý đến chiếc áo mưa mà người đi xe máy mặc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T21:32:03.451722+07:00",
+      "fetched": "2026-09-17T21:32:03.451756+07:00"
+    },
+    {
+      "id": "68c6cb4a9ee9fc9eaa46628ad6fb1127",
+      "title": "Sắp có thêm hơn 3.000 điểm bán ở Thái Lan cho khách Việt quét QR thanh toán",
+      "link": "https://tuoitre.vn/sap-co-them-hon-3000-diem-ban-o-thai-lan-cho-khach-viet-quet-qr-thanh-toan-100260917190234317.htm",
+      "summary": "Việc thanh toán khi mua sắm tại Thái Lan sẽ thuận tiện hơn với du khách Việt, khi hơn 3.000 điểm bán của Central Retail ở Thái Lan sắp kết nối VietQRGlobal.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T21:32:03.451682+07:00",
+      "fetched": "2026-09-17T21:32:03.451717+07:00"
+    },
+    {
+      "id": "a9040699b158b84c6636bdd99033abdf",
+      "title": "Trao tặng áo dài Việt Nam cho phụ nữ Belarus",
+      "link": "https://tuoitre.vn/trao-tang-ao-dai-viet-nam-cho-phu-nu-belarus-10026091718472708.htm",
+      "summary": "Hội Liên hiệp Phụ nữ TP.HCM đã có buổi giao lưu áo dài Việt Nam với Hội Phụ nữ TP Minsk và cộng đồng người Việt Nam tại thủ đô Minsk (Belarus).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T21:32:03.451637+07:00",
+      "fetched": "2026-09-17T21:32:03.451676+07:00"
+    },
+    {
+      "id": "be1f6464db93525e1aec548965d14457",
+      "title": "Xuân Thới Sơn tập trung hoàn thành giải phóng mặt bằng dự án nâng cấp quốc lộ 22",
+      "link": "https://tuoitre.vn/xuan-thoi-son-tap-trung-hoan-thanh-giai-phong-mat-bang-du-an-nang-cap-quoc-lo-22-100260917190442289.htm",
+      "summary": "Ngày 17-9, Đảng ủy xã Xuân Thới Sơn tổ chức Hội nghị Ban Chấp hành Đảng bộ xã lần thứ 12 (nhiệm kỳ 2025 - 2030). Tham dự hội nghị có ông Trần Văn Tuấn - Ủy viên Ban Thường vụ Thành ủy, Trưởng Ban Nội chính Thành ủy TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T21:32:03.451596+07:00",
+      "fetched": "2026-09-17T21:32:03.451630+07:00"
+    },
+    {
+      "id": "77303fcf5302a44b58247c545b86bc95",
+      "title": "Thái Lan cứng rắn với người nước ngoài trục lợi dân Thái",
+      "link": "https://tuoitre.vn/thai-lan-cung-ran-voi-nguoi-nuoc-ngoai-truc-loi-dan-thai-100260917184147024.htm",
+      "summary": "Thủ tướng Thái Lan Anutin Charnvirakul vừa lên tiếng yêu cầu những người nước ngoài vi phạm pháp luật hoặc trục lợi từ người dân nước này phải rời đi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T21:32:03.451555+07:00",
+      "fetched": "2026-09-17T21:32:03.451590+07:00"
+    },
+    {
+      "id": "975efb2fd6830baf9ab86e0bf900c60c",
+      "title": "Trường sau sáp nhập: Học sinh học ở đâu, ăn bán trú thế nào?",
+      "link": "https://tuoitre.vn/truong-sau-sap-nhap-hoc-sinh-hoc-o-dau-an-ban-tru-the-nao-100260917173231487.htm",
+      "summary": "Sau sáp nhập, các trường ở TP.HCM giữ ổn định nơi học, linh hoạt điều giáo viên và duy trì bữa ăn bán trú cho học sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T21:32:03.451515+07:00",
+      "fetched": "2026-09-17T21:32:03.451550+07:00"
+    },
+    {
+      "id": "7639b7e2baa4bf5fbf7686edf2fd0a92",
+      "title": "Các hồ chứa nước ở Khánh Hòa 'bị thấm nhẹ, vẫn đảm bảo an toàn' khi mưa lũ",
+      "link": "https://tuoitre.vn/cac-ho-chua-nuoc-o-khanh-hoa-bi-tham-nhe-van-dam-bao-an-toan-khi-mua-lu-10026091718440143.htm",
+      "summary": "Kết quả rà soát, kiểm tra, đánh giá lại hiện trạng các đập, hồ chứa nước có hiện tượng thấm nhẹ, sạt lở nhỏ tại Khánh Hòa “chưa có dấu hiệu bất thường”, còn trong giới hạn kỹ thuật cho phép, vẫn đảm bảo an toàn trước mùa mưa lũ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T21:32:03.451474+07:00",
+      "fetched": "2026-09-17T21:32:03.451509+07:00"
+    },
+    {
+      "id": "b00081aafea55f153390e44e10404b88",
+      "title": "Robot AI Hàn Quốc tự tìm đường ở chỗ lạ, đi nhầm còn biết tìm lại",
+      "link": "https://tuoitre.vn/robot-ai-han-quoc-tu-tim-duong-o-cho-la-di-nham-con-biet-tim-lai-100260917121545559.htm",
+      "summary": "Nhận yêu cầu 'tìm chiếc sofa màu xanh', robot AI do nhóm nghiên cứu Hàn Quốc phát triển có thể quan sát xung quanh, tự tìm đường và kiểm tra xem mình đã đến đúng nơi hay chưa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T21:32:03.451433+07:00",
+      "fetched": "2026-09-17T21:32:03.451468+07:00"
+    },
+    {
+      "id": "2a06b69d61c0d14554e16afd35370453",
+      "title": "Bí thư Tỉnh ủy Đắk Lắk: Thủy điện xả lũ phải gửi cảnh báo trực tiếp đến người dân trước nửa ngày",
+      "link": "https://tuoitre.vn/bi-thu-tinh-uy-dak-lak-thuy-dien-xa-lu-phai-gui-canh-bao-truc-tiep-den-nguoi-dan-truoc-nua-ngay-100260917185654028.htm",
+      "summary": "Trước bài học thực tế sau trận lũ lịch sử tháng 11-2025 và dự báo diễn biến thiên tai trong năm nay, Bí thư Tỉnh ủy Đắk Lắk yêu cầu việc cảnh báo thủy điện xả lũ phải đến trực tiếp người dân trước nửa ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T21:32:03.451390+07:00",
+      "fetched": "2026-09-17T21:32:03.451427+07:00"
+    },
+    {
+      "id": "c32bd5d0f20016faad4703c74075baba",
+      "title": "Hà Nội lập 4 đoàn công tác, rà soát quy trình bữa ăn bán trú sau nhiều lùm xùm",
+      "link": "https://tuoitre.vn/ha-noi-lap-4-doan-cong-tac-ra-soat-quy-trinh-bua-an-ban-tru-sau-nhieu-lum-xum-100260917192222722.htm",
+      "summary": "Hà Nội thành lập 4 đoàn kiểm tra liên ngành, tổ chức kiểm tra đột xuất bữa ăn bán trú tại các trường học từ ngày 20-9 đến hết 31-5-2027, tập trung vào nguồn thực phẩm, suất ăn, thực đơn và năng lực đơn vị cung cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T21:32:03.451333+07:00",
+      "fetched": "2026-09-17T21:32:03.451383+07:00"
+    },
+    {
+      "id": "bb515f8a2ef288bf5e9e27f2b28b1c09",
+      "title": "Trung Quốc: Xe hybrid cắm sạc bốc cháy dưới gầm, đại lý nói do sạc dự phòng bị đá vào",
+      "link": "https://tuoitre.vn/trung-quoc-xe-hybrid-cam-sac-boc-chay-duoi-gam-dai-ly-noi-do-sac-du-phong-bi-da-vao-100260917153624634.htm",
+      "summary": "Một chiếc Lynk & Co 900 bất ngờ bốc cháy khi đang đỗ tại Trung Quốc. Đại lý cho rằng nguồn cháy là cục sạc dự phòng bị người đi đường đá xuống gầm chiếc xe hybrid cắm sạc này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T21:32:03.451282+07:00",
+      "fetched": "2026-09-17T21:32:03.451326+07:00"
+    },
+    {
+      "id": "e3133231470476902c281a679984fdfe",
+      "title": "Hình ảnh mưa lũ hoành hành làm 3 người chết, hơn 16.000 nhà dân bị ngập lụt",
+      "link": "https://tuoitre.vn/hinh-anh-mua-lu-hoanh-hanh-lam-3-nguoi-chet-hon-16000-nha-dan-bi-ngap-lut-100260917190024656.htm",
+      "summary": "Mưa lớn những ngày qua gây lũ lớn, sạt lở đất tại các tỉnh thành Phú Thọ, Hà Nội, Ninh Bình, Thanh Hóa, Nghệ An... làm 3 người chết, hơn 16.000 nhà dân bị ngập lụt, trên 22.000ha lúa hoa màu bị ngập úng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T21:32:03.451236+07:00",
+      "fetched": "2026-09-17T21:32:03.451276+07:00"
+    },
+    {
+      "id": "87f57db793913bd302c240cd7372fd79",
+      "title": "Giá sầu riêng bất ngờ tăng giúp nhiều nông dân Tây Nguyên thu tiền tỉ",
+      "link": "https://tuoitre.vn/gia-sau-rieng-bat-ngo-tang-giup-nhieu-nong-dan-tay-nguyen-thu-tien-ti-100260917175230908.htm",
+      "summary": "Sau thời gian dài giá ở mức thấp, nhiều ngày qua giá sầu riêng có xu hưởng khởi sắc trở lại. Một trong những lý do được đưa ra là sản lượng đang giảm dần vào cuối vụ trong khi Trung Quốc tăng mua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T21:32:03.451187+07:00",
+      "fetched": "2026-09-17T21:32:03.451229+07:00"
+    },
+    {
+      "id": "57d57fe7cdd0f3b0ae9159b80d2a8700",
+      "title": "BlackRock, Vanguard quản lý chục nghìn tỉ USD đến Việt Nam trước giờ nâng hạng thị trường chứng khoán",
+      "link": "https://tuoitre.vn/blackrock-vanguard-quan-ly-chuc-nghin-ti-usd-den-viet-nam-truoc-gio-nang-hang-thi-truong-chung-khoan-100260917194230951.htm",
+      "summary": "Nhiều định chế đầu tư quốc tế lớn, trong đó có Vanguard, BlackRock -  hai tập đoàn quản lý tài sản lớn nhất thế giới, sẽ tham dự hội nghị nâng hạng do Bộ Tài chính, Ủy ban Chứng khoán tổ chức ngày mai (17-9).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T21:32:03.451133+07:00",
+      "fetched": "2026-09-17T21:32:03.451180+07:00"
+    },
+    {
+      "id": "46347321b2a8689ff4bef1ec26ed0ce0",
+      "title": "Rác ùn ứ ở Đà Nẵng: Công ty môi trường phải rà soát năng lực, cắt giảm thu gom rác ở một số địa bàn",
+      "link": "https://tuoitre.vn/rac-un-u-o-da-nang-cong-ty-moi-truong-phai-ra-soat-nang-luc-cat-giam-thu-gom-rac-o-mot-so-dia-ban-100260917193918385.htm",
+      "summary": "Trước tình trạng rác tồn đọng, chậm thu gom ở nhiều nơi, Đà Nẵng yêu cầu rà soát năng lực và đề xuất cắt giảm một số địa bàn công ty môi trường đang phục vụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T21:32:03.451001+07:00",
+      "fetched": "2026-09-17T21:32:03.451124+07:00"
+    },
     {
       "id": "33973d8717b1ddc4409972b7b66d961c",
       "title": "Thương hiệu tôi yêu: Trọn bữa cơm nhà với nước mắm nhỉ cá cơm Bà Hai",
@@ -151,6 +301,276 @@ window.newsData_2026_09_17 = {
       "category": "Tổng hợp",
       "published": "2026-09-17T16:00:30.657279+07:00",
       "fetched": "2026-09-17T16:00:30.657449+07:00"
+    },
+    {
+      "id": "72a5b2538e3fbfaecf240b6c4f754766",
+      "title": "Uống rượu tự nấu nghi chứa methanol, 48 người chết  ở Nigeria",
+      "link": "https://thanhnien.vn/uong-ruou-tu-nau-nghi-chua-methanol-48-nguoi-chet-o-nigeria-185260917205006785.htm",
+      "summary": "Ít nhất 48 người đã thiệt mạng và khoảng 100 người đang được điều trị tại miền nam Nigeria sau khi uống một loại rượu tự nấu bị nghi có chứa methanol, theo AP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T14:07:00+07:00",
+      "fetched": "2026-09-17T21:32:01.451502+07:00"
+    },
+    {
+      "id": "c6168b6469bf67ac193f8d5ea3e5e8e1",
+      "title": "Đại tướng Mỹ hoài nghi lời kể của phi công F-15E được cứu ở Iran",
+      "link": "https://vnexpress.net/dai-tuong-my-hoai-nghi-loi-ke-cua-phi-cong-f-15e-duoc-cuu-o-iran-5121383.html",
+      "summary": "Đại tướng Mỹ về hưu cho rằng thông tin phi công F-15E tiếp đất với tốc độ 160 km/h và tự mình di chuyển \"không thể là sự thật\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-17T14:05:50+07:00",
+      "fetched": "2026-09-17T21:32:05.371008+07:00"
+    },
+    {
+      "id": "fd7577b9d5e60b5dc7cd3395d3b45391",
+      "title": "Quy tập 663 hài cốt liệt sĩ tại công viên Lê Thị Riêng",
+      "link": "https://thanhnien.vn/quy-tap-663-hai-cot-liet-si-tai-cong-vien-le-thi-rieng-185260917205219988.htm",
+      "summary": "Ngày 17.9, lực lượng chức năng quy tập thêm 17 hài cốt liệt sĩ tại công viên Lê Thị Riêng, nâng tổng số được tìm thấy lên 663.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T14:00:00+07:00",
+      "fetched": "2026-09-17T21:32:01.451624+07:00"
+    },
+    {
+      "id": "31d6e750075d320479f64c44a1b9100d",
+      "title": "8.400 ngôi nhà bị ngập lụt ở Thanh Hóa",
+      "link": "https://thanhnien.vn/8400-ngoi-nha-bi-ngap-lut-o-thanh-hoa-185260917203509164.htm",
+      "summary": "Mưa rất lớn và liên tục từ ngày 13 - 17.9 khiến hơn 8.400 ngôi nhà của người dân ở tỉnh Thanh Hóa bị ngập sâu trung bình từ 0,5 - 1,5 m, tập trung ở các xã ven sông Bưởi, sông Cầu Chày, sông Yên, sông Mã…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T13:58:00+07:00",
+      "fetched": "2026-09-17T21:32:01.451734+07:00"
+    },
+    {
+      "id": "0cd0e8baf739186b2cd12772b71efb64",
+      "title": "U.23 Việt Nam tập chiến thuật đặc biệt, chống ‘vũ khí’ ném biên cực kỳ lợi hại của U.23 Philippines",
+      "link": "https://thanhnien.vn/u23-viet-nam-tap-chien-thuat-dac-biet-chong-vu-khi-nem-bien-cuc-ky-loi-hai-cua-u23-philippines-18526091720313093.htm",
+      "summary": "Trong buổi tập chiều 17.9, HLV Đinh Hồng Vinh ngoài phần chia đấu đối kháng đã cho U.23 Việt Nam rèn bài tập đặc biệt cho mục tiêu đánh bại U.23 Philippines vào chiều 18.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T13:50:00+07:00",
+      "fetched": "2026-09-17T21:32:01.451833+07:00"
+    },
+    {
+      "id": "110429c4635d81ac9796fa4e463270f4",
+      "title": "Khu dân cư ở Hà Nội ngập 3 ngày, người dân chật vật sinh hoạt",
+      "link": "https://thanhnien.vn/khu-dan-cu-o-ha-noi-ngap-3-ngay-nguoi-dan-chat-vat-sinh-hoat-185260917201929816.htm",
+      "summary": "Sau trận mưa ngày 15.9, 3 ngày qua, cuộc sống của nhiều hộ dân tại P.Hồng Hà (Hà Nội) phải chật vật trong cảnh thiếu điện, thiếu nước sinh hoạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T13:34:00+07:00",
+      "fetched": "2026-09-17T21:32:01.451931+07:00"
+    },
+    {
+      "id": "924544f7f1bf26ee1300dcc0712c7d2a",
+      "title": "Ốc Thanh Vân khóc nghẹn trước cô bé 10 năm chăm mẹ bị mất thị lực",
+      "link": "https://thanhnien.vn/oc-thanh-van-khoc-nghen-truoc-co-be-10-nam-cham-me-bi-mat-thi-luc-18526091720174411.htm",
+      "summary": "Hoàn cảnh của Huyền Trân trong chương trình 'Mái ấm gia đình Việt' khiến Ốc Thanh Vân và dàn nghệ sĩ khách mời không khỏi xót xa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T13:34:00+07:00",
+      "fetched": "2026-09-17T21:32:01.452026+07:00"
+    },
+    {
+      "id": "adcb939649f702a3f0ba77a4cac7583d",
+      "title": "Hơn 10.600 người Hà Nội bị ảnh hưởng do mưa lũ",
+      "link": "https://thanhnien.vn/hon-10600-nguoi-ha-noi-bi-anh-huong-do-mua-lu-185260917200526377.htm",
+      "summary": "Theo Chi cục Thủy lợi và Phòng, chống thiên tai (Sở NN-MT Hà Nội), tính đến 15 giờ ngày 17.9, tại Hà Nội ghi nhận 10.625 người bị ảnh hưởng do mưa lũ; đồng thời có 179 người phải sơ tán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T13:29:00+07:00",
+      "fetched": "2026-09-17T21:32:01.452122+07:00"
+    },
+    {
+      "id": "1341048ecf80361ac6c7518b65d3fc31",
+      "title": "Phó bí thư Tỉnh đoàn Gia Lai nhận nhiệm vụ mới",
+      "link": "https://thanhnien.vn/pho-bi-thu-tinh-doan-gia-lai-nhan-nhiem-vu-moi-18526091719500365.htm",
+      "summary": "Anh Đỗ Đức Thanh, Phó bí thư Thường trực Tỉnh đoàn Gia Lai, được bổ nhiệm giữ chức Phó chánh văn phòng Đoàn đại biểu Quốc hội và HĐND tỉnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T13:27:00+07:00",
+      "fetched": "2026-09-17T21:32:01.452222+07:00"
+    },
+    {
+      "id": "300beb4bdb82b1e6bc5cebce0bbb4859",
+      "title": "Cựu danh thủ Hồng Sơn nói lý do tham gia show thực tế ở tuổi 55",
+      "link": "https://thanhnien.vn/cuu-danh-thu-hong-son-noi-ly-do-tham-gia-show-thuc-te-o-tuoi-55-185260917193432212.htm",
+      "summary": "Quyết định trở lại show thực tế 'Cầu thủ nhí', cựu danh thủ Hồng Sơn tiếp tục với công tác huấn luyện, đào tạo những tài năng trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T13:27:00+07:00",
+      "fetched": "2026-09-17T21:32:01.452317+07:00"
+    },
+    {
+      "id": "0302512774dae3abb7fcef1d7689bb66",
+      "title": "Nghệ sĩ cải lương Vũ Quang qua đời",
+      "link": "https://thanhnien.vn/nghe-si-cai-luong-vu-quang-qua-doi-185260917195337069.htm",
+      "summary": "Nghệ sĩ Vũ Quang, gương mặt từng quen thuộc của sân khấu cải lương, qua đời ở tuổi 70 sau thời gian chống chọi với bệnh tật. Những năm cuối đời, ông sống lặng lẽ, nương nhờ tại một tịnh xá ở TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T13:26:00+07:00",
+      "fetched": "2026-09-17T21:32:01.452421+07:00"
+    },
+    {
+      "id": "1003c93faf33b3d05cd66dc69afd08cf",
+      "title": "Đại tá Nguyễn Đại Đồng làm Cục trưởng Cục An ninh chính trị nội bộ",
+      "link": "https://thanhnien.vn/dai-ta-nguyen-dai-dong-lam-cuc-truong-cuc-an-ninh-chinh-tri-noi-bo-185260917200025189.htm",
+      "summary": "Phó giám đốc Công an TP.Đà Nẵng Nguyễn Đại Đồng vừa được điều động, bổ nhiệm làm Cục trưởng Cục An ninh chính trị nội bộ Bộ Công an, kể từ ngày 18.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T13:18:00+07:00",
+      "fetched": "2026-09-17T21:32:01.452515+07:00"
+    },
+    {
+      "id": "b0b967f617954eb4a5bf2777e0d04af7",
+      "title": "Hàng thủ Thái Lan bất ngờ triệu tập gấp nhân vật đặc biệt, trận tái đấu Việt Nam sẽ rất hay",
+      "link": "https://thanhnien.vn/hang-thu-thai-lan-bat-ngo-trieu-tap-gap-nhan-vat-dac-biet-tran-tai-dau-viet-nam-se-rat-hay-185260917194253318.htm",
+      "summary": "Danh sách đội tuyển Thái Lan có trung vệ Kritsada Kaman khác biệt hẳn so với tất cả các trung vệ còn lại. Đây cũng là trung vệ nhận được rất nhiều sự kỳ vọng ở đội bóng xứ sở chùa vàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T13:16:00+07:00",
+      "fetched": "2026-09-17T21:32:01.452611+07:00"
+    },
+    {
+      "id": "eba826733124126c714dfb0dc0de5aed",
+      "title": "Lý Đức chỉ ra ‘vũ khí’ của Philippines, U.23 Việt Nam quyết lấy 3 điểm",
+      "link": "https://thanhnien.vn/ly-duc-chi-ra-vu-khi-cua-philippines-u23-viet-nam-quyet-lay-3-diem-185260917201056245.htm",
+      "summary": "Sau trận hòa U.23 Kuwait, U.23 Việt Nam đã nhanh chóng mổ băng, rút kinh nghiệm và hướng đến trận đấu với U.23 Philippines. Đội trưởng Lý Đức cho biết toàn đội đã sẵn sàng và đặt mục tiêu giành trọn 3 điểm trong trận đấu ngày mai, 18.9.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T13:14:00+07:00",
+      "fetched": "2026-09-17T21:32:01.452700+07:00"
+    },
+    {
+      "id": "b8594af6f24ea005e703febc5003baf3",
+      "title": "Những mẫu iPhone đủ điều kiện trải nghiệm tính năng tốt nhất của iOS 27",
+      "link": "https://thanhnien.vn/nhung-mau-iphone-du-dieu-kien-trai-nghiem-tinh-nang-tot-nhat-cua-ios-27-185260917092238295.htm",
+      "summary": "Siri AI trở thành điểm nhấn iOS 27, nhưng Apple chỉ hỗ trợ tính năng này trên các iPhone đủ mạnh về phần cứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T13:12:00+07:00",
+      "fetched": "2026-09-17T21:32:01.452789+07:00"
+    },
+    {
+      "id": "e9bd54b42be65f2cb2fea033ce24d2b8",
+      "title": "FTSE Russell dự báo hàng tỉ USD sẽ vào thị trường chứng khoán Việt",
+      "link": "https://thanhnien.vn/ftse-russell-du-bao-hang-ti-usd-se-vao-thi-truong-chung-khoan-viet-185260917195207198.htm",
+      "summary": "Chiều 17.9, Thủ tướng Lê Minh Hưng đã tiếp bà Fiona Bassett, Tổng giám đốc điều hành Tổ chức FTSE Russell và đại diện các tổ chức đầu tư toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-17T13:11:00+07:00",
+      "fetched": "2026-09-17T21:32:01.452881+07:00"
+    },
+    {
+      "id": "9d267a5ecd920cb813ffc0b52d057fff",
+      "title": "Việt Nam thua Nhật Bản 0-8 ở bóng đá nữ ASIAD 2026",
+      "link": "https://vnexpress.net/viet-nam-thua-nhat-ban-0-8-o-bong-da-nu-asiad-2026-5121545.html",
+      "summary": "Việt Nam không thể gây bất ngờ, thua đậm chủ nhà Nhật Bản tại lượt hai bảng E bóng đá nữ ASIAD 2026, tối 17/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-17T12:46:14+07:00",
+      "fetched": "2026-09-17T21:32:12.228333+07:00"
+    },
+    {
+      "id": "22b9507f8f2ff64e15c4e0b450cbfa93",
+      "title": "iPhone 18 Pro Max được rao chênh 9 triệu đồng so với giá niêm yết",
+      "link": "https://vnexpress.net/iphone-18-pro-max-duoc-rao-chenh-9-trieu-dong-so-voi-gia-niem-yet-5121515.html",
+      "summary": "Nhiều cửa hàng đang rao suất mua iPhone 18 Pro Max màu mới trong ngày dầu mở bán 18/9 với giá cao hơn giá chính thức đến 9 triệu đồng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-17T12:30:00+07:00",
+      "fetched": "2026-09-17T21:32:10.423416+07:00"
+    },
+    {
+      "id": "bdcc439666880f87688827eb245dbb31",
+      "title": "Ukraine cáo buộc Nga tập kích tàu hàng dân sự, gây chết người",
+      "link": "https://vnexpress.net/ukraine-cao-buoc-nga-tap-kich-tau-hang-dan-su-gay-chet-nguoi-5121465.html",
+      "summary": "Ukraine nói lực lượng Nga tấn công tàu hàng dân sự mang cờ Tanzania trên biển Đen, khiến thuyền trưởng thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-17T12:00:08+07:00",
+      "fetched": "2026-09-17T21:32:05.371132+07:00"
+    },
+    {
+      "id": "4426dcbe28503c164a0a957b275adf2a",
+      "title": "Cuộc giằng co trong Nhà Trắng về cách quản lý AI",
+      "link": "https://vnexpress.net/cuoc-giang-co-trong-nha-trang-ve-cach-quan-ly-ai-5121178.html",
+      "summary": "Khi AI phát triển ngày một nhanh, các cố vấn của ông Trump chia rẽ về việc siết quản lý, trong lúc giới công nghệ tích cực vận động duy trì cách tiếp cận nới lỏng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-17T12:00:00+07:00",
+      "fetched": "2026-09-17T21:32:05.371241+07:00"
+    },
+    {
+      "id": "30d7dcb1d783a1298e6f52a37166383f",
+      "title": "Cao tốc Bảo Lộc - Liên Khương thêm gần 3.000 tỷ đồng vốn tín dụng",
+      "link": "https://vnexpress.net/cao-toc-bao-loc-lien-khuong-them-gan-3-000-ty-dong-von-tin-dung-5121435.html",
+      "summary": "Dự án cao tốc do liên doanh T&T - FUTA - Phương Thành là nhà đầu tư vừa được Agribank cấp khoản vay tối đa 2.987 tỷ đồng, nâng tổng vốn tín dụng dự án lên gần 8.000 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-17T12:00:00+07:00",
+      "fetched": "2026-09-17T21:32:07.518474+07:00"
+    },
+    {
+      "id": "7a2cbbdcd91f949a640839b30aa6ceb9",
+      "title": "CT Group bay thử nghiệm UAV 'ngựa thồ trên không'",
+      "link": "https://vnexpress.net/ct-group-bay-thu-nghiem-uav-ngua-tho-tren-khong-5121527.html",
+      "summary": "CT UAV, thành viên CT Group, công bố thiết kế và bay thử nghiệm thành công mẫu CT Pegas 230 với khả năng mang tải 100 kg.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-17T11:49:32+07:00",
+      "fetched": "2026-09-17T21:32:10.423540+07:00"
+    },
+    {
+      "id": "da09761411b631400baac24a61e66749",
+      "title": "Chủ tịch CLB Thái Lan đáp trả HLV Park Hang-seo",
+      "link": "https://vnexpress.net/chu-tich-clb-thai-lan-dap-tra-hlv-park-hang-seo-5121522.html",
+      "summary": "Thanawat Nitikarnjana, Chủ tịch Ratchaburi FC, cho rằng HLV Park Hang-seo hạ thấp bóng đá Thái Lan vì không kiểm soát được cảm xúc của bản thân.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-17T11:10:10+07:00",
+      "fetched": "2026-09-17T21:32:12.228469+07:00"
+    },
+    {
+      "id": "a8765f218f35931b911cc23dd271aa74",
+      "title": "Trung Quốc hòa sốc ở bóng đá nữ ASIAD 2026",
+      "link": "https://vnexpress.net/trung-quoc-hoa-soc-o-bong-da-nu-asiad-2026-5121520.html",
+      "summary": "Trung Quốc bất ngờ bị cầm hòa 1-1 trước đối thủ yếu hơn Uzbekistan ở lượt hai bảng G môn bóng đá nữ ASIAD 2026 chiều 17/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-17T10:58:49+07:00",
+      "fetched": "2026-09-17T21:32:12.229177+07:00"
+    },
+    {
+      "id": "4f6fdb7ee2c598bae413d3d8dc1d97a6",
+      "title": "Giải cứu 10 ngư dân Việt Nam làm việc tại Malaysia",
+      "link": "https://vnexpress.net/giai-cuu-10-ngu-dan-viet-nam-lam-viec-tai-malaysia-5121516.html",
+      "summary": "10 ngư dân Việt Nam gặp khó khăn tại bang Perak, Malaysia, đã được hỗ trợ về nước an toàn, theo người phát ngôn Bộ Ngoại giao.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-17T10:53:24+07:00",
+      "fetched": "2026-09-17T21:32:05.371344+07:00"
+    },
+    {
+      "id": "c1b1200fcce58789c176ca4ff0d6491f",
+      "title": "Những khoảnh khắc 'cận kề cửa tử' của lính Mỹ dưới đòn tên lửa Iran",
+      "link": "https://vnexpress.net/nhung-khoanh-khac-can-ke-cua-tu-cua-linh-my-duoi-don-ten-lua-iran-5121296.html",
+      "summary": "Nhiều binh sĩ từng mắc kẹt trong lô cốt sau khi nhà chứa máy bay trúng tên lửa Iran và bốc cháy dữ dội, theo tư lệnh không quân Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-17T10:00:00+07:00",
+      "fetched": "2026-09-17T21:32:05.371488+07:00"
+    },
+    {
+      "id": "a2d005d5906594acb7eea5ed007080e4",
+      "title": "'Sĩ quan tình báo tài năng nhất' của Anh thiệt mạng ở Ukraine",
+      "link": "https://vnexpress.net/si-quan-tinh-bao-tai-nang-nhat-cua-anh-thiet-mang-o-ukraine-5121386.html",
+      "summary": "Bộ Quốc phòng Anh cho biết một sĩ quan tình báo nước này đã thiệt mạng trong \"tai nạn giao thông bi thảm\" tại Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-17T09:40:51+07:00",
+      "fetched": "2026-09-17T21:32:05.371592+07:00"
     },
     {
       "id": "b849c609cd9317aca2b101b5d95aedd0",
@@ -303,6 +723,36 @@ window.newsData_2026_09_17 = {
       "fetched": "2026-09-17T09:26:36.278649+07:00"
     },
     {
+      "id": "9b7e525a236e97390f6b00cba0c51ac7",
+      "title": "Ukraine không chặn được đòn tập kích tên lửa đạn đạo, hành trình Nga",
+      "link": "https://vnexpress.net/ukraine-khong-chan-duoc-don-tap-kich-ten-lua-dan-dao-hanh-trinh-nga-5121191.html",
+      "summary": "Ukraine ngầm thừa nhận không chặn được mục tiêu nào trong gần 20 tên lửa đạn đạo Iskander-M/S-400 và hành trình Kalibr được Nga phóng trong đêm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-17T09:12:59+07:00",
+      "fetched": "2026-09-17T21:32:05.371691+07:00"
+    },
+    {
+      "id": "4e65948d0efb41bd627aab603eff483c",
+      "title": "Việt Nam sớm vào tứ kết bóng chuyền nữ ASIAD 2026",
+      "link": "https://vnexpress.net/viet-nam-som-vao-tu-ket-bong-chuyen-nu-asiad-2026-5121458.html",
+      "summary": "Hạ Hong Kong 3-0 ở lượt hai bảng D, Việt Nam giành vé vào tứ kết trước một vòng đấu ở nội dung bóng chuyền nữ ASIAD 2026 chiều 17/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-17T09:07:11+07:00",
+      "fetched": "2026-09-17T21:32:12.228575+07:00"
+    },
+    {
+      "id": "a4975694447c1cf76db19ab934cf388b",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm sắp công du Mỹ, Canada",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-sap-cong-du-my-canada-5121437.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm sẽ dự phiên thảo luận chung cấp cao Đại hội đồng LHQ tại Mỹ, thăm cấp nhà nước đến Canada.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-17T09:06:33+07:00",
+      "fetched": "2026-09-17T21:32:05.371788+07:00"
+    },
+    {
       "id": "7180047e53651379e879a10ce5706b88",
       "title": "Xổ số miền Nam ngày 17 tháng 9 - Kết quả xổ số hôm nay thứ năm",
       "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-17-thang-9-ket-qua-xo-so-hom-nay-thu-nam-185260917142306692.htm",
@@ -311,6 +761,16 @@ window.newsData_2026_09_17 = {
       "category": "Tổng hợp",
       "published": "2026-09-17T09:00:00+07:00",
       "fetched": "2026-09-17T16:00:28.856333+07:00"
+    },
+    {
+      "id": "0a352a65257356cd34cb914a69144667",
+      "title": "Phát hiện mới về 'kết nối khí hậu từ xa' giúp dự báo thời tiết cực đoan",
+      "link": "https://vnexpress.net/phat-hien-moi-ve-ket-noi-khi-hau-tu-xa-giup-du-bao-thoi-tiet-cuc-doan-5121066.html",
+      "summary": "Các nhà nghiên cứu lần đầu tiên phát hiện mối liên hệ giữa mùa đông ấm bất thường trên cao nguyên Tây Tạng và mưa bão tàn phá California và nhiều bang khác.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-17T09:00:00+07:00",
+      "fetched": "2026-09-17T21:32:10.423957+07:00"
     },
     {
       "id": "2a5a4de59e9d94e947a12541b78891c3",
