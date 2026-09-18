@@ -1,7 +1,17 @@
 window.newsData_2026_09_19 = {
   "date": "2026-09-19",
-  "lastUpdated": "2026-09-19T00:30:20.525644+07:00",
+  "lastUpdated": "2026-09-19T03:09:10.200911+07:00",
   "articles": [
+    {
+      "id": "11fec6b695854aae5ab60c6d218d8caa",
+      "title": "Thời tiết hôm nay 19-9: Từ Nghệ An vào Nam Bộ mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-19-9-tu-nghe-an-vao-nam-bo-mua-to-100260918161624896.htm",
+      "summary": "Hôm nay 19-9, thời tiết Bắc Bộ giảm mưa, từ Nghệ An vào Nam Bộ mưa rào đến mưa to, có nơi mưa rất to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T03:09:03.001941+07:00",
+      "fetched": "2026-09-19T03:09:03.002083+07:00"
+    },
     {
       "id": "5e0b3e278d0e9f3fdfbf7e33f54ac932",
       "title": "Chủ tịch Khánh Hòa giao Thuế tỉnh trả lại tiền sử dụng đất chênh lệch cho dân",
@@ -151,6 +161,16 @@ window.newsData_2026_09_19 = {
       "category": "Tổng hợp",
       "published": "2026-09-19T00:30:14.462318+07:00",
       "fetched": "2026-09-19T00:30:14.462474+07:00"
+    },
+    {
+      "id": "0faad0f1f4de5467ac181e371c198ef7",
+      "title": "Bí ẩn quanh số phận tổ bay F-15 bị Houthi bắn rơi",
+      "link": "https://vnexpress.net/bi-an-quanh-so-phan-to-bay-f-15-bi-houthi-ban-roi-5121744.html",
+      "summary": "Tiêm kích F-15SA Arab Saudi bị bắn rơi ở Yemen nhiều ngày trước, nhưng chưa có bất kỳ thông tin nào về kíp lái 2 người trên phi cơ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-18T18:00:00+07:00",
+      "fetched": "2026-09-19T03:09:04.626830+07:00"
     },
     {
       "id": "df59780f8a212e7d23fae7d9caf5df02",
@@ -541,6 +561,26 @@ window.newsData_2026_09_19 = {
       "category": "Thế giới",
       "published": "2026-09-18T08:25:24+07:00",
       "fetched": "2026-09-19T00:30:15.578941+07:00"
+    },
+    {
+      "id": "71f81a5c9a1748cf78e2803bf22c75c1",
+      "title": "Người mua iPhone 18 Pro tại Việt Nam nói gì về sản phẩm mới?",
+      "link": "https://vnexpress.net/nguoi-mua-iphone-18-pro-tai-viet-nam-noi-gi-ve-san-pham-moi-5121790.html",
+      "summary": "iPhone 18 Pro và 18 Pro Max đến tay những người mua đầu tiên tại Việt Nam từ sáng 18/9, với những đánh giá cao về camera và màu sắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T08:09:16+07:00",
+      "fetched": "2026-09-19T03:08:58.583070+07:00"
+    },
+    {
+      "id": "1f0b27ff2ed5e135fbf88980f4a5ba91",
+      "title": "Tin lời con gái nói dối, ông bố bị bắt vì kéo người đi 'tìm sự thật'",
+      "link": "https://vnexpress.net/tin-loi-con-gai-noi-doi-ong-bo-bi-bat-vi-keo-nguoi-di-tim-su-that-5121811.html",
+      "summary": "Ông Nguyễn Khắc Hồng tin chuyện con gái bịa ra rằng đang mang thai rồi bác sĩ chỉ định bỏ vì dị tật nên cùng người nhà đến bệnh viện gây rối, chửi bới, livestream lên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T08:07:38+07:00",
+      "fetched": "2026-09-19T03:08:58.583252+07:00"
     },
     {
       "id": "da187a90fb29635bcd6ecd571952ca65",
