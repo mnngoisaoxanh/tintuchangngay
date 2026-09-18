@@ -1,7 +1,97 @@
 window.newsData_2026_09_19 = {
   "date": "2026-09-19",
-  "lastUpdated": "2026-09-19T03:09:10.200911+07:00",
+  "lastUpdated": "2026-09-19T06:44:48.609985+07:00",
   "articles": [
+    {
+      "id": "93441c95820fb6fe9ca7057d2d869ea1",
+      "title": "Tin tức sáng 19-9: Lãi suất qua đêm hạ nhiệt, kỳ hạn 2 tuần lại vọt lên 5,5%",
+      "link": "https://tuoitre.vn/tin-tuc-sang-19-9-lai-suat-qua-dem-ha-nhiet-ky-han-2-tuan-lai-vot-len-55-100260918190954877.htm",
+      "summary": "Một số tin tức về TP.HCM đáng chú ý: Điều chỉnh giao thông trên cầu Bình Lợi 2 từ ngày 19-9; Củng cố pháp chế tại các sở, doanh nghiệp nhà nước; Phê duyệt dự án mở rộng 3,4km đường Tôn Thất Thuyết; Bệnh viện Da liễu TP.HCM đạt chuẩn quốc tế về chất lượng và an toàn người bệnh...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T06:44:41.403624+07:00",
+      "fetched": "2026-09-19T06:44:41.403679+07:00"
+    },
+    {
+      "id": "087f952cecf5268e6a83545ab597407a",
+      "title": "Khi các 'ông lớn' FDI bỏ tiền xây ký túc xá cho công nhân",
+      "link": "https://tuoitre.vn/khi-cac-ong-lon-fdi-bo-tien-xay-ky-tuc-xa-cho-cong-nhan-100260918090146492.htm",
+      "summary": "Không ít doanh nghiệp FDI đã xác định chăm lo nhà ở cho người lao động là một trong những chính sách phúc lợi quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T06:44:41.403555+07:00",
+      "fetched": "2026-09-19T06:44:41.403614+07:00"
+    },
+    {
+      "id": "1080b455f2c500b3b58a7a6674b3edff",
+      "title": "Lễ khai mạc Asiad 20 diễn ra khi nào, xem trực tiếp ở đâu?",
+      "link": "https://tuoitre.vn/le-khai-mac-asiad-20-dien-ra-khi-nao-xem-truc-tiep-o-dau-10026091821233461.htm",
+      "summary": "Lễ khai mạc Đại hội thể thao châu Á (Asiad) lần thứ 20 sẽ diễn ra lúc 16h ngày 19-9 (giờ Việt Nam) tại sân vận động Paloma Mizuho ở Nagoya, Nhật Bản. VTV là đơn vị truyền hình trực tiếp sự kiện tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T06:44:41.403486+07:00",
+      "fetched": "2026-09-19T06:44:41.403545+07:00"
+    },
+    {
+      "id": "a5a212f1a2ff81e0ad6bf344d14528ca",
+      "title": "Tin tức thế giới 19-9: Mỹ 'kiểm soát vĩnh viễn' an ninh Greenland; Tòa Mỹ bác chính sách trục xuất người di cư",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-19-9-my-kiem-soat-vinh-vien-an-ninh-greenland-toa-my-bac-chinh-sach-truc-xuat-nguoi-di-cu-100260919055943141.htm",
+      "summary": "Mỹ đạt thỏa thuận với Đan Mạch và Greenland tăng hiện diện quân sự tại Greenland; Cuba mất điện lần thứ 7 trong năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T06:44:41.403416+07:00",
+      "fetched": "2026-09-19T06:44:41.403476+07:00"
+    },
+    {
+      "id": "f9cc30d1278902c58fae4db82183b246",
+      "title": "Chelsea thảm bại trước Brentford, tiếp tục khởi đầu bất ổn",
+      "link": "https://tuoitre.vn/chelsea-tham-bai-truoc-brentford-tiep-tuc-khoi-dau-bat-on-10026091906043033.htm",
+      "summary": "Rạng sáng 19-9, Chelsea đã để thua Brentford 0-3 ở trận đấu sớm vòng 5 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T06:44:41.403315+07:00",
+      "fetched": "2026-09-19T06:44:41.403403+07:00"
+    },
+    {
+      "id": "41a13392b679dbabe6160bf45a6d7e9c",
+      "title": "Diễn Câu thơ yên ngựa, tri ân tổ nghiệp",
+      "link": "https://tuoitre.vn/dien-cau-tho-yen-ngua-tri-an-to-nghiep-100260919030016017.htm",
+      "summary": "Tối 18-9, Sân khấu cải lương mới Đại Việt đã biểu diễn vở cải lương Câu thơ yên ngựa. Đây là vở diễn đầu tiên nằm trong các hoạt động hướng đến giỗ tổ sân khấu trong các ngày 11, 12 và 13-8 âm lịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T06:44:41.403245+07:00",
+      "fetched": "2026-09-19T06:44:41.403304+07:00"
+    },
+    {
+      "id": "37c73f9833d5280cf0007bd50cda838f",
+      "title": "Mister Supermen 2026 bất ngờ dời lịch hơn một tháng, gần 30 đại diện sắp đến Việt Nam",
+      "link": "https://tuoitre.vn/mister-supermen-2026-bat-ngo-doi-lich-hon-mot-thang-gan-30-dai-dien-sap-den-viet-nam-100260919005545714.htm",
+      "summary": "Thay vì tổ chức vào tháng 10 như kế hoạch ban đầu, cuộc thi nam vương quốc tế Mister Supermen 2026 dời lịch đến cuối tháng 11. Ban tổ chức đặt mục tiêu quy tụ khoảng 30 quốc gia và vùng lãnh thổ dự thi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T06:44:41.403174+07:00",
+      "fetched": "2026-09-19T06:44:41.403235+07:00"
+    },
+    {
+      "id": "7339f0112d303a9794f2b5d4dfb18fc9",
+      "title": "Thể thao Việt Nam đứng ở đâu trong lịch sử Asiad?",
+      "link": "https://tuoitre.vn/the-thao-viet-nam-dung-o-dau-trong-lich-su-asiad-100260918174639723.htm",
+      "summary": "Việt Nam có lịch sử không quá nổi bật tại sân chơi Asiad dù đã liên tục tham dự đại hội này kể từ sau ngày hội nhập trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T06:44:41.403095+07:00",
+      "fetched": "2026-09-19T06:44:41.403162+07:00"
+    },
+    {
+      "id": "c782944809f0072e3eb96c83e4f8bcf2",
+      "title": "Tay đập 18 tuổi bóng chuyền nữ Việt Nam vượt mặt ngôi sao Thái Lan, Trung Quốc",
+      "link": "https://tuoitre.vn/tay-dap-18-tuoi-bong-chuyen-nu-viet-nam-vuot-mat-ngoi-sao-thai-lan-trung-quoc-100260918235816691.htm",
+      "summary": "Sau khi kết thúc vòng bảng Asiad 20, VĐV 18 tuổi của tuyển bóng chuyền nữ Việt Nam là Phạm Quỳnh Hương trở thành người thi đấu nổi bật nhất đội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T06:44:41.402948+07:00",
+      "fetched": "2026-09-19T06:44:41.403081+07:00"
+    },
     {
       "id": "11fec6b695854aae5ab60c6d218d8caa",
       "title": "Thời tiết hôm nay 19-9: Từ Nghệ An vào Nam Bộ mưa to",
@@ -161,6 +251,246 @@ window.newsData_2026_09_19 = {
       "category": "Tổng hợp",
       "published": "2026-09-19T00:30:14.462318+07:00",
       "fetched": "2026-09-19T00:30:14.462474+07:00"
+    },
+    {
+      "id": "a9d0955a98a06f38d4e6c74770d50227",
+      "title": "iPhone 18 Pro tăng giá, phí thay pin cũng không đứng yên",
+      "link": "https://thanhnien.vn/iphone-18-pro-tang-gia-phi-thay-pin-cung-khong-dung-yen-185260918182436083.htm",
+      "summary": "Giá iPhone 18 Pro đã tăng, nhưng người dùng còn đối mặt khoản phí sửa chữa cao hơn trong quá trình sử dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T23:40:00+07:00",
+      "fetched": "2026-09-19T06:44:39.490615+07:00"
+    },
+    {
+      "id": "1e97b1616f6cf18e2dd3144a1b70094d",
+      "title": "Đường Ngô Mây nối dài 313 m, vốn 458 tỉ đồng: Vì sao 7 năm chưa làm?",
+      "link": "https://thanhnien.vn/duong-ngo-may-noi-dai-313-m-von-458-ti-dong-vi-sao-7-nam-chua-lam-185260918152908306.htm",
+      "summary": "Dự án đường Ngô Mây nối dài ở phường Quy Nhơn Nam (tỉnh Gia Lai) dài 313 m, tổng vốn hơn 458 tỉ đồng nhưng sau 7 năm vẫn chưa thể thi công do vướng giải phóng mặt bằng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T23:38:00+07:00",
+      "fetched": "2026-09-19T06:44:39.490783+07:00"
+    },
+    {
+      "id": "f9d07cc7235e69b7f65c7d15dae3c40e",
+      "title": "Billiards: Tài năng trẻ Việt Nam vào vòng knock-out giải thế giới với ngôi nhất bảng",
+      "link": "https://thanhnien.vn/billiards-tai-nang-tre-viet-nam-vao-vong-knock-out-giai-the-gioi-voi-ngoi-nhat-bang-185260919063351028.htm",
+      "summary": "Đinh Trọng Văn là đại diện Việt Nam duy nhất giành vé góp mặt ở vòng knock-out giải billiards carom 3 băng vô địch thế giới dành cho cơ thủ trẻ nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T23:37:00+07:00",
+      "fetched": "2026-09-19T06:44:39.490942+07:00"
+    },
+    {
+      "id": "867673ee9b1420200b63521cd7bd1a97",
+      "title": "Vingroup triển khai chương trình 'Vì tương lai xanh' lần 2",
+      "link": "https://thanhnien.vn/vingroup-trien-khai-chuong-trinh-vi-tuong-lai-xanh-lan-2-185260918214232453.htm",
+      "summary": "Hưởng ứng chủ trương của Chính phủ, đồng hành cùng các địa phương và hỗ trợ người dân cả nước chuyển đổi xanh trong lĩnh vực giao thông, Tập đoàn Vingroup và các công ty trong hệ sinh thái công bố triển khai chương trình \"Vì tương lai xanh\" lần 2, mang đến quyền lợi vượt trội so với các chương trình...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T23:32:00+07:00",
+      "fetched": "2026-09-19T06:44:39.491101+07:00"
+    },
+    {
+      "id": "1088e922c37938912ea7704fb33ba6a5",
+      "title": "Mỹ có dụng ý gì khi tuyên bố sở hữu vũ khí trong không gian?",
+      "link": "https://thanhnien.vn/my-co-dung-y-gi-khi-tuyen-bo-so-huu-vu-khi-trong-khong-gian-185260918163149576.htm",
+      "summary": "Cùng tìm hiểu lý do tại sao việc Lầu Năm Góc thừa nhận sở hữu vũ khí trên quỹ đạo lại đang làm gia tăng căng thẳng trong cuộc đua vào không gian với Trung Quốc và Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T23:32:00+07:00",
+      "fetched": "2026-09-19T06:44:39.491253+07:00"
+    },
+    {
+      "id": "574394ebb6af366686eb8425c169d4cb",
+      "title": "Vàng tăng không đủ bù lỗ, ngân hàng hút USD",
+      "link": "https://thanhnien.vn/vang-tang-khong-du-bu-lo-ngan-hang-hut-usd-185260918222118501.htm",
+      "summary": "Giá vàng, bạc tăng trở lại nhưng vẫn không thể bù được mức lỗ. Trong khi đó, giá USD trong ngân hàng cao hơn tự do đã thu hút nguồn ngoại tệ trên thị trường vào hệ thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T23:30:00+07:00",
+      "fetched": "2026-09-19T06:44:39.491436+07:00"
+    },
+    {
+      "id": "9702c31e13eabf16bbef59d1ed745cc5",
+      "title": "Lãi suất tiết kiệm neo cao, hút tiền vào ngân hàng",
+      "link": "https://thanhnien.vn/lai-suat-tiet-kiem-neo-cao-hut-tien-vao-ngan-hang-185260918221742898.htm",
+      "summary": "Lượng tiền gửi của người dân vào ngân hàng tiếp tục lập kỷ lục mới khi lãi suất vẫn neo cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T23:30:00+07:00",
+      "fetched": "2026-09-19T06:44:39.491595+07:00"
+    },
+    {
+      "id": "4e81e4bb3fd9a3d2aa19733fc047ee17",
+      "title": "Sân bay Long Thành tăng tốc về đích",
+      "link": "https://thanhnien.vn/san-bay-long-thanh-tang-toc-ve-dich-185260918212844724.htm",
+      "summary": "Những ngày này, không khí lao động tại đại công trường Cảng hàng không quốc tế Long Thành đang \"nóng\" hơn bao giờ hết để đảm bảo mốc thời gian đã cam kết với Chính phủ và người dân cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T23:29:00+07:00",
+      "fetched": "2026-09-19T06:44:39.491749+07:00"
+    },
+    {
+      "id": "3ac417c3c13f9794e082418cd9fc6eaa",
+      "title": "Những vở cải lương sống mãi cùng năm tháng",
+      "link": "https://thanhnien.vn/nhung-vo-cai-luong-song-mai-cung-nam-thang-185260918222030617.htm",
+      "summary": "Kho tàng tác phẩm mà NSND Viễn Châu để lại quá đồ sộ, trong đó ngoài 2.000 bài vọng cổ còn có hơn 60 vở cải lương đã được dựng đi dựng lại suốt từ trước 1975 cho tới tận bây giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T23:26:00+07:00",
+      "fetched": "2026-09-19T06:44:39.491900+07:00"
+    },
+    {
+      "id": "f479d9e7f052a6241f8734657bf51121",
+      "title": "Người lan tỏa câu chuyện văn hóa Việt Nam với thế giới",
+      "link": "https://thanhnien.vn/nguoi-lan-toa-cau-chuyen-van-hoa-viet-nam-voi-the-gioi-185260918175628171.htm",
+      "summary": "Tôi biết đến Hùng, chàng trai người Mông nơi miền cao nguyên đá Hà Giang (nay là tỉnh Tuyên Quang), một cách khá tình cờ qua chuyến du lịch năm ngoái. Nhờ nụ cười dễ mến, gương mặt phúc hậu, đặc biệt là sự \"cháy\" hết mình cho âm nhạc Hùng đã kết nối chúng tôi với những du khách trong và ngoài nước q...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T23:25:00+07:00",
+      "fetched": "2026-09-19T06:44:39.492050+07:00"
+    },
+    {
+      "id": "cb79cc4a94b6de703b2e4d3560564834",
+      "title": "TP.HCM mưa lớn tối qua: 'Cả tiếng rồi chưa qua được đường ngập'",
+      "link": "https://thanhnien.vn/tphcm-mua-lon-toi-qua-ca-tieng-roi-chua-qua-duoc-duong-ngap-185260919000213046.htm",
+      "summary": "Mưa lớn kéo dài chiều tối 18.9 khiến đường Mã Lò ở TP.HCM ngập hơn nửa bánh xe. Đến 20 giờ nước vẫn chưa rút, nhiều xe chết máy, có người mắc kẹt cả tiếng chưa thể về nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T23:15:00+07:00",
+      "fetched": "2026-09-19T06:44:39.492197+07:00"
+    },
+    {
+      "id": "460c504abdfcf7efcb052ce31947185f",
+      "title": "TP.HCM tổ chức lại phòng chuyên môn",
+      "link": "https://thanhnien.vn/tphcm-to-chuc-lai-phong-chuyen-mon-185260918233848356.htm",
+      "summary": "Nhiều phường ở TP.HCM đang tổ chức, sắp xếp lại các phòng chuyên môn, trong đó tách Phòng Kinh tế, hạ tầng và đô thị thành 2 phòng mới theo quyết định của UBND thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T23:14:00+07:00",
+      "fetched": "2026-09-19T06:44:39.492369+07:00"
+    },
+    {
+      "id": "8efae1629dc539c9cc0eff04ec966814",
+      "title": "Đội tuyển Việt Nam mạnh hơn nhờ tân binh Việt kiều",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-manh-hon-nho-tan-binh-viet-kieu-185260918221255315.htm",
+      "summary": "Với hai tân binh Việt kiều Nguyễn Adou Leygley Minh và Williams Minh Hoàng, đội tuyển VN sẽ giàu sức cạnh tranh hơn nhiều tại FIFA ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T23:14:00+07:00",
+      "fetched": "2026-09-19T06:44:39.492524+07:00"
+    },
+    {
+      "id": "f442ba774d1c6421576be75a60f6b800",
+      "title": "Lịch thi đấu, kênh phát đội bóng chuyền nữ Việt Nam - Trung Quốc mới nhất: Thách thức lớn",
+      "link": "https://thanhnien.vn/lich-thi-dau-kenh-phat-doi-bong-chuyen-nu-viet-nam-trung-quoc-moi-nhat-thach-thuc-lon-185260918220430097.htm",
+      "summary": "Đội tuyển bóng chuyền nữ VN sẽ gặp đối thủ cực mạnh là Trung Quốc ở vòng tứ kết môn bóng chuyền nữ ASIAD 20 diễn ra tại Nhật Bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T23:10:00+07:00",
+      "fetched": "2026-09-19T06:44:39.492677+07:00"
+    },
+    {
+      "id": "24ecf83d0717db494515a76730a6b216",
+      "title": "Việt Nam không ngừng chủ động đóng góp cho Liên Hiệp Quốc",
+      "link": "https://thanhnien.vn/viet-nam-khong-ngung-chu-dong-dong-gop-cho-lien-hiep-quoc-185260918234500242.htm",
+      "summary": "Từ ngày 20.9, Tổng Bí thư, Chủ tịch nước Tô Lâm tham dự Phiên thảo luận chung cấp cao Đại hội đồng Liên Hiệp Quốc khóa 81 và có các hoạt động song phương tại Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T23:05:00+07:00",
+      "fetched": "2026-09-19T06:44:39.492824+07:00"
+    },
+    {
+      "id": "bee3104325463c791caadc2af6c7f6e6",
+      "title": "Bánh trung thu Trung Quốc giá 'siêu rẻ'",
+      "link": "https://vnexpress.net/banh-trung-thu-trung-quoc-gia-sieu-re-5120883.html",
+      "summary": "Bánh mini Trung Quốc có chiếc chỉ từ 3.000 đồng, loại 100-150 gram chưa tới 25.000 đồng, thấp hơn nhiều hàng Việt cùng cỡ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-18T23:00:00+07:00",
+      "fetched": "2026-09-19T06:44:44.586941+07:00"
+    },
+    {
+      "id": "55ffe9f5ffdac03126cd0db4c4dbe9c7",
+      "title": "30.000 tỷ đồng cho vay bất động sản du lịch, nghỉ dưỡng tại TP HCM",
+      "link": "https://vnexpress.net/30-000-ty-dong-cho-vay-bat-dong-san-du-lich-nghi-duong-tai-tp-hcm-5121913.html",
+      "summary": "Dư nợ cho vay bất động sản du lịch, nghỉ dưỡng tại TP HCM đạt khoảng 30.000 tỷ đồng, chiếm tỷ trọng nhỏ trong tín dụng lĩnh vực địa ốc trên địa bàn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-18T22:45:00+07:00",
+      "fetched": "2026-09-19T06:44:44.587121+07:00"
+    },
+    {
+      "id": "6b8d825a8f41a0379b3a3d454a4ac3c3",
+      "title": "Kane phá kỷ lục tồn tại 49 năm ở Bundesliga",
+      "link": "https://vnexpress.net/kane-pha-ky-luc-ton-tai-49-nam-o-bundesliga-5122068.html",
+      "summary": "Ghi hai bàn trong trận Bayern thắng Union Berlin 7-0 ở vòng 4, tiền đạo Harry Kane trở thành cầu thủ chạm mốc 100 bàn nhanh nhất lịch sử Bundesliga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-18T22:20:38+07:00",
+      "fetched": "2026-09-19T06:44:48.604682+07:00"
+    },
+    {
+      "id": "cba0c93d368e1d2414f7ce18c76ab5a3",
+      "title": "Chelsea thảm bại trên sân Brentford",
+      "link": "https://vnexpress.net/chelsea-tham-bai-tren-san-brentford-5122067.html",
+      "summary": "Thủng lưới ba lần trong hiệp hai, Chelsea thua Brentford 0-3 ở vòng 5 Ngoại hạng Anh, qua đó tiếp tục khởi đầu bất ổn dưới thời HLV Xabi Alonso.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-18T22:20:25+07:00",
+      "fetched": "2026-09-19T06:44:48.604861+07:00"
+    },
+    {
+      "id": "7de2578818066ff62fcfc2bc60dc3d5f",
+      "title": "Cách Houthi trỗi dậy thành thế lực quân sự đáng gờm ở biển Đỏ",
+      "link": "https://vnexpress.net/cach-houthi-troi-day-thanh-the-luc-quan-su-dang-gom-o-bien-do-5121625.html",
+      "summary": "Từ lực lượng nổi dậy ở miền bắc Yemen, Houthi từng bước xây dựng năng lực tên lửa, UAV và hậu cần, trở thành nhóm vũ trang có khả năng tác chiến trên nhiều địa bàn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-18T22:00:00+07:00",
+      "fetched": "2026-09-19T06:44:43.187605+07:00"
+    },
+    {
+      "id": "9b22c410259bef458d907214dcdc539e",
+      "title": "Người Việt chi hơn 1.500 tỷ đồng mua iPhone 18 Pro Max, 18 Pro ngày đầu",
+      "link": "https://vnexpress.net/nguoi-viet-chi-hon-1-500-ty-dong-mua-iphone-18-pro-max-18-pro-ngay-dau-5122016.html",
+      "summary": "Các hệ thống bán lẻ ước tính doanh thu bộ đôi iPhone 18 Pro và 18 Pro Max vượt mức 1.500 tỷ đồng trong ngày đầu mở bán tại Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-18T22:00:00+07:00",
+      "fetched": "2026-09-19T06:44:47.510614+07:00"
+    },
+    {
+      "id": "12f555e70280cc467e7090e714b86d1f",
+      "title": "Vì sao hàng thủ Man Utd đột nhiên sa sút?",
+      "link": "https://vnexpress.net/vi-sao-hang-thu-man-utd-dot-nhien-sa-sut-5122023.html",
+      "summary": "Man Utd thủng 10 bàn chỉ qua 6 trận đầu mùa 2026-2027 dưới thời Michael Carrick, so với 18 bàn thua từ 17 trận cuối mùa trước.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-18T21:00:00+07:00",
+      "fetched": "2026-09-19T06:44:48.605026+07:00"
+    },
+    {
+      "id": "f4a23e2512fd86332b752ea469b6814c",
+      "title": "Hoàng 'Sao' tranh phần thưởng 2 tỷ ở giải billiards thế giới",
+      "link": "https://vnexpress.net/hoang-sao-tranh-phan-thuong-2-ty-o-giai-billiards-the-gioi-5122037.html",
+      "summary": "Cơ thủ Dương Quốc Hoàng và đồng đội sẽ tranh tài ở giải billiards vô địch thế giới 10 bi - WPA Men's 10-Ball World Championship từ cuối tuần này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-18T21:00:00+07:00",
+      "fetched": "2026-09-19T06:44:48.605368+07:00"
+    },
+    {
+      "id": "faa236dd817cc29e44c4b758c23ae33b",
+      "title": "Ronaldo được gọi lên đội tuyển 24 mùa giải liên tiếp",
+      "link": "https://vnexpress.net/ronaldo-duoc-goi-len-doi-tuyen-24-mua-giai-lien-tiep-5122054.html",
+      "summary": "Cristiano Ronaldo tiếp tục có tên trong danh sách tuyển Bồ Đào Nha dự UEFA Nations League 2026-2027, qua đó nối dài hành trình khoác áo đội tuyển lên 24 mùa giải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-18T20:19:45+07:00",
+      "fetched": "2026-09-19T06:44:48.605187+07:00"
     },
     {
       "id": "0faad0f1f4de5467ac181e371c198ef7",
