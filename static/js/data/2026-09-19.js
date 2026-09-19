@@ -1,7 +1,157 @@
 window.newsData_2026_09_19 = {
   "date": "2026-09-19",
-  "lastUpdated": "2026-09-19T09:15:13.791678+07:00",
+  "lastUpdated": "2026-09-19T15:23:03.887062+07:00",
   "articles": [
+    {
+      "id": "6761a504edbb44a9c2e2ae57e25d0719",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm: Thành phố Bắc Ninh phải 'tự chủ hơn, bền vững hơn'",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-thanh-pho-bac-ninh-phai-tu-chu-hon-ben-vung-hon-100260919082737337.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu Bắc Ninh phát triển nhanh ở tầm cao mới, gắn tăng trưởng với chất lượng sống và hạnh phúc của người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T15:22:56.572469+07:00",
+      "fetched": "2026-09-19T15:22:56.572525+07:00"
+    },
+    {
+      "id": "7bae11c3bc4a5e0b47a102ec91915033",
+      "title": "Thủ tướng chỉ đạo huy động mọi nguồn lực để in ấn, cung ứng đủ sách giáo khoa trước 22-9",
+      "link": "https://tuoitre.vn/thu-tuong-chi-dao-huy-dong-moi-nguon-luc-de-in-an-cung-ung-du-sach-giao-khoa-truoc-22-9-100260919131251676.htm",
+      "summary": "Thủ tướng yêu cầu Bộ Giáo dục và Đào tạo huy động mọi nguồn lực, cung ứng đủ sách giáo khoa năm học 2026-2027 và báo cáo trước 22-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T15:22:56.572396+07:00",
+      "fetched": "2026-09-19T15:22:56.572459+07:00"
+    },
+    {
+      "id": "a1862336482196d3ae77decd5d970223",
+      "title": "Mỹ bật đèn xanh bán 2,7 tỉ USD vũ khí phòng không cho Ukraine",
+      "link": "https://tuoitre.vn/my-bat-den-xanh-ban-27-ti-usd-vu-khi-phong-khong-cho-ukraine-100260919122746609.htm",
+      "summary": "Mỹ mở đường cho khả năng bán gói thiết bị và dịch vụ nhằm nâng cấp phòng không trị giá 2,7 tỉ USD cho Ukraine, song thương vụ vẫn phải trải qua quy trình xem xét của Quốc hội Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T15:22:56.572323+07:00",
+      "fetched": "2026-09-19T15:22:56.572385+07:00"
+    },
+    {
+      "id": "7e475b7151ab1550d7cc986ea6eaeda7",
+      "title": "Cây xanh đổ làm chết người: Đừng đợi tai nạn rồi mới nói chuyện trách nhiệm",
+      "link": "https://tuoitre.vn/cay-xanh-do-lam-chet-nguoi-dung-doi-tai-nan-roi-moi-noi-chuyen-trach-nhiem-100260919124552535.htm",
+      "summary": "Mưa gió có thể là nguyên nhân trực tiếp, nhưng khi tai nạn đã nhiều lần xảy ra trên cùng một tuyến đường, chúng ta không thể tiếp tục xem đó chỉ là chuyện thời tiết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T15:22:56.572259+07:00",
+      "fetched": "2026-09-19T15:22:56.572314+07:00"
+    },
+    {
+      "id": "51f431dc9b529fb851849dcc4f19af37",
+      "title": "Lập 'công ty ma', hứa lãi 1% mỗi tuần, tặng vàng, du lịch rồi... biến mất",
+      "link": "https://tuoitre.vn/lap-cong-ty-ma-hua-lai-1-moi-tuan-tang-vang-du-lich-roi-bien-mat-100260919121812509.htm",
+      "summary": "Công an Quảng Trị điều tra vụ Công ty Capital Clearance Việt Nam bị cáo buộc đưa thông tin sai sự thật, huy động vốn rồi ngưng hoạt động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T15:22:56.572193+07:00",
+      "fetched": "2026-09-19T15:22:56.572249+07:00"
+    },
+    {
+      "id": "b3cb4e77e6d0e3c2cc699348d81a99c1",
+      "title": "Trao giải và ra mắt sách 50 năm thành phố nghĩa tình của tôi: Vẹn nguyên tình người",
+      "link": "https://tuoitre.vn/trao-giai-va-ra-mat-sach-50-nam-thanh-pho-nghia-tinh-cua-toi-ven-nguyen-tinh-nguoi-100260918222640902.htm",
+      "summary": "'Sau nửa thế kỷ, TP.HCM đã thay đổi mạnh mẽ với những công trình hiện đại, diện mạo đô thị ngày càng khang trang. Nhưng giữa những đổi thay ấy, có một điều dường như vẫn vẹn nguyên: đó là tình người'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T15:22:56.572125+07:00",
+      "fetched": "2026-09-19T15:22:56.572182+07:00"
+    },
+    {
+      "id": "43f092295efc371b25e1cfd7c3ebb0bd",
+      "title": "Bánh mì Thành Cổ ngon ra sao mà mỗi người chỉ được mua 3 ổ?",
+      "link": "https://tuoitre.vn/banh-mi-thanh-co-ngon-ra-sao-ma-moi-nguoi-chi-duoc-mua-3-o-100260919090317757.htm",
+      "summary": "Ở Huế nhiều người dân đang 'đu' trend khá kỳ lạ khi sẵn sàng xếp hàng từ 4h sáng đến tận trưa để mua cho được những ổ bánh mì Thành Cổ. Tiệm mì cũng chỉ bán cho mỗi người 3 ổ một lượt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T15:22:56.572054+07:00",
+      "fetched": "2026-09-19T15:22:56.572114+07:00"
+    },
+    {
+      "id": "7185f5598749158557548bd306c746d0",
+      "title": "Ban Bí thư lập đoàn giám sát về giáo dục phổ thông, sách giáo khoa",
+      "link": "https://tuoitre.vn/ban-bi-thu-lap-doan-giam-sat-ve-giao-duc-pho-thong-sach-giao-khoa-100260919133945778.htm",
+      "summary": "Ban Bí thư thành lập Đoàn giám sát chuyên đề thực hiện nghị quyết 71 về đột phá phát triển giáo dục và đào tạo, chuyên đề giáo dục phổ thông, trong đó có nội dung sách giáo khoa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T15:22:56.571962+07:00",
+      "fetched": "2026-09-19T15:22:56.572041+07:00"
+    },
+    {
+      "id": "b545f09685bf4417863ec18117468d01",
+      "title": "Đại sứ Việt Nam tại Nhật Bản thăm Đoàn thể thao Việt Nam trước giờ khai mạc Asiad 20",
+      "link": "https://tuoitre.vn/dai-su-viet-nam-tai-nhat-ban-tham-doan-the-thao-viet-nam-truoc-gio-khai-mac-asiad-20-100260919134450111.htm",
+      "summary": "Ngày 19-9, Chủ tịch Ủy ban Olympic Việt Nam Nguyễn Văn Hùng và Đại sứ Việt Nam tại Nhật Bản đã đến thăm, động viên Đoàn thể thao Việt Nam trước giờ khai mạc Asiad 20 tại Nhật Bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T15:22:56.571895+07:00",
+      "fetched": "2026-09-19T15:22:56.571952+07:00"
+    },
+    {
+      "id": "3365bbfebe8599c7b12f7e2d823f9ff0",
+      "title": "Gen Z có bằng đại học xuất sắc, doanh nghiệp vẫn cần 'thứ khác'",
+      "link": "https://tuoitre.vn/gen-z-co-bang-dai-hoc-xuat-sac-doanh-nghiep-van-can-thu-khac-100260919125835543.htm",
+      "summary": "Bằng cấp vẫn là lợi thế, nhưng doanh nghiệp ngày càng chú trọng kỹ năng, trải nghiệm thực tế, khả năng thích ứng và tư duy của ứng viên Gen Z.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T15:22:56.571829+07:00",
+      "fetched": "2026-09-19T15:22:56.571885+07:00"
+    },
+    {
+      "id": "683dd87a8ddb8a616ced158a07e8d636",
+      "title": "Tài sản gia đình trôi hết, HS vùng lũ 2025 của Khánh Hòa vẫn nhất nhì giải quốc gia, cấp tỉnh",
+      "link": "https://tuoitre.vn/tai-san-gia-dinh-troi-het-hs-vung-lu-2025-cua-khanh-hoa-van-nhat-nhi-giai-quoc-gia-cap-tinh-10026091911381074.htm",
+      "summary": "Lần đầu tiên Báo Tuổi Trẻ và Công ty cổ phần GREENFEED Việt Nam tổ chức học bổng Những mầm xanh sau bão, trao thưởng cho 74 học sinh giỏi quốc gia, học sinh giỏi tỉnh thuộc vùng bão lũ tàn phá nặng nề năm 2025 tại Khánh Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T15:22:56.571759+07:00",
+      "fetched": "2026-09-19T15:22:56.571818+07:00"
+    },
+    {
+      "id": "e702a9d475b97650afbbab6abca43a00",
+      "title": "Thái Lan mạnh cỡ nào so với đội tuyển nữ Việt Nam?",
+      "link": "https://tuoitre.vn/thai-lan-manh-co-nao-so-voi-doi-tuyen-nu-viet-nam-100260919102242274.htm",
+      "summary": "Với thực lực khá tương đồng, đội tuyển bóng đá nữ Thái Lan là đối thủ cân sức với đội tuyển nữ Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T15:22:56.571690+07:00",
+      "fetched": "2026-09-19T15:22:56.571748+07:00"
+    },
+    {
+      "id": "536bffcab91f19cd1bbc06cffb51393f",
+      "title": "Phá dỡ hơn 20.000 bẫy chim trời mùa di cư, chỉ phạt hành chính được 1 vụ",
+      "link": "https://tuoitre.vn/pha-do-hon-20000-bay-chim-troi-mua-di-cu-chi-phat-hanh-chinh-duoc-1-vu-100260919132807189.htm",
+      "summary": "Tháng 9 là thời điểm chim tự nhiên bắt đầu mùa di cư. Khi bay vào đất liền, gặp những cánh đồng rộng lớn, những lùm cây rậm rạp ven biển, chúng dừng lại nghỉ và tìm thức ăn. Đây là lúc chúng rơi vào bẫy trận địa của những người thiếu ý thức bảo vệ thế giới tự nhiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T15:22:56.571625+07:00",
+      "fetched": "2026-09-19T15:22:56.571680+07:00"
+    },
+    {
+      "id": "657848112db17caed519442c3c330e05",
+      "title": "Phim 19+ của Son Ye Jin quá tham vọng",
+      "link": "https://tuoitre.vn/phim-19-cua-son-ye-jin-qua-tham-vong-100260919115300951.htm",
+      "summary": "Son Ye Jin trở lại phim cổ trang sau 24 năm với The Scandal. Phim gây chú ý với 'trò chơi tình ái' giữa các nhân vật nhưng lại gây thất vọng với cách phát triển kịch bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T15:22:56.571547+07:00",
+      "fetched": "2026-09-19T15:22:56.571614+07:00"
+    },
+    {
+      "id": "05793cb083003919cf688ba78a3838d8",
+      "title": "VinFast VF Wild ra mắt Việt Nam: Giá thực tế từ 799 triệu, đầy bình đi 1.000km, hết xăng chạy được 250km",
+      "link": "https://tuoitre.vn/vinfast-vf-wild-ra-mat-viet-nam-gia-thuc-te-tu-799-trieu-day-binh-di-1000km-het-xang-chay-duoc-250km-100260919121738525.htm",
+      "summary": "VinFast VF Wild gia nhập thị trường bán tải với giá từ 860 triệu đồng. Mẫu xe có thể chạy thuần điện hơn 250km và sử dụng công nghệ mở rộng phạm vi hoạt động để nâng tổng quãng đường lên tới 1.000km.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T15:22:56.571436+07:00",
+      "fetched": "2026-09-19T15:22:56.571533+07:00"
+    },
     {
       "id": "1e7da7aa8665346fc492820fe3b2457f",
       "title": "Manhunt International 2027 trở lại Việt Nam",
@@ -153,6 +303,326 @@ window.newsData_2026_09_19 = {
       "fetched": "2026-09-19T09:15:06.418210+07:00"
     },
     {
+      "id": "ca51f66bcba4db01f54ccea7a1a6e0c5",
+      "title": "Tổng Bí thư, Chủ tịch nước: Xây dựng TP Bắc Ninh đậm đà hồn cốt và văn hóa Kinh Bắc",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-xay-dung-tp-bac-ninh-dam-da-hon-cot-va-van-hoa-kinh-bac-5122240.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm chỉ đạo xây dựng Bắc Ninh trở thành đô thị hiện đại, xanh, nhân văn, có nền công nghiệp công nghệ cao và là thành phố đậm đà hồn cốt và văn hóa Kinh Bắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T08:07:24+07:00",
+      "fetched": "2026-09-19T15:22:50.974688+07:00"
+    },
+    {
+      "id": "10e9f3d4d7c1e63e2ff54787a3b6c047",
+      "title": "Quảng Trị rà soát hơn 2.800 trường hợp nghỉ theo Nghị định 178 và Nghị định 67",
+      "link": "https://thanhnien.vn/quang-tri-ra-soat-hon-2800-truong-hop-nghi-theo-nghi-dinh-178-va-nghi-dinh-67-185260919142505433.htm",
+      "summary": "Quảng Trị chưa phát hiện trường hợp sai sót trong quá trình giải quyết chế độ, chính sách đối với hơn 2.800 người nghỉ theo Nghị định 178 và Nghị định 67.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T08:02:00+07:00",
+      "fetched": "2026-09-19T15:22:54.463787+07:00"
+    },
+    {
+      "id": "b9234e94d53c92b3d52308dad1724d52",
+      "title": "Khai mạc ASIAD 2026: Bữa tiệc văn hóa bùng nổ, ngày hội lớn bắt đầu",
+      "link": "https://thanhnien.vn/khai-mac-asiad-2026-bua-tiec-van-hoa-bung-no-ngay-hoi-lon-bat-dau-185260919094442265.htm",
+      "summary": "16 giờ hôm nay (19.9), lễ khai mạc Đại hội thể thao châu Á (ASIAD) lần thứ 20 tại sân vận động Nagoya City Mizuho Park Athletic, thành phố Nagoya, tỉnh Aichi, Nhật Bản",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T08:02:00+07:00",
+      "fetched": "2026-09-19T15:22:54.463951+07:00"
+    },
+    {
+      "id": "850c826f0f76bba43b793e5bf9dafb58",
+      "title": "Angelababy sắp làm đám cưới với doanh nhân giàu có?",
+      "link": "https://thanhnien.vn/angelababy-sap-lam-dam-cuoi-voi-doanh-nhan-giau-co-185260919064531171.htm",
+      "summary": "Sau hơn 4 năm kết thúc cuộc hôn nhân từng được ví như cổ tích với Huỳnh Hiểu Minh, chuyện tình cảm của Angelababy bất ngờ trở thành tâm điểm chú ý. Nữ diễn viên được cho là đã bí mật tái hôn và đang chuẩn bị tổ chức đám cưới với một doanh nhân giàu có.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T08:01:00+07:00",
+      "fetched": "2026-09-19T15:22:54.464139+07:00"
+    },
+    {
+      "id": "e56ea6dd20945cc314582dd98159403e",
+      "title": "Bà Melania hé lộ tiệc chiêu đãi ông Tập",
+      "link": "https://vnexpress.net/ba-melania-he-lo-tiec-chieu-dai-ong-tap-5122176.html",
+      "summary": "Video dài 9 giây chia sẻ trên tài khoản cá nhân và tài khoản của Đệ nhất phu nhân Mỹ cho thấy các chi tiết cầu kỳ tại yến tiệc tiếp đón Chủ tịch Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T08:00:00+07:00",
+      "fetched": "2026-09-19T15:22:50.974873+07:00"
+    },
+    {
+      "id": "ef9e05a635ab7c4eeb37014a1bee2cb8",
+      "title": "Chế độ ăn cho người suy thận",
+      "link": "https://vnexpress.net/che-do-an-cho-nguoi-suy-than-5122199.html",
+      "summary": "Người suy thận cần điều chỉnh chế độ ăn phù hợp với giai đoạn bệnh, ưu tiên thực phẩm tươi, kiểm soát muối và lượng đạm, đồng thời theo dõi kali, phốt pho và nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T08:00:00+07:00",
+      "fetched": "2026-09-19T15:22:50.975074+07:00"
+    },
+    {
+      "id": "8571df620d2d453d181e3f43293c03d8",
+      "title": "Mưa xối xả, Vinh chìm trong nước",
+      "link": "https://thanhnien.vn/mua-xoi-xa-vinh-chim-trong-nuoc-185260919143114928.htm",
+      "summary": "Mưa xối xả kéo dài từ 6 giờ sáng đến trưa ngày 19.9, khiến nhiều tuyến đường ở Vinh (Nghệ An) ngập chìm trong nước, nhiều xe chết máy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:55:00+07:00",
+      "fetched": "2026-09-19T15:22:54.464294+07:00"
+    },
+    {
+      "id": "37c2d55c10e1211488e3aaa19bd39ac9",
+      "title": "Du khách nước ngoài cùng dọn rác bãi biển Mũi Né",
+      "link": "https://thanhnien.vn/du-khach-nuoc-ngoai-cung-don-rac-bai-bien-mui-ne-185260919135523318.htm",
+      "summary": "Hàng chục du khách nước ngoài cùng lực lượng chức năng địa phương đã chung tay dọn rác bãi biển Mũi Né (Lâm Đồng) ngày 19.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:53:00+07:00",
+      "fetched": "2026-09-19T15:22:54.464449+07:00"
+    },
+    {
+      "id": "e72d6efa1dfef4126524a90e774b481f",
+      "title": "Honda SH Mode 2027 thêm nhiều công nghệ, giá từ 60,79 triệu đồng",
+      "link": "https://thanhnien.vn/honda-sh-mode-2027-them-nhieu-cong-nghe-gia-tu-6079-trieu-dong-18526091819433413.htm",
+      "summary": "Sau khoảng 3 năm duy trì phiên bản cũ, Honda SH Mode 2027 được nâng cấp thiết kế, bổ sung một số công nghệ và cải tiến hệ thống xử lý khí thải. Xe có giá từ 60,79 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:49:00+07:00",
+      "fetched": "2026-09-19T15:22:54.464610+07:00"
+    },
+    {
+      "id": "074c18828ed6a61fad138cf0c08a4c9a",
+      "title": "Phân biệt 5 mức độ hậu quả từ tai nạn giao thông thế nào?",
+      "link": "https://thanhnien.vn/phan-biet-5-muc-do-hau-qua-tu-tai-nan-giao-thong-the-nao-185260918173452835.htm",
+      "summary": "Tai nạn giao thông hiện được phân thành 5 mức độ hậu quả. Việc xác định không chỉ căn cứ vào số người tử vong mà còn dựa trên tỷ lệ tổn thương cơ thể của người bị thương và giá trị tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:49:00+07:00",
+      "fetched": "2026-09-19T15:22:54.464767+07:00"
+    },
+    {
+      "id": "9f09f8f55280f4f770977add6cab99cc",
+      "title": "Mẹo 'luộc' trứng bằng nồi chiên không dầu",
+      "link": "https://vnexpress.net/meo-luoc-trung-bang-noi-chien-khong-dau-5121610.html",
+      "summary": "Trào lưu làm chín trứng bằng nồi chiên không dầu thay vì đun nước truyền thống đang thu hút hàng trăm nghìn lượt quan tâm và thử nghiệm trên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:34:05+07:00",
+      "fetched": "2026-09-19T15:22:50.975240+07:00"
+    },
+    {
+      "id": "1fdea5956b59a5d99946563d34be28af",
+      "title": "Tiêm kích hơn 120 triệu USD của Italy trúng đòn Houthi",
+      "link": "https://vnexpress.net/tiem-kich-hon-120-trieu-usd-cua-italy-trung-don-houthi-5122180.html",
+      "summary": "Một tiêm kích Typhoon của Italy trúng đòn khi Houthi tấn công căn cứ không quân tại Arab Saudi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:26:29+07:00",
+      "fetched": "2026-09-19T15:22:50.975399+07:00"
+    },
+    {
+      "id": "1fdea5956b59a5d99946563d34be28af",
+      "title": "Tiêm kích hơn 120 triệu USD của Italy trúng đòn Houthi",
+      "link": "https://vnexpress.net/tiem-kich-hon-120-trieu-usd-cua-italy-trung-don-houthi-5122180.html",
+      "summary": "Một tiêm kích Typhoon của Italy trúng đòn khi Houthi tấn công căn cứ không quân tại Arab Saudi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-19T07:26:29+07:00",
+      "fetched": "2026-09-19T15:22:58.021142+07:00"
+    },
+    {
+      "id": "6468674ce7c2366c5ed748cfb71d34f8",
+      "title": "Nhiều việc làm thêm cho sinh viên, có vị trí tiền công 200.000 đồng/giờ",
+      "link": "https://thanhnien.vn/nhieu-viec-lam-them-cho-sinh-vien-co-vi-tri-tien-cong-200000-dong-gio-185260919133305397.htm",
+      "summary": "Nhiều nơi đang tuyển sinh viên làm thêm với các công việc không yêu cầu kinh nghiệm, thời gian linh hoạt. Có vị trí có mức tiền công 200.000 đồng/giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:26:00+07:00",
+      "fetched": "2026-09-19T15:22:54.464917+07:00"
+    },
+    {
+      "id": "e55a037f97c343e67ede5263e4cf92c7",
+      "title": "Ăn nửa bánh trung thu vẫn tăng cân - bác sĩ chỉ 'bẫy' dinh dưỡng ít người ngờ tới",
+      "link": "https://vnexpress.net/an-nua-banh-trung-thu-van-tang-can-bac-si-chi-bay-dinh-duong-it-nguoi-ngo-toi-5122241.html",
+      "summary": "Một bánh trung thu hạt sen 180 gram chứa 720 kcal, bằng mức năng lượng của 2,5 bát cơm trắng, nhiều người vừa ăn bánh vừa uống trà sữa, cà phê khiến lượng calo nạp vào cơ thể vượt mức kiểm soát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:23:09+07:00",
+      "fetched": "2026-09-19T15:22:50.975558+07:00"
+    },
+    {
+      "id": "cad44cde28529fcaef5b05c4bfd910e8",
+      "title": "Trâu 900 kg vô địch lễ hội chọi trâu Đồ Sơn 2026",
+      "link": "https://vnexpress.net/trau-900-kg-vo-dich-le-hoi-choi-trau-do-son-2026-5122225.html",
+      "summary": "Vượt qua 14 đối thủ tại vòng chung kết lễ hội chọi trâu Đồ Sơn, trâu số 15 nặng khoảng 900 kg của ông Lê Bá Ngọc chiến thắng với giải thưởng 100 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:22:38+07:00",
+      "fetched": "2026-09-19T15:22:50.975719+07:00"
+    },
+    {
+      "id": "3d61c2c5873ada4f1e764a0c3fe8252a",
+      "title": "Cửa ngõ phía Đông TP HCM ùn tắc 5 km sau sự cố xe chở kính",
+      "link": "https://vnexpress.net/cua-ngo-phia-dong-tp-hcm-un-tac-5-km-sau-su-co-xe-cho-kinh-5122236.html",
+      "summary": "Nhiều bao kính trên ôtô tải đổ xuống gây ra ùn tắc 5 km trên đường Võ Chí Công - nút giao Phú Hữu; trạm thu phí Long Phước - Long Trường hướng TP HCM đi Đồng Nai, chiều 19/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:19:12+07:00",
+      "fetched": "2026-09-19T15:22:50.975876+07:00"
+    },
+    {
+      "id": "cd3dda8e2e0757787d66fa4c35608855",
+      "title": "Xác minh clip tài xế xe ôm công nghệ bị đánh túi bụi trong đêm",
+      "link": "https://thanhnien.vn/xac-minh-clip-tai-xe-xe-om-cong-nghe-bi-danh-tui-bui-trong-dem-18526091913561554.htm",
+      "summary": "Đoạn clip ghi lại cảnh tài xế xe ôm công nghệ bị đánh túi bụi giữa đường sau khi tranh cãi về dịch vụ xe công nghệ đang gây xôn xao trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:13:00+07:00",
+      "fetched": "2026-09-19T15:22:54.465099+07:00"
+    },
+    {
+      "id": "f470cea50c4b759e6d6926e780cf3b59",
+      "title": "Tiền vệ Hai Long cùng hàng nghìn trẻ em vui trung thu bên vịnh Hạ Long",
+      "link": "https://thanhnien.vn/tien-ve-hai-long-cung-hang-nghin-tre-em-vui-trung-thu-ben-vinh-ha-long-185260919102549743.htm",
+      "summary": "Tiền vệ Nguyễn Hai Long của đội tuyển bóng đá Việt Nam cùng hàng nghìn trẻ em tỉnh Quảng Ninh đã có đêm vui tết Trung thu bên Vịnh Hạ Long, với màn tâng bóng, múa lân, rước đèn và những đoàn xe ánh sáng rực rỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:05:00+07:00",
+      "fetched": "2026-09-19T15:22:54.465251+07:00"
+    },
+    {
+      "id": "57051d6a7acb3681b0e304d51ee5c1e7",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm trao Nghị quyết thành lập thành phố Bắc Ninh",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-trao-nghi-quyet-thanh-lap-thanh-pho-bac-ninh-18526091913161782.htm",
+      "summary": "Sáng 19.9, tỉnh Bắc Ninh đã tổ chức Lễ công bố Nghị quyết của Quốc hội về việc thành lập thành phố Bắc Ninh và đón nhận Huân chương Lao động hạng nhất. Tổng Bí thư, Chủ tịch nước Tô Lâm dự và phát biểu tại buổi lễ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:04:00+07:00",
+      "fetched": "2026-09-19T15:22:54.465396+07:00"
+    },
+    {
+      "id": "777e83f63f5da4e7a9f80a16ec9b653a",
+      "title": "Câu thành ngữ nào gắn với mèo và cáo?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-cau-thanh-ngu-nao-gan-voi-meo-va-cao-5120548.html",
+      "summary": "Câu thành ngữ dùng để chỉ những người sống lâu, từng trải, trở nên ranh mãnh, lọc lõi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:00:00+07:00",
+      "fetched": "2026-09-19T15:22:50.976062+07:00"
+    },
+    {
+      "id": "0250bcdf7d0ab370b98f89def9739996",
+      "title": "Smartwatch màn hình AMOLED pin 18 ngày giá 1,2 triệu đồng",
+      "link": "https://vnexpress.net/smartwatch-man-hinh-amoled-pin-18-ngay-gia-1-2-trieu-dong-5121571.html",
+      "summary": "Xiaomi Redmi Watch 6 Active được trang bị tấm nền AMOLED, hỗ trợ nghe gọi từ điện thoại, nhiều tính năng đo sức khỏe và thời lượng pin đến 18 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:00:00+07:00",
+      "fetched": "2026-09-19T15:22:50.976244+07:00"
+    },
+    {
+      "id": "eb4808111a955491cb7d87feb6a02fc0",
+      "title": "Lynk &amp; Co 02 tạo điểm nhấn với bộ tem thiết kế độc đáo",
+      "link": "https://vnexpress.net/lynk-co-02-tao-diem-nhan-voi-bo-tem-thiet-ke-doc-dao-5122216.html",
+      "summary": "Lynk & Co ra mắt thiết kế bộ tem độc đáo trên hai phối màu ngoại thất của mẫu xe điện 02, hướng đến phong cách thể thao và cá tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:00:00+07:00",
+      "fetched": "2026-09-19T15:22:50.976408+07:00"
+    },
+    {
+      "id": "d4e064772ed9265bf6d255fb2b7f411a",
+      "title": "Điều gì xảy ra khi mắt tiếp xúc quá nhiều tia UV?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-mat-tiep-xuc-qua-nhieu-tia-uv-5122150.html",
+      "summary": "Tiếp xúc quá nhiều tia UV có thể làm tổn thương bề mặt mắt, gây đau rát, cộm như có cát, chảy nước mắt và nhạy cảm với ánh sáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:00:00+07:00",
+      "fetched": "2026-09-19T15:22:50.976569+07:00"
+    },
+    {
+      "id": "ba06d47d74d8735bd2e1f42a356c9a9e",
+      "title": "4 loại trái cây giữ nước cơ thể, hỗ trợ tiêu hóa",
+      "link": "https://vnexpress.net/4-loai-trai-cay-giu-nuoc-co-the-ho-tro-tieu-hoa-5122090.html",
+      "summary": "Dưa hấu, dâu tây và dưa lưới cung cấp nước, chất xơ, chất chống oxy hóa cho cơ thể, hỗ trợ giảm nguy cơ mất nước, ổn định tiêu hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:00:00+07:00",
+      "fetched": "2026-09-19T15:22:50.976721+07:00"
+    },
+    {
+      "id": "7a3cc519e9fc76e4c7863f156f53b68f",
+      "title": "IDICO động thổ khu công nghiệp 470 ha tại Đồng Tháp",
+      "link": "https://vnexpress.net/idico-dong-tho-khu-cong-nghiep-470-ha-tai-dong-thap-5121306.html",
+      "summary": "IDICO động thổ khu công nghiệp Tân Phước 1 quy mô 470 ha tại Đồng Tháp sáng ngày 17/9, dự kiến đón nhà đầu tư từ quý I/2027 và tạo việc làm cho khoảng 20.000 lao động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:00:00+07:00",
+      "fetched": "2026-09-19T15:22:50.976891+07:00"
+    },
+    {
+      "id": "265dd97707fb62b49ee18df3f53d143e",
+      "title": "Tổng thống Trump ký luật siết cấm vận năng lượng Nga",
+      "link": "https://thanhnien.vn/tong-thong-trump-ky-luat-siet-cam-van-nang-luong-nga-185260919120631725.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ngày 18.9 đã ký ban hành luật cho phép áp đặt các biện pháp cấm vận mới nhằm gây sức ép lên Nga liên quan đến cuộc xung đột với Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:00:00+07:00",
+      "fetched": "2026-09-19T15:22:54.465540+07:00"
+    },
+    {
+      "id": "a238bae9de1c5fa71be27f1ec07607be",
+      "title": "Váy, áo hai dây với muôn kiểu biến tấu từ dạo phố đến tiệc tối sang chảnh",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-ao-hai-day-voi-muon-kieu-bien-tau-tu-dao-pho-den-tiec-toi-sang-chanh-185260918111217965.htm",
+      "summary": "Từ món đồ ngủ mỏng manh trong phòng riêng, váy hai dây bất ngờ lội ngược dòng, trở thành item không thể thiếu trong tủ đồ của các cô nàng hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:00:00+07:00",
+      "fetched": "2026-09-19T15:22:54.465683+07:00"
+    },
+    {
+      "id": "aeb822743d001cc82c85e6e69e8fa141",
+      "title": "10 năm FWD Việt Nam: Thay đổi cảm nhận về bảo hiểm từ những hành động thực tế",
+      "link": "https://thanhnien.vn/10-nam-fwd-viet-nam-thay-doi-cam-nhan-ve-bao-hiem-tu-nhung-hanh-dong-thuc-te-185260904180951248.htm",
+      "summary": "Mười năm trước, FWD gia nhập thị trường Việt Nam với một tầm nhìn khác biệt: thay đổi cảm nhận của mọi người về bảo hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T07:00:00+07:00",
+      "fetched": "2026-09-19T15:22:54.465832+07:00"
+    },
+    {
+      "id": "0250bcdf7d0ab370b98f89def9739996",
+      "title": "Smartwatch màn hình AMOLED pin 18 ngày giá 1,2 triệu đồng",
+      "link": "https://vnexpress.net/smartwatch-man-hinh-amoled-pin-18-ngay-gia-1-2-trieu-dong-5121571.html",
+      "summary": "Xiaomi Redmi Watch 6 Active được trang bị tấm nền AMOLED, hỗ trợ nghe gọi từ điện thoại, nhiều tính năng đo sức khỏe và thời lượng pin đến 18 ngày.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-19T07:00:00+07:00",
+      "fetched": "2026-09-19T15:23:02.360137+07:00"
+    },
+    {
+      "id": "d5982566854654acd571f264b54b6cbf",
+      "title": "Vinh ngập nặng trong trận mưa hơn 300 mm",
+      "link": "https://vnexpress.net/vinh-ngap-nang-trong-tran-mua-hon-300-mm-5122224.html",
+      "summary": "Mưa lớn kéo dài từ sáng 19/9 khiến nhiều tuyến đường trung tâm thuộc TP Vinh cũ chìm sâu, có nơi gần nửa mét, xe chết máy, nước tràn vào chung cư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T06:59:04+07:00",
+      "fetched": "2026-09-19T15:22:50.977082+07:00"
+    },
+    {
+      "id": "0e330d466d35a8e2f41ca11d30bb2b6b",
+      "title": "'Chuyến công du Mỹ, Canada của Tổng Bí thư, Chủ tịch nước khẳng định vai trò của Việt Nam'",
+      "link": "https://vnexpress.net/chuyen-cong-du-my-canada-cua-tong-bi-thu-chu-tich-nuoc-khang-dinh-vai-tro-cua-viet-nam-5122202.html",
+      "summary": "Chuyến công du Mỹ, Canada của Tổng Bí thư, Chủ tịch nước Tô Lâm được kỳ vọng góp phần thắt chặt quan hệ với các đối tác và khẳng định vai trò của Việt Nam.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-19T06:56:25+07:00",
+      "fetched": "2026-09-19T15:22:58.021316+07:00"
+    },
+    {
       "id": "93441c95820fb6fe9ca7057d2d869ea1",
       "title": "Tin tức sáng 19-9: Lãi suất qua đêm hạ nhiệt, kỳ hạn 2 tuần lại vọt lên 5,5%",
       "link": "https://tuoitre.vn/tin-tuc-sang-19-9-lai-suat-qua-dem-ha-nhiet-ky-han-2-tuan-lai-vot-len-55-100260918190954877.htm",
@@ -243,6 +713,106 @@ window.newsData_2026_09_19 = {
       "fetched": "2026-09-19T06:44:41.403081+07:00"
     },
     {
+      "id": "659189c5173fee766a71624e13bb63a9",
+      "title": "Đóng cửa mỏ sắt Thạch Khê để thực hiện dự án mới",
+      "link": "https://vnexpress.net/dong-cua-mo-sat-thach-khe-de-thuc-hien-du-an-moi-5122164.html",
+      "summary": "Việc đóng cửa mỏ sắt Thạch Khê nhằm xác nhận trữ lượng, khối lượng khoáng sản đã khai thác, bàn giao diện tích cho nhà chức trách thực hiện dự án mới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-19T06:43:38+07:00",
+      "fetched": "2026-09-19T15:22:59.927315+07:00"
+    },
+    {
+      "id": "b24af8056b777487efae04f8110e0be2",
+      "title": "Đội tuyển Việt Nam của ông Kim Sang-sik không cần hàng tiền vệ?",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-cua-ong-kim-sang-sik-khong-can-hang-tien-ve-185260919075334521.htm",
+      "summary": "Nghe có vẻ vô lý nhưng nhìn vào danh sách triệu tập đội tuyển Việt Nam của HLV Kim Sang-sik trong những giải đấu gần đây, mọi người sẽ thấy rõ điều đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T06:37:00+07:00",
+      "fetched": "2026-09-19T15:22:54.465977+07:00"
+    },
+    {
+      "id": "66bcc6d4891624b50c3b878653cbc960",
+      "title": "Nhà phân phối Volvo ở Việt Nam mua cổ phần hãng lắp ráp xe điện",
+      "link": "https://vnexpress.net/nha-phan-phoi-volvo-o-viet-nam-mua-co-phan-hang-lap-rap-xe-dien-5122209.html",
+      "summary": "Tasco Auto, nhà phân phối độc quyền hãng Volvo ở Việt Nam, mua lại cổ phần của Vĩnh Phát Motors, công ty chuyên lắp ráp xe tải, xe van chạy điện.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-19T06:35:58+07:00",
+      "fetched": "2026-09-19T15:22:59.927487+07:00"
+    },
+    {
+      "id": "4524b32e56bd57796a911068b58d0836",
+      "title": "Lô linh kiện nhạy cảm của F-35 'bị chuyển đến Hong Kong'",
+      "link": "https://vnexpress.net/lo-linh-kien-nhay-cam-cua-f-35-bi-chuyen-den-hong-kong-5122106.html",
+      "summary": "Nhiều thiết bị nhạy cảm của tiêm kích F-35 bị chuyển hướng đến Hong Kong trên đường vận chuyển, khiến quốc hội Mỹ điều tra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-19T05:54:36+07:00",
+      "fetched": "2026-09-19T15:22:58.021478+07:00"
+    },
+    {
+      "id": "72bac985dae2aab5d83b76394a30292a",
+      "title": "Ngân hàng Shinhan Việt Nam có Tổng giám đốc mới",
+      "link": "https://vnexpress.net/ngan-hang-shinhan-viet-nam-co-tong-giam-doc-moi-5122186.html",
+      "summary": "Ông Ryu Je Eun vừa được bổ nhiệm làm Tổng giám đốc Ngân hàng Shinhan Việt Nam, sau hơn 25 năm làm việc trong lĩnh vực tài chính ngân hàng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-19T05:26:26+07:00",
+      "fetched": "2026-09-19T15:22:59.927648+07:00"
+    },
+    {
+      "id": "09f462cb096f825932ab74016d3564ee",
+      "title": "Cách Chủ tịch Fed tăng lãi suất mà không gây mất lòng ông Trump",
+      "link": "https://vnexpress.net/cach-chu-tich-fed-tang-lai-suat-ma-khong-gay-mat-long-ong-trump-5121613.html",
+      "summary": "Nhờ chủ động \"đánh tiếng\" và tham vấn khéo léo, Chủ tịch Fed Kevin Warsh đã có thể vừa tăng lãi suất vừa giữ êm đẹp mối quan hệ với Tổng thống Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-19T04:48:05+07:00",
+      "fetched": "2026-09-19T15:22:58.021635+07:00"
+    },
+    {
+      "id": "3a2919a96b48e79eb800df992f60c3be",
+      "title": "Ông Trump cấm cửa CNN vào Nhà Trắng",
+      "link": "https://vnexpress.net/ong-trump-cam-cua-cnn-vao-nha-trang-5122152.html",
+      "summary": "Ông Trump tuyên bố cấm ba hãng CNN, MS NOW và Politico hoạt động tại Nhà Trắng, cáo buộc họ lan truyền \"tin giả\" về chính quyền của ông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-19T04:18:20+07:00",
+      "fetched": "2026-09-19T15:22:58.021791+07:00"
+    },
+    {
+      "id": "41005896007566a255784dd9cd7175e9",
+      "title": "Hôm nay khai mạc ASIAD 2026",
+      "link": "https://vnexpress.net/hom-nay-khai-mac-asiad-2026-5122160.html",
+      "summary": "Lễ khai mạc ASIAD 2026 diễn ra từ 16h giờ Hà Nội, mở đầu 16 ngày tranh tài chính thức của 45 đoàn thể thao châu Á.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-19T04:13:26+07:00",
+      "fetched": "2026-09-19T15:23:03.880051+07:00"
+    },
+    {
+      "id": "37a4a841163824df0d6fccbb3840ac8d",
+      "title": "Nhà Trắng công bố lịch trình đón tiếp Chủ tịch Trung Quốc Tập Cận Bình",
+      "link": "https://vnexpress.net/nha-trang-cong-bo-lich-trinh-don-tiep-chu-tich-trung-quoc-tap-can-binh-5122134.html",
+      "summary": "Mỹ công bố lịch trình chuyến thăm của Chủ tịch Tập Cận Bình, gồm nghi thức đón tại căn cứ Andrews, quốc yến, tiệc trà và tham quan Cơ quan Lưu trữ Quốc gia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-19T03:20:39+07:00",
+      "fetched": "2026-09-19T15:22:58.021945+07:00"
+    },
+    {
+      "id": "30d740b589fa1160a573428841d634e8",
+      "title": "Mỹ - Trung sắp bàn về AI, thuế nhập khẩu, đất hiếm",
+      "link": "https://vnexpress.net/my-trung-sap-ban-ve-ai-thue-nhap-khau-dat-hiem-5122117.html",
+      "summary": "Các lãnh đạo thương mại, tài chính của Mỹ và Trung Quốc sẽ gặp nhau cuối tuần này để thảo luận các vấn đề hàng đầu của nền kinh tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-19T03:19:18+07:00",
+      "fetched": "2026-09-19T15:22:59.927805+07:00"
+    },
+    {
       "id": "11fec6b695854aae5ab60c6d218d8caa",
       "title": "Thời tiết hôm nay 19-9: Từ Nghệ An vào Nam Bộ mưa to",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-19-9-tu-nghe-an-vao-nam-bo-mua-to-100260918161624896.htm",
@@ -251,6 +821,46 @@ window.newsData_2026_09_19 = {
       "category": "Tổng hợp",
       "published": "2026-09-19T03:09:03.001941+07:00",
       "fetched": "2026-09-19T03:09:03.002083+07:00"
+    },
+    {
+      "id": "f3407353bfa38907a7eafe0c7a13e6ec",
+      "title": "Giới công nghệ 'chia phe' vì AI nổi loạn",
+      "link": "https://vnexpress.net/gioi-cong-nghe-chia-phe-vi-ai-noi-loan-5121529.html",
+      "summary": "Lời cảnh báo về nguy cơ AI vượt kiểm soát và tiêu diệt nhân loại khiến giới công nghệ chia thành hai phe tranh luận gay gắt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-19T03:00:00+07:00",
+      "fetched": "2026-09-19T15:23:02.359471+07:00"
+    },
+    {
+      "id": "1eb1bad5b5a0b0903741ab12395d1d6b",
+      "title": "Houthi tập kích 'lớn chưa từng thấy' nhằm vào Arab Saudi",
+      "link": "https://vnexpress.net/houthi-tap-kich-lon-chua-tung-thay-nham-vao-arab-saudi-5122115.html",
+      "summary": "Lực lượng Houthi phóng tên lửa nhằm vào loạt khu vực ở Arab Saudi trong đợt tập kích được đánh giá là lớn nhất từ trước đến nay.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-19T02:38:17+07:00",
+      "fetched": "2026-09-19T15:22:58.022121+07:00"
+    },
+    {
+      "id": "a829b8e9f1aa9fbade81144bac0504d1",
+      "title": "Ông Trump: Hàng nghìn người muốn dự quốc yến chiêu đãi ông Tập",
+      "link": "https://vnexpress.net/ong-trump-hang-nghin-nguoi-muon-du-quoc-yen-chieu-dai-ong-tap-5122114.html",
+      "summary": "Tổng thống Trump cho biết nhiều người mong muốn dự quốc yến chiêu đãi Chủ tịch Trung Quốc tại Nhà Trắng vào tuần tới, nhưng ông đã phải từ chối nhiều người bạn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-19T02:34:01+07:00",
+      "fetched": "2026-09-19T15:22:58.022275+07:00"
+    },
+    {
+      "id": "d34bb9e1c666d6eae7c7bb53c1782aa7",
+      "title": "Harry Kane: 'Quả Bóng Vàng ư? Tôi không thích nói về mình'",
+      "link": "https://vnexpress.net/harry-kane-qua-bong-vang-u-toi-khong-thich-noi-ve-minh-5121898.html",
+      "summary": "Trả lời báo Tây Ban Nha Marca ngày 18/9, tiền đạo đội tuyển Anh và Bayern Munich khẳng định rất tự hào với thành tích ghi 73 bàn mùa trước, nhưng anh muốn để các giám khảo tự đánh giá trong cuộc đua Quả Bóng Vàng 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-19T02:20:34+07:00",
+      "fetched": "2026-09-19T15:23:03.880236+07:00"
     },
     {
       "id": "24dc5d8f4a52b4db5de2c562aa225a65",
@@ -281,6 +891,16 @@ window.newsData_2026_09_19 = {
       "category": "Tổng hợp",
       "published": "2026-09-19T02:00:00+07:00",
       "fetched": "2026-09-19T09:15:04.268989+07:00"
+    },
+    {
+      "id": "77a9bac6586882a774b98495dfdcae4f",
+      "title": "Tháo rời 'soi' linh kiện iPhone 18 Pro Max tại Việt Nam",
+      "link": "https://vnexpress.net/thao-roi-soi-linh-kien-iphone-18-pro-max-tai-viet-nam-5122052.html",
+      "summary": "iPhone 18 Pro Max được tháo rời, cho thấy có nhiều chi tiết và kết cấu bên trong thay đổi so với iPhone 17 Pro Max dù ngoại hình tương đồng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-19T02:00:00+07:00",
+      "fetched": "2026-09-19T15:23:02.359643+07:00"
     },
     {
       "id": "00a165be1569896d1125f83524f5302d",
