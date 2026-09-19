@@ -1,7 +1,97 @@
 window.newsData_2026_09_20 = {
   "date": "2026-09-20",
-  "lastUpdated": "2026-09-20T04:56:10.122253+07:00",
+  "lastUpdated": "2026-09-20T06:48:38.136345+07:00",
   "articles": [
+    {
+      "id": "88eaab17feceaa7db5da3b01dedb5c99",
+      "title": "Thời tiết hôm nay 20-9: Nam Bộ và cao nguyên Trung Bộ có nơi mưa rất to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-20-9-nam-bo-va-cao-nguyen-trung-bo-co-noi-mua-rat-to-100260919173825553.htm",
+      "summary": "Hôm nay 20-9, từ Nghệ An trở vào Nam Bộ thời tiết vẫn còn mưa to, trong đó khu vực Nam Bộ và cao nguyên Trung Bộ có nơi mưa rất to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T06:48:20.939069+07:00",
+      "fetched": "2026-09-20T06:48:20.939106+07:00"
+    },
+    {
+      "id": "b37f068a2da5433720d79836d8c7584d",
+      "title": "Tin tức sáng 20-9: Xã đảo Thạnh An khám sức khỏe cho 100% người dân; xử phạt Đất Xanh Miền Bắc",
+      "link": "https://tuoitre.vn/tin-tuc-sang-20-9-xa-dao-thanh-an-kham-suc-khoe-cho-100-nguoi-dan-cashion-mua-ban-kim-cuong-tro-lai-100260919223524901.htm",
+      "summary": "Tin tức đáng chú ý: Xã đảo Thạnh An hoàn thành khám sức khỏe cho 100% người dân; TP.HCM tổ chức Hội thi đổi mới, sáng tạo về cải cách hành chính năm 2026; Xử phạt Đất Xanh Miền Bắc...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T06:48:20.939026+07:00",
+      "fetched": "2026-09-20T06:48:20.939063+07:00"
+    },
+    {
+      "id": "21f04533cd00b60c4834491af29a820a",
+      "title": "Một thương hiệu kim cương bất ngờ thông báo quay lại thị trường",
+      "link": "https://tuoitre.vn/mot-thuong-hieu-kim-cuong-bat-ngo-thong-bao-quay-lai-thi-truong-100260920005229927.htm",
+      "summary": "Sau 2 tháng tạm dừng kinh doanh, kim cương Cashion vừa thông báo hoạt động trở lại từ 19-9 nhưng áp dụng chính sách thanh toán kéo dài lên đến 120 ngày khi mua lại sản phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T06:48:20.938985+07:00",
+      "fetched": "2026-09-20T06:48:20.939020+07:00"
+    },
+    {
+      "id": "0ea80fdede123ad64c8b8dfed3c2dcdd",
+      "title": "SCG Home Việt Nam khai trương showroom nội thất hơn 5.500m² tại Hà Nội",
+      "link": "https://tuoitre.vn/scg-home-viet-nam-khai-truong-showroom-noi-that-hon-5500m-tai-ha-noi-100260919130956717.htm",
+      "summary": "SCG Home Việt Nam khai trương không gian trải nghiệm vật liệu hoàn thiện nhà rộng 5.500m² tại khu vực Long Biên (Hà Nội), quy tụ hơn 60 thương hiệu trong nước và quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T06:48:20.938943+07:00",
+      "fetched": "2026-09-20T06:48:20.938979+07:00"
+    },
+    {
+      "id": "480b25ce9d9929eee4ad0de18b9daf71",
+      "title": "Lịch thi đấu Asiad ngày 20-9 của đoàn Việt Nam: Ai sẽ đoạt huy chương đầu tiên?",
+      "link": "https://tuoitre.vn/lich-thi-dau-asiad-ngay-20-9-cua-doan-viet-nam-ai-se-doat-huy-chuong-dau-tien-100260919100711059.htm",
+      "summary": "Hôm nay (20-9), Asiad Aichi - Nagoya 2026 sẽ chính thức khởi tranh. Nhiều ngôi sao Việt Nam ở các môn bắn súng, bơi lội, karate, teqball... cũng sẽ xuất trận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T06:48:20.938899+07:00",
+      "fetched": "2026-09-20T06:48:20.938936+07:00"
+    },
+    {
+      "id": "9bb91ee15a70932642896c2b27135afd",
+      "title": "Lịch trực tiếp bóng đá nam Asiad 20 ngày 20-9: U23 Thái Lan đấu U23 Hong Kong",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-nam-asiad-20-ngay-20-9-u23-thai-lan-dau-u23-hong-kong-100260918161424676.htm",
+      "summary": "Lúc 14h ngày 20-9, tuyển U23 Thái Lan sẽ đối đầu U23 Hong Kong ở lượt trận thứ 2 bảng A môn bóng đá nam Asiad 20.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T06:48:20.938855+07:00",
+      "fetched": "2026-09-20T06:48:20.938893+07:00"
+    },
+    {
+      "id": "0b3afe21144560014639ae504a15add3",
+      "title": "Raphinha lập hat-trick giúp Barca khởi đầu hoàn hảo ở La Liga",
+      "link": "https://tuoitre.vn/raphinha-lap-hat-trick-giup-barca-khoi-dau-hoan-hao-o-la-liga-100260920053122401.htm",
+      "summary": "Barca duy trì khởi đầu hoàn hảo tại La Liga mùa này bằng chiến thắng 3-1 trên sân của Sevilla rạng sáng 20-9. Trong đó đội trưởng Raphinha đã lập một cú hat-trick, nối dài phong độ ghi bàn ấn tượng của anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T06:48:20.938808+07:00",
+      "fetched": "2026-09-20T06:48:20.938849+07:00"
+    },
+    {
+      "id": "2a582b9f48478ab8845f5da5afbeef86",
+      "title": "Lịch thi đấu bóng chuyền nữ Asiad 20 ngày 20-9: Việt Nam đối đầu Trung Quốc",
+      "link": "https://tuoitre.vn/lich-thi-dau-bong-chuyen-nu-asiad-20-ngay-20-9-viet-nam-doi-dau-trung-quoc-100260919163640018.htm",
+      "summary": "Ngày 20-9, môn bóng chuyền nữ tại Asiad 20 sẽ thi đấu trở lại. Bóng chuyền nữ Việt Nam sẽ gặp thử thách khi phải đối đầu Trung Quốc tại tứ kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T06:48:20.938753+07:00",
+      "fetched": "2026-09-20T06:48:20.938801+07:00"
+    },
+    {
+      "id": "5e45ca51c0cafbe933ff6bc3dd5fa387",
+      "title": "Rà soát thuế từ tài khoản loa ‘ting ting’: Làm gì để tránh bị phạt, truy thu?",
+      "link": "https://tuoitre.vn/ra-soat-thue-tu-tai-khoan-loa-ting-ting-lam-gi-de-tranh-bi-phat-truy-thu-100260920003206469.htm",
+      "summary": "Nhiều hộ kinh doanh bất ngờ khi cơ quan thuế rà soát tài khoản loa “ting ting” và truy thu thuế. Vậy làm cách nào để tránh khả năng vừa bị phạt, vừa bị truy thu?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T06:48:20.938619+07:00",
+      "fetched": "2026-09-20T06:48:20.938744+07:00"
+    },
     {
       "id": "c4df3a45ef85599e038a3c9e3708bd58",
       "title": "Hai người đẩy rác ra đường giữa lúc Vinh ngập nước",
@@ -151,6 +241,186 @@ window.newsData_2026_09_20 = {
       "category": "Tổng hợp",
       "published": "2026-09-20T02:46:03.474947+07:00",
       "fetched": "2026-09-20T02:46:03.475116+07:00"
+    },
+    {
+      "id": "f60d9b9eeb3341ce95aa0e91de931870",
+      "title": "Suất ăn còn nguyên trên máy bay và bài toán lãng phí của hàng không xanh",
+      "link": "https://thanhnien.vn/suat-an-con-nguyen-tren-may-bay-va-bai-toan-lang-phi-cua-hang-khong-xanh-185260919224022395.htm",
+      "summary": "Một suất ăn không dùng trên máy bay không chỉ là thực phẩm bị bỏ phí, mà còn là phần tài nguyên đã được sử dụng trong cả chuỗi chuẩn bị, vận chuyển và xử lý sau chuyến bay. Từ câu chuyện tưởng nhỏ này, hàng không thế giới đang khuyến khích hành khách cùng tham gia giảm lãng phí, hạn chế rác thải và ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T23:44:00+07:00",
+      "fetched": "2026-09-20T06:48:18.558705+07:00"
+    },
+    {
+      "id": "cf060dfb728956bb74baa3e84fb9cebb",
+      "title": "Vingroup khởi công bệnh viện tiêu chuẩn hàng đầu thế giới tại Cần Giờ",
+      "link": "https://thanhnien.vn/vingroup-khoi-cong-benh-vien-tieu-chuan-hang-dau-the-gioi-tai-can-gio-185260919215915721.htm",
+      "summary": "Tập đoàn Vingroup chính thức khởi công Bệnh viện (BV) đa khoa quốc tế Vinmec Cần Giờ tại Siêu đô thị biển Vinhomes Green Paradise. Với sự đồng hành chiến lược của Cleveland Clinic, một trong những hệ thống y tế hàn lâm hàng đầu thế giới, Vinmec Cần Giờ được định vị trở thành điểm đến du lịch y tế kế...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T23:43:00+07:00",
+      "fetched": "2026-09-20T06:48:18.558829+07:00"
+    },
+    {
+      "id": "a0162f43c6d1d639a98d924dbf763ffa",
+      "title": "Mở kênh dẫn vốn ngoại cho nền kinh tế",
+      "link": "https://thanhnien.vn/mo-kenh-dan-von-ngoai-cho-nen-kinh-te-18526091922051569.htm",
+      "summary": "Ngày mai 21.9, thị trường chứng khoán Việt Nam chính thức được nâng hạng từ thị trường cận biên lên thị trường mới nổi thứ cấp, mở ra kênh dẫn vốn ngoại lớn hơn cho nền kinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T23:40:00+07:00",
+      "fetched": "2026-09-20T06:48:18.558943+07:00"
+    },
+    {
+      "id": "5936af77cc06de2ff421a0fa08c85a78",
+      "title": "ASIAD 2026 hôm nay: Việt Nam có huy chương đầu tiên ở môn thể thao lạ?",
+      "link": "https://thanhnien.vn/asiad-2026-hom-nay-viet-nam-co-huy-chuong-dau-tien-o-mon-the-thao-la-185260919215205622.htm",
+      "summary": "Môn thể thao mới lạ, lần đầu được tổ chức tại ASIAD là teqball hứa hẹn mang về cho đoàn thể thao Việt Nam tấm huy chương đầu tiên ở ASIAD 20 tại Nhật Bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T23:38:00+07:00",
+      "fetched": "2026-09-20T06:48:18.559052+07:00"
+    },
+    {
+      "id": "3fe9836537868f3cbfe4dd6f57d4a0b6",
+      "title": "Arteta: 'Arsenal không tôn trọng trận đấu'",
+      "link": "https://vnexpress.net/arteta-arsenal-khong-ton-trong-tran-dau-5122379.html",
+      "summary": "HLV Mikel Arteta cho rằng các cầu thủ Arsenal không tuân thủ những nguyên tắc cơ bản, dẫn đến thất bại 0-3 trước Brighton ở vòng 5 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-19T23:36:04+07:00",
+      "fetched": "2026-09-20T06:48:38.069463+07:00"
+    },
+    {
+      "id": "b15fd58c71243195b9e70d44f43655be",
+      "title": "Hanwha cách tân vũ khí phòng thủ mặt đất Hàn Quốc",
+      "link": "https://thanhnien.vn/hanwha-cach-tan-vu-khi-phong-thu-mat-dat-han-quoc-185260919214459177.htm",
+      "summary": "Trong bối cảnh Hàn Quốc hiện đại hóa lĩnh vực quốc phòng, Tập đoàn Hanwha - một trong những chaebol (tập đoàn lớn do gia tộc kiểm soát) hàng đầu nước này - đang tiên phong trong lĩnh vực không người lái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T23:31:00+07:00",
+      "fetched": "2026-09-20T06:48:18.559156+07:00"
+    },
+    {
+      "id": "1fded24d9e81bfff0f355435096a09fe",
+      "title": "Khi những lĩnh vực sáng tạo đối thoại cùng nhau",
+      "link": "https://thanhnien.vn/khi-nhung-linh-vuc-sang-tao-doi-thoai-cung-nhau-185260919200149654.htm",
+      "summary": "Sự giao thoa giữa các lĩnh vực sáng tạo không còn là câu chuyện mới trên thế giới. Tại Việt Nam, thời trang, điện ảnh, âm nhạc, thiết kế, ẩm thực và nghệ thuật thị giác ngày càng tìm thấy những điểm gặp nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T23:30:00+07:00",
+      "fetched": "2026-09-20T06:48:18.559268+07:00"
+    },
+    {
+      "id": "0367fcdd678da08eb8fb1346f1d9bc12",
+      "title": "Bữa ăn bán trú: Bác sĩ chỉ cách bù đúng chất cho trẻ",
+      "link": "https://thanhnien.vn/bua-an-ban-tru-bac-si-chi-cach-bu-dung-chat-cho-tre-185260919233118002.htm",
+      "summary": "Sau một ngày học bán trú, bữa tối không phải là lúc để trẻ ăn bù thật nhiều. Điều quan trọng là phụ huynh biết điều chỉnh khẩu phần, bổ sung đúng nhóm chất còn thiếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T23:02:00+07:00",
+      "fetched": "2026-09-20T06:48:18.559375+07:00"
+    },
+    {
+      "id": "fb560138be4e0ff9f02c706b27b89c46",
+      "title": "Vinh danh 30 nhà nông trẻ biến đồng ruộng thành những mô hình tiền tỉ",
+      "link": "https://thanhnien.vn/vinh-danh-30-nha-nong-tre-bien-dong-ruong-thanh-nhung-mo-hinh-tien-ti-185260919230342837.htm",
+      "summary": "Tối 19.9, tại xã Ea Nuôl (Đắk Lắk), T.Ư Đoàn tổ chức trao Giải thưởng Lương Định Của lần thứ XXI và giải cuộc thi Dự án khởi nghiệp thanh niên nông thôn năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T23:00:00+07:00",
+      "fetched": "2026-09-20T06:48:18.559480+07:00"
+    },
+    {
+      "id": "781c769b132b9d33a1f7a5f7292c9706",
+      "title": "California nghiên cứu cơ chế “tắt nguồn” AI xấu",
+      "link": "https://thanhnien.vn/california-nghien-cuu-co-che-tat-nguon-ai-xau-185260919220215617.htm",
+      "summary": "AFP hôm qua đưa tin Thống đốc bang California Gavin Newsom của Mỹ ngày 18.9 ký sắc lệnh hành pháp yêu cầu giới chức tiểu bang nghiên cứu tính khả thi của việc áp đặt cơ chế giúp \"tắt nguồn\" mô hình trí tuệ nhân tạo (AI) khi cần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T23:00:00+07:00",
+      "fetched": "2026-09-20T06:48:18.559581+07:00"
+    },
+    {
+      "id": "5d168feef2e257b22ab2b48a15206051",
+      "title": "NSND Viễn Châu - ông vua vọng cổ: Đo ni đóng giày, đưa nghệ sĩ thăng hoa",
+      "link": "https://thanhnien.vn/nsnd-vien-chau-ong-vua-vong-co-do-ni-dong-giay-dua-nghe-si-thang-hoa-185260919203035617.htm",
+      "summary": "Viễn Châu sáng tác cực nhanh và hay, trong đó có rất nhiều bài ông đo ni đóng giày cho từng nghệ sĩ trẻ giúp họ bật lên, hoặc với nghệ sĩ đã có tên tuổi thì bài vọng cổ của ông giúp họ thăng hoa hơn nữa, trở thành những bài hát để đời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T23:00:00+07:00",
+      "fetched": "2026-09-20T06:48:18.559679+07:00"
+    },
+    {
+      "id": "ea17c48696c1235ac4176ae7180b8586",
+      "title": "Để văn hóa, bản sắc dân tộc đưa du lịch Việt cất cánh",
+      "link": "https://thanhnien.vn/de-van-hoa-ban-sac-dan-toc-dua-du-lich-viet-cat-canh-185260919190140906.htm",
+      "summary": "Trong xu thế dịch chuyển của du lịch toàn cầu, du khách không còn chỉ tìm kiếm những điểm đến thuần túy để tham quan, mà đòi hỏi những trải nghiệm có chiều sâu về cảm xúc và giá trị tinh thần. Nghị quyết 26 của Bộ Chính trị về phát triển du lịch trong kỷ nguyên mới đã xác định rõ: Văn hóa, bản sắc d...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T23:00:00+07:00",
+      "fetched": "2026-09-20T06:48:18.559782+07:00"
+    },
+    {
+      "id": "c1874b82b4f73fed607be4b54307966c",
+      "title": "Xe shipper bốc cháy, người trong xóm lẫn người đi đường cùng chạy tới dập lửa",
+      "link": "https://thanhnien.vn/xe-shipper-boc-chay-nguoi-trong-xom-lan-nguoi-di-duong-cung-chay-toi-dap-lua-185260919172750717.htm",
+      "summary": "Thấy xe máy của nam shipper bất ngờ bốc cháy ở Đồng Tháp, người dân trong xóm và cả người đi đường cùng chạy tới hỗ trợ. Sau vài phút, ngọn lửa được dập tắt, hàng hóa trên xe không bị hư hỏng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T23:00:00+07:00",
+      "fetched": "2026-09-20T06:48:18.559883+07:00"
+    },
+    {
+      "id": "e630bf72cdb06ae2b9deb60951163554",
+      "title": "Cầu Bình Lợi 2 phân làn theo giờ, dòng xe được tách theo từng khung giờ",
+      "link": "https://thanhnien.vn/cau-binh-loi-2-phan-lan-theo-gio-dong-xe-duoc-tach-theo-tung-khung-gio-185260919190930538.htm",
+      "summary": "Ngày 19.9.2026, TP.HCM bắt đầu áp dụng phân làn theo giờ trên cầu Bình Lợi 2. Trong ngày đầu tiên, người dân đi qua đây bắt đầu làm quen với cách tổ chức giao thông mới. Nhiều ý kiến cho rằng việc mở thêm làn cho xe máy vào giờ cao điểm có thể giúp dòng phương tiện bớt ùn ứ, di chuyển thuận lợi hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T22:59:00+07:00",
+      "fetched": "2026-09-20T06:48:18.559981+07:00"
+    },
+    {
+      "id": "07aa9197c4387183c8b68598a24bc287",
+      "title": "Quản lý nhưng đừng kìm hãm",
+      "link": "https://thanhnien.vn/quan-ly-nhung-dung-kim-ham-185260919225232501.htm",
+      "summary": "Sau một số sự cố liên quan thiết bị bay không người lái (UAV, drone) xảy ra tại các sân bay, hoạt động của loại phương tiện này đang được siết chặt ở VN. Vừa qua, lực lượng an ninh Cảng hàng không Thọ Xuân (Thanh Hóa) vận động người dân tự giác giao nộp flycam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T22:52:00+07:00",
+      "fetched": "2026-09-20T06:48:18.560080+07:00"
+    },
+    {
+      "id": "9e171a41a71e875cee98c3ed1ad7a1d5",
+      "title": "Raphinha lại lập hat-trick cho Barca",
+      "link": "https://vnexpress.net/raphinha-lai-lap-hat-trick-cho-barca-5122377.html",
+      "summary": "Tiền đạo Raphinha lập hat-trick thứ hai trong bốn ngày, giúp Barca thắng ngược Sevilla 3-1 ở vòng 7 La Liga và nối dài mạch toàn thắng từ đầu mùa.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-19T22:49:43+07:00",
+      "fetched": "2026-09-20T06:48:38.069596+07:00"
+    },
+    {
+      "id": "5f0833d815b3bf55a18b751c47432e6c",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 20.9.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2092026-185260919225839047.htm",
+      "summary": "Tin tức Cơ hội thúc đẩy quan hệ Việt - Mỹ; Mở kênh dẫn vốn ngoại cho nền kinh tế; Thỏa thuận an ninh \"khủng\" của Mỹ về Greenland... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 20.9.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T22:48:00+07:00",
+      "fetched": "2026-09-20T06:48:18.560182+07:00"
+    },
+    {
+      "id": "6c103b4920828b3cd3a4b7594f24f0ac",
+      "title": "Những robot hình người đi làm 'công nhân'",
+      "link": "https://vnexpress.net/nhung-robot-hinh-nguoi-di-lam-cong-nhan-5120622.html",
+      "summary": "Nhiều nhà phát triển đưa robot hình người vào việc tại các nhà máy, kho hàng và môi trường thực tế khác, giúp tự động hóa công việc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-19T22:00:00+07:00",
+      "fetched": "2026-09-20T06:48:26.110302+07:00"
     },
     {
       "id": "024d36db58f4d5993395153237555c92",
