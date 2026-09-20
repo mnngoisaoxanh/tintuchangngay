@@ -1,6 +1,6 @@
 window.newsData_2026_09_21 = {
   "date": "2026-09-21",
-  "lastUpdated": "2026-09-21T02:59:09.449800+07:00",
+  "lastUpdated": "2026-09-21T05:12:25.399408+07:00",
   "articles": [
     {
       "id": "2128ac0e8f47abcec4220bb6c4789065",
@@ -221,6 +221,56 @@ window.newsData_2026_09_21 = {
       "category": "Tổng hợp",
       "published": "2026-09-21T00:07:46.935026+07:00",
       "fetched": "2026-09-21T00:07:46.935158+07:00"
+    },
+    {
+      "id": "b986f114418317081a2ec37c9f7b301a",
+      "title": "Bước leo thang mới tại Trung Đông",
+      "link": "https://thanhnien.vn/buoc-leo-thang-moi-tai-trung-dong-185260920220057797.htm",
+      "summary": "Trong tuyên bố ngày 19.9, lực lượng Houthi tại Yemen cho biết đã tấn công các mục tiêu nhạy cảm tại thủ đô Riyadh và cơ sở của tập đoàn dầu mỏ lớn nhất thế giới Aramco ở TP.Yanbu của Ả Rập Xê Út.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T22:00:00+07:00",
+      "fetched": "2026-09-21T05:12:16.413101+07:00"
+    },
+    {
+      "id": "027324d28bf3371d06e55dd0866a24d3",
+      "title": "Lịch âm hôm nay 21.9: Ngày Mậu Tuất nhằm",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-219-ngay-mau-tuat-nham-185260920121128836.htm",
+      "summary": "Theo lịch âm hôm nay 21.9 là ngày Mậu Tuất, tháng Đinh Dậu. Âm lịch, dương lịch hôm nay có gì đáng lưu ý?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T22:00:00+07:00",
+      "fetched": "2026-09-21T05:12:16.413250+07:00"
+    },
+    {
+      "id": "01d8b1e3ef8d14c27fd4f2232a584703",
+      "title": "Chứng khoán sẽ diễn biến thế nào sau nâng hạng?",
+      "link": "https://vnexpress.net/chung-khoan-se-dien-bien-the-nao-sau-nang-hang-5122483.html",
+      "summary": "Chứng khoán chính thức lên thị trường mới nổi thứ cấp từ 21/9, nhưng dòng tiền ngoại chưa chắc tăng mạnh ngay, trong khi VN-Index đang ở vùng cao.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-20T22:00:00+07:00",
+      "fetched": "2026-09-21T05:12:21.532980+07:00"
+    },
+    {
+      "id": "d6d13f67b69112bb7d18780ed2db936a",
+      "title": "3 việc không nên làm ngay sau khi uống thuốc huyết áp",
+      "link": "https://thanhnien.vn/3-viec-khong-nen-lam-ngay-sau-khi-uong-thuoc-huyet-ap-185260920142140078.htm",
+      "summary": "Thuốc huyết áp giúp đưa huyết áp về mức an toàn, giảm nguy cơ đau tim, đột quỵ cùng các biến chứng khác. Tuy nhiên, sau khi uống thuốc, một số thói quen có thể làm tăng nguy cơ chóng mặt, ảnh hưởng đến tác dụng của thuốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T21:12:00+07:00",
+      "fetched": "2026-09-21T05:12:16.413382+07:00"
+    },
+    {
+      "id": "4e4da891d95e7fc68d2403e12cb9078f",
+      "title": "Mỹ sắp có Lực lượng AI",
+      "link": "https://thanhnien.vn/my-sap-co-luc-luong-ai-185260920222721003.htm",
+      "summary": "Hôm qua (giờ VN), Tổng thống Mỹ Donald Trump thông báo đang xúc tiến việc thành lập cái gọi là Lực lượng AI (trí tuệ nhân tạo), và sẽ bổ nhiệm một quan chức phụ trách lực lượng mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T21:06:00+07:00",
+      "fetched": "2026-09-21T05:12:16.413505+07:00"
     },
     {
       "id": "238ce7d1f4d62a8184cfc9f45810e64f",
