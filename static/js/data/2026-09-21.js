@@ -1,7 +1,77 @@
 window.newsData_2026_09_21 = {
   "date": "2026-09-21",
-  "lastUpdated": "2026-09-21T00:07:56.914184+07:00",
+  "lastUpdated": "2026-09-21T02:59:09.449800+07:00",
   "articles": [
+    {
+      "id": "2128ac0e8f47abcec4220bb6c4789065",
+      "title": "Thua Atletico Madrid, Real Madrid đã kém Barca 6 điểm ở La Liga",
+      "link": "https://tuoitre.vn/thua-atletico-madrid-real-madrid-da-kem-barca-6-diem-o-la-liga-100260920112540831.htm",
+      "summary": "Tối 20-9, Real Madrid đã để thua Atletico Madrid 1-2 ở vòng 7 Giải vô địch Tây Ban Nha (La Liga). Khoảng cách giữa Real Madrid và Barca lúc này đã là 6 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T02:59:01.075791+07:00",
+      "fetched": "2026-09-21T02:59:01.075848+07:00"
+    },
+    {
+      "id": "fa49507d773b3be37149747d00035738",
+      "title": "Thủ môn Bùi Tiến Dũng cản 2 quả luân lưu giúp Đà Nẵng loại CLB Hà Nội khỏi Cúp quốc gia",
+      "link": "https://tuoitre.vn/thu-mon-bui-tien-dung-can-2-qua-luan-luu-giup-da-nang-loai-clb-ha-noi-khoi-cup-quoc-gia-100260920212404754.htm",
+      "summary": "CLB Hà Nội bị loại khỏi Cúp quốc gia bởi sự tỏa sáng của người cũ là thủ môn Bùi Tiến Dũng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T02:59:01.075168+07:00",
+      "fetched": "2026-09-21T02:59:01.075226+07:00"
+    },
+    {
+      "id": "3c9a807fdfcff5bc369634395889a1bb",
+      "title": "Rượt đuổi tỉ số, Man City thắng kịch tính Sunderland",
+      "link": "https://tuoitre.vn/ruot-duoi-ti-so-man-city-thang-kich-tinh-sunderland-100260918215052205.htm",
+      "summary": "Tối 20-9, hàng công Man City thi đấu thăng hoa để đánh bại Sunderland với tỉ số 5-3. Qua đó, thầy trò HLV Enzo Maresca dẫn đầu bảng xếp hạng Ngoại hạng Anh và tạo ra cách biệt 3 điểm trước Arsenal.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T02:59:01.075099+07:00",
+      "fetched": "2026-09-21T02:59:01.075158+07:00"
+    },
+    {
+      "id": "54c91e139e5efa6ae11ed7cf0a2d2a27",
+      "title": "Ông Trump nói Houthi đồng ý không đánh Mỹ",
+      "link": "https://tuoitre.vn/ong-trump-noi-houthi-dong-y-khong-danh-my-100260920223006141.htm",
+      "summary": "Tổng thống Trump khẳng định với Fox News rằng lực lượng Houthi ở Yemen đã đồng ý sẽ không tấn công Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T02:59:01.075029+07:00",
+      "fetched": "2026-09-21T02:59:01.075089+07:00"
+    },
+    {
+      "id": "4a63dbd66c986ae3e329c702de7ac7da",
+      "title": "HLV Harry Kewell: 'Điều gì phải đến sẽ đến thôi'",
+      "link": "https://tuoitre.vn/hlv-harry-kewell-dieu-gi-phai-den-se-den-thoi-100260920224636404.htm",
+      "summary": "HLV trưởng Harry Kewell của CLB Hà Nội thừa nhận ông và học trò đang trải qua giai đoạn rất khó khăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T02:59:01.074956+07:00",
+      "fetched": "2026-09-21T02:59:01.075018+07:00"
+    },
+    {
+      "id": "f105a3486d50a53074f7aa0ff2b28956",
+      "title": "Thương hiệu tôi yêu: Chiếc nem nhỏ gói cả quê nhà xứ Thanh",
+      "link": "https://tuoitre.vn/thuong-hieu-toi-yeu-chiec-nem-nho-goi-ca-que-nha-xu-thanh-100260920231233976.htm",
+      "summary": "Khi nem ủ chín, bóc lớp lá ra, cái màu hồng tươi của thịt, ánh trong của sợi bì, cùng mùi thơm của thính gạo và tỏi ớt bốc lên, khiến ai cũng muốn cắn ngay một miếng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T02:59:01.074876+07:00",
+      "fetched": "2026-09-21T02:59:01.074945+07:00"
+    },
+    {
+      "id": "2cfca05bf02b9391be1b73a3340e0949",
+      "title": "Man United thoát hiểm phút chót",
+      "link": "https://tuoitre.vn/man-united-thoat-hiem-phut-chot-100260921003422122.htm",
+      "summary": "Man United phải rất vất vả mới có được 1 điểm trước đội chủ nhà Fulham tại vòng 5 Giải ngoại hạng Anh đêm 20-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T02:59:01.074724+07:00",
+      "fetched": "2026-09-21T02:59:01.074862+07:00"
+    },
     {
       "id": "3e63fd8eee36980bb6f44c39b5b2ab42",
       "title": "Căng thẳng Saudi Arabia - Houthi: Chuyện người thái tử MBS",
@@ -153,6 +223,86 @@ window.newsData_2026_09_21 = {
       "fetched": "2026-09-21T00:07:46.935158+07:00"
     },
     {
+      "id": "238ce7d1f4d62a8184cfc9f45810e64f",
+      "title": "Teqball Việt Nam: Cú hích cho tương lai từ tấm HCĐ ASIAD của Minh Tân và Gia Nghi",
+      "link": "https://thanhnien.vn/teqball-viet-nam-cu-hich-cho-tuong-lai-tu-tam-hcd-asiad-cua-minh-tan-va-gia-nghi-185260920222043306.htm",
+      "summary": "Một tấm HCĐ chưa phải là thành tích lớn nhất mà đoàn thể thao VN chờ đợi tại ASIAD 20, nhưng với teqball, đó là chiếc huy chương đầu tiên, là dấu mốc mang nhiều ý nghĩa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T18:19:00+07:00",
+      "fetched": "2026-09-21T02:58:58.426477+07:00"
+    },
+    {
+      "id": "df7c9924cb307112374e3bdafeeae84f",
+      "title": "ASIAD 20: Karate Việt Nam có tấm HCĐ quý giá",
+      "link": "https://thanhnien.vn/asiad-20-karate-viet-nam-co-tam-hcd-quy-gia-185260920222413469.htm",
+      "summary": "Ở ngày tranh tài chính thức đầu tiên tại ASIAD 20 diễn ra hôm qua tại Nhật Bản, các VĐV VN thi đấu đầy nỗ lực. Trong đó, võ sĩ trẻ Bùi Ngọc Nhi giành HCĐ ở môn karate.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T18:12:00+07:00",
+      "fetched": "2026-09-21T02:58:58.426653+07:00"
+    },
+    {
+      "id": "9c9ee05dc6713997b8cdb52a4bd5c8e5",
+      "title": "ASIAD 20 - 17 giờ 30 hôm nay: Đội tuyển nữ Việt Nam quyết tâm đánh bại Thái Lan",
+      "link": "https://thanhnien.vn/asiad-20-17-gio-30-hom-nay-doi-tuyen-nu-viet-nam-quyet-tam-danh-bai-thai-lan-185260920215133743.htm",
+      "summary": "Đội tuyển bóng đá nữ VN quyết tâm đánh bại Thái Lan trong trận cuối bảng E để tranh suất vào vòng tứ kết ASIAD 20. Trận đấu diễn ra lúc 17 giờ 30 hôm nay 21.9, trên sân Nagai (Nhật Bản), trực tiếp trên VTV6, FPT Play, TV360.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T18:07:00+07:00",
+      "fetched": "2026-09-21T02:58:58.426842+07:00"
+    },
+    {
+      "id": "87425fe3f8b7a4afd398616762d06eeb",
+      "title": "Những lý do xe tăng Abrams biến mất khỏi chiến trường Ukraine",
+      "link": "https://vnexpress.net/nhung-ly-do-xe-tang-abrams-bien-mat-khoi-chien-truong-ukraine-5117367.html",
+      "summary": "Drone dày đặc trên chiến trường, yêu cầu bảo dưỡng phức tạp khiến xe tăng Abrams Ukraine chỉ được dùng làm phương tiện chở quân hoặc phải nấp kỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-20T18:00:00+07:00",
+      "fetched": "2026-09-21T02:59:02.860250+07:00"
+    },
+    {
+      "id": "aae204d4f96c2e833c19e9b2de43dbb6",
+      "title": "Man Utd cầm hòa đội chót bảng Fulham",
+      "link": "https://vnexpress.net/man-utd-cam-hoa-doi-chot-bang-fulham-5122579.html",
+      "summary": "Bàn thắng có phần may mắn của Matheus Cunha giúp Man Utd cầm hòa chủ nhà Fulham 1-1, ở trận muộn vòng 5 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-20T17:20:44+07:00",
+      "fetched": "2026-09-21T02:59:09.444673+07:00"
+    },
+    {
+      "id": "77fe96a64f74fe080492de706e28c539",
+      "title": "Đi bộ thể dục: 5 lỗi dễ khiến đầu gối chịu thêm áp lực",
+      "link": "https://thanhnien.vn/di-bo-the-duc-5-loi-de-khien-dau-goi-chiu-them-ap-luc-185260920222551065.htm",
+      "summary": "Đi bộ là một trong những hình thức vận động đơn giản, phù hợp với nhiều người. Tuy nhiên, đi quá sức, bước chân không phù hợp hay chọn sai giày có thể làm tăng áp lực lên đầu gối và gây đau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T17:20:00+07:00",
+      "fetched": "2026-09-21T02:58:58.427000+07:00"
+    },
+    {
+      "id": "5e7cccc501bdc45f43505894d0a6223d",
+      "title": "Ngồi lâu, ngủ ít, bỏ bữa sáng: 3 thói quen cần lưu ý nếu cholesterol cao",
+      "link": "https://thanhnien.vn/ngoi-lau-ngu-it-bo-bua-sang-3-thoi-quen-can-luu-y-neu-cholesterol-cao-185260920230418258.htm",
+      "summary": "Nếu cholesterol cao, ngoài chế độ ăn, bạn cũng cần xem lại thói quen hằng ngày. Ngồi quá lâu, thiếu ngủ hoặc thường xuyên bỏ bữa sáng có thể liên quan đến những thay đổi bất lợi về mỡ máu và sức khỏe tim mạch lâu dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T17:11:00+07:00",
+      "fetched": "2026-09-21T02:58:58.427161+07:00"
+    },
+    {
+      "id": "4d4dc1184653cf92588d1b6a6af98966",
+      "title": "Tiểu đường: Bữa sáng ăn sai, đường huyết dễ ‘nhảy’ cả ngày",
+      "link": "https://thanhnien.vn/tieu-duong-bua-sang-an-sai-duong-huyet-de-nhay-ca-ngay-185260920171420287.htm",
+      "summary": "Bữa sáng không chỉ giúp cung cấp năng lượng mà còn có thể ảnh hưởng đến đường huyết trong nhiều giờ sau đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T17:09:00+07:00",
+      "fetched": "2026-09-21T02:58:58.427312+07:00"
+    },
+    {
       "id": "c85b6436ae196f21efd454f95c7b0e59",
       "title": "Lịch thi đấu bóng chuyền nữ Việt Nam vs Indonesia hôm nay: Hãy thắng, đừng ra về tay trắng",
       "link": "https://thanhnien.vn/lich-thi-dau-bong-chuyen-nu-viet-nam-vs-indonesia-hom-nay-hay-thang-dung-ra-ve-tay-trang-185260920205450787.htm",
@@ -191,6 +341,16 @@ window.newsData_2026_09_21 = {
       "category": "Tổng hợp",
       "published": "2026-09-20T17:00:00+07:00",
       "fetched": "2026-09-21T00:07:44.805141+07:00"
+    },
+    {
+      "id": "918cb319cb996c6a24608ff17e39dcd3",
+      "title": "Né phong tỏa của Mỹ trên đường biển, Iran 'mắc cạn' trên đường bộ",
+      "link": "https://vnexpress.net/ne-phong-toa-cua-my-tren-duong-bien-iran-mac-can-tren-duong-bo-5121329.html",
+      "summary": "Iran tuyên bố sẽ đáp trả đòn phong tỏa của Mỹ bằng cách đẩy mạnh thương mại đường bộ, nhưng thực tế mọi chuyện không diễn ra như họ dự tính.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-20T17:00:00+07:00",
+      "fetched": "2026-09-21T02:59:02.860437+07:00"
     },
     {
       "id": "d5e7553b66b3b91eb54d830541e749e4",
