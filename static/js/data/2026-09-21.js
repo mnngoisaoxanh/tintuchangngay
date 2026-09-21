@@ -1,7 +1,157 @@
 window.newsData_2026_09_21 = {
   "date": "2026-09-21",
-  "lastUpdated": "2026-09-21T09:22:32.365294+07:00",
+  "lastUpdated": "2026-09-21T16:25:32.444407+07:00",
   "articles": [
+    {
+      "id": "ce9308d1fe39fd43121f02509b0f8133",
+      "title": "Nghe lời AI chọn ngày hạ huyệt rồi kiện luôn AI vì... xui xẻo",
+      "link": "https://tuoitre.vn/nghe-loi-ai-chon-ngay-ha-huyet-roi-kien-luon-ai-vi-xui-xeo-100260921144133649.htm",
+      "summary": "Một người đàn ông Trung Quốc kiện công ty AI vì chatbot chọn ngày an táng khiến gia đình gặp xui xẻo, nhưng trớ trêu là ông lại dùng chính chatbot này để soạn đơn kiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T16:25:27.020886+07:00",
+      "fetched": "2026-09-21T16:25:27.020948+07:00"
+    },
+    {
+      "id": "2ef03081ce42ba172ee80b37c1f705eb",
+      "title": "Mỹ - Trung bàn cơ chế cảnh báo sự cố AI trước cuộc gặp Trump - Tập",
+      "link": "https://tuoitre.vn/my-trung-ban-co-che-canh-bao-su-co-ai-truoc-cuoc-gap-trump-tap-100260921150857749.htm",
+      "summary": "Bộ trưởng Tài chính Mỹ Scott Bessent cho biết phía Mỹ đề xuất thiết lập cơ chế thông báo với Trung Quốc về các sự cố AI có thể đe dọa an ninh hai nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T16:25:27.020818+07:00",
+      "fetched": "2026-09-21T16:25:27.020877+07:00"
+    },
+    {
+      "id": "28a3d402a7b413859be39afd6964bf3a",
+      "title": "Tư duy mua nhà thay đổi khi áp thời hạn chung cư theo niên hạn công trình?",
+      "link": "https://tuoitre.vn/tu-duy-mua-nha-thay-doi-khi-ap-thoi-han-chung-cu-theo-nien-han-cong-trinh-100260921125806296.htm",
+      "summary": "Xung quanh chính sách quy định thời hạn sử dụng nhà chung cư theo niên hạn công trình mà Chính phủ vừa ban hành, các chuyên gia pháp lý và kinh tế đánh giá việc phân định này sẽ không làm mất đi quyền sở hữu đất của người dân, đồng thời sẽ tạo bước ngoặt giúp thị trường căn hộ phát triển minh bạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T16:25:27.020752+07:00",
+      "fetched": "2026-09-21T16:25:27.020806+07:00"
+    },
+    {
+      "id": "2be3723d3dfd00f7363a3c15d4119042",
+      "title": "Phát triển toàn diện trong môi trường giáo dục chuẩn Cambridge tại Royal School",
+      "link": "https://tuoitre.vn/phat-trien-toan-dien-trong-moi-truong-giao-duc-chuan-cambridge-tai-royal-school-100260919074020916.htm",
+      "summary": "Đồng hành cùng Royal School, học sinh không chỉ có cơ hội để khẳng định bản thân mà còn được tạo điều kiện để phát triển toàn diện, trở thành công dân toàn cầu tự tin hội nhập, sẵn sàng tỏa sáng trong môi trường quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T16:25:27.020675+07:00",
+      "fetched": "2026-09-21T16:25:27.020741+07:00"
+    },
+    {
+      "id": "789fda304bffe7d8964d011d0e61c966",
+      "title": "TP.HCM thăm hỏi, hỗ trợ nạn nhân bị nhánh cây rơi trúng xe máy",
+      "link": "https://tuoitre.vn/tphcm-tham-hoi-ho-tro-nan-nhan-bi-nhanh-cay-roi-trung-xe-may-10026092112281621.htm",
+      "summary": "Phó chủ tịch Ủy ban MTTQ Việt Nam TP.HCM Phạm Minh Tuấn đến Bệnh viện Chợ Rẫy thăm hỏi, trao quà hỗ trợ người vợ bị nhánh cây rơi trúng xe máy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T16:25:27.020601+07:00",
+      "fetched": "2026-09-21T16:25:27.020665+07:00"
+    },
+    {
+      "id": "bae7a64c4b464037f45f54f812e88ab0",
+      "title": "Tây Ninh công bố Chủ tịch HĐND và hai Phó chủ tịch UBND tỉnh mới",
+      "link": "https://tuoitre.vn/tay-ninh-cong-bo-chu-tich-hdnd-va-hai-pho-chu-tich-ubnd-tinh-moi-100260921151400593.htm",
+      "summary": "Chiều 21-9, Tỉnh ủy Tây Ninh đã tổ chức hội nghị công bố quyết định của Chủ tịch Quốc hội và Thủ tướng phê chuẩn kết quả bầu Chủ tịch HĐND tỉnh Tây Ninh đối với ông Nguyễn Hồng Thanh và Phó chủ tịch UBND tỉnh đối với bà Nguyễn Đài Thy và ông Trương Thanh Liêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T16:25:27.020508+07:00",
+      "fetched": "2026-09-21T16:25:27.020589+07:00"
+    },
+    {
+      "id": "665c0f88b1e36c3b3b666e49b5877d76",
+      "title": "Xe tập lái cấp phép trước và sau 1-7 đều không được đi làn số 1 cao tốc",
+      "link": "https://tuoitre.vn/xe-tap-lai-cap-phep-truoc-va-sau-1-7-deu-khong-duoc-di-lan-so-1-cao-toc-10026092113373489.htm",
+      "summary": "Từ 1-7, xe tập lái không được chạy trên cao tốc phân kỳ đầu tư và làn số 1 trên cao tốc, kể cả xe đã được cấp phép trước đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T16:25:27.020392+07:00",
+      "fetched": "2026-09-21T16:25:27.020486+07:00"
+    },
+    {
+      "id": "ce4e674e99f23afbf1872b60893e6d59",
+      "title": "Không biết chọn cổ phiếu nào, nhà đầu tư có thể mua cả 'rổ' bằng cách này",
+      "link": "https://tuoitre.vn/khong-biet-chon-co-phieu-nao-nha-dau-tu-co-the-mua-ca-ro-bang-cach-nay-100260921144846802.htm",
+      "summary": "Thay vì tự chọn từng cổ phiếu, nhà đầu tư có thể mua chứng chỉ quỹ ETF. Tuy nhiên, ETF vẫn có những rủi ro riêng mà nhà đầu tư cần hiểu trước khi xuống tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T16:25:27.020283+07:00",
+      "fetched": "2026-09-21T16:25:27.020378+07:00"
+    },
+    {
+      "id": "6b8902da6842138cc02764eab962d09a",
+      "title": "Kiếm tới 15.000 USD nhờ cho AI 'thuê' khuôn mặt",
+      "link": "https://tuoitre.vn/kiem-toi-15000-usd-nho-cho-ai-thue-khuon-mat-100260921123601947.htm",
+      "summary": "Nhiều người Trung Quốc kiếm thêm thu nhập bằng cách cấp quyền sử dụng hình ảnh cho nội dung do AI tạo ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T16:25:27.020175+07:00",
+      "fetched": "2026-09-21T16:25:27.020266+07:00"
+    },
+    {
+      "id": "db8728015ab29e3e0ec6813b63ba0db0",
+      "title": "Khởi tố vụ mua bán trái phép dữ liệu cá nhân, phát hiện 120 triệu dữ liệu bị thu thập",
+      "link": "https://tuoitre.vn/khoi-to-vu-mua-ban-trai-phep-du-lieu-ca-nhan-phat-hien-120-trieu-du-lieu-bi-thu-thap-100260921152511973.htm",
+      "summary": "Công an tỉnh Đắk Lắk phát hiện một nhóm người có dấu hiệu mua bán trái phép thông tin, dữ liệu cá nhân và tham gia đánh bạc trên mạng, phát hiện 120 triệu dữ liệu bị thu thập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T16:25:27.020062+07:00",
+      "fetched": "2026-09-21T16:25:27.020158+07:00"
+    },
+    {
+      "id": "cd3ffa2ccc51a8b31e7fd64381ffd0aa",
+      "title": "500 doanh nghiệp khởi nghiệp sáng tạo sẽ được hỗ trợ từ công nghệ đến gọi vốn",
+      "link": "https://tuoitre.vn/500-doanh-nghiep-khoi-nghiep-sang-tao-se-duoc-ho-tro-tu-cong-nghe-den-goi-von-100260921151743651.htm",
+      "summary": "Bộ Khoa học và Công nghệ đặt mục tiêu thành lập ít nhất 250 doanh nghiệp khởi nghiệp sáng tạo vào năm 2030, và nâng con số này lên 500 vào năm 2035.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T16:25:27.019942+07:00",
+      "fetched": "2026-09-21T16:25:27.020045+07:00"
+    },
+    {
+      "id": "96fae37e37a2a2ab42f2d80631633ef6",
+      "title": "Tết Trung thu trong Nam ngoài Bắc và trên sóng truyền hình",
+      "link": "https://tuoitre.vn/tet-trung-thu-trong-nam-ngoai-bac-va-tren-song-truyen-hinh-100260921153144415.htm",
+      "summary": "Loạt chương trình nghệ thuật diễn ra nhân dịp Tết Trung thu 2026 ở nhiều địa phương; có cả phá cỗ Trung thu trên sóng Đài Truyền hình Việt Nam (VTV).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T16:25:27.019826+07:00",
+      "fetched": "2026-09-21T16:25:27.019920+07:00"
+    },
+    {
+      "id": "4f9876179b3eddaafa08ec918d706f55",
+      "title": "Chạy 'rùa bò' bám làn trái cao tốc, tài xế xe khách bị CSGT ghi hình xử phạt",
+      "link": "https://tuoitre.vn/chay-rua-bo-bam-lan-trai-cao-toc-tai-xe-xe-khach-bi-csgt-ghi-hinh-xu-phat-100260921152243419.htm",
+      "summary": "Theo dữ liệu điện tử thu thập được, xe khách đi với tốc độ 60-63km/h trên quãng đường hơn 3km. Nhiều đoạn lái xe có thể chuyển sang làn đường bên phải, nhưng tài xế vẫn đi ở làn đường sát dải phân cách giữa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T16:25:27.019496+07:00",
+      "fetched": "2026-09-21T16:25:27.019810+07:00"
+    },
+    {
+      "id": "865d65702cb4d5b203cd5760efee056c",
+      "title": "Lai lịch chiếc mô tô phân khối lớn nữ du khách Nga lái biểu diễn phản cảm",
+      "link": "https://tuoitre.vn/lai-lich-chiec-mo-to-phan-khoi-lon-nu-du-khach-nga-lai-bieu-dien-phan-cam-100260921152305183.htm",
+      "summary": "Thời điểm thực hiện hành vi \"gây rối trật tự công cộng\", Công an tỉnh Khánh Hòa đã thu giữ của nữ du khách Nga một mô tô nhãn hiệu Yamaha R15.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T16:25:27.019387+07:00",
+      "fetched": "2026-09-21T16:25:27.019482+07:00"
+    },
+    {
+      "id": "42d0592c420fcf69fe4d04e25bc7bb57",
+      "title": "Truyền thông Mỹ tiết lộ kế hoạch hợp tác toàn diện Nga - Iran",
+      "link": "https://tuoitre.vn/truyen-thong-my-tiet-lo-ke-hoach-hop-tac-toan-dien-nga-iran-100260921153811408.htm",
+      "summary": "Lộ trình hợp tác giai đoạn 2024 - 2026 cho thấy Nga và Iran đang xây dựng các mối liên kết ở đa lĩnh vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T16:25:27.019229+07:00",
+      "fetched": "2026-09-21T16:25:27.019373+07:00"
+    },
     {
       "id": "f872260b13328641b9337f6d144e38c2",
       "title": "The TVFACE không chỉ tìm quán quân, còn 'săn' MC cho các show",
@@ -153,6 +303,366 @@ window.newsData_2026_09_21 = {
       "fetched": "2026-09-21T09:22:24.203780+07:00"
     },
     {
+      "id": "7b538b6e74fd15d6f6e9c0d38a78ffc3",
+      "title": "Chứng khoán Việt Nam giảm mạnh trong ngày đầu nâng hạng",
+      "link": "https://vnexpress.net/chung-khoan-viet-nam-giam-manh-trong-ngay-dau-nang-hang-5122932.html",
+      "summary": "VN-Index giảm gần 16 điểm và thủng mốc 1.800 điểm, bởi áp lực bán mạnh của nhà đầu tư trong lẫn ngoài nước tập trung vào nhóm chứng khoán và bất động sản.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-21T08:47:24+07:00",
+      "fetched": "2026-09-21T16:25:29.527136+07:00"
+    },
+    {
+      "id": "c159659ed441af2d5ef6faba027b541a",
+      "title": "GDP Iran giảm hơn 10% trong chiến sự",
+      "link": "https://vnexpress.net/gdp-iran-giam-hon-10-trong-chien-su-5122909.html",
+      "summary": "Quy mô nền kinh tế Iran suy giảm đáng kể trong giai đoạn 3 tháng đầu sau khi xung đột Trung Đông nổ ra.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-21T08:45:00+07:00",
+      "fetched": "2026-09-21T16:25:29.527317+07:00"
+    },
+    {
+      "id": "30b4c22017d821c78c4c27343dd96d8a",
+      "title": "Phó chủ tịch Apple nói 'nổi da gà' khi thấy iPhone dán cường lực",
+      "link": "https://vnexpress.net/pho-chu-tich-apple-noi-noi-da-ga-khi-thay-iphone-dan-cuong-luc-5122766.html",
+      "summary": "Tom Marieb, Phó chủ tịch phụ trách kỹ thuật phần cứng mới của Apple, cho rằng người dùng iPhone không cần trang bị thêm miếng dán cường lực bảo vệ màn hình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T08:00:00+07:00",
+      "fetched": "2026-09-21T16:25:12.156309+07:00"
+    },
+    {
+      "id": "cccf66dbcfd3e00e9c2d49319c059cca",
+      "title": "Chất công nghệ tạo nét riêng cho Lynk &amp; Co 08",
+      "link": "https://vnexpress.net/chat-cong-nghe-tao-net-rieng-cho-lynk-co-08-5122890.html",
+      "summary": "Mang đến lựa chọn mới cho thị trường, mẫu SUV cao cấp của Lynk & Co mở ra trải nghiệm mới mẻ nhờ nền tảng công nghệ EM-P Super Hybrid và loạt tính năng thông minh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T08:00:00+07:00",
+      "fetched": "2026-09-21T16:25:12.156543+07:00"
+    },
+    {
+      "id": "eb9476f45cb3e58b05275319e4c62c5e",
+      "title": "Chiều cao của trẻ thay đổi thế nào qua từng giai đoạn",
+      "link": "https://vnexpress.net/chieu-cao-cua-tre-thay-doi-the-nao-qua-tung-giai-doan-5122800.html",
+      "summary": "Trẻ có thể cao thêm khoảng 25 cm trong năm đầu đời, sau đó tốc độ phát triển chậm dần, tăng nhanh trở lại khi dậy thì rồi đạt chiều cao trưởng thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T08:00:00+07:00",
+      "fetched": "2026-09-21T16:25:12.156723+07:00"
+    },
+    {
+      "id": "6600713100e93afcf51a7efb3c45a147",
+      "title": "Cholesterol cao lâu ngày gây hại cơ thể thế nào",
+      "link": "https://vnexpress.net/cholesterol-cao-lau-ngay-gay-hai-co-the-the-nao-5122739.html",
+      "summary": "Cholesterol cao kéo dài có thể thúc đẩy hình thành mảng xơ vữa, làm hẹp động mạch, cản trở lưu thông máu và tăng nguy cơ bệnh tim, đột quỵ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T08:00:00+07:00",
+      "fetched": "2026-09-21T16:25:12.156889+07:00"
+    },
+    {
+      "id": "30b4c22017d821c78c4c27343dd96d8a",
+      "title": "Phó chủ tịch Apple nói 'nổi da gà' khi thấy iPhone dán cường lực",
+      "link": "https://vnexpress.net/pho-chu-tich-apple-noi-noi-da-ga-khi-thay-iphone-dan-cuong-luc-5122766.html",
+      "summary": "Tom Marieb, Phó chủ tịch phụ trách kỹ thuật phần cứng mới của Apple, cho rằng người dùng iPhone không cần trang bị thêm miếng dán cường lực bảo vệ màn hình.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-21T08:00:00+07:00",
+      "fetched": "2026-09-21T16:25:31.568435+07:00"
+    },
+    {
+      "id": "b928cfa7b43f5062547298396af7aac2",
+      "title": "Mỗi lượng vàng giảm một triệu đồng",
+      "link": "https://vnexpress.net/moi-luong-vang-giam-mot-trieu-dong-5122889.html",
+      "summary": "Giá vàng miếng trong nước giảm một triệu đồng, xuống vùng 146 triệu mỗi lượng, chênh lệch với thế giới neo quanh 9 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T07:53:48+07:00",
+      "fetched": "2026-09-21T16:25:12.157055+07:00"
+    },
+    {
+      "id": "b928cfa7b43f5062547298396af7aac2",
+      "title": "Mỗi lượng vàng giảm một triệu đồng",
+      "link": "https://vnexpress.net/moi-luong-vang-giam-mot-trieu-dong-5122889.html",
+      "summary": "Giá vàng miếng trong nước giảm một triệu đồng, xuống vùng 146 triệu mỗi lượng, chênh lệch với thế giới neo quanh 9 triệu đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-21T07:53:48+07:00",
+      "fetched": "2026-09-21T16:25:29.527507+07:00"
+    },
+    {
+      "id": "8129e2a7f834069bb01b228340055963",
+      "title": "Mỹ nữ cổ trang tặng iPhone 18 Pro Max cho cả êkíp",
+      "link": "https://vnexpress.net/my-nu-co-trang-tang-iphone-18-pro-max-cho-ca-ekip-5122865.html",
+      "summary": "Bạch Lộc, mỹ nhân dòng phim cổ trang Trung Quốc, mua iPhone 18 Pro Max tặng toàn bộ nhân viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T07:51:27+07:00",
+      "fetched": "2026-09-21T16:25:12.157217+07:00"
+    },
+    {
+      "id": "45ab570e57d0bf0219431e3826bd8522",
+      "title": "Thứ trưởng Khoa học và Công nghệ: Cần sớm hoàn thiện pháp lý để triển khai điện hạt nhân",
+      "link": "https://vnexpress.net/thu-truong-khoa-hoc-va-cong-nghe-can-som-hoan-thien-phap-ly-de-trien-khai-dien-hat-nhan-5122869.html",
+      "summary": "Việt Nam cần sớm hoàn thiện hành lang pháp lý, đào tạo nhân lực và phát triển công nghiệp hỗ trợ để triển khai chương trình điện hạt nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T07:50:12+07:00",
+      "fetched": "2026-09-21T16:25:12.157381+07:00"
+    },
+    {
+      "id": "2e82504a8570c733aa8093a2f3f2931f",
+      "title": "Thứ trưởng Lê Xuân Định: Cần sớm hoàn thiện pháp lý để triển khai điện hạt nhân",
+      "link": "https://vnexpress.net/thu-truong-le-xuan-dinh-can-som-hoan-thien-phap-ly-de-trien-khai-dien-hat-nhan-5122869.html",
+      "summary": "Theo Thứ trưởng Khoa học và Công nghệ Lê Xuân Định, Việt Nam cần sớm hoàn thiện hành lang pháp lý, đào tạo nhân lực và phát triển công nghiệp hỗ trợ để triển khai chương trình điện hạt nhân.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-21T07:50:12+07:00",
+      "fetched": "2026-09-21T16:25:29.527675+07:00"
+    },
+    {
+      "id": "8ff946fc380b1526701d3cfad53b41d6",
+      "title": "Du khách Nga bị trục xuất khỏi Việt Nam vì lái xe nguy hiểm",
+      "link": "https://vnexpress.net/du-khach-nga-bi-truc-xuat-khoi-viet-nam-vi-lai-xe-nguy-hiem-5122873.html",
+      "summary": "Du khách Nga 35 tuổi bị phạt 30 triệu đồng và trục xuất khỏi Việt Nam sau khi nhiều lần quỳ trên yên xe máy khi tham gia giao thông và đăng video lên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T07:48:00+07:00",
+      "fetched": "2026-09-21T16:25:12.157565+07:00"
+    },
+    {
+      "id": "17a6fde53ca270b8d2a0b599cd7016a2",
+      "title": "Mua tượng 'vàng nguyên chất' từ phiên đấu giá tài sản công, về nhà phát hiện là đồng",
+      "link": "https://vnexpress.net/mua-tuong-vang-nguyen-chat-tu-phien-dau-gia-tai-san-cong-ve-nha-phat-hien-la-dong-5122789.html",
+      "summary": "Tượng Quan Âm 2 kg có giấy kiểm định vàng 24K được ông Khâu mua đấu giá 845.100 tệ (3,3 tỷ đồng), nhưng khi mang về nhà phát hiện gần 80% là đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T07:47:55+07:00",
+      "fetched": "2026-09-21T16:25:12.157725+07:00"
+    },
+    {
+      "id": "44f75ab55238636f2b83f886e52ee58c",
+      "title": "Đề xuất 372 loại bệnh được kê đơn thuốc ngoại trú tối đa 90 ngày",
+      "link": "https://vnexpress.net/de-xuat-372-loai-benh-duoc-ke-don-thuoc-ngoai-tru-toi-da-90-ngay-5122852.html",
+      "summary": "Bộ Y tế đề xuất mở rộng danh mục từ 252 lên 372 bệnh được kê thuốc ngoại trú tối đa 90 ngày thay vì 30 ngày như hiện tại, nhằm giảm khó khăn cho bệnh nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T07:47:10+07:00",
+      "fetched": "2026-09-21T16:25:12.157910+07:00"
+    },
+    {
+      "id": "d5e3bfc9a161364ac86ef47f88c7df59",
+      "title": "Nhà thờ đổ Hải Lý là chứng tích biến đổi khí hậu",
+      "link": "https://vnexpress.net/nha-tho-do-hai-ly-la-chung-tich-bien-doi-khi-hau-5122807.html",
+      "summary": "Nhà thờ đổ Hải Lý với tháp chuông đứng sát mép sóng vừa được UBND tỉnh Ninh Bình công nhận Điểm du lịch Khu chứng tích biến đổi khí hậu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T07:43:36+07:00",
+      "fetched": "2026-09-21T16:25:12.158067+07:00"
+    },
+    {
+      "id": "e1382927f2d5675ca8f71172fbd6daca",
+      "title": "Tôi tránh thân thiết với bố mẹ chồng, sợ 'họa từ miệng mà ra'",
+      "link": "https://vnexpress.net/toi-tranh-than-thiet-voi-bo-me-chong-so-hoa-tu-mieng-ma-ra-5122844.html",
+      "summary": "Về nhà chồng, tôi luôn niệm Phật nam mô, không được nói nhiều tránh vạ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T07:36:56+07:00",
+      "fetched": "2026-09-21T16:25:12.158223+07:00"
+    },
+    {
+      "id": "4bb75d36c592476ece8abab2ca9fb12f",
+      "title": "Nhờ cả nhà đứng tên đất, Mercedes, vàng từ vụ chiếm đoạt 115 tỷ đồng",
+      "link": "https://vnexpress.net/nho-ca-nha-dung-ten-dat-mercedes-vang-tu-vu-chiem-doat-115-ty-dong-5122837.html",
+      "summary": "Nguyễn Trung Kiên bị cáo buộc dùng tiền từ vụ chiếm đoạt gần 115 tỷ đồng mua đất, Mercedes, vàng rồi nhờ cha mẹ, chị gái, cậu mợ đứng tên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T07:34:50+07:00",
+      "fetched": "2026-09-21T16:25:12.158380+07:00"
+    },
+    {
+      "id": "972d63f9830ec679a5dc2ce1dc557261",
+      "title": "Bác sĩ Việt - Trung hợp tác hội chẩn điều trị ung thư từ xa",
+      "link": "https://vnexpress.net/bac-si-viet-trung-hop-tac-hoi-chan-dieu-tri-ung-thu-tu-xa-5122144.html",
+      "summary": "Các bác sĩ Việt Nam và Trung Quốc trao đổi chuyên môn, xây dựng mạng lưới hội chẩn từ xa và tư vấn ý kiến thứ hai cho bệnh nhân ung thư tại diễn đàn ở Phật Sơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T07:30:00+07:00",
+      "fetched": "2026-09-21T16:25:12.158594+07:00"
+    },
+    {
+      "id": "57df2c0ed17ec19c1d4b5c813abbbafb",
+      "title": "Phó thủ tướng: Nghiên cứu thuế chống đầu cơ đất",
+      "link": "https://vnexpress.net/pho-thu-tuong-nghien-cuu-thue-chong-dau-co-dat-5122870.html",
+      "summary": "Phó thủ tướng Hồ Quốc Dũng đề nghị nghiên cứu nguyên tắc áp dụng thuế để hạn chế đầu cơ, găm giữ đất và xử lý trường hợp được giao đất nhưng bỏ hoang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T07:29:35+07:00",
+      "fetched": "2026-09-21T16:25:12.158780+07:00"
+    },
+    {
+      "id": "04c70d9f5e2d69a3faba40fc146eeeb9",
+      "title": "Ông Trump sẽ gặp loạt lãnh đạo nước ngoài bên lề Đại hội đồng LHQ",
+      "link": "https://vnexpress.net/ong-trump-se-gap-loat-lanh-dao-nuoc-ngoai-ben-le-dai-hoi-dong-lhq-5122825.html",
+      "summary": "Tổng thống Trump sẽ gặp song phương nhiều lãnh đạo nước ngoài trong hai ngày tham dự phiên họp Đại hội đồng LHQ ở New York.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-21T07:27:17+07:00",
+      "fetched": "2026-09-21T16:25:28.148506+07:00"
+    },
+    {
+      "id": "710486c5546d3095b5b4e9b08384264e",
+      "title": "Vì sao HLV Maresca bật nhạc house trên sân tập Man City?",
+      "link": "https://vnexpress.net/vi-sao-hlv-maresca-bat-nhac-house-tren-san-tap-man-city-5122887.html",
+      "summary": "Bên cạnh những giáo án chiến thuật, tân HLV Man City Enzo Maresca còn dùng nhạc house để lên dây cót tinh thần cho các học trò mỗi khi bước ra sân tập.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-21T07:23:13+07:00",
+      "fetched": "2026-09-21T16:25:32.437262+07:00"
+    },
+    {
+      "id": "31e2de99caa89b524688c2e25f580782",
+      "title": "Trận thua Atletico và cơn đau đầu cho Mourinho",
+      "link": "https://vnexpress.net/tran-thua-atletico-va-con-dau-dau-cho-mourinho-5122862.html",
+      "summary": "Bên cạnh những ồn ào về trọng tài, Real thực ra đã không có chiến thuật tốt trước Atletico ở vòng 7 La Liga. Thất bại 1-2 thậm chí khoét sâu hơn vào vấn đề vị trí của Vinicius và Kylian Mbappe.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-21T07:17:14+07:00",
+      "fetched": "2026-09-21T16:25:32.437439+07:00"
+    },
+    {
+      "id": "2a4dce2e7d8f08f3c9bfcc817aa0d541",
+      "title": "Botswana sẽ giết thịt 23 con voi mừng quốc khánh",
+      "link": "https://vnexpress.net/botswana-se-giet-thit-23-con-voi-mung-quoc-khanh-5122824.html",
+      "summary": "Chính phủ Botswana cho phép săn bắn và xẻ thịt 23 con voi cùng hàng chục động vật hoang dã để cung cấp thịt cho đại tiệc mừng quốc khánh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-21T07:05:59+07:00",
+      "fetched": "2026-09-21T16:25:28.148692+07:00"
+    },
+    {
+      "id": "36dd46123df26269246e3d6f0746d416",
+      "title": "Nga có thể sắp tăng gần gấp đôi sản lượng UAV Geran",
+      "link": "https://vnexpress.net/nga-co-the-sap-tang-gan-gap-doi-san-luong-uav-geran-5122774.html",
+      "summary": "Nga dự tính mở rộng quy mô nhà máy chế tạo sợi carbon cấp độ quân sự, cho phép tăng gần gấp đôi lượng UAV Geran xuất xưởng hàng năm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-21T06:55:53+07:00",
+      "fetched": "2026-09-21T16:25:28.148857+07:00"
+    },
+    {
+      "id": "fa2f72b94d450590dda6779ea56db73d",
+      "title": "Jensen Huang: 'Khả năng AI gây tận thế năm 2030 là 0%'",
+      "link": "https://vnexpress.net/jensen-huang-kha-nang-ai-gay-tan-the-nam-2030-la-0-5122815.html",
+      "summary": "Jensen Huang, CEO Nvidia, phản bác cảnh báo từ giới nghiên cứu AI rằng công nghệ này có thể khiến nhân loại diệt vong trong vài năm tới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-21T06:50:00+07:00",
+      "fetched": "2026-09-21T16:25:31.568648+07:00"
+    },
+    {
+      "id": "d1f8028e57f692e5713270fb8a76043f",
+      "title": "Đề xuất Nhà nước bù đắp chi phí nếu giá điện chưa được điều chỉnh kịp thời",
+      "link": "https://vnexpress.net/de-xuat-nha-nuoc-bu-dap-chi-phi-neu-gia-dien-chua-duoc-dieu-chinh-kip-thoi-5122853.html",
+      "summary": "Chính phủ đề xuất Nhà nước bù chi phí khi giá điện chưa kịp điều chỉnh, song cơ quan thẩm tra yêu cầu làm rõ nguồn và cách thức thực hiện.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-21T06:20:10+07:00",
+      "fetched": "2026-09-21T16:25:29.527835+07:00"
+    },
+    {
+      "id": "8562dd34e66a09e5032291358c2d360b",
+      "title": "Triển vọng lãi suất toàn cầu sắp tới ra sao?",
+      "link": "https://vnexpress.net/trien-vong-lai-suat-toan-cau-sap-toi-ra-sao-5122795.html",
+      "summary": "Triển vọng điều chỉnh lãi suất toàn cầu dần hiện rõ, khi nhiều ngân hàng trung ương lớn đã hành động, còn một số phát tín hiệu nối gót.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-21T05:05:00+07:00",
+      "fetched": "2026-09-21T16:25:29.527993+07:00"
+    },
+    {
+      "id": "ee7802a19855ec34473444fb0380ab7a",
+      "title": "8 điểm nhấn vòng 5 Ngoại hạng Anh",
+      "link": "https://vnexpress.net/8-diem-nhan-vong-5-ngoai-hang-anh-5122556.html",
+      "summary": "HLV Michael Carrick đối mặt bài toàn khó ở Man Utd, Chelsea, Arsenal cùng thảm bại, Tottenham tiếp tục chìm trong khủng hoảng thuộc danh sách điểm nhấn tại Ngoại hạng Anh cuối tuần qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-21T05:00:00+07:00",
+      "fetched": "2026-09-21T16:25:32.437633+07:00"
+    },
+    {
+      "id": "b78a8313dede40d897cb0c31703f5277",
+      "title": "Hai runner Việt Nam hoàn thành giải ultra trail 330km TOR De Geants",
+      "link": "https://vnexpress.net/hai-runner-viet-nam-hoan-thanh-giai-ultra-trail-330km-tor-de-geants-5122349.html",
+      "summary": "Hai runner Lê Thị Hằng và Lưu Đức Toản đã hoàn thành quãng đường 330 km tại giải TOR De Geants với thành tích hơn 138 giờ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-21T04:52:42+07:00",
+      "fetched": "2026-09-21T16:25:32.438592+07:00"
+    },
+    {
+      "id": "a8c81845602c95213ca748d796f0466f",
+      "title": "Nữ Việt Nam - Thái Lan: Cơ hội lách khe cửa hẹp ở ASIAD 2026",
+      "link": "https://vnexpress.net/nu-viet-nam-thai-lan-co-hoi-lach-khe-cua-hep-o-asiad-2026-5122777.html",
+      "summary": "Để vào tứ kết bóng đá nữ ASIAD 2026, chiều nay thầy trò HLV Hoàng Văn Phúc cần thắng Thái Lan với cách biệt đủ lớn nhằm tìm vé vớt cho đội thứ ba có thành tích tốt nhất.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-21T04:40:50+07:00",
+      "fetched": "2026-09-21T16:25:32.437793+07:00"
+    },
+    {
+      "id": "569f472cfc8b66ca0f35d50295c796c5",
+      "title": "'Ngôi sao bán dẫn Trung Quốc' sản xuất hàng loạt DRAM thế hệ 5",
+      "link": "https://vnexpress.net/ngoi-sao-ban-dan-trung-quoc-san-xuat-hang-loat-dram-the-he-5-5122672.html",
+      "summary": "CXMT tuyên bố đã \"thu hẹp khoảng cách\" với những nhà sản xuất chip nhớ DRAM hàng đầu thế giới khi ra mắt hai mẫu LPDDR5X.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-21T04:14:16+07:00",
+      "fetched": "2026-09-21T16:25:31.568827+07:00"
+    },
+    {
+      "id": "a557a251f31b61accc1a381309091eba",
+      "title": "Nhà sư rải nước thánh từ máy bay để cầu mưa",
+      "link": "https://vnexpress.net/nha-su-rai-nuoc-thanh-tu-may-bay-de-cau-mua-5122674.html",
+      "summary": "Nhóm nhà sư được chở bằng máy bay quân sự để cầu nguyện và rải nước thánh cầu mưa cho những vùng hạn hán tại quốc gia Nam Á.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-21T04:08:33+07:00",
+      "fetched": "2026-09-21T16:25:28.149017+07:00"
+    },
+    {
+      "id": "0f44b5cb127a34cc0c7996471baee085",
+      "title": "Người Việt có 4,1 tỷ bưu gửi một năm",
+      "link": "https://vnexpress.net/nguoi-viet-co-4-1-ty-buu-gui-mot-nam-5122517.html",
+      "summary": "So với khi Luật Bưu chính được ban hành năm 2010, sản lượng bưu gửi tại Việt Nam tăng từ 330 triệu lên hơn 4,1 tỷ mỗi năm, đặt ra nhu cầu sửa đổi luật để phù hợp sự phát triển của ngành.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-21T03:47:33+07:00",
+      "fetched": "2026-09-21T16:25:31.569311+07:00"
+    },
+    {
+      "id": "914c3f829e97a433734ef64cc511d2d5",
+      "title": "Những vấn đề có thể đốt nóng thượng đỉnh Mỹ - Trung",
+      "link": "https://vnexpress.net/nhung-van-de-co-the-dot-nong-thuong-dinh-my-trung-5122133.html",
+      "summary": "Thương mại, AI và xung đột Iran dự kiến phủ bóng cuộc gặp thượng đỉnh Mỹ - Trung, khi hai nền kinh tế lớn nhất thế giới tìm cách duy trì ổn định quan hệ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-21T03:29:58+07:00",
+      "fetched": "2026-09-21T16:25:28.149176+07:00"
+    },
+    {
+      "id": "f906189fe227237b7a6ada13ec73fa64",
+      "title": "Nổ lớn tại căn cứ ở miền bắc Syria",
+      "link": "https://vnexpress.net/no-lon-tai-can-cu-o-mien-bac-syria-5122670.html",
+      "summary": "Một vụ nổ lớn xảy ra tại địa điểm được cho là kho đạn trong căn cứ quân sự ở tỉnh Aleppo, miền bắc Syria.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-21T03:29:49+07:00",
+      "fetched": "2026-09-21T16:25:28.149340+07:00"
+    },
+    {
       "id": "2128ac0e8f47abcec4220bb6c4789065",
       "title": "Thua Atletico Madrid, Real Madrid đã kém Barca 6 điểm ở La Liga",
       "link": "https://tuoitre.vn/thua-atletico-madrid-real-madrid-da-kem-barca-6-diem-o-la-liga-100260920112540831.htm",
@@ -261,6 +771,16 @@ window.newsData_2026_09_21 = {
       "category": "Tổng hợp",
       "published": "2026-09-21T02:08:00+07:00",
       "fetched": "2026-09-21T09:22:22.304443+07:00"
+    },
+    {
+      "id": "77d35251d02038a4d1147e23b49ab461",
+      "title": "Thủ tướng Đức thừa nhận kết quả bầu cử 'thảm họa'",
+      "link": "https://vnexpress.net/thu-tuong-duc-thua-nhan-ket-qua-bau-cu-tham-hoa-5122613.html",
+      "summary": "Thủ tướng Đức Friedrich Merz gọi kết quả bầu cử bang Mecklenburg-Vorpommern là \"thảm họa\", sau khi CDU chỉ đạt được 5% phiếu còn phe cực hữu dẫn đầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-21T02:06:15+07:00",
+      "fetched": "2026-09-21T16:25:28.149523+07:00"
     },
     {
       "id": "4df0407ca9350970e044bd656997da75",
