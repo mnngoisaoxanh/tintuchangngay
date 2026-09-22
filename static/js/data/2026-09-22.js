@@ -1,7 +1,157 @@
 window.newsData_2026_09_22 = {
   "date": "2026-09-22",
-  "lastUpdated": "2026-09-22T04:24:38.616066+07:00",
+  "lastUpdated": "2026-09-22T07:23:59.313832+07:00",
   "articles": [
+    {
+      "id": "5fe9d4de79d1658886dd0d0bf69324fb",
+      "title": "Lịch thi đấu tứ kết bóng đá nữ Asiad 20",
+      "link": "https://tuoitre.vn/lich-thi-dau-tu-ket-bong-da-nu-asiad-20-100260921204224122.htm",
+      "summary": "Sau khi các trận đấu vòng bảng kết thúc, môn bóng đá nữ Asiad 20 đã xác định được 8 đội vào tứ kết và lịch thi đấu cụ thể.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T07:23:52.109474+07:00",
+      "fetched": "2026-09-22T07:23:52.109518+07:00"
+    },
+    {
+      "id": "3ef2615524f8c77f647901945dafe790",
+      "title": "Lịch thi đấu bóng chuyền nữ Asiad 20 ngày 22-9: Chung kết Nhật Bản - Trung Quốc",
+      "link": "https://tuoitre.vn/lich-thi-dau-bong-chuyen-nu-asiad-20-ngay-22-9-chung-ket-nhat-ban-trung-quoc-100260921203318995.htm",
+      "summary": "Tâm điểm lịch thi đấu bóng chuyền nữ Asiad 20 ngày 22-9 là trận chung kết giữa chủ nhà Nhật Bản và Trung Quốc lúc 17h20.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T07:23:52.109425+07:00",
+      "fetched": "2026-09-22T07:23:52.109467+07:00"
+    },
+    {
+      "id": "280c4db28668c6f89ef9cbe916137d5b",
+      "title": "Thời tiết hôm nay 22-9: Nắng nóng trở lại Bắc Bộ, Nam Bộ mưa rất to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-22-9-nang-nong-tro-lai-bac-bo-nam-bo-mua-rat-to-100260921182344731.htm",
+      "summary": "Hôm nay 22-9, nắng nóng quay lại Bắc Bộ sau chuỗi ngày dài mưa gió. Nam Bộ mưa dông, chiều tối mưa to đến rất to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T07:23:52.109374+07:00",
+      "fetched": "2026-09-22T07:23:52.109417+07:00"
+    },
+    {
+      "id": "2cd0f1e5dad5e4dc6aeafc8b0754f640",
+      "title": "Lịch thi đấu Asiad ngày 22-9 của đoàn Việt Nam: Chờ HCV đầu tiên",
+      "link": "https://tuoitre.vn/lich-thi-dau-asiad-ngay-22-9-cua-doan-viet-nam-cho-hcv-dau-tien-100260921195012419.htm",
+      "summary": "Ngày 22-9, cũng là ngày thi đấu chính thức thứ ba của Asiad Aichi-Nagoya 2026, nhiều VĐV Việt Nam được dự đoán sẽ giành huy chương, thậm chí là huy chương vàng (HCV).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T07:23:52.109323+07:00",
+      "fetched": "2026-09-22T07:23:52.109367+07:00"
+    },
+    {
+      "id": "a0c959e5a4b1ab4f4ffcb09d7ac3d3b9",
+      "title": "Hiệp định thương mại đối ứng Việt - Mỹ đã 'đến rất gần kết quả cuối cùng'",
+      "link": "https://tuoitre.vn/hiep-dinh-thuong-mai-doi-ung-viet-my-da-den-rat-gan-ket-qua-cuoi-cung-100260922044548059.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm khẳng định Việt Nam đã nỗ lực thúc đẩy hợp tác, mua hàng hóa từ Mỹ nhằm thúc đẩy quan hệ thương mại theo hướng cân bằng hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T07:23:52.109271+07:00",
+      "fetched": "2026-09-22T07:23:52.109315+07:00"
+    },
+    {
+      "id": "cf39fc6481db0e12b266a0fa1fd98b5e",
+      "title": "Tin tức sáng 22-9: Thế Giới Di Động sắp chi thêm khoảng 1.500 tỉ trả cổ tức",
+      "link": "https://tuoitre.vn/tin-tuc-sang-22-9-the-gioi-di-dong-sap-chi-them-khoang-1500-ti-tra-co-tuc-100260921195457277.htm",
+      "summary": "Một số tin tức về TP.HCM đáng chú ý: Ra quy chế tổ chức và hoạt động của Ủy ban Trẻ em TP.HCM; Triển khai quy định về lập danh mục các thửa đất nhỏ hẹp, nằm xen kẹt; TP quản lý 4.427 tàu cá, 100% được gắn 'căn cước công dân'; 200 phần quà tổng trị giá 100 triệu đồng dành cho hành khách đi xe buýt...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T07:23:52.109220+07:00",
+      "fetched": "2026-09-22T07:23:52.109263+07:00"
+    },
+    {
+      "id": "a54c025a23a5f3972a3dcd4ddb33a1c4",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp nhóm hạ nghị sĩ liên bang và lãnh đạo Đảng Cộng sản Mỹ",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-nhom-ha-nghi-si-lien-bang-va-lanh-dao-dang-cong-san-my-100260922052341819.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị nhóm nghị sĩ tiếp tục ủng hộ quan hệ Việt Nam - Mỹ và mời lãnh đạo Đảng Cộng sản Mỹ sang thăm vào thời điểm phù hợp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T07:23:52.109166+07:00",
+      "fetched": "2026-09-22T07:23:52.109212+07:00"
+    },
+    {
+      "id": "6eadc1d7cbf328bfe68bdedacc44a52d",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm: Đảng, Nhà nước tôn trọng quyết định về hay ở lại của chuyên gia, trí thức kiều bào",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-dang-nha-nuoc-ton-trong-quyet-dinh-ve-hay-o-lai-cua-chuyen-gia-tri-thuc-kieu-bao-100260922011228949.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm nhấn mạnh việc trở về hay tiếp tục làm việc ở nước ngoài là lựa chọn gắn với nghề nghiệp, gia đình và hoàn cảnh của mỗi chuyên gia, trí thức kiều bào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T07:23:52.109111+07:00",
+      "fetched": "2026-09-22T07:23:52.109158+07:00"
+    },
+    {
+      "id": "a830a91f966e0e28b92f87a2f23e9175",
+      "title": "Lịch trực tiếp bóng đá nam Asiad 20: U23 Việt Nam đấu U23 Uzbekistan",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-nam-asiad-20-u23-viet-nam-dau-u23-uzbekistan-100260921132804815.htm",
+      "summary": "Lúc 12h ngày 22-9, U23 Việt Nam sẽ đối đầu U23 Uzbekistan ở lượt cuối bảng C môn bóng đá nam Asiad 20.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T07:23:52.109054+07:00",
+      "fetched": "2026-09-22T07:23:52.109102+07:00"
+    },
+    {
+      "id": "3862b790473850dac79e34fab7e12213",
+      "title": "Dự đoán tỉ số Asiad: U23 Việt Nam giành kết quả vừa đủ trước U23 Uzbekistan",
+      "link": "https://tuoitre.vn/du-doan-ti-so-asiad-u23-viet-nam-gianh-ket-qua-vua-du-truoc-u23-uzbekistan-100260921110129046.htm",
+      "summary": "12h ngày 22-9 (giờ Việt Nam), U23 Việt Nam sẽ bước vào lượt đấu cuối cùng của bảng C, môn bóng đá nam Asiad 2026 - chạm trán đội đầu bảng U23 Uzbekistan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T07:23:52.108998+07:00",
+      "fetched": "2026-09-22T07:23:52.109047+07:00"
+    },
+    {
+      "id": "768fabda6a4faa1169ea06942b2e7756",
+      "title": "Cú sốc với đội tuyển Thụy Sĩ",
+      "link": "https://tuoitre.vn/cu-soc-voi-doi-tuyen-thuy-si-100260922061237129.htm",
+      "summary": "Đội trưởng tuyển Thụy Sĩ Granit Xhaka tuyên bố rút khỏi danh sách tập trung của đội tuyển quốc gia vì bê bối cách đây nhiều năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T07:23:52.108939+07:00",
+      "fetched": "2026-09-22T07:23:52.108989+07:00"
+    },
+    {
+      "id": "b2c07116732ea951ec848af8a6e107ae",
+      "title": "Hướng tới 4 tỉ USD thương mại Việt Nam - Thổ Nhĩ Kỳ",
+      "link": "https://tuoitre.vn/huong-toi-4-ti-usd-thuong-mai-viet-nam-tho-nhi-ky-100260922054657119.htm",
+      "summary": "Tại cuộc gặp, Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị hạn chế rào cản thương mại, mở rộng hợp tác trong các lĩnh vực chiến lược và tiềm năng như công nghiệp quốc phòng, an ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T07:23:52.108879+07:00",
+      "fetched": "2026-09-22T07:23:52.108931+07:00"
+    },
+    {
+      "id": "6cf818e84880070d89f6a67ff6412fc1",
+      "title": "Emoura Phạm mang câu chuyện xây 100 cây cầu dân sinh đến Miss Grand International",
+      "link": "https://tuoitre.vn/emoura-pham-mang-cau-chuyen-xay-100-cay-cau-dan-sinh-den-miss-grand-international-100260922060253043.htm",
+      "summary": "Đại diện Việt Nam Emoura Phạm kể câu chuyện gia đình xây 100 cây cầu dân sinh ở Đồng bằng sông Cửu Long trong những ngày đầu nhập cuộc Miss Grand International 2026, bên cạnh màn ứng xử thay đổi nước đăng cai gây chú ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T07:23:52.108816+07:00",
+      "fetched": "2026-09-22T07:23:52.108870+07:00"
+    },
+    {
+      "id": "a26447bb96518157afa38fea92b584ff",
+      "title": "Tin tức thế giới 22-9: Mỹ sắp mở 2 căn cứ quân sự tại Greenland; Ông Trump bị 3 báo kiện",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-22-9-my-sap-mo-2-can-cu-quan-su-tai-greenland-ong-trump-bi-3-bao-kien-100260922064637512.htm",
+      "summary": "Mỹ sắp mở hai căn cứ quân sự tại Greenland; Ông Trump khen nức nở thị trưởng New York; Triều Tiên thử nghiệm vũ khí mới; Hàng trăm chuyến bay ở Mỹ bị hủy do sự cố viễn thông... là những tin tức thế giới đáng chú ý sáng 22-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T07:23:52.108741+07:00",
+      "fetched": "2026-09-22T07:23:52.108807+07:00"
+    },
+    {
+      "id": "f1ec72b9b7f92323edd2bfce1e0e6b9c",
+      "title": "Trực tiếp ngày thi đấu 22-9 của Asiad 20",
+      "link": "https://tuoitre.vn/truc-tiep-ngay-thi-dau-22-9-cua-asiad-20-100260921194350532.htm",
+      "summary": "Báo Tuổi Trẻ cập nhật kết quả, huy chương của đoàn thể thao Việt Nam và các nước trong ngày thi đấu 22-9 của Asiad 20.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T07:23:52.108563+07:00",
+      "fetched": "2026-09-22T07:23:52.108728+07:00"
+    },
     {
       "id": "84c1757d0c2f395c13352faf9803a415",
       "title": "Đã gỡ vướng hơn 3.400 dự án tồn đọng cả nước, riêng TP.HCM thông suốt 650 dự án",
@@ -151,6 +301,256 @@ window.newsData_2026_09_22 = {
       "category": "Tổng hợp",
       "published": "2026-09-22T04:24:30.759314+07:00",
       "fetched": "2026-09-22T04:24:30.759454+07:00"
+    },
+    {
+      "id": "7c8c97ec09e874dddc78a2fb05e41abe",
+      "title": "Việt Nam - Thổ Nhĩ Kỳ hướng tới sớm nâng cấp khuôn khổ quan hệ",
+      "link": "https://thanhnien.vn/viet-nam-tho-nhi-ky-huong-toi-som-nang-cap-khuon-kho-quan-he-185260922065050647.htm",
+      "summary": "Ngày 21.9 (theo giờ địa phương), Tổng Bí thư, Chủ tịch nước Tô Lâm đã có cuộc gặp song phương với Tổng thống Thổ Nhĩ Kỳ Recep Tayyip Erdogan. Tại cuộc gặp, hai nhà lãnh đạo bày tỏ vui mừng về sự phát triển tốt đẹp của quan hệ song phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T00:14:00+07:00",
+      "fetched": "2026-09-22T07:23:50.110062+07:00"
+    },
+    {
+      "id": "82743a8744bf98f4f121684a4701641b",
+      "title": "Siết quy định minh bạch thành phần với sản phẩm làm đẹp",
+      "link": "https://thanhnien.vn/siet-quy-dinh-minh-bach-thanh-phan-voi-san-pham-lam-dep-185260921203041624.htm",
+      "summary": "Yếu tố tuân thủ các quy định, minh bạch thông tin và khả năng truy xuất nguồn gốc các sản phẩm mỹ phẩm làm đẹp đang được quy định khắt khe hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T00:04:00+07:00",
+      "fetched": "2026-09-22T07:23:50.110216+07:00"
+    },
+    {
+      "id": "3a637fb9c6f181d07de58f87a0471aea",
+      "title": "Anh ủng hộ hạn chế quyền phủ quyết tại Hội đồng Bảo an",
+      "link": "https://vnexpress.net/anh-ung-ho-han-che-quyen-phu-quyet-tai-hoi-dong-bao-an-5123099.html",
+      "summary": "Anh tham gia sáng kiến kêu gọi thành viên thường trực Hội đồng Bảo an không dùng quyền phủ quyết với những vấn đề liên quan tới \"tội ác hàng loạt\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-22T00:02:36+07:00",
+      "fetched": "2026-09-22T07:23:53.094360+07:00"
+    },
+    {
+      "id": "7588673664e024dd6a0119de9f7763d4",
+      "title": "Quán bánh không biển hiệu ở Huế, cụ bà 81 tuổi phải treo bảng 'hết bánh' để giảm người vào",
+      "link": "https://thanhnien.vn/quan-banh-khong-bien-hieu-o-hue-cu-ba-81-tuoi-phai-treo-bang-het-banh-de-giam-nguoi-vao-185260921210214136.htm",
+      "summary": "Nằm sâu trong kiệt 104 đường Kim Long, thành phố Huế, quán bánh Huế có tên O Lé thu hút rất đông du khách. Họ không chỉ tìm đến đây bởi hương vị mà còn vì không gian nhà vườn mộc mạc, bình dị hiếm có.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T00:02:00+07:00",
+      "fetched": "2026-09-22T07:23:50.110353+07:00"
+    },
+    {
+      "id": "bbc1bbb00c17b0e2cf72b0700b651533",
+      "title": "Trực tiếp ASIAD 2026 hôm nay: Chờ tin vui từ karate, kỳ vọng có vàng!",
+      "link": "https://thanhnien.vn/truc-tiep-asiad-2026-hom-nay-cho-tin-vui-tu-karate-ky-vong-co-vang-185260922060210936.htm",
+      "summary": "Hôm nay, đoàn thể thao Việt Nam thi đấu 11 môn tại ASIAD 20 ở Nhật Bản, hy vọng vào vào các môn karate, xe đạp, wushu",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T00:01:00+07:00",
+      "fetched": "2026-09-22T07:23:50.110485+07:00"
+    },
+    {
+      "id": "d4abfe8d8c94bb2d1d9934f82534f75b",
+      "title": "Trung thu thêm trọn vẹn từ những tấm lòng yêu thương",
+      "link": "https://thanhnien.vn/trung-thu-them-tron-ven-tu-nhung-tam-long-yeu-thuong-185260921204343701.htm",
+      "summary": "Những phần quà được trao tận tay cùng nét háo hức trên khuôn mặt của các em nhỏ khi xem biểu diễn múa lân đã tạo nên không khí sôi nổi tại chương trình \"Tết Trung thu - Gắn kết yêu thương\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T00:00:00+07:00",
+      "fetched": "2026-09-22T07:23:50.110617+07:00"
+    },
+    {
+      "id": "59659150441a7e24063897352ba57f3d",
+      "title": "Trường Y Dược - Đại học Đà Nẵng hướng tới bước chuyển mới ở tuổi 20",
+      "link": "https://thanhnien.vn/truong-y-duoc-dai-hoc-da-nang-huong-toi-buoc-chuyen-moi-o-tuoi-20-185260921171305682.htm",
+      "summary": "Trải qua 19 năm xây dựng và phát triển, Trường Y Dược - ĐH Đà Nẵng từng bước khẳng định vai trò đào tạo nguồn nhân lực y tế cho khu vực miền Trung - Tây nguyên, với quy mô gần 3.000 học viên, sinh viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T00:00:00+07:00",
+      "fetched": "2026-09-22T07:23:50.110766+07:00"
+    },
+    {
+      "id": "5d53c7bdf593ca0e59caf30f6e6c88f5",
+      "title": "Chi tiền triệu 'cày' phim ngắn AI",
+      "link": "https://vnexpress.net/chi-tien-trieu-cay-phim-ngan-ai-5120513.html",
+      "summary": "Dặn lòng nghỉ sớm, Huyền Trang vẫn nạp thêm 99.000 đồng vào ứng dụng phim ngắn để xem nốt những tập còn lại của một phim AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-22T00:00:00+07:00",
+      "fetched": "2026-09-22T07:23:57.629211+07:00"
+    },
+    {
+      "id": "053bbccfb2dda1ce7fd25c1b436418b7",
+      "title": "Lộ diện lịch thi đấu mới nhất và đối thủ khủng của U.17 Việt Nam tại World Cup U.17",
+      "link": "https://thanhnien.vn/lo-dien-lich-thi-dau-moi-nhat-va-doi-thu-khung-cua-u17-viet-nam-tai-world-cup-u17-1852609220644263.htm",
+      "summary": "Sau hành trình tại VCK U.17 châu Á 2026, đội tuyển U.17 Việt Nam trở lại tập luyện từ ngày 21.9 tại Trung tâm đào tạo bóng đá trẻ Việt Nam, hướng tới lần đầu tiên tham dự VCK FIFA U.17 World Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T23:54:00+07:00",
+      "fetched": "2026-09-22T07:23:50.110893+07:00"
+    },
+    {
+      "id": "ad9e17c1365e92309c8e094149c05a01",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm gặp gỡ trí thức người Việt tại Mỹ",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-gap-go-tri-thuc-nguoi-viet-tai-my-185260922004727041.htm",
+      "summary": "Sáng 21.9 (theo giờ địa phương), tại thành phố New York, Tổng Bí thư, Chủ tịch nước Tô Lâm và Đoàn đại biểu cấp cao Việt Nam đã gặp gỡ chuyên gia, trí thức người Việt Nam tại Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T23:48:00+07:00",
+      "fetched": "2026-09-22T07:23:50.111035+07:00"
+    },
+    {
+      "id": "0110a8306db23e89824e0e007be7d720",
+      "title": "Tổng Bí thư, Chủ tịch nước gặp chuyên gia, trí thức người Việt tại Mỹ",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-gap-chuyen-gia-tri-thuc-nguoi-viet-tai-my-5123090.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm có cuộc gặp các chuyên gia, trí thức người Việt Nam, trong khuôn khổ chuyến công tác ở Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-21T23:45:14+07:00",
+      "fetched": "2026-09-22T07:23:53.094522+07:00"
+    },
+    {
+      "id": "26f81af0ead0c98df29a981e4b04f25a",
+      "title": "Mbappe ví việc Zidane dẫn dắt đội tuyển Pháp như bộ phim",
+      "link": "https://vnexpress.net/mbappe-vi-viec-zidane-dan-dat-doi-tuyen-phap-nhu-bo-phim-5123055.html",
+      "summary": "Kylian Mbappe cho rằng việc được làm việc dưới trướng Zinedine Zidane ở đội tuyển Pháp, 15 năm sau lần đầu hai biểu tượng bóng đá Pháp gặp nhau, giống như \"một bộ phim\".",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-21T23:33:52+07:00",
+      "fetched": "2026-09-22T07:23:59.309407+07:00"
+    },
+    {
+      "id": "9c60a3cf4dae683593c0c7ccf7c10762",
+      "title": "Phố lồng đèn TP.HCM rực rỡ cận trung thu, người bán vẫn ngóng khách mua",
+      "link": "https://thanhnien.vn/pho-long-den-tphcm-ruc-ro-can-trung-thu-nguoi-ban-van-ngong-khach-mua-185260921234110613.htm",
+      "summary": "Chỉ còn vài ngày đến trung thu, phố lồng đèn Lương Nhữ Học đã rực rỡ đủ sắc màu. Nhiều tiểu thương lâu năm cho biết sức mua năm nay chậm hơn so với cùng thời điểm năm ngoái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T23:30:00+07:00",
+      "fetched": "2026-09-22T07:23:50.111160+07:00"
+    },
+    {
+      "id": "1c1aef92c13d3c6b86ba00af44d834a0",
+      "title": "HLV Hoàng Văn Phúc hé lộ cách đấu đội tuyển nữ Trung Quốc: Không tử thủ, chờ thời điểm pressing",
+      "link": "https://thanhnien.vn/hlv-hoang-van-phuc-he-lo-cach-dau-doi-tuyen-nu-trung-quoc-khong-tu-thu-cho-thoi-diem-pressing-185260921232723401.htm",
+      "summary": "Sau khi hòa Thái Lan 0-0 để giành vé vào tứ kết ASIAD 2026, HLV Hoàng Văn Phúc lập tức hướng đến cuộc đối đầu Trung Quốc. Ông Phúc thừa nhận đối thủ vượt trội về thể hình, thể chất và kỹ thuật, nhưng khẳng định đội sẽ phòng ngự có chủ đích, không tử thủ và chờ thời điểm để pressing, phản công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T23:30:00+07:00",
+      "fetched": "2026-09-22T07:23:50.111289+07:00"
+    },
+    {
+      "id": "b138b3556185820d532f7f2c4e4114e9",
+      "title": "Hồi niệm về chiến tranh Việt Nam tại Bảo tàng Chứng tích chiến tranh",
+      "link": "https://thanhnien.vn/hoi-niem-ve-chien-tranh-viet-nam-tai-bao-tang-chung-tich-chien-tranh-185260921214252173.htm",
+      "summary": "Sáng qua 21.9, Bảo tàng Chứng tích chiến tranh (28 Võ Văn Tần, P.Xuân Hòa, TP.HCM) tổ chức lễ khai mạc trưng bày 3 chuyên đề: Hồi niệm, Chất độc da cam trong chiến tranh Việt Nam, và Việt Nam: Chiến tranh và hòa bình sau khi được chỉnh lý quy mô và bài bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T23:30:00+07:00",
+      "fetched": "2026-09-22T07:23:50.111410+07:00"
+    },
+    {
+      "id": "fe8a09171beaa939c71f7a9c6bfbf543",
+      "title": "Bóng rổ Trung Quốc bị chất vấn sau thất bại tại ASIAD 2026",
+      "link": "https://vnexpress.net/bong-ro-trung-quoc-bi-chat-van-sau-that-bai-tai-asiad-2026-5123101.html",
+      "summary": "Đội tuyển bóng rổ nam Trung Quốc hứng chỉ trích sau lần thứ hai trắng tay tại ASIAD, dù được đầu tư với số tiền lớn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-21T23:29:00+07:00",
+      "fetched": "2026-09-22T07:23:59.308709+07:00"
+    },
+    {
+      "id": "40dab1d287f162077edb32914fc1a2a0",
+      "title": "Atletico đáp trả Mourinho",
+      "link": "https://vnexpress.net/atletico-dap-tra-mourinho-5123100.html",
+      "summary": "Atletico cho rằng những phát biểu của HLV Jose Mourinho sau trận derby Madrid đã vượt quá giới hạn, đồng thời cảnh báo bóng đá Tây Ban Nha có thể đối mặt với hệ lụy nếu những hành vi gây sức ép lên trọng tài không được ngăn chặn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-21T23:28:10+07:00",
+      "fetched": "2026-09-22T07:23:59.308871+07:00"
+    },
+    {
+      "id": "81a267f05bcb2ff557e398b38cde56e3",
+      "title": "Lịch đấu của Việt Nam tại ASIAD 2026 ngày 22/9",
+      "link": "https://vnexpress.net/lich-dau-cua-viet-nam-tai-asiad-2026-ngay-22-9-5123087.html",
+      "summary": "Việt Nam tranh tài ở nhiều môn ASIAD 2026 trong ngày 22/9, trong đó có trận đấu với Uzbekistan ở môn bóng đá nam, bên cạnh chung kết của bắn súng, xe đạp, bơi và đấu kiếm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-21T23:23:18+07:00",
+      "fetched": "2026-09-22T07:23:59.309014+07:00"
+    },
+    {
+      "id": "f7435b08dc15bab376c34ae4222adea8",
+      "title": "Phim kinh dị tái lập vị thế tại rạp chiếu",
+      "link": "https://thanhnien.vn/phim-kinh-di-tai-lap-vi-the-tai-rap-chieu-185260921215149741.htm",
+      "summary": "Cuối tuần qua, rạp chiếu phim nội địa lẫn quốc tế chứng kiến sự lên ngôi của phim kinh dị, sau thời gian tạm nhường bước cho các thể loại khác. Nếu 'Út Lan 2' dẫn đầu ở thị trường VN thì 'Resident Evil' (Vùng đất quỷ dữ) đang tạo cơn sốt mới trên màn ảnh rộng toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T23:15:00+07:00",
+      "fetched": "2026-09-22T07:23:50.111535+07:00"
+    },
+    {
+      "id": "be265d36a70bf17e63f912820f935771",
+      "title": "Trưởng thôn lội nước xiết khơi thông cống",
+      "link": "https://thanhnien.vn/truong-thon-loi-nuoc-xiet-khoi-thong-cong-185260921213610507.htm",
+      "summary": "Thấy nước mưa dồn về gây ngập cục bộ trên quốc lộ 27 (Đắk Lắk), ông Trần Văn Long (56 tuổi), Trưởng thôn 7, xã Ea Ktur, cùng cán bộ địa phương và người dân dọn rác, khơi thông miệng cống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T23:15:00+07:00",
+      "fetched": "2026-09-22T07:23:50.111672+07:00"
+    },
+    {
+      "id": "e211951b37e932f6b889ef97470e7f12",
+      "title": "Thoát khỏi vùng sạt lở, những hộ dân ở Ia Ly an cư nơi nhà mới",
+      "link": "https://thanhnien.vn/thoat-khoi-vung-sat-lo-nhung-ho-dan-o-ia-ly-an-cu-noi-nha-moi-18526092117004529.htm",
+      "summary": "Sau nhiều năm sống trong khu vực thường xuyên sạt lở, 5 hộ dân ở xã Ia Ly (Gia Lai) đã được bố trí đất tái định cư và xây dựng nhà ở mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T23:09:00+07:00",
+      "fetched": "2026-09-22T07:23:50.111800+07:00"
+    },
+    {
+      "id": "1306b31d709ced190ff5911fca81c7fd",
+      "title": "Đường hẹp, xe máy chen cùng xe tải: Người dân chờ đường song hành 6.800 tỉ ở TP.HCM",
+      "link": "https://thanhnien.vn/duong-hep-xe-may-chen-cung-xe-tai-nguoi-dan-cho-duong-song-hanh-6800-ti-o-tphcm-185260918225619021.htm",
+      "summary": "Ngày nào cũng kẹt xe, xe máy phải chen giữa dòng xe tải trên tuyến Phan Văn Hớn, tuyến đường cửa ngõ phía Tây Bắc TP.HCM. Trong bối cảnh tuyến đường hiện hữu ngày càng quá tải, dự án đường song hành dài 9km, vốn hơn 6.800 tỉ đồng đang được kỳ vọng tạo thêm hướng kết nối từ quốc lộ 1 đến vành đai 3, ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T23:07:00+07:00",
+      "fetched": "2026-09-22T07:23:50.111924+07:00"
+    },
+    {
+      "id": "e863f9732bc9df1fae882e1c81e84958",
+      "title": "Vì sao đợt tập trung đội tuyển kéo dài ba tuần?",
+      "link": "https://vnexpress.net/vi-sao-dot-tap-trung-doi-tuyen-keo-dai-ba-tuan-5123064.html",
+      "summary": "Đợt tập trung đội tuyển quốc gia tháng 9-10 sẽ kéo dài 16 ngày, lâu nhất từ trước đến nay, nhưng giúp FIFA giảm số lần bóng đá cấp CLB phải tạm ngưng trong mùa giải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-21T22:23:20+07:00",
+      "fetched": "2026-09-22T07:23:59.309150+07:00"
+    },
+    {
+      "id": "f8d838e0262e8063c73fd5a288e49971",
+      "title": "Cách vùng Vịnh lách 'vòng kim cô' của Iran ở Hormuz",
+      "link": "https://vnexpress.net/cach-vung-vinh-lach-vong-kim-co-cua-iran-o-hormuz-5122625.html",
+      "summary": "Các nước vùng Vịnh đang dùng đội tàu nhỏ tắt định vị để chuyển dầu xuất khẩu qua Hormuz, bất chấp nguy cơ bị Iran tấn công vì \"vi phạm biện pháp phong tỏa\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-21T22:00:00+07:00",
+      "fetched": "2026-09-22T07:23:53.094679+07:00"
+    },
+    {
+      "id": "393261a9276ee6c7d93e4cdb9c96ffad",
+      "title": "Hoài nghi về 'nút tắt khẩn cấp AI'",
+      "link": "https://vnexpress.net/hoai-nghi-ve-nut-tat-khan-cap-ai-5122214.html",
+      "summary": "Nhiều lãnh đạo và chuyên gia AI cho rằng công tắc ngắt có thể không phải giải pháp thần kỳ giúp ngăn chặn mọi rủi ro của công nghệ trí tuệ nhân tạo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-21T22:00:00+07:00",
+      "fetched": "2026-09-22T07:23:57.629370+07:00"
     },
     {
       "id": "66791f9da6e4372ca41efc78fc20a199",
