@@ -1,7 +1,37 @@
 window.newsData_2026_09_23 = {
   "date": "2026-09-23",
-  "lastUpdated": "2026-09-23T03:39:25.258050+07:00",
+  "lastUpdated": "2026-09-23T06:55:06.233960+07:00",
   "articles": [
+    {
+      "id": "b2e8aeb0b859d91ac716e5c1e21352bd",
+      "title": "Thời tiết hôm nay 23-9: Nam Bộ tiếp tục mưa to kết hợp triều cường, nhiều nơi ngập nặng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-23-9-nam-bo-tiep-tuc-mua-to-ket-hop-trieu-cuong-nhieu-noi-ngap-nang-100260922160616991.htm",
+      "summary": "Hôm nay 23-9, thời tiết Nam Bộ tiếp tục mưa to, thêm vào đó triều cường các sông cũng lên theo chu kỳ rằm tháng tám âm lịch, nhiều nơi khả năng ngập nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T06:54:59.659189+07:00",
+      "fetched": "2026-09-23T06:54:59.659250+07:00"
+    },
+    {
+      "id": "bc2152cce35e8d0698569b9775c72fe8",
+      "title": "Tin tức sáng 23-9: TP.HCM đóng bảo hiểm y tế cho người hiến máu 20 lần; Lãi suất qua đêm vọt lên 7%",
+      "link": "https://tuoitre.vn/tin-tuc-sang-23-9-tphcm-dong-bao-hiem-y-te-cho-nguoi-hien-mau-20-lan-lai-suat-qua-dem-vot-len-7-100260922223733345.htm",
+      "summary": "Tin tức đáng chú ý: Ủy ban Thường vụ Quốc hội cho ý kiến sửa Luật Bảo hiểm xã hội; Hỗ trợ 100% mức đóng BHYT cho người hiến máu tình nguyện ít nhất 20 lần cư trú tại TP.HCM; Lãi suất qua đêm vọt lên 7%...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T06:54:59.659109+07:00",
+      "fetched": "2026-09-23T06:54:59.659177+07:00"
+    },
+    {
+      "id": "9f36533ec98afdf12c7a54123a7c221b",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm gặp lãnh đạo các nước bên lề Đại hội đồng Liên hợp quốc",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-gap-lanh-dao-cac-nuoc-ben-le-dai-hoi-dong-lien-hop-quoc-10026092303273836.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm tham dự khai mạc phiên thảo luận cấp cao và gặp lãnh đạo một số nước sau sự kiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T06:54:59.658958+07:00",
+      "fetched": "2026-09-23T06:54:59.659095+07:00"
+    },
     {
       "id": "6086670a15fce658ef5a7ce6caef7afd",
       "title": "Tổng thống Hàn Quốc quyết tâm siết quản lý, ổn định thị trường bất động sản",
@@ -163,6 +193,236 @@ window.newsData_2026_09_23 = {
       "fetched": "2026-09-23T00:49:34.689990+07:00"
     },
     {
+      "id": "30852e6615f7879cccda18a96bf2d130",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp quyền Bộ trưởng Hải quân Mỹ Hùng Cao",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-quyen-bo-truong-hai-quan-my-hung-cao-185260923001848246.htm",
+      "summary": "Sáng 22.9 (giờ Mỹ), Tổng Bí thư, Chủ tịch nước Tô Lâm đã tiếp quyền Bộ trưởng Hải quân Mỹ Hùng Cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T23:49:00+07:00",
+      "fetched": "2026-09-23T06:54:56.464126+07:00"
+    },
+    {
+      "id": "a02e7072eef0d08442f7aceff249682c",
+      "title": "Con gái út Angelina Jolie và Brad Pitt tự mưu sinh, bán tranh tại hội chợ",
+      "link": "https://thanhnien.vn/con-gai-ut-angelina-jolie-va-brad-pitt-tu-muu-sinh-ban-tranh-tai-hoi-cho-185260923061355232.htm",
+      "summary": "Vivienne, con gái út 18 tuổi của Angelina Jolie và Brad Pitt, đang từng bước gây dựng sự nghiệp nghệ thuật riêng. Cô bé được bắt gặp bán các tác phẩm tự sáng tác tại một hội chợ đường phố ở Los Angeles (Mỹ) với sự hỗ trợ của anh trai song sinh Knox, Daily Mail đưa tin hôm 22.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T23:39:00+07:00",
+      "fetched": "2026-09-23T06:54:56.464296+07:00"
+    },
+    {
+      "id": "25aa22e649050e0c444e035d90690045",
+      "title": "Dấu ấn Việt Nam sau 12 năm tham gia lực lượng gìn giữ hòa bình Liên Hiệp Quốc",
+      "link": "https://thanhnien.vn/dau-an-viet-nam-sau-12-nam-tham-gia-luc-luong-gin-giu-hoa-binh-lien-hiep-quoc-18526092222245252.htm",
+      "summary": "Sáng 22.9, Bộ Quốc phòng tổ chức lễ xuất quân Bệnh viện dã chiến cấp 2 số 8 và Đội công binh số 5 lên đường thực hiện nhiệm vụ gìn giữ hòa bình Liên Hiệp Quốc tại Nam Sudan và Abyei. Phó chủ tịch nước Võ Thị Ánh Xuân dự và phát biểu chỉ đạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T23:38:00+07:00",
+      "fetched": "2026-09-23T06:54:56.464454+07:00"
+    },
+    {
+      "id": "ef3009ba65cf96bc962fe816c4445307",
+      "title": "Gia Bảo: 8 năm đóng quần chúng và lời dạy của NSƯT Bảo Quốc khi theo nghề",
+      "link": "https://thanhnien.vn/gia-bao-8-nam-dong-quan-chung-va-loi-day-cua-nsut-bao-quoc-khi-theo-nghe-185260922181003112.htm",
+      "summary": "Gia Bảo chia sẻ dù là 'con nhà nòi' nhưng anh đối diện với không ít thử thách khi theo nghề. Thậm chí, nam nghệ sĩ từng đóng quần chúng, nhắc tuồng... trước khi nổi tiếng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T23:34:00+07:00",
+      "fetched": "2026-09-23T06:54:56.464609+07:00"
+    },
+    {
+      "id": "e2b5c5c46b5ccb0c1af03b669b9eac88",
+      "title": "iPhone 18 Pro dung lượng cao 'dùng bộ nhớ hiệu suất thấp hơn'",
+      "link": "https://vnexpress.net/iphone-18-pro-dung-luong-cao-dung-bo-nho-hieu-suat-thap-hon-5123339.html",
+      "summary": "iPhone 18 Pro và 18 Pro Max với dung lượng từ 1 TB được đánh giá có tốc độ ghi dữ liệu thấp hơn các phiên bản 256 và 512 GB do dùng khác loại chip.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-22T23:30:17+07:00",
+      "fetched": "2026-09-23T06:55:04.708536+07:00"
+    },
+    {
+      "id": "32d4660d6c16af5daea957ed68eb767a",
+      "title": "Ông Trump ký thỏa thuận an ninh với Đan Mạch và Greenland",
+      "link": "https://vnexpress.net/ong-trump-ky-thoa-thuan-an-ninh-voi-dan-mach-va-greenland-5123555.html",
+      "summary": "Tổng thống Trump ký thỏa thuận an ninh với lãnh đạo Đan Mạch và Greenland, theo đó Mỹ sẽ xây thêm hai căn cứ tại hòn đảo này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-22T23:29:15+07:00",
+      "fetched": "2026-09-23T06:55:00.781393+07:00"
+    },
+    {
+      "id": "18907f0e757d6c656002ca6368597600",
+      "title": "Lãi suất cho vay neo cao",
+      "link": "https://thanhnien.vn/lai-suat-cho-vay-neo-cao-185260922214744463.htm",
+      "summary": "Lãi suất huy động neo cao khiến lãi suất cho vay cũng chưa thể hạ nhiệt dù Thủ tướng Chính phủ và Ngân hàng Nhà nước đã yêu cầu các ngân hàng giảm thực chất lãi vay cho người dân, doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T23:25:00+07:00",
+      "fetched": "2026-09-23T06:54:56.464762+07:00"
+    },
+    {
+      "id": "bbfe438595673d7ed4e183fc4724771f",
+      "title": "'Mở khóa' không gian ngầm",
+      "link": "https://thanhnien.vn/mo-khoa-khong-gian-ngam-185260922213736537.htm",
+      "summary": "Để đẩy nhanh kết nối không gian ngầm giữa các công trình, giữa các khu đất liền kề tại khu vực nhà ga, khu TOD và các trung tâm đô thị mới, TP.HCM đề xuất cho doanh nghiệp được lập đề cương quy hoạch không gian ngầm, do Chủ tịch UBND TP.HCM phê duyệt trong không quá 1 tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T23:24:00+07:00",
+      "fetched": "2026-09-23T06:54:56.464941+07:00"
+    },
+    {
+      "id": "a229c8560fb3e27c50d2bdc77341b7eb",
+      "title": "TP.HCM lại vào mùa ngập",
+      "link": "https://thanhnien.vn/tphcm-lai-vao-mua-ngap-185260922190851872.htm",
+      "summary": "Những trận mưa lớn liên tiếp gây ngập nhiều nơi ở TP.HCM, đặc biệt giai đoạn từ nay đến Tết Nguyên đán, khả năng ngập tiếp tục gia tăng khi các đợt triều cường cao xuất hiện thường xuyên, kết hợp mưa lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T23:23:00+07:00",
+      "fetched": "2026-09-23T06:54:56.465092+07:00"
+    },
+    {
+      "id": "a7199884c48d4dcfc1c32d1895027acb",
+      "title": "Sân nhà của Tottenham có trận thắng ít hơn số lần đón Beyonce",
+      "link": "https://vnexpress.net/san-nha-cua-tottenham-co-tran-thang-it-hon-so-lan-don-beyonce-5123544.html",
+      "summary": "Sân Tottenham Hotspur chỉ chứng kiến 5 trận thắng của đội nhà ở Ngoại hạng Anh, nhưng đã tổ chức 6 buổi biểu diễn của nữ ca sĩ Beyonce trong 22 tháng qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-22T23:16:16+07:00",
+      "fetched": "2026-09-23T06:55:06.229283+07:00"
+    },
+    {
+      "id": "8ba908e9bc200ed7e6f3a95a2729d06a",
+      "title": "Thầy giáo đưa những điệu múa ngày xưa trở lại sân trường",
+      "link": "https://thanhnien.vn/thay-giao-dua-nhung-dieu-mua-ngay-xua-tro-lai-san-truong-185260922224726138.htm",
+      "summary": "Trong giờ ra chơi, thầy Võ Trọng Kỳ (45 tuổi, ở Gia Lai) đứng giữa sân hướng dẫn học sinh những điệu múa trên nền các ca khúc thiếu nhi quen thuộc. Những đoạn clip được chia sẻ khiến nhiều người nhớ lại thời đi học của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T23:15:00+07:00",
+      "fetched": "2026-09-23T06:54:56.465248+07:00"
+    },
+    {
+      "id": "9fbdfeb38ea760d2b49a91b53a5f2aec",
+      "title": "Đua thuyền rowing Việt Nam sốc nặng khi bị dồn lịch thi đấu, đối mặt thách thức cực đại",
+      "link": "https://thanhnien.vn/dua-thuyen-rowing-viet-nam-soc-nang-khi-bi-don-lich-thi-dau-doi-mat-thach-thuc-cuc-dai-185260923055653362.htm",
+      "summary": "Do ảnh hưởng của bão và mưa lớn, Ban tổ chức ASIAD 20 đã quyết định điều chỉnh lịch thi đấu môn đua thuyền rowing, rút từ 5 ngày xuống chỉ còn 2 ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T23:05:00+07:00",
+      "fetched": "2026-09-23T06:54:56.465397+07:00"
+    },
+    {
+      "id": "6857b94a8f51aa5068e7a16905884466",
+      "title": "Báo động đỏ về những giới hạn của hành tinh",
+      "link": "https://thanhnien.vn/bao-dong-do-ve-nhung-gioi-han-cua-hanh-tinh-185260922195632885.htm",
+      "summary": "Giới khoa học cảnh báo hàng loạt giới hạn để sự sống phát triển mạnh mẽ trên trái đất đã bị vượt qua, trong khi khủng hoảng khí hậu đang tác động sâu rộng trên thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T23:05:00+07:00",
+      "fetched": "2026-09-23T06:54:56.465548+07:00"
+    },
+    {
+      "id": "3ca93aac4b74ba1dee355446036b9a8a",
+      "title": "Khảo sát 409 học sinh TP.HCM: Gần 4/10 vượt ngưỡng bất ổn, các em tìm đến ai?",
+      "link": "https://thanhnien.vn/khao-sat-409-hoc-sinh-tphcm-gan-4-10-vuot-nguong-bat-on-cac-em-tim-den-ai-185260922191730077.htm",
+      "summary": "Khảo sát 409 trẻ từ 12 - 18 tuổi tại TP.HCM cho thấy 38,5% vượt ngưỡng bất ổn sức khỏe tâm thần, trong khi 74,6% chưa từng chủ động tìm kiếm sự hỗ trợ tâm lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T23:00:00+07:00",
+      "fetched": "2026-09-23T06:54:56.465701+07:00"
+    },
+    {
+      "id": "7d575d401f38be3decd17a4fb7b68ca8",
+      "title": "Kiệt tác của Tô Hoài thành hình từ trò chọi dế",
+      "link": "https://thanhnien.vn/kiet-tac-cua-to-hoai-thanh-hinh-tu-tro-choi-de-185260922212417335.htm",
+      "summary": "Châm ngôn viết của Tô Hoài, được Bùi Hiển - người bạn văn của ông - cảm nhận là \"đi đến tận nơi, nhìn tận mắt, nghe tận tai, suy nghĩ và cảm thụ (nghệ thuật kể truyện của Tô Hoài chủ yếu thiên về thị giác)\", trong hồi ký Bạn bè một thuở (NXB Hội Nhà văn, 2014).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T22:58:00+07:00",
+      "fetched": "2026-09-23T06:54:56.465880+07:00"
+    },
+    {
+      "id": "0ce1f510f439b15adc781719df9915c6",
+      "title": "Trường ĐH 'căng thẳng' trước lộ trình một phương thức mỗi ngành",
+      "link": "https://thanhnien.vn/truong-dh-cang-thang-truoc-lo-trinh-mot-phuong-thuc-moi-nganh-185260922223046261.htm",
+      "summary": "Trong số những nội dung của dự thảo sửa đổi quy chế tuyển sinh đại học đang được Bộ GD-ĐT lấy ý kiến, quy định siết phương thức tuyển sinh khiến nhiều trường đại học băn khoăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T22:54:00+07:00",
+      "fetched": "2026-09-23T06:54:56.466030+07:00"
+    },
+    {
+      "id": "badde691ae6028075461bda7c4e1f780",
+      "title": "Tránh cái bẫy của AI",
+      "link": "https://thanhnien.vn/tranh-cai-bay-cua-ai-185260922225019384.htm",
+      "summary": "Cuộc tranh luận vừa khởi phát trên thế giới giữa một bên yêu cầu các nhà phát triển trí tuệ nhân tạo (AI) cần giảm tốc và một bên cho là cứ \"thả lỏng\" để AI phát triển theo tiến bộ công nghệ, là một g...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T22:52:00+07:00",
+      "fetched": "2026-09-23T06:54:57.882921+07:00"
+    },
+    {
+      "id": "72fa3bbc0700c43ac345ee403c57be6f",
+      "title": "Lăng kính bạn đọc: Cần tăng cường tự động hóa thủ tục thuế",
+      "link": "https://thanhnien.vn/lang-kinh-ban-doc-can-tang-cuong-tu-dong-hoa-thu-tuc-thue-185260922182000108.htm",
+      "summary": "Bên cạnh việc nhắc nhở nộp thuế, bạn đọc đề nghị ngành thuế tăng cường áp dụng các công cụ số có chức năng chuyển trả tự động cho doanh nghiệp hay cá nhân nộp thừa tiền thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T22:49:00+07:00",
+      "fetched": "2026-09-23T06:54:57.883328+07:00"
+    },
+    {
+      "id": "1665322c80eed68097732d62758e2eb9",
+      "title": "'Thiên thần khúc côn cầu' Canada công khai bạn trai",
+      "link": "https://vnexpress.net/thien-than-khuc-con-cau-canada-cong-khai-ban-trai-5123532.html",
+      "summary": "Mikayla Demaiter, từng là VĐV xinh đẹp bậc nhất của làng khúc côn cầu Canada, công khai nắm tay golfer Bryson DeChambeau sau khi rời chuyên cơ của Tổng thống Mỹ Donald Trump.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-22T22:46:04+07:00",
+      "fetched": "2026-09-23T06:55:06.229439+07:00"
+    },
+    {
+      "id": "7115f73c52d0dc925e1049f448167fba",
+      "title": "Lịch đấu ngày 23/9 của Việt Nam tại ASIAD 2026",
+      "link": "https://vnexpress.net/lich-dau-ngay-23-9-cua-viet-nam-tai-asiad-2026-5123531.html",
+      "summary": "Đoàn thể thao Việt Nam tranh tài ở nhiều môn hôm nay, như xe đạp đường trường, cử tạ, wushu, đấu kiếm, bắn súng và bóng chuyền bãi biển.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-22T22:36:39+07:00",
+      "fetched": "2026-09-23T06:55:06.228596+07:00"
+    },
+    {
+      "id": "d6de3632a0af38910ef9df7dd407c219",
+      "title": "Messi bị lôi vào màn khẩu chiến giữa Bellingham và Romero",
+      "link": "https://vnexpress.net/messi-bi-loi-vao-man-khau-chien-giua-bellingham-va-romero-5123449.html",
+      "summary": "Trận derby Madrid ở vòng 7 La Liga nhuốm màu tranh cãi từ các quyết định của trọng tài, kéo theo màn khẩu chiến trên sân giữa Jude Bellingham với các đối thủ người Argentina.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-22T22:32:00+07:00",
+      "fetched": "2026-09-23T06:55:06.228770+07:00"
+    },
+    {
+      "id": "3a054feeb4e2862fec6394ef9d96ed48",
+      "title": "Real công kích Chủ tịch La Liga",
+      "link": "https://vnexpress.net/real-cong-kich-chu-tich-la-liga-5123542.html",
+      "summary": "Real Madrid phản bác Chủ tịch La Liga Javier Tebas, đồng thời cho rằng giải đấu cần một lãnh đạo giữ được sự trung lập.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-22T22:23:51+07:00",
+      "fetched": "2026-09-23T06:55:06.228964+07:00"
+    },
+    {
+      "id": "8a5f54448ef2530e11cff3df240009a3",
+      "title": "Thông điệp của Trung Quốc khi khai trừ đảng hai tướng cấp cao",
+      "link": "https://vnexpress.net/thong-diep-cua-trung-quoc-khi-khai-tru-dang-hai-tuong-cap-cao-5123319.html",
+      "summary": "Khai trừ đảng hai tướng quân đội hàng đầu, Trung Quốc dường như muốn truyền thông điệp cứng rắn về kỷ luật trong cuộc chiến chống tham nhũng của ông Tập.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-22T22:00:00+07:00",
+      "fetched": "2026-09-23T06:55:00.781572+07:00"
+    },
+    {
       "id": "f8bb8b24f7a6c15efab9ccf2e5fe6d8a",
       "title": "Lý do Arab Saudi bất lực trước Houthi suốt hơn một thập kỷ",
       "link": "https://vnexpress.net/ly-do-arab-saudi-bat-luc-truoc-houthi-suot-hon-mot-thap-ky-5123203.html",
@@ -321,6 +581,16 @@ window.newsData_2026_09_23 = {
       "category": "Thể thao",
       "published": "2026-09-22T17:00:00+07:00",
       "fetched": "2026-09-23T00:49:42.500399+07:00"
+    },
+    {
+      "id": "34095cb3bc4a975d387e1ff6707e962e",
+      "title": "Truyền thông Nhật Bản lo ngại ASIAD 2026 'tệ nhất lịch sử'",
+      "link": "https://vnexpress.net/truyen-thong-nhat-ban-lo-ngai-asiad-2026-te-nhat-lich-su-5123510.html",
+      "summary": "Truyền thông Nhật Bản cho rằng việc thiếu các tập đoàn trong nước tham gia tổ chức và vai trò lớn của một công ty Pháp là nguyên nhân gây ra sự hỗn loạn tại ASIAD 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-22T17:00:00+07:00",
+      "fetched": "2026-09-23T06:55:06.229126+07:00"
     },
     {
       "id": "ff88fd2437735971f1062760396d2121",
