@@ -1,6 +1,6 @@
 window.newsData_2026_09_25 = {
   "date": "2026-09-25",
-  "lastUpdated": "2026-09-25T02:36:45.680649+07:00",
+  "lastUpdated": "2026-09-25T05:49:45.396281+07:00",
   "articles": [
     {
       "id": "e32a5dcf776d48a30029b9c6036c7d41",
@@ -151,6 +151,196 @@ window.newsData_2026_09_25 = {
       "category": "Tổng hợp",
       "published": "2026-09-25T02:36:37.715025+07:00",
       "fetched": "2026-09-25T02:36:37.715172+07:00"
+    },
+    {
+      "id": "cb24d0fed093b9c46be9f5be0719af84",
+      "title": "Cải cách thủ tục, 'cởi trói' cho nhà khoa học",
+      "link": "https://thanhnien.vn/cai-cach-thu-tuc-coi-troi-cho-nha-khoa-hoc-185260924184218135.htm",
+      "summary": "Số hóa hoàn toàn quy trình tài trợ, thời gian từ lúc nộp hồ sơ đến lúc nhận kinh phí được rút ngắn 6 lần, chấp nhận rủi ro trong nghiên cứu, tài trợ nhiều nhiệm vụ đa dạng... Những bước cải cách của Quỹ NAFOSTED được kỳ vọng sẽ \"cởi trói\" và mang đến nhiều cơ hội mới cho các nhà khoa học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T22:45:00+07:00",
+      "fetched": "2026-09-25T05:49:37.043150+07:00"
+    },
+    {
+      "id": "e153951ecf3167ce90b790821b82b476",
+      "title": "Lần đầu múa lân ở mái ấm, học sinh kiên nhẫn chờ các bé chạm vào đầu lân",
+      "link": "https://thanhnien.vn/lan-dau-mua-lan-o-mai-am-hoc-sinh-kien-nhan-cho-cac-be-cham-vao-dau-lan-185260924141558607.htm",
+      "summary": "Lần đầu đến biểu diễn ở một mái ấm tại TP.HCM, đội lân sư rồng của học sinh trường Ngô Thời Nhiệm chủ động đến gần, chờ các em nhỏ bớt sợ tiếng trống và làm quen với con lân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T22:45:00+07:00",
+      "fetched": "2026-09-25T05:49:37.043301+07:00"
+    },
+    {
+      "id": "72ac8538d399e07ec908200a4f67a47c",
+      "title": "Được trao cơ hội, chàng trai tự kỷ làm việc ở khách sạn 5 sao TP.HCM",
+      "link": "https://thanhnien.vn/duoc-trao-co-hoi-chang-trai-tu-ky-lam-viec-o-khach-san-5-sao-tphcm-185260924180257413.htm",
+      "summary": "Ở TP.HCM hiện có nhiều doanh nghiệp sẵn sàng trao cơ hội việc làm cho người khuyết tật. Câu chuyện của chàng trai tự kỷ Trần Võ Bảo Khánh - nhân viên khách sạn quốc tế 5 sao là một ví dụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T22:39:00+07:00",
+      "fetched": "2026-09-25T05:49:37.043441+07:00"
+    },
+    {
+      "id": "5d8df608f743222caaad51dc44222a9c",
+      "title": "Thấp thỏm dưới chân núi Một: Hàng chục hộ dân bỏ nhà đi thuê trọ vì sợ sạt lở",
+      "link": "https://thanhnien.vn/thap-thom-duoi-chan-nui-mot-hang-chuc-ho-dan-bo-nha-di-thue-tro-vi-so-sat-lo-185260924183602137.htm",
+      "summary": "Sống dưới và lưng chừng núi Một (phường Quy Nhơn, tỉnh Gia Lai), hàng chục hộ dân nhiều năm qua luôn thấp thỏm trước nguy cơ sạt lở, nhất là mỗi khi mưa lớn kéo dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T22:36:00+07:00",
+      "fetched": "2026-09-25T05:49:37.043571+07:00"
+    },
+    {
+      "id": "ee43fb184b1a9ebc6e9c7fa59ca296ab",
+      "title": "Mua vé số khi đang trông cháu, bà ngoại trúng độc đắc 2 tỉ xổ số miền Nam",
+      "link": "https://thanhnien.vn/mua-ve-so-khi-dang-trong-chau-ba-ngoai-trung-doc-dac-2-ti-xo-so-mien-nam-185260924103019568.htm",
+      "summary": "Câu chuyện được một đại lý vé số ở TP.HCM chia sẻ sau khi đổi thưởng cho khách có tờ vé số trúng độc đắc theo kết quả xổ số miền Nam ngày 23 tháng 9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T22:30:00+07:00",
+      "fetched": "2026-09-25T05:49:37.043705+07:00"
+    },
+    {
+      "id": "72fd6fe1dbbdbcf30bc5531823c88f79",
+      "title": "Ronaldo im tiếng trong chiến thắng của Bồ Đào Nha",
+      "link": "https://vnexpress.net/ronaldo-im-tieng-trong-chien-thang-cua-bo-dao-nha-5124469.html",
+      "summary": "Tiền đạo Cristiano Ronaldo phung phí cơ hội và bị khước từ bàn do lỗi việt vị, trong trận Bồ Đào Nha thắng Xứ Wales 1-0 ở lượt đầu bảng A4 Nations League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-24T22:26:25+07:00",
+      "fetched": "2026-09-25T05:49:45.391377+07:00"
+    },
+    {
+      "id": "7402032883c96feb066d24bb0fe4b420",
+      "title": "Khổ sở ngược xuôi 10 năm trời xin cấp lại sổ đỏ vì bị đánh tráo",
+      "link": "https://thanhnien.vn/kho-so-nguoc-xuoi-10-nam-troi-xin-cap-lai-so-do-vi-bi-danh-trao-185260924163823598.htm",
+      "summary": "Khi bà Lê Thị Hiệp rao bán đất thì bị đánh tráo sổ đỏ, hậu quả thửa đất bị bán cho 2 người khác, 10 năm nay bà phải khởi kiện làm 2 vụ án khác nhau để yêu cầu cấp lại sổ mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T22:25:00+07:00",
+      "fetched": "2026-09-25T05:49:37.043837+07:00"
+    },
+    {
+      "id": "012bb40fae4dd37015096b38c9d7d58a",
+      "title": "Tử vi ngày 25 tháng 9: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-25-thang-9-con-giap-nao-may-man-hom-nay-185260924223949264.htm",
+      "summary": "Tử vi ngày 25 tháng 9, đúng rằm tháng 8 âm lịch, mang đến những gợi ý tham khảo cho 12 con giáp trong ngày trung thu. Tử vi hôm nay nổi bật với chuyện gia đình, những cuộc sum họp và cả tài lộc hôm nay. Có tuổi nhận tin vui từ người thân ở xa, có người gặp cơ hội bất ngờ, trong khi một số con giáp n...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T22:15:00+07:00",
+      "fetched": "2026-09-25T05:49:37.043984+07:00"
+    },
+    {
+      "id": "ac7b97c7dd1e505de8df22b0f5fbc471",
+      "title": "Tìm hướng xuống thang xung đột Nga - Ukraine",
+      "link": "https://thanhnien.vn/tim-huong-xuong-thang-xung-dot-nga-ukraine-185260924213905999.htm",
+      "summary": "Reuters ngày 24.9 dẫn lời Đại sứ Mỹ tại LHQ Mike Waltz lên án mọi nỗ lực mở rộng cuộc chiến tại Ukraine. Nhà ngoại giao này nhấn mạnh việc để xung đột tại Ukraine lan rộng là nguy hiểm và không thể chấp nhận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T22:10:00+07:00",
+      "fetched": "2026-09-25T05:49:37.044112+07:00"
+    },
+    {
+      "id": "55c70adbcabb44b0d95158f96fb14298",
+      "title": "Việt Nam nhất quán coi trọng quan hệ với Canada",
+      "link": "https://thanhnien.vn/viet-nam-nhat-quan-coi-trong-quan-he-voi-canada-185260925010924737.htm",
+      "summary": "Ngày 24.9, tại Phủ Toàn quyền Canada, trong khuôn khổ chuyến thăm cấp nhà nước tới Canada, Tổng Bí thư, Chủ tịch nước Tô Lâm đã hội kiến với Toàn quyền Canada Louise Arbour sau lễ đón cấp nhà nước trọng thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T22:06:00+07:00",
+      "fetched": "2026-09-25T05:49:37.044231+07:00"
+    },
+    {
+      "id": "e80c48138ebe3f7b48395186d9beb166",
+      "title": "Vụ chủ doanh nghiệp vắng mặt nhiều ngày: BHXH TP.HCM nêu khoản chậm đóng 15 tỉ đồng",
+      "link": "https://thanhnien.vn/vu-chu-doanh-nghiep-vang-mat-nhieu-ngay-bhxh-tphcm-neu-khoan-cham-dong-15-ti-dong-185260924213416599.htm",
+      "summary": "BHXH TP.HCM cho biết Công ty Lợi Hào Việt Nam còn chậm đóng BHXH hơn 15 tỉ đồng, 198 lao động chưa được chốt sổ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T22:03:00+07:00",
+      "fetched": "2026-09-25T05:49:37.044350+07:00"
+    },
+    {
+      "id": "0e3368a82d0fcd1980204798fdc971bb",
+      "title": "Dân khổ vì bụi, chính quyền bảo 'chưa nghe phản ánh'",
+      "link": "https://thanhnien.vn/dan-kho-vi-bui-chinh-quyen-bao-chua-nghe-phan-anh-185260924184825026.htm",
+      "summary": "Hàng chục năm nay, nhiều hộ dân tại 2 thôn Đoàn Kết và Tiền Phong, xã Chi Lăng (Lạng Sơn) phải sống chung với bụi từ mỏ đá. Biện pháp chống bụi duy nhất họ có thể làm bịt kín toàn bộ cửa bằng các tấm ni lông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T22:00:00+07:00",
+      "fetched": "2026-09-25T05:49:37.044472+07:00"
+    },
+    {
+      "id": "6baef99723c32419ba3adeb117d55fd8",
+      "title": "Lịch âm hôm nay 25.9: Tết trung thu rằm tháng 8",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-259-tet-trung-thu-ram-thang-8-185260924083809226.htm",
+      "summary": "Theo lịch âm hôm nay 25.9 nhằm ngày rằm tháng 8 (15 tháng 8), là tết trung thu diễn ra trong tiết Thu phân. Ý nghĩa ngày này thế nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T22:00:00+07:00",
+      "fetched": "2026-09-25T05:49:37.044596+07:00"
+    },
+    {
+      "id": "4cab46f112181653fa07ba35990cc494",
+      "title": "Cuộc đua chi triệu USD giành suất qua 'yết hầu' Panama",
+      "link": "https://vnexpress.net/cuoc-dua-chi-trieu-usd-gianh-suat-qua-yet-hau-panama-5124034.html",
+      "summary": "Tình trạng hạn hán cùng xung đột Trung Đông đang đẩy cước phí qua kênh đào Panama lên mức kỷ lục, khiến các hãng tàu lao vào cuộc đua giành suất lưu thông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-24T22:00:00+07:00",
+      "fetched": "2026-09-25T05:49:40.504376+07:00"
+    },
+    {
+      "id": "9513251c7d84bee26642348e6c7454ef",
+      "title": "Lãi suất khi nào có thể hạ nhiệt?",
+      "link": "https://vnexpress.net/lai-suat-khi-nao-co-the-ha-nhiet-5124449.html",
+      "summary": "Lãi suất chủ yếu đi ngang và khó giảm rõ nét trước đầu năm 2027 bởi áp lực lạm phát, cộng thêm khả năng Fed tiếp tục nâng lãi suất, theo chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-24T22:00:00+07:00",
+      "fetched": "2026-09-25T05:49:41.931955+07:00"
+    },
+    {
+      "id": "5c898764ee3699cb4d697dd22f1285da",
+      "title": "Lễ đón Tổng Bí thư, Chủ tịch nước Tô Lâm thăm cấp nhà nước tới Canada",
+      "link": "https://thanhnien.vn/le-don-tong-bi-thu-chu-tich-nuoc-to-lam-tham-cap-nha-nuoc-toi-canada-185260925001022486.htm",
+      "summary": "Sáng 24.9 (giờ địa phương), Toàn quyền Canada Louise Arbour đã chủ trì lễ đón trọng thể Tổng Bí thư, Chủ tịch nước Tô Lâm và Đoàn đại biểu cấp cao Việt Nam thăm cấp nhà nước tới Canada.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T21:56:00+07:00",
+      "fetched": "2026-09-25T05:49:37.044709+07:00"
+    },
+    {
+      "id": "6fdc5da048b25dae4cbfcedc2aab5875",
+      "title": "Lật tẩy chiêu trò biến bột mì, hóa chất thành thuốc chống đột quỵ tiền triệu",
+      "link": "https://thanhnien.vn/lat-tay-chieu-tro-bien-bot-mi-hoa-chat-thanh-thuoc-chong-dot-quy-tien-trieu-185260924222128921.htm",
+      "summary": "Nguyễn Thanh Phương Tuyền, Giám đốc Công ty TNHH sản xuất dược mỹ phẩm Tami Natural Home đã điều hành công ty thực hiện sản xuất, buôn bán thuốc chống đột quỵ bằng bột mì, hóa chất, được xác định là sản phẩm giả. Giá trị sản xuất mỗi hộp thuốc 105.000 đồng, nhưng khi bán cho người dân có giá gần 3 t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T21:24:00+07:00",
+      "fetched": "2026-09-25T05:49:37.044826+07:00"
+    },
+    {
+      "id": "bcbd15bb9636f288f787fdcff7121a0c",
+      "title": "Bước đệm khai màn thượng đỉnh Mỹ - Trung",
+      "link": "https://thanhnien.vn/buoc-dem-khai-man-thuong-dinh-my-trung-185260924213630649.htm",
+      "summary": "Hội đàm thượng đỉnh giữa Tổng thống Mỹ Donald Trump và Chủ tịch nước Trung Quốc Tập Cận Bình được củng cố bởi các thông điệp hợp tác lạc quan ngay trước thềm cuộc gặp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T21:17:00+07:00",
+      "fetched": "2026-09-25T05:49:37.044956+07:00"
+    },
+    {
+      "id": "6f679d05e13acb39034b329bc2e73bde",
+      "title": "Có nên gom thêm cổ phiếu khi đang lãi gấp đôi?",
+      "link": "https://vnexpress.net/co-nen-gom-them-co-phieu-khi-dang-lai-gap-doi-5122395.html",
+      "summary": "Chuyên gia cho rằng giá cổ phiếu đắt hay rẻ, phù hợp mua thêm hay không nằm ở giá trị nội tại của doanh nghiệp và triển vọng tăng trưởng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-24T20:12:00+07:00",
+      "fetched": "2026-09-25T05:49:41.932113+07:00"
     },
     {
       "id": "413c07addb4a4c4ffec390279f0bfed5",
@@ -513,6 +703,46 @@ window.newsData_2026_09_25 = {
       "fetched": "2026-09-25T02:36:39.606167+07:00"
     },
     {
+      "id": "f51da2637cde77569c5b9d0c3780b4dd",
+      "title": "Sát hại cha của người yêu trong đêm giao thừa",
+      "link": "https://vnexpress.net/sat-hai-cha-cua-nguoi-yeu-trong-dem-giao-thua-5124342.html",
+      "summary": "Bùi Bảo Tài bị tuyên án tử hình do mang dao, trèo vào nhà sát hại cha của người yêu khi bị cấm đến thăm con nhỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T10:18:06+07:00",
+      "fetched": "2026-09-25T05:49:33.760404+07:00"
+    },
+    {
+      "id": "af73cb6d8ba87369519257d039225581",
+      "title": "Điểm tin 17h: Giá xăng, dầu cùng tăng | FIFA ASEAN Cup 2026 khởi tranh hôm nay",
+      "link": "https://vnexpress.net/diem-tin-17h-gia-xang-dau-cung-tang-fifa-asean-cup-2026-khoi-tranh-hom-nay-5124371.html",
+      "summary": "Mưa lớn gây sạt lở nhiều điểm trên quốc lộ ở Lâm Đồng; Mỹ mời Tổng thống Putin dự hội nghị thượng đỉnh G20...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T10:17:46+07:00",
+      "fetched": "2026-09-25T05:49:33.760572+07:00"
+    },
+    {
+      "id": "1437ce136de4cb69140055cbd4b006c1",
+      "title": "Người Việt đi làm việc ở nước ngoài ngày càng trẻ",
+      "link": "https://vnexpress.net/nguoi-viet-di-lam-viec-o-nuoc-ngoai-ngay-cang-tre-5124344.html",
+      "summary": "Lao động Việt Nam đi làm việc ở nước ngoài có tuổi trung vị khoảng 27, giảm một tuổi so với năm 2021 và thấp hơn nhiều so với nhóm làm việc trong nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T10:06:04+07:00",
+      "fetched": "2026-09-25T05:49:33.760710+07:00"
+    },
+    {
+      "id": "d9aeb97f5d3b3d9da1f0f0046a52d397",
+      "title": "Người thân cố nghệ sĩ Vũ Linh được tòa khuyên 'nhường nhau' chuyện di sản",
+      "link": "https://vnexpress.net/nguoi-than-co-nghe-si-vu-linh-duoc-toa-khuyen-nhuong-nhau-chuyen-di-san-5124190.html",
+      "summary": "Tòa nhiều lần vận động người thân cố nghệ sĩ Vũ Linh nhượng bộ, tìm tiếng nói chung trong tranh chấp di sản, trước khi tạm dừng phiên xử để định giá lại đất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T10:00:27+07:00",
+      "fetched": "2026-09-25T05:49:33.760843+07:00"
+    },
+    {
       "id": "7260a9058b43292613972ea79f5ba53a",
       "title": "Mỹ - Trung chuẩn bị thế nào cho nghi thức đón ông Tập",
       "link": "https://vnexpress.net/my-trung-chuan-bi-the-nao-cho-nghi-thuc-don-ong-tap-5124333.html",
@@ -521,6 +751,56 @@ window.newsData_2026_09_25 = {
       "category": "Thế giới",
       "published": "2026-09-24T10:00:00+07:00",
       "fetched": "2026-09-25T02:36:39.606291+07:00"
+    },
+    {
+      "id": "86b4844f9b6d07afa6f0af2835428d22",
+      "title": "Hybrid cắm sạc ngoài - công nghệ điện hóa thu hút khách Việt",
+      "link": "https://vnexpress.net/hybrid-cam-sac-ngoai-cong-nghe-dien-hoa-thu-hut-khach-viet-5124356.html",
+      "summary": "Công nghệ plug-in hybrid kết hợp ưu điểm của động cơ đốt trong, thuần điện và không phụ thuộc hạ tầng sạc, đang là xu hướng ưa dùng của nhiều khách Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T10:00:00+07:00",
+      "fetched": "2026-09-25T05:49:33.761127+07:00"
+    },
+    {
+      "id": "e5c1e5a413465e72016e7270cdd7fc79",
+      "title": "Phụ huynh biết thêm điều gì khi quét QR trên lon sữa cho con?",
+      "link": "https://vnexpress.net/phu-huynh-biet-them-dieu-gi-khi-quet-qr-tren-lon-sua-cho-con-5124348.html",
+      "summary": "Một lần quét mã mang đến cho phụ huynh thông tin minh bạch từ số lô đến thành phần sản phẩm, nhà máy sản xuất - vốn khó trình bày hết trên một vỏ lon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T10:00:00+07:00",
+      "fetched": "2026-09-25T05:49:33.761255+07:00"
+    },
+    {
+      "id": "a07dbe09ced3bcb777eb0b9340b79ce9",
+      "title": "Chiến lược giúp PVCFC tiến sâu vào chuỗi giá trị nông nghiệp",
+      "link": "https://vnexpress.net/chien-luoc-giup-pvcfc-tien-sau-vao-chuoi-gia-tri-nong-nghiep-5124347.html",
+      "summary": "PVCFC định hướng phát triển dài hạn theo ba trụ cột gồm phân bón, khí công nghiệp - hóa chất và công nghệ sinh học - chế biến sau thu hoạch, mở rộng dư địa trong ngành nông nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T10:00:00+07:00",
+      "fetched": "2026-09-25T05:49:33.761378+07:00"
+    },
+    {
+      "id": "bb7ba9349644d1e2eb03f397c7d9b719",
+      "title": "Vi phẫu tìm tinh trùng cho người biến chứng quai bị",
+      "link": "https://vnexpress.net/vi-phau-tim-tinh-trung-cho-nguoi-bien-chung-quai-bi-5124321.html",
+      "summary": "Anh Hoàng, 30 tuổi, hai tinh hoàn teo nhỏ do biến chứng quai bị 13 năm trước, nay được bác sĩ vi phẫu tìm tinh trùng để thụ tinh ống nghiệm có con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T10:00:00+07:00",
+      "fetched": "2026-09-25T05:49:33.761504+07:00"
+    },
+    {
+      "id": "ecbeb5e2352b8d8e3572e5790269efd1",
+      "title": "Lợi ích khi theo dõi huyết áp tại nhà",
+      "link": "https://vnexpress.net/loi-ich-khi-theo-doi-huyet-ap-tai-nha-5124148.html",
+      "summary": "Theo dõi huyết áp tại nhà giúp nhận biết mức huyết áp theo thời gian, đánh giá hiệu quả điều trị và cung cấp dữ liệu cho bác sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T10:00:00+07:00",
+      "fetched": "2026-09-25T05:49:33.761629+07:00"
     },
     {
       "id": "5844d402ed88e5bb6f56ad8569449aff",
@@ -561,6 +841,16 @@ window.newsData_2026_09_25 = {
       "category": "Thể thao",
       "published": "2026-09-24T09:43:29+07:00",
       "fetched": "2026-09-25T02:36:45.678078+07:00"
+    },
+    {
+      "id": "b5da90d17583aecdf133cae59d7c386f",
+      "title": "Gửi người đàn ông sẽ cùng em đi qua những an yên sau này",
+      "link": "https://vnexpress.net/gui-nguoi-dan-ong-se-cung-em-di-qua-nhung-an-yen-sau-nay-5124250.html",
+      "summary": "Giữa dòng đời tấp nập, có bao giờ anh bất chợt dừng lại và tự hỏi một nửa của mình đang ở đâu không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-24T09:43:08+07:00",
+      "fetched": "2026-09-25T05:49:33.762323+07:00"
     },
     {
       "id": "aa1bf63941e349ddc20fb832655b4511",
