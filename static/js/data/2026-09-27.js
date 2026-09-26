@@ -1,6 +1,6 @@
 window.newsData_2026_09_27 = {
   "date": "2026-09-27",
-  "lastUpdated": "2026-09-27T00:36:09.976817+07:00",
+  "lastUpdated": "2026-09-27T03:22:22.834042+07:00",
   "articles": [
     {
       "id": "0afe3a5ae6d930d463d7ec6da3f04383",
@@ -151,6 +151,26 @@ window.newsData_2026_09_27 = {
       "category": "Tổng hợp",
       "published": "2026-09-27T00:36:02.246495+07:00",
       "fetched": "2026-09-27T00:36:02.246632+07:00"
+    },
+    {
+      "id": "cb4eb74d7c36fe21889e71a6da106f0a",
+      "title": "VnExpress Marathon Grand Tour Nghệ An 2026 xuất phát 42km",
+      "link": "https://vnexpress.net/truc-tiep-vnexpress-marathon-nghe-an-2026-5125194.html",
+      "summary": "Những chân chạy phong trào thành tích cao như Đan Quyết, Đắc Thành... xuất phát cự ly 42km giải Grand Tour đầu tiên của hệ thống VnExpress Marathon.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-26T19:30:00+07:00",
+      "fetched": "2026-09-27T03:22:22.828988+07:00"
+    },
+    {
+      "id": "6a597137fa12b39c22d78ff6fd9a7b51",
+      "title": "Chiến dịch giúp Ukraine cắt đứt mũi thọc sâu của Nga ở Donetsk",
+      "link": "https://vnexpress.net/chien-dich-giup-ukraine-cat-dut-mui-thoc-sau-cua-nga-o-donetsk-5124721.html",
+      "summary": "Chiến dịch Vivaldi kéo dài khoảng 4 tháng qua dường như đã giúp Ukraine tái kiểm soát hơn 100 km2 lãnh thổ gần thành phố Lyman ở tỉnh Donetsk.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-26T18:00:00+07:00",
+      "fetched": "2026-09-27T03:22:15.172771+07:00"
     },
     {
       "id": "8eb7eadf96ca9d56512026599ce43c84",
