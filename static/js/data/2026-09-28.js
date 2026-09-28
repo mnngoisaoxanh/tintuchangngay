@@ -1,7 +1,87 @@
 window.newsData_2026_09_28 = {
   "date": "2026-09-28",
-  "lastUpdated": "2026-09-28T04:01:03.275495+07:00",
+  "lastUpdated": "2026-09-28T07:07:21.319796+07:00",
   "articles": [
+    {
+      "id": "92887ccdab332279fdf81eab1fd68948",
+      "title": "Dự đoán tỉ số: Indonesia thắng sát nút Malaysia",
+      "link": "https://tuoitre.vn/du-doan-ti-so-indonesia-thang-sat-nut-malaysia-100260927181619166.htm",
+      "summary": "Lợi thế sân nhà giúp Indonesia được đánh giá nhỉnh hơn Malaysia trước cuộc đối đầu lúc 19h30 ngày 28-9 ở lượt trận thứ hai bảng A, hạng 1 FIFA ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-28T07:07:14.758268+07:00",
+      "fetched": "2026-09-28T07:07:14.758328+07:00"
+    },
+    {
+      "id": "d0dfa38bae3ed0ddd5851c076a68dba4",
+      "title": "Bao Phương Vinh về nhì tại Giải billiards vô địch thế giới",
+      "link": "https://tuoitre.vn/bao-phuong-vinh-ve-nhi-tai-giai-billiards-vo-dich-the-gioi-100260928044914632.htm",
+      "summary": "Rạng sáng 28-9, tại chung kết Giải billiards carom 3 băng vô địch thế giới (World Championship), tay cơ Bao Phương Vinh để thua Eddy Merckx (Bỉ) và có được vị trí á quân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-28T07:07:14.758198+07:00",
+      "fetched": "2026-09-28T07:07:14.758258+07:00"
+    },
+    {
+      "id": "46948aa6e06c1a8a23897420b46804e8",
+      "title": "Thời tiết hôm nay 28-9: Bắc Bộ nắng nóng, TP.HCM triều cường đạt đỉnh",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-28-9-bac-bo-nang-nong-tphcm-trieu-cuong-dat-dinh-100260927162635727.htm",
+      "summary": "Hôm nay 28-9, thời tiết các tỉnh phía Bắc nắng nóng. Cao nguyên Trung Bộ và Nam Bộ mưa chiều, riêng Nam Bộ triều cường đạt đỉnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-28T07:07:14.758123+07:00",
+      "fetched": "2026-09-28T07:07:14.758187+07:00"
+    },
+    {
+      "id": "d1729fc684f1809bed0d08aee014b15e",
+      "title": "Ronaldo không ra sân trong chiến thắng của Bồ Đào Nha trước Na Uy",
+      "link": "https://tuoitre.vn/ronaldo-khong-ra-san-trong-chien-thang-cua-bo-dao-nha-truoc-na-uy-100260928053621825.htm",
+      "summary": "Rạng sáng 28-9, tại vòng 2 bảng D UEFA Nations League, Bồ Đào Nha đánh bại Na Uy 2-1 trong ngày mà Cristiano Ronaldo ngồi dự bị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-28T07:07:14.758024+07:00",
+      "fetched": "2026-09-28T07:07:14.758109+07:00"
+    },
+    {
+      "id": "0a2482ca592add77da8f451416913237",
+      "title": "Lịch thi đấu bóng chuyền Asiad 20 ngày 28-9: Việt Nam đấu Qatar",
+      "link": "https://tuoitre.vn/lich-thi-dau-bong-chuyen-asiad-20-ngay-28-9-viet-nam-dau-qatar-100260928054439961.htm",
+      "summary": "Ngày 28-9, tuyển bóng chuyền nam Việt Nam sẽ bước vào trận đấu tiếp theo tại bảng C Asiad 20, gặp đối thủ mạnh Qatar lúc 14h.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-28T07:07:14.757952+07:00",
+      "fetched": "2026-09-28T07:07:14.758013+07:00"
+    },
+    {
+      "id": "75ff2db01351770069f939551f5fef86",
+      "title": "Tin tức sáng 28-9: Việt Nam lại có 8 tỉ phú USD; TP.HCM cấm đại lý Internet hoạt động sau 22h",
+      "link": "https://tuoitre.vn/tin-tuc-sang-28-9-viet-nam-lai-co-8-ti-phu-usd-tphcm-cam-dai-ly-internet-hoat-dong-sau-22h-100260927161912379.htm",
+      "summary": "Một số tin tức đáng chú ý: Một công ty chứng khoán TP.HCM bị phạt vì 'nhập nhằng' tiền gửi khách hàng; TP.HCM ra quy chế phối hợp điều tra ngộ độc thực phẩm; TP.HCM tổ chức đoàn giám sát công tác chống ma túy, mại dâm tại 7 xã, phường...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-28T07:07:14.757875+07:00",
+      "fetched": "2026-09-28T07:07:14.757941+07:00"
+    },
+    {
+      "id": "36a61973bbd45c13a50484b9368ee7cb",
+      "title": "Lịch thi đấu Asiad ngày 28-9 của đoàn Việt Nam: chờ loạt bắn 'định đoạt' của Trịnh Thu Vinh",
+      "link": "https://tuoitre.vn/lich-thi-dau-asiad-ngay-28-9-cua-doan-viet-nam-cho-loat-ban-dinh-doat-cua-trinh-thu-vinh-100260927201919493.htm",
+      "summary": "Hôm nay (28-9), đoàn thể thao Việt Nam hứa hẹn sẽ quật khởi sau 2 ngày liên tiếp trắng tay tại Asiad Aichi-Nagoya 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-28T07:07:14.757791+07:00",
+      "fetched": "2026-09-28T07:07:14.757863+07:00"
+    },
+    {
+      "id": "27c187fa63820d3b2415fc5ae08ea327",
+      "title": "iPhone sắp có thêm lớp bảo vệ khi bị giật",
+      "link": "https://tuoitre.vn/iphone-sap-co-them-lop-bao-ve-khi-bi-giat-100260923233929079.htm",
+      "summary": "Tính năng AutoLock được nói có thể nhận diện iPhone bị giật khỏi tay và tự động khóa máy, nhằm bảo vệ dữ liệu khi thiết bị rơi vào tay kẻ xấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-28T07:07:14.757639+07:00",
+      "fetched": "2026-09-28T07:07:14.757776+07:00"
+    },
     {
       "id": "57e705f56d0f0f7042ed04738f84280f",
       "title": "Hoàng Đức trở lại, tuyển Việt Nam dầm mưa tập luyện để đấu Thái Lan",
@@ -151,6 +231,246 @@ window.newsData_2026_09_28 = {
       "category": "Tổng hợp",
       "published": "2026-09-28T00:59:27.905964+07:00",
       "fetched": "2026-09-28T00:59:27.906086+07:00"
+    },
+    {
+      "id": "86501cf46dd4168ebf41b52afb08966d",
+      "title": "ASIAD 2026 hôm nay: Chờ tin vui từ bắn súng, cầu mây, điền kinh",
+      "link": "https://thanhnien.vn/asiad-2026-hom-nay-cho-tin-vui-tu-ban-sung-cau-may-dien-kinh-185260928060759872.htm",
+      "summary": "Hôm nay, đoàn thể thao Việt Nam tiếp tục tranh tài ở ASIAD 20 tại Nhật Bản với hy vọng có thành tích tốt ở các môn bắn súng, cầu mây, điền kinh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-28T00:04:00+07:00",
+      "fetched": "2026-09-28T07:07:13.048560+07:00"
+    },
+    {
+      "id": "a2c48a535a7c91309d4be736375e0849",
+      "title": "Chiến sĩ 'mũ nồi xanh' bệnh viện dã chiến về nước sau một năm ở Nam Sudan",
+      "link": "https://thanhnien.vn/chien-si-mu-noi-xanh-benh-vien-da-chien-ve-nuoc-sau-mot-nam-o-nam-sudan-185260927232350225.htm",
+      "summary": "Sau một năm làm nhiệm vụ tại Nam Sudan, cán bộ, chiến sĩ 'mũ nồi xanh' thuộc Bệnh viện dã chiến cấp 2 số 7 (BVDC2.7) trở về nước, hoàn thành điều trị hơn 2.200 lượt bệnh nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-28T00:02:00+07:00",
+      "fetched": "2026-09-28T07:07:13.048736+07:00"
+    },
+    {
+      "id": "6a70ea2dd2b48021fb170a1e54376500",
+      "title": "Phát hiện 40 kg chất màu trắng nghi ma túy trôi trên biển Phú Quốc",
+      "link": "https://thanhnien.vn/phat-hien-40-kg-chat-mau-trang-nghi-ma-tuy-troi-tren-bien-phu-quoc-185260927225046276.htm",
+      "summary": "Trong 2 ngày 25 và 27.9, lực lượng chức năng và người dân phát hiện khoảng 40 kg chất tinh thể màu trắng nghi ma túy trôi dạt trên biển Phú Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-28T00:01:00+07:00",
+      "fetched": "2026-09-28T07:07:13.048907+07:00"
+    },
+    {
+      "id": "e6c81b07586f631e61627d8806cc89df",
+      "title": "Bài thơ làm động lực thi ca của Chế Lan Viên",
+      "link": "https://thanhnien.vn/bai-tho-lam-dong-luc-thi-ca-cua-che-lan-vien-185260927210149627.htm",
+      "summary": "Bài thơ thuở đi học đã gây niềm cảm hứng yêu thích thơ ca trong Chế Lan Viên, để rồi về sau khi vẫn còn ngồi trên ghế nhà trường, chàng trai trẻ đã có thơ đăng trên Tin văn, Tiểu thuyết thứ Bảy, Trong khuê phòng... và xuất bản tập Điêu tàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-28T00:00:00+07:00",
+      "fetched": "2026-09-28T07:07:13.049066+07:00"
+    },
+    {
+      "id": "5f51d07f1e94f73c31f63ff7af6d4bb0",
+      "title": "Không để sạt lở thành 'điểm nghẽn' giao thông",
+      "link": "https://thanhnien.vn/khong-de-sat-lo-thanh-diem-nghen-giao-thong-185260927214345962.htm",
+      "summary": "Sau những vụ sạt lở liên tiếp trên các tuyến đường, ngành chức năng Lâm Đồng đang rà soát các vị trí xung yếu, chuẩn bị vật tư, nhân lực và phương án xử lý nhằm hạn chế thời gian giao thông bị gián đoạn khi xảy ra sự cố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T23:56:00+07:00",
+      "fetched": "2026-09-28T07:07:13.049259+07:00"
+    },
+    {
+      "id": "ed1a6c98d8f8d26eb18d0766429134bc",
+      "title": "Tiểu thương kể cảnh chuyển từng chuyến hàng vì đường hẹp, nay đường vào chợ hoa sắp rộng 23 m",
+      "link": "https://thanhnien.vn/tieu-thuong-ke-canh-chuyen-tung-chuyen-hang-vi-duong-hep-nay-duong-vao-cho-hoa-sap-rong-23-m-185260923211926504.htm",
+      "summary": "Từ một tuyến đường chật hẹp, xe tải phải đậu cách xa để tiểu thương tự chuyển hàng, đường Trần Bình Trọng đang từng bước thay đổi diện mạo. Khi mặt đường được mở rộng lên 23m, người dân và các hộ kinh doanh kỳ vọng việc đi lại, vận chuyển hàng hóa và đón khách sẽ thuận tiện hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T23:56:00+07:00",
+      "fetched": "2026-09-28T07:07:13.049419+07:00"
+    },
+    {
+      "id": "16f186beec5a91bad292fa1435c5ec0f",
+      "title": "Gian nan giao thông kết nối rừng - biển",
+      "link": "https://thanhnien.vn/gian-nan-giao-thong-ket-noi-rung-bien-18526092721572797.htm",
+      "summary": "Hàng loạt cung đường đèo nối biển với cao nguyên Lâm Đồng liên tục sạt lở khi mưa lớn, đe dọa an toàn giao thông và ảnh hưởng du lịch, vận chuyển hàng hóa, cũng như sức cạnh tranh của nền kinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T23:54:00+07:00",
+      "fetched": "2026-09-28T07:07:13.049587+07:00"
+    },
+    {
+      "id": "40016b6df18f1eaa29a0bd6be7bc50ae",
+      "title": "Tổng thống Serbia từ chức để tranh cử thủ tướng",
+      "link": "https://vnexpress.net/tong-thong-serbia-tu-chuc-de-tranh-cu-thu-tuong-5125460.html",
+      "summary": "Tổng thống Vucic tuyên bố từ chức khi chưa hết nhiệm kỳ thứ hai để tranh cử chức vụ thủ tướng Serbia trong cuộc bầu cử sớm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-27T23:45:17+07:00",
+      "fetched": "2026-09-28T07:07:15.612050+07:00"
+    },
+    {
+      "id": "cb4cb6329b6026ce8f4838bc61df992f",
+      "title": "Chanathip chưa cần ra sân, Thái Lan vẫn thắng 4-0: Sức mạnh của đối thủ Việt Nam nằm ở đâu?",
+      "link": "https://thanhnien.vn/chanathip-chua-can-ra-san-thai-lan-van-thang-4-0-suc-manh-cua-doi-thu-viet-nam-nam-o-dau-185260927220642338.htm",
+      "summary": "Thái Lan thắng Pakistan 4-0 dù Chanathip Songkrasin không thi đấu, còn nhiều trụ cột chỉ vào sân trong hiệp 2. Chiều sâu lực lượng và hàng công nhiều phương án của ‘Voi chiến’ sẽ là thử thách đáng kể với đội tuyển Việt Nam ngày 29.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T23:37:00+07:00",
+      "fetched": "2026-09-28T07:07:13.049749+07:00"
+    },
+    {
+      "id": "02434bbee80b91f7a228904a49897f2b",
+      "title": "Những việc tuyệt đối không nên phó mặc cho ChatGPT",
+      "link": "https://thanhnien.vn/nhung-viec-tuyet-doi-khong-nen-pho-mac-cho-chatgpt-185260927230107768.htm",
+      "summary": "ChatGPT ngày càng phổ biến, nhưng một số sai lầm khi sử dụng công cụ này có thể khiến người dùng gặp rắc rối nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T23:27:00+07:00",
+      "fetched": "2026-09-28T07:07:13.049898+07:00"
+    },
+    {
+      "id": "3ae97bf10d0901a860c26a03dad656c1",
+      "title": "Tiền đạo Malaysia: 'Đấu Indonesia như Brazil gặp Argentina'",
+      "link": "https://vnexpress.net/tien-dao-malaysia-dau-indonesia-nhu-brazil-gap-argentina-5125456.html",
+      "summary": "Tiền đạo nhập tịch Malaysia Bergson cảm nhận được sức nóng cao độ trước trận gặp Indonesia hôm nay, ở lượt hai bảng A hạng Nhất FIFA ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-27T23:22:19+07:00",
+      "fetched": "2026-09-28T07:07:21.312348+07:00"
+    },
+    {
+      "id": "55c01d516e48b76af2995346bf141693",
+      "title": "California lo bờ biển xói mòn mạnh hơn vì El Niño",
+      "link": "https://thanhnien.vn/california-lo-bo-bien-xoi-mon-manh-hon-vi-el-nio-185260927173339548.htm",
+      "summary": "Mực nước biển dâng cao, các bãi biển dần biến mất và những con sóng dữ dội do bão đang làm thay đổi diện mạo đường bờ biển California. Những vấn đề nghiêm trọng nhất có thể vẫn còn ở phía trước, khi hiện tượng El Niño mạnh lên cùng với biến đổi khí hậu làm gia tăng nguy cơ ngập lụt và xói mòn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T23:14:00+07:00",
+      "fetched": "2026-09-28T07:07:13.050047+07:00"
+    },
+    {
+      "id": "50d5eb8cad0ce81b22d1e464f72efce3",
+      "title": "Lịch đấu ngày 28/9 của Việt Nam ở ASIAD 2026",
+      "link": "https://vnexpress.net/lich-dau-ngay-28-9-cua-viet-nam-o-asiad-2026-5125455.html",
+      "summary": "Đoàn thể thao Việt Nam tranh tài ở nhiều môn ASIAD hôm nay, như bắn súng 25m nữ, quyền Anh, cầu mây, bóng chuyền và hai chung kết điền kinh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-27T23:09:09+07:00",
+      "fetched": "2026-09-28T07:07:21.312528+07:00"
+    },
+    {
+      "id": "7e22dc2154e0f82566934375c276137c",
+      "title": "Thủ đô phải đi trước, làm gương",
+      "link": "https://thanhnien.vn/thu-do-phai-di-truoc-lam-guong-185260927204112234.htm",
+      "summary": "Chiều 27.9, tại Hà Nội, Tổng Bí thư, Chủ tịch nước Tô Lâm cùng Đoàn đại biểu Quốc hội TP.Hà Nội, đơn vị bầu cử số 1 tiếp xúc cử tri các phường: Ô Chợ Dừa, Ba Đình, Ngọc Hà, Giảng Võ, Hoàn Kiếm, Đống Đa, Kim Liên, Láng, Cửa Nam và Văn Miếu - Quốc Tử Giám, trước Kỳ họp thứ hai, Quốc hội khóa XVI.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T23:08:00+07:00",
+      "fetched": "2026-09-28T07:07:13.050228+07:00"
+    },
+    {
+      "id": "1018abb8ae7890c2077d4afc0f91dfe1",
+      "title": "Đẩy nhanh tiến độ cao tốc Hữu Nghị - Chi Lăng và Đồng Đăng - Trà Lĩnh",
+      "link": "https://thanhnien.vn/day-nhanh-tien-do-cao-toc-huu-nghi-chi-lang-va-dong-dang-tra-linh-185260927211402257.htm",
+      "summary": "Sáng 27.9, Phó thủ tướng thường trực Chính phủ Phạm Gia Túc cùng Đoàn công tác của Chính phủ và tỉnh Lạng Sơn, Cao Bằng kiểm tra dự án tuyến cao tốc cửa khẩu Hữu Nghị - Chi Lăng (Lạng Sơn) và cao tốc Đồng Đăng (Lạng Sơn) - Trà Lĩnh (Cao Bằng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T23:04:00+07:00",
+      "fetched": "2026-09-28T07:07:13.050382+07:00"
+    },
+    {
+      "id": "dcd746e6aa6b7c8de0fda492be76361d",
+      "title": "Sửa định mức giáo viên để nâng chất lượng hay giảm biên chế?",
+      "link": "https://thanhnien.vn/sua-dinh-muc-giao-vien-de-nang-chat-luong-hay-giam-bien-che-185260927194149145.htm",
+      "summary": "Bộ GD-ĐT cho biết sắp ban hành quy định định mức mới về giáo viên trong trường học với một số dự kiến giúp giảm biên chế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T23:03:00+07:00",
+      "fetched": "2026-09-28T07:07:13.050530+07:00"
+    },
+    {
+      "id": "bb000bdd717e43fe4b5c75b3fad3a8f4",
+      "title": "'Khai tử' doanh nghiệp vẫn khó",
+      "link": "https://thanhnien.vn/khai-tu-doanh-nghiep-van-kho-185260927214332269.htm",
+      "summary": "Chiến dịch làm sạch mã số thuế còn hơn 3 tháng nữa là kết thúc nhưng số lượng doanh nghiệp, hộ/cá nhân kinh doanh ngưng hoạt động chưa hoàn tất đóng mã số thuế vẫn rất lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T23:00:00+07:00",
+      "fetched": "2026-09-28T07:07:13.050691+07:00"
+    },
+    {
+      "id": "9632ba4ead2eb249b7e9b04ea7bc1c84",
+      "title": "Khơi thông vốn tín dụng cho hạ tầng du lịch",
+      "link": "https://thanhnien.vn/khoi-thong-von-tin-dung-cho-ha-tang-du-lich-185260927212915845.htm",
+      "summary": "Quyết định không tính dư nợ của nhà hàng, khách sạn, khu du lịch, sinh thái, nghỉ dưỡng vào dư nợ bất động sản trong năm 2026 của Ngân hàng Nhà nước được đánh giá là chính sách kịp thời để triển khai Nghị quyết 26 của Bộ Chính trị về phát triển du lịch VN trở thành ngành kinh tế mũi nhọn trong kỷ ng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T23:00:00+07:00",
+      "fetched": "2026-09-28T07:07:13.050864+07:00"
+    },
+    {
+      "id": "376b70eff105ee5e08857fe1dc0d115b",
+      "title": "Trái phiếu chính phủ Việt Nam 'đắt hàng'",
+      "link": "https://vnexpress.net/trai-phieu-chinh-phu-viet-nam-dat-hang-5125434.html",
+      "summary": "Kho bạc Nhà nước vừa huy động hơn 27.000 tỷ đồng trái phiếu chính phủ, trong đó kỳ hạn 10 năm có tỷ lệ hấp thụ tuyệt đối và phải phát hành thêm nhờ lãi suất neo cao.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-27T23:00:00+07:00",
+      "fetched": "2026-09-28T07:07:17.099317+07:00"
+    },
+    {
+      "id": "197002817f847693c2a6f840f7b63016",
+      "title": "Đức thua sốc dưới thời Klopp",
+      "link": "https://vnexpress.net/duc-thua-soc-duoi-thoi-klopp-5125458.html",
+      "summary": "Trong trận thứ hai dưới thời Jurgen Klopp, Đức bất ngờ thua Hy Lạp 0-1 ngay trên sân nhà WWK, ở lượt hai bảng A2 UEFA Nations League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-27T22:46:07+07:00",
+      "fetched": "2026-09-28T07:07:21.312692+07:00"
+    },
+    {
+      "id": "99bdb35fe9640c0923328a22692f6caf",
+      "title": "Kiệt sức, nghỉ việc vì kiểm soát an toàn AI",
+      "link": "https://vnexpress.net/kiet-suc-nghi-viec-vi-kiem-soat-an-toan-ai-5124860.html",
+      "summary": "Khi AI ngày càng phát triển dẫn đến nguy cơ vượt kiểm soát, nhiệm vụ đảm bảo an toàn trở nên khó khăn, khiến nhiều nhân viên nghỉ việc hoặc tìm đến tư vấn tâm lý.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-27T22:30:00+07:00",
+      "fetched": "2026-09-28T07:07:19.860816+07:00"
+    },
+    {
+      "id": "f547de6df0990fd111eb6c84d43ab58e",
+      "title": "Bồ Đào Nha thắng Na Uy trong ngày Ronaldo dự bị",
+      "link": "https://vnexpress.net/bo-dao-nha-thang-na-uy-trong-ngay-ronaldo-du-bi-5125457.html",
+      "summary": "Tiền đạo Cristiano Ronaldo lần đầu dự bị suốt 90 phút sau hơn 2 năm, khi Bồ Đào Nha thắng Na Uy 2-1 ở lượt hai bảng A4 UEFA Nations League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-27T22:09:28+07:00",
+      "fetched": "2026-09-28T07:07:21.312854+07:00"
+    },
+    {
+      "id": "58043eb7eee99414cbdaec2367f55211",
+      "title": "Ác mộng với hàng không Iran trước lệnh 'cấm cửa toàn cầu' của Mỹ",
+      "link": "https://vnexpress.net/ac-mong-voi-hang-khong-iran-truoc-lenh-cam-cua-toan-cau-cua-my-5123819.html",
+      "summary": "Lệnh trừng phạt mới của Mỹ có thể khiến ngành hàng không Iran mất nhiều điểm đến quốc tế, gia tăng áp lực lên nền kinh tế nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-27T22:00:00+07:00",
+      "fetched": "2026-09-28T07:07:15.612263+07:00"
+    },
+    {
+      "id": "888ed2ba6e2d1ab5e7f88ae98c72e474",
+      "title": "Nhiều phòng gym nợ thuế tiền tỷ",
+      "link": "https://vnexpress.net/nhieu-phong-gym-no-thue-tien-ty-5125209.html",
+      "summary": "Nhiều doanh nghiệp kinh doanh phòng gym có tên trong danh sách công khai nợ thuế của cơ quan Thuế TP HCM, dẫn đầu là Citigym với 7,53 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-27T22:00:00+07:00",
+      "fetched": "2026-09-28T07:07:17.099510+07:00"
     },
     {
       "id": "8b57cea81482b6e8cb27d2ffb74e6f1b",
@@ -761,6 +1081,16 @@ window.newsData_2026_09_28 = {
       "category": "Tổng hợp",
       "published": "2026-09-27T07:17:45+07:00",
       "fetched": "2026-09-28T04:00:53.472729+07:00"
+    },
+    {
+      "id": "f8cd9b6599be70c3383563c56646dc66",
+      "title": "Bạn có thể sửa '5 + 2 = 4' đúng bằng cách di chuyển 1 que diêm?",
+      "link": "https://vnexpress.net/ban-co-the-sua-5-2-4-dung-bang-cach-di-chuyen-1-que-diem-5124320.html",
+      "summary": "Câu đố tưởng đơn giản nhưng có thể khiến bạn phải suy nghĩ vài vòng mới tìm ra đáp án!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T07:00:00+07:00",
+      "fetched": "2026-09-28T07:07:10.297921+07:00"
     },
     {
       "id": "f30f2d13ea08cd0fe2ac82ce0a379f8b",
