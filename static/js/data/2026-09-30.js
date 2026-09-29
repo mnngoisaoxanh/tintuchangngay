@@ -1,7 +1,47 @@
 window.newsData_2026_09_30 = {
   "date": "2026-09-30",
-  "lastUpdated": "2026-09-30T00:16:21.734968+07:00",
+  "lastUpdated": "2026-09-30T04:39:14.982792+07:00",
   "articles": [
+    {
+      "id": "ff7cab92e95ae4f2adeff691cfb1aff6",
+      "title": "Premier League chính thức phán Man City có tội",
+      "link": "https://tuoitre.vn/premier-league-chinh-thuc-phan-man-city-co-toi-100260929234017593.htm",
+      "summary": "Khuya 29-9, Premier League công bố kết luận Man City vi phạm nghiêm trọng các quy định tài chính trong 9 mùa giải, với những thủ thuật làm sai lệch doanh thu và chi phí hơn 900 triệu bảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-30T04:39:07.725673+07:00",
+      "fetched": "2026-09-30T04:39:07.725713+07:00"
+    },
+    {
+      "id": "ecfe8b769e0f7c799e21c4cf218bde40",
+      "title": "Dọn rác sau trận tuyển Việt Nam đấu Thái Lan, CĐV Việt Nam để lại hình ảnh đẹp",
+      "link": "https://tuoitre.vn/don-rac-sau-tran-tuyen-viet-nam-dau-thai-lan-cdv-viet-nam-de-lai-hinh-anh-dep-100260929221235701.htm",
+      "summary": "Các cổ động viên Việt Nam để lại hình ảnh đẹp trên khán đài sân Si Jalak Harupat (Bandung, Indonesia), sau trận đội tuyển Việt Nam đấu Thái Lan tại FIFA ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-30T04:39:07.725634+07:00",
+      "fetched": "2026-09-30T04:39:07.725668+07:00"
+    },
+    {
+      "id": "8bf793e43d277371c451bc4ed662a8e8",
+      "title": "Chanathip: Lâu rồi tôi mới thắng đội tuyển Việt Nam",
+      "link": "https://tuoitre.vn/chanathip-lau-roi-toi-moi-thang-doi-tuyen-viet-nam-100260929224718043.htm",
+      "summary": "Tiền vệ Chanathip Songkrasin vui sướng khi giúp đội tuyển Thái Lan đánh bại đội tuyển Việt Nam 2-0 ở FIFA ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-30T04:39:07.725591+07:00",
+      "fetched": "2026-09-30T04:39:07.725628+07:00"
+    },
+    {
+      "id": "75ce966d23a32cb5c6fb59afd4d96bff",
+      "title": "Đình Bắc, Thành Long kiểm tra doping sau trận đấu với Thái Lan",
+      "link": "https://tuoitre.vn/dinh-bac-thanh-long-kiem-tra-doping-sau-tran-dau-voi-thai-lan-100260929235707985.htm",
+      "summary": "Tiền đạo Nguyễn Đình Bắc và tiền vệ Lê Phạm Thành Long phải ở lại kiểm tra doping (chất cấm) sau trận tuyển Việt Nam đấu Thái Lan tại FIFA ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-30T04:39:07.725464+07:00",
+      "fetched": "2026-09-30T04:39:07.725583+07:00"
+    },
     {
       "id": "56c9c47407f474880a2287eeb5900061",
       "title": "Máy bay Iran bị bắt giữ ngay trước giờ cất cánh vì nợ 3 triệu USD",
@@ -151,6 +191,96 @@ window.newsData_2026_09_30 = {
       "category": "Tổng hợp",
       "published": "2026-09-30T00:16:14.875145+07:00",
       "fetched": "2026-09-30T00:16:14.875282+07:00"
+    },
+    {
+      "id": "ea868bab289ee29a029c805ba5a9adc5",
+      "title": "Sắp đấu giá biển số xe lần thứ 11, TP.HCM có tới 99.000 biển số",
+      "link": "https://thanhnien.vn/sap-dau-gia-bien-so-xe-lan-thu-11-tphcm-co-toi-99000-bien-so-185260929221847422.htm",
+      "summary": "Phiên đấu giá biển số xe lần thứ 11 dự kiến diễn ra đầu tháng 11.2026 với 748.215 biển số. Riêng TP.HCM có 99.000 biển số ô tô, mô tô, xe gắn máy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-29T21:38:00+07:00",
+      "fetched": "2026-09-30T04:39:05.715731+07:00"
+    },
+    {
+      "id": "34a32ce66c876f326f09777d37753d3f",
+      "title": "Vì sao nhiều liệt sĩ Trung đoàn 205 Đông Nam bộ có tên nhưng chưa có mộ?",
+      "link": "https://thanhnien.vn/vi-sao-nhieu-liet-si-trung-doan-205-dong-nam-bo-co-ten-nhung-chua-co-mo-185260928231706723.htm",
+      "summary": "Khoảng 729 liệt sĩ của Trung đoàn Bộ binh 205 Đông Nam bộ được khắc tên trên bia tưởng niệm ở 6 nghĩa trang liệt sĩ từ Tây Ninh đến TP.HCM, Đồng Nai, Lâm Đồng, nhưng chưa có ngôi mộ nào mang tên các anh hùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-29T21:30:00+07:00",
+      "fetched": "2026-09-30T04:39:05.715826+07:00"
+    },
+    {
+      "id": "14127fc1271d4d75a2f076435f4e9006",
+      "title": "OpenAI hủy công bố mô hình AI vì lo ngại an toàn",
+      "link": "https://thanhnien.vn/openai-huy-cong-bo-mo-hinh-ai-vi-lo-ngai-an-toan-185260929223729868.htm",
+      "summary": "Công ty công nghệ OpenAI (Mỹ) thông báo sẽ không phát hành mô hình trí tuệ nhân tạo (AI) mới nhất có tên là Astra 6.1, sau khi các cuộc thử nghiệm nội bộ cho thấy mô hình này không đáp ứng được các tiêu chuẩn an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-29T21:09:00+07:00",
+      "fetched": "2026-09-30T04:39:05.715910+07:00"
+    },
+    {
+      "id": "198d94d386741bca1ea50487d073f758",
+      "title": "Con đường sình lầy ở TP.HCM, dân té ngã: Phường nói gì?",
+      "link": "https://thanhnien.vn/con-duong-sinh-lay-o-tphcm-dan-te-nga-phuong-noi-gi-185260928192036007.htm",
+      "summary": "Đường Đặng Thùy Trâm ở TP.HCM đang thi công, sình lầy sau mưa, người đi đường qua đây khó khăn, có những trường hợp té ngã. UBND phường Bình Lợi Trung yêu cầu xử lý bùn đất, dự kiến xong mặt đường vào tháng 10.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-29T21:00:00+07:00",
+      "fetched": "2026-09-30T04:39:05.715989+07:00"
+    },
+    {
+      "id": "7c757273c1e70301cb223e20d283a3f5",
+      "title": "Thái Lan từ bỏ 'bản sắc' để thắng đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/thai-lan-tu-bo-ban-sac-de-thang-doi-tuyen-viet-nam-185260929223746385.htm",
+      "summary": "Ai cũng nghĩ rằng Thái Lan sẽ chơi tấn công dồn dập với những Chanathip Songkrasin, Supachai Jaided… Tuy nhiên, \"Voi chiến\" đã thi đấu thực dụng để thắng đội tuyển VN 2-0 ở lượt trận thứ 2 bảng B FIFA ASEAN Cup 2026, diễn ra tối qua 29.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-29T20:14:00+07:00",
+      "fetched": "2026-09-30T04:39:05.716071+07:00"
+    },
+    {
+      "id": "c6aa7a6080a3f32a374dcd8444707a2c",
+      "title": "Bỉ chuyển cho Ukraine 3 chiếc F-16, đặc phái viên của Tổng thống Putin đến Mỹ",
+      "link": "https://thanhnien.vn/bi-chuyen-cho-ukraine-3-chiec-f-16-dac-phai-vien-cua-tong-thong-putin-den-my-185260929215512409.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky ngày 29.9 thông báo Bỉ sẽ chuyển giao 3 máy bay chiến đấu F-16 cho Ukraine vào cuối năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-29T18:31:00+07:00",
+      "fetched": "2026-09-30T04:39:05.716150+07:00"
+    },
+    {
+      "id": "60a878bbecbef8bd80c00fc7e7bd818f",
+      "title": "Những hệ thống dẫn đường Nga có thể 'gây thảm họa' cho Ukraine",
+      "link": "https://vnexpress.net/nhung-he-thong-dan-duong-nga-co-the-gay-tham-hoa-cho-ukraine-5123664.html",
+      "summary": "Hai hệ thống dẫn đường mới của Nga có thể vô hiệu hóa nhiều biện pháp đối phó và gây thêm khó khăn cho lực lượng phòng không, theo quan chức Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-29T18:00:00+07:00",
+      "fetched": "2026-09-30T04:39:09.030822+07:00"
+    },
+    {
+      "id": "8b946faae59236e158dd0fe93371ce68",
+      "title": "Huyết áp cao, buổi sáng ăn gì để tốt cho tim?",
+      "link": "https://thanhnien.vn/huyet-ap-cao-buoi-sang-an-gi-de-tot-cho-tim-185260930001153541.htm",
+      "summary": "Người bị huyết áp cao không nhất thiết phải ăn những món 'tây' như yến mạch hay bánh mì nguyên cám. Nhiều món ăn sáng quen thuộc của người Việt vẫn có thể lựa chọn, miễn là chú ý lượng muối và cách chế biến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-29T17:20:00+07:00",
+      "fetched": "2026-09-30T04:39:05.716227+07:00"
+    },
+    {
+      "id": "037e3dd1805ccbe8850e33b69bf5d700",
+      "title": "Sau tuổi 50, càng ngồi lâu càng hại sức khỏe: Mỗi ngày nên vận động thế nào?",
+      "link": "https://thanhnien.vn/sau-tuoi-50-cang-ngoi-lau-cang-hai-suc-khoe-moi-ngay-nen-van-dong-the-nao-185260929174248011.htm",
+      "summary": "Sau tuổi 50, cơ thể bắt đầu có nhiều thay đổi về khối cơ, khả năng chuyển hóa và sức khỏe tim mạch. Do đó, ngồi nhiều, ít vận động trong giai đoạn này sẽ làm tăng nguy cơ bệnh tim, tiểu đường và tử vong sớm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-29T17:20:00+07:00",
+      "fetched": "2026-09-30T04:39:05.716306+07:00"
     },
     {
       "id": "34ec3a683278a051cb463caf367190fc",
