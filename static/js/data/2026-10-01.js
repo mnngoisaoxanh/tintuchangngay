@@ -1,7 +1,157 @@
 window.newsData_2026_10_01 = {
   "date": "2026-10-01",
-  "lastUpdated": "2026-10-01T03:24:21.757205+07:00",
+  "lastUpdated": "2026-10-01T07:54:58.073410+07:00",
   "articles": [
+    {
+      "id": "1823591faf1cc7bf32243d9cf756e6e4",
+      "title": "Nhà chung cư: thời hạn sử dụng khác gì thời hạn sở hữu?",
+      "link": "https://tuoitre.vn/nha-chung-cu-thoi-han-su-dung-khac-gi-thoi-han-so-huu-100260926172602807.htm",
+      "summary": "Số người sở hữu nhà chung cư ngày càng tăng, vì thế cần giải thích để cư dân phân biệt về thời hạn sử dụng nhà chung cư theo niên hạn công trình với thời hạn sở hữu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T07:54:48.876512+07:00",
+      "fetched": "2026-10-01T07:54:48.876572+07:00"
+    },
+    {
+      "id": "e838ddbc2321e119e409781b52b28ddb",
+      "title": "Tin tức sáng 1-10: Lãi suất liên ngân hàng qua đêm xuống sát 0%",
+      "link": "https://tuoitre.vn/tin-tuc-sang-1-10-lai-suat-lien-ngan-hang-qua-dem-xuong-sat-0-100260930190348624.htm",
+      "summary": "Một số tin tức đáng chú ý về TP.HCM: Rà soát doanh nghiệp nợ, trốn đóng bảo hiểm xã hội; Yêu cầu nắm sớm nguy cơ đình công ở doanh nghiệp; Phạt nhiều phòng khám vì sai phạm trong khám chữa bệnh...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T07:54:48.876440+07:00",
+      "fetched": "2026-10-01T07:54:48.876502+07:00"
+    },
+    {
+      "id": "731c676da54f581069885da68d49822d",
+      "title": "Lịch thi đấu Asiad ngày 1-10 của đoàn Việt Nam: Chờ tin vui từ esports, taekwondo",
+      "link": "https://tuoitre.vn/lich-thi-dau-asiad-ngay-1-10-cua-doan-viet-nam-cho-tin-vui-tu-esport-taekwondo-100260930191219178.htm",
+      "summary": "Hôm nay (1-10), đoàn thể thao Việt Nam hứa hẹn sẽ gặt hái thêm nhiều huy chương khi có những nội dung thi đấu đáng chú ý ở các môn võ cũng như esports.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T07:54:48.876372+07:00",
+      "fetched": "2026-10-01T07:54:48.876429+07:00"
+    },
+    {
+      "id": "190b66fb1aeb351bcb356dc5b15ea526",
+      "title": "Thiết kế sân vận động Rạch Chiếc sức chứa 70.000 chỗ xuất hiện trên tạp chí kiến trúc Anh",
+      "link": "https://tuoitre.vn/thiet-ke-san-van-dong-rach-chiec-suc-chua-70000-cho-xuat-hien-tren-tap-chi-kien-truc-anh-10026100101514973.htm",
+      "summary": "Tạp chí kiến trúc Anh Dezeen đăng tải công bố và những hình ảnh đầu tiên của sân vận động Rạch Chiếc do Hãng kiến trúc Populous thiết kế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T07:54:48.876305+07:00",
+      "fetched": "2026-10-01T07:54:48.876361+07:00"
+    },
+    {
+      "id": "baf5ab40823f3ac923af539f1f42f613",
+      "title": "Tình yêu càng công khai, càng rầm rộ… càng hạnh phúc?",
+      "link": "https://tuoitre.vn/tinh-yeu-cang-cong-khai-cang-ram-ro-cang-hanh-phuc-100260928163724084.htm",
+      "summary": "Chuyện tình cảm, yêu đương hoàn toàn có thể được chia sẻ trên mạng xã hội, nhưng cần có giới hạn. Một bức ảnh kỷ niệm có thể là niềm vui, song những cuộc cãi vã, chuyện riêng tư hay tổn thương lại nên được giữ ở phạm vi của hai người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T07:54:48.876236+07:00",
+      "fetched": "2026-10-01T07:54:48.876294+07:00"
+    },
+    {
+      "id": "8f4b09e7b232c519221209373077e956",
+      "title": "Lịch trực tiếp FIFA ASEAN Cup 2026: Indonesia, Malaysia tranh ngôi đầu",
+      "link": "https://tuoitre.vn/lich-truc-tiep-fifa-asean-cup-2026-indoneisa-malaysia-tranh-ngoi-dau-100260930171409066.htm",
+      "summary": "Indonesia và Malaysia bước vào lượt cuối hạng 1 FIFA ASEAN Cup 2026 với mục tiêu ngôi nhất bảng A.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T07:54:48.876167+07:00",
+      "fetched": "2026-10-01T07:54:48.876225+07:00"
+    },
+    {
+      "id": "e3bc0b44549de52b12ad4ab91a3d2a5a",
+      "title": "Tin tức thế giới 1-10: Ông Trump nói về vụ chuyến bay của Flydubai; Hàn Quốc đầu tư lớn vào Mỹ",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-1-10-ong-trump-noi-ve-vu-chuyen-bay-cua-flydubai-han-quoc-dau-tu-lon-vao-my-100261001062607926.htm",
+      "summary": "Tình báo Nội địa Anh nói cần cắt quan hệ với một viện nghiên cứu Trung Quốc; Hàn Quốc đầu tư hàng trăm tỉ USD vào Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T07:54:48.876093+07:00",
+      "fetched": "2026-10-01T07:54:48.876151+07:00"
+    },
+    {
+      "id": "589268628d935ed008d3c205d063e466",
+      "title": "5 phim hành động hay nhất của huyền thoại Lý Liên Kiệt",
+      "link": "https://tuoitre.vn/5-phim-hanh-dong-hay-nhat-cua-huyen-thoai-ly-lien-kiet-100260930195328939.htm",
+      "summary": "Trong lịch sử phim võ thuật, Lý Liên Kiệt là một trong những ngôi sao hiếm hoi có thể đưa võ thuật Trung Hoa từ màn ảnh Hong Kong đến với khán giả toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T07:54:48.876026+07:00",
+      "fetched": "2026-10-01T07:54:48.876083+07:00"
+    },
+    {
+      "id": "681f8366555f79da025ee32328bda8e8",
+      "title": "‘Sự sống, sự chết và đèn neon’ đoạt giải UOB Painting of the Year 2026",
+      "link": "https://tuoitre.vn/su-song-su-chet-va-den-neon-doat-giai-uob-painting-of-the-year-2026-100261001004826169.htm",
+      "summary": "Khởi nguồn từ ký ức tuổi thơ về một nghĩa trang liệt sĩ, tác phẩm ‘Sự sống, sự chết và đèn neon’ của nghệ sĩ Lê Thế Lãm đã đoạt giải cao nhất UOB Painting of the Year 2026 tại Việt Nam, trị giá 500 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T07:54:48.875955+07:00",
+      "fetched": "2026-10-01T07:54:48.876016+07:00"
+    },
+    {
+      "id": "01de12a74feef657102f224dfe13c7be",
+      "title": "8 phong cách dạo phố mùa thu tại Tuần lễ Thời trang Milan",
+      "link": "https://tuoitre.vn/8-phong-cach-dao-pho-mua-thu-tai-tuan-le-thoi-trang-milan-100260930212110334.htm",
+      "summary": "Những bộ cánh đường phố nổi bật nhất được ghi nhận tại Tuần lễ Thời trang Milan tập trung vào các món đồ kinh điển của tủ quần áo mùa thu như áo khoác dáng dài, chân váy và áo len.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T07:54:48.875884+07:00",
+      "fetched": "2026-10-01T07:54:48.875945+07:00"
+    },
+    {
+      "id": "eb5c43ef1134467b48050d1febeffaca",
+      "title": "Ông Nawat phỏng vấn kín, top 30 Miss Universe Vietnam 2026 khoe dáng với bikini",
+      "link": "https://tuoitre.vn/ong-nawat-phong-van-kin-top-30-miss-universe-vietnam-2026-khoe-dang-voi-bikini-100261001055949681.htm",
+      "summary": "Top 30 Miss Universe Vietnam 2026 bước vào vòng phỏng vấn kín với sự tham gia của ông Nawat Itsaragrisil - CEO Miss Universe Eastern và Hoa hậu Nguyễn Hương Giang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T07:54:48.875813+07:00",
+      "fetched": "2026-10-01T07:54:48.875873+07:00"
+    },
+    {
+      "id": "4472c0ad38957e14f7750aab1a716fd7",
+      "title": "Bác tài container và xe du lịch nói 'ưu, nhược' khi đi cao tốc và quốc lộ",
+      "link": "https://tuoitre.vn/bac-tai-container-va-xe-du-lich-noi-uu-nhuoc-khi-di-cao-toc-va-quoc-lo-100260930144822742.htm",
+      "summary": "Có nhiều lý do khiến tài xế container chọn quốc lộ, còn xe du lịch và xe khách vẫn đi cao tốc, từ đó chuyên gia đưa ra giải pháp để cả hai loại đường phục vụ giao thông tốt hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T07:54:48.875714+07:00",
+      "fetched": "2026-10-01T07:54:48.875800+07:00"
+    },
+    {
+      "id": "09e1b1f95f3cd3ec7febc471cfb145e1",
+      "title": "Nga công bố video diễn tập đổ bộ ở Bắc Cực",
+      "link": "https://tuoitre.vn/nga-cong-bo-video-dien-tap-do-bo-o-bac-cuc-10026100107033413.htm",
+      "summary": "Bộ Quốc phòng Nga vừa công bố đoạn video ghi lại cảnh binh sĩ nước này diễn tập tấn công đổ bộ nhằm vào lực lượng đối phương giả định ở sâu trong vùng Bắc Cực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T07:54:48.875642+07:00",
+      "fetched": "2026-10-01T07:54:48.875704+07:00"
+    },
+    {
+      "id": "e0a7e1f1996287c0fb895034b7323120",
+      "title": "Bảng xếp hạng huy chương Asiad 20: Việt Nam hy vọng có HCV thứ 3",
+      "link": "https://tuoitre.vn/bang-xep-hang-huy-chuong-asiad-20-viet-nam-hy-vong-co-hcv-thu-3-100260930212211112.htm",
+      "summary": "Báo Tuổi Trẻ cập nhật diễn biến bảng xếp hạng huy chương Asiad 20 và những sự kiện đáng chú ý của thể thao Việt Nam tại đại hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T07:54:48.875563+07:00",
+      "fetched": "2026-10-01T07:54:48.875631+07:00"
+    },
+    {
+      "id": "0a894fba19459499871ff7d983a28cf6",
+      "title": "Heritage Ho Chi Minh City: Thi kể chuyện di sản bằng video ngắn",
+      "link": "https://tuoitre.vn/heritage-ho-chi-minh-city-thi-ke-chuyen-di-san-bang-video-ngan-100261001070821696.htm",
+      "summary": "Từ những ký ức, lễ hội và câu chuyện văn hóa gần gũi trong đời sống, người trẻ đang tìm cách kể chuyện di sản bằng ngôn ngữ của mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T07:54:48.875406+07:00",
+      "fetched": "2026-10-01T07:54:48.875549+07:00"
+    },
     {
       "id": "445a8163e7a438ab197fc16d98b72811",
       "title": "CSGT TP.HCM dầm mưa phân luồng, lội nước giúp dân đưa xe máy qua điểm ngập",
@@ -151,6 +301,276 @@ window.newsData_2026_10_01 = {
       "category": "Tổng hợp",
       "published": "2026-10-01T03:24:15.202053+07:00",
       "fetched": "2026-10-01T03:24:15.202204+07:00"
+    },
+    {
+      "id": "7cf7886cf862cd5a0db8ee73ff468098",
+      "title": "Sớm hoàn thiện thủ tục phê chuẩn Hiệp định ASEAN \nvề dẫn độ",
+      "link": "https://thanhnien.vn/som-hoan-thien-thu-tuc-phe-chuan-hiep-dinh-asean-ve-dan-do-185260930214521168.htm",
+      "summary": "Chiều 30.9, Thủ tướng Chính phủ Lê Minh Hưng đã tiếp Trưởng đoàn các nước ASEAN và Ban Thư ký ASEAN nhân dịp tham dự Hội nghị lãnh đạo cơ quan thực thi pháp luật các nước ASEAN về hợp tác đấu tranh với tội phạm truy nã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T00:45:00+07:00",
+      "fetched": "2026-10-01T07:54:46.805867+07:00"
+    },
+    {
+      "id": "8f452bb95e6ca69f31ca01bbe7aa2945",
+      "title": "Tàu lượn siêu tốc đóng cửa vì nghi vấn gây tổn thương não",
+      "link": "https://thanhnien.vn/tau-luon-sieu-toc-dong-cua-vi-nghi-van-gay-ton-thuong-nao-18526100106353895.htm",
+      "summary": "Một tàu lượn siêu tốc nổi tiếng ở bang California (Mỹ) đã bị đóng cửa vĩnh viễn sau khi hàng chục người cho rằng họ bị tổn thương não khi tham gia trò chơi này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T00:42:00+07:00",
+      "fetched": "2026-10-01T07:54:46.806039+07:00"
+    },
+    {
+      "id": "eaa94fcad293f20d47ab6c677bfa3ced",
+      "title": "Vệ tinh thiên văn sắp lao xuống trái đất, xác suất gây thiệt hại ra sao?",
+      "link": "https://thanhnien.vn/ve-tinh-thien-van-sap-lao-xuong-trai-dat-xac-suat-gay-thiet-hai-ra-sao-185261001070435251.htm",
+      "summary": "Giới chuyên môn cho rằng dù một số bộ phận của kính thiên văn không gian Swift có thể còn sót lại sau khi tái nhập khí quyển, xác suất các mảnh vỡ này gây thiệt hại đáng kể về tài sản hay thương tích cho con người là rất thấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T00:41:00+07:00",
+      "fetched": "2026-10-01T07:54:46.806197+07:00"
+    },
+    {
+      "id": "b7d6109bf5dfc63c65b67247b2de3c87",
+      "title": "Xin đừng chơi dại",
+      "link": "https://thanhnien.vn/xin-dung-choi-dai-185260930185348104.htm",
+      "summary": "Buông cả hai tay khi đang chạy xe máy, vừa chạy xe vừa sử dụng điện thoại, thậm chí không có giấy phép lái xe…, nếu gọi đó là 'chơi dại' thì có lẽ cũng không quá lời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T00:41:00+07:00",
+      "fetched": "2026-10-01T07:54:46.806357+07:00"
+    },
+    {
+      "id": "93d3313c4a9f081927e8b19921b5578a",
+      "title": "Bộ trưởng Chiến tranh Mỹ nói đã cắt giảm 20% số tướng lĩnh, đô đốc",
+      "link": "https://thanhnien.vn/bo-truong-chien-tranh-my-noi-da-cat-giam-20-so-tuong-linh-do-doc-185261001072359545.htm",
+      "summary": "Bộ trưởng Chiến tranh Mỹ Pete Hegseth ngày 30.9 thông báo Mỹ đã cắt giảm 20% số lượng tướng lĩnh và đô đốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T00:39:00+07:00",
+      "fetched": "2026-10-01T07:54:46.806512+07:00"
+    },
+    {
+      "id": "f499c1118f60fc3d3a1760b2fe84033a",
+      "title": "Ám ảnh mùi cá chết tại hồ Công viên Nghĩa Đô: 'Đeo 2 khẩu trang vẫn không chịu được mùi'",
+      "link": "https://thanhnien.vn/am-anh-mui-ca-chet-tai-ho-cong-vien-nghia-do-deo-2-khau-trang-van-khong-chiu-duoc-mui-185260930204928238.htm",
+      "summary": "Tình trạng cá chết tiếp tục xuất hiện tại hồ công viên Nghĩa Đô (TP.Hà Nội), nhiều xác cá nổi trên mặt nước, dạt vào ven bờ và bốc mùi hôi khó chịu. Sự việc tái diễn khiến nhiều người dân thường xuyên đến công viên tập thể dục, vui chơi không khỏi lo ngại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T00:37:00+07:00",
+      "fetched": "2026-10-01T07:54:46.806664+07:00"
+    },
+    {
+      "id": "92a120d9053bd4a4bc0b2ac24459ed30",
+      "title": "Bất ngờ với khối tài sản khủng của Jang Won Young ở tuổi 22",
+      "link": "https://thanhnien.vn/bat-ngo-voi-khoi-tai-san-khung-cua-jang-won-young-o-tuoi-22-185261001071202017.htm",
+      "summary": "Ở tuổi 22, Jang Won Young được cho là đã sở hữu khối tài sản hơn 6 triệu USD, cùng nguồn thu lớn từ âm nhạc, quảng cáo, dẫn chương trình và bất động sản cao cấp, Kbizoom đưa tin ngày 30.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T00:33:00+07:00",
+      "fetched": "2026-10-01T07:54:46.806844+07:00"
+    },
+    {
+      "id": "a7f04ea84d56e8674fd93d4844970011",
+      "title": "Nhiều giám đốc, trưởng phòng bị khởi tố vụ sai lệch kết quả quan trắc",
+      "link": "https://thanhnien.vn/nhieu-giam-doc-truong-phong-bi-khoi-to-vu-sai-lech-ket-qua-quan-trac-185261001070931604.htm",
+      "summary": "Trong số 28 người bị C04 khởi tố vì làm sai lệch kết quả quan trắc môi trường có nhiều người là giám đốc, phó giám đốc, phân viện trưởng, phân viện phó của các trung tâm môi trường, viện khoa học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T00:28:00+07:00",
+      "fetched": "2026-10-01T07:54:46.807014+07:00"
+    },
+    {
+      "id": "b69640bc3eaa00176286a4e56011d540",
+      "title": "Người đàn ông đứng sau danh xưng 'thần tiên tỷ tỷ' của Lưu Diệc Phi",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-dung-sau-danh-xung-than-tien-ty-ty-cua-luu-diec-phi-185261001070740588.htm",
+      "summary": "Trương Kỷ Trung được xem là một trong những người có vai trò quan trọng trong việc định hình hình tượng 'thần tiên tỷ tỷ' của Lưu Diệc Phi, khi hai tác phẩm do ông thực hiện đã trở thành những dấu mốc quan trọng đưa nữ diễn viên vụt sáng thành ngôi sao hàng đầu châu Á, Kbizoom đưa tin ngày 30.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T00:28:00+07:00",
+      "fetched": "2026-10-01T07:54:46.807164+07:00"
+    },
+    {
+      "id": "7bc1408df86613b9c4cc5adcdaffca97",
+      "title": "Giá xăng dầu hôm nay 1.10.2026:  Trong nước kỳ điều chỉnh chiều nay ra sao?",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-1102026-trong-nuoc-ky-dieu-chinh-chieu-nay-ra-sao-185261001064109317.htm",
+      "summary": "Giá dầu thế giới tăng hơn 1 USD do lo ngại nguồn cung tiếp tục bị hạn chế. Trong nước, giá xăng dầu dự báo giảm nhẹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T00:13:00+07:00",
+      "fetched": "2026-10-01T07:54:46.807309+07:00"
+    },
+    {
+      "id": "68898d8b82fad99e74197ecdb93853c8",
+      "title": "Từ 2050, Việt Nam có quy mô dân số siêu già",
+      "link": "https://thanhnien.vn/tu-2050-viet-nam-co-quy-mo-dan-so-sieu-gia-185260930152427653.htm",
+      "summary": "Theo dự báo về dân số trong 50 năm (2024 - 2074) của Cục Thống kê và UNFPA (Quỹ Dân số Liên Hiệp Quốc), VN đang trong thời kỳ già hóa dân số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T00:08:00+07:00",
+      "fetched": "2026-10-01T07:54:46.807456+07:00"
+    },
+    {
+      "id": "349d13a83d2356d452bb40ca75956cea",
+      "title": "Thủ tướng Anh: Iran liên quan nghi án tấn công căn cứ không quân",
+      "link": "https://vnexpress.net/thu-tuong-anh-iran-lien-quan-nghi-an-tan-cong-can-cu-khong-quan-5126865.html",
+      "summary": "Thủ tướng Burnham cho biết có những dấu hiệu cho thấy Iran tham gia vào nghi án tấn công căn cứ không quân ở Anh, nơi có máy bay Mỹ đồn trú.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-01T00:07:47+07:00",
+      "fetched": "2026-10-01T07:54:50.765326+07:00"
+    },
+    {
+      "id": "c6813dda86ed46b15814a2c1814a8f27",
+      "title": "Tin quốc tế sáng 1.10: Mỹ rút khỏi Iraq, chi tiết vụ cơ phó cố làm rơi máy bay",
+      "link": "https://thanhnien.vn/tin-quoc-te-sang-110-my-rut-khoi-iraq-chi-tiet-vu-co-pho-co-lam-roi-may-bay-185261001065440681.htm",
+      "summary": "Mỹ đã rút quân khỏi Iraq sau hơn một thập niên; thêm chi tiết vụ phi công phụ đâm phi công chính và nghi cố làm rơi máy bay chở khách... Thanh Niên sẽ tiếp tục cập nhật các thông tin quốc tế mới nhất trong ngày 1.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T00:07:00+07:00",
+      "fetched": "2026-10-01T07:54:46.807603+07:00"
+    },
+    {
+      "id": "bd98c404fac25e283bd14537084a6e15",
+      "title": "Gian nan giao thông kết nối rừng - biển: Từ ứng phó đến chủ động",
+      "link": "https://thanhnien.vn/gian-nan-giao-thong-ket-noi-rung-bien-tu-ung-pho-den-chu-dong-185260930185126516.htm",
+      "summary": "Theo các chuyên gia, sạt lở trên các cung đường đèo kết nối Tây nguyên với vùng duyên hải không chỉ do mưa lớn, nên cần chuyển từ xử lý điểm sạt sang quản trị rủi ro bằng khảo sát, quan trắc và quy hoạch dài hạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T00:07:00+07:00",
+      "fetched": "2026-10-01T07:54:46.807774+07:00"
+    },
+    {
+      "id": "86da9d8af0f389e0a9831884409ed9d1",
+      "title": "9 km tường chống ồn đã hoàn thành trên Vành đai 3 TP.HCM",
+      "link": "https://thanhnien.vn/9-km-tuong-chong-on-da-hoan-thanh-tren-vanh-dai-3-tphcm-18526093012114604.htm",
+      "summary": "Đoạn Vành đai 3 trên cao đi qua các khu đô thị thuộc TP.Thủ Đức cũ được lắp hơn 9.100 tấm chống ồn, dài khoảng 9 km. Giải pháp giúp giảm thiểu tiếng ồn và đảm bảo an toàn giao thông khi đưa tuyến đường vào khai thác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T00:06:00+07:00",
+      "fetched": "2026-10-01T07:54:46.807926+07:00"
+    },
+    {
+      "id": "c0135e1f83d31da8fd6918e19c580c75",
+      "title": "Nations League: Hy Lạp viết tiếp câu chuyện thần thoại?",
+      "link": "https://thanhnien.vn/nations-league-hy-lap-viet-tiep-cau-chuyen-than-thoai-18526093021221985.htm",
+      "summary": "Chỉ cần không thua trên sân nhà khi tiếp Hà Lan lúc 1 giờ 45 ngày 2.10, đội tuyển Hy Lạp của HLV Ivan Jovanovic sẽ sớm hoàn thành chỉ tiêu, và đó sẽ là một trong những bất ngờ lớn thú vị nhất tại Nations League mùa này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-01T00:00:00+07:00",
+      "fetched": "2026-10-01T07:54:46.808076+07:00"
+    },
+    {
+      "id": "85d6520acd8fef5816546fc22280318d",
+      "title": "Masan duy trì đà tăng trưởng nhờ MSR và mảng tiêu dùng",
+      "link": "https://vnexpress.net/masan-duy-tri-da-tang-truong-nho-msr-va-mang-tieu-dung-5126807.html",
+      "summary": "Masan ghi nhận doanh thu tăng 52% trong 8 tháng, với đóng góp từ MSR và nhóm hàng tiêu dùng, được các tổ chức quốc tế nâng giá mục tiêu cổ phiếu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-01T00:00:00+07:00",
+      "fetched": "2026-10-01T07:54:52.162986+07:00"
+    },
+    {
+      "id": "a1f540bd6f90326d02644e895dea8013",
+      "title": "Ông Trump ca ngợi hành khách cứu nguy chuyến bay flydubai",
+      "link": "https://vnexpress.net/ong-trump-ca-ngoi-hanh-khach-cuu-nguy-chuyen-bay-flydubai-5126863.html",
+      "summary": "Tổng thống Trump trao đổi với Thủ tướng Netanyahu về sự cố trên chuyến bay của flydubai, ca ngợi hành khách đã làm \"điều phi thường nhất\" khi ngăn thảm kịch xảy ra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-30T23:50:49+07:00",
+      "fetched": "2026-10-01T07:54:50.765511+07:00"
+    },
+    {
+      "id": "07f5138485c44abb335368132669692e",
+      "title": "Người gửi tiền 'săn' ngân hàng lãi suất cao",
+      "link": "https://vnexpress.net/nguoi-gui-tien-san-ngan-hang-lai-suat-cao-5126404.html",
+      "summary": "Miệt mài lên các hội nhóm tìm nơi lãi cao, chị Dung không ngần ngại đổi ngay ngân hàng có chênh lệch tiền lãi hàng chục triệu đồng mỗi năm cho khoản gửi 2 tỷ đồng đáo hạn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-30T23:00:18+07:00",
+      "fetched": "2026-10-01T07:54:52.162614+07:00"
+    },
+    {
+      "id": "409dc9686d3e3237d0bc0aaa1569ac7c",
+      "title": "Rooney từ chối nhận lại danh hiệu từ Man City",
+      "link": "https://vnexpress.net/rooney-tu-choi-nhan-lai-danh-hieu-tu-man-city-5126605.html",
+      "summary": "Cựu tiền đạo Man Utd Wayne Rooney không muốn nhận lại chức vô địch Ngoại hạng Anh 2011-2012, trong trường hợp Man City bị tước danh hiệu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-30T22:41:50+07:00",
+      "fetched": "2026-10-01T07:54:58.068850+07:00"
+    },
+    {
+      "id": "2f8c29f8f131b71ee1a3801edc09a405",
+      "title": "Lịch đấu của Việt Nam tại ASIAD 2026 ngày 1/10",
+      "link": "https://vnexpress.net/lich-dau-cua-viet-nam-tai-asiad-2026-ngay-1-10-5126845.html",
+      "summary": "Việt Nam tranh tài ở nhiều môn ngày 1/10 tại ASIAD 2026, như cầu mây, bắn cung, bắn súng, bóng chuyền nam và bán kết Liên minh Huyền thoại.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-30T22:40:27+07:00",
+      "fetched": "2026-10-01T07:54:58.068015+07:00"
+    },
+    {
+      "id": "50f7b14e88153d70b6f62df51d3e6e36",
+      "title": "Medvedev xin lỗi đối thủ sau khi vô địch ở Hàng Châu",
+      "link": "https://vnexpress.net/medvedev-xin-loi-doi-thu-sau-khi-vo-dich-o-hang-chau-5126851.html",
+      "summary": "Daniil Medvedev đùa rằng anh phải xin lỗi bạn thân Andrey Rublev vì giao bóng quá tốt trong trận chung kết Hàng Châu Mở rộng 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-30T22:37:50+07:00",
+      "fetched": "2026-10-01T07:54:58.069007+07:00"
+    },
+    {
+      "id": "3b40e05945bfa0755b79ef7724a185ee",
+      "title": "Cầu lông Trung Quốc chịu cú sốc ở ASIAD 2026",
+      "link": "https://vnexpress.net/cau-long-trung-quoc-chiu-cu-soc-o-asiad-2026-5126853.html",
+      "summary": "HC vàng Li Shifeng và Shi Yuqi bị loại sớm khiến Trung Quốc lần đầu tiên không giành huy chương ở nội dung cầu lông đơn nam sau 52 năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-30T22:37:12+07:00",
+      "fetched": "2026-10-01T07:54:58.068191+07:00"
+    },
+    {
+      "id": "73b21bca67a57cfd4b4e274af66a6b8b",
+      "title": "Sarach Yooyen: 'Kỷ luật phòng ngự giúp Thái Lan hạ Việt Nam'",
+      "link": "https://vnexpress.net/sarach-yooyen-ky-luat-phong-ngu-giup-thai-lan-ha-viet-nam-5126861.html",
+      "summary": "Tiền vệ Sarach Yooyen hài lòng khi ghi bàn và cùng Thái Lan giữ sạch lưới trong trận thắng Việt Nam 2-0 ở FIFA ASEAN Cup 2026 tối 29/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-30T22:31:13+07:00",
+      "fetched": "2026-10-01T07:54:58.068355+07:00"
+    },
+    {
+      "id": "02eb8bb87a993302a059cbf85aecc764",
+      "title": "Bí ẩn trong vụ nhóm người bị bắt gần căn cứ Mỹ tại Anh",
+      "link": "https://vnexpress.net/bi-an-trong-vu-nhom-nguoi-bi-bat-gan-can-cu-my-tai-anh-5126465.html",
+      "summary": "5 người bị bắt gần căn cứ Fairford dường như là nhóm nghi phạm khủng bố, nhưng việc họ được thả nhanh chóng làm câu chuyện thêm bí ẩn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-30T22:00:00+07:00",
+      "fetched": "2026-10-01T07:54:50.765676+07:00"
+    },
+    {
+      "id": "2e06acf12fa1049179a90e7aa2e79938",
+      "title": "Lợi dụng sức hút iPhone 18 Pro và 18 Pro Max để lừa đảo",
+      "link": "https://vnexpress.net/loi-dung-suc-hut-iphone-18-pro-va-18-pro-max-de-lua-dao-5126347.html",
+      "summary": "Kẻ lừa đảo lợi dụng sức hút của iPhone 18 Pro, dựng website giả mạo, gửi tin nhắn trúng thưởng để dụ nạn nhân cung cấp thông tin cá nhân hoặc chuyển tiền.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-30T22:00:00+07:00",
+      "fetched": "2026-10-01T07:54:56.087927+07:00"
+    },
+    {
+      "id": "83a8089da8be477af0424354fbabec2e",
+      "title": "Ronaldo rời khỏi đội tuyển Bồ Đào Nha",
+      "link": "https://vnexpress.net/ronaldo-roi-khoi-doi-tuyen-bo-dao-nha-5126862.html",
+      "summary": "Cristiano Ronaldo rời nơi tập trung của tuyển Bồ Đào Nha ngày 30/9, ít giờ sau khi HLV Jorge Jesus phủ nhận bất hòa với tiền đạo 41 tuổi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-30T20:35:12+07:00",
+      "fetched": "2026-10-01T07:54:58.068513+07:00"
     },
     {
       "id": "dd28ee332db8ee7ddb4f5fa87c972aa4",
