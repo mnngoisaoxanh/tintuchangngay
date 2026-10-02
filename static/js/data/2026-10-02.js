@@ -1,7 +1,157 @@
 window.newsData_2026_10_02 = {
   "date": "2026-10-02",
-  "lastUpdated": "2026-10-02T05:07:34.246621+07:00",
+  "lastUpdated": "2026-10-02T10:09:11.115463+07:00",
   "articles": [
+    {
+      "id": "18f669683e56dd7aecfd51619b2d0aee",
+      "title": "Suối Tiên ‘bật chế độ vui hết cỡ’ với loạt trải nghiệm chờ bạn mở khóa",
+      "link": "https://tuoitre.vn/suoi-tien-bat-che-do-vui-het-co-voi-loat-trai-nghiem-cho-ban-mo-khoa-100261001143501546.htm",
+      "summary": "Loạt trải nghiệm mới tại Khu du lịch văn hóa Suối Tiên mở ra hành trình vui chơi đa sắc màu, nơi du khách có thể thỏa sức khám phá và tận hưởng những khoảnh khắc “vui hết cỡ”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T10:09:04.431729+07:00",
+      "fetched": "2026-10-02T10:09:04.431764+07:00"
+    },
+    {
+      "id": "b6d7fee2b35e864fc2e8a9ccbc72ddda",
+      "title": "Lịch trực tiếp chung kết bóng đá nữ Asiad 20: Nhật Bản đấu Triều Tiên",
+      "link": "https://tuoitre.vn/lich-truc-tiep-chung-ket-bong-da-nu-asiad-20-nhat-ban-dau-trieu-tien-100261001195350798.htm",
+      "summary": "Lúc 17h30 ngày 2-10, tuyển nữ Nhật Bản sẽ chạm trán Triều Tiên trong trận chung kết môn bóng đá nữ Asiad 20.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T10:09:04.431689+07:00",
+      "fetched": "2026-10-02T10:09:04.431723+07:00"
+    },
+    {
+      "id": "c6c98d7ee161fb1a5d63c2cae4e02834",
+      "title": "EVNHCMC tăng tốc hoàn thành các chỉ tiêu, nhiệm vụ năm 2026",
+      "link": "https://tuoitre.vn/evnhcmc-tang-toc-hoan-thanh-cac-chi-tieu-nhiem-vu-nam-2026-100261001231404237.htm",
+      "summary": "Ngày 29-9, Đảng ủy Tổng công ty Điện lực TPHCM (EVNHCMC) cho biết đã tổ chức Hội nghị sơ kết công tác 9 tháng đầu năm 2026 và triển khai phương hướng, nhiệm vụ 3 tháng cuối năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T10:09:04.431645+07:00",
+      "fetched": "2026-10-02T10:09:04.431682+07:00"
+    },
+    {
+      "id": "5ce248398c08b3505b3ff340201df658",
+      "title": "Tranh luận chuyện cán bộ ăn trưa trong giờ làm việc: Không xét nét quá, nên trọng hiệu quả",
+      "link": "https://tuoitre.vn/tranh-luan-chuyen-can-bo-an-trua-trong-gio-lam-viec-khong-xet-net-qua-nen-trong-hieu-qua-100261002072120763.htm",
+      "summary": "Sau thông tin Sở Nội vụ Quảng Trị xác minh 3 cán bộ, lãnh đạo trường học ở xã Đông Trạch có mặt tại một quán ăn lúc 11h15, nhiều bạn đọc cho rằng cần nhìn sự việc linh động, không nên quá cứng nhắc, trong khi một số ý kiến nói cán bộ phải chấp hành đúng giờ làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T10:09:04.431605+07:00",
+      "fetched": "2026-10-02T10:09:04.431639+07:00"
+    },
+    {
+      "id": "a96eb0714a4fbe4797baf8c47e3ccb0f",
+      "title": "Xe điện Toyota hứng trọn chiếc caravan 760kg rơi xuống vẫn chạy bình thường",
+      "link": "https://tuoitre.vn/xe-dien-toyota-hung-tron-chiec-caravan-760kg-roi-xuong-van-chay-binh-thuong-100261002062458698.htm",
+      "summary": "Toyota tái hiện màn thử nghiệm từng xuất hiện trên Top Gear cách đây hơn 20 năm. Lần này, chiếc xe điện Hilux BEV phải hứng trực tiếp một chiếc caravan nặng khoảng 760kg rơi từ độ cao hơn 9m.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T10:09:04.431553+07:00",
+      "fetched": "2026-10-02T10:09:04.431599+07:00"
+    },
+    {
+      "id": "e6a0686ae4e861ccfa24836175c71852",
+      "title": "Giá vàng hôm nay 2-10: Vàng hồi nhẹ giữa sức ép USD, lợi suất Mỹ",
+      "link": "https://tuoitre.vn/gia-vang-hom-nay-2-10-vang-hoi-nhe-giua-suc-ep-usd-loi-suat-my-100261002082043634.htm",
+      "summary": "Giá vàng thế giới sáng 2-10 hồi nhẹ lên 4.163,9 USD/ounce, còn vàng miếng SJC tăng 200.000 đồng/lượng lên 144,3 triệu đồng. Thị trường hướng sự chú ý vào báo cáo việc làm Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T10:09:04.431329+07:00",
+      "fetched": "2026-10-02T10:09:04.431546+07:00"
+    },
+    {
+      "id": "c67aa1fa2d7f714e4948d0e0efeae2f5",
+      "title": "Gỡ ‘điểm nghẽn chờ ký’ với VNPT SmartCA",
+      "link": "https://tuoitre.vn/go-diem-nghen-cho-ky-voi-vnpt-smartca-100261002081426553.htm",
+      "summary": "Ký số từ xa đang thay đổi cách doanh nghiệp xử lý giao dịch điện tử, với VNPT SmartCA đưa thao tác ký lên điện thoại và máy tính, giúp người có thẩm quyền xử lý công việc ở bất cứ đâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T10:09:04.431299+07:00",
+      "fetched": "2026-10-02T10:09:04.431325+07:00"
+    },
+    {
+      "id": "baa37120b9caa466b5640587330167df",
+      "title": "Vụ cầm điếu cày đuổi đánh người: Công an làm việc với các bên liên quan",
+      "link": "https://tuoitre.vn/vu-cam-dieu-cay-duoi-danh-nguoi-cong-an-lam-viec-voi-cac-ben-lien-quan-100261001154525591.htm",
+      "summary": "Công an phường Tây Hoa Lư, tỉnh Ninh Bình đã ghi nhận hiện trường, làm việc với các bên liên quan để làm rõ vụ việc xô xát, cầm điếu cày đánh người xảy ra trước một quán thịt dê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T10:09:04.431269+07:00",
+      "fetched": "2026-10-02T10:09:04.431295+07:00"
+    },
+    {
+      "id": "be9a3090e91116e54d09c7539ba3d3b2",
+      "title": "Vụ 3 thanh niên góp tiền mua ma túy kêu oan: Hủy án vì cấp sơ thẩm ‘sai lầm nghiêm trọng’",
+      "link": "https://tuoitre.vn/vu-3-thanh-nien-gop-tien-mua-ma-tuy-keu-oan-huy-an-vi-cap-so-tham-sai-lam-nghiem-trong-100261002081827328.htm",
+      "summary": "Tòa phúc thẩm xác định cấp sơ thẩm áp dụng không đúng tội danh, đánh giá sai vai trò của 3 thanh niên góp tiền mua ma túy, đồng thời có vi phạm thủ tục tố tụng. Vụ án còn xuất hiện hai bản cáo trạng cùng số, cùng ngày nhưng có nội dung khác nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T10:09:04.431238+07:00",
+      "fetched": "2026-10-02T10:09:04.431265+07:00"
+    },
+    {
+      "id": "81f159db2bce9bd6ea8946c0bd4b6970",
+      "title": "Vì sao nhiều người ủng hộ HLV Jesus trong cuộc xung đột với Ronaldo?",
+      "link": "https://tuoitre.vn/vi-sao-nhieu-nguoi-ung-ho-hlv-jesus-trong-cuoc-xung-dot-voi-ronaldo-100261002064501733.htm",
+      "summary": "Hầu hết các CĐV đều đứng về phía HLV tuyển Bồ Đào Nha Jorge Jesus trong cuộc xung đột với Cristiano Ronaldo dù chưa rõ đúng sai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T10:09:04.431208+07:00",
+      "fetched": "2026-10-02T10:09:04.431234+07:00"
+    },
+    {
+      "id": "283feb3a6ae1c95a0bcc333d7bfa26c1",
+      "title": "Tổng thống Putin: Nga sẽ sử dụng tất cả vũ khí nếu lãnh thổ bị tấn công",
+      "link": "https://tuoitre.vn/tong-thong-putin-nga-se-su-dung-tat-ca-vu-khi-neu-lanh-tho-bi-tan-cong-100261002080114464.htm",
+      "summary": "Tổng thống Vladimir Putin cho biết Nga sẽ cân nhắc sử dụng “tất cả vũ khí” nếu lãnh thổ của nước này bị tấn công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T10:09:04.431175+07:00",
+      "fetched": "2026-10-02T10:09:04.431203+07:00"
+    },
+    {
+      "id": "2f1568e66281a228eeb15e488c00bb27",
+      "title": "Tiến sĩ Dương Đức Thủy: Điền kinh Việt Nam cần thay đổi tư duy, nên học Thái Lan",
+      "link": "https://tuoitre.vn/tien-si-duong-duc-thuy-dien-kinh-viet-nam-can-thay-doi-tu-duy-nen-hoc-thai-lan-100261001102108125.htm",
+      "summary": "Thất bại của điền kinh Việt Nam ở Asiad 2026 là điều đã được báo trước. Dù không sớm, nhưng điền kinh Việt Nam cần thay đổi tư duy, sẵn sàng học hỏi các đối thủ như Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T10:09:04.431143+07:00",
+      "fetched": "2026-10-02T10:09:04.431171+07:00"
+    },
+    {
+      "id": "b313da05f3a54bae2402db3579bc8495",
+      "title": "Bộ Giáo dục và Đào tạo: Hoàn thành bộ sách giáo khoa mới từ lớp 1-12, sử dụng từ 2028",
+      "link": "https://tuoitre.vn/bo-giao-duc-va-dao-tao-hoan-thanh-bo-sach-giao-khoa-moi-tu-lop-1-12-su-dung-tu-2028-100261002075308956.htm",
+      "summary": "Bộ Giáo dục và Đào tạo yêu cầu Vụ Giáo dục phổ thông xây dựng kế hoạch rà soát, hoàn thiện chương trình và sách giáo khoa nhằm hoàn thành bộ sách mới, sử dụng thống nhất toàn quốc từ năm học 2028-2029.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T10:09:04.431109+07:00",
+      "fetched": "2026-10-02T10:09:04.431139+07:00"
+    },
+    {
+      "id": "6315773da891e47bcc87b89f6f383cd4",
+      "title": "Cần làm gì để người dân hiểu đúng về thời hạn sử dụng nhà chung cư?",
+      "link": "https://tuoitre.vn/can-lam-gi-de-nguoi-dan-hieu-dung-ve-thoi-han-su-dung-nha-chung-cu-100260926163549502.htm",
+      "summary": "Hết thời hạn sử dụng nhà chung cư theo niên hạn không đồng nghĩa với việc người dân \"mất nhà\". Cư dân cần đồng thuận, nhanh chóng tái thiết, xây dựng lại khi chung cư cũ, không còn an toàn để ở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T10:09:04.431070+07:00",
+      "fetched": "2026-10-02T10:09:04.431104+07:00"
+    },
+    {
+      "id": "931d0a14e999c7db89673a987bc126b3",
+      "title": "Sau Úc, phát hiện tác nhân AI tìm cách xâm nhập hệ thống Chính phủ Canada",
+      "link": "https://tuoitre.vn/sau-uc-phat-hien-tac-nhan-ai-tim-cach-xam-nhap-he-thong-chinh-phu-canada-100261002091032857.htm",
+      "summary": "Canada cho biết chưa có dấu hiệu hệ thống bị xâm phạm sau khi một tác nhân AI bị phát hiện tìm cách truy cập kho lưu trữ quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T10:09:04.430946+07:00",
+      "fetched": "2026-10-02T10:09:04.431062+07:00"
+    },
     {
       "id": "94a1ef2432f729c168b585c52bb1e8eb",
       "title": "Khởi tố 5 thanh thiếu niên rú ga, lạng lách, đánh võng trên quốc lộ",
@@ -153,6 +303,296 @@ window.newsData_2026_10_02 = {
       "fetched": "2026-10-02T05:07:28.740735+07:00"
     },
     {
+      "id": "74bd830da5513690516fc6445a51e1e8",
+      "title": "Giao nộp cổ vật tượng thần khỉ Hanuman quý hiếm, được thưởng và ý nghĩa đằng sau",
+      "link": "https://thanhnien.vn/giao-nop-co-vat-tuong-than-khi-hanuman-quy-hiem-duoc-thuong-va-y-nghia-dang-sau-185261001104059058.htm",
+      "summary": "Ông Dương Đình Lục (ở xã Vạn Tường, tỉnh Quảng Ngãi) là ngư dân đã vớt và tự nguyện giao nộp cổ vật tượng thần khỉ Hanuman có niên đại khoảng thế kỷ 11 - 12 cho Bảo tàng Tổng hợp tỉnh Quảng Ngãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T03:04:00+07:00",
+      "fetched": "2026-10-02T10:09:02.797537+07:00"
+    },
+    {
+      "id": "e7e000623e0b36beb7c8813536ab191b",
+      "title": "Những kiểu áo đính khuy đơn giản nhưng có sức hút lớn",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-kieu-ao-dinh-khuy-don-gian-nhung-co-suc-hut-lon-185261001094447455.htm",
+      "summary": "Từ những chi tiết khuy cài quen thuộc, các nhà mốt đã khéo léo biến tấu để tạo nên áo đính khuy có điểm sáng thị giác đắt giá trên trang phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T03:00:00+07:00",
+      "fetched": "2026-10-02T10:09:02.797630+07:00"
+    },
+    {
+      "id": "02d105fce59004574142d3b3074bdb25",
+      "title": "Biển báo tạm thời và cố định khác gì nhau, tài xế phải tuân theo biển nào?",
+      "link": "https://thanhnien.vn/bien-bao-tam-thoi-va-co-dinh-khac-gi-nhau-tai-xe-phai-tuan-theo-bien-nao-185261001122301541.htm",
+      "summary": "Khi đường đang thi công, sửa chữa hoặc tổ chức giao thông tạm thời, tài xế có thể gặp biển báo mang nội dung khác với hệ thống biển cố định. Trong trường hợp này, quy định hiện hành xác định khá rõ biển nào phải được ưu tiên chấp hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T02:59:00+07:00",
+      "fetched": "2026-10-02T10:09:02.797710+07:00"
+    },
+    {
+      "id": "787f7b5a52a544f139ff382025ead2ba",
+      "title": "Ông Zelensky khoe tên lửa đạn đạo FP-7 lần đầu đưa vào thực chiến",
+      "link": "https://thanhnien.vn/ong-zelensky-khoe-ten-lua-dan-dao-fp-7-lan-dau-dua-vao-thuc-chien-185261002084910279.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky cho biết quân đội nước này lần đầu sử dụng tên lửa đạn đạo chiến thuật FP-7 trong chiến đấu, đồng thời đặt mục tiêu đưa loại vũ khí này vào sản xuất hàng loạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T02:50:00+07:00",
+      "fetched": "2026-10-02T10:09:02.797786+07:00"
+    },
+    {
+      "id": "48b7945a8b9e264d844231e87dbdf154",
+      "title": "Tennessee điều tra vụ nữ tử tù bị tiêm thuốc độc hai lần không chết",
+      "link": "https://vnexpress.net/tennessee-dieu-tra-vu-nu-tu-tu-bi-tiem-thuoc-doc-hai-lan-khong-chet-5127452.html",
+      "summary": "Thống đốc Tennessee yêu cầu mở cuộc điều tra độc lập để xác định nguyên nhân nữ tử tù Christa Pike vẫn sống sót sau hai liều tiêm thuốc độc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-02T02:49:54+07:00",
+      "fetched": "2026-10-02T10:09:05.587086+07:00"
+    },
+    {
+      "id": "250c33ac444bd7ff2006f8a769bf4404",
+      "title": "TP.HCM và Nam bộ còn đón 1 - 2 đợt mưa lớn trong tháng 10",
+      "link": "https://thanhnien.vn/tphcm-va-nam-bo-con-don-1-2-dot-mua-lon-trong-thang-10-185261002093450586.htm",
+      "summary": "Trong tháng 10, khả năng xuất hiện 1 - 2 đợt mưa lớn ở TP.HCM và Nam bộ, tập trung trong giai đoạn đầu và giữa tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T02:46:00+07:00",
+      "fetched": "2026-10-02T10:09:02.797860+07:00"
+    },
+    {
+      "id": "f8df0f25f419c2a8ad5004151b6edef1",
+      "title": "HP ra mắt OmniBook 5 với màn hình OLED, giá chỉ 700 USD",
+      "link": "https://thanhnien.vn/hp-ra-mat-omnibook-5-voi-man-hinh-oled-gia-chi-700-usd-185261002085751558.htm",
+      "summary": "OmniBook 5 là mẫu laptop mới của HP, nổi bật với màn hình OLED, thiết kế mỏng nhẹ cùng mức giá cạnh tranh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T02:44:00+07:00",
+      "fetched": "2026-10-02T10:09:02.797933+07:00"
+    },
+    {
+      "id": "a0db0b61c26a959b19a784844f9740f2",
+      "title": "Lịch thi đấu chung kết FIFA ASEAN Cup mới nhất: Chủ nhà Indonesia đại chiến Thái Lan, giờ cực đẹp",
+      "link": "https://thanhnien.vn/lich-thi-dau-chung-ket-fifa-asean-cup-moi-nhat-chu-nha-indonesia-dai-chien-thai-lan-gio-cuc-dep-185261002094011192.htm",
+      "summary": "Đội tuyển Indonesia sẽ gặp Thái Lan ở chung kết FIFA ASEAN Cup 2026, với màn thư hùng diễn ra tại Jakarta vào ngày 5.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T02:43:00+07:00",
+      "fetched": "2026-10-02T10:09:02.798007+07:00"
+    },
+    {
+      "id": "d7f61ecbec3dcd877d0cc4fb1e83ac19",
+      "title": "Nghiên cứu nhân rộng mô hình làn vượt trên cao tốc, xử nghiêm thói chạy xe 'rùa bò'",
+      "link": "https://thanhnien.vn/nghien-cuu-nhan-rong-mo-hinh-lan-vuot-tren-cao-toc-xu-nghiem-thoi-chay-xe-rua-bo-185261002091657394.htm",
+      "summary": "Căn cứ kết quả thí điểm, Cục CSGT sẽ nghiên cứu nhân rộng mô hình làn vượt trên cao tốc, đồng thời yêu cầu các đơn vị tăng cường kiểm soát, xử lý nghiêm xe chạy 'rùa bò', bám làn trái cao tốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T02:39:00+07:00",
+      "fetched": "2026-10-02T10:09:02.798086+07:00"
+    },
+    {
+      "id": "0c35553be9fd74f2a3a45371a6e434cb",
+      "title": "3 bộ phận bị ảnh hưởng khi ô tô phanh gấp",
+      "link": "https://thanhnien.vn/3-bo-phan-bi-anh-huong-khi-o-to-phanh-gap-18526093021501337.htm",
+      "summary": "Phanh gấp là thao tác cần thiết trong tình huống khẩn cấp. Tuy nhiên, nhiều người lạm dụng hành động này, có thể khiến một số bộ phận trên ô tô nhanh hao mòn và ảnh hưởng đến hiệu quả vận hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T02:39:00+07:00",
+      "fetched": "2026-10-02T10:09:02.798160+07:00"
+    },
+    {
+      "id": "c3ab658b2f5ec3ac688a460d9ae7c906",
+      "title": "Ùn tắc trước cổng trường ở TP.HCM: Phụ huynh dừng tràn lan ở lòng đường khắp nơi",
+      "link": "https://thanhnien.vn/un-tac-truoc-cong-truong-o-tphcm-phu-huynh-dung-tran-lan-o-long-duong-khap-noi-185260929103430874.htm",
+      "summary": "Chờ con vài phút, nhiều phụ huynh dừng xe tràn lan ngay dưới lòng đường. Đến giờ tan học, người tấp vào, người vừa đón được con chạy ra khiến nhiều cổng trường TP.HCM ùn ứ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T02:39:00+07:00",
+      "fetched": "2026-10-02T10:09:02.798234+07:00"
+    },
+    {
+      "id": "b1b9edd5999abe0bc3519bcc50afc498",
+      "title": "Lịch đấu ngày 2/10 của Việt Nam tại ASIAD 2026",
+      "link": "https://vnexpress.net/lich-dau-ngay-2-10-cua-viet-nam-tai-asiad-2026-5127459.html",
+      "summary": "Việt Nam tranh tài ở nhiều môn ngày 2/10 tại ASIAD 2026, trong đó Nguyễn Thị Tâm đấu chung kết quyền Anh nữ 51kg, còn cầu mây nữ chơi trận bán kết.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-02T02:36:43+07:00",
+      "fetched": "2026-10-02T10:09:11.112829+07:00"
+    },
+    {
+      "id": "9f6c3a0343aa738f74feb7ec249422fe",
+      "title": "Phát triển không gian đọc, trang bị kỹ năng nhận diện thông tin xấu, độc cho thiếu nhi",
+      "link": "https://thanhnien.vn/phat-trien-khong-gian-doc-trang-bi-ky-nang-nhan-dien-thong-tin-xau-doc-cho-thieu-nhi-185261002091852394.htm",
+      "summary": "Ban Bí thư T.Ư Đoàn đề nghị đổi mới phong trào 'Đọc và làm theo báo Đội', phát triển không gian đọc và trang bị kỹ năng nhận diện thông tin xấu, độc cho thiếu nhi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T02:36:00+07:00",
+      "fetched": "2026-10-02T10:09:02.798309+07:00"
+    },
+    {
+      "id": "a6b37390b0f34e81e981fbc01670691c",
+      "title": "Cá chết dạt vào bờ biển Quảng Trị, chưa rõ nguyên nhân",
+      "link": "https://thanhnien.vn/ca-chet-dat-vao-bo-bien-quang-tri-chua-ro-nguyen-nhan-185261002074335974.htm",
+      "summary": "Hiện tượng cá chết trôi dạt vào bờ biển thôn Tân Lý, xã Đông Trạch (Quảng Trị) kéo dài khoảng 1 km làm người dân lo lắng. Chính quyền địa phương đang kiểm tra, xác minh nguyên nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T02:30:00+07:00",
+      "fetched": "2026-10-02T10:09:02.798380+07:00"
+    },
+    {
+      "id": "882377c65a6ec5a4e4456fe1038fbec5",
+      "title": "Trục xuất 9 người Lào nhập cảnh trái phép để tìm việc làm ở Việt Nam",
+      "link": "https://thanhnien.vn/truc-xuat-9-nguoi-lao-nhap-canh-trai-phep-de-tim-viec-lam-o-viet-nam-185261002081851882.htm",
+      "summary": "Bộ đội biên phòng tỉnh Quảng Trị vừa trục xuất 9 người Lào nhập cảnh trái phép vào Việt Nam để đi TP.HCM tìm việc làm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T02:28:00+07:00",
+      "fetched": "2026-10-02T10:09:02.798467+07:00"
+    },
+    {
+      "id": "f564c1e90fa7a6a05b8e12bdb37b29f1",
+      "title": "Phát hiện 3 hài cốt liệt sĩ trong vườn nhà dân ở Quảng Ngãi",
+      "link": "https://thanhnien.vn/phat-hien-3-hai-cot-liet-si-trong-vuon-nha-dan-o-quang-ngai-185261002091525763.htm",
+      "summary": "Trong quá trình tổ chức tìm kiếm, quy tập hài cốt liệt sĩ tại khu vườn phía sau nhà một hộ dân ở phường Đăk Cấm (Quảng Ngãi), lực lượng chức năng phát hiện 3 hài cốt liệt sĩ cùng nhiều di vật liên quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T02:26:00+07:00",
+      "fetched": "2026-10-02T10:09:02.798549+07:00"
+    },
+    {
+      "id": "193ef609ca142298abb558f1333283d4",
+      "title": "Sẽ có bộ sách giáo khoa mới từ năm học 2028 - 2029",
+      "link": "https://thanhnien.vn/se-co-bo-sach-giao-khoa-moi-tu-nam-hoc-2028-2029-185261002091328194.htm",
+      "summary": "Bộ GD-ĐT giao Vụ Giáo dục phổ thông chủ trì xây dựng kế hoạch rà soát, hoàn thiện Chương trình, hoàn thành bộ sách giáo khoa mới để đưa vào sử dụng thống nhất trên toàn quốc từ năm học 2028 - 2029.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T02:23:00+07:00",
+      "fetched": "2026-10-02T10:09:02.798620+07:00"
+    },
+    {
+      "id": "e595805252d946ff965a64452d9ef7f6",
+      "title": "Chiêu lừa đảo hàng trăm nghìn USD từ sau song sắt nhà tù Mỹ",
+      "link": "https://vnexpress.net/chieu-lua-dao-hang-tram-nghin-usd-tu-sau-song-sat-nha-tu-my-5120087.html",
+      "summary": "Từ chiếc điện thoại được tuồn qua song sắt, các tù nhân đã chiếm đoạt hàng trăm nghìn USD từ các nạn nhân bằng vô số kịch bản thao túng tâm lý.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-02T01:38:18+07:00",
+      "fetched": "2026-10-02T10:09:05.587176+07:00"
+    },
+    {
+      "id": "38c9dbdb09f45ae56aae38549dca5256",
+      "title": "Mỹ 'điều thêm tàu sân bay, hàng nghìn binh sĩ' đến gần Iran",
+      "link": "https://vnexpress.net/my-dieu-them-tau-san-bay-hang-nghin-binh-si-den-gan-iran-5127411.html",
+      "summary": "Tàu sân bay thứ ba cùng khoảng 10.000 binh sĩ đã lên đường tới Trung Đông trong lúc ông Trump cân nhắc nối lại tấn công Iran, theo các quan chức Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-02T01:25:10+07:00",
+      "fetched": "2026-10-02T10:09:05.587255+07:00"
+    },
+    {
+      "id": "077a63b4c1600108516c555064cb3400",
+      "title": "Messi lại đối đầu Ronaldo khi mua CLB Tây Ban Nha",
+      "link": "https://vnexpress.net/messi-lai-doi-dau-ronaldo-khi-mua-clb-tay-ban-nha-5127402.html",
+      "summary": "Lionel Messi mua CD Eldense, đội đang chơi ở giải hạng Nhì, qua đó trở thành đối thủ trực tiếp của Cristiano Ronaldo trên một mặt trận mới: sở hữu CLB bóng đá.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-02T01:21:39+07:00",
+      "fetched": "2026-10-02T10:09:11.112335+07:00"
+    },
+    {
+      "id": "d428932007037d44c87116efb61ad785",
+      "title": "Giá dầu thế giới tăng mạnh",
+      "link": "https://vnexpress.net/gia-dau-the-gioi-tang-manh-5127425.html",
+      "summary": "Giá Brent tăng 4% sau thông tin Mỹ muốn điều động thêm binh sĩ tới Trung Đông và Trung Quốc dừng xuất khẩu sản phẩm lọc dầu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-02T01:21:31+07:00",
+      "fetched": "2026-10-02T10:09:06.593165+07:00"
+    },
+    {
+      "id": "e89ba1c3bfc88d61732975c4eeae6108",
+      "title": "Real và Barca hâm nóng 'vụ án Negreira'",
+      "link": "https://vnexpress.net/real-va-barca-ham-nong-vu-an-negreira-5127384.html",
+      "summary": "Ngày 1/10, UEFA xác nhận đã tiếp nhận một lượng lớn tài liệu được Real Madrid cung cấp trong vụ kiện chống lại Barca, liên quan đến cựu Phó chủ tịch Ủy ban Trọng tài Jose Maria Enriquez Negreira.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-02T01:12:53+07:00",
+      "fetched": "2026-10-02T10:09:11.112439+07:00"
+    },
+    {
+      "id": "90a1a7737ea07c2ed34ef712003d119d",
+      "title": "Xuất hiện video cơ phó bị khống chế sau âm mưu chiếm máy bay flydubai",
+      "link": "https://vnexpress.net/xuat-hien-video-co-pho-bi-khong-che-sau-am-muu-chiem-may-bay-flydubai-5127400.html",
+      "summary": "Truyền hình Israel công bố video ghi lại tiếng la hét trong khoang máy bay flydubai, cảnh cơ trưởng nằm trên sàn và cơ phó bị khống chế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-02T01:03:32+07:00",
+      "fetched": "2026-10-02T10:09:05.587333+07:00"
+    },
+    {
+      "id": "933f33e10d9ea33f2cd17b2f32984db8",
+      "title": "Ông Putin nêu lý do Nga tập kích hạ tầng kinh tế Ukraine",
+      "link": "https://vnexpress.net/ong-putin-neu-ly-do-nga-tap-kich-ha-tang-kinh-te-ukraine-5127401.html",
+      "summary": "Tổng thống Putin nói Nga tập kích hạ tầng kinh tế Ukraine là nhằm trả đũa đối phương, bác bỏ khả năng đạt thỏa thuận ngừng tấn công tầm xa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-02T00:16:19+07:00",
+      "fetched": "2026-10-02T10:09:05.587406+07:00"
+    },
+    {
+      "id": "220df4cc3c4d318de986383df73c265e",
+      "title": "Ông Trump: Cơ phó flydubai có thể liên quan Iran",
+      "link": "https://vnexpress.net/ong-trump-co-pho-flydubai-co-the-lien-quan-iran-5127394.html",
+      "summary": "Ông Trump nói rằng cơ phó định cướp máy bay flydubai có thể liên quan đến Tehran, cảnh báo Iran sẽ \"hứng đòn rất nặng nề\" nếu thông tin này chính xác.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-01T23:48:53+07:00",
+      "fetched": "2026-10-02T10:09:05.587488+07:00"
+    },
+    {
+      "id": "8fabdf68b99510085a12742cb6f0e07c",
+      "title": "Đức thắng trận đầu dưới thời HLV Klopp",
+      "link": "https://vnexpress.net/duc-thang-tran-dau-duoi-thoi-hlv-klopp-5127396.html",
+      "summary": "Đội tuyển Đức dứt điểm 30 lần so với một của Serbia, và thắng 2-0 ở lượt ba bảng A2 Nations League ngày 1/10, giúp Jurgen Klopp có thắng lợi đầu tiên từ khi nhậm chức.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-01T23:06:48+07:00",
+      "fetched": "2026-10-02T10:09:11.112523+07:00"
+    },
+    {
+      "id": "8478db1fe5809f24db053272d2a83a58",
+      "title": "HLV Bồ Đào Nha: 'Ronaldo là câu chuyện đã khép lại'",
+      "link": "https://vnexpress.net/hlv-bo-dao-nha-ronaldo-la-cau-chuyen-da-khep-lai-5127393.html",
+      "summary": "HLV Jorge Jesus không muốn nói thêm về việc Cristiano Ronaldo rời tuyển Bồ Đào Nha, và khẳng định những ồn ào ngoài sân không thể chia rẽ đội bóng của ông.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-01T22:56:30+07:00",
+      "fetched": "2026-10-02T10:09:11.112601+07:00"
+    },
+    {
+      "id": "0e12c2b23e8d612a5c8735a632106135",
+      "title": "Vì sao Indonesia được tăng 5 phút bù giờ ở FIFA ASEAN Cup?",
+      "link": "https://vnexpress.net/vi-sao-indonesia-duoc-tang-5-phut-bu-gio-o-fifa-asean-cup-5127388.html",
+      "summary": "Từ 2 phút bù, Indonesia phản ứng để trọng tài đẩy lên 7 phút và họ ghi hai bàn chính trong quãng thời gian đó để thắng Bangladesh 9-2, giành vé vào chung kết FIFA ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-01T22:52:18+07:00",
+      "fetched": "2026-10-02T10:09:11.112679+07:00"
+    },
+    {
+      "id": "c4fc54b4bb38b5379048ebeb30b39bd9",
+      "title": "Bồ Đào Nha thắng Đan Mạch trong ngày vắng Ronaldo",
+      "link": "https://vnexpress.net/bo-dao-nha-thang-dan-mach-trong-ngay-vang-ronaldo-5127391.html",
+      "summary": "Không có thủ quân Cristiano Ronaldo, Bồ Đào Nha hai lần bị Đan Mạch gỡ hòa nhưng vẫn thắng 4-2 ở lượt ba bảng A4 UEFA Nations League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-01T22:17:25+07:00",
+      "fetched": "2026-10-02T10:09:11.112754+07:00"
+    },
+    {
       "id": "5da08452b5271adba6ed5d291f440419",
       "title": "Diễn biến mới về chiến sự Ukraine",
       "link": "https://thanhnien.vn/dien-bien-moi-ve-chien-su-ukraine-185261001214833274.htm",
@@ -211,6 +651,26 @@ window.newsData_2026_10_02 = {
       "category": "Tổng hợp",
       "published": "2026-10-01T22:00:00+07:00",
       "fetched": "2026-10-02T05:07:27.138661+07:00"
+    },
+    {
+      "id": "99fef5ebbeecf56234ae9fb4c9efab3a",
+      "title": "Khoảng trống Mỹ để lại sau hai thập kỷ hiện diện quân sự ở Iraq",
+      "link": "https://vnexpress.net/khoang-trong-my-de-lai-sau-hai-thap-ky-hien-dien-quan-su-o-iraq-5126658.html",
+      "summary": "Mỹ chấm dứt hai thập kỷ hiện diện quân sự tại Iraq, để lại khoảng trống quyền lực lớn khi các nhóm dân quân thân Iran tăng cường hoạt động.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-01T22:00:00+07:00",
+      "fetched": "2026-10-02T10:09:05.587561+07:00"
+    },
+    {
+      "id": "e5ebebdfca25845698b89bd6d99eb9e7",
+      "title": "Tác nhân AI Trung Quốc gian lận trong thử nghiệm",
+      "link": "https://vnexpress.net/tac-nhan-ai-trung-quoc-gian-lan-trong-thu-nghiem-5126382.html",
+      "summary": "Một số nghiên cứu chỉ ra các tác nhân AI tự chủ hàng đầu của Trung Quốc xuất hiện những hành vi như gian dối, che giấu thất bại và tìm cách vượt rào kiểm soát.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-01T22:00:00+07:00",
+      "fetched": "2026-10-02T10:09:09.641822+07:00"
     },
     {
       "id": "4eaab9df86cb73b6d62413f06f99149c",
