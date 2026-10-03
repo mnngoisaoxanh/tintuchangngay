@@ -1,7 +1,157 @@
 window.newsData_2026_10_03 = {
   "date": "2026-10-03",
-  "lastUpdated": "2026-10-03T04:35:19.400385+07:00",
+  "lastUpdated": "2026-10-03T07:49:21.422409+07:00",
   "articles": [
+    {
+      "id": "7df2c309ca561b20727fc6d341a862c9",
+      "title": "Lịch thi đấu Asiad ngày 3-10 của Việt Nam: HCV cuối cùng gọi tên cầu mây?",
+      "link": "https://tuoitre.vn/lich-thi-dau-asiad-ngay-3-10-cua-viet-nam-hcv-cuoi-cung-goi-ten-cau-may-100261002200237224.htm",
+      "summary": "Hôm nay (3-10) sẽ diễn ra ngày thi đấu áp chót của Asiad 20. Và với Việt Nam, toàn bộ hy vọng giành HCV thứ 3 sẽ dồn vào cầu mây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T07:49:12.693436+07:00",
+      "fetched": "2026-10-03T07:49:12.693529+07:00"
+    },
+    {
+      "id": "7282ad80313f375cebd5e22b28f00a94",
+      "title": "Tin tức sáng 3-10: Hệ thống mới của cơ quan thuế, kho bạc, bảo hiểm xã hội... ra sao?",
+      "link": "https://tuoitre.vn/tin-tuc-sang-3-10-he-thong-moi-cua-co-quan-thue-kho-bac-bao-hiem-xa-hoi-ra-sao-100261003000212071.htm",
+      "summary": "Tin tức đáng chú ý: Hệ thống mới của cơ quan thuế, kho bạc, bảo hiểm xã hội... theo hướng nào?; Làm thủ tục hành chính xong, người dân có thể đánh giá trên VNeID; TP.HCM thành lập tổ công tác triển khai chương trình gắn kết bệnh viện - trạm y tế...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T07:49:12.693310+07:00",
+      "fetched": "2026-10-03T07:49:12.693417+07:00"
+    },
+    {
+      "id": "68df376d2b0936977cb6307031957e05",
+      "title": "Kênh đầu tư: VND đang 'sáng' hơn đất, vàng, chứng khoán",
+      "link": "https://tuoitre.vn/kenh-dau-tu-vnd-dang-sang-hon-dat-vang-chung-khoan-100260930194210942.htm",
+      "summary": "Khi lãi suất tiền gửi lên quanh 9%/năm, việc nắm giữ VND trở nên hấp dẫn hơn. \"Giá\" của tiền tăng khiến nhiều người tính lại bài toán giữa gửi tiết kiệm với chứng khoán, bất động sản và vàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T07:49:12.692998+07:00",
+      "fetched": "2026-10-03T07:49:12.693294+07:00"
+    },
+    {
+      "id": "74e34b6a51162b2e440be3ca5da3fac1",
+      "title": "Triệu tập nhóm thanh niên đánh nhau từ nguồn tin Facebook",
+      "link": "https://tuoitre.vn/trieu-tap-nhom-thanh-nien-danh-nhau-tu-nguon-tin-facebook-100261002215519303.htm",
+      "summary": "Công an Hà Tĩnh đang xác minh, làm việc với những người liên quan đến vụ xô xát xảy ra rạng sáng 1-10 trên tuyến đường Trần Phú (phường Trần Phú, Hà Tĩnh).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T07:49:12.692929+07:00",
+      "fetched": "2026-10-03T07:49:12.692988+07:00"
+    },
+    {
+      "id": "44f5c2a0b0e888cc5ed04ac4f71a13c6",
+      "title": "Tin tức thế giới 3-10: Thị trưởng Kiev nói thủ đô Ukraine bị 'xé nát'; G7 xả kho diesel, ông Trump vỗ tay",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-3-10-thi-truong-kiev-noi-thu-do-ukraine-bi-xe-nat-g7-xa-kho-diesel-ong-trump-vo-tay-100261003055531188.htm",
+      "summary": "Mỹ bỏ phương án cấm xuất khẩu diesel sau thông báo xả kho 100 triệu thùng của nhóm G7; Nhà Trắng sắp có \"trùm AI\" mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T07:49:12.692833+07:00",
+      "fetched": "2026-10-03T07:49:12.692918+07:00"
+    },
+    {
+      "id": "21ceda63f9456495998220f780639c64",
+      "title": "Nguyễn Quỳnh Anh đăng quang, rapper Pháo là á hậu Miss Universe Vietnam 2026",
+      "link": "https://tuoitre.vn/nguyen-quynh-anh-dang-quang-rapper-phao-la-a-hau-miss-universe-vietnam-2026-100261002221223262.htm",
+      "summary": "Từng đoạt danh hiệu á hậu 1 Miss Universe Vietnam 2024, Nguyễn Quỳnh Anh trở lại sau hai năm và đăng quang Miss Universe Vietnam 2026, qua đó giành cơ hội đại diện Việt Nam tại đấu trường nhan sắc quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T07:49:12.692766+07:00",
+      "fetched": "2026-10-03T07:49:12.692823+07:00"
+    },
+    {
+      "id": "6300a8307eeaa64adbd38215faf0b86a",
+      "title": "Quang Hùng MasterD là quán quân, Dương Domic được yêu thích nhất Tinh hà say hi",
+      "link": "https://tuoitre.vn/quang-hung-masterd-la-quan-quan-duong-domic-duoc-yeu-thich-nhat-tinh-ha-say-hi-100261002235520194.htm",
+      "summary": "Quang Hùng MasterD giành ngôi quán quân Tinh hà say hi, kết quả khép lại hành trình kéo dài gần ba tháng của 24 anh trai trong chương trình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T07:49:12.692700+07:00",
+      "fetched": "2026-10-03T07:49:12.692756+07:00"
+    },
+    {
+      "id": "1064d85936cccfc7a229a7e56d012b43",
+      "title": "Chơi Running Man để biết: 'Xem trên tivi vui lắm, ra ngoài mới thấy mệt'",
+      "link": "https://tuoitre.vn/choi-running-man-de-biet-xem-tren-tivi-vui-lam-ra-ngoai-moi-thay-met-10026100301522424.htm",
+      "summary": "Sự xuất hiện của những khách mời đến từ thể thao, esports và giải trí khiến cuộc đối đầu giữa khối thể thao và khối diễn xuất của Running Man Việt Nam trở nên quyết liệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T07:49:12.692633+07:00",
+      "fetched": "2026-10-03T07:49:12.692690+07:00"
+    },
+    {
+      "id": "ad67bd2c6ae08d1a40c65d9e67f668a9",
+      "title": "Hội sách Hà Nội chính thức khai mạc bên hồ Hoàn Kiếm",
+      "link": "https://tuoitre.vn/hoi-sach-ha-noi-chinh-thuc-khai-mac-ben-ho-hoan-kiem-100261003001139486.htm",
+      "summary": "Hội sách Hà Nội lần thứ XI năm 2026, với chủ đề 'Sách mở tri thức - Công nghệ dẫn tương lai' khai mạc tối 2-10 tại khu phố đi bộ hồ Hoàn Kiếm, Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T07:49:12.692564+07:00",
+      "fetched": "2026-10-03T07:49:12.692622+07:00"
+    },
+    {
+      "id": "93a0c13fd61fd85d9321aa97a6e9779c",
+      "title": "Nữ tử tù Mỹ phải thở máy, tiên lượng xấu sau vụ hành quyết bằng thuốc độc bất thành",
+      "link": "https://tuoitre.vn/nu-tu-tu-my-phai-tho-may-tien-luong-xau-sau-vu-hanh-quyet-bang-thuoc-doc-bat-thanh-100261003065350735.htm",
+      "summary": "Bà Christa Pike đang trong tình trạng nguy kịch, sau khi bị hành quyết bằng tiêm thuốc độc nhưng bất thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T07:49:12.692495+07:00",
+      "fetched": "2026-10-03T07:49:12.692554+07:00"
+    },
+    {
+      "id": "419f17fade29adb5b4a2a633feb51085",
+      "title": "Cập nhật bảng xếp hạng huy chương Asiad 20: Cầu mây Việt Nam đang tranh huy chương vàng",
+      "link": "https://tuoitre.vn/cap-nhat-bang-xep-hang-huy-chuong-asiad-20-viet-nam-hy-vong-co-hcv-thu-3-100261002213359978.htm",
+      "summary": "7h sáng, tuyển cầu mây 4 nữ Việt Nam bắt đầu thi đấu chung kết với Thái Lan. Đây là nội dung được hy vọng đem về huy chương vàng thứ 3 cho Việt Nam ở Asiad 20.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T07:49:12.692422+07:00",
+      "fetched": "2026-10-03T07:49:12.692484+07:00"
+    },
+    {
+      "id": "92015253e185ef2cda90f3b5d395b47f",
+      "title": "Tuyển Ý phá hỏng 'tuần trăng mật' của HLV Zidane với tuyển Pháp",
+      "link": "https://tuoitre.vn/tuyen-y-pha-hong-tuan-trang-mat-cua-hlv-zidane-voi-tuyen-phap-100261003063950882.htm",
+      "summary": "Rạng sáng 3-10, tuyển Ý đã cầm chân chủ nhà Pháp 1-1 ở lượt trận thứ ba bảng A1 UEFA Nations League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T07:49:12.692347+07:00",
+      "fetched": "2026-10-03T07:49:12.692411+07:00"
+    },
+    {
+      "id": "ab7ce31d473f120579b518cd7ea8ed7f",
+      "title": "CĐV Trung Quốc sốc và giận dữ khi đội nhà thua 0-3 rồi 0-5 hai trận liên tục",
+      "link": "https://tuoitre.vn/cdv-trung-quoc-soc-va-gian-du-khi-doi-nha-thua-0-3-roi-0-5-hai-tran-lien-tuc-100261003060019091.htm",
+      "summary": "CĐV bóng đá Trung Quốc đang trải qua chuỗi ngày không thể tồi tệ hơn, khi đội tuyển quốc gia thua đậm 0-3 và 0-5 trong hai trận giao hữu liên tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T07:49:12.692274+07:00",
+      "fetched": "2026-10-03T07:49:12.692336+07:00"
+    },
+    {
+      "id": "f0568f3a3d9842bd8ee1dadff844882b",
+      "title": "Vừa chạm vương miện, Miss Universe Vietnam Nguyễn Quỳnh Anh xin về chịu tang bà",
+      "link": "https://tuoitre.vn/vua-cham-vuong-mien-miss-universe-vietnam-nguyen-quynh-anh-xin-ve-chiu-tang-ba-100261003070142239.htm",
+      "summary": "Vừa chạm tay vào vương miện Miss Universe Vietnam 2026, Nguyễn Quỳnh Anh xin phép trở về Hà Nội chịu tang bà. Trước chung kết, cô chia sẻ: 'Bà an nghỉ nhé rồi cháu về'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T07:49:12.692193+07:00",
+      "fetched": "2026-10-03T07:49:12.692263+07:00"
+    },
+    {
+      "id": "fedec8bfd756a92e67c533bd2c8c0be3",
+      "title": "Nhạc kịch Sự tích quả dưa hấu ‘cháy vé’ trước giờ mở màn",
+      "link": "https://tuoitre.vn/nhac-kich-su-tich-qua-dua-hau-chay-ve-truoc-gio-mo-man-100261003070200114.htm",
+      "summary": "Ngày 3 và 4-10, nhạc kịch Sự tích quả dưa hấu được thực hiện theo phong cách nhạc kịch Broadway sẽ ra mắt khán giả tại Nhà hát TP.HCM. Vé cho hai đêm diễn đã được bán hết sạch trước đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T07:49:12.692043+07:00",
+      "fetched": "2026-10-03T07:49:12.692178+07:00"
+    },
     {
       "id": "8e7d3ca021e9db1805f6c34566a08cf0",
       "title": "Báo Mỹ tố cáo chuyện cảnh sát trục lợi từ chương trình chống nhập cư",
@@ -11,6 +161,106 @@ window.newsData_2026_10_03 = {
       "category": "Tổng hợp",
       "published": "2026-10-03T04:35:10.474942+07:00",
       "fetched": "2026-10-03T04:35:10.475091+07:00"
+    },
+    {
+      "id": "080f1ff99491f1893ae8b515743b4f8d",
+      "title": "Ánh Viên 'xuống nước là có vàng' ở giải bơi tiền Đại hội thể thao toàn quốc",
+      "link": "https://thanhnien.vn/anh-vien-xuong-nuoc-la-co-vang-o-giai-boi-tien-dai-hoi-the-thao-toan-quoc-185261003071519738.htm",
+      "summary": "Tượng đài bơi Việt Nam Nguyễn Thị Ánh Viên đánh dấu sự trở lại đầy ấn tượng khi giành trọn 4 HCV tại giải bơi - lặn tiền Đại hội thể thao toàn quốc 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T00:42:00+07:00",
+      "fetched": "2026-10-03T07:49:10.667632+07:00"
+    },
+    {
+      "id": "f907f592b3ffd210b699f8d7e1a57be8",
+      "title": "Cơ phó vụ flydubai từng bị cấm bay",
+      "link": "https://thanhnien.vn/co-pho-vu-flydubai-tung-bi-cam-bay-185261003070142565.htm",
+      "summary": "Cơ phó trên chuyến bay flydubai gặp sự cố hôm 30.9, người bị cáo buộc tấn công cơ trưởng và cố tình lao máy bay xuống Israel, được xác định từng bị hãng Oman Air đình chỉ bay vì tàng trữ tài liệu cực đoan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T00:40:00+07:00",
+      "fetched": "2026-10-03T07:49:10.667803+07:00"
+    },
+    {
+      "id": "5ea1b44fe9dbbd703c92d0a4fbcbe2db",
+      "title": "Đoan Trang tiết lộ về đám cưới và cuộc sống hôn nhân bên chồng ngoại quốc",
+      "link": "https://thanhnien.vn/doan-trang-tiet-lo-ve-dam-cuoi-va-cuoc-song-hon-nhan-ben-chong-ngoai-quoc-185261002224418143.htm",
+      "summary": "Đoan Trang chia sẻ chính sự bình tĩnh và biết lắng nghe từ chồng ngoại quốc là lý do khiến cô nhận ra đây là người bạn đời có thể cùng mình đi xa trên con đường phía trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T00:35:00+07:00",
+      "fetched": "2026-10-03T07:49:10.667993+07:00"
+    },
+    {
+      "id": "f46d96786f0931dade33351202312a45",
+      "title": "Khai mạc Hội sách Hà Nội 2026",
+      "link": "https://thanhnien.vn/khai-mac-hoi-sach-ha-noi-2026-185261003065025731.htm",
+      "summary": "Lãnh đạo Hà Nội nhấn mạnh, trong những năm qua, thành phố đặc biệt quan tâm đến sách và văn hóa đọc, xác định đây là một trong những phương thức quan trọng để lưu giữ tri thức, trao truyền văn hóa và bồi đắp trí tuệ con người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T00:29:00+07:00",
+      "fetched": "2026-10-03T07:49:10.668153+07:00"
+    },
+    {
+      "id": "5b381920f865d8a1d28676846418e55e",
+      "title": "Dương Domic tiết lộ cột mốc 'đổi đời' sau biến cố công ty quản lý giải thể",
+      "link": "https://thanhnien.vn/duong-domic-tiet-lo-cot-moc-doi-doi-sau-bien-co-cong-ty-quan-ly-giai-the-185261003011723322.htm",
+      "summary": "Dương Domic từng có quãng thời gian hụt hẫng, mất phương hướng khi công ty Hàn Quốc IF Entertainment đột ngột đóng cửa, khiến hành trình theo đuổi âm nhạc của anh rơi vào khoảng lặng. Với tình yêu âm nhạc chưa bao giờ tắt, giọng ca trẻ dần tìm lại chính mình. Anh thừa nhận việc tham gia 'Anh trai sa...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T00:25:00+07:00",
+      "fetched": "2026-10-03T07:49:10.668312+07:00"
+    },
+    {
+      "id": "2faa0136949506af49800e3ca06b47f5",
+      "title": "Công bố 34 giáo viên tiêu biểu được tuyên dương tại Hà Nội",
+      "link": "https://thanhnien.vn/cong-bo-34-giao-vien-tieu-bieu-duoc-tuyen-duong-tai-ha-noi-185261002220304562.htm",
+      "summary": "Từ 190 hồ sơ giáo viên tiêu biểu, Hội đồng xét chọn chương trình 'Chia sẻ cùng thầy cô' 2026 đã lựa chọn 34 gương mặt xuất sắc để tuyên dương tại Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T00:22:00+07:00",
+      "fetched": "2026-10-03T07:49:10.668466+07:00"
+    },
+    {
+      "id": "bb3c0e9708d2916bf9ab2f17ac2847fa",
+      "title": "Quang Hùng MasterD giành quán quân 'Tinh hà say hi'",
+      "link": "https://thanhnien.vn/quang-hung-masterd-gianh-quan-quan-tinh-ha-say-hi-185261002170526056.htm",
+      "summary": "Đêm công bố và trao giải 'Tinh hà say hi' khép lại với vị trí quán quân thuộc về Quang Hùng MasterD trong khi Dương Domic đạt á quân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T00:11:00+07:00",
+      "fetched": "2026-10-03T07:49:10.668619+07:00"
+    },
+    {
+      "id": "1a693e840f2c5b4c2fe207a196c88659",
+      "title": "Cô gái duy nhất trong đoàn lân 90 năm tuổi: Từng ngã bầm tím đùi, vẫn quyết không bỏ cuộc",
+      "link": "https://thanhnien.vn/co-gai-duy-nhat-trong-doan-lan-90-nam-tuoi-tung-nga-bam-tim-dui-van-quyet-khong-bo-cuoc-185260914230541964.htm",
+      "summary": "Tại đoàn Lân Sư Rồng Nhơn Nghĩa Đường, đoàn múa lân có tuổi đời hơn 90 năm ở TP.HCM, chị Nguyễn Thị Tuyết Nhi hiện là vận động viên nữ duy nhất giữa đội hình hơn 100 thành viên. Gắn bó với nghề múa lân gần một thập kỷ, câu chuyện của chị là minh chứng thực tế cho nỗ lực xóa bỏ định kiến giới trong b...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T00:07:00+07:00",
+      "fetched": "2026-10-03T07:49:10.668780+07:00"
+    },
+    {
+      "id": "6fe0a0042c670445c9217d880fec8761",
+      "title": "Cựu HLV Đoàn Minh Xương: 'Hoàng Hên không hợp đá cùng Hoàng Đức'",
+      "link": "https://vnexpress.net/cuu-hlv-doan-minh-xuong-hoang-hen-khong-hop-da-cung-hoang-duc-5127749.html",
+      "summary": "Theo chuyên gia bóng đá Đoàn Minh Xương, việc đội tuyển không dư dả lực lượng khiến HLV Kim Sang-sik phải xới tung đội hình và lắp ghép thiếu hợp lý, như trận thắng ngược Pakistan ở FIFA ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-03T00:03:39+07:00",
+      "fetched": "2026-10-03T07:49:21.416402+07:00"
+    },
+    {
+      "id": "94f5d6ababcf9f7a8db77113130337b3",
+      "title": "Ông Trump: Mỹ sẽ không cấm xuất khẩu dầu diesel",
+      "link": "https://vnexpress.net/ong-trump-my-se-khong-cam-xuat-khau-dau-diesel-5127840.html",
+      "summary": "Tổng thống Trump cho biết Mỹ sẽ không áp lệnh cấm xuất khẩu dầu diesel, ca ngợi quyết định xả kho dự trữ từ các quốc gia châu Âu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-03T00:02:27+07:00",
+      "fetched": "2026-10-03T07:49:14.503984+07:00"
     },
     {
       "id": "ae834548a8d82f7b2969f16ba514a4ce",
@@ -161,6 +411,156 @@ window.newsData_2026_10_03 = {
       "category": "Tổng hợp",
       "published": "2026-10-03T00:02:23.964335+07:00",
       "fetched": "2026-10-03T00:02:23.964484+07:00"
+    },
+    {
+      "id": "0ce11a2a5771b9bc30ccfba9c962f40e",
+      "title": "Thiếu tá giữ 'tài khoản 0 đồng' và hành trình chắp cánh ước mơ",
+      "link": "https://thanhnien.vn/thieu-ta-giu-tai-khoan-0-dong-va-hanh-trinh-chap-canh-uoc-mo-185261002185600435.htm",
+      "summary": "Khép lại ca trực, thiếu tá Nguyễn Văn Tuyên (39 tuổi), cán bộ Công an P.Hải Dương (Hải Phòng) chuyển số tiền còn lại trong tài khoản cho một mảnh đời khốn khó. Màn hình báo số dư quỹ thiện nguyện về 0 đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-03T00:00:00+07:00",
+      "fetched": "2026-10-03T07:49:10.668961+07:00"
+    },
+    {
+      "id": "1f0e34caf66fa14f775b5faf1f81592d",
+      "title": "10 cuốn sách khoa học hay được đề cử giải thưởng năm 2026",
+      "link": "https://vnexpress.net/10-cuon-sach-khoa-hoc-hay-duoc-de-cu-giai-thuong-nam-2026-5126577.html",
+      "summary": "10 tác phẩm xuất sắc, từ 329 đề cử được chọn vào chung khảo Giải thưởng Sách khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số 2026.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-03T00:00:00+07:00",
+      "fetched": "2026-10-03T07:49:20.354490+07:00"
+    },
+    {
+      "id": "caf040d8c10dea5fb035028c9031d6c6",
+      "title": "Cơ phó flydubai từng bị Oman cấm bay vì 'tư tưởng cực đoan'",
+      "link": "https://vnexpress.net/co-pho-flydubai-tung-bi-oman-cam-bay-vi-tu-tuong-cuc-doan-5127837.html",
+      "summary": "Cơ phó âm mưu lao phi cơ flydubai xuống đất từng bị Oman cấm bay vì có tư tưởng cực đoan, nhưng vẫn được hãng UAE thuê, theo báo Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-02T23:51:18+07:00",
+      "fetched": "2026-10-03T07:49:14.504170+07:00"
+    },
+    {
+      "id": "b6646a97041bb4b9882aa721a7d90796",
+      "title": "'Robot hình người ở Việt Nam chủ yếu dùng để trình diễn'",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-o-viet-nam-chu-yeu-dung-de-trinh-dien-5127833.html",
+      "summary": "Robot hình người xuất hiện ngày càng nhiều tại Việt Nam, nhưng chủ yếu ở giai đoạn trình diễn, nghiên cứu, chưa hỗ trợ nhiều trong gia đình hay tăng năng suất lao động.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-02T23:45:51+07:00",
+      "fetched": "2026-10-03T07:49:20.354140+07:00"
+    },
+    {
+      "id": "2480ab04c198588660d868fc4f819df1",
+      "title": "Sắc vóc 'nữ thần điền kinh' 17 tuổi của Trung Quốc",
+      "link": "https://vnexpress.net/sac-voc-nu-than-dien-kinh-17-tuoi-cua-trung-quoc-5127819.html",
+      "summary": "Từ cô bé học quần vợt để rèn sức khỏe, Chen Yujie chuyển sang điền kinh và giành 3 HC vàng ASIAD ở tuổi 17.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-02T23:36:23+07:00",
+      "fetched": "2026-10-03T07:49:21.416577+07:00"
+    },
+    {
+      "id": "eacb8ca2f5d6147060ff213b561fb5c1",
+      "title": "Thúc đẩy thị trường nhà ở phát triển lành mạnh",
+      "link": "https://thanhnien.vn/thuc-day-thi-truong-nha-o-phat-trien-lanh-manh-185261002223434966.htm",
+      "summary": "Tiếp tục phiên họp thứ 7, ngày 2.10, Ủy ban Thường vụ Quốc hội cho ý kiến về các dự án luật và văn kiện quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T23:29:00+07:00",
+      "fetched": "2026-10-03T07:49:10.669119+07:00"
+    },
+    {
+      "id": "9cf7648b5ecf0ef2c5e146e2bada9015",
+      "title": "Định danh giá trị sâm Việt: Sự lầm tưởng tai hại!",
+      "link": "https://thanhnien.vn/dinh-danh-gia-tri-sam-viet-su-lam-tuong-tai-hai-185261002174923176.htm",
+      "summary": "Sâm Ngọc Linh được phát hiện và nghiên cứu sớm hơn sâm Lai Châu và dù sâm Ngọc Linh sở hữu hơn 50 loại saponin phân lập, đây chưa phải là thước đo duy nhất để đánh giá 2 loại sâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T23:29:00+07:00",
+      "fetched": "2026-10-03T07:49:10.669270+07:00"
+    },
+    {
+      "id": "2bb590820d24be5f5115aae81f89b2c9",
+      "title": "Ra đường bịt kín mít như 'ninja', xe chạy ngay bên cạnh cũng khó thấy",
+      "link": "https://thanhnien.vn/ra-duong-bit-kin-mit-nhu-ninja-xe-chay-ngay-ben-canh-cung-kho-thay-185261002110832694.htm",
+      "summary": "Áo hoodie trùm đầu, khẩu trang, kính cùng vành che nắng giúp tránh nắng nhưng có thể hạn chế tầm nhìn hai bên của người đi xe máy, tăng nguy cơ va chạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T23:15:00+07:00",
+      "fetched": "2026-10-03T07:49:10.669417+07:00"
+    },
+    {
+      "id": "aa2a8441068e8b2ac483b726687364f2",
+      "title": "Chính phủ yêu cầu tăng cung nhà cho thuê",
+      "link": "https://thanhnien.vn/chinh-phu-yeu-cau-tang-cung-nha-cho-thue-185261002200118732.htm",
+      "summary": "Nghị quyết 303 của Chính phủ yêu cầu các địa phương tăng chỉ tiêu nhà ở cho thuê lên hơn 191.000 căn, đồng thời giảm tỷ lệ nhà để bán trong 4 năm tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T23:14:00+07:00",
+      "fetched": "2026-10-03T07:49:10.669563+07:00"
+    },
+    {
+      "id": "e90538af0f232efa67fb99695f5e895a",
+      "title": "Áp lực chi phí vốn tăng",
+      "link": "https://thanhnien.vn/ap-luc-chi-phi-von-tang-185261002223730433.htm",
+      "summary": "Chi phí huy động vốn của các nhà băng vẫn đang gia tăng và gây áp lực đáng kể đến lãi suất cho vay trong thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T23:13:00+07:00",
+      "fetched": "2026-10-03T07:49:10.669708+07:00"
+    },
+    {
+      "id": "97a6148f306f2210f2cd5895a91eee32",
+      "title": "Dự đoán tỷ số đội tuyển Việt Nam thắng Malaysia 3-2: Williams Minh Hoàng tỏa sáng",
+      "link": "https://thanhnien.vn/du-doan-ty-so-doi-tuyen-viet-nam-thang-malaysia-3-2-williams-minh-hoang-toa-sang-185261002195817373.htm",
+      "summary": "Đội tuyển Việt Nam cần chứng tỏ bản lĩnh ở trận tranh hạng ba với Malaysia, diễn ra lúc 16 giờ ngày 5.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-02T23:11:00+07:00",
+      "fetched": "2026-10-03T07:49:10.669873+07:00"
+    },
+    {
+      "id": "0839fa33938f1a5efc592513a29e3c37",
+      "title": "Lịch đấu ngày cuối của Việt Nam tại ASIAD 2026",
+      "link": "https://vnexpress.net/lich-dau-ngay-cuoi-cua-viet-nam-tai-asiad-2026-5127827.html",
+      "summary": "Hôm nay 3/10 là ngày thi cuối cùng của Việt Nam tại ASIAD 2026, nổi bật là chung kết cầu mây nữ lúc 7h.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-02T23:00:45+07:00",
+      "fetched": "2026-10-03T07:49:21.416740+07:00"
+    },
+    {
+      "id": "8dd58128b2bf8e1c0dad89d33c7baabd",
+      "title": "Pháp bị Italy cầm hòa ngày Zidane ra mắt sân nhà",
+      "link": "https://vnexpress.net/phap-bi-italy-cam-hoa-ngay-zidane-ra-mat-san-nha-5127836.html",
+      "summary": "Michael Olise lập siêu phẩm, nhưng Pháp chỉ hòa Italy 1-1 trong trận sân nhà đầu tiên của Zinedine Zidane trên cương vị HLV trưởng, ở lượt ba bảng A1 Nations League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-02T22:47:54+07:00",
+      "fetched": "2026-10-03T07:49:21.416957+07:00"
+    },
+    {
+      "id": "7bdf88da5042f38da761319dd9c5f47f",
+      "title": "Loạt tàu dầu Iran mắc kẹt dưới sức ép trừng phạt của Mỹ",
+      "link": "https://vnexpress.net/loat-tau-dau-iran-mac-ket-duoi-suc-ep-trung-phat-cua-my-5127198.html",
+      "summary": "Nhiều tàu dầu Iran phải neo đậu dài ngày ngoài khơi Malaysia hay Sri Lanka khi sức ép trừng phạt của Mỹ khiến hoạt động xuất khẩu ngày càng khó khăn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-02T22:00:00+07:00",
+      "fetched": "2026-10-03T07:49:14.504345+07:00"
+    },
+    {
+      "id": "90236562a6c902e129eec953e65e1db8",
+      "title": "Ronaldo và lịch sử bất hòa với các HLV",
+      "link": "https://vnexpress.net/ronaldo-va-lich-su-bat-hoa-voi-cac-hlv-5127434.html",
+      "summary": "Dù làm việc dưới trướng Alex Ferguson, Jose Mourinho, Ralf Rangnick, Erik ten Hag hay mới nhất là Jorge Jesus, Cristiano Ronaldo đều công khai bất mãn mỗi khi mất suất đá chính hoặc bị thay ra.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-02T22:00:00+07:00",
+      "fetched": "2026-10-03T07:49:21.417129+07:00"
     },
     {
       "id": "9e7098a03183833642f5bdacefa34652",
