@@ -1,7 +1,37 @@
 window.newsData_2026_10_05 = {
   "date": "2026-10-05",
-  "lastUpdated": "2026-10-05T03:39:09.972793+07:00",
+  "lastUpdated": "2026-10-05T07:19:20.766246+07:00",
   "articles": [
+    {
+      "id": "949a426bdb45574462f3bc13b257a06c",
+      "title": "Thời tiết hôm nay 5-10: Không khí lạnh gây mưa to cho Bắc Bộ",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-5-10-khong-khi-lanh-gay-mua-to-cho-bac-bo-100261004210640022.htm",
+      "summary": "Hôm nay 5-10, thời tiết các tỉnh Bắc Bộ mưa to do ảnh hưởng không khí lạnh. Nam Bộ có mưa do chịu sự chi phối của dải hội tụ nhiệt đới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-05T07:19:13.234474+07:00",
+      "fetched": "2026-10-05T07:19:13.234504+07:00"
+    },
+    {
+      "id": "50e8d9ea254fac263f128af073293cfc",
+      "title": "Tin tức sáng 5-10: TP.HCM sẽ lập hệ thống báo ngập; Đề xuất người dưới 18 tuổi được hiến xác",
+      "link": "https://tuoitre.vn/tin-tuc-sang-5-10-tphcm-se-lap-he-thong-bao-ngap-de-xuat-nguoi-duoi-18-tuoi-duoc-hien-xac-100261004225919577.htm",
+      "summary": "Tin tức đáng chú ý: TP.HCM sẽ lập hệ thống báo ngập, hỗ trợ xử lý nhanh; Siết kiểm soát bữa ăn học đường, thức ăn đường phố; Đề xuất người dưới 18 tuổi được hiến xác...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-05T07:19:13.234433+07:00",
+      "fetched": "2026-10-05T07:19:13.234469+07:00"
+    },
+    {
+      "id": "4daaebcc6df7873d0900ce2230cd0db9",
+      "title": "Lịch trực tiếp FIFA ASEAN Cup 2026: Việt Nam đấu Malaysia, Thái Lan gặp Indonesia",
+      "link": "https://tuoitre.vn/lich-truc-tiep-fifa-asean-cup-2026-viet-nam-dau-malaysia-thai-lan-gap-indonesia-100261004184508619.htm",
+      "summary": "Hôm nay 5-10, FIFA ASEAN Cup 2026 sẽ chính thức khép lại với 2 trận đấu cuối cùng: Việt Nam gặp Malaysia ở trận tranh hạng ba, còn Thái Lan đụng độ Indonesia ở chung kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-05T07:19:13.234313+07:00",
+      "fetched": "2026-10-05T07:19:13.234426+07:00"
+    },
     {
       "id": "2ca5619a3592087c413d3f828005da6d",
       "title": "HLV Kim Sang Sik: Càng khó khăn, tuyển Việt Nam càng quyết tâm thắng Malaysia",
@@ -151,6 +181,266 @@ window.newsData_2026_10_05 = {
       "category": "Tổng hợp",
       "published": "2026-10-05T00:54:53.048316+07:00",
       "fetched": "2026-10-05T00:54:53.048450+07:00"
+    },
+    {
+      "id": "b009dfff211a067a4f0c7076b703ec46",
+      "title": "Cơ phó flydubai âm mưu 'lao máy bay vào sân bay Israel'",
+      "link": "https://vnexpress.net/co-pho-flydubai-am-muu-lao-may-bay-vao-san-bay-israel-5128323.html",
+      "summary": "Cơ phó âm mưu chiếm máy bay flydubai đã khai báo ý định lao máy bay xuống Ben Gurion, sân bay chủ chốt gần Tel Aviv, theo báo Israel.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-05T00:03:34+07:00",
+      "fetched": "2026-10-05T07:19:14.530497+07:00"
+    },
+    {
+      "id": "b4643aa2b8c97899052fc39d84d2c744",
+      "title": "Từ lái xe thuê đến cơ ngơi nuôi chồn hương thu nhập hàng trăm triệu đồng",
+      "link": "https://thanhnien.vn/tu-lai-xe-thue-den-co-ngoi-nuoi-chon-huong-thu-nhap-hang-tram-trieu-dong-185261004190910523.htm",
+      "summary": "Sau nhiều năm lái xe cuốc thuê để mưu sinh, anh Lê Văn Kháng (ở ấp Cầu Đen, xã Phong Thạnh, tỉnh Cà Mau) mạnh dạn chuyển hướng sang nuôi chồn hương; nhờ đó cuộc sống trở nên khá giả và mở ra hướng phát triển kinh tế mới tại địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-05T00:00:00+07:00",
+      "fetched": "2026-10-05T07:19:11.224622+07:00"
+    },
+    {
+      "id": "bd958c86005dafd65b0e9d0960921710",
+      "title": "Hàng Tây Ninh ra thế giới, sức mua trong tỉnh tăng mạnh",
+      "link": "https://thanhnien.vn/hang-tay-ninh-ra-the-gioi-suc-mua-trong-tinh-tang-manh-185261004165820455.htm",
+      "summary": "Trong 9 tháng đầu năm 2026, xuất khẩu của Tây Ninh tăng 19%, gấp gần 2 lần mục tiêu cả năm. Ở thị trường trong tỉnh, tổng mức bán lẻ cũng tăng 19%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-05T00:00:00+07:00",
+      "fetched": "2026-10-05T07:19:11.224712+07:00"
+    },
+    {
+      "id": "648fcba90cbc6280762ff9c0e88981f4",
+      "title": "Người bị gout có nên ăn ức gà thay thế hoàn toàn thịt lợn, bò?",
+      "link": "https://thanhnien.vn/nguoi-bi-gout-co-nen-an-uc-ga-thay-the-hoan-toan-thit-lon-bo-185261005062912485.htm",
+      "summary": "Ức gà bỏ da cung cấp đạm và ít chất béo bão hòa, nhưng vẫn chứa purin, là chất khi chuyển hóa tạo thành axít uric, gây bệnh gout.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-04T23:58:00+07:00",
+      "fetched": "2026-10-05T07:19:11.224807+07:00"
+    },
+    {
+      "id": "cc77e5ac09388e3512dcc9141a9f01f4",
+      "title": "Rà soát an ninh toàn bộ các chuyến bay đến Israel sau vụ flydubai",
+      "link": "https://thanhnien.vn/ra-soat-an-ninh-toan-bo-cac-chuyen-bay-den-israel-sau-vu-flydubai-18526100506353383.htm",
+      "summary": "Thủ tướng Israel Benjamin Netanyahu hôm 4.10 ra lệnh tiến hành rà soát an ninh đối với các chuyến bay quốc tế đến Israel, sau vụ một cơ phó người Oman tìm cách làm rơi máy bay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-04T23:56:00+07:00",
+      "fetched": "2026-10-05T07:19:11.224883+07:00"
+    },
+    {
+      "id": "a580f2c0ec6e696a4de15163203f1ba6",
+      "title": "Mỹ rút toàn bộ máy bay ném bom B-1B từ Anh về nước",
+      "link": "https://thanhnien.vn/my-rut-toan-bo-may-bay-nem-bom-b-1b-tu-anh-ve-nuoc-185261005063908059.htm",
+      "summary": "Lầu Năm Góc xác nhận thông tin rút rút toàn bộ máy bay ném bom B-1 khỏi căn cứ Không quân Hoàng gia (RAF) Fairford tại Anh - nơi mới xảy ra một vụ việc đáng ngờ dẫn đến lệnh sơ tán người dân ở khu vực lân cận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-04T23:51:00+07:00",
+      "fetched": "2026-10-05T07:19:11.224958+07:00"
+    },
+    {
+      "id": "fc2da4634ed75bf2da4cc01d4ccee0a0",
+      "title": "Nàng thơ 'Em và Trịnh' được đề cử gương mặt đẹp nhất thế giới",
+      "link": "https://thanhnien.vn/nang-tho-em-va-trinh-duoc-de-cu-guong-mat-dep-nhat-the-gioi-185261004233946472.htm",
+      "summary": "Hoàng Hà, diễn viên từng gây chú ý với 'Em và Trịnh' và 'Chúng ta của 8 năm sau', vừa được TC Candler đề cử vào danh sách 100 gương mặt đẹp nhất thế giới năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-04T23:37:00+07:00",
+      "fetched": "2026-10-05T07:19:11.225030+07:00"
+    },
+    {
+      "id": "28f8e040df5e49fb1cdcbfb73641fb0a",
+      "title": "TP.HCM lên kế hoạch giải quyết 50 điểm ngập nặng",
+      "link": "https://thanhnien.vn/tphcm-len-ke-hoach-giai-quyet-50-diem-ngap-nang-185261004224119279.htm",
+      "summary": "Từ nay đến năm 2030, TP.HCM chi hơn 142.300 tỉ đồng đầu tư các dự án hạ tầng giao thông, thủy lợi, thoát nước, chỉnh trang đô thị, giải quyết 50 vị trí ngập nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-04T23:32:00+07:00",
+      "fetched": "2026-10-05T07:19:11.225107+07:00"
+    },
+    {
+      "id": "c3daa070164c53283d9192b3275b1520",
+      "title": "Thể thao Việt Nam cần thay đổi tận gốc",
+      "link": "https://thanhnien.vn/the-thao-viet-nam-can-thay-doi-tan-goc-185261004225001111.htm",
+      "summary": "Những vấn đề Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu, trong đó cần thay đổi cách đầu tư cho thể thao thành tích cao phản ánh đúng thực trạng của thể thao VN nhìn từ thất bại tại ASIAD 20.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-04T23:31:00+07:00",
+      "fetched": "2026-10-05T07:19:11.225183+07:00"
+    },
+    {
+      "id": "a052648ab158f2132c274e0b57e9be57",
+      "title": "Hà Nội quá tải chất thải rắn xây dựng",
+      "link": "https://thanhnien.vn/ha-noi-qua-tai-chat-thai-ran-xay-dung-185261004201649573.htm",
+      "summary": "Hoạt động giải phóng mặt bằng quy mô lớn đang khiến Hà Nội đối mặt với bài toán xử lý lượng chất thải rắn xây dựng phát sinh rất nhiều mỗi ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-04T23:27:00+07:00",
+      "fetched": "2026-10-05T07:19:11.225257+07:00"
+    },
+    {
+      "id": "09e98cad036eb3c95783738527a9f2a5",
+      "title": "Bất ngờ nam sinh GDTX chinh phục IELTS 8.5, điểm SAT thuộc top 1% thế giới",
+      "link": "https://thanhnien.vn/bat-ngo-nam-sinh-gdtx-chinh-phuc-ielts-85-diem-sat-thuoc-top-1-the-gioi-185260930053948224.htm",
+      "summary": "Từ một lựa chọn khác số đông, Trần Đắc Thiện, cựu học viên Trung tâm GDNN-GDTX Thủ Đức (TP.HCM), đã biến quỹ thời gian của mình thành cơ hội để tự học, chinh phục những mục tiêu của bản thân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-04T23:27:00+07:00",
+      "fetched": "2026-10-05T07:19:11.225329+07:00"
+    },
+    {
+      "id": "4f795708d09ceb783bc0eb2dabb0fa00",
+      "title": "Scholes đi ngược quan điểm của Rooney về Man City",
+      "link": "https://vnexpress.net/scholes-di-nguoc-quan-diem-cua-rooney-ve-man-city-5128317.html",
+      "summary": "Cựu tiền vệ Man Utd Paul Scholes tuyên bố muốn nhận huy chương vô địch Ngoại hạng Anh mùa 2011-2012 nếu Man City bị tước danh hiệu, trái ngược quan điểm của đồng đội cũ Wayne Rooney.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-04T23:23:03+07:00",
+      "fetched": "2026-10-05T07:19:20.763330+07:00"
+    },
+    {
+      "id": "2a46cff84cd460d2226e77d205ada1ac",
+      "title": "Học sinh Việt Nam giành 10 huy chương Olympic thiên văn quốc tế",
+      "link": "https://thanhnien.vn/hoc-sinh-viet-nam-gianh-10-huy-chuong-olympic-thien-van-quoc-te-185261004205450024.htm",
+      "summary": "Cả 10 học sinh Việt Nam dự thi Olympic thiên văn và vật lý thiên văn quốc tế năm 2026 đều đoạt huy chương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-04T23:22:00+07:00",
+      "fetched": "2026-10-05T07:19:11.225399+07:00"
+    },
+    {
+      "id": "5d77ea13fb151399ce13377f89ddf9ad",
+      "title": "Nhà mạng bán gói 5G kèm dịch vụ bản quyền",
+      "link": "https://vnexpress.net/nha-mang-ban-goi-5g-kem-dich-vu-ban-quyen-5128237.html",
+      "summary": "Cuộc đua gói cước 5G tại Việt Nam mở rộng từ dung lượng data sang các dịch vụ online cần thuê bao bản quyền, như YouTube Premium, VieON, CapCut Pro.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-04T23:18:15+07:00",
+      "fetched": "2026-10-05T07:19:19.744720+07:00"
+    },
+    {
+      "id": "9e369f5db3d262f4ef338f181ed73fc5",
+      "title": "Cầu thủ Hàn Quốc gây tranh cãi vì mừng được miễn nghĩa vụ quân sự",
+      "link": "https://vnexpress.net/cau-thu-han-quoc-gay-tranh-cai-vi-mung-duoc-mien-nghia-vu-quan-su-5128316.html",
+      "summary": "Những phát ngôn thể hiện niềm vui vì được hưởng quyền lợi nghĩa vụ quân sự của một số cầu thủ sau HC vàng bóng đá nam ASIAD 2026 gây phản ứng mạnh và làm dấy lên tranh luận về chính sách tồn tại hơn nửa thế kỷ ở Hàn Quốc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-04T23:17:36+07:00",
+      "fetched": "2026-10-05T07:19:20.763080+07:00"
+    },
+    {
+      "id": "8885f7e792eb258f4257fbbf23892b59",
+      "title": "Đỗ ô tô trong hẻm: Không chắn cửa, xe khác vẫn qua là được?",
+      "link": "https://thanhnien.vn/do-o-to-trong-hem-khong-chan-cua-xe-khac-van-qua-la-duoc-185261003205354421.htm",
+      "summary": "Một ô tô thường xuyên đỗ trong hẻm dù không chắn cửa, xe khác vẫn qua được nhưng nhiều lần bị đặt túi rác lên kính lái. Câu chuyện gây tranh luận: hẻm còn rộng thì có thể đỗ xe?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-04T23:15:00+07:00",
+      "fetched": "2026-10-05T07:19:11.225470+07:00"
+    },
+    {
+      "id": "c59ca9ad4a7f154e2cad59b34644ca35",
+      "title": "HLV Bồ Đào Nha: 'Tôi không phải xin lỗi ai'",
+      "link": "https://vnexpress.net/hlv-bo-dao-nha-toi-khong-phai-xin-loi-ai-5128320.html",
+      "summary": "HLV Jorge Jesus khẳng định Cristiano Ronaldo có thể trở lại đội tuyển Bồ Đào Nha nếu muốn, nhưng phủ nhận việc ông phải xin lỗi về cách hành xử với tiền đạo 41 tuổi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-04T23:13:33+07:00",
+      "fetched": "2026-10-05T07:19:20.763172+07:00"
+    },
+    {
+      "id": "d6a46679a800765046a1f48eab29f257",
+      "title": "Phim ngắn AI: Đừng để giải trí nhanh thành 'bẫy' nội dung",
+      "link": "https://thanhnien.vn/phim-ngan-ai-dung-de-giai-tri-nhanh-thanh-bay-noi-dung-185261004230939255.htm",
+      "summary": "Từ những video thử nghiệm với hình ảnh méo mó, chuyển động thiếu tự nhiên, phim ngắn có sự tham gia của AI đang phát triển nhanh và len sâu vào đời sống giải trí trên điện thoại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-04T23:12:00+07:00",
+      "fetched": "2026-10-05T07:19:11.225541+07:00"
+    },
+    {
+      "id": "8459f94f36b8d138dd15e51ed064d988",
+      "title": "Kỷ vật kể chuyện cụ Huỳnh: Đọc lại Tiếng Dân từ gần 1 thế kỷ trước",
+      "link": "https://thanhnien.vn/ky-vat-ke-chuyen-cu-huynh-doc-lai-tieng-dan-tu-gan-1-the-ky-truoc-185261004224900665.htm",
+      "summary": "Sau gần 1 thế kỷ, những số báo Tiếng Dân còn lại vẫn mở ra nhiều phát hiện thú vị, đó là những trang bị kiểm duyệt bỏ trắng, những bài viết của đại tướng Võ Nguyên Giáp dưới bút danh Vân Đình và những bài của Huỳnh Thúc Kháng viết về Hoàng Sa…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-04T23:12:00+07:00",
+      "fetched": "2026-10-05T07:19:11.225612+07:00"
+    },
+    {
+      "id": "b9d72bda86d446e75f5d2aeb6e0c7bf6",
+      "title": "Du lịch lập kỷ lục nhưng chưa thể 'thở phào'",
+      "link": "https://thanhnien.vn/du-lich-lap-ky-luc-nhung-chua-the-tho-phao-185261004230324803.htm",
+      "summary": "Đón hơn 17,7 triệu lượt khách quốc tế trong 9 tháng, du lịch Việt Nam tiếp tục lập kỷ lục mới. Tuy nhiên, để cán mốc 25 triệu lượt trong năm nay, 3 tháng cuối năm phải tăng tốc mạnh mẽ để về đích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-04T23:08:00+07:00",
+      "fetched": "2026-10-05T07:19:11.225683+07:00"
+    },
+    {
+      "id": "b3ea5b102e1c4bdf107a5c2e2aaa4643",
+      "title": "Cây xăng nhỏ lo bị chèn ép nếu doanh nghiệp đầu mối được tự quyết giá",
+      "link": "https://vnexpress.net/cay-xang-nho-lo-bi-chen-ep-neu-doanh-nghiep-dau-moi-duoc-tu-quyet-gia-5128194.html",
+      "summary": "Được tự quyết giá bán, mua hàng linh hoạt hơn nhưng doanh nghiệp bán lẻ xăng dầu lo đầu mối có thể chi phối thị trường, khiến họ mất thế chủ động và chịu rủi ro pháp lý.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-04T23:00:00+07:00",
+      "fetched": "2026-10-05T07:19:16.407625+07:00"
+    },
+    {
+      "id": "f51c3df208942e1943942fed8b9a3c55",
+      "title": "Apple siết quyền truy cập dữ liệu trên macOS vì AI",
+      "link": "https://vnexpress.net/apple-siet-quyen-truy-cap-du-lieu-tren-macos-vi-ai-5128081.html",
+      "summary": "Apple cho biết sẽ thay đổi cơ chế bảo mật trên macOS nhằm kiểm soát chặt chẽ hơn khi các ứng dụng AI yêu cầu truy cập toàn bộ dữ liệu máy tính Mac.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-04T22:34:03+07:00",
+      "fetched": "2026-10-05T07:19:19.744815+07:00"
+    },
+    {
+      "id": "0e62a14109bfde9075ae04236748f362",
+      "title": "Bồ Đào Nha thắng Na Uy, vào tứ kết Nations League",
+      "link": "https://vnexpress.net/bo-dao-nha-thang-na-uy-vao-tu-ket-nations-league-5128319.html",
+      "summary": "Không có thủ quân Cristiano Ronaldo, Bồ Đào Nha vẫn ngược dòng thắng Na Uy 2-1 ở lượt bốn bảng A4, qua đó sớm giành vé vào tứ kết Nations League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-04T22:17:15+07:00",
+      "fetched": "2026-10-05T07:19:20.763253+07:00"
+    },
+    {
+      "id": "2ce12f6ab2c93801acd9c26d50acffec",
+      "title": "Những phút sinh tử trên chuyến bay flydubai",
+      "link": "https://vnexpress.net/nhung-phut-sinh-tu-tren-chuyen-bay-flydubai-5127867.html",
+      "summary": "Trong hơn 10 phút, cơ trưởng và các hành khách đã chống trả, khống chế cơ phó, giúp chuyến bay FZ1073 của flydubai thoát thảm họa giữa không trung.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-04T22:00:00+07:00",
+      "fetched": "2026-10-05T07:19:14.530595+07:00"
+    },
+    {
+      "id": "5e536b9a983cd0beb6cf3596ea2276da",
+      "title": "Trả lương cao, doanh nghiệp vẫn 'đỏ mắt' tìm kỹ sư AI",
+      "link": "https://vnexpress.net/tra-luong-cao-doanh-nghiep-van-do-mat-tim-ky-su-ai-5127498.html",
+      "summary": "Dù trả lương cao gấp rưỡi các mảng công nghệ khác, nhiều doanh nghiệp tại Việt Nam vẫn chật vật tìm kỹ sư AI có khả năng ứng dụng thực tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-04T22:00:00+07:00",
+      "fetched": "2026-10-05T07:19:16.407717+07:00"
+    },
+    {
+      "id": "743ec4a44a207b5cc95a15717f7a9068",
+      "title": "Muse Charm - ván cược của Meta vào trào lưu phụ kiện giới trẻ",
+      "link": "https://vnexpress.net/muse-charm-van-cuoc-cua-meta-vao-trao-luu-phu-kien-gioi-tre-5127331.html",
+      "summary": "Muse Charm, thiết bị đeo tích hợp AI của Meta, được đánh giá dễ thu hút giới trẻ nhờ sự nhỏ gọn, dễ thương và có phần hoài cổ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-04T22:00:00+07:00",
+      "fetched": "2026-10-05T07:19:19.744624+07:00"
     },
     {
       "id": "9affd455d8a85a888be8ddb312f35ad1",
