@@ -1,7 +1,97 @@
 window.newsData_2026_10_09 = {
   "date": "2026-10-09",
-  "lastUpdated": "2026-10-09T01:10:00.947342+07:00",
+  "lastUpdated": "2026-10-09T07:03:10.227138+07:00",
   "articles": [
+    {
+      "id": "82166387836c2f55c7c41fa44a838f25",
+      "title": "Việt Nam sẵn sàng tiếp tục hỗ trợ Lào phát triển nhanh, bền vững",
+      "link": "https://tuoitre.vn/viet-nam-san-sang-tiep-tuc-ho-tro-lao-phat-trien-nhanh-ben-vung-100261008233814873.htm",
+      "summary": "Trong khuôn khổ chuyến thăm chính thức Lào, chiều 8-10 tại Nhà Quốc hội Lào, Thủ tướng Lê Minh Hưng đã hội kiến Chủ tịch Quốc hội Lào Sonexay Siphandone.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-09T07:03:01.194484+07:00",
+      "fetched": "2026-10-09T07:03:01.194522+07:00"
+    },
+    {
+      "id": "ccc39c0c8c4c8abb304b4c5b0aac9e1a",
+      "title": "Thủ tướng nêu đề xuất để Việt - Lào 'gắn kết chiến lược' về kinh tế",
+      "link": "https://tuoitre.vn/thu-tuong-neu-de-xuat-de-viet-lao-gan-ket-chien-luoc-ve-kinh-te-100261009001418407.htm",
+      "summary": "Thủ tướng Lê Minh Hưng nhấn mạnh Việt Nam - Lào cần tiếp tục cụ thể hóa 'gắn kết chiến lược', tập trung kết nối thể chế, hạ tầng, năng lượng và công nghệ, hướng tới mục tiêu kim ngạch 10 tỉ USD vào năm 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-09T07:03:01.194441+07:00",
+      "fetched": "2026-10-09T07:03:01.194478+07:00"
+    },
+    {
+      "id": "18dbeb18a1121115d1218c898ea013f1",
+      "title": "'Quan hệ Việt - Lào trước hết là gắn bó máu thịt giữa Nhân dân hai dân tộc'",
+      "link": "https://tuoitre.vn/quan-he-viet-lao-truoc-het-la-gan-bo-mau-thit-giua-nhan-dan-hai-dan-toc-100261009004023938.htm",
+      "summary": "Thủ tướng Lê Minh Hưng đề nghị các tổ chức chính trị, xã hội đẩy mạnh tuyên truyền, giáo dục về lịch sử, truyền thống đoàn kết đặc biệt Việt Nam - Lào, nhất là trong thế hệ trẻ, tăng cường giao lưu Nhân dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-09T07:03:01.194398+07:00",
+      "fetched": "2026-10-09T07:03:01.194434+07:00"
+    },
+    {
+      "id": "64ae5ae9114f8a38c3e12ec16dae7846",
+      "title": "Làng cờ Trung Quốc bất bình thay cho Lại Lý Huynh",
+      "link": "https://tuoitre.vn/lang-co-trung-quoc-bat-binh-thay-cho-lai-ly-huynh-100261008194835115.htm",
+      "summary": "Nhiều cây viết chuyên về cờ tướng trên các nền tảng mạng xã hội Trung Quốc bày tỏ sự khó hiểu khi Lại Lý Huynh không thể lọt vào chung kết châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-09T07:03:01.194352+07:00",
+      "fetched": "2026-10-09T07:03:01.194391+07:00"
+    },
+    {
+      "id": "8cfd449f99baf363b261b0ffbadabd9f",
+      "title": "Thời tiết hôm nay 9-10: Miền Trung mưa to, miền Nam mưa kết hợp triều cường",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-9-10-mien-trung-mua-to-mien-nam-mua-ket-hop-trieu-cuong-100261008160523783.htm",
+      "summary": "Hôm nay 9-10, vùng mưa to vẫn còn ở miền Trung, thời tiết miền Bắc chuyển mưa, còn miền Nam mưa về chiều kết hợp triều cường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-09T07:03:01.194307+07:00",
+      "fetched": "2026-10-09T07:03:01.194346+07:00"
+    },
+    {
+      "id": "57c25a699f64096eb10f28db5e869994",
+      "title": "Ronaldo thiệt thòi khi phải đối đầu cầu thủ trái phép ở World Cup 2026",
+      "link": "https://tuoitre.vn/ronaldo-thiet-thoi-khi-phai-doi-dau-cau-thu-trai-phep-o-world-cup-2026-100261008203222101.htm",
+      "summary": "Truyền thông phương Tây tỏ thái độ bàng hoàng khi phát hiện việc thủ thành Lionel Mpasi - người bị vạch trần tư cách thi đấu không hợp lệ - đã ra sân và đối đầu với Ronaldo ở World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-09T07:03:01.194260+07:00",
+      "fetched": "2026-10-09T07:03:01.194300+07:00"
+    },
+    {
+      "id": "aed349888cfe27629d1893687ecefb04",
+      "title": "Tin tức sáng 9-10: Ai được sử dụng nhãn hiệu 'Gạo Việt Nam'?",
+      "link": "https://tuoitre.vn/tin-tuc-sang-9-10-ai-duoc-su-dung-nhan-hieu-gao-viet-nam-100261008224251296.htm",
+      "summary": "Tin tức đáng chú ý: Ai được sử dụng nhãn hiệu 'Gạo Việt Nam'?; TP.HCM tổng kiểm kê và xây dựng hồ sơ di sản văn hóa phi vật thể, dự kiến hoàn thành vào 2028; Sửa đổi, bổ sung nhiệm vụ và quyền hạn của Bộ Tư pháp...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-09T07:03:01.194209+07:00",
+      "fetched": "2026-10-09T07:03:01.194253+07:00"
+    },
+    {
+      "id": "491db01161bf00fc1b9ac6d209a4e7d8",
+      "title": "Phim về vụ ám sát cố Tổng thống Hàn Quốc gây chia rẽ tại Liên hoan phim Busan",
+      "link": "https://tuoitre.vn/phim-ve-vu-am-sat-co-tong-thong-han-quoc-gay-chia-re-tai-lien-hoan-phim-busan-10026100821171665.htm",
+      "summary": "Tranh cãi ngày càng leo thang xoay quanh phim 'The Assassin(s)' của Lee Min Ho khiến khán giả tại Liên hoan phim quốc tế Busan lần thứ 31 có những quan điểm trái chiều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-09T07:03:01.194147+07:00",
+      "fetched": "2026-10-09T07:03:01.194202+07:00"
+    },
+    {
+      "id": "951544035bc2e791fd91481c67c18941",
+      "title": "Giải mã tủ đồ của Victoria Beckham",
+      "link": "https://tuoitre.vn/giai-ma-tu-do-cua-victoria-beckham-100261008220725372.htm",
+      "summary": "'Chỉn chu, thanh lịch, vượt thời gian' là 3 cụm từ để tóm gọn phong cách phối đồ của Victoria Beckham.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-09T07:03:01.193998+07:00",
+      "fetched": "2026-10-09T07:03:01.194136+07:00"
+    },
     {
       "id": "0c53af7809f5b59bed6a571a202394ff",
       "title": "Trung ương thông qua Quy định đảng viên tham gia hoạt động đầu tư, kinh doanh",
@@ -151,6 +241,216 @@ window.newsData_2026_10_09 = {
       "category": "Tổng hợp",
       "published": "2026-10-09T01:09:52.851820+07:00",
       "fetched": "2026-10-09T01:09:52.851956+07:00"
+    },
+    {
+      "id": "c4a40dc4d4b5d5ab8ce75f8835de0da9",
+      "title": "Lầu Năm Góc sẽ phát sóng công khai vụ xử bắn tử tội",
+      "link": "https://thanhnien.vn/lau-nam-goc-se-phat-song-cong-khai-vu-xu-ban-tu-toi-185261009064507416.htm",
+      "summary": "Lầu Năm Góc thông báo vụ hành quyết bằng đội xử bắn đối với tử tội Nidal Malik Hasan - hung thủ nổ súng tại căn cứ Fort Hood - sẽ được phát sóng trực tuyến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-08T23:54:00+07:00",
+      "fetched": "2026-10-09T07:02:59.080402+07:00"
+    },
+    {
+      "id": "8b52036c6dd604f79c06422d5e8f23e8",
+      "title": "3 tỉnh mưa lớn 300 mm, cảnh báo lũ từ Quảng Trị đến Quảng Ngãi",
+      "link": "https://thanhnien.vn/3-tinh-mua-lon-300-mm-canh-bao-lu-tu-quang-tri-den-quang-ngai-185261008182418802.htm",
+      "summary": "Dự báo thời tiết hôm nay 9.10, mưa lớn tiếp tục mở rộng ở các tỉnh Bắc Trung bộ. Các sông từ Quảng Trị đến Quảng Ngãi có khả năng xuất hiện đợt lũ mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-08T23:52:00+07:00",
+      "fetched": "2026-10-09T07:02:59.080530+07:00"
+    },
+    {
+      "id": "15f588b2ed0809459efb386f8383d4d2",
+      "title": "Thủ tướng Lê Minh Hưng đề nghị Quốc hội Lào tháo gỡ điểm nghẽn cho doanh nghiệp",
+      "link": "https://thanhnien.vn/thu-tuong-le-minh-hung-de-nghi-quoc-hoi-lao-thao-go-diem-nghen-cho-doanh-nghiep-185261009015851913.htm",
+      "summary": "Chiều 8.10, tại Nhà Quốc hội Lào, Thủ tướng Lê Minh Hưng đã hội kiến Chủ tịch Quốc hội Lào Sonexay Siphandone.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-08T23:51:00+07:00",
+      "fetched": "2026-10-09T07:02:59.080649+07:00"
+    },
+    {
+      "id": "a4b13a615f2ea2a1718d7b12877608e2",
+      "title": "Biến tài sản chính trị thành nguồn lực phát triển kinh tế Việt - Lào",
+      "link": "https://thanhnien.vn/bien-tai-san-chinh-tri-thanh-nguon-luc-phat-trien-kinh-te-viet-lao-185261009024321361.htm",
+      "summary": "Chiều 8.10, tại thủ đô Vientiane (Lào), Thủ tướng Lê Minh Hưng và Thủ tướng Chính phủ Lào Saleumxay Kommasith đã dự và phát biểu chỉ đạo tại Hội nghị xúc tiến đầu tư Việt Nam - Lào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-08T23:50:00+07:00",
+      "fetched": "2026-10-09T07:02:59.080757+07:00"
+    },
+    {
+      "id": "aa6393322376967f4c29d4416e928162",
+      "title": "Diễn viên Sam lần hiếm hoi trải lòng về tuổi thơ thiếu vắng cha",
+      "link": "https://thanhnien.vn/dien-vien-sam-lan-hiem-hoi-trai-long-ve-tuoi-tho-thieu-vang-cha-1852610090040241.htm",
+      "summary": "Từng đối diện với những khó khăn khi cha qua đời, Sam không khỏi nghẹn ngào khi chứng kiến hoàn cảnh của các em nhỏ trong 'Mái ấm gia đình Việt'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-08T23:35:00+07:00",
+      "fetched": "2026-10-09T07:02:59.080877+07:00"
+    },
+    {
+      "id": "bbbc34e33853989bb107b4b355757a89",
+      "title": "Shipper chạy xe giao hàng cần tránh những lỗi nào? CSGT TP.HCM lưu ý",
+      "link": "https://thanhnien.vn/shipper-chay-xe-giao-hang-can-tranh-nhung-loi-nao-csgt-tphcm-luu-y-185261007110113988.htm",
+      "summary": "Chở hàng che khuất tầm nhìn, chạy quá tốc độ, sai làn, không chấp hành đèn tín hiệu hay thiếu quan sát khi chuyển hướng… là những lỗi shipper cần đặc biệt lưu ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-08T23:30:00+07:00",
+      "fetched": "2026-10-09T07:02:59.080983+07:00"
+    },
+    {
+      "id": "a7f5935bc192a77bc8fb00387c4b22ce",
+      "title": "100 năm cà phê Khe Sanh: Chuyện những người gieo mầm",
+      "link": "https://thanhnien.vn/100-nam-ca-phe-khe-sanh-chuyen-nhung-nguoi-gieo-mam-185261008163222227.htm",
+      "summary": "Từ những đồn điền đầu tiên gần 1 thế kỷ trước đến những vùng trồng của đồng bào Vân Kiều, Pa Kô hôm nay, cây cà phê đã bén rễ trên đất Khe Sanh (Quảng Trị), trở thành sinh kế của hàng nghìn hộ dân và tạo nên sản phẩm mang tên vùng đất từng bị đạn bom cày xới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-08T23:24:00+07:00",
+      "fetched": "2026-10-09T07:02:59.081085+07:00"
+    },
+    {
+      "id": "bafa6b26d019402575e5efb3a3003846",
+      "title": "Vụ 6 cựu chiến binh kêu oan: Kiến nghị giám đốc thẩm",
+      "link": "https://thanhnien.vn/vu-6-cuu-chien-binh-keu-oan-kien-nghi-giam-doc-tham-185261008172709454.htm",
+      "summary": "Thượng tướng Bế Xuân Trường, Chủ tịch Hội Cựu chiến binh VN, kiến nghị Chánh án TAND tối cao, Viện trưởng Viện KSND tối cao xem xét giám đốc thẩm vụ 6 cựu chiến binh kêu oan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-08T23:23:00+07:00",
+      "fetched": "2026-10-09T07:02:59.081186+07:00"
+    },
+    {
+      "id": "b71f3cef9146c4fe476d35b20478ddc2",
+      "title": "Quan hệ đặc biệt Việt - Lào ngày càng đi vào chiều sâu",
+      "link": "https://thanhnien.vn/quan-he-dac-biet-viet-lao-ngay-cang-di-vao-chieu-sau-185261008224315947.htm",
+      "summary": "Nhận lời mời của Thủ tướng Chính phủ Lào Saleumxay Kommasith, ngày 8.10, Thủ tướng Chính phủ Lê Minh Hưng dẫn đầu đoàn đại biểu cấp cao Chính phủ Việt Nam thăm chính thức nước CHDCND Lào trong ngày 8-9.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-08T23:22:00+07:00",
+      "fetched": "2026-10-09T07:02:59.081285+07:00"
+    },
+    {
+      "id": "02ded6084ed59cd4706e142ef79fe606",
+      "title": "Lăng kính bạn đọc: Rà soát quy định khoảng cách an toàn, phí cao tốc",
+      "link": "https://thanhnien.vn/lang-kinh-ban-doc-ra-soat-quy-dinh-khoang-cach-an-toan-phi-cao-toc-185261008221936493.htm",
+      "summary": "Bạn đọc Báo Thanh Niên thảo luận sôi nổi về vấn đề phí và một số quy định trên cao tốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-08T23:20:00+07:00",
+      "fetched": "2026-10-09T07:02:59.081383+07:00"
+    },
+    {
+      "id": "8e8bc5a8d3546a8f9e90eeb470b167e1",
+      "title": "Vừa làm thầy giáo vừa đi hát, ca sĩ Hồ Trung Dũng giờ ra sao?",
+      "link": "https://thanhnien.vn/vua-lam-thay-giao-vua-di-hat-ca-si-ho-trung-dung-gio-ra-sao-185261008223033475.htm",
+      "summary": "Trong chương trình 'Đời nghệ sĩ', Hồ Trung Dũng trải lòng về cách một người nghệ sĩ tìm thấy hướng đi riêng giữa những thay đổi không ngừng của thị trường âm nhạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-08T23:16:00+07:00",
+      "fetched": "2026-10-09T07:02:59.081479+07:00"
+    },
+    {
+      "id": "6b783c8e947308a576128a413f262935",
+      "title": "Mỹ, Trung Quốc, EU quản lý AI như thế nào?",
+      "link": "https://thanhnien.vn/my-trung-quoc-eu-quan-ly-ai-nhu-the-nao-185261008205854368.htm",
+      "summary": "Trước sự phát triển nhanh chóng của trí tuệ nhân tạo (AI) và những lời kêu gọi kiểm soát công nghệ này, Mỹ, Trung Quốc và Liên minh châu Âu (EU) đang có cách tiếp cận khác nhau để quản lý AI.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-08T23:15:00+07:00",
+      "fetched": "2026-10-09T07:02:59.081578+07:00"
+    },
+    {
+      "id": "bd5402d634395f259b0af438016d10ca",
+      "title": "Hoài Lâm xin lỗi Đàm Vĩnh Hưng, quyết tâm chăm chỉ đi hát trở lại",
+      "link": "https://thanhnien.vn/hoai-lam-xin-loi-dam-vinh-hung-quyet-tam-cham-chi-di-hat-tro-lai-185261009012748726.htm",
+      "summary": "Hoài Lâm gửi lời xin lỗi đến những người thầy, đồng nghiệp và khán giả vì từng có những hành động, suy nghĩ tiêu cực trên mạng xã hội. Nam ca sĩ cho biết sẽ tập trung làm việc, đi hát và dùng những gì mình làm từ nay để chứng minh sự thay đổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-08T23:13:00+07:00",
+      "fetched": "2026-10-09T07:02:59.081672+07:00"
+    },
+    {
+      "id": "dfd41cbf3ae4ebc48f8f65039e2ee6cc",
+      "title": "Những cuộc 'đại chiến' đáng xem ở Ngoại hạng Anh",
+      "link": "https://thanhnien.vn/nhung-cuoc-dai-chien-dang-xem-o-ngoai-hang-anh-185261008230108199.htm",
+      "summary": "Bóng đá tầm CLB nhộn nhịp trở lại vào cuối tuần này, sau đợt nghỉ FIFA Days dài nhất xưa nay. Ngay lập tức, giải Ngoại hạng Anh giới thiệu 2 cuộc đụng độ hấp dẫn giữa các đội thuộc nhóm 'Big 6': M.U - Tottenham và Liverpool - Man.City.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-08T23:04:00+07:00",
+      "fetched": "2026-10-09T07:02:59.081767+07:00"
+    },
+    {
+      "id": "1f04d4494f3ab4b6b853a3a2556d3319",
+      "title": "Tìm giải pháp cho tình trạng mạo danh mở doanh nghiệp",
+      "link": "https://thanhnien.vn/tim-giai-phap-cho-tinh-trang-mao-danh-mo-doanh-nghiep-185261008223904947.htm",
+      "summary": "Hàng ngàn người bất ngờ bị mạo danh mở doanh nghiệp rồi ngưng hoạt động, nợ thuế... dẫn đến nhiều hệ lụy và hành trình tháo gỡ đang kéo dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-08T23:00:00+07:00",
+      "fetched": "2026-10-09T07:02:59.081875+07:00"
+    },
+    {
+      "id": "c1a0018c8787b13baaf9c00c54c59b58",
+      "title": "Ronaldo chế giễu bình luận viên Anh vì tiêm Botox",
+      "link": "https://vnexpress.net/ronaldo-che-gieu-binh-luan-vien-anh-vi-tiem-botox-5130146.html",
+      "summary": "Cristiano Ronaldo được cho là đã ví bình luận viên Simon Jordan như quả táo vì khuôn mặt quá căng bóng, sau khi người này chỉ trích anh về vụ mâu thuẫn với HLV tuyển Bồ Đào Nha Jorge Jesus.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-08T22:37:08+07:00",
+      "fetched": "2026-10-09T07:03:10.223032+07:00"
+    },
+    {
+      "id": "c0b5781caa2fd66fc766757f6c2ba470",
+      "title": "Haaland kêu gọi Man City đoàn kết giữa khủng hoảng",
+      "link": "https://vnexpress.net/haaland-keu-goi-man-city-doan-ket-giua-khung-hoang-5130142.html",
+      "summary": "Tiền đạo Erling Haaland kêu gọi cầu thủ và người hâm mộ Man City giữ tinh thần lạc quan sau khi CLB bị kết luận vi phạm tài chính, trước trận gặp Liverpool ở vòng 6 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-08T22:31:04+07:00",
+      "fetched": "2026-10-09T07:03:10.223141+07:00"
+    },
+    {
+      "id": "38282fd91d80c247105d36b3e7ecac4c",
+      "title": "Thần đồng Arsenal nhận ba kỷ lục Guinness ở tuổi 16",
+      "link": "https://vnexpress.net/than-dong-arsenal-nhan-ba-ky-luc-guinness-o-tuoi-16-5130144.html",
+      "summary": "Tiền vệ Max Dowman được Guinness World Records trao ba chứng nhận kỷ lục thế giới, sau những cột mốc lịch sử tại Ngoại hạng Anh và Champions League khi chưa đầy 17 tuổi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-08T22:25:47+07:00",
+      "fetched": "2026-10-09T07:03:10.223243+07:00"
+    },
+    {
+      "id": "360d30b45a9bd4457eb0b133c8e11a7a",
+      "title": "Romario ủng hộ Ronaldo vụ bỏ đội tuyển",
+      "link": "https://vnexpress.net/romario-ung-ho-ronaldo-vu-bo-doi-tuyen-5130092.html",
+      "summary": "Cựu tuyển thủ Brazil Romario cho rằng Cristiano Ronaldo có lý do để rời đội tuyển Bồ Đào Nha sau mâu thuẫn với HLV Jorge Jesus và khẳng định ông sẽ làm tương tự nếu ở hoàn cảnh của tiền đạo 41 tuổi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-08T21:00:29+07:00",
+      "fetched": "2026-10-09T07:03:10.222902+07:00"
+    },
+    {
+      "id": "78529431585eb1461fbd44aa43d65a3a",
+      "title": "Mỹ - Nga tính chuyện cùng bán lại khí đốt qua đường ống cho EU",
+      "link": "https://vnexpress.net/my-nga-tinh-chuyen-cung-ban-lai-khi-dot-qua-duong-ong-cho-eu-5130036.html",
+      "summary": "Giới chức Nga và Mỹ thảo luận về khả năng đưa nhà đầu tư Mỹ tham gia đường ống Nord Stream, tìm khả năng bán lại khí đốt cho EU.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-08T21:00:00+07:00",
+      "fetched": "2026-10-09T07:03:04.325265+07:00"
+    },
+    {
+      "id": "f06bcc3ebb18b76128f8687a79065aaf",
+      "title": "Những nước nào đang giao dịch chứng khoán xuyên trưa?",
+      "link": "https://vnexpress.net/nhung-nuoc-nao-dang-giao-dich-chung-khoan-xuyen-trua-5129778.html",
+      "summary": "Nhật Bản, Hàn Quốc, Trung Quốc và Singapore, đâu là thị trường đang giao dịch chứng khoán xuyên trưa và mô hình này vận hành ra sao?",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-08T19:34:47+07:00",
+      "fetched": "2026-10-09T07:03:04.325506+07:00"
     },
     {
       "id": "4f7e0bb17f68a8b6e4b3ead7a87d24a3",
@@ -951,6 +1251,26 @@ window.newsData_2026_10_09 = {
       "category": "Tổng hợp",
       "published": "2026-10-08T04:09:14+07:00",
       "fetched": "2026-10-09T01:09:47.281878+07:00"
+    },
+    {
+      "id": "72f11db823073879ad022584b0f4bff4",
+      "title": "Vợ Messi: 'Tự hào chung đường cùng anh'",
+      "link": "https://vnexpress.net/vo-messi-tu-hao-chung-duong-cung-anh-5129810.html",
+      "summary": "Người mẫu Antonela Roccuzzo, vợ cầu thủ Messi, xúc động khi chồng chia tay tuyển quốc gia Argentina sau hai thập niên cống hiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-08T04:08:26+07:00",
+      "fetched": "2026-10-09T07:02:55.961491+07:00"
+    },
+    {
+      "id": "ac66cfa500a016e40e9a4f14933e3d02",
+      "title": "Tìm một người để thương và cùng nhau xây tổ ấm",
+      "link": "https://vnexpress.net/tim-mot-nguoi-de-thuong-va-cung-nhau-xay-to-am-5125936.html",
+      "summary": "Mong anh có công việc và sự nghiệp ổn định, ưa nhìn, có tinh thần cầu tiến và nếu anh cao 1m7 trở lên sẽ là một điểm cộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-08T04:07:12+07:00",
+      "fetched": "2026-10-09T07:02:55.961600+07:00"
     },
     {
       "id": "0f8fe603a700283afc1c6642328b1403",
