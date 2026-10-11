@@ -1,7 +1,167 @@
 window.newsData_2026_10_11 = {
   "date": "2026-10-11",
-  "lastUpdated": "2026-10-11T07:34:53.381908+07:00",
+  "lastUpdated": "2026-10-11T15:00:58.089193+07:00",
   "articles": [
+    {
+      "id": "442c32e75e46a69d64740ad259e7e8fc",
+      "title": "HLV Kim Sang Sik về Hàn Quốc nghỉ ngơi sau FIFA ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/hlv-kim-sang-sik-ve-han-quoc-nghi-ngoi-sau-fifa-asean-cup-2026-100261011115647644.htm",
+      "summary": "HLV Kim Sang Sik dự kiến về quê nhà Hàn Quốc vào đầu tuần tới để nghỉ ngơi, giải quyết công việc và dành thời gian cho gia đình sau FIFA ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T15:00:51.085918+07:00",
+      "fetched": "2026-10-11T15:00:51.085955+07:00"
+    },
+    {
+      "id": "727456a2d9609b2f4cc7af6ff330c7c8",
+      "title": "Ăn kiêng, tập thể dục đều đặn nhưng gan vẫn nhiễm mỡ, vì sao?",
+      "link": "https://tuoitre.vn/an-kieng-tap-the-duc-deu-dan-nhung-gan-van-nhiem-mo-vi-sao-10026100915283265.htm",
+      "summary": "Dù ăn uống cẩn thận và duy trì vận động, nhiều người vẫn được chẩn đoán gan nhiễm mỡ. Theo bác sĩ, nguyên nhân không chỉ nằm ở chế độ ăn mà còn liên quan đến sức khỏe chuyển hóa, tình trạng kháng insulin và nguy cơ xơ hóa gan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T15:00:51.085878+07:00",
+      "fetched": "2026-10-11T15:00:51.085912+07:00"
+    },
+    {
+      "id": "cbe8af78a4586a0947ece5f68dfa409f",
+      "title": "Có gì trên chuyến tàu di sản về xứ trà Thái Nguyên chỉ 200.000 đồng",
+      "link": "https://tuoitre.vn/co-gi-tren-chuyen-tau-di-san-ve-xu-tra-thai-nguyen-chi-200000-dong-100261011103719412.htm",
+      "summary": "Nghe hát then, đàn tính, thưởng trà… Có nhiều trải nghiệm dành cho du khách trên chuyến tàu di sản về xứ trà Thái Nguyên với chi phí chỉ 200.000 đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T15:00:51.085834+07:00",
+      "fetched": "2026-10-11T15:00:51.085869+07:00"
+    },
+    {
+      "id": "9fa0b97ac1e9e5945f3cc32866b2d1d8",
+      "title": "Họp phụ huynh ở Mỹ: Hẹn riêng với từng giáo viên bộ môn",
+      "link": "https://tuoitre.vn/hop-phu-huynh-o-my-hen-rieng-voi-tung-giao-vien-bo-mon-100261011101058015.htm",
+      "summary": "Điểm tôi thấy thuận tiện là những cuộc gặp này không phải một buổi họp kéo dài với hàng chục phụ huynh cùng tham dự. Khoảng thời gian gặp gỡ có thể chỉ 10-15 phút nhưng gần như được dành hoàn toàn cho chính con mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T15:00:51.085778+07:00",
+      "fetched": "2026-10-11T15:00:51.085827+07:00"
+    },
+    {
+      "id": "ef3f69b550d468bd62017b79f0faa29c",
+      "title": "Hoàng tử Harry lột xác phong cách từ khi gặp Meghan Markle",
+      "link": "https://tuoitre.vn/hoang-tu-harry-lot-xac-phong-cach-tu-khi-gap-meghan-markle-10026101010422453.htm",
+      "summary": "Hoàng tử Harry trải qua một cuộc lột xác đáng kể về thời trang cũng như phong cách cá nhân kể từ khi đồng hành cùng Meghan Markle.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T15:00:51.085737+07:00",
+      "fetched": "2026-10-11T15:00:51.085772+07:00"
+    },
+    {
+      "id": "59ddad20d4736b77b980b436fd1cdc87",
+      "title": "Điêu khắc và cuộc hẹn bền bỉ của những người làm nghề",
+      "link": "https://tuoitre.vn/dieu-khac-va-cuoc-hen-ben-bi-cua-nhung-nguoi-lam-nghe-100261011010619542.htm",
+      "summary": "Sau gần 20 năm, triển lãm 'Điêu khắc Sài Gòn - Hà Nội' vẫn là dịp để các nghệ sĩ hai miền gặp gỡ, nhìn lại sáng tác của nhau. Triển lãm lần thứ 9 diễn ra tại TP.HCM thu hút đông công chúng, trong đó có nhiều bạn trẻ đến khám phá những góc nhìn đa dạng về điêu khắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T15:00:51.085699+07:00",
+      "fetched": "2026-10-11T15:00:51.085731+07:00"
+    },
+    {
+      "id": "6d15c37a3f534e82f02d4753ce69ea84",
+      "title": "Cô thủ lĩnh thanh niên đưa sức trẻ tình nguyện lên không gian số",
+      "link": "https://tuoitre.vn/co-thu-linh-thanh-nien-dua-suc-tre-tinh-nguyen-len-khong-gian-so-100261011112749707.htm",
+      "summary": "Trần Thị Thanh Thủy - Bí thư Đoàn xã, Chủ tịch Hội Liên hiệp thanh niên Việt Nam xã Hồ Tràm (TP.HCM) - là một trong 70 gương thủ lĩnh thanh niên tiêu biểu được trao Giải thưởng Nguyễn Chí Thanh năm 2026, do Trung ương Hội Liên hiệp thanh niên Việt Nam tổ chức vào tối nay tại Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T15:00:51.085660+07:00",
+      "fetched": "2026-10-11T15:00:51.085693+07:00"
+    },
+    {
+      "id": "fa0fb7dd3bd98b30d32dae883abd5b92",
+      "title": "Ca sĩ mặt nạ nào khiến Trấn Thành nói sở hữu 'món quà từ Thượng đế'?",
+      "link": "https://tuoitre.vn/ca-si-mat-na-nao-khien-tran-thanh-noi-so-huu-mon-qua-tu-thuong-de-100261011122740316.htm",
+      "summary": "Hát Một đêm say trong tập 2 Ca sĩ mặt nạ, mascot Rabibuum khiến Trấn Thành và Bích Phương khóc ngay trên ghế nóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T15:00:51.085617+07:00",
+      "fetched": "2026-10-11T15:00:51.085654+07:00"
+    },
+    {
+      "id": "b8f189b97c4519e4e4285e0a4fc1f543",
+      "title": "Người dân có được tự ý trồng cây xanh vỉa hè trước nhà, hàng quán?",
+      "link": "https://tuoitre.vn/nguoi-dan-co-duoc-tu-y-trong-cay-xanh-via-he-truoc-nha-hang-quan-100261011115040101.htm",
+      "summary": "Câu hỏi được đặt ra khi một chủ hộ ở Đắk Lắk bị xử phạt vì làm hư thảm cỏ, tự ý trồng cây trên vỉa hè trước quán cà phê khi chưa được cấp có thẩm quyền cho phép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T15:00:51.085571+07:00",
+      "fetched": "2026-10-11T15:00:51.085611+07:00"
+    },
+    {
+      "id": "8962096a7040aad1846d519b43485844",
+      "title": "Khi mày râu bị bạo hành, cứ bịt tai, nhắm mắt cho lành hay phải làm gì?",
+      "link": "https://tuoitre.vn/khi-may-rau-bi-bao-hanh-cu-bit-tai-nham-mat-cho-lanh-hay-phai-lam-gi-100261002205552692.htm",
+      "summary": "Hỏi người chồng sợ gì nhất, không chỉ là sợ sự giận dữ, cằn nhằn của vợ, mà sợ hơn chính là sự bạo hành im lặng, xa lánh đến ghê người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T15:00:51.085527+07:00",
+      "fetched": "2026-10-11T15:00:51.085564+07:00"
+    },
+    {
+      "id": "92f88c76317a6075fc02b3395f8695b4",
+      "title": "Từ vụ bà Như Loan: Án treo và cải tạo không giam giữ khác nhau thế nào?",
+      "link": "https://tuoitre.vn/tu-vu-ba-nhu-loan-an-treo-va-cai-tao-khong-giam-giu-khac-nhau-the-nao-100261011105554006.htm",
+      "summary": "Án treo và cải tạo không giam giữ khác nhau về bản chất pháp lý, điều kiện áp dụng, thời hạn và nghĩa vụ chấp hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T15:00:51.085483+07:00",
+      "fetched": "2026-10-11T15:00:51.085521+07:00"
+    },
+    {
+      "id": "f11aab33f811036dcfcc6ceb1dfd79d0",
+      "title": "Miền núi Đà Nẵng mưa to, nước đổ về sông như thác",
+      "link": "https://tuoitre.vn/mien-nui-da-nang-mua-to-nuoc-do-ve-song-nhu-thac-10026101112430337.htm",
+      "summary": "Mưa lớn kéo dài nhiều giờ tại khu vực miền núi phía nam TP Đà Nẵng khiến nước từ các khe suối đổ về cuồn cuộn, nhiều tuyến đường có nguy cơ sạt lở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T15:00:51.085438+07:00",
+      "fetched": "2026-10-11T15:00:51.085477+07:00"
+    },
+    {
+      "id": "37bc2616c95f5d0a2ee3a2646dbf0c5f",
+      "title": "Lộ VinFast VF 5 mới từ ngoài vào trong, có chi tiết như VF 8, VF Wild",
+      "link": "https://tuoitre.vn/lo-vinfast-vf-5-moi-tu-ngoai-vao-trong-co-chi-tiet-nhu-vf-8-vf-wild-100261011103034785.htm",
+      "summary": "Một chiếc xe được cho là VinFast VF 5 thế hệ mới vừa xuất hiện tại Hà Nội, để lộ nhiều thay đổi về thiết kế ngoại thất và khoang lái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T15:00:51.085391+07:00",
+      "fetched": "2026-10-11T15:00:51.085431+07:00"
+    },
+    {
+      "id": "fd3be627e2c830c12a2d363c3d7b57fc",
+      "title": "TP.HCM dùng đầu tư công làm 'vốn mồi'",
+      "link": "https://tuoitre.vn/tphcm-dung-dau-tu-cong-lam-von-moi-10026101113001484.htm",
+      "summary": "Chương trình “Dân hỏi - Chính quyền trả lời” có chủ đề “Tập trung nguồn lực phát triển hoàn thiện hạ tầng giao thông đa phương thức”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T15:00:51.085337+07:00",
+      "fetched": "2026-10-11T15:00:51.085384+07:00"
+    },
+    {
+      "id": "5042f1d940c353ee3c7ec7c7b410b447",
+      "title": "Bác sĩ điên Kim Ji Won đẩy Doctor X lên top màn ảnh Hàn",
+      "link": "https://tuoitre.vn/bac-si-dien-kim-ji-won-day-doctor-x-len-top-man-anh-han-100261011104451078.htm",
+      "summary": "Vào vai bác sĩ ngoại khoa Gye Su Jeong, Kim Ji Won gây chú ý với tính cách lạnh lùng, thẳng thắn, sẵn sàng đối đầu với những luật ngầm và bất công trong bệnh viện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T15:00:51.085194+07:00",
+      "fetched": "2026-10-11T15:00:51.085327+07:00"
+    },
+    {
+      "id": "2d4931c7bea966014ff1ee1508435409",
+      "title": "Sông Sài Gòn triều cường vượt lịch sử, chiều nay tiếp tục tăng",
+      "link": "https://thanhnien.vn/song-sai-gon-trieu-cuong-vuot-lich-su-chieu-nay-tiep-tuc-tang-185261011142338718.htm",
+      "summary": "Dự báo chiều nay (11.10), mực nước triều có khả năng tiếp tục tăng, vượt lịch sử và báo động 3 đến 35cm. Cảnh báo ngập nặng do triều cường cao kết hợp mưa lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T07:39:00+07:00",
+      "fetched": "2026-10-11T15:00:49.468767+07:00"
+    },
     {
       "id": "fbc8dc40d2eebf0e0a0636315674c23d",
       "title": "Thời tiết hôm nay 11-10: Nam Bộ triều cường rất cao, Trung Bộ đêm về sáng mưa to",
@@ -91,6 +251,366 @@ window.newsData_2026_10_11 = {
       "category": "Tổng hợp",
       "published": "2026-10-11T07:34:46.554280+07:00",
       "fetched": "2026-10-11T07:34:46.554421+07:00"
+    },
+    {
+      "id": "c508e3438464f99f76ba85cc5e8c5062",
+      "title": "Tháo dỡ tường rào xây không phép ven rạch Ông Dí ở TP.HCM",
+      "link": "https://thanhnien.vn/thao-do-tuong-rao-xay-khong-phep-ven-rach-ong-di-o-tphcm-185261011143213559.htm",
+      "summary": "Trưa 11.10.2026, lực lượng chức năng đã tổ chức tháo dỡ công trình tường rào xây dựng không phép ven rạch Ông Dí (phường An Khánh, TP.HCM) sau phản ánh kéo dài của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T07:32:00+07:00",
+      "fetched": "2026-10-11T15:00:49.468902+07:00"
+    },
+    {
+      "id": "8f98b5c6d0a4a1d42182030dd1a92a13",
+      "title": "Cả gia đình cùng lên sân khấu nhận bằng thạc sĩ, nhân vật nhí gây chú ý",
+      "link": "https://thanhnien.vn/ca-gia-dinh-cung-len-san-khau-nhan-bang-thac-si-nhan-vat-nhi-gay-chu-y-185261011140901965.htm",
+      "summary": "Trong lễ tốt nghiệp tại ĐH Kinh tế TP.HCM, vợ chồng Thúy Nhiên cùng nhận bằng thạc sĩ. Đặc biệt, cậu con trai 4 tuổi cũng diện lễ phục giống ba mẹ và cùng bước lên sân khấu. Đằng sau khoảnh khắc ấy là hành trình đầy nỗ lực của đôi vợ chồng trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T07:23:00+07:00",
+      "fetched": "2026-10-11T15:00:49.469006+07:00"
+    },
+    {
+      "id": "b85c51f03fea09ccfefbeabae8dfbab4",
+      "title": "Gia Lai thiếu hơn 4.500 giáo viên sau sắp xếp trường lớp",
+      "link": "https://thanhnien.vn/gia-lai-thieu-hon-4500-giao-vien-sau-sap-xep-truong-lop-185261011125446234.htm",
+      "summary": "Ngành giáo dục Gia Lai hiện còn thiếu 4.502 giáo viên, tình trạng này gây khó khăn cho công tác tổ chức dạy học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T07:06:00+07:00",
+      "fetched": "2026-10-11T15:00:49.469101+07:00"
+    },
+    {
+      "id": "9552cb4eec8cfb6629a418a11a6295ed",
+      "title": "Khi những trái tim nhỏ được trao cơ hội từ một lần sàng lọc",
+      "link": "https://thanhnien.vn/khi-nhung-trai-tim-nho-duoc-trao-co-hoi-tu-mot-lan-sang-loc-185261011133003429.htm",
+      "summary": "Có những đứa trẻ vẫn vui chơi, đến trường hằng ngày mà không biết trong lồng ngực mình có một bất thường đang âm thầm tồn tại. Chỉ đến khi được khám chuyên sâu, những tổn thương ấy mới được nhận diện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T07:00:00+07:00",
+      "fetched": "2026-10-11T15:00:49.469198+07:00"
+    },
+    {
+      "id": "7e4f7806835f4ee2d63f7c5f5bcac22d",
+      "title": "Từ món đồ tối giản đến biểu tượng sang chảnh với áo sát nách",
+      "link": "https://thanhnien.vn/thoi-trang-tre/tu-mon-do-toi-gian-den-bieu-tuong-sang-chanh-voi-ao-sat-nach-185261010002907407.htm",
+      "summary": "Từng bị xem là món đồ mặc lót hoặc chỉ gói gọn trong phòng tập thể thao, áo sát nách ngày nay đã trải qua một cuộc cách mạng diện mạo ngoạn mục để bước lên ngôi vương của thời trang ứng dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T07:00:00+07:00",
+      "fetched": "2026-10-11T15:00:49.469292+07:00"
+    },
+    {
+      "id": "ebdefbcdc9bafa6426b346d390f34987",
+      "title": "Tiên Phước, thủ phủ trầm hương đất Quảng, chuyện ‘uy - linh’ của cha và con",
+      "link": "https://thanhnien.vn/tien-phuoc-thu-phu-tram-huong-dat-quang-chuyen-uy-linh-cua-cha-va-con-185261009212551068.htm",
+      "summary": "Cha con ông Quân cho rằng người làm nghề trầm hương phải giữ cho bằng được cái tâm trong sáng và thơm như hương trầm. Nếu không giữ được uy tín, linh khí của trầm thì 'trời không cho ngóc đầu lên được'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T07:00:00+07:00",
+      "fetched": "2026-10-11T15:00:49.469385+07:00"
+    },
+    {
+      "id": "2c98783ab9a2c0f41bd0520254f3b239",
+      "title": "iPhone Duo 'cá nhân hóa' cho người mua tại Apple Store",
+      "link": "https://vnexpress.net/iphone-duo-ca-nhan-hoa-cho-nguoi-mua-tai-apple-store-5130810.html",
+      "summary": "Người mua iPhone Duo trực tiếp tại Apple Store có thể trải nghiệm tính năng cá nhân hóa khi điện thoại sẽ hiển thị lời chào kèm tên của họ ngay khi mở máy.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-11T07:00:00+07:00",
+      "fetched": "2026-10-11T15:00:56.341658+07:00"
+    },
+    {
+      "id": "cdae864601e087b41b015f7d91da1769",
+      "title": "5 điều cần biết trước khi nâng cấp CPU mới",
+      "link": "https://thanhnien.vn/5-dieu-can-biet-truoc-khi-nang-cap-cpu-moi-185261011131222295.htm",
+      "summary": "Việc nâng cấp CPU không chỉ đơn thuần là lựa chọn số nhân hay thương hiệu, mà người dùng cần cân nhắc kỹ nhiều yếu tố khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T06:58:00+07:00",
+      "fetched": "2026-10-11T15:00:49.469478+07:00"
+    },
+    {
+      "id": "de7aaa7b984d3131d678fa2615c958c4",
+      "title": "Tháo dỡ tường rào xây không phép ven rạch Ông Dí, người dân mong xử lý cả phần móng",
+      "link": "https://thanhnien.vn/thao-do-tuong-rao-xay-khong-phep-ven-rach-ong-di-nguoi-dan-mong-xu-ly-ca-phan-mong-185261011124054267.htm",
+      "summary": "Trưa 11.10, lực lượng chức năng tháo dỡ tường rào xây không phép ven rạch Ông Dí (TP.HCM). Người dân mong phần móng bê tông cũng được xử lý để khơi thông dòng chảy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T06:44:00+07:00",
+      "fetched": "2026-10-11T15:00:49.469580+07:00"
+    },
+    {
+      "id": "65868ca23f2e65c9472faccbacb1fd89",
+      "title": "Xe cộ trầy trật qua 'nút thắt cổ chai' cao tốc Đà Nẵng - Quảng Ngãi và quốc lộ 14B",
+      "link": "https://thanhnien.vn/xe-co-tray-trat-qua-nut-that-co-chai-cao-toc-da-nang-quang-ngai-va-quoc-lo-14b-185261011131551368.htm",
+      "summary": "Khi qua nút giao cao tốc Đà Nẵng - Quảng Ngãi và quốc lộ 14B, do mặt đường đang thi công nên cánh tài xế đường dài lưu ý điều khiển phương tiện di chuyển chậm. Trên thực tế, có tài xế mất 30 phút để đi qua quãng đường chỉ hơn 2 km.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T06:41:00+07:00",
+      "fetched": "2026-10-11T15:00:49.469671+07:00"
+    },
+    {
+      "id": "1ab57a41fe4fc8e1006f4b10fcbf6a05",
+      "title": "Khuyến khích làm giàu, nhưng không tạo đặc quyền",
+      "link": "https://thanhnien.vn/khuyen-khich-lam-giau-nhung-khong-tao-dac-quyen-185261010231145876.htm",
+      "summary": "Chủ trương chuyển từ 'cho phép' sang 'khuyến khích, tạo điều kiện' để đảng viên tham gia đầu tư, kinh doanh, làm giàu chính đáng được Hội nghị Trung ương 4 khóa XIV thống nhất vừa qua, mở ra một vấn đề đáng suy ngẫm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T06:24:00+07:00",
+      "fetched": "2026-10-11T15:00:49.469763+07:00"
+    },
+    {
+      "id": "fff0a5c4cbebaf2f88e5df19daf5c605",
+      "title": "Đón thanh niên Trung Quốc bắt đầu chuyến hành trình đỏ tại Việt Nam",
+      "link": "https://thanhnien.vn/don-thanh-nien-trung-quoc-bat-dau-chuyen-hanh-trinh-do-tai-viet-nam-185261011115430387.htm",
+      "summary": "Đại diện Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam phối hợp với Tỉnh đoàn Lạng Sơn tổ chức buổi đón đoàn thanh niên Trung Quốc bắt đầu Chương trình Hành trình đỏ nghiên cứu, học tập tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T06:18:00+07:00",
+      "fetched": "2026-10-11T15:00:49.469867+07:00"
+    },
+    {
+      "id": "73b0fcc780492541a6ed2afa39c45a5b",
+      "title": "Ông Trump để ngỏ khả năng Mỹ tham gia tấn công Houthi",
+      "link": "https://vnexpress.net/ong-trump-de-ngo-kha-nang-my-tham-gia-tan-cong-houthi-5130938.html",
+      "summary": "Tổng thống Trump nói vụ tấn công sân bay King Khalid là \"không thể chấp nhận được\" và Mỹ có thể tham gia tấn công Houthi cùng Arab Saudi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-11T06:14:06+07:00",
+      "fetched": "2026-10-11T15:00:52.528769+07:00"
+    },
+    {
+      "id": "3a7d065ea655897f882cb7041a17ac06",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn bắt đầu thăm chính thức Trung Quốc",
+      "link": "https://thanhnien.vn/chu-tich-quoc-hoi-tran-thanh-man-bat-dau-tham-chinh-thuc-trung-quoc-18526101112421403.htm",
+      "summary": "Trưa 11.10 (theo giờ địa phương), chuyên cơ chở Chủ tịch Quốc hội Trần Thanh Mẫn cùng đoàn đại biểu cấp cao Việt Nam đã tới sân bay quốc tế thủ đô Bắc Kinh, bắt đầu chuyến thăm chính thức Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T06:13:00+07:00",
+      "fetched": "2026-10-11T15:00:49.469957+07:00"
+    },
+    {
+      "id": "a956234dc745717d1d8e28761d00a10b",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn bắt đầu thăm Trung Quốc",
+      "link": "https://vnexpress.net/chu-tich-quoc-hoi-tran-thanh-man-bat-dau-tham-trung-quoc-5130943.html",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn đến thủ đô Bắc Kinh, bắt đầu chuyến thăm chính thức Trung Quốc ngày 11-15/10.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-11T05:51:45+07:00",
+      "fetched": "2026-10-11T15:00:52.528905+07:00"
+    },
+    {
+      "id": "52f1cf686fe253f7f45fd19337b7632c",
+      "title": "Hơn 6 triệu Bitcoin đối mặt rủi ro bảo mật trong tương lai",
+      "link": "https://vnexpress.net/hon-6-trieu-bitcoin-doi-mat-rui-ro-bao-mat-trong-tuong-lai-5130919.html",
+      "summary": "Khóa công khai (public key) của hơn 6 triệu Bitcoin được hiển thị trên blockchain, làm tăng nguy cơ mất tài sản trong tương lai khi AI ngày càng tiến bộ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-11T05:46:44+07:00",
+      "fetched": "2026-10-11T15:00:53.824464+07:00"
+    },
+    {
+      "id": "c2c118716de94e2841023154892b2b9e",
+      "title": "Bill Gates: Chi 1-2 USD tránh 'vệt mây' sau đuôi máy bay giúp giảm 1 tấn CO2",
+      "link": "https://vnexpress.net/bill-gates-chi-1-2-usd-tranh-vet-may-sau-duoi-may-bay-giup-giam-1-tan-co2-5130896.html",
+      "summary": "Nhiều máy bay để lại \"vệt mây\" sau di chuyển, hấp thụ nhiệt và làm nóng Trái Đất, chi phí tránh hiện tượng này chỉ tốn 1-2 USD cho mỗi tấn CO2.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-11T05:46:27+07:00",
+      "fetched": "2026-10-11T15:00:53.824586+07:00"
+    },
+    {
+      "id": "9ed4e8fb9139737badfeba1c46b96b43",
+      "title": "Vinicius trả giá đắt vì giật tóc đối thủ ở La Liga",
+      "link": "https://vnexpress.net/vinicius-tra-gia-dat-vi-giat-toc-doi-thu-o-la-liga-5130887.html",
+      "summary": "Tiền đạo Vinicius đối mặt nguy cơ nghỉ trận El Clasico do hành vi giật tóc Nathan Saliba, trong trận thắng Villarreal ở vòng 8 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-11T05:38:42+07:00",
+      "fetched": "2026-10-11T15:00:58.084793+07:00"
+    },
+    {
+      "id": "c4a50acb92cf195cf27cfa9944af90b8",
+      "title": "Đóng cửa liên tục, ngân hàng SCB chỉ còn 10 điểm giao dịch",
+      "link": "https://vnexpress.net/dong-cua-lien-tuc-ngan-hang-scb-chi-con-10-diem-giao-dich-5130862.html",
+      "summary": "SCB đóng cửa hàng chục chi nhánh trong ba tháng gần đây, thu hẹp mạng lưới khắp cả nước xuống còn 10 điểm giao dịch.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-11T05:33:11+07:00",
+      "fetched": "2026-10-11T15:00:53.824691+07:00"
+    },
+    {
+      "id": "e6d899d2be17b36010c7b6199c1df76d",
+      "title": "Người dân Thủ đô mãn nhãn với những màn pháo hoa siêu đỉnh tại 3 trận địa",
+      "link": "https://thanhnien.vn/nguoi-dan-thu-do-man-nhan-voi-nhung-man-phao-hoa-sieu-dinh-tai-3-tran-dia-185261011120509496.htm",
+      "summary": "Đêm qua (10.10), hàng vạn người dân Thủ đô và du khách đã vỡ òa cảm xúc khi chứng kiến những màn trình diễn pháo hoa nghệ thuật do Tập đoàn Sun Group tài trợ tại 3 địa điểm: Hồ Hoàn Kiếm, hồ Tây và hồ Văn Quán. Gần 7.000 đơn vị pháo hoa và giàn hỏa thuật đồng loạt bung nở đã mang đến một bữa tiệc th...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T05:26:00+07:00",
+      "fetched": "2026-10-11T15:00:49.470046+07:00"
+    },
+    {
+      "id": "3339b0cc47b7fb32618fb976722770ed",
+      "title": "Giữ niềm tin trên không gian mạng",
+      "link": "https://thanhnien.vn/giu-niem-tin-tren-khong-gian-mang-185261009193029441.htm",
+      "summary": "Trong kỷ nguyên số, bảo vệ nền tảng tư tưởng của Đảng không chỉ là phản bác thông tin sai trái, mà còn phải chủ động đưa sự thật đến gần người dân, đổi mới cách tuyên truyền và củng cố niềm tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T05:21:00+07:00",
+      "fetched": "2026-10-11T15:00:49.470141+07:00"
+    },
+    {
+      "id": "ea0e735d8837ba24db40d3328f9d93bd",
+      "title": "Gary Neville: 'Man Utd đang trở nên quá sức với một số cầu thủ'",
+      "link": "https://vnexpress.net/gary-neville-man-utd-dang-tro-nen-qua-suc-voi-mot-so-cau-thu-5130934.html",
+      "summary": "Cựu hậu vệ Gary Neville chỉ trích các cầu thủ Man Utd thiếu năng lượng, tinh thần chiến đấu và không đủ bản lĩnh khoác áo đội bóng thành Manchester, sau trận hòa Tottenham 1-1 ở vòng 6 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-11T05:20:58+07:00",
+      "fetched": "2026-10-11T15:00:58.084236+07:00"
+    },
+    {
+      "id": "9ebeb8cae4dbe2402e5d414b1c6e914d",
+      "title": "Mỹ điều tra 5 đài truyền hình với cáo buộc vi phạm luật chống độc quyền",
+      "link": "https://vnexpress.net/my-dieu-tra-5-dai-truyen-hinh-voi-cao-buoc-vi-pham-luat-chong-doc-quyen-5130910.html",
+      "summary": "Bộ Tư pháp Mỹ mở cuộc điều tra 5 đài truyền hình ABC, CBS, CNN, Fox News và NBC, liên quan việc họ từng tẩy chay đưa tin về Nhà Trắng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-11T04:47:51+07:00",
+      "fetched": "2026-10-11T15:00:52.529013+07:00"
+    },
+    {
+      "id": "06ad3b7a8c32bce229c9ccbcf6419d16",
+      "title": "Sắc vóc mỹ nhân châu Phi đầu tiên đăng quang Miss Grand International",
+      "link": "https://vnexpress.net/sac-voc-my-nhan-chau-phi-dau-tien-dang-quang-miss-grand-international-5130864.html",
+      "summary": "Jihan Dimack, 30 tuổi, người Tanzania, có gương mặt sắc sảo, hình thể đẹp và lượng fan đông tại Miss Grand International 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T04:30:00+07:00",
+      "fetched": "2026-10-11T15:00:46.648410+07:00"
+    },
+    {
+      "id": "e4ebf6fe44cb3fcf50f0588636fe80fd",
+      "title": "Những chiếc bàn trà giá hàng chục nghìn USD từ động cơ siêu xe",
+      "link": "https://vnexpress.net/nhung-chiec-ban-tra-gia-hang-chuc-nghin-usd-tu-dong-co-sieu-xe-5129272.html",
+      "summary": "Những cỗ máy hàng trăm mã lực bị hỏng được hồi sinh dưới lớp kính cường lực, những tách trà và cà phê.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T04:11:37+07:00",
+      "fetched": "2026-10-11T15:00:46.648599+07:00"
+    },
+    {
+      "id": "42f7934a83cb649aaf644bfd0cfd30c7",
+      "title": "Harley-Davidson dùng động cơ phản lực",
+      "link": "https://vnexpress.net/harley-davidson-dung-dong-co-phan-luc-5130666.html",
+      "summary": "Thay thế toàn bộ hệ truyền động bằng hai tuabin phản lực, chiếc Harley-Davidson đạt 97 km/h thuần túy nhờ sức đẩy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T04:08:56+07:00",
+      "fetched": "2026-10-11T15:00:46.648767+07:00"
+    },
+    {
+      "id": "d0dc72a61eebcee0141a058ec5fba1f5",
+      "title": "Musk tán thưởng Bezos vì tự bỏ tiền đầu tư Blue Origin",
+      "link": "https://vnexpress.net/musk-tan-thuong-bezos-vi-tu-bo-tien-dau-tu-blue-origin-5130812.html",
+      "summary": "CEO SpaceX Elon Musk công khai tán thưởng đối thủ Jeff Bezos, sau khi nhà sáng lập Amazon tiết lộ đã bỏ ra 28 tỷ USD tiền túi để phát triển công ty vũ trụ Blue Origin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T04:00:00+07:00",
+      "fetched": "2026-10-11T15:00:46.648952+07:00"
+    },
+    {
+      "id": "b216d27f376854ef8c25f8d4bb453f5c",
+      "title": "Lợi ích của đậu nành Nhật Bản với bệnh ung thư",
+      "link": "https://vnexpress.net/loi-ich-cua-dau-nanh-nhat-ban-voi-benh-ung-thu-5130764.html",
+      "summary": "Đậu nành Nhật Bản cung cấp protein, chất xơ và isoflavone, có thể hỗ trợ sức khỏe trao đổi chất, tăng sức đề kháng, góp phần giảm nguy cơ ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T04:00:00+07:00",
+      "fetched": "2026-10-11T15:00:46.649125+07:00"
+    },
+    {
+      "id": "edd0f31a1aaa9419f61ae3562622508a",
+      "title": "Thu thập tế bào gốc sau sinh thế nào để tránh nhiễm khuẩn?",
+      "link": "https://vnexpress.net/thu-thap-te-bao-goc-sau-sinh-the-nao-de-tranh-nhiem-khuan-5130743.html",
+      "summary": "Khi thu thập tế bào gốc từ máu và mô dây rốn sau sinh, mẫu phải tiếp xúc với môi trường và nhân viên y tế, liệu có nguy cơ nhiễm khuẩn không? (Hải Anh, Đồng Nai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T04:00:00+07:00",
+      "fetched": "2026-10-11T15:00:46.649285+07:00"
+    },
+    {
+      "id": "cda0e8b308730cd12b26fdeae52e6e36",
+      "title": "Sa sút trí tuệ có chữa được không?",
+      "link": "https://vnexpress.net/sa-sut-tri-tue-co-chua-duoc-khong-5130718.html",
+      "summary": "Ba tôi 58 tuổi nhưng có dấu hiệu mắc Alzheimer, thường xuyên hay quên. Bệnh sa sút trí tuệ có chữa được không? (Hoàng Long, Cà Mau)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T04:00:00+07:00",
+      "fetched": "2026-10-11T15:00:46.649439+07:00"
+    },
+    {
+      "id": "d0dc72a61eebcee0141a058ec5fba1f5",
+      "title": "Musk tán thưởng Bezos vì tự bỏ tiền đầu tư Blue Origin",
+      "link": "https://vnexpress.net/musk-tan-thuong-bezos-vi-tu-bo-tien-dau-tu-blue-origin-5130812.html",
+      "summary": "CEO SpaceX Elon Musk công khai tán thưởng đối thủ Jeff Bezos, sau khi nhà sáng lập Amazon tiết lộ đã bỏ ra 28 tỷ USD tiền túi để phát triển công ty vũ trụ Blue Origin.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-11T04:00:00+07:00",
+      "fetched": "2026-10-11T15:00:56.341776+07:00"
+    },
+    {
+      "id": "00220beac81e67730179dccbeb8d6402",
+      "title": "Trái phiếu chính phủ 10 năm lại 'cháy hàng'",
+      "link": "https://vnexpress.net/trai-phieu-chinh-phu-10-nam-lai-chay-hang-5130860.html",
+      "summary": "Lực cầu trái phiếu chính phủ kỳ hạn 10 năm tăng đột biến khiến Kho bạc Nhà nước phát hành ngoài kế hoạch lần thứ ba trong một tháng qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T03:59:48+07:00",
+      "fetched": "2026-10-11T15:00:46.649590+07:00"
+    },
+    {
+      "id": "00220beac81e67730179dccbeb8d6402",
+      "title": "Trái phiếu chính phủ 10 năm lại 'cháy hàng'",
+      "link": "https://vnexpress.net/trai-phieu-chinh-phu-10-nam-lai-chay-hang-5130860.html",
+      "summary": "Lực cầu trái phiếu chính phủ kỳ hạn 10 năm tăng đột biến khiến Kho bạc Nhà nước phát hành ngoài kế hoạch lần thứ ba trong một tháng qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-11T03:59:48+07:00",
+      "fetched": "2026-10-11T15:00:53.824791+07:00"
+    },
+    {
+      "id": "b162be9a96bfc386b74692ea9a7999f0",
+      "title": "Tennessee lâm thế tiến thoái lưỡng nan sau vụ xử tử bất thành",
+      "link": "https://vnexpress.net/tennessee-lam-the-tien-thoai-luong-nan-sau-vu-xu-tu-bat-thanh-5130070.html",
+      "summary": "Vụ xử tử bất thành đối với Christa Pike mở ra rắc rối pháp lý mới, khiến bang Tennessee đau đầu giải bài toán có nên thi hành án tử hình lần hai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T03:57:59+07:00",
+      "fetched": "2026-10-11T15:00:46.649749+07:00"
+    },
+    {
+      "id": "b162be9a96bfc386b74692ea9a7999f0",
+      "title": "Tennessee lâm thế tiến thoái lưỡng nan sau vụ xử tử bất thành",
+      "link": "https://vnexpress.net/tennessee-lam-the-tien-thoai-luong-nan-sau-vu-xu-tu-bat-thanh-5130070.html",
+      "summary": "Vụ xử tử bất thành đối với Christa Pike mở ra rắc rối pháp lý mới, khiến bang Tennessee đau đầu giải bài toán có nên thi hành án tử hình lần hai.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-11T03:57:59+07:00",
+      "fetched": "2026-10-11T15:00:52.529120+07:00"
+    },
+    {
+      "id": "bacb423fc76aa79975d44420bcbcc576",
+      "title": "Vì sao người Mỹ, Anh ít ăn nội tạng?",
+      "link": "https://vnexpress.net/vi-sao-nguoi-my-anh-it-an-noi-tang-5130833.html",
+      "summary": "Thu nhập tăng, thói quen chuộng thịt nạc cắt sẵn cùng định kiến món ăn thời nghèo khó khiến nội tạng vắng bóng trong bữa cơm người Mỹ, Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T03:57:00+07:00",
+      "fetched": "2026-10-11T15:00:46.649876+07:00"
     },
     {
       "id": "c99b56a6bc576e55dd8fb7ea6f1d4117",
@@ -241,6 +761,136 @@ window.newsData_2026_10_11 = {
       "category": "Tổng hợp",
       "published": "2026-10-11T03:53:12.789518+07:00",
       "fetched": "2026-10-11T03:53:12.789655+07:00"
+    },
+    {
+      "id": "0148a0713edee6cf2f56c59edbaa6fd5",
+      "title": "TP HCM giảm hơn 5,5 ha đất dự án khu đô thị Nam Thành phố",
+      "link": "https://vnexpress.net/tp-hcm-giam-hon-5-5-ha-dat-du-an-khu-do-thi-nam-thanh-pho-5130821.html",
+      "summary": "Dự án 5 cụm đô thị Nam Thành phố sẽ giảm hơn 5,5 ha đất để phục vụ mở rộng Quốc lộ 1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T03:45:03+07:00",
+      "fetched": "2026-10-11T15:00:46.650000+07:00"
+    },
+    {
+      "id": "0ee7c5a7ce7715309996d26fcf622c77",
+      "title": "Giọng ca bí ẩn Rabibuum hát cảm xúc ở 'Ca sĩ mặt nạ'",
+      "link": "https://vnexpress.net/giong-ca-bi-an-rabibuum-hat-cam-xuc-o-ca-si-mat-na-5130889.html",
+      "summary": "Hát \"Một đêm say\" tại chương trình Ca sĩ mặt nạ, giọng ca Rabibuum khiến Trấn Thành, Bích Phương rơi nước mắt trên \"ghế nóng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T03:35:07+07:00",
+      "fetched": "2026-10-11T15:00:46.650163+07:00"
+    },
+    {
+      "id": "e5de42029ef800d9cd32094292cec078",
+      "title": "4 dấu hiệu nhận biết hàng xóm phiền toái khi mua nhà",
+      "link": "https://vnexpress.net/4-dau-hieu-nhan-biet-hang-xom-phien-toai-khi-mua-nha-5130335.html",
+      "summary": "Tiếng ồn kéo dài, người lạ ra vào liên tục hoặc hành lang nhếch nhác là những chi tiết người mua nhà cần quan sát trước khi \"xuống tiền\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T03:33:42+07:00",
+      "fetched": "2026-10-11T15:00:46.650319+07:00"
+    },
+    {
+      "id": "85b8094cc1b49a46578433ba9cb91c6f",
+      "title": "Loạt trường tư công bố tuyển sinh năm 2027",
+      "link": "https://vnexpress.net/loat-truong-tu-cong-bo-tuyen-sinh-nam-2027-5130133.html",
+      "summary": "Vừa vào năm học mới, nhiều trường tư thục đã tuyển sinh lớp 1, 6, 10 cho năm học 2027-2028, chủ yếu bằng xét học bạ hoặc hoạt động trải nghiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T03:33:00+07:00",
+      "fetched": "2026-10-11T15:00:46.650468+07:00"
+    },
+    {
+      "id": "c028e3477be6c96c31132ed46dd57500",
+      "title": "Miền Bắc nắng hanh, miền Trung giảm mưa",
+      "link": "https://vnexpress.net/mien-bac-nang-hanh-mien-trung-giam-mua-5130907.html",
+      "summary": "Miền Bắc duy trì trạng thái nắng hanh, độ ẩm có lúc dưới 60% đến ngày 15/10; miền Trung giảm mưa, trong khi miền Nam tiếp tục mưa giông vào chiều tối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T03:32:50+07:00",
+      "fetched": "2026-10-11T15:00:46.650575+07:00"
+    },
+    {
+      "id": "52110b128d8b0b434f96fa27da42dff5",
+      "title": "Messi lập cú đúp trong trận đầu sau khi chia tay tuyển Argentina",
+      "link": "https://vnexpress.net/messi-lap-cu-dup-trong-tran-dau-sau-khi-chia-tay-tuyen-argentina-5130901.html",
+      "summary": "Lionel Messi ghi hai bàn giúp Inter Miami thắng DC United 4-0 ở giải bóng đá nhà nghề Mỹ (MLS) ngày 10/10, trong trận đầu tiên kể từ khi chia tay đội tuyển Argentina.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-11T02:57:47+07:00",
+      "fetched": "2026-10-11T15:00:58.084361+07:00"
+    },
+    {
+      "id": "507a0e9ac5a3968edb87c00c3b8808cd",
+      "title": "Người đàn ông thiệt mạng sau khi vào chuồng hổ ở Anh",
+      "link": "https://vnexpress.net/nguoi-dan-ong-thiet-mang-sau-khi-vao-chuong-ho-o-anh-5130899.html",
+      "summary": "Một người đàn ông vào khu nuôi nhốt hổ tại công viên ở Anh, bị con vật tấn công và tử vong vì vết thương nghiêm trọng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-11T02:40:02+07:00",
+      "fetched": "2026-10-11T15:00:52.529218+07:00"
+    },
+    {
+      "id": "04294fcb9b8073b6496d61263732aaa0",
+      "title": "Carrick đau đớn khi Man Utd bị CĐV la ó",
+      "link": "https://vnexpress.net/carrick-dau-don-khi-man-utd-bi-cdv-la-o-5130886.html",
+      "summary": "HLV Michael Carrick thừa nhận tổn thương khi bị CĐV la ó, sau khi Man Utd hòa Tottenham 1-1 dù chơi hơn người ở vòng 6 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-11T01:56:53+07:00",
+      "fetched": "2026-10-11T15:00:58.084466+07:00"
+    },
+    {
+      "id": "9253e9c824ad6dce2eb1f711e8ed2389",
+      "title": "Mourinho bỏ họp báo sau trận thắng Villarreal",
+      "link": "https://vnexpress.net/mourinho-bo-hop-bao-sau-tran-thang-villarreal-5130893.html",
+      "summary": "Jose Mourinho không xuất hiện trong phòng họp báo sân Bernabeu, cũng không trả lời phỏng vấn trên kênh truyền hình của Real Madrid, sau trận thắng Villarreal ở vòng 8 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-11T01:52:09+07:00",
+      "fetched": "2026-10-11T15:00:58.084577+07:00"
+    },
+    {
+      "id": "e622981deac8a447150e653dd8843722",
+      "title": "Ông Trump: 'Ukraine nên có tổng thống mới'",
+      "link": "https://vnexpress.net/ong-trump-ukraine-nen-co-tong-thong-moi-5130885.html",
+      "summary": "Ông Trump nói Ukraine nên tìm lãnh đạo mới có thể đạt được thỏa thuận, sau khi ông Zelensky phớt lờ đề nghị ngừng tấn công nhà máy lọc dầu Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-11T01:24:09+07:00",
+      "fetched": "2026-10-11T15:00:52.529315+07:00"
+    },
+    {
+      "id": "1314ab479476944d93b18c7fc285eb9d",
+      "title": "Sức hút của CEO Anthropic",
+      "link": "https://vnexpress.net/suc-hut-cua-ceo-anthropic-5130048.html",
+      "summary": "Nhà đầu tư Matt Murphy cho rằng CEO Anthropic Dario Amodei giúp startup AI thành công vượt trội nhờ sự tận tâm và \"phong thái thiên tài\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-11T01:00:00+07:00",
+      "fetched": "2026-10-11T15:00:56.341996+07:00"
+    },
+    {
+      "id": "6c8c9efc7b4a73bd1e17c01d1d814876",
+      "title": "Bàn tay robot cầm kim thêu lụa",
+      "link": "https://vnexpress.net/ban-tay-robot-cam-kim-theu-lua-5130497.html",
+      "summary": "Bàn tay robot của công ty Agilink có thể se chỉ luồn kim và thêu lụa nhờ 21 bậc tự do và cảm biến thị giác - xúc giác ở đầu ngón, giúp phát hiện tiếp xúc qua biến dạng bề mặt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-11T00:56:06+07:00",
+      "fetched": "2026-10-11T15:00:56.342099+07:00"
+    },
+    {
+      "id": "624f8ae2dab15e3486b5f44b0664f147",
+      "title": "Man Utd khởi đầu tệ nhất trong 40 năm",
+      "link": "https://vnexpress.net/man-utd-khoi-dau-te-nhat-trong-40-nam-5130877.html",
+      "summary": "Hòa Tottenham 1-1 dù được chơi hơn người ở vòng 6 Ngoại hạng Anh 2026-2027, Man Utd mới có 6 điểm từ đầu mùa - thành tích tệ nhất tại giải VĐQG trong 40 năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-11T00:34:06+07:00",
+      "fetched": "2026-10-11T15:00:58.084676+07:00"
     },
     {
       "id": "67b15b080d4d5de6d058f89ac1fc16cc",
@@ -401,6 +1051,16 @@ window.newsData_2026_10_11 = {
       "category": "Thế giới",
       "published": "2026-10-10T23:52:57+07:00",
       "fetched": "2026-10-11T07:34:47.499877+07:00"
+    },
+    {
+      "id": "08e3d51e9e560ef56fa15339a731ce93",
+      "title": "12 người thiệt mạng trong vụ sân bay Arab Saudi bị tập kích",
+      "link": "https://vnexpress.net/12-nguoi-thiet-mang-trong-vu-san-bay-arab-saudi-bi-tap-kich-5130872.html",
+      "summary": "Giới chức Arab Saudi thông báo ít nhất 12 người thiệt mạng, 309 người bị thương sau vụ tập kích nhằm vào sân bay ở Riyadh nghi do Houthi thực hiện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-10T23:52:57+07:00",
+      "fetched": "2026-10-11T15:00:52.529411+07:00"
     },
     {
       "id": "5ac638efe8095add010ca4ebfba40e74",
