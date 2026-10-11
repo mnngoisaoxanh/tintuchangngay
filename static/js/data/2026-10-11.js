@@ -1,7 +1,97 @@
 window.newsData_2026_10_11 = {
   "date": "2026-10-11",
-  "lastUpdated": "2026-10-11T03:53:19.169335+07:00",
+  "lastUpdated": "2026-10-11T07:34:53.381908+07:00",
   "articles": [
+    {
+      "id": "fbc8dc40d2eebf0e0a0636315674c23d",
+      "title": "Thời tiết hôm nay 11-10: Nam Bộ triều cường rất cao, Trung Bộ đêm về sáng mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-11-10-nam-bo-trieu-cuong-rat-cao-trung-bo-dem-ve-sang-mua-to-100261010160819114.htm",
+      "summary": "Hôm nay 11-10, thời tiết Trung Bộ mưa to từ đêm về sáng, sau giảm dần. Nam Bộ hôm nay triều cường rất cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T07:34:46.554779+07:00",
+      "fetched": "2026-10-11T07:34:46.554815+07:00"
+    },
+    {
+      "id": "341503499681bef1fd25ad8b63c7cb0d",
+      "title": "Tin tức sáng 11-10: 9 tháng, 102.000 lao động Việt đi làm việc ở nước ngoài",
+      "link": "https://tuoitre.vn/tin-tuc-sang-11-10-9-thang-102000-lao-dong-viet-di-lam-viec-o-nuoc-ngoai-100261010220238766.htm",
+      "summary": "Tin tức đáng chú ý: Hội nông dân TP.HCM tổ chức 6 điểm cung ứng nông sản an toàn; Áp lực lãi suất tăng, VN-Index có thể lùi về vùng 1.700 điểm; 9 tháng 2026, 102.001 lao động Việt đi làm việc ở nước ngoài...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T07:34:46.554733+07:00",
+      "fetched": "2026-10-11T07:34:46.554772+07:00"
+    },
+    {
+      "id": "299952d6039a1cc22e0986fffc21f854",
+      "title": "Đánh rơi chiến thắng phút 90+2, Man United khởi đầu tệ nhất trong 40 năm",
+      "link": "https://tuoitre.vn/danh-roi-chien-thang-phut-902-man-united-khoi-dau-te-nhat-trong-40-nam-100261011052430393.htm",
+      "summary": "Dẫn trước Tottenham 1-0 đến hết 90 phút nhưng Man United lại đánh rơi chiến thắng khi để thủng lưới phút 90+2. Kết quả này khiến Quỷ đỏ có khởi đầu tệ nhất trong 40 năm qua ở Premier League với 6 điểm sau 6 trận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T07:34:46.554687+07:00",
+      "fetched": "2026-10-11T07:34:46.554727+07:00"
+    },
+    {
+      "id": "6db4e774b96a6c1308a9bc5648d24f64",
+      "title": "Lịch trực tiếp bóng đá châu Âu: Liverpool đại chiến Man City",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-chau-au-liverpool-dai-chien-man-city-100261010210639358.htm",
+      "summary": "Trận Liverpool gặp Man City ở vòng 6 Giải ngoại hạng Anh (Premier League) sẽ là tâm điểm của loạt trận bóng đá châu Âu đêm 11-10 rạng sáng 12-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T07:34:46.554645+07:00",
+      "fetched": "2026-10-11T07:34:46.554681+07:00"
+    },
+    {
+      "id": "415f991c25ab76ac72bcaca8a7390e9e",
+      "title": "Cứu hai cháu bé ngã xuống kênh, người đàn ông 67 tuổi tử vong",
+      "link": "https://tuoitre.vn/cuu-hai-chau-be-nga-xuong-kenh-nguoi-dan-ong-67-tuoi-tu-vong-100261010233354609.htm",
+      "summary": "Phát hiện hai cháu bé ngã xuống kênh ở xã Giao Thủy, tỉnh Ninh Bình, người đàn ông 67 tuổi đã dũng cảm nhảy xuống cứu người. Hai cháu bé được cứu sống, nhưng ông K. không qua khỏi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T07:34:46.554599+07:00",
+      "fetched": "2026-10-11T07:34:46.554638+07:00"
+    },
+    {
+      "id": "5d8fb2cca11cd71394fb7c73466d9d24",
+      "title": "Hà Nội dự kiến giải pháp xử lý công trình vi phạm thuộc dự án của doanh nghiệp ông Lê Thanh Thản",
+      "link": "https://tuoitre.vn/ha-noi-du-kien-giai-phap-xu-ly-cong-trinh-vi-pham-thuoc-du-an-cua-doanh-nghiep-ong-le-thanh-than-100261010234036284.htm",
+      "summary": "Hà Nội đề xuất chia công trình vi phạm tại 12 dự án thuộc các doanh nghiệp của ông Lê Thanh Thản thành 3 nhóm để xử lý, đồng thời quy định nghĩa vụ của chủ đầu tư và quyền lợi cư dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T07:34:46.554537+07:00",
+      "fetched": "2026-10-11T07:34:46.554592+07:00"
+    },
+    {
+      "id": "22126ef5221a2cdec606388e75c52d5f",
+      "title": "Tin tức thế giới 11-10: Chốt mua dầu Nga xong, ông Trump muốn Ukraine thay ông Zelensky",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-11-10-chot-mua-dau-nga-xong-ong-trump-muon-ukraine-thay-ong-zelensky-100261011050843703.htm",
+      "summary": "Ông Trump nói Ukraine cần có tổng thống mới thay ông Zelensky; Nga nới lỏng lệnh cấm xuất khẩu dầu diesel.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T07:34:46.554488+07:00",
+      "fetched": "2026-10-11T07:34:46.554529+07:00"
+    },
+    {
+      "id": "5fe2c4a0f64191f255ee7af1de8b5cde",
+      "title": "Vinicius bị đuổi vì giật tóc đối thủ, Real Madrid vẫn giành chiến thắng",
+      "link": "https://tuoitre.vn/vinicius-bi-duoi-vi-giat-toc-doi-thu-real-madrid-van-gianh-chien-thang-100261011054444964.htm",
+      "summary": "Real Madrid đã có chiến thắng sít sao 1-0 trước Villarreal trên sân nhà rạng sáng 11-10 ở vòng 8 Giải vô địch Tây Ban Nha (La Liga). Đây là trận đấu mà tiền đạo người Brazil Vinicius nhận thẻ đỏ trực tiếp vì giật tóc đối thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T07:34:46.554431+07:00",
+      "fetched": "2026-10-11T07:34:46.554480+07:00"
+    },
+    {
+      "id": "4680dd7ed6ce376dd3d4f40752df8d83",
+      "title": "Xả súng tại bang Pennsylvania của Mỹ, nhiều người chết",
+      "link": "https://tuoitre.vn/xa-sung-tai-bang-pennsylvania-cua-my-nhieu-nguoi-chet-100261011060005868.htm",
+      "summary": "Giới chức Mỹ xác nhận 9 người thiệt mạng trong vụ xả súng tại thành phố Erie, bang Pennsylvania. Thống đốc Josh Shapiro gọi đây là \"vụ xả súng hàng loạt bi thảm\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T07:34:46.554280+07:00",
+      "fetched": "2026-10-11T07:34:46.554421+07:00"
+    },
     {
       "id": "c99b56a6bc576e55dd8fb7ea6f1d4117",
       "title": "Ông Trump thấy 'khó tin' chuyện trượt giải Nobel Hòa bình",
@@ -151,6 +241,226 @@ window.newsData_2026_10_11 = {
       "category": "Tổng hợp",
       "published": "2026-10-11T03:53:12.789518+07:00",
       "fetched": "2026-10-11T03:53:12.789655+07:00"
+    },
+    {
+      "id": "67b15b080d4d5de6d058f89ac1fc16cc",
+      "title": "Khơi dậy niềm tự hào dân tộc và tinh thần cống hiến của thanh niên",
+      "link": "https://thanhnien.vn/khoi-day-niem-tu-hao-dan-toc-va-tinh-than-cong-hien-cua-thanh-nien-185261010201506906.htm",
+      "summary": "Sáng 10.10, tại Hà Nội, T.Ư Hội Liên hiệp thanh niên Việt Nam tổ chức Lễ chào cờ, chặng 7 và tổng kết Hành trình \"Tôi yêu Tổ quốc tôi\" năm 2026, mở đầu chuỗi hoạt động cao điểm kỷ niệm 70 năm Ngày truyền thống Hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T00:33:00+07:00",
+      "fetched": "2026-10-11T07:34:44.459624+07:00"
+    },
+    {
+      "id": "041453e575cac5238b86d80a80f54e87",
+      "title": "Hà Nội đề xuất phương án xử lý vi phạm tại 12 dự án liên quan ông Lê Thanh Thản",
+      "link": "https://thanhnien.vn/ha-noi-de-xuat-phuong-an-xu-ly-vi-pham-tai-12-du-an-lien-quan-ong-le-thanh-than-185261011064720014.htm",
+      "summary": "UBND TP.Hà Nội đang lấy ý kiến về dự thảo nghị quyết xử lý vi phạm đất đai, trật tự xây dựng tại 12 dự án liên quan đến các doanh nghiệp của ông Lê Thanh Thản. Dự thảo đề xuất phân loại công trình để xem xét cho tồn tại, khắc phục có điều kiện hoặc buộc tháo dỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T00:30:00+07:00",
+      "fetched": "2026-10-11T07:34:44.459740+07:00"
+    },
+    {
+      "id": "b32c5c92243cab2badbac0613c2dcedc",
+      "title": "‘Ngôi nhà cô độc nhất thế giới’ đã có năng lượng mặt trời",
+      "link": "https://thanhnien.vn/ngoi-nha-co-doc-nhat-the-gioi-da-co-nang-luong-mat-troi-185261009212956747.htm",
+      "summary": "Một nhà nghỉ săn bắn hẻo lánh nằm trên mỏm đá núi lửa ngoài khơi bờ biển phía nam Iceland - nơi được mệnh danh là ‘Ngôi nhà cô độc nhất thế giới’ trên mạng xã hội - vừa được trang bị hệ thống pin lưu trữ năng lượng mặt trời đầu tiên, giúp giảm sự phụ thuộc vào khí propane và máy phát điện chạy xăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T00:30:00+07:00",
+      "fetched": "2026-10-11T07:34:44.459841+07:00"
+    },
+    {
+      "id": "1453e06fac2e2dca09dd608a358faf79",
+      "title": "Sống sót sau khi tiêm 2 liều thuốc độc, tử tù Christa Pike trở lại nhà tù",
+      "link": "https://thanhnien.vn/song-sot-sau-khi-tiem-2-lieu-thuoc-doc-tu-tu-christa-pike-tro-lai-nha-tu-185261011071021389.htm",
+      "summary": "Tử tù Christa Pike, người sống sót sau vụ hành quyết bằng tiêm thuốc độc bất thành tại bang Tennessee (Mỹ), đã xuất viện và trở lại nhà tù sau hơn một tuần điều trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T00:16:00+07:00",
+      "fetched": "2026-10-11T07:34:44.459937+07:00"
+    },
+    {
+      "id": "3d5e07bc55f336e7527bc966e2792b7f",
+      "title": "Giá USD hôm nay 11.10.2026: Giảm sâu cùng euro, yen Nhật",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-11102026-giam-sau-cung-euro-yen-nhat-185261010204652649.htm",
+      "summary": "Giá USD trong nước giảm mạnh cùng nhiều ngoại tệ khác bất chấp thế giới tăng cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T00:15:00+07:00",
+      "fetched": "2026-10-11T07:34:44.460038+07:00"
+    },
+    {
+      "id": "16c335d52d80df74254ccd1ba02de0ed",
+      "title": "Giá vàng hôm nay 11.10.2026: Tăng trong tuần nhưng người mua vàng nhẫn lỗ gần 4 triệu",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-11102026-tang-trong-tuan-nhung-nguoi-mua-vang-nhan-lo-gan-4-trieu-185261010182724853.htm",
+      "summary": "Giá vàng xác lập một tuần gia tăng nhưng người mua vào vẫn bị thua lỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T00:15:00+07:00",
+      "fetched": "2026-10-11T07:34:44.460131+07:00"
+    },
+    {
+      "id": "33c28ec2e24df0c4414dfd75e77f6de3",
+      "title": "Báo Hồng Kông so sánh cơm gà Hội An với cơm gà Hải Nam",
+      "link": "https://thanhnien.vn/bao-hong-kong-so-sanh-com-ga-hoi-an-voi-com-ga-hai-nam-185261010213943455.htm",
+      "summary": "Người Hải Nam, Trung Quốc, di cư đến Đông Nam Á đã mang theo món cơm gà nổi tiếng. Tuy nhiên, tại Việt Nam, cơm gà Hội An cũng ngon không kém, có độ mềm tương tự như cơm gà Hải Nam nhưng hương vị tươi sáng hơn, theo tờ báo lâu đời nhất Hồng Kông South China Morning Post.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T00:14:00+07:00",
+      "fetched": "2026-10-11T07:34:44.460224+07:00"
+    },
+    {
+      "id": "1bac4240a64ad0ad85297832e621f5d7",
+      "title": "Quỹ Hạt giống nhỏ và hành trình 5 năm nâng đỡ trẻ em khó khăn",
+      "link": "https://thanhnien.vn/quy-hat-giong-nho-va-hanh-trinh-5-nam-nang-do-tre-em-kho-khan-185261010202310286.htm",
+      "summary": "Sáng 10.10, Quỹ Hạt giống nhỏ (S-Seeds) nhìn lại hành trình 5 năm đồng hành cùng trẻ em mồ côi, trẻ bị bỏ rơi tại các mái ấm và trẻ em có hoàn cảnh khó khăn. Từ 35 thành viên ban đầu, quỹ đã phát triển thành cộng đồng gần 100 thành viên, từng bước mở rộng các hoạt động hỗ trợ học tập, chăm sóc sức k...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T00:13:00+07:00",
+      "fetched": "2026-10-11T07:34:44.460316+07:00"
+    },
+    {
+      "id": "7ecf1506a32d41ba27026e8a8f235467",
+      "title": "Nguy cơ từ trào lưu 'làn da thủy tinh'",
+      "link": "https://thanhnien.vn/nguy-co-tu-trao-luu-lan-da-thuy-tinh-185261010225240328.htm",
+      "summary": "Mạng xã hội, chủ yếu là TikTok, hiện tràn ngập những hình ảnh chụp khuôn mặt với làn da sáng bóng, gần như không thấy lỗ chân lông, và được gọi chung là \"làn da thủy tinh\" kiểu Hàn Quốc, theo báo Miami Herald đưa tin ngày 9.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T00:08:00+07:00",
+      "fetched": "2026-10-11T07:34:44.460427+07:00"
+    },
+    {
+      "id": "93d657d1ef7c6d319a9ba8f740a8f511",
+      "title": "Một người đàn ông xả súng giết 8 người trước khi tự sát ở Pennsylvania",
+      "link": "https://thanhnien.vn/mot-nguoi-dan-ong-xa-sung-giet-8-nguoi-truoc-khi-tu-sat-o-pennsylvania-185261011063344562.htm",
+      "summary": "Reuters hôm nay 11.10 dẫn lời cảnh sát cho biết đã có 8 người, gồm 2 trẻ em và thai phụ 8 tháng, bị bắn chết tại nhà riêng ở Erie (bang Pennsylvania), và tay súng đã tự sát sau đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T00:07:00+07:00",
+      "fetched": "2026-10-11T07:34:44.460526+07:00"
+    },
+    {
+      "id": "9ecb3ecf9968bebc3a83e774d86608aa",
+      "title": "Diễn biến nóng ở Trung Đông, ông Trump nói sẽ có quyết định mới",
+      "link": "https://thanhnien.vn/dien-bien-nong-o-san-bay-riyadh-ong-trump-noi-se-co-quyet-dinh-moi-185261011070411654.htm",
+      "summary": "Giới chức Ả Rập Xê Út cáo buộc Houthi tấn công làm nhiều người chết và bị thương tại sân bay quốc tế ở thủ đô Riyadh của nước này. Tổng thống Mỹ Donald Trump nói sẽ xem xét sớm đưa ra quyết định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T00:04:00+07:00",
+      "fetched": "2026-10-11T07:34:44.460618+07:00"
+    },
+    {
+      "id": "60a4f73c282a62f89f815ff1bd625adf",
+      "title": "Tranh Đông Dương bước vào 'chặng đua' mới",
+      "link": "https://thanhnien.vn/tranh-dong-duong-buoc-vao-chang-dua-moi-185261010205555822.htm",
+      "summary": "Ngay sau khi bức Conversation d'élégantes au Jardin của họa sĩ Vũ Cao Đàm vào ngày 28.9 được \"gõ búa\" 28,96 triệu HKD (tương đương 3,69 triệu USD), tạo kỷ lục mới về giá tranh Việt trên thị trường đấu giá, nhà nghiên cứu và sưu tập mỹ thuật Ngô Kim Khôi đã có cuộc trò chuyện Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T00:00:00+07:00",
+      "fetched": "2026-10-11T07:34:44.460712+07:00"
+    },
+    {
+      "id": "23df0453a4d964bec332687433c958be",
+      "title": "Chuyến thăm Lào, Campuchia của Thủ tướng Lê Minh Hưng đạt nhiều kết quả thực chất",
+      "link": "https://thanhnien.vn/chuyen-tham-lao-campuchia-cua-thu-tuong-le-minh-hung-dat-nhieu-ket-qua-thuc-chat-185261011034601896.htm",
+      "summary": "Chuyến công tác đối ngoại song phương đầu tiên của Thủ tướng Lê Minh Hưng tới Lào và Campuchia đã ghi dấu ấn đậm nét khi tháo gỡ căn bản nhiều điểm nghẽn dự án, thúc đẩy ký kết gần 40 văn kiện hợp tác và củng cố vững chắc trụ cột chiến lược với hai quốc gia láng giềng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T23:58:00+07:00",
+      "fetched": "2026-10-11T07:34:44.460804+07:00"
+    },
+    {
+      "id": "e5cb789d6b23786661d5f41b52f85c6b",
+      "title": "Triển lãm mang đến không gian trải nghiệm sinh động",
+      "link": "https://thanhnien.vn/trien-lam-mang-den-khong-gian-trai-nghiem-sinh-dong-185261010202726552.htm",
+      "summary": "Sáng 10.10, tại không gian phố đi bộ hồ Hoàn Kiếm (Hà Nội), T.Ư Hội Liên hiệp thanh niên Việt Nam tổ chức khai mạc triển lãm \"70 năm dấu ấn - tiếp nối khát vọng\", giới thiệu hành trình 70 năm xây dựng, phát triển của Hội và khát vọng cống hiến của các thế hệ thanh niên Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T23:58:00+07:00",
+      "fetched": "2026-10-11T07:34:44.460891+07:00"
+    },
+    {
+      "id": "b754eb84bbc153573d0366fdece24381",
+      "title": "Arteta: 'Ranh giới giữa nhà vô địch và đội tầm thường rất mong manh'",
+      "link": "https://vnexpress.net/arteta-ranh-gioi-giua-nha-vo-dich-va-doi-tam-thuong-rat-mong-manh-5130867.html",
+      "summary": "HLV Mikel Arteta thừa nhận bị ám ảnh bởi trận thua Brighton 0-3 và ca ngợi bản lĩnh của Arsenal sau khi ngược dòng hạ Leeds 2-1 ở vòng 6 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-10T23:57:59+07:00",
+      "fetched": "2026-10-11T07:34:53.378232+07:00"
+    },
+    {
+      "id": "e76fdb04c2a381f3d66b9d0c6b2da3fb",
+      "title": "Sân bay của Arab Saudi bị tập kích, 12 người thiệt mạng",
+      "link": "https://vnexpress.net/san-bay-cua-arab-saudi-bi-tap-kich-12-nguoi-thiet-mang-5130872.html",
+      "summary": "Giới chức Arab Saudi thông báo ít nhất 12 người thiệt mạng, 309 người bị thương sau vụ tập kích nhằm vào sân bay ở Riyadh nghi do Houthi thực hiện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-10T23:52:57+07:00",
+      "fetched": "2026-10-11T07:34:47.499877+07:00"
+    },
+    {
+      "id": "5ac638efe8095add010ca4ebfba40e74",
+      "title": "Tin quốc tế sáng 11.10: Sân bay Riyadh bị tấn công, thương vong rất lớn",
+      "link": "https://thanhnien.vn/tin-quoc-te-sang-1110-san-bay-riyadh-bi-tan-cong-thuong-vong-rat-lon-185261011000245642.htm",
+      "summary": "Hàng loạt diễn biến nóng ở Trung Đông, nhiều tuyên bố đáng chú ý của Tổng thống Mỹ... Thanh Niên sẽ tiếp tục cập nhật các tin tức quốc tế trong ngày 11.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T23:48:00+07:00",
+      "fetched": "2026-10-11T07:34:44.460982+07:00"
+    },
+    {
+      "id": "197221bcbfa786f4b7a4151c1f1b9090",
+      "title": "Carragher khẩu chiến với Piers Morgan vì Ronaldo",
+      "link": "https://vnexpress.net/carragher-khau-chien-voi-piers-morgan-vi-ronaldo-5130857.html",
+      "summary": "Cựu hậu vệ Liverpool Jamie Carragher và nhà báo Piers Morgan công kích nhau trên mạng xã hội, sau khi bất đồng về cách bảo vệ Cristiano Ronaldo trong vụ tiền đạo Bồ Đào Nha mâu thuẫn với HLV Jorge Jesus.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-10T23:35:46+07:00",
+      "fetched": "2026-10-11T07:34:53.378330+07:00"
+    },
+    {
+      "id": "5b014a12bbcac3f6b3bb91f7f6133716",
+      "title": "Chủ tịch LĐBĐ Bồ Đào Nha: 'Tất cả đều muốn Ronaldo trở lại'",
+      "link": "https://vnexpress.net/chu-tich-ldbd-bo-dao-nha-tat-ca-deu-muon-ronaldo-tro-lai-5130868.html",
+      "summary": "Chủ tịch LĐBĐ Bồ Đào Nha (FPF) Pedro Proenca khẳng định các bên đều muốn Cristiano Ronaldo sớm trở lại đội tuyển, bất chấp việc tiền đạo 41 tuổi đang đối mặt án kỷ luật vì tự ý rời nơi tập trung.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-10T23:29:23+07:00",
+      "fetched": "2026-10-11T07:34:53.377810+07:00"
+    },
+    {
+      "id": "687d74c8b2d7eb8358fdf225c5899563",
+      "title": "Vinicius nhận thẻ đỏ trong chiến thắng của Real",
+      "link": "https://vnexpress.net/vinicius-nhan-the-do-trong-chien-thang-cua-real-5130871.html",
+      "summary": "Tiền đạo Vinicius bị hủy bàn và nhận thẻ đỏ vì giật tóc đối thủ, trong trận Real Madrid thắng Villarreal 1-0 ở vòng tám La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-10T23:28:24+07:00",
+      "fetched": "2026-10-11T07:34:53.377930+07:00"
+    },
+    {
+      "id": "024743321172b2d1e074c8f6b1440caf",
+      "title": "Mỹ nhập nhiều hạt tiêu Việt, giảm mua ở hàng loạt thị trường",
+      "link": "https://vnexpress.net/my-nhap-nhieu-hat-tieu-viet-giam-mua-o-hang-loat-thi-truong-5130673.html",
+      "summary": "Tiêu Việt cải thiện chất lượng, mẫu mã và giữ lợi thế về giá, khiến Mỹ tăng mua mạnh trong khi giảm nhập từ hàng loạt đối thủ, có thị trường giảm hơn 60%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-10T23:00:00+07:00",
+      "fetched": "2026-10-11T07:34:49.065816+07:00"
+    },
+    {
+      "id": "28e3da138c84ee57f4d01a5ef2430edc",
+      "title": "Loạt tai nghe True Wireless kẹp vành tai bán tại Việt Nam",
+      "link": "https://vnexpress.net/loat-tai-nghe-true-wireless-kep-vanh-tai-ban-tai-viet-nam-5129665.html",
+      "summary": "Thị trường tai nghe không dây kẹp vành tai bắt đầu \"nhộn nhịp\" với nhiều mẫu từ Anker, Sennheiser, Shokz, Sony, JBL.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-10T22:00:00+07:00",
+      "fetched": "2026-10-11T07:34:52.055790+07:00"
     },
     {
       "id": "ff1ce618d23e76b6ae706230b2f5535a",
@@ -621,6 +931,26 @@ window.newsData_2026_10_11 = {
       "category": "Thế giới",
       "published": "2026-10-10T04:47:39+07:00",
       "fetched": "2026-10-11T03:53:14.077303+07:00"
+    },
+    {
+      "id": "bdea37680037ff484bdeea86f94d4335",
+      "title": "Cụ bà đạp xe tập thể dục bị ôtô khách cán tử vong",
+      "link": "https://vnexpress.net/cu-ba-dap-xe-tap-the-duc-bi-oto-khach-can-tu-vong-5130683.html",
+      "summary": "Cụ bà 79 tuổi đang đạp xe tập thể dục trên đường Phạm Văn Đồng, phường Thủ Đức, thì va chạm với ôtô khách chạy cùng chiều, bị cán tử vong, sáng 10/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T04:37:24+07:00",
+      "fetched": "2026-10-11T07:34:41.655754+07:00"
+    },
+    {
+      "id": "7a8580aa15c0f78d112d70cbbae0e58d",
+      "title": "Tôi không mua đồ ăn nóng đựng trong túi nilon, hộp xốp",
+      "link": "https://vnexpress.net/rac-thai-nhua-toi-tay-chay-hang-xoi-dung-tui-nilon-hop-xop-5130682.html",
+      "summary": "'Nhìn những gói xôi nóng được đựng trong hộp xốp, hoặc thay lá chuối bằng nilon để gói, tôi thấy ớn người'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T04:37:21+07:00",
+      "fetched": "2026-10-11T07:34:41.655882+07:00"
     },
     {
       "id": "6d275ab3adc76e3575453610516d1ba4",
