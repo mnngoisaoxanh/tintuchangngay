@@ -1,7 +1,17 @@
 window.newsData_2026_10_12 = {
   "date": "2026-10-12",
-  "lastUpdated": "2026-10-12T04:13:52.255891+07:00",
+  "lastUpdated": "2026-10-12T07:49:48.167352+07:00",
   "articles": [
+    {
+      "id": "2fab36aadca2d0ef34753e6fc76b7da8",
+      "title": "Tin tức sáng 12-10: Đào tạo bác sĩ ở Việt Nam sẽ theo hướng 6 năm + 1  + 3",
+      "link": "https://tuoitre.vn/tin-tuc-sang-12-10-dao-tao-bac-si-o-viet-nam-se-theo-huong-6-nam-1-3-100261011232447203.htm",
+      "summary": "Tin tức đáng chú ý: Đào tạo bác sĩ ở Việt Nam sẽ theo hướng 6 năm + 1 năm + 3 năm; 120 điểm tồn đọng rác ở TP.HCM, 86 điểm xử lý xong lại tái ô nhiễm; Sắp xếp giờ tan học, chỗ đón trả để giảm ùn tắc trước cổng trường...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-12T07:49:41.826274+07:00",
+      "fetched": "2026-10-12T07:49:41.826404+07:00"
+    },
     {
       "id": "6e0f540c148575f616056ef1143134b6",
       "title": "Vụ 3 mẹ con bị sát hại ở Đồng Nai: Gia đình nạn nhân gửi thư cảm ơn y bác sĩ cứu sống người chồng",
@@ -151,6 +161,256 @@ window.newsData_2026_10_12 = {
       "category": "Tổng hợp",
       "published": "2026-10-12T04:13:46.193384+07:00",
       "fetched": "2026-10-12T04:13:46.193510+07:00"
+    },
+    {
+      "id": "4b53f89b9b8037c2670faba443f22497",
+      "title": "Các bên nói gì sau khi ông Trump công bố thỏa thuận ngừng bắn Nga - Ukraine?",
+      "link": "https://thanhnien.vn/cac-ben-noi-gi-sau-khi-ong-trump-cong-bo-thoa-thuan-ngung-ban-nga-ukraine-185261012065105542.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã gây ra sự hoang mang khi tuyên bố một 'lệnh ngừng bắn về năng lượng' giữa Ukraine và Nga, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-12T00:48:00+07:00",
+      "fetched": "2026-10-12T07:49:39.947463+07:00"
+    },
+    {
+      "id": "9ed5d38a41388fb73f3e7be214c9e311",
+      "title": "Dàn sao cùng loạt hit khuấy động Đại nhạc hội thanh niên 2026",
+      "link": "https://thanhnien.vn/dan-sao-cung-loat-hit-khuay-dong-dai-nhac-hoi-thanh-nien-2026-185261012073759855.htm",
+      "summary": "Tối 11.10, Hòa Minzy, Võ Hạ Trâm, Erik cùng nhiều nghệ sĩ khuấy động sân khấu Đại nhạc hội thanh niên 2026 với loạt hit, mang đến đêm nhạc sôi động giữa lòng Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-12T00:41:00+07:00",
+      "fetched": "2026-10-12T07:49:39.947578+07:00"
+    },
+    {
+      "id": "36602026f149547e5caf753ea46f2744",
+      "title": "Trai tài, gái giỏi ‘đổ bộ’ Đại nhạc hội thanh niên 2026",
+      "link": "https://thanhnien.vn/trai-tai-gai-gioi-do-bo-dai-nhac-hoi-thanh-nien-2026-18526101207342324.htm",
+      "summary": "Tối 11.10, đông đảo đoàn viên, thanh niên có mặt tại Quảng trường Đông Kinh – Nghĩa Thục, Hà Nội để tham dự Đại nhạc hội thanh niên 2026. Những gương mặt trẻ trung, rạng rỡ cùng hội tụ, góp thêm sức trẻ và không khí sôi động cho đêm nhạc giữa lòng thủ đô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-12T00:41:00+07:00",
+      "fetched": "2026-10-12T07:49:39.947684+07:00"
+    },
+    {
+      "id": "26cb85658461a50ba3c221aaf660b9a7",
+      "title": "10 ô tô bán ít nhất Việt Nam tháng 9.2026: Xe tiền tỉ của Toyota góp mặt",
+      "link": "https://thanhnien.vn/10-o-to-ban-it-nhat-viet-nam-thang-92026-xe-tien-ti-cua-toyota-gop-mat-185261011083123299.htm",
+      "summary": "Trong số 10 ô tô bán ít nhất Việt Nam, có tới 7 mẫu xe đến từ Nhật Bản, 2 xe Hàn Quốc và 1 xe Mỹ. Riêng Toyota có 4 xe bán chậm, trong đó có 2 mẫu xe giá bán lên đến hàng tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-12T00:40:00+07:00",
+      "fetched": "2026-10-12T07:49:39.947783+07:00"
+    },
+    {
+      "id": "36c2bed1f40abf8c6a087850bd13b432",
+      "title": "Microsoft mang đến thay đổi đáng chú ý trên Windows 11",
+      "link": "https://thanhnien.vn/microsoft-mang-den-thay-doi-dang-chu-y-tren-windows-11-185261009112628753.htm",
+      "summary": "Người dùng Windows 11 có thể nhập lệnh như bật chế độ tối, giảm sáng màn hình hoặc sắp xếp cửa sổ ngay trong Search.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-12T00:40:00+07:00",
+      "fetched": "2026-10-12T07:49:39.947880+07:00"
+    },
+    {
+      "id": "dc62a525f62d9193569fc8bddae071ed",
+      "title": "Nữ chính phim giờ vàng không muốn đời tư trở thành tâm điểm",
+      "link": "https://thanhnien.vn/nu-chinh-phim-gio-vang-khong-muon-doi-tu-tro-thanh-tam-diem-185261011213429156.htm",
+      "summary": "Trương Thảo My đang có bước tiến đáng chú ý trong sự nghiệp khi lần đầu đảm nhận vai nữ chính phim giờ vàng 'Đội bóng nữ làng Xuân'. Bên cạnh sự quan tâm dành cho vai diễn, nữ diễn viên gen Z còn gây chú ý khi chia sẻ về mối tình với bạn trai hơn cô 16 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-12T00:38:00+07:00",
+      "fetched": "2026-10-12T07:49:39.947987+07:00"
+    },
+    {
+      "id": "64c46cb493d269e03771c9a36deeb4ff",
+      "title": "Cuộc sống của Quách Tuấn Du ở tuổi 45",
+      "link": "https://thanhnien.vn/cuoc-song-cua-quach-tuan-du-o-tuoi-45-185261012002600672.htm",
+      "summary": "Từng trải qua tuổi thơ khó khăn, làm nhiều công việc mưu sinh trước khi theo đuổi ca hát, Quách Tuấn Du cho biết hiện anh không còn quá nặng nề chuyện thành bại. Ở tuổi trung niên, nam ca sĩ mong tiếp tục được làm nghề và giúp đỡ những hoàn cảnh khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-12T00:20:00+07:00",
+      "fetched": "2026-10-12T07:49:39.948095+07:00"
+    },
+    {
+      "id": "88ddce150e8a770a6ba7f17c22578a86",
+      "title": "Truyền hình 'hộ công' cho sân khấu",
+      "link": "https://thanhnien.vn/truyen-hinh-ho-cong-cho-san-khau-185261011211742358.htm",
+      "summary": "Tôi và chúng ta, vở diễn kinh điển hơn 40 năm tuổi đời, được hiện diện qua nhiều kênh cùng lúc. Đó là điều mà Nhà hát Kịch Hà Nội cùng chuyên trang Nhà hát Việt của VTVGo đang nhắm tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-12T00:15:00+07:00",
+      "fetched": "2026-10-12T07:49:39.948192+07:00"
+    },
+    {
+      "id": "5a5d4c13bd9623477e2d4285a7b858ae",
+      "title": "Trần Tiến, nhạc và đời: Buồn vui nhóm du ca Đồng Nội",
+      "link": "https://thanhnien.vn/tran-tien-nhac-va-doi-buon-vui-nhom-du-ca-dong-noi-185261011204201793.htm",
+      "summary": "Hải Phòng năm 1990. Một chiếc xe jeep xuất hiện trên đường phố, trên xe là ba nghệ sĩ, mỗi người một cây đàn trên lưng. Chiếc xe ấy khi thì dừng lại trước Nhà hát Tháng Tám, khi thì ở các cơ quan, nhà máy... Cũng có lúc đậu trước cửa một quán ăn nào đó để các nghệ sĩ tranh thủ lót dạ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-12T00:15:00+07:00",
+      "fetched": "2026-10-12T07:49:39.948289+07:00"
+    },
+    {
+      "id": "d5e48b714f58318e486ccc156e93a765",
+      "title": "Sau 27 năm quy hoạch công viên, cuộc sống giữa những ruộng rau nhút ở Thới An giờ ra sao?",
+      "link": "https://thanhnien.vn/sau-27-nam-quy-hoach-cong-vien-cuoc-song-giua-nhung-ruong-rau-nhut-o-thoi-an-gio-ra-sao-185260926173255117.htm",
+      "summary": "Giữa đô thị ngày càng phát triển, một vùng ao hồ, đồng ruộng ở phường Thới An, TP.HCM vẫn giữ nhịp sống đặc trưng với những ruộng rau nhút. Hàng chục năm qua, người dân nơi đây mưu sinh từ mặt nước, lội ruộng chăm rau và mong có thêm không gian xanh, vui chơi ngay gần nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-12T00:10:00+07:00",
+      "fetched": "2026-10-12T07:49:39.948390+07:00"
+    },
+    {
+      "id": "ad3437d71ec5e29dad492c1234a6ec42",
+      "title": "Giám sát quảng cáo, kiểm tra chất lượng An Cung Ngưu Hoàng Hoàn",
+      "link": "https://thanhnien.vn/giam-sat-quang-cao-kiem-tra-chat-luong-an-cung-nguu-hoang-hoan-185261011195647644.htm",
+      "summary": "Sở Y tế Hà Nội vừa có hướng dẫn người dân, cơ sở kinh doanh tra cứu danh sách thuốc An Cung Ngưu Hoàng Hoàn và các thuốc y học cổ truyền (YHCT) do Bộ Y tế cấp phép tại địa chỉ: https://ydct-dichvucong.moh.gov.vn/congbothuoc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-12T00:06:00+07:00",
+      "fetched": "2026-10-12T07:49:39.948480+07:00"
+    },
+    {
+      "id": "e7a87d13b705c9c4684e290a29f12625",
+      "title": "Cụm điện gió Savan của T&T Group tại Lào góp thêm nguồn lực cho tăng trưởng",
+      "link": "https://thanhnien.vn/cum-dien-gio-savan-cua-tt-group-tai-lao-gop-them-nguon-luc-cho-tang-truong-185261011193813729.htm",
+      "summary": "Nhu cầu điện tăng nhanh trong giai đoạn phát triển mới đang đặt ra yêu cầu cấp thiết phải phát triển nguồn điện đi trước một bước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-12T00:00:00+07:00",
+      "fetched": "2026-10-12T07:49:39.948569+07:00"
+    },
+    {
+      "id": "a76f8dc2b7b9de570fbd21718a2dd5a9",
+      "title": "Điện thăm hỏi về trận động đất gây thiệt hại lớn ở Panama",
+      "link": "https://thanhnien.vn/dien-tham-hoi-ve-tran-dong-dat-gay-thiet-hai-lon-o-panama-1852610112113372.htm",
+      "summary": "Được tin trận động đất ngày 9.10 đã làm nhiều người bị thương, gây thiệt hại lớn đối với nhân dân Panama, ngày 11.10, Tổng Bí thư, Chủ tịch nước Tô Lâm đã gửi điện thăm hỏi tới Tổng thống Cộng hòa Panama José Raúl Mulino Quintero.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T23:58:00+07:00",
+      "fetched": "2026-10-12T07:49:39.948659+07:00"
+    },
+    {
+      "id": "31e155543c9c8fa051515a46d573415a",
+      "title": "Chuẩn bị an táng hài cốt liệt sĩ quy tập tại công viên Lê Thị Riêng",
+      "link": "https://thanhnien.vn/chuan-bi-an-tang-hai-cot-liet-si-quy-tap-tai-cong-vien-le-thi-rieng-18526101121205984.htm",
+      "summary": "Chiều 11.10, Ban Chỉ đạo về tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ TP.HCM cho biết lễ viếng, lễ truy điệu hài cốt liệt sĩ sẽ được tổ chức vào 8 giờ ngày 14.10, tại công viên văn hóa Lê Thị Riêng (số 875 Cách Mạng Tháng Tám, phường Hòa Hưng, TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T23:57:00+07:00",
+      "fetched": "2026-10-12T07:49:39.948751+07:00"
+    },
+    {
+      "id": "738ee72682aaf0f80ea9e31b8ff3aea2",
+      "title": "Ukraine tố Nga tập kích sau khi ông Trump thông báo 'ngừng bắn năng lượng'",
+      "link": "https://vnexpress.net/ukraine-to-nga-tap-kich-sau-khi-ong-trump-thong-bao-ngung-ban-nang-luong-5131058.html",
+      "summary": "Tổng thống Zelensky cáo buộc Nga tập kích hạ tầng năng lượng Ukraine, vài giờ sau khi ông Trump thông báo Moskva - Kiev nhất trí ngừng bắn trong lĩnh vực này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-11T23:47:22+07:00",
+      "fetched": "2026-10-12T07:49:43.191120+07:00"
+    },
+    {
+      "id": "8134bfa0a05c9235630df08c3e6fdd96",
+      "title": "Hơn 200 dư chấn sau trận động đất mạnh 7,7 độ Richter rung chuyển Panama",
+      "link": "https://thanhnien.vn/hon-200-du-chan-sau-tran-dong-dat-manh-77-do-richter-rung-chuyen-panama-185261012062229843.htm",
+      "summary": "Panama ghi nhận hơn 200 dư chấn theo sau trận động đất mạnh 7,7 độ Richter hôm 9.10 (giờ địa phương) khiến gần 1.000 nhà cửa và cơ sở hạ tầng bị hư hại khắp các tỉnh miền trung nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-11T23:44:00+07:00",
+      "fetched": "2026-10-12T07:49:39.948843+07:00"
+    },
+    {
+      "id": "2645e34093e7541d6387dab9579711e6",
+      "title": "Carragher chỉ trích trọng tài và Wirtz sau trận thua của Liverpool",
+      "link": "https://vnexpress.net/carragher-chi-trich-trong-tai-va-wirtz-sau-tran-thua-cua-liverpool-5131057.html",
+      "summary": "Theo cựu hậu vệ Jamie Carragher, trọng tài Chris Kavanagh sai lầm khi truất quyền thi đấu Ryan Gravenberch, còn Florian Wirtz đá tệ trong trận Liverpool thua Man City 0-3 ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-11T22:57:41+07:00",
+      "fetched": "2026-10-12T07:49:48.163813+07:00"
+    },
+    {
+      "id": "bfb3ab697324965e16e28471f06402f5",
+      "title": "Kipruto tái hiện thông số kỷ lục của Kipchoge tại Chicago Marathon",
+      "link": "https://vnexpress.net/kipruto-tai-hien-thong-so-ky-luc-cua-kipchoge-tai-chicago-marathon-5131053.html",
+      "summary": "Amos Kipruto vô địch Chicago Marathon 2026 với thành tích 2 giờ 1 phút 9 giây, ngang kỷ lục thế giới cũ của Eliud Kipchoge.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-11T22:52:54+07:00",
+      "fetched": "2026-10-12T07:49:48.163909+07:00"
+    },
+    {
+      "id": "9476d2aaaf24411620d1e6a085fa1e2e",
+      "title": "Zheng Qinwen lập lịch sử tại Trung Quốc Mở rộng",
+      "link": "https://vnexpress.net/zheng-qinwen-lap-lich-su-tai-trung-quoc-mo-rong-5131035.html",
+      "summary": "Zheng Qinwen cứu ba set-point rồi hạ Mirra Andreeva 7-5, 6-4 ngày 11/10, trở thành tay vợt nữ Trung Quốc đầu tiên vô địch giải đấu tại Bắc Kinh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-11T22:48:01+07:00",
+      "fetched": "2026-10-12T07:49:48.163392+07:00"
+    },
+    {
+      "id": "e8acb4ebfa3ab0ebed8c8a1a7e94bbf2",
+      "title": "Alcaraz để ria mép vì giao kèo với đội ngũ",
+      "link": "https://vnexpress.net/alcaraz-de-ria-mep-vi-giao-keo-voi-doi-ngu-5131051.html",
+      "summary": "Carlos Alcaraz tiết lộ anh và các thành viên êkip cùng để ria mép tại Thượng Hải Masters, sau giao kèo gắn với chức vô địch ở Tokyo.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-11T22:45:47+07:00",
+      "fetched": "2026-10-12T07:49:48.163511+07:00"
+    },
+    {
+      "id": "fd116a1d825e2af7ba8ca580f665d059",
+      "title": "Kipchoge lần đầu vô địch marathon sau 3 năm",
+      "link": "https://vnexpress.net/kipchoge-lan-dau-vo-dich-marathon-sau-3-nam-5131055.html",
+      "summary": "Huyền thoại Eliud Kipchoge về nhất Melbourne Marathon 2026 với kỷ lục giải 2 giờ 9 phút 10 giây và lần đầu vô địch một giải marathon sau 3 năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-11T22:43:20+07:00",
+      "fetched": "2026-10-12T07:49:48.164002+07:00"
+    },
+    {
+      "id": "7b2f26d9b6b80994c76b729a7a5b2d96",
+      "title": "Haaland: 'Man City thắng bằng bản lĩnh và tinh thần thép'",
+      "link": "https://vnexpress.net/haaland-man-city-thang-bang-ban-linh-va-tinh-than-thep-5131056.html",
+      "summary": "Tiền đạo Erling Haaland ca ngợi tinh thần đoàn kết và bản lĩnh của Man City sau trận thắng Liverpool 3-0 ở vòng sáu Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-11T22:38:25+07:00",
+      "fetched": "2026-10-12T07:49:48.163617+07:00"
+    },
+    {
+      "id": "e5b112c4c019856863acc1695203e67b",
+      "title": "Mỹ quyết đấu kinh tế trường kỳ với Iran",
+      "link": "https://vnexpress.net/my-quyet-dau-kinh-te-truong-ky-voi-iran-5130635.html",
+      "summary": "Không thể nhanh chóng đánh bại Iran về quân sự, Mỹ chuyển sang mặt trận kinh tế, kỳ vọng cuộc chiến trường kỳ sẽ ép Tehran phải đàm phán.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-11T22:00:00+07:00",
+      "fetched": "2026-10-12T07:49:43.191243+07:00"
+    },
+    {
+      "id": "71059828364f0fdcc93cd815568100cb",
+      "title": "Nhà sáng tạo vật lộn chứng minh 'tính người' trong thời AI",
+      "link": "https://vnexpress.net/nha-sang-tao-vat-lon-chung-minh-tinh-nguoi-trong-thoi-ai-5128776.html",
+      "summary": "AI đang tạo nên \"kỷ nguyên của sự ngờ vực\", khiến người làm nội dung phải tìm nhiều cách chứng minh như viết sai chính tả, ghi hình quá trình sáng tác, thuê luật sư.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-11T22:00:00+07:00",
+      "fetched": "2026-10-12T07:49:46.652336+07:00"
+    },
+    {
+      "id": "49818dad945ac2671c4cfc8fbd6e703f",
+      "title": "Giới chuyên gia dự báo giá vàng tăng",
+      "link": "https://vnexpress.net/gioi-chuyen-gia-du-bao-gia-vang-tang-5131013.html",
+      "summary": "Nhiều chuyên gia Wall Street đoán giá vàng tăng tuần này, nhờ lực mua quanh mốc 4.000 USD và kỳ vọng Fed không nâng lãi suất ngay trong tháng 10.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-11T21:18:28+07:00",
+      "fetched": "2026-10-12T07:49:44.286079+07:00"
     },
     {
       "id": "731f32f4e1c1f5d2d5fe1356999f5e74",
