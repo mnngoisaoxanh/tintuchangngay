@@ -1,7 +1,47 @@
 window.newsData_2026_10_14 = {
   "date": "2026-10-14",
-  "lastUpdated": "2026-10-14T00:14:45.865395+07:00",
+  "lastUpdated": "2026-10-14T05:05:12.059449+07:00",
   "articles": [
+    {
+      "id": "40a449dcd963cc9e45e252e01a9ecfba",
+      "title": "Bắt bị can trốn truy nã trong vụ hỗn chiến chết người ở Quy Nhơn",
+      "link": "https://tuoitre.vn/bat-bi-can-tron-truy-na-trong-vu-hon-chien-chet-nguoi-o-quy-nhon-100261013225805923.htm",
+      "summary": "Bị can Nguyễn Hoàng Nhật (33 tuổi, còn gọi Út Cò, trú phường Quy Nhơn, Gia Lai) vừa bị công an bắt sau nhiều năm trốn truy nã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T05:05:04.773508+07:00",
+      "fetched": "2026-10-14T05:05:04.773547+07:00"
+    },
+    {
+      "id": "f70c2e6b7d1af0a6869d1814912b0aa3",
+      "title": "Thủ tướng Lê Minh Hưng tiếp hai Bộ trưởng Quốc phòng Lào và Campuchia",
+      "link": "https://tuoitre.vn/thu-tuong-le-minh-hung-tiep-hai-bo-truong-quoc-phong-lao-va-campuchia-100261013224230576.htm",
+      "summary": "Bộ trưởng Quốc phòng Lào khẳng định quan hệ đặc biệt giữa hai nước sẽ luôn bền vững, trong khi Bộ trưởng Quốc phòng Campuchia khẳng định sẽ phối hợp chặt chẽ với phía Việt Nam triển khai hiệu quả các thỏa thuận và kế hoạch hợp tác giữa hai Bộ Quốc phòng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T05:05:04.773453+07:00",
+      "fetched": "2026-10-14T05:05:04.773501+07:00"
+    },
+    {
+      "id": "7699035f1d86f2fe808b581102d83c18",
+      "title": "Nhà Trắng yêu cầu Đại sứ Mỹ tại Hy Lạp từ chức vì làm giàu bất chính",
+      "link": "https://tuoitre.vn/nha-trang-yeu-cau-dai-su-my-tai-hy-lap-tu-chuc-vi-lam-giau-bat-chinh-100261013223250112.htm",
+      "summary": "Ngày 13-10, Nhà Trắng thông báo đã yêu cầu Đại sứ Mỹ tại Hy Lạp Kimberly Guilfoyle từ chức sau loạt bê bối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T05:05:04.773398+07:00",
+      "fetched": "2026-10-14T05:05:04.773446+07:00"
+    },
+    {
+      "id": "03e868c67cdfef352f4e5b156477e391",
+      "title": "HLV Polking: 'Đình Bắc như con mãnh thú'",
+      "link": "https://tuoitre.vn/hlv-polking-dinh-bac-nhu-con-manh-thu-100261014002831712.htm",
+      "summary": "HLV trưởng Alexandre Polking khen ngợi thể chất của cậu học trò Nguyễn Đình Bắc trong trận CLB Công An Hà Nội đấu Kashima Antlers tối 13-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T05:05:04.773254+07:00",
+      "fetched": "2026-10-14T05:05:04.773388+07:00"
+    },
     {
       "id": "b7eb3e58130a37934cfc918d6d7215a8",
       "title": "Chủ tịch Đồng Nai: Gần 300.000 tỉ đồng đầu tư hạ tầng chứ không phải 'nằm trên giấy'",
@@ -153,6 +193,56 @@ window.newsData_2026_10_14 = {
       "fetched": "2026-10-14T00:14:40.969038+07:00"
     },
     {
+      "id": "47c7b770cc5248f82423040101e072b1",
+      "title": "Gen Z giữ lửa nghề gốm Bát Tràng",
+      "link": "https://thanhnien.vn/gen-z-giu-lua-nghe-gom-bat-trang-185261013211329408.htm",
+      "summary": "Bằng những cách khác nhau, chọn gìn giữ nếp thủ công truyền thống hay sáng tạo các sản phẩm trẻ trung, thế hệ Gen Z ở Bát Tràng đều đang viết tiếp câu chuyện làng nghề theo cách rất riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-13T22:00:00+07:00",
+      "fetched": "2026-10-14T05:05:02.787880+07:00"
+    },
+    {
+      "id": "2080ba3e6d045feec69d165c5544ad6d",
+      "title": "Rộ tin Mỹ - châu Âu bàn khung hòa bình 4 điểm cho Ukraine, Nga lên tiếng",
+      "link": "https://thanhnien.vn/ro-tin-my-chau-au-ban-khung-hoa-binh-4-diem-cho-ukraine-nga-len-tieng-185261013195043416.htm",
+      "summary": "Mỹ và châu Âu được cho là đang phối hợp xây dựng một đề xuất hòa bình gồm 4 trụ cột nhằm tạo khuôn khổ hậu xung đột cho cả Ukraine và Nga, trước khi giải quyết vấn đề lãnh thổ vốn gây chia rẽ sâu sắc giữa 2 bên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-13T22:00:00+07:00",
+      "fetched": "2026-10-14T05:05:02.787997+07:00"
+    },
+    {
+      "id": "dee95e238d629620dfc66a276d7a088d",
+      "title": "Lịch âm hôm nay 14.10: Mùng 5 tháng 9, ngày Tân Dậu",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-1410-mung-5-thang-9-ngay-tan-dau-185261013072013581.htm",
+      "summary": "Lịch âm hôm nay ngày 14.10 là ngày Tân Dậu. Dương lịch có sự kiện đặc biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-13T22:00:00+07:00",
+      "fetched": "2026-10-14T05:05:02.788099+07:00"
+    },
+    {
+      "id": "25baa8be1502e4d91cd894e49f8422a8",
+      "title": "Houthi cảnh báo Mỹ không hỗ trợ liên quân Ả Rập Xê Út",
+      "link": "https://thanhnien.vn/houthi-canh-bao-my-khong-ho-tro-lien-quan-a-rap-xe-ut-185261013214309388.htm",
+      "summary": "Một thành viên cấp cao của lực lượng Houthi ở Yemen ngày 12.10 đã phát cảnh báo mới tới Mỹ và Ả Rập Xê Út sau khi lực lượng này liên tục tiến hành các cuộc tấn công vào Ả Rập Xê Út.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-13T21:39:00+07:00",
+      "fetched": "2026-10-14T05:05:02.788196+07:00"
+    },
+    {
+      "id": "46ba76c497e46ef2445e2773889f5520",
+      "title": "Nhận định bóng đá Persib Bandung vs Thể Công Viettel: Đại diện Việt Nam gặp khó",
+      "link": "https://thanhnien.vn/nhan-dinh-bong-da-persib-bandung-vs-the-cong-viettel-dai-dien-viet-nam-gap-kho-185261014014608788.htm",
+      "summary": "Trận Persib Bandung vs Thể Công Viettel thuộc lượt trận thứ hai bảng E giải AFC Champions League Two 2026-2027 diễn ra vào lúc 19 giờ 15 hôm nay (14.10).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-13T19:00:00+07:00",
+      "fetched": "2026-10-14T05:05:02.788293+07:00"
+    },
+    {
       "id": "018658d3168c8991e5b6f88d75c64919",
       "title": "Thức giấc lúc 3 giờ sáng: Làm gì để dễ ngủ lại?",
       "link": "https://thanhnien.vn/thuc-giac-luc-3-gio-sang-lam-gi-de-de-ngu-lai-1852610132248535.htm",
@@ -181,6 +271,26 @@ window.newsData_2026_10_14 = {
       "category": "Tổng hợp",
       "published": "2026-10-13T17:06:00+07:00",
       "fetched": "2026-10-14T00:14:39.367126+07:00"
+    },
+    {
+      "id": "c50c853121e89f74704931948ee15c0f",
+      "title": "Giá euro xuống dưới 30.000 đồng",
+      "link": "https://vnexpress.net/gia-euro-xuong-duoi-30-000-dong-5131940.html",
+      "summary": "Các ngân hàng và thị trường tự do liên tục giảm giá đồng euro, hiện mua bán quanh 28.500 - 29.900 đồng, thấp nhất 1,5 năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-13T17:04:00+07:00",
+      "fetched": "2026-10-14T05:05:08.469192+07:00"
+    },
+    {
+      "id": "d5114d0a6890431e9ba681fc086e2411",
+      "title": "'Việt Nam có số căn hộ hàng hiệu nhiều thứ ba thế giới'",
+      "link": "https://vnexpress.net/viet-nam-co-so-can-ho-hang-hieu-nhieu-thu-ba-the-gioi-5131822.html",
+      "summary": "Việt Nam có hơn 16.000 căn thuộc diện \"bất động sản hàng hiệu\" (gồm cả đã và đang hoàn thành) nhiều thứ ba thế giới, sau UAE và Mỹ, theo Global Branded Residences.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-13T17:03:45+07:00",
+      "fetched": "2026-10-14T05:05:08.469314+07:00"
     },
     {
       "id": "6a4c390767d3d6127860c724452b455c",
