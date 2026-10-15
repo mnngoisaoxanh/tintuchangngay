@@ -1,7 +1,157 @@
 window.newsData_2026_10_15 = {
   "date": "2026-10-15",
-  "lastUpdated": "2026-10-15T05:50:54.296945+07:00",
+  "lastUpdated": "2026-10-15T09:22:32.856416+07:00",
   "articles": [
+    {
+      "id": "6f5449c0ad81f45c918ad65da6c9a3c7",
+      "title": "Haaland phá vỡ 2 kỷ lục do Messi thiết lập tại Champions League",
+      "link": "https://tuoitre.vn/haaland-pha-vo-2-ki-luc-do-messi-thiet-lap-tai-champions-league-100261015070457753.htm",
+      "summary": "Dù Man City phải nhận thất bại 2-4 trước PSG ngay trên sân nhà Etihad, Erling Haaland vẫn duy trì phong độ ấn tượng để xô đổ kỷ lục từng được thiết lập bởi huyền thoại Lionel Messi tại đấu trường UEFA Champions League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T09:22:25.987927+07:00",
+      "fetched": "2026-10-15T09:22:25.987951+07:00"
+    },
+    {
+      "id": "29f9e6b59dfd81c28bda79ffd32b7363",
+      "title": "Đan Mạch nêu yêu cầu với hoạt động thăm dò tài nguyên của Mỹ tại Greenland",
+      "link": "https://tuoitre.vn/dan-mach-neu-yeu-cau-voi-hoat-dong-tham-do-tai-nguyen-cua-my-tai-greenland-100261015072947784.htm",
+      "summary": "Sau khi ông Trump công bố sắp thăm dò tài nguyên tại Greenland, Đan Mạch nhấn mạnh yêu cầu phải tuân thủ pháp luật sở tại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T09:22:25.987899+07:00",
+      "fetched": "2026-10-15T09:22:25.987923+07:00"
+    },
+    {
+      "id": "142f0efce8593f1dfff441aba3eac0cc",
+      "title": "Thấy khối u mỡ ở vùng đầu, cổ: Khi nào đáng lo?",
+      "link": "https://tuoitre.vn/thay-khoi-u-mo-o-vung-dau-co-khi-nao-dang-lo-100261011170932978.htm",
+      "summary": "U mỡ là khối u lành tính thường gặp, có thể xuất hiện ở nhiều vị trí trên cơ thể, trong đó khoảng 13% nằm ở vùng đầu - cổ. Tuy nhiên, không phải mọi khối u dưới da đều là u mỡ. Những khối u phát triển nhanh, cứng, ít di động hoặc gây đau cần được bác sĩ thăm khám, đánh giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T09:22:25.987873+07:00",
+      "fetched": "2026-10-15T09:22:25.987895+07:00"
+    },
+    {
+      "id": "05ea7375a3855e2f0db68bd3e894d928",
+      "title": "Bóng đá Thái Lan liên tiếp nhận tin không vui từ sân chơi châu Á",
+      "link": "https://tuoitre.vn/bong-da-thai-lan-lien-tiep-nhan-tin-khong-vui-tu-san-choi-chau-a-100261015063449353.htm",
+      "summary": "Các đội bóng Thái Lan tham dự sân chơi AFC Champions League Elite 2026-2027 liên tiếp nhận thất bại, trong đó có trận thua đậm đến 1-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T09:22:25.987845+07:00",
+      "fetched": "2026-10-15T09:22:25.987869+07:00"
+    },
+    {
+      "id": "c35f9be1577fd2b37a11aa1aa7398d7c",
+      "title": "Tiểu đêm nhiều lần: Những bệnh không nên bỏ qua",
+      "link": "https://tuoitre.vn/tieu-dem-nhieu-lan-nhung-benh-khong-nen-bo-qua-100261013123716734.htm",
+      "summary": "Thức dậy giữa đêm để đi tiểu không phải lúc nào cũng là dấu hiệu bệnh lý. Tuy nhiên, nếu bạn thường xuyên phải rời giường nhiều lần, ngủ không ngon hoặc kèm theo khát nước, tiểu buốt, phù chân, đây có thể là dấu hiệu cho thấy cơ thể đang gặp vấn đề cần được kiểm tra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T09:22:25.987819+07:00",
+      "fetched": "2026-10-15T09:22:25.987841+07:00"
+    },
+    {
+      "id": "43f46a554a47bcac0db0044dd91ec206",
+      "title": "Đề xuất đánh thuế tài sản với tỉ phú khuấy động chính trường California",
+      "link": "https://tuoitre.vn/de-xuat-danh-thue-tai-san-voi-ti-phu-khuay-dong-chinh-truong-california-10026101415181919.htm",
+      "summary": "Trước cuộc bầu cử giữa kỳ, đề xuất đánh thuế tài sản giới tỉ phú tại California một lần nữa gây tranh cãi gay gắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T09:22:25.987788+07:00",
+      "fetched": "2026-10-15T09:22:25.987813+07:00"
+    },
+    {
+      "id": "554c1143096b78e00a26fcff825a8899",
+      "title": "Khám phá thịt bò ủ mát kiểu Nhật nuôi ngũ cốc hơn 300 ngày",
+      "link": "https://tuoitre.vn/kham-pha-thit-bo-u-mat-kieu-nhat-nuoi-ngu-coc-hon-300-ngay-100261009135935833.htm",
+      "summary": "Thời gian nuôi hơn 300 ngày bằng ngũ cốc, cùng quy trình kiểm soát từ trang trại đến sản phẩm cuối cùng. Đây là những yếu tố được doanh nghiệp chú trọng để phát triển dòng thịt bò ủ mát theo quy trình kiểu Nhật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T09:22:25.987757+07:00",
+      "fetched": "2026-10-15T09:22:25.987783+07:00"
+    },
+    {
+      "id": "0eeeb1f715de030b0367c3bbef4f6ddd",
+      "title": "MobiFone tìm nhân sự quản lý cho chiến lược phát triển công nghệ",
+      "link": "https://tuoitre.vn/mobifone-tim-nhan-su-quan-ly-cho-chien-luoc-phat-trien-cong-nghe-100261014115735793.htm",
+      "summary": "Từ doanh nghiệp viễn thông chuyển hướng sang công nghệ, MobiFone đẩy mạnh tuyển dụng và xây dựng môi trường làm việc số để thu hút nhân sự quản lý, công nghệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T09:22:25.987727+07:00",
+      "fetched": "2026-10-15T09:22:25.987753+07:00"
+    },
+    {
+      "id": "ffef37d81f2d10f897e4cc551a79d72e",
+      "title": "Bcons Central Park đón động lực phát triển mới tại Đồng Nai",
+      "link": "https://tuoitre.vn/bcons-central-park-don-dong-luc-phat-trien-moi-tai-dong-nai-100261014134655806.htm",
+      "summary": "Hạ tầng liên vùng mở rộng cùng dòng vốn đầu tư vào sản xuất, dịch vụ đang tạo thêm cơ sở để người mua cân nhắc căn hộ trung tâm Biên Hòa cho nhu cầu an cư và khai thác dài hạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T09:22:25.987697+07:00",
+      "fetched": "2026-10-15T09:22:25.987723+07:00"
+    },
+    {
+      "id": "8b9178eb0c8e31e87c22268f50d72947",
+      "title": "Đọc nhanh 15-10: S&P 500 giảm mạnh nhất từ tháng 7 sau chỉ số lạm phát, PV GAS lãi 9 tháng gần gấp đôi kế hoạch năm",
+      "link": "https://tuoitre.vn/doc-nhanh-15-10-sp-500-giam-manh-nhat-tu-thang-7-sau-chi-so-lam-phat-pv-gas-lai-9-thang-gan-gap-doi-ke-hoach-nam-100261015075104746.htm",
+      "summary": "S&P 500 có phiên giảm mạnh nhất kể từ tháng 7 khi lạm phát Mỹ lên 3,7%. Trong nước, PV GAS vượt xa kế hoạch lợi nhuận năm, Eximbank bỏ trần sở hữu nước ngoài 6%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T09:22:25.987655+07:00",
+      "fetched": "2026-10-15T09:22:25.987692+07:00"
+    },
+    {
+      "id": "611c0af3032c30f15b74ef94cb56eaf1",
+      "title": "Doanh nghiệp Việt vào chuỗi cung ứng toàn cầu - Kỳ 1: Cần 'sếu' đầu đàn",
+      "link": "https://tuoitre.vn/doanh-nghiep-viet-vao-chuoi-cung-ung-toan-cau-ky-1-can-seu-dau-dan-100261012152338661.htm",
+      "summary": "Doanh nghiệp nội rất cần những \"sếu\" đầu đàn để tham gia chuỗi cung ứng, bước ra thị trường thế giới, hướng đến chiếc bánh nhiều tỉ USD của thị trường công nghiệp hỗ trợ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T09:22:25.987621+07:00",
+      "fetched": "2026-10-15T09:22:25.987650+07:00"
+    },
+    {
+      "id": "8a68146789715b5e7b0b2e48309c3d47",
+      "title": "Xe buýt điện Toyota chạy hơn 300km không cần sạc, tiếp nhiên liệu như xe xăng",
+      "link": "https://tuoitre.vn/xe-buyt-dien-toyota-chay-hon-300km-khong-can-sac-tiep-nhien-lieu-nhu-xe-xang-100261014170909844.htm",
+      "summary": "Xe buýt điện Toyota Sora thế hệ mới sử dụng hệ truyền động điện kết hợp pin nhiên liệu hydro, có thể di chuyển hơn 300km sau mỗi lần nạp. Đáng chú ý, dù tổng dung tích bình chứa hydro giảm khoảng 20%, phạm vi hoạt động của xe vẫn tăng thêm 100km so với thế hệ trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T09:22:25.987588+07:00",
+      "fetched": "2026-10-15T09:22:25.987617+07:00"
+    },
+    {
+      "id": "72c834290d4cfa515a10bbdc5a53ca73",
+      "title": "Chứng khoán 15-10: VN-Index thử thách mốc 1.700 điểm, đà giảm có thể tiếp diễn",
+      "link": "https://tuoitre.vn/chung-khoan-15-10-vn-index-thu-thach-moc-1700-diem-da-giam-co-the-tiep-dien-100261015070738591.htm",
+      "summary": "Giới phân tích chứng khoán lưu ý 1.700 điểm là ngưỡng quyết định khả năng hồi phục kỹ thuật hoặc mở ra nhịp giảm sâu hơn trong các phiên tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T09:22:25.987540+07:00",
+      "fetched": "2026-10-15T09:22:25.987583+07:00"
+    },
+    {
+      "id": "ad34571628128ef1334bcac961cc9ac9",
+      "title": "Bộ Chính trị, Ban Bí thư tổ chức Hội nghị quán triệt và triển khai thực hiện Nghị quyết Trung ương 4",
+      "link": "https://tuoitre.vn/bo-chinh-tri-ban-bi-thu-to-chuc-hoi-nghi-quan-triet-va-trien-khai-thuc-hien-nghi-quyet-trung-uong-4-100261015061302068.htm",
+      "summary": "Ngày 16-10, Bộ Chính trị, Ban Bí thư sẽ tổ chức Hội nghị toàn quốc nghiên cứu, học tập, quán triệt và triển khai thực hiện Nghị quyết Hội nghị Trung ương 4 khóa XIV.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T09:22:25.987468+07:00",
+      "fetched": "2026-10-15T09:22:25.987533+07:00"
+    },
+    {
+      "id": "02b85bf7d283824c3efdfde2a61477c1",
+      "title": "Chủ tịch Tập đoàn Mỹ Hạnh tiếp tục bị đề nghị truy tố vì 'vẽ' dự án sâm Ngọc Linh lừa góp 1.300 tỉ",
+      "link": "https://tuoitre.vn/chu-tich-tap-doan-my-hanh-tiep-tuc-bi-de-nghi-truy-to-vi-ve-du-an-sam-ngoc-linh-lua-gop-1300-ti-100261015075730991.htm",
+      "summary": "Sau khi tòa trả hồ sơ để điều tra bổ sung, Chủ tịch Tập đoàn Mỹ Hạnh Phạm Mỹ Hạnh tiếp tục bị đề nghị truy tố với cáo buộc \"vẽ\" các dự án trồng sâm Ngọc Linh, hứa trả lãi tới 48%/năm để huy động gần 1.300 tỉ đồng từ hơn 1.200 nhà đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T09:22:25.987144+07:00",
+      "fetched": "2026-10-15T09:22:25.987455+07:00"
+    },
     {
       "id": "7f5634c12dc68a3a6707b2d5b07f8884",
       "title": "Mỹ nói Iran đang sụp đổ kinh tế, Tehran phản pháo 'ảo tưởng'",
@@ -153,6 +303,226 @@ window.newsData_2026_10_15 = {
       "fetched": "2026-10-15T02:54:50.983451+07:00"
     },
     {
+      "id": "c8e46d408be434836e27cf583ac73511",
+      "title": "Kinh tế TP.HCM tăng trưởng 9,06% trong 9 tháng, cao nhất 10 năm qua",
+      "link": "https://thanhnien.vn/kinh-te-tphcm-tang-truong-906-trong-9-thang-cao-nhat-10-nam-qua-185261015090501088.htm",
+      "summary": "Trong 9 tháng đầu năm 2026, tổng sản phẩm trên địa bàn (GRDP) của TP.HCM tăng 9,06%, và là mức tăng trưởng cao nhất trong hơn 10 năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T02:21:00+07:00",
+      "fetched": "2026-10-15T09:22:24.304408+07:00"
+    },
+    {
+      "id": "7cbfbae771672ce394dd4afcfa8f2344",
+      "title": "Sau vụ 'con ghét bố mẹ', TP.HCM đưa văn hóa ứng xử trên mạng vào trường học",
+      "link": "https://thanhnien.vn/sau-vu-con-ghet-bo-me-tphcm-dua-van-hoa-ung-xu-tren-mang-vao-truong-hoc-185261015090539872.htm",
+      "summary": "Sau vụ nhóm 'con ghét bố mẹ' gây xôn xao, TP.HCM tăng cường tổ chức tuyên truyền tại trường học, hướng dẫn học sinh ứng xử văn minh, an toàn trên không gian mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T02:15:00+07:00",
+      "fetched": "2026-10-15T09:22:24.304495+07:00"
+    },
+    {
+      "id": "f56accbc33b94a569a3a9523ad54b3be",
+      "title": "Vụ nữ sinh Vĩnh Long tử vong: Mức án bất ngờ cho tài xế xe tải",
+      "link": "https://thanhnien.vn/vu-nu-sinh-vinh-long-tu-vong-muc-an-bat-ngo-cho-tai-xe-xe-tai-185261015081950187.htm",
+      "summary": "Vụ xế xe tải gây tai nạn khiến nữ sinh 14 tuổi ở Vĩnh Long tử vong đã kết thúc. Tòa đã tuyên án đối với tài xế gây tai nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T02:12:00+07:00",
+      "fetched": "2026-10-15T09:22:24.304583+07:00"
+    },
+    {
+      "id": "6e5c4b0a31b72a12a4f0e008cba483b3",
+      "title": "Messi kiến tạo cho De Paul lập công, sớm đưa Inter Miami vào vòng play-off MLS Cup",
+      "link": "https://thanhnien.vn/messi-kien-tao-cho-de-paul-lap-cong-som-dua-inter-miami-vao-vong-play-off-mls-cup-185261015090704233.htm",
+      "summary": "Sáng 15.10, Messi góp 1 kiến tạo cho De Paul ghi bàn trong trận Inter Miami thắng New York City FC với tỷ số 2-0 trên sân nhà. Qua đó, giúp đội nhà sớm giành vé vào vòng play-off MLS Cup để bảo vệ ngôi vô địch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T02:09:00+07:00",
+      "fetched": "2026-10-15T09:22:24.304658+07:00"
+    },
+    {
+      "id": "e09ae26dd4a3337414a761a457982ce1",
+      "title": "Meta cấm toàn bộ quảng cáo của TikTok tại Mỹ, Việt Nam",
+      "link": "https://thanhnien.vn/meta-cam-toan-bo-quang-cao-cua-tiktok-tai-my-viet-nam-185261015085455176.htm",
+      "summary": "Meta chặn mọi quảng cáo từ ByteDance và TikTok tại Mỹ, Việt Nam cùng 5 quốc gia khác, đánh dấu bước leo thang căng thẳng mới trong cuộc đua giành thị phần mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T02:08:00+07:00",
+      "fetched": "2026-10-15T09:22:24.304731+07:00"
+    },
+    {
+      "id": "b963b283eb180fb08e5dda56a1254339",
+      "title": "Chi tiết lương giáo viên trung học nghề, cao nhất hơn 17 triệu đồng/tháng",
+      "link": "https://thanhnien.vn/chi-tiet-luong-giao-vien-trung-hoc-nghe-cao-nhat-hon-17-trieu-dong-thang-185261014221336533.htm",
+      "summary": "Theo Thông tư 64/2026/TT-BGDĐT, giáo viên trung học nghề được chia thành 3 hạng chức danh, tương ứng với các hệ số lương khác nhau. Với mức lương cơ sở 2,53 triệu đồng/tháng, mức lương tính theo hệ số dao động từ hơn 5,3 triệu đồng đến hơn 17,1 triệu đồng/tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T02:06:00+07:00",
+      "fetched": "2026-10-15T09:22:24.304803+07:00"
+    },
+    {
+      "id": "8819a987eb65e5b3b10e4b7dcbb9bd46",
+      "title": "Giá USD hôm nay 15.10.2026: Đồng bạc xanh thế giới lên cao nhất 18 tháng",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-15102026-dong-bac-xanh-the-gioi-len-cao-nhat-18-thang-185261015083425919.htm",
+      "summary": "Giá USD tại các ngân hàng thương mại đứng lại sau 3 ngày giảm liên tiếp. Trong khi đó, đồng bạc xanh trên thị trường thế giới tăng lên mức cao nhất trong vòng 18 tháng qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T02:02:00+07:00",
+      "fetched": "2026-10-15T09:22:24.304877+07:00"
+    },
+    {
+      "id": "d3cf2c225b0f1258b669419fe4e49181",
+      "title": "Người đàn ông chi tiền tỉ mua thiết bị và lập đội chữa cháy tình nguyện",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-chi-tien-ti-mua-thiet-bi-va-lap-doi-chua-chay-tinh-nguyen-185261014183337822.htm",
+      "summary": "Suốt 5 năm qua, ông Phạm Văn Nùng (54 tuổi, ở xã Tân Thạnh, tỉnh Đồng Tháp) đã chi khoảng 1,5 tỉ đồng mua máy bơm, thiết bị chữa cháy, thành lập đội tình nguyện và tham gia dập tắt 22 vụ hỏa hoạn trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T02:01:00+07:00",
+      "fetched": "2026-10-15T09:22:24.304949+07:00"
+    },
+    {
+      "id": "71d64b569492dc81b092624e03a0833e",
+      "title": "Thanh niên không chỉ tìm kiếm việc làm cho bản thân mà còn phải làm điều này",
+      "link": "https://thanhnien.vn/thanh-nien-khong-chi-tim-kiem-viec-lam-cho-ban-than-ma-con-phai-lam-dieu-nay-185261014195916852.htm",
+      "summary": "PGS.TS Đỗ Phú Trần Tình nhận định chủ đề đối thoại giữa Thủ tướng và thanh niên năm 2026 gửi đi một thông điệp quan trọng: \"Trong giai đoạn phát triển mới, thanh niên không chỉ là lực lượng thụ hưởng thành quả phát triển mà phải trở thành chủ thể kiến tạo những động lực tăng trưởng mới cho nền kinh ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T02:00:00+07:00",
+      "fetched": "2026-10-15T09:22:24.305022+07:00"
+    },
+    {
+      "id": "31ad52bf813f02c16e5fb29eee0e46d9",
+      "title": "Cấy ghép 10 implant toàn hàm chỉ sau 1 giấc ngủ ngắn",
+      "link": "https://thanhnien.vn/cay-ghep-10-implant-toan-ham-chi-sau-1-giac-ngu-ngan-185261014160807627.htm",
+      "summary": "Mất răng nhiều năm khiến xương hàm bị tiêu đáng kể, việc ăn nhai cũng ngày càng khó khăn. Bác sĩ Bệnh viện FV đã cấy 10 trụ implant phục hồi toàn hàm chỉ trong một lần phẫu thuật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T02:00:00+07:00",
+      "fetched": "2026-10-15T09:22:24.305090+07:00"
+    },
+    {
+      "id": "3ec4cb95680cb6c671ca8d4b7ea711e1",
+      "title": "Thầm lặng cho đi, để biết ơn cuộc sống",
+      "link": "https://thanhnien.vn/tham-lang-cho-di-de-biet-on-cuoc-song-185261013104008731.htm",
+      "summary": "Bền bỉ suốt 15 năm, từ khi còn là sinh viên đến nay, đại úy Nguyễn Minh Long (công tác tại Phòng Kỹ thuật hình sự Công an TP.HCM) đã tham gia 39 lần hiến máu tình nguyện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T02:00:00+07:00",
+      "fetched": "2026-10-15T09:22:24.305160+07:00"
+    },
+    {
+      "id": "84da0bd274c9791329064af4ff11f3dc",
+      "title": "Giá xăng dầu hôm nay 15.10.2026: Xăng trong nước chiều nay tăng hay giảm?",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-15102026-xang-trong-nuoc-chieu-nay-tang-hay-giam-185261015084801433.htm",
+      "summary": "Giá dầu thế giới giữ đà tăng nhẹ khi thị trường lo ngại nguồn cung. Trong nước, chiều nay (15.10) đến kỳ điều hành giá xăng dầu, dự báo giá các mặt hàng xăng E10, E5 và dầu diesel sẽ giảm đồng loạt, trong khi dầu mazut tăng mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T01:56:00+07:00",
+      "fetched": "2026-10-15T09:22:24.305229+07:00"
+    },
+    {
+      "id": "d979d1500abf4727c91b3160cbe08fe1",
+      "title": "Messi giúp Inter Miami giành suất vào vòng play-off MLS",
+      "link": "https://vnexpress.net/messi-giup-inter-miami-gianh-suat-vao-vong-play-off-mls-5132491.html",
+      "summary": "Lionel Messi kiến tạo để Rodrigo De Paul ghi bàn, giúp Inter Miami thắng New York City 2-0 ở vòng 29 MLS, giành vé dự vòng play-off.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-15T01:55:55+07:00",
+      "fetched": "2026-10-15T09:22:32.853309+07:00"
+    },
+    {
+      "id": "23b2a1ed5e65d8150f9676e56b97f108",
+      "title": "Khách Ấn Độ gây phẫn nộ vì du lịch Thái Lan mà không có tiền",
+      "link": "https://thanhnien.vn/khach-an-do-gay-phan-no-vi-du-lich-thai-lan-ma-khong-co-tien-185261015082447226.htm",
+      "summary": "Nam thanh niên người Ấn Độ có tên Banshi, đồng thời là YouTuber, đang du lịch khắp Thái Lan nhưng không có tiền, đã bị cảnh sát yêu cầu rời khỏi ngôi chùa nơi anh ta định cắm trại qua đêm. Vụ việc gây ra phản ứng dữ dội từ chính người dân Ấn Độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T01:51:00+07:00",
+      "fetched": "2026-10-15T09:22:24.305297+07:00"
+    },
+    {
+      "id": "c48915b740420b3efd6911910928bca1",
+      "title": "Chuyên gia Indonesia gây tranh cãi nảy lửa khi tố chức vô địch FIFA ASEAN Cup bị dàn xếp",
+      "link": "https://thanhnien.vn/chuyen-gia-indonesia-gay-tranh-cai-nay-lua-khi-to-chuc-vo-dich-fifa-asean-cup-bi-dan-xep-185261015082447366.htm",
+      "summary": "Theo kênh Astro Arena (Malaysia), một chuyên gia bóng đá Indonesia vừa cho rằng chức vô địch của đội tuyển nước này tại FIFA ASEAN Cup đã được dàn xếp. Cáo buộc này đang gây sốc và tạo ra tranh cãi dữ dội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T01:50:00+07:00",
+      "fetched": "2026-10-15T09:22:24.305365+07:00"
+    },
+    {
+      "id": "864a04e55aade974bfc1fb438927e15e",
+      "title": "Giá vàng hôm nay 15.10.2026: Tiếp tục đứng yên khiến người mua lỗ ngay 3 triệu đồng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-15102026-tiep-tuc-dung-yen-khien-nguoi-mua-lo-ngay-3-trieu-dong-185261015082727835.htm",
+      "summary": "Giá vàng trong nước đứng yên dù thế giới đi xuống khiến người mua vào bị lỗ ngay 3 triệu đồng/lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T01:48:00+07:00",
+      "fetched": "2026-10-15T09:22:24.305434+07:00"
+    },
+    {
+      "id": "f2e4c140000a08bafcd5fdfcb6b75f59",
+      "title": "Tân phát ngôn viên Nhà Trắng bị soi xét về tư cách luật sư",
+      "link": "https://vnexpress.net/tan-phat-ngon-vien-nha-trang-bi-soi-xet-ve-tu-cach-luat-su-5132451.html",
+      "summary": "Katie Zacharia trở thành tâm điểm chất vấn khi hồ sơ không ghi nhận cô đủ điều kiện hành nghề luật, dù nhiều lần tự nhận mình là luật sư.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-15T01:07:13+07:00",
+      "fetched": "2026-10-15T09:22:27.590434+07:00"
+    },
+    {
+      "id": "de383246124657ee784f42938a55bf4c",
+      "title": "VietinBank kết nối hộ kinh doanh với khách quốc tế qua VNPAY-QR",
+      "link": "https://vnexpress.net/vietinbank-ket-noi-ho-kinh-doanh-voi-khach-quoc-te-qua-vnpay-qr-5132347.html",
+      "summary": "Thanh toán QR xuyên biên giới giúp hộ kinh doanh đáp ứng thói quen chi tiêu của du khách, đồng thời số hóa hoạt động quản lý bán hàng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-15T01:00:00+07:00",
+      "fetched": "2026-10-15T09:22:28.814327+07:00"
+    },
+    {
+      "id": "46d1b1945fbbcef38db7ae6a9949b7a1",
+      "title": "Vinpearl là doanh nghiệp lớn được yêu thích nhất năm",
+      "link": "https://vnexpress.net/vinpearl-la-doanh-nghiep-lon-duoc-yeu-thich-nhat-nam-5132297.html",
+      "summary": "Vượt qua hàng nghìn ứng viên, Vinpearl dẫn đầu danh sách top 100 doanh nghiệp lớn được người lao động yêu thích nhất năm 2026 do CareerViet công bố.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-15T01:00:00+07:00",
+      "fetched": "2026-10-15T09:22:28.814401+07:00"
+    },
+    {
+      "id": "a88836f0431d4d5c806a38fc0a16ab3e",
+      "title": "Haaland phá một kỷ lục của Messi",
+      "link": "https://vnexpress.net/haaland-pha-mot-ky-luc-cua-messi-5132462.html",
+      "summary": "Với cú đúp vào lưới PSG ngày 14/10, tiền đạo Man City Erling Haaland cán mốc 60 bàn nhanh nhất lịch sử Champions League, chỉ sau 60 trận, ít hơn Lionel Messi tới 20 trận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-15T00:29:27+07:00",
+      "fetched": "2026-10-15T09:22:32.853403+07:00"
+    },
+    {
+      "id": "ebc43237d93d92d3aeccee4d11a235e1",
+      "title": "Ông Zelensky cảm thấy bị Tổng thống Trump 'phản bội'",
+      "link": "https://vnexpress.net/ong-zelensky-cam-thay-bi-tong-thong-trump-phan-boi-5132444.html",
+      "summary": "Tổng thống Ukraine Zelensky cho biết ông cảm thấy bị phản bội sau khi lãnh đạo Mỹ Trump thông báo về thỏa thuận nhiên liệu với Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-15T00:24:15+07:00",
+      "fetched": "2026-10-15T09:22:27.590533+07:00"
+    },
+    {
+      "id": "7d36ca6ba9b621d11db823b7233d5fd4",
+      "title": "Giáo hoàng lần đầu lên tiếng sau khi bị chẩn đoán mắc ung thư phổi",
+      "link": "https://vnexpress.net/giao-hoang-lan-dau-len-tieng-sau-khi-bi-chan-doan-mac-ung-thu-phoi-5132441.html",
+      "summary": "Giáo hoàng Leo XIV cảm ơn các tín hữu Công giáo vì những lời cầu nguyện dành cho mình, trong thông điệp đầu tiên sau khi ông phẫu thuật ung thư phổi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-14T23:56:16+07:00",
+      "fetched": "2026-10-15T09:22:27.590615+07:00"
+    },
+    {
       "id": "f1bbcff9ae37c625f1a8fe993f8a92a8",
       "title": "Dạy tiếng Anh bắt buộc từ lớp 1: Nặng đọc viết sẽ khiến trẻ áp lực",
       "link": "https://thanhnien.vn/day-tieng-anh-bat-buoc-tu-lop-1-nang-doc-viet-se-khien-tre-ap-luc-185261014205902319.htm",
@@ -201,6 +571,16 @@ window.newsData_2026_10_15 = {
       "category": "Tổng hợp",
       "published": "2026-10-14T22:36:00+07:00",
       "fetched": "2026-10-15T05:50:43.374442+07:00"
+    },
+    {
+      "id": "a77579f0d8423ac56a373736a3fc9c1a",
+      "title": "AI giải bài toán cờ vua 58 năm",
+      "link": "https://vnexpress.net/ai-giai-bai-toan-co-vua-58-nam-5132389.html",
+      "summary": "Hệ thống trí tuệ nhân tạo Double Agent tìm ra thế cờ có 63 nước đi hợp lệ đều chiếu, đồng thời chứng minh không thể vượt qua con số này, phá kỷ lục tồn tại từ năm 1968.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-14T22:32:24+07:00",
+      "fetched": "2026-10-15T09:22:32.853480+07:00"
     },
     {
       "id": "3ee332011c33e2b0d55f05574ba46c23",
@@ -321,6 +701,16 @@ window.newsData_2026_10_15 = {
       "category": "Công nghệ",
       "published": "2026-10-14T22:00:00+07:00",
       "fetched": "2026-10-15T05:50:52.986791+07:00"
+    },
+    {
+      "id": "034439a9c2f797b33709a3f6addfb30e",
+      "title": "Nỗ lực giữ ghế bất thành của Đại sứ Mỹ tại Hy Lạp",
+      "link": "https://vnexpress.net/no-luc-giu-ghe-bat-thanh-cua-dai-su-my-tai-hy-lap-5132202.html",
+      "summary": "Kimberly Guilfoyle liên tục tìm kiếm sự hậu thuẫn từ Nhà Trắng để giữ ghế Đại sứ tại Hy Lạp, nhưng không thể cứu vãn sự nghiệp trước loạt cáo buộc bất lợi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-14T22:00:00+07:00",
+      "fetched": "2026-10-15T09:22:27.590689+07:00"
     },
     {
       "id": "96a515e7099c6007add2e705a0a2ba14",
