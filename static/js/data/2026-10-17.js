@@ -1,6 +1,6 @@
 window.newsData_2026_10_17 = {
   "date": "2026-10-17",
-  "lastUpdated": "2026-10-17T02:07:54.688091+07:00",
+  "lastUpdated": "2026-10-17T05:19:50.128212+07:00",
   "articles": [
     {
       "id": "a6c5660eaa1dae4dadfc2777e9f1c6f4",
@@ -151,6 +151,176 @@ window.newsData_2026_10_17 = {
       "category": "Tổng hợp",
       "published": "2026-10-17T02:07:47.795162+07:00",
       "fetched": "2026-10-17T02:07:47.795322+07:00"
+    },
+    {
+      "id": "3bb998402ac13e1a0d8a0729fc031770",
+      "title": "Tử vi ngày 17 tháng 10: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-17-thang-10-con-giap-nao-may-man-hom-nay-185261016230523936.htm",
+      "summary": "Tử vi ngày 17 tháng 10 mang đến những gợi ý tham khảo cho 12 con giáp. Tử vi hôm nay có những tình huống đáng chú ý: người tìm thấy giá trị từ món đồ đã cất lâu ngày, người có cơ hội cải thiện tài lộc, trong khi một số con giáp cần thận trọng với kế hoạch di chuyển và những khoản chi ngoài dự tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-16T22:15:00+07:00",
+      "fetched": "2026-10-17T05:19:40.981916+07:00"
+    },
+    {
+      "id": "60798a2bbc1ebec795661bb8497cab9e",
+      "title": "Sập mái trường ở Pakistan, 34 học sinh chết",
+      "link": "https://thanhnien.vn/sap-mai-truong-o-pakistan-34-hoc-sinh-chet-185261016221634541.htm",
+      "summary": "Ít nhất 34 học sinh và 1 giáo viên nữ đã thiệt mạng sau khi mái của Trường tư thục al-Khair ở TP.Peshawar thuộc miền bắc Pakistan bị sập trong giờ học sáng 15.10, theo Reuters. Phần lớn các nạn nhân đều dưới 13 tuổi và xuất thân từ các gia đình có thu nhập thấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-16T22:15:00+07:00",
+      "fetched": "2026-10-17T05:19:40.982084+07:00"
+    },
+    {
+      "id": "298d1ef70062dc1beb868d8641ce6db9",
+      "title": "Vì sao giới du thuyền 'né' tài sản triệu đô của bà Trương Mỹ Lan?",
+      "link": "https://thanhnien.vn/vi-sao-gioi-du-thuyen-ne-tai-san-trieu-do-cua-ba-truong-my-lan-18526101617442965.htm",
+      "summary": "Giới chơi du thuyền cho rằng du thuyền The Reverie Saigon và 2 tàu Thalia, Electra của bà Trương Mỹ Lan vẫn đang được định giá quá cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-16T22:10:00+07:00",
+      "fetched": "2026-10-17T05:19:40.982217+07:00"
+    },
+    {
+      "id": "2d827c75078c11a6b9f5ccc9cd419e1b",
+      "title": "Các 'siêu dự án' của ông Trump đối mặt nguy cơ phá sản",
+      "link": "https://thanhnien.vn/cac-sieu-du-an-cua-ong-trump-doi-mat-nguy-co-pha-san-18526101622065186.htm",
+      "summary": "Kế hoạch chi tiêu quốc phòng 1.500 tỉ USD của chính quyền Tổng thống Mỹ Donald Trump có thể bị chặn đứng nếu đảng Dân chủ giành lại quyền kiểm soát quốc hội sau bầu cử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-16T22:02:00+07:00",
+      "fetched": "2026-10-17T05:19:40.982341+07:00"
+    },
+    {
+      "id": "3f0a341ad873b2ce655c6d63a7b276e8",
+      "title": "Sống chung với thiên tai: Phải sẵn sàng trước khi nước dâng",
+      "link": "https://thanhnien.vn/song-chung-voi-thien-tai-phai-san-sang-truoc-khi-nuoc-dang-185261016190600886.htm",
+      "summary": "Nhà ở kiên cố giúp người dân vùng lũ có điểm tựa để làm lại cuộc sống. Nhưng để giảm thiệt hại, điều quan trọng không kém là cảnh báo kịp thời, sơ tán đúng lúc và có nơi tránh trú an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-16T22:00:00+07:00",
+      "fetched": "2026-10-17T05:19:40.982465+07:00"
+    },
+    {
+      "id": "f5947ca174498d6616a9bc1be4f809b7",
+      "title": "Lịch âm hôm nay 17.10: Ngày Tý, tháng Tuất, năm Ngọ",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-1710-ngay-ty-thang-tuat-nam-ngo-185261016115759564.htm",
+      "summary": "Lịch âm hôm nay ngày 17.10 là ngày Giáp Tý. Dương lịch là ngày Quốc tế xóa nghèo. Ngày này có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-16T22:00:00+07:00",
+      "fetched": "2026-10-17T05:19:40.982592+07:00"
+    },
+    {
+      "id": "23d03570df098a8b56f41b01e8566094",
+      "title": "Nga tìm cách xóa sổ lưới điện Ukraine trước mùa đông",
+      "link": "https://vnexpress.net/nga-tim-cach-xoa-so-luoi-dien-ukraine-truoc-mua-dong-5132719.html",
+      "summary": "Nga gia tăng tập kích diện rộng, sử dụng UAV phản lực và tên lửa để phá hủy hạ tầng điện của Ukraine khi nước này chuẩn bị bước vào mùa đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-16T22:00:00+07:00",
+      "fetched": "2026-10-17T05:19:44.707858+07:00"
+    },
+    {
+      "id": "b125f0b64126e15019af27b45b4789ce",
+      "title": "'Trợ lý AI lai' chuyên phục vụ giới nhà giàu",
+      "link": "https://vnexpress.net/tro-ly-ai-lai-chuyen-phuc-vu-gioi-nha-giau-5131957.html",
+      "summary": "Aurora, ứng dụng kết hợp AI với con người, giúp sắp xếp việc ăn uống, du lịch và nhiều dịch vụ khác, nhưng phí gia nhập lên đến 5.000 USD.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-16T22:00:00+07:00",
+      "fetched": "2026-10-17T05:19:49.178576+07:00"
+    },
+    {
+      "id": "d0fd83666ad9fe9cd96ed617284ed746",
+      "title": "Đi metro, tra sổ đỏ trên VNeID: Những tiện ích mới người dân TP.HCM cần biết",
+      "link": "https://thanhnien.vn/di-metro-tra-so-do-tren-vneid-nhung-tien-ich-moi-nguoi-dan-tphcm-can-biet-185261016202822952.htm",
+      "summary": "TP.HCM trở thành địa phương đầu tiên hoàn tất tích hợp vé xe buýt, metro cùng 12 tiện ích thiết yếu trên VNeID. Từ tra cứu sổ đỏ, sổ sức khỏe đến nhận an sinh xã hội, siêu ứng dụng giúp người dân đơn giản hóa thủ tục hành chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-16T21:43:00+07:00",
+      "fetched": "2026-10-17T05:19:40.982711+07:00"
+    },
+    {
+      "id": "e123f297a2eb4459a933c700e225c730",
+      "title": "Chạy xe máy vào đường cấm để câu view, bị CSGT TP.HCM xử lý",
+      "link": "https://thanhnien.vn/chay-xe-may-vao-duong-cam-de-cau-view-bi-csgt-tphcm-xu-ly-185261016213001371.htm",
+      "summary": "CSGT TP.HCM đã mời 8 thanh thiếu niên chạy xe máy vào đường cấm trên đường Lê Quang Đạo, quay clip đăng mạng xã hội nhằm câu like, câu view.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-16T21:41:00+07:00",
+      "fetched": "2026-10-17T05:19:40.982830+07:00"
+    },
+    {
+      "id": "a52045830eba464898aa26fdd7a2cfcc",
+      "title": "Ung thư đại trực tràng ngày càng trẻ hóa, dấu hiệu nào cần cảnh giác?",
+      "link": "https://thanhnien.vn/ung-thu-dai-truc-trang-ngay-cang-tre-hoa-dau-hieu-nao-can-canh-giac-185261005145742753.htm",
+      "summary": "Nữ bệnh nhân 24 tuổi, nhập viện trong tình trạng đau bụng hạ vị kéo dài, đi tiêu ra phân nhầy máu. Kết quả chẩn đoán cho thấy khối u trực tràng lớn xâm lấn di căn phúc mạc chậu, kèm 2 khối u nang buồng trứng lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-16T21:10:00+07:00",
+      "fetched": "2026-10-17T05:19:40.982953+07:00"
+    },
+    {
+      "id": "0c0f023c4f6668e5a0fce55ab3d90a0f",
+      "title": "Ngoại hạng Anh: Man.City quyết đấu đến cùng",
+      "link": "https://thanhnien.vn/ngoai-hang-anh-mancity-quyet-dau-den-cung-185261016195453192.htm",
+      "summary": "Giả sử nghĩ rằng đang được thi đấu lần cuối cùng ở đẳng cấp Ngoại hạng Anh, bạn sẽ buông bỏ hay quyết thi đấu với phong độ để đời trước khi chia tay? Dường như các ngôi sao của Man.City đang chọn giải pháp thứ hai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-16T21:01:00+07:00",
+      "fetched": "2026-10-17T05:19:40.983088+07:00"
+    },
+    {
+      "id": "42644b361fa4db60a1c46a04cca7c191",
+      "title": "Vợ Sergio Ramos chia sẻ bí quyết giữ lửa hôn nhân",
+      "link": "https://vnexpress.net/vo-sergio-ramos-chia-se-bi-quyet-giu-lua-hon-nhan-5133252.html",
+      "summary": "MC truyền hình Pilar Rubio xem sự thoải mái là cách để cô và cựu cầu thủ Sergio Ramos luôn mặn nồng sau 14 năm bên nhau.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-16T21:00:00+07:00",
+      "fetched": "2026-10-17T05:19:50.123143+07:00"
+    },
+    {
+      "id": "563118a900982d6522bc7cedf9a136f8",
+      "title": "Khoảng trống pháp lý đặt California trước nguy cơ vỡ đập",
+      "link": "https://vnexpress.net/khoang-trong-phap-ly-dat-california-truoc-nguy-co-vo-dap-5133121.html",
+      "summary": "California ghi nhận 57 con đập xuống cấp nghiêm trọng, nhưng chính quyền bang không thể áp dụng biện pháp can thiệp mạnh trừ tình huống đặc biệt nguy cấp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-16T19:00:00+07:00",
+      "fetched": "2026-10-17T05:19:44.708028+07:00"
+    },
+    {
+      "id": "e4b24d062912242a90ec058efa198479",
+      "title": "Phó thủ tướng yêu cầu giảm lãi suất cho vay 1,5-2%",
+      "link": "https://vnexpress.net/pho-thu-tuong-yeu-cau-giam-lai-suat-cho-vay-1-5-2-5133422.html",
+      "summary": "Phó thủ tướng Nguyễn Văn Thắng yêu cầu giảm lãi suất cho vay 1,5-2% với sản xuất, kinh doanh và lĩnh vực ưu tiên, hỗ trợ người dân, doanh nghiệp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-16T18:30:00+07:00",
+      "fetched": "2026-10-17T05:19:46.584744+07:00"
+    },
+    {
+      "id": "cf085967a1b9d374e8d0aa055413c46e",
+      "title": "Thủ tướng: Sẽ thu hồi thương hiệu quốc gia nếu không còn đạt tiêu chí",
+      "link": "https://vnexpress.net/thu-tuong-se-thu-hoi-thuong-hieu-quoc-gia-neu-khong-con-dat-tieu-chi-5133406.html",
+      "summary": "Thủ tướng Lê Minh Hưng yêu cầu tăng kiểm tra sau công nhận, thu hồi danh hiệu thương hiệu quốc gia với những trường hợp không còn đáp ứng tiêu chí.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-16T18:17:39+07:00",
+      "fetched": "2026-10-17T05:19:46.584901+07:00"
+    },
+    {
+      "id": "984a4db07fe410283bb8fe83aad88ff3",
+      "title": "Tập đoàn dầu khí Malaysia muốn cung cấp LNG dài hạn cho Việt Nam",
+      "link": "https://vnexpress.net/tap-doan-dau-khi-malaysia-muon-cung-cap-lng-dai-han-cho-viet-nam-5133408.html",
+      "summary": "Tập đoàn Dầu khí quốc gia Malaysia (Petronas) đề xuất cung cấp khí tự nhiên hóa lỏng (LNG) theo hợp đồng dài hạn, hợp tác phát triển hạ tầng LNG tại Việt Nam.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-16T18:13:55+07:00",
+      "fetched": "2026-10-17T05:19:46.585064+07:00"
     },
     {
       "id": "c87e2009b40352288d3d19975c1faa1f",
@@ -1051,6 +1221,156 @@ window.newsData_2026_10_17 = {
       "category": "Công nghệ",
       "published": "2026-10-15T17:00:00+07:00",
       "fetched": "2026-10-17T02:07:52.806614+07:00"
+    },
+    {
+      "id": "117a78c99fb626c736fd6132953d3119",
+      "title": "Bộ Tư pháp Mỹ ra tối hậu thư với California trước bầu cử giữa kỳ",
+      "link": "https://vnexpress.net/bo-tu-phap-my-ra-toi-hau-thu-voi-california-truoc-bau-cu-giua-ky-5132579.html",
+      "summary": "Bộ Tư pháp Mỹ ra tối hậu thư 48 giờ, yêu cầu California rà soát danh sách cử tri bị nghi không có quốc tịch và tách riêng phiếu bầu qua thư của nhóm này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T08:01:00+07:00",
+      "fetched": "2026-10-17T05:19:37.947815+07:00"
+    },
+    {
+      "id": "a6e65eca655c669fa870e837dbc3f8c2",
+      "title": "Hôm nay đóng cổng bình chọn smartwatch AI cho sức khỏe",
+      "link": "https://vnexpress.net/hom-nay-dong-cong-binh-chon-smartwatch-ai-cho-suc-khoe-5132256.html",
+      "summary": "Số bình chọn thứ tư của Sản phẩm tôi yêu 2026, với chủ đề smartwatch AI cho sức khỏe được yêu thích, sẽ đóng vào 23h59 ngày 15/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T08:00:00+07:00",
+      "fetched": "2026-10-17T05:19:37.947982+07:00"
+    },
+    {
+      "id": "4b073baa99592d91a91af7ac57cebab2",
+      "title": "Cú hích giúp MB vượt 100.000 tỷ đồng vốn điều lệ",
+      "link": "https://vnexpress.net/cu-hich-giup-mb-vuot-100-000-ty-dong-von-dieu-le-5132692.html",
+      "summary": "Đợt chào bán thu gần 8.055 tỷ đồng, trên nền tảng tích lũy lợi nhuận nhiều năm, đưa MB trở thành ngân hàng Việt đầu tiên có vốn điều lệ vượt 100.000 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T08:00:00+07:00",
+      "fetched": "2026-10-17T05:19:37.948158+07:00"
+    },
+    {
+      "id": "5bbada32b377cb9c2313e29423565271",
+      "title": "Vì sao ăn bí ngô tốt cho tim?",
+      "link": "https://vnexpress.net/vi-sao-an-bi-ngo-tot-cho-tim-5132603.html",
+      "summary": "Hạt bí ngô chứa magiê, chất béo không bão hòa và chất chống oxy hóa góp phần điều hòa huyết áp, hỗ trợ kiểm soát cholesterol.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T08:00:00+07:00",
+      "fetched": "2026-10-17T05:19:37.948294+07:00"
+    },
+    {
+      "id": "c89f36c5bc038bc29f5e9d2e4d09b2b8",
+      "title": "Xuất huyết do lạc nội mạc tử cung kèm dị dạng tĩnh mạch",
+      "link": "https://vnexpress.net/xuat-huyet-do-lac-noi-mac-tu-cung-kem-di-dang-tinh-mach-5132468.html",
+      "summary": "Chị Phương, 41 tuổi, đau bụng dưới, chụp MRI phát hiện ổ bụng chứa 500 ml dịch do lạc nội mạc tử cung kèm dị dạng tĩnh mạch vùng chậu gây xuất huyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T08:00:00+07:00",
+      "fetched": "2026-10-17T05:19:37.948422+07:00"
+    },
+    {
+      "id": "60c1121b9b54e94d6a555bd0495d737a",
+      "title": "Những nhóm có nguy cơ chuyển nặng khi mắc sốt xuất huyết Dengue",
+      "link": "https://vnexpress.net/nhung-nhom-co-nguy-co-chuyen-nang-khi-mac-sot-xuat-huyet-dengue-5129677.html",
+      "summary": "Người cao tuổi, người có bệnh nền, trẻ nhỏ, phụ nữ mang thai, người thừa cân, béo phì là nhóm nguy cơ cao đối với sốt xuất huyết Dengue, theo các chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T08:00:00+07:00",
+      "fetched": "2026-10-17T05:19:37.948556+07:00"
+    },
+    {
+      "id": "fa352f854afd790b07fd3f28c643dfe5",
+      "title": "Nữ kế toán PNJ tham ô 20 tỷ đồng để đánh bạc online",
+      "link": "https://vnexpress.net/nu-ke-toan-pnj-tham-o-20-ty-dong-de-danh-bac-online-5132688.html",
+      "summary": "Nguyễn Thị Thu, cựu kế toán cửa hàng PNJ tại Aeon Mall Long Biên, bị cáo buộc yêu cầu khách chuyển tiền vào tài khoản cá nhân, tham ô hơn 20 tỷ đồng mang hết đi đánh bạc online.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T07:58:05+07:00",
+      "fetched": "2026-10-17T05:19:37.948682+07:00"
+    },
+    {
+      "id": "f659798ed5e469bb4e2a619b65dbcd14",
+      "title": "Giá xăng E10 giảm về sát 27.000 đồng một lít",
+      "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-15-10-5132689.html",
+      "summary": "Từ 15h hôm nay, giá xăng giảm 730-1.230 đồng, dầu diesel hạ 20 đồng một lít, theo đà biến động của thị trường năng lượng thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T07:52:11+07:00",
+      "fetched": "2026-10-17T05:19:37.948804+07:00"
+    },
+    {
+      "id": "2c12c9dce05ce1ee2bcc1916fba97b27",
+      "title": "Ngư dân cùng thuyền thúng trôi dạt hai ngày trên biển",
+      "link": "https://vnexpress.net/ngu-dan-cung-thuyen-thung-troi-dat-hai-ngay-tren-bien-5132668.html",
+      "summary": "Sau gần hai ngày trôi dạt trên biển, ông Nguyễn Tiến Châu, 56 tuổi, được một tàu cá Quảng Trị phát hiện và đưa vào bờ an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T07:47:19+07:00",
+      "fetched": "2026-10-17T05:19:37.948927+07:00"
+    },
+    {
+      "id": "6faa1761546e51a9b727674c11104268",
+      "title": "Vietnam Post trúng đấu giá đầu số di động 075",
+      "link": "https://vnexpress.net/vietnam-post-trung-dau-gia-dau-so-di-dong-075-5132679.html",
+      "summary": "Vietnam Post trả 2,75 tỷ đồng để sở hữu đầu số di động 075, phục vụ kế hoạch phát triển thuê bao di động dưới thương hiệu Pottel.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T07:46:40+07:00",
+      "fetched": "2026-10-17T05:19:37.949073+07:00"
+    },
+    {
+      "id": "00324681dee4a9bc535d2d9178945ded",
+      "title": "Bịt mặt đi vào khách sạn, bắn hai phát đạn sát hại đồng nghiệp",
+      "link": "https://vnexpress.net/bit-mat-di-vao-khach-san-ban-hai-phat-dan-sat-hai-dong-nghiep-5132698.html",
+      "summary": "Do mâu thuẫn với đồng nghiệp khi làm việc tại Lào, Nguyễn Đình Giang bịt mặt, mang súng vào khách sạn bắn hai phát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T07:41:36+07:00",
+      "fetched": "2026-10-17T05:19:37.949198+07:00"
+    },
+    {
+      "id": "8ddfe97501395777b2db89efbcef3aaf",
+      "title": "Lo ngại về an toàn ở Asian Cup 2027",
+      "link": "https://vnexpress.net/lo-ngai-ve-an-toan-o-asian-cup-2027-5132709.html",
+      "summary": "An toàn cho người tham dự cần được đặt lên hàng đầu là thông điệp từ nhiều liên đoàn, hiệp hội và truyền thông thế giới, liên quan đến bất ổn ở Arab Saudi - nước chủ nhà Asian Cup 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T07:37:50+07:00",
+      "fetched": "2026-10-17T05:19:37.949323+07:00"
+    },
+    {
+      "id": "08d50cbc0e934e513ba986b8f108ebee",
+      "title": "Hai phụ nữ bị lũ cuốn khi đi thăm vườn sầu riêng",
+      "link": "https://vnexpress.net/hai-phu-nu-bi-lu-cuon-khi-di-tham-vuon-sau-rieng-5132653.html",
+      "summary": "Một phụ nữ 48 tuổi bị lũ cuốn mất tích khi lội qua suối ở xã Bảo Lâm 3, người đi cùng bám được cành cây, thoát nạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T07:30:09+07:00",
+      "fetched": "2026-10-17T05:19:37.949443+07:00"
+    },
+    {
+      "id": "cc261c5cc1eba168da31a4249b400039",
+      "title": "Cơ hội nhận iPhone 18 khi mua xăng dầu tích điểm qua app Petrolimex 2.0",
+      "link": "https://vnexpress.net/co-hoi-nhan-iphone-18-khi-mua-xang-dau-tich-diem-qua-app-petrolimex-2-0-5132697.html",
+      "summary": "Người tiêu dùng có cơ hội trúng iPhone 18 Pro Max 512GB, iPad, Apple Watch cùng nhiều quà tặng khác khi mua xăng dầu và tích điểm trên ứng dụng Petrolimex 2.0.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T07:30:00+07:00",
+      "fetched": "2026-10-17T05:19:37.949563+07:00"
+    },
+    {
+      "id": "ad7596bee4f17601d0b44844df14239c",
+      "title": "Độc tố não mô cầu gây hoại tử như thế nào?",
+      "link": "https://vnexpress.net/doc-to-nao-mo-cau-gay-hoai-tu-nhu-the-nao-5132683.html",
+      "summary": "Não mô cầu xâm nhập vào máu, giải phóng nội độc tố kích hoạt hàng loạt phản ứng viêm, rối loạn đông máu dẫn đến hoại tử tay chân và suy đa cơ quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T07:30:00+07:00",
+      "fetched": "2026-10-17T05:19:37.949682+07:00"
     }
   ]
 };
