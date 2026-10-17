@@ -1,6 +1,6 @@
 window.newsData_2026_10_18 = {
   "date": "2026-10-18",
-  "lastUpdated": "2026-10-18T02:51:13.588887+07:00",
+  "lastUpdated": "2026-10-18T04:52:16.228049+07:00",
   "articles": [
     {
       "id": "87e641ad8236094608ceb5d43137a126",
@@ -151,6 +151,36 @@ window.newsData_2026_10_18 = {
       "category": "Tổng hợp",
       "published": "2026-10-18T02:51:06.874991+07:00",
       "fetched": "2026-10-18T02:51:06.875092+07:00"
+    },
+    {
+      "id": "3c3ef11aa4a2d40394a429957be0d56e",
+      "title": "Doanh nghiệp sản xuất ôtô trong nước báo lỗ 15 năm liên tiếp",
+      "link": "https://vnexpress.net/doanh-nghiep-san-xuat-oto-trong-nuoc-bao-lo-15-nam-lien-tiep-5133651.html",
+      "summary": "Ô tô Giải Phóng, doanh nghiệp sản xuất xe hơi trong nước, lỗ ròng 14,6 tỷ đồng sau 9 tháng năm nay, kéo dài chuỗi lợi nhuận âm trong suốt 15 năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-17T21:06:17+07:00",
+      "fetched": "2026-10-18T04:52:13.106732+07:00"
+    },
+    {
+      "id": "a88f57c098bb42362fb2facbb729521f",
+      "title": "Kane lập kỷ lục trong trận thắng 6-1 của Bayern",
+      "link": "https://vnexpress.net/kane-lap-ky-luc-trong-tran-thang-6-1-cua-bayern-5133722.html",
+      "summary": "Harry Kane ghi bàn thứ 102 trong trận thứ 100 tại Bundesliga, phá sâu kỷ lục tồn tại hơn 60 năm, khi Bayern Munich đè bẹp RB Leipzig 6-1 ở vòng sáu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-17T21:04:38+07:00",
+      "fetched": "2026-10-18T04:52:16.223629+07:00"
+    },
+    {
+      "id": "4efbc61cab42ac59570eba24dc4fcdb9",
+      "title": "Vòng đấu của… 'trảm' tướng?",
+      "link": "https://thanhnien.vn/vong-dau-cua-tram-tuong-185261017184720979.htm",
+      "summary": "Nếu thất bại trong hai trận đấu của vòng 4 V-League 2026 - 2027 vào hôm nay, HLV Nguyễn Việt Thắng (CLB TP.Đồng Nai) và HLV Harry Kewell (CLB Hà Nội) có thể khó giữ được ghế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T20:20:00+07:00",
+      "fetched": "2026-10-18T04:52:08.552694+07:00"
     },
     {
       "id": "e65d5835466bef8cfa37ebff0632739e",
