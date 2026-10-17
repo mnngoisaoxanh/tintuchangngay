@@ -1,7 +1,157 @@
 window.newsData_2026_10_17 = {
   "date": "2026-10-17",
-  "lastUpdated": "2026-10-17T20:21:24.658371+07:00",
+  "lastUpdated": "2026-10-17T23:44:48.000678+07:00",
   "articles": [
+    {
+      "id": "e24b2f25f7090317e8249dd95ea04168",
+      "title": "Huy động 1.300 tỉ trồng sâm, bà chủ Tập đoàn Mỹ Hạnh lấy tiền mua đất Phú Quốc, nhà Hà Nội, xe Mercedes",
+      "link": "https://tuoitre.vn/huy-dong-1300-ti-trong-sam-ba-chu-tap-doan-my-hanh-lay-tien-mua-dat-phu-quoc-nha-ha-noi-xe-mercedes-100261017195418219.htm",
+      "summary": "Bà chủ Tập đoàn Mỹ Hạnh bị cáo buộc sử dụng khoảng 125 tỉ đồng để mua, đặt cọc nhiều bất động sản, xe hạng sang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T23:44:39.542031+07:00",
+      "fetched": "2026-10-17T23:44:39.542088+07:00"
+    },
+    {
+      "id": "78b3b3ce7899ed69643b277c5a855044",
+      "title": "Từ núi Ngọc Linh đến dãy Alps: Khi Việt Nam, Thụy Sĩ gần nhau hơn nhờ 'nhịp cầu' thảo dược",
+      "link": "https://tuoitre.vn/tu-nui-ngoc-linh-den-day-alps-khi-viet-nam-thuy-si-gan-nhau-hon-nho-nhip-cau-thao-duoc-100261017191801974.htm",
+      "summary": "Cuộc gặp của bà Ngô Phương Ly - Phu nhân Tổng Bí thư, Chủ tịch nước Tô Lâm - và Phu nhân Tổng thống Thụy Sĩ cho thấy cách thảo dược nối nhịp hợp tác cho hai quốc gia xa nhau vạn dặm về địa lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T23:44:39.541962+07:00",
+      "fetched": "2026-10-17T23:44:39.542020+07:00"
+    },
+    {
+      "id": "8af4d5a8c1234835e7da8e933a10d323",
+      "title": "iPhone gập giá 2.000 USD vừa mở bán đã phải hẹn giao đến năm sau",
+      "link": "https://tuoitre.vn/iphone-gap-gia-2000-usd-vua-mo-ban-da-phai-hen-giao-den-nam-sau-100261017202733349.htm",
+      "summary": "iPhone gập đầu tiên của Apple vừa mở đặt trước đã hút khách vượt kỳ vọng, khiến thời gian giao máy tại một số thị trường lùi đến cuối tháng 1-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T23:44:39.541890+07:00",
+      "fetched": "2026-10-17T23:44:39.541951+07:00"
+    },
+    {
+      "id": "6f4795be060eccc6193c0775379eb470",
+      "title": "Sun Group, Masterise, Đại Quang Minh nói về tiến độ dự án tại TP.HCM, góp sức tăng trưởng 2 con số",
+      "link": "https://tuoitre.vn/sun-group-masterise-dai-quang-minh-noi-ve-tien-do-du-an-tai-tphcm-gop-suc-tang-truong-2-con-so-100261017194229291.htm",
+      "summary": "Các tập đoàn cam kết tiến độ triển khai dự án, kế hoạch giải ngân những tháng cuối năm 2026 và nêu các vướng mắc cần tháo gỡ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T23:44:39.541814+07:00",
+      "fetched": "2026-10-17T23:44:39.541879+07:00"
+    },
+    {
+      "id": "395489908f759a84e22ef5782d8ba002",
+      "title": "Kho cối đá xay bột lưu ký ức nhọc nhằn của một người nông dân miền Tây",
+      "link": "https://tuoitre.vn/kho-coi-da-xay-bot-luu-ky-uc-nhoc-nhan-cua-mot-nguoi-nong-dan-mien-tay-100261017142133365.htm",
+      "summary": "Suốt gần 10 năm, một người nông dân ở Cà Mau miệt mài sưu tầm hàng trăm chiếc cối đá cũ nhằm lưu giữ ký ức nhọc nhằn của cha ông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T23:44:39.541732+07:00",
+      "fetched": "2026-10-17T23:44:39.541802+07:00"
+    },
+    {
+      "id": "f01ba8acc2fc97495bd6fe4189f41096",
+      "title": "Bộ Y tế thông tin về chùm ca nhiễm não mô cầu, một học sinh tử vong tại TP.HCM",
+      "link": "https://tuoitre.vn/bo-y-te-thong-tin-ve-chum-ca-nhiem-nao-mo-cau-mot-hoc-sinh-tu-vong-tai-tphcm-100261017203144627.htm",
+      "summary": "Liên quan đến chùm ca nhiễm não mô cầu tại TP.HCM, Cục Phòng bệnh (Bộ Y tế) cho hay đã lập danh sách toàn bộ người tiếp xúc gần tại trường học và gia đình, giám sát, xét nghiệm phát hiện sớm các trường hợp mắc bệnh và thực hiện theo dõi sức khỏe chặt chẽ trong vòng 10 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T23:44:39.541667+07:00",
+      "fetched": "2026-10-17T23:44:39.541722+07:00"
+    },
+    {
+      "id": "60aea57c7ac9b607ee2b4ab6d3f05e0d",
+      "title": "CLB SHB Đà Nẵng thảm bại khó tin trên sân nhà",
+      "link": "https://tuoitre.vn/clb-shb-da-nang-tham-bai-kho-tin-tren-san-nha-100261017204215258.htm",
+      "summary": "Ghi bàn dẫn trước, nhưng CLB SHB Đà Nẵng đã thua đậm Hải Phòng đến 1-5 ngay trên sân Chi Lăng ở vòng 4 V-League 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T23:44:39.541598+07:00",
+      "fetched": "2026-10-17T23:44:39.541656+07:00"
+    },
+    {
+      "id": "a8c07e0f2a88a12f71354ae30d6f44fb",
+      "title": "Tạm giữ khẩn cấp hai tài xế đánh nhau trên quốc lộ 51",
+      "link": "https://tuoitre.vn/tam-giu-khan-cap-hai-tai-xe-danh-nhau-tren-quoc-lo-51-100261017204721186.htm",
+      "summary": "Sau va quẹt và mâu thuẫn khi lưu thông trên quốc lộ 51, hai tài xế xe đầu kéo dùng ống tuýp, gạch đuổi đánh nhau giữa đường, khiến giao thông qua khu vực ùn tắc cục bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T23:44:39.541529+07:00",
+      "fetched": "2026-10-17T23:44:39.541588+07:00"
+    },
+    {
+      "id": "1f7c0a839e73fac3a18d807e2fcfa4b2",
+      "title": "Iran khẳng định đã gửi cho phía Mỹ kế hoạch mở eo biển Hormuz",
+      "link": "https://tuoitre.vn/iran-khang-dinh-da-gui-cho-phia-my-ke-hoach-mo-eo-bien-hormuz-10026101720503811.htm",
+      "summary": "Ngoại trưởng Iran nói giờ đây việc mở cửa thông thương eo biển Hormuz hay không nằm ở lựa chọn của Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T23:44:39.541460+07:00",
+      "fetched": "2026-10-17T23:44:39.541519+07:00"
+    },
+    {
+      "id": "d79853d664a7c63913804ed8b5847f99",
+      "title": "CLB Hưng Yên đang bất bại ở Giải hạng nhất",
+      "link": "https://tuoitre.vn/clb-hung-yen-dang-bat-bai-o-giai-hang-nhat-100261017183106054.htm",
+      "summary": "Trận hòa trước đội Công An Nhân Dân tối 17-10 giúp CLB Hưng Yên giữ vững ngôi đầu bảng xếp hạng Giải hạng nhất quốc gia 2026 - 2027 sau 3 trận bất bại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T23:44:39.541387+07:00",
+      "fetched": "2026-10-17T23:44:39.541450+07:00"
+    },
+    {
+      "id": "87e641ad8236094608ceb5d43137a126",
+      "title": "Võ sĩ Châu Tuyết Vân, cầu thủ Nguyễn Tiến Linh nói về nỗ lực không bỏ cuộc cùng các bạn trẻ",
+      "link": "https://tuoitre.vn/vo-si-chau-tuyet-van-cau-thu-nguyen-tien-linh-noi-ve-no-luc-khong-bo-cuoc-cung-cac-ban-tre-100261017194513817.htm",
+      "summary": "Chiều tối 17-10, buổi giao lưu giữa nữ vận động viên taekwondo Châu Tuyết Vân và các cầu thủ Tiến Linh, Quốc Cường, Đinh Quang Kiệt cùng thủ môn Lê Giang Patrik với bạn trẻ TP.HCM bùng nổ tại phố đi bộ Nguyễn Huệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T23:44:39.541305+07:00",
+      "fetched": "2026-10-17T23:44:39.541374+07:00"
+    },
+    {
+      "id": "e7c84fb581470503a8157b43ff31ff41",
+      "title": "Kết quả, bảng xếp hạng Giải bóng chuyền nữ quốc gia ngày 17-10",
+      "link": "https://tuoitre.vn/ket-qua-bang-xep-hang-giai-bong-chuyen-nu-quoc-gia-ngay-17-10-100261017211902821.htm",
+      "summary": "Ngày thi đấu 17-10 của Giải bóng chuyền nữ vô địch quốc gia 2026 tiếp tục chứng kiến sự thay đổi trên bảng xếp hạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T23:44:39.541227+07:00",
+      "fetched": "2026-10-17T23:44:39.541294+07:00"
+    },
+    {
+      "id": "b82c94afe146a3b6b8856dedb10aa291",
+      "title": "Giáo hoàng Leo XIV xuất viện sau phẫu thuật ung thư phổi",
+      "link": "https://tuoitre.vn/giao-hoang-leo-xiv-xuat-vien-sau-phau-thuat-ung-thu-phoi-100261017212851037.htm",
+      "summary": "Giáo hoàng Leo XIV đã xuất viện sau ca phẫu thuật ung thư phổi, và dự kiến trở lại hoạt động công khai vào ngày 18-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T23:44:39.541128+07:00",
+      "fetched": "2026-10-17T23:44:39.541214+07:00"
+    },
+    {
+      "id": "c4a6149604776b9e22511b1963b589f1",
+      "title": "Vượt qua 'người anh em', CLB Thép Cần Thơ thắng trận đầu tiên",
+      "link": "https://tuoitre.vn/vuot-qua-nguoi-anh-em-clb-thep-can-tho-thang-tran-dau-tien-100261017194226465.htm",
+      "summary": "CLB Thép Cần Thơ đã có trận thắng đầu tiên ở Giải hạng nhất 2026-2027 khi hạ Xuân Thiện Phú Thọ 2-0 ở vòng 3. Đáng chú ý, đây là 2 đội bóng có chung nhà tài trợ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T23:44:39.541043+07:00",
+      "fetched": "2026-10-17T23:44:39.541116+07:00"
+    },
+    {
+      "id": "a61579839db0354ffe028a1763078d25",
+      "title": "Triển lãm Mẹ Là _Mother Installation: 'cây roi mây' và 'chiến binh'",
+      "link": "https://tuoitre.vn/trien-lam-me-la-mother-installation-cay-roi-may-va-chien-binh-100261017151935186.htm",
+      "summary": "Triển lãm sắp đặt Mẹ Là _Mother Installation tại EMGallery (EMG) gợi lên nhiều những định nghĩa về mẹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T23:44:39.540873+07:00",
+      "fetched": "2026-10-17T23:44:39.541027+07:00"
+    },
     {
       "id": "f960cac2e2d4c93e1e0800151db8d64d",
       "title": "Đại sứ Pháp: Doanh nghiệp Pháp thấy nhiều cơ hội đầu tư lớn tại Việt Nam",
@@ -151,6 +301,106 @@ window.newsData_2026_10_17 = {
       "category": "Tổng hợp",
       "published": "2026-10-17T20:21:17.937888+07:00",
       "fetched": "2026-10-17T20:21:17.938025+07:00"
+    },
+    {
+      "id": "1b203176206852401a8b751a5b152733",
+      "title": "Liverpool thắng ngược Brentford khi hơn hai người",
+      "link": "https://vnexpress.net/liverpool-thang-nguoc-brentford-khi-hon-hai-nguoi-5133702.html",
+      "summary": "Bị dẫn trước nhưng nhờ chơi hơn người, Liverpool thắng chủ nhà Brentford 2-1 ở vòng 7 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-17T16:06:32+07:00",
+      "fetched": "2026-10-17T23:44:47.991083+07:00"
+    },
+    {
+      "id": "2ff491efac3a6da32fa66e0259c9e2c2",
+      "title": "Mua - bán vàng từ 5 triệu trở lên phải thanh toán không dùng tiền mặt",
+      "link": "https://thanhnien.vn/mua-ban-vang-tu-5-trieu-tro-len-phai-thanh-toan-khong-dung-tien-mat-185261017223018428.htm",
+      "summary": "Từ ngày 16.10, khi thanh toán mua - bán vàng có giá trị từ 5 triệu đồng trong ngày trở lên, khách hàng phải thực hiện bằng phương tiện thanh toán không dùng tiền mặt thay vì ngưỡng 20 triệu đồng như trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T15:59:00+07:00",
+      "fetched": "2026-10-17T23:44:37.182732+07:00"
+    },
+    {
+      "id": "93dd9c3ce53187b60c62d523823f1a88",
+      "title": "Việt Nam - Thụy Sĩ đẩy mạnh hợp tác blockchain, AI và công nghệ lượng tử",
+      "link": "https://thanhnien.vn/viet-nam-thuy-si-day-manh-hop-tac-blockchain-ai-va-cong-nghe-luong-tu-185261017223655928.htm",
+      "summary": "Chiều 17.10, tại trụ sở Chính phủ, Thủ tướng Lê Minh Hưng đã hội kiến Tổng thống Thụy Sĩ Guy Parmelin trong khuôn khổ chuyến thăm chính thức Việt Nam của Tổng thống Thụy Sĩ và phu nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T15:56:00+07:00",
+      "fetched": "2026-10-17T23:44:37.182903+07:00"
+    },
+    {
+      "id": "38b8d85307df8eb9064d5afcb2510a36",
+      "title": "Sao bóng chuyền Thái Lan nêu lý do thi đấu chưa thành công tại Việt Nam",
+      "link": "https://thanhnien.vn/sao-bong-chuyen-thai-lan-neu-ly-do-thi-dau-chua-thanh-cong-tai-viet-nam-185261017224133535.htm",
+      "summary": "Được kỳ vọng lớn nhưng ngôi sao bóng chuyền Thái Lan Sasipaporn Janthawisut chưa mang lại thành công cho CLB Thanh Hóa tại giai đoạn 2 và vòng chung kết giải bóng chuyền nữ vô địch quốc gia 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T15:45:00+07:00",
+      "fetched": "2026-10-17T23:44:37.183061+07:00"
+    },
+    {
+      "id": "81ab388b12ad2c4bc580661ef0f4dadf",
+      "title": "Chính phủ muốn nới điều kiện IPO",
+      "link": "https://vnexpress.net/chinh-phu-muon-noi-dieu-kien-ipo-5133658.html",
+      "summary": "Chính phủ đề xuất giảm một số điều kiện chào bán cổ phiếu lần đầu ra công chúng (IPO) khi sửa đổi Luật Chứng khoán.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-17T15:39:42+07:00",
+      "fetched": "2026-10-17T23:44:43.550549+07:00"
+    },
+    {
+      "id": "a4cb98a46237089bae1592cef2739463",
+      "title": "Chelsea vào top 4 trong ngày thủ môn nhập viện",
+      "link": "https://vnexpress.net/chelsea-vao-top-4-trong-ngay-thu-mon-nhap-vien-5133697.html",
+      "summary": "Chelsea thắng Everton 2-0 ở vòng bảy Ngoại hạng Anh, nhưng thủ môn Emiliano Martinez phải rời sân bằng cáng vì chấn thương đầu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-17T15:33:11+07:00",
+      "fetched": "2026-10-17T23:44:47.991312+07:00"
+    },
+    {
+      "id": "adc9ca74810b5e8e433215928d97875e",
+      "title": "Tôn vinh 225 tổ chức, cá nhân đóng góp cho công tác an sinh xã hội",
+      "link": "https://thanhnien.vn/ton-vinh-225-to-chuc-ca-nhan-dong-gop-cho-cong-tac-an-sinh-xa-hoi-185261017162603571.htm",
+      "summary": "Tại chương trình phát động Tháng cao điểm 'Vì người nghèo' năm 2026, Ủy ban T.Ư Mặt trận Tổ quốc Việt Nam đã tôn vinh 225 tổ chức, cá nhân có nhiều đóng góp cho công tác an sinh xã hội giai đoạn 2024 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T15:26:00+07:00",
+      "fetched": "2026-10-17T23:44:37.183249+07:00"
+    },
+    {
+      "id": "5cc41df05d0bde5cc9acdd9719eb3b80",
+      "title": "3 nhà sáng tạo nội dung 'kể chuyện Việt Nam' qua hành trình xuyên Việt",
+      "link": "https://thanhnien.vn/thoi-trang-tre/3-nha-sang-tao-noi-dung-ke-chuyen-viet-nam-qua-hanh-trinh-xuyen-viet-185261017171633645.htm",
+      "summary": "Từ những đồi cát miền Trung, vịnh biển miền Bắc đến nhịp sống ẩm thực Phú Quốc, hành trình xuyên Việt của 3 nhà sáng tạo nội dung mở ra những góc nhìn về cảnh sắc, văn hóa và đời sống bản địa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T15:23:00+07:00",
+      "fetched": "2026-10-17T23:44:37.183407+07:00"
+    },
+    {
+      "id": "79cfc7cc2c5c29c8aabafbe0dc51e8d7",
+      "title": "Chủ tịch Vietcombank cam kết giảm tối thiểu 2% lãi suất cho vay",
+      "link": "https://vnexpress.net/chu-tich-vietcombank-cam-ket-giam-toi-thieu-2-lai-suat-cho-vay-5133686.html",
+      "summary": "Chủ tịch Vietcombank Nguyễn Thanh Tùng cho biết ngân hàng này cam kết từ nay đến cuối năm giảm tối thiểu 2% lãi suất cho vay để hỗ trợ doanh nghiệp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-17T15:19:03+07:00",
+      "fetched": "2026-10-17T23:44:43.550723+07:00"
+    },
+    {
+      "id": "65e5af962ffefb1c22bd8cbda247039e",
+      "title": "Phu nhân Tổng thống Thụy Sĩ mặc áo dài, thưởng trà cùng phu nhân Tổng Bí thư, Chủ tịch nước",
+      "link": "https://vnexpress.net/phu-nhan-tong-thong-thuy-si-mac-ao-dai-thuong-tra-cung-phu-nhan-tong-bi-thu-chu-tich-nuoc-5133689.html",
+      "summary": "Bà Ngô Phương Ly, phu nhân Tổng Bí thư, Chủ tịch nước Tô Lâm, và bà Caroline Parmelin, phu nhân Tổng thống Thụy Sĩ, cùng thưởng trà, tìm hiểu về y học cổ truyền khi thăm Trường Đại học Dược Hà Nội.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-17T15:14:58+07:00",
+      "fetched": "2026-10-17T23:44:41.374351+07:00"
     },
     {
       "id": "d0bff6b285b0c2230f7d56006df4fe8d",
@@ -303,6 +553,136 @@ window.newsData_2026_10_17 = {
       "fetched": "2026-10-17T15:07:51.372775+07:00"
     },
     {
+      "id": "eec0b09b1c55bf10daa2ca205eb118d3",
+      "title": "Phu nhân Tổng Bí thư, Chủ tịch nước Tô Lâm và phu nhân Tổng thống Thụy Sĩ thăm Trường ĐH Dược Hà Nội",
+      "link": "https://thanhnien.vn/phu-nhan-tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-tong-thong-thuy-si-tham-truong-dh-duoc-ha-noi-185261017212257038.htm",
+      "summary": "Trong khuôn khổ chuyến thăm chính thức Việt Nam của Tổng thống Thụy Sĩ Guy Parmelin và phu nhân, chiều 17.10, bà Ngô Phương Ly, phu nhân Tổng Bí thư, Chủ tịch nước Tô Lâm và bà Caroline Parmelin, phu nhân Tổng thống Thụy Sĩ Guy Parmelin đã cùng thăm Trường đại học Dược Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T14:47:00+07:00",
+      "fetched": "2026-10-17T23:44:37.183559+07:00"
+    },
+    {
+      "id": "a41b0f3859262a3770e7b12ab8ab10bf",
+      "title": "Công an TP.HCM tạm giữ 2 tài xế rượt đuổi, đánh nhau trên quốc lộ 51",
+      "link": "https://thanhnien.vn/cong-an-tphcm-tam-giu-2-tai-xe-ruot-duoi-danh-nhau-tren-quoc-lo-51-185261017202131268.htm",
+      "summary": "Sau va quệt giao thông, 2 tài xế xe đầu kéo rượt đuổi, đánh nhau ngay trên quốc lộ 51, gây ùn tắc giao thông cục bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T14:35:00+07:00",
+      "fetched": "2026-10-17T23:44:37.183706+07:00"
+    },
+    {
+      "id": "d0f833a58fdb1c2d66f87abd8455529f",
+      "title": "CSGT Đà Nẵng xác minh nhóm 6 phụ nữ ngồi giữa đường đèo Hải Vân chụp ảnh",
+      "link": "https://thanhnien.vn/csgt-da-nang-xac-minh-nhom-6-phu-nu-ngoi-giua-duong-deo-hai-van-chup-anh-185261017211145648.htm",
+      "summary": "Nhóm 6 phụ nữ ngồi bệt giữa khúc cua tay áo trên đèo Hải Vân, để chụp ảnh trong lúc ô tô, xe máy đang lưu thông qua lại, khiến nhiều người rất bức xúc, lo ngại về nguy cơ mất an toàn giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T14:30:00+07:00",
+      "fetched": "2026-10-17T23:44:37.183861+07:00"
+    },
+    {
+      "id": "08704eece3da1b2921d25b2afe361d23",
+      "title": "Bùi Tiến Dũng để thủng lưới 8 bàn sau hai trận V-League",
+      "link": "https://vnexpress.net/bui-tien-dung-de-thung-luoi-8-ban-sau-hai-tran-v-league-5133687.html",
+      "summary": "Thua Hải Phòng 1-5 ở vòng 4 V-League 2026-2027 là thất bại nặng nề thứ hai liên tiếp của thủ thành Bùi Tiến Dũng cùng Đà Nẵng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-17T14:28:18+07:00",
+      "fetched": "2026-10-17T23:44:47.991482+07:00"
+    },
+    {
+      "id": "de1f6a7f96f18f42f1b35525118f7098",
+      "title": "Sau tuổi 50, huyết áp bao nhiêu thì tăng nguy cơ đột quỵ?",
+      "link": "https://thanhnien.vn/sau-tuoi-50-huyet-ap-bao-nhieu-thi-tang-nguy-co-dot-quy-185261017191233514.htm",
+      "summary": "Khi tuổi tác tăng lên, mạch máu dần mất tính đàn hồi. Điều này khiến nhiều người sau tuổi 50 bắt đầu gặp các vấn đề như huyết áp cao, suy tim và đột quỵ. Trong đó, huyết áp cao là yếu tố có thể kiểm soát được.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T14:23:00+07:00",
+      "fetched": "2026-10-17T23:44:37.184014+07:00"
+    },
+    {
+      "id": "0acd4485acf01bad14b268cb8baf058c",
+      "title": "Thông tin mới nhất về sức khỏe 2 bệnh nhân mắc não mô cầu ở TP.HCM",
+      "link": "https://thanhnien.vn/thong-tin-moi-nhat-ve-suc-khoe-2-benh-nhan-mac-nao-mo-cau-o-tphcm-185261017205054414.htm",
+      "summary": "Tối 17.10, Cục Phòng bệnh (Bộ Y tế) có công văn khẩn thông tin về sức khỏe 2 bệnh nhân trong chùm ca bệnh não mô cầu tại TP.HCM; đồng thời khuyến cáo người dân tuyệt đối không tự sử dụng kháng sinh đại trà để dự phòng não mô cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T14:07:00+07:00",
+      "fetched": "2026-10-17T23:44:37.184163+07:00"
+    },
+    {
+      "id": "bacedbd08853742bfe893a6cc5b9fb8b",
+      "title": "TP.HCM triển khai nhiều hoạt động hỗ trợ an sinh xã hội cho người dân",
+      "link": "https://thanhnien.vn/tphcm-trien-khai-nhieu-hoat-dong-ho-tro-an-sinh-xa-hoi-cho-nguoi-dan-185261017204427737.htm",
+      "summary": "Hưởng ứng tháng cao điểm 'Vì người nghèo' năm 2026, TP.HCM triển khai các hoạt động an sinh xã hội như hỗ trợ nhà ở, học tập, chăm sóc sức khỏe và sinh kế cho người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T14:03:00+07:00",
+      "fetched": "2026-10-17T23:44:37.184344+07:00"
+    },
+    {
+      "id": "1570f3c023f36209c80bd4e8ea68ed98",
+      "title": "Học sinh Quảng Trị tìm hướng đi nghề nghiệp, cơ hội du học Đức",
+      "link": "https://thanhnien.vn/hoc-sinh-quang-tri-tim-huong-di-nghe-nghiep-co-hoi-du-hoc-duc-185261017182024777.htm",
+      "summary": "Trước những biến động của thị trường lao động, hội thảo định hướng nghề nghiệp tại Quảng Trị giúp học sinh, phụ huynh tìm hiểu mô hình đào tạo nghề kép và cơ hội việc làm tại CHLB Đức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T14:01:00+07:00",
+      "fetched": "2026-10-17T23:44:37.184494+07:00"
+    },
+    {
+      "id": "95f71aec691bd452146cfb57a4a88209",
+      "title": "Mua bán vàng từ 5 triệu đồng một ngày phải thanh toán không tiền mặt",
+      "link": "https://vnexpress.net/mua-ban-vang-tu-5-trieu-dong-mot-ngay-phai-thanh-toan-khong-tien-mat-5133676.html",
+      "summary": "Từ 16/10, khách hàng mua, bán vàng có giá trị từ 5 triệu đồng trong ngày phải thanh toán không dùng tiền mặt, thay vì ngưỡng 20 triệu đồng như trước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-17T14:00:57+07:00",
+      "fetched": "2026-10-17T23:44:43.550886+07:00"
+    },
+    {
+      "id": "2d057752ae91d68b45a27818fd5d09b5",
+      "title": "Ba dịch vụ của VNPT đạt Thương hiệu quốc gia Việt Nam năm 2026",
+      "link": "https://thanhnien.vn/ba-dich-vu-cua-vnpt-dat-thuong-hieu-quoc-gia-viet-nam-nam-2026-185261017203519702.htm",
+      "summary": "Tại lễ công bố sản phẩm đạt Thương hiệu quốc gia Việt Nam năm 2026 diễn ra ngày 16.10 ở Trung tâm Hội nghị Quốc gia, 3 dịch vụ VinaPhone 5G, Internet VNPT và VNPT E-Learning được vinh danh, ghi nhận những đóng góp của VNPT trong phát triển công nghệ số, nâng cao chất lượng cuộc sống và năng lực cạnh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T13:59:00+07:00",
+      "fetched": "2026-10-17T23:44:37.184642+07:00"
+    },
+    {
+      "id": "d7d8d51426d118a961dbef356e991f74",
+      "title": "Đụng độ giữa người biểu tình với cảnh sát trên khắp nước Pháp",
+      "link": "https://thanhnien.vn/dung-do-giua-nguoi-bieu-tinh-voi-canh-sat-tren-khap-nuoc-phap-185261017201815739.htm",
+      "summary": "Hôm 17.10, trong lúc tham gia các cuộc tuần hành trên khắp nước Pháp nhằm phản đối giá cả leo thang, những người biểu tình đã đụng độ với cảnh sát tại Paris và tại nhiều thành phố khác của Pháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T13:52:00+07:00",
+      "fetched": "2026-10-17T23:44:37.184789+07:00"
+    },
+    {
+      "id": "38d43df1255fbeb48c893ba238f26b6a",
+      "title": "Highlight CLB Hà Tĩnh 2-2 SLNA: Rượt đuổi 4 bàn, SLNA lỡ cơ hội chiếm ngôi đầu",
+      "link": "https://thanhnien.vn/highlight-clb-ha-tinh-2-2-slna-ruot-duoi-4-ban-slna-lo-co-hoi-chiem-ngoi-dau-185261017204939258.htm",
+      "summary": "SLNA dẫn trước 2-0 nhờ các bàn thắng của Nguyễn Quang Vinh và Luiz Viera, nhưng CLB Hà Tĩnh gỡ hòa 2-2 với các pha lập công của Bùi Duy Thường và Daniel Da Silva. Trận hòa ở vòng 4 V-League 2026-2027 tối 17.10 khiến SLNA lỡ cơ hội vượt CLB Công an Hà Nội để chiếm ngôi đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T13:51:00+07:00",
+      "fetched": "2026-10-17T23:44:37.184942+07:00"
+    },
+    {
+      "id": "96cfaae9c90177158e8556c6a8514db7",
+      "title": "Thụy Sĩ mời Việt Nam tham gia sáng kiến về đối tác tương lai vì đầu tư, thương mại",
+      "link": "https://vnexpress.net/thuy-si-moi-viet-nam-tham-gia-sang-kien-ve-doi-tac-tuong-lai-vi-dau-tu-thuong-mai-5133673.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Thụy Sĩ Guy Parmelin, đề cao hợp tác song phương, đặc biệt là về thương mại, đầu tư, phát triển tài chính số.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-17T13:37:11+07:00",
+      "fetched": "2026-10-17T23:44:41.374528+07:00"
+    },
+    {
       "id": "3a98e17fe3ffb4ba15eff9d3628490b6",
       "title": "Lộ diện những nhà vô địch đầu tiên của BULBAL MAKE YOUR NAME 2026",
       "link": "https://thanhnien.vn/lo-dien-nhung-nha-vo-dich-dau-tien-cua-bulbal-make-your-name-2026-185261017193540156.htm",
@@ -361,6 +741,16 @@ window.newsData_2026_10_17 = {
       "category": "Tổng hợp",
       "published": "2026-10-17T12:58:00+07:00",
       "fetched": "2026-10-17T20:21:08.827203+07:00"
+    },
+    {
+      "id": "09ed43960cf4022e5b4db2ee1ccaf3b5",
+      "title": "Trung Quốc cảnh báo quan tham sẽ 'không chốn dung thân'",
+      "link": "https://vnexpress.net/trung-quoc-canh-bao-quan-tham-se-khong-chon-dung-than-5133664.html",
+      "summary": "Ủy ban Kiểm tra Kỷ luật Trung ương Trung Quốc tuyên bố sẽ \"không có chốn dung thân\" nào cho các quan chức tham nhũng, dù họ quyền cao đến đâu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-17T12:57:21+07:00",
+      "fetched": "2026-10-17T23:44:41.374692+07:00"
     },
     {
       "id": "7519a047083a743f4dc0e5350f17a23c",
