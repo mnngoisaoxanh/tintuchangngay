@@ -1,7 +1,157 @@
 window.newsData_2026_10_18 = {
   "date": "2026-10-18",
-  "lastUpdated": "2026-10-18T15:25:13.484840+07:00",
+  "lastUpdated": "2026-10-18T20:40:21.195373+07:00",
   "articles": [
+    {
+      "id": "5210cc4324350dd59589c1096a4593c9",
+      "title": "Triton Crown thu hút hơn 400 khách hàng trong đợt mở bán đầu tiên",
+      "link": "https://tuoitre.vn/triton-crown-thu-hut-hon-400-khach-hang-trong-dot-mo-ban-dau-tien-100261018193332629.htm",
+      "summary": "Sáng 18-10, Công ty TNHH Phát triển Phú Mỹ Hưng tổ chức mở bán đợt đầu tiên dự án căn hộ Triton Crown tại TP.HCM. Sự kiện thu hút hơn 400 khách hàng tham dự rút thăm xác định thứ tự lựa chọn căn hộ tại tòa A.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T20:40:13.318999+07:00",
+      "fetched": "2026-10-18T20:40:13.319057+07:00"
+    },
+    {
+      "id": "eb6d19256012b88c4909ac299d0a03ff",
+      "title": "Nguy cơ 42.000 hộ thiếu nước mùa khô, Đắk Lắk yêu cầu chủ động từ sớm, từ xa",
+      "link": "https://tuoitre.vn/nguy-co-42000-ho-thieu-nuoc-mua-kho-dak-lak-yeu-cau-chu-dong-tu-som-tu-xa-100261018182759447.htm",
+      "summary": "Chiều 18-10, UBND tỉnh Đắk Lắk tổ chức họp trực tuyến với 68 xã, phường phía Tây về công tác phòng, chống hạn hán, thiếu nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T20:40:13.318932+07:00",
+      "fetched": "2026-10-18T20:40:13.318989+07:00"
+    },
+    {
+      "id": "f2ac30609d207065ec2360923aa65e3f",
+      "title": "Cháy lớn tại căn cứ quân sự Canada, người bị thương nặng phải chuyển viện xa 180km",
+      "link": "https://tuoitre.vn/chay-lon-tai-can-cu-quan-su-canada-nguoi-thuong-nang-phai-chuyen-vien-xa-180km-100261018190238902.htm",
+      "summary": "Căn cứ quân sự Wainwright ở Canada cháy lớn đến mức hệ thống y tế lân cận quá tải, nhiều bệnh nhân phải được chuyển đi xa tận 180km mới được cấp cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T20:40:13.318865+07:00",
+      "fetched": "2026-10-18T20:40:13.318922+07:00"
+    },
+    {
+      "id": "01bdefc6bca129a5e0fa2b6c31e58ce6",
+      "title": "Dư địa văn hóa Việt Nam rất rộng, nhưng một concert bùng nổ rồi sau đó còn lại gì?",
+      "link": "https://tuoitre.vn/du-dia-van-hoa-viet-nam-rat-rong-nhung-mot-concert-bung-no-roi-sau-do-con-lai-gi-100261018190038971.htm",
+      "summary": "Công nghiệp văn hóa Việt Nam mới làm tốt ở khía cạnh ‘nền kinh tế chú ý’ nhưng chưa phát triển mạnh ở ‘kinh tế cảm xúc’, có điều tiềm năng thị trường đang rất rộng lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T20:40:13.318795+07:00",
+      "fetched": "2026-10-18T20:40:13.318854+07:00"
+    },
+    {
+      "id": "e9694e1b43e1ad34900b8bb66f1910e2",
+      "title": "Hơn 18h, đoàn lai dắt vòm thép 3.400 tấn dừng nghỉ tại cầu phao ở Cần Giờ an toàn",
+      "link": "https://tuoitre.vn/hon-18h-doan-lai-dat-vom-thep-3400-tan-dung-nghi-tai-cau-phao-o-can-gio-an-toan-100261018184758372.htm",
+      "summary": "Hơn 18h, đoàn lai dắt vòm thép cầu đi bộ 3.400 tấn đã an toàn cập vào cầu phao SR05 trên luồng Soài Rạp (xã An Thới Đông, khu vực Cần Giờ) sau hơn 12 tiếng liên tục vượt sóng, vượt sông về trung tâm TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T20:40:13.318723+07:00",
+      "fetched": "2026-10-18T20:40:13.318784+07:00"
+    },
+    {
+      "id": "d6f3f29fa0a267d48574f36b044fb578",
+      "title": "Truyền thông quốc tế: 'Việt Nam sẽ làm thay đổi bảng xếp hạng sân vận động thế giới'",
+      "link": "https://tuoitre.vn/truyen-thong-quoc-te-viet-nam-se-lam-thay-doi-bang-xep-hang-san-van-dong-the-gioi-100261018183542668.htm",
+      "summary": "Báo Newsis của Hàn Quốc đăng tải bài viết bình luận về sân vận động VinFast - Trống Đồng của Việt Nam đang được xây dựng tại khu đô thị thể thao quốc tế Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T20:40:13.318628+07:00",
+      "fetched": "2026-10-18T20:40:13.318709+07:00"
+    },
+    {
+      "id": "7cda7f53bafad5a9f31288df7c34686c",
+      "title": "Sản phẩm Cholimex Food đạt chứng nhận Thương hiệu Quốc gia Việt Nam 2026",
+      "link": "https://tuoitre.vn/san-pham-cholimex-food-dat-chung-nhan-thuong-hieu-quoc-gia-viet-nam-2026-100261018152755301.htm",
+      "summary": "Ngày 16-10, tại Lễ công bố Thương hiệu Quốc gia Việt Nam năm 2026, Công ty Cổ phần Thực phẩm Cholimex - Cholimex Food tiếp tục đạt chứng nhận lần thứ tư Thương hiệu Quốc gia Việt Nam với 2 nhóm sản phẩm chủ lực: xốt, gia vị, nước chấm & thực phẩm đông lạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T20:40:13.318558+07:00",
+      "fetched": "2026-10-18T20:40:13.318618+07:00"
+    },
+    {
+      "id": "cb178b8de04ebc0d94fc9649df8ebea6",
+      "title": "Thêm Agribank nhập cuộc giảm lãi suất cho vay từ ngày mai, 19-10",
+      "link": "https://tuoitre.vn/them-agribank-nhap-cuoc-giam-lai-suat-cho-vay-tu-ngay-mai-19-10-100261018190813162.htm",
+      "summary": "Sau BIDV và Vietcombank, tối 18-10, Agribank công bố dành khoảng 2.000 tỉ đồng nhằm chia sẻ chi phí vốn hỗ trợ người dân và doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T20:40:13.318490+07:00",
+      "fetched": "2026-10-18T20:40:13.318548+07:00"
+    },
+    {
+      "id": "3f12fdd3ef7799c9366e37a95fc02ad9",
+      "title": "6 phụ nữ ngồi bệt ở khúc cua ‘tử thần’ trên đèo Hải Vân để chụp ảnh: Mức phạt có đủ sức răn đe?",
+      "link": "https://tuoitre.vn/6-phu-nu-ngoi-bet-o-khuc-cua-tu-than-tren-deo-hai-van-de-chup-anh-muc-phat-co-du-suc-ran-de-10026101819150365.htm",
+      "summary": "Câu chuyện 6 phụ nữ ngồi bệt giữa khúc cua nguy hiểm trên đèo Hải Vân để tạo dáng chụp ảnh, bị xử phạt tổng cộng 1,5 triệu đồng, đang nhận được nhiều ý kiến từ bạn đọc. Nhiều người cho rằng hành vi này quá nguy hiểm, trong khi mức phạt còn nhẹ, chưa đủ sức răn đe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T20:40:13.318425+07:00",
+      "fetched": "2026-10-18T20:40:13.318480+07:00"
+    },
+    {
+      "id": "e828a512e408581c2ee411ec470f5214",
+      "title": "CLB TP.HCM I kém vui trong ngày nhận Cúp vô địch bóng đá nữ quốc gia",
+      "link": "https://tuoitre.vn/clb-tphcm-i-kem-vui-trong-ngay-nhan-cup-vo-dich-bong-da-nu-quoc-gia-10026101819053134.htm",
+      "summary": "CLB TP.HCM I đã thua Thái Nguyên T&T 1-2 trong ngày nhận Cúp vô địch Giải bóng đá nữ vô địch quốc gia - Cúp Thái Sơn Bắc 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T20:40:13.318341+07:00",
+      "fetched": "2026-10-18T20:40:13.318414+07:00"
+    },
+    {
+      "id": "97ad7a3d082146bbea7317c49dcd1121",
+      "title": "Thủ tướng Liechtenstein ăn kem Tràng Tiền, dạo bộ hồ Gươm",
+      "link": "https://tuoitre.vn/thu-tuong-liechtenstein-an-kem-trang-tien-dao-bo-ho-guom-100261018185844466.htm",
+      "summary": "Thủ tướng Công quốc Liechtenstein Brigitte Haas ấn tượng với hồ Gươm và thích thú khi thưởng thức kem Tràng Tiền trong chuyến dạo bộ chiều 18-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T20:40:13.318265+07:00",
+      "fetched": "2026-10-18T20:40:13.318329+07:00"
+    },
+    {
+      "id": "9b24943ae898624e7342e58d9c95e173",
+      "title": "Ông Nguyễn Duy Ngọc: Vị trí việc làm không được dựa trên số lượng biên chế đang có",
+      "link": "https://tuoitre.vn/ong-nguyen-duy-ngoc-vi-tri-viec-lam-khong-duoc-dua-tren-so-luong-bien-che-dang-co-100261018190149335.htm",
+      "summary": "Trưởng Ban Tổ chức Trung ương Nguyễn Duy Ngọc nêu rõ việc xác định vị trí việc làm không được dựa trên số lượng biên chế đang có mà phải xuất phát từ chức năng, nhiệm vụ thực tế của từng cấp, từng khối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T20:40:13.318191+07:00",
+      "fetched": "2026-10-18T20:40:13.318254+07:00"
+    },
+    {
+      "id": "f86f6bb901908d45b2fee6bf46537dab",
+      "title": "Việt Nam - Liechtenstein chia sẻ kinh nghiệm về quỹ đầu tư, hoạt động ngân hàng, tài chính xanh",
+      "link": "https://tuoitre.vn/viet-nam-liechtenstein-chia-se-kinh-nghiem-ve-quy-dau-tu-hoat-dong-ngan-hang-tai-chinh-xanh-100261018195048365.htm",
+      "summary": "Thủ tướng Lê Minh Hưng đề nghị Liechtenstein tăng cường chia sẻ kinh nghiệm với Việt Nam về phát triển và quản lý các quỹ đầu tư, hoạt động ngân hàng, tài chính xanh, thị trường vốn và quản lý tài sản quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T20:40:13.318113+07:00",
+      "fetched": "2026-10-18T20:40:13.318179+07:00"
+    },
+    {
+      "id": "576cb9f389748cdb6ed1b5bfa2b1aa1a",
+      "title": "Chủ tịch Petrovietnam, Petrolimex kể 'hậu trường' cung ứng 25 triệu thùng dầu, giảm giá xăng dầu cho người dân",
+      "link": "https://tuoitre.vn/chu-tich-petrovietnam-petrolimex-ke-hau-truong-cung-ung-25-trieu-thung-dau-giam-gia-xang-dau-cho-nguoi-dan-100261018185301075.htm",
+      "summary": "Việc tìm kiếm nguồn cung xăng dầu trong bối cảnh chiến sự diễn ra căng thẳng và chính sách giảm thuế đã giúp đảm bảo cung cầu và bình ổn giá cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T20:40:13.318019+07:00",
+      "fetched": "2026-10-18T20:40:13.318101+07:00"
+    },
+    {
+      "id": "a1f7c8dcbdea4574756a7273cb63e775",
+      "title": "Hoàng Anh Gia Lai thua Ninh Bình dù chơi hơn người trong phần lớn trận đấu",
+      "link": "https://tuoitre.vn/hoang-anh-gia-lai-thua-ninh-binh-du-choi-hon-nguoi-trong-phan-lon-tran-dau-100261018200152908.htm",
+      "summary": "Tối 18-10 tại Ninh Bình, Hoàng Anh Gia Lai thất thủ trước CLB Ninh Bình với tỉ số 3-4, sau cuộc rượt đuổi tỉ số không tưởng với 2 tấm thẻ đỏ ở vòng 4 LPBank V-League 2026 - 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T20:40:13.317849+07:00",
+      "fetched": "2026-10-18T20:40:13.318001+07:00"
+    },
     {
       "id": "2036ff4eaa04aa1976a0b5b45c381d70",
       "title": "Đà Nẵng bàn chuyện giữ chân khách du lịch trong ngày hội hơn 500 đối tác",
@@ -151,6 +301,256 @@ window.newsData_2026_10_18 = {
       "category": "Tổng hợp",
       "published": "2026-10-18T15:25:05.829191+07:00",
       "fetched": "2026-10-18T15:25:05.829378+07:00"
+    },
+    {
+      "id": "6e009d2080aee97382c0f2a33395f882",
+      "title": "Cục CSGT đề xuất xử phạt vi phạm giao thông toàn trình qua VNeTraffic",
+      "link": "https://thanhnien.vn/cuc-csgt-de-xuat-xu-phat-vi-pham-giao-thong-toan-trinh-qua-vnetraffic-185261018202509638.htm",
+      "summary": "Từ thông báo vi phạm đến nộp phạt thời gian tới dự kiến sẽ được thực hiện qua ứng dụng VNeTraffic do Bộ Công an cung cấp. Qua đó, người vi phạm không phải tới trụ sở CSGT để giải quyết, giúp giảm thời gian và chi phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T13:33:00+07:00",
+      "fetched": "2026-10-18T20:40:11.480895+07:00"
+    },
+    {
+      "id": "049cab2c9a4d87432e323ce038f2e21d",
+      "title": "CLB TP.Đồng Nai hòa nghẹt thở Bắc Ninh: Kiếm được 1 điểm nhưng vẫn chưa biết ghi bàn tại V-League",
+      "link": "https://thanhnien.vn/clb-tpdong-nai-hoa-nghet-tho-bac-ninh-kiem-duoc-1-diem-nhung-van-chua-biet-ghi-ban-tai-v-league-185261018182732396.htm",
+      "summary": "CLB TP.Đồng Nai chia điểm thành công trước CLB Bắc Ninh ở vòng 4 V-League 2026-2027 diễn ra hôm nay trên sân Việt Yên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T13:10:00+07:00",
+      "fetched": "2026-10-18T20:40:11.481077+07:00"
+    },
+    {
+      "id": "63645073679109acdb18317e902a00aa",
+      "title": "Hoàng Đức cực hay, Ninh Bình FC thắng HAGL 4-3 trong cuộc đua tỷ số điên rồ với 2 thẻ đỏ",
+      "link": "https://thanhnien.vn/hoang-duc-cuc-hay-ninh-binh-fc-thang-hagl-4-3-trong-cuoc-dua-ty-so-dien-ro-voi-2-the-do-185261018195829659.htm",
+      "summary": "Ninh Bình FC dù chỉ còn 10 người từ hiệp 1 đã thắng 4-3 ở cuộc đua tỷ số điên rồ với HAGL. Hoàng Đức tỏa sáng với 1 bàn thắng và 1 kiến tạo để Lê Phát ghi bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T13:04:00+07:00",
+      "fetched": "2026-10-18T20:40:11.481240+07:00"
+    },
+    {
+      "id": "429a747a2d06041bf1ac86d40a74dce4",
+      "title": "Phê La thu hồi thìa nhựa 'tái sử dụng'",
+      "link": "https://vnexpress.net/phe-la-thu-hoi-thia-nhua-tai-su-dung-5133842.html",
+      "summary": "Phê La thông báo thu hồi thìa nhựa sau thông tin người dùng kiểm định sản phẩm này làm từ loại vật liệu không thể tái sử dụng hay phân hủy sinh học như quảng cáo.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-18T13:03:06+07:00",
+      "fetched": "2026-10-18T20:40:16.886521+07:00"
+    },
+    {
+      "id": "989f5c5e36e5c04d50a561f582df6ba8",
+      "title": "Kết quả xổ số Vietlott Mega 6/45 tối 18.10, giải độc đắc cộng dồn 26,4 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-mega-6-45-toi-1810-giai-doc-dac-cong-don-264-ti-dong-185261018185019765.htm",
+      "summary": "Tối 18.10, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45 và ghi nhận không có người trúng giải độc đắc nên số tiền cộng dồn là 26,4 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T13:02:00+07:00",
+      "fetched": "2026-10-18T20:40:11.481396+07:00"
+    },
+    {
+      "id": "39983ebf9aa13f910c00f687dd18c37e",
+      "title": "Liechtenstein coi Việt Nam là đối tác quan trọng tại khu vực Đông Nam Á",
+      "link": "https://thanhnien.vn/liechtenstein-coi-viet-nam-la-doi-tac-quan-trong-tai-khu-vuc-dong-nam-a-185261018194518389.htm",
+      "summary": "Ngày 18.10, tại trụ sở Văn phòng Chủ tịch nước, Tổng Bí thư, Chủ tịch nước Tô Lâm đã tiếp Thủ tướng Liechtenstein Brigitte Haas.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T13:01:00+07:00",
+      "fetched": "2026-10-18T20:40:11.481551+07:00"
+    },
+    {
+      "id": "1e2458c74ccbe65786fc8b046d6581d5",
+      "title": "Xem nhanh 20h ngày 18.10: Nam bộ sắp mưa lớn diện rộng | Cậu bé 3 tuổi quỳ tặng hoa mẹ gây sốt",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-1810-nam-bo-sap-mua-lon-dien-rong-cau-be-3-tuoi-quy-tang-hoa-me-gay-sot-185261018172901585.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 18.10 có nhiều tin tức đáng chú ý về: Nam bộ mưa lớn diện rộng kéo dài 4 ngày; cậu bé 3 tuổi xin hoa hàng xóm, quỳ xuống tặng mẹ: Khoảnh khắc 'tan chảy';...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T13:00:00+07:00",
+      "fetched": "2026-10-18T20:40:11.481729+07:00"
+    },
+    {
+      "id": "94151b8c2a9460d33e3a66dd273aa262",
+      "title": "SUV gần 4 tỉ đồng Maserati Grecale hai lần trở thành giải thưởng Hole-in-One",
+      "link": "https://thanhnien.vn/suv-gan-4-ti-dong-maserati-grecale-hai-lan-tro-thanh-giai-thuong-hole-in-one-185261018172352836.htm",
+      "summary": "Hai lần trở thành giải thưởng Hole-in-One tại cùng sân golf trong chưa đầy một năm, mẫu SUV hạng sang đến từ Ý - Maserati Grecale thu hút sự chú khi sở hữu thiết kế thể thao cùng nhiều công nghệ hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T13:00:00+07:00",
+      "fetched": "2026-10-18T20:40:11.481889+07:00"
+    },
+    {
+      "id": "60d5052a6b50938d027691566de7e3bb",
+      "title": "Reply 2010s: Dàn sao ‘Tiệm bánh Hoàng tử bé’ tái hợp sau 13 năm",
+      "link": "https://thanhnien.vn/reply-2010s-dan-sao-tiem-banh-hoang-tu-be-tai-hop-sau-13-nam-185261017141709277.htm",
+      "summary": "Sau 13 năm kể từ khi ‘Tiệm bánh Hoàng tử bé’ lên sóng, dàn diễn viên của sitcom đình đám một thời có dịp tái hợp tại trường quay Báo Thanh Niên trong chương trình ‘Reply 2010s’. Cuộc gặp gỡ không chỉ là màn hội ngộ đầy cảm xúc mà còn như chuyến tàu đưa khán giả trở về với ký ức thanh xuân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T13:00:00+07:00",
+      "fetched": "2026-10-18T20:40:11.482043+07:00"
+    },
+    {
+      "id": "3c2b833d8c16888b96dd1a1e3e410ad3",
+      "title": "40 phút giải cứu nữ nhân viên bị khống chế tại cửa hàng ở Đà Lạt",
+      "link": "https://thanhnien.vn/40-phut-giai-cuu-nu-nhan-vien-bi-khong-che-tai-cua-hang-o-da-lat-185261018182006601.htm",
+      "summary": "Nhận tin báo, Công an phường Lâm Viên - Đà Lạt (Lâm Đồng) đã có mặt giải cứu nữ nhân viên bị một người đàn ông dùng vật nhọn khống chế trong cửa hàng kinh doanh sắt, sơn trên đường Ngô Gia Tự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T12:46:00+07:00",
+      "fetched": "2026-10-18T20:40:11.482202+07:00"
+    },
+    {
+      "id": "caada672dbec5bce7e7f56dba8c4dfcd",
+      "title": "Phát hiện 300 tấn chất thải công nghiệp bị chôn lấp trái phép",
+      "link": "https://thanhnien.vn/phat-hien-300-tan-chat-thai-cong-nghiep-bi-chon-lap-trai-phep-18526101818424666.htm",
+      "summary": "Công an TP.Quảng Ninh phát hiện khoảng 300 tấn chất thải công nghiệp bị đổ, chôn lấp trái phép tại nhiều địa điểm ở xã Thống Nhất. Hai bị can đã bị khởi tố về hành vi gây ô nhiễm môi trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T12:43:00+07:00",
+      "fetched": "2026-10-18T20:40:11.482360+07:00"
+    },
+    {
+      "id": "2ae6a0144fc090c6f39d17ef6f94cf01",
+      "title": "Cường Cá nhập hội 'Bố ơi mình đi đâu thế', mang đến loạt tình huống 'khó đỡ'",
+      "link": "https://thanhnien.vn/cuong-ca-nhap-hoi-bo-oi-minh-di-dau-the-mang-den-loat-tinh-huong-kho-do-185261018133936759.htm",
+      "summary": "Sự xuất hiện của khách mời Cường Cá (nghệ sĩ chèo Chu Mạnh Cường) và con gái đã  mang đến hàng loạt tình huống hài hước 'khó đỡ' của 'Bố ơi mình đi đâu thế?' mùa 6, được quay hình tại làng chài Hòa Thắng, Phan Thiết (Lâm Đồng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T12:30:00+07:00",
+      "fetched": "2026-10-18T20:40:11.482517+07:00"
+    },
+    {
+      "id": "fbc8a2cb0fcc366d3b4e0abde0a7e5b4",
+      "title": "Sát hại bạn thân cướp vàng rồi vượt ngục, lẩn trốn 43 năm dưới tên giả",
+      "link": "https://thanhnien.vn/sat-hai-ban-than-cuop-vang-roi-vuot-nguc-lan-tron-43-nam-duoi-ten-gia-185261018182248418.htm",
+      "summary": "Sau 43 năm trốn truy nã, Nguyễn Thị Tuyết (69 tuổi), người bị kết án tù chung thân về tội giết người, cướp của đã bị Công an tỉnh Quảng Ngãi bắt giữ khi đang sinh sống dưới tên giả tại Lâm Đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T12:25:00+07:00",
+      "fetched": "2026-10-18T20:40:11.482683+07:00"
+    },
+    {
+      "id": "f52c122eb9ba2f1cafbfe3023caf54d2",
+      "title": "Vì sao nội dung châu Á ngày càng chinh phục khán giả toàn cầu?",
+      "link": "https://thanhnien.vn/vi-sao-noi-dung-chau-a-ngay-cang-chinh-phuc-khan-gia-toan-cau-185261018191327884.htm",
+      "summary": "Không cần chạy theo xu hướng, chính chất bản địa nguyên bản đã giúp văn hóa châu Á vươn ra toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T12:13:00+07:00",
+      "fetched": "2026-10-18T20:40:11.482838+07:00"
+    },
+    {
+      "id": "ea78e969ed532d8155dab15ce9288311",
+      "title": "Siêu bão Champi có vào Biển Đông?",
+      "link": "https://thanhnien.vn/sieu-bao-champi-co-vao-bien-dong-185261018173129927.htm",
+      "summary": "Cục Khí tượng thủy văn (VNMHA) cho biết, cơn bão số 30 trên khu vực tây bắc Thái Bình Dương có tên quốc tế là Champi chiều nay đã đạt cấp siêu bão.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T12:08:00+07:00",
+      "fetched": "2026-10-18T20:40:11.482986+07:00"
+    },
+    {
+      "id": "aa8254f100ab72e68b3e2e7f8e0e32f3",
+      "title": "Miền Tây cần bỏ định kiến 'chỉ hợp làm nông nghiệp'",
+      "link": "https://thanhnien.vn/mien-tay-can-bo-dinh-kien-chi-hop-lam-nong-nghiep-185261018173905255.htm",
+      "summary": "Đồng bằng sông Cửu Long (ĐBSCL) thường được nhắc đến là vùng trũng, đất yếu, chỉ phù hợp làm nông nghiệp. Định kiến này đang vô tình trở thành rào cản kìm hãm không gian phát triển cả khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T12:07:00+07:00",
+      "fetched": "2026-10-18T20:40:11.483132+07:00"
+    },
+    {
+      "id": "92b3292d2a6b47727ce0a731ac2d0196",
+      "title": "72 giờ sóng gió chấm dứt sự nghiệp phát ngôn viên Nhà Trắng của Zacharia",
+      "link": "https://vnexpress.net/72-gio-song-gio-cham-dut-su-nghiep-phat-ngon-vien-nha-trang-cua-zacharia-5133472.html",
+      "summary": "Katie Zacharia bắt đầu vai trò phát ngôn viên Nhà Trắng với cuộc họp báo nhiều trắc trở và loạt rắc rối trong 72 giờ sau đó khiến cô mất chức chóng vánh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-18T12:00:00+07:00",
+      "fetched": "2026-10-18T20:40:15.202204+07:00"
+    },
+    {
+      "id": "6f8c27720b0637e55934e463c2b20cc8",
+      "title": "Dấu vân tay 2.200 năm hé lộ người xây Đội quân đất nung mộ Tần Thủy Hoàng",
+      "link": "https://vnexpress.net/dau-van-tay-2-200-nam-he-lo-nguoi-xay-doi-quan-dat-nung-mo-tan-thuy-hoang-5133827.html",
+      "summary": "Nghiên cứu mới cho thấy phụ nữ và trẻ em có thể tham gia vào quá trình xây dựng đội quân đất nung 2.200 năm canh giữ lăng mộ hoàng đế Tần Thủy Hoàng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-18T12:00:00+07:00",
+      "fetched": "2026-10-18T20:40:19.978976+07:00"
+    },
+    {
+      "id": "1848e71b3eeab3e6d47d810a5394cd27",
+      "title": "Cơ trưởng flydubai kể lại thời khắc sinh tử khi chống trả cơ phó",
+      "link": "https://vnexpress.net/co-truong-flydubai-ke-lai-thoi-khac-sinh-tu-khi-chong-tra-co-pho-5133858.html",
+      "summary": "Cơ trưởng Machchhar luôn tự nhủ \"không thể chết như vậy\" khi bị cơ phó tấn công để giành quyền kiểm soát máy bay.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-18T11:36:33+07:00",
+      "fetched": "2026-10-18T20:40:15.202388+07:00"
+    },
+    {
+      "id": "b62c7ad8c13584e082c0fa7585b9289d",
+      "title": "Thủ tướng: Không để người dân trả giá cao vì các khâu trung gian",
+      "link": "https://vnexpress.net/thu-tuong-khong-de-nguoi-dan-tra-gia-cao-vi-cac-khau-trung-gian-5133864.html",
+      "summary": "Thủ tướng Lê Minh Hưng cho biết các khâu trung gian trong lĩnh vực y tế, điện, phân phối xăng dầu sẽ được cắt giảm, \"không chấp nhận để người dân phải trả giá cao\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-18T11:35:54+07:00",
+      "fetched": "2026-10-18T20:40:16.886743+07:00"
+    },
+    {
+      "id": "1cfcd5696c3cf8d65536e57f28823416",
+      "title": "Thủ tướng Lê Minh Hưng chủ trì lễ đón Thủ tướng Liechtenstein",
+      "link": "https://vnexpress.net/thu-tuong-le-minh-hung-chu-tri-le-don-thu-tuong-liechtenstein-5133884.html",
+      "summary": "Thủ tướng Lê Minh Hưng chủ trì lễ đón Thủ tướng Brigitte Haas thăm chính thức Việt Nam ngày 17-19/10.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-18T11:16:08+07:00",
+      "fetched": "2026-10-18T20:40:15.202577+07:00"
+    },
+    {
+      "id": "d62c0402b2db74b7a71d6e5a5509d021",
+      "title": "Houthi tuyên bố hạ trực thăng hơn 30 triệu USD của Arab Saudi",
+      "link": "https://vnexpress.net/houthi-tuyen-bo-ha-truc-thang-hon-30-trieu-usd-cua-arab-saudi-5133830.html",
+      "summary": "Houthi tuyên bố bắn rơi trực thăng vũ trang Apache của Arab Saudi, trong khi Riyadh thông báo một phi cơ trinh sát AH-6i rơi do \"trục trặc kỹ thuật\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-18T10:42:15+07:00",
+      "fetched": "2026-10-18T20:40:15.202776+07:00"
+    },
+    {
+      "id": "08b227702b125dca96a8f7868452609d",
+      "title": "Ngân hàng Nhà nước yêu cầu giảm ít nhất 0,5% lãi suất tiết kiệm",
+      "link": "https://vnexpress.net/ngan-hang-nha-nuoc-yeu-cau-giam-it-nhat-0-5-lai-suat-tiet-kiem-5133861.html",
+      "summary": "Ngân hàng Nhà nước yêu cầu các nhà băng phải giảm ít nhất 0,5% lãi suất tiền gửi kỳ hạn từ 6 tháng, nếu không sẽ bị siết chỉ tiêu tăng trưởng tín dụng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-18T10:33:09+07:00",
+      "fetched": "2026-10-18T20:40:16.886918+07:00"
+    },
+    {
+      "id": "59c99d8c0bb2703d4d5375d1664713d0",
+      "title": "Truyền thông thế giới 'ngả mũ' trước tuyệt phẩm của Yamal",
+      "link": "https://vnexpress.net/truyen-thong-the-gioi-nga-mu-truoc-tuyet-pham-cua-yamal-5133849.html",
+      "summary": "Lamine Yamal được báo chí Tây Ban Nha và quốc tế ca ngợi sau cú cứa lòng mở tỷ số trong trận Barca thắng Betis 5-2 ở vòng 9 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-18T09:14:59+07:00",
+      "fetched": "2026-10-18T20:40:21.186918+07:00"
+    },
+    {
+      "id": "863ac52074be74f67d475024c39a98f2",
+      "title": "Cảnh tan hoang sau cuộc bạo loạn 'tồi tệ nhất hàng chục năm' ở Pháp",
+      "link": "https://vnexpress.net/canh-tan-hoang-sau-cuoc-bao-loan-toi-te-nhat-hang-chuc-nam-o-phap-5133810.html",
+      "summary": "Nhiều công trình, đường phố bị tàn phá khi các cuộc biểu tình phản đối giá sinh hoạt ở Pháp trở nên mất kiểm soát, biến thành bạo loạn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-18T09:11:58+07:00",
+      "fetched": "2026-10-18T20:40:15.202954+07:00"
     },
     {
       "id": "0e9e982e37d6b865e33d853134e3126b",
@@ -303,6 +703,26 @@ window.newsData_2026_10_18 = {
       "fetched": "2026-10-18T09:08:24.461314+07:00"
     },
     {
+      "id": "c1650c564b4f68647621963c98c797d7",
+      "title": "Vinamilk 18 năm liên tục giữ danh hiệu thương hiệu quốc gia",
+      "link": "https://vnexpress.net/vinamilk-18-nam-lien-tuc-giu-danh-hieu-thuong-hieu-quoc-gia-5133833.html",
+      "summary": "Vinamilk tiếp tục có các dòng sản phẩm được công nhận Thương hiệu Quốc gia Việt Nam 2026, đánh dấu 18 năm liên tiếp giữ danh hiệu nhờ quá trình nâng chuẩn chất lượng, đổi mới sản phẩm",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-18T09:00:00+07:00",
+      "fetched": "2026-10-18T20:40:16.888755+07:00"
+    },
+    {
+      "id": "61f108f691b958feb3af96370f048cbc",
+      "title": "'Làm chủ công nghệ sản xuất giống tôm, đổi tư duy làm giàu từ biển'",
+      "link": "https://vnexpress.net/lam-chu-cong-nghe-san-xuat-giong-tom-doi-tu-duy-lam-giau-tu-bien-5133818.html",
+      "summary": "Bộ trưởng Vũ Hải Quân cho rằng cần xác định rõ các nhiệm vụ ưu tiên để Việt Nam làm chủ công nghệ sản xuất tôm giống, thay đổi tư duy từ khai thác sang làm giàu từ biển.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-18T08:38:56+07:00",
+      "fetched": "2026-10-18T20:40:19.979161+07:00"
+    },
+    {
       "id": "3314baaf79d3d5f85d87859e85610dd5",
       "title": "Windows 11 ẩn giấu menu Start thứ hai hữu ích",
       "link": "https://thanhnien.vn/windows-11-an-giau-menu-start-thu-hai-huu-ich-185261018115744581.htm",
@@ -321,6 +741,16 @@ window.newsData_2026_10_18 = {
       "category": "Tổng hợp",
       "published": "2026-10-18T08:08:00+07:00",
       "fetched": "2026-10-18T15:25:03.840188+07:00"
+    },
+    {
+      "id": "8c1e6b35580eda25a42d18a277b08c31",
+      "title": "Hãng ôtô bay đầu tiên của Mỹ 'gạ' Elon Musk đua xe",
+      "link": "https://vnexpress.net/hang-oto-bay-dau-tien-cua-my-ga-elon-musk-dua-xe-5133781.html",
+      "summary": "Alef Aeronautics, hãng ôtô bay đầu tiên của Mỹ, thách thức Elon Musk và Tesla đua xe, và nhấn mạnh rằng họ đã hoạt động trong lĩnh vực này 11 năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-18T08:05:00+07:00",
+      "fetched": "2026-10-18T20:40:16.887083+07:00"
     },
     {
       "id": "f9678bed413d9bfd43bb2eaaa1d17e01",
@@ -431,6 +861,16 @@ window.newsData_2026_10_18 = {
       "category": "Thế giới",
       "published": "2026-10-18T07:38:20+07:00",
       "fetched": "2026-10-18T15:25:07.822600+07:00"
+    },
+    {
+      "id": "7eed340dcb9307e5cb807d1e34b5ac85",
+      "title": "Cháy nổ 'như thảm họa' khiến nhiều người chết ở căn cứ quân sự Canada",
+      "link": "https://vnexpress.net/chay-no-nhu-tham-hoa-khien-nhieu-nguoi-chet-o-can-cu-quan-su-canada-5133820.html",
+      "summary": "Sự việc nghiêm trọng được mô tả \"như thảm họa\" xảy ra tại căn cứ ở tỉnh Alberta, khiến nhiều người thiệt mạng và bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-18T07:38:20+07:00",
+      "fetched": "2026-10-18T20:40:15.203114+07:00"
     },
     {
       "id": "25b78aeb85cca9f8cc94c0b0acf3a99d",
