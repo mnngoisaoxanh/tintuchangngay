@@ -1,7 +1,87 @@
 window.newsData_2026_10_20 = {
   "date": "2026-10-20",
-  "lastUpdated": "2026-10-20T04:51:25.485183+07:00",
+  "lastUpdated": "2026-10-20T07:48:57.282100+07:00",
   "articles": [
+    {
+      "id": "3b036eeef29f848e05dbddff0b28ec17",
+      "title": "Thời tiết hôm nay 20-10: Nam Bộ mưa dông chiều, Bắc Bộ ngày nắng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-20-10-nam-bo-mua-dong-chieu-bac-bo-ngay-nang-100261019155010485.htm",
+      "summary": "Hôm nay 20-10, thời tiết các tỉnh phía Nam mưa rào đến mưa to về chiều tối, trên biển dông gió mạnh, tàu thuyền chú ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-20T07:48:51.362434+07:00",
+      "fetched": "2026-10-20T07:48:51.362549+07:00"
+    },
+    {
+      "id": "a204c05a95193b52f8d02192fa9ed47f",
+      "title": "Lịch trực tiếp bóng đá Champions League: PSG đại chiến Barca",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-champions-league-psg-dai-chien-barca-100261019173119624.htm",
+      "summary": "PSG đối đầu Barca sẽ là tâm điểm của loạt trận thứ 3 vòng phân hạng Champions League 2026-2027 diễn ra đêm 20-10 rạng sáng 21-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-20T07:48:51.362325+07:00",
+      "fetched": "2026-10-20T07:48:51.362416+07:00"
+    },
+    {
+      "id": "55e3a09b60557f1f8b5056bdccbb4db6",
+      "title": "Lê Quang Liêm nhận vinh dự lớn trong 'cuộc cách mạng cờ vua thế giới'",
+      "link": "https://tuoitre.vn/le-quang-liem-nhan-vinh-du-lon-trong-cuoc-cach-mang-co-vua-the-gioi-100261019205343478.htm",
+      "summary": "Đại kiện tướng Lê Quang Liêm được mời dự giải thử nghiệm Total Chess, góp mặt trong nhóm kỳ thủ mở màn hệ thống tranh chức vô địch thế giới tổng hợp được FIDE phê chuẩn. Đây sẽ là một cột mốc quan trọng mở ra kỷ nguyên xếp hạng mới của làng cờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-20T07:48:51.362195+07:00",
+      "fetched": "2026-10-20T07:48:51.362308+07:00"
+    },
+    {
+      "id": "5214ba819542f748fa868d3cc12e2779",
+      "title": "Giá vàng bất ngờ đi xuống, hướng về ngưỡng 4.100 USD/ounce",
+      "link": "https://tuoitre.vn/gia-vang-bat-ngo-di-xuong-huong-ve-nguong-4100-usd-ounce-100261020005341743.htm",
+      "summary": "0h30 ngày 20-10, giá vàng thế giới giảm 27 USD/ounce, xuống còn 4.139 USD/ounce. Quy đổi theo tỉ giá niêm yết tại ngân hàng, giá vàng thế giới tương đương 130,2 triệu đồng/lượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-20T07:48:51.361864+07:00",
+      "fetched": "2026-10-20T07:48:51.362169+07:00"
+    },
+    {
+      "id": "baa37fcd61e6db5b258219aa357639e3",
+      "title": "Đối đầu tay vợt gốc Việt, siêu sao tennis giận dữ đập vợt rồi... bị thương",
+      "link": "https://tuoitre.vn/doi-dau-tay-vot-goc-viet-sieu-sao-tennis-gian-du-dap-vot-roi-bi-thuong-100261019220123343.htm",
+      "summary": "Ngôi sao hạng 19 thế giới Alexander Bublik trút giận sau khi thua set đầu trước tay vợt gốc Việt Brandon Nakashima, nhưng màn đập phá vợt khiến chính VĐV người Kazakhstan phải nhờ nhân viên y tế chăm sóc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-20T07:48:51.361792+07:00",
+      "fetched": "2026-10-20T07:48:51.361853+07:00"
+    },
+    {
+      "id": "71f66a5b6100008a24e9a3aa837148f6",
+      "title": "Quốc hội Đan Mạch ủng hộ tăng cường quan hệ với Việt Nam",
+      "link": "https://tuoitre.vn/quoc-hoi-dan-mach-ung-ho-tang-cuong-quan-he-voi-viet-nam-100261019235628806.htm",
+      "summary": "Quốc hội Đan Mạch ủng hộ việc tăng cường quan hệ hợp tác giữa hai nước, đặc biệt trong các lĩnh vực phù hợp với thế mạnh của Đan Mạch và nhu cầu phát triển của Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-20T07:48:51.361718+07:00",
+      "fetched": "2026-10-20T07:48:51.361780+07:00"
+    },
+    {
+      "id": "e865a94bda1ae8849e54e4c84951df71",
+      "title": "Tin tức sáng 20-10: Người chưa đăng ký tạm trú tại TP.HCM vẫn được khám sức khỏe miễn phí",
+      "link": "https://tuoitre.vn/tin-tuc-sang-20-10-nguoi-chua-dang-ky-tam-tru-tai-tphcm-van-duoc-kham-suc-khoe-mien-phi-100261019214951081.htm",
+      "summary": "Tin tức đáng chú ý: Quốc hội thảo luận sửa Bộ luật Tố tụng hình sự và nhiều nội dung quan trọng; Người chưa đăng ký thường trú, tạm trú tại TP.HCM vẫn được khám sức khỏe miễn phí...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-20T07:48:51.361637+07:00",
+      "fetched": "2026-10-20T07:48:51.361707+07:00"
+    },
+    {
+      "id": "02a59dd391300183cdf6f6d36b729a04",
+      "title": "Ronaldo nhận án phạt 'có cũng như không' vì bỏ tuyển quốc gia",
+      "link": "https://tuoitre.vn/ronaldo-nhan-an-phat-co-cung-nhu-khong-vi-bo-tuyen-quoc-gia-100261020053833379.htm",
+      "summary": "Cuối cùng Liên đoàn Bóng đá Bồ Đào Nha (FPF) đã có hình phạt dành cho siêu sao Cristiano Ronaldo vì hành vi bỏ ngang đợt tập trung tuyển quốc gia ở loạt trận FIFA Days tháng 9-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-20T07:48:51.361464+07:00",
+      "fetched": "2026-10-20T07:48:51.361621+07:00"
+    },
     {
       "id": "4bb48b621cb548eb72f7e8eef439e5d3",
       "title": "Sản phẩm OCOP: Đừng chỉ bán sản phẩm, hãy bán cả câu chuyện",
@@ -151,6 +231,306 @@ window.newsData_2026_10_20 = {
       "category": "Tổng hợp",
       "published": "2026-10-20T04:51:17.079959+07:00",
       "fetched": "2026-10-20T04:51:17.080101+07:00"
+    },
+    {
+      "id": "7e949cdacb0f20a7e177a0b17c4598c3",
+      "title": "Ông Trump đả kích ông Zelensky, nói Ukraine cần người đàm phán mới",
+      "link": "https://thanhnien.vn/ong-trump-da-kich-ong-zelensky-noi-ukraine-can-nguoi-dam-phan-moi-185261020064722453.htm",
+      "summary": "Tổng thống Mỹ Donald Trump bảo vệ quyết định dỡ bỏ cấm vận đối với Nga và chỉ trích Tổng thống Ukraine Volodymyr Zelensky vì Kyiv vẫn tấn công ngành năng lượng của Moscow.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-20T00:47:00+07:00",
+      "fetched": "2026-10-20T07:48:50.054141+07:00"
+    },
+    {
+      "id": "956d7b8ae2c2209495755bcce24769bb",
+      "title": "Nhật Bản phóng thành công tàu săn mẫu vật trên mặt trăng sao Hỏa",
+      "link": "https://thanhnien.vn/nhat-ban-phong-thanh-cong-tau-san-mau-vat-tren-mat-trang-sao-hoa-185261020073807183.htm",
+      "summary": "Nhật Bản ngày 20.10 phóng thành công tàu thăm dò không người lái với tham vọng lần đầu tiên đưa mẫu vật từ một mặt trăng của sao Hỏa về trái đất, qua đó tìm hiểu nguồn gốc hình thành hệ mặt trời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-20T00:44:00+07:00",
+      "fetched": "2026-10-20T07:48:50.054308+07:00"
+    },
+    {
+      "id": "c2d8c8cee3e3315ec420e9d0b0be9663",
+      "title": "Cầm dao chặn xe người đi đường, người đàn ông ở Quảng Trị bị khởi tố",
+      "link": "https://thanhnien.vn/cam-dao-chan-xe-nguoi-di-duong-nguoi-dan-ong-o-quang-tri-bi-khoi-to-185261020062953612.htm",
+      "summary": "Một người đàn ông ở phường Bắc Gianh (Quảng Trị) bị khởi tố, bắt tạm giam để điều tra hành vi gây rối trật tự công cộng sau khi cầm dao chửi bới, đe dọa và chặn xe mô tô của người đi đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-20T00:39:00+07:00",
+      "fetched": "2026-10-20T07:48:50.054467+07:00"
+    },
+    {
+      "id": "a9959ea62885cb306b1725854298fd9f",
+      "title": "Ông Trump sẵn sàng dự thượng đỉnh ba bên với Nga và Trung Quốc",
+      "link": "https://vnexpress.net/ong-trump-san-sang-du-thuong-dinh-ba-ben-voi-nga-va-trung-quoc-5134417.html",
+      "summary": "Tổng thống Trump cho biết ông sẵn sàng họp với ông Putin và ông Tập bên lề hội nghị APEC tại Trung Quốc vào tháng tới, đồng thời chỉ trích lãnh đạo Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-20T00:16:22+07:00",
+      "fetched": "2026-10-20T07:48:52.497978+07:00"
+    },
+    {
+      "id": "729c042775a0baaf5567bc42dffe6073",
+      "title": "Cô gái 30 tuổi khởi nghiệp từ văn hóa, lan tỏa bản sắc Hrê",
+      "link": "https://thanhnien.vn/co-gai-30-tuoi-khoi-nghiep-tu-van-hoa-lan-toa-ban-sac-hre-185261019203019214.htm",
+      "summary": "Từ tình yêu với văn hóa truyền thống của dân tộc mình, Trinh Sơn Uyên xây dựng mô hình Plây Hrê - Làng Hrê, kết hợp ẩm thực, trải nghiệm văn hóa, du lịch sinh thái và giới thiệu những sản phẩm đặc trưng của địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-20T00:00:00+07:00",
+      "fetched": "2026-10-20T07:48:50.054657+07:00"
+    },
+    {
+      "id": "32f2a95abc6784bc2c2598380853a433",
+      "title": "BSR tăng tốc mở rộng Dung Quất, đón đầu tăng trưởng",
+      "link": "https://thanhnien.vn/bsr-tang-toc-mo-rong-dung-quat-don-dau-tang-truong-185261019190727205.htm",
+      "summary": "Ngày 15.10, tại TP.HCM, Tổng công ty Lọc hóa dầu Việt Nam (BSR) tổ chức hội thảo tiếp xúc nhà đầu tư, công bố kết quả sản xuất kinh doanh 9 tháng đầu năm 2026, đồng thời chia sẻ triển vọng hoạt động, tiến độ dự án trọng điểm và chiến lược tăng trưởng trong thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-20T00:00:00+07:00",
+      "fetched": "2026-10-20T07:48:50.054817+07:00"
+    },
+    {
+      "id": "cbd91614179e111c9b841ac4a1032843",
+      "title": "Nguy cơ các trợ lý của ông Trump bị điều tra sau bầu cử giữa kỳ",
+      "link": "https://vnexpress.net/nguy-co-cac-tro-ly-cua-ong-trump-bi-dieu-tra-sau-bau-cu-giua-ky-5133981.html",
+      "summary": "Các quan chức dưới quyền Tổng thống Trump đang tìm luật sư riêng, đề phòng nguy cơ bị điều tra nếu đảng Dân chủ giành lại quyền kiểm soát Hạ viện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-20T00:00:00+07:00",
+      "fetched": "2026-10-20T07:48:52.498161+07:00"
+    },
+    {
+      "id": "4b8e1d7ae886ed8e8388c56c92839495",
+      "title": "Đào ngoại ồ ạt vào Việt Nam",
+      "link": "https://vnexpress.net/dao-ngoai-o-at-vao-viet-nam-5133233.html",
+      "summary": "Đào ngoại phủ rộng các kênh bán lẻ, từ chợ truyền thống đến siêu thị, góp phần đưa kim ngạch nhập khẩu tám tháng đạt hơn 10 triệu USD, tăng gần 184%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-20T00:00:00+07:00",
+      "fetched": "2026-10-20T07:48:54.067331+07:00"
+    },
+    {
+      "id": "3ee0c319a156de870b2551ae8deb3b02",
+      "title": "Bài toán giảm nợ công - nguồn cơn biểu tình ở Pháp",
+      "link": "https://vnexpress.net/bai-toan-giam-no-cong-nguon-con-bieu-tinh-o-phap-5134309.html",
+      "summary": "Nỗ lực giảm núi nợ công 3.600 tỷ euro đẩy chính phủ Pháp vào thế khó, khi chính sách thắt lưng buộc bụng thổi bùng biểu tình.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-19T23:46:13+07:00",
+      "fetched": "2026-10-20T07:48:54.067545+07:00"
+    },
+    {
+      "id": "b0969b8680144ac6b6009b3230d12ef3",
+      "title": "Phản ứng của Ronaldo sau án phạt ‘cực nhẹ’ từ Bồ Đào Nha",
+      "link": "https://thanhnien.vn/phan-ung-cua-ronaldo-sau-an-phat-cuc-nhe-tu-bo-dao-nha-185261020064556113.htm",
+      "summary": "Ngày 20.10, Ronaldo đã chính thức nhận án phạt từ Liên đoàn Bóng đá Bồ Đào Nha (FPF), khi bị đình chỉ thi đấu 30 ngày và phải nộp phạt 255 euro (khoảng 7,4 triệu đồng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T23:46:00+07:00",
+      "fetched": "2026-10-20T07:48:50.054972+07:00"
+    },
+    {
+      "id": "e37a41b0734a64f9355da948aac256ba",
+      "title": "Ông Trump: 'Pháp nên đóng cửa biên giới'",
+      "link": "https://vnexpress.net/ong-trump-phap-nen-dong-cua-bien-gioi-5134415.html",
+      "summary": "Tổng thống Trump cho rằng làn sóng biểu tình và bạo lực ở Pháp là hệ quả từ chính sách nhập cư, kêu gọi nước này và châu Âu siết biên giới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-19T23:42:21+07:00",
+      "fetched": "2026-10-20T07:48:52.498342+07:00"
+    },
+    {
+      "id": "eb8b1988497b6489868fa0cf31156cad",
+      "title": "Người dì chuyển giới mở quán cơm gà để chăm mẹ, lo cho người cháu tâm thần",
+      "link": "https://thanhnien.vn/nguoi-di-chuyen-gioi-mo-quan-com-ga-de-cham-me-lo-cho-nguoi-chau-tam-than-185261002101957871.htm",
+      "summary": "Sau nhiều năm bươn chải đủ nghề, bà Hà Phương, một người chuyển giới ở phường Hạnh Thông, TP.HCM, mở quán cơm gà để có thu nhập và tiện chăm lo cho mẹ cùng hai người cháu. Trong đó, một người cháu mắc bệnh tâm thần. Chính hoàn cảnh ấy khiến bà quyết định chọn việc buôn bán tại nhà, vừa mưu sinh, vừa...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T23:42:00+07:00",
+      "fetched": "2026-10-20T07:48:50.055124+07:00"
+    },
+    {
+      "id": "9ae958155f3782322e64081d37ed4a4e",
+      "title": "Samsung dự kiến ra 6 điện thoại gập Galaxy Z 2027",
+      "link": "https://vnexpress.net/samsung-du-kien-ra-6-dien-thoai-gap-galaxy-z-2027-5133915.html",
+      "summary": "Samsung được cho là lên kế hoạch mở rộng dải sản phẩm Galaxy Z 2027, nổi bật là thiết bị màn hình cuộn Galaxy Z Slide và điện thoại gập ba thế hệ hai.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-19T23:37:40+07:00",
+      "fetched": "2026-10-20T07:48:55.788163+07:00"
+    },
+    {
+      "id": "7414c35c1c51c236ae55eca502984168",
+      "title": "Sevilla đăng một loạt bài mỉa mai Real",
+      "link": "https://vnexpress.net/sevilla-dang-mot-loat-bai-mia-mai-real-5134368.html",
+      "summary": "Sau trận thua Real Madrid 1-4 ở vòng 9 La Liga, Sevilla bày tỏ sự phẫn nộ, mỉa mai đối thủ và chỉ trích công tác trọng tài lẫn đơn vị truyền hình phát sóng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-19T23:35:09+07:00",
+      "fetched": "2026-10-20T07:48:57.276599+07:00"
+    },
+    {
+      "id": "a7d310bb0bd0da63a7f5756ca5d6f27e",
+      "title": "Lãi suất tiết kiệm giảm đồng loạt",
+      "link": "https://vnexpress.net/lai-suat-tiet-kiem-giam-dong-loat-5134403.html",
+      "summary": "15 ngân hàng tư nhân cùng lúc giảm 0,5-0,7 điểm phần trăm lãi suất tiền gửi niêm yết từ 6 tháng trong ngày 19/10, ngay sau chỉ đạo của Ngân hàng Nhà nước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-19T23:32:24+07:00",
+      "fetched": "2026-10-20T07:48:54.067719+07:00"
+    },
+    {
+      "id": "0a7efe766e1d98860aba9429fd3dc572",
+      "title": "Giải mã hiện tượng bất ngờ của phòng vé Việt",
+      "link": "https://thanhnien.vn/giai-ma-hien-tuong-bat-ngo-cua-phong-ve-viet-185261019214431079.htm",
+      "summary": "Tính đến chiều 19.10, theo số liệu Box Office Vietnam, phim Trại buôn người của đạo diễn Toni Dương Bảo Anh đạt hơn 460 tỉ đồng, vượt Thỏ ơi của Trấn Thành (449,8 tỉ đồng), trở thành phim Việt ăn khách nhất năm 2026 tính đến hiện tại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T23:30:00+07:00",
+      "fetched": "2026-10-20T07:48:50.055275+07:00"
+    },
+    {
+      "id": "4eb0f446a6d10ccd22da988dfdea9bbe",
+      "title": "Trung Quốc dự tính kiểm soát xuất khẩu công nghệ điện mặt trời",
+      "link": "https://vnexpress.net/trung-quoc-du-tinh-kiem-soat-xuat-khau-cong-nghe-dien-mat-troi-5134246.html",
+      "summary": "Nhà quản lý ở Trung Quốc muốn kiểm soát xuất khẩu 12 công nghệ dùng sản xuất thiết bị điện mặt trời, do lo ngại về an ninh quốc gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-19T23:25:39+07:00",
+      "fetched": "2026-10-20T07:48:54.067882+07:00"
+    },
+    {
+      "id": "51d6a28561bc3e3fb2c2bbb92564ceb8",
+      "title": "Viết tiếp câu chuyện hợp tác Việt Nam - Đan Mạch bằng lòng tin và tri thức",
+      "link": "https://thanhnien.vn/viet-tiep-cau-chuyen-hop-tac-viet-nam-dan-mach-bang-long-tin-va-tri-thuc-18526102000253012.htm",
+      "summary": "Chiều 19.10 (giờ địa phương), Tổng Bí thư, Chủ tịch nước Tô Lâm đã có phát biểu chính sách tại Đại học Copenhagen: 'Từ câu chuyện cổ tích đến khung trời hợp tác Việt Nam - Đan Mạch trong kỷ nguyên mới'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T23:24:00+07:00",
+      "fetched": "2026-10-20T07:48:50.055426+07:00"
+    },
+    {
+      "id": "3d3144dfce5ab029b3ccd9507a39395f",
+      "title": "Thúc đẩy triển khai hiệu quả các thỏa thuận giữa Việt Nam và Đan Mạch",
+      "link": "https://thanhnien.vn/thuc-day-trien-khai-hieu-qua-cac-thoa-thuan-giua-viet-nam-va-dan-mach-185261019233840229.htm",
+      "summary": "Chiều 19.10 (theo giờ địa phương), Tổng Bí thư, Chủ tịch nước Tô Lâm đã hội kiến Chủ tịch Quốc hội Đan Mạch Henrik Frandsen tại Cung điện Christiansborg ở thủ đô Copenhagen.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T23:18:00+07:00",
+      "fetched": "2026-10-20T07:48:50.055607+07:00"
+    },
+    {
+      "id": "d7518960d9b56a50ea0f2b9d306e3869",
+      "title": "Không được lên cao tốc Bến Lức - Long Thành, người đi xe máy vẫn hưởng lợi theo cách không ngờ",
+      "link": "https://thanhnien.vn/khong-duoc-len-cao-toc-ben-luc-long-thanh-nguoi-di-xe-may-van-huong-loi-theo-cach-khong-ngo-185261018205436939.htm",
+      "summary": "Từ khi cao tốc Bến Lức, Long Thành thông xe toàn tuyến, người đi xe máy trên các tuyến đường như Nguyễn Văn Linh cũng cảm nhận được những thay đổi tích cực. Xe tải, xe lớn giảm bớt, đường sá thông thoáng hơn, giúp người dân đi lại an toàn, giao hàng nhanh chóng và thuận lợi hơn trong công việc hằng ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T23:15:00+07:00",
+      "fetched": "2026-10-20T07:48:50.055760+07:00"
+    },
+    {
+      "id": "eaa33086258a00db4d554838a2ae1555",
+      "title": "Sắp áp dụng mức phạt khi bán vé số cho người dưới 18 tuổi, đại lý nói gì?",
+      "link": "https://thanhnien.vn/sap-ap-dung-muc-phat-khi-ban-ve-so-cho-nguoi-duoi-18-tuoi-dai-ly-noi-gi-185261019155307047.htm",
+      "summary": "Từ ngày 30.11, quy định xử phạt bán vé số cho người dưới 18 tuổi có hiệu lực. Nhiều đại lý, người bán vé số dạo băn khoăn về cách xác minh tuổi người mua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T23:10:00+07:00",
+      "fetched": "2026-10-20T07:48:50.055912+07:00"
+    },
+    {
+      "id": "b1f18d269c00a8f12e93f601d955d551",
+      "title": "Vị thế của doanh nhân nữ được quyết định bởi năng lực",
+      "link": "https://thanhnien.vn/vi-the-cua-doanh-nhan-nu-duoc-quyet-dinh-boi-nang-luc-185261019214521894.htm",
+      "summary": "Sự gia tăng của đội ngũ nữ doanh nhân không chỉ là câu chuyện về những cá nhân thành đạt trên thương trường. Điều đó còn cho thấy sự chuyển biến trong nhận thức xã hội về vai trò, năng lực và quyền tham gia của phụ nữ vào đời sống kinh tế, đóng góp cho sự phát triển chung của đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T23:03:00+07:00",
+      "fetched": "2026-10-20T07:48:50.056059+07:00"
+    },
+    {
+      "id": "8288087b51ceefab43f43437d87d8387",
+      "title": "Những 'bông hoa' ngày 20.10: Khi vẻ đẹp song hành cùng trí tuệ và bản lĩnh",
+      "link": "https://thanhnien.vn/nhung-bong-hoa-ngay-2010-khi-ve-dep-song-hanh-cung-tri-tue-va-ban-linh-185261019202222316.htm",
+      "summary": "Không chỉ sở hữu ngoại hình nổi bật, những cô gái này còn khẳng định bản thân bằng tri thức, bản lĩnh và sự chủ động trên hành trình theo đuổi ước mơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T23:03:00+07:00",
+      "fetched": "2026-10-20T07:48:50.056203+07:00"
+    },
+    {
+      "id": "0cbd9404db706e4ae80c4e4c5a901bb5",
+      "title": "Phát triển bất động sản cao cấp theo nhu cầu thị trường",
+      "link": "https://thanhnien.vn/phat-trien-bat-dong-san-cao-cap-theo-nhu-cau-thi-truong-18526101922252431.htm",
+      "summary": "Sáng 19.10, Quốc hội thảo luận tại tổ về luật Đấu giá tài sản sửa đổi. Gợi ý các nội dung thảo luận, Thủ tướng Chính phủ Lê Minh Hưng nhấn mạnh, mục tiêu cuối cùng phải quản lý được giá đối với nhà ở xã hội và nhà ở cho thuê. Với phân khúc bất động sản cao cấp dành cho những người có điều kiện kinh ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T23:02:00+07:00",
+      "fetched": "2026-10-20T07:48:50.056351+07:00"
+    },
+    {
+      "id": "1470454cca003eec828c5f9b493b835c",
+      "title": "Mbappe được vinh danh trước Quả Bóng Vàng 2026",
+      "link": "https://vnexpress.net/mbappe-duoc-vinh-danh-truoc-qua-bong-vang-2026-5134412.html",
+      "summary": "Tiền đạo Kylian Mbappe vừa đoạt Onze d'Or 2026, nhưng 5 trong 8 người chiến thắng gần nhất ở giải này sau đó không thể đoạt Quả Bóng Vàng cùng năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-19T22:56:15+07:00",
+      "fetched": "2026-10-20T07:48:57.276781+07:00"
+    },
+    {
+      "id": "b52f394d007897e575e56e74b43d3da3",
+      "title": "Báo Anh: Man City sẽ chỉ phải xuống một hạng",
+      "link": "https://vnexpress.net/bao-anh-man-city-se-chi-phai-xuong-mot-hang-5134406.html",
+      "summary": "Theo Sport Mail, các nguồn tin thân cận với quá trình xử lý Man City cho rằng đội bóng này nhiều khả năng bị trừ điểm đủ để xuống hạng Nhất Anh, kèm khoản phạt tiền lớn, sau 115 cáo buộc tài chính.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-19T22:51:55+07:00",
+      "fetched": "2026-10-20T07:48:57.276949+07:00"
+    },
+    {
+      "id": "905c6833ca90f2d694f53e382ec62126",
+      "title": "LĐBĐ Bồ Đào Nha phạt Ronaldo 286 USD, đình chỉ thi đấu 30 ngày",
+      "link": "https://vnexpress.net/ldbd-bo-dao-nha-phat-ronaldo-286-usd-dinh-chi-thi-dau-30-ngay-5134411.html",
+      "summary": "Cristiano Ronaldo bị LĐBĐ Bồ Đào Nha (FPF) phạt 255 euro (khoảng 286 USD) và cấm thi đấu 30 ngày, do tự ý rời đợt tập trung của ĐTQG trong đợt FIFA Days vừa qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-19T22:46:09+07:00",
+      "fetched": "2026-10-20T07:48:57.277111+07:00"
+    },
+    {
+      "id": "c1974378d880464e6d4c0db9c7591c4a",
+      "title": "Tottenham thắng trận đầu ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/tottenham-thang-tran-dau-o-ngoai-hang-anh-5134414.html",
+      "summary": "James Maddison ghi bàn trong lần đầu đá chính sau 536 ngày, giúp Tottenham thắng Coventry 3-1 ở vòng 7 Ngoại hạng Anh và thoát khỏi nhóm ba đội cuối bảng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-19T22:24:16+07:00",
+      "fetched": "2026-10-20T07:48:57.277273+07:00"
+    },
+    {
+      "id": "d57b8466b9ffd3ed337c3040219dd43b",
+      "title": "Bạo loạn thổi bùng cuộc chiến đổ lỗi ở Pháp",
+      "link": "https://vnexpress.net/bao-loan-thoi-bung-cuoc-chien-do-loi-o-phap-5133990.html",
+      "summary": "Biểu tình bạo lực cuối tuần qua đẩy nước Pháp vào vòng xoáy đổ lỗi, khi chính phủ, phe cực tả và cực hữu tranh cãi về trách nhiệm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-19T22:00:00+07:00",
+      "fetched": "2026-10-20T07:48:52.498532+07:00"
+    },
+    {
+      "id": "d84f627bc644e43f7b87dd40a122c86f",
+      "title": "Anthropic giảm nhân viên cấp thấp, tăng họp do AI",
+      "link": "https://vnexpress.net/anthropic-giam-nhan-vien-cap-thap-tang-hop-do-ai-5134145.html",
+      "summary": "Anthropic, nhà phát triển chatbot Claude, cho biết cơ cấu nhân sự và cách làm việc tại startup này đã thay đổi đáng kể sau khi ứng dụng AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-19T22:00:00+07:00",
+      "fetched": "2026-10-20T07:48:55.787818+07:00"
     },
     {
       "id": "0a9d038bf1e83470333542a09909ace1",
@@ -693,6 +1073,56 @@ window.newsData_2026_10_20 = {
       "fetched": "2026-10-20T04:51:23.868722+07:00"
     },
     {
+      "id": "2159500c554c7971001e241789b37396",
+      "title": "Con gì đầu bò, thân bò, đuôi bò nhưng tên gọi lại không phải bò?",
+      "link": "https://vnexpress.net/con-gi-dau-bo-than-bo-duoi-bo-nhung-ten-goi-lai-khong-phai-bo-5132569.html",
+      "summary": "Thử thách đố vui tiếng Việt siêu lắt léo khiến cư dân mạng \"bó tay\" suy đoán, bạn có đủ nhanh trí để tìm ra đáp án trong 5 giây?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T08:00:00+07:00",
+      "fetched": "2026-10-20T07:48:47.368413+07:00"
+    },
+    {
+      "id": "7796b55f9c900a6e7387d7990ff18fc9",
+      "title": "Vì sao phụ nữ tuổi 40 dễ cáu gắt, lo âu?",
+      "link": "https://vnexpress.net/vi-sao-phu-nu-tuoi-40-de-cau-gat-lo-au-5134211.html",
+      "summary": "Lo âu, cáu gắt ở phụ nữ tuổi 40 có thể liên quan đến sụt giảm nội tiết tố thất thường trong cơ thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T08:00:00+07:00",
+      "fetched": "2026-10-20T07:48:47.368627+07:00"
+    },
+    {
+      "id": "5e4b3242643c8ffe4f76300e9fe7cc51",
+      "title": "'Ruồi bay' trước mắt cảnh báo bệnh gì?",
+      "link": "https://vnexpress.net/ruoi-bay-truoc-mat-canh-bao-benh-gi-5134197.html",
+      "summary": "Mắt tôi thỉnh thoảng nhìn thấy các đốm đen lơ lửng phía trước, dụi mắt lại hết. Xin hỏi đây là dấu hiệu cảnh báo bệnh gì? (Hoàng Nam, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T08:00:00+07:00",
+      "fetched": "2026-10-20T07:48:47.368799+07:00"
+    },
+    {
+      "id": "cef03b4035eda267c9dde868d0e55faf",
+      "title": "Ra mắt hơn 300 căn hộ M Riverside Danang ven sông Hàn",
+      "link": "https://vnexpress.net/ra-mat-hon-300-can-ho-m-riverside-danang-ven-song-han-5134187.html",
+      "summary": "300 chuyên viên kinh doanh từ hơn 10 đại lý dự lễ ra mắt 312 căn hộ thương mại dịch vụ M Riverside Danang, ngày 14/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T08:00:00+07:00",
+      "fetched": "2026-10-20T07:48:47.368985+07:00"
+    },
+    {
+      "id": "21aeafdead5a9d18431f870a7435b3fd",
+      "title": "ABBank kết nối giao dịch ngân hàng với trải nghiệm nghệ thuật",
+      "link": "https://vnexpress.net/abbank-ket-noi-giao-dich-ngan-hang-voi-trai-nghiem-nghe-thuat-5133281.html",
+      "summary": "ABBank triển khai chương trình ưu đãi gắn với triển lãm Van Gogh Timeless, mang đến cơ hội nhận quà lưu niệm và các đặc quyền khi khách hàng giao dịch qua ngân hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T08:00:00+07:00",
+      "fetched": "2026-10-20T07:48:47.369150+07:00"
+    },
+    {
       "id": "ac3051a4d920ae0343009bf03c5b5705",
       "title": "Wanda Nara rao bán áo Icardi giá rẻ sau khi ly hôn",
       "link": "https://vnexpress.net/wanda-nara-rao-ban-ao-icardi-gia-re-sau-khi-ly-hon-5134224.html",
@@ -711,6 +1141,46 @@ window.newsData_2026_10_20 = {
       "category": "Thể thao",
       "published": "2026-10-19T07:57:45+07:00",
       "fetched": "2026-10-20T04:51:25.483313+07:00"
+    },
+    {
+      "id": "3fc90510243b0357b4f4ed5ebfc9c5dc",
+      "title": "Hơn 2.400 hiệu trưởng, hiệu phó ở TP HCM chuyển làm giáo viên",
+      "link": "https://vnexpress.net/hon-2-400-hieu-truong-hieu-pho-o-tp-hcm-chuyen-lam-giao-vien-5134194.html",
+      "summary": "TP HCM giảm gần 2.750 hiệu trưởng, hiệu phó sau sắp xếp trường công, trong đó hơn 2.400 người về làm giáo viên - đông nhất cả nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T07:55:51+07:00",
+      "fetched": "2026-10-20T07:48:47.369713+07:00"
+    },
+    {
+      "id": "6da705245f63ed46b78631a5a8f4545a",
+      "title": "Lái xe căng thẳng với biển báo phạt lỗi khoảng cách trên 16 cao tốc",
+      "link": "https://vnexpress.net/ap-luc-lai-xe-khi-lap-bien-bao-xu-phat-loi-khoang-cach-tren-16-cao-toc-5133751.html",
+      "summary": "'Mỗi khi lái xe ra đường, tôi rất mất tập trung, căng thẳng, cứ phải lo nhìn trước ngó sau vì có quá nhiều loại biển báo'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T07:54:49+07:00",
+      "fetched": "2026-10-20T07:48:47.369889+07:00"
+    },
+    {
+      "id": "1bc4bf2daafca4c20f8986d32329b5ea",
+      "title": "TP HCM bổ nhiệm, điều động nhiều lãnh đạo sở ngành",
+      "link": "https://vnexpress.net/tp-hcm-bo-nhiem-dieu-dong-nhieu-lanh-dao-so-nganh-5134218.html",
+      "summary": "Phó giám đốc Sở Công Thương Nguyễn Trường Thi làm Tổng giám đốc SJC; hai trưởng phòng của Sở Xây dựng và Sở Tư pháp được bổ nhiệm phó giám đốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T07:51:59+07:00",
+      "fetched": "2026-10-20T07:48:47.370055+07:00"
+    },
+    {
+      "id": "1de1bde679ee865b7830019b825c5fd5",
+      "title": "MG GT - sedan cỡ C định giá cỡ B",
+      "link": "https://vnexpress.net/mg-gt-sedan-co-c-dinh-gia-co-b-5134192.html",
+      "summary": "GT là mẫu xe thay thế cho MG5 nhập khẩu Thái Lan, giá 512-586 triệu đồng cho hai phiên bản, thấp nhất phân khúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T07:48:13+07:00",
+      "fetched": "2026-10-20T07:48:47.370269+07:00"
     },
     {
       "id": "fdb6998c0a7815b86a9c1a39e39ce1c6",
