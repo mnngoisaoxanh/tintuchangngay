@@ -1,7 +1,47 @@
 window.newsData_2026_10_23 = {
   "date": "2026-10-23",
-  "lastUpdated": "2026-10-23T02:37:58.577826+07:00",
+  "lastUpdated": "2026-10-23T05:52:09.270934+07:00",
   "articles": [
+    {
+      "id": "05d076a6142359e58faadcad719d40bb",
+      "title": "Chủ tịch Hội đồng châu Âu: Việt Nam là đối tác quan trọng của EU tại Ấn Độ Dương - Thái Bình Dương",
+      "link": "https://tuoitre.vn/chu-tich-hoi-dong-chau-au-viet-nam-la-doi-tac-quan-trong-cua-eu-tai-an-do-duong-thai-binh-duong-100261022234946843.htm",
+      "summary": "Theo Chủ tịch Hội đồng châu Âu, chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm thể hiện sự tin cậy chính trị ngày càng sâu sắc giữa Việt Nam và EU.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-23T05:52:02.866270+07:00",
+      "fetched": "2026-10-23T05:52:02.866329+07:00"
+    },
+    {
+      "id": "6182729c10854d8da671ea4768a0b167",
+      "title": "Bầu cử Israel: Vì sao thắng nhiều ghế chưa chắc lập được chính phủ?",
+      "link": "https://tuoitre.vn/bau-cu-israel-vi-sao-thang-nhieu-ghe-chua-chac-lap-duoc-chinh-phu-100261006112701618.htm",
+      "summary": "Ngày 27-10 tới, Israel sẽ bầu cử quốc hội mới. Chuyện chẳng có gì đáng nói nếu ta chưa quên rằng, trước đó, Israel đã có tới 5 cuộc bầu cử quốc hội trong vòng chưa tới 4 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-23T05:52:02.866196+07:00",
+      "fetched": "2026-10-23T05:52:02.866258+07:00"
+    },
+    {
+      "id": "1ae2b656efadfa497df570608ca472a7",
+      "title": "Cậu học sinh 12 tuổi quật ngã hàng loạt cao thủ cờ tướng top 20 Trung Quốc",
+      "link": "https://tuoitre.vn/cau-hoc-sinh-12-tuoi-quat-nga-hang-loat-cao-thu-co-tuong-top-20-trung-quoc-100261022223855927.htm",
+      "summary": "Mới 12 tuổi, Dương Tư Viễn đã liên tiếp gây bất ngờ khi đánh bại nhiều cao thủ cờ tướng Trung Quốc, trong đó có nhà vô địch châu Á Lưu Bách Hoành và hiện tượng Trần Thiệu Bác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-23T05:52:02.866117+07:00",
+      "fetched": "2026-10-23T05:52:02.866184+07:00"
+    },
+    {
+      "id": "b6b712d8dc7856c38cdce7a1fba02312",
+      "title": "Chân chạy danh tiếng của Úc bị bắt vì quấy rối tình dục trẻ em",
+      "link": "https://tuoitre.vn/chan-chay-danh-tieng-cua-uc-bi-bat-vi-quay-roi-tinh-duc-tre-em-100261022222354741.htm",
+      "summary": "Từng được xem là một trong những chân chạy nhanh nhất nước Úc, Jake Doran đang đối mặt cáo buộc liên quan hành vi quấy rối tình dục trẻ em. Vụ việc khiến vận động viên 26 tuổi bị đình chỉ hoạt động điền kinh, đồng thời mất công việc hiện tại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-23T05:52:02.865959+07:00",
+      "fetched": "2026-10-23T05:52:02.866102+07:00"
+    },
     {
       "id": "611cc60fa328885a9c49c38135bb5b96",
       "title": "AI giải đúng 49/50 bài toán, còn khiến chuyên gia vật lý phải sửa đáp án",
@@ -151,6 +191,186 @@ window.newsData_2026_10_23 = {
       "category": "Tổng hợp",
       "published": "2026-10-23T02:37:51.911217+07:00",
       "fetched": "2026-10-23T02:37:51.911369+07:00"
+    },
+    {
+      "id": "272c79204f6819c2be73436a77f11d7b",
+      "title": "Mở rộng không gian du lịch",
+      "link": "https://thanhnien.vn/mo-rong-khong-gian-du-lich-18526102221374177.htm",
+      "summary": "Sự kiện hợp long cây cầu đi bộ mang hình chiếc lá dừa nước bắc qua sông Sài Gòn là một điểm nhấn tại TP.HCM trong mấy ngày qua, không chỉ khiến cư dân thành phố náo nức mà còn thu hút sự chú ý của nhiều người ở các tỉnh, thành khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-22T22:51:00+07:00",
+      "fetched": "2026-10-23T05:52:01.260770+07:00"
+    },
+    {
+      "id": "c07d80198061a69d9abf82a3035facb9",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 23.10.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-23102026-185261022233255272.htm",
+      "summary": "Tin tức Áp giá điện theo giờ, hộ gia đình lo chi phí tăng; Bạo lực học đường: Bỏ đình chỉ học không có nghĩa là bỏ kỷ cương; Nhận diện tai nạn giao thông: Điểm đen quốc lộ… có thể đón xem trên Báo Thanh Niên số ra ngày 23.10.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-22T22:48:00+07:00",
+      "fetched": "2026-10-23T05:52:01.260950+07:00"
+    },
+    {
+      "id": "9577403e744b498069712a906370b095",
+      "title": "Uống nước đá: Người mắc bệnh tim mạch cần lưu ý điều gì?",
+      "link": "https://thanhnien.vn/uong-nuoc-da-nguoi-mac-benh-tim-mach-can-luu-y-dieu-gi-185261022204804424.htm",
+      "summary": "Nhiều người lo ngại uống nước đá có thể gây đột quỵ hoặc nhồi máu cơ tim, nhất là ở người có bệnh nền tim mạch. Từ đây, bác sĩ lý giải mức độ nguy cơ và chỉ ra những nhóm người cần lưu ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-22T22:46:00+07:00",
+      "fetched": "2026-10-23T05:52:01.261111+07:00"
+    },
+    {
+      "id": "76e02e157508bd7b22e195f1ce962796",
+      "title": "Chạy nước rút trước bầu cử giữa kỳ Mỹ",
+      "link": "https://thanhnien.vn/chay-nuoc-rut-truoc-bau-cu-giua-ky-my-185261022193330452.htm",
+      "summary": "Tổng thống Mỹ Donald Trump vừa có hành động vào phút chót với hy vọng giữ được ghế của đảng Cộng hòa trong những cuộc đua then chốt, trong khi đảng Dân chủ buộc phải chọn đường đua ưu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-22T22:45:00+07:00",
+      "fetched": "2026-10-23T05:52:01.261273+07:00"
+    },
+    {
+      "id": "9d57dcace88b7bd89525f521ca6927f2",
+      "title": "Bạo lực học đường: Bỏ đình chỉ học không có nghĩa là bỏ kỷ cương",
+      "link": "https://thanhnien.vn/bao-luc-hoc-duong-bo-dinh-chi-hoc-khong-co-nghia-la-bo-ky-cuong-185261022173249336.htm",
+      "summary": "Vụ nam sinh Trường THPT Mạc Đĩnh Chi (Hà Nội) hành hung cô giáo ngay trên bục giảng gợi nhớ những tranh luận khi Bộ GD-ĐT ban hành Thông tư 19/2025/TT-BGDĐT loại bỏ hình thức đình chỉ học tập trong xử lý kỷ luật học sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-22T22:45:00+07:00",
+      "fetched": "2026-10-23T05:52:01.261430+07:00"
+    },
+    {
+      "id": "830a119a4349b528067f03d57e7e368a",
+      "title": "86 tuổi vẫn bán vé số ở TP.HCM, cụ bà chỉ mong được về sớm ngã lưng",
+      "link": "https://thanhnien.vn/86-tuoi-van-ban-ve-so-o-tphcm-cu-ba-chi-mong-duoc-ve-som-nga-lung-185261019210348024.htm",
+      "summary": "Ở tuổi 86, cụ Đinh Thị Xuân vẫn bán vé số trên đường Dương Bá Trạc (TP.HCM). Mỗi ngày, cụ chỉ dám lấy 20 - 50 tờ, mong bán hết sớm để về nghỉ lưng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-22T22:45:00+07:00",
+      "fetched": "2026-10-23T05:52:01.261588+07:00"
+    },
+    {
+      "id": "dc4c0a2d5f840b88636ccc697fa4f4d1",
+      "title": "3 giờ sáng, sư thầy và phật tử ở TP.HCM vào bếp nấu 850 suất cơm chay",
+      "link": "https://thanhnien.vn/3-gio-sang-su-thay-va-phat-tu-o-tphcm-vao-bep-nau-850-suat-com-chay-18526102211111607.htm",
+      "summary": "Từ 3 giờ sáng, căn bếp tu viện Khánh An (phường An Phú Đông, TP.HCM) đã đỏ lửa. Hơn 90 phật tử cùng sư thầy đã cùng chuẩn bị 850 suất cơm chay gửi đến bệnh nhân khó khăn tại 2 bệnh viện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-22T22:35:00+07:00",
+      "fetched": "2026-10-23T05:52:01.261769+07:00"
+    },
+    {
+      "id": "5457d2aa8a81351249a7d4f05c3336ef",
+      "title": "Đội tuyển Việt Nam biến động hàng công: Chờ Tiến Linh và Đình Bắc lần đầu song tấu",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-bien-dong-hang-cong-cho-tien-linh-va-dinh-bac-lan-dau-song-tau-185261022191233297.htm",
+      "summary": "Xuân Son, Hoàng Hên và Tài Lộc đồng loạt chấn thương khiến hàng công đội tuyển Việt Nam đứng trước những thay đổi lớn trong đợt tập trung tháng 11. Đây có thể là cơ hội để Tiến Linh trở lại, sát cánh cùng Đình Bắc tạo thành cặp tiền đạo đáng chờ đợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-22T22:32:00+07:00",
+      "fetched": "2026-10-23T05:52:01.261927+07:00"
+    },
+    {
+      "id": "40e30404fc910c4d8b64172869e8a46d",
+      "title": "Tiêu điểm quốc tế ngày 23.10: Triều Tiên có hành động mới | Mỹ-Israel vẫn nhắm vào Iran?",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-2310-trieu-tien-co-hanh-dong-moi-my-israel-van-nham-vao-iran-185261022225234367.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 23.10.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-22T22:30:00+07:00",
+      "fetched": "2026-10-23T05:52:01.262081+07:00"
+    },
+    {
+      "id": "d3a91164cad1f30ba204566b0016bf52",
+      "title": "Mua ngẫu nhiên 5 tờ, người phụ nữ trúng độc đắc 10 tỉ xổ số miền Nam",
+      "link": "https://thanhnien.vn/mua-ngau-nhien-5-to-nguoi-phu-nu-trung-doc-dac-10-ti-xo-so-mien-nam-185261022155404902.htm",
+      "summary": "Người phụ nữ ở Cà Mau mua ngẫu nhiên 5 tờ vé số bất ngờ trúng độc đắc theo kết quả xổ số miền Nam ngày 18 tháng 10. Sau đúng một tháng, đại lý nơi người này mua tiếp tục bán trúng độc đắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-22T22:30:00+07:00",
+      "fetched": "2026-10-23T05:52:01.262229+07:00"
+    },
+    {
+      "id": "506443b975c282cf569e6776eb1e8038",
+      "title": "Giá xăng giảm mạnh: Người chen chân đổ đầy bình, tài xế tính chuyện tăng ca",
+      "link": "https://thanhnien.vn/gia-xang-giam-manh-nguoi-chen-chan-do-day-binh-tai-xe-tinh-chuyen-tang-ca-185261022211256627.htm",
+      "summary": "Giá xăng giảm mạnh từ chiều 22.10.2026 khiến nhiều người dân TP.HCM tranh thủ đổ đầy bình để tiết kiệm chi phí. Không chỉ vui vì bớt được vài nghìn đồng mỗi lần đổ xăng, có tài xế còn tính chuyện tăng ca, chạy thêm cuốc xe để cải thiện thu nhập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-22T22:28:00+07:00",
+      "fetched": "2026-10-23T05:52:01.262380+07:00"
+    },
+    {
+      "id": "be6744708467cde8957475106b91c937",
+      "title": "Danh thắng đầm Ô Loan: Về 'ngôi làng cô đơn' nghe cụ bà U.110 kể chuyện",
+      "link": "https://thanhnien.vn/danh-thang-dam-o-loan-ve-ngoi-lang-co-don-nghe-cu-ba-u110-ke-chuyen-185261021104356416.htm",
+      "summary": "Làng Tân Hòa nằm trên doi đất giữa đầm Ô Loan (Đắk Lắk), bốn bề bao quanh bởi nước lợ. Nhiều thế hệ cư dân nơi đây vẫn bám đầm mưu sinh, dù đất ruộng ít ỏi và cuộc sống thường xuyên đối mặt với mưa bão.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-22T22:23:00+07:00",
+      "fetched": "2026-10-23T05:52:01.262526+07:00"
+    },
+    {
+      "id": "63c0faaabd52766591cb9d01c9438090",
+      "title": "Phường Vũng Tàu buộc doanh nghiệp trả nhà, đất mà người dân cho Nhà nước mượn",
+      "link": "https://thanhnien.vn/phuong-vung-tau-buoc-doanh-nghiep-tra-nha-dat-ma-nguoi-dan-cho-nha-nuoc-muon-185261022200457882.htm",
+      "summary": "Phường Vũng Tàu buộc doanh nghiệp bàn giao nhà, đất chậm nhất trước ngày 31.10.2026. Trường hợp quá thời hạn nêu trên, phường sẽ lập hồ sơ cưỡng chế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-22T22:19:00+07:00",
+      "fetched": "2026-10-23T05:52:01.262700+07:00"
+    },
+    {
+      "id": "ca6d67a2e4b1a642e655dc2fd63662c5",
+      "title": "Tử vi ngày 23 tháng 10: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-23-thang-10-con-giap-nao-may-man-hom-nay-185261023020111254.htm",
+      "summary": "Tử vi ngày 23 tháng 10 mang đến những gợi ý tham khảo cho 12 con giáp trong ngày thứ sáu, khi nhiều người đang hoàn tất công việc và chuẩn bị cho cuối tuần. Tử vi hôm nay có người tìm lại được khoản tiền tưởng đã mất, người nhận cơ hội từ một quyết định bất ngờ, trong khi một số con giáp cần chú ý c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-22T22:15:00+07:00",
+      "fetched": "2026-10-23T05:52:01.262859+07:00"
+    },
+    {
+      "id": "6ee2c681e940e9324220e928f85b5c9a",
+      "title": "Mỹ - Israel bàn kế hoạch nhắm vào Iran",
+      "link": "https://thanhnien.vn/my-israel-ban-ke-hoach-nham-vao-iran-185261022212250508.htm",
+      "summary": "Tờ The New York Times ngày 22.10 dẫn lời các nguồn thạo tin cho biết quân đội Mỹ và Israel đã lên các kế hoạch cụ thể cho những đợt tấn công mới nhắm vào Iran sau cuộc bầu cử giữa nhiệm kỳ tại Mỹ, có thể là một chiến dịch ngắn với cường độ cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-22T22:12:00+07:00",
+      "fetched": "2026-10-23T05:52:01.263007+07:00"
+    },
+    {
+      "id": "e9077c790fdca9044a5234714cf82a0b",
+      "title": "Thế khó của Ukraine khi đàm phán ba bên với Nga, Mỹ",
+      "link": "https://vnexpress.net/the-kho-cua-ukraine-khi-dam-phan-ba-ben-voi-nga-my-5135429.html",
+      "summary": "Ukraine chấp nhận đàm phán ba bên cùng Nga, Mỹ, nhưng đối mặt nguy cơ bị Washington gây sức ép để đồng ý thỏa thuận có lợi cho Moskva.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-22T22:00:00+07:00",
+      "fetched": "2026-10-23T05:52:04.703143+07:00"
+    },
+    {
+      "id": "1eead47399233dc16cd9d96da8fefbc3",
+      "title": "Biến cố 25 năm trước và chiến lược 'mật độ nhân tài' tại Netflix",
+      "link": "https://vnexpress.net/bien-co-25-nam-truoc-va-chien-luoc-mat-do-nhan-tai-tai-netflix-5135358.html",
+      "summary": "Từ biến cố cách đây 25 năm, Netflix tin rằng việc chọn lọc nhóm nhỏ những người phù hợp sẽ mang lại hiệu quả tốt hơn cố giữ nhiều nhân viên.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-22T22:00:00+07:00",
+      "fetched": "2026-10-23T05:52:07.871052+07:00"
+    },
+    {
+      "id": "410d9bb3be6ee819727f354981c26fe6",
+      "title": "Sá xị Chương Dương có tín hiệu khởi sắc",
+      "link": "https://vnexpress.net/sa-xi-chuong-duong-co-tin-hieu-khoi-sac-5135025.html",
+      "summary": "Chưa ngắt chuỗi lỗ sau thuế 23 quý liên tiếp, nhưng tình hình của Sá xị Chương Dương có tín hiệu khởi sắc khi doanh số tăng và lỗ giảm dần.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-22T21:00:06+07:00",
+      "fetched": "2026-10-23T05:52:06.214666+07:00"
     },
     {
       "id": "34e5f4496c4eda2b196e60702a01c66f",
