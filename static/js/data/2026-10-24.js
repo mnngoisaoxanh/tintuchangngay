@@ -1,6 +1,6 @@
 window.newsData_2026_10_24 = {
   "date": "2026-10-24",
-  "lastUpdated": "2026-10-24T02:38:32.182936+07:00",
+  "lastUpdated": "2026-10-24T05:44:56.724431+07:00",
   "articles": [
     {
       "id": "c281160f37c3a28bb6405fd04e3a468e",
@@ -151,6 +151,136 @@ window.newsData_2026_10_24 = {
       "category": "Tổng hợp",
       "published": "2026-10-24T02:38:25.551389+07:00",
       "fetched": "2026-10-24T02:38:25.551516+07:00"
+    },
+    {
+      "id": "85f704182f85f35f470edff2f24e369b",
+      "title": "Vòng xoáy đường cùng sinh kế: Phải bảo vệ người bán vé số dạo",
+      "link": "https://thanhnien.vn/vong-xoay-duong-cung-sinh-ke-phai-bao-ve-nguoi-ban-ve-so-dao-185261023000934934.htm",
+      "summary": "Dù mức chiết khấu có thể được thỏa thuận giữa các bên, nhưng nếu không có cơ chế bảo vệ phù hợp thì người bán vé số dạo thường ở vị thế yếu hơn trong quan hệ giao nhận và thanh toán với đại lý",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-23T22:31:00+07:00",
+      "fetched": "2026-10-24T05:44:50.082011+07:00"
+    },
+    {
+      "id": "3a3433b359f351ee2eb0ca22c98d6b57",
+      "title": "Tiêu điểm quốc tế 24.10: Động đất ở Tây Tạng | Ông Putin nói về hòa đàm",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-2410-dong-dat-o-tay-tang-ong-putin-noi-ve-hoa-dam-185261023230748406.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin Tiêu điểm quốc tế ngày 23.10.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-23T22:30:00+07:00",
+      "fetched": "2026-10-24T05:44:50.082179+07:00"
+    },
+    {
+      "id": "17c4ba7f4bd0563f8dedbdf4043ae9b1",
+      "title": "Dãy số giúp 10 người cùng trúng 6,9 tỉ đồng xổ số miền Nam đài Hậu Giang",
+      "link": "https://thanhnien.vn/day-so-giup-10-nguoi-cung-trung-69-ti-dong-xo-so-mien-nam-dai-hau-giang-185261023112644765.htm",
+      "summary": "21 tờ vé có cùng dãy số cuối giúp 10 người trúng tổng 6,9 tỉ đồng xổ số miền Nam đài Hậu Giang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-23T22:30:00+07:00",
+      "fetched": "2026-10-24T05:44:50.082336+07:00"
+    },
+    {
+      "id": "c94f1ad1d1ce46333ec2272bff6e8b39",
+      "title": "Tin quốc tế sáng 24.10: Rất nhiều diễn biến quan trọng ở Ukraine, Pháp và Bờ Tây",
+      "link": "https://thanhnien.vn/tin-quoc-te-sang-2410-rat-nhieu-dien-bien-quan-trong-o-ukraine-phap-va-bo-tay-185261023231643132.htm",
+      "summary": "Thỏa thuận ngừng bắn cục bộ Nga - Ukraine, kế hoạch rất lớn của Israel ở Bờ Tây, tình hình biểu tình ở Pháp... Thanh Niên sẽ tiếp tục cập nhật các tin tức quốc tế nổi bật trong ngày 24.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-23T22:25:00+07:00",
+      "fetched": "2026-10-24T05:44:50.082495+07:00"
+    },
+    {
+      "id": "636484ed43f9ec54b2be84f0447a15d1",
+      "title": "4 trẻ bị bỏ rơi trước chùa Diệu Giác ở TP.HCM: Chưa có người thân đến nhận",
+      "link": "https://thanhnien.vn/4-tre-bi-bo-roi-truoc-chua-dieu-giac-o-tphcm-chua-co-nguoi-than-den-nhan-185261023194424222.htm",
+      "summary": "Sau 7 ngày phát thông báo tìm thân nhân, UBND phường An Khánh (TP.HCM) chưa ghi nhận người đến nhận 4 trẻ bị bỏ rơi trước chùa Diệu Giác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-23T22:18:00+07:00",
+      "fetched": "2026-10-24T05:44:50.082650+07:00"
+    },
+    {
+      "id": "9b72beb7fd366aec85098c915525dac8",
+      "title": "Tử vi ngày 24 tháng 10: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-24-thang-10-con-giap-nao-may-man-hom-nay-185261023234149207.htm",
+      "summary": "Tử vi ngày 24 tháng 10 mang đến những gợi ý tham khảo cho 12 con giáp. Hôm nay có người nhận được món quà bất ngờ, người tìm ra cách tiết kiệm một khoản đáng kể, trong khi một số con giáp cần thận trọng với những quyết định liên quan đến lịch trình và sinh hoạt chung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-23T22:15:00+07:00",
+      "fetched": "2026-10-24T05:44:50.082832+07:00"
+    },
+    {
+      "id": "5128f05efe759549d6a8a1668da0356e",
+      "title": "Xe biển xanh, biển đỏ nào được lắp đèn, còi ưu tiên?",
+      "link": "https://thanhnien.vn/xe-bien-xanh-bien-do-nao-duoc-lap-den-coi-uu-tien-185261023150623961.htm",
+      "summary": "Phòng CSGT Công an tỉnh Vĩnh Long vừa có văn bản phản hồi PV Thanh Niên về xe biển xanh, biển đỏ được phép gắn đèn, còi ưu tiên và xử phạt trường hợp tự ý lắp đặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-23T22:15:00+07:00",
+      "fetched": "2026-10-24T05:44:50.082987+07:00"
+    },
+    {
+      "id": "b87b349a8003a8a1d96ccddb702f6459",
+      "title": "Trung Quốc cứu hộ sau động đất chết người ở Tây Tạng",
+      "link": "https://thanhnien.vn/trung-quoc-cuu-ho-sau-dong-dat-chet-nguoi-o-tay-tang-185261023223745474.htm",
+      "summary": "Hôm qua (23.10), Tân Hoa xã đưa tin một trận động đất mạnh đã làm ít nhất 16 người thiệt mạng và 76 người khác bị thương tại Khu tự trị Tây Tạng ở tây nam Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-23T22:00:00+07:00",
+      "fetched": "2026-10-24T05:44:50.083145+07:00"
+    },
+    {
+      "id": "f5f67256fc4dc2a997ef972b890626bc",
+      "title": "Lịch âm hôm nay 24.10: Rằm tháng 9 vào ngày Tân Mùi",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-2410-ram-thang-9-vao-ngay-tan-mui-185261023100801041.htm",
+      "summary": "Theo lịch âm hôm nay 24.10 là ngày Tân Mùi, cũng là ngày rằm tháng 9. Hôm nay là ngày gì đáng chú ý?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-23T22:00:00+07:00",
+      "fetched": "2026-10-24T05:44:50.083295+07:00"
+    },
+    {
+      "id": "5efb743d7a50fd432e9fe019e473a760",
+      "title": "Danh thắng đầm Ô Loan: Lạ kỳ đèn dầu gọi tôm",
+      "link": "https://thanhnien.vn/danh-thang-dam-o-loan-la-ky-den-dau-goi-tom-185261021105645659.htm",
+      "summary": "Khi trời chạng vạng, ngư dân làng Tân Hòa (Đắk Lắk) lại chèo ghe ra đầm Ô Loan, thắp đèn dầu dẫn dụ tôm vào bẫy. Nghề chấn tôm truyền thống vẫn là sinh kế của nhiều gia đình qua bao thế hệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-23T22:00:00+07:00",
+      "fetched": "2026-10-24T05:44:50.083445+07:00"
+    },
+    {
+      "id": "45dfb17c7ee333489ed97a86d0e4ac1b",
+      "title": "Từ vụ nam sinh đánh cô giáo: Hồi chuông cảnh báo và chính sách tư pháp nhân văn",
+      "link": "https://thanhnien.vn/tu-vu-nam-sinh-danh-co-giao-hoi-chuong-canh-bao-va-chinh-sach-tu-phap-nhan-van-185261022092622465.htm",
+      "summary": "Theo luật sư Lê Trung Phát, điều 12 bộ luật Hình sự năm 2015 quy định rõ người từ đủ 16 tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-23T21:47:00+07:00",
+      "fetched": "2026-10-24T05:44:50.083591+07:00"
+    },
+    {
+      "id": "cbe5d24de2d1676f17bd2ff6dee06128",
+      "title": "Hôm nay HLV Kim Sang-sik trở lại Hà Nội, bắt đầu tìm công thức mới của đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/hom-nay-hlv-kim-sang-sik-tro-lai-ha-noi-bat-dau-tim-cong-thuc-moi-cua-doi-tuyen-viet-nam-185261023214955.htm",
+      "summary": "Phẩm chất ngôi sao đã dẫn lối đội tuyển VN lên ngôi vương Đông Nam Á 2 năm liên tiếp, nhưng để thành công ở Asian Cup, HLV Kim Sang-sik cần một công thức khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-23T21:24:00+07:00",
+      "fetched": "2026-10-24T05:44:50.083768+07:00"
+    },
+    {
+      "id": "e6cfcf4b9b4e06d32afd161018e3655f",
+      "title": "SLNA chiếm đỉnh V-League, HAGL tiếp tục trượt dài",
+      "link": "https://thanhnien.vn/slna-chiem-dinh-v-league-hagl-tiep-tuc-truot-dai-185261023215906891.htm",
+      "summary": "Thất bại 0-2 trước SLNA ở vòng 5 trên sân nhà Pleiku Arena đã đẩy HAGL xuống vị trí 12 V-League 2026 - 2027, chính thức trở lại cuộc đua trụ hạng đầy khắc nghiệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-23T20:18:00+07:00",
+      "fetched": "2026-10-24T05:44:50.083919+07:00"
     },
     {
       "id": "8699598c64a73750a00261138fa03f01",
