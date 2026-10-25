@@ -1,7 +1,157 @@
 window.newsData_2026_10_25 = {
   "date": "2026-10-25",
-  "lastUpdated": "2026-10-25T09:19:16.204069+07:00",
+  "lastUpdated": "2026-10-25T15:49:10.032799+07:00",
   "articles": [
+    {
+      "id": "1575ae7bf0a7bd7d482aad7031aa5f32",
+      "title": "Honda Vario Evo lộ thông tin ở Việt Nam: Hầm hố hơn bản thường, có ABS",
+      "link": "https://tuoitre.vn/honda-vario-evo-lo-thong-tin-o-viet-nam-ham-ho-hon-ban-thuong-co-abs-10026102508505723.htm",
+      "summary": "Honda Vario Evo 160 đã xuất hiện trong hồ sơ đăng ký bảo hộ kiểu dáng tại Việt Nam. Mẫu xe tay ga này có thiết kế góc cạnh hơn Vario 160 hiện hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T15:49:03.260702+07:00",
+      "fetched": "2026-10-25T15:49:03.260755+07:00"
+    },
+    {
+      "id": "b7cb8cb430195f93918329f9de011beb",
+      "title": "Bảo hiểm nhân thọ: Niềm tin phải được bảo chứng bằng năng lực tài chính",
+      "link": "https://tuoitre.vn/bao-hiem-nhan-tho-niem-tin-phai-duoc-bao-chung-bang-nang-luc-tai-chinh-100261024145917876.htm",
+      "summary": "Một hợp đồng bảo hiểm nhân thọ là lời hứa có thể kéo dài hàng chục năm. Vì vậy, niềm tin của khách hàng không chỉ là những quyền lợi ghi trên hợp đồng, mà còn là: doanh nghiệp có đủ sức mạnh tài chính để giữ lời hứa đến cùng?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T15:49:03.260637+07:00",
+      "fetched": "2026-10-25T15:49:03.260693+07:00"
+    },
+    {
+      "id": "0b1a1358d5a79daf9f98a8bbc90b9b9c",
+      "title": "Cả giải Saudi Arabia họp khẩn để xác minh bàn thắng thứ 982 của Ronaldo",
+      "link": "https://tuoitre.vn/ca-giai-saudi-arabia-hop-khan-de-xac-minh-ban-thang-thu-982-cua-ronaldo-100261025131015561.htm",
+      "summary": "Bàn thắng gây tranh cãi của Cristiano Ronaldo trước Al Faisaly trở thành tâm điểm chú ý, khi bộ phận trọng tài phải họp lại để xác định chính xác người ghi bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T15:49:03.260557+07:00",
+      "fetched": "2026-10-25T15:49:03.260627+07:00"
+    },
+    {
+      "id": "e6b9764131375a83e0bb321350a29584",
+      "title": "Ông Infantino đáp trả sức ép từ chức, khẳng định được đa số ủng hộ",
+      "link": "https://tuoitre.vn/ong-infantino-dap-tra-suc-ep-tu-chuc-khang-dinh-duoc-da-so-ung-ho-100261025120554465.htm",
+      "summary": "Chủ tịch FIFA Gianni Infantino khẳng định vẫn nhận được sự ủng hộ rộng rãi, bất chấp những lời kêu gọi từ chức sau kế hoạch thương mại gây tranh cãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T15:49:03.260479+07:00",
+      "fetched": "2026-10-25T15:49:03.260546+07:00"
+    },
+    {
+      "id": "cf33ca567c90bc9bd675b1729a6c2b42",
+      "title": "Ca tử vong vì ung thư gan gần bằng ca mắc mới, bác sĩ chỉ ra các 'thủ phạm'",
+      "link": "https://tuoitre.vn/ca-tu-vong-vi-ung-thu-gan-gan-bang-ca-mac-moi-bac-si-chi-ra-cac-thu-pham-100261025125254286.htm",
+      "summary": "Lá gan được ví như “nhà máy” thầm lặng của cơ thể, có thể bị tổn thương nghiêm trọng mà ít biểu hiện triệu chứng. Đây là lý do ung thư gan thường phát hiện muộn, số ca tử vong hằng năm gần tương đương số ca mắc mới (13.664/14.591 ca).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T15:49:03.260188+07:00",
+      "fetched": "2026-10-25T15:49:03.260461+07:00"
+    },
+    {
+      "id": "b12b11a44c378328ca5acb297459dbbc",
+      "title": "Phường Cát Lái lấy ý kiến quy hoạch làm đường liên cảng 8.700 tỉ đồng, tách xe container khỏi khu dân cư",
+      "link": "https://tuoitre.vn/phuong-cat-lai-lay-y-kien-quy-hoach-lam-duong-lien-cang-8700-ti-dong-tach-xe-container-khoi-khu-dan-cu-100261025114823545.htm",
+      "summary": "Đường liên cảng là dự án đầu tiên tại TP.HCM xây dựng tuyến đường chuyên biệt cho vận tải hàng hóa, kết nối cảng với mạng lưới liên vùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T15:49:03.260147+07:00",
+      "fetched": "2026-10-25T15:49:03.260182+07:00"
+    },
+    {
+      "id": "b3551baa0ef5c80c87c387e5e3d9a9e7",
+      "title": "Thái tử Anh William kể ước mơ làm cảnh sát, mê phim Christopher Nolan",
+      "link": "https://tuoitre.vn/thai-tu-anh-william-ke-uoc-mo-lam-canh-sat-me-phim-christopher-nolan-100261025105044578.htm",
+      "summary": "Hoàng tử William khiến người hâm mộ thích thú khi xuất hiện trên The Graham Norton Show, trở thành thành viên hoàng gia đầu tiên tham gia chương trình này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T15:49:03.260103+07:00",
+      "fetched": "2026-10-25T15:49:03.260140+07:00"
+    },
+    {
+      "id": "b7a25f03c0d0c134304e1017c3ce33c8",
+      "title": "Sốc: Nhà vô địch taekwondo bị bắn chết, nghi 'thanh trừng' trong giới võ thuật",
+      "link": "https://tuoitre.vn/soc-nha-vo-dich-taekwondo-bi-ban-chet-nghi-thanh-trung-trong-gioi-vo-thuat-100261025115126776.htm",
+      "summary": "Cựu vô địch taekwondo châu Âu Slavi Binev, người đang giữ nhiều chức vụ quan trọng trong làng võ thuật quốc tế, bị bắn chết ngay tại nhà riêng ở Bulgaria. Đáng chú ý, một nghi phạm có chân trong ban lãnh đạo Liên đoàn Taekwondo Thổ Nhĩ Kỳ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T15:49:03.260058+07:00",
+      "fetched": "2026-10-25T15:49:03.260096+07:00"
+    },
+    {
+      "id": "9b4b799b615aa4219c4c05a1fcdee383",
+      "title": "Nhìn từ tuyển sinh đại học 2026, thí sinh 2027 cần lưu ý gì khi chọn ngành?",
+      "link": "https://tuoitre.vn/nhin-tu-tuyen-sinh-dai-hoc-2026-thi-sinh-2027-can-luu-y-gi-khi-chon-nganh-100261025125101154.htm",
+      "summary": "Số liệu tuyển sinh đại học năm 2026 cho thấy sự phân hóa giữa các nhóm ngành, đặt ra những lưu ý cho thí sinh năm 2027 trong việc chọn ngành phù hợp với năng lực, sở thích và cơ hội nghề nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T15:49:03.260014+07:00",
+      "fetched": "2026-10-25T15:49:03.260052+07:00"
+    },
+    {
+      "id": "185a544c99f67e06d0c097c55eb6ac81",
+      "title": "Va chạm giữa hai xe máy ở Hải Phòng, 4 người tử vong",
+      "link": "https://tuoitre.vn/va-cham-giua-hai-xe-may-o-hai-phong-4-nguoi-tu-vong-100261025133604026.htm",
+      "summary": "Bốn người từ 16 - 21 tuổi tử vong sau cú va chạm mạnh giữa hai xe máy trên đường Võ Văn Kiệt thuộc phường Thạch Khôi, TP Hải Phòng vào rạng sáng 25-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T15:49:03.259971+07:00",
+      "fetched": "2026-10-25T15:49:03.260008+07:00"
+    },
+    {
+      "id": "05c9d615eb3de8599d8fdc4ac3976c6b",
+      "title": "Biểu tượng bóng đá Trung Quốc sụp đổ khó tin",
+      "link": "https://tuoitre.vn/bieu-tuong-bong-da-trung-quoc-sup-do-kho-tin-100261025134123166.htm",
+      "summary": "Chỉ bốn năm sau khi viết nên câu chuyện cổ tích với chức vô địch quốc gia Trung Quốc ngay mùa đầu tiên thăng hạng, CLB Vũ Hán Tam Trấn đã phải nhận kết cục cay đắng: xuống hạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T15:49:03.259926+07:00",
+      "fetched": "2026-10-25T15:49:03.259965+07:00"
+    },
+    {
+      "id": "d3b5b74df2eeba3871680b6f971ca450",
+      "title": "Biểu tình lan rộng ở châu Âu, chính quyền huy động cảnh sát, quân đội kiểm soát tình hình",
+      "link": "https://tuoitre.vn/bieu-tinh-lan-rong-o-chau-au-chinh-quyen-huy-dong-canh-sat-quan-doi-kiem-soat-tinh-hinh-100261025113612449.htm",
+      "summary": "Ngày 24-10, hàng ngàn người xuống đường tại nhiều thành phố châu Âu để phản đối nhiều chính sách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T15:49:03.259874+07:00",
+      "fetched": "2026-10-25T15:49:03.259919+07:00"
+    },
+    {
+      "id": "58804995a0868fecb82e81e6b2fb44f7",
+      "title": "Người ngồi trong ô tô kéo lê xe cải tiến, tài xế bị phạt 900.000 đồng",
+      "link": "https://tuoitre.vn/nguoi-ngoi-trong-o-to-keo-le-xe-cai-tien-tai-xe-bi-phat-900000-dong-100261025012527815.htm",
+      "summary": "Một tài xế ô tô tại Bắc Ninh bị phạt 900.000 đồng sau khi để người ngồi trong xe dùng tay giữ hai càng của xe cải tiến, kéo xe này di chuyển trên đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T15:49:03.259821+07:00",
+      "fetched": "2026-10-25T15:49:03.259866+07:00"
+    },
+    {
+      "id": "a633ba94a37158c08cc22e3653d45f0b",
+      "title": "Học bổng Khuyến tài 26 năm hỗ trợ hàng ngàn sinh viên khó khăn thành bác sĩ, nhà giáo, kỹ sư...",
+      "link": "https://tuoitre.vn/hoc-bong-khuyen-tai-26-nam-ho-tro-hang-ngan-sinh-vien-kho-khan-thanh-bac-si-nha-giao-ky-su-100261025140522402.htm",
+      "summary": "Sáng 25-10, tại Trường Đại học Sài Gòn, Hội Khuyến học TP.HCM đã tổ chức Ngày hội truyền thống Khuyến học và Lễ trao học bổng Khuyến tài - Học bổng 1&1 năm học 2026 - 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T15:49:03.259758+07:00",
+      "fetched": "2026-10-25T15:49:03.259814+07:00"
+    },
+    {
+      "id": "3a4df21f4f2c8a790cdc6358f41a3f14",
+      "title": "'Đi làm mà đồng nghiệp dễ thương thì cứ muốn lên công ty hoài thôi'",
+      "link": "https://tuoitre.vn/di-lam-ma-dong-nghiep-de-thuong-thi-cu-muon-len-cong-ty-hoai-thoi-100261025113604548.htm",
+      "summary": "Có người xem đồng nghiệp tốt là 'liều thuốc giảm đau giữa áp lực công việc, người khác cho rằng thu nhập mới là điều quyết định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T15:49:03.259624+07:00",
+      "fetched": "2026-10-25T15:49:03.259747+07:00"
+    },
     {
       "id": "fdbcb12970053ff4db4248722f807f85",
       "title": "Ukraine tấn công vào Crimea",
@@ -153,6 +303,276 @@ window.newsData_2026_10_25 = {
       "fetched": "2026-10-25T09:19:09.594955+07:00"
     },
     {
+      "id": "529278b8d6b6cec061c6aa62f6514da7",
+      "title": "Quảng Ninh: Bắt giữ 11 người vận chuyển hơn 6 tấn thực phẩm qua biên giới",
+      "link": "https://thanhnien.vn/quang-ninh-bat-giu-11-nguoi-van-chuyen-hon-6-tan-thuc-pham-qua-bien-gioi-185261025144432271.htm",
+      "summary": "Bộ đội Biên phòng TP.Quảng Ninh bắt giữ 11 người vận chuyển trái phép hơn 6 tấn thực phẩm không rõ nguồn gốc như nầm lợn, trứng gà non đông lạnh... qua biên giới, nhiều thùng đã bốc mùi hôi thối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T08:46:00+07:00",
+      "fetched": "2026-10-25T15:49:01.507692+07:00"
+    },
+    {
+      "id": "67e58b387adbf99b039c2f01f5d56765",
+      "title": "Bộ Công an giải thích việc xử phạt không lập biên bản với 'phạt nguội'",
+      "link": "https://thanhnien.vn/bo-cong-an-giai-thich-viec-xu-phat-khong-lap-bien-ban-voi-phat-nguoi-185261025142827968.htm",
+      "summary": "Dự kiến các trường hợp vi phạm hành chính phát hiện bằng phương tiện, thiết bị kỹ thuật, nghiệp vụ sẽ được áp dụng hình thức xử phạt không lập biên bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T08:43:00+07:00",
+      "fetched": "2026-10-25T15:49:01.507810+07:00"
+    },
+    {
+      "id": "d577efff38bc6aa671e8a5476f731ee1",
+      "title": "Tai nạn giữa 2 xe máy ở Hải Phòng, 4 người tử vong",
+      "link": "https://thanhnien.vn/tai-nan-giua-2-xe-may-o-hai-phong-4-nguoi-tu-vong-185261025142255991.htm",
+      "summary": "Vụ tai nạn giao thông nghiêm trọng xảy ra rạng sáng 25.10 trên đường Võ Văn Kiệt (TP.Hải Phòng) khiến 4 thanh niên tuổi tử vong. Công an TP.Hải Phòng đang điều tra, làm rõ nguyên nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T08:41:00+07:00",
+      "fetched": "2026-10-25T15:49:01.507914+07:00"
+    },
+    {
+      "id": "9862c4eb6d733a399ee644e9a0f9a0df",
+      "title": "Mở cửa nền kinh tế 'bay'",
+      "link": "https://thanhnien.vn/mo-cua-nen-kinh-te-bay-185261008232705685.htm",
+      "summary": "Từ những sườn dốc trên vùng núi Điện Biên đến các cánh đồng lúa bạt ngàn ở ĐBSCL, những thiết bị bay không người lái (UAV, drone) đã phun thuốc, rải phân, gieo hạt… thay cho những người nông dân vốn quen việc đồng áng bao đời qua. Đây chỉ là một số ứng dụng của nền kinh tế tầm thấp mà VN được đánh g...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T08:32:00+07:00",
+      "fetched": "2026-10-25T15:49:01.508016+07:00"
+    },
+    {
+      "id": "db78f2f751fabe61c8fe569b380e4ea5",
+      "title": "Mở biên tăng trưởng bằng công nghệ",
+      "link": "https://thanhnien.vn/mo-bien-tang-truong-bang-cong-nghe-185261010201443993.htm",
+      "summary": "Trước đây, muốn mở rộng quy mô, doanh nghiệp gần như bắt buộc phải giải bài toán về vốn, đất đai, nhà xưởng, máy móc và mạng lưới phân phối. Thêm một cửa hàng, chi nhánh hay kho hàng đồng nghĩa với việc gia tăng cơ hội tiếp cận thị trường. Nhờ sự bùng nổ của kinh tế số, logic đó đang dần thay đổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T08:31:00+07:00",
+      "fetched": "2026-10-25T15:49:01.508114+07:00"
+    },
+    {
+      "id": "c3f3515c5a0aaf80a820ee1c8efa1789",
+      "title": "Thủy điện lớn nhất miền Nam giảm xả lũ, ngày hội bắt cá cận kề",
+      "link": "https://thanhnien.vn/thuy-dien-lon-nhat-mien-nam-giam-xa-lu-ngay-hoi-bat-ca-can-ke-185261025140312583.htm",
+      "summary": "Sau hơn 1 tháng xả lũ liên tiếp với lưu lượng thay đổi liên tục, từ chiều 25.10 Thủy điện Trị An giảm lưu lượng xả lũ xuống mức thấp nhất chỉ 146 m³/giây. Nhiều người dự đoán thủy điện lớn nhất miền Nam sắp dừng xả lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T08:30:00+07:00",
+      "fetched": "2026-10-25T15:49:01.508217+07:00"
+    },
+    {
+      "id": "99eb8296519946f882b9fba9dbe71ce7",
+      "title": "Độc đáo lễ cúng máng nước của người M'Nông ở vùng cao Đà Nẵng",
+      "link": "https://thanhnien.vn/doc-dao-le-cung-mang-nuoc-cua-nguoi-mnong-o-vung-cao-da-nang-185261025150421677.htm",
+      "summary": "Lễ cúng máng nước của đồng bào M'Nông được phục dựng tại xã Trà Leng (Đà Nẵng) nhằm bảo tồn nghi lễ truyền thống, phát huy vai trò của cộng đồng trong trao truyền di sản và nâng cao ý thức bảo vệ rừng đầu nguồn, nguồn nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T08:29:00+07:00",
+      "fetched": "2026-10-25T15:49:01.508314+07:00"
+    },
+    {
+      "id": "f8c057b529731c1f6303f8b73b27d208",
+      "title": "Trẻ mắc bệnh truyền nhiễm: Chỉ ăn cháo trắng, kiêng tắm, dùng thuốc hạ sốt là khỏi bệnh?",
+      "link": "https://thanhnien.vn/tre-mac-benh-truyen-nhiem-chi-an-chao-trang-kieng-tam-dung-thuoc-ha-sot-la-khoi-benh-185261025144357528.htm",
+      "summary": "Trẻ nhỏ thường hiếu động, thích khám phá và tiếp xúc với nhiều đồ vật xung quanh, khiến nguy cơ lây nhiễm các bệnh truyền nhiễm gia tăng. Hưởng ứng Tuần lễ Kiểm soát Nhiễm khuẩn Quốc tế, Bệnh viện Đại học Y Dược TP.HCM tổ chức chương trình tư vấn sức khỏe, hướng dẫn phụ huynh cách phòng bệnh cho trẻ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T08:24:00+07:00",
+      "fetched": "2026-10-25T15:49:01.508412+07:00"
+    },
+    {
+      "id": "92e0f65f46f153972dd66f89658132a2",
+      "title": "Hoa hậu Quỳnh Anh bị xử lý, không biểu diễn 6 tháng sau ồn ào nhóm chat",
+      "link": "https://thanhnien.vn/hoa-hau-quynh-anh-bi-xu-ly-khong-bieu-dien-6-thang-sau-on-ao-nhom-chat-185261025144805899.htm",
+      "summary": "Tổ chức Miss Universe Vietnam 2026 vừa đưa ra thông báo về việc xử lý trường hợp của Hoa hậu Nguyễn Quỳnh Anh và Á hậu Trịnh Mỹ Anh sau ồn ào nhóm chat gây xôn xao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T08:08:00+07:00",
+      "fetched": "2026-10-25T15:49:01.508509+07:00"
+    },
+    {
+      "id": "1e2d992351a7af84befe57cbdd4da175",
+      "title": "Học trò, khán giả thương tiếc đạo diễn Nguyễn Vinh Sơn",
+      "link": "https://thanhnien.vn/hoc-tro-khan-gia-thuong-tiec-dao-dien-nguyen-vinh-son-185261025133222038.htm",
+      "summary": "Trong ký ức của nhiều thế hệ học trò, khán giả, đạo diễn phim Đất phương Nam Nguyễn Vinh Sơn không chỉ là người làm nên tác phẩm ghi dấu ấn trong lòng nhiều thế hệ khán giả mà còn là người thầy kiệm lời và rất trọng lời hứa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T08:01:00+07:00",
+      "fetched": "2026-10-25T15:49:01.508609+07:00"
+    },
+    {
+      "id": "f8c7301336b5bdfb43cf1ca6cc1b8ed3",
+      "title": "Xả súng trong ngày hội trường ở Mỹ, 11 người trúng đạn",
+      "link": "https://vnexpress.net/xa-sung-trong-ngay-hoi-truong-o-my-11-nguoi-trung-dan-5136644.html",
+      "summary": "Một vụ ẩu đả tại ngày hội truyền thống của Đại học Florida A&M, bang Florida, đã biến thành xả súng, khiến 11 người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-25T08:00:07+07:00",
+      "fetched": "2026-10-25T15:49:04.565442+07:00"
+    },
+    {
+      "id": "a57b18542565ac8521452fd585154c40",
+      "title": "Giày mũi tròn linh hoạt biến hóa cùng đa dạng phong cách",
+      "link": "https://thanhnien.vn/thoi-trang-tre/giay-mui-tron-linh-hoat-bien-hoa-cung-da-dang-phong-cach-185261024110051207.htm",
+      "summary": "Giày mũi tròn mang lại cảm giác êm ái cho đôi chân và tạo nên vẻ ngoài dịu dàng, kiểu thiết kế này phù hợp để diện đi học, đi làm hay dạo phố hàng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T08:00:00+07:00",
+      "fetched": "2026-10-25T15:49:01.508719+07:00"
+    },
+    {
+      "id": "fff7b6fcfbfb5ecb4342a68feeb4dd3d",
+      "title": "Có gì trong cơ sở sản xuất máy bay không người lái ngầm của Iran?",
+      "link": "https://thanhnien.vn/co-gi-trong-co-so-san-xuat-may-bay-khong-nguoi-lai-ngam-cua-iran-185261025144039694.htm",
+      "summary": "Những hình ảnh được phát trên đài truyền hình nhà nước Iran mới đây cho thấy Tổng tư lệnh quân đội nước này, tướng Amir Hatami, đến thăm một cơ sở sản xuất máy bay không người lái (UAV) nằm dưới lòng đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T07:52:00+07:00",
+      "fetched": "2026-10-25T15:49:01.508811+07:00"
+    },
+    {
+      "id": "0679afad6072631b0f479507a4cfae30",
+      "title": "Đụng độ vì dự án siêu đập thủy điện ở Ấn Độ giáp Trung Quốc",
+      "link": "https://thanhnien.vn/dung-do-vi-du-an-sieu-dap-thuy-dien-o-an-do-giap-trung-quoc-185261025143124145.htm",
+      "summary": "Nhiều người biểu tình ở Ấn Độ đã đụng độ với cảnh sát khi họ phản đối dự án xây dựng siêu đập thủy điện tại vùng Himalaya nhằm đối phó với dự án thủy điện của Trung Quốc ở thượng nguồn, theo AFP ngày 25.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T07:45:00+07:00",
+      "fetched": "2026-10-25T15:49:01.508902+07:00"
+    },
+    {
+      "id": "01c80d0c012a89477466b15291f50646",
+      "title": "Chính thức lộ diện 4 'nhà leo núi' lọt vào chung kết Đường lên đỉnh Olympia 2026",
+      "link": "https://thanhnien.vn/chinh-thuc-lo-dien-4-nha-leo-nui-lot-vao-chung-ket-duong-len-dinh-olympia-2026-185261024194135296.htm",
+      "summary": "Sau cuộc thi quý 4 với vòng nguyệt quế giành cho Đoàn Lê Anh Đức (Trường THPT chuyên Hà Nội – Amsterdam) với 220 điểm, 4 gương mặt lọt vào chung kết Đường lên đỉnh Olympia 2026 đã được xác định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T07:40:00+07:00",
+      "fetched": "2026-10-25T15:49:01.508993+07:00"
+    },
+    {
+      "id": "2e56c7dcb428e375f4fbbf530cab029a",
+      "title": "Hai nhan sắc Việt đắt sô màn ảnh rộng",
+      "link": "https://thanhnien.vn/hai-nhan-sac-viet-dat-so-man-anh-rong-185261025124645378.htm",
+      "summary": "Là những gương mặt bước ra từ các cuộc thi nhan sắc, Hoa hậu Đoàn Thiên Ân và Á hậu Huỳnh Minh Kiên đang trở thành hai cái tên được chú ý trên màn ảnh rộng khi liên tiếp góp mặt trong các phim trăm tỉ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T07:25:00+07:00",
+      "fetched": "2026-10-25T15:49:01.509088+07:00"
+    },
+    {
+      "id": "990b6965178f7ab5461daf7a31e7636d",
+      "title": "Cucurella - người điều trị Yamal ở El Clasico?",
+      "link": "https://vnexpress.net/cucurella-nguoi-dieu-tri-yamal-o-el-clasico-5136566.html",
+      "summary": "Marc Cucurella từng vô hiệu hóa Lamine Yamal trong trận Chelsea thắng Barca 3-0 ở Champions League mùa trước, và có thể trở thành chìa khóa quan trọng của Real ở trận El Clasico hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-25T06:08:37+07:00",
+      "fetched": "2026-10-25T15:49:10.027544+07:00"
+    },
+    {
+      "id": "70ab6ede88c29d99d8f974340fb25459",
+      "title": "'Đánh đổi' của Trung Quốc khi sản xuất chip không EUV",
+      "link": "https://vnexpress.net/danh-doi-cua-trung-quoc-khi-san-xuat-chip-khong-euv-5136522.html",
+      "summary": "Trung Quốc hiện có thể tạo chip tiên tiến không cần công nghệ in thạch bản siêu cực tím EUV, nhưng gặp loạt rào cản về chi phí, năng suất và thời gian sản xuất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-25T06:00:00+07:00",
+      "fetched": "2026-10-25T15:49:08.371778+07:00"
+    },
+    {
+      "id": "7a882c3c94d125d857d6c8992fdeba1e",
+      "title": "Thùy Linh tiếp tục thống trị cầu lông nữ Việt Nam",
+      "link": "https://vnexpress.net/thuy-linh-tiep-tuc-thong-tri-cau-long-nu-viet-nam-5136628.html",
+      "summary": "Tay vợt Nguyễn Thùy Linh tiếp tục khẳng định vị trí số một đơn nữ khi lần thứ 9 vô địch giải cầu lông các tay vợt xuất sắc toàn quốc 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-25T05:24:42+07:00",
+      "fetched": "2026-10-25T15:49:10.028405+07:00"
+    },
+    {
+      "id": "1d0e38496fcbb1dc7413a8b351e412c5",
+      "title": "Làm thủ tục trực tuyến phải giảm giấy tờ, chi phí cho người dân",
+      "link": "https://vnexpress.net/lam-thu-tuc-truc-tuyen-phai-giam-giay-to-chi-phi-cho-nguoi-dan-5136600.html",
+      "summary": "Bộ Khoa học và Công nghệ xác định việc số hóa thủ tục hành chính cần giúp người dân giảm kê khai, nộp lại giấy tờ và tiết kiệm chi phí.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-25T04:44:30+07:00",
+      "fetched": "2026-10-25T15:49:08.371901+07:00"
+    },
+    {
+      "id": "eb928c9bc9ab03b3c94fbf57928cea0d",
+      "title": "Cách bà Melania giúp Nga - Ukraine ngừng bắn tại Oleshky",
+      "link": "https://vnexpress.net/cach-ba-melania-giup-nga-ukraine-ngung-ban-tai-oleshky-5136584.html",
+      "summary": "Cố vấn Beckman cho biết bà Melania đã tận dụng \"các mối quan hệ bền chặt\" để thúc đẩy Nga - Ukraine đạt thỏa thuận ngừng bắn tại thành phố Oleshky.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-25T04:33:23+07:00",
+      "fetched": "2026-10-25T15:49:04.565561+07:00"
+    },
+    {
+      "id": "1404fd6cb360294147278c91fe4292f0",
+      "title": "Valdano: 'El Clasico là cuộc chiến của quả bóng, không gian và kẻ bị tình nghi'",
+      "link": "https://vnexpress.net/valdano-el-clasico-la-cuoc-chien-cua-qua-bong-khong-gian-va-ke-bi-tinh-nghi-5136602.html",
+      "summary": "Theo đánh giá của cựu CEO và HLV Real Madrid, Jorge Valdano, El Clasico không đơn thuần chỉ là một trận bóng đá, nơi trọng tài mặc định trở thành \"kẻ tình nghi\" trước giờ bóng lăn và sẽ là cuộc chiến của quả bóng và không gian trên sân.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-25T04:12:48+07:00",
+      "fetched": "2026-10-25T15:49:10.027691+07:00"
+    },
+    {
+      "id": "cf447625eb649d59957ee3dc295df89a",
+      "title": "Neymar nhận thẻ đỏ, đẩy HLV, dọa đánh đối thủ",
+      "link": "https://vnexpress.net/neymar-nhan-the-do-day-hlv-doa-danh-doi-thu-5136607.html",
+      "summary": "Neymar bị truất quyền thi đấu vì che miệng khi tranh cãi, đẩy HLV Rogerio Ceni và đe dọa tìm đối thủ \"nói chuyện\" sau trận Santos hòa Bahia 1-1 ở vòng 32 giải vô địch Brazil.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-25T04:11:23+07:00",
+      "fetched": "2026-10-25T15:49:10.027803+07:00"
+    },
+    {
+      "id": "7a863df6634b2015252a7c4ebd935d38",
+      "title": "Những nhà tài trợ chi mạnh tay cho phòng đại tiệc của ông Trump",
+      "link": "https://vnexpress.net/nhung-nha-tai-tro-chi-manh-tay-cho-phong-dai-tiec-cua-ong-trump-5132951.html",
+      "summary": "Tài liệu mới cho thấy hơn một nửa trong số 330 triệu USD quyên góp được cho dự án xây phòng đại tiệc ở Nhà Trắng đến từ doanh nghiệp và giới siêu giàu có lợi ích gắn với chính phủ Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-25T04:00:00+07:00",
+      "fetched": "2026-10-25T15:49:04.565685+07:00"
+    },
+    {
+      "id": "7f74351e8ea8b6d5f3bbb8131b3c10a2",
+      "title": "AI đấu với con người trong cuộc đua drone tốc độ cao",
+      "link": "https://vnexpress.net/ai-dau-voi-con-nguoi-trong-cuoc-dua-drone-toc-do-cao-5134728.html",
+      "summary": "Drone do AI điều khiển học bay từ đầu và hoàn thành đường đua ở tốc độ trên 96 km/h, vượt qua những phi công hàng đầu thế giới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-25T04:00:00+07:00",
+      "fetched": "2026-10-25T15:49:08.372211+07:00"
+    },
+    {
+      "id": "33bb65879cda0f7e82cae3c8f5aeaea8",
+      "title": "Bruno Fernandes có đang làm hại Man Utd?",
+      "link": "https://vnexpress.net/bruno-fernandes-co-dang-lam-hai-man-utd-5136302.html",
+      "summary": "Bruno Fernandes công khai chất vấn chiến thuật của HLV Michael Carrick, nhưng chính lối pressing thiếu đồng bộ và những phát biểu gây tranh cãi của anh cũng khiến Man Utd thêm khủng hoảng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-25T04:00:00+07:00",
+      "fetched": "2026-10-25T15:49:10.027906+07:00"
+    },
+    {
+      "id": "a3012c0880ed96d7a4dd74c4516622a7",
+      "title": "HLV của Đồng Nai muốn từ chức vì không thắng 5 trận ở V-League",
+      "link": "https://vnexpress.net/hlv-cua-dong-nai-muon-tu-chuc-vi-khong-thang-5-tran-o-v-league-5136541.html",
+      "summary": "Sau khi thảm bại 0-4 trước Nam Định ở vòng 5 V-League 2026-2027, HLV Nguyễn Việt Thắng muốn từ chức để hy vọng Đồng Nai đổi vận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-25T03:00:00+07:00",
+      "fetched": "2026-10-25T15:49:10.028503+07:00"
+    },
+    {
       "id": "546da7f16c4f8f2ece26d9f0d84654db",
       "title": "VTV Bình Điền Long An thành cựu vô địch bóng chuyền nữ Việt Nam",
       "link": "https://tuoitre.vn/vtv-binh-dien-long-an-thanh-cuu-vo-dich-bong-chuyen-nu-viet-nam-100261024220652372.htm",
@@ -241,6 +661,16 @@ window.newsData_2026_10_25 = {
       "category": "Tổng hợp",
       "published": "2026-10-25T02:58:16.354275+07:00",
       "fetched": "2026-10-25T02:58:16.354406+07:00"
+    },
+    {
+      "id": "6ae3a7c7854f5a3b7da390fd0de1c34c",
+      "title": "Khói lửa bao trùm nước Pháp khi biểu tình biến thành bạo lực",
+      "link": "https://vnexpress.net/khoi-lua-bao-trum-nuoc-phap-khi-bieu-tinh-bien-thanh-bao-luc-5136563.html",
+      "summary": "Đụng độ tiếp tục xảy ra tại nhiều thành phố ở Pháp, khi hàng trăm nghìn người biểu tình phản đối vật giá leo thang.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-25T02:46:24+07:00",
+      "fetched": "2026-10-25T15:49:04.565792+07:00"
     },
     {
       "id": "f86e916cf2841c3719abbdab4bc9ac81",
