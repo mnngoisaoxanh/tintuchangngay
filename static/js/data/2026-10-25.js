@@ -1,7 +1,157 @@
 window.newsData_2026_10_25 = {
   "date": "2026-10-25",
-  "lastUpdated": "2026-10-25T05:14:14.980428+07:00",
+  "lastUpdated": "2026-10-25T09:19:16.204069+07:00",
   "articles": [
+    {
+      "id": "fdbcb12970053ff4db4248722f807f85",
+      "title": "Ukraine tấn công vào Crimea",
+      "link": "https://tuoitre.vn/ukraine-tan-cong-vao-crimea-100261025061909666.htm",
+      "summary": "Cuộc chiến giữa Nga - Ukraine vẫn \"nóng\" vào cuối tuần qua, khi hai bên tiếp tục tấn công nhau dù trước đó phát tín hiệu sẵn sàng tham gia các cuộc đàm phán do Mỹ làm trung gian.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T09:19:09.595540+07:00",
+      "fetched": "2026-10-25T09:19:09.595586+07:00"
+    },
+    {
+      "id": "e2568b9f7355f87f6bfb9bccf420baf2",
+      "title": "BigBang quỳ gối cảm ơn khán giả Việt Nam, đêm 2 tối nay vẫn sẽ rất 'nóng'",
+      "link": "https://tuoitre.vn/bigbang-quy-goi-cam-on-khan-gia-viet-nam-dem-2-toi-nay-van-se-rat-nong-100261025064410683.htm",
+      "summary": "Bản hit ‘Fantastic Baby’ vang lên trong tiếng hò reo của khoảng 45.000 khán giả mở đầu hai đêm world tour đáng nhớ của 'những ông hoàng' K-pop BigBang tại Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T09:19:09.595500+07:00",
+      "fetched": "2026-10-25T09:19:09.595534+07:00"
+    },
+    {
+      "id": "9d250ad696bdb5ca7c85e79a24eb03cb",
+      "title": "Xe buýt đang chạy đi sửa bốc cháy dữ dội",
+      "link": "https://tuoitre.vn/xe-buyt-dang-chay-di-sua-boc-chay-du-doi-100261025064405133.htm",
+      "summary": "Trong lúc điều khiển chiếc xe buýt đi sửa, tài xế phát hiện xe bốc cháy nên nhanh chóng dừng xe, rời khỏi ghế lái và điện báo cơ quan chức năng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T09:19:09.595460+07:00",
+      "fetched": "2026-10-25T09:19:09.595494+07:00"
+    },
+    {
+      "id": "c9a6a871231ae40fd6892639e6e47ddb",
+      "title": "1.832 tỉ đồng bồi thường giải phóng mặt bằng metro số 2 Bến Thành - Thủ Thiêm",
+      "link": "https://tuoitre.vn/1832-ti-dong-boi-thuong-giai-phong-mat-bang-metro-so-2-ben-thanh-thu-thiem-100261024175505815.htm",
+      "summary": "Metro số 2 Bến Thành - Thủ Thiêm là một đoạn tuyến trong hành lang kết nối TP.HCM với sân bay Long Thành bằng đường sắt đô thị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T09:19:09.595421+07:00",
+      "fetched": "2026-10-25T09:19:09.595454+07:00"
+    },
+    {
+      "id": "956de10079c344b950936d8474f5712a",
+      "title": "Cha mẹ 'tìm thấy' mình khi con hát 'ngày làm ba trăm rưỡi, uống bia hết hai trăm ngàn'",
+      "link": "https://tuoitre.vn/cha-me-tim-thay-minh-khi-con-hat-ngay-lam-ba-tram-ruoi-uong-bia-het-hai-tram-ngan-100261024220735236.htm",
+      "summary": "Nghe con đi học về nghêu ngao câu hát về tiền công, bia rượu, nhiều phụ huynh giật mình. Giữa những lời lo ngại và ý kiến cho rằng trẻ con hát nhạc chế vốn là chuyện bình thường, thì nhiều phụ huynh cũng giật mình khi \"tìm thấy\" mình trong lời hát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T09:19:09.595380+07:00",
+      "fetched": "2026-10-25T09:19:09.595415+07:00"
+    },
+    {
+      "id": "4d706f7c83bfdd8f05975a7d17e10bbf",
+      "title": "Hơn 4.500 người dự giải chạy Gemadept tại Phú Mỹ Hưng, góp sức xây điểm trường ở Điện Biên",
+      "link": "https://tuoitre.vn/hon-4500-nguoi-du-giai-chay-gemadept-tai-phu-my-hung-gop-suc-xay-diem-truong-o-dien-bien-100261025065343959.htm",
+      "summary": "Hơn 4.500 người ở nhiều lứa tuổi tham gia giải chạy Gemadept Run 2026 tại khu đô thị Phú Mỹ Hưng, TP.HCM. Nguồn lực từ giải chạy dự kiến được dùng xây dựng công trình tại một điểm trường ở Điện Biên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T09:19:09.595325+07:00",
+      "fetched": "2026-10-25T09:19:09.595374+07:00"
+    },
+    {
+      "id": "3651734927be79843dbd50870f7e2503",
+      "title": "Từ vườn già đến hạt cà phê Robusta giá trị cao ở Nam Ban",
+      "link": "https://tuoitre.vn/tu-vuon-gia-den-hat-ca-phe-robusta-gia-tri-cao-o-nam-ban-100261024151257702.htm",
+      "summary": "Vùng cà phê Nam Ban Lâm Hà đang chuyển hướng canh tác hữu cơ và chế biến honey nhằm nâng chất lượng hạt Robusta. Để tham gia sâu hơn vào chuỗi giá trị, hợp tác xã còn phải giải bài toán tái canh, số hóa và truy xuất nguồn gốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T09:19:09.595283+07:00",
+      "fetched": "2026-10-25T09:19:09.595319+07:00"
+    },
+    {
+      "id": "b6bc92aee82f39b9d4e40f3c85f21b2a",
+      "title": "Ông Kim Jong Un đã về nước, truyền thông Triều Tiên viết gì về chuyến thăm Trung Quốc?",
+      "link": "https://tuoitre.vn/ong-kim-jong-un-da-ve-nuoc-truyen-thong-trieu-tien-viet-gi-ve-chuyen-tham-trung-quoc-100261025065151329.htm",
+      "summary": "Truyền thông Triều Tiên đặc biệt nhấn mạnh ý nghĩa lịch sử của chuyến thăm tại Trung Quốc, mô tả quan hệ song phương là mối gắn kết \"không thể phá vỡ\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T09:19:09.595241+07:00",
+      "fetched": "2026-10-25T09:19:09.595276+07:00"
+    },
+    {
+      "id": "4da826615d4ae711213be0899f84490b",
+      "title": "Đức: BMW đền bù gần 19 tỉ đồng cho nhân viên chịu nghỉ việc, nhiều người đăng ký sập hệ thống",
+      "link": "https://tuoitre.vn/duc-bmw-den-bu-gan-19-ti-dong-cho-nhan-vien-chiu-nghi-viec-nhieu-nguoi-dang-ky-sap-he-thong-100261024214407316.htm",
+      "summary": "Khoản bồi thường nghỉ việc thu hút sự chú ý đến mức khiến hệ thống mạng của BMW cũng bị sập vì lượng người truy cập quá nhiều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T09:19:09.595199+07:00",
+      "fetched": "2026-10-25T09:19:09.595235+07:00"
+    },
+    {
+      "id": "b657bcfa83aef0c026fc0a7a19649b91",
+      "title": "Gặp chấn thương khó tin vì bị cầu bay trúng người khi chơi cầu lông",
+      "link": "https://tuoitre.vn/gap-chan-thuong-kho-tin-vi-bi-cau-bay-trung-nguoi-khi-choi-cau-long-10026102423371385.htm",
+      "summary": "Một quả cầu lông có thể làm rách vỡ nhãn cầu, đe dọa thị lực. Nghiên cứu nhãn khoa còn chỉ ra nhiều hiểm họa ít được chú ý khi đánh đôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T09:19:09.595156+07:00",
+      "fetched": "2026-10-25T09:19:09.595192+07:00"
+    },
+    {
+      "id": "ee193f6cd6fbfd4f9395b79e2f282486",
+      "title": "Cưỡng ép con trai chạy marathon, người cha Trung Quốc trả giá",
+      "link": "https://tuoitre.vn/cuong-ep-con-trai-chay-marathon-nguoi-cha-trung-quoc-tra-gia-100261024124339657.htm",
+      "summary": "Một người đàn ông Trung Quốc bị hủy thành tích và cấm thi đấu ba năm sau khi dùng dây buộc vào bụng con trai 9 tuổi, kéo em chạy cùng trên đường đua marathon Trịnh Châu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T09:19:09.595112+07:00",
+      "fetched": "2026-10-25T09:19:09.595150+07:00"
+    },
+    {
+      "id": "8cd46fbfac2319cfee395db00249316e",
+      "title": "Để đất trống bao lâu được coi là bỏ hoang, bị đánh thuế 0,2%?",
+      "link": "https://tuoitre.vn/de-dat-trong-bao-lau-duoc-coi-la-bo-hoang-bi-danh-thue-02-100261024164309617.htm",
+      "summary": "Đất không sử dụng bao lâu thì được xác định là bỏ hoang, chậm sử dụng để tính thuế theo chính sách đề xuất tại dự thảo luật sửa đổi, bổ sung một số điều của Luật Thuế sử dụng đất phi nông nghiệp?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T09:19:09.595065+07:00",
+      "fetched": "2026-10-25T09:19:09.595105+07:00"
+    },
+    {
+      "id": "851e24343e44bab1e595186b94a0c808",
+      "title": "Lầm tưởng nguy hiểm về các thực phẩm 'không đường',  dùng bao nhiêu cũng được",
+      "link": "https://tuoitre.vn/lam-tuong-nguy-hiem-ve-cac-thuc-pham-khong-duong-dung-bao-nhieu-cung-duoc-100261024190159765.htm",
+      "summary": "Nước ngọt không đường, bánh kẹo ăn kiêng hay các gói đường bắp, cỏ ngọt được nhiều người lựa chọn, nhất là người đáo tháo đường hay béo phì, dư cân. Chúng được xem là giải pháp thay thế đường, giúp thỏa mãn vị ngọt mà không quá lo ngại về đường huyết hay cân nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T09:19:09.595021+07:00",
+      "fetched": "2026-10-25T09:19:09.595058+07:00"
+    },
+    {
+      "id": "bc7f91e0d6541b7350fc7a468f407177",
+      "title": "Anh công nhân mỏ, chị thợ may được tuyên dương công nhân tiêu biểu",
+      "link": "https://tuoitre.vn/anh-cong-nhan-mo-chi-tho-may-duoc-tuyen-duong-cong-nhan-tieu-bieu-10026102421465173.htm",
+      "summary": "Tối 24-10, 10 công nhân tiêu biểu toàn quốc năm 2026 đã được vinh danh tại Hà Nội, họ là những người lao động xuất sắc đã có các sáng kiến đóng góp cho phong trào thi đua, lao động sản xuất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T09:19:09.594965+07:00",
+      "fetched": "2026-10-25T09:19:09.595014+07:00"
+    },
+    {
+      "id": "7c11557d0332ddb5e21ca17e1ac50f0f",
+      "title": "Lưu Văn và Hề Mộng Dao: Kỹ năng catwalk đối đầu sức hút hào môn",
+      "link": "https://tuoitre.vn/luu-van-va-he-mong-dao-ky-nang-catwalk-doi-dau-suc-hut-hao-mon-100261024203237462.htm",
+      "summary": "Mạng xã hội đang tranh luận chủ đề 'Lưu Văn phấn đấu 10 năm không bằng Hề Mộng Dao ngã một cú rồi bước chân vào hào môn?'",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T09:19:09.594833+07:00",
+      "fetched": "2026-10-25T09:19:09.594955+07:00"
+    },
     {
       "id": "546da7f16c4f8f2ece26d9f0d84654db",
       "title": "VTV Bình Điền Long An thành cựu vô địch bóng chuyền nữ Việt Nam",
@@ -91,6 +241,256 @@ window.newsData_2026_10_25 = {
       "category": "Tổng hợp",
       "published": "2026-10-25T02:58:16.354275+07:00",
       "fetched": "2026-10-25T02:58:16.354406+07:00"
+    },
+    {
+      "id": "f86e916cf2841c3719abbdab4bc9ac81",
+      "title": "Lan Ngọc muốn đổi vai Kỳ Duyên, tiết lộ bí mật 'vợ chồng' với Steven Nguyễn",
+      "link": "https://thanhnien.vn/lan-ngoc-muon-doi-vai-ky-duyen-tiet-lo-bi-mat-vo-chong-voi-steven-nguyen-18526102509032309.htm",
+      "summary": "Trong talkshow Gia vị phim, Ninh Dương Lan Ngọc, Steven Nguyễn và Hoa hậu Kỳ Duyên cùng nhìn lại  kỷ niệm đáng nhớ ở phim trường 'Chị chị em em 3'. Bộ ba tiết lộ loạt chi tiết đáng chú ý trong quá trình hóa thân vào nhân vật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T02:16:00+07:00",
+      "fetched": "2026-10-25T09:19:07.673351+07:00"
+    },
+    {
+      "id": "08700ce258c8707b3c2b9f22e6e6bb4b",
+      "title": "Thành phố Mỹ hoang vắng sau chiến dịch truy quét nhập cư",
+      "link": "https://vnexpress.net/thanh-pho-my-hoang-vang-sau-chien-dich-truy-quet-nhap-cu-5136318.html",
+      "summary": "Thành phố Springfield ở Ohio từng rất nhộn nhịp, nhưng giờ trở nên hoang vắng khi phần lớn người nhập cư đã rời đi hoặc không dám ra ngoài.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-25T02:07:53+07:00",
+      "fetched": "2026-10-25T09:19:11.441558+07:00"
+    },
+    {
+      "id": "d6c50bfc299e83b900672ddb4603bc67",
+      "title": "Chuyện nhỏ trong một gia đình nhỏ - Truyện ngắn của Nguyễn Trí",
+      "link": "https://thanhnien.vn/chuyen-nho-trong-mot-gia-dinh-nho-truyen-ngan-cua-nguyen-tri-18526102415190192.htm",
+      "summary": "Rằng… khi bỏ nhà ra đi, nghe đâu theo gã nhân tình tên Hậu, Loan - tên cô vợ của Hùng - bị những người ở dãy trọ mười bốn căn chửi thiếu điều tắt bếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T02:00:00+07:00",
+      "fetched": "2026-10-25T09:19:07.673472+07:00"
+    },
+    {
+      "id": "32d428149a936a25e3626de36cd3f8d7",
+      "title": "Ngỡ ngàng trước những tạo hình lông chó độc đáo",
+      "link": "https://thanhnien.vn/ngo-ngang-truoc-nhung-tao-hinh-long-cho-doc-dao-185261024150737247.htm",
+      "summary": "Từ những bộ lông được cắt tỉa công phu đến các tạo hình độc đáo, những \"người mẫu 4 chân\" tại ngày hội thú cưng đã thu hút sự chú ý bởi diện mạo đầy màu sắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T02:00:00+07:00",
+      "fetched": "2026-10-25T09:19:07.673577+07:00"
+    },
+    {
+      "id": "5e0a8c7401f34c9e18eca1dfa2664367",
+      "title": "Người phụ nữ mang 'thanh âm' đến thế giới lặng lẽ",
+      "link": "https://thanhnien.vn/nguoi-phu-nu-mang-thanh-am-den-the-gioi-lang-le-18526100715081406.htm",
+      "summary": "Thế giới của người khiếm thính không phải là khoảng không vô tận của sự im lặng, mà là một không gian ngập tràn rung cảm mãnh liệt được cảm nhận bằng trái tim và ánh mắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T02:00:00+07:00",
+      "fetched": "2026-10-25T09:19:07.673678+07:00"
+    },
+    {
+      "id": "fcc1100d74ff59a4b6bbcabd9f65ff7d",
+      "title": "Kỷ nguyên tấn công mạng AI: 'Sẽ nếm trải cảm giác bầu trời sắp sụp'",
+      "link": "https://vnexpress.net/ky-nguyen-tan-cong-mang-ai-se-nem-trai-cam-giac-bau-troi-sap-sup-5136542.html",
+      "summary": "Sau khi AI giúp phát hiện lỗ hổng PHP, giới chuyên gia cảnh báo làn sóng sự cố bảo mật và tấn công mạng có thể gây khủng hoảng thời gian tới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-25T02:00:00+07:00",
+      "fetched": "2026-10-25T09:19:15.139221+07:00"
+    },
+    {
+      "id": "03b1c05ea478a3afa71abab78f5bf217",
+      "title": "Lý do iPhone Duo có giá cao tại Việt Nam",
+      "link": "https://thanhnien.vn/ly-do-iphone-duo-co-gia-cao-tai-viet-nam-185261024232013709.htm",
+      "summary": "Với mức giá khởi điểm lên tới 65 triệu đồng, chiếc điện thoại màn hình gập đầu tiên của Apple thiết lập mặt bằng giá kỷ lục tại thị trường trong nước, phù hợp chiến lược định vị phân khúc siêu cao cấp của hãng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T01:36:00+07:00",
+      "fetched": "2026-10-25T09:19:07.673777+07:00"
+    },
+    {
+      "id": "579194a5995f0829c442e8a9f419e4a2",
+      "title": "Huỳnh Lập: Từ web-drama đến phim trăm tỉ",
+      "link": "https://thanhnien.vn/huynh-lap-tu-web-drama-den-phim-tram-ti-185261024192457766.htm",
+      "summary": "Huỳnh Lập đang trở thành một trường hợp đáng chú ý của điện ảnh Việt khi 3 bộ phim do anh đạo diễn đạt tổng doanh thu hơn 500 tỉ đồng. Dù các tác phẩm này gây tranh luận về ngôn ngữ điện ảnh, Huỳnh Lập vẫn cho thấy khả năng nắm bắt thị hiếu khán giả đại chúng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T01:30:00+07:00",
+      "fetched": "2026-10-25T09:19:07.673877+07:00"
+    },
+    {
+      "id": "da255c8431fa929b8e663df376b475f4",
+      "title": "Mầm bông cải xanh và bông cải xanh: Bộ đôi có lợi cho sức khỏe gan",
+      "link": "https://thanhnien.vn/mam-bong-cai-xanh-va-bong-cai-xanh-bo-doi-co-loi-cho-suc-khoe-gan-18526102500032594.htm",
+      "summary": "Mầm bông cải xanh và bông cải xanh chứa các hợp chất thực vật, đồng thời cung cấp chất xơ. Kết hợp 2 loại rau này trong chế độ ăn đa dạng là cách bổ sung dinh dưỡng có lợi cho sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T01:19:00+07:00",
+      "fetched": "2026-10-25T09:19:07.673977+07:00"
+    },
+    {
+      "id": "7b0967949f1d3ddc18164ab46dad96ee",
+      "title": "Lộ diện vòng nguyệt quế cho nhà vô địch Đường lên đỉnh Olympia 2026",
+      "link": "https://thanhnien.vn/lo-dien-vong-nguyet-que-cho-nha-vo-dich-duong-len-dinh-olympia-2026-185261024215559435.htm",
+      "summary": "Vòng nguyệt quế dành cho người chiến thắng trận chung kết Đường lên đỉnh Olympia 2026 lấy cảm hứng từ những cành cây khô và lá ô liu ánh vàng, gửi gắm thông điệp về nghị lực, sự trưởng thành và khát vọng chinh phục tri thức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T01:19:00+07:00",
+      "fetched": "2026-10-25T09:19:07.674074+07:00"
+    },
+    {
+      "id": "0f2dd86d0aa0e6675a78bb94c29eb41d",
+      "title": "Messi không thể giúp Inter Miami thắng trận dù bay hàng ngàn km để kịp có mặt",
+      "link": "https://thanhnien.vn/messi-khong-the-giup-inter-miami-thang-tran-du-bay-hang-ngan-km-de-kip-co-mat-185261025081119501.htm",
+      "summary": "Sáng 25.10, Messi góp mặt thi đấu trong hiệp 2 trận Inter Miami thua New York Red Bulls với tỷ số 0-2. Anh chỉ thi đấu khoảng 35 phút, tạo nhiều cơ hội nhưng các đồng đội đều bỏ lỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T01:18:00+07:00",
+      "fetched": "2026-10-25T09:19:07.674169+07:00"
+    },
+    {
+      "id": "2c1a3351eb366abd93456d1901847fdd",
+      "title": "Huỳnh Anh Khôi nhất cự ly 21 km nam giải Gemadept Run với 4.500 người tham dự",
+      "link": "https://thanhnien.vn/huynh-anh-khoi-nhat-cu-ly-21-km-nam-giai-gemadept-run-voi-4500-nguoi-tham-du-185261023094722522.htm",
+      "summary": "Với chủ đề 'Mỗi bước chạy - một tương lai', giải Gemadept Run 2026 khuyến khích mỗi vận động viên tự tin chinh phục hành trình theo cách riêng của mình để cùng gặp nhau ở tinh thần sống khỏe, gắn kết và mục tiêu nhân văn nhất là xây dựng một trường học mới cho tỉnh Điện Biên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T01:07:00+07:00",
+      "fetched": "2026-10-25T09:19:07.674260+07:00"
+    },
+    {
+      "id": "ae0e9fd742564ab0db71e7c9c65fce3e",
+      "title": "Kiến nghị kiểm điểm lãnh đạo 3 xã vì sai phạm giải quyết hồ sơ",
+      "link": "https://thanhnien.vn/kien-nghi-kiem-diem-lanh-dao-3-xa-vi-sai-pham-giai-quyet-ho-so-185261024174223466.htm",
+      "summary": "Thanh tra tỉnh Lâm Đồng phát hiện nhiều hồ sơ bị từ chối, dừng giải quyết không đúng quy định tại 3 xã Đắk Mil, Cư Jút và Kiến Đức; đồng thời kiến nghị kiểm điểm trách nhiệm lãnh đạo các xã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T01:06:00+07:00",
+      "fetched": "2026-10-25T09:19:07.674364+07:00"
+    },
+    {
+      "id": "127333627e00a5b529f97fe1d690c074",
+      "title": "Anh - Pháp diễn tập ứng phó cuộc tấn công nhằm vào NATO",
+      "link": "https://thanhnien.vn/anh-phap-dien-tap-ung-pho-cuoc-tan-cong-nham-vao-nato-185261025063949806.htm",
+      "summary": "Hàng ngàn binh sĩ Anh và Pháp đã tham gia cuộc tập trận quân sự, trong đó có một chiến dịch nhảy dù vào loại lớn nhất của Anh sau 2 thập niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T01:05:00+07:00",
+      "fetched": "2026-10-25T09:19:07.674460+07:00"
+    },
+    {
+      "id": "3a69d917791656c8ad506afc06758a86",
+      "title": "Không gian mới cho gen Z trong mùa lễ hội Halloween",
+      "link": "https://thanhnien.vn/khong-gian-moi-cho-gen-z-trong-mua-le-hoi-halloween-185261024204307655.htm",
+      "summary": "Đêm hội Halloween (31.10) đang đến gần. Trong khi thị trường đồ trang trí năm nay hạ nhiệt so với năm ngoái, một số quán cà phê chọn cách đón lễ hội bằng những phong cách riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T01:00:00+07:00",
+      "fetched": "2026-10-25T09:19:07.674555+07:00"
+    },
+    {
+      "id": "f9316ad9b0f14a74d29f8f0cd9fcefb1",
+      "title": "Nhàn đàm: Khe Sanh, một ngày xanh trở lại",
+      "link": "https://thanhnien.vn/nhan-dam-khe-sanh-mot-ngay-xanh-tro-lai-185261024152156714.htm",
+      "summary": "Tôi đã từng nghĩ Khe Sanh là cái tên thuộc về chiến tranh. Cho đến một buổi sáng đứng giữa những triền đồi phủ màu xanh, nghe gió lùa qua những tán cây và nhìn những vệt sương còn mắc lại trên lưng núi, tôi mới nhận ra phía sau cái tên từng gắn với bom đạn ấy là một Khe Sanh rất khác, xanh hơn, dịu ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T01:00:00+07:00",
+      "fetched": "2026-10-25T09:19:07.674648+07:00"
+    },
+    {
+      "id": "d021cec11d4368b919e3b7e5cf07ea13",
+      "title": "Cựu thống đốc 'bất bại' gieo hy vọng cho đảng Dân chủ trong cuộc đua Thượng viện",
+      "link": "https://vnexpress.net/cuu-thong-doc-bat-bai-gieo-hy-vong-cho-dang-dan-chu-trong-cuoc-dua-thuong-vien-5136321.html",
+      "summary": "Ứng viên Dân chủ Roy Cooper thu hút chú ý trong cuộc đua giành ghế Thượng viện tại Bắc Carolina, khi ông chưa từng thất bại suốt gần 40 năm sự nghiệp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-25T01:00:00+07:00",
+      "fetched": "2026-10-25T09:19:11.441680+07:00"
+    },
+    {
+      "id": "361da1a2f1fefc90cfd41c30817a96b2",
+      "title": "Kẹo Halloween ế ẩm tại Mỹ",
+      "link": "https://vnexpress.net/keo-halloween-e-am-tai-my-5136515.html",
+      "summary": "Người Mỹ dè dặt mua sắm kẹo Halloween vì chi phí sinh hoạt đắt đỏ, khiến doanh số đầu mùa thấp hơn cùng kỳ năm ngoái.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-25T01:00:00+07:00",
+      "fetched": "2026-10-25T09:19:13.365042+07:00"
+    },
+    {
+      "id": "c2c9f506f1198276ae3c820c4ae821e1",
+      "title": "Mourinho: Từ tình yêu Barca đến mối thù El Clasico",
+      "link": "https://vnexpress.net/mourinho-tu-tinh-yeu-barca-den-moi-thu-el-clasico-5136380.html",
+      "summary": "Trước khi trở thành đối thủ không đội trời chung của Barca, HLV Jose Mourinho từng có 4 năm gắn bó với sân Camp Nou, được các cầu thủ yêu mến và thậm chí tuyên bố đội bóng xứ Catalonia mãi ở trong tim ông.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-25T01:00:00+07:00",
+      "fetched": "2026-10-25T09:19:16.199611+07:00"
+    },
+    {
+      "id": "6430b69f9c99165a2bddcb9631ad7f08",
+      "title": "Mourinho: 'Có tôi, Real sẽ giành danh hiệu'",
+      "link": "https://vnexpress.net/mourinho-co-toi-real-se-gianh-danh-hieu-5136544.html",
+      "summary": "Trước trận gặp Barca ở vòng 10 La Liga, HLV Jose Mourinho tự tin sẽ cùng Real Madrid chinh phục danh hiệu và khẳng định không thay đổi lối chơi chỉ để đối phó Lamine Yamal.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-25T00:58:38+07:00",
+      "fetched": "2026-10-25T09:19:16.199733+07:00"
+    },
+    {
+      "id": "0607517430f58312fa72ae246ff9e6db",
+      "title": "Xe buýt đang lưu thông bất ngờ bốc cháy trơ khung sắt ở Đà Nẵng",
+      "link": "https://thanhnien.vn/xe-buyt-dang-luu-thong-bat-ngo-boc-chay-tro-khung-sat-o-da-nang-185261025073801901.htm",
+      "summary": "Một xe buýt bất ngờ bốc cháy khi đang lưu thông trên quốc lộ 40B, đoạn qua phường Hương Trà (thành phố Đà Nẵng) khiến phần lớn thân xe bị thiêu rụi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-25T00:53:00+07:00",
+      "fetched": "2026-10-25T09:19:07.674741+07:00"
+    },
+    {
+      "id": "b5312c5b2a94c95a9794a58228c3f6cc",
+      "title": "Messi bất lực trong trận thua của Inter Miami",
+      "link": "https://vnexpress.net/messi-bat-luc-trong-tran-thua-cua-inter-miami-5136553.html",
+      "summary": "Lionel Messi vào sân trong hiệp hai nhưng không thể giúp Inter Miami tránh thất bại 0-2 trước New York Red Bulls ở giải bóng đá nhà nghề Mỹ (MLS), hết cơ hội giành Supporters' Shield.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-25T00:51:47+07:00",
+      "fetched": "2026-10-25T09:19:16.199844+07:00"
+    },
+    {
+      "id": "46e9a629bb25c16e432caa6c73473a81",
+      "title": "iPhone Duo 2 có thể tích hợp Face ID dưới màn hình",
+      "link": "https://vnexpress.net/iphone-duo-2-co-the-tich-hop-face-id-duoi-man-hinh-5135779.html",
+      "summary": "Apple được cho là đang thử nghiệm nguyên mẫu iPhone Duo thế hệ hai với nhiều nâng cấp phần cứng, như bổ sung Face ID ẩn và nút Action.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-25T00:51:28+07:00",
+      "fetched": "2026-10-25T09:19:15.139571+07:00"
+    },
+    {
+      "id": "433cb798b30be00a219c45c377c2957b",
+      "title": "Ông Trump bỏ phiếu sớm bầu cử giữa kỳ",
+      "link": "https://vnexpress.net/ong-trump-bo-phieu-som-bau-cu-giua-ky-5136552.html",
+      "summary": "Tổng thống Trump tham gia bầu cử giữa kỳ sớm tại Florida, cho biết ông đã bỏ phiếu cho tất cả ứng viên Cộng hòa ở bang này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-25T00:38:01+07:00",
+      "fetched": "2026-10-25T09:19:11.441784+07:00"
+    },
+    {
+      "id": "bbc5e8f21cd9773cd3eb408c430ff648",
+      "title": "Arteta thu thập bằng chứng tố các HLV Ngoại hạng Anh",
+      "link": "https://vnexpress.net/arteta-thu-thap-bang-chung-to-cac-hlv-ngoai-hang-anh-5136555.html",
+      "summary": "HLV Mikel Arteta tiết lộ đang lưu trữ hàng loạt video ghi lại cảnh đồng nghiệp rời khu kỹ thuật mà không bị phạt, sau khi ông nhận thẻ vàng trong trận Arsenal thắng Everton 2-0 ở vòng 8 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-25T00:22:14+07:00",
+      "fetched": "2026-10-25T09:19:16.199950+07:00"
     },
     {
       "id": "7f8f59daa7d07512cca44615860c87ae",
@@ -243,6 +643,26 @@ window.newsData_2026_10_25 = {
       "fetched": "2026-10-25T00:05:32.728690+07:00"
     },
     {
+      "id": "8e55fc5ea53dac6bc96eec9256bcf1e3",
+      "title": "Elon Musk thừa nhận đã siết Starlink ở Ukraine",
+      "link": "https://vnexpress.net/elon-musk-thua-nhan-da-siet-starlink-o-ukraine-5136550.html",
+      "summary": "Elon Musk xác nhận công ty SpaceX của ông đã hạn chế Starlink ở Ukraine do Kiev vi phạm điều khoản sử dụng dịch vụ Internet vệ tinh này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-24T23:31:11+07:00",
+      "fetched": "2026-10-25T09:19:11.441888+07:00"
+    },
+    {
+      "id": "104441ea5bd40f959bd99c28be9ec6dd",
+      "title": "'Chi phí phủ sóng di động miền núi cao gấp đôi đồng bằng'",
+      "link": "https://vnexpress.net/chi-phi-phu-song-di-dong-mien-nui-cao-gap-doi-dong-bang-5136465.html",
+      "summary": "Theo Giám đốc Viettel Sơn La Nguyễn Chí Công, chi phí đầu tư hạ tầng cao là nguyên nhân nhiều tỉnh miền núi vẫn tồn tại vùng lõm sóng di động.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-24T23:30:19+07:00",
+      "fetched": "2026-10-25T09:19:15.139357+07:00"
+    },
+    {
       "id": "ced6e008e6e356f056a044769fbfa018",
       "title": "Quốc Thuận kể ký ức 'xuất hiện không ai cười' khi diễn hài cùng Thúy Nga",
       "link": "https://thanhnien.vn/quoc-thuan-ke-ky-uc-xuat-hien-khong-ai-cuoi-khi-dien-hai-cung-thuy-nga-185261025044833976.htm",
@@ -291,6 +711,16 @@ window.newsData_2026_10_25 = {
       "category": "Công nghệ",
       "published": "2026-10-24T22:00:00+07:00",
       "fetched": "2026-10-25T05:14:13.665426+07:00"
+    },
+    {
+      "id": "35b64a247df305c5f263e363705464df",
+      "title": "Iran mất dần huyết mạch giao thương",
+      "link": "https://vnexpress.net/iran-mat-dan-huyet-mach-giao-thuong-5136296.html",
+      "summary": "Sau đường biển và đường không, các tuyến giao thương đường bộ của Iran cũng bị siết chặt, đẩy nền kinh tế vào tình cảnh khó khăn hơn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-24T22:00:00+07:00",
+      "fetched": "2026-10-25T09:19:11.441995+07:00"
     },
     {
       "id": "5a56e9eba9ea7e0334e645d7dd8ac616",
@@ -391,6 +821,16 @@ window.newsData_2026_10_25 = {
       "category": "Kinh doanh",
       "published": "2026-10-24T17:03:00+07:00",
       "fetched": "2026-10-25T02:58:20.374072+07:00"
+    },
+    {
+      "id": "86a574909c7f63678946d46de9ff6b7e",
+      "title": "Ông Trump gỡ bỏ thuế một số sản phẩm của Canada",
+      "link": "https://vnexpress.net/ong-trump-go-bo-thue-mot-so-san-pham-cua-canada-5136499.html",
+      "summary": "Ông Trump gỡ bỏ thuế 50% một số sản phẩm nông - lâm nghiệp Canada để tạo lợi thế trước cuộc bầu cử giữa kỳ, nhưng nâng bù lên loạt mặt hàng khác.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-24T17:03:00+07:00",
+      "fetched": "2026-10-25T09:19:13.365272+07:00"
     },
     {
       "id": "bc4d5211bd0357355531cab0750bdbc8",
@@ -1033,6 +1473,16 @@ window.newsData_2026_10_25 = {
       "fetched": "2026-10-25T00:05:34.582207+07:00"
     },
     {
+      "id": "27e359f47140e5da6d601147f6cb62e1",
+      "title": "Bảo đảm an ninh mạng cho hạ tầng năng lượng",
+      "link": "https://vnexpress.net/bao-dam-an-ninh-mang-cho-ha-tang-nang-luong-5136187.html",
+      "summary": "Hệ thống điều khiển công nghiệp, dữ liệu vận hành và các kênh truy cập từ xa là những điểm cần được bảo vệ để tránh gián đoạn hoạt động của hạ tầng năng lượng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-24T04:00:00+07:00",
+      "fetched": "2026-10-25T09:19:15.140455+07:00"
+    },
+    {
       "id": "965e88fc54f0fcf417298554cce3e56c",
       "title": "Nữ kỳ thủ 11 tuổi trở thành Kiện tướng Quốc tế Nam",
       "link": "https://vnexpress.net/nu-ky-thu-11-tuoi-tro-thanh-kien-tuong-quoc-te-nam-5136312.html",
@@ -1271,6 +1721,16 @@ window.newsData_2026_10_25 = {
       "category": "Công nghệ",
       "published": "2026-10-23T17:00:00+07:00",
       "fetched": "2026-10-25T00:05:38.525964+07:00"
+    },
+    {
+      "id": "07a692913eef48460a5db9a33ac4bd3a",
+      "title": "Sau toán học, AI có thể chinh phục những đỉnh cao mới",
+      "link": "https://vnexpress.net/sau-toan-hoc-ai-co-the-chinh-phuc-nhung-dinh-cao-moi-5132856.html",
+      "summary": "Các nhà nghiên cứu ở Viện Công nghệ Massacusetts dự đoán AI sẽ cách mạng hóa xác suất thống kê, lý thuyết kinh tế, vũ trụ học, vật lý lượng tử sau loạt thành tựu toán học gần đây.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-23T17:00:00+07:00",
+      "fetched": "2026-10-25T09:19:15.139965+07:00"
     },
     {
       "id": "0fe124b2328a876929ac33097c88078a",
