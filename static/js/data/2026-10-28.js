@@ -1,7 +1,157 @@
 window.newsData_2026_10_28 = {
   "date": "2026-10-28",
-  "lastUpdated": "2026-10-28T14:43:36.128347+07:00",
+  "lastUpdated": "2026-10-28T21:41:16.798961+07:00",
   "articles": [
+    {
+      "id": "08089dae4f0fc047f1d4a1729d91d4bb",
+      "title": "U15 Việt Nam thua Rwanda ở World Cup, giao lưu với cựu HLV Arsene Wenger",
+      "link": "https://tuoitre.vn/u15-viet-nam-thua-rwanda-o-world-cup-giao-luu-voi-cuu-hlv-arsene-wenger-100261028183254113.htm",
+      "summary": "Chiều 28-10, đội tuyển U15 Việt Nam thua U15 Rwanda với tỉ số 2-4 trên chấm luân lưu (hòa 2-2 trong thời gian chính thức), tại vòng tranh hạng U15 World Cup & Festival 2026. Sau trận này, toàn đội có cuộc gặp, giao lưu với cựu HLV Arsene Wenger.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T21:41:10.887671+07:00",
+      "fetched": "2026-10-28T21:41:10.887764+07:00"
+    },
+    {
+      "id": "111e6353c322d6264c34f0dba882abb3",
+      "title": "TP.HCM sắp bước vào đợt tổng kích cầu '5 trong 1'",
+      "link": "https://tuoitre.vn/tphcm-sap-buoc-vao-dot-tong-kich-cau-5-trong-1-100261028185202556.htm",
+      "summary": "Với hơn 250 tỉ đồng ưu đãi từ hơn 100 thương hiệu, TP.HCM chuẩn bị triển khai chương trình tổng kích cầu cuối năm theo mô hình “5 trong 1”, kết hợp mua sắm, giải trí, du lịch, thương mại điện tử và thanh toán số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T21:41:10.887605+07:00",
+      "fetched": "2026-10-28T21:41:10.887661+07:00"
+    },
+    {
+      "id": "99aa06059addabb01bf52451a0170596",
+      "title": "VTC đưa sân chơi eSports Audition đến Trường Đại học Văn hóa Hà Nội",
+      "link": "https://tuoitre.vn/vtc-dua-san-choi-esports-audition-den-truong-dai-hoc-van-hoa-ha-noi-100261028163629544.htm",
+      "summary": "Trong khuôn khổ “Ngày hội việc làm - Job Fair” vừa qua tại Trường Đại học Văn hóa Hà Nội, gian hàng Audition đã trở thành một trong những điểm nhấn trải nghiệm thu hút đông đảo sinh viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T21:41:10.887539+07:00",
+      "fetched": "2026-10-28T21:41:10.887594+07:00"
+    },
+    {
+      "id": "3e1469e161d0ceb84ba2f987b4c00cfc",
+      "title": "Vietravel Airlines đón thêm tàu bay, sắp mở loạt đường bay quốc tế",
+      "link": "https://tuoitre.vn/vietravel-airlines-don-them-tau-bay-sap-mo-loat-duong-bay-quoc-te-100261028192740409.htm",
+      "summary": "Vietravel Airlines vừa tiếp nhận thêm một tàu bay Airbus A321, đồng thời dự kiến mở các đường bay Hà Nội - Thâm Quyến, Hà Nội - Ma Cao và xúc tiến thêm các tuyến kết nối Đài Loan, Trung Quốc dịp cuối năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T21:41:10.887471+07:00",
+      "fetched": "2026-10-28T21:41:10.887529+07:00"
+    },
+    {
+      "id": "cc5f15c400ed9cbd99ed40d96a4b9fcd",
+      "title": "Dùng vũ lực bắt 3 con gà để trừ nợ, 3 thanh niên đòi nợ thuê bị khởi tố",
+      "link": "https://tuoitre.vn/dung-vu-luc-bat-3-con-ga-de-tru-no-3-thanh-nien-doi-no-thue-bi-khoi-to-100261028185251032.htm",
+      "summary": "Nhóm thanh niên đe dọa, dùng vũ lực xông vào bắt 3 con gà của người nợ tiền để trừ nợ đã bị Cơ quan Cảnh sát điều tra Công an tỉnh Vĩnh Long khởi tố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T21:41:10.887405+07:00",
+      "fetched": "2026-10-28T21:41:10.887461+07:00"
+    },
+    {
+      "id": "7c6e9213f16add1d1b9a15bd2d7eb09e",
+      "title": "TP.HCM và Diễn đàn Kinh tế thế giới trao văn kiện hợp tác chiến lược",
+      "link": "https://tuoitre.vn/tphcm-va-dien-dan-kinh-te-the-gioi-trao-van-kien-hop-tac-chien-luoc-100261026191703338.htm",
+      "summary": "Ngày 28-10, Phó Chủ tịch Thường trực UBND TP.HCM Nguyễn Lộc Hà và Giám đốc điều hành WEF Stephan Mergenthaler đã trao văn kiện hợp tác trước sự chứng kiến của Thủ tướng Chính phủ Lê Minh Hưng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T21:41:10.887338+07:00",
+      "fetched": "2026-10-28T21:41:10.887395+07:00"
+    },
+    {
+      "id": "66209b6a1b26faee3f30aa0bc71c41eb",
+      "title": "Tàu cao tốc đâm nhau ở Tây Ban Nha: 46 người chết, 80 người bị thương",
+      "link": "https://tuoitre.vn/tau-cao-toc-dam-nhau-o-tay-ban-nha-46-nguoi-chet-80-nguoi-bi-thuong-100261028192055176.htm",
+      "summary": "Ngày 28-10, một vụ va chạm giữa hai tàu cao tốc ở phía nam Madrid, Tây Ban Nha đã khiến ít nhất 46 người chết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T21:41:10.887270+07:00",
+      "fetched": "2026-10-28T21:41:10.887327+07:00"
+    },
+    {
+      "id": "52d4bfb80ee40bdc1c19ff3a0d2bdbeb",
+      "title": "Gác giấc mơ giảng đường 2 năm, nay đậu Khoa học Tự nhiên, 3h sáng giao thịt kiếm tiền đi học",
+      "link": "https://tuoitre.vn/gac-giac-mo-giang-duong-2-nam-nay-dau-khoa-hoc-tu-nhien-3h-sang-giao-thit-kiem-tien-di-hoc-100261028123111949.htm",
+      "summary": "Hôm nay Trần Hưng Thịnh (sinh năm 2006), tân sinh viên ngành Kỹ thuật điện tử - viễn thông, Trường ĐH Khoa học tự nhiên (ĐH Quốc gia TP.HCM) được trao học bổng Tiếp sức đến trường. 3h sáng mỗi ngày, Thịnh thức dậy chạy xe máy giao thịt bò thuê cho một cơ sở bán thịt tại Bình Chánh (TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T21:41:10.887207+07:00",
+      "fetched": "2026-10-28T21:41:10.887260+07:00"
+    },
+    {
+      "id": "999b44ab86f476e853c49d6de873cabe",
+      "title": "Chủ tịch Cây xanh Công Minh gây thiệt hại 791 tỉ, hưởng lợi 265 tỉ rồi cùng gia đình trốn ra nước ngoài",
+      "link": "https://tuoitre.vn/chu-tich-cay-xanh-cong-minh-gay-thiet-hai-791-ti-huong-loi-265-ti-roi-cung-gia-dinh-tron-ra-nuoc-ngoai-100261028191642149.htm",
+      "summary": "Cáo trạng của Viện Kiểm sát nhân dân tối cao xác định Hệ thống Cây xanh Công Minh trúng thầu 1.218 dự án tại 38 tỉnh, thành phố, gây thiệt hại gần 791 tỉ đồng. Riêng Chủ tịch công ty Nguyễn Công Minh bị cáo buộc hưởng lợi gần 265 tỉ đồng, sau đó cùng gia đình bỏ trốn ra nước ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T21:41:10.887145+07:00",
+      "fetched": "2026-10-28T21:41:10.887197+07:00"
+    },
+    {
+      "id": "20e76660c681aa430ba9eca325918070",
+      "title": "Sau vụ PUBG cấm Himass - Tanvuu, Hàn Quốc có 3 game thủ bị phát hiện gian lận",
+      "link": "https://tuoitre.vn/sau-vu-pubg-cam-himass-tanvuu-han-quoc-co-3-game-thu-bi-phat-hien-gian-lan-100261028185850196.htm",
+      "summary": "Sau khi PUBG ra án cấm đầy tranh cãi dành cho Himass và Tanvuu, chỉ trong 3 tuần, cộng đồng thể thao điện tử Hàn Quốc ghi nhận đến 3 VĐV bị vạch trần chuyện gian lận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T21:41:10.887076+07:00",
+      "fetched": "2026-10-28T21:41:10.887134+07:00"
+    },
+    {
+      "id": "3de8142a094f295c7abcdd86b3c7691d",
+      "title": "Hà Nội chi hơn 13.367 tỉ làm đường vành đai 3,5 nối quốc lộ 2 với cầu Thượng Cát",
+      "link": "https://tuoitre.vn/ha-noi-chi-hon-13367-ti-lam-duong-vanh-dai-35-noi-quoc-lo-2-voi-cau-thuong-cat-100261028190822194.htm",
+      "summary": "Dự án đường vành đai 3,5, đoạn từ quốc lộ 2 đến đầu cầu Thượng Cát, dài 12,36km, tổng mức đầu tư sơ bộ hơn 13.367 tỉ đồng, dự kiến hoàn thành trong quý 1-2028 vừa được HĐND TP Hà Nội thông qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T21:41:10.887005+07:00",
+      "fetched": "2026-10-28T21:41:10.887064+07:00"
+    },
+    {
+      "id": "c07e6470e0002c7239269d2702f31000",
+      "title": "Người dân TP.HCM ứng phó triều cường, không để bị động hư đồ đạc",
+      "link": "https://tuoitre.vn/nguoi-dan-tphcm-ung-pho-trieu-cuong-khong-de-bi-dong-hu-do-dac-100261028192446612.htm",
+      "summary": "Chiều 28-10, khi triều cường dâng cao trên đường Nguyễn Văn Quỳ (phường Tân Mỹ), nhiều hộ dân đã chuẩn bị sẵn bao cát, máy bơm nước, thanh chắn… để hạn chế nước tràn vào nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T21:41:10.886935+07:00",
+      "fetched": "2026-10-28T21:41:10.886994+07:00"
+    },
+    {
+      "id": "2c206bb407678590445f6638a07f940c",
+      "title": "Ông Nguyễn Bá Út được bầu làm Phó chủ tịch UBND tỉnh Lâm Đồng",
+      "link": "https://tuoitre.vn/ong-nguyen-ba-ut-duoc-bau-lam-pho-chu-tich-ubnd-tinh-lam-dong-100261028194325555.htm",
+      "summary": "Tại kỳ họp thứ 8 diễn ra ngày 28-10, Hội đồng nhân dân tỉnh Lâm Đồng XI bầu ông Nguyễn Bá Út - Giám đốc Sở Công thương - giữ chức Phó chủ tịch UBND tỉnh nhiệm kỳ 2026 - 2031.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T21:41:10.886859+07:00",
+      "fetched": "2026-10-28T21:41:10.886924+07:00"
+    },
+    {
+      "id": "9bf5c6ec05c1e69e9243c1075e0fcc36",
+      "title": "Top 5 anime đáng xem dành cho fan One Piece",
+      "link": "https://tuoitre.vn/top-5-anime-dang-xem-danh-cho-fan-one-piece-100261028185710877.htm",
+      "summary": "Sau gần ba thập kỷ phát triển, One Piece đã trở thành một trong những thương hiệu anime và manga có sức ảnh hưởng lớn nhất thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T21:41:10.886765+07:00",
+      "fetched": "2026-10-28T21:41:10.886847+07:00"
+    },
+    {
+      "id": "961e43849423626bf0c98f2a8bde51d9",
+      "title": "Hàn Quốc chi 3.900 tỉ đồng xây 'Thung lũng Việt Nam', kỳ vọng hút người Việt đến định cư",
+      "link": "https://tuoitre.vn/han-quoc-chi-3900-ti-dong-xay-thung-lung-viet-nam-ky-vong-hut-nguoi-viet-den-dinh-cu-100261028191626272.htm",
+      "summary": "Dự án Thung lũng K-Vietnam tại huyện Bonghwa, có tổng vốn đầu tư khoảng 200 tỉ won Hàn Quốc (tương đương 3.900 tỉ đồng), hướng đến phát triển du lịch di sản Việt - Hàn, đồng thời xây dựng hệ thống hỗ trợ các gia đình gốc Việt định cư lâu dài tại địa phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T21:41:10.886600+07:00",
+      "fetched": "2026-10-28T21:41:10.886730+07:00"
+    },
     {
       "id": "0d3c990c0c5370f954ef9f7a8b6fc4e2",
       "title": "Lada Niva từng bán tháo ở Việt Nam có bản 'chân voi' siêu hiếm",
@@ -151,6 +301,426 @@ window.newsData_2026_10_28 = {
       "category": "Tổng hợp",
       "published": "2026-10-28T14:43:28.149941+07:00",
       "fetched": "2026-10-28T14:43:28.150086+07:00"
+    },
+    {
+      "id": "a3c4002e9e05e70f3e36db306500cf41",
+      "title": "Bắt khẩn cấp 3 người liên quan vụ đánh nhau gây náo loạn đường phố",
+      "link": "https://thanhnien.vn/bat-khan-cap-3-nguoi-lien-quan-vu-danh-nhau-gay-nao-loan-duong-pho-185261028205750341.htm",
+      "summary": "Cơ quan công an vừa bắt giữ 3 người để điều tra về hành vi gây rối trật tự công cộng sau vụ đánh nhau ở Thới An (TP.HCM) xuất phát từ mâu thuẫn khi tham gia giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T14:39:00+07:00",
+      "fetched": "2026-10-28T21:41:09.380491+07:00"
+    },
+    {
+      "id": "2f56da6084bad4e857ca7feb1f107651",
+      "title": "Bầu cử Israel dần ngã ngũ, đảng Thủ tướng Netanyahu nắm nhiều ghế nhất",
+      "link": "https://thanhnien.vn/bau-cu-israel-dan-nga-ngu-dang-thu-tuong-netanyahu-nam-nhieu-ghe-nhat-185261028212809324.htm",
+      "summary": "Vào tối 28.10 (giờ Việt Nam), với hơn 85% số phiếu đã được kiểm đếm, cục diện bầu cử quốc hội Israel gần như đã được xác định, khi không bên nào giành đa số ghế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T14:31:00+07:00",
+      "fetched": "2026-10-28T21:41:09.380667+07:00"
+    },
+    {
+      "id": "204b3c2b5316e86d98f9aa7e76bcc86c",
+      "title": "Thể Công Viettel thua tan nát Seoul 0-5: Khủng hoảng toàn diện, HLV Popov... đổ lỗi cho ai đây!?",
+      "link": "https://thanhnien.vn/the-cong-viettel-thua-tan-nat-seoul-0-5-khung-hoang-toan-dien-hlv-popov-do-loi-cho-ai-day-18526102820522879.htm",
+      "summary": "Thể Công Viettel thua đậm 5 bàn không gỡ trước Seoul ở lượt ba vòng bảng AFC Champions League 2, qua đó tụt xuống cuối bảng với 1 điểm sau 3 trận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T14:14:00+07:00",
+      "fetched": "2026-10-28T21:41:09.380850+07:00"
+    },
+    {
+      "id": "c43ad93c1ad859a273b9eb0a4678c4ad",
+      "title": "Cảnh báo nguy cơ chất độc từ bao bì thôi nhiễm vào thực phẩm",
+      "link": "https://thanhnien.vn/canh-bao-nguy-co-chat-doc-tu-bao-bi-thoi-nhiem-vao-thuc-pham-185261028195026279.htm",
+      "summary": "Bao bì thực phẩm không đạt chuẩn có thể khiến kim loại nặng, hóa chất từ mực in, keo dán và vật liệu nhựa thôi nhiễm vào thực phẩm, gây nguy cơ đối với sức khỏe người tiêu dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T14:08:00+07:00",
+      "fetched": "2026-10-28T21:41:09.381009+07:00"
+    },
+    {
+      "id": "314ba96413e3d3bf98052bd1ca1ad58f",
+      "title": "Đề xuất xóa 9.715 tỉ tiền chậm nộp cho doanh nghiệp 'đắp chiếu' nhiều năm",
+      "link": "https://thanhnien.vn/de-xuat-xoa-9715-ti-tien-cham-nop-cho-doanh-nghiep-dap-chieu-nhieu-nam-185261028205527841.htm",
+      "summary": "Bộ Tài chính đề xuất xóa 9.715 tỉ đồng tiền chậm nộp cho người nộp thuế ở trạng thái ngừng hoạt động nhưng chưa đóng mã số thuế (03) và không hoạt động tại địa chỉ đã đăng ký (06).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T14:03:00+07:00",
+      "fetched": "2026-10-28T21:41:09.381171+07:00"
+    },
+    {
+      "id": "4f2c3c9e107e854bbd633f54db7c244e",
+      "title": "Đề xuất chưa hoãn xuất cảnh người bị mạo danh lập doanh nghiệp",
+      "link": "https://thanhnien.vn/de-xuat-chua-hoan-xuat-canh-nguoi-bi-mao-danh-lap-doanh-nghiep-185261028194357917.htm",
+      "summary": "Bộ Tài chính đề xuất tạm thời chưa áp dụng biện pháp tạm hoãn xuất cảnh với cá nhân bị mạo danh để thành lập doanh nghiệp nếu cơ quan công an đã có văn bản xác nhận tiếp nhận phản ánh và đang giải quyết vụ việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T14:01:00+07:00",
+      "fetched": "2026-10-28T21:41:09.381331+07:00"
+    },
+    {
+      "id": "6b9c1f3dcbaa6047c3cce516a7ba3977",
+      "title": "Hiện trường hai tàu cao tốc đâm nhau ở Tây Ban Nha",
+      "link": "https://vnexpress.net/hien-truong-hai-tau-cao-toc-dam-nhau-o-tay-ban-nha-5138047.html",
+      "summary": "Hai đoàn tàu cao tốc đâm nhau ở miền nam Tây Ban Nha, khiến một toa gần như bị xé nát, ít nhất 64 người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-28T13:59:09+07:00",
+      "fetched": "2026-10-28T21:41:11.947635+07:00"
+    },
+    {
+      "id": "1e18dcffd61ee36783edb58ff53b56eb",
+      "title": "Nhà nước tiếp tục giữ sở hữu 100% vốn tại EVN, PVN",
+      "link": "https://vnexpress.net/nha-nuoc-tiep-tuc-giu-so-huu-100-von-tai-evn-pvn-5138030.html",
+      "summary": "Nhà nước tiếp tục nắm giữ 100% vốn tại EVN, PVN, trong khi cơ cấu lại ở các ngân hàng Vietcombank, BIDV, Vietinbank để đảm bảo sở hữu tối thiểu 65% tại đây.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-28T13:56:37+07:00",
+      "fetched": "2026-10-28T21:41:13.070087+07:00"
+    },
+    {
+      "id": "8b37e33a9fbe5a56105bff1be5ebe8d7",
+      "title": "Việt Nam và EU có chung tham vọng tự chủ về công nghệ",
+      "link": "https://vnexpress.net/viet-nam-va-eu-co-chung-tham-vong-tu-chu-ve-cong-nghe-5138035.html",
+      "summary": "Theo đại diện Phái đoàn Liên minh châu Âu tại Việt Nam, các nước EU có nhiều điểm tương đồng với Việt Nam và ASEAN về tham vọng tự chủ công nghệ chiến lược.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-28T13:56:37+07:00",
+      "fetched": "2026-10-28T21:41:15.858823+07:00"
+    },
+    {
+      "id": "a066818ef0d5fb0e8b3c909aa443114a",
+      "title": "Đang đào đất, công nhân ở TP.HCM bất ngờ phát hiện con trăn đất quý hiếm",
+      "link": "https://thanhnien.vn/dang-dao-dat-cong-nhan-o-tphcm-bat-ngo-phat-hien-tran-gam-quy-hiem-185261028190913657.htm",
+      "summary": "Đang đào đất thi công công trình trên đường Mai Chí Thọ (TP.HCM), nhóm công nhân bất ngờ phát hiện một con trăn đất quý hiếm sau đó bàn giao cho cơ quan chức năng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T13:24:00+07:00",
+      "fetched": "2026-10-28T21:41:09.381484+07:00"
+    },
+    {
+      "id": "6ec347695741d6b0df7094b341deb09a",
+      "title": "Khởi tố 17 bị can gây rối, hỗn chiến ở Quảng Ngãi",
+      "link": "https://thanhnien.vn/khoi-to-17-bi-can-gay-roi-hon-chien-o-quang-ngai-185261028195235553.htm",
+      "summary": "Công an tỉnh Quảng Ngãi khởi tố 17 bị can liên quan đến vụ gây rối trật tự công cộng, khi nhóm thanh thiếu niên mang theo dao phóng lợn hỗn chiến nhằm gây chú ý trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T13:23:00+07:00",
+      "fetched": "2026-10-28T21:41:09.381642+07:00"
+    },
+    {
+      "id": "f0feb0752ba3ddfe8ef58a5702c0f3b5",
+      "title": "Không công khai khuyết điểm học sinh trên nhóm trao đổi trực tuyến, không ép học thêm",
+      "link": "https://thanhnien.vn/khong-cong-khai-khuyet-diem-hoc-sinh-tren-nhom-trao-doi-truc-tuyen-khong-ep-hoc-them-185261028195552338.htm",
+      "summary": "Sở GD-ĐT TP.HCM yêu cầu các cơ sở giáo dục cập nhật bộ quy tắc ứng xử, nhấn mạnh bảo vệ người học, ứng xử trên môi trường số và trách nhiệm của người đứng đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T13:20:00+07:00",
+      "fetched": "2026-10-28T21:41:09.381824+07:00"
+    },
+    {
+      "id": "c9dff77606d6edb2064822a7d9da0f56",
+      "title": "Vụ trói trẻ mầm non gây rúng động Indonesia: 11 bảo mẫu lãnh án tù",
+      "link": "https://thanhnien.vn/vu-troi-tre-mam-non-gay-rung-dong-indonesia-11-bao-mau-lanh-an-tu-185261028195854379.htm",
+      "summary": "Tòa án tại Indonesia ngày 28.10 đã tuyên phạt 11 bảo mẫu mức án từ 2 đến 3 năm tù vì tội bạo hành và bỏ bê trẻ em tại một nhà trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T13:18:00+07:00",
+      "fetched": "2026-10-28T21:41:09.381984+07:00"
+    },
+    {
+      "id": "a7778c471a4f181180d2bac69d5d72ea",
+      "title": "Hóa thạch khủng long được bán đấu giá hơn 1.200 tỉ đồng",
+      "link": "https://thanhnien.vn/hoa-thach-khung-long-duoc-ban-dau-gia-hon-1200-ti-dong-185261028192345095.htm",
+      "summary": "Một bộ xương hóa thạch hiếm của loài khủng long Nanotyrannus vừa được bán với giá 47,3 triệu USD (khoảng 1.200 tỉ đồng) trong buổi đấu giá tại Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T13:18:00+07:00",
+      "fetched": "2026-10-28T21:41:09.382134+07:00"
+    },
+    {
+      "id": "f9141e7e5d9db3974ae073656632ec65",
+      "title": "Kết quả xổ số Vietlott Mega 6/45 tối 28.10, giải độc đắc cộng dồn 18,4 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-mega-6-45-toi-2810-giai-doc-dac-cong-don-184-ti-dong-185261028195622403.htm",
+      "summary": "Tối 28.10, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45 và ghi nhận không có người trúng giải độc đắc nên số tiền cộng dồn là 18,4 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T13:15:00+07:00",
+      "fetched": "2026-10-28T21:41:09.382283+07:00"
+    },
+    {
+      "id": "2015abaa7e02bf1a64e5e3bed9f8f49a",
+      "title": "Phó thủ tướng: Trung tâm tài chính phấn đấu có ngân hàng thành viên vào tháng 11",
+      "link": "https://vnexpress.net/pho-thu-tuong-trung-tam-tai-chinh-phan-dau-co-ngan-hang-thanh-vien-vao-thang-11-5138043.html",
+      "summary": "Sau 10 công ty holding tham gia, Phó thủ tướng Nguyễn Văn Thắng đề nghị Trung tâm tài chính tại TP HCM có ngân hàng thành viên tháng sau.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-28T13:10:13+07:00",
+      "fetched": "2026-10-28T21:41:13.070270+07:00"
+    },
+    {
+      "id": "eea24d378bcf7f3bfaf5a8c94dc98af5",
+      "title": "Các quốc gia cần dịch chuyển từ tiêu thụ sang đồng kiến tạo AI",
+      "link": "https://vnexpress.net/cac-quoc-gia-can-dich-chuyen-tu-tieu-thu-sang-dong-kien-tao-ai-5138008.html",
+      "summary": "Tại Tuần lễ Số 2026, các đại biểu quốc tế và Việt Nam nhấn mạnh yêu cầu chuyển hóa cam kết thành năng lực thực tiễn, đưa các quốc gia tham gia đồng kiến tạo AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-28T13:06:23+07:00",
+      "fetched": "2026-10-28T21:41:15.858982+07:00"
+    },
+    {
+      "id": "b45ae26b174d9e8552b7b4534b5b913a",
+      "title": "Xem nhanh 20h ngày 28.10: Mr Pips nhận lương hàng trăm kg vàng | Khách Tây múa hát hết mình ở đám cưới miền Tây",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-2810-mr-pips-nhan-luong-hang-tram-kg-vang-khach-tay-mua-hat-het-minh-o-dam-cuoi-mien-tay-18526102818491209.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 28.10 có nhiều tin tức đáng chú ý về: Mr Pips 'đút túi' 500 tỉ, được trả lương bằng cả trăm kg vàng; khách Tây tình cờ dự đám cưới ở Cần Thơ, nhảy múa hết mình còn bỏ phong bì mừng cưới;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T13:00:00+07:00",
+      "fetched": "2026-10-28T21:41:09.382435+07:00"
+    },
+    {
+      "id": "84bf45a0088d3a7fbe85046443a66bc8",
+      "title": "Đính đá trên giày tăng nét lộng lẫy khi dạo bước",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dinh-da-tren-giay-tang-net-long-lay-khi-dao-buoc-185261026211144777.htm",
+      "summary": "Sự xuất hiện của những chi tiết đính đá lấp lánh trên giày cao gót, mule hay giày bệt đang thổi một làn gió kiêu kỳ vào tủ đồ của phái đẹp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T13:00:00+07:00",
+      "fetched": "2026-10-28T21:41:09.382587+07:00"
+    },
+    {
+      "id": "5c55c701c539500344ecbccc3c81a98e",
+      "title": "Triều cường bao vây nhiều khu dân cư cao cấp ở TP.HCM, người dân lội nước về nhà",
+      "link": "https://thanhnien.vn/trieu-cuong-bao-vay-nhieu-khu-dan-cu-cao-cap-o-tphcm-nguoi-dan-loi-nuoc-ve-nha-185261028194238259.htm",
+      "summary": "Chiều 28.10, triều cường dâng cao khiến nhiều khu dân cư cao cấp ở phía nam TP.HCM ngập đến đầu gối. Nước bao vây các biệt thự, người dân phải lội nước, đẩy xe máy về nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-28T12:59:00+07:00",
+      "fetched": "2026-10-28T21:41:09.382752+07:00"
+    },
+    {
+      "id": "5ab9673a70290e9f8e5a983ebf154afa",
+      "title": "Carrick hòa giải với Fernandes",
+      "link": "https://vnexpress.net/carrick-hoa-giai-voi-fernandes-5138042.html",
+      "summary": "HLV Michael Carrick và Bruno Fernandes đã nói chuyện riêng để giải quyết bất đồng tại Man Utd, mở đường cho thủ quân trở lại đội hình chính ở trận gặp Chelsea tại Ngoại hạng Anh cuối tuần này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-28T12:34:48+07:00",
+      "fetched": "2026-10-28T21:41:16.790697+07:00"
+    },
+    {
+      "id": "68b955ca80c78261b33950a9733f560b",
+      "title": "Trung Quốc ghi nhận lời xin lỗi của Mbappe",
+      "link": "https://vnexpress.net/trung-quoc-ghi-nhan-loi-xin-loi-cua-mbappe-5138029.html",
+      "summary": "Trung Quốc ghi nhận lời xin lỗi của Kylian Mbappe, sau khi ngôi sao bóng đá Pháp có phát ngôn gây tranh cãi về lãnh đạo nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-28T12:09:43+07:00",
+      "fetched": "2026-10-28T21:41:11.947849+07:00"
+    },
+    {
+      "id": "211642252c034dd257c0af8d3dd7dacf",
+      "title": "Lãnh đạo khoa học công nghệ đến Việt Nam bàn về phát triển AI",
+      "link": "https://vnexpress.net/lanh-dao-khoa-hoc-cong-nghe-den-viet-nam-ban-ve-phat-trien-ai-5137854.html",
+      "summary": "Đại diện Mỹ, Trung Quốc, Nhật Bản, Hàn Quốc, cùng nhiều quốc gia, khu vực đến Việt Nam, bàn về việc phát triển trí tuệ nhân tạo (AI).",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-28T12:06:58+07:00",
+      "fetched": "2026-10-28T21:41:15.857627+07:00"
+    },
+    {
+      "id": "46e2f42b1e511b90011ece46ed442dd9",
+      "title": "Cựu tướng Israel thách thức quyền lực của Thủ tướng Netanyahu",
+      "link": "https://vnexpress.net/cuu-tuong-israel-thach-thuc-quyen-luc-cua-thu-tuong-netanyahu-5137670.html",
+      "summary": "Từng là tư lệnh quân đội Israel, ông Eisenkot tham gia chính trị, thách thức quyền lực Thủ tướng Netanyahu trong cuộc bầu cử có kết quả sít sao.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-28T12:00:00+07:00",
+      "fetched": "2026-10-28T21:41:11.948019+07:00"
+    },
+    {
+      "id": "517c30c849b483a4544931b39c64463d",
+      "title": "Bộ trưởng Xây dựng: Nhà xã hội sau 5 năm không được bán lại theo giá thị trường",
+      "link": "https://vnexpress.net/bo-truong-xay-dung-nha-xa-hoi-sau-5-nam-khong-duoc-ban-lai-theo-gia-thi-truong-5137995.html",
+      "summary": "Bộ trưởng Trần Hồng Minh khẳng định nhà xã hội để hỗ trợ những người khó khăn về thu nhập, nên sau 5 năm không được bán lại theo giá thị trường.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-28T11:26:56+07:00",
+      "fetched": "2026-10-28T21:41:13.070436+07:00"
+    },
+    {
+      "id": "e3b1d7651990e8c4528d821c6446c3e0",
+      "title": "Nhóm cổ đông nắm hơn 8,6% vốn tại Ngân hàng Quốc tế",
+      "link": "https://vnexpress.net/nhom-co-dong-nam-hon-8-6-von-tai-ngan-hang-quoc-te-5137978.html",
+      "summary": "Hai doanh nghiệp Beston, Bellmont cùng 4 người liên quan nắm hơn 322 triệu cổ phiếu VIB, tương đương hơn 8,6% vốn ngân hàng này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-28T11:14:12+07:00",
+      "fetched": "2026-10-28T21:41:13.070596+07:00"
+    },
+    {
+      "id": "c2b29cc8f901714766e85d8134d0b8d8",
+      "title": "Vụ sát hại blogger vạch trần lừa đảo khiến người Trung Quốc phẫn nộ",
+      "link": "https://vnexpress.net/vu-sat-hai-blogger-vach-tran-lua-dao-khien-nguoi-trung-quoc-phan-no-5137918.html",
+      "summary": "Dư luận Trung Quốc kêu gọi lập tức tử hình những kẻ đã sát hại Ngô Khải, blogger từng vạch trần nhiều vụ lừa đảo của các ông trùm người Trung Quốc ở Campuchia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-28T10:57:43+07:00",
+      "fetched": "2026-10-28T21:41:11.948180+07:00"
+    },
+    {
+      "id": "94106b87ceb8e67a27bbdc93a2568519",
+      "title": "Wawrinka giải nghệ sau 24 năm thi đấu chuyên nghiệp",
+      "link": "https://vnexpress.net/wawrinka-giai-nghe-sau-24-nam-thi-dau-chuyen-nghiep-5137988.html",
+      "summary": "Stan Wawrinka khép lại sự nghiệp quần vợt kéo dài 24 năm sau khi thua Jiri Lehecka 5-7, 6-7(2) ở vòng một Swiss Indoors Basel ngày 27/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-28T10:52:06+07:00",
+      "fetched": "2026-10-28T21:41:16.790908+07:00"
+    },
+    {
+      "id": "33892408ec98c4d7d79b7d62845721ee",
+      "title": "Hai tàu cao tốc đâm nhau ở Tây Ban Nha, 64 người chết",
+      "link": "https://vnexpress.net/hai-tau-cao-toc-dam-nhau-o-tay-ban-nha-64-nguoi-chet-5138012.html",
+      "summary": "Ít nhất 64 người thiệt mạng khi hai tàu cao tốc va chạm trên tuyến đường sắt phía nam thủ đô Madrid của Tây Ban Nha.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-28T10:45:17+07:00",
+      "fetched": "2026-10-28T21:41:11.948338+07:00"
+    },
+    {
+      "id": "5e5a3224c0d3c6b0ec10209aa263d3f8",
+      "title": "Nỗi thất vọng của những cử tri Mỹ từng bầu cho ông Trump",
+      "link": "https://vnexpress.net/noi-that-vong-cua-nhung-cu-tri-my-tung-bau-cho-ong-trump-5137923.html",
+      "summary": "Một số cử tri không còn tin Tổng thống Trump thực sự đặt lợi ích của người Mỹ bình thường lên hàng đầu, dù từng nhiều lần bỏ phiếu cho ông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-28T10:00:00+07:00",
+      "fetched": "2026-10-28T21:41:11.948496+07:00"
+    },
+    {
+      "id": "ee4d1637422f64b32c1945ba44fb1768",
+      "title": "Nhà đầu tư cam kết rót hơn 16 tỷ USD vào 12 dự án ở TP HCM",
+      "link": "https://vnexpress.net/nha-dau-tu-cam-ket-rot-hon-16-ty-usd-vao-12-du-an-o-tp-hcm-5137947.html",
+      "summary": "Các dự án được chấp thuận hoặc cấp phép đầu tư vào TP HCM có tổng vốn đăng ký khoảng 16,4 tỷ USD tập trung vào cảng biển, logistics, phát triển đô thị và sản xuất công nghệ cao.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-28T09:35:57+07:00",
+      "fetched": "2026-10-28T21:41:13.070776+07:00"
+    },
+    {
+      "id": "41a333d302ac6a00a849d9caa10268df",
+      "title": "Những cô gái bán bia trên khán đài bóng chày Nhật Bản",
+      "link": "https://vnexpress.net/nhung-co-gai-ban-bia-tren-khan-dai-bong-chay-nhat-ban-5137980.html",
+      "summary": "Những cô gái đeo thùng bia nặng 15 kg, liên tục lên xuống các bậc khán đài để phục vụ người hâm mộ đã trở thành nét văn hóa đặc trưng của bóng chày Nhật Bản, nhưng cũng gây tranh cãi vì những hành vi quá khích từ khách hàng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-28T09:22:46+07:00",
+      "fetched": "2026-10-28T21:41:16.791079+07:00"
+    },
+    {
+      "id": "fc970dab7b59f3877669e7d244c0ed6a",
+      "title": "Cổ phiếu nhà phân phối Apple, Xiaomi chạm sàn khi vừa báo lãi gấp đôi",
+      "link": "https://vnexpress.net/co-phieu-nha-phan-phoi-apple-xiaomi-cham-san-khi-vua-bao-lai-gap-doi-5137945.html",
+      "summary": "Cổ phiếu Digiworld đảo chiều từ tăng thành giảm hết biên độ và không có bên mua ngay khi doanh nghiệp công bố kết quả kinh doanh quý III với hàng loạt chỉ số tăng vọt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-28T09:05:00+07:00",
+      "fetched": "2026-10-28T21:41:13.070942+07:00"
+    },
+    {
+      "id": "c684215b66270d29817dd78be55e1543",
+      "title": "Ông Bolsonaro rời Brazil qua ngả Argentina sau thất bại bầu cử",
+      "link": "https://vnexpress.net/ong-bolsonaro-roi-brazil-qua-nga-argentina-sau-that-bai-bau-cu-5137875.html",
+      "summary": "Argentina xác nhận ông Flavio Bolsonaro cùng vợ con đã nhập cảnh vào nước này sau thất bại trong cuộc bầu cử tổng thống Brazil, rồi tiếp tục đến Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-28T09:04:33+07:00",
+      "fetched": "2026-10-28T21:41:11.948651+07:00"
+    },
+    {
+      "id": "68b8e7ef4d9f80cd49f41a1f274a3f19",
+      "title": "Chủ tịch Samsung Việt Nam: Đô thị hóa, AI 'mở khóa' ngành HVAC",
+      "link": "https://vnexpress.net/chu-tich-samsung-viet-nam-do-thi-hoa-ai-mo-khoa-nganh-hvac-5137933.html",
+      "summary": "Nhu cầu làm mát Data Center, cùng sự phát triển của bất động sản, công nghiệp, tạo dư địa mở rộng mảng giải pháp không khí (HVAC) cho nhóm doanh nghiệp, theo ông Hyung Bin Joo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-28T09:00:00+07:00",
+      "fetched": "2026-10-28T21:41:15.859781+07:00"
+    },
+    {
+      "id": "2f1db89579995d35741204823ac503c0",
+      "title": "Đại biểu Quốc hội: Cần siết giá bán lại nhà ở xã hội sau 5 năm",
+      "link": "https://vnexpress.net/dai-bieu-quoc-hoi-can-siet-gia-ban-lai-nha-o-xa-hoi-sau-5-nam-5137906.html",
+      "summary": "Đại biểu Lý Anh Thư đề nghị Nhà nước cần có cơ chế quản lý giá bán lại nhà ở xã hội sau 5 năm cùng với việc siết nhóm người được mua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-28T08:49:53+07:00",
+      "fetched": "2026-10-28T21:41:13.071099+07:00"
+    },
+    {
+      "id": "ac472b0015a334e9ad805aae5cd38043",
+      "title": "Thế Giới Di Động báo lãi 9 tháng vượt kế hoạch cả năm",
+      "link": "https://vnexpress.net/the-gioi-di-dong-bao-lai-9-thang-vuot-ke-hoach-ca-nam-5137915.html",
+      "summary": "Lợi nhuận quý III lập đỉnh mới với 3.521 tỷ đồng, giúp Thế Giới Di Động lãi 9 tháng đạt 9.634 tỷ đồng - cao hơn kế hoạch cả năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-28T08:46:54+07:00",
+      "fetched": "2026-10-28T21:41:13.071255+07:00"
+    },
+    {
+      "id": "6a5830bf0f295a4e8b6888a86d918900",
+      "title": "Tàu ngầm Nga phóng tên lửa đạn đạo tầm bắn hơn 9.000 km",
+      "link": "https://vnexpress.net/tau-ngam-nga-phong-ten-lua-dan-dao-tam-ban-hon-9-000-km-5137913.html",
+      "summary": "Tu ngầm hạt nhân Đại nguyên soái Suvorov phóng thành công tên lửa Bulava với tầm bắn hơn 9.000 km trong diễn tập.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-28T08:42:22+07:00",
+      "fetched": "2026-10-28T21:41:11.948835+07:00"
+    },
+    {
+      "id": "8a2b1308f3f80878d6f4eb4729bafd5a",
+      "title": "Việt Nam tham gia Hiệp định Artemis về khám phá không gian",
+      "link": "https://vnexpress.net/viet-nam-tham-gia-hiep-dinh-artemis-ve-kham-pha-khong-gian-5137894.html",
+      "summary": "Việt Nam tiếp nhận Hiệp định Artemis trong khuôn khổ Tuần lễ Số Quốc tế 2026, đánh dấu bước tiến trong hợp tác quốc tế về khám phá và sử dụng không gian vũ trụ vì mục đích hòa bình.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-28T08:26:40+07:00",
+      "fetched": "2026-10-28T21:41:15.859136+07:00"
+    },
+    {
+      "id": "9ca787b091bbd5f4c9f70c0c690894af",
+      "title": "Thượng viện Pháp thông qua dự luật buộc người biểu tình phá hoại phải bồi thường",
+      "link": "https://vnexpress.net/thuong-vien-phap-thong-qua-du-luat-buoc-nguoi-bieu-tinh-pha-hoai-phai-boi-thuong-5137812.html",
+      "summary": "Dự luật mới yêu cầu người biểu tình chịu trách nhiệm tài chính cho các vụ phá hoại, với mức phạt tối đa 10.000 euro và nguy cơ bị trừ tiền trợ cấp",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-28T08:13:32+07:00",
+      "fetched": "2026-10-28T21:41:11.949001+07:00"
+    },
+    {
+      "id": "d67baa0e7d71ba00b079d4bbd88476f5",
+      "title": "Đòn đánh giữa cầu của Iskander-M khiến giao thông Kiev tê liệt",
+      "link": "https://vnexpress.net/don-danh-giua-cau-cua-iskander-m-khien-giao-thong-kiev-te-liet-5137804.html",
+      "summary": "Tên lửa Iskander-M đánh trúng phần giữa cầu Pivdenny, buộc Ukraine đình chỉ hoạt động đường sắt qua công trình và khiến giao thông ở thủ đô Kiev tê liệt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-28T07:56:14+07:00",
+      "fetched": "2026-10-28T21:41:11.949163+07:00"
+    },
+    {
+      "id": "bed410df511b00ab964e375bcc2e8e4f",
+      "title": "Phi cơ quay đầu vì thanh niên nhắn tin dọa cướp máy bay",
+      "link": "https://vnexpress.net/phi-co-quay-dau-vi-thanh-nien-nhan-tin-doa-cuop-may-bay-5137830.html",
+      "summary": "Dante Milne, 25 tuổi, bị cáo buộc liên quan đến khủng bố sau khi gửi tin nhắn đe dọa cướp máy bay từ Las Vegas đến Newark.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-28T07:53:51+07:00",
+      "fetched": "2026-10-28T21:41:11.949317+07:00"
     },
     {
       "id": "d05fa8635dd6a414a728975e4e1d6102",
@@ -363,6 +933,26 @@ window.newsData_2026_10_28 = {
       "fetched": "2026-10-28T14:43:26.128199+07:00"
     },
     {
+      "id": "ed19962f1e9563c849d138fceb9bc546",
+      "title": "Hơn một nửa Bitcoin đang lưu hành chưa xác định chủ sở hữu",
+      "link": "https://vnexpress.net/hon-mot-nua-bitcoin-dang-luu-hanh-chua-xac-dinh-chu-so-huu-5137750.html",
+      "summary": "Dù \"cá mập\" liên tục mua vào, phần lớn nguồn cung Bitcoin vẫn nằm trong nhóm chưa xác định chủ sở hữu, có thể do cá nhân tự lưu ký.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-28T07:30:00+07:00",
+      "fetched": "2026-10-28T21:41:13.071410+07:00"
+    },
+    {
+      "id": "6b2d4377de4dfb589ecd592e9a57d8b5",
+      "title": "Mbappe bị tẩy chay ở Trung Quốc",
+      "link": "https://vnexpress.net/mbappe-bi-tay-chay-o-trung-quoc-5137890.html",
+      "summary": "Câu nói đùa trong một trò chơi của Kylian Mbappe gây nên làn sóng phẫn nộ ở Trung Quốc, khiến ngôi sao của Real Madrid mất ít nhất ba hợp đồng quảng cáo, đồng thời các trận đấu của La Liga cũng bị cắt sóng ở quốc gia tỷ dân.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-28T07:29:03+07:00",
+      "fetched": "2026-10-28T21:41:16.791243+07:00"
+    },
+    {
       "id": "0cd4b00093fe542223514ebfdbde624d",
       "title": "Đoạn chat AI đã xóa trên Android không biến mất hoàn toàn",
       "link": "https://thanhnien.vn/doan-chat-ai-da-xoa-tren-android-khong-bien-mat-hoan-toan-185261028111722317.htm",
@@ -451,6 +1041,26 @@ window.newsData_2026_10_28 = {
       "category": "Tổng hợp",
       "published": "2026-10-28T07:00:00+07:00",
       "fetched": "2026-10-28T14:43:26.129298+07:00"
+    },
+    {
+      "id": "cf45434091e02b9ae154160abdc9c63c",
+      "title": "Những hoài nghi về tình trạng iPhone Duo nứt màn hình",
+      "link": "https://vnexpress.net/nhung-hoai-nghi-ve-tinh-trang-iphone-duo-nut-man-hinh-5137765.html",
+      "summary": "Một số điện thoại gập iPhone Duo hỏng màn hình ở cùng một vị trí làm dấy lên nghi vấn \"tồn tại lỗi mang tính hệ thống\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-28T07:00:00+07:00",
+      "fetched": "2026-10-28T21:41:15.857835+07:00"
+    },
+    {
+      "id": "a4208099946228f7e8bc71cf1a33bf44",
+      "title": "Scholes ám chỉ Bruno Fernandes hết chỗ đứng ở Man Utd",
+      "link": "https://vnexpress.net/scholes-am-chi-bruno-fernandes-het-cho-dung-o-man-utd-5137802.html",
+      "summary": "Cựu tiền vệ Paul Scholes cho rằng Bruno Fernandes không còn xứng đáng làm đội trưởng Man Utd, thậm chí nên rời bóng đá châu Âu, sau khi công khai chỉ trích chiến thuật của HLV Michael Carrick.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-28T07:00:00+07:00",
+      "fetched": "2026-10-28T21:41:16.791403+07:00"
     },
     {
       "id": "99cf661fe27f2d9e4528b60a3cfdcc83",
