@@ -1,7 +1,47 @@
 window.newsData_2026_11_02 = {
   "date": "2026-11-02",
-  "lastUpdated": "2026-11-02T00:24:35.286681+07:00",
+  "lastUpdated": "2026-11-02T04:29:23.467471+07:00",
   "articles": [
+    {
+      "id": "2d7e4d2c023e92bc2f3601cbcf9b8843",
+      "title": "Ukraine nói Nga thương vong cao kỷ lục trong tháng 10",
+      "link": "https://tuoitre.vn/ukraine-noi-nga-thuong-vong-cao-ky-luc-trong-thang-10-10026110123382344.htm",
+      "summary": "Ukraine khẳng định Nga đã mất hơn 54.000 binh sĩ chỉ trong tháng 10, cao hơn bất kỳ tháng nào, trong bối cảnh lệnh ngừng bắn cục bộ ở Kherson sắp kết thúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T04:29:18.176229+07:00",
+      "fetched": "2026-11-02T04:29:18.176289+07:00"
+    },
+    {
+      "id": "2de253a11f72e74cc307b7121c1f4661",
+      "title": "Ngoại binh Uganda 'nhấn chìm' CLB nữ TP.HCM tại Ấn Độ",
+      "link": "https://tuoitre.vn/ngoai-binh-uganda-nhan-chim-clb-nu-tphcm-tai-an-do-100261101230727525.htm",
+      "summary": "CLB nữ TP.HCM đã nhận thất bại 1-2 trước chủ nhà East Bengal ở trận ra quân bảng B AFC Champions League nữ 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T04:29:18.176157+07:00",
+      "fetched": "2026-11-02T04:29:18.176218+07:00"
+    },
+    {
+      "id": "c845f60987817c253b37e0d19e0a08d4",
+      "title": "NÓNG: Nga đã bắt được người nghi âm mưu khủng bố ở thủ đô Matxcơva",
+      "link": "https://tuoitre.vn/nong-nga-da-bat-duoc-nguoi-nghi-am-muu-khung-bo-o-thu-do-matxcova-100261102003913006.htm",
+      "summary": "Người bị bắt là một thiếu niên Nga, người từng tuyên bố \"tôi đã tìm được một địa điểm\". Cơ quan An ninh Liên bang Nga vừa cung cấp nhiều chi tiết về người này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T04:29:18.176078+07:00",
+      "fetched": "2026-11-02T04:29:18.176145+07:00"
+    },
+    {
+      "id": "bea9add882c75681c52a892110b402c7",
+      "title": "Video ông Park Hang Seo nổi giận khi bị CĐV Thái Lan mang món kim chi ra xúc phạm",
+      "link": "https://tuoitre.vn/video-ong-park-hang-seo-noi-gian-khi-cdv-thai-lan-mang-mon-kim-chi-ra-xuc-pham-100261102002904926.htm",
+      "summary": "HLV Park Hang Seo cùng các thành viên CLB Kanchanaburi Power FC đã vướng vào cuộc tranh cãi căng thẳng với cổ động viên (CĐV) Thái Lan sau trận đấu tối 1-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T04:29:18.175966+07:00",
+      "fetched": "2026-11-02T04:29:18.176064+07:00"
+    },
     {
       "id": "a0d9d3a4d76cd0fc0518dc5b85730093",
       "title": "Cận cảnh tàu tuần duyên của Mỹ trong chuyến thăm  TP.HCM",
@@ -153,6 +193,46 @@ window.newsData_2026_11_02 = {
       "fetched": "2026-11-02T00:24:26.970714+07:00"
     },
     {
+      "id": "e5f7a47c48e0e38859aacb1f330a68ce",
+      "title": "Ten Hag: 'Ronaldo hết thời từ 7, 8 năm trước'",
+      "link": "https://vnexpress.net/ten-hag-ronaldo-het-thoi-tu-7-8-nam-truoc-5139451.html",
+      "summary": "HLV Erik ten Hag tiếp tục chê bai Cristiano Ronaldo khi cho rằng anh không còn đủ khả năng thi đấu đỉnh cao từ khi rời Real Madrid năm 2018.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-01T19:00:23+07:00",
+      "fetched": "2026-11-02T04:29:23.462466+07:00"
+    },
+    {
+      "id": "04d2ab1b5df8e7377ee368468e7b7cf1",
+      "title": "Arsenal hạ gục Liverpool, lên đỉnh Ngoại hạng Anh",
+      "link": "https://vnexpress.net/arsenal-ha-guc-liverpool-len-dinh-ngoai-hang-anh-5139456.html",
+      "summary": "Bàn thắng duy nhất của Kai Havertz giúp Arsenal thắng chủ nhà Liverpool 1-0 ở vòng 9 Ngoại hạng Anh, để chiếm đỉnh bảng từ Man City.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-01T18:26:21+07:00",
+      "fetched": "2026-11-02T04:29:23.462664+07:00"
+    },
+    {
+      "id": "db74d222fc2eb16b99b96dc9b601dc7e",
+      "title": "UAV Mỹ đang làm gì khi bị Iran 'chiếm quyền điều khiển'",
+      "link": "https://vnexpress.net/uav-my-dang-lam-gi-khi-bi-iran-chiem-quyen-dieu-khien-5138859.html",
+      "summary": "UAV MQM-170 Mỹ có thể bị Iran khống chế khi trinh sát, nhưng cũng không loại trừ khả năng mất kiểm soát trong quá trình huấn luyện hoặc thử nghiệm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-01T18:00:00+07:00",
+      "fetched": "2026-11-02T04:29:19.217519+07:00"
+    },
+    {
+      "id": "b7d040a80bffb5105d39a4bc334655a9",
+      "title": "Alcaraz toàn thắng ở ATP 500 năm 2026",
+      "link": "https://vnexpress.net/alcaraz-toan-thang-o-atp-500-nam-2026-5139445.html",
+      "summary": "Tay vợt số ba thế giới Carlos Alcaraz toàn thắng 16 trận tại các giải ATP 500 trong năm 2026, sau khi hạ Alex de Minaur 6-1, 6-4 ở chung kết Erste Bank Open.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-01T17:26:38+07:00",
+      "fetched": "2026-11-02T04:29:23.462828+07:00"
+    },
+    {
       "id": "bcd4ef1e446605bcdd7e87f1622dc0b7",
       "title": "Hàng công đẳng cấp của U.23 Việt Nam",
       "link": "https://thanhnien.vn/hang-cong-dang-cap-cua-u23-viet-nam-18526110118033684.htm",
@@ -161,6 +241,46 @@ window.newsData_2026_11_02 = {
       "category": "Tổng hợp",
       "published": "2026-11-01T17:16:00+07:00",
       "fetched": "2026-11-02T00:24:24.822754+07:00"
+    },
+    {
+      "id": "53e4d08547b6241cf92cd65aee6137e2",
+      "title": "Mbappe kiếm phạt đền tranh cãi trong trận thắng của Real",
+      "link": "https://vnexpress.net/mbappe-kiem-phat-den-tranh-cai-trong-tran-thang-cua-real-5139453.html",
+      "summary": "Tiền đạo Kylian Mbappe kiếm phạt đền rồi ghi bàn giúp Real Madrid thắng chủ nhà Racing Santander 3-0 ở vòng 11 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-01T17:15:48+07:00",
+      "fetched": "2026-11-02T04:29:23.462984+07:00"
+    },
+    {
+      "id": "160637c17cc27c4274098ea4e763ecdd",
+      "title": "Vì sao giá điện, thuế xăng cùng giảm?",
+      "link": "https://vnexpress.net/vi-sao-gia-dien-thue-xang-cung-giam-5139336.html",
+      "summary": "Giá điện giảm 2%, thuế tiêu thụ đặc biệt với xăng về 0% nhằm hạ chi phí sản xuất, sinh hoạt, tạo thêm dư địa kiểm soát lạm phát cuối năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-01T17:05:00+07:00",
+      "fetched": "2026-11-02T04:29:20.143701+07:00"
+    },
+    {
+      "id": "ce9aa98e387b7aaca0d2cc3292a8333c",
+      "title": "Nghi phạm 'âm mưu khủng bố ở Moskva' là thiếu niên",
+      "link": "https://vnexpress.net/nghi-pham-am-muu-khung-bo-o-moskva-la-thieu-nien-5139444.html",
+      "summary": "An ninh Nga thông báo đã bắt một thiếu niên liên quan đến \"âm mưu khủng bố\" tại Moskva, sau khi nhận cảnh báo từ Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-01T17:03:53+07:00",
+      "fetched": "2026-11-02T04:29:19.217720+07:00"
+    },
+    {
+      "id": "3f1831005d0af6aa4ca6283e656698f8",
+      "title": "Công ty ông Lê Phước Vũ lãi bình quân mỗi tháng hơn 50 tỷ đồng",
+      "link": "https://vnexpress.net/cong-ty-ong-le-phuoc-vu-lai-binh-quan-moi-thang-hon-50-ty-dong-5139418.html",
+      "summary": "Hoa Sen lãi bình quân mỗi tháng 52 tỷ đồng, giảm so với niên độ trước, nhưng khả quan hơn dự báo của ban lãnh đạo trong bối cảnh 'dư địa tăng trưởng ngành thép chạm trần'.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-01T17:01:00+07:00",
+      "fetched": "2026-11-02T04:29:20.143884+07:00"
     },
     {
       "id": "518e30ac45596e75a9e2ff77459f182b",
@@ -181,6 +301,26 @@ window.newsData_2026_11_02 = {
       "category": "Tổng hợp",
       "published": "2026-11-01T17:00:00+07:00",
       "fetched": "2026-11-02T00:24:24.823183+07:00"
+    },
+    {
+      "id": "ee2be2eed9cc015e76e30963084fe8e1",
+      "title": "Giá vàng có thể giảm tiếp sau khi chạm đáy một năm",
+      "link": "https://vnexpress.net/gia-vang-co-the-giam-tiep-sau-khi-cham-day-mot-nam-5139438.html",
+      "summary": "Phần lớn chuyên gia Phố Wall dự báo giá vàng tuần này tiếp tục lao dốc bởi áp lực xả hàng vẫn hiện hữu sau phiên bán tháo cuối tháng 10.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-01T17:00:00+07:00",
+      "fetched": "2026-11-02T04:29:20.144050+07:00"
+    },
+    {
+      "id": "768787b8de12db2659806699b38f7d59",
+      "title": "Kỹ sư Việt chế tạo robot cạo mủ cao su thay con người",
+      "link": "https://vnexpress.net/ky-su-viet-che-tao-robot-cao-mu-cao-su-thay-con-nguoi-5138087.html",
+      "summary": "Robot khai thác mủ cao su do kỹ sư Đỗ Minh Tâm chế tạo có thể đảm nhận công việc độc hại thay con người, công suất gấp 1, 5 lần công nhân lành nghề, cho sản lượng cao hơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-11-01T17:00:00+07:00",
+      "fetched": "2026-11-02T04:29:22.420367+07:00"
     },
     {
       "id": "c6060cb064dc465a9cbc0eb58f806a91",
