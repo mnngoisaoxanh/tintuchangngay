@@ -1,7 +1,157 @@
 window.newsData_2026_11_02 = {
   "date": "2026-11-02",
-  "lastUpdated": "2026-11-02T04:29:23.467471+07:00",
+  "lastUpdated": "2026-11-02T08:07:12.427272+07:00",
   "articles": [
+    {
+      "id": "44a3dd64a32f45c161e6675166ad8a62",
+      "title": "Chuyện thật như đùa: Mỗi ngày ăn một cây mía để chữa tiểu đường, rồi nhập viện tưởng đột quỵ",
+      "link": "https://tuoitre.vn/chuyen-that-nhu-dua-moi-ngay-an-mot-cay-mia-de-chua-tieu-duong-roi-nhap-vien-tuong-dot-quy-100261101212113564.htm",
+      "summary": "Mỗi ngày, người đàn ông ăn một cây mía với mục đích chữa bệnh đái tháo đường. Sau đó, người này nhập viện trong tình trạng tê người, khó nói, được người nhà đưa đi khám do nghi ngờ đột quỵ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T08:07:05.071456+07:00",
+      "fetched": "2026-11-02T08:07:05.071485+07:00"
+    },
+    {
+      "id": "e8ddaedb20da2b25ce400f876efa3231",
+      "title": "Tin tức sáng 2-11: TP.HCM định hướng hình thành công viên điện ảnh tại công viên bờ sông Sài Gòn",
+      "link": "https://tuoitre.vn/tin-tuc-sang-2-11-tphcm-dinh-huong-hinh-thanh-cong-vien-dien-anh-tai-cong-vien-bo-song-sai-gon-100261101231803258.htm",
+      "summary": "Tin tức đáng chú ý: TP.HCM định hướng hình thành công viên điện ảnh tại công viên bờ sông Sài Gòn; Dữ liệu về cán bộ, công chức, viên chức sẽ gồm những gì?; Bệnh viện Tim Hà Nội nhận Huân chương Lao động hạng nhì nhân 25 năm thành lập...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T08:07:05.071416+07:00",
+      "fetched": "2026-11-02T08:07:05.071452+07:00"
+    },
+    {
+      "id": "534a147ccbea51e2209f86a2f8a59c8a",
+      "title": "Bộ Văn hóa mời người dân truy cập Bản đồ số văn hóa Việt Nam",
+      "link": "https://tuoitre.vn/bo-van-hoa-moi-nguoi-dan-truy-cap-ban-do-so-van-hoa-viet-nam-100261101213107888.htm",
+      "summary": "Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch Lâm Thị Phương Thanh kêu gọi mỗi người dân hãy trở thành những ‘đại sứ’ lan tỏa tình yêu văn hóa Việt Nam và biến mỗi điểm đến trên bản đồ thành một cuộc gặp gỡ văn hóa sống động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T08:07:05.071385+07:00",
+      "fetched": "2026-11-02T08:07:05.071412+07:00"
+    },
+    {
+      "id": "d44093b61b569b82fa5504ac118639b8",
+      "title": "'Chị chị em em 3' thống trị phòng vé bất chấp tranh cãi",
+      "link": "https://tuoitre.vn/chi-chi-em-em-3-thong-tri-phong-ve-bat-chap-tranh-cai-100261101175416826.htm",
+      "summary": "Dù vướng ồn ào cổ xúy tình yêu lệch lạc, 'Chị chị em em 3' vẫn có doanh thu mở màn khá ấn tượng nhờ dàn diễn viên nổi tiếng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T08:07:05.071355+07:00",
+      "fetched": "2026-11-02T08:07:05.071381+07:00"
+    },
+    {
+      "id": "3daaccf13a125b3005d111e0e36b1167",
+      "title": "Trend 'Đừng khinh thường một bông hoa chưa nở' là gì mà SOOBIN, Đức Phúc, Phương Mỹ Chi đu?",
+      "link": "https://tuoitre.vn/trend-dung-khinh-thuong-mot-bong-hoa-chua-no-la-gi-ma-soobin-duc-phuc-phuong-my-chi-du-100261101165409212.htm",
+      "summary": "Từ một bình luận trên mạng xã hội, câu nói 'Đừng bao giờ khinh thường một bông hoa chưa nở' bất ngờ trở thành trào lưu được đông đảo người dùng TikTok hưởng ứng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T08:07:05.071324+07:00",
+      "fetched": "2026-11-02T08:07:05.071351+07:00"
+    },
+    {
+      "id": "e0da4161d469b25e6361c9281fe15323",
+      "title": "5 nhân vật Naruto gây thất vọng trong Boruto",
+      "link": "https://tuoitre.vn/5-nhan-vat-naruto-gay-that-vong-trong-boruto-100261101225844996.htm",
+      "summary": "Từng là những ninja hàng đầu với sức mạnh vượt trội, một số nhân vật trong Naruto lại dần đánh mất vị thế khi câu chuyện chuyển sang Boruto.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T08:07:05.071291+07:00",
+      "fetched": "2026-11-02T08:07:05.071319+07:00"
+    },
+    {
+      "id": "4ffcc5f6d72de3d3062f652e4b2f1551",
+      "title": "Chùa ảo Hàn gây sốt, game đi chùa Việt có gì khác biệt?",
+      "link": "https://tuoitre.vn/chua-ao-han-gay-sot-game-di-chua-viet-co-gi-khac-biet-100261101161851074.htm",
+      "summary": "Game đi chùa online đang thu hút sự chú ý của cộng đồng mạng tại Hàn Quốc và Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T08:07:05.071236+07:00",
+      "fetched": "2026-11-02T08:07:05.071286+07:00"
+    },
+    {
+      "id": "5365ae6c7a05b7e921bf0e4fa60d296c",
+      "title": "Tin tức thế giới 2-11: Ông Zelensky mặc cả với ông Trump; Iran dự báo cuộc chiến mới với Mỹ sẽ dài hơn",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-2-11-ong-zelensky-mac-ca-voi-ong-trump-iran-du-bao-cuoc-chien-moi-voi-my-se-dai-hon-100261102053552636.htm",
+      "summary": "Iran cảnh báo cuộc chiến mới với Mỹ có thể sẽ kéo dài hơn những giao tranh trước; Canada và Mỹ dịu giọng, chuẩn bị đàm phán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T08:07:05.071188+07:00",
+      "fetched": "2026-11-02T08:07:05.071227+07:00"
+    },
+    {
+      "id": "fcc7c60bc7acd39efcca260dcd03d0ce",
+      "title": "Lưu Diệc Phi đẹp tựa cô dâu tại đêm hội W Gala",
+      "link": "https://tuoitre.vn/luu-diec-phi-dep-tua-co-dau-tai-dem-hoi-w-gala-100261101222836456.htm",
+      "summary": "Lưu Diệc Phi xuất hiện cuối cùng trên thảm đỏ trong thiết kế đầm satin ánh bạc, kết hợp khăn voan cài đầu và trang sức cao cấp Bvlgari, mang vẻ đẹp tựa cô dâu trong ngày trọng đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T08:07:05.071140+07:00",
+      "fetched": "2026-11-02T08:07:05.071181+07:00"
+    },
+    {
+      "id": "ae447aead20834e79cfbb8c9b981633b",
+      "title": "Tiệm cà phê rực sáng đèn LED, dựng gần 200 cây kẹo khổng lồ đón Giáng sinh sớm",
+      "link": "https://tuoitre.vn/tiem-ca-phe-ruc-sang-den-led-dung-gan-200-cay-keo-khong-lo-don-giang-sinh-som-100261102022154109.htm",
+      "summary": "Một tiệm cà phê trên đường Phan Văn Trị (TP.HCM) gây chú ý khi đầu tư gần 200 cây kẹo khổng lồ cùng 1.000 mét đèn LED trang trí đón Giáng sinh sớm, tạo nên không gian rực rỡ thu hút nhiều bạn trẻ đến check-in.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T08:07:05.071087+07:00",
+      "fetched": "2026-11-02T08:07:05.071130+07:00"
+    },
+    {
+      "id": "ba86ea8d3d063091b3f36a923505e504",
+      "title": "Ngôi sao 17 tuổi Việt Nam được làng cử tạ thế giới khen hết lời",
+      "link": "https://tuoitre.vn/ngoi-sao-17-tuoi-viet-nam-duoc-lang-cu-ta-the-gioi-khen-het-loi-100261101215948254.htm",
+      "summary": "Nguyễn Thành Duy nhận nhiều lời khen từ Liên đoàn Cử tạ thế giới (IWF) và truyền thông chuyên môn sau khi lập hai kỷ lục thế giới lứa tuổi thanh thiếu niên tại Ningbo, Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T08:07:05.071037+07:00",
+      "fetched": "2026-11-02T08:07:05.071080+07:00"
+    },
+    {
+      "id": "1167cb7b45dea7c65cfe168dfd1b98e6",
+      "title": "Điện thoại người dân Ukraine bất ngờ nhận các cảnh báo hạt nhân, Kiev lên tiếng",
+      "link": "https://tuoitre.vn/dien-thoai-nguoi-dan-ukraine-bat-ngo-nhan-cac-canh-bao-hat-nhan-kiev-len-tieng-100261102064934239.htm",
+      "summary": "Ngày 1-11, Không quân Ukraine cho biết họ nghi ngờ hệ thống cảnh báo không kích của nước này đã bị tin tặc xâm nhập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T08:07:05.070989+07:00",
+      "fetched": "2026-11-02T08:07:05.071030+07:00"
+    },
+    {
+      "id": "cbc94039d404b5859d0baaab229907ab",
+      "title": "Uống vitamin mọc tóc có thực sự giúp tóc dày trở lại?",
+      "link": "https://tuoitre.vn/uong-vitamin-moc-toc-co-thuc-su-giup-toc-day-tro-lai-100261101092647563.htm",
+      "summary": "Nếu cơ thể không thiếu dưỡng chất, việc uống thêm vitamin mọc tóc có thể không mang lại lợi ích như mong đợi, thậm chí gây tác dụng ngược khi dùng quá liều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T08:07:05.070934+07:00",
+      "fetched": "2026-11-02T08:07:05.070982+07:00"
+    },
+    {
+      "id": "5ae74dfc3040df49e7e9b75c7ada0324",
+      "title": "Giá vàng hôm nay 2-11: Vàng thế giới mất mốc 3.900 USD, tuần mới ra sao?",
+      "link": "https://tuoitre.vn/gia-vang-hom-nay-2-11-vang-the-gioi-mat-moc-3900-usd-tuan-moi-ra-sao-10026110206532766.htm",
+      "summary": "Sau cú giảm hơn 146 USD/ounce, giá vàng thế giới rơi xuống mức thấp nhất một năm và mất mốc 3.900 USD. Đáng chú ý, 63% chuyên gia Phố Wall dự báo kim loại quý sẽ tiếp tục đi xuống trong tuần này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T08:07:05.070870+07:00",
+      "fetched": "2026-11-02T08:07:05.070926+07:00"
+    },
+    {
+      "id": "8594d695625cf1af76f5ba0577ff78ef",
+      "title": "Robusta trong tuần: Giá nội địa rời xa mốc 90.000 đồng/kg, hàng ra còn ít",
+      "link": "https://tuoitre.vn/robusta-trong-tuan-gia-noi-dia-roi-xa-moc-90000-dong-kg-hang-ra-con-it-100261101211724879.htm",
+      "summary": "Giá cà phê Robusta trong nước rời xa mốc 90.000 đồng/kg nhưng lượng hàng bán ra vẫn hạn chế, cơ hội giữ giá vẫn cao",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T08:07:05.070587+07:00",
+      "fetched": "2026-11-02T08:07:05.070857+07:00"
+    },
     {
       "id": "2d7e4d2c023e92bc2f3601cbcf9b8843",
       "title": "Ukraine nói Nga thương vong cao kỷ lục trong tháng 10",
@@ -41,6 +191,136 @@ window.newsData_2026_11_02 = {
       "category": "Tổng hợp",
       "published": "2026-11-02T04:29:18.175966+07:00",
       "fetched": "2026-11-02T04:29:18.176064+07:00"
+    },
+    {
+      "id": "a333d2f57ac170e0062540dafdaa8482",
+      "title": "Gửi hàng trăm CV để tìm việc: Tăng cơ hội hay đang ‘rải’ cầu may?",
+      "link": "https://thanhnien.vn/gui-hang-tram-cv-de-tim-viec-tang-co-hoi-hay-dang-rai-cau-may-185261101170112854.htm",
+      "summary": "Sau bài viết về chàng trai gửi gần 1.000 CV xin việc đăng trên Báo Thanh Niên, nhiều bạn trẻ đã bày tỏ quan điểm trái chiều: nên gửi thật nhiều để tăng cơ hội hay chọn lọc để đi đúng hướng?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T01:00:00+07:00",
+      "fetched": "2026-11-02T08:07:03.706445+07:00"
+    },
+    {
+      "id": "6490cddec3677c740fe16b085c724da3",
+      "title": "Elite Fitness tuổi 16: Đầu tư toàn diện, nâng chuẩn trải nghiệm tập luyện",
+      "link": "https://thanhnien.vn/elite-fitness-tuoi-16-dau-tu-toan-dien-nang-chuan-trai-nghiem-tap-luyen-185261101162515599.htm",
+      "summary": "Đánh dấu 16 năm phát triển, Elite Fitness đẩy mạnh chiến lược đầu tư toàn diện vào hệ sinh thái tập luyện, công nghệ số và chất lượng dịch vụ, hướng tới mô hình kinh doanh minh bạch, bền vững và cá nhân hóa trải nghiệm hội viên. Thương hiệu ưu tiên các gói tập linh hoạt, tập trung vào giá trị sức kh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T01:00:00+07:00",
+      "fetched": "2026-11-02T08:07:03.706541+07:00"
+    },
+    {
+      "id": "5a1160abcab43dc1f04cfdd98e677dd9",
+      "title": "SATRA tái cấu trúc chuỗi giá trị ở tuổi 31",
+      "link": "https://thanhnien.vn/satra-tai-cau-truc-chuoi-gia-tri-o-tuoi-31-185261101153844696.htm",
+      "summary": "Bước sang tuổi 31, SATRA triển khai tái cấu trúc toàn diện với trọng tâm liên kết sản xuất, logistics, bán lẻ và dữ liệu nhằm tối ưu hiệu quả và phát triển bền vững.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T01:00:00+07:00",
+      "fetched": "2026-11-02T08:07:03.706623+07:00"
+    },
+    {
+      "id": "553d813e762365a412be6e1ea8a4ef37",
+      "title": "Gilimex Industrial Park phát triển khu công nghiệp từ tư duy của nhà sản xuất",
+      "link": "https://thanhnien.vn/gilimex-industrial-park-phat-trien-khu-cong-nghiep-tu-tu-duy-cua-nha-san-xuat-185261101152030413.htm",
+      "summary": "Từ kinh nghiệm hơn 40 năm làm sản xuất, Gilimex Industrial Park phát triển khu công nghiệp theo hướng xanh, thông minh và giảm rủi ro vận hành cho nhà đầu tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T01:00:00+07:00",
+      "fetched": "2026-11-02T08:07:03.706702+07:00"
+    },
+    {
+      "id": "7bf9ae3dfaa5d15995398b74974ad651",
+      "title": "Công sở mùa thu gọi tên sơ mi, chân váy dài và quần ống rộng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/cong-so-mua-thu-goi-ten-so-mi-chan-vay-dai-va-quan-ong-rong-185261027162631289.htm",
+      "summary": "Tủ đồ cuối thu dịu dàng qua những bản phối sơ mi, chân váy dài và quần ống rộng thời thượng. Hãy dành sự chú ý của nàng cho những gam màu nhã nhặn như hồng đào, be, vàng nhạt... và tận hường phong thái thanh lịch vượt thời gian.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T01:00:00+07:00",
+      "fetched": "2026-11-02T08:07:03.706780+07:00"
+    },
+    {
+      "id": "900963fcfc81dca9b8ea341b187b751f",
+      "title": "Uống cà phê mỗi sáng, đường huyết thay đổi thế nào?",
+      "link": "https://thanhnien.vn/uong-ca-phe-moi-sang-duong-huyet-thay-doi-the-nao-185261102075803026.htm",
+      "summary": "Đường huyết sau khi uống cà phê có thể chịu ảnh hưởng bởi lượng caffeine, thành phần pha chế và thời điểm sử dụng. Hiểu rõ những yếu tố này giúp mọi người điều chỉnh thói quen uống phù hợp hơn với tình trạng sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T00:58:00+07:00",
+      "fetched": "2026-11-02T08:07:03.706857+07:00"
+    },
+    {
+      "id": "7d5792448946c56761899aa31ecdf70b",
+      "title": "YouTube gặp lỗi trên cả iPhone lẫn Android",
+      "link": "https://thanhnien.vn/youtube-gap-loi-tren-ca-iphone-lan-android-18526110122481502.htm",
+      "summary": "Lỗi YouTube xuất hiện trên cả iPhone lẫn Android, nhưng xóa bộ nhớ đệm, cài lại ứng dụng và khởi động máy vẫn chưa giải quyết được.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T00:58:00+07:00",
+      "fetched": "2026-11-02T08:07:03.706934+07:00"
+    },
+    {
+      "id": "32350ac3bea62f3a51a8ae1f79200daa",
+      "title": "Vì sao tổ hợp phím Ctrl+Alt+Del vẫn tồn tại trên Windows dù Bill Gates 'hối hận'?",
+      "link": "https://thanhnien.vn/vi-sao-to-hop-phim-ctrlaltdel-van-ton-tai-tren-windows-du-bill-gates-hoi-han-185261101234004617.htm",
+      "summary": "Ra đời từ thời IBM PC, Ctrl+Alt+Del trở thành biểu tượng Windows dù tỉ phú Bill Gates từng muốn thay bằng nút vật lý duy nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T00:55:00+07:00",
+      "fetched": "2026-11-02T08:07:03.707013+07:00"
+    },
+    {
+      "id": "edd2379a549cd51bfdd5673275664372",
+      "title": "Anh Thư nổi giận chất vấn NSX, H'Hen Niê đáp trả khi bị nghi gian lận",
+      "link": "https://thanhnien.vn/anh-thu-noi-gian-chat-van-nsx-hhen-nie-dap-tra-khi-bi-nghi-gian-lan-185261102073742817.htm",
+      "summary": "Màn tranh luận căng thẳng của Anh Thư với nhà sản xuất, cùng phản ứng của  H'Hen Niê trước nghi vấn gian lận... là những tình tiết gây chú ý trong tập 5 'The Face Vietnam'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T00:52:00+07:00",
+      "fetched": "2026-11-02T08:07:03.707090+07:00"
+    },
+    {
+      "id": "d8c30fc24d1ae5174998561173efba5d",
+      "title": "Một nghị sĩ Dân chủ Mỹ bất ngờ ‘quay xe’ ủng hộ ứng viên Cộng hòa",
+      "link": "https://thanhnien.vn/mot-nghi-si-dan-chu-my-bat-ngo-quay-xe-ung-ho-ung-vien-cong-hoa-185261102073851533.htm",
+      "summary": "Hạ nghị sĩ đảng Dân chủ Haley Stevens ngày 1.11 bất ngờ thông báo ủng hộ ứng viên Cộng hòa Mike Rogers tại bang Michigan tranh cử Thượng viện Mỹ, sau khi mâu thuẫn với đồng nghiệp đảng Dân chủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T00:49:00+07:00",
+      "fetched": "2026-11-02T08:07:03.707166+07:00"
+    },
+    {
+      "id": "f0b38f6459d64b3bbd86304556f4fe9c",
+      "title": "Chuyên gia cảnh báo rủi ro khi 'san phẳng' núi Một ở Quy Nhơn",
+      "link": "https://thanhnien.vn/chuyen-gia-canh-bao-rui-ro-khi-san-phang-nui-mot-o-quy-nhon-185261101231222762.htm",
+      "summary": "Viện Địa công nghệ và Môi trường kiến nghị giữ núi Một ở Quy Nhơn làm công viên, đồng thời cảnh báo nguy cơ mất cảnh quan, thay đổi dòng chảy và tác động đến khu dân cư nếu san bằng ngọn núi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T00:42:00+07:00",
+      "fetched": "2026-11-02T08:07:03.707241+07:00"
+    },
+    {
+      "id": "24fcb46e134e36e7c903537fb24212ea",
+      "title": "6 chủ đề nóng trong cuộc bầu cử giữa kỳ ở Mỹ",
+      "link": "https://thanhnien.vn/6-chu-de-nong-trong-cuoc-bau-cu-giua-ky-o-my-185261021114914173.htm",
+      "summary": "Ngày 3.11, cử tri Mỹ sẽ quyết định đảng nào kiểm soát quốc hội trong 2 năm cuối nhiệm kỳ của Tổng thống Donald Trump. Kinh tế, chiến sự Iran và nhập cư là một số vấn đề nổi bật trong cuộc đua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T00:30:00+07:00",
+      "fetched": "2026-11-02T08:07:03.707326+07:00"
+    },
+    {
+      "id": "d12504adc7c01d1dea98f54bc773356f",
+      "title": "Ca sĩ Thiêng Ngân - con nuôi Phi Nhung bán xôi lề đường mưu sinh",
+      "link": "https://thanhnien.vn/ca-si-thieng-ngan-con-nuoi-phi-nhung-ban-xoi-le-duong-muu-sinh-185261101171001994.htm",
+      "summary": "Song song với hoạt động ca hát, Thiêng Ngân - con nuôi cố ca sĩ Phi Nhung còn đứng bán xôi gần khu trọ để kiếm thêm thu nhập, phụ giúp mẹ chăm lo cho gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T00:28:00+07:00",
+      "fetched": "2026-11-02T08:07:03.707400+07:00"
     },
     {
       "id": "a0d9d3a4d76cd0fc0518dc5b85730093",
@@ -193,6 +473,86 @@ window.newsData_2026_11_02 = {
       "fetched": "2026-11-02T00:24:26.970714+07:00"
     },
     {
+      "id": "a0810eec6caf0434272c4a139dbd1740",
+      "title": "Nhà Trắng suy tính phòng trường hợp đảng Cộng hòa mất thế đa số tại quốc hội",
+      "link": "https://thanhnien.vn/nha-trang-suy-tinh-phong-truong-hop-dang-cong-hoa-mat-the-da-so-tai-quoc-hoi-185261102071800991.htm",
+      "summary": "Trước thềm bầu cử giữa kỳ Mỹ, chính quyền Tổng thống Donald Trump đã chuẩn bị các phương án duy trì chương trình nghị sự và ứng phó nguy cơ bị điều tra nếu đảng Dân chủ giành quyền kiểm soát quốc hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T00:24:00+07:00",
+      "fetched": "2026-11-02T08:07:03.707475+07:00"
+    },
+    {
+      "id": "00affd9df53f5229edc1ec7dce4c3480",
+      "title": "Nhóm tình nguyện viên kết thúc 378 ngày sống cô lập mô phỏng điều kiện sao Hỏa",
+      "link": "https://thanhnien.vn/nhom-tinh-nguyen-vien-ket-thuc-378-ngay-song-co-lap-mo-phong-dieu-kien-sao-hoa-185261102070621814.htm",
+      "summary": "Sau 378 ngày sống tách biệt với thế giới bên ngoài, 4 tình nguyện viên tham gia vừa kết thúc thử nghiệm nhằm chuẩn bị cho một sứ mệnh tới sao Hỏa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T00:14:00+07:00",
+      "fetched": "2026-11-02T08:07:03.707549+07:00"
+    },
+    {
+      "id": "ce094077601f3dd29fb17afa552ca662",
+      "title": "Ông Trump dọa làm 'Ngài Phủ quyết' nếu đảng Dân chủ nắm quốc hội",
+      "link": "https://vnexpress.net/ong-trump-doa-lam-ngai-phu-quyet-neu-dang-dan-chu-nam-quoc-hoi-5139466.html",
+      "summary": "Tổng thống Trump cho biết sẽ phủ quyết hàng loạt dự luật nếu đảng Dân chủ kiểm soát lưỡng viện quốc hội Mỹ sau cuộc bầu cử giữa kỳ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-02T00:12:32+07:00",
+      "fetched": "2026-11-02T08:07:06.884148+07:00"
+    },
+    {
+      "id": "602a229e77536e6a55952b4ba184d571",
+      "title": "Người dùng ngôn ngữ ít phổ biến tốn nhiều tiền hơn cho AI",
+      "link": "https://vnexpress.net/nguoi-dung-ngon-ngu-it-pho-bien-ton-nhieu-tien-hon-cho-ai-5139003.html",
+      "summary": "Khi sử dụng ngôn ngữ ít phổ biến, AI tiêu thụ nhiều token hơn, khiến người dùng gặp bất lợi so với người nói tiếng Anh hoặc ngôn ngữ thịnh hành khác.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-11-02T00:00:00+07:00",
+      "fetched": "2026-11-02T08:07:11.106581+07:00"
+    },
+    {
+      "id": "271c77a66d76dadd64b0e8d7e12edc75",
+      "title": "Máy bay chở khách Mỹ lao xuống đất 'như tên lửa', 9 người chết",
+      "link": "https://vnexpress.net/may-bay-cho-khach-my-lao-xuong-dat-nhu-ten-lua-9-nguoi-chet-5139458.html",
+      "summary": "Máy bay phản lực thương mại chở theo 9 người gặp nạn ở bang Florida, cách khu nghỉ dưỡng Mar-a-Lago của Tổng thống Trump khoảng 11 km.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-01T23:53:05+07:00",
+      "fetched": "2026-11-02T08:07:06.884244+07:00"
+    },
+    {
+      "id": "c3e69a55705047fcc0eb6fa4e022bac5",
+      "title": "HLV Liverpool: 'Tôi sẽ bảo học trò chủ động ngã để kiếm phạt đền’",
+      "link": "https://vnexpress.net/hlv-liverpool-toi-se-bao-hoc-tro-chu-dong-nga-de-kiem-phat-den-5139459.html",
+      "summary": "HLV Andoni Iraola sẽ yêu cầu các học trò chủ động ngã nếu bị phạm lỗi trong vùng cấm, sau khi Liverpool bị từ chối một quả phạt đền gây tranh cãi trong trận thua Arsenal 0-1 ở vòng 9 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-01T23:08:52+07:00",
+      "fetched": "2026-11-02T08:07:12.424132+07:00"
+    },
+    {
+      "id": "51bce2ba3c391f8e5ddc83ac14962b2c",
+      "title": "'Kiến trúc sư trưởng' xây dựng chiến lược bầu cử giữa kỳ của ông Trump",
+      "link": "https://vnexpress.net/kien-truc-su-truong-xay-dung-chien-luoc-bau-cu-giua-ky-cua-ong-trump-5139019.html",
+      "summary": "James Blair giúp đảng Cộng hòa xây dựng chiến lược trong bầu cử giữa kỳ, trở thành người có ảnh hưởng lớn nhưng cũng có thể phải chịu trách nhiệm nếu thất bại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-01T22:00:00+07:00",
+      "fetched": "2026-11-02T08:07:06.884338+07:00"
+    },
+    {
+      "id": "aab3b59af2c2292613411306a2a50808",
+      "title": "Bài toán 300 tỷ USD mỗi năm để GDP tăng hai chữ số",
+      "link": "https://vnexpress.net/bai-toan-300-ty-usd-moi-nam-de-gdp-tang-hai-chu-so-5137690.html",
+      "summary": "Mục tiêu tăng trưởng hai chữ số của Việt Nam phụ thuộc khả năng huy động và dùng hiệu quả 300 tỷ USD mỗi năm đi kèm với tăng năng suất, theo chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-01T22:00:00+07:00",
+      "fetched": "2026-11-02T08:07:08.219558+07:00"
+    },
+    {
       "id": "e5f7a47c48e0e38859aacb1f330a68ce",
       "title": "Ten Hag: 'Ronaldo hết thời từ 7, 8 năm trước'",
       "link": "https://vnexpress.net/ten-hag-ronaldo-het-thoi-tu-7-8-nam-truoc-5139451.html",
@@ -251,6 +611,16 @@ window.newsData_2026_11_02 = {
       "category": "Thể thao",
       "published": "2026-11-01T17:15:48+07:00",
       "fetched": "2026-11-02T04:29:23.462984+07:00"
+    },
+    {
+      "id": "fb13e55a23929bbd36e19cc74d6d9023",
+      "title": "Real gây tranh cãi với quả phạt đền của Mbappe",
+      "link": "https://vnexpress.net/real-gay-tranh-cai-voi-qua-phat-den-cua-mbappe-5139453.html",
+      "summary": "Tiền đạo Kylian Mbappe ngã kiếm phạt đền, rồi ghi bàn mở tỷ số, giúp Real Madrid hạ chủ nhà Racing Santander 3-0 ở vòng 11 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-01T17:15:48+07:00",
+      "fetched": "2026-11-02T08:07:12.424475+07:00"
     },
     {
       "id": "160637c17cc27c4274098ea4e763ecdd",
