@@ -1,7 +1,157 @@
 window.newsData_2026_11_03 = {
   "date": "2026-11-03",
-  "lastUpdated": "2026-11-03T02:53:30.760087+07:00",
+  "lastUpdated": "2026-11-03T08:55:37.400634+07:00",
   "articles": [
+    {
+      "id": "f7e71432ab1dfcf867d8cc3c99a01abf",
+      "title": "Lữ Văn Toàn - phạm nhân thứ 3 trốn trại giam A2, bị bắt lúc 0h tại triền núi",
+      "link": "https://tuoitre.vn/lu-van-toan-pham-nhan-thu-3-tron-trai-giam-a2-bi-bat-luc-0h-tai-trien-nui-100261103045046747.htm",
+      "summary": "Lực lượng chức năng đã bắt giữ được Lữ Văn Toàn - phạm nhân thứ 3 trốn khỏi trại giam A2 (Bộ Công an).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T08:55:29.075975+07:00",
+      "fetched": "2026-11-03T08:55:29.076030+07:00"
+    },
+    {
+      "id": "ee9635ac485aba42e818beae51a4ce92",
+      "title": "Báo Thái nói cổ động viên xúc phạm ông Park Hang Seo không phải người Thái",
+      "link": "https://tuoitre.vn/bao-thai-noi-co-dong-vien-xuc-pham-ong-park-hang-seo-khong-phai-nguoi-thai-100261102211856375.htm",
+      "summary": "Báo Ball Thai của Thái Lan ngày 2-11 lên tiếng làm rõ rằng người xúc phạm HLV Park Hang Seo sau trận đấu tại Thai League 2 thực chất là một CĐV nước ngoài của Pattaya United.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T08:55:29.075909+07:00",
+      "fetched": "2026-11-03T08:55:29.075965+07:00"
+    },
+    {
+      "id": "2e405001521ce1b8a344f96c514b0248",
+      "title": "Việt Nam chính thức gia nhập top 30 nền cờ vua mạnh nhất, vượt nhiều cường quốc",
+      "link": "https://tuoitre.vn/viet-nam-chinh-thuc-gia-nhap-top-30-nen-co-vua-manh-nhat-vuot-nhieu-cuong-quoc-100261102213705981.htm",
+      "summary": "Cờ vua Việt Nam tiếp tục tạo dấu ấn trên bảng xếp hạng của Liên đoàn Cờ vua thế giới (FIDE), khi vươn lên vị trí thứ 29 ở bảng hỗn hợp nam - nữ (Mixed) tháng 11-2026. Đây là thứ hạng cao nhất của Việt Nam trong 5 năm trở lại đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T08:55:29.075841+07:00",
+      "fetched": "2026-11-03T08:55:29.075899+07:00"
+    },
+    {
+      "id": "1158a8e5494d1f91b32d57b6e1983972",
+      "title": "Tin đồn máy bay thương gia rơi do tên lửa quanh khu Mar-a-Lago của ông Trump bắn, có lý không?",
+      "link": "https://tuoitre.vn/tin-don-may-bay-thuong-gia-roi-do-ten-lua-quanh-khu-mar-a-lago-cua-ong-trump-ban-co-ly-khong-10026110304440384.htm",
+      "summary": "Rộ lên thông tin chiếc máy bay thương gia Learjet 60 có thể đã bị hệ thống phòng không do quân đội Mỹ triển khai quanh khu nghỉ dưỡng Mar-a-Lago của ông Trump bắn hạ. Thực hư ra sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T08:55:29.075771+07:00",
+      "fetched": "2026-11-03T08:55:29.075831+07:00"
+    },
+    {
+      "id": "cf9176b7301fac61863e3800f7aae202",
+      "title": "Lịch trực tiếp AFC Champions League Elite: Công An Hà Nội quyết đấu Kyoto Sanga",
+      "link": "https://tuoitre.vn/lich-truc-tiep-afc-champions-league-elite-cong-an-ha-noi-quyet-dau-kyoto-sanga-100261102162032436.htm",
+      "summary": "Lúc 19h15 ngày 3-11, CLB Công An Hà Nội tiếp đón Kyoto Sanga trên sân Hàng Đẫy ở lượt trận thứ tư AFC Champions League Elite 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T08:55:29.075703+07:00",
+      "fetched": "2026-11-03T08:55:29.075761+07:00"
+    },
+    {
+      "id": "fe9a4b8fcbdd856ce2c6da912abba267",
+      "title": "Hàng chục siêu thị châu Âu gặp sự cố, tủ lạnh bị chỉnh lên 70 độ C",
+      "link": "https://tuoitre.vn/hang-chuc-sieu-thi-chau-au-gap-su-co-tu-lanh-bi-chinh-len-70-do-c-100261103062130104.htm",
+      "summary": "Hệ thống tủ lạnh, tủ đông tại nhiều siêu thị ở Bỉ, Thụy Điển và Ireland bị tăng nhiệt độ bất thường, khiến thực phẩm hư hỏng và làm dấy lên nghi vấn về một vụ tấn công mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T08:55:29.075632+07:00",
+      "fetched": "2026-11-03T08:55:29.075692+07:00"
+    },
+    {
+      "id": "83ab92e4dc259c9a1d110645863c882d",
+      "title": "Mekong, lời nguyền của sông mẹ vĩ đại - Kỳ 1: Bí ẩn trường giang",
+      "link": "https://tuoitre.vn/mekong-loi-nguyen-cua-song-me-vi-dai-ky-1-bi-an-truong-giang-10026110221343736.htm",
+      "summary": "Nhiều thế kỷ trước, Mekong đã thôi thúc bước chân khám phá nhưng đều không đến được thượng nguồn. Phải chờ tới năm 1866, nhóm thám hiểm Lagrée và Garnier mới giải mã được bí mật dòng sông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T08:55:29.075558+07:00",
+      "fetched": "2026-11-03T08:55:29.075621+07:00"
+    },
+    {
+      "id": "cbe670eb2cbd69bb5b30f6dfb1a516e6",
+      "title": "Dự đoán tỉ số Champions League: Atletico Madrid gây bất ngờ trước Bayern Munich",
+      "link": "https://tuoitre.vn/du-doan-ti-so-champions-league-atletico-madrid-gay-bat-ngo-truoc-bayern-munich-100261102200549807.htm",
+      "summary": "Tiếp đón Bayern Munich trên sân nhà, Atletico Madrid hoàn toàn đủ khả năng đánh bại đối thủ lúc 3h ngày 4-11 ở lượt trận thứ tư vòng phân hạng Champions League 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T08:55:29.075488+07:00",
+      "fetched": "2026-11-03T08:55:29.075548+07:00"
+    },
+    {
+      "id": "3025bff29cef0a3a14cc023138130bd0",
+      "title": "CLB Công An Hà Nội đấu Kyoto Sanga: Chờ thêm kỳ tích",
+      "link": "https://tuoitre.vn/clb-cong-an-ha-noi-dau-kyoto-sanga-cho-them-ky-tich-100261102211818317.htm",
+      "summary": "Chiến thắng trước Cảng Thượng Hải có thể tiếp thêm sự tự tin cho CLB Công An Hà Nội trong trận đấu tiếp theo tại AFC Champions League Elite 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T08:55:29.075416+07:00",
+      "fetched": "2026-11-03T08:55:29.075477+07:00"
+    },
+    {
+      "id": "13bca406db244d12617ca688d9ae0548",
+      "title": "Ronaldo vắng mặt trong trận Al Nassr thắng ở AFC Champions League Elite",
+      "link": "https://tuoitre.vn/ronaldo-vang-mat-trong-tran-al-nassr-thang-o-afc-champions-league-elite-100261103060439317.htm",
+      "summary": "Cristiano Ronaldo bất ngờ không có tên trong danh sách các cầu thủ Al Nassr di chuyển sang Uzbekistan gặp đội chủ nhà Pakhtakor Tashkent ở lượt trận thứ tư vòng phân hạng AFC Champions League Elite.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T08:55:29.075314+07:00",
+      "fetched": "2026-11-03T08:55:29.075403+07:00"
+    },
+    {
+      "id": "fb7eb7f81ce03d7061b8dc399841bacb",
+      "title": "Tin tức thế giới 3-11: Đàm phán Mỹ, Nga, Ukraine sau 1 tuần nữa; Iran xác nhận đàm phán 'rất sâu' với Mỹ",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-3-11-dam-phan-my-nga-ukraine-sau-1-tuan-nua-iran-xac-nhan-dam-phan-rat-sau-voi-my-100261103064006338.htm",
+      "summary": "Ngoại trưởng Iran xác nhận đàm phán với Mỹ, thông qua trung gian, đang diễn ra rất sâu; Triều Tiên bác cáo buộc hack sàn Binance.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T08:55:29.075230+07:00",
+      "fetched": "2026-11-03T08:55:29.075296+07:00"
+    },
+    {
+      "id": "71ddd8899e9e564f0048434b36803634",
+      "title": "Video pha va chạm khiến cầu thủ ngưng tim, trận đấu tạm hoãn ở Tây Ban Nha",
+      "link": "https://tuoitre.vn/video-pha-va-cham-khien-cau-thu-ngung-tim-tran-dau-tam-hoan-o-tay-ban-nha-100261103064456053.htm",
+      "summary": "Trận đấu giữa Tenerife và Andorra tại giải hạng hai Tây Ban Nha đã phải hoãn lại vì chấn thương kinh hoàng ở vùng đầu của một cầu thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T08:55:29.075128+07:00",
+      "fetched": "2026-11-03T08:55:29.075217+07:00"
+    },
+    {
+      "id": "48b141840af8c47b5e4dd4c84d02876c",
+      "title": "Iran đàm phán 'rất sâu' với Mỹ: Ngoại giao con thoi và hàng chục cuộc điện đàm",
+      "link": "https://tuoitre.vn/iran-dam-phan-rat-sau-voi-my-ngoai-giao-con-thoi-va-hang-chuc-cuoc-dien-dam-100261103062306368.htm",
+      "summary": "Giữa nguy cơ Mỹ có thể không kích trở lại, Ngoại trưởng Iran Abbas Araghchi cho biết các cuộc đàm phán với Mỹ thông qua bên trung gian đang diễn ra rất sâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T08:55:29.075052+07:00",
+      "fetched": "2026-11-03T08:55:29.075116+07:00"
+    },
+    {
+      "id": "e5f522380e9e3e37249301887504f411",
+      "title": "Chứng khoán 3-11: VN-Index có thể lùi về 1.680 điểm, ưu tiên giữ tiền mặt?",
+      "link": "https://tuoitre.vn/chung-khoan-3-11-vn-index-co-the-lui-ve-1680-diem-uu-tien-giu-tien-mat-100261103065704786.htm",
+      "summary": "VN-Index có thể tiếp tục rung lắc, kiểm định vùng 1.680 điểm trước khi tìm được điểm cân bằng. Các công ty chứng khoán khuyến nghị nhà đầu tư ưu tiên giữ tiền mặt và chờ tín hiệu phục hồi rõ ràng hơn trước khi giải ngân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T08:55:29.074971+07:00",
+      "fetched": "2026-11-03T08:55:29.075041+07:00"
+    },
+    {
+      "id": "b1018330fc4b7f79324beb9b545b8e74",
+      "title": "Trường ĐH Mở TP.HCM: Dấu ấn 36 năm tiên phong đào tạo từ xa",
+      "link": "https://tuoitre.vn/truong-dh-mo-tphcm-dau-an-36-nam-tien-phong-dao-tao-tu-xa-100261102232311019.htm",
+      "summary": "Ngay từ khi thành lập Viện Đào tạo Mở rộng (tiền thân của Trường Đại học Mở TP.HCM) vào đầu những năm 1990, chương trình đào tạo từ xa đã trải qua hơn 36 năm hình thành và phát triển, khẳng định vai trò tiên phong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T08:55:29.074808+07:00",
+      "fetched": "2026-11-03T08:55:29.074956+07:00"
+    },
     {
       "id": "ba9350fc5a8b45e0056190e83c4ca731",
       "title": "Giao xe máy cho con chưa có bằng lái, gây tai nạn, mẹ và con cùng bị khởi tố",
@@ -151,6 +301,306 @@ window.newsData_2026_11_03 = {
       "category": "Tổng hợp",
       "published": "2026-11-03T02:53:21.602257+07:00",
       "fetched": "2026-11-03T02:53:21.602400+07:00"
+    },
+    {
+      "id": "0c3a859ab08a1942a33c2ed18faf9ab3",
+      "title": "1 phụ nữ tử vong, 1 người đàn ông rơi lầu tại khách sạn ở Nam Nha Trang",
+      "link": "https://thanhnien.vn/1-phu-nu-tu-vong-1-nguoi-dan-ong-roi-lau-tai-khach-san-o-nam-nha-trang-185261103082559331.htm",
+      "summary": "Công an đang làm rõ vụ người phụ nữ tử vong trong phòng khách sạn N.L (phường Nam Nha Trang, tỉnh Khánh Hòa) và người đàn ông thuê phòng rơi từ tầng cao, bị thương nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T01:53:00+07:00",
+      "fetched": "2026-11-03T08:55:26.912407+07:00"
+    },
+    {
+      "id": "3902ef155576164aff0abb0825e1f1d4",
+      "title": "Doanh nghiệp xếp hàng đưa tiền, cựu tổng giám đốc 'thương tình' trả lại 1,5 tỉ đồng",
+      "link": "https://thanhnien.vn/doanh-nghiep-xep-hang-dua-tien-cuu-tong-giam-doc-thuong-tinh-tra-lai-15-ti-dong-1852611030728222.htm",
+      "summary": "16 doanh nghiệp xếp hàng đưa hơn 53 tỉ 'hoa hồng' cho cựu Tổng giám đốc VTM. Sau đó, bị cáo thấy người đưa tiền khó khăn, làm ăn thua lỗ nên trả lại 1,5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T01:50:00+07:00",
+      "fetched": "2026-11-03T08:55:26.912577+07:00"
+    },
+    {
+      "id": "58ae83a43926ecb98b8c6f08277af89d",
+      "title": "Báo Ả Rập hé lộ ngày 15.11 quyết định số phận Asian Cup 2027, Việt Nam hoãn công bố danh sách",
+      "link": "https://thanhnien.vn/bao-a-rap-he-lo-ngay-1511-quyet-dinh-so-phan-asian-cup-2027-viet-nam-hoan-cong-bo-danh-sach-185261103082850798.htm",
+      "summary": "Theo Al-Riyadiyah, nhật báo thể thao hàng đầu tại Ả Rập Xê Út, Liên đoàn Bóng đá châu Á (AFC) dự kiến sẽ có cuộc họp với ban tổ chức địa phương vào ngày 15.11 để quyết định số phận của Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T01:49:00+07:00",
+      "fetched": "2026-11-03T08:55:26.912735+07:00"
+    },
+    {
+      "id": "fbe1a7a17fe2f840d4156246ec7e24f1",
+      "title": "Hai người đi xe máy tử vong sau va chạm với ô tô đang đỗ ở TP.HCM",
+      "link": "https://thanhnien.vn/hai-nguoi-di-xe-may-tu-vong-sau-va-cham-voi-o-to-dang-do-o-tphcm-185261103080902667.htm",
+      "summary": "Chỉ trong 1 đêm, 2 người đi xe máy tử vong sau khi va chạm với ô tô đang đỗ sát mép đường ở TP.HCM. Cả 2 nơi xảy ra tai nạn đều không có đèn đường hoạt động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T01:21:00+07:00",
+      "fetched": "2026-11-03T08:55:26.912887+07:00"
+    },
+    {
+      "id": "89024babfc59c55ea7b82ffef99e0e7a",
+      "title": "Ngô Bảo Ngọc dừng thi Miss Grand, mối quan hệ giữa Nawat và Sen Vàng ra sao?",
+      "link": "https://thanhnien.vn/ngo-bao-ngoc-dung-thi-miss-grand-moi-quan-he-giua-nawat-va-sen-vang-ra-sao-185261102235845224.htm",
+      "summary": "Thông tin Ngô Bảo Ngọc rút khỏi Miss Grand International All Stars 2026 gây tiếc nuối đối với fan sắc đẹp Việt. Đạo diễn Hoàng Nhật Nam nhấn mạnh đây là quyết định khó khăn nhưng phù hợp tại thời điểm này. Bên cạnh đó, ông cũng chia sẻ về mối quan hệ giữa công ty Sen Vàng và tổ chức Miss Grand Inter...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T01:21:00+07:00",
+      "fetched": "2026-11-03T08:55:26.913042+07:00"
+    },
+    {
+      "id": "ae035ac551b4c66efcd0d6d5c2906289",
+      "title": "Trước những cạm bẫy online: MoMo đồng hành cùng chiến dịch ‘Không một mình 2026’",
+      "link": "https://thanhnien.vn/truoc-nhung-cam-bay-online-momo-dong-hanh-cung-chien-dich-khong-mot-minh-2026-185261103082443338.htm",
+      "summary": "Một chiếc điện thoại thông minh có thể mở ra với người trẻ cả thế giới kết nối, từ học tập, giải trí đến những giao dịch tài chính đầu tiên. Nhưng để tự tin khám phá thế giới ấy, người trẻ cần có kỹ năng nhận diện rủi ro, tự bảo vệ và những người sẵn sàng hỗ trợ khi gặp sự cố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T01:19:00+07:00",
+      "fetched": "2026-11-03T08:55:26.913222+07:00"
+    },
+    {
+      "id": "dd3674a3c3a5c56b771b8f7f635f1df6",
+      "title": "Thượng nghị sĩ Mỹ yêu cầu làm rõ vụ Không lực Một bay ngang Nhà Trắng",
+      "link": "https://thanhnien.vn/thuong-nghi-si-my-yeu-cau-lam-ro-vu-khong-luc-mot-bay-ngang-nha-trang-18526110306435559.htm",
+      "summary": "Thượng nghị sĩ Mỹ Tammy Duckworth thuộc tiểu ban giám sát quy định hàng không đã yêu cầu các cơ quan chính phủ giải trình đầy đủ về quyết định cho phép Không lực Một bay qua Nhà Trắng một cách nguy hiểm hồi tuần trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T01:14:00+07:00",
+      "fetched": "2026-11-03T08:55:26.913381+07:00"
+    },
+    {
+      "id": "0ce083ca79061638bfe1120d4c0fcf8e",
+      "title": "Vì sao nhà vô địch New York ra mắt marathon trên đường chạy khó?",
+      "link": "https://vnexpress.net/vi-sao-nha-vo-dich-new-york-ra-mat-marathon-tren-duong-chay-kho-5139830.html",
+      "summary": "Thay vì chọn một lộ trình bằng phẳng để săn thành tích, Andreas Almgren quyết định ra mắt marathon tại New York, nơi những cây cầu, đoạn dốc và cuộc đấu chiến thuật là thách thức cho mọi runner.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-03T01:12:58+07:00",
+      "fetched": "2026-11-03T08:55:37.395104+07:00"
+    },
+    {
+      "id": "1e3fe977446d3718c81bcc5b9724db4f",
+      "title": "'Ancelotti, Wenger, Mourinho và Ferguson hợp sức cũng không cứu được Man Utd'",
+      "link": "https://vnexpress.net/ancelotti-wenger-mourinho-va-ferguson-hop-suc-cung-khong-cuu-duoc-man-utd-5139920.html",
+      "summary": "Theo cựu tiền vệ Paul Merson, ngay cả khi các HLV huyền thoại Alex Ferguson, Jose Mourinho, Arsene Wenger và Carlo Ancelotti cùng dẫn dắt, Man Utd cũng không thể cải thiện được tình hình hiện tại.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-03T01:06:45+07:00",
+      "fetched": "2026-11-03T08:55:37.395309+07:00"
+    },
+    {
+      "id": "d500c688f305694a865c73953a38d1dd",
+      "title": "Mỹ công bố ngày đàm phán 3 bên với Nga và Ukraine",
+      "link": "https://thanhnien.vn/my-cong-bo-ngay-dam-phan-3-ben-voi-nga-va-ukraine-185261103071023855.htm",
+      "summary": "Đặc phái viên Mỹ Steve Witkoff ngày 2.11 thông báo Mỹ sẽ nhóm họp với các phái đoàn từ Ukraine và Nga tại Abu Dhabi (UAE) vào ngày 10-11.11 để thảo luận về việc chấm dứt cuộc xung đột Nga-Ukrane.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T01:06:00+07:00",
+      "fetched": "2026-11-03T08:55:26.913534+07:00"
+    },
+    {
+      "id": "fa315d15450811698c8aa15fba617be0",
+      "title": "Rơi máy bay ở Florida: Chiếc Learjet có thể đã vỡ tung trước khi đâm xuống đất",
+      "link": "https://thanhnien.vn/roi-may-bay-o-florida-chiec-learjet-co-the-da-vo-tung-truoc-khi-dam-xuong-dat-185261103065309573.htm",
+      "summary": "Cơ quan An toàn Giao thông Quốc gia Mỹ (NTSB) hôm 2.11 cho biết chiếc máy bay phản lực tư nhân Learjet lao xuống bang Florida một ngày trước đó có thể đã bị vỡ trước khi va chạm với mặt đất tại khu vực dân cư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T01:02:00+07:00",
+      "fetched": "2026-11-03T08:55:26.913685+07:00"
+    },
+    {
+      "id": "db95ad1316a6575e972697e702d3c1c8",
+      "title": "Ông Trump bất ngờ nói sẽ không tính chuyện đánh Iran sau bầu cử Mỹ",
+      "link": "https://thanhnien.vn/ong-trump-bat-ngo-noi-se-khong-tinh-chuyen-danh-iran-sau-bau-cu-my-185261103073945664.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cho biết ông sẽ không cân nhắc tấn công Iran sau cuộc bầu cử giữa kỳ ở Mỹ, trong khi Phó tổng thống JD Vance cũng tỏ ra lạc quan về một thỏa thuận với Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T01:00:00+07:00",
+      "fetched": "2026-11-03T08:55:26.913855+07:00"
+    },
+    {
+      "id": "dcada5c51601565838e6e576fa3beab3",
+      "title": "Sàng lọc phôi, IVF cá thể hóa: Giải pháp cho vợ chồng mang bất thường di truyền",
+      "link": "https://thanhnien.vn/sang-loc-phoi-ivf-ca-the-hoa-giai-phap-cho-vo-chong-mang-bat-thuong-di-truyen-185261102153945838.htm",
+      "summary": "Nhiều bệnh lý di truyền như Thalassemia, loạn dưỡng cơ Duchenne… có thể truyền từ cha mẹ sang con, ngay cả khi cả hai không có biểu hiện bệnh. Vì vậy, vợ chồng mang gene bệnh có nguy cơ sinh con mắc bệnh di truyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T01:00:00+07:00",
+      "fetched": "2026-11-03T08:55:26.914012+07:00"
+    },
+    {
+      "id": "5dbf1b14ebb9b8a94f86f0cbff13f4d7",
+      "title": "Quyến rũ khó rời mắt với trang phục cut out",
+      "link": "https://thanhnien.vn/thoi-trang-tre/quyen-ru-kho-roi-mat-voi-trang-phuc-cut-out-185261101235724687.htm",
+      "summary": "Không còn giới hạn trong những thiết kế dạ hội gợi cảm, trang phục cut out ngày càng đa dạng với nhiều cách xử lý đường cắt sáng tạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T01:00:00+07:00",
+      "fetched": "2026-11-03T08:55:26.914160+07:00"
+    },
+    {
+      "id": "7d1709cd398f55ca570e4a6c6dffef1c",
+      "title": "Nhóm người làm khoa học công nghệ nào phải đổi vị trí công tác sau 2-5 năm?",
+      "link": "https://vnexpress.net/nhom-nguoi-lam-khoa-hoc-cong-nghe-nao-phai-doi-vi-tri-cong-tac-sau-2-5-nam-5139853.html",
+      "summary": "Công chức, viên chức khoa học công nghệ tại địa phương phải định kỳ chuyển đổi vị trí sau không quá 5 năm công tác.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-11-03T01:00:00+07:00",
+      "fetched": "2026-11-03T08:55:35.338148+07:00"
+    },
+    {
+      "id": "1105c6308d7accad7da5c4cb69776701",
+      "title": "Xiaomi 'hồi sinh' mẫu điện thoại Redmi từ năm 2024",
+      "link": "https://thanhnien.vn/xiaomi-hoi-sinh-mau-dien-thoai-redmi-tu-nam-2024-185261102230536448.htm",
+      "summary": "Thay vì ra mắt smartphone hoàn toàn mới, Xiaomi chọn đổi tên Redmi Note 14 Pro và đưa trở lại thị trường Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T00:56:00+07:00",
+      "fetched": "2026-11-03T08:55:26.914338+07:00"
+    },
+    {
+      "id": "dccfd1cf724c65913034d0b3a76ff450",
+      "title": "Hack bảng quảng cáo ngoài trời để chiếu nội dung khiêu dâm",
+      "link": "https://thanhnien.vn/hack-bang-quang-cao-ngoai-troi-de-chieu-noi-dung-khieu-dam-185261102075645008.htm",
+      "summary": "Bảng quảng cáo ở nhiều nơi trên thế giới từ Ai Cập, Malaysia, Brazil bị hacker tấn công để chiếu nội dung khiêu dâm, cách thức thực hiện đơn giản đến mức \"chỉ cần có não là làm được\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T00:51:00+07:00",
+      "fetched": "2026-11-03T08:55:26.914491+07:00"
+    },
+    {
+      "id": "fe04efd391bd93a375fe67f0b5d6db0c",
+      "title": "Antonelli - từ cậu bé garage thành nhà vô địch F1",
+      "link": "https://vnexpress.net/antonelli-tu-cau-be-garage-thanh-nha-vo-dich-f1-5139907.html",
+      "summary": "Từ những lần ngồi trong lòng bố tập lái, Kimi Antonelli vượt qua áp lực và hoài nghi để trở thành nhà vô địch trẻ nhất lịch sử F1 ở tuổi 20.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-03T00:49:45+07:00",
+      "fetched": "2026-11-03T08:55:37.395477+07:00"
+    },
+    {
+      "id": "c91c5f7e62cf0326b8f304c69431732d",
+      "title": "Giá heo hơi hôm nay 3.11.2026: Chạm đáy?",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-3112026-cham-day-185261103070428396.htm",
+      "summary": "Sau nhiều lần giảm liên tiếp, trong những ngày đầu tháng 11, giá heo hơi dần ổn định trở lại và đà giảm bị cắt đứt, báo hiệu thị trường chạm đáy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-03T00:39:00+07:00",
+      "fetched": "2026-11-03T08:55:26.914649+07:00"
+    },
+    {
+      "id": "2c3b33be50dcf44c6ec6243316351344",
+      "title": "Giá vàng thế giới tăng mạnh, thoát đáy một năm",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tang-manh-thoat-day-mot-nam-5139951.html",
+      "summary": "Mỗi ounce vàng có thời điểm tăng gần 100 USD trong phiên đầu tuần, lên sát 4.000 USD, nhờ giá dầu giảm gần 8%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-03T00:30:34+07:00",
+      "fetched": "2026-11-03T08:55:32.998367+07:00"
+    },
+    {
+      "id": "36e95a27c9b7d6a3566117aaa3af7ae4",
+      "title": "Quan chức Nga, Mỹ, Ukraine sắp gặp ba bên",
+      "link": "https://vnexpress.net/quan-chuc-nga-my-ukraine-sap-gap-ba-ben-5139947.html",
+      "summary": "Các quan chức Nga, Mỹ, Ukraine sẽ tổ chức cuộc họp ba bên vào tuần tới tại UAE để thúc đẩy các cuộc đàm phán hòa bình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-03T00:17:43+07:00",
+      "fetched": "2026-11-03T08:55:31.109376+07:00"
+    },
+    {
+      "id": "12e9f2ca5f2cd5b747f3b447afc75325",
+      "title": "Loạt chủ tài khoản bỗng dưng có mã QR hộ kinh doanh",
+      "link": "https://vnexpress.net/loat-chu-tai-khoan-bong-dung-co-ma-qr-ho-kinh-doanh-5138920.html",
+      "summary": "Nhiều khách hàng phát hiện có mã QR cửa hàng đứng tên mình trên ứng dụng MB, nhà băng nói đây chỉ là tính năng hỗ trợ khách nhận thanh toán và theo dõi giao dịch.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-03T00:00:00+07:00",
+      "fetched": "2026-11-03T08:55:32.998545+07:00"
+    },
+    {
+      "id": "de071daeb58aa9ca96c5249ee4328351",
+      "title": "Mayweather đấu cựu vũ công thoát y tại Thái Lan",
+      "link": "https://vnexpress.net/mayweather-dau-cuu-vu-cong-thoat-y-tai-thai-lan-5139897.html",
+      "summary": "Tay đấm bất bại Floyd Mayweather thông báo sẽ thượng đài với Matty Floyd, võ sĩ từng làm vũ công thoát y và ngồi tù, tại Bangkok ngày 19/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-02T23:49:52+07:00",
+      "fetched": "2026-11-03T08:55:37.396111+07:00"
+    },
+    {
+      "id": "6fc1943f0711e9d72c8a09e37ed229e3",
+      "title": "Triều Tiên đáp trả cáo buộc 'tấn công mạng Binance' từ FBI",
+      "link": "https://vnexpress.net/trieu-tien-dap-tra-cao-buoc-tan-cong-mang-binance-tu-fbi-5139936.html",
+      "summary": "Triều Tiên gọi cáo buộc của FBI rằng nước này đứng sau vụ đánh cắp hơn 6 tỷ USD từ nền tảng tiền mã hóa Binance là \"hành vi khiêu khích nghiêm trọng\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-02T23:48:08+07:00",
+      "fetched": "2026-11-03T08:55:31.109555+07:00"
+    },
+    {
+      "id": "ea4843ea3f2d5350dfb9427eb0342e93",
+      "title": "8 trận được chờ đợi nhất lượt bốn Champions League",
+      "link": "https://vnexpress.net/8-tran-duoc-cho-doi-nhat-luot-bon-champions-league-5139452.html",
+      "summary": "Atletico đấu Bayern, Barca tiếp Aston Villa, Man Utd gặp Roma... là những cặp đấu được chờ đợi nhất lượt bốn vòng phân hạng Champions League tuần này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-02T23:35:33+07:00",
+      "fetched": "2026-11-03T08:55:37.395636+07:00"
+    },
+    {
+      "id": "432e3523f2fac3dd298f89600adbd297",
+      "title": "Carrick không tin chỉ còn hai trận để giữ ghế ở Man Utd",
+      "link": "https://vnexpress.net/carrick-khong-tin-chi-con-hai-tran-de-giu-ghe-o-man-utd-5139928.html",
+      "summary": "HLV Michael Carrick phủ nhận cảm giác chỉ còn hai trận để cứu công việc ở Man Utd, đồng thời khẳng định không nghi ngờ sự tận tâm của các cầu thủ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-02T23:29:24+07:00",
+      "fetched": "2026-11-03T08:55:37.395795+07:00"
+    },
+    {
+      "id": "308f1ebd6cc1e01d49165630bd073a94",
+      "title": "Ronaldo và Messi được đề cử vào Đội hình hay nhất năm 2026",
+      "link": "https://vnexpress.net/ronaldo-va-messi-duoc-de-cu-vao-doi-hinh-hay-nhat-nam-2026-5139931.html",
+      "summary": "Cristiano Ronaldo và Lionel Messi góp mặt trong danh sách 26 ứng viên cho Đội hình hay nhất năm 2026 của FIFPRO, do gần 20.000 cầu thủ chuyên nghiệp trên toàn thế giới bình chọn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-02T23:22:15+07:00",
+      "fetched": "2026-11-03T08:55:37.395954+07:00"
+    },
+    {
+      "id": "cda747199400177c4f25c77c379ef6e9",
+      "title": "Hacker tăng nhiệt tủ lạnh đến 50 độ C tại hàng loạt siêu thị châu Âu",
+      "link": "https://vnexpress.net/hacker-tang-nhiet-tu-lanh-den-50-do-c-tai-hang-loat-sieu-thi-chau-au-5139939.html",
+      "summary": "Một cuộc tấn công mạng đang lan khắp các siêu thị ở châu Âu, khi tủ lạnh và tủ đông bị tăng nhiệt vào nửa đêm, khiến cửa hàng buộc phải tiêu hủy thực phẩm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-11-02T23:12:46+07:00",
+      "fetched": "2026-11-03T08:55:35.338353+07:00"
+    },
+    {
+      "id": "b18d85fa620b5267916fa11c121dfb18",
+      "title": "Cuộc bầu cử định đoạt nửa cuối nhiệm kỳ ông Trump",
+      "link": "https://vnexpress.net/cuoc-bau-cu-dinh-doat-nua-cuoi-nhiem-ky-ong-trump-5135164.html",
+      "summary": "Người Mỹ ngày 3/11 bỏ phiếu bầu lại toàn bộ Hạ viện và một phần Thượng viện, hai cơ quan lập pháp sẽ định đoạt quyền lực của ông Trump trong hai năm còn lại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-02T22:00:00+07:00",
+      "fetched": "2026-11-03T08:55:31.109720+07:00"
+    },
+    {
+      "id": "d1e4ba97dd7ffaf4e3327f98623e8493",
+      "title": "Rục rịch sắm robot đón sóng tự động hóa",
+      "link": "https://vnexpress.net/ruc-rich-sam-robot-don-song-tu-dong-hoa-5139889.html",
+      "summary": "Nhiều doanh nghiệp Việt có xu hướng tăng mua robot để nâng cao tự động hóa nhưng cần chuẩn bị về bài toán chi phí và nhân sự, theo chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-02T21:00:00+07:00",
+      "fetched": "2026-11-03T08:55:32.998713+07:00"
     },
     {
       "id": "f51836f83ab8efddb254df1d8b623a1a",
@@ -431,6 +881,16 @@ window.newsData_2026_11_03 = {
       "category": "Thế giới",
       "published": "2026-11-02T10:00:00+07:00",
       "fetched": "2026-11-03T02:53:23.394850+07:00"
+    },
+    {
+      "id": "a66ce170356ab09521a978d27421ec52",
+      "title": "Cấm nhập khẩu smartphone, máy tính đã qua sử dụng",
+      "link": "https://vnexpress.net/cam-nhap-khau-smartphone-may-tinh-da-qua-su-dung-5139746.html",
+      "summary": "Từ 1/1/2027, điện thoại thông minh, máy tính cùng nhiều thiết bị công nghệ số đã qua sử dụng sẽ không được phép nhập khẩu vào Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-11-02T09:52:27+07:00",
+      "fetched": "2026-11-03T08:55:35.338681+07:00"
     },
     {
       "id": "5732cd873f2c80ae55b3c7518e8e686e",
@@ -961,6 +1421,16 @@ window.newsData_2026_11_03 = {
       "category": "Tổng hợp",
       "published": "2026-11-02T01:32:19+07:00",
       "fetched": "2026-11-03T02:53:14.490874+07:00"
+    },
+    {
+      "id": "26e8c3d64c69242345d74010ab303d9f",
+      "title": "Bí kíp món bánh bông lan trứ danh Vũng Tàu",
+      "link": "https://vnexpress.net/bi-kip-mon-banh-bong-lan-tru-danh-vung-tau-5139379.html",
+      "summary": "Gia đình chủ quán bánh bông lan sang Hong Kong học làm sốt bơ trứng, sau sáng chế thêm mười mấy loại sốt khác, trong tập 6 \"Sao Chọn\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-02T01:31:58+07:00",
+      "fetched": "2026-11-03T08:55:23.604248+07:00"
     },
     {
       "id": "d35f4d02e18ee1c4d3df56d2cf346045",
