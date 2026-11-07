@@ -1,7 +1,97 @@
 window.newsData_2026_11_08 = {
   "date": "2026-11-08",
-  "lastUpdated": "2026-11-08T02:44:05.920034+07:00",
+  "lastUpdated": "2026-11-08T06:15:08.286016+07:00",
   "articles": [
+    {
+      "id": "0f480a6212123b6600749e1e3cafa65e",
+      "title": "Tin tức sáng 8-11: Thông qua đề án điều chỉnh địa giới hành chính giữa thủ đô Hà Nội và tỉnh Phú Thọ",
+      "link": "https://tuoitre.vn/tin-tuc-sang-7-11-thong-qua-de-an-dieu-chinh-dia-gioi-hanh-chinh-giua-thu-do-ha-noi-va-tinh-phu-tho-100261107230637796.htm",
+      "summary": "Tin tức đáng chú ý: Thông qua đề án điều chỉnh địa giới hành chính giữa thủ đô Hà Nội và tỉnh Phú Thọ; Hơn 366.000 tỉ đồng hỗ trợ thuế, phí, tiền thuê đất trong 10 tháng; Điều trị nhiều ca can thiệp tim mạch bằng kỹ thuật tiên tiến tại Việt Nam...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-08T06:15:00.975254+07:00",
+      "fetched": "2026-11-08T06:15:00.975306+07:00"
+    },
+    {
+      "id": "e116b29e5156f2380b79020c4525420c",
+      "title": "Thời tiết hôm nay 8-11: Không khí lạnh tràn về nước ta",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-8-11-khong-khi-lanh-tran-ve-nuoc-ta-100261107164942599.htm",
+      "summary": "Khoảng chiều tối nay 8-11, không khí lạnh bắt đầu ảnh hưởng tới thời tiết phía Bắc nước ta, sau đó lan dần ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-08T06:15:00.975192+07:00",
+      "fetched": "2026-11-08T06:15:00.975245+07:00"
+    },
+    {
+      "id": "ab130b533fd371e22842801b2f8f272c",
+      "title": "Lịch trực tiếp chung kết bóng chuyền nam quốc gia ngày 8-11",
+      "link": "https://tuoitre.vn/lich-truc-tiep-chung-ket-bong-chuyen-nam-quoc-gia-ngay-8-11-100261108003028538.htm",
+      "summary": "Giải bóng chuyền nam vô địch quốc gia 2026 sẽ khép lại ngày 8-11 với trận chung kết được chờ đợi giữa Biên Phòng và Công An TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-08T06:15:00.975134+07:00",
+      "fetched": "2026-11-08T06:15:00.975183+07:00"
+    },
+    {
+      "id": "21b54c52f3319a2787190ec03b424fa4",
+      "title": "Ông Trump ra lệnh Bộ Tư pháp điều tra phe Dân chủ vì đe dọa luận tội",
+      "link": "https://tuoitre.vn/ong-trump-ra-lenh-bo-tu-phap-dieu-tra-phe-dan-chu-vi-de-doa-luan-toi-100261108054550808.htm",
+      "summary": "Ngày 7-11, Tổng thống Mỹ Donald Trump cho biết ông chỉ đạo Bộ Tư pháp Mỹ điều tra những lời đe dọa từ phía Đảng Dân chủ về việc luận tội các thành viên trong chính quyền của ông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-08T06:15:00.975073+07:00",
+      "fetched": "2026-11-08T06:15:00.975126+07:00"
+    },
+    {
+      "id": "cfcbfcbb1067168f57671f578fb4f8a4",
+      "title": "Liên quân Mobile 2026 có nhà vô địch mới",
+      "link": "https://tuoitre.vn/lien-quan-mobile-2026-co-nha-vo-dich-moi-100261108055529738.htm",
+      "summary": "Tối 7-11 tại sân Mỹ Đình, Hà Nội, loạt chung kết Liên quân Mobile 2026 - Đấu trường Danh vọng Mùa đông đã diễn ra với cuộc thư hùng của các đội tuyển xuất sắc nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-08T06:15:00.975011+07:00",
+      "fetched": "2026-11-08T06:15:00.975063+07:00"
+    },
+    {
+      "id": "234cadb9743ebebc4c86c3cb296476e3",
+      "title": "Lịch trực tiếp bóng đá châu Âu: Barca đối đầu Atletico Madrid",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-chau-au-barca-doi-dau-atletico-madrid-100261107200040269.htm",
+      "summary": "Cuộc đối đầu giữa Atletico Madrid và Barca sẽ là trận cầu tâm điểm của loạt trận bóng đá châu Âu vào đêm ngày 8-11, rạng sáng 9-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-08T06:15:00.974949+07:00",
+      "fetched": "2026-11-08T06:15:00.975001+07:00"
+    },
+    {
+      "id": "36aa4a59d596dc1a92491b42b517d761",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm: Việt Nam - Nhật Bản đồng hành, đồng kiến tạo, tự chủ chiến lược",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-viet-nam-nhat-ban-dong-hanh-dong-kien-tao-tu-chu-chien-luoc-100261107223709478.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm khẳng định thông điệp đồng hành, đồng kiến tạo và tự chủ chiến lược trong hợp tác Việt Nam - Nhật Bản khi trả lời phỏng vấn Đài NHK.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-08T06:15:00.974885+07:00",
+      "fetched": "2026-11-08T06:15:00.974939+07:00"
+    },
+    {
+      "id": "68762d9d34784994d1eeb51a32229031",
+      "title": "Nhận thất bại thứ 3 liên tiếp, Man City bị Arsenal bỏ xa 6 điểm",
+      "link": "https://tuoitre.vn/nhan-that-bai-thu-3-lien-tiep-man-city-bi-arsenal-bo-xa-6-diem-100261108052005544.htm",
+      "summary": "Man City tiếp tục gây thất vọng khi thất bại 1-3 trước Nottingham Forest trên sân khách City Ground rạng sáng 8-11. Đây là thất bại thứ ba liên tiếp của \"Man xanh\" ở Premier League, khiến họ kém đội đầu bảng Arsenal đến 6 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-08T06:15:00.974808+07:00",
+      "fetched": "2026-11-08T06:15:00.974874+07:00"
+    },
+    {
+      "id": "62bda097c2bd55bdfae68545859452b2",
+      "title": "Bóng đá Triều Tiên lại chứng tỏ sức mạnh đáng nể",
+      "link": "https://tuoitre.vn/bong-da-trieu-tien-lai-chung-to-suc-manh-dang-ne-100261107213913617.htm",
+      "summary": "Hai CLB nữ của Triều Tiên đang gây ấn tượng mạnh tại AFC Women's Champions League 2026-2027 khi liên tiếp đánh bại các đối thủ đến từ Nhật Bản, Hàn Quốc, Iran và Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-08T06:15:00.974654+07:00",
+      "fetched": "2026-11-08T06:15:00.974795+07:00"
+    },
     {
       "id": "926d4a95c94347f3254a7c42449ff5d1",
       "title": "Đến rừng phong hương Quảng Trị mùa thay lá cần lưu ý điều gì?",
@@ -151,6 +241,176 @@ window.newsData_2026_11_08 = {
       "category": "Tổng hợp",
       "published": "2026-11-08T02:43:58.738551+07:00",
       "fetched": "2026-11-08T02:43:58.738678+07:00"
+    },
+    {
+      "id": "b650962d886d5f85bb6cfbdb238c9711",
+      "title": "Minh Hằng, Jun Phạm 'tá hỏa' khi Ngọc Thanh Tâm trổ tài nấu nướng",
+      "link": "https://thanhnien.vn/minh-hang-jun-pham-ta-hoa-khi-ngoc-thanh-tam-tro-tai-nau-nuong-185261107231608802.htm",
+      "summary": "Ngọc Thanh Tâm khiến Minh Hằng và Jun Phạm không khỏi lo lắng khi đảm nhận công đoạn xào cà rốt. Bên cạnh những tình huống hài hước trong gian bếp, các nghệ sĩ còn có dịp khám phá làng gốm Phước Tích hơn 500 năm tuổi tại Huế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T23:13:00+07:00",
+      "fetched": "2026-11-08T06:14:57.490873+07:00"
+    },
+    {
+      "id": "f6c85b2f254f41fa39cdbf57fd0d413a",
+      "title": "Nghịch lý du lịch Huế: Để Huế thực sự tỏa sáng",
+      "link": "https://thanhnien.vn/nghich-ly-du-lich-hue-de-hue-thuc-su-toa-sang-185261107182753118.htm",
+      "summary": "Lãnh đạo TP.Huế quả quyết khi nói về những dịch vụ còn thiếu và yếu: \"Chưa có, nhưng sắp tới sẽ có\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T23:13:00+07:00",
+      "fetched": "2026-11-08T06:14:57.491023+07:00"
+    },
+    {
+      "id": "4de59a7de020422d8946c93a1006a8cf",
+      "title": "Thu Trang nhìn lại 10 năm thăng trầm, không ngại nhắc chuyện thất bại",
+      "link": "https://thanhnien.vn/thu-trang-nhin-lai-10-nam-thang-tram-khong-ngai-nhac-chuyen-that-bai-185261107205548618.htm",
+      "summary": "Sau 10 năm xây dựng và phát triển Thu Trang Entertainment (TTE), diễn viên Thu Trang nhìn lại chặng đường với nhiều dấu mốc đáng nhớ. Nữ nghệ sĩ không né tránh những dự án thất bại mà xem đó là trải nghiệm giúp tập thể trưởng thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T23:09:00+07:00",
+      "fetched": "2026-11-08T06:14:57.491158+07:00"
+    },
+    {
+      "id": "e9ffa0484309cd085a29261ab168c45b",
+      "title": "Châu Âu giữa làn sóng đe dọa đánh bom",
+      "link": "https://thanhnien.vn/chau-au-giua-lan-song-de-doa-danh-bom-185261107223651975.htm",
+      "summary": "Làn sóng đe dọa đánh bom giả nhắm vào máy bay và các tòa soạn báo đang gây gián đoạn hoạt động hàng không, truyền thông và làm dấy lên lo ngại về nguy cơ tấn công lai trên khắp châu Âu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T23:06:00+07:00",
+      "fetched": "2026-11-08T06:14:57.491290+07:00"
+    },
+    {
+      "id": "1a75417c5c633bcf329b78c6000f78ec",
+      "title": "Nâng tầm vị thế Việt Nam trên bản đồ hàng không thế giới",
+      "link": "https://thanhnien.vn/nang-tam-vi-the-viet-nam-tren-ban-do-hang-khong-the-gioi-185261107213228434.htm",
+      "summary": "Từ một điểm đến đơn thuần, VN đang đứng trước cơ hội lịch sử để bứt phá trở thành trung tâm trung chuyển và bảo dưỡng hàng không, khẳng định vị thế mắt xích không thể thiếu trên bản đồ giao thương toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T23:03:00+07:00",
+      "fetched": "2026-11-08T06:14:57.491421+07:00"
+    },
+    {
+      "id": "e749f4e30c8c075ba86a6171ffa5bf6d",
+      "title": "Mở rộng hợp tác kinh tế Việt Nam - Nhật Bản",
+      "link": "https://thanhnien.vn/mo-rong-hop-tac-kinh-te-viet-nam-nhat-ban-185261107222929227.htm",
+      "summary": "Chuyến thăm chính thức Nhật Bản từ ngày 8 - 11.11 của Tổng Bí thư, Chủ tịch nước Tô Lâm và phu nhân cùng đoàn đại biểu cấp cao VN có ý nghĩa hết sức quan trọng, góp phần thúc đẩy hơn nữa quan hệ hữu nghị và hợp tác, mở rộng hợp tác kinh tế giữa hai nước đối tác chiến lược toàn diện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T23:02:00+07:00",
+      "fetched": "2026-11-08T06:14:57.491595+07:00"
+    },
+    {
+      "id": "0a8390347e1068f18ae6349fe1757b06",
+      "title": "Rô bốt diệt cỏ bằng tia laser, giảm sức người trên đồng ruộng",
+      "link": "https://thanhnien.vn/ro-bot-diet-co-bang-tia-laser-giam-suc-nguoi-tren-dong-ruong-185261107234712775.htm",
+      "summary": "Từ thực tế người nông dân tốn nhiều công sức làm cỏ hoặc phải sử dụng thuốc diệt cỏ, 4 sinh viên Trường ĐH Sư phạm kỹ thuật (ĐH Đà Nẵng) chế tạo rô bốt ứng dụng trí tuệ nhân tạo (AI) nhận diện cỏ dại và dùng tia laser xử lý. Sản phẩm vừa giành giải nhất cuộc thi Khởi nghiệp đổi mới sáng tạo trong si...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T23:00:00+07:00",
+      "fetched": "2026-11-08T06:14:57.491728+07:00"
+    },
+    {
+      "id": "9583ce8487428b18283eadeacb1b2dfd",
+      "title": "Nhóm chat bí mật của Mr Pips và những lần bạn gái dùng cả xe đẩy nhận tiền",
+      "link": "https://thanhnien.vn/nhom-chat-bi-mat-cua-mr-pips-va-nhung-lan-ban-gai-dung-ca-xe-day-nhan-tien-18526110721365987.htm",
+      "summary": "Viện kiểm sát công bố lời khai cho thấy những lần Mr Pips Phó Đức Nam lập nhóm chat bí mật rồi xóa sau khi giao dịch hoàn tất, bạn gái dùng cả xe đẩy để nhận tiền mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T23:00:00+07:00",
+      "fetched": "2026-11-08T06:14:57.491861+07:00"
+    },
+    {
+      "id": "2d6054530e860f84f726cdc0ccd65729",
+      "title": "Tại sao thỏi bạc 10 lạng nặng nhẹ khác nhau?",
+      "link": "https://thanhnien.vn/tai-sao-thoi-bac-10-lang-nang-nhe-khac-nhau-185261107205505137.htm",
+      "summary": "Theo nghiên cứu, cùng là thỏi 10 lạng bạc thời vua Gia Long, nhưng khi cân lên lại nặng nhẹ khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T23:00:00+07:00",
+      "fetched": "2026-11-08T06:14:57.491989+07:00"
+    },
+    {
+      "id": "746ff43fdc6aabe8971107329581ac69",
+      "title": "Chộn rộn tour Tết dương lịch",
+      "link": "https://thanhnien.vn/chon-ron-tour-tet-duong-lich-185261107155256463.htm",
+      "summary": "Dù Tết dương lịch 2027 khá sát với Tết Nguyên đán nhưng thị trường vé máy bay và tour vẫn khá nhộn nhịp, giá cũng tăng nhẹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T23:00:00+07:00",
+      "fetched": "2026-11-08T06:14:57.492116+07:00"
+    },
+    {
+      "id": "1ca892724f497f4f88d7bd6ec5686c5f",
+      "title": "Có phải AI làm tăng công việc của giáo viên?",
+      "link": "https://thanhnien.vn/co-phai-ai-lam-tang-cong-viec-cua-giao-vien-185261107221309082.htm",
+      "summary": "Trí tuệ nhân tạo (AI) giúp cán bộ quản lý và giáo viên thực hiện nhanh nhiều công việc, từ xây dựng kế hoạch, soạn giáo án đến phân tích kết quả học tập. Nhưng năng suất cá nhân tăng không đồng nghĩa hiệu quả nhà trường tăng tương ứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T22:54:00+07:00",
+      "fetched": "2026-11-08T06:14:57.492244+07:00"
+    },
+    {
+      "id": "d4910ad58508cc27c91093d9856b77ab",
+      "title": "Đừng để học sinh chịu thiệt",
+      "link": "https://thanhnien.vn/dung-de-hoc-sinh-chiu-thiet-185261107225514064.htm",
+      "summary": "Vừa qua, đại biểu Quốc hội Châu Quỳnh Dao đã đặt vấn đề vì sao giá một số hàng hóa, suất ăn trong căn tin trường học lại cao hơn bên ngoài. Một nguyên nhân được các nhà giáo đề cập là chi phí mặt bằng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T22:50:00+07:00",
+      "fetched": "2026-11-08T06:14:59.045702+07:00"
+    },
+    {
+      "id": "4581b25db42109063af779096caf48a8",
+      "title": "Sách giáo khoa ngữ văn mới: Cần chú trọng hiệu quả  hoạt động nói và nghe",
+      "link": "https://thanhnien.vn/sach-giao-khoa-ngu-van-moi-can-chu-trong-hieu-qua-hoat-dong-noi-va-nghe-185261107214154696.htm",
+      "summary": "Thực tế dạy học môn ngữ văn cho thấy hoạt động nói và nghe ở nhà trường chưa đạt hiệu quả như mong đợi. Đây là vấn đề cần được quan tâm khi xem xét điều chỉnh sách giáo khoa trong thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T22:45:00+07:00",
+      "fetched": "2026-11-08T06:14:59.046163+07:00"
+    },
+    {
+      "id": "c1690f9f90579198e13f43013a826727",
+      "title": "Người đàn ông 70 tuổi bán rau nuôi vợ bệnh, bất ngờ có khách mua hết lúc đêm muộn",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-70-tuoi-ban-rau-nuoi-vo-benh-bat-ngo-co-khach-mua-het-luc-dem-muon-185261107132340447.htm",
+      "summary": "Bán rau đến khuya trên đường Mễ Cốc (TP.HCM) để kiếm tiền chăm vợ bệnh, người đàn ông 70 tuổi bất ngờ được đôi vợ chồng trẻ ghé mua hết số rau còn lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T22:45:00+07:00",
+      "fetched": "2026-11-08T06:14:59.046325+07:00"
+    },
+    {
+      "id": "b5d157be86989755207d9a9bc78c692f",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 8.11.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-8112026-185261107231907327.htm",
+      "summary": "Tin tức Mở rộng hợp tác kinh tế Việt Nam - Nhật Bản; Chộn rộn tour Tết Dương lịch; Tâm điểm Iran nóng trở lại... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 8.11.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T22:40:00+07:00",
+      "fetched": "2026-11-08T06:14:59.046486+07:00"
+    },
+    {
+      "id": "cbcdcd59e2721d813c9da98ed65e6f44",
+      "title": "Từ củ khoai mì đến hãng bột bánh doanh thu gần nghìn tỷ đồng",
+      "link": "https://vnexpress.net/tu-cu-khoai-mi-den-hang-bot-banh-doanh-thu-gan-nghin-ty-dong-5136047.html",
+      "summary": "Từ mẻ bột làm bằng khoai mì của mẹ năm 1976, bà Thúy Loan đưa cơ sở gia đình thành doanh nghiệp có doanh thu gần nghìn tỷ đồng mỗi năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-07T22:00:00+07:00",
+      "fetched": "2026-11-08T06:15:03.655667+07:00"
+    },
+    {
+      "id": "e1dc6c6bf509b290cc2848ffb6fc3319",
+      "title": "Man City bị Arsenal bỏ cách 6 điểm",
+      "link": "https://vnexpress.net/man-city-bi-arsenal-bo-cach-6-diem-5142043.html",
+      "summary": "Man City thua Nottingham Forest 1-3 ở vòng 10 Ngoại hạng Anh, nhận thất bại thứ ba liên tiếp tại giải và bị Arsenal bỏ xa sáu điểm trên đỉnh bảng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-07T19:50:19+07:00",
+      "fetched": "2026-11-08T06:15:08.280891+07:00"
     },
     {
       "id": "9500b605fbafedbb656c1d8ced77f370",
@@ -693,6 +953,96 @@ window.newsData_2026_11_08 = {
       "fetched": "2026-11-08T02:44:01.820743+07:00"
     },
     {
+      "id": "42cabdabf776110fb7fde427fd8b2e7e",
+      "title": "Trung Quốc 'dẹp loạn' mảng phim ngắn",
+      "link": "https://vnexpress.net/trung-quoc-dep-loan-mang-phim-ngan-5141782.html",
+      "summary": "Cơ quan quản lý Trung Quốc triển khai chiến dịch xử lý những nội dung online gây hại cho trẻ nhỏ, gợi dục, xâm phạm quyền hình ảnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T02:48:04+07:00",
+      "fetched": "2026-11-08T06:14:54.604463+07:00"
+    },
+    {
+      "id": "5ec41ec7d3ef99efd1d7d989a01f0e14",
+      "title": "Chàng kiến trúc sư tìm người yêu lâu dài",
+      "link": "https://vnexpress.net/chang-kien-truc-su-tim-nguoi-yeu-lau-dai-5141322.html",
+      "summary": "Anh thích sự chân thành, trân trọng những điều giản dị và luôn tin rằng một mối quan hệ bền lâu được xây dựng từ sự quan tâm, nhiệt tình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T02:44:38+07:00",
+      "fetched": "2026-11-08T06:14:54.604630+07:00"
+    },
+    {
+      "id": "3a77e660c02f4ba9cc0cda90f0f68bda",
+      "title": "Anh mong tìm một người thực sự thuộc về mình",
+      "link": "https://vnexpress.net/anh-mong-tim-mot-nguoi-thuc-su-thuoc-ve-minh-5141321.html",
+      "summary": "Anh cũng mong em là người nghiêm túc trong chuyện tình cảm, thực sự mong muốn xây dựng gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T02:23:50+07:00",
+      "fetched": "2026-11-08T06:14:54.604786+07:00"
+    },
+    {
+      "id": "703cce12cbc1a3ce5ac117968c3ccfa4",
+      "title": "Cách tôi tuyển người khi nhận hai bản CV giống nhau vì dùng AI",
+      "link": "https://vnexpress.net/cach-toi-tuyen-nguoi-khi-nhan-hai-ban-cv-giong-nhau-nhu-duc-vi-dung-ai-5141802.html",
+      "summary": "Hai bản CV giống nhau đến từng cấu trúc câu: mở đầu bằng 'định hướng kết quả', kể ba thành tích, câu kết về 'tinh thần học hỏi không ngừng'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T02:20:46+07:00",
+      "fetched": "2026-11-08T06:14:54.604933+07:00"
+    },
+    {
+      "id": "e8404a9a3740b122f3843bded3c0daae",
+      "title": "Iran nói Mỹ phóng tên lửa vào đảo án ngữ Hormuz",
+      "link": "https://vnexpress.net/iran-noi-my-phong-ten-lua-vao-dao-an-ngu-hormuz-5141788.html",
+      "summary": "Iran thông báo đảo Qeshm ở cửa ngõ Hormuz đã bị hai tên lửa tập kích, trong khi ông Trump nói Mỹ đã phá hủy \"thiết bị phòng không\" của đối phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T02:18:19+07:00",
+      "fetched": "2026-11-08T06:14:54.605068+07:00"
+    },
+    {
+      "id": "2b3f997ccb37c84af541f8950d20dff5",
+      "title": "Chàng trai chân thành, tìm người 'góp gạo thổi cơm chung'",
+      "link": "https://vnexpress.net/chang-trai-chan-thanh-tim-nguoi-gop-gao-thoi-com-chung-5141323.html",
+      "summary": "Anh hơi khó tính một chút và đề cao sự chung thủy, gia đình là trên hết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T02:17:16+07:00",
+      "fetched": "2026-11-08T06:14:54.605204+07:00"
+    },
+    {
+      "id": "26eea32a44f39b76e0004aecb27c3a83",
+      "title": "Hà Nội vào thu, em muốn yêu thêm một lần",
+      "link": "https://vnexpress.net/ha-noi-vao-thu-em-muon-yeu-them-mot-lan-5141325.html",
+      "summary": "Em thuộc thế hệ 8x đời sau, ngoại hình thu hút, da trắng, sức khỏe tốt, trẻ hơn tuổi, nhiều người mới gặp vẫn nhầm em thuộc thế hệ 9x.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T02:14:57+07:00",
+      "fetched": "2026-11-08T06:14:54.605339+07:00"
+    },
+    {
+      "id": "26de6b9705bc77a0025d058b5a306f13",
+      "title": "Giông lốc làm 15 căn nhà sập, tốc mái ở Đồng Tháp",
+      "link": "https://vnexpress.net/giong-loc-lam-15-can-nha-sap-toc-mai-o-dong-thap-5141794.html",
+      "summary": "Giông lốc khiến 15 căn nhà ở xã Trường Xuân bị hư hại, cây xanh và trụ điện ngã đổ, nhiều tuyến đường ách tắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T02:13:07+07:00",
+      "fetched": "2026-11-08T06:14:54.605509+07:00"
+    },
+    {
+      "id": "a4cbfdf4b4d57b048400714fc99155a3",
+      "title": "10 cô gái được dự đoán đăng quang Hoa hậu Việt Nam",
+      "link": "https://vnexpress.net/10-co-gai-duoc-du-doan-dang-quang-hoa-hau-viet-nam-5141709.html",
+      "summary": "Phạm Vân Hà, Uyên Nhi, Khánh Linh nổi bật tại Hoa hậu Việt Nam 2026 nhờ vẻ tươi trẻ, tự tin, học vấn tốt và nhiều kỹ năng, tài lẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T02:03:32+07:00",
+      "fetched": "2026-11-08T06:14:54.605651+07:00"
+    },
+    {
       "id": "639cddad9c62cb2a77bc11c5b2adbe73",
       "title": "Máy tính lượng tử 'sẽ có thể phá mã hóa ngân hàng trong ba ngày'",
       "link": "https://vnexpress.net/may-tinh-luong-tu-se-co-the-pha-ma-hoa-ngan-hang-trong-ba-ngay-5141485.html",
@@ -701,6 +1051,56 @@ window.newsData_2026_11_08 = {
       "category": "Công nghệ",
       "published": "2026-11-07T02:00:00+07:00",
       "fetched": "2026-11-08T02:44:04.375827+07:00"
+    },
+    {
+      "id": "619dbd396c4b05a5f0025f3a6232994b",
+      "title": "8 năm chờ chồng cũ thay đổi, giờ tôi lại vô tình yêu người có gia đình",
+      "link": "https://vnexpress.net/8-nam-cho-chong-cu-thay-doi-gio-toi-lai-vo-tinh-yeu-nguoi-co-gia-dinh-5141679.html",
+      "summary": "Tôi không muốn trở thành người phụ nữ xen vào hạnh phúc người khác, không muốn rơi vào mối quan hệ không rõ ràng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T02:00:00+07:00",
+      "fetched": "2026-11-08T06:14:54.605783+07:00"
+    },
+    {
+      "id": "186b7d81d6af955061c4e788facdc7df",
+      "title": "Đầu bếp bị đuổi việc vì từ chối cho dứa lên pizza",
+      "link": "https://vnexpress.net/dau-bep-bi-duoi-viec-vi-tu-choi-cho-dua-len-pizza-5141556.html",
+      "summary": "Đầu bếp Davide Tamburella mất việc tại nhà hàng ở Brisbane, Australia, sau nhiều lần từ chối cho dứa lên pizza, vì cho rằng điều này xúc phạm văn hóa ẩm thực Italy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T02:00:00+07:00",
+      "fetched": "2026-11-08T06:14:54.605925+07:00"
+    },
+    {
+      "id": "87dd31eb021188a42285de69aac636fc",
+      "title": "Đục thủy tinh thể - đừng chờ mắt mờ nặng mới mổ",
+      "link": "https://vnexpress.net/duc-thuy-tinh-the-dung-cho-mat-mo-nang-moi-mo-5141193.html",
+      "summary": "Nhiều người chờ đến khi mắt mờ nặng, gần như không còn nhìn rõ mới phẫu thuật đục thủy tinh thể, song trì hoãn có thể khiến ca mổ phức tạp và tăng nguy cơ biến chứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T02:00:00+07:00",
+      "fetched": "2026-11-08T06:14:54.606190+07:00"
+    },
+    {
+      "id": "b3aaf2eed357b0f2cd237d050ee7aece",
+      "title": "Cách phòng biến cố tim mạch khi chơi thể thao",
+      "link": "https://vnexpress.net/cach-phong-bien-co-tim-mach-khi-choi-the-thao-5141787.html",
+      "summary": "Vận động vừa sức, hạn chế va đập mạnh, tầm soát bệnh lý tim mạch là những cách giúp giảm nguy cơ biến cố tim mạch khi chơi thể thao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T02:00:00+07:00",
+      "fetched": "2026-11-08T06:14:54.606319+07:00"
+    },
+    {
+      "id": "5ea3307301ae3356eb01ebcaae7f5662",
+      "title": "Điều gì xảy ra khi ăn trứng và quả bơ vào bữa sáng?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-an-trung-va-qua-bo-vao-bua-sang-5141742.html",
+      "summary": "Ăn trứng cùng quả bơ vào bữa sáng giúp no lâu, bổ sung protein cùng chất béo lành mạnh, góp phần bảo vệ sức khỏe tim mạch, não bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T02:00:00+07:00",
+      "fetched": "2026-11-08T06:14:54.606465+07:00"
     },
     {
       "id": "877902292da7c30d4df32430dc71c33f",
