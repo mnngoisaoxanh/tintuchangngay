@@ -1,7 +1,87 @@
 window.newsData_2026_11_07 = {
   "date": "2026-11-07",
-  "lastUpdated": "2026-11-07T03:09:25.865058+07:00",
+  "lastUpdated": "2026-11-07T08:26:59.993454+07:00",
   "articles": [
+    {
+      "id": "52cc1cf8426dd76ec14212b93d971907",
+      "title": "Thời tiết hôm nay 7-11: Bắc Bộ và Trung Bộ chuẩn bị mưa to, Nam Bộ nhiều mây",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-7-11-bac-bo-va-trung-bo-chuan-bi-mua-to-nam-bo-nhieu-may-100261106164009379.htm",
+      "summary": "Hôm nay 7-11, không khí lạnh đợt cũ vẫn đang tác động đến thời tiết Bắc Bộ, khu vực này chuẩn bị đón một đợt mới rất mạnh gây mưa to. Nam Bộ nhiều mây, chiều tối có nơi mưa dông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T08:26:53.874263+07:00",
+      "fetched": "2026-11-07T08:26:53.874304+07:00"
+    },
+    {
+      "id": "b089f0a653371202e3b2e77a1956d5f1",
+      "title": "Lịch trực tiếp bóng đá châu Âu: Arsenal, Man City, Real Madrid thi đấu",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-chau-au-arsenal-man-city-real-madrid-thi-dau-100261106190442382.htm",
+      "summary": "Các trận đấu có sự hiện diện của Arsenal, Man City, Real Madrid... sẽ là tâm điểm loạt trận bóng đá châu Âu đêm 7-11 rạng sáng 8-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T08:26:53.874211+07:00",
+      "fetched": "2026-11-07T08:26:53.874255+07:00"
+    },
+    {
+      "id": "d70c933446a821a9931aaa761d957cee",
+      "title": "Đường huyết đã vượt ngưỡng bình thường, làm gì để tránh mắc tiểu đường?",
+      "link": "https://tuoitre.vn/duong-huyet-da-vuot-nguong-binh-thuong-lam-gi-de-tranh-mac-tieu-duong-100261106210606483.htm",
+      "summary": "Tiền đái tháo đường là tình trạng đường huyết cao hơn mức bình thường nhưng chưa đến ngưỡng chẩn đoán đái tháo đường. Đây được xem là giai đoạn cảnh báo, bởi nếu không được phát hiện và can thiệp kịp thời, người mắc có nguy cơ tiến triển thành đái tháo đường type 2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T08:26:53.874163+07:00",
+      "fetched": "2026-11-07T08:26:53.874204+07:00"
+    },
+    {
+      "id": "93becbe20c51fd5912916994b68f92cd",
+      "title": "Tin tức sáng 7-11: TP.HCM giải quyết 78 kiến nghị của dân sau họp HĐND, Giao dịch căn hộ Hà Nội giảm mạnh",
+      "link": "https://tuoitre.vn/tin-tuc-sang-7-11-tphcm-giai-quyet-78-kien-nghi-cua-dan-sau-hop-hdnd-giao-dich-can-ho-ha-noi-giam-manh-100261106230157451.htm",
+      "summary": "Tin tức đáng chú ý: Quốc hội sẽ 'chốt' kế hoạch phát triển kinh tế - xã hội năm 2027; TP.HCM giải quyết 78 kiến nghị của người dân sau kỳ họp HĐND; Căn hộ Hà Nội giá trung bình 108 triệu đồng/m², giao dịch giảm mạnh...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T08:26:53.874101+07:00",
+      "fetched": "2026-11-07T08:26:53.874154+07:00"
+    },
+    {
+      "id": "361f62827eac48321133626c2b903b32",
+      "title": "Bảng lương phi nông nghiệp Mỹ khả quan, giá vàng rơi khỏi ngưỡng 4.100 USD/ounce",
+      "link": "https://tuoitre.vn/bang-luong-phi-nong-nghiep-my-kha-quan-gia-vang-roi-khoi-nguong-4100-usd-ounce-100261107000909083.htm",
+      "summary": "Giá vàng thế giới tối 6-11, có lúc giảm gần 40 USD/ounce sau khi bảng lương phi nông nghiệp được công bố. Đến 23h30 giá vàng thế giới hồi phục về 4.064 USD/ounce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T08:26:53.873827+07:00",
+      "fetched": "2026-11-07T08:26:53.874093+07:00"
+    },
+    {
+      "id": "a8abf330ed8695690a64c710e03532b0",
+      "title": "Tin tức thế giới 7-11: Ông Trump thay Chánh văn phòng Nhà Trắng; Ukraine báo động Nga tấn công lớn",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-7-11-ong-trump-thay-chanh-van-phong-nha-trang-ukraine-bao-dong-nga-tan-cong-lon-100261107061153051.htm",
+      "summary": "Ukraine cảnh báo Nga sắp tấn công các mục tiêu trọng yếu; Ông Trump bổ nhiệm trợ lý thân tín Stephen Miller.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T08:26:53.873790+07:00",
+      "fetched": "2026-11-07T08:26:53.873822+07:00"
+    },
+    {
+      "id": "070268daa7088aa1fbbceda46da00a85",
+      "title": "Lịch trực tiếp Giải bóng chuyền nam vô địch quốc gia ngày 7-11",
+      "link": "https://tuoitre.vn/lich-truc-tiep-giai-bong-chuyen-nam-vo-dich-quoc-gia-ngay-6-11-100261106201232844.htm",
+      "summary": "Ngày 7-11, Giải bóng chuyền nam vô địch quốc gia 2026 bước vào tranh tài lượt trận bán kết, với cả 2 trận đấu đều căng thẳng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T08:26:53.873745+07:00",
+      "fetched": "2026-11-07T08:26:53.873785+07:00"
+    },
+    {
+      "id": "8307dabb3dc9ccd5ea7b89e33be27784",
+      "title": "Lịch thi đấu Giải bóng đá U23 quốc tế ở Gia Lai",
+      "link": "https://tuoitre.vn/lich-thi-dau-giai-bong-da-u23-quoc-te-o-gia-lai-10026110615323765.htm",
+      "summary": "Giải bóng đá giao hữu quốc tế U23 - Gia Lai VTV Cup 2026 sẽ diễn ra từ ngày 10 đến 14-11 trên sân Pleiku (Gia Lai).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T08:26:53.873592+07:00",
+      "fetched": "2026-11-07T08:26:53.873724+07:00"
+    },
     {
       "id": "a0c696b04a2bc7ed994b6ecfda31c3e2",
       "title": "Công Phượng nói gì khi đưa CLB Thành phố Đồng Nai thắng trận đầu tiên?",
@@ -151,6 +231,276 @@ window.newsData_2026_11_07 = {
       "category": "Tổng hợp",
       "published": "2026-11-07T03:09:20.667342+07:00",
       "fetched": "2026-11-07T03:09:20.667462+07:00"
+    },
+    {
+      "id": "ece54ac634163aa1ca07f6cd73acadbe",
+      "title": "Samsung đưa One UI 9 lên mẫu Galaxy giá rẻ ít ai ngờ tới",
+      "link": "https://thanhnien.vn/samsung-dua-one-ui-9-len-mau-galaxy-gia-re-it-ai-ngo-toi-185261106180215536.htm",
+      "summary": "Galaxy A06 5G bất ngờ nhận One UI 9 dựa trên Android 17, đi kèm nhiều cải tiến giao diện và 62 bản vá bảo mật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T01:15:00+07:00",
+      "fetched": "2026-11-07T08:26:52.117095+07:00"
+    },
+    {
+      "id": "61fe474ce132546f5e7f9b4d4da534a6",
+      "title": "VĐV Quảng Trị phá kỷ lục ném lao tại giải điền kinh trẻ Đông Nam Á",
+      "link": "https://thanhnien.vn/vdv-quang-tri-pha-ky-luc-nem-lao-tai-giai-dien-kinh-tre-dong-nam-a-185261107072329613.htm",
+      "summary": "VĐV điền kinh Phan Văn Anh Kiệt đã giành HCV nội dung ném lao U.20 với thành tích 68,68 m, phá kỷ lục giải đấu tại Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T01:00:00+07:00",
+      "fetched": "2026-11-07T08:26:52.117189+07:00"
+    },
+    {
+      "id": "57984d1288ca5747008196b64a193906",
+      "title": "Muôn kiểu phối áo khoác cho mùa thu đông 2026",
+      "link": "https://thanhnien.vn/thoi-trang-tre/muon-kieu-phoi-ao-khoac-cho-mua-thu-dong-2026-185261105161940383.htm",
+      "summary": "Có nhiều cách phối áo khoác nhẹ nhàng, tinh tế và tôn dáng trong mùa thu đông 2026. Từ áo khoác dáng ngắn đến cardigan, từ jacket cổ tròn đến áo khoác da - đều có thể trở thành một phần phong cách mùa lạnh của mọi cô gái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T01:00:00+07:00",
+      "fetched": "2026-11-07T08:26:52.117270+07:00"
+    },
+    {
+      "id": "c6bf9f01f1c4245719ad066fbdc192e4",
+      "title": "Dùng điện thoại khi lái xe trên cao tốc, hơn 8 tiếng sau vẫn bị CSGT phạt",
+      "link": "https://thanhnien.vn/dung-dien-thoai-khi-lai-xe-tren-cao-toc-hon-8-tieng-sau-van-bi-csgt-phat-18526110707305067.htm",
+      "summary": "Một tài xế xe đầu kéo dùng điện thoại khi lái xe trên cao tốc. Hơn 8 tiếng sau, CSGT kiểm tra camera giám sát buồng lái, phát hiện và lập biên bản xử phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T00:59:00+07:00",
+      "fetched": "2026-11-07T08:26:52.117349+07:00"
+    },
+    {
+      "id": "e9a0a407924005a919961119829bc0ed",
+      "title": "Cận cảnh di sản 'Ma nhai trên núi Non Nước' vừa được UNESCO vinh danh",
+      "link": "https://thanhnien.vn/can-canh-di-san-ma-nhai-tren-nui-non-nuoc-vua-duoc-unesco-vinh-danh-185261107023721151.htm",
+      "summary": "'Ma nhai trên núi Non Nước' là di sản đầu tiên của tỉnh Ninh Bình được UNESCO ghi danh vào Danh mục Di sản tư liệu khu vực châu Á - Thái Bình Dương. Tại đây có 43 văn bia ma nhai, gồm 37 bia chữ Hán - Nôm, 6 bia chữ Quốc ngữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T00:52:00+07:00",
+      "fetched": "2026-11-07T08:26:52.117429+07:00"
+    },
+    {
+      "id": "62a8eeb72e6ec61933dd274a0a67c2f2",
+      "title": "Lịch thi đấu bán kết giải bóng chuyền nam quốc gia hôm nay: Đấu trí cân não",
+      "link": "https://thanhnien.vn/lich-thi-dau-ban-ket-giai-bong-chuyen-nam-quoc-gia-hom-nay-dau-tri-can-nao-185261107074353946.htm",
+      "summary": "Hôm nay tại Nhà thi đấu Phú Thọ (TP.HCM) diễn ra 2 cặp đấu hấp dẫn của vòng bán kết giải bóng chuyền nam vô địch quốc gia 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T00:49:00+07:00",
+      "fetched": "2026-11-07T08:26:52.117507+07:00"
+    },
+    {
+      "id": "b6ec82d0178127ef13a371a46c556bb8",
+      "title": "Ông Trump bất ngờ thay Chánh văn phòng Nhà Trắng sau thất bại bầu cử",
+      "link": "https://thanhnien.vn/ong-trump-bat-ngo-thay-chanh-van-phong-nha-trang-sau-that-bai-bau-cu-185261107072725962.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã bổ nhiệm ông Stephen Miller, kiến trúc sư chính sách nhập cư cứng rắn của chính quyền, làm Chánh văn phòng Nhà Trắng mới hậu thất bại của đảng Cộng hòa trong cuộc bầu cử giữa kỳ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T00:47:00+07:00",
+      "fetched": "2026-11-07T08:26:52.117585+07:00"
+    },
+    {
+      "id": "9fbb139afcc2594a3806bd761e3f6b2f",
+      "title": "40 năm cuộc điện thoại giả giọng đưa Ferguson tới Man Utd",
+      "link": "https://vnexpress.net/40-nam-cuoc-dien-thoai-gia-giong-dua-ferguson-toi-man-utd-5141758.html",
+      "summary": "Cuộc điện thoại giả giọng Scotland và cuộc hẹn tại trạm dừng trên cao tốc mở đường để Alex Ferguson đến Man Utd tháng 11/1986, khởi đầu kỷ nguyên thành công nhất lịch sử CLB.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-07T00:45:06+07:00",
+      "fetched": "2026-11-07T08:26:59.990072+07:00"
+    },
+    {
+      "id": "aa9f0baca7dac52e8f59fee8d9372294",
+      "title": "Đảo Iran trúng tên lửa, Tehran nói bắn rơi máy bay Mỹ",
+      "link": "https://thanhnien.vn/dao-iran-trung-ten-lua-tehran-noi-ban-roi-may-bay-my-185261107071803701.htm",
+      "summary": "Truyền thông Iran đưa tin đảo Qeshm ở eo biển Hormuz đã bị trúng 2 quả tên lửa và Tehran đã bắn rơi một máy bay không người lái MQ-9 của Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T00:45:00+07:00",
+      "fetched": "2026-11-07T08:26:52.117663+07:00"
+    },
+    {
+      "id": "e63ef3a95e5225cb900de8c3ad6e3bae",
+      "title": "Vì sao Man Utd sút nhiều nhất nhưng chỉ ghi 10 bàn?",
+      "link": "https://vnexpress.net/vi-sao-man-utd-sut-nhieu-nhat-nhung-chi-ghi-10-ban-5141674.html",
+      "summary": "Dẫn đầu Ngoại hạng Anh với 167 cú dứt điểm sau 9 vòng, Man Utd mới ghi 10 bàn, khi lựa chọn sút chưa hợp lý và khả năng tận dụng cơ hội cùng có vấn đề.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-07T00:38:43+07:00",
+      "fetched": "2026-11-07T08:26:59.990169+07:00"
+    },
+    {
+      "id": "0c006a6d7df69e10a13b9e8e0984741b",
+      "title": "Một trận bóng có hai đội cùng thua ở Morocco",
+      "link": "https://vnexpress.net/mot-tran-bong-co-hai-doi-cung-thua-o-morocco-5141759.html",
+      "summary": "Widad Temara bị xử thua 0-3 vì sử dụng cầu thủ đang bị treo giò, nhưng đối thủ Wydad Casablanca vẫn giữ kết quả thua 1-3 ở trận mở màn giải vô địch quốc gia.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-07T00:33:22+07:00",
+      "fetched": "2026-11-07T08:26:59.990418+07:00"
+    },
+    {
+      "id": "d93cde6c9d36e4309f3fc56212e3368f",
+      "title": "Đề nghị 8 tỉnh miền Trung ứng phó mưa lớn, có nơi trên 700 mm",
+      "link": "https://thanhnien.vn/de-nghi-8-tinh-mien-trung-ung-pho-mua-lon-co-noi-tren-700-mm-185261107071047802.htm",
+      "summary": "Ban Chỉ đạo phòng thủ dân sự quốc gia đề nghị 8 tỉnh, thành phố miền Trung từ Nghệ An đến Đắk Lắk sẵn sàng ứng phó đợt mưa lớn do ảnh hưởng không khí lạnh, lượng mưa có nơi trên 400 mm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T00:31:00+07:00",
+      "fetched": "2026-11-07T08:26:52.117760+07:00"
+    },
+    {
+      "id": "f3a70b7c2cc54a7548213f9f85c8f260",
+      "title": "Thầy giáo trẻ mê văn nghệ, tạo 365 suất học bổng cho học trò",
+      "link": "https://thanhnien.vn/thay-giao-tre-me-van-nghe-tao-365-suat-hoc-bong-cho-hoc-tro-185261106214919193.htm",
+      "summary": "Từ niềm đam mê văn nghệ thời học trò, anh Nguyễn Hoài Thắng lựa chọn nghề giáo, đồng thời miệt mài tạo ra nhiều sân chơi và cơ hội trưởng thành cho học sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T00:30:00+07:00",
+      "fetched": "2026-11-07T08:26:52.117836+07:00"
+    },
+    {
+      "id": "0d1f37ccf747387fa9777702871f1297",
+      "title": "Apple có thể không dùng camera dưới màn hình cho iPhone 20 Pro",
+      "link": "https://thanhnien.vn/apple-co-the-khong-dung-camera-duoi-man-hinh-cho-iphone-20-pro-185261106202912557.htm",
+      "summary": "Apple có thể tiếp tục duy trì camera đục lỗ trên iPhone 20 Pro, thay vì hướng đến màn hình hoàn toàn liền mạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T00:27:00+07:00",
+      "fetched": "2026-11-07T08:26:52.117909+07:00"
+    },
+    {
+      "id": "d9efd2404fe691a2e3da1a2ea124e25b",
+      "title": "V-League 2026 - 2027: CLB Nam Định vững ngôi đầu",
+      "link": "https://thanhnien.vn/v-league-2026-2027-clb-nam-dinh-vung-ngoi-dau-185261106221052604.htm",
+      "summary": "CLB Nam Định chỉ còn 10 người nhưng đã giành trọn 3 điểm đầy bản lĩnh 2-1 trên sân Hà Tĩnh để có chiến thắng thứ 4 liên tiếp, giữ vững ngôi đầu trong loạt đấu sớm vòng 7 V-League 2026 - 2027 diễn ra hôm qua 6.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T00:25:00+07:00",
+      "fetched": "2026-11-07T08:26:52.117984+07:00"
+    },
+    {
+      "id": "71beeb138f3006742b01df782f52f235",
+      "title": "Mourinho: 'Tôi sợ trận gặp Valencia'",
+      "link": "https://vnexpress.net/mourinho-toi-so-tran-gap-valencia-5141756.html",
+      "summary": "HLV Jose Mourinho lo Real Madrid không có đủ thời gian hồi phục cho trận gặp Valencia ở vòng 12 La Liga, do vừa đá Champions League hồi giữa tuần.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-07T00:24:07+07:00",
+      "fetched": "2026-11-07T08:26:59.990256+07:00"
+    },
+    {
+      "id": "3241d178a696df6c17ba138306efec3c",
+      "title": "Internet vệ tinh Starlink có 633 thuê bao tại Việt Nam",
+      "link": "https://vnexpress.net/internet-ve-tinh-starlink-co-633-thue-bao-tai-viet-nam-5141755.html",
+      "summary": "Dịch vụ Starlink có 633 thuê bao kích hoạt tại Việt Nam sau ba tháng hoạt động, theo thống kê của Bộ Khoa học và Công nghệ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-11-07T00:21:49+07:00",
+      "fetched": "2026-11-07T08:26:58.192079+07:00"
+    },
+    {
+      "id": "91d9b7238c62b0d53097d5c06e1a2e71",
+      "title": "3 ý nghĩa chiến lược trong chuyến thăm Nhật Bản của Tổng Bí thư, Chủ tịch nước Tô Lâm",
+      "link": "https://thanhnien.vn/3-y-nghia-chien-luoc-trong-chuyen-tham-nhat-ban-cua-tong-bi-thu-chu-tich-nuoc-to-lam-185261106232431225.htm",
+      "summary": "Thứ trưởng Bộ Ngoại giao Nguyễn Minh Vũ khẳng định chuyến thăm chính thức Nhật Bản của Tổng Bí thư, Chủ tịch nước Tô Lâm và phu nhân sẽ tạo bước chuyển căn bản trong quan hệ Đối tác chiến lược toàn diện giữa hai nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T00:20:00+07:00",
+      "fetched": "2026-11-07T08:26:52.118059+07:00"
+    },
+    {
+      "id": "7ee40857dad2ea3635c6c95bb2563a36",
+      "title": "Carrick: 'Man Utd có thể tái lập thành công thời Ferguson'",
+      "link": "https://vnexpress.net/carrick-man-utd-co-the-tai-lap-thanh-cong-thoi-ferguson-5141757.html",
+      "summary": "HLV Michael Carrick tin Man Utd có thể trở lại đỉnh cao như dưới thời Alex Ferguson, nhưng hiểu ông khó nhận được sự kiên nhẫn tương tự thầy cũ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-07T00:19:10+07:00",
+      "fetched": "2026-11-07T08:26:59.990338+07:00"
+    },
+    {
+      "id": "df1998718c7d5a8d7170594c8328f94f",
+      "title": "Loạt lãnh đạo ở Bộ Tư pháp Mỹ từ chức sau bầu cử giữa kỳ",
+      "link": "https://vnexpress.net/loat-lanh-dao-o-bo-tu-phap-my-tu-chuc-sau-bau-cu-giua-ky-5141762.html",
+      "summary": "Nhiều quan chức cấp cao ở Bộ Tư pháp Mỹ từ chức, trong đó có công tố viên đang điều tra cáo buộc âm mưu chống lại Tổng thống Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-07T00:05:53+07:00",
+      "fetched": "2026-11-07T08:26:55.442176+07:00"
+    },
+    {
+      "id": "fcb4177fbaa7bf53372b52513551705b",
+      "title": "Vì sao nhiều bạn trẻ chưa đủ năm kinh nghiệm vẫn được tuyển dụng?",
+      "link": "https://thanhnien.vn/vi-sao-nhieu-ban-tre-chua-du-nam-kinh-nghiem-van-duoc-tuyen-dung-185261106213930608.htm",
+      "summary": "Nhiều tin tuyển dụng yêu cầu ứng viên có ít nhất 2 năm kinh nghiệm, nhưng trên thực tế, không ít sinh viên mới ra trường hoặc bạn trẻ chưa đủ năm kinh nghiệm vẫn được lựa chọn. Vì sao doanh nghiệp sẵn sàng tuyển người chưa đủ thâm niên?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-07T00:00:00+07:00",
+      "fetched": "2026-11-07T08:26:52.118133+07:00"
+    },
+    {
+      "id": "4ac48f1dcd7615896615e0369933ab2e",
+      "title": "Người phụ nữ mê trồng giống cây lạ",
+      "link": "https://vnexpress.net/nguoi-phu-nu-me-trong-giong-cay-la-5132127.html",
+      "summary": "Từng mất cả tỷ đồng sau 5 năm thử trồng khoai tây tím nhưng bà Lương Thị Yến Vân vẫn không từ bỏ đam mê khám phá những giống cây lạ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-07T00:00:00+07:00",
+      "fetched": "2026-11-07T08:26:56.584831+07:00"
+    },
+    {
+      "id": "7789f1ca977a26b367617df6c743bd87",
+      "title": "Việt Nam đoạt tấm huy chương thứ hai tại Olympic trẻ: Kình ngư Hoàng Quy lập công",
+      "link": "https://thanhnien.vn/viet-nam-doat-tam-huy-chuong-thu-hai-tai-olympic-tre-kinh-ngu-hoang-quy-lap-cong-185261107065111541.htm",
+      "summary": "Đoàn thể thao Việt Nam đoạt huy chương thứ hai tại Đại hội thể thao trẻ thế giới (Olympic trẻ) 2026 diễn ra ở Senegal, lập công là kình ngư 17 tuổi Dương Văn Hoàng Quy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-06T23:54:00+07:00",
+      "fetched": "2026-11-07T08:26:52.118207+07:00"
+    },
+    {
+      "id": "03bfa6a915a26b33efd80cc832295bf3",
+      "title": "Ông Trump thay Chánh văn phòng Nhà Trắng",
+      "link": "https://vnexpress.net/ong-trump-thay-chanh-van-phong-nha-trang-5141761.html",
+      "summary": "Tổng thống Trump thông báo bổ nhiệm cố vấn Stephen Miller làm Chánh văn phòng Nhà Trắng, kế nhiệm bà Susie Wiles.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-06T23:17:18+07:00",
+      "fetched": "2026-11-07T08:26:55.442274+07:00"
+    },
+    {
+      "id": "33384f61b7f07f0ec0c8e7c3ba07daf7",
+      "title": "Lãi suất tăng, ngân hàng nào hút nhiều tiền gửi nhất?",
+      "link": "https://vnexpress.net/lai-suat-tang-ngan-hang-nao-hut-nhieu-tien-gui-nhat-5137948.html",
+      "summary": "VPBank, Sacombank vượt các ngân hàng quốc doanh về lượng tiền gửi tăng trong 9 tháng, trong khi một số nhà băng nhỏ bứt tốc nhờ ưu đãi lãi suất.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-06T23:00:00+07:00",
+      "fetched": "2026-11-07T08:26:56.584931+07:00"
+    },
+    {
+      "id": "a3df8439497398e34782f1f8724dbed4",
+      "title": "Cú sẩy chân khiến đảng Cộng hòa thảm bại trong bầu cử giữa kỳ",
+      "link": "https://vnexpress.net/cu-say-chan-khien-dang-cong-hoa-tham-bai-trong-bau-cu-giua-ky-5141022.html",
+      "summary": "Đảng Cộng hòa đã đặt Tổng thống Trump vào vị trí trung tâm trong chiến dịch tranh cử giữa kỳ, khiến họ trả giá trước làn sóng phẫn nộ từ cử tri.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-06T22:00:00+07:00",
+      "fetched": "2026-11-07T08:26:55.442357+07:00"
+    },
+    {
+      "id": "0a2b2a6beaff05e5eadce296447a71b8",
+      "title": "Địa phương dự kiến phải công bố khả năng chống chịu ngập lụt, thiên tai từ 2027",
+      "link": "https://vnexpress.net/dia-phuong-du-kien-phai-cong-bo-kha-nang-chong-chiu-ngap-lut-thien-tai-tu-2027-5141707.html",
+      "summary": "Các tỉnh, thành dự kiến phải công bố khả năng chống chịu với biến đổi khí hậu hàng năm, từ đó chọn hạng mục hạ tầng ưu tiên phân bổ vốn, theo Thông tư sắp ban hành.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-06T19:53:17+07:00",
+      "fetched": "2026-11-07T08:26:56.585017+07:00"
     },
     {
       "id": "f565305aaca8097e175ab4984bea1bd2",
