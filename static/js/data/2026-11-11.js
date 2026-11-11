@@ -1,7 +1,37 @@
 window.newsData_2026_11_11 = {
   "date": "2026-11-11",
-  "lastUpdated": "2026-11-11T02:10:38.420162+07:00",
+  "lastUpdated": "2026-11-11T07:18:47.643401+07:00",
   "articles": [
+    {
+      "id": "7a7265e642c25f3f647d6d811eaab1dd",
+      "title": "Sân Pleiku đông kỷ lục trong ngày U23 Việt Nam hạ U23 Thái Lan",
+      "link": "https://tuoitre.vn/san-pleiku-dong-ky-luc-trong-ngay-u23-viet-nam-ha-u23-thai-lan-100261111002605552.htm",
+      "summary": "Hơn 10.000 khán giả đã đến sân Pleiku để theo dõi và ủng hộ đội tuyển U23 Việt Nam gặp U23 Thái Lan trong ngày khai mạc Giải giao hữu quốc tế U23 - Gia Lai VTV Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T07:18:42.056246+07:00",
+      "fetched": "2026-11-11T07:18:42.056309+07:00"
+    },
+    {
+      "id": "9f1c5fd42b57daaaa1545f4b27bc5724",
+      "title": "Tin tức sáng 11-11: Nâng cao năng lực đội ngũ cán bộ, công chức TP.HCM, chú trọng cấp xã",
+      "link": "https://tuoitre.vn/tin-tuc-sang-11-10-nang-cao-nang-luc-doi-ngu-can-bo-cong-chuc-tphcm-chu-trong-cap-xa-100261110224510616.htm",
+      "summary": "Tin tức đáng chú ý: Hải quan yêu cầu thông quan nông sản trong ngày, kể cả ngoài giờ; Nâng cao năng lực đội ngũ cán bộ, công chức TP.HCM, chú trọng cấp xã; Lào Cai triển khai xây dựng thí điểm mô hình \"Xã xã hội chủ nghĩa\" tại Trấn Yên...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T07:18:42.056165+07:00",
+      "fetched": "2026-11-11T07:18:42.056234+07:00"
+    },
+    {
+      "id": "f30a60a61ba27b45498f42be8a555f6e",
+      "title": "Thời tiết hôm nay 11-11: Bắc Bộ giảm nhiệt mạnh, Trung Bộ mưa dồn dập",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-11-11-bac-bo-giam-nhiet-manh-trung-bo-mua-don-dap-100261110194312982.htm",
+      "summary": "Hôm nay 11-11, nhiệt độ ở Bắc Bộ tiếp tục giảm, Trung Bộ vẫn mưa to xối xả, Nam Bộ ngày nắng, chiều tối mưa dông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T07:18:42.056011+07:00",
+      "fetched": "2026-11-11T07:18:42.056150+07:00"
+    },
     {
       "id": "840c5de862d050c2b384c90207392dcd",
       "title": "Tỉnh có lễ hội Việt Nam lớn nhất Nhật Bản lập văn phòng xúc tiến thương mại tại Hà Nội",
@@ -151,6 +181,196 @@ window.newsData_2026_11_11 = {
       "category": "Tổng hợp",
       "published": "2026-11-11T02:10:30.049470+07:00",
       "fetched": "2026-11-11T02:10:30.049632+07:00"
+    },
+    {
+      "id": "5fc58a8fc53e9a9a2230accda2170aa6",
+      "title": "Từ tin báo 'không dập được lửa', lộ đường dây sản xuất 1,2 triệu bình chữa cháy giả",
+      "link": "https://thanhnien.vn/tu-tin-bao-khong-dap-duoc-lua-lo-duong-day-san-xuat-12-trieu-binh-chua-chay-gia-185261110224010943.htm",
+      "summary": "Từ tin báo của người dân mua bình chữa cháy nhưng không dập được lửa, công an triệt phá đường dây đưa hối lộ để sản xuất 1,2 triệu bình chữa cháy giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T00:18:00+07:00",
+      "fetched": "2026-11-11T07:18:40.340588+07:00"
+    },
+    {
+      "id": "27a36cf4b9b8111be3a4915e52878db6",
+      "title": "Bộ trưởng Chiến tranh Mỹ tạm thời thoát nguy cơ bị luận tội",
+      "link": "https://thanhnien.vn/bo-truong-chien-tranh-my-tam-thoi-thoat-nguy-co-bi-luan-toi-185261111062252807.htm",
+      "summary": "Các nghị sĩ đảng Cộng hòa tại Hạ viện Mỹ đã chặn nghị quyết do hạ nghị sĩ Thomas Massie của đảng này khởi xướng nhằm mở đường cho cuộc bỏ phiếu luận tội Bộ trưởng Chiến tranh Pete Hegseth.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T00:14:00+07:00",
+      "fetched": "2026-11-11T07:18:40.340756+07:00"
+    },
+    {
+      "id": "8d5559b325224070eeacfb041ad8098f",
+      "title": "Người mẫu Việt cao 1,84 m gây chú ý khi trình diễn thời trang ở Nhật",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nguoi-mau-viet-cao-184-m-gay-chu-y-khi-trinh-dien-thoi-trang-o-nhat-185261110202309353.htm",
+      "summary": "Lại Mai Hoa bày tỏ niềm tự hào khi tham gia trình diễn cho bộ sưu tập của nhà thiết kế Vũ Việt Hà trong một chương trình giao lưu thời trang tại Nhật Bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T00:13:00+07:00",
+      "fetched": "2026-11-11T07:18:40.340963+07:00"
+    },
+    {
+      "id": "07d8ca76ba5bc3b5c6f56bf7ef56fc62",
+      "title": "Tính năng nên bật giúp điện thoại Samsung Galaxy an toàn hơn",
+      "link": "https://thanhnien.vn/tinh-nang-nen-bat-giup-dien-thoai-samsung-galaxy-an-toan-hon-185261110201419942.htm",
+      "summary": "Trên các dòng máy Samsung Galaxy có một tính năng bảo mật giúp vô hiệu hóa nguy cơ bị đánh cắp dữ liệu và lây nhiễm mã độc khi kết nối vào các cổng sạc công cộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-10T23:55:00+07:00",
+      "fetched": "2026-11-11T07:18:40.341142+07:00"
+    },
+    {
+      "id": "441a3fc0362542a20704225dd3e7f004",
+      "title": "Merson: 'Man Utd không thể xây nhà trên vũng nước'",
+      "link": "https://vnexpress.net/merson-man-utd-khong-the-xay-nha-tren-vung-nuoc-5140787.html",
+      "summary": "Cựu tiền vệ Paul Merson cho rằng chính sách chuyển nhượng thiếu cân đối, thay vì Michael Carrick, là nguyên nhân khiến Man Utd khởi đầu tệ hại tại Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-10T23:41:04+07:00",
+      "fetched": "2026-11-11T07:18:47.638167+07:00"
+    },
+    {
+      "id": "c7b3cd4a867522c2cca53d9de36afbb2",
+      "title": "Xác định đối thủ chung bảng Lê Quang Liêm tại giải cờ vua toàn năng thế giới",
+      "link": "https://thanhnien.vn/xac-dinh-doi-thu-chung-bang-le-quang-liem-tai-giai-co-vua-toan-nang-the-gioi-185261111062041882.htm",
+      "summary": "Kỳ thủ số 1 Việt Nam Lê Quang Liêm bắt đầu chinh phục giải cờ vua toàn năng thế giới (Total Chess World Championship) 2026 tại Hungary.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-10T23:30:00+07:00",
+      "fetched": "2026-11-11T07:18:40.341296+07:00"
+    },
+    {
+      "id": "8e03744e9df0822192009def7616cbfd",
+      "title": "Nam diễn viên tiết lộ chuyện 'bầm dập' khi quay cảnh ẩu đả với Phương Anh Đào",
+      "link": "https://thanhnien.vn/nam-dien-vien-tiet-lo-chuyen-bam-dap-khi-quay-canh-au-da-voi-phuong-anh-dao-185261111050332207.htm",
+      "summary": "Trở lại màn ảnh rộng trong 'Ngày con còn mẹ', Trần Huy Anh có nhiều kỷ niệm khó quên trong quá trình quay phim, đặc biệt là phân đoạn ẩu đả với Phương Anh Đào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-10T23:16:00+07:00",
+      "fetched": "2026-11-11T07:18:40.341447+07:00"
+    },
+    {
+      "id": "f586f31f1ca1dec18c119e77cc92d200",
+      "title": "Nhà chờ xe buýt ở TP.HCM thay đổi bất ngờ, người dân hết lời khen ngợi vì điều này",
+      "link": "https://thanhnien.vn/nha-cho-xe-buyt-o-tphcm-thay-doi-bat-ngo-nguoi-dan-het-loi-khen-ngoi-vi-dieu-nay-185261105204724853.htm",
+      "summary": "Từ những điểm chờ đơn sơ, thiếu mái che, nhiều nhà chờ xe buýt tại TP.HCM đang được nâng cấp khang trang với ghế ngồi, màn hình thông tin, cổng sạc điện thoại miễn phí. Những tiện ích mới khiến người dân bất ngờ, thích thú và dành nhiều lời khen.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-10T23:15:00+07:00",
+      "fetched": "2026-11-11T07:18:40.341636+07:00"
+    },
+    {
+      "id": "0fdf9c8db5f3c65fc967f8b260b59b02",
+      "title": "Cuộc sống 'bóng ma' của Alice Huang",
+      "link": "https://vnexpress.net/cuoc-song-bong-ma-cua-alice-huang-5143156.html",
+      "summary": "Là lãnh đạo Megaspeed, công ty có kế hoạch chi 2 tỷ USD mua chip Nvidia, và làm rung chuyển ngành AI với mối quan hệ với Jensen Huang, nhưng thông tin cơ bản về thân thế Alice Huang lại mù mờ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-11-10T23:12:27+07:00",
+      "fetched": "2026-11-11T07:18:46.743082+07:00"
+    },
+    {
+      "id": "f3efedd070a34072429aa1be759d352b",
+      "title": "MC Nguyên Khang lần đầu trải lòng về cú sốc cháy nhà hàng",
+      "link": "https://thanhnien.vn/mc-nguyen-khang-lan-dau-trai-long-ve-cu-soc-chay-nha-hang-185261110214953548.htm",
+      "summary": "Từng đối mặt với biến cố nhà hàng hải sản ở Phú Quốc bị hỏa hoạn, Nguyên Khang thừa nhận đây là một trong những cú sốc lớn trên hành trình kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-10T23:11:00+07:00",
+      "fetched": "2026-11-11T07:18:40.341798+07:00"
+    },
+    {
+      "id": "c28d9f3c64c19374d9e279826a292ee7",
+      "title": "Phim truyền hình Việt trẻ hóa",
+      "link": "https://thanhnien.vn/phim-truyen-hinh-viet-tre-hoa-185261110215129888.htm",
+      "summary": "Nhiều diễn viên gen Z, thậm chí chưa qua đào tạo chuyên nghiệp hoặc lần đầu đóng phim, được giao ngay vai chính trên màn ảnh nhỏ. Làn gió mới này cũng đặt ra thách thức về năng lực diễn xuất và khả năng tạo dấu ấn lâu dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-10T23:06:00+07:00",
+      "fetched": "2026-11-11T07:18:40.342001+07:00"
+    },
+    {
+      "id": "e43ed0c8432624035c825e42b6db199f",
+      "title": "Long bào được 'sửa chữa' của vua Lê Dụ Tông",
+      "link": "https://thanhnien.vn/long-bao-duoc-sua-chua-cua-vua-le-du-tong-185261110212807658.htm",
+      "summary": "Hình rồng trên long bào vua Lê Dụ Tông từng được chỉnh sửa, dấu mực phác thảo vẫn còn lưu lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-10T23:05:00+07:00",
+      "fetched": "2026-11-11T07:18:40.342166+07:00"
+    },
+    {
+      "id": "f526cd9492f2842f12d381277ed0859a",
+      "title": "Chính trường Mỹ biến động mạnh",
+      "link": "https://thanhnien.vn/chinh-truong-my-bien-dong-manh-18526111021134681.htm",
+      "summary": "Chính trường Mỹ tiếp tục biến động mạnh sau bầu cử giữa kỳ, với nỗ lực luận tội Bộ trưởng Chiến tranh Pete Hegseth và cuộc đua tranh giành ghế lãnh đạo tại quốc hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-10T23:05:00+07:00",
+      "fetched": "2026-11-11T07:18:40.342314+07:00"
+    },
+    {
+      "id": "555f675c4533010cdbc6a08c15845ff0",
+      "title": "EV71 gây tay chân miệng nguy hiểm: Nhận biết sớm dấu hiệu chuyển nặng ở trẻ",
+      "link": "https://thanhnien.vn/ev71-gay-tay-chan-mieng-nguy-hiem-nhan-biet-som-dau-hieu-chuyen-nang-o-tre-185261110183013229.htm",
+      "summary": "Theo Trung tâm Kiểm soát bệnh tật TP.HCM (HCDC), trong tuần 44 năm 2026 (từ ngày 26.10 đến ngày 1.11), Thành phố ghi nhận 1.712 ca mắc bệnh tay chân miệng, nâng tổng số ca tích lũy từ đầu năm lên 45.911 ca.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-10T23:04:00+07:00",
+      "fetched": "2026-11-11T07:18:40.342464+07:00"
+    },
+    {
+      "id": "5c9da95f2c22484c6405716aa48acad4",
+      "title": "Mở visa để du lịch rộng cửa bứt phá",
+      "link": "https://thanhnien.vn/mo-visa-de-du-lich-rong-cua-but-pha-185261110224529037.htm",
+      "summary": "Bộ VH-TT-DL vừa báo cáo Quốc hội đề xuất ban hành Nghị quyết về một số cơ chế, chính sách đặc thù phát triển du lịch. Trong đó, nội dung được các doanh nghiệp và chuyên gia ngành du lịch xác định là điểm tựa chiến lược chính là dư địa từ chính sách thị thực (visa).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-10T23:00:00+07:00",
+      "fetched": "2026-11-11T07:18:40.342628+07:00"
+    },
+    {
+      "id": "b35668a8ca68edbef0022d93038281ec",
+      "title": "Thời tiết dị thường trên cả nước",
+      "link": "https://thanhnien.vn/thoi-tiet-di-thuong-tren-ca-nuoc-185261110202119538.htm",
+      "summary": "Bắc bộ rét, miền Trung mưa lạnh còn Nam bộ lại nắng nóng, thời tiết cả nước đang phân hóa mạnh do tác động của El Nino cùng biến đổi khí hậu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-10T23:00:00+07:00",
+      "fetched": "2026-11-11T07:18:40.342773+07:00"
+    },
+    {
+      "id": "59a298ab5d852391c50a87833e61581c",
+      "title": "Giảm hơn 1.500 tỉ đồng tiền điện mỗi tháng",
+      "link": "https://thanhnien.vn/giam-hon-1500-ti-dong-tien-dien-moi-thang-18526111019531273.htm",
+      "summary": "Việc điều chỉnh giá bán lẻ điện bình quân giảm 2%, đồng thời áp dụng cơ cấu biểu giá điện sinh hoạt 5 bậc và bổ sung giá điện cho một số nhóm khách hàng dự kiến giúp người dân, doanh nghiệp giảm hơn 1.531 tỉ đồng chi phí mỗi tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-10T23:00:00+07:00",
+      "fetched": "2026-11-11T07:18:40.342952+07:00"
+    },
+    {
+      "id": "0463654c7ad6adff4805736a1ba60943",
+      "title": "Người phụ nữ đầu tiên chạy 160 km ở Nam Cực",
+      "link": "https://vnexpress.net/nguoi-phu-nu-dau-tien-chay-160-km-o-nam-cuc-5142970.html",
+      "summary": "Stephanie Case vượt qua gió mạnh và cái lạnh tới âm 35 độ C để trở thành người phụ nữ đầu tiên chạy 100 dặm (160,93 km) ở Nam Cực, với thành tích nhanh hơn kỷ lục cũ hơn 5 giờ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-10T22:51:14+07:00",
+      "fetched": "2026-11-11T07:18:47.638500+07:00"
+    },
+    {
+      "id": "53afd22fe12dc158691892c30138178a",
+      "title": "Bê bối của Jensen Huang thử thách đà hòa hoãn Mỹ - Trung",
+      "link": "https://vnexpress.net/be-boi-cua-jensen-huang-thu-thach-da-hoa-hoan-my-trung-5142705.html",
+      "summary": "Bê bối liên quan CEO Nvidia khơi lại tranh cãi về xuất khẩu chip sang Trung Quốc, gia tăng áp lực lên nỗ lực giữ đà hòa hoãn của chính quyền Tổng thống Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-10T22:00:00+07:00",
+      "fetched": "2026-11-11T07:18:43.223864+07:00"
     },
     {
       "id": "59d8fd61601b077d395059181de75252",
