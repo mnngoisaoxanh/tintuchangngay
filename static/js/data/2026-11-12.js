@@ -1,7 +1,37 @@
 window.newsData_2026_11_12 = {
   "date": "2026-11-12",
-  "lastUpdated": "2026-11-12T00:33:21.683207+07:00",
+  "lastUpdated": "2026-11-12T06:51:17.469424+07:00",
   "articles": [
+    {
+      "id": "3ded09089597a72ee2375df5aaa48296",
+      "title": "Chủ tịch Hội đồng Liên bang Nga đến Hà Nội, bắt đầu thăm chính thức Việt Nam",
+      "link": "https://tuoitre.vn/chu-tich-hoi-dong-lien-bang-nga-den-ha-noi-bat-dau-tham-chinh-thuc-viet-nam-100261111233119965.htm",
+      "summary": "Đây là chuyến thăm chính thức Việt Nam lần thứ ba của Chủ tịch Hội đồng Liên bang Nga Valentina Matviyenko, sau các chuyến thăm năm 2012 và 2017.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-12T06:51:11.006578+07:00",
+      "fetched": "2026-11-12T06:51:11.006692+07:00"
+    },
+    {
+      "id": "f31b1e03463a46b3095edee7bb51ca7c",
+      "title": "Phục hồi nhẹ buổi chiều, giá vàng thế giới bất ngờ giảm về 4.000 USD/ounce",
+      "link": "https://tuoitre.vn/phuc-hoi-nhe-buoi-chieu-gia-vang-the-gioi-bat-ngo-giam-ve-4000-usd-ounce-100261112001222849.htm",
+      "summary": "Sau khi hồi phục nhẹ vào buổi chiều, tối 11-11, giá vàng thế giới bất ngờ quay đầu giảm 33,8 USD/ounce, về 4.000 USD/ounce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-12T06:51:11.006227+07:00",
+      "fetched": "2026-11-12T06:51:11.006556+07:00"
+    },
+    {
+      "id": "1b88bb1d90c408b023186ac8dc101c22",
+      "title": "Phong tỏa hiện trường, tạm giữ nghi phạm sát hại cô gái rồi chôn ở bãi đất trống",
+      "link": "https://tuoitre.vn/phong-toa-hien-truong-tam-giu-nghi-pham-sat-hai-co-gai-roi-chon-o-bai-dat-trong-100261112004141822.htm",
+      "summary": "Ngày 12-11, Cơ quan Cảnh sát điều tra Công an TP.HCM phối hợp Công an xã Tân Vĩnh Lộc đang tạm giữ Chúc Kim Hương (34 tuổi, ngụ TP Đà Nẵng) để điều tra hành vi sát hại cô gái 24 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-12T06:51:11.006075+07:00",
+      "fetched": "2026-11-12T06:51:11.006212+07:00"
+    },
     {
       "id": "3382fa9ef2742ebe1e7367fd430624c6",
       "title": "Bắt 4 phụ nữ cam kết chạy ‘bảo đảm đỗ 100% viên chức giáo dục'",
@@ -153,6 +183,246 @@ window.newsData_2026_11_12 = {
       "fetched": "2026-11-12T00:33:17.427579+07:00"
     },
     {
+      "id": "1cb9869864dc9c1431870843e4ec04af",
+      "title": "3 biểu hiện tiểu tiện là dấu hiệu thận đang bị tổn thương",
+      "link": "https://thanhnien.vn/3-bieu-hien-tieu-tien-la-dau-hieu-than-dang-bi-ton-thuong-185261111181228034.htm",
+      "summary": "Khi thận bị tổn thương, khả năng lọc máu và điều hòa nước trong cơ thể của thận sẽ giảm. Hệ quả là nước tiểu xuất hiện những thay đổi bất thường về màu sắc, lượng hoặc tần suất đi tiểu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T23:39:00+07:00",
+      "fetched": "2026-11-12T06:51:09.304384+07:00"
+    },
+    {
+      "id": "d47eca0063c7900d0196b3a9da4c882b",
+      "title": "'Bàn tay vàng' Mohamad Fantany và những việc tử tế giữa vườn cao su Long Thành",
+      "link": "https://thanhnien.vn/ban-tay-vang-mohamad-fantany-va-nhung-viec-tu-te-giua-vuon-cao-su-185261024185846378.htm",
+      "summary": "Gần 30 năm gắn bó với cao su Đồng Nai, anh Mohamad Fantany tận tình truyền nghề, giúp công nhân mới ổn định cuộc sống và cùng đồng nghiệp tiết kiệm vật tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T23:35:00+07:00",
+      "fetched": "2026-11-12T06:51:09.304558+07:00"
+    },
+    {
+      "id": "0bb3d1e9aa38be79d55afe4204fbe730",
+      "title": "Tàu cá 600 triệu đồng bị sóng đánh vỡ, ngư dân Khánh Hòa gánh nợ",
+      "link": "https://thanhnien.vn/tau-ca-600-trieu-dong-bi-song-danh-vo-ngu-dan-khanh-hoa-ganh-no-18526111119071965.htm",
+      "summary": "Tàu cá mua bằng tiền vay 600 triệu đồng của vợ chồng ngư dân Khánh Hòa bị sóng đánh vỡ trên bãi đá Hòn Khai. Mất phương tiện mưu sinh, gia đình vẫn còn nợ hơn 200 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T23:15:00+07:00",
+      "fetched": "2026-11-12T06:51:09.304723+07:00"
+    },
+    {
+      "id": "9d9d6c7c4713ec520aa4128fd45933f0",
+      "title": "Tiệm bánh su bán 4.000 chiếc/ngày bất ngờ đóng cửa: Con trai trở về làm điều táo bạo sau 2 năm",
+      "link": "https://thanhnien.vn/tiem-banh-su-ban-4000-chiec-ngay-bat-ngo-dong-cua-con-trai-tro-ve-lam-dieu-tao-bao-sau-2-nam-185261103184135715.htm",
+      "summary": "Tiệm bánh su Ngọc Dung từng bán 3.500 - 4.000 chiếc/ngày rồi phải đóng cửa vì mất mặt bằng. Sau hai năm gián đoạn, anh Nguyễn Huy Bình gác lại công việc riêng, cùng mẹ gây dựng lại tiệm với tên gọi mới: Cải Chua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T23:14:00+07:00",
+      "fetched": "2026-11-12T06:51:09.304888+07:00"
+    },
+    {
+      "id": "e7472119bba237c00fee62ca262d4906",
+      "title": "71 thỏa thuận đã ký trong chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm đến Nhật Bản",
+      "link": "https://thanhnien.vn/71-thoa-thuan-da-ky-trong-chuyen-tham-cua-tong-bi-thu-chu-tich-nuoc-to-lam-den-nhat-ban-185261111223409648.htm",
+      "summary": "Bộ trưởng Bộ Ngoại giao Lê Hoài Trung cho biết, trong khuôn khổ chuyến thăm Nhật Bản của Tổng Bí thư, Chủ tịch nước Tô Lâm, hai bên cũng đã ký kết 11 thỏa thuận giữa các bộ, ngành, địa phương và khoảng 60 thỏa thuận hợp tác giữa các doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T23:07:00+07:00",
+      "fetched": "2026-11-12T06:51:09.305105+07:00"
+    },
+    {
+      "id": "84e313b9f9b0e8d6414d2804543e3209",
+      "title": "Chợ mạng tăng mạnh từ nhà ra thế giới",
+      "link": "https://thanhnien.vn/cho-mang-tang-manh-tu-nha-ra-the-gioi-185261111214903651.htm",
+      "summary": "Quy mô nền kinh tế số được dự báo đạt gần 50 tỉ USD trong năm nay, tăng 20% so với năm ngoái. Con số trên cho thấy thương mại điện tử vẫn đang tăng trưởng mạnh mẽ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T23:02:00+07:00",
+      "fetched": "2026-11-12T06:51:09.305268+07:00"
+    },
+    {
+      "id": "fd01099d5bb3125b8b7a7da5dd0b8661",
+      "title": "Sống dưới mảng tường bong tróc, nỗi niềm cư dân chung cư Vĩnh Hội trước ngày di dời",
+      "link": "https://thanhnien.vn/song-duoi-mang-tuong-bong-troc-noi-niem-cu-dan-chung-cu-vinh-hoi-truoc-ngay-di-doi-185261111162846052.htm",
+      "summary": "Được kiểm định cấp D từ năm 2017, chung cư Vĩnh Hội (TP.HCM) vẫn còn 141 hộ dân chưa di dời. Trong khi thành phố dự kiến bố trí 232 căn hộ tạm cư, những băn khoăn về tiền bạc, chính sách hỗ trợ và sinh kế vẫn là điều khiến nhiều cư dân chưa thể an tâm rời nơi ở đã gắn bó hàng chục năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T23:02:00+07:00",
+      "fetched": "2026-11-12T06:51:09.305426+07:00"
+    },
+    {
+      "id": "4c74e1392bf584c74ceffc3a79f45129",
+      "title": "Đề xuất tăng mức bồi thường nhà đất giấy tay",
+      "link": "https://thanhnien.vn/de-xuat-tang-muc-boi-thuong-nha-dat-giay-tay-185261111212711363.htm",
+      "summary": "Cả nước nói chung và TP.HCM đã và đang tồn tại một lượng khổng lồ nhà đất giao dịch qua giấy tay, phân lô bán nền tự phát hoặc chưa kịp hoàn thiện thủ tục cấp giấy chứng nhận (sổ đỏ/sổ hồng). Các trường hợp này trước đây khi thu hồi đất thường thiệt đơn thiệt kép. Tuy nhiên, trong dự thảo Nghị quyết...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T23:00:00+07:00",
+      "fetched": "2026-11-12T06:51:09.305583+07:00"
+    },
+    {
+      "id": "84c9653f7eecef776fc75caca5ea0dd3",
+      "title": "Ngôi mộ nhà giàu từ 2.000 năm trước tại Quảng Ninh",
+      "link": "https://thanhnien.vn/ngoi-mo-nha-giau-tu-2000-nam-truoc-tai-quang-ninh-185261111203654897.htm",
+      "summary": "Ngôi mộ Chạp Khê mới tìm thấy ngay lập tức đã thành \"sao\" trên bản đồ mộ gạch đã điều tra khai quật tại lưu vực sông Bạch Đằng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T23:00:00+07:00",
+      "fetched": "2026-11-12T06:51:09.305741+07:00"
+    },
+    {
+      "id": "3f21e6758a3fb2baaf9f2698cbc39ec6",
+      "title": "Công ty Thần đèn Tư Lũy sẽ di dời cổng Parabol Đại học Bách khoa Hà Nội ra sao?",
+      "link": "https://thanhnien.vn/cong-ty-than-den-tu-luy-se-di-doi-cong-parabol-dai-hoc-bach-khoa-ha-noi-ra-sao-185261111185256594.htm",
+      "summary": "Đại học Bách khoa Hà Nội, Tập đoàn Vingroup và Công ty Thần đèn Tư Lũy đã họp bàn phương án kỹ thuật độc lập để di dời nguyên trạng cổng Parabol sang vị trí mới. Dự kiến đầu tháng 12 mới hoàn công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T23:00:00+07:00",
+      "fetched": "2026-11-12T06:51:09.305893+07:00"
+    },
+    {
+      "id": "4e0b451e0fb1d5e661b250c613adf5b7",
+      "title": "Khi những clip chửi bới trên mạng dần trở thành chuyện bình thường",
+      "link": "https://thanhnien.vn/khi-nhung-clip-chui-boi-tren-mang-dan-tro-thanh-chuyen-binh-thuong-185261109120422627.htm",
+      "summary": "Những clip chửi bới, hành xử hung hăng xuất hiện liên tục trên mạng có thể khiến người trẻ dần xem đó là bình thường. Chuyên gia tâm lý phân tích nguy cơ này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T23:00:00+07:00",
+      "fetched": "2026-11-12T06:51:09.306090+07:00"
+    },
+    {
+      "id": "141b3def4bb0135561a9703fdd9c22a6",
+      "title": "Ngân hàng tìm cách ngăn trợ lý AI can thiệp tài khoản",
+      "link": "https://vnexpress.net/ngan-hang-tim-cach-ngan-tro-ly-ai-can-thiep-tai-khoan-5143403.html",
+      "summary": "Các ngân hàng lớn ở Anh, Mỹ bắt đầu chặn hoặc siết quyền truy cập tài khoản khách hàng của các trợ lý AI do lo ngại chúng vượt kiểm soát.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-11T23:00:00+07:00",
+      "fetched": "2026-11-12T06:51:14.217189+07:00"
+    },
+    {
+      "id": "02ca9b5e864ac81e46639bdf21ecfda9",
+      "title": "Thí nghiệm dò hạt ma lớn nhất thế giới",
+      "link": "https://vnexpress.net/thi-nghiem-do-hat-ma-lon-nhat-the-gioi-5143528.html",
+      "summary": "Thí nghiệm Neutrino sâu dưới lòng đất (DUNE) là một kỳ tích về kỹ thuật xây dựng, thúc đẩy công cuộc săn tìm hạt ma - chìa khóa mở ra cánh cửa hiểu biết về vật chất và vũ trụ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-11-11T23:00:00+07:00",
+      "fetched": "2026-11-12T06:51:16.392627+07:00"
+    },
+    {
+      "id": "c67f37c4e05753b3d712211cfa386552",
+      "title": "Để việc bổ nhiệm GS, PGS cải cách thực chất",
+      "link": "https://thanhnien.vn/de-viec-bo-nhiem-gs-pgs-cai-cach-thuc-chat-185261111204630993.htm",
+      "summary": "Dự thảo thông tư về bổ nhiệm, miễn nhiệm chức danh giáo sư, phó giáo sư vừa được Bộ GD-ĐT công bố đánh dấu bước chuyển lớn nhằm tiệm cận thông lệ quốc tế và phù hợp tình hình mới, đang nhận được sự quan tâm của đông đảo nhà khoa học. Nhưng để cải cách thực chất, vẫn cần lắng nghe cả những tâm tư thầ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T22:50:00+07:00",
+      "fetched": "2026-11-12T06:51:09.306250+07:00"
+    },
+    {
+      "id": "a0535a77572e2dead983f8d0e5feba3f",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 12.11.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-12112026-185261111223136195.htm",
+      "summary": "Tin tức Đề xuất tăng mức bồi thường nhà đất giấy tay; Phiên bản mới đáng mong đợi của đội tuyển VN; Tín hiệu tích cực trong đàm phán 3 bên về Ukraine... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 12.11.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T22:47:00+07:00",
+      "fetched": "2026-11-12T06:51:09.306407+07:00"
+    },
+    {
+      "id": "07de45fae91fb444741f1844f5bdf9a6",
+      "title": "Kẻ trộm không biết giá trị của HC vàng Olympic",
+      "link": "https://vnexpress.net/ke-trom-khong-biet-gia-tri-cua-hc-vang-olympic-5143588.html",
+      "summary": "Hai nghi phạm lấy 8 huy chương của cựu tuyển thủ khúc côn cầu Maneyapanda Muthanna Somaya, trong đó có HC vàng Olympic 1980, nhưng không biết ý nghĩa lịch sử của chúng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-11T22:46:46+07:00",
+      "fetched": "2026-11-12T06:51:17.464217+07:00"
+    },
+    {
+      "id": "2e30819a282ca20f1caad91a1b01a378",
+      "title": "Bộ GD-ĐT: Thi khối chuyên không đồng nghĩa phải học chuyên sâu nhiều môn",
+      "link": "https://thanhnien.vn/bo-gd-dt-thi-khoi-chuyen-khong-dong-nghia-phai-hoc-chuyen-sau-nhieu-mon-185261111223926315.htm",
+      "summary": "Trước những băn khoăn về việc Bộ GD-ĐT dự kiến tuyển sinh trường chuyên theo khối thay vì theo môn như hiện nay, ông Thái Văn Tài, Vụ trưởng Vụ Giáo dục phổ thông (Bộ GD-ĐT), đã có giải thích về mục tiêu và lộ trình của đề xuất này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T22:45:00+07:00",
+      "fetched": "2026-11-12T06:51:09.306560+07:00"
+    },
+    {
+      "id": "e0ea6c103edf78773957ee6b29ca42f4",
+      "title": "Em bé co giật giữa đường, tài xế xe công nghệ 'chạy đua' 12 phút đến bệnh viện",
+      "link": "https://thanhnien.vn/em-be-co-giat-giua-duong-tai-xe-xe-cong-nghe-chay-dua-12-phut-den-benh-vien-185261111190823924.htm",
+      "summary": "Một em bé bất ngờ co giật giữa đường ở TP.HCM, tài xế xe công nghệ lập tức đưa đến bệnh viện. Một tài xế khác chạy trước xin đường, giúp hai mẹ con kịp cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-11T22:45:00+07:00",
+      "fetched": "2026-11-12T06:51:09.306715+07:00"
+    },
+    {
+      "id": "08ac5c74ce22fb8f8318809bbfd778f6",
+      "title": "Nhà vô địch Olympic đổi đội tuyển sau tranh chấp 35.000 USD tiền thưởng",
+      "link": "https://vnexpress.net/nha-vo-dich-olympic-doi-doi-tuyen-sau-tranh-chap-35-000-usd-tien-thuong-5143600.html",
+      "summary": "Tatjana Smith, từng giành 4 huy chương Olympic cho Nam Phi, bật khóc khi thông báo chuyển sang khoác áo Hà Lan sau những khó khăn tài chính và tranh chấp tiền thưởng với liên đoàn bơi quê nhà.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-11T22:41:22+07:00",
+      "fetched": "2026-11-12T06:51:17.464386+07:00"
+    },
+    {
+      "id": "9a79c9b973708c682d07230d19e0df77",
+      "title": "Các hãng điện thoại tái sử dụng RAM trên smartphone cũ",
+      "link": "https://vnexpress.net/cac-hang-dien-thoai-tai-su-dung-ram-tren-smartphone-cu-5143116.html",
+      "summary": "Một số nhà sản xuất smartphone phải tách RAM từ thiết bị cũ để sử dụng trên sản phẩm mới nhằm duy trì mức giá rẻ cho dòng phổ thông.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-11-11T22:35:04+07:00",
+      "fetched": "2026-11-12T06:51:16.392806+07:00"
+    },
+    {
+      "id": "54bc40872117ddff3f8708b81b34023b",
+      "title": "Biệt đội 'Cổng Sắt' của Mỹ tìm cách bóp nghẹt Iran",
+      "link": "https://vnexpress.net/biet-doi-cong-sat-cua-my-tim-cach-bop-nghet-iran-5142969.html",
+      "summary": "Quân đội Mỹ lập biệt đội Cổng Sắt nhằm phong tỏa hoàn toàn Iran, nhưng mục tiêu này được cho là khó thành vì những rào cản chính trị và thực địa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-11T22:00:00+07:00",
+      "fetched": "2026-11-12T06:51:12.549115+07:00"
+    },
+    {
+      "id": "73aea7aed20accefe47ecac242d222b8",
+      "title": "Cuộc đua giành ghế điều hành Ngân hàng trung ương châu Âu",
+      "link": "https://vnexpress.net/cuoc-dua-gianh-ghe-dieu-hanh-ngan-hang-trung-uong-chau-au-5143522.html",
+      "summary": "Pháp, Đức, Hà Lan và Tây Ban Nha đang chạy đua giành 3 ghế trong Ban điều hành Ngân hàng trung ương châu Âu, gồm vị trí chủ tịch.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-11T22:00:00+07:00",
+      "fetched": "2026-11-12T06:51:14.217369+07:00"
+    },
+    {
+      "id": "18806d14b5c7a29c118ab63ca5a654f7",
+      "title": "Kiện ra tòa vì con bị điểm kém",
+      "link": "https://vnexpress.net/kien-ra-toa-vi-con-bi-diem-kem-5142884.html",
+      "summary": "Weiwei Luo đệ đơn kiện vì học khu từ chối sửa phần nhận xét \"cần cải thiện kỹ năng hợp tác với các bạn\" trong bảng điểm của con trai.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-11T19:00:00+07:00",
+      "fetched": "2026-11-12T06:51:12.549295+07:00"
+    },
+    {
+      "id": "55d003b433c01420546e60351dec52c3",
+      "title": "Những bài toán công nghệ cho tăng trưởng hai con số",
+      "link": "https://vnexpress.net/nhung-bai-toan-cong-nghe-cho-tang-truong-hai-con-so-5143602.html",
+      "summary": "Bộ Khoa học và Công nghệ đang tham gia giải các bài toán về năng suất công nghiệp, kinh tế số, năng lượng và làm chủ công nghệ lõi, nhằm tạo động lực tăng trưởng mới cho nền kinh tế.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-11-11T19:00:00+07:00",
+      "fetched": "2026-11-12T06:51:16.393008+07:00"
+    },
+    {
       "id": "cc09d9ca6a7f79ce247d5e7b47686f75",
       "title": "4 dấu hiệu gợi ý suy giảm thính lực nhiều người dễ bỏ qua",
       "link": "https://thanhnien.vn/4-dau-hieu-goi-y-suy-giam-thinh-luc-nhieu-nguoi-de-bo-qua-185261103172102397.htm",
@@ -231,6 +501,26 @@ window.newsData_2026_11_12 = {
       "category": "Thể thao",
       "published": "2026-11-11T17:00:00+07:00",
       "fetched": "2026-11-12T00:33:21.680441+07:00"
+    },
+    {
+      "id": "f7863fec587984f4a82fc925380ba399",
+      "title": "Thứ trưởng 'ký gì cũng được' sẵn sàng bảo vệ ông Trump trên mặt trận pháp lý",
+      "link": "https://vnexpress.net/thu-truong-ky-gi-cung-duoc-san-sang-bao-ve-ong-trump-tren-mat-tran-phap-ly-5143185.html",
+      "summary": "Mỗi khi chính sách then chốt của chính quyền Trump đứng trước nguy cơ đổ vỡ hay bị thẩm phán dồn ép, Thứ trưởng Tư pháp Woodward lập tức xông vào cuộc chiến.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-11T17:00:00+07:00",
+      "fetched": "2026-11-12T06:51:12.549461+07:00"
+    },
+    {
+      "id": "f4f6728ea460258d19d79173130ef643",
+      "title": "Chuyến thăm Nhật Bản của Tổng Bí thư, Chủ tịch nước góp phần nâng tầm quan hệ hai nước",
+      "link": "https://vnexpress.net/chuyen-tham-nhat-ban-cua-tong-bi-thu-chu-tich-nuoc-gop-phan-nang-tam-quan-he-hai-nuoc-5143592.html",
+      "summary": "Bộ trưởng Ngoại giao cho biết chuyến thăm Nhật Bản của Tổng Bí thư, Chủ tịch nước góp phần nâng tầm quan hệ hai nước, củng cố hợp tác trong nhiều lĩnh vực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-11T16:59:26+07:00",
+      "fetched": "2026-11-12T06:51:12.549624+07:00"
     },
     {
       "id": "e09205926813a9e81036aa92278c07b7",
